@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import { useChat } from "@ai-sdk/react";
 
 const questions = [
@@ -10,7 +11,27 @@ const questions = [
   "Provide a timeline of major events here",
 ];
 
-function Chat() {
+interface Site {
+  id: number;
+  name: string;
+  address: string;
+  img: string;
+  lat: number;
+  lng: number;
+}
+
+const SITES: Site[] = [
+  {
+    id: 43360032,
+    name: "Intersil/Siemens",
+    address: "10910 N Tantau Ave, Cupertino, CA 95014",
+    img: "/plainsite/CAD041472341.jpg",
+    lat: 37.33097,
+    lng: -122.008249,
+  },
+];
+
+function Chat({ site }: { site: Site }) {
   const { messages, input, handleInputChange, handleSubmit, append } = useChat({
     api: "/api/chat",
   });
@@ -27,9 +48,9 @@ function Chat() {
     <div className="main-card backdrop-blur-lg backdrop-saturate-150 flex flex-col w-full max-w-xl p-6 mx-auto stretch font-mono overflow-y-auto max-h-[80vh]">
       <header>
         <h1 className="font-bold font-sans text-3xl">
-          Intersil Superfund Site
+          {site.name} Superfund Site
         </h1>
-        <p className="opacity-70">10910 N Tantau Ave, Cupertino, CA 95014</p>
+        <p className="opacity-70">{site.address}</p>
       </header>
       {messages.map((message) => (
         <div
@@ -79,6 +100,7 @@ function Chat() {
 }
 
 export default function Page() {
+  const [activeSite, setActiveSite] = useState(SITES[0]);
   return (
     <div className="w-full h-64 mt-4">
       <iframe
@@ -86,18 +108,20 @@ export default function Page() {
         height="100%"
         frameBorder="0"
         scrolling="no"
-        src={`https://www.openstreetmap.org/export/embed.html?bbox=-122.010449%2C37.32877%2C-122.006049%2C37.33317&layer=mapnik&marker=37.33097%2C-122.008249`}
+        src={`https://www.openstreetmap.org/export/embed.html?bbox=-122.010449%2C37.32877%2C-122.006049%2C37.33317&layer=mapnik&marker=${activeSite.lat}%2C${activeSite.lng}`}
         className="absolute inset-0"
         style={{ border: 0 }}
       />
-      <Chat />
-      <img
-        src="https://images.squarespace-cdn.com/content/v1/58ebbc06e3df28b2c2c8b70b/1492647479383-E3O05VFYOUE8Y7AOFJZK/Superfunds-7.jpg"
-        width={1097 / 3}
-        height={1080 / 3}
-        alt="Intersil now"
-        className="floating-image"
-      />
+      {activeSite && <Chat site={activeSite} />}
+      {activeSite && (
+        <img
+          src={activeSite.img}
+          width={1097 / 3}
+          height={1080 / 3}
+          alt={activeSite.name}
+          className="floating-image"
+        />
+      )}
     </div>
   );
 }
