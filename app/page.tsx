@@ -11,10 +11,9 @@ const questions = [
 ];
 
 function Chat() {
-  const { messages, input, handleInputChange, handleSubmit, setInput } =
-    useChat({
-      api: "/api/chat",
-    });
+  const { messages, input, handleInputChange, handleSubmit, append } = useChat({
+    api: "/api/chat",
+  });
   const suggestions = questions.filter(
     (q) =>
       !messages.some(
@@ -57,8 +56,11 @@ function Chat() {
             {suggestions.map((q) => (
               <button
                 className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
+                type="button"
                 key={q}
-                onClick={() => setInput(q)}
+                onClick={() => {
+                  append({ role: "user", content: q });
+                }}
               >
                 {q}
               </button>

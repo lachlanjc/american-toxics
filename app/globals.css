@@ -12,12 +12,14 @@
   --font-mono: var(--font-geist-mono);
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
 }
+*/
 
 body {
   background: var(--background);
@@ -73,11 +75,13 @@ body {
   -webkit-mask-composite: xor;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   .action-button {
     background-color: hsla(0, 0%, 100%, 0.02);
   }
 }
+*/
 
 [data-appearance="dark"] .action-button {
   background-color: hsla(0, 0%, 100%, 0.02);
@@ -129,6 +133,7 @@ body {
 [data-appearance="light"] .main-card {
   background-color: #fbfbfddf;
   box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
+  color: #171717;
 }
 
 /* @media (prefers-color-scheme: dark) {
