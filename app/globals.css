@@ -3,9 +3,18 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --color-primary: #ff4921;
+}
+
+@supports (color: color(display-p3 1 1 1)) {
+  :root {
+    --color-primary: color(display-p3 1 0.356 0.2183);
+  }
 }
 
 @theme inline {
+  --color-primary: var(--color-primary);
+  --color-primary-light: #f56900;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
