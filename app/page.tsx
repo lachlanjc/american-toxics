@@ -144,7 +144,10 @@ export default function Page() {
               className="absolute top-6 right-6 rounded-full bg-black/10 w-8 h-8 text-center"
               onClick={() => {
                 setActiveSite(null);
-                mapRef.current?.zoomOut();
+                mapRef.current?.flyTo({
+                  zoom: Math.max(mapRef.current?.getZoom() - 2, 0),
+                  duration: 1000,
+                });
               }}
             >
               &times;
