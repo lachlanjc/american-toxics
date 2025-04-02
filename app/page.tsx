@@ -15,6 +15,7 @@ import { hasPlainSiteImage, Site } from "@/lib/data/site";
 import "mapbox-gl/dist/mapbox-gl.css";
 
 import Map, { MapRef, Marker } from "react-map-gl/mapbox";
+import { useFuse } from "@/lib/util/use-fuse";
 
 const MAPBOX_TOKEN =
   "pk.eyJ1IjoiaGFja2NsdWIiLCJhIjoiY2pscGI1eGdhMGRyNzN3bnZvbGY5NDBvZSJ9.Zm4Zduj94TrgU8h890M7gA";
@@ -36,13 +37,50 @@ const initialViewState = {
   pitch: 20,
 };
 
+const searchOptions = {
+  keys: ["name", "state", "city", "county"],
+};
+
+function Search({ onSelect }: { onSelect: (site: Site) => void }) {
+  const { results, handleSearch, query, isPending } = useFuse({
+    data: SITES,
+    options: searchOptions,
+  });
+
+  return (
+    <search>
+      <input
+        type="search"
+        className="w-full action-button p-2 mb-4"
+        value={query}
+        placeholder="Search sites"
+        onChange={handleSearch}
+      />
+      {results.length > 0 && (
+        <ul className={`${isPending ? "opacity-50" : ""} transition-opacity`}>
+          {results.map((result) => (
+            <li key={result.id}>
+              <button
+                className="border-b border-zinc-300 last:border-b-0 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
+                onClick={() => onSelect(result)}
+              >
+                {result.name}
+                <small className="text-zinc-500 block mt-1">
+                  {result.city}, {result.state}
+                </small>
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+    </search>
+  );
+}
+
 export default function Page() {
   const mapRef = useRef<MapRef | null>(null);
   const rootRef = useRef<HTMLDivElement | null>(null);
   const [activeSite, setActiveSite] = useState<Site | null>(null);
-  const [search, setSearch] = useState<string>("");
-  const [searchResults, setSearchResults] = useState<Site[]>([]);
-  const [isPending, startSearchTransition] = useTransition();
 
   useEffect(() => {
     if (!activeSite) return;
@@ -101,42 +139,24 @@ export default function Page() {
       </Map>
       <MainCard>
         {activeSite ? (
-          <SiteCard site={activeSite} />
+          <>
+            <button
+              className="absolute top-6 right-6 rounded-full bg-black/10 w-8 h-8 text-center"
+              onClick={() => {
+                setActiveSite(null);
+                mapRef.current?.zoomOut();
+              }}
+            >
+              &times;
+            </button>
+            <SiteCard site={activeSite} />
+          </>
         ) : (
           <>
             <h1 className="text-balance font-bold font-sans text-3xl mb-8">
               Superfund sites
             </h1>
-            <search>
-              <input
-                className="w-full action-button p-2"
-                value={search}
-                placeholder="Search sites"
-                onChange={(e) => {
-                  setSearch(e.target.value);
-                  startSearchTransition(() => {
-                    const filteredSites = SITES.filter((site) =>
-                      site.name.toLowerCase().includes(search.toLowerCase()),
-                    );
-                    setSearchResults(filteredSites);
-                  });
-                }}
-              />
-            </search>
-            {search.length > 2 && (
-              <ul>
-                {searchResults.map((result) => (
-                  <li key={result.id}>
-                    <button
-                      className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
-                      onClick={() => setActiveSite(result)}
-                    >
-                      {result.name}
-                    </button>
-                  </li>
-                ))}
-              </ul>
-            )}
+            <Search onSelect={setActiveSite} />
           </>
         )}
       </MainCard>
