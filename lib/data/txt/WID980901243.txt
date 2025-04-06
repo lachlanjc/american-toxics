@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 21-acre Lemberger Landfill is located in Manitowoc County, Wisconsin about a quarter-mile from the affiliated [Lemberger Transport and Recycling, or LTR, Superfund site](https://www.epa.gov/superfund/lemberger-transport).
+
+The town of Franklin used the landfill as an open dump for about 30 years. The Wisconsin Department of Natural Resources licensed it as a sanitary landfill in 1969. This meant that it could receive only municipal waste and power plant fly and bottom ash. Industrial waste was diverted to the nearby LTR site. A leachate collection system was not installed. Inspections indicated that fly and bottom ash were used as daily covers rather than being buried with general refuse. The quantity of municipal refuse as well as hazardous substances disposed of is unknown.
+
+When the license for operation expired in 1976, the WDNR required that it be properly closed, however, the continued disposal of fly ash to bring the site to final grade was allowed.
+
+### What Has Been Done to Clean Up the Site?
+
+The Lemberger Site Remediation Group (LSRG) comprised of several companies determined to be responsible for the contamination, has completed several cleanup actions under EPA and Wisconsin Department of Natural Resources oversight.
+
+Because of the complex conditions at the Lemberger Landfill and LTR sites, the work was divided into two planned activities referred to as operable units, or OUs. The first OU addressed groundwater contamination resulting from both sites and the source contamination at the landfill. OU 2 addressed the source contamination at LTR. The final cleanup is detailed in a 1991 document called the record of decision. It called for:
+
+- Installation of extraction wells and a groundwater treatment system to restore groundwater in the upper and lower aquifers.
+- Construction of a Wisconsin-approved municipal waste landfill cap.
+- Construction of an underground “slurry wall” around the perimeter of the landfill.
+- Installation of leachate withdrawal wells inside the landfill and a leachate storage system with transport to a publicly owned treatment plant.
+- Construction of an outfall pipe from the on-site groundwater treatment plant with final discharge to the Branch River.
+
+The site owner, the Lemberger Family, and LSRG formally agreed to restrict the use of groundwater and soil disturbance in 2009 and 2010 when the restrictive covenants were filed with Manitowoc County. Groundwater use near the contaminant plume is restricted by state regulations.
+
+### What Is the Current Site Status?
+
+EPA completed a thorough [study in 2019 (PDF)](https://semspub.epa.gov/work/05/961433.pdf) (422pp, 63.05MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the Lemberger Landfill and Lemberger Transport & Recycling (LTR) Superfund sites.
+
+This [proposed plan (PDF)](https://semspub.epa.gov/work/05/961434.pdf) (28 pp, 2.28MB, [About PDF](https://www.epa.gov/home/pdf-files) ) will protect people and the environment, comply with state and federal regulations, be easily implemented, be effective in the long-term, and be cost-effective.
+
+The proposed cleanup plan and other site-related documents are available for review at the Manitowoc Public Library, 707 Quay St. and under [Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0505040).
+
+An administrative record, which contains detailed information that will be used in the selection of the final cleanup plan, is also available at the Manitowoc Public Library.
+
+EPA has completed a [five-year review of the Lemberger sites (PDF)](https://semspub.epa.gov/work/05/959079.pdf) (46 pp, 3.93 K, [About PDF](https://www.epa.gov/home/pdf-files) ). The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. This was the fifth review of the sites.
+
+This review included an evaluation of background information, cleanup requirements, effectiveness of the cleanup, and maintenance and monitoring efforts. It also looked at ways to operate more efficiently.
+
+The review found the cleanup continues to protect people and the environment. The next scheduled review will be in 2025.

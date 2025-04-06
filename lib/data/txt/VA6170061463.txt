@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Naval Station Norfolk (NSN) is located along the Elizabeth River in Norfolk, Virginia. The 4,630-acre facility provides shore facilities and logistics support for Navy vessels and aircraft. Shipyard activities include metal forming, repair and installation of mechanical and electrical equipment, metal fabrication and plating. Wastes generated at the facility include halogenated and non-halogenated solvents, corrosives, paint wastes, wastes from electroplating operations, petroleum products, and oils and lubricants. In addition, the facility manages used oils, construction debris, polychlorinated biphenyls (PCBs), contaminated oils and trash. Historical operations and disposal practices contaminated soil, sediment, and groundwater with hazardous chemicals. The Site was added to the Superfund program's National Priorities List on April 1, 1997.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal actions. A February 1999 Federal Facilities Agreement (FFA) between EPA, the Virginia Department of Environmental Quality (VDEQ) and the Navy identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 11 operable units being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for 11 operable units:
+
+**Site 1 Camp Allen Landfill**: The long-term remedy included extraction and treatment of contaminated groundwater. Cleanup also included removal actions to address immediate threats to human health and the environment. In 1994, the Navy excavated buried drums containing waste solvents and disposed of them at a permitted hazardous waste landfill. In1998, a groundwater extraction and treatment system and soil vapor extraction system began operating. In 2008, based on the evaluation of long-term monitoring data, the soil vapor extraction system was turned off because there were no signs of contaminant migration in groundwater downgradient of the waste material. The long-term monitoring program is conducted to ensure that the shutoff of the extraction system does not affect the downgradient groundwater.
+
+A vapor intrusion investigation was completed in 2017, due to the proximity of the volatile organic compound (VOC) plume to the Camp Allen Elementary School. The report concluded the vapor intrusion pathway is not currently complete at the existing elementary school, which was constructed with a Vapor Intrusion Mitigation System (VIMS). Investigation of the VOC plume continues to assess impact for current and future exposures.
+
+Institutional controls are in place, which include the prohibition of use of groundwater for any purpose other than environmental monitoring, as well as digging prohibitions.
+
+**Site 2 NM Area Slag Pile**: The long-term remedy included installation of a soil cover and land use controls. The remedial action finished in June 2007.
+
+**Site 3 Q Area Drum Storage Yard**: The long-term remedy included installation of an air sparging/soil vapor extraction system and land use controls. Construction for the system finished in the fall of 1998.
+
+**Site 6 CD Landfill**: The long-term remedy included a soil cap, land use controls and removal of contaminated sediment near the landfill. Cap installation finished in December 1999.
+
+**Site 20 Building LP-20**: The long-term remedy included air sparging/soil vapor extraction and land use controls. Construction for the remedy finished in the fall of 1998. Based on the limited continued effectiveness in reducing contaminant concentrations, the AS/SVE was turned off in 2013 while the continued and long-term effectiveness is evaluated. Alternative remediation strategies are currently being evaluated.
+
+A vapor intrusion investigation was evaluated at the site. The results of the investigation and subsequent risk assessment concluded that the indoor air risks to current industrial workers in Building LP-20 were below the EPA target levels. However, to ensure there is no potential future risk, additional vapor intrusion investigations is scheduled for 2018.
+
+**Site 22 Camp Allen Salvage Yard**: The long-term remedy included a cover system and land use controls. In 2002, a non-time-critical removal action also removed PCB-contaminated soils. In 2003, an additional removal action addressed sediment contamination in the drainage ditch/pond.
+
+**SWMU 12 & 16**: A No Action Record of Decision was issued for these two solid waste management units in 2005. Detected contaminants arsenic, iron, and manganese are all naturally occurring constituents that are not considered to be associated with site activities and are considered to be at acceptable levels consistent with background levels.
+
+**Site 23 Building LP-20 Plating Shop**: The long-term remedy included a cover system and land use controls. In 2008, a removal action at LP-20 eliminated the possibility of direct contact with contaminated soil.
+
+**SWMU 14 Q-50 Satellite Accumulation Area**: The long-term remedy included land use controls. In December 2008, as part of a removal action, a cover system was installed over SWMU 14. The cover system eliminates the possibility of direct contact with the waste material and will serve as a parking area.
+
+**Site 18**: A Record Of Decision was signed in 2010. Remedy included bioremediation, institutional controls and groundwater monitoring. Site 18 was an open, unpaved yard that was used from 1975 to 1979 to store drums of hazardous waste consisting of waste oil, metal-plating solutions and sludges, chlorinated organic solvents, and paint-stripping solutions. Waste oil and hazardous waste spills are the source of contamination at the site. Treatment for VOCs was installed, and long-term monitoring of the ground water is ongoing.
+
+A full list of operable units can be viewed under the *Operable Units* section.
+
+### What Is the Current Site Status?
+
+In September 2010, the Norfolk Naval Base reached the Superfund “construction complete” milestone. This means all necessary remedial actions have been completed and are operating as designed. Operation, maintenance and monitoring of in-place remedies and institutional controls are ongoing.
+
+At site 20, the Navy conducts vapor intrusion monitoring and is conducting a pilot study using a subgrade biogeochemical reactor as a potential alternative remediation strategy. In addition, the Navy is working to optimize the remedial action at Site 1.
+
+Per the Federal Facilities Agreement among EPA, the Virginia Department of Environmental Quality and the Navy, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see [Naval Station Norfolk’s Environmental Restoration Program](https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/Norfolk-NS/).
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent five-year review can be found [here](https://semspub.epa.gov/work/03/2375129.pdf). The next five-year review is scheduled for 2029.

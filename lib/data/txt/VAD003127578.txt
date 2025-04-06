@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Saltville Waste Disposal Ponds Site is located in Saltville, Virginia. It includes the former Olin Corporation chlorine plant, two waste disposal ponds, and the North Fork Holston and Holston Rivers.
+
+Olin manufactured various chemicals, including chlorine gas, onsite from 1895 to 1972. Production wastes, including mercury and alkaline wastes, were disposed of in two areas, Ponds 5 and 6. Disposal operations contaminated soil, sediment, surface water, and groundwater and caused contaminant accumulation in fish in the North Fork Holston River. The site was added to the Superfund program's National Priorities List in 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+During the late 1960s, an investigation of the chlorine plant and adjacent North Fork Holston River by Olin, the Commonwealth of Virginia, and local agencies revealed mercury contamination on-site and over 80 miles downstream. A Saltville Site Task Force formed in 1978, which required Olin to investigate sources of mercury contamination at the Saltville facility and negotiated cleanup measures to reduce mercury loading to the river. In 1982, the Virginia State Water Control Board issued a Special Order requiring Olin to dredge mercury-contaminated sediments from a 1,000-foot section of the river adjacent to the former chlorine plant.
+
+In 1986, EPA completed an initial risk assessment and feasibility study for the site based on existing data and available information provided by Olin and the Saltville Task Force.
+
+In June 1987, EPA issued an interim Record of Decision (ROD-1), which identified measures to reduce the migration of mercury into the North Fork Holston River. Olin entered into a Consent Decree (CD) with EPA in 1988, agreeing to implement these remedial measures and perform a Remedial Investigation and Feasibility Study (RI/FS) for the remaining portions of the site. Consistent with ROD-1, Olin constructed a water treatment plant to remove mercury from leachate generated at Pond 5. Olin also constructed a network of surface water diversion ditches to intercept clean stormwater flowing toward the waste and convey this water directly to the North Fork Holston River. The water treatment plant began operation in 1994; treatment of water contaminated by leachate from Pond 6 was added in late 2001.
+
+EPA issued a second ROD (ROD-2) in 1995 addressing Pond 5 and Pond 6 and upgrading the water treatment plant to meet more stringent discharge standards for mercury abatement in Pond 5 leachate. In 1997, Olin entered into a second CD to implement the actions selected in ROD-2. Onsite construction of the remedy selected in ROD-2 began in 2001 and was completed in 2003. This work included, but was not limited to, construction of a cap over Pond 5, a soil cover over Pond 6, and grasses, shrubs, and trees to support a wildlife habitat area.
+
+In 2016, EPA directed Olin to modify the existing groundwater pump-and-treat system at Pond 5 to include the pumping and treatment of groundwater to reduce the discharge of mercury-contaminated groundwater into the North Fork Holston River between river mile 82.2-82.4. In 2017, EPA and Olin entered into an Administrative Settlement Agreement and Order on Consent for Removal Action under which Olin agreed to address high pH seeps discharging from Ponds 5 and 6.
+
+In April 2022, EPA issued an Explanation of Significant Differences (ESD) affecting Pond 2 and Pond 5. In this ESD, EPA is modifying the Pond 5 component of the Selected Remedy to require an extension of the existing Pond 5 multi-layered RCRA Subtitle-C cap constructed pursuant to ROD-2 over Pond 2, implementation of an environmental covenant, operations and maintenance (O&M) programs, and long-term monitoring (LTM).
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2022 five-year review](https://semspub.epa.gov/src/document/03/2335612.pdf) concluded that the remedy continues to be protective of human health and the environment.
+
+Supplemental investigations are underway to identify additional activities as part of the site’s long-term remedy. This includes an assessment of risks posed by site-related mercury to ecological receptors in the North Fork Holston River and Holston River watersheds.
+
+EPA completed the [2022 Five-Year Review](https://semspub.epa.gov/src/document/03/2335612.pdf) in September. The next five-year review is scheduled for 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls were recorded in March 2007 and updated in September 2022. Olin and the Commonwealth of Virginia signed an Environmental Protection Easement and Declaration of Restrictive Covenants, which included the following restrictions:
+
+- Ponds 5 and 6 - Prohibits development, any type of activity that could disturb the surface or the underlying waste, and the use of groundwater as a source of potable water;
+- Former Olin Chlorine Plant - Prohibits residential development and the use of groundwater as a source of potable water, as well as any type of activity that would require excavation of underlying mercury wastes or contaminated soil.
+- Pond 2 - Prohibits development, any type of activity that could disturb the Pond 2 cap, and the use of groundwater as a source of potable water.
+
+Additional information about the institutional controls is available in the [2022 Five-Year Review (pages 10-12)](https://semspub.epa.gov/src/document/03/2335612.pdf#page=11).
+
+### Sampling and Monitoring
+
+Routine environmental monitoring is conducted to measure the effectiveness of the implemented remedy, including the water treatment plant effluent, groundwater adjacent the North Fork Holston River and the surface water within the river. Fish living in the river are contaminated with mercury and may not be safely consumed. Annual fish tissue monitoring has been conducted since 1982 in effort to estimate the time required to achieve safe levels.
+
+Targeted environmental monitoring is being conducted to address data gaps and determine whether additional remedial actions are required to mitigate continuing environmental threats to human health and the environment presented by hazardous substances at, or migrating from, the site.

@@ -1,24 +1,24 @@
-SUFFOLK CITY LANDFILLSUFFOLK, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 67-acre Suffolk City Landfill site is located in Suffolk, Virginia. A sanitary landfill began operating at the site in 1967. The landfill accepted municipal solid waste, pesticides and chemical waste. Waste disposal activities contaminated soil and groundwater. Landfill operations ended in 1985 when a regional landfill became operational. The City designed a closure plan, which was submitted to the State. The City covered, graded, and replanted the landfill in 1988. After EPA assessed the site, it was added to the National Priorities List in February 1990. After initial actions, EPA determined that the site required no further cleanup. EPA deleted the site from the Superfund program’s National Priorities List in 1995. Top of Page
-What Has Been Done to Clean Up the Site?
-As part of a legal agreement, the City of Suffolk installed a leachate collection and treatment system at the site. Under orders from the State, the City of Suffolk agreed to conduct an intensive study of soil and groundwater contamination at the site to determine its nature and extent and to recommend strategies for its cleanup. The study, completed in 1992, showed that pesticide contamination no longer exists at the site. Scientific information on pesticides has shown that these substances are prone to degrading naturally over time. Therefore, no other actions are required at the site. EPA deleted the site from the National Priorities List in 1995. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The fourth and final, 2014 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. Top of Page
-What Is the Current Site Status?
-The remedy for the Suffolk City Landfill site is protective of human health and the environment because of the steps that have been taken by local authorities to close the landfill. The pesticides have likely degraded and nothing is being leached from the site. The City placed deed restrictions on the site to protect the cap, and signs have been placed at the entrance. The Virginia Department of Environmental Quality (VADEQ) allowed the city to discontinue air monitoring, and the leachate collection system were taken out of operation in 2014.  
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional Controls are in place to restrict groundwater use and protect the remedy in place.
-Additional information about the Institutional Controls is available in the 2014 Five-Year Review (PDF) (page 22-28).
-Top of Page
+### Background
+
+The 67-acre Suffolk City Landfill site is located in Suffolk, Virginia. A sanitary landfill began operating at the site in 1967. The landfill accepted municipal solid waste, pesticides and chemical waste. Waste disposal activities contaminated soil and groundwater. Landfill operations ended in 1985 when a regional landfill became operational. The City designed a closure plan, which was submitted to the State. The City covered, graded, and replanted the landfill in 1988. After EPA assessed the site, it was added to the National Priorities List in February 1990.
+
+After initial actions, EPA determined that the site required no further cleanup. EPA deleted the site from the Superfund program’s National Priorities List in 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+As part of a legal agreement, the City of Suffolk installed a leachate collection and treatment system at the site. Under orders from the State, the City of Suffolk agreed to conduct an intensive study of soil and groundwater contamination at the site to determine its nature and extent and to recommend strategies for its cleanup. The study, completed in 1992, showed that pesticide contamination no longer exists at the site. Scientific information on pesticides has shown that these substances are prone to degrading naturally over time. Therefore, no other actions are required at the site. EPA deleted the site from the National Priorities List in 1995.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The fourth and final, [2014 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2194867), concluded that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The remedy for the Suffolk City Landfill site is protective of human health and the environment because of the steps that have been taken by local authorities to close the landfill. The pesticides have likely degraded and nothing is being leached from the site. The City placed deed restrictions on the site to protect the cap, and signs have been placed at the entrance. The Virginia Department of Environmental Quality (VADEQ) allowed the city to discontinue air monitoring, and the leachate collection system were taken out of operation in 2014.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls are in place to restrict groundwater use and protect the remedy in place.  
+Additional information about the Institutional Controls is available in the [2014 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2194867) (page 22-28).

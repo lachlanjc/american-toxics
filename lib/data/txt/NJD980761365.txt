@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ewan Property site is located in Shamong Township in New Jersey. Waste disposal activities took place at the 43-acre site in 1974 and 1975, resulting in soil and groundwater contamination with volatile organic compounds (VOCs) including acetone, toluene, xylene and trichloroethylene; semi-volatile compounds (SVOCs), and some heavy metals, including arsenic, chromium and aluminum. There are two aquifers below the site that are linked, a shallow Cohansey aquifer and the deeper Kirkwood aquifer. Local groundwater flows in a southerly direction in both aquifers. Local residents in the area are on private potable wells. EPA added the site to the Superfund program’s National Priorities List (NPL) in 1984. This site is being addressed through Federal and Potentially Responsible Party (PRP) actions.
+
+The site is being addressed in 2 operable units. OU1 addresses the heavily and moderately contaminated soils, and OU2 addresses contaminated groundwater and moderately contaminated soils. The OU1 portion of the site was completed in July 1995.  
+The OU2 groundwater cleanup remedy began in 1995 with the construction of a full-scale groundwater extraction, treatment, and infiltration (GWETS) remedial system that was designed extract to handle a flow of more than 200,000 gallons per day. A total of 6 re-infiltration basins were constructed, covering approximately 200,000 square feet, over the former soils excavation areas. The system was designed to establish hydraulic control of the contaminant plume. Beginning in March 1999, system underwent an extensive six month period of rigorous tests that were concluded in September 1999. The GWETS operated as designed until June 2006. Following additional limited hot spot groundwater and residual soils actions, that included two soils excavations and dual phase extraction/soil vapor extraction, the full scale GWETS was decommissioned,, and disturbed ground areas were restored and replanted, between November 2015 to May 2016. The site is currently undergoing long-term groundwater monitoring. This activity is ongoing.  
+
+### What Has Been Done to Clean Up the Site?
+
+Active groundwater remediation has been completed, and the site is in long-term groundwater monitoring. A security fence is installed to prevent trespassing.
+
+In July 1995, the excavation of about 3,800 buried drums was completed, and their contents were dug and removed for off-site disposal. In addition, about 22,000 cubic yards (14,000 tons) of associated moderately to heavily contaminated soils were removed.  
+The full-scale GWETS operated from 1997 to June 2006, extracting, treating, and recharging about 200,000 gallons of contaminated groundwater per day.
+
+In the spring of 2004, a limited soil hot spot area was investigated, and about 1,000 cubic yards of material was dug up and disposed off-site. In March 2012, the PRPs investigated the limits of the TC-32/VE-2 soils hot spot. In December 2012, the PRPs excavated approximately 700 cubic years of soil from the TC-32/VE-2 area and the spoils were disposed off-site.
+
+In the fall of 2004 through 2011, technology called dual phase extraction/soil vapor extraction (DPE/SVE), was tested to treat several areas of localized hot spot soils and groundwater.  
+From 1997 to 2006, the GWETS treated about 456 million gallons of contaminated groundwater and removed 304 pounds of VOCs and semi-VOCs from the groundwater. From 2006 to 2011, the pilot-scale DPE/SVE treatment system treated about 13 million gallons of contaminated groundwater and removed 190 pounds of VOCs and semi-VOCs from the groundwater.
+
+From November 2015 through May 2016, the GWETS was decommissioned, and disturbed ground areas were restored and replanted.  
+An extensive groundwater monitoring and sampling program is in place, involving more than 60 wells, as described above  
+
+### What Is the Current Site Status?
+
+As noted, the site is being addressed in two phases. Phase 1 was the removal of buried drums and moderately to heavily contaminated soils near the drums. Phase 2, addresses the cleanup of site groundwater and residually contaminated soils. Active groundwater remediation has been completed, and the site is in long-term groundwater monitoring.  
+  
+Immediate Actions: The site was fenced in 1988 to keep trespassers and children from being exposed to site contaminants.  
+  
+Buried Drums and Soil: EPA’s remedy for the site’s buried drums and moderately to heavily contaminated soils included excavation of the drums and associated soil; evaluation of wastes to determine proper treatment and disposal methods; and off-site treatment and disposal of all waste material and soil at permitted facilities. The excavation work was completed in July 1995. The OU1 remedial action (RA) was completed to allow for unlimited use/unrestricted exposure of soils down to the water table.  
+  
+Groundwater: EPA selected the remedy for contaminated groundwater and residually contaminated soils in 1989. It included extraction, treatment and discharge of treated effluent to the upper sand aquifer at the site, with residual soil contamination remediated by flushing with the treated effluent. Following construction of the remedial extraction, treatment and recharge system, operations began in 1999.  
+  
+In the fall of 2004, a pilot test was initiated for the hot spot treatment of soils and groundwater using a technology called dual phase extraction/soil vapor extraction (DPE/SVE). During the DPE/SVE testing period, the extraction, treatment and recharge system was turned off to monitor the results. In June 2006, the pilot study was expanded to remove VOC and semi-VOC contamination from additional selected soil hot spots. Results indicated that the DPE/SVE technology effectively treated the hot spots. During DPE/SVE operation, the full-scale remedial groundwater treatment system was turned off and remained on standby, but could be turned on with 48 hours’ notice.  
+  
+In late 2009, the PRPs submitted a request to test a phased operation of the DPE/SVE, where instead of continual operation a phased or “pulsed” approach is used, involving alternating periods of operation followed by a period of the system turned off with groundwater monitoring, followed by the same, in repetition “on/off” cycles. The purpose of phased pumping was to increase the efficiency of contaminant removal. The system operated until 2011, when due to low concentrations of groundwater contamination DPE/SVE operation was suspended while EPA and the PRPs evaluated the most effective way to address residual levels of contamination in the TC-32/VE-2 area.  
+  
+In March 2012, the PRPs conducted field work to evaluate the limits of the TC-32/VE-2 hot spot area. In December 2012, the PRPs excavated approximately 700 cubic yards of soils from the TC-32/VE-2 hot spot area, and disposed of the contaminated soils off-site.  
+  
+In 2011, based on extensive long-term groundwater monitoring results, EPA determined that active site remediation by the full scale GWETS was no longer required. The PRPs obtained a demolition permit from Burlington County on June 2015. Demolition of the GWETS was completed in November 2015. Site restoration was subsequently completed in May 2016, the former infiltration gallery area and GWETS areas were regraded with new soil and 500 trees were planted.  
+From initial operation in 1997 to 2006, the GWETS treated approximately 456,317,296 gallons of contaminated groundwater to standards, and removed 304 pounds of VOCs and SVOCs.  
+  
+From 2006 to 2011, the DPE/SVE treatment system treated approximately 12,610,583 gallons of contaminated groundwater to standards, and removed 190 pounds of VOCs and SVOCs from the groundwater.  
+  
+Total groundwater treated: 468,927,879 gallons. Total mass of VOCs and SVOCs removed: 494 lbs. A contaminant exception area (CEA) exists for the site, as established by the state of New Jersey.  
+  
+The site is currently being monitored through an extensive groundwater monitoring program, which consists of the tri-annual sampling of 19 groundwater monitoring wells; an annual sampling 52 monitoring wells, and a 2.5 year sampling of 61 wells. Every five years a select number of downgradient off-site residential wells are sampled. The last sampling of residential wells was in the summer of 2021.

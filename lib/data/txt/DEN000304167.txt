@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Georgetown North Groundwater site is in a mixed-use area consisting of residential homes and commercial buildings within the town of Georgetown, Delaware.
+
+The site consists of soil and groundwater plumes contaminated with the solvent tetrachloroethylene (PCE) and its breakdown products. PCE is commonly used in commercial and industrial operations such as dry cleaning. Two former dry cleaners in Georgetown may have contributed to the groundwater and soil contamination.
+
+Georgetown uses three groundwater wells as the primary source of drinking water. Two of the three public wells have PCE contamination exceeding the state and federal maximum contaminant levels. One additional industrial well has also been impacted due to historical operations at the dry cleaners. The contaminated groundwater plume may further impact water quality if not addressed. Georgetown’s air stripper water treatment system went online in May 2020. The treated water currently meets State and Federal Safe Drinking Water Act standards. The site was proposed to the Superfund National Priorities List (NPL) in March 2022 and listed to the NPL on September 9, 2022.
+
+El sitio de Georgetown North se encuentra en una área que consta de viviendas residenciales y edificios comerciales dentro de la ciudad de Georgetown, Delaware.
+
+El sitio consta de plumas de suelo y agua subterránea contaminadas con el solvente tetracloroetileno (PCE) y sus productos de degradación. El PCE se usa comúnmente en operaciones comerciales e industriales, como la limpieza en seco. Dos antiguas tintorerías en Georgetown pueden haber contribuido a la contaminación de las aguas subterráneas y del suelo.
+
+Georgetown utiliza tres pozos de agua subterránea como fuente principal de agua potable. Dos de los tres pozos públicos tienen una contaminación PCE que excede los niveles máximos de contaminantes estatales y federales. Un pozo industrial adicional también se ha visto afectado debido a operaciones históricas en las tintorerías. La columna de agua subterránea contaminada puede afectar aún más la calidad del agua si no se aborda. El sistema de tratamiento de agua del separador de aire de Georgetown entró en funcionamiento en mayo de 2020. El agua tratada actualmente cumple con los estándares estatales y federales de la Ley de Agua Potable Segura. El sitio se propuso a la Lista de Prioridades Nacionales (NPL) del Superfondo en Marzo de 2022 y se incluyó en la NPL el 9 de Septiembre de 2022.
+
+### What Has Been Done to Clean Up the Site?
+
+The state of Delaware began their investigation in 1985 for potential sources of groundwater contamination when the city’s water authority reported contaminants in the untreated water. In 2015, Delaware Natural Resources and Environmental Control (DNREC) requested EPA assistance to determine the source of the contaminated groundwater plume.
+
+Due to the ongoing risks and identified contamination, EPA conducted a Preliminary Assessment (PA) in 2015. The goal of the PA was to gather data and information for additional site activities. The PA identified potential source areas at the Site may pose a threat to human health and the Site and warrants further investigation.
+
+Beginning in 2019, EPA started the Site Inspection (SI) to further define the groundwater contamination. The objective of an SI is to gather information to support a site decision regarding the need for further Superfund action. EPA collected water, soil, and air samples to determine if hazardous substances were present at the Site and if the site poses a threat to human health and the environment.
+
+The SI concluded in 2020 that the site poses a risk and would require long-term cleanup. An additional Expanded Site Inspection was completed in 2021 to further assess the deeper groundwater and concluded that Volatile Organic Compounds (VOCs) continued to impact the public water. In concurrence with the State of Delaware, EPA decided to propose the site on the National Priorities List (NPL). The NPL is a list of the most serious sites identified for long-term cleanup.
+
+More information about this site and previous investigations can be found at the [Delaware Department of Natural Resources and Environmental Control's (DNREC) Site webpage](https://dnrec.alpha.delaware.gov/)[.](https://dnrec.alpha.delaware.gov/waste-hazardous/remediation/georgetown-north/)
+
+El estado de Delaware comenzó su investigación en 1985 en busca de fuentes potenciales de contaminación del agua subterránea cuando la autoridad de agua de la ciudad informó sobre contaminantes en el agua sin tratar. En 2015, Delaware Natural Resources and Environmental Control (DNREC) solicitó la asistencia de la EPA para determinar el origen de la columna de agua subterránea contaminada.
+
+Debido a los riesgos continuos y la contaminación identificada, la EPA realizó una evaluación preliminar (PA) en 2015. El objetivo de la PA era recopilar datos e información para actividades adicionales en el sitio. Las áreas de fuente potencial identificadas por PA en el sitio pueden representar una amenaza para la salud humana y el sitio y justifica una mayor investigación.
+
+A partir de 2019, la EPA inició la Inspección del sitio (SI) para definir mejor la contaminación del agua subterránea. El objetivo de un SI es recopilar información para respaldar una decisión del sitio con respecto a la necesidad de una acción Superfund adicional. La EPA recopiló muestras de agua, suelo y aire para determinar si había sustancias peligrosas presentes en el sitio y si el sitio representa una amenaza para la salud humana y el medio ambiente.
+
+El SI concluyó en 2020 que el sitio presenta un riesgo y requeriría una limpieza a largo plazo. En 2021 se completó una inspección ampliada adicional del sitio para evaluar más a fondo las aguas subterráneas más profundas y se concluyó que los compuestos orgánicos volátiles (COV) seguían afectando el agua pública. De acuerdo con el Estado de Delaware, la EPA decidió proponer el sitio en la Lista de Prioridades Nacionales (NPL). La NPL es una lista de los sitios más serios identificados para limpieza a largo plazo.
+
+Se puede encontrar más información sobre este sitio e investigaciones previas en la página web del [Departamento de Recursos Naturales y Control Ambiental de Delaware (DNREC)](http://dnrec.alpha.delaware.gov/).
+
+### What Is the Current Site Status?
+
+On March 18, 2022, EPA proposed the Georgetown North Groundwater Site to the NPL, a list of the sites eligible for long-term cleanup financed under the federal Superfund Program. When a site is proposed to the NPL, EPA publishes a rule in the Federal Register about its intention and notifies the community. EPA also held a 60-day comment period for community members to comment on the proposal. The Site was officially listed to the NPL on September 9, 2022.
+
+EPA will begin a remedial investigation, including a human health and ecological risk assessment to determine whether action may be necessary to address risks posed by the Site.
+
+El 18 de Marzo de 2022, la EPA propuso el sitio de Georgetown North a la NPL, una lista de los sitios elegibles para la limpieza a largo plazo financiada por el programa federal Superfund. Cuando se propone un sitio a la NPL, la EPA publica una regla en el Registro Federal sobre su intención y notifica a la comunidad. La EPA también celebró un período de comentarios de 60 días para que los miembros de la comunidad comentaran sobre la propuesta. El sitio se incluyó oficialmente en la NPL el 9 de Septiembre de 2022.
+
+La EPA comenzará una investigación correctiva, incluida una evaluación de riesgos ecológicos y para la salud humana a fin de determinar si es necesario tomar medidas para abordar los riesgos que plantea el sitio.

@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 1.7-acre Matthews Electroplating Site is located in Roanoke County, Virginia. An automobile plating business operated on site from 1972 until 1976. During this time, liquid waste from the plating operation discharged directly onto the ground and drained to a sinkhole beneath the property. Poor waste management practices contaminated groundwater with chromium and soil with chromium, nickel, and cyanide. The site was added to Superfund program's National Priorities List on September 8, 1983. After construction of the site’s remedy, the it was deleted from the National Priorities List in January 1989.
+
+EPA conducted two five-year-reviews at the site to ensure that the remedy remained protective of human health and the environment, and by the final five-year-review in June 2004, EPA determined that there were no longer any contaminants, pollutants, or hazardous substances on-site. No further five-year reviews are required.
+
+### What Has Been Done to Clean Up the Site?
+
+The Virginia State Water Control Board (SWCB) received complaints of discolored drinking water from local residents in November 1975 and confirmed that poor waste management practices at the plating operation had contaminated groundwater with chromium and soil with chromium, nickel, and cyanide. Liquid waste from the business had discharged directly onto the ground and continued to drain into a sinkhole beneath the property. In 1976, the SWCB issued an emergency order that prohibited the further discharge of electroplating waste from the plant. The facility went out of business the following year and the property was converted into a small-scale pig farming operation. Subsequent investigations performed by the SWCB and EPA determined that the on-site well and multiple local residential wells were contaminated with hexavalent chromium.
+
+In the spring of 1983, EPA selected a remedy that would protect residential well owners who may have been drinking contaminated groundwater. The remedy proposed extending the municipal water supply from the water treatment plant in nearby Salem, VA to residences near the site. EPA constructed the water line and 31 buildings were connected in 1986. EPA conducted soil sampling and additional groundwater sampling the following year, both which demonstrated that no further cleanup actions were needed. In 1988, EPA removed approximately 1,500 gallons of chromium and mercury waste and sludge from drums and tanks, after which EPA and the Commonwealth of Virginia determined that the site no longer posed a threat to human health or the environment. EPA deleted the site from the National Priorities List in January 1989.
+
+EPA completed its second and final [five-year review (PDF)](https://semspub.epa.gov/src/document/03/2007930) of the site’s remedy in June 2004. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. This final review concluded that the response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+After construction of the site’s remedy, EPA removed the site from the National Priorities List in January 1989. There are no further reviews required for this site.

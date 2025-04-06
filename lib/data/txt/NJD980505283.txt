@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Glidden Corporation owned the site property until Jackson Township purchased it in 1972. Jackson Township began accepting municipal wastes at the landfill in April 1972 under a state permit to receive sewage sludge, septic tank wastes and solid wastes. Landfill operations on the western portion of the property accepted bulk liquid and semi-liquid coffee wastes, household refuse, tree stumps, construction debris, junked cars and liquid septage. According to landfill records, the average liquid disposal rate was about 8,000 gallons per day. Much of the liquid waste contained VOCs such as methylene chloride.
+
+In 1977, residents complained of poor water quality. Analysis by the New Jersey Department of Environmental Protection (NJDEP) found that part of the Cohansey Aquifer and several domestic wells had been contaminated by hazardous substances disposed of at the landfill. In 1978, NJDEP ordered Jackson Township to stop disposing of liquid wastes at the landfill. In 1980, the landfill was closed by order of the Superior Court of New Jersey. Furthermore, in 1980, a citizen’s lawsuit resulted in a municipal water system extension to residents affected or potentially affected by the landfill. Following site investigations, EPA placed the site on the Superfund program’s NPL in September 1983. In the late 1980’s, the landfill was closed in accordance with New Jersey Solid Waste Regulations. The NJDEP Solid Waste Closure requirements included: installation of a soil cap and surface water detention basins and post-closure groundwater and air monitoring.EPA selected no further action with maintenance and monitoring for the site’s remedy in the September 1994 ROD.
+
+The landfill was originally located in a relatively undeveloped area. Over time, homes were built and shallow wells put in close to the landfill. In 1977, area residents complained of poor water quality. Landfill operations contaminated the Cohansey Aquifer, a shallow aquifer, with a variety of volatile organic chemicals (VOCs). In the late 1980s, the landfill was closed in accordance with New Jersey Solid Waste Regulations. Initial actions taken by the State of New Jersey provided an alternate water supply for 130 wells that were contaminated as a result of the groundwater contamination at the landfill. Following initials action to protect human health and the environment, EPA issued a Record of Decision (ROD) in September 1994. The ROD selected no further action with maintenance and monitoring for the site’s remedy. EPA deleted the site from the Superfund program’s National Priorities List (NPL) in September 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+Initial Action: In 1980, the State of New Jersey provided an alternate water supply for 130 wells contaminated as a result of groundwater contamination at the landfill.
+
+Long-term Cleanup: Jackson Township has investigated the nature and extent of groundwater and soil contamination at the site. Findings indicated that levels of contaminants in groundwater have continued to decrease since the early 1980s. In the late 1980’s, the landfill was closed in accordance with New Jersey Solid Waste Regulations. The NJDEP Solid Waste Closure requirements included: installation of a soil cap and surface water detention basins and post-closure groundwater and air monitoring.
+
+EPA selected no further action with maintenance and monitoring for the site’s remedy in September 1994. In order to assure that the remedy is protective in the long-term, NJDEP will oversee additional groundwater and air monitoring at the Site.
+
+The 1994 ROD called for no further action with maintenance and monitoring. Additionally, the ROD provided for the closure of the Jackson Township Landfill as required by New Jersey regulations. Actions necessary to comply with NJDEP Solid Waste Landfill Closure requirements included the following: installation of a soil cap and surface detention basins, and post-closure groundwater and air monitoring. These actions have been taken. A fence is present around the perimeter of the Site to restrict unauthorized access. There is a soil and washed gravel cap which covers the Site. Although not part of the selected remedy, these protective measures serve to minimize the potential for exposure to any contaminants which may remain at the Site. The ROD did not require groundwater use controls; instead it relied on a groundwater monitoring program to assess contaminant migration. Residences in the vicinity of the Site are supplied by the public water system. Groundwater data has been collected and analyzed from 2010 through 2014; the data indicates that the remedy is functioning as intended by the decision documents. The groundwater monitoring over the past five years indicates that the landfill is not contributing significantly to groundwater contamination. No Site-related contaminants were found in the downgradient monitoring well above the MCLs/background. Landfill gas monitoring has been conducted from 2010 through 2014. Since 2010 on-site gas sampling results continue to indicate high levels of methane gas still exist along the southwestern perimeter of the landfill. However, elevated methane concentrations have not been observed off Site. Both the active and the passive systems are operating in a manner that remains protective of human health and the environment.
+
+  
+
+### What Is the Current Site Status?
+
+The site was addressed in two stages: immediate actions and a long-term remedial phase focused on remediation of the source of contamination.
+
+Connection of residents in the vicinity of the site to a public water supply in 1980 eliminated the potential for exposure of these residents to any contaminated groundwater associated with the Jackson Township Landfill.
+
+EPA selected no further action with maintenance and monitoring for the site’s remedy in September 1994. In the late 1980s, the landfill was closed in accordance with New Jersey Solid Waste Regulations. EPA deleted the site from the Superfund program’s NPL in September 1995.
+
+There are no exposure pathways that could result in unacceptable risks and none expected as long as the NJDEP and Jackson Township properly maintains and monitors the landfill. In order to assure that the remedy is protective in the long-term, NJDEP will oversee additional groundwater and air monitoring at the Site.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The 1994 ROD, issued by NJDEP with EPA concurrence, selected "No Further Action with Maintenance and Monitoring" as the remedy. This remedy relied on the containment remedy and the continued maintenance and monitoring of the landfill, under State program authorities, to protect public health and the environment. Pursuant to the 1988 JCO and the 1994 ROD, the final landfill closure was conducted in a manner consistent with the New Jersey Solid Waste Management Act (NJSWMA) requirements, thereby satisfying all necessary regulatory requirements for the Site.
+
+While institutional controls were not included in the ROD, several Site controls are in place that assure that the selected remedy remains in place. First among these non-CERCLA controls are the landfill closure requirements implemented under NJSWMA, which directed the appropriate closure methods for the landfill and still serves as a controlling regulatory authority for post­closure decisions. The Post-Closure Monitoring and Maintenance Plan is being implemented to satisfy the requirements of the NJSWMA.
+
+The landfill property is owned and maintained by Jackson Township. As part of this five-year review, EPA evaluated the conditions of the JCO and concluded that it was still in place and serves as an acceptable enforcement tool to assure the continued operation and maintenance of the remedy.
+
+The ROD did not require groundwater use controls, and relies instead on a monitoring program to identify groundwater contaminant migration that may threaten public health. Jackson Township indicated to EPA that residences in the vicinity of the Site are supplied by the public water system.
+
+### Sampling and Monitoring
+
+Groundwater data has been collected and analyzed since 2010; the data indicates that the remedy is functioning as intended by the decision documents. The groundwater monitoring indicates that the landfill is not contributing significantly to groundwater contamination. No Site-related contaminants were found in the downgradient monitoring well above the MCLs/background.

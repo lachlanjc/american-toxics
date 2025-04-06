@@ -1,31 +1,43 @@
-U.S. TITANIUMPINEY RIVER, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The U.S. Titanium site located in Nelson County, Virginia is a 50-acre site formerly occupied by an American Cyanamid Company plant which refined titanium ore and manufactured titanium dioxide for paint pigments from 1931 until 1971. Following plant closure, the processing plant, settling ponds, tailings ponds, wastewater lagoons and a waste disposal area remained on site. Ferrous sulfate, a highly acidic by-product of titanium dioxide manufacturing, and heavy metals (aluminum, iron, copper, nickel and zinc) are the primary site contaminants. Acidic storm water runoff from the waste piles and ponds and acidic ground water seeps/springs contributed to six major fish kills in the Piney and Tye Rivers from 1977 to 1981. As a result of these releases, more than 200,000 fish died. The site is located in the town of Piney River. The closest residence is 1/4 mile from the site. As a result of past waste disposal practices, the on-site groundwater is highly acidic. Local residents use groundwater for their drinking water supply, but no residential well contamination has been detected. This site was proposed to the National Priorities List (NPL) of the most serious uncontrolled or abandoned hazardous waste sites requiring long term remedial action on December 30, 1982. The site was formally added to the NPL on September 8, 1983, making it eligible for federal cleanup funds. Top of Page
-What Has Been Done to Clean Up the Site?
-Cytec Industries, Inc., formerly American Cyanamid Co., entered into a consent decree with the EPA and the Commonwealth of Virginia in 1991 to perform the cleanup. Seven areas of the site were determined to require cleanup and a description of each is provided as follows: 
-Cleanup for Areas 1 and 3 was initiated in the summer of 1994 and completed in the fall of 1995. It involved the excavation and treatment with lime (neutralization) of approximately 67,000 cubic yards of ferrous sulfate containing soil in Area 1 with disposal of the treated material in a constructed waste containment cell in Area 3.
-Area 4 consisted of deposited spent ore and other waste products. The selected remedy involved slope stabilization, regrading, placement of soil cover and establishing vegetation. This work was completed in Fall 1996.
-Area 5 includes former plant sedimentation basins. The cleanup included flood protection, regrading, placement of soil cover and establishing vegetation.
-Areas 2 and 7 include regions of distressed vegetation due to acidic surface water and groundwater discharges adjacent to wetlands. Actions include the neutralization of acidic stream bed sediments and adjacent bare soil with lime followed by regrading and revegetation.
-Acidic groundwater is collected in Areas 2, 3 and 4 by a gravity collection system consisting of shallow perforated collection pipes. The groundwater is pumped to an on-site treatment plant and the treated effluent is discharged to the Piney River. The treatment plant and collection system has been in continuous operation since spring 1996. 
-Top of Page
-What Is the Current Site Status?
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2020 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment in the short-term. The current site status and next steps recommended by EPA are highlighted below. Many of these actions will be addressed before the next five-year review, which is scheduled for 2025. Operable Unit 1: Low pH levels continue to be detected in monitoring wells beyond the groundwater collection system, in surface water drainages along the railway trail in Area 8, and in the east and west streams. The ecological assessment indicates that low pH and metals may be affecting ecological receptors in the site’s ephemeral drainages. EPA recommends determining the extent of low pH levels beyond the groundwater collection system and evaluate if the remedy can be optimized or enhanced to further neutralize pH in groundwater and drainage surface water beyond the groundwater collection system and update the Ecological Risk Assessment as necessary. A 0.4-acre debris mound was identified on the site in 2016 and characterization of the mound found that several organic and inorganic contaminants exceeded both industrial health-based screening levels and ecological screening benchmarks. The mound is completely enclosed to prevent unauthorized access. EPA is currently implementing a removal action to address the mound area. Previous remedial investigations and decision documents did not adequately evaluate human health risk. EPA recommends conducting a human health risk assessment at the site to further determine the future protectiveness of human health and evaluate if additional response actions are necessary. The remedy is protective in the short term because the mound area is currently secured by a fence, and institutional controls prohibit the installation of drinking water supply wells and prohibit new development on the property that will adversely affect the performance of the groundwater remediation system or the remedial measures that have been taken. Based on the sampling and analysis results for the drainage ditches provided in the 2016 Ecological Assessment, the remedy is protective in the short-term when considering the incidental exposure pathway of recreational receptors currently using the Virginia Blue Ridge Railway Trail bisecting the site. However, in order for the remedy to be protective in the long-term, the following actions need to be taken: 
-A comprehensive evaluation of human health risk from exposure to groundwater, addressing potential residential receptors, is needed. This evaluation will require additional groundwater sampling and analysis beyond iron and pH;
-The mound will need to be addressed by the removal action (completed in 2022); and
-Further monitoring and evaluation of groundwater beyond the groundwater collection trench is needed and update the Ecological Risk Assessment if necessary. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-﻿While walking on the portion of the Virginia Blue Ridge Railway Trail that is located near the site, hikers may have noticed discolored water in the nearby drainage ditch. The cause of the color change is ferrous iron from historical mining. Current monitoring of this water indicates that pH levels are around 3.5, making it moderately acidic. As cleanup efforts contiue, EPA recommnmends that hikers and their pets stay on the trail in this area, and do not come in contact with the water at this time. Top of Page
+### Background
+
+The U.S. Titanium site located in Nelson County, Virginia is a 50-acre site formerly occupied by an American Cyanamid Company plant which refined titanium ore and manufactured titanium dioxide for paint pigments from 1931 until 1971. Following plant closure, the processing plant, settling ponds, tailings ponds, wastewater lagoons and a waste disposal area remained on site. Ferrous sulfate, a highly acidic by-product of titanium dioxide manufacturing, and heavy metals (aluminum, iron, copper, nickel and zinc) are the primary site contaminants. Acidic storm water runoff from the waste piles and ponds and acidic ground water seeps/springs contributed to six major fish kills in the Piney and Tye Rivers from 1977 to 1981. As a result of these releases, more than 200,000 fish died.
+
+The site is located in the town of Piney River. The closest residence is 1/4 mile from the site. As a result of past waste disposal practices, the on-site groundwater is highly acidic. Local residents use groundwater for their drinking water supply, but no residential well contamination has been detected.
+
+This site was proposed to the National Priorities List (NPL) of the most serious uncontrolled or abandoned hazardous waste sites requiring long term remedial action on December 30, 1982. The site was formally added to the NPL on September 8, 1983, making it eligible for federal cleanup funds.
+
+### What Has Been Done to Clean Up the Site?
+
+Cytec Industries, Inc., formerly American Cyanamid Co., entered into a consent decree with the EPA and the Commonwealth of Virginia in 1991 to perform the cleanup. Seven areas of the site were determined to require cleanup and a description of each is provided as follows:
+
+- Cleanup for Areas 1 and 3 was initiated in the summer of 1994 and completed in the fall of 1995. It involved the excavation and treatment with lime (neutralization) of approximately 67,000 cubic yards of ferrous sulfate containing soil in Area 1 with disposal of the treated material in a constructed waste containment cell in Area 3.
+- Area 4 consisted of deposited spent ore and other waste products. The selected remedy involved slope stabilization, regrading, placement of soil cover and establishing vegetation. This work was completed in Fall 1996.
+- Area 5 includes former plant sedimentation basins. The cleanup included flood protection, regrading, placement of soil cover and establishing vegetation.
+- Areas 2 and 7 include regions of distressed vegetation due to acidic surface water and groundwater discharges adjacent to wetlands. Actions include the neutralization of acidic stream bed sediments and adjacent bare soil with lime followed by regrading and revegetation.
+- Acidic groundwater is collected in Areas 2, 3 and 4 by a gravity collection system consisting of shallow perforated collection pipes. The groundwater is pumped to an on-site treatment plant and the treated effluent is discharged to the Piney River. The treatment plant and collection system has been in continuous operation since spring 1996.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Five-Year Review (PDF)](http://semspub.epa.gov/work/03/2297976.pdf), concluded that the remedy continues to be protective of human health and the environment in the short-term. The current site status and next steps recommended by EPA are highlighted below. Many of these actions will be addressed before the next five-year review, which is scheduled for 2025.
+
+Operable Unit 1:
+
+Low pH levels continue to be detected in monitoring wells beyond the groundwater collection system, in surface water drainages along the railway trail in Area 8, and in the east and west streams. The ecological assessment indicates that low pH and metals may be affecting ecological receptors in the site’s ephemeral drainages. EPA recommends determining the extent of low pH levels beyond the groundwater collection system and evaluate if the remedy can be optimized or enhanced to further neutralize pH in groundwater and drainage surface water beyond the groundwater collection system and update the Ecological Risk Assessment as necessary.
+
+A 0.4-acre debris mound was identified on the site in 2016 and characterization of the mound found that several organic and inorganic contaminants exceeded both industrial health-based screening levels and ecological screening benchmarks. The mound is completely enclosed to prevent unauthorized access. EPA is currently implementing a removal action to address the mound area.
+
+Previous remedial investigations and decision documents did not adequately evaluate human health risk. EPA recommends conducting a human health risk assessment at the site to further determine the future protectiveness of human health and evaluate if additional response actions are necessary.
+
+The remedy is protective in the short term because the mound area is currently secured by a fence, and institutional controls prohibit the installation of drinking water supply wells and prohibit new development on the property that will adversely affect the performance of the groundwater remediation system or the remedial measures that have been taken. Based on the sampling and analysis results for the drainage ditches provided in the 2016 Ecological Assessment, the remedy is protective in the short-term when considering the incidental exposure pathway of recreational receptors currently using the Virginia Blue Ridge Railway Trail bisecting the site. However, in order for the remedy to be protective in the long-term, the following actions need to be taken:
+
+- A comprehensive evaluation of human health risk from exposure to groundwater, addressing potential residential receptors, is needed. This evaluation will require additional groundwater sampling and analysis beyond iron and pH;
+- The mound will need to be addressed by the removal action *(completed in 2022)*; and
+- Further monitoring and evaluation of groundwater beyond the groundwater collection trench is needed and update the Ecological Risk Assessment if necessary.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+While walking on the portion of the Virginia Blue Ridge Railway Trail that is located near the site, hikers may have noticed discolored water in the nearby drainage ditch. The cause of the color change is ferrous iron from historical mining. Current monitoring of this water indicates that pH levels are around 3.5, making it moderately acidic. As cleanup efforts contiue, EPA recommnmends that hikers and their pets stay on the trail in this area, and do not come in contact with the water at this time.

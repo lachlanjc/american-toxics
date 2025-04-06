@@ -1,15 +1,15 @@
-DELAWARE CITY PVC PLANTNEW CASTLE, DE 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Delaware City PVC Plant Site occupies 400 acres, consisting of a polyvinyl chloride (PVC) manufacturing facility currently owned and operated by Formosa Plastics Corp. of Delaware and a surrounding contaminated groundwater plume. The plant was built in 1966 by Stauffer Chemical Company, which used earthen lagoons and pits to dispose of PVC waste and sludge. Stauffer Chemical sold the PVC plant to Formosa Plastics Corporation in May 1981. Groundwater, which was used locally for drinking water and agricultural purposes, was found to be contaminated with chemicals emanating from the plant. Soils associated with earthen lagoons were also found to be contaminated. EPA placed the site on the Superfund program’s National Priorities List in 1983. Top of Page
-What Has Been Done to Clean Up the Site?
-The site’s long-term remedy included pumping and treating contaminated groundwater; excavating contaminated materials and soil for off-site disposal; properly capping the buried sludge pits; and connecting affected businesses and residences to the public water supply. Construction of the remedy took place between 1988 and 2001. Groundwater treatment and monitoring are ongoing.  Top of Page
-What Is the Current Site Status?
-EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, 2019 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2024. The potentially responsible party (PRP) has completed the investigation of the groundwater plume east of Schoolhouse Road and developed a Feasibility Study to evaluate options for addressing this contamination. An Explanation of Significant Differences/ Propoosed Cleanup Plan was released for public comment in October 2023. Top of Page
+### Background
+
+The Delaware City PVC Plant Site occupies 400 acres, consisting of a polyvinyl chloride (PVC) manufacturing facility currently owned and operated by Formosa Plastics Corp. of Delaware and a surrounding contaminated groundwater plume. The plant was built in 1966 by Stauffer Chemical Company, which used earthen lagoons and pits to dispose of PVC waste and sludge. Stauffer Chemical sold the PVC plant to Formosa Plastics Corporation in May 1981. Groundwater, which was used locally for drinking water and agricultural purposes, was found to be contaminated with chemicals emanating from the plant. Soils associated with earthen lagoons were also found to be contaminated. EPA placed the site on the Superfund program’s National Priorities List in 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term remedy included pumping and treating contaminated groundwater; excavating contaminated materials and soil for off-site disposal; properly capping the buried sludge pits; and connecting affected businesses and residences to the public water supply. Construction of the remedy took place between 1988 and 2001. Groundwater treatment and monitoring are ongoing.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2282846), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2024.
+
+The potentially responsible party (PRP) has completed the investigation of the groundwater plume east of Schoolhouse Road and developed a Feasibility Study to evaluate options for addressing this contamination.
+
+An [Explanation of Significant Differences/ Propoosed Cleanup Plan](https://semspub.epa.gov/src/document/03/2357304) was released for public comment in October 2023.

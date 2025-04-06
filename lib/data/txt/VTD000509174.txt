@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 36-acre Transitor Electronics, Inc. site is located in Bennington, Vermont. Tansitor Electronics, Inc. manufactures electronic capacitors on site in a predominantly rural area of Bennington. According to the Vermont Department of Environmental Conservation (VT DEC), Tansitor disposed of the equivalent of 115 drums of process wastes directly into an unnamed stream or onto the ground.
+
+An estimated 1,500 residents of Vermont and New York get drinking water from private wells within three miles of the site.
+
+The site was added to the National Priorities List (NPL) in October 1989.
+
+After cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1999. Groundwater monitoring is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+A long-term remedy focused on the entire site. A 1990 investigation into the nature and extent of contamination determined that ingestion of groundwater from the shallow soils would pose an unacceptable risk. In 1994, the state reclassified the groundwater beneath the site as requested by Tansitor. In 1995, EPA designed a cleanup plan that included a waiver for groundwater cleanup within a 10-acre portion of the site due to the impracticality of achieving drinking water standards. It also included land use restrictions to prevent use of or contact with the groundwater, and groundwater monitoring to observe any changes in contaminant location or concentrations. Groundwater monitoring is ongoing.
+
+The first [five-year review](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101435&doc=Y&colid=33094&region=01&type=SC) in 2004 concluded that human health and the environment were being protected. Groundwater monitoring showed gradual reductions of VOCs and confirmed VOCs were not migrating. Similarly, no contaminants were detected in groundwater monitoring of the bedrock beneath the site.
+
+The 2004 review said vapor intrusion into indoor air from the groundwater plume was possible. It also said chemical 1,4-dioxane, because of its association with the manufacturing of trichloroethane, the primary contaminant detected in the groundwater, could be present. Both the 2014 and the 2009 five-year reviews have agreed with 2004 conclusions.
+
+After the 2004 review, EPA reviewed soil vapor data from the initial investigations to assess the potential indoor air pathway. The soil vapor data were found to be below OSHA values. VT DEC, after reviewing relevant data and assessing continued use of solvents in the facility, indicated that based on the department’s experience at similar manufacturing facilities, vapor intrusion did not represent a significant issue.
+
+In addition, following the 2004 review, analysis for 1,4-dioxane was added to the groundwater monitoring program. The results showed that it was present in the same locations as the trichloroethane within the ten-acre portion of the site but was not detected beyond that area.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101435).
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included institutional controls, long-term monitoring, contingencies for further action based on monitoring results, and [five-year reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101435&doc=Y&colid=33094&region=01&type=SC).
+
+The [2019](https://semspub.epa.gov/src/document/01/100012234) [FOURTH FIVE-YEAR REVIEW REPORT](https://semspub.epa.gov/src/document/01/100012234) (38 pp, 7.3 M, [About PDF](https://www.epa.gov/home/pdf-files) ) concluded that the remedy remained protective of human health and the environment. All the Land Use Restrictions have been recorded and have prevented exposure to Site groundwater, thereby ensuring the Site remains protective of human health. In addition, the State of Vermont reclassified the groundwater beneath the ten-acre portion of the site to non-potable use only. Ongoing monitoring demonstrates that the plume is stable and not migrating.
+
+The next Five-Year review is scheduled to be performed in 2024.
+
+With groundwater beyond the ten-acre portion of the site meeting drinking water standards and the institutional controls in place, EPA took the site off the NPL in 1999.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101435).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101435&doc=Y&colid=31748&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.

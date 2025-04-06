@@ -1,31 +1,41 @@
-TYBOUTS CORNER LANDFILLNEW CASTLE, DE 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Tybouts Corner Landfill Site is located in New Castle County, Delaware, approximately 10 miles south of Wilmington and four miles west of the Delaware River. The site was used by the New Castle County Department of Public Works as a municipal sanitary landfill which accepted industrial wastes from December 1968 until July 1971. The landfill consisted of two noncontiguous sections, a west landfill that was about four acres in size and the main landfill that was about 47 acres, ranging from five to 40 feet thick. Contamination was found in two nearby wells in 1976 and again in 1983. The site was added to the Superfund program's National Priorities List in 1983. Two parcels within the site were proposed for deletion from the National Priorities List on March 22, 2022, and were officially deleted on August 18, 2022. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and potentially responsible party (PRP) actions. EPA issued a Record of Decision (ROD) (PDF) and three subsequent Explanations of Significant Differences (ESDs), 1992 ESD (PDF), 2000 ESD (PDF) and the 2021 Explanation of Significant Differences (PDF) that documents land and groundwater use restrictions for the site. These documents describe EPA’s selected cleanup remedies. EPA also negotiated several Consent Decrees with numerous companies to perform the remedial design and remedial action. The remedy was constructed in 1995 and included the following actions:  
-Material in the West Landfill was excavated and consolidated with the waste in the main landfill.
-A groundwater pumping system consisting of eight extraction wells was installed to contain contaminated groundwater at the landfill.
-A subsurface slurry wall was installed to prevent clean groundwater from entering the landfill.
-A multi-layer cap was constructed to prevent rain from entering the waste material in the landfill.
-A passive venting system was installed to prevent the build-up of landfill gases within the landfill. 
-In 1996, a temporary active gas venting system was installed due to detection of landfill gas outside the boundaries of the landfill. In 2000, a permanent active gas venting system was installed. The active gas venting system is effective in preventing the migration of underground landfill gas beyond the landfill property boundary. Annual monitoring of the passive landfill gas vents continues. In May 2007, contaminant concentrations in groundwater decreased significantly and EPA and the Delaware Department of Natural Resources and Environmental Control (DNREC) agreed to shut down the pumping wells. In 2008, quarterly monitoring of the groundwater ceased and the wells are now sampled semi-annually. The PRPs used wildflowers and other native plants to stabilize the ground and prevent erosion on the landfill cap. Top of Page
-What Is the Current Site Status?
-On an annual basis, samples are collected from the gas vents and the data is incorporated into an air model to evaluate any risk associated with exposure to the air emissions. The most recent air modeling of the vent data demonstrated that emissions from the vents do not present an unacceptable risk to human health. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2020 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. The 2021 Explanation of Significant Differences (PDF) documented land and groundwater use restrictions. The next five-year review is scheduled for 2025.  On March 22, 2022, the Tybouts Corner Superfund Site had two parcels proposed for partial deletion from the National Priorities List (NPL). EPA has determined that all appropriate response actions to address the two contamined parcels have been completed. EPA has determined that all appropriate response actions regarding the two parcels is complete because performance standards were achieved and no waste remains on those parcels. The other portions of the Site will remain on the NPL and are not being considered for deletion as part of this action. On August 18, 2022, the Tybouts Corner Superfund Site was officially partially deleted from the NPL; this deletion can be viewed in the federal register here. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in placed to restrict groundwater use and protect the remedy in future use. Additional information about the institutional controls are available in the 2020 Five-Year Review (PDF) (page 10-11) and in the 2021 Explanation of Significant Differenced (PDF) (page 6-8). Top of Page
-Emergency Response and Removal
+### Background
+
+The Tybouts Corner Landfill Site is located in New Castle County, Delaware, approximately 10 miles south of Wilmington and four miles west of the Delaware River. The site was used by the New Castle County Department of Public Works as a municipal sanitary landfill which accepted industrial wastes from December 1968 until July 1971. The landfill consisted of two noncontiguous sections, a west landfill that was about four acres in size and the main landfill that was about 47 acres, ranging from five to 40 feet thick. Contamination was found in two nearby wells in 1976 and again in 1983. The site was added to the Superfund program's National Priorities List in 1983. Two parcels within the site were proposed for deletion from the National Priorities List on March 22, 2022, and were officially deleted on August 18, 2022.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+EPA issued a [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/156815) and three subsequent Explanations of Significant Differences (ESDs), [1992 ESD (PDF),](https://semspub.epa.gov/src/document/03/155567)[2000 ESD (PDF)](https://semspub.epa.gov/src/document/03/246857) and the 2021 Explanation of Significant Differences (PDF) that documents land and groundwater use restrictions for the site. These documents describe EPA’s selected cleanup remedies. EPA also negotiated several Consent Decrees with numerous companies to perform the remedial design and remedial action. The remedy was constructed in 1995 and included the following actions:
+
+- Material in the West Landfill was excavated and consolidated with the waste in the main landfill.
+- A groundwater pumping system consisting of eight extraction wells was installed to contain contaminated groundwater at the landfill.
+- A subsurface slurry wall was installed to prevent clean groundwater from entering the landfill.
+- A multi-layer cap was constructed to prevent rain from entering the waste material in the landfill.
+- A passive venting system was installed to prevent the build-up of landfill gases within the landfill.
+
+In 1996, a temporary active gas venting system was installed due to detection of landfill gas outside the boundaries of the landfill. In 2000, a permanent active gas venting system was installed. The active gas venting system is effective in preventing the migration of underground landfill gas beyond the landfill property boundary. Annual monitoring of the passive landfill gas vents continues.
+
+In May 2007, contaminant concentrations in groundwater decreased significantly and EPA and the Delaware Department of Natural Resources and Environmental Control (DNREC) agreed to shut down the pumping wells. In 2008, quarterly monitoring of the groundwater ceased and the wells are now sampled semi-annually.
+
+The PRPs used wildflowers and other native plants to stabilize the ground and prevent erosion on the landfill cap.
+
+### What Is the Current Site Status?
+
+On an annual basis, samples are collected from the gas vents and the data is incorporated into an air model to evaluate any risk associated with exposure to the air emissions. The most recent air modeling of the vent data demonstrated that emissions from the vents do not present an unacceptable risk to human health.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306142), concluded that the remedy continues to be protective of human health and the environment. The [2021 Explanation of Significant Differences (PDF)](https://semspub.epa.gov/src/document/03/2287427) documented land and groundwater use restrictions. The next five-year review is scheduled for 2025.
+
+On March 22, 2022, the Tybouts Corner Superfund Site had two parcels proposed for partial deletion from the National Priorities List (NPL). EPA has determined that all appropriate response actions to address the two contamined parcels have been completed. EPA has determined that all appropriate response actions regarding the two parcels is complete because performance standards were achieved and no waste remains on those parcels. The other portions of the Site will remain on the NPL and are not being considered for deletion as part of this action. On August 18, 2022, the Tybouts Corner Superfund Site was officially partially deleted from the NPL; this deletion can be viewed in the federal register [here](https://www.govinfo.gov/content/pkg/FR-2022-08-17/pdf/2022-17480.pdf).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to restrict groundwater use and protect the remedy in future use. Additional information about the institutional controls are available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306142) (page 10-11) and in the [2021 Explanation of Significant Differenced (PDF)](https://semspub.epa.gov/src/document/03/2287427) (page 6-8).
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1985 installed a water line to supply public water to nearby residences.
-Top of Page

@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Waldick Aerospace Devices site is located in Wall Township, New Jersey and is a 1.72-acre inactive industrial facility. The site property was originally purchased and developed in the mid-1950s. For about 25 years, the main and auxiliary buildings were used primarily for storage and handling of plumbing supplies, as well as for office space. For several years in the late 1960s, the buildings were leased to the American Filter Press Company, which manufactured wooden filters for the dye industry. From 1979 until about 1984, Waldick Aerospace Devices, Inc. leased the site property for the manufacturing and plating of metal components for the aerospace industry.
+
+In 1982, state and county inspectors found that wastewater and used machine oil was being discharged directly onto the ground. Samples revealed that the wastes contained heavy metals, acids, and volatile organic compounds (VOCs). Soil and groundwater, as well as two buildings were contaminated. A third building, never used by the Waldick firm, had been used for several retail operations.
+
+After site investigations, the EPA placed the site on the Superfund program’s National Priorities List in June 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+In June 1983, the county and state authorities excavated about 40 cubic feet of contaminated soil from the southeastern corner of the main building and about 40 cubic feet more from an area behind another building. In January 1985, after the facility was abandoned, EPA discovered about 30 containers of varying sizes filled with hazardous materials, as well as a storage cabinet of laboratory chemicals. The hazardous materials were securely repackaged and shipped to a hazardous waste disposal facility.
+
+In 1986, EPA started an investigation into the nature and extent of contamination in order to evaluate cleanup options for the site. In 1987, after the study was completed, EPA selected a source control remedy in a Record of Decision (ROD) to address contaminated soil and buildings.
+
+EPA updated the interim remedy in March 1991 that called for extracting contaminated groundwater and treating it by chemical precipitation to remove metals, followed by air stripping to remove VOCs, and reinjection into the aquifer. The main and the auxiliary buildings were demolished and approximately 4,600 cubic yards of contaminated soil was treated on-site using low-temperature thermal desorption. Residuals were sent off-site for stabilization and solidification and disposed at a Resource Conservation and Recovery Act (RCRA) permitted landfill. This work started in January 1993 and was completed in October 1993.
+
+After soil cleanup, the groundwater sampling showed substantially reduced contaminant concentrations. As a result, EPA began a monitoring program in April 1997 to help determine whether implementing the selected groundwater remedy was still necessary or appropriate.
+
+After considerable pre-design investigation and natural attenuation studies, it was determined that the groundwater plume, which originally consisted of cadmium, chromium, nickel, PCE and trichloroethene (TCE), had decreased significantly in contaminant concentrations. The studies showed that the concentrations of chromium, nickel and TCE were no longer present above state or federal MCLs. Cadmium and PCE were present in limited areas above MCLs. Due to the significant decrease in plume size and contaminant concentrations, a pump and treat remedy was no longer necessary. As a result of these studies, EPA amended the Operable Unit 2 (OU2) groundwater remedy on September 20, 2008. The ROD selected a final remedy for groundwater, which consisted of long-term groundwater sampling and analysis program to monitor the contaminant concentrations in the groundwater at the site; and institutional controls in the form of an NJDEP groundwater classification exception area (CEA).
+
+### Sampling and Monitoring
+
+Groundwater sampling events are conducted annually. The current monitoring network is comprised of seven wells, at four locations, in the area downgradient of the property. During the fall of 2012, Hurricane Sandy destroyed or rendered inaccessible two wells and the surface water and seep sampling locations. Groundwater samples collected from wells were analyzed for VOCs and metals. Prior to the loss of the two downgradient wells (MW-111-S and MW-112-S), PCE concentrations in both wells had dropped below the NJDEP groundwater standard. The cadmium concentration dropped to below the standard in MW-111-S and was just slightly above the standard in MW-112-S at 5.4 ug/L.
+
+Potential site impacts from climate change have been assessed, and the performance of the remedy is currently not at risk due to the expected effects of climate change in the region and near the site.
+
+### Emergency Response and Removal
+
+From April 22, 1986 through August 2, 1986, a removal action was conducted to remove hazardous chemicals that were an immediate threat. The work included sampling drums and other containers and segregating, overpacking and disposing the containers and their contents. Everything was disposed of at a licensed, off-site, disposal facility.

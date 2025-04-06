@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Mannheim Avenue Dump site is located in Galloway Township, New Jersey. The 2-acre area was orignially used as a sand-and-gravel excavation operation for road construction material. After mining operations stopped in 1964, excavated portions of the site were used for waste disposal. These activities contaminated soil and groundwater with hazardous chemicals.
+
+The 2-acre area was a landfill where Lenox China disposed of about 300 drums of degreasing sludge during the 1960s and, possibly, into the early 1970s. This waste was compacted into about 35 mounds and covered with soil. Leaded waste, plaster molds and china and clay forms were also mixed in with the mounded waste piles.
+
+A 1981 industrial survey report submitted by Lenox China notified the New Jersey Department of Environmental Protection (NJDEP) that hazardous wastes may have been disposed of at the site. A subsequent investigation by NJDEP in 1982 revealed that many 55-gallon drums were exposed and deteriorating.
+
+Following additional investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983. Following immediate actions to protect human health and the environment, the site’s long-term remedy was put in place in 1994. After the long-term cleanup, EPA took the site off the Superfund program’s National Priorities List in August 2007.
+
+### What Has Been Done to Clean Up the Site?
+
+Immediate Actions: In 1985, the parties potentially responsible for site contamination removed about 25,000 pounds of asphaltic sludge from soil mounds for incineration. About 2,700 cubic yards of residual contaminated soil remained. Other activities completed in 1985 include fence installation around the site and waste pile sampling. On-site sampling and monitoring well installation began in 1986. In 1989, the site’s potentially responsible parties removed soil mounds containing residual lead and trichloroethylene (TCE) and disposed of them at an approved off-site facility.
+
+Long-term Cleanup: Following a remedial investigation and feasibility study to determine the nature and extent of site contamination and to evaluate remedial alternatives, EPA selected the remedy in the site’s 1990 Record of Decision. The selected remedy included extraction of contaminated groundwater from the aquifer, on-site treatment using air stripping and discharge of the treated groundwater into the aquifer; short-term monitoring of the groundwater during the engineering design of the treatment system; long-term monitoring of the groundwater during cleanup; and installation of individual carbon adsorption treatment units at residences, if monitoring indicated that groundwater contamination threatened residential wells.
+
+The groundwater pump-and-treat system operated from 1994 to 1996. The system treated over 30 million gallons of contaminated groundwater. It was turned off after groundwater data indicated that TCE levels in the influent to the treatment plant were consistently below the cleanup standard of 1 part per billion. During operation of the system, effluent from the treatment plant met the established cleanup level for TCE. From 1990 to 2004, 14 residential drinking water wells downgradient of the site were monitored in addition to the other monitoring wells. Sampling indicated that site-related contaminants had not migrated in the groundwater to threaten the residential wells.
+
+EPA has conducted several five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. Each of the reviews concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.  
+
+### What Is the Current Site Status?
+
+The site was addressed in two stages: immediate actions and a long-term remedial phase, focused on cleanup of the entire site.  
+
+Construction of the ground water-pump and treat remediation system began in April 1994 and was completed in August 1994. After a thorough review of the groundwater data, EPA allowed the treatment plant to be shut down and for a reduction in the groundwater monitoring frequency, over time. Groundwater monitoring results for 2002 and 2003 indicated that TCE levels were below the 1 part per billion for drinking water standard in all monitoring wells.  
+
+In 2007, based on the review of all site data, EPA and NJDEP determined that the groundwater at the site had been cleaned up to drinking water standard and the aquifer, restored. Following the site’s cleanup, EPA removed the site from the Superfund program’s National Priorities List in August 2007.

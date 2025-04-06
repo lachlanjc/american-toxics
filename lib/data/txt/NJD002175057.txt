@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Standard Chlorine Chemical Company, Inc. (SCCC) site is a 42-acre parcel that sits between the Belleville Turnpike and the Hackensack River in Kearny, New Jersey. A railroad right-of-way, the location of a former rail spur, runs west of the former lagoon area. Most of the property falls within the 100-year floodplain of the Hackensack River.
+
+Manufacturing activities at this site from about 1916 to 1993 included producing, storing, and packaging moth balls and flakes, manufacturing lead-acid batteries, formulating drain cleaners, producing dye carriers, and distilling and purifying chlorinated benzenes.
+
+Various entities, including the Standard Naphthalene Products Company, Inc., owned by the SCCC, and the Thomas A. Edison Emark Battery Corporation operated at the site. Fill materials containing chromite ore processing residue were placed on the site. In addition, two lagoons were dug up on the eastern portion of the site to contain surface water runoff and other wastes. Contaminants from these sources ultimately drained to the Hackensack River.
+
+Since the early 1980s, there have been several documents releases of hazardous substances to the soil, surface water and groundwater. The New Jersey Department of Environmental Protection (NJDEP) began cleaning the site under its Brownfields program before referring the site to EPA in 2001. The Standard Chlorine Chemical Company, Inc. (SCCC) site is an approximately 42-acre area situated between the Belleville Turnpike and the Hackensack River in Kearny, New Jersey. A railroad right-of-way, the location of a former rail spur, is west of the former lagoon area. The majority of the property lies within the 100-year floodplain of the Hackensack River. Manufacturing activities from about 1916 to 1993 included the production, storage and packaging of moth balls and flakes, manufacture of lead-acid batteries, formulation of drain cleaners, production of dye carriers, and distillation and purification of chlorinated benzenes.
+
+### What Has Been Done to Clean Up the Site?
+
+After evaluating the site, EPA placed the site on the National Priorities List in 2007. EPA further investigated the site in 2008 to determine the nature and extent of contamination and to identify cleanup alternatives to address remaining concerns. EPA entered into an agreement in 2010 with parties potentially responsible for contamination at the site, called PRPs, to seal openings in the distillation tower building to prevent the potential migration of and contact with contamination.
+
+EPA entered into another agreement in 2013 with PRPs to complete the comprehensive site investigation and develop and evaluate potential cleanup options in actions known as a Remedial Investigation and Focused Feasibility Study (RI/FS). The site investigation included documenting the historic Thomas A. Edison Emark Battery Corporation buildings as required by the National Historic Preservation Act.
+
+In 2009, EPA conducted a removal action that corresponded with an interim response action approved in 2008. Under EPA oversight, the PRPs placed fencing around the site to restrict access, sealed openings, demolished contaminated buildings, and placed a slurry wall to contain contaminated groundwater and dense non-aqueous phase liquid (DNAPL), which is a dense, oily liquid heavier than water, from entering into the Hackensack River. These components were incorporated into the final cleanup plan.
+
+EPA finalized the [cleanup plan](https://semspub.epa.gov/work/02/393188.pdf) in September 2016 which requires the PRPs to install a cap to cover remaining uncovered areas, as well as upgrades to existing covers to prevent soil disturbance. A cap was installed in some areas of the site where soil is heavily contaminated to prevent contaminants from spreading. The five decaying buildings that remain will be demolished. Maintenance and operation of previous work will continue, including an expansion of the pump and treat system to clean up polluted groundwater. Land use controls such as a deed notice and other controls will prohibit the use of the groundwater and prohibit use of the site for any residential purposes. After evaluating the site conditions, the EPA placed the site on the National Priorities List (NPL) in 2007. In 2008, the EPA started a comprehensive site investigation to determine the nature and extent of contamination, and to identify cleanup alternatives to address remaining concerns. In 2010, the EPA entered into an agreement with parties potentially responsible for the contamination at the site to seal openings in the distillation tower building.
+
+### What Is the Current Site Status?
+
+***Interim response actions:*** Under EPA oversight, PRPs sealed openings, demolished contaminated buildings, and placed a slurry wall to contain DNAPL and contaminated groundwater. PRPs also installed a passive DNAPL recovery and a groundwater treatment system and consolidated contaminated materials beneath an engineered cap in the location of the former lagoons.
+
+***Long-term sitewide cleanup:*** EPA finalized the [cleanup plan](https://semspub.epa.gov/work/02/393188.pdf) in September 2016 which requires the PRPs to install a cap to cover remaining uncovered areas, as well as upgrades to existing covers to prevent soil disturbance. A cap was installed in some areas of the site where soil is heavily contaminated to prevent contaminants from spreading. The five decaying buildings that remain will be demolished. Maintenance and operation of previous work will continue, including an expansion of the pump and treat system to clean up polluted groundwater. Land use controls such as a deed notice and other controls will prohibit the use of the groundwater and prohibit use of the site for any residential purposes.
+
+EPA reviews sites every five years to ensure the cleanup remains effective.
+
+The site is currently in the remedial action phase, in which the PRPs under EPA oversight are implementing the cleanup plan. The site is being addressed in two stages: interim response actions and a long-term remedial phase focused on site-wide cleanup. Already completed interim actions have included sealing openings in and demolishing buildings, placement of a slurry wall to contain dense non-aqueous phase liquid (DNAPL) and contaminated groundwater, passive DNAPL recovery and a groundwater treatment system, and consolidation of contaminated materials beneath an engineered cap in the location of the former lagoons.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA is limiting people’s exposure to site contaminants in soil and groundwater through institutional controls in the form of deed notices and a Classification Exception Area/Well Restriction Area for this site. T
+
+### Sampling and Monitoring
+
+The PRPs under EPA oversight continue to monitor the integrity of the slurry wall (i.e., containment wall) and ensure that treated water meets state standards. onitoring is conducted to confirm the integrity of the slurry wall and that the treated water is in compliance with discharge criteria.

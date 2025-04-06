@@ -1,17 +1,15 @@
-PIONEER METAL FINISHING INCFRANKLINVILLE, NJ 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Pioneer Metal Finishing, Inc. site is a former electroplating facility at 2034 Coles Mill Road, Gloucester County, New Jersey. The site is situated in southwestern New Jersey, within the Atlantic Coastal Plain.  Pioneer began operation as an electroplating facility in 1955 and discharged untreated waste from the facility from that time until the mid- to late-1970s. Wastes reportedly consisted of metallic salts, untreated process sludge, rinse water, cleaning solutions, and plating wastes that were discharged into an unlined trench leading to an adjacent wetland southeast of the plant. Facility effluent was treated prior to discharge between the mid- to late-1970s to 1981. A closed loop system was installed in 1981. Wastewater was no longer discharged from the facility. However, since 1981 under a New Jersey Pollutant Discharge Elimination System (NJPDES) Permit, only non-contact cooling water is discharged from the facility . Electroplating activities endedaround 2005 and the facility is currently used for powder coating operations. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA and Pioneer sampled soil adjacent to the Pioneer facility and sediment within the adjacent wetland and found the soil and sediment are contaminated with chromium, copper, and nickel at levels above human health-based screening levels and/or ecological risk levels. Soil is also contaminated with polychlorinated biphenyls (PCBs).  Two employees at the facility were exposed to contaminated soil. The wetland is connects with Scotland Run, which runs through additional wetlands that are potentially contaminated by releases from the site. The contamination threatens Timothy Lake, which is approximately one mile downstream of the site and is used for swimming, boating, and fishing. Additional downstream recreational water bodies and sensitive environments that may be threatened by the releases from the site include Malaga Lake, Willow Grove Lake, Union Lake Wildlife Management Area (WMA), and eight state-listed threatened or endangered species habitats. Top of Page
-What Is the Current Site Status?
-The New Jersey Department of Environmental Protection (NJDEP) requested EPA's assistance in July 2018 in addressing contamination at the site. EPA documented conditions at the site and collected samples from select containers for testing. The testing indicated that flammables, acids, and corrosive materials were present within the facility. EPA removed over 100 tons of hazardous waste and cyanide-contaminated debris from the facility, which included approximately 20,000 gallons of liquid waste between August 2018 and August 2019. 
-Top of Page
+### Background
+
+The Pioneer Metal Finishing, Inc. site is a former electroplating facility at 2034 Coles Mill Road, Gloucester County, New Jersey. The site is situated in southwestern New Jersey, within the Atlantic Coastal Plain.
+
+Pioneer began operation as an electroplating facility in 1955 and discharged untreated waste from the facility from that time until the mid- to late-1970s. Wastes reportedly consisted of metallic salts, untreated process sludge, rinse water, cleaning solutions, and plating wastes that were discharged into an unlined trench leading to an adjacent wetland southeast of the plant. Facility effluent was treated prior to discharge between the mid- to late-1970s to 1981. A closed loop system was installed in 1981. Wastewater was no longer discharged from the facility. However, since 1981 under a New Jersey Pollutant Discharge Elimination System (NJPDES) Permit, only non-contact cooling water is discharged from the facility. Electroplating activities endedaround 2005 and the facility is currently used for powder coating operations.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA and Pioneer sampled soil adjacent to the Pioneer facility and sediment within the adjacent wetland and found the soil and sediment are contaminated with [chromium](https://www.atsdr.cdc.gov/toxfaqs/tfacts7.pdf), [copper](https://www.atsdr.cdc.gov/toxfaqs/tfacts132.pdf), and [nickel](https://www.atsdr.cdc.gov/toxfaqs/tfacts15.pdf) at levels above human health-based screening levels and/or ecological risk levels. Soil is also contaminated with [polychlorinated biphenyls (PCBs)](https://www.atsdr.cdc.gov/toxfaqs/tfacts17.pdf).
+
+Two employees at the facility were exposed to contaminated soil. The wetland is connects with Scotland Run, which runs through additional wetlands that are potentially contaminated by releases from the site. The contamination threatens Timothy Lake, which is approximately one mile downstream of the site and is used for swimming, boating, and fishing. Additional downstream recreational water bodies and sensitive environments that may be threatened by the releases from the site include Malaga Lake, Willow Grove Lake, Union Lake Wildlife Management Area (WMA), and eight state-listed threatened or endangered species habitats.
+
+### What Is the Current Site Status?
+
+The New Jersey Department of Environmental Protection (NJDEP) requested EPA's assistance in July 2018 in addressing contamination at the site. EPA documented conditions at the site and collected samples from select containers for testing. The testing indicated that flammables, acids, and corrosive materials were present within the facility. EPA removed over 100 tons of hazardous waste and cyanide-contaminated debris from the facility, which included approximately 20,000 gallons of liquid waste between August 2018 and August 2019.

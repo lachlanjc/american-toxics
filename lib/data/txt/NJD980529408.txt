@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Monitor Devices, Inc./Intercircuits, Inc. site is located in Wall Township, New Jersey. The company manufactured printed circuit boards at the two-acre site between 1977 to 1981. During this period, the manufacturing process resulted in the production of wastewater that contained heavy metals such as [copper](https://www.atsdr.cdc.gov/toxfaqs/tfacts132.pdf) and [lead](https://www.atsdr.cdc.gov/toxfaqs/tfacts13.pdf), as well as solvents and corrosive acids. Operators of the facility disposed of the wastewater improperly by either dumping it onto the ground behind the buildings.
+
+The facility's operations resulted in the contamination of groundwater with heavy metals and [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds). Groundwater cleanup and monitoring are currently underway to address this issue.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2005, EPA selected in-situ bioremediation to break down the volatile organic compounds in the groundwater. This method involved injecting non-hazardous additives into the groundwater that help bacteria degrade the volatile organic compounds. EPA started this cleanup in 2010 and will continue it until cleanup goals are achieved, which is anticipated to be in 2024.
+
+The bioremediaiton technology used to treat volatile organic compounds in groundwater is not effective for 1,4-dioxane, which EPA discovered at the site during the bioremediation cleanup process.
+
+In September 2023, EPA selected a cleanup method to address 1,4-dioxane in groundwater that involves the use of in-situ chemical oxidation in permeable reactive barriers. Under this cleanup method, permeable reactive barriers would be built by placing a series of injection wells perpendicular to groundwater flow and filling the wells with a reactive material that can destroy 1,4-dioxane while allowing the passage of groundwater.
+
+### What Is the Current Site Status?
+
+The bioremediation treatment of volatile organic compounds in site groundwater is ongoing and volatile organic compound concentrations have declined in treatment areas. Bioremediation treatment is anticipated to continue until 2025. Following the completion of the bioremediation treatment, EPA will implement the in-situ chemical oxidation permeable reactive barrier wall remedy for the long-term treatment of 1,4-dioxane in groundwater.

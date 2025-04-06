@@ -1,35 +1,37 @@
-NAVAL AMPHIBIOUS BASE LITTLE CREEKVIRGINIA BEACH, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 2,215-acre Little Creek site is located in the Virginia Beach, Virginia near the mouth of the Chesapeake Bay. The former Little Creek began operations as a permanent base in 1946. The Base’s mission was the training of landing craft personnel for operational assignments. Base personnel provide logistic facilities and support services for local commands, organizations, home-ported ships, and other U.S. and allied units to meet amphibious warfare training requirements of the U.S. armed forces. Little Creek’s current and past uses include recreational, commercial, and residential purposes; as well as, vehicle and boat maintenance, boat painting and sandblasting, construction and repair of buildings and piers, mixing and application of pesticides, electroplating of musical instruments, laundry and dry cleaning, medical and dental treatment, and the generation of steam for heat some of which has led to soil, sediment, surface water and groundwater contamination at the site. The Site was added to the Superfund program's National Priorities List (NPL) in May 1999. The Federal Facilities Agreement (FFA) negotiated between the Navy, EPA, and Virginia Department of Environmental Quality (VDEQ), was signed in October 2003. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. A Federal Facilities Agreement (FFA) negotiated between EPA, the Virginia Department of Environmental Quality (VDEQ), and the Navy was signed in October 2003. The FFA identified areas for investigation and possible cleanup and provides the framework and a schedule to accomplish this work. Currently there are eight operable units (OUs) being addressed under the Superfund program. EPA has signed Records of Decision (RODs) selecting remedies for twelve operable units. 
-Opeable Unit 1: Type - soil & groundwater 
-Remedy – Soil Cover, Land Use Controls, Monitoring, Operations & Maintenance Institutional Controls (ICs) to prohibit digging into or disturbance of soil cover and landfill contents and prohibit the use of the site for residential, childcare, elementary or secondary school, or playground facilities. Long-Term Monitoring of groundwater.
-Operable Unit 2: No Further Action
-Operable Units 3 & 4: Combined Record of Decision (ROD). Type - soil & groundwater
-Remedy OU3 - Land Use Controls to prohibit digging into or disturbance of existing cover and landfill contents and prohibit residential use site. Remedy OU4 - Monitoring and Land Use Controls to prohibit use of shallow aquifer groundwater other than for monitoring.
-Operable Unit 5: Type - groundwater
-Remedy - Enhanced Reductive Dechlorination, Land Use Controls to prohibit withdrawal of groundwater except for monitoring, prohibit use of site for residential, childcare, elementary or secondary school or playground facilities.
-Operable Unit 6: Type - groundwater
-Remedy - Bioremediation, Monitoring, Land Use Controls, Chemical Oxidation (PCE and its breakdown products). Land Use Controls (LUCs) eliminate exposure to shallow groundwater until unrestricted use. Explanation of Significant Differences (ESD) nonfundamental change (10/25/2006).
-Operable Unit 7: Type - groundwater
-Remedy - Bioremediation, Monitoring, LUCs to prohibit withdrawal of groundwater except for monitoring, prohibit use of site for residential, childcare, elementary or secondary school or playground facilities
-Operable Unit 8: Type - groundwater
-Remedy - Land Use Controls, Monitoring– Monitored Natural Attenuation (MNA), LUC. MNA is expected to be successful in attaining cleanup levels throughout the plume and no source materials constituting principal threats are present. Data indicates that MNA will be effective and degrade volatile organic compounds (VOCs) to attain cleanup levels within a reasonable timeframe. Institutional Controls to prohibit exposure and restrict groundwater uses until concentrations allow for Unlimited use/Unrestricted exposure.
-Operable Unit 9: No Further Action
-Operable Unit 10: No Further Action
-Operable Unit 11: Type - groundwater
-Remedy – Bioremediation, Performance monitoring, Long-term monitoring, Land Use Controls to prohibit activities that would result in contact with shallow groundwater except for monitoring, prohibit construction of new buildings at the site without ensuring vapor intrusion mitigation;  prohibit the withdrawal of shallow groundwater except for environmental monitoring, and prohibit use of site for residential, child care, elementary or secondary school or playground facilities. ESD nonfundamental change (01/25/2022).
-A full list of the operable units can be viewed under the Operable Units section. 
-Top of Page
-What Is the Current Site Status?
-The site is considered construction complete since 2015, however the remedies at OUs 1, 3, 5, 6, 7, 8 and 11 require long-term monitoring of groundwater. The Navy has the lead role for cleaning up the Little Creek site. Per the FFA between EPA, VADEQ and the Navy, a Site Management Plan (SMP) is annually updated with activities at each OU and Area of Concern. For detailed information on the current clean-up status, see the Little Creek Site Management Plan. A full list of activities per each OU can be found under the Cleanup Progress section.  The lead agency conducts five-year reviews for remedies implemented where contamination is left on site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recentwas the 2024 Five-Year Review.The next five-year review is scheduled for 2029. 
-Top of Page
+### Background
+
+The 2,215-acre Little Creek site is located in the Virginia Beach, Virginia near the mouth of the Chesapeake Bay. The former Little Creek began operations as a permanent base in 1946. The Base’s mission was the training of landing craft personnel for operational assignments. Base personnel provide logistic facilities and support services for local commands, organizations, home-ported ships, and other U.S. and allied units to meet amphibious warfare training requirements of the U.S. armed forces. Little Creek’s current and past uses include recreational, commercial, and residential purposes; as well as, vehicle and boat maintenance, boat painting and sandblasting, construction and repair of buildings and piers, mixing and application of pesticides, electroplating of musical instruments, laundry and dry cleaning, medical and dental treatment, and the generation of steam for heat some of which has led to soil, sediment, surface water and groundwater contamination at the site. The Site was added to the Superfund program's National Priorities List (NPL) in May 1999. The Federal Facilities Agreement (FFA) negotiated between the Navy, EPA, and Virginia Department of Environmental Quality (VDEQ), was signed in October 2003.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. A Federal Facilities Agreement (FFA) negotiated between EPA, the Virginia Department of Environmental Quality (VDEQ), and the Navy was signed in October 2003. The FFA identified areas for investigation and possible cleanup and provides the framework and a schedule to accomplish this work. Currently there are eight operable units (OUs) being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for twelve operable units.
+
+- **Opeable Unit 1: Type - soil & groundwater**
+	- Remedy – Soil Cover, Land Use Controls, Monitoring, Operations & Maintenance Institutional Controls (ICs) to prohibit digging into or disturbance of soil cover and landfill contents and prohibit the use of the site for residential, childcare, elementary or secondary school, or playground facilities. Long-Term Monitoring of groundwater.
+- **Operable Unit 2: No Further Action**
+- **Operable Units 3 & 4: Combined Record of Decision (ROD). Type - soil & groundwater**
+	- Remedy OU3 - Land Use Controls to prohibit digging into or disturbance of existing cover and landfill contents and prohibit residential use site. Remedy OU4 - Monitoring and Land Use Controls to prohibit use of shallow aquifer groundwater other than for monitoring.
+- **Operable Unit 5: Type - groundwater**
+	- Remedy - Enhanced Reductive Dechlorination, Land Use Controls to prohibit withdrawal of groundwater except for monitoring, prohibit use of site for residential, childcare, elementary or secondary school or playground facilities.
+- **Operable Unit 6: Type - groundwater**
+	- Remedy - Bioremediation, Monitoring, Land Use Controls, Chemical Oxidation (PCE and its breakdown products). Land Use Controls (LUCs) eliminate exposure to shallow groundwater until unrestricted use. Explanation of Significant Differences (ESD) nonfundamental change (10/25/2006).
+- **Operable Unit 7: Type - groundwater**
+	- Remedy - Bioremediation, Monitoring, LUCs to prohibit withdrawal of groundwater except for monitoring, prohibit use of site for residential, childcare, elementary or secondary school or playground facilities
+- **Operable Unit 8: Type - groundwater**
+	- Remedy - Land Use Controls, Monitoring– Monitored Natural Attenuation (MNA), LUC. MNA is expected to be successful in attaining cleanup levels throughout the plume and no source materials constituting principal threats are present. Data indicates that MNA will be effective and degrade volatile organic compounds (VOCs) to attain cleanup levels within a reasonable timeframe. Institutional Controls to prohibit exposure and restrict groundwater uses until concentrations allow for Unlimited use/Unrestricted exposure.
+- **Operable Unit 9: No Further Action**
+- **Operable Unit 10: No Further Action**
+- **Operable Unit 11: Type - groundwater**
+	- Remedy – Bioremediation, Performance monitoring, Long-term monitoring, Land Use Controls to prohibit activities that would result in contact with shallow groundwater except for monitoring, prohibit construction of new buildings at the site without ensuring vapor intrusion mitigation; prohibit the withdrawal of shallow groundwater except for environmental monitoring, and prohibit use of site for residential, child care, elementary or secondary school or playground facilities. ESD nonfundamental change (01/25/2022).
+
+A full list of the operable units can be viewed under the Operable Units section.
+
+### What Is the Current Site Status?
+
+The site is considered construction complete since 2015, however the remedies at OUs 1, 3, 5, 6, 7, 8 and 11 require long-term monitoring of groundwater. The Navy has the lead role for cleaning up the Little Creek site.
+
+Per the FFA between EPA, VADEQ and the Navy, a Site Management Plan (SMP) is annually updated with activities at each OU and Area of Concern. For detailed information on the current clean-up status, see the [Little Creek Site Management Plan](https://semspub.epa.gov/src/document/03/2398347). A full list of activities per each OU can be found under the Cleanup Progress section.
+
+The lead agency conducts five-year reviews for remedies implemented where contamination is left on site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recentwas the [2024 Five-Year Review](https://semspub.epa.gov/src/document/03/2377802).The next five-year review is scheduled for 2029.

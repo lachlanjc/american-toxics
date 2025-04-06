@@ -1,2 +1,30 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The W.R. Grace & Co./Wayne Interim Storage site is located in Wayne Township, New Jersey. The 6-acre area was used by Rare Earths, Inc. between 1948 and 1957 to extract thorium and rare earth metals from monazite ore. In 1957, a division of W.R. Grace & Co. Inc. acquired the facility and continued to process monazite ore at the site until 1971. Radioactive waste and contaminated building rubble were stored in burial pits on site. In 1974, W.R. Grace closed the facility and decontaminated the site. In 1980, radiological surface contamination was discovered at the processing facility site and on areas west of the plant.
+
+From 1948 through 1957, Rare Earths, Inc. processed monazite sand at the site to extract thorium and rare earth metals. In 1954, after the Atomic Energy Act was passed, Rare Earths received an Atomic Energy Commission (AEC) license to conduct these operations. The Davison Chemical Division of W.R. Grace and Company acquired the facility in 1957, and processing activities continued until July 1971. During this time, some process wastes from the thorium operations were buried on the site.  
+The process, which was used to extract the rare earths and thorium from the monazite in solution, involved controlling the pH and selectively precipitating and separating desired products. Wastes and residues from the processing operations, which typically contained less than five percent of the original thorium concentration, included ore tailings, yttrium sludges and sulfate precipitates. Liquid effluents were treated to existing effluent standards by an on-site wastewater treatment plant, neutralized and discharged through storm drains into Sheffield Brook. Sheffield Brook often flooded during periods of heavy rainfall, causing contamination to spread to nearby low-lying properties. Residues from the wastewater treatment operation were disposed of in an on-site sludge dump.
+
+In 1974, W.R. Grace closed the facility and decontaminated the site. Several buildings were demolished, and the building debris was buried on site. Waste disposal areas on the site were covered with clean fill to reduce gamma radiation levels to below 0.2 millirad per hour (mrad/hr). The Nuclear Regulatory Commission released the site for unrestricted use in 1975, with the provision that a notation be recorded on the property deed that radioactive material was buried at the site.
+
+In 1980, radiological surface contamination was discovered at the processing facility site and on areas west of the plant (vicinity properties). DOE assigned the site to their Formerly Utilized Sites Remedial Action Program. In 1984, DOE acquired the former processing facility site property from W.R. Grace & Company. DOE then began investigating the site. From 1984 to 1987, and again in 1993, several nearby properties were cleaned up. Because there were no disposal facilities available that were licensed or permitted to accept the radiological wastes from the site, excavated soils and cleanup debris were stored in an interim storage pile on the former processing facility site property.
+
+After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1984
+
+After immediate actions to protect human health and the environment, the site’s long-term remedy was put in place. EPA took the site off the Superfund program’s National Priorities List in 2012.
+
+### What Has Been Done to Clean Up the Site?
+
+In October 1997, Congress transferred administration and execution of the Formerly Utilized Sites Remedial Action Program (FUSRAP) from DOE to the U.S Army Corps of Engineers (Corps). In March 1998, EPA and the Corps renegotiated the original FFA.
+
+Immediate Actions: DOE excavated and contained about 38,500 cubic yards of contaminated soil from all areas except the railroad spur area at an interim storage area. Another 70,000 cubic yards of contaminated wastes were located below grade. The Corps maintained and monitored the site and complied with state permit requirements. In the summer of 1993, DOE cleaned up contaminated soil at the Pompton Plains railroad spur and adjacent residential properties.  
+
+Long-term Cleanup: The Corps cleaned, dug up and properly disposed of remaining contaminated soil from the site and from several nearby properties. The Corps also decontaminated and demolished a processing building on site and removed and treated contaminated groundwater near the areas that were excavated. It also instituted a program to monitor the site to ensure that the work was successful. The work finished in 2003. Ownership of the site property transferred to Wayne Township in 2006.  
+
+### What Is the Current Site Status?
+
+The site was addressed in two stages: immediate actions and a long-term remedial phase focused on cleanup of the remainder of the site. The investigation and cleanup were conducted in accordance with a Federal Facility Agreement (FFA) signed by the U.S. Department of Energy (DOE) and EPA in 1990.
+
+Cleanup activities included short and long term actions to excavate and dispose of contaminated soil, decontamination and demolition of the site operations building on the Site, removal and off-site disposal of demolition debris, and removal and off-site disposal of contaminated materials under this building, and treatment of contaminated groundater. Cleanup work finished in 2003.  
+
+After the site’s cleanup, EPA took the site off the Superfund program’s National Priorities List in 2012.

@@ -1,27 +1,40 @@
-SAUNDERS SUPPLY CO.CHUCKATUCK, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Saunders Supply Company Site, located in Suffolk County, Virginia, is a 7-1/3 acre former wood treating plant. Although wood treating operations ceased in June 1991, it is still an active lumber yard. Between 1964 and 1984, a mixture of pentachlorophenol (PCP) and fuel oil was used as the wood preservative. In 1974, the chromated copper arsenate process was added. Part of the spent PCP/oil sludge was disposed of by burning it in an unlined pit or a conical burner on site, resulting in the generation of dioxin compounds. In addition, some of the PCP sludge was sprayed around the site to control weeds. The soil at the wood treating facility and part of the adjoining property was contaminated with arsenic, chromium, copper, PCP, and dioxins. The groundwater in the shallow Columbia aquifer is contaminated with arsenic, chromium, and PCP. The groundwater flow in the aquifer is towards Godwin's Mill Pond, a source of drinking water for more than 30,000 people in the city of Suffolk. Approximately 1,300 people live within three miles of the site, and about 700 people are served by the municipal water systems within a mile of the site. This site was proposed to the Superfund program's National Priorities List on January 22, 1987, and formally added to the list on October 4, 1989, making it eligible for federal cleanup funds. Top of Page
-What Has Been Done to Clean Up the Site?
-In 1981, the Virginia State Health Department investigated a complaint by the adjoining property owner that a chemical liquid resembling wastewater sludge was found in postholes dug on the property. In 1984, Saunders Supply Company excavated the contaminated material in the pit used to burn the spent PCP/oil mixture and disposed of it in a landfill. They also installed a recovery well and used the recovered water as process water for their wood treating operations. EPA informed Saunders Supply Company of the need to further investigate the contamination at the site in July 1987. EPA performed the investigation in 1988 and, later, the design and implementation of the remedy. A final cleanup decision was reached between EPA and Virginia in late 1991. The major components of the selected remedy included: 
-off-site disposal of pond sediments;
-low temperature thermal desorption of contaminated soils with on-site disposal;
-off-site disposal of the concrete pads;
-groundwater monitoring; and
-deed restrictions to prevent using either the upper or the lower aquifer as a source of groundwater as well as restrictions on off-site groundwater extraction. 
-In 1996, EPA amended the remedy to change treatment and disposal of the contaminated soils to off-site incineration and disposal. By changing the remedy to off-site incineration and disposal, EPA was able to drastically reduce the time required to implement the remedy, reducing the impact on the ongoing operations of the Saunders Supply Company and the business on the adjacent property. Top of Page
-What Is the Current Site Status?
-The groundwater collection, treatment and monitoring system was constructed by EPA in April 1998. The long-term groundwater cleanup to protect Godwin's Mill Pond, a source of drinking water for the City of Suffolk, is ongoing. In July 2009, EPA transferred operation and maintenance of the groundwater system to the Virginia Department of Environmental Quality (VADEQ). VADEQ will continue treating and monitoring the groundwater until the groundwater clean-up levels are met. EPA issued an Explanation of Significant Differences (ESD) (PDF) in June 2019 to limit activities on two land parcels at the site.  An ESD is required when modifications to the original cleanup plan are necessary, but do not fundamentally alter the cleanup. The ESD adds additional site and use limitations, known as institutional controls, to limit exposure to soils containing trace levels of dioxin at the site. Informational institutional controls have also been added to educate community members on how to limit exposure to contaminated soils to reduce risk. EPA has conducted four five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2019 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment in the short-term. Long-term protectiveness will be achieved when cleanup goals are met. The next five-year review is scheduled for December 2024. EPA is currently evaluating sampling data from the site preparing to conduct work at the site to further characterize the remaining groundwater contamination and if necessary, evaluate alternatives and select a remedy to address remaining site contamination. Top of Page
-Enforcement Information
-Federal Register 
-02/05/2004: Notice of Lodging of Consent Decree Under the Comprehensive Environmental Response, Compensation and Liability Act. Department of Justice.
-01/07/2004: Notice of Lodging of Consent Decree Under the Comprehensive Environmental Response, Compensation, and Liability Act. Department of Justice. 
-Top of Page
+### Background
+
+The Saunders Supply Company Site, located in Suffolk County, Virginia, is a 7-1/3 acre former wood treating plant. Although wood treating operations ceased in June 1991, it is still an active lumber yard. Between 1964 and 1984, a mixture of pentachlorophenol (PCP) and fuel oil was used as the wood preservative. In 1974, the chromated copper arsenate process was added. Part of the spent PCP/oil sludge was disposed of by burning it in an unlined pit or a conical burner on site, resulting in the generation of dioxin compounds. In addition, some of the PCP sludge was sprayed around the site to control weeds. The soil at the wood treating facility and part of the adjoining property was contaminated with arsenic, chromium, copper, PCP, and dioxins. The groundwater in the shallow Columbia aquifer is contaminated with arsenic, chromium, and PCP. The groundwater flow in the aquifer is towards Godwin's Mill Pond, a source of drinking water for more than 30,000 people in the city of Suffolk. Approximately 1,300 people live within three miles of the site, and about 700 people are served by the municipal water systems within a mile of the site. This site was proposed to the Superfund program's National Priorities List on January 22, 1987, and formally added to the list on October 4, 1989, making it eligible for federal cleanup funds.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1981, the Virginia State Health Department investigated a complaint by the adjoining property owner that a chemical liquid resembling wastewater sludge was found in postholes dug on the property.
+
+In 1984, Saunders Supply Company excavated the contaminated material in the pit used to burn the spent PCP/oil mixture and disposed of it in a landfill. They also installed a recovery well and used the recovered water as process water for their wood treating operations.
+
+EPA informed Saunders Supply Company of the need to further investigate the contamination at the site in July 1987. EPA performed the investigation in 1988 and, later, the design and implementation of the remedy.
+
+A final cleanup decision was reached between EPA and Virginia in late 1991. The major components of the selected remedy included:
+
+- off-site disposal of pond sediments;
+- low temperature thermal desorption of contaminated soils with on-site disposal;
+- off-site disposal of the concrete pads;
+- groundwater monitoring; and
+- deed restrictions to prevent using either the upper or the lower aquifer as a source of groundwater as well as restrictions on off-site groundwater extraction.
+
+In 1996, EPA amended the remedy to change treatment and disposal of the contaminated soils to off-site incineration and disposal. By changing the remedy to off-site incineration and disposal, EPA was able to drastically reduce the time required to implement the remedy, reducing the impact on the ongoing operations of the Saunders Supply Company and the business on the adjacent property.
+
+### What Is the Current Site Status?
+
+The groundwater collection, treatment and monitoring system was constructed by EPA in April 1998. The long-term groundwater cleanup to protect Godwin's Mill Pond, a source of drinking water for the City of Suffolk, is ongoing.
+
+In July 2009, EPA transferred operation and maintenance of the groundwater system to the Virginia Department of Environmental Quality (VADEQ). VADEQ will continue treating and monitoring the groundwater until the groundwater clean-up levels are met.
+
+EPA issued an [Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2262673) in June 2019 to limit activities on two land parcels at the site. An ESD is required when modifications to the original cleanup plan are necessary, but do not fundamentally alter the cleanup. The ESD adds additional site and use limitations, known as institutional controls, to limit exposure to soils containing trace levels of dioxin at the site. Informational institutional controls have also been added to educate community members on how to limit exposure to contaminated soils to reduce risk.
+
+EPA has conducted four five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2292937), concluded that the remedy continues to be protective of human health and the environment in the short-term. Long-term protectiveness will be achieved when cleanup goals are met. The next five-year review is scheduled for December 2024.
+
+EPA is currently evaluating sampling data from the site preparing to conduct work at the site to further characterize the remaining groundwater contamination and if necessary, evaluate alternatives and select a remedy to address remaining site contamination.
+
+### Enforcement Information
+
+**Federal Register**
+
+- [02/05/2004](https://www.gpo.gov/fdsys/pkg/FR-2004-02-05/html/04-2320.htm): Notice of Lodging of Consent Decree Under the Comprehensive Environmental Response, Compensation and Liability Act. Department of Justice.
+- [01/07/2004](https://www.gpo.gov/fdsys/pkg/FR-2004-01-07/html/04-306.htm): Notice of Lodging of Consent Decree Under the Comprehensive Environmental Response, Compensation, and Liability Act. Department of Justice.

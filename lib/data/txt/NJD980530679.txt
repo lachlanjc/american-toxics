@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The South Brunswick Township Landfill site is located in Middlesex County, New Jersey. The 68-acre area was a landfill for over 20 years before its closure in 1978. The landfill received municipal refuse, pesticides, chemical wastes and hazardous wastes. Landfill operations contaminated groundwater and surface water with volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that can easily evaporate into the air. After site investigations, EPA put the site’s long-term remedy in plac Following cleanup, EPA took the site off the National Priorities List in February 1998.
+
+The solid waste landfill on site accepted municipal refuse, pesticides, chemical wastes and hazardous wastes for more than 20 years. Title to the site property was acquired by Princeton Disposal Service, Inc., predecessor in interest to BFI of South Jersey, Inc., on or about May 31, 1973, from G & J Spilatore Excavation, previous owner and operator of the facility. The landfill was registered with the New Jersey Department of Environmental Protection (NJDEP) on August 19, 1970. Pursuant to a closure order from NJDEP on July 24, 1978, the landfill was officially closed on December 31, 1978.
+
+After site investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+Source Control: In 1983, the site’s potentially responsible party (PRP) put the site’s source control remedy in place. It included a system to collect and treat the leachate, a slurry wall along the landfill perimeter, a clay cap covering the landfill, and a gas ventilation system. Construction of the remedy finished in 1985. Monitoring is ongoing to ensure the effectiveness of the remedy.
+
+The selected remedy for the South Brunswick Landfill site is on-site containment and long term monitoring. EPA issued a Record of Decision (ROD) documenting the remedy in September 1985. The ROD states: “EPA believes the site has been effectively remediated, thereby mitigating the threat of contaminants into the environment which could present an imminent and substantial endangerment to human health and the environment.”
+
+Off-site Contamination: In May 1993, under EPA oversight, PRP BFI began investigating the extent of contamination that migrated off the site. The investigation revealed minimal contamination in one well. The leachate collection system pumping rate was increased to address this contamination. Also, during routine monitoring, VOC contamination was found in a small area outside of the slurry wall. After further investigation and evaluation of options for addressing the contamination found outside of the slurry wall, EPA required the PRP to construct a groundwater interception trench to collect contamination from the area. Collected leachate from the trench is combined with the existing waste stream and sent to the publicly owned treatment works for treatment. Construction of the interception trench took place between August 2005 and February 2006.
+
+### What Is the Current Site Status?
+
+The site has been addressed in two long-term remedial phases focused on controlling the source of contamination, and investigation and cleanup of any potential off-site contamination.  
+
+Site cleanup activities included a system to collect and treat the leachate, a slurry wall along the landfill perimeter, a clay cap covering the landfill, and a gas ventilation system.
+
+All work required to control the source of contamination has been completed. EPA took the site off the National Priorities List in February 1998. The site is monitored to determine the effectiveness of the selected remedy.
+
+### Sampling and Monitoring
+
+Sampling and monitoring of on site wells and piezometers is conducted on a semi-annual basis for all contaminants of concern. Monitoring also ensures that an inward gradient is maintained throughout the perimeter of the landfill. Inspection of the landfill cap, vents and other engineering controls are conducted on a regular basis.

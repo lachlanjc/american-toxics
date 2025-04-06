@@ -1,46 +1,60 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 33-acre Greenwood Chemical Co. site is located in Albemarle County, Virginia. From the 1940s to 1985, a manufacturing facility produced chemicals for industrial, agricultural, pharmaceutical and photographic processes on site. Manufacturing activities ceased in 1985 following a toluene vapor explosion and fire that destroyed the process building and resulted in the deaths of four workers. Site activities, including the storage and disposal of leaking drums and the operation of seven uncontrolled wastewater treatment/disposal lagoons, contaminated soil, groundwater, surface water and sludge with hazardous chemicals. The site was added on the Superfund program's National Priorities List in 1987. Following cleanup, operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-Starting in the early 1980s, the Virginia Department of Health began to investigate the site due to reports of unauthorized and poorly managed waste disposal practices. By summer 1986, conditions at the site had worsened and an emergency response by EPA was deemed necessary. More than 600 leaking and deteriorated drums, both at the surface and buried, were identified along with seven uncontrolled wastewater treatment/disposal lagoons having elevated concentrations of volatile organic compounds (VOCs) such as toluene and benzene, and semi-VOCs, such as naphthalene. Starting in 1987, EPA's initiated emergency response actions which included: the excavation and proper disposal of an estimated 500 buried drums; proper disposal of an estimated 100 surface drums and 32 pressurized gas cylinders; drainage and treatment of liquids from the three most highly contaminated lagoons; and temporarily capping the drained lagoons. EPA also completed environmental investigations and evaluated available cleanup options for long-term cleanup. During cleanup, complex sites may be divided into several distinct areas to make the response more efficient. This site was divided into two operable units (OUs). OU-1 consisted of the former chemical manufacturing buildings on site, and OU-2 was the contaminated groundwater beneath the site. In 1989, EPA issued a Record of Decision (ROD), which documented the chosen cleanup strategies for OU-1. The ROD addressed the highly contaminated lagoon sludges, contaminated soils, and containerized chemicals abandoned within the former manufacturing buildings. EPA completed the following actions in accordance with the OU-1 ROD: 
-EPA transported the abandoned chemicals that remained in the buildings to appropriate treatment and/or disposal facilities, and subsequently demolished several of the former chemical manufacturing buildings. The transportation and off-site disposal of contaminated building materials (over 100 roll-off containers) was completed in early 1993.
-In 1996, EPA excavated approximately 15,000 tons of soil contaminated with organic chemicals from seven discrete source areas including former disposal lagoons, pits and trenches. The soil was transported from the site to a rail transfer station where it was placed in railcars for final shipment to a hazardous waste incinerator in Utah for treatment and disposal.
-In November 2004, EPA completed cleaning out and properly disposing the last of the abandoned chemicals in a former laboratory.
-In May 2005, EPA completed the removal of contaminated sludge/sediment from two lagoons and disposed of approximately 19,500 tons of arsenic-contaminated surface soil in an appropriate disposal facility. These areas were filled in with clean soil, graded and seeded to help prevent erosion. 
-In 1990, EPA issued an interim ROD (1990 interim-ROD), which documented the interim cleanup strategy for contaminated groundwater beneath the site (OU-2). The interim ROD called for pumping contaminated groundwater, along with surface water from lagoons 4 and 5, to an on-site water treatment plant and discharging the cleansed water to an unnamed tributary to West Creek. Construction of the groundwater/surface water pump-and-treat system began in fall 1998 and was completed by summer 2000. Full scale operation of the pump-and-treat system began in March 2001. In September 2005, EPA issued a final ROD for OU-2 groundwater. EPA expanded the existing groundwater pump-and-treat system with additional wells in December 2005. The ongoing, periodic residential well sampling was last completed by the Virginia Department of Environmental Quality (VADEQ) in February 2020. Residential wells were first sampled in the late 1980's and have continually shown no elevated site-related contaminants. The next round of sampling is scheduled for Spring 2021. On March 15, 2012, VADEQ took over responsibility for maintaining ongoing operations, maintenance and monitoring at the site. EPA had operated the facility for ten years and continues to provide technical support to VADEQ during its operations. Operation and maintenance activities are ongoing. In July 2013, institutional controls were laid out in an Explanation of Significant Differences, which updated the list of appropriate land use restrictions to include the following:  
-residential use;
-on-site potable use of groundwater;
-any activity that would adversely impact the operation of the pump and treat system;
-any removal of the soil cover without written permission of the EPA and/or VDEQ;
-deep excavation without a site-specific health and safety plan. Any soil excavated from the Waste Management Areas would need to be sampled and managed in an appropriate manner; and
-any new habitable buildings constructed over or within 100 feet of the groundwater contaminated by volatile contaminants should include, at a minimum, a foundation vapor barrier and the subsurface piping for a sub-slab depressurization system. 
-Top of Page
-What Is the Current Site Status?
-EPA has conducted several Five Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place continue to protect public health and the environment, and function as intended by site decision documents. The most recent, 2023 Five-Year Review (PDF), was published in August 2023. The Five-Year Review concluded that the remedy continues to be protective of human health and the environment. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls for the Greenwood Chemical Co. Site were filed in the Albemarle County land records office in September 2013. The list of updated land use restrictions includes the following:  residential use;
-on-Site potable use of groundwater;
-any activity that would adversely impact the operation of the pump and treat system;
-any removal of the soil cover without written permission of the EPA and/or the Virginia Department of Environmental Quality;
-deep excavation without a site-specific health and safety plan. Any soil excavated from the Waste Management Areas would need to be sampled and managed in an appropriate manner; and
-any new habitable buildings constructed over or within 100 feet of the groundwater contaminated by volatile contaminants should include, at a minimum, a foundation vapor barrier and the subsurface piping for a sub-slab depressurization system. 
-Top of Page
-Sampling and Monitoring
-The ongoing, periodic residential well sampling was last completed by the Virginia Department of Environmental Quality (VADEQ) in February 2022. With property owners' permission, the next round of sampling is expected to be completed by VADEQ in Spring 2023. Residential wells were first sampled in the late 1980s and have continually shown no elevated site-related contaminants. Top of Page
-Emergency Response and Removal
+### Background
+
+The 33-acre Greenwood Chemical Co. site is located in Albemarle County, Virginia. From the 1940s to 1985, a manufacturing facility produced chemicals for industrial, agricultural, pharmaceutical and photographic processes on site. Manufacturing activities ceased in 1985 following a toluene vapor explosion and fire that destroyed the process building and resulted in the deaths of four workers. Site activities, including the storage and disposal of leaking drums and the operation of seven uncontrolled wastewater treatment/disposal lagoons, contaminated soil, groundwater, surface water and sludge with hazardous chemicals. The site was added on the Superfund program's National Priorities List in 1987. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Starting in the early 1980s, the Virginia Department of Health began to investigate the site due to reports of unauthorized and poorly managed waste disposal practices. By summer 1986, conditions at the site had worsened and an emergency response by EPA was deemed necessary. More than 600 leaking and deteriorated drums, both at the surface and buried, were identified along with seven uncontrolled wastewater treatment/disposal lagoons having elevated concentrations of volatile organic compounds (VOCs) such as toluene and benzene, and semi-VOCs, such as naphthalene. Starting in 1987, EPA's initiated emergency response actions which included: the excavation and proper disposal of an estimated 500 buried drums; proper disposal of an estimated 100 surface drums and 32 pressurized gas cylinders; drainage and treatment of liquids from the three most highly contaminated lagoons; and temporarily capping the drained lagoons.
+
+EPA also completed environmental investigations and evaluated available cleanup options for long-term cleanup. During cleanup, complex sites may be divided into several distinct areas to make the response more efficient. This site was divided into two operable units (OUs). OU-1 consisted of the former chemical manufacturing buildings on site, and OU-2 was the contaminated groundwater beneath the site.
+
+In 1989, EPA issued a Record of Decision (ROD), which documented the chosen cleanup strategies for OU-1. The ROD addressed the highly contaminated lagoon sludges, contaminated soils, and containerized chemicals abandoned within the former manufacturing buildings. EPA completed the following actions in accordance with the OU-1 ROD:
+
+- EPA transported the abandoned chemicals that remained in the buildings to appropriate treatment and/or disposal facilities, and subsequently demolished several of the former chemical manufacturing buildings. The transportation and off-site disposal of contaminated building materials (over 100 roll-off containers) was completed in early 1993.
+- In 1996, EPA excavated approximately 15,000 tons of soil contaminated with organic chemicals from seven discrete source areas including former disposal lagoons, pits and trenches. The soil was transported from the site to a rail transfer station where it was placed in railcars for final shipment to a hazardous waste incinerator in Utah for treatment and disposal.
+- In November 2004, EPA completed cleaning out and properly disposing the last of the abandoned chemicals in a former laboratory.
+- In May 2005, EPA completed the removal of contaminated sludge/sediment from two lagoons and disposed of approximately 19,500 tons of arsenic-contaminated surface soil in an appropriate disposal facility. These areas were filled in with clean soil, graded and seeded to help prevent erosion.
+
+In 1990, EPA issued an interim ROD (1990 interim-ROD), which documented the interim cleanup strategy for contaminated groundwater beneath the site (OU-2). The interim ROD called for pumping contaminated groundwater, along with surface water from lagoons 4 and 5, to an on-site water treatment plant and discharging the cleansed water to an unnamed tributary to West Creek. Construction of the groundwater/surface water pump-and-treat system began in fall 1998 and was completed by summer 2000. Full scale operation of the pump-and-treat system began in March 2001.
+
+In September 2005, EPA issued a final ROD for OU-2 groundwater. EPA expanded the existing groundwater pump-and-treat system with additional wells in December 2005.
+
+The ongoing, periodic residential well sampling was last completed by the Virginia Department of Environmental Quality (VADEQ) in February 2020. Residential wells were first sampled in the late 1980's and have continually shown no elevated site-related contaminants. The next round of sampling is scheduled for Spring 2021.
+
+On March 15, 2012, VADEQ took over responsibility for maintaining ongoing operations, maintenance and monitoring at the site. EPA had operated the facility for ten years and continues to provide technical support to VADEQ during its operations. Operation and maintenance activities are ongoing.
+
+In July 2013, institutional controls were laid out in an Explanation of Significant Differences, which updated the list of appropriate land use restrictions to include the following:
+
+- residential use;
+- on-site potable use of groundwater;
+- any activity that would adversely impact the operation of the pump and treat system;
+- any removal of the soil cover without written permission of the EPA and/or VDEQ;
+- deep excavation without a site-specific health and safety plan. Any soil excavated from the Waste Management Areas would need to be sampled and managed in an appropriate manner; and
+- any new habitable buildings constructed over or within 100 feet of the groundwater contaminated by volatile contaminants should include, at a minimum, a foundation vapor barrier and the subsurface piping for a sub-slab depressurization system.
+
+### What Is the Current Site Status?
+
+EPA has conducted several Five Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place continue to protect public health and the environment, and function as intended by site decision documents. The most recent, [2023 Five-Year Review](https://semspub.epa.gov/src/document/03/2354934) (PDF), was published in August 2023. The Five-Year Review concluded that the remedy continues to be protective of human health and the environment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[Institutional controls for the Greenwood Chemical Co. Site](http://semspub.epa.gov/src/document/03/2251195) were filed in the Albemarle County land records office in September 2013. The list of updated land use restrictions includes the following:
+
+1. residential use;
+2. on-Site potable use of groundwater;
+3. any activity that would adversely impact the operation of the pump and treat system;
+4. any removal of the soil cover without written permission of the EPA and/or the Virginia Department of Environmental Quality;
+5. deep excavation without a site-specific health and safety plan. Any soil excavated from the Waste Management Areas would need to be sampled and managed in an appropriate manner; and
+6. any new habitable buildings constructed over or within 100 feet of the groundwater contaminated by volatile contaminants should include, at a minimum, a foundation vapor barrier and the subsurface piping for a sub-slab depressurization system.
+
+### Sampling and Monitoring
+
+The ongoing, periodic residential well sampling was last completed by the Virginia Department of Environmental Quality (VADEQ) in February 2022. With property owners' permission, the next round of sampling is expected to be completed by VADEQ in Spring 2023. Residential wells were first sampled in the late 1980s and have continually shown no elevated site-related contaminants.
+
+### Emergency Response and Removal
+
 Cleanup also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions between 1987 and 1990 included the excavation and removal of drums and smaller containers; removal and treatment of lagoon wastewater and sludge; treatment of sludge and placement of the treated sludge in a temporary lined vault; construction of a temporary soil/synthetic membrane cap over the former drum disposal area; repair of the soil cover; and construction of drainage swales around the lagoons to prevent erosion.
-Top of Page

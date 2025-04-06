@@ -1,18 +1,35 @@
-CPS/MADISON INDUSTRIESOLD BRIDGE TOWNSHIP, NJ 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 35 acre CPS/Madison Industries site includes two manufacturing facilities, the CPS Chemical plant and the Madison Industries facility, located in Middlesex, New Jersey. The first plant was operated in the 1960’s by CPS Chemical until it was purchased by Ciba Specialty Chemicals (Ciba) in 1998, which operated the plant until 2001. The plant processed, treated, and stored organic chemicals used in the production of water treatment agents, lubricants, oil field chemicals, and anti-corrosive agents. The Badische Anilin und Soda Fabrik (BASF) Corporation acquired the property from Ciba in 2009 and took over responsibility for investigating and cleaning up the site. A second manufacturing facility currently operates at the site.  Madison Industries produces inorganic chemicals for fertilizers, pharmaceuticals, and food additives and Old Bridge Chemical produces zinc and copper compounds used in fertilizers and food additives at this second facility. Site operators have improperly handled and disposed hazardous substances at the site since the 1960’s. This included improper discharges into the public sewer system, surface water, soil, and groundwater . Perth Amboy’s municipal drinking water wellfield is located downgradient (in the direction of groundwater flow) of the site. Thirty-two municipal wells had to be closed due to contamination attributed to the site. Approximately 100 residences are located  within one mile of the site.  Top of Page
-What Has Been Done to Clean Up the Site?
-In 1991, the New Jersey Department of Environmental Protection (NJDEP) directed both CPS Chemical and Madison Industries to install interim groundwater recovery systems to control the spread of groundwater contamination and protect the Perth Amboy drinking water well field. A system operated by Madison Industries currently pumps and treats groundwater at a rate of about 80 gallons per minute. A CPS-operated system currently withdraws and treats about 30 gallons per minute. These systems are meant to be interim measures to control contamination until a comprehensive site cleanup plan is implemented. In addition, an air stripper which uses air to remove hazardous compounds from contaminated water to protect against volatile organic compounds is being used to treat water drawn from Perth Amboy’s municipal drinking water well field. The CPS/Madison site was placed on the National Priorities List (NPL) in September 1983, with New Jersey as the lead agency. In 2003, NJDEP requested that EPA take the lead role in overseeing the Superfund cleanup. EPA is cleaning up the CPS/Madison Superfund site in two stages: interim actions and a long-term cleanup phase focused on cleanup of the entire site. Interim Actions: Madison Industries and CPS Chemical installed groundwater pump-and-treat systems in 1991 to prevent contamination of the nearby Perth Amboy well field. The systems remain in operation. With funding from CPS Chemical and Madison Industries, Perth Amboy modified its well field in 1994 to add water treatment. Long-term Cleanup: Under state court orders, investigations of contamination at the site began in the 1990s to determine the nature and extent of the contamination. These investigations identified several on-site source areas. Madison Industries and CPS took several actions, including implementation of a groundwater treatment system, to address these sources. NJDEP established institutional controls in 1998 and 1999, including a Classification Exception Area (CEA) and a Well Restriction Area (WRA) that limited the installation of groundwater extraction wells. After it took over the CPS property in 2010, Badische Anilin und Soda Fabrik became responsible for site investigations and operation of the interim groundwater pump-and-treat system.
-EPA took over oversight responsibility from NJDEP for investigating and cleaning up the site in 2003. EPA also signed orders with the site owners in 2005 (CPS) and 2015 (Madison).
-Top of Page
-What Is the Current Site Status?
-EPA completed an investigation for site-wide groundwater and source area for the CPS property in 2018. EPA published a proposed plan in April 2019 that identified EPA's preferred cleanup action for the site and solicited public comment on the plan. EPA formalized its cleanup plan selection for the groundwater and CPS source area in Record of Decision (ROD) released in September 2019.  EPA began investigating the Madison source area early fall 2015 and plans to issue a proposed plan for Madison source area soil in 2023. Top of Page
+### Background
+
+The 35 acre CPS/Madison Industries site includes two manufacturing facilities, the CPS Chemical plant and the Madison Industries facility, located in Middlesex, New Jersey.
+
+The first plant was operated in the 1960’s by CPS Chemical until it was purchased by Ciba Specialty Chemicals (Ciba) in 1998, which operated the plant until 2001. The plant processed, treated, and stored organic chemicals used in the production of water treatment agents, lubricants, oil field chemicals, and anti-corrosive agents. The Badische Anilin und Soda Fabrik (BASF) Corporation acquired the property from Ciba in 2009 and took over responsibility for investigating and cleaning up the site.
+
+A second manufacturing facility currently operates at the site. Madison Industries produces inorganic chemicals for fertilizers, pharmaceuticals, and food additives and Old Bridge Chemical produces zinc and copper compounds used in fertilizers and food additives at this second facility.
+
+Site operators have improperly handled and disposed hazardous substances at the site since the 1960’s. This included improper discharges into the public sewer system, surface water, soil, and groundwater.
+
+Perth Amboy’s municipal drinking water wellfield is located downgradient (in the direction of groundwater flow) of the site. Thirty-two municipal wells had to be closed due to contamination attributed to the site. Approximately 100 residences are located within one mile of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1991, the New Jersey Department of Environmental Protection (NJDEP) directed both CPS Chemical and Madison Industries to install interim groundwater recovery systems to control the spread of groundwater contamination and protect the Perth Amboy drinking water well field.
+
+A system operated by Madison Industries currently pumps and treats groundwater at a rate of about 80 gallons per minute. A CPS-operated system currently withdraws and treats about 30 gallons per minute. These systems are meant to be interim measures to control contamination until a comprehensive site cleanup plan is implemented. In addition, an air stripper which uses air to remove hazardous compounds from contaminated water to protect against [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/what-are-volatile-organic-compounds-vocs) is being used to treat water drawn from Perth Amboy’s municipal drinking water well field.
+
+The CPS/Madison site was placed on the National Priorities List (NPL) in September 1983, with New Jersey as the lead agency. In 2003, NJDEP requested that EPA take the lead role in overseeing the Superfund cleanup.
+
+EPA is cleaning up the CPS/Madison Superfund site in two stages: interim actions and a long-term cleanup phase focused on cleanup of the entire site.
+
+Interim Actions: Madison Industries and CPS Chemical installed groundwater pump-and-treat systems in 1991 to prevent contamination of the nearby Perth Amboy well field. The systems remain in operation. With funding from CPS Chemical and Madison Industries, Perth Amboy modified its well field in 1994 to add water treatment.
+
+Long-term Cleanup: Under state court orders, investigations of contamination at the site began in the 1990s to determine the nature and extent of the contamination. These investigations identified several on-site source areas.
+
+Madison Industries and CPS took several actions, including implementation of a groundwater treatment system, to address these sources. NJDEP established institutional controls in 1998 and 1999, including a Classification Exception Area (CEA) and a Well Restriction Area (WRA) that limited the installation of groundwater extraction wells. After it took over the CPS property in 2010, Badische Anilin und Soda Fabrik became responsible for site investigations and operation of the interim groundwater pump-and-treat system.
+
+EPA took over oversight responsibility from NJDEP for investigating and cleaning up the site in 2003. EPA also signed orders with the site owners in [2005 (CPS)](https://semspub.epa.gov/work/02/411100.pdf) and [2015 (Madison)](https://semspub.epa.gov/work/02/376340.pdf).
+
+### What Is the Current Site Status?
+
+EPA completed an investigation for site-wide groundwater and source area for the CPS property in 2018. EPA published a [proposed plan](https://semspub.epa.gov/src/document/02/562817) in April 2019 that identified EPA's preferred cleanup action for the site and solicited public comment on the plan. EPA formalized its cleanup plan selection for the groundwater and CPS source area in [Record of Decision (ROD)](https://semspub.epa.gov/src/document/02/541232) released in September 2019.
+
+EPA began investigating the Madison source area early fall 2015 and plans to issue a proposed plan for Madison source area soil in 2023.

@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Vineland Chemical Company Superfund site is located in the northwestern portion of Vineland, in Cumberland County, south central New Jersey, in an area of mixed industrial, low-density residential and agricultural properties. The site is bordered immediately to the north by other industrial properties and the Blackwater Branch, a perennial stream that flows westward to the Maurice River which eventually flows into Union Lake.
+
+The Vineland Chemical Company operated from 1949 to 1994 and produced arsenical herbicides and fungicides. The company stored byproduct arsenic salts in open piles, lagoons, and chicken coops. As a result, arsenic contamination has been found in groundwater, surface water, sediment, and soil throughout the area. After immediate actions to protect human health and the environment, the site’s long-term cleanup is ongoing.
+
+As early as 1966, the New Jersey Department of Health observed untreated wastewater being discharged into unlined lagoons at the site. This wastewater was contaminated with arsenic at concentrations up to 67,000 parts per billion. Waste salts containing 1-2 percent arsenic were stored outside in uncovered piles. Precipitation dissolved some of these salts and carried them into the groundwater, which eventually discharged into nearby surface water bodies.
+
+Following the death of the owner in October 1990, operations at the Vineland Chemical facility began to diminish. In 1992, EPA assessed site conditions after being informed by the plant manager that the site would be abandoned. After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1984. A Record of Decision (ROD) for the site was signed in 1989 documenting the cleanup plan that EPA developed.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1992 and 1993, EPA boarded up chicken coops and abandoned buildings, fenced off contaminated areas, and removed hazardous chemicals stored at the site. In 1995, EPA completed demolition work at the site, which included removing and disposing eight contaminated buildings. The final two remaining site buildings were demolished in the spring of 2004.
+
+To address arsenic-contaminated soil, EPA constructed an innovative soil washing facility that processed 70 tons of soil per hour. The facility processed over 400,000 tons of arsenic-contaminated soil and sediments. The soil remedy was completed in 2014.
+
+To address contaminated groundwater, EPA constructed a system to pump out and treat about two million gallons of contaminated groundwater daily. Operation of the facility began in the spring of 2000 and is ongoing. The pump-and-treat operation has captured the flow of arsenic-contaminated groundwater from the plant site. The treated groundwater continues to meet the site’s cleanup goal.
+
+The Blackwater Branch remediation, which extended from the plant site to the confluence with the Maurice River, was implemented in four phases. Clean-water stream diversions were constructed within each phase to allow for the removal of contaminated sediment under controlled surface water management conditions and prevent the discharge of contaminated sediment into the Maurice River. Sediment excavation and backfilling all along the Blackwater Branch has been completed and Atlantic White Cedar wetlands restoration activities have also been completed; however the wetlands will continue to be monitored and additional remedial measures may be taken, as necessary, to ensure there are no further impacts and that the revegetation continues to thrive.
+
+Beach monitoring on the Maurice River and in Union Lake began in the early 2000s and will continue until it is concluded that there are no further impacts to the beaches.To date, no unacceptable risks to beach users have been identified.
+
+### What Is the Current Site Status?
+
+The site is divided into four operable units (OU). The 1989 ROD selected remedies to address each of the operable units, and several parts of the cleanup work specified in the ROD have already been completed.
+
+Operable Unit 1 consisted of source material control at the former Vineland Chemical Company plant site. To address arsenic-contaminated soil, EPA constructed a soil washing facility that processed 70 tons of excavated soil per hour. The facility processed over 400,000 tons of arsenic-contaminated soil and sediment, and the remaining waste was disposed of at a permitted off-site disposal facility. The soil remedy was completed in 2014.
+
+OU2 relates to management of the migration of contamination through groundwater. To address contaminated groundwater, EPA constructed a system to pump out and treat about two million gallons of contaminated groundwater daily. Operation of the facility began in the spring of 2000 and is ongoing. The pump-and-treat operation is capturing the majority of the flow of arsenic-contaminated groundwater from the plant site. The treated groundwater continues to meet the site’s cleanup goal. Operation of the pump-and-treat system was transferred to NJDEP in October 2014.
+
+OU3 relates to addressing contamination associated with the sediment/soil in the river areas, including the Maurice River, the Blackwater Branch of the Maurice River, and their associated floodplains. Initial cleanup activities were completed for OU3 in December 2012. However, monitoring since that time has shown that certain areas of exposed sediment/soil of the Blackwater Branch floodplain have become re-contaminated with arsenic above the cleanup goals identified in the 1989 ROD due to arsenic in groundwater reaching the sediment/soil during the ongoing implementation of the OU2 remedy. As such, A ROD Amendment for the site was signed in September 2016 identifying a modification to the OU3 remedial action from the original ROD in 1989 to address recontamination of exposed sediment/soil of the Blackwater Branch floodplain. The amended interim remedy includes in-situ treatment, hot spot excavation, and performance monitoring.
+
+OU4 of the site relates to Union Lake, an 870-acre impoundment on the Maurice River. The upstream remedial activities will be evaluated prior to proceeding with active cleanup of the lake. Arsenic contamination in sediment has been found in the lake. Surface water samples had elevated arsenic concentrations only when agitated (mixed with contaminated sediment). Beach monitoring around Union Lake began in the early 2000s and will continue until it is concluded that there are no further impacts to the lake. To date, no unacceptable risks to beach users have been identified.

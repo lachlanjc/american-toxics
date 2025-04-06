@@ -1,2 +1,97 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Vienna Tetrachloroethene Site is located in Vienna, Wood County, West Virginia. The Site is located in a mixed-use commercial and residential area near the eastern bank of the Ohio River.
+
+The Site consists of groundwater that is contaminated with tetrachloroethene, which is also referred to as PCE. The subsurface groundwater plume is located beneath an estimated 20-block area of the City. PCE was a common solvent used in dry cleaning and for other commercial de-greasing purposes.
+
+In 1992, the City of Vienna detected PCE in some of the municipal drinking water wells at concentrations as high as 310 micrograms per liter (ug/L), significantly above the federal Maximum Contaminant Level (MCL) for drinking water at 5 ug/L. Upon further assessment, two former drycleaners were identified as sources of the groundwater contamination. PCE contamination was detected in surface and subsurface soils as well as groundwater at one dry cleaning facility (Vienna Cleaners); and PCE contamination to a lesser degree in the groundwater beneath a second dry cleaning facility (Busy Bee Cleaners). The former Vienna Cleaners was located at the intersection of 30th Street and 5th Avenue; the building was razed in late 2016. Busy Bee Cleaners was located at the intersection of 27th Street and Grand Central Avenue.
+
+The City of Vienna's municipal water supply relies primarily on the groundwater located below the City. Vienna's current municipal production wells are not contaminated. The municipal water supply originally consisted of 12 wells. Currently, only eight wells produce potable water due to PCE contamination. The four wells with PCE contamination were abandoned.
+
+As detailed below, the Vienna PCE Superfund Site has been in active remediation since 2005 using a combination of air sparge (AS), soil vapor extraction (SVE) and groundwater pump and treat to remove volatile organic compounds (VOCs) from the groundwater and vadose zone. The EPA operated the Site remedy from 2005 through May 2017, when it was turned over to the West Virginia Department of Environmental Protection (WVDEP), who is currently responsible for operations and maintenance (O&M). Based on routine groundwater monitoring, it was identified that the Site remedy, while still protective of human health and the environment, is not functioning as intended. In 2024, EPA initiated a Supplemental Remedial Investigation/ Focused Feasibility Study with the goal being to optimize, enhance, and/or modify the active Site remedy.
+
+### What Has Been Done to Clean Up the Site?
+
+The cleanup for the Site is being addressed through federal, state and local actions.
+
+In 1992, the City of Vienna detected PCE in municipal wells and shut down four of its 12 municipal production wells.
+
+In late 1992, EPA became involved and in early 1993, under the Removal Program, EPA began a Removal Action that included:
+
+- Installing two new, non-contaminated municipal wells;
+- Conducting a subsurface investigation to assess the source and extent of contamination.
+- Installing and sampling four groundwater monitoring wells;
+- Conducting a pilot study of a cleanup technology called Unterdruck Verdampfer Brunner (UVB) that uses vacuum vaporizer wells and a central treatment system to remove PCE from under the source area;
+- Monitoring the concentration and direction of the PCE plume (which flows in the direction of active municipal production wells);
+- Installing a monitoring well to serve as an early warning for PCE contamination approaching the municipal production wells; and
+- Installing five temporary monitoring wells to define the leading edge of the PCE-contaminated groundwater plume.
+
+Field work activities such as groundwater sampling, geologic logging, soil sampling and test pump down rates were used to determine the suitability of the new municipal well field and to aid in the engineering design of the new municipal production wells.
+
+In 1999, the Vienna Tetrachloroethylene Site was listed on EPA’s National Priorities List (NPL) making it eligible for federal cleanup funds. EPA began the Superfund process of conducting a Remedial Investigation and Feasibility Study (RI/FS) for the Site cleanup. These two studies are the basis for identifying and selecting the most appropriate cleanup remedy.
+
+EPA’s cleanup team mapped the underground PCE plume utilizing Cone Pentrometer Technology (CPT) rigs, which provided real time screening data for use in quickly estimating the extent of the PCE groundwater contamination. Using the screening data, EPA was able to identify the most appropriate locations to install monitoring wells. The monitoring well installation began in November 2000 and was completed by January 2001.
+
+In 2002, EPA’s cleanup remedy was selected and outlined in the Record of Decision (ROD) (PDF). The cleanup consists of Air Sparging/Soil Vapor Extraction (AS/SVE) units and an Unterdruck-Verdampfer-Brunnen (UVB) system. UVB is an in situ groundwater remedy developed to remove volatile organic compounds (VOCs), such as PCE, from groundwater. The goal of the UVB system is to reduce PCE in soils so it no longer contributes to the contamination in the groundwater above the drinking water Maximum Contaminant Level (MCL) of 5 parts per billion.
+
+EPA designed the cleanup remedy, in accordance with the ROD. The Remedial Design was completed in the spring of 2004. Testing of the system began in July 2005 and the system is operating as designed. The cleanup has reduced the concentration of PCE in the groundwater and will continue to operate until cleanup levels are achieved.
+
+EPA is the lead agency for the site cleanup and is working with the State of West Virginia, City of Vienna and Wood County to put institutional controls in place to help ensure there is no use of contaminated groundwater.
+
+In 2005, once the removal and remedial construction activities were completed, EPA prepared a Preliminary Close Out Report (PDF). EPA will continue to monitor the plume to test the effectiveness of the cleanup.
+
+In 2013-2014, EPA conducted an investigation into potential vapor intrusion (VI) in association with Site-related contamination. The assessment was to determine if nearby buildings were being affected by the contaminated groundwater plume through vapor intrusion; a possible result of contaminated groundwater. To date, VI sampling results have not shown PCE concentrations at action levels. However EPA will continue to monitor for potential VI and evaluate incoming data to determine if any future remedial actions are required.
+
+Production wells for the City of Vienna municipal water supply are not contaminated with PCE. A sparge curtain is in place to protect municipal wells from the plume in case the leading edge of the contaminated plume threatens the city’s water supply (to the north of the plume). At this time, there has been no threat from the plume and the sparge curtain has not been activated.
+
+Municipal water supplies are tested regularly and must meet federal Safe Drinking Water Act standards.
+
+The U.S. Fish and Wildlife Service identified the Pink Mucket Pearly Mussel and the Fanshell Mussel as federally endangered species in the vicinity of the Site, in the Ohio River. Contaminants present in the groundwater are not reaching the Ohio River and therefore do not present an adverse impact to these species.
+
+### What Is the Current Site Status?
+
+EPA has installed the cleanup technology at the site, and cleanup is ongoing in order to protect the drinking water from contamination. As the Air Sparging / Soil Vapor Extraction (AS/SVE) units continue operations, and cleanup progress is being made, the groundwater plume is decreasing in size and concentrations.
+
+At Superfund sites, states contribute ten percent of cleanup costs and eventually take the lead on long-term Operations and Maintenance (O&M). In 2017, EPA transferred long-term O&M for the Site to the State of West Virginia.
+
+The most recent, [2024](https://semspub.epa.gov/src/document/03/2408937), Five-Year Review found the remedy to remain protective of human health and the environment in the short-term because there are no complete exposure pathways to contaminated Site media. Site groundwater is not used, and the City of Vienna is connected to the municipal water supply. A May 2015 City Ordinance bans the digging or drilling of new groundwater wells within the City limits. A 2013/2014 vapor intrusion investigation determined that vapor intrusion is not a concern for nearby properties. However, the Site remedy is not functioning as intended and for the remedy to be protective over the long term, the following actions are needed:
+
+- Supplemental source area soil and groundwater investigations should be completed, followed by an optimization, enhancement, or consideration in a focused feasibility study of modification of the active Site remedy.
+- Supplemental source area soil and groundwater investigations should be completed near the former Busy Bee Cleaners in order to address persistent PCE concentrations in that area.
+- Additional groundwater monitoring wells should be installed in order to laterally and vertically delineate the extent of the groundwater contamination.
+- A second vapor intrusion investigation should be completed to confirm the findings of the 2013/2014 VI investigation.
+
+The next five-year review is scheduled for December 2029.
+
+In 2022-2023, based on analytical results from routine groundwater monitoring, it was determined that, while the Site remedy remains protective of human health and the environment, the Site remedy is not functioning as intended. In response, EPA obtained a contractor to perform a Supplemental Remedial Investigation/Focused Feasibility Study (SRI/FFS). The SRI is being conducted to help enhance, optimize, or change the remedy in place at the Site and will include the collection of additional environmental data. The SRI is projected to begin in winter 2024 and will include field activities such as monitoring well installations, passive soil gas sampling, and vapor intrusion sampling. Property owners will be contacted with a request for access if their property is located within a proposed investigation area.
+
+The next five-year review is scheduled for December 2024.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[City of Vienna Groundwater Ordinance May 2015](https://semspub.epa.gov/work/03/2292938.pdf#page=23) - This ordinance bans the construction, digging, or drilling of groundwater wells within the City of Vienna.
+
+### Sampling and Monitoring
+
+[Remedial Investigation](https://loggerhead.epa.gov/arweb/public/search_results.jsp?siteid=WVD988798401 "RI")
+
+[Feasibility Study](https://loggerhead.epa.gov/arweb/public/search_results.jsp?siteid=WVD988798401 "FS")
+
+### Emergency Response and Removal
+
+The long-term cleanup for the PCE-contaminated groundwater is being conducted by EPA’s Remedial Program using NPL funding. However, initial, interim (or short-term) response actions were conducted by EPA’s Removal Program to address immediate threats to human health and the environment.
+
+The initial Removal Actions involved:
+
+- Conducting investigations prior to constructing new municipal wells;
+- Installing two new, non-contaminated municipal wells;
+- Monitoring the concentration and direction of the PCE-contaminated plume, which flows in the direction of active municipal production wells,
+- Installing a monitoring well to serve as an early warning for PCE contamination approaching municipal production wells,
+- Installing five temporary monitoring wells to define the leading edge of the PCE plume, and,
+- Installing a pilot study Unterdruck Verdampfer Brunner (UVB) treatment system to remove PCE from soil.
+
+The pilot study was successful and the UVB technology was incorporated into the long-term remedial cleanup remedy.

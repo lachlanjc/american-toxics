@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The NL Industries Site (Site) consists of 44 acres along Pennsgrove-Pedricktown Road in Pedricktown, Oldsman Township, Salem County, New Jersey. The Site is bisected by an active Conrail railroad track. The southern 28 acres contains the former NL Industries battery recycling process area. Approximately 16 acres are located north of the railroad and include a 5.6 acre landfill. The West and East Streams border the Site on the west and east resepctively and recieve runoff from the Site.
+
+From 1972 to 1982, the Site was a secondary lead smelting facility. In 1983, National Smelting of New Jersey, Inc.acquired the Site. In 1983 and 1984, the company recycled lead from spent automotive batteries on-site. The batteries were drained of sulfuric acid, crushed and then processed for lead recovery at the smelting facility. The plastic and rubber of the battery cases were placed in an on-site landfill along with slag and contaminated soils. Facility operations contaminated soil, surface water, groundwater and sediment primarily with lead and cadmium along with localized areas of elevated volatile organic compounds. Volatile organic compounds or VOCs are potentially harmful contaminants that can easily evaporate into the air.
+
+Between 1973 and 1980, the New Jersey Department of Environmental Protection (NJDEP) noticed NL Industries with numerous violations of state air and water regulations. These violations included water pollution violations from the battery storage area and the on-site landfill. NJDEP conducted an air monitoring program in 1980 which detected airborne quantities of lead, cadmium, antimony and ferrous sulfate from the smelting process at levels that exceeded the facility's operating permits. NL Industries ceased smelting operations in May 1982.
+
+In October 1982, NL Industries entered into an administrative order on consent (AOC) with NJDEP to begin a remedial program to address contaminated site soil, paved areas, surface water runoff, groundwater and the on-site landfill. In February 1983, National Smelting of New Jersey acquired the plant. Smelting operations restarted and continued until January 1984.
+
+EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+In 2016, the southern portion of the Site was purchased by EcReCon who expanded their business from the adjacent property to the east.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA is addressing the site in an initial response and two phases called operable units (OUs) as specified in the 1991 (OU2) and 1994 (OU1) Records of Decision (ROD) or cleanup plan and the 2011 ROD Amendment to the OU1 ROD.
+
+*Initial Response:* In March 1989, EPA began a multi-phased removal action. This consisted of constructing fencing, securing the contaminated buildings, encapsulating slag piles, removing of over 40,000 pounds of toxic and reactive materials, securing slag and containers of material and removing of the most highly contaminated sediments from the West Stream.
+
+*OU2:* EPA issued a cleanup plan for OU2 in September 1991. The cleanup plan included solidification/stabilization and on-site placement of the slag materials; decontamination and off-site treatment and disposal of debris and contaminated surfaces; off-site treatment and disposal of the ponded water and sediments; and appropriate environmental monitoring to ensure the effectiveness of the remedy. In addition, any material that could be recycled in a protective and cost-effective manner would be recycled. In March 1992, EPA updated the remedy to allow the slag to be treated and disposed of off-site. At the same time, EPA issued a Unilateral Order to 31 potentially responsible parties (PRPs) to implement the selected remedy.
+
+As part of the OU2 cleanup effort, 13,150 tons of lead-bearing slag were treated and disposed of offsite. Buildings and other structures were decontaminated and demolished. In all, 1,915 tons of scrap metal were recycled, 52 tons of asbestos-containing material from the buildings were disposed of off-site, 1,993 tons of hazardous materials were disposed of at a hazardous landfill, and over 764,000 gallons of contaminated standing water and wash water were sent off site for treatment. These activities were completed in September 1995.
+
+*OU1:* EPA issued a cleanup plan for OU1 in July 1994. In this cleanup plan, EPA selected a remedy for the site’s surface water, groundwater, soil and sediment. The OU1 cleanup planincluded the excavation, stabilization and placement of contaminated soil and sediment in an on-site landfill, as well as extraction and treatment of contaminated groundwater before discharge of the treated groundwater to the Delaware River.
+
+*OU1 Soil and Sediment:* EPA updated the OU1 remedy in June 1999 to provide for off-site disposal of contaminated soil and sediment. The soil and sediment removal took place between June 2000 and July 2003. During this time, the site PRPs dug up, treated and disposed of over 150,000 tons of contaminated soil and sediment. Over 10,000 tons of concrete and 182 tons of scrap metal and steel were sent off site for recycling. After the removal was complete, the PRPs were required to conduct biological monitoring\[in the?\] streams.
+
+Post-cleanupl biological monitoring events were conducted from 2002 to 2004 to ensure that the lead levels in the stream soil and sediments remained below 500 parts per million (ppm), that the lead levels in the sediments were not expected to impact aquatic receptors and whether lead level in surface water, sediment and aquatic life presented a potential hazard to wildlife. Results from these sampling events showed several areas where the sediment lead levels were greater than 500 ppm.
+
+As a result a second round of sediment and soil removal took place from August 2011 to October 2016. A total of about 5,900 tons of contaminated material was removed. The second round of sediment removal was completed \[DATE??\] and biomonitoring will take place to ensure that the cleanup goals have been met.
+
+*OU1 for Groundwater:* As part of the OU1 remedy for groundwater, a number of rounds of groundwater sampling have taken place. The results have shown that the main contaminants of concern on the site are lead and cadmium. Residential wells near the site had lead and cadmium levels that were not detected or were significantly below the appropriate drinking water standard. Some volatile organic compounds were found at low levels and have been decreasing over time.
+
+*OU1 ROD Amendment for Groundwater:* Sulfuric acid from the battery breaking activities seeped into the groundwater and made the groundwater acidic (low pH). Under acidic conditions metals become soluble and stay dissolved in the groundwater. OU1 activities included the removal of contaminated soil and sediment which were the source of metal contamination to the groundwater. The removal of contaminated material resulted in decreasing levels of lead and cadmium in groundwater.
+
+The original OU1 remedy for groundwater involved the construction of a pump and treat system. However, in general, a pump and treat system is not effective for the remediation of metals. Therefore, in September 2011, EPA issued a ROD Amendment for OU1 to change to the groundwater remedy from pump and treat to in situ pH adjustment through reagent injection into the contaminated unconfined aquifer. These reagents will raise the pH of the groundwater (make the groundwater less acidic) and cause the lead and cadmium to come out of solution and adsorb to the soils, making the metals immobile. EPA issued Unilateral Orders to the PRPs for the Remedial Design (September 2012) and Remedial Action (November 2014) for the amended remedy.
+
+In 2015, EPA conducted a pilot study to test the effectiveness of injecting reagents to raise the pH. The reagents were injected in August 2015 and groundwater samples were taken periodically to measure pH changes. The final pilot study groundwater samples were taken in December 2016. The results showed that the injections were successful in raising the pH to a level at which lead and cadmium would precipitate out of the groundwater and adhere to the soil.
+
+In April 2021 the full remedy began and the reagents were injected throughout the Site. The injections were completed in September 2021.
+
+### What Is the Current Site Status?
+
+The second round of OU1 soil and sediment removal has been completed. The areas where material was removed were monitored to determine if the second round of removal was effective. Based on the ecological risk samples taken from animals along the West Stream, the second removal of soil and sediment is effective.
+
+The pilot study for the amended groundwater remedy (reagent injection to make the groundwater less acidic) has been completed. The site-side groundwater remedy has been designed and began in April 2021. It was completed in September 2021. EPA evaluated the results of the six-month sampling event in March 2022 and the one year sampling event in September 2022.
+
+After 2 years of sampling, EPA has determined that the first round of injections did not and will not result in complete remediation of the groundwater. Therefore, a second round of injections are necessary. The second round of injections will be modified based on the data from the first round of injections. EPA is wokring on the revised injection plan.

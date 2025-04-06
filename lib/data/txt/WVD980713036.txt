@@ -1,2 +1,58 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The West Virginia Ordnance (USARMY) site is located near Point Pleasant, West Virginia. It is a 8,320-acre site used by the Department of Defense from 1942 to 1945 to produce TNT (trinitrotoluene). Soils around the operation's industrial area, process facilities, and industrial wastewater disposal system were contaminated with TNT, its by-products, and asbestos. The Site was added to the Superfund program's National Priorities List (NPL) in 1981.
+
+When it was decommissioned in 1945, the U.S. Government deeded the industrial portion to the State of West Virginia, stipulating that it be used for wildlife management. The state created the McClintic State Wildlife Management Area on this 2,785 acre parcel, and the area is now used for recreational hunting purposes. Other non-industrial portions of the original parcel are owned by Mason County or by private citizens.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal actions. A 1989 Interagency Agreement between EPA, the West Virginia Department of Environmental Protection (WVDEP) and the Army identified areas for investigation and possible cleanup. The Interagency Agreement provided the framework and a schedule to accomplish this work. Currently, there are 13 operable units being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for 10 operable units (OUs).
+
+- **OU 1 TNT Manufacturing Area**, Burning Grounds, Red/Yellow Sewer Lines. Capping with no permeable liners, excavation, flaming of the Red/Yellow sewer lines, Long Term Monitoring, Deed and groundwater use restrictions, and Five-Year Reviews.
+- **OU 2 Red Water Reservoir** capped with impermeable liner and long-term monitoring, Deed and groundwater use restrictions, and Five-Year Reviews.
+- **OU 3 Yellow Water Reservoir and Barren Area** capped with impermeable liner, long-term monitoring, Deed and groundwater use restrictions.
+- **OU 4 Groundwater Pump and Treatment Systems for OU2 and OU3**. Performance monitoring and Five-Year Reviews. New pump and treatment systems installed in 2022 at the Red and Yellow Reservoir OUs. Pilot Studies are underway using high resolution site characterization techniques for effective in-situ treatment of the remaining portions of the contaminated groundwater plume.
+- **OU 5 Pond 13/Wet Well Areas Groundwater**. Pilot Study is underway using high resolution site characterization techniques for effective in-situ treatment. High concentration of explosives remains in the subsurface between the Wet Well Area and Pond 13.
+- **OU 6 Wetlands Mitigation** for OU 1,2,3,5 was completed in 2000.
+- **OU 7 Point Pleasant Landfill**.
+- **OU 10 Toluene Storage Area, Acids Areas, Shop Areas**. Remedial Action completed and OU was removed from the NPL in 2004.
+- **OU 11 Sellite Plant and Vicinity**. Remedial Action completed and the OU was removed from the NPL in 2002.
+- **OU 12 Powerhouse (N&S), Ash Pits, Disposal Dumps**. Remedial Action completed and the OU was removed from the NPL in 2002.
+
+Decision Documents were completed which indicated no further investigation or remedial actions were necessary at five sites, including the Tract 21 Area, Refueling Depot, Sewage Treatment Plant outfall, Classification Yards, and the Washout Area. A partial deletion action was completed in 2002 which removed these areas, along with the OU-11 and OU-12 areas, from the Site's NPL Site boundary.
+
+Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions between 1994 and 1999 included removal of drums, soil and debris from the "Toxic Swamp" area; removal of asbestos from the North and South Power Houses; demolition of the Power Houses and filling in of open pits and manholes; and removal of 32 drums from OU-11.
+
+A full list of operable units can be viewed under the *Operable Units* section.
+
+### What Is the Current Site Status?
+
+Three Operable Units (OU)s are under investigation which may require additional remedial actions at the site.
+
+The Army has the lead role for cleaning up the [WVOW](https://www.lrh.usace.army.mil/Missions/DERP-FUDS-WVOW-PBOW-WVMA-/West-Virginia-Ordnance-Works/).
+
+Per the Interagency Agreement between EPA, the WVDEP and the Army, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see WVOW website. A full list of activities per each operable unit can be found under the Cleanup Progress section.
+
+Much of the initial construction work at the Site has been completed. Soil caps were installed at some locations and former surface impoundments were covered with liners.  
+  
+A groundwater pump and treat system is in operation and treating contaminated groundwater from three different locations on-site. Along with a comprehensive long term monitoring (LTM) system is in place and samples are collected from numerous locations around the site, as well as from perimeter sentry wells. Sampling is conducted on an annual basis, and the LTM program has been in effect for nearly 15 years.  
+  
+The Site's Tier 1 Partnering Team meets regularly and are focused on further LTM, monitor well abandonment in some areas, groundwater treatability studies, and remedy selection for the Southeast Manufacturing Area.
+
+The Army Corp of Engineers conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review was completed in [2021 (PDF)](https://semspub.epa.gov/src/document/03/2353700).The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The area of land where contamination was identified (2,788 acres) is deed restricted as the Clifton F. McClintic Wildlife Management Area (MWMA, 2,788 acres), operated by the West Virginia Division of Natural Resources (WVDNR) and accessible to the public for recreational use.
+
+Residential land use, daycare, playgrounds, and any other surface disturbing activities are not permitted.
+
+### Emergency Response and Removal
+
+Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions between 1994 and 1999 included removal of drums, soil and debris from the "Toxic Swamp" area; removal of asbestos from the North and South Power Houses; demolition of the Power Houses and filling in of open pits and manholes; and removal of 32 drums from OU-11.

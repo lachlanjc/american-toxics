@@ -1,22 +1,25 @@
-MID-STATE DISPOSAL, INC. LANDFILLCLEVELAND TOWNSHIP, WI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Mid-State Disposal, Inc. Landfill site is located in Marathon County, Wisconsin. The 160-acre area includes a 35-acre "Old Mound" landfill, a 5-acre "Interim Expansion" area and a 3-acre sludge lagoon. Mid-State Landfill was in operation from 1970 to 1979. It accepted municipal, industrial and commercial waste, including paper mill sludge, asbestos dust, solvents, pesticides, paint sludge and metals. Facility operations contaminated groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities and monitoring are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA implemented several actions to clean up groundwater contaminated with volatile organic compounds such as vinyl chloride, tetrachloroethene, trichloroethene, and benzene. These cleanup actions included capping, fencing, extracting landfill gas, collecting and treating leachate, and monitoring groundwater, surface water and landfill gas.   Top of Page
-What Is the Current Site Status?
-EPA completed its sixth five-year review (pdf) (6.3MB) of the Mid-State Disposal Landfill in 2024. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. This review included an evaluation of background information, cleanup requirements, effectiveness of the cleanup, and maintenance and monitoring efforts. The review found that the cleanup protects people and the environment in the short-term. The next scheduled review will be in 2029.  
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup. For more background, see Institutional Controls. Top of Page
+### Background
+
+The Mid-State Disposal, Inc. Landfill site is located in Marathon County, Wisconsin. The 160-acre area includes a 35-acre "Old Mound" landfill, a 5-acre "Interim Expansion" area and a 3-acre sludge lagoon. Mid-State Landfill was in operation from 1970 to 1979. It accepted municipal, industrial and commercial waste, including paper mill sludge, asbestos dust, solvents, pesticides, paint sludge and metals. Facility operations contaminated groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA implemented several actions to clean up groundwater contaminated with volatile organic compounds such as vinyl chloride, tetrachloroethene, trichloroethene, and benzene. These cleanup actions included capping, fencing, extracting landfill gas, collecting and treating leachate, and monitoring groundwater, surface water and landfill gas.
+
+### What Is the Current Site Status?
+
+EPA completed its [sixth five-year review (pdf)](https://semspub.epa.gov/work/05/992975.pdf) (6.3MB) of the Mid-State Disposal Landfill in 2024. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment.
+
+This review included an evaluation of background information, cleanup requirements, effectiveness of the cleanup, and maintenance and monitoring efforts.
+
+The review found that the cleanup protects people and the environment in the short-term. The next scheduled review will be in 2029.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).

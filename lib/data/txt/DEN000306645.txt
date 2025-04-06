@@ -1,18 +1,25 @@
-MILLSBORO TCEMILLSBORO, DE 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Millsboro TCE Site is located in the town of Millsboro, Sussex County, Delaware. The site is located at the intersection of Wharton Street and S. DuPont Highway, and includes groundwater wells located at the Town of Millsboro’s wellfield on West Church Street and the impacted groundwater under the properties in between. In October 2005, the state water authority detected trichloroethylene (TCE) at a concentration that exceeded the national drinking water standard while conducting a routine water sampling. The site was proposed to EPA's National Priorities List in 2009, but was not listed, as the PRPs assumed responsibility for cleanup of the site. The Town of Millsboro is currently filtering groundwater and sampling drinking water to ensure there are no detectible levels of TCE in drinking water. Cleanup actions will continue to address contaminated soil and groundwater at the site. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. From 1952 through 1999, a number of different entities operated poultry vaccine manufacturing operations at the site. The facility buildings were demolished in 2000. In 2006, the Delaware Department of Natural Resources and Environmental Control (DNREC) removed approximately 209 tons of contaminated soil, tanks, and pipes from the poultry vaccine manufacturing property using funds from the State Hazardous Substances Control Act (HSCA). The public water supply systems for Millsboro and Dagsboro were taken offline after the discovery of trichloroethylene (TCE) and a public notice restricting water use was issued in October 2005. As a result, an alternative supply of water, in bottles or tankers, was supplied by the municipality to affected residents. Later, the Millsboro public water supply wells were outfitted with granulated activated carbon filters to treat extracted groundwater at the wellhead before distribution to customers. EPA and three PRPs signed Administrative Orders on Consent on May 10, 2010 and February 2, 2011, requiring the PRPs to conduct the investigation and evaluation of cleanup options following EPA's non-time critical removal process. The PRPs assumed 1) weekly testing of the water supply system, 2) replacement of granulated activated carbon for the drinking water treatment system and 3) performance of an aquifer pump test for the newly installed drinking water supply well in April 2010. Upon completion of the non-time critical removal process, EPA will determine if further actions are warranted which may lead to finalizing the site on EPA's National Priorities List. Field work to delineate the groundwater plume and source area has been completed. Asessment of the potential for vapor intrusion was also completed. The assessment found that vapor intrusion does not pose a risk. Therefore, no further action is required to address vapor intrusion. In February 2016, EPA completed an Engineering Evaluation/Cost Analysis (EE/CA). The goals of the EE/CA are to identify objectives of the removal action and to analyze the effectiveness in providing environmental protection, implementability, and cost of various alternative response actions that may satisfy these objectives.
+### Background
+
+The Millsboro TCE Site is located in the town of Millsboro, Sussex County, Delaware. The site is located at the intersection of Wharton Street and S. DuPont Highway, and includes groundwater wells located at the Town of Millsboro’s wellfield on West Church Street and the impacted groundwater under the properties in between.
+
+In October 2005, the state water authority detected trichloroethylene (TCE) at a concentration that exceeded the national drinking water standard while conducting a routine water sampling. The site was proposed to EPA's National Priorities List in 2009, but was not listed, as the PRPs assumed responsibility for cleanup of the site. The Town of Millsboro is currently filtering groundwater and sampling drinking water to ensure there are no detectible levels of TCE in drinking water. Cleanup actions will continue to address contaminated soil and groundwater at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+From 1952 through 1999, a number of different entities operated poultry vaccine manufacturing operations at the site. The facility buildings were demolished in 2000.
+
+In 2006, the Delaware Department of Natural Resources and Environmental Control (DNREC) removed approximately 209 tons of contaminated soil, tanks, and pipes from the poultry vaccine manufacturing property using funds from the State Hazardous Substances Control Act (HSCA). The public water supply systems for Millsboro and Dagsboro were taken offline after the discovery of trichloroethylene (TCE) and a public notice restricting water use was issued in October 2005. As a result, an alternative supply of water, in bottles or tankers, was supplied by the municipality to affected residents. Later, the Millsboro public water supply wells were outfitted with granulated activated carbon filters to treat extracted groundwater at the wellhead before distribution to customers.
+
+EPA and three PRPs signed Administrative Orders on Consent on May 10, 2010 and February 2, 2011, requiring the PRPs to conduct the investigation and evaluation of cleanup options following EPA's non-time critical removal process. The PRPs assumed 1) weekly testing of the water supply system, 2) replacement of granulated activated carbon for the drinking water treatment system and 3) performance of an aquifer pump test for the newly installed drinking water supply well in April 2010. Upon completion of the non-time critical removal process, EPA will determine if further actions are warranted which may lead to finalizing the site on EPA's National Priorities List.
+
+Field work to delineate the groundwater plume and source area has been completed. Asessment of the potential for vapor intrusion was also completed. The assessment found that vapor intrusion does not pose a risk. Therefore, no further action is required to address vapor intrusion.
+
+In February 2016, EPA completed an Engineering Evaluation/Cost Analysis (EE/CA). The goals of the EE/CA are to identify objectives of the removal action and to analyze the effectiveness in providing environmental protection, implementability, and cost of various alternative response actions that may satisfy these objectives.
+
 An enforcement Action Memorandum was signed in January 2017 selecting the preferred response action to address contamination and continue cleanup. The remedy consists of in-situ chemical oxidation of the source area, direct groundwater pump and treatment, and long-term monitoring to ensure the safety and effectiveness of the selected remedy.
-Top of Page
-What Is the Current Site Status?
-The Town of Millsboro is currently filtering groundwater through granulated activated carbon to meet drinking water standards. Ongoing weekly drinking water sampling continues to show that there are no detectible levels of trichloroethylene (TCE) in the drinking water. Top of Page
+
+### What Is the Current Site Status?
+
+The Town of Millsboro is currently filtering groundwater through granulated activated carbon to meet drinking water standards. Ongoing weekly drinking water sampling continues to show that there are no detectible levels of trichloroethylene (TCE) in the drinking water.

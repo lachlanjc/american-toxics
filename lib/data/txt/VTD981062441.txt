@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Parker Sanitary Landfill site is located in Lyndonville, Vermont. A solid waste landfill operated on site from 1972 until 1992. Before 1983, a large amount of hazardous waste (liquids and sludge) was disposed of at this location and were poured/placed directly onto the ground. These activities led to groundwater contamination and affected private wells in the area. Following construction of the site’s remedy, operation and maintenance activities and groundwater treatment and monitoring are ongoing.
+
+A solid waste landfill operated on site from 1972 until 1992. Before 1983, about a million gallons of liquid wastes and 760 tons of solid or semi-solid wastes including metal plating wash waters, waste oils, electroplating sludge, paint sludge, chlorinated solvent sludge, caustic cleaners and metallic salts were disposed of in at least three areas of the landfill. Liquid and sludge wastes were poured directly onto the ground or into unlined pits and lagoons. During a site inspection in 1984, the state detected contaminants in a stream bordering the landfill, in groundwater at the landfill and in four private wells near the landfill.
+
+The site is located in a residential area, and an estimated 3,200 people get drinking water from a municipal well field located within approximately two miles from the landfill. In addition, 124 private wells are located within three miles of the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+Risks associated with ingestion of contaminated soil were addressed through capping the landfill. Risks associated with ingesting contaminated groundwater were addressed through groundwater treatment systems, alternative water supplies and a town ordinance to prevent residential groundwater use.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101491).
+
+### What Is the Current Site Status?
+
+Residences with contaminated wells were hooked up to the local public water supply. Parties potentially responsible for site contamination completed a study of contamination at the site in early 1995. EPA then selected a cleanup plan that involved capping the landfill, including the industrial waste areas, capturing the groundwater plume at the site boundary, and allowing for the natural restoration of the down gradient aquifer. One of the potentially responsible parties (PRPs) took responsibility for the landfill cap design under EPA oversight from 1996 to 1999. According to a 1999 agreement, or consent decree, five PRPs and EPA shared capping costs. EPA ordered one party to put in place a long-term groundwater treatment and monitoring program, which was finished in September 2005 and remains effective.
+
+The groundwater treatment systems have been operating since 2005 and will continue with oversight by EPA and the Vermont Department of Environmental Conservation until cleanup goals are attained. Long-term monitoring of the cap and the groundwater treatment systems will also continue until cleanup goals have been achieved.
+
+The landfill cap over the solid waste and industrial waste areas was completed in 2000. The landfill gas extraction and treatment system was also installed to collect and treat landfill gas.
+
+No homes are affected by contaminated groundwater. Water lines have been extended to all potentially affected homes. Land use controls have been put in place to ensure groundwater in the area will not be used for drinking purposes.
+
+Operation and maintenance activities and groundwater treatment and monitoring are ongoing.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101491).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101491&doc=Y&colid=31732&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.

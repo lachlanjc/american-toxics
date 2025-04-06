@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 17.6 -acre Nascolite Corporation site is located in Millville and Vineland, New Jersey. About seven acres of the property were used for manufacturing processes. The rest of the site is wooded. The Nascolite Corporation operated at the site between 1953 and 1980. It manufactured polymethyl methacrylate (poly-MMA) sheets, commonly known as plexiglass or acrylic,. During the manufacture of MMA, solid scrap acrylic, virgin MMA monomer and liquid waste MMA were used as raw materials. The scrap material was reclaimed through a depolymerization or "cracking" process, using a molten lead heat exchange furnace. Wastewaters from non-contact cooling water and other on-site sources were discharged to a ditch southwest of the plant. Operators also stored waste residues from the distillation of scrap acrylic in buried tanks on site. Liquid wastes leaked from the underground tanks into the surrounding soils and groundwater.
+
+In 1980, Nascolite ceased operations after being cited and fined by the New Jersey Department of Environmental Protection (NJDEP) for illegal discharges. State investigations in 1981 and 1983 disclosed significant concentrations of volatile organic compounds (VOCs) in soil and groundwater. VOCs are potentially harmful contaminants that can easily evaporate into the air. Inspectors also found more than one hundred 55-gallon drums and several buried tanks, as well as asbestos in abandoned buildings at the site. EPA investigations in the mid-1980s confirmed the presence of VOCs and lead in soil and groundwater. After immediate actions to protect human health and the environment, and additional investigations, EPA placed the site on the Superfund program’s National Priorities List (NPL) in September 1984.
+
+### What Has Been Done to Clean Up the Site?
+
+Immediate Actions: In 1981, under state orders, Nascolite removed some contaminated soil and drums from the site. EPA conducted a removal action at the site from November 1987 to March 1988. The action included the removal of more than 100 drums of hazardous waste, installation of a fence and placement of a tarpaulin over areas with soil heavily contaminated with inorganic compounds. In addition, waste material storage tanks were cleaned and cut into scrap metal, 20 cubic yards of MMA-contaminated soil were dug up and removed from the site, and 30 cubic yards of asbestos insulation were removed from site buildings. In 1989, the site’s potentially responsible parties (PRPs) extended a water line to residences where drinking water was threatened, installing taps, water meters, service connections and fire hydrants. Roadways were repaved and private lawns were reseeded.
+
+Groundwater: EPA selected a remedy for cleaning up groundwater in the site’s March 1988 Record of Decision, or ROD. It featured: (1) extracting groundwater and treating it on site, then reinjecting the treated water into the aquifer; (2) conducting additional studies to determine appropriate cleanup measures for contaminated soils, buildings and wetlands on site; and (3) providing an alternative water supply for potentially affected residents. The site’s groundwater treatment system started operating in August 1996 and continued until 2016. Due to significantly decreased contaminant concentrations in the groundwater, the groundwater treatment system suspended operation in 2016 to allow for groundwater monitoring under non-pumping conditions.
+
+Soils and Buildings: EPA selected a remedy for cleaning up contaminated soils and buildings in the site’s June 1991 ROD. It included building demolition, including asbestos abatement, with appropriate disposal, followed by excavation of unsaturated and wetland soils contaminated above cleanup standards. Building-related cleanup activities finished in 2000. Soil cleanup activities finished in 2003. A total of 42,000 cubic yards of contaminated soil were excavated and taken off site for treatment and/or disposal. Restoration activities have also been completed.
+
+EPA has conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The reviews concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The site is being addressed in three phases: immediate actions and two longer-term operable units focused on cleanup of the entire site. The immediate actions reduced the potential for direct contact with lead-contaminated soils and other contaminated wastes.
+
+Initial cleanup work, including removal and isolation of contaminated soils, disposal of solid and liquid wastes, fencing the site, and the provision of an alternate drinking water supply, have been completed at the Nascolite Corporation site.
+
+Construction of a groundwater remediation system began in September 1995 and was completed in August 1996. Operation of the remediation system was suspended in 2016 to allow for groundwater monitoring under non-pumping conditions.
+
+### Sampling and Monitoring
+
+We are indicating groundwater monitoring is the current status, so we should have information about that here.

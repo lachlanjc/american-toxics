@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 5-acre Denzer & Schafer X-Ray Company site is located in Bayville, New Jersey. Reclamation of silver from both microfilm and X-ray negatives took place at the site. Initial sampling found groundwater was contaminated with heavy metals and volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that can easily evaporate into the air.
+
+The 5-acre Denzer & Schafer X-Ray Company site was involved in the reclamation of silver from both microfilm and X-ray negatives. Contamination occurred due to such practices as the discharge of the stripping solutions to the sanitary septic system. Microfilm processing waste from a nearby facility also has been disposed of in the site's septic tanks. This means of disposal was used from 1974 through 1981. Other identified sources of contamination included the stockpiling of shredded and stripped film and, prior to 1974, the incineration of the film waste. The sanitary septic tank currently is filled with sand. The underlying Cohansey Aquifer is contaminated with immobile lead adjacent to the abandoned septic system. The aquifer supplies drinking water to residential and public water supply wells serving approximately 25,500 area residents. The site is near the coastline and close to Potters Creek and Barnegat Bay. Site Responsibility: This site is being addressed through Federal and State actions.
+
+Following a short-term cleanup and site investigations, EPA determined that low levels of contamination in the groundwater no longer pose a significant risk to human health and the environment. EPA took the site off the Superfund program’s National Priorities List in December 1998.
+
+### What Has Been Done to Clean Up the Site?
+
+In March of 1996, NJDEP requested that EPA evaluate the site for a Removal Action based on the fact that the company was abandoned by the owner. In April, 1996, EPA determined that as a result of hazardous materials improperly stored, the site posed an imminent and substantial threat to public health and the environment. The removal action began on April 24, 1996 and was concluded on September 27, 1996. It included the removal of 7,000 gallons of caustic stripping solution and approximately 36 drums of hazardous substances. Also, the underground storage tank was pumped out, excavated and removed. All materials were transported to approved off-site facilities for disposal.
+
+Following site investigations from 1987 to 1993, EPA determined that low levels of contamination in the groundwater no longer pose a significant risk to human health and the environment. Any residual groundwater contamination (involving lead) appears to be limited to a small area adjacent to the source area and is not mobile. EPA selected "no further action" for the site’s remedy in 1995. In January 1998, the New Jersey Department of Environmental Protection established a Classification Exception Area (CEA) on the site and the adjacent property to the east. Any drinking water wells wells installed within the CEA must be screened below 90 feet to avoid collecting any contaminated groundwater.  
+
+### What Is the Current Site Status?
+
+The site is being addressed with a long-term remedial phase focused on cleanup of the entire site. A short-term cleanup called a removal action also took place after the owner abandoned the facility.
+
+In 1987, the State initiated a site investigation to determine the extent of groundwater contamination and other contaminants of concern. The study, completed in late 1993, identified the extent of contamination at the site and alternative technologies for the cleanup. Representatives of the New Jersey Department of Environmental Protection and EPA have evaluated the potential remedial approaches for the site and have concluded that low levels of contamination in the groundwater no longer pose a significant risk to human health and the environment. Any residual groundwater contamination (involving lead) appears to be limited to a small area adjacent to the source area and is not mobile. Therefore, no action with groundwater monitoring was the proposed alternative.
+
+The Proposed Plan was presented at a public meeting on July 20, 1995. Public comments were solicited through August 7, 1995. A final decision, based on the Administrative Record, the Proposed Plan, public comments and the New Jersey Department of Environmental Protection's comments was made by EPA's Regional Administrator. The Record of Decision was signed on September 29, 1995 for No Action with Groundwater and Surface Water Monitoring.
+
+In January 1998, the New Jersey Department of Environmental Protection established a Classification Exception Area (CEA) on the site and the adjacent property to the east. Any potable wells installed within the CEA must be screened below 90 feet to avoid collecting any contaminated groundwater.
+
+EPA took the site off the Superfund program’s National Priorities List in December 1998..
+
+### Sampling and Monitoring
+
+As part of the Five Year Review process the groundwater is periodically sampled for lead and volatile organics. Recent sampling conducted on September 4, 2019 continues to show a substantial decline in shallow groundwater lead levels to below 15 ppb in unfiltered samples and Non-Detect in filtered samples.

@@ -1,21 +1,29 @@
-MARINE CORPS COMBAT DEVELOPMENT COMMANDQUANTICO, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
- The Marine Corps Combat Development Command (MCCDC) is comprised of approximately 56,000 acres located in Virginia 30 miles south of Washington, D.C., along 1-95, between the Potomac River and the Appalachian Mountains. The Marine Corps Combat Development Command is located in Prince William, Stafford, and Fauquier Counties, and includes the Town of Quantico. The Marine Corps Combat Development Command has been an active military facility since 1917 and is a training and educational center whose mission is to develop educational and training policies and programs for implementation Corps-wide, to develop combat doctrine for battlefield implementation, and to provide on-site training for Marine Corps officers, non-commissioned officers, and senior enlisted personnel. Such training includes active field maneuvers with live ammunition and explosives. The operations at MCCDC have included maintenance of aircraft, vehicles, and engines; fuel and oil storage and distribution; landfill disposal; weapons cleaning and repair, facilities maintenance, photo processing, medical and dental clinics; munitions operations; and water and sewage treatment. These activities required the use, storage, and disposal of hazardous material and petroleum products, which have resulted in the contamination of soil and groundwater. The Site was added to the Superfund program's National Priorities List (NPL) in May 1993. Top of Page
-What Has Been Done to Clean Up the Site?
- A 1999 Federal Facilities Agreement (FFA) between EPA and the Department of the Navy identified 228 potential sites and for investigation and possible cleanup at the MCCDC. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 26 sites being actively addressed under the Superfund program, with additional areas being investigated for PFAS contamination in the near future. A full list of operable units can be viewed under the Operable Units section. 
-Top of Page
-What Is the Current Site Status?
- The Department of the Navy has the lead role for cleaning up the Marine Corps Combat Development Command NPL site. 
+### Background
+
+The Marine Corps Combat Development Command (MCCDC) is comprised of approximately 56,000 acres located in Virginia 30 miles south of Washington, D.C., along 1-95, between the Potomac River and the Appalachian Mountains. The Marine Corps Combat Development Command is located in Prince William, Stafford, and Fauquier Counties, and includes the Town of Quantico. The Marine Corps Combat Development Command has been an active military facility since 1917 and is a training and educational center whose mission is to develop educational and training policies and programs for implementation Corps-wide, to develop combat doctrine for battlefield implementation, and to provide on-site training for Marine Corps officers, non-commissioned officers, and senior enlisted personnel. Such training includes active field maneuvers with live ammunition and explosives. The operations at MCCDC have included maintenance of aircraft, vehicles, and engines; fuel and oil storage and distribution; landfill disposal; weapons cleaning and repair, facilities maintenance, photo processing, medical and dental clinics; munitions operations; and water and sewage treatment. These activities required the use, storage, and disposal of hazardous material and petroleum products, which have resulted in the contamination of soil and groundwater. The Site was added to the Superfund program's National Priorities List (NPL) in May 1993.
+
+### What Has Been Done to Clean Up the Site?
+
+A 1999 Federal Facilities Agreement (FFA) between EPA and the Department of the Navy identified 228 potential sites and for investigation and possible cleanup at the MCCDC. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 26 sites being actively addressed under the Superfund program, with additional areas being investigated for PFAS contamination in the near future.
+
+A full list of operable units can be viewed under the *Operable Units* section.
+
+### What Is the Current Site Status?
+
+The Department of the Navy has the lead role for cleaning up the Marine Corps Combat Development Command NPL site.
+
 Per the Federal Facilities Agreement between EPA and the Navy, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern.
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2023 Five-Year Review (PDF), concluded that response actions at the site are in accordance with the remedies selected by EPA and that the remedies for construction complete sites are protective of human health and the environment. For sites with remedies under construction, the remedies are expected to be protective of human health and the environment upon completion. The next five-year review is scheduled for 2023. 
-EPA has co-signed Records of Decision (RODs) at the MCCDC, selecting remedies for five operable units (OUs): OU 4, Old Landfill (Site 4) - An Interim Remedial Action (IRA) was completed at the site, which included a hot spot excavation, slope stabilization and construction of a two foot soil barrier layer. A final ROD was signed in November 2007 for No Further Action (NFA). Institutional controls in place include land use controls, groundwater use restrictions, and groundwater monitoring and are used to confirm that contaminants are not moving off-site at unacceptable levels. The final Long-Term Monitoring Plan for this site was finalized February 2008. OU 19, Building 2101 Paint Booth Sump (Site 95) - A ROD was signed in September 2008 for ORC treatment, land use controls and long-term monitoring. A time-critical removal action was conducted in 2012 to remove munitions and explosives of concern to a depth of 2 feet. Land use control measures are currently being developed for this site. OU 99, Quantico Embayment (Site 99) - The ROD was signed in September 2011. The selected remedies include: a habitat enhancement cap; land use controls; dredging and off-site disposal; monitored natural recovery and five-year reviews. The remedial action was completed in September 2014. OU 13, Chopawamsic Creek (Site 100) - The ROD was signed in September 2011. The selected remedy includes monitored natural recovery, land use controls and five-year reviews.
-OU21, Building 2113 Underground Tank Loading/Unloading Area (Site 104) - The ROD was signed in September 2014. The selected remedy includes in-situ enhanced bioremediation, monitoring, land use controls, and five-year reviews
-Top of Page
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://administrative-records.navfac.navy.mil/?LS274VMKUGPKLK), concluded that response actions at the site are in accordance with the remedies selected by EPA and that the remedies for construction complete sites are protective of human health and the environment. For sites with remedies under construction, the remedies are expected to be protective of human health and the environment upon completion. The next five-year review is scheduled for 2023.
+
+EPA has co-signed Records of Decision (RODs) at the MCCDC, selecting remedies for five operable units (OUs):
+
+**OU 4, Old Landfill (Site 4)** - An Interim Remedial Action (IRA) was completed at the site, which included a hot spot excavation, slope stabilization and construction of a two foot soil barrier layer. A final ROD was signed in November 2007 for No Further Action (NFA). Institutional controls in place include land use controls, groundwater use restrictions, and groundwater monitoring and are used to confirm that contaminants are not moving off-site at unacceptable levels. The final Long-Term Monitoring Plan for this site was finalized February 2008.
+
+**OU 19, Building 2101 Paint Booth Sump (Site 95)** - A ROD was signed in September 2008 for ORC treatment, land use controls and long-term monitoring. A time-critical removal action was conducted in 2012 to remove munitions and explosives of concern to a depth of 2 feet. Land use control measures are currently being developed for this site.
+
+**OU 99, Quantico Embayment (Site 99)** - The ROD was signed in September 2011. The selected remedies include: a habitat enhancement cap; land use controls; dredging and off-site disposal; monitored natural recovery and five-year reviews. The remedial action was completed in September 2014.
+
+**OU 13, Chopawamsic Creek (Site 100)** - The ROD was signed in September 2011. The selected remedy includes monitored natural recovery, land use controls and five-year reviews.
+
+**OU21, Building 2113 Underground Tank Loading/Unloading Area (Site 104)** - The ROD was signed in September 2014. The selected remedy includes in-situ enhanced bioremediation, monitoring, land use controls, and five-year reviews

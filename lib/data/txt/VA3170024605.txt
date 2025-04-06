@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+CAX is located on the site of the former Penniman Shell Loading Plant, which was a large powder- and shell-loading facility operated during World War I. The Penniman facility closed in 1918, and between 1918 and 1943, the property was used for farming or left idle until CAX was commissioned in 1943 as a satellite unit of the Naval Supply Depot to provide bulk storage facilities and serve as an assembly and overseas shipping point throughout World War II. At inception, CAX occupied approximately 3,349 acres. Several portions of the original base have since been declared surplus and transferred to other government jurisdictions, including the National Park Service, the Commonwealth of Virginia, and York County. CAX is currently comprised of 2,634 acres. CAX is divided into two separate parcels, with the larger parcel situated along the banks of the York River. Almost all of the activities at CAX (administration, training, maintenance, support, and housing) take place in this portion of the Installation. The smaller parcel is located south of the Colonial National Historic Parkway. This area contains Jones Pond and is used mainly as a watershed protection area. In July 1987, CAX was designated the Hampton Roads Navy Recreational Complex. Today, the mission of CAX includes supplying Atlantic Fleet ships and providing recreational opportunities to military and civilian personnel. The site was added to the Superfund program’s National Priorities List (NPL) in January 2001.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. A March 2005 Federal Facilities Agreement (FFA) between EPA, the Navy and the Virgnia Department of Environmental Quality (VDEQ) identified areas for investigation and possible cleanup. The FFA provided the framework and schedule to accomplish this work. Currently, there are three Operable Units (OUs), four Areas of Concern (AOCs), and a base-wide per – and Polyfluoralkyl (PFAS) substances study being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for four operable units.
+
+OU1: Landfill Near Incinerator (Site 1) – Removal action: (riverbank debris, surface debris and soil). NFA ROD signed in September 2009.
+
+OU11: Bone Yard (Site 11) – Removal Action: (Surface debris and soil). NFA ROD signed August 2010.
+
+OU7: Old DuPont Disposal Area (Site 7) – Removal Action: (surface debris, soil, waste and GeO tube installation). NFA ROD signed for all media except groundwater signed August 2017.
+
+OU2: Penniman AOC (AOC 6) – Earth ammonia settling pits, concrete lined TNT graining house sump, earthen and brick-lined TNT catch box ruins. NFA ROD for groundwater signed September 2018. EE/CA for soil in progress.
+
+### What Is the Current Site Status?
+
+The Department of the Navy has the lead role for cleaning up the CAX NPL site.
+
+Per the Federal Facilities Agreement between EPA, the Navy, and VDEQ a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see the [CAX Site Management Plan](https://administrative-records.navfac.navy.mil/Public_Documents/MID_ATLANTIC/WILLIAMSBURG_FISC/N60138_003818.pdf).
+
+A full list of activities per each operable unit can be found in the Site Management Plan.

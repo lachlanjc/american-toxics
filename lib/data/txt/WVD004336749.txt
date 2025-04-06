@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Follansbee Superfund Site is an active coal and tar processing plant in Follansbee, West Virginia. The site has changed ownership several times since 1917, but remains in operation. Leaking tanks, spills, waste storage in surface impoundments, and improper operating practices contaminated soil, sediment, and groundwater with hazardous chemicals.
+
+EPA added the site to the Superfund program's National Priorities List (NPL) in 1982. In 1990, EPA and the site’s potentially responsible parties signed an agreement to clean up the site as part of the [Resource Conservation and Recovery Act Corrective Action program](https://www.epa.gov/enforcement/rcra-corrective-action-cleanup-enforcement). EPA deleted the site from the NPL in 2004.
+
+### What Has Been Done to Clean Up the Site?
+
+The site has been cleaned up through state, federal, and potential responsible party (PRP) actions.
+
+EPA conducted a field investigation at the site in 1982, indicating that leaking tanks, spills, waste storage in surface impoundments, and improper operating practices had contaminated soil, sediment, and groundwater with hazardous chemicals. In 1983, one of the PRPs, Beazer East, installed a trench to intercept contaminated groundwater. The groundwater was pumped to the on-site wastewater treatment facility. A second pump was installed in an attempt to prevent the contaminated groundwater from reaching the Ohio River and to control the groundwater flow.
+
+A Consent Decree (CD) between EPA and the PRPs was signed in August 1984, with the State of West Virginia as intervener. The CD called for:
+
+- Paving a portion of the property;
+- Installing five recovery wells to eliminate seepage into the coal pits and to prevent future groundwater contamination; and
+- Conducting an alluvial aquifer study.
+
+On September 27, 1990, EPA and the PRPs signed a Consent Order (CO) placing site cleanup responsibility under [EPA's Resource Conservation and Recovery Act (RCRA) Corrective Action program](https://www.epa.gov/enforcement/rcra-corrective-action-cleanup-enforcement), which oversees hazardous waste cleanups at active facilities. According to the CO, the PRPs were required to complete a RCRA Facility Investigation and a Corrective Measures Study. The objective of the RCRA Facility Investigation was to develop a Site Conceptual Model and complete a risk assessment. The risk assessment identified the actions needed to cleanup the site. The Corrective Measures Study then evaluated potential technologies for the cleanup.
+
+In October 1992, EPA approved the RCRA Facility Investigation work plan. The PRPs conducted the investigation in a phased approach, which resulted in the submission of a comprehensive RCRA Facility Investigation report in 1994 and again in 1996. EPA provided technical comments on these reports and, in the 1996 report, identified numerous deficiencies in health and ecological risk assessments. The PRPs responded to these comments by performing additional activities to better characterize the site. These activities included installing additional wells, evaluating the existing shallow zone pump-and-treat system, and further sampling and analysis.
+
+On June 26, 2000, EPA conditionally approved the RCRA Facility Investigation, subject to additional river sediment sampling by the PRPs, which was completed in January 2001. Additionally, the PRPs submitted a report regarding the performance of the shallow groundwater pump-and-treat system.
+
+The site’s long-term cleanup included dredging and capping contaminated sediments, groundwater collection and treatment, and institutional controls. The PRPs completed these cleanup measures in 2003. EPA deleted the site from the NPL in 2004.
+
+### What Is the Current Site Status?
+
+EPA's RCRA Corrective Action program continues to oversee the cleanup of the [Follansbee Site](https://www.epa.gov/hwcorrectiveactionsites/hazardous-waste-cleanup-follansbee-plant-also-known-trimodal-terminal). Groundwater treatment and monitoring is ongoing.
+
+The facility is currently owned and operated by Koppers Industries, Inc. EPA is working with Koppers to oversee its commitment to implement the best pollution prevention and waste minimization practices. EPA considers this oversight necessary to accomplish an effective cleanup.

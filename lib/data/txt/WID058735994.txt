@@ -1,27 +1,32 @@
-LAUER I SANITARY LANDFILLMENOMONEE FALLS, WI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 58-acre Lauer I Sanitary Landfill site (also known as the Boundary Road Landfill) is in Menomonee Falls, Wisconsin. The landfill began operation in 1954 as part of a sand and gravel operation that accepted municipal and industrial wastes and ceased operations in 1971. When the site ceased operation in 1971, it was closed and covered in accordance with industry practices at that time. Because waste was placed below the groundwater table, outward migration of leachate reached the surrounding aquifer. Waste Management of Wisconsin, Inc. (WMWI), the current site owner, has been monitoring and maintaining the site since its closure in 1971. In 1981, WMWI installed an underground wall of clay materials between the landfill and the pond to reduce the flow of leachate.  It took several years for the owners to vegetate the cover and properly abandon the site. Top of Page
-What Has Been Done to Clean Up the Site?
-In 1983 Wisconsin Department of Natural Resources (WDNR) recommended that the Site be placed on the National Priorities List (NPL), and EPA placed the Site on the NPL in 1984. WMWI entered into an environmental repair contract with WDNR in 1990 to investigate and remediate the landfill.  WDNR selected a cleanup plan in 1996 and led the cleanup with EPA concurrence.  The major components of the cleanup are detailed in a document called the record of decision and include: 
-A new multi-layer soil cover system over the landfill.
-Leachate extraction measures in the northeastern portion of the site.
-An active landfill gas extraction system.
-A new leachate system to transmit all extracted leachate from the site to the local sanitary sewer system.
-Operation and maintenance of an existing slurry cut-off wall and leachate collection system.
-Proper institutional controls including land-use/deed restrictions to prevent unauthorized excavation, groundwater use or installation of water supply wells.
-New fencing and improvement of existing fencing.
-Long-term monitoring of groundwater, surface water and landfill gas. 
-The construction work at the site was completed in October 1998. WMWI collects leachate accumulating behind the cut-off wall and sends it to a municipal wastewater treatment plant. 
-Top of Page
-What Is the Current Site Status?
-WDNR has lead responsibility for the site, with regulatory support from EPA. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected that the remedy continues to be protective of human health and the environment in the short term. Long-term protectiveness requires implementation of and compliance with effective institutional controls, as well as maintaining the site remedy components and continued monitoring of leachate, landfill gas, and groundwater. Long-term protectiveness will be achieved when all groundwater cleanup goals are achieved.
-Additional information regarding Wisconsin Superfund sites is available at the WDNR Superfund websiteExit. 
-Top of Page
+### Background
+
+The 58-acre Lauer I Sanitary Landfill site (also known as the Boundary Road Landfill) is in Menomonee Falls, Wisconsin. The landfill began operation in 1954 as part of a sand and gravel operation that accepted municipal and industrial wastes and ceased operations in 1971. When the site ceased operation in 1971, it was closed and covered in accordance with industry practices at that time. Because waste was placed below the groundwater table, outward migration of leachate reached the surrounding aquifer.
+
+Waste Management of Wisconsin, Inc. (WMWI), the current site owner, has been monitoring and maintaining the site since its closure in 1971. In 1981, WMWI installed an underground wall of clay materials between the landfill and the pond to reduce the flow of leachate.
+
+It took several years for the owners to vegetate the cover and properly abandon the site.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983 Wisconsin Department of Natural Resources (WDNR) recommended that the Site be placed on the National Priorities List (NPL), and EPA placed the Site on the NPL in 1984. WMWI entered into an environmental repair contract with WDNR in 1990 to investigate and remediate the landfill.
+
+WDNR selected a cleanup plan in 1996 and led the cleanup with EPA concurrence. The major components of the cleanup are detailed in a document called the record of decision and include:
+
+- A new multi-layer soil cover system over the landfill.
+- Leachate extraction measures in the northeastern portion of the site.
+- An active landfill gas extraction system.
+- A new leachate system to transmit all extracted leachate from the site to the local sanitary sewer system.
+- Operation and maintenance of an existing slurry cut-off wall and leachate collection system.
+- Proper institutional controls including land-use/deed restrictions to prevent unauthorized excavation, groundwater use or installation of water supply wells.
+- New fencing and improvement of existing fencing.
+- Long-term monitoring of groundwater, surface water and landfill gas.
+
+The construction work at the site was completed in October 1998. WMWI collects leachate accumulating behind the cut-off wall and sends it to a municipal wastewater treatment plant.
+
+### What Is the Current Site Status?
+
+WDNR has lead responsibility for the site, with regulatory support from EPA.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected that the remedy continues to be protective of human health and the environment in the short term. Long-term protectiveness requires implementation of and compliance with effective institutional controls, as well as maintaining the site remedy components and continued monitoring of leachate, landfill gas, and groundwater. Long-term protectiveness will be achieved when all groundwater cleanup goals are achieved.
+
+Additional information regarding Wisconsin Superfund sites is available at the [WDNR Superfund website](https://dnr.wisconsin.gov/topic/Brownfields/Superfund.html).

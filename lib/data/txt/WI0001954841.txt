@@ -1,19 +1,41 @@
-Cleanup Activities 
-On this page:
-Background
-What Is the Current Site Status?
-Emergency Response and Removal
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Lower Fox River, located in northeastern Wisconsin, begins at the Menasha and Neenah channels leading from Lake Winnebago and flows northeast for 39 miles where it discharges into Green Bay and Lake Michigan. Approximately 270,000 people live in the communities along the river. The river has 12 dams and includes the highest concentration of pulp and paper mills in the world. During the 1950s and 1960s, these mills routinely used PCBs in their operations which ultimately contaminated the river. For more details on cleanups, visit Cleanup Activities. Top of Page
-What Is the Current Site Status?
-This cleanup was completed in 2020. EPA officially certified the completion in October 2022 and Wisconsin certified completion in early 2023. It addressed more than 6 million cubic yards of PCB-contaminated sediment across 39 miles of the Lower Fox River, at an estimated cost of $1 billion. Work was ongoing from 2004 to 2020 by companies determined to be responsible for the contamination. All of the work was done under EPA and Wisconsin Department of Natural Resources oversight.  EPA was the lead enforcement agency and WDNR was the lead technical agency.  Long-term monitoring, which will include studying fish tissue, water, and sediment for PCB concentrations, will be done along the entire river by Georgia-Pacific and Glatfelter, two of the companies.  Georgia-Pacific will also be involved in some restoration projects. Dredging and capping in the East River was also completed. Cleanup was necessary there after contractors for Georgia-Pacific collected samples north, south and at the confluence of the East and Fox Rivers in 2017 to determine the extent of tar-like material found there. This tar-like material, consisting of polycyclic aromatic hydrocarbons (PAHs), was the result of manufactured gas plant processes that operated in the area in the early 1900s.  Georgia-Pacific, which is one of the companies responsible for PCB contamination in the Lower Fox River, took these samples because the PAHs were mixed with, or were underneath, the PCB contamination.  EPA also completed a 2024 five-year review (pdf) (119 pp, 385 MB) of the site’s cleanup so far. This type of status review is required every five years where the cleanup is complete--or ongoing--but hazardous waste remains managed on-site. These reviews are done to check that the cleanup continues to protect people and the environment. The review included an evaluation of background information, cleanup requirements, effectiveness of the cleanup and any anticipated future actions and an analysis of ways for EPA to operate more efficiently. This was the site’s fourth five-year review. It concluded that the cleanup is not protecting people and the environment because PCB levels have not yet dropped to safe levels. It is anticipated that it will take 10-30 years for fish tissue to recover. The next review is scheduled for 2029. 
-Top of Page
-Emergency Response and Removal
-In 1999 and 2000, EPA oversaw a dredging project done by some of the paper companies about 3 miles upstream from the mouth of the Lower Fox River.  It removed 80,000 cubic yards of PCB-contaminated sediment, containing 3,400 pounds of PCBs. Top of Page
-Enforcement Information
-The United States and state of Wisconsin entered into a settlement with two of the companies determined to be responsible for PCB contamination in the Lower Fox River.  Under this settlement, referred to as a consent decree, Glatfelter and Georgia-Pacific Consumer Products have fully resolved their liability for the cleanup and related Superfund litigation.  The decree became effective on March 14, 2019 when it was “entered” in U.S. District Court for the Eastern District of Wisconsin and approved by a judge.  This settlement concluded the litigation that had been ongoing for several years.   In this latest in a long series of settlements for the Lower Fox River site, Glatfelter paid $20.5 million toward EPA’s unreimbursed past costs and natural resource damages and are paying for all EPA and state costs of overseeing the remaining work.  Glatfelter also dismissed its pending appeal of a separate consent decree that required a prior settler, NCR Corp., to finish all dredging and sediment cap installation work.  Finally, Glatfelter and Georgia-Pacific will perform all required long-term monitoring and cap maintenance work.  Another consent decree was entered in federal court on Aug. 22, 2017.  The objectives of the decree were to protect public health, welfare or the environment. Under this decree, NCR Corp., one of the companies responsible for PCB contamination in the river, is conducting and paying for all remaining sediment cleanup work.  EPA and WDNR will continue to oversee the cleanup. Three other consent decrees for settlements totaling about $55 million were approved in federal court in December 2014. These consent decrees resolved claims against six companies and two municipal sewer system operators for cleanup costs and natural resource damages in the Lower Fox River. PCBs do not degrade naturally, but instead concentrate in the environment and the food chain resulting in health hazards to people, fish and wildlife. The Lower Fox River project involves the cleanup of sediment contaminated with PCBs, as well as the restoration of the natural resources damaged by these contaminants.                                   A number of federal, state and tribal agencies have joined efforts to address this important issue through regulatory avenues including Superfund, the Natural Resource Damage Assessment, and state spill authorities. 
-Top of Page
+### Background
+
+The Lower Fox River, located in northeastern Wisconsin, begins at the Menasha and Neenah channels leading from Lake Winnebago and flows northeast for 39 miles where it discharges into Green Bay and Lake Michigan. Approximately 270,000 people live in the communities along the river. The river has 12 dams and includes the highest concentration of pulp and paper mills in the world. During the 1950s and 1960s, these mills routinely used PCBs in their operations which ultimately contaminated the river.
+
+For more details on cleanups, visit [Cleanup Activities](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0507723).
+
+### What Is the Current Site Status?
+
+This cleanup was completed in 2020. EPA officially certified the completion in October 2022 and Wisconsin certified completion in early 2023. It addressed more than 6 million cubic yards of PCB-contaminated sediment across 39 miles of the Lower Fox River, at an estimated cost of $1 billion.
+
+Work was ongoing from 2004 to 2020 by companies determined to be responsible for the contamination. All of the work was done under EPA and Wisconsin Department of Natural Resources oversight. EPA was the lead enforcement agency and WDNR was the lead technical agency. Long-term monitoring, which will include studying fish tissue, water, and sediment for PCB concentrations, will be done along the entire river by Georgia-Pacific and Glatfelter, two of the companies. Georgia-Pacific will also be involved in some restoration projects.
+
+Dredging and capping in the East River was also completed. Cleanup was necessary there after contractors for Georgia-Pacific collected samples north, south and at the confluence of the East and Fox Rivers in 2017 to determine the extent of tar-like material found there. This tar-like material, consisting of polycyclic aromatic hydrocarbons (PAHs), was the result of manufactured gas plant processes that operated in the area in the early 1900s. Georgia-Pacific, which is one of the companies responsible for PCB contamination in the Lower Fox River, took these samples because the PAHs were mixed with, or were underneath, the PCB contamination.
+
+EPA also completed a [2024 five-year review (pdf)](https://semspub.epa.gov/work/05/997102.pdf) (119 pp, 385 MB) of the site’s cleanup so far. This type of status review is required every five years where the cleanup is complete--or ongoing--but hazardous waste remains managed on-site. These reviews are done to check that the cleanup continues to protect people and the environment.
+
+The review included an evaluation of background information, cleanup requirements, effectiveness of the cleanup and any anticipated future actions and an analysis of ways for EPA to operate more efficiently.
+
+This was the site’s fourth five-year review. It concluded that the cleanup is not protecting people and the environment because PCB levels have not yet dropped to safe levels. It is anticipated that it will take 10-30 years for fish tissue to recover. The next review is scheduled for 2029.
+
+### Emergency Response and Removal
+
+In 1999 and 2000, EPA oversaw a dredging project done by some of the paper companies about 3 miles upstream from the mouth of the Lower Fox River. It removed 80,000 cubic yards of PCB-contaminated sediment, containing 3,400 pounds of PCBs.
+
+### Enforcement Information
+
+The United States and state of Wisconsin entered into a settlement with two of the companies determined to be responsible for PCB contamination in the Lower Fox River. Under this settlement, referred to as a consent decree, Glatfelter and Georgia-Pacific Consumer Products have fully resolved their liability for the cleanup and related Superfund litigation.
+
+The decree became effective on March 14, 2019 when it was “entered” in U.S. District Court for the Eastern District of Wisconsin and approved by a judge. This settlement concluded the litigation that had been ongoing for several years.
+
+In this latest in a long series of settlements for the Lower Fox River site, Glatfelter paid $20.5 million toward EPA’s unreimbursed past costs and natural resource damages and are paying for all EPA and state costs of overseeing the remaining work. Glatfelter also dismissed its pending appeal of a separate consent decree that required a prior settler, NCR Corp., to finish all dredging and sediment cap installation work. Finally, Glatfelter and Georgia-Pacific will perform all required long-term monitoring and cap maintenance work.
+
+Another consent decree was entered in federal court on Aug. 22, 2017.  The objectives of the decree were to protect public health, welfare or the environment. Under this decree, NCR Corp., one of the companies responsible for PCB contamination in the river, is conducting and paying for all remaining sediment cleanup work. 
+
+EPA and WDNR will continue to oversee the cleanup.
+
+Three other consent decrees for settlements totaling about $55 million were approved in federal court in December 2014. These consent decrees resolved claims against six companies and two municipal sewer system operators for cleanup costs and natural resource damages in the Lower Fox River.
+
+PCBs do not degrade naturally, but instead concentrate in the environment and the food chain resulting in health hazards to people, fish and wildlife. The Lower Fox River project involves the cleanup of sediment contaminated with PCBs, as well as the restoration of the natural resources damaged by these contaminants.
+
+A number of federal, state and tribal agencies have joined efforts to address this important issue through regulatory avenues including Superfund, the Natural Resource Damage Assessment, and state spill authorities.

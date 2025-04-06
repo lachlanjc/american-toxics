@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Master Disposal Service Landfill site is located at 19900 W. Capitol Dr. in the town of Brookfield, Waukesha County, Wisconsin. It occupies a 40-acre parcel of land, with 26 acres comprising an inoperative landfill. The site is on the marshy floodplain of the headwaters of the Fox River, which flows southwest into Illinois. About 1.4 million cubic yards of waste, including 1.5 million gallons of industrial waste such as solvents, paints, adhesives, oils, and foundry waste, were disposed of at the site when it operated between 1967 and 1982.
+
+The site was partially closed in 1982, but the cover materials used at the time came from an on-site source with inadequate clay content. Erosion of the cap and subsequent re-exposure of waste materials became a problem.
+
+### What Has Been Done to Clean Up the Site?
+
+Cleanup of the inoperative landfill and groundwater was completed by 1997. For the landfill, a cover was installed which included a gas control system. For the groundwater, an extraction system was built using 11 wells to discharge water into a large pond west of the site where the water was treated by aeration and settling. This allowed bacteria to break down the organic compounds. Treated water, which met discharge standards, was then allowed to seep through the wetlands and discharge into the Fox River. The landfill gas, groundwater, pond water and wetlands were tested to ensure that no contamination moved from the site.  
+  
+Two formal status reviews in 2000 and 2005 ensured the cleanup was still protecting people and the environment. Based on findings from the 2005 review, another cleanup decision was made two years later. This [2007 decision( PDF)](https://semspub.epa.gov/work/05/276890.pdf) (117pp, 8.25mb), documented EPA's final groundwater cleanup plan which included natural recovery to remove remaining benzene, regular testing, and the re-activation of the pump and treat system if it appears that contamination might move off-site.
+
+EPA, in consultation with the Wisconsin Department of Natural Resources, changed the type of “institutional controls” used for the source and groundwater cleanups at the site.
+
+This change, which is detailed in a [2016 document called “Explanation of Significant Differences](https://semspub.epa.gov/work/05/508887.pdf) [(pdf)](https://semspub.epa.gov/work/05/508887.pdf) (19pp, 3.8MB, [About PDF](https://www.epa.gov/home/pdf-files) ) was necessary because EPA and WDNR were unable to implement the deed restrictions outlined in the final cleanup plans. Deed restrictions were replaced by existing Wisconsin state and local governmental controls that authorize WDNR to impose limitations on future land uses to ensure that conditions at the site continue to protect people and the environment. These changes provide protective land- and groundwater-use restrictions to meet the site’s cleanup goals.
+
+The site was added to the state’s geographic information system, or GIS, database to provide the public with additional information.
+
+### What Is the Current Site Status?
+
+EPA completed a [five year review in April 2020](https://semspub.epa.gov/work/05/955680.pdf). The review found the cleanup continued to protect people and the environment.

@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Naval Support Facility at Dahlgren (NSF Dahlgren) National Priorities List (NPL) site is located 40 miles south of Washington, D.C., along the Potomac River in King George County, Virginia. This 4,300-acre naval facility, established in 1918, conducts research, development, testing and evaluation of surface ship weaponry. Activities at Main Side, a 2,678-acre area, include air operations, ordnance testing, laboratory testing, computer facilities, administrative offices and residences. The Explosive Experimental Area (EEA) is an isolated testing range covering 1,614 acres. Historical operations and disposal activities contaminated soil, groundwater and sediment.
+
+The NSF Dahlgren Site currently contains 76 individual sites. Fifty-five sites have been cleaned up and closed. Twenty-one sites remain open: 10 sites are in the Long-Term Monitoring Program (LTMP), 5 sites are in the Installation Restoration Program (IR), 3 new PFAS sites, and 3 sites are deferred due to being located on active munitions ranges. Remedial investigations, remedy selection, and remedial designs are underway at the remaining IR and PFAS sites.
+
+Operation and maintenance activities at these sites are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal actions. A 1994 Federal Facilities Agreement between EPA, the Virginia Department of Environmental Quality, and the Navy identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 22 operable units being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for 19 operable units.
+
+A full list of operable units can be viewed under the *Operable Units* section.
+
+### What Is the Current Site Status?
+
+There are currently three Operable Units under investigation which may require a remedy at the site.
+
+The Navy has the lead role for cleaning up the Naval Support Facility Dahlgren (NSF Dahlgren).
+
+Per the Federal Facilities Agreement between EPA, the Virginia Department of Environmental Quality and the Department of the Navy, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see the [Naval Support Facility Dahlgren Site Management Plan](https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Washington/Dahlgren-NSF/Site-Descriptions/).
+
+The Navy, with EPA concurrence, has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.The most recent Five Year Review can be found [here](https://semspub.epa.gov/work/03/2282831.pdf). The next five-year review is scheduled for 2023.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Land Use Controls are in place restricting the use of groundwater for drinking water purposes.

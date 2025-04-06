@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Army Creek Landfill, located in New Castle County, Delaware, is an abandoned sand and gravel quarry that was operated by New Castle County from 1960 through 1968 for the disposal of 1.9 million cubic yards of municipal and industrial waste. The site is bordered to the south and east by Army Creek, which discharges into the Delaware River one mile to the east. The Delaware Sand & Gravel Landfill Superfund Site is located immediately across Army Creek to the east of the Army Creek Landfill Site. The Artesian Water Company maintains a public drinking water supply well field one-half mile downgradient of the site, serving approximately 5,000 residential customers.
+
+In 1971, groundwater contamination was discovered in a residential well located in the adjacent Llangollen Estates housing development. Subsequent investigation of the underlying Upper Potomac aquifer identified a plume of organic (e.g., benzene, bis(2-chloroethyl)ether ("BCEE") and 1, 2-dichloroethane) and inorganic (iron and manganese) chemicals migrating from the landfills. In September 1983, the site was added on the Superfund program's National Priorities List (NPL), making it eligible for federal cleanup funds.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through potentially responsible party (PRP) actions with EPA oversight.
+
+A series of groundwater recovery wells between the landfills and the public water supply wells was installed by New Castle County to minimize the immediate threat. These wells operated from the early 1970s until 2004.
+
+The site was added on the Superfund program's National Priorities List (NPL) in September 1983, and in June 1990, EPA issued a cleanup plan and documented it in a Record of Decision.
+
+In September 1990, 18 PRPs, including BP America, Chrysler, Du Pont, General Motors, ICI Americas, Hercules, New Castle County and Waste Management, entered into a Consent Decree with EPA whereby the PRPs agreed to implement the final remedy.
+
+In 1992, construction of an on-site water treatment facility began and was completed in 1993. The groundwater extraction system was designed to capture a co-mingled contaminant plume migrating from both the Army Creek Landfill and Delaware Sand & Gravel Landfill NPL sites. The facility operated until 2004.
+
+A multi-layered cap was installed over the 50-acre landfill in 1993 to minimize infiltration of precipitation through the landfill waste. During cap construction, several “nests” of buried drums, totaling approximately 100 and containing volatile and semi-volatile organic compounds, were discovered, removed, and transported to a permitted hazardous waste treatment, storage, and disposal facility.
+
+### What Is the Current Site Status?
+
+In 2004, groundwater recovery operations were shifted to the adjacent Delaware Sand & Gravel Landfill site. Groundwater continues to be monitored semi-annually; the surface water and sediment of Army Creek are monitored every five years.
+
+In 2017, EPA requested that the potentially responsible parties (PRPs) conduct additional groundwater sampling to determine the concentration of metals and 1,2-dichloroethane in groundwater migrating from the western lobe of the landfill, and to determine if the landfill is a source of p er- and p olyfluoroalkyl s ubstances  
+(PFAS) in area groundwater. The PRPs installed additional monitoring wells in 2019 and performed groundwater monitoring in accordance with the EPA-approved work plan.
+
+The PRPs’ Final Investigation Report and Conceptual Site Model Update concluded that chemical oxidation and dilution are lowering concentrations of metals and 1,2-dichlorethane in groundwater downgradient of the western lobe to acceptable levels between the western lobe and Artesian Water Company’s Llangollen well field. The PRPs will install additional groundwater monitoring wells to verify this conclusion.
+
+PFAS have been detected in aqueous samples collected from gas vents located in the western lobe of Army Creek Landfill and in groundwater downgradient of the western lobe.
+
+Other operation and maintenance activities are ongoing.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2398356), concluded that the remedy continues to be short-term protective of human health and the environment with recommendations for long term protectiveness. The next five-year review is scheduled for 2029.
+
+EPA completed an [Explanation of Significant Differences (ESD) (PDF)](http://semspub.epa.gov/src/document/03/2293096) for the Army Creek Landfill Superfund Site in February 2020. An ESD outlines changes to the original cleanup plan to protect public health and the environment. This ESD requires the implementation of land and groundwater use restrictions at the Site to protect the landfill cap and prevent exposure to contaminated materials in the landfill and contaminated groundwater.
+
+### Sampling and Monitoring
+
+Monitoring Reports:
+
+- [October 2009 - Post-Remedial Monitoring Report (PDF](http://semspub.epa.gov/src/document/03/2177116)
+- [April 2010 - Post-Remedial Monitoring Report (PDF](http://semspub.epa.gov/src/document/03/2177115)
+- [October 2010 - Post-Remediation Monitoring Report (PDF)](http://semspub.epa.gov/src/document/03/2177118)
+- [April 2011 - Post-Remediation Monitoring Report (PDF)](http://semspub.epa.gov/src/document/03/2177118)
+- [October 2011 - Post-Remediation Monitoring Report (PDF)](http://semspub.epa.gov/src/document/03/2177119)
+- [April 2012 - Post-Remediation Monitoring Report (PDF)](http://semspub.epa.gov/src/document/03/2177120)

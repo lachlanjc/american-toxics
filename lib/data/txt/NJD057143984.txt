@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Curtis Specialty Papers, Inc. site is located adjacent to the Delaware River in the Borough of Milford and Alexandria Township, Hunterdon County, New Jersey. The 86-acre site is the location of a former paper mill, which operated from 1907 to 2003. The Curtis mill included a main mill building area, a coatings facility area, a coal pile and aeration basin area, and a wastewater treatment plant area. The main mill, known as the Milford Mill, was used to convert paper pulp to finished food grade paper. From 1907 to 1971, the Milford Mill was operated by the Riegel Paper Corporation. It was purchased by Riegel Paper Corporation in 1972, which later became part of the James River Paper Company, Inc. The coatings facility operated from approximately 1935 to 1988, and in these buildings solvent-based resins were compounded and coated onto paper and other products. In 1995, the mill was bought by Crown Vantage, which operated it until 2001. In 2001, the mill was bought and operated by Curtis Papers, Inc. During the time the mill was in operation, the facility reported several spills on the property. The New Jersey Department of Environmental Protection (NJDEP) issued several notices of violation to the facility. The notices of violation included unpermitted discharges and improper containers, training, and recordkeeping. In July 2003, the mill was shut down and, in November 2004, Curtis Paper, Inc. declared bankruptcy. Quequacommissacong Creek, also known as Hakihokake Creek and Milford Creek, is adjacent to the site near the former coatings facility. The area surrounding the site is largely residential, with the nearest residences approximately 0.1 mile to the north and southeast.
+
+### What Has Been Done to Clean Up the Site?
+
+An EPA removal site evaluation and removal action were conducted from 2007 to 2008. Soil in the coatings facility area was found to be contaminated by polychlorinated biphenyls (PCBs). The site was listed on the NPL in 2009. Additional removal actions and a remedial investigation/feasibility study were conducted from 2009 to 2015. Early response actions included proper abandonment of production wells, closure of the aeration basin, remediation of soils in the coatings facility area, and removal of hazardous substances from the mill buildings. Groundwater at portions of the site remain contaminated with volatile organic compounds (VOCs) that include toluene, benzene, and tetrachloroethylene. EPA selected a final remedy in 2015 to address the contaminated groundwater, which includes in-situ biological treatment, institutional controls, and monitoring.
+
+A Groundwater Remedial Action Report was approved by EPA in 2020 and remediation and monitoring of the VOCs in groundwater is ongoing.
+
+The sampling of the groundwater for per- and polyfluoroalkyl substances – known as PFAS, began in 2019. PFAS compounds (PFOA, PFOS and PFNA) have been identified in the groundwater exceeding New Jersey Water Quality Standards. Currently, EPA is working with the potentially responsible party to determine the nature and extent of PFAS contamination at the site. A robust soil investigation for PFAS is scheduled to occur at the site in June 2024.
+
+The demolition of the former mill occurred from 2019-2020 and involved the abatement of asbestos containing materials, removal of almost all of the above ground structures, and the removal/perforation of slabs and foundations. Concrete, brick, and masonry materials were targeted for reuse as backfill on site as a sustainable option for achieving final grades.Re-use materials with PCB concentrations between 0.2 and 10 ppm were placed in a “consolidation area” within the central portion of the former main mill. Approximately 22,800 cubic yards of this re-use material was placed in the consolidation area. Additionally, approximately 14,110 cubic yards of re-use material with PCB concentrations less than 0.2 ppm were also placed on site.
+
+The site has security surveillance, lighting and fencing to discourage trespassers.andsite inspections and maintenance activities (e.g., fence repair/installation, repair/installation of warning signs, snow removal, mowing) are done on an as-needed basis.No one is exposed to the contaminated groundwater beneath the site.
+
+### What Is the Current Site Status?
+
+The engineering design of the cleanup remedy was completed in 2019. The construction phase of the remedy was completed in 2020. On December 4, 2020, EPA approved the Remedial Action Report, which summarized implementation of the cleanup remedy. Demolition of the mill buildings occurred in 2019-2020. Consistent with the Superfund Redevelopment Initiative, EPA is working with the potentially responsible parties, which are also the property owners, as well as local government entities and other interested parties to facilitate returning the site to productive use.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The 2015 Record of Decision requires institutional controls to limit exposure to the contaminated groundwater at the site. In March 2018, the potentially responsible parties filed an application with NJDEP for a Classification Exception Area/Well Restriction Area at the site.
+
+### Enforcement Information
+
+In April 2017, a Consent Degree became effective that requires the potentially responsible parties to, among other things, design and construct the remedy that EPA selected in the 2015 Record of Decision.

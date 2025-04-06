@@ -1,2 +1,64 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ventron/Velsicol site is located in the boroughs of Wood-Ridge and Carlstadt, New Jersey. A mercury processing plant operated at the site from 1929 until 1974. Process waste, containing mercury and other contaminants was disposed of on the 40-acre property and to Berry's Creek. Soils, groundwater, surface water and sediments are contaminated. Off-site sediments, surface water and biota are also contaminated.
+
+The site also includes the Berry’s Creek Study Area, which comprises Berry’s Creek and its surrounding wetlands and waterways. Berry’s Creek is an approximately 6.5-mile tributary of the Hackensack River. The creek travels through the boroughs of Carlstadt, East Rutherford, Lyndhurst, Moonachie, Rutherford, Teterboro, and Wood-Ridge. The creek originates near Teterboro Airport, meanders through reed marshes, and then discharges into the Hackensack River. Berry’s Creek Study Area has also been impacted by two other federal Superfund sites (Universal Oil Products and Scientific Chemical Processing) as well as several hazardous waste sites managed by New Jersey. Mercury, methyl mercury, and PCBs are the primary contaminants and have been found at elevated levels throughout the surface water, sediment and biota in the area.
+
+Prior to 1927, most of the site was marshland. From 1927 to 1974, various parties operated a mercury processing plant on part of the site. In 1929, F.W. Berk and Company, Inc. (Berk) began operating a processing plant and manufacturing mercury products. Berk continued to operate the plant until 1960, when the corporation dissolved. Wood Ridge Chemical Corporation (WRCC), a wholly owned subsidiary of the Velsicol Chemical Corporation (Velsicol), acquired the plant and the property. The main operations of the mercury processing plant included the manufacture of red oxide of mercury, yellow oxide of mercury, phenyl mercuric acetate and other organic and inorganic mercury compounds. The plant also reclaimed mercury from both in-house and customer waste products (e.g., amalgams, batteries, thermometers, impure mercury).
+
+Velsicol continued to operate the plant until 1968, when the Ventron Corporation (Ventron), a predecessor to Morton, purchased WRCC and the 7-acre parcel on which the plant was located from Velsicol. Velsicol retained ownership of the rest of the site property until transferring ownership to NWI Land Management, Inc., in 1986. Ventron operated the plant until its closure in 1974. In 1974, the parcel of land where the plant was located was sold to Robert and Rita Wolf (Wolf). Wolf demolished the plant in 1974 and, in 1975, subdivided the land and transferred title of the western parcel to U.S. Life Insurance Company. Two warehouses were built, one on each parcel.
+
+The warehouse on the western part of the site (the U.S. Life \[Jerbil\] Warehouse) was built first, after the upper layer of contaminated soil was removed and disposed of on the eastern portion of the site. Construction of the Wolf Warehouse on the eastern part of the site was meant to contain mercury-contaminated soils under the foundation and/or the asphalt pavement surrounding the building. However, no post-construction documentation of this containment structure is available.
+
+The 19-acre part of the site between the developed area and Berry's Creek (i.e., the undeveloped area) was used as a dumping area for various materials, including demolition material and domestic solid waste, after 1960. Beginning in the 1970s, the New Jersey Department of Environmental Protection (NJDEP) oversaw various investigations of soil, groundwater, surface water, sediment and air quality at the site. After immediate actions to protect human health and the environment, and additional investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1984.
+
+### What Has Been Done to Clean Up the Site?
+
+**Immediate Actions:** Contaminated soils at nine residential properties and one publicly owned property were removed and replaced with clean fill in the fall of 1990.
+
+**Long-term Cleanup:** The cleanup of the first operable unit was completed in 2010. Groundwater use restrictions have been put in place. Deed restrictions limit use to industrial/commercial use.
+
+The second operable unit, Berry’s Creek Study Area, will be addressed in a phased cleanup approach, focusing first on the areas presenting the greatest risk and acting as a source to other areas. An interim source control action was selected in a September 2018 Record of Decision, and the design of the cleanup plan is ongoing.. Fish consumption advisories are in place and should help reduce people’s exposure to contaminated fish and crabs.
+
+### What Is the Current Site Status?
+
+The New Jersey Department of Environmental Protection (NJDEP) and EPA selected a cleanup plan for the upland portion of the site in October 2006. The Record of Decision, or ROD, called for excavation and off-site disposal of highly contaminated soil, capping of mercury-contaminated soils remaining on site, use restrictions on contaminated properties, a barrier system to contain high mercury concentrations under one of the buildings on site, and a clean buffer zone between the capped areas and creeks or wetlands. The cleanup was completed in 2010. Groundwater use restrictions have been put in place. A third warehouse has been constructed on the portion of the site that was previously undeveloped.
+
+Site investigations to address contamination in Berry’s Creek and its neighboring wetlands and waterways have been completed. The site’s potentially responsible parties (PRPs) conducted the investigations, with EPA oversight. Due to the complexity of the site, EPA has determined that a phased approach to cleanup of the area is appropriate. An interim cleanup plan was selected in the September 25, 2018 Record of Decision. An adaptive or phased approach will allow EPA to address the areas of greatest risk which also act as a source of contamination to other areas while collecting more information on how to address the remaining portions of the Berry's Creek Study Area.
+
+The selected remedy includes:
+
+**UBC and MBC Waterways:** 2-foot Sediment Removal + Backfill/Cap  
+• Bank-to-bank removal of 2 feet of soft sediment within the proposed remediation footprint (plus 6 inches of over-dredge). Where less than 2 feet of soft sediment is present, all of the soft sediment will be removed. The selected remedy is expected to remove approximately 363,000 cubic yards (yd3) of sediment from the UBC and MBC waterways.  
+• Backfill/capping of the areas where sediment is removed. The backfill thickness will be equal to the thickness of sediment removed. In areas where contaminated soft sediment remains below the excavation depth, the backfill will serve as a cap to physically isolate this material. The work will include mitigation of the disturbance to habitat caused by the remedial action.
+
+**UPIC Marsh:** Hybrid – Sediment Removal + Backfill and Thin-Layer Cover  
+• Removal of marsh sediments to a depth of 1 foot for most of the marsh, with removal of 2 feet of sediment within a 10-foot strip along the marsh edge at the waterway banks. The selected remedy is expected to remove approximately 69,500 yd3 of UPIC marsh sediment.  
+• The excavated sediment will be replaced with backfill to maintain marsh surface elevations, isolate underlying marsh sediment, and re-establish the marsh habitat.  
+• A thin-layer cover of clean material (six inches) will be placed over the existing marsh in the area surrounding the radio towers in the southern portion of UPIC marsh. Approximately 3,600 yd3 of thin-layer cover material will be placed.
+
+**Dewatering and Off-Site Disposal:** The excavated/dredged sediment will be dewatered, stabilized as necessary and transported off site for disposal at a permitted facility. Water from the process will be treated and returned to the creek.
+
+**Marsh Demonstration Project:** A marsh demonstration project will evaluate potential cleanup options for marshes not addressed in this action, and monitor the response of the marshes to the waterway cleanup.
+
+**Long-Term Monitoring:** Long-term monitoring will be conducted to evaluate the overall effectiveness of the cleanup as well as providing information to make future decisions for the BCSA.
+
+**Institutional Controls:** Institutional controls, such as the existing New Jersey fish and crab consumption advisories will remain in place. Additional restrictions will be put in place to preserve the caps, if necessary.
+
+The selected remedy is an interim action to control the release of contamination from the sediments in Upper and Middle Berry’s Creek. It is the first ROD to address Berry’s Creek sediments. One or more future decision documents will be necessary to select a final remedy for the sediments in Upper and Middle Berry’s Creek, and to select remedies for the marshes as well as Lower Berry’s Creek and Berry’s Creek Canal.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The state of New Jersey has fish and crab consumption advisories in place for the entire Newark Bay Complex, of which, Berry's Creek is a part.
+
+### Sampling and Monitoring
+
+Before starting the cleanup of Berry's Creek, baseline monitoring is being conducted. This will allow a comparison of concentrations before cleanup to after the completion of the cleanup, as a measure of effectiveness. Further sampling will be conducted to evaluate the risks that remain at the site after cleanup, and determine a plan for further action if necessary.
+
+### Enforcement Information
+
+A group of approximately 120 parties has been participating in the investigation and design for the cleanup plan. The EPA will negotiate with parties from this group for the implementation of the cleanup under a Consent Decree.

@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Tabernacle Drum Dump site is a wooded one-acre parcel of undeveloped land located in Tabernacle Township, New Jersey in the northern region of the New Jersey Pine Barrens. The site is bordered to the northeast by farmland and to the south and east by residential properties. In 1976 and 1977, Atlantic Disposal Services, Inc. (ADS) disposed of approximately 200 containers of waste chemicals on property owned by Mr. & Mrs. Ware. These containers, which included 55-gallon drums, 5-gallon paint cans, and 20-gallon containers, were stored at the property between 1977 and 1984. Deterioration and leakage of some of the containers caused the contents to be released on to the ground, which resulted in contamination of the soil and ground water beneath the site. The Burlington County Health Department (BCHD) conducted a site visit in August 1982, and discovered over one-hundred abandoned drums. In November 1982, the BCHD sampled approximately 25 private potable water wells in the area, finding no significant measured levels of contamination in the residential drinking water. A New Jersey Department of Environmental Protection (NJDEP) inspection revealed the presence of leaking and deteriorated drums containing solvents, paint sludges, heavy metals, and visibly contaminated surface soils as evidenced by dead vegetation. NJDEP obtained three waste samples from three separate drums and one aqueous sample composite from seven different spill locations. The laboratory analysis showed the presence of carbon tetrachloride, benzene, toluene, ethyl benzene, xylene, chromium, and lead.
+
+In September 1984, the site was placed on the National Priorities List. EPA performed a remedial investigation (RI), which studied the surface soils and the ground water beneath the site. Chromium, cyanide, and lead were detected in the surface soils; and cadmium, chromium, lead, 1,1,1-trichloroethane (TCA) and 1,1-dichloroethene (DCE) were detected in the ground water. The contaminated ground water posed a potential threat to private drinking water wells downgradient of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Surface soil cleanup was completed in July 1984 and consisted of removing the containers found at the site, 40 cubic yards of material from the drums, eight truckloads of excavated contaminated soil, and approximately 3,000 gallons of liquid material. The materials were disposed of at a facility permitted for the disposal of hazardous waste. Soil sampling conducted in 1991, indicated that migration of metals from the original dump location was not occurring. The soil data confirmed the existence of only trace levels of contaminants, and therefore, no further action was warranted for the soil.
+
+Groundwater plume characterization began in March 1991, and found, that the contaminant plume had migrated approximately 3,000 feet southeast from the original dump location. Design of the ground-water remediation system was completed in fall of 1992. Construction began in February 1993 and was completed in July 1993. The ground-water remediation system began operations on August 30, 1993. Quarterly ground-water sampling began in October 1993 to monitor the effectiveness of the ground-water remediation system. Data submitted during that period indicated that the level of contaminants in the ground water was decreasing and that the ground-water remediation system was functioning as designed. Groundwater cleanup goals were met and EPA approved the shut down of the groundwater remediation system in 1997.
+
+### What Is the Current Site Status?
+
+The site has been cleaned up and the groundwater remediation system has been dismantled. EPA removed the site from the Superfund program’s National Priorities List in May 2008.
+
+### Enforcement Information
+
+In February 1984, EPA issued an Administrative Order to ADS, to perform the surface cleanup of the site, install and sample four monitoring wells, and sample and analyze site surface and subsurface soils for priority pollutants.
+
+ADS did not conduct the installation and sampling of monitoring wells to assess the impact on groundwater and did not conduct confirmatory soil sampling, which constituted a violation of the Administrative Order. This issue was resolved in a 1987 Consent Decree in which ADS agreed to payment of penalties and oversight costs.
+
+On November 29, 1989, USX (a generator of hazardous waste related to the site) signed a Consent Decree to implement the cleanup at the site.

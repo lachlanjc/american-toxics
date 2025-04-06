@@ -1,22 +1,25 @@
-OCONOMOWOC ELECTROPLATING CO., INC.ASHIPPUN, WI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Oconomowoc Electroplating Co., Inc. (OECI) site is in the unincorporated town of Ashippun, a rural area about 35 miles west of Milwaukee. It operated from 1957 to the early 1980s as an industrial facility that used metals, chemicals, and organic compounds in its production process. During that time, the company discharged untreated wastewater into nearby wetlands and Davy Creek. Two unlined lagoons on the property contained electroplating sludge. These lagoons leaked and sometimes overflowed. Contaminants, called volatile organic compounds, or VOCs, made their way into the groundwater beneath and downstream of the site. Top of Page
-What Has Been Done to Clean Up the Site?
-The site was divided in five areas, or Operable Units (OUs) to facilitate the cleanup: 
-OU1: surface water, metal hydroxide sludge and contaminated soils associated with the two Resource Conservation and Recovery Act (RCRA) Subtitle C lagoons located behind the OECl facility.
-OU2: contaminated soil around the OECl facility not associated with the RCRA lagoons.
-OU3: contaminated groundwater associated with the site.
-OU4: the most highly contaminated sediments in Davy Creek and the wetlands area.
-OU5: dismantle the abandoned facility and dispose of associated debris. 
-The cleanup actions or remedial actions for all the OUs have been completed, except for OU3. The initial cleanup plan for the site was selected in 1990 and it included pumping and treating contaminated groundwater. The pump and treat system was utilized from 1996 to 2004. In 2004 the system was shut down after an EPA study found it was losing efficacy reducing contamination. In 2011 the cleanup plan was amended to include natural processes for treating ground water contaminants and conducting a study of source areas to determine the extent of contamination. In 2013, after the source areas study was completed, a cleanup technique known as in situ soil mixing was used to treat 2,269 cubic yards of contaminated material in the source area. Top of Page
-What Is the Current Site Status?
-The site is being addressed through federal and state actions. The Wisconsin Department of Natural Resources oversees site maintenance and groundwater monitoring, and EPA is responsible for overseeing monitored natural attenuation. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. EPA is conducting the sixth five-year review of the site to verify the remedy continues to protect people and the environment. The five-year review is an opportunity for the public to tell EPA about site conditions and any concerns they may have. If you would like to submit any comments, please contact the Remedial Project Manager or Community Involvement Coordinator listed on this website. The previous five-year review in 2017 concluded that that the remedy for the site continues to be protective of human health and the environment. However, for the remedy to be effective in the long-term, an Institutional Controls Implementation and Assurance Plan was needed, along with the implementation of Institutional Controls. 
-Top of Page
+### Background
+
+The Oconomowoc Electroplating Co., Inc. (OECI) site is in the unincorporated town of Ashippun, a rural area about 35 miles west of Milwaukee. It operated from 1957 to the early 1980s as an industrial facility that used metals, chemicals, and organic compounds in its production process. During that time, the company discharged untreated wastewater into nearby wetlands and Davy Creek. Two unlined lagoons on the property contained electroplating sludge. These lagoons leaked and sometimes overflowed. Contaminants, called volatile organic compounds, or VOCs, made their way into the groundwater beneath and downstream of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was divided in five areas, or Operable Units (OUs) to facilitate the cleanup:
+
+- OU1: surface water, metal hydroxide sludge and contaminated soils associated with the two Resource Conservation and Recovery Act (RCRA) Subtitle C lagoons located behind the OECl facility.
+- OU2: contaminated soil around the OECl facility not associated with the RCRA lagoons.
+- OU3: contaminated groundwater associated with the site.
+- OU4: the most highly contaminated sediments in Davy Creek and the wetlands area.
+- OU5: dismantle the abandoned facility and dispose of associated debris.
+
+The cleanup actions or remedial actions for all the OUs have been completed, except for OU3.
+
+The initial cleanup plan for the site was selected in 1990 and it included pumping and treating contaminated groundwater. The pump and treat system was utilized from 1996 to 2004. In 2004 the system was shut down after an EPA study found it was losing efficacy reducing contamination. In 2011 the cleanup plan was amended to include natural processes for treating ground water contaminants and conducting a study of source areas to determine the extent of contamination. In 2013, after the source areas study was completed, a cleanup technique known as in situ soil mixing was used to treat 2,269 cubic yards of contaminated material in the source area.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal and state actions. The Wisconsin Department of Natural Resources oversees site maintenance and groundwater monitoring, and EPA is responsible for overseeing monitored natural attenuation.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. EPA is conducting the sixth five-year review of the site to verify the remedy continues to protect people and the environment. The five-year review is an opportunity for the public to tell EPA about site conditions and any concerns they may have. If you would like to submit any comments, please contact the Remedial Project Manager or Community Involvement Coordinator listed on this website.
+
+The previous five-year review in 2017 concluded that that the remedy for the site continues to be protective of human health and the environment. However, for the remedy to be effective in the long-term, an Institutional Controls Implementation and Assurance Plan was needed, along with the implementation of Institutional Controls.

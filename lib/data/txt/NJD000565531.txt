@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Cosden Chemical Coatings Corp. site is located in Beverly, New Jersey. A paint formulation and manufacturing facility operated at the 6.7-acre site from 1945 until 1989when it permanently closed. The facility produced paints for industrial applications that involved the use of solvents, which were stored in tanks and drums on site. Prior to 1974, solvents and wastes were recycled by a contractor who regularly removed the drums. In 1974, the recycling ceased and the drums accumulated on the site. The owner abandoned the site in 1985. Thus, facility operations contaminated soil and groundwater with polychlorinated biphenyls (PCBs), metals, and volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that can easily evaporate into the air. reme The site first came to the attention of the New Jersey Department of Environmental Protection (NJDEP) following a grass fire at the facility. An inspection by NJDEP in 1980 revealed surface spills and several hundred unsecured drums stored on site. EPA conducted sampling in 1988 and found the soil to be contaminated primarily with heavy metals and the groundwater contaminated with VOCs.. EPA has completed immediate removal and remediation of above-ground structures and soil contamination and is currently remediating groundwater contaminantion. This site is being addressed through Federal and State actions.
+
+### What Has Been Done to Clean Up the Site?
+
+After the site was put on the NPL in 1987, EPA undertook a removal action. First, EPA constructed a fence to secure the property from trespassers. Then, EPA removed and disposed off-site 75 lab pack drums, 300 fifty-five gallon drums, 2,000 gallons of bulk liquids, and 350 empty containers ranging in size from 5 gallon pails to fifty-five gallon drums.
+
+In the September 1992 Record of Decision, EPA chose three specific remedies to deal with the contamination that existed above-ground, in the soil, and in groundwater. The remedial action for above-ground structures was initiated in May 1995 and completed in Spring 1996. It consisted of the decontamination, demolition, and disposal of all on-site structures, equipment, and debris.. Soil cleanup began in June 1999 and finished in March 2002. In total, 10,711 tons of soil, 1,800 tons of debris and 3,000 gallons of liquid waste were safely removed from the site. After the work finished, the area was backfilled with clean fill, graded, and revegetated, giving the site a park-like appearance.
+
+In 2009, EPA initiated the long-term treatment of the groundwater by building a groundwater extraction and treatment system (GETS)..The system extracted a large quantity of groundwater daily, which was then treated to remove the contaminants before being reinjected into the property'sgroundwater. The GETS is estimated to have treated 282,311,828 gallons of water since 2009 and removed approximately 13,000 pounds of total VOCs. The system is not currently operating due to a pilot study that is currently taking place at the property. EPA monitors the groudnwater to ensure that any remaining contamination stays on the property.  
+
+### What Is the Current Site Status?
+
+EPA and the United States Army Corps of Engineers (USACE) completed an in-situ chemical oxidation (ISCO) pilot study in 2021. The pilot study demonstrated that ISCO can successfully degrade the remaining VOCs in groundwater. In July 2022, USACE completed a Focused Feasibility Study to determine if ISCO should be selected as an additional remedy for groundwater at the site.
+
+EPA has completed three Five-Year Reviews for the site. EPA expects to issue the fourth Five-Year Review in 2027.
+
+### Sampling and Monitoring
+
+As part of the ISCO pilot study, USACE and EPA routinely samples groundwater monitoring wells on and off the Cosden property. An additional 15 monitoring wells were installed as part of the pilot study, providing a total network of over 30 monitoring wells. EPA will conduct additional sampling on and off the Cosden property for emerging contaminants, including Per- and Polyfluoroalkyl Substances (PFAS).

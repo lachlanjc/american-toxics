@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Sauk County Landfill site is located in Sauk County, Wisconsin. The county operated a municipal landfill there from 1973 to 1983. The landfill occupies about 14 acres of a county-owned 320-acre parcel of land where municipal, commercial and industrial waste was disposed of. Sauk County closed and capped the landfill in 1983. Facility operations contaminated groundwater with volatile organic compounds and metals.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s cleanup included a multi-layered landfill cap and gas extraction system as well as groundwater monitoring. Groundwater monitoring wells are sampled semi-annually and the gas extraction system continues to operate. Landfill gas is destroyed using a flare.
+
+Wisconsin Department of Natural Resources oversees operation and maintenance activities.
+
+### What Is the Current Site Status?
+
+EPA and Wisconsin Department of Natural Resources completed a [review (PDF)](http://https://semspub.epa.gov/work/05/961369.pdf) (46 pp, 9.56MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the site's cleanup. This type of review is required at least every five years where the cleanup is complete but hazardous waste remains managed on-site. These reviews are done to ensure that the cleanup continues to protect people and the environment. This was the fifth five-year review
+
+The review included:
+
+- An evaluation of background information
+- Cleanup requirements
+- Effectiveness of the cleanup and any anticipated future actions
+- Maintenance and monitoring efforts
+- An analysis of ways for EPA to operate more efficiently
+
+The review found the cleanup continues to protect people and the environment. The next scheduled review will be in 2025.
+
+Additional site-related information is available at the Baraboo Public Library, 230 Fourth Ave. and on this web page under Site Documents & Data.

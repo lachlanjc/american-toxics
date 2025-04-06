@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Bog Creek Farm site is located in Monmouth, New Jersey. A disposal area at the 12-acre area contained a pond, bog and trench. Between 1973 and 1974, organic solvents and paint residues were dumped there, contaminating soil, sediment, surface water and groundwater with volatile organic compounds (VOCs) and heavy metals. VOCs are potentially harmful contaminants that easily evaporate in the air. To date, cleanup has included the removal of disposal pit wastes and disposal and incineration of contaminated soils and sediment. Groundwater treatment is ongoing.
+
+A 4-acre disposal area was located on the 12-acre Bog Creek Farm, which contained a pond, bog, and trench. Between 1973 and 1974, organic solvents and paint residues were dumped around a trench in the eastern part of the property. Waste sampling revealed a wide variety of volatile organic compounds (VOCs) and heavy metals. Some chemicals moved into the ground water, which carried them to the pond and bog, as well as to the north branch of Squankum Brook. Contaminant levels in the north branch of Squankum Brook decreased markedly with distance from the site and did not appear to impact the Manasquan River. The site lies in a rural agricultural and recreational area. Farms which raise horses, nursery stock, vegetables, grain, sod, and flowers are situated nearby. The Allaire State Park is 1/2 mile east of the site and is used by golfers, fishermen, hunters, and equestrians. There are two homes on the site and several more about 500 feet to the northwest, on Squankum Park Road. Approximately 900 people live within 1 mile of the site. The town of Farmingdale, 3 miles north of the site, has approximately 1,400 residents. Ground water is the sole drinking water source for residents near the site and is also used for irrigation. Nearby surface waters are used for recreation. Site Responsibility: This site is being addressed through Federal actions.
+
+### What Has Been Done to Clean Up the Site?
+
+In September 1985, EPA selected a remedy to control the source of the contamination by: (1) removing wastewater and sediments from the pond and bog; (2) regrading and covering the pond and bog; (3) treating the wastewater in an on-site plant and discharging clean water to the nearby stream; (4) digging up the contaminated waste deposits and soil; (5) incinerating excavated materials at a temporary facility on site or at an EPA-approved facility off site; (6) conducting further analysis of soil left behind to see if further cleanup was necessary; (7) evaluating innovative technology to treat remaining soil, if necessary; (8) covering the dug-up area with a compacted soil cap; (9) building a security fence around the work areas; and (10) starting a monitoring program to assess the effectiveness and reliability of the cleanup strategy.
+
+  
+The major source control remedial actions called for under the 1985 ROD were undertaken in a 12-month field program which ended in October 1990, and included the operation of an onsite incinerator which treated 15,500 cubic yards of soil and sediments. While original groundwater cleanup timeframe estimates were eight to 10 years, EPA’s second five-year review of the remedy in 1997 found it would take decades longer than that. An extensive optimization study started in October 2001. Its objective was to reduce the time needed to clean up site groundwater. The optimization effort concluded that residual contaminant levels in the soil were too high for the extraction/ treatment system to attain aquifer cleanup within an acceptable amount of time.
+
+  
+EPA investigated ways to reduce the source (volume) of contamination at the site and then optimize the system to maximize its capture and removal. EPA documented the source reduction in a 2005 Explanation of Significant Differences that updated the site’s 1985 Record of Decision. A total of 18,000 tons of contaminated soil were dug up and shipped off site. The related dewatering effort required the removal and treatment of 6.5 million gallons of contaminated groundwater.
+
+The excavation phase finished in November 2006. Enhanced capture and treatment of contaminated groundwater was developed in a focused feasibility study that resulted in an Amendment to the site’s 1989 Record of Decision. The design, which called for a smaller, automated treatment facility, was completed in July 2008. Construction of the new facility finished in July 2010. The startup year finished a year later, in July 2011, which also marked the beginning of the long-term remedial action.  
+
+### What Is the Current Site Status?
+
+The site has been addressed in three phases: two separate remedial action phases to clean up known sources of contamination and a long-term cleanup phase to clean up remaining source materials and restore groundwater quality.
+
+Initial Actions: In 1984, the site owner pumped wastes from the disposal pits, hauled the wastes to an EPA-approved landfill and backfilled the pits.
+
+Source Control: Beginning in 1984, EPA installed test pits, trenches and monitoring wells on site to determine the nature and extent of contamination.
+
+Groundwater and Sediment Cleanup: In June 1989, EPA selected a remedy that called for: (1) extracting, treating and reinjecting groundwater via the on-site water treatment plant to restore the Upper Kirkwood Aquifer to identified cleanup goals; and (2) digging up and incinerating contaminated sediments from the North Branch of Squankum Brook and disposing of the incineration residues on site.
+
+The long-term extraction and treatment of the groundwater got underway in 2011 and is still ongoing. The water treatment system operates continuously, treating and reinjecting clean water every month. As part of the long-term monitoring, groundwater around the site is sampled on a quarterly basis and surface water and sediment are sampled on a semi-annual basis to ensure the treatment remedy is working effectively. These results are documented in the Annual Operation and Maintenance Report every year. In September 2021, site activities were transferred to the State for the start of the Operation and Maintenance (O&M) Period. Additionally, the sixth Five-Year Review was completed in December 2021.

@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Industrial Latex site is located in Wallington, New Jersey. The Industrial Latex Corporation manufactured chemical adhesives and natural and synthetic rubber compounds on site from 1951 until 1983. Facility activities contaminated soil with hazardous chemicals.
+
+The Industrial Latex Corporation manufactured chemical adhesives and natural and synthetic rubber compounds on site from 1951 until 1983. Adhesives were initially formulated using vegetable protein in a solvent base. Solvents used in the process included acetone, heptane, hexane, methyl ethyl ketone (MEK), methylene chloride and 1,1,1-trichloroethane (TCA). To reduce flammability, PCBs were introduced as a fire retardant. In the late 1970s, solvent-based adhesives were replaced by water-based latex adhesives. Intermittent processing of latex compounds continued at the site until October 1983, when all operations ceased. Poor operational procedures and on-site waste disposal practices resulted in widespread areas of surface and subsurface soil contamination.
+
+Prompted by numerous complaints from local officials about the misuse of solvents and the dumping of trash and chemicals on the property, the New Jersey Department of Environmental Protection (NJDEP) led a site inspection in 1980 and found about 250 leaking drums of various chemicals. In addition, NJDEP discovered that volatile organic compounds (VOCs) and materials contaminated with PCBs had been disposed of in an on-site sanitary septic system. NJDEP did a second site inspection in 1983 and discovered about 1,600 drums that were open, leaking or lying on their sides. The Industrial Latex Corporation went out of business in 1983.
+
+Following site investigations, EPA placed the site on the Superfund program’s National Priorities List in March 1989. After cleanup, EPA took the site off the National Priorities List in April 2003
+
+### What Has Been Done to Clean Up the Site?
+
+Initial Actions: In 1986, EPA treated or recycled over 130,000 gallons of contaminated liquids, including flammable organic liquids and polychlorinated biphenyl (PCB) liquid wastes. In addition, over 1,200 drums and 22 underground tanks were removed from the site. The site was stabilized, which included an inventory of materials on the site, removing shock-sensitive and highly flammable chemicals, and removing 37 truckloads of non-hazardous, combustible trash. EPA destroyed 1,525 shock-sensitive and flammable materials, incinerated 12,048 gallons of flammable PCB solids off site, and sent 113,050 gallons of non-flammable PCB solids to an off-site landfill. The site was also fenced to limit access to any remaining contamination.
+
+Source Control: Following a remedial investigation and feasibility study to determine the nature and extent of contamination at the site in June 1989, EPA selected a remedy to address the site’s source areas in the site’s September 1992 Record of Decision, or ROD. It included: (1) excavation of contaminated soil and treatment by low-temperature thermal desorption, followed by backfilling; (2) excavation and off-site disposal of about 600 buried drums; (3) dismantling and off-site disposal of vats and other remaining processing equipment; and (4) demolition and off-site disposal of two buildings on the site. The first phase of the cleanup involved the demolition of the buildings and removal of the vats. It started in July 1995 and finished in November 1995. The second phase of the cleanup involved the excavation and treatment of the contaminated soil, and excavation and off-site disposal of buried drums. Fieldwork began in November 1998. Soil treatment finished in June 2000. The U.S. Army Corps of Engineers provided on-site oversight of this action.
+
+Groundwater: Following inconclusive groundwater investigations, EPA conducted a final groundwater sampling effort at the site in 2000 to clarify its understanding of site groundwater. None of the site-related chemicals of concern were found to be present in the groundwater at concentrations above federal and state drinking water standards. Based on these results, EPA determined in September 2001 that no action was necessary to address groundwater at the site.  
+
+### What Is the Current Site Status?
+
+The site was addressed in two stages: initial actions and long-term remedial actions focused on cleanup of the entire site.
+
+A remedial action performed in 1995 addressed the building contamination via decontamination, demolition of two buildings (39,400 square feet) and off-site disposal of the building debris. Additionally, 30 process vats were removed and disposed of off site. The soil cleanup was completed in June 2000, and a no action ROD was signed for ground water in September 2001. A Notice of Intent to Delete the site from the National Priorities List (NPL) was published in the Federal Register on December 9, 2002.After cleanup, EPA took the site off the National Priorities List in April 2003. A five year review of the site is not required.
+
+Residual soil contamination was discovered on nearby property after discovered during unrelated investigation work. EPA completed an investigation to delineate the extent of the residual contamination followed by excavation of the contaminated soil. This residual soil cleanup was completed in Spring of 2017. All cleanup activity is now completed at the Site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site has been cleaned up to an unrestricted, residential use standard. All activities at the Industrial Latex site are complete and the site poses no unacceptable risk to human health or the environment. Therefore, no operation and maintenance activities or institutional controls are required at the site.
+
+### Sampling and Monitoring
+
+Remedial activites at the site are completed. There is no ongoing sampling or monitoring at the site.

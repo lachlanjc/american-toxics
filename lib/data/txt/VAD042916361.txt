@@ -1,2 +1,50 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Arrowhead Associates/Scovill Corp. Site is located approximately two miles southeast of Montross, Virginia in Virginia’s Northern Neck region. The Site, previously used for cosmetic case manufacturing from 1966 to 1979, occupies approximately 30 acres on the east side of State Route 3, featuring a manufacturing building, parking lot, and deep well on the western portion and five former sludge settling ponds and a treated wastewater pond on the eastern portion. Site soils and groundwater were contaminated via on-site residual process wastes, contaminated containers, and manufacturing equipment. EPA added the Site to the Superfund program's National Priorities List in 1990.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1986, EPA and the Potentially Responsible Party (PRP), Scovill (and later, Saltire), entered into an Administrative Order that required a two-phase removal action at the Site. From December 1986 to November 1988, the PRP removed various contaminated materials from the Site and the former drum storage areas for off-site disposal. The PRP also treated and disposed of contaminated wastewater, sludge, and soil from the inactive settling ponds. The settling ponds were filled and graded, and erosion control measures were installed. The removal action successfully reduced the immediate risks, but significant residual contamination of soil and groundwater remained. Given the extent of Site contamination, EPA proposed the Site for inclusion on the Superfund program's National Priorities List (NPL) in June 1988. The Site was added to the NPL in February 1990.
+
+A cleanup plan was proposed describing several remedial alternatives evaluated to address contamination at the Site. After public comment, a [Record of Decision](https://semspub.epa.gov/src/document/03/40280) (ROD) was signed on September 30, 1991. The remedy included:
+
+- Operable Unit 1 (OU1) - a soil vapor extraction system (SVE) to remove volatile organic compounds (VOCs) from contaminated soil in the Large Drum Storage Area and the Chlorinated Solvent Tank Area;
+- Operable Unit 2 (OU2) - a pump-and-treat system to treat contaminated groundwater; and
+- Site monitoring plan and establishment of institutional control measures.
+
+In 1995, the PRP entered into a Consent Decree with EPA to implement the selected remedy. EPA issued an [Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/141853) in 1998, approving the use of the permeable reactive subsurface barrier (PRSB) system in lieu of a pump-and-treat system at the Site. A PRSB system transforms dissolved VOCs into non-toxic products to attain remediation concentration goals in groundwater before groundwater discharges into nearby surface water, including tributaries of the Scates Branch.
+
+EPA amended the remedy with a [2001](https://semspub.epa.gov/src/document/03/376890) [ROD](https://semspub.epa.gov/src/document/03/376890) [Amendment](https://semspub.epa.gov/src/document/03/376890) to add a surface cap to the groundwater component of the selected remedy. The surface cap system was added to limit surface water infiltration into the subsurface immediately up-gradient of the PRSB.
+
+After respective remedial designs and actions for each OU, the Site achieved construction completion with the signing of the Preliminary Close Out Report on September 27, 2002.
+
+In 2013, EPA initiated an additional Remedial Investigation and Feasibility Study to gather more information and address data gaps.
+
+In April 2020, EPA issued a [Record of Decision (ROD) Amendment (PDF)](https://semspub.epa.gov/src/document/03/2300952) for Operable Unit 3. The final remedy selected includes multiple components:
+
+- electrical resistivity heating (soil and groundwater are heated to boiling points of volatile contaminants and extracts the vapors)
+- in situ chemical oxidation (strong chemical oxidizers are injected or mixed into soil and/or groundwater to destroy contaminants in place)
+- enhanced reductive dechlorination (zero valent iron is used to chemically degrade contaminants or stimulates naturally-occurring harmless bacteria are stimulated or introduced to biologically degrade the contaminants)
+- excavation with off-site disposal
+- vapor intrusion mitigation (sub-slab depressurizing system: involves connecting a blower, or fan, to a small suction pit dug into the slab to vent vapors outdoors)
+- institutional controls (activity and use restrictions to limit exposure to indoor air and prevent installation of potable wells in the area of groundwater contamination).
+
+### What Is the Current Site Status?
+
+EPA is currently working on remedial design for the first component of the final remedial action (electrical resistivity heating). EPA is also working on a treatability study for the second component of the final remedial action (in situ chemical oxidation). The results of the treatability study will support the design phase of this component of the final remedial action.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312275), concluded that the remedy is expected to be protective of human health and the environment once it is implemented. In the interim, exposure pathways that could result in unnacceptable risks are being controlled at the Site by the following measures:
+
+- The training facility that operates on-site restricts access to the site property and operates a vapor Intrusion mitigation program to ensure VOC concentrations in indoor air remain below health action levels.
+- Area businesses and residences are connected to the municipal water supply and EPA is working to implement institutional controls to prevent use or installation of wells into areas of groundwater contamination.
+- Once constructed, the remedy is expected to address principal threat wastes as well as residual contamination to achieve performance standards.
+
+The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A summary of planned and implemented Institutional Controls (ICs) can be found in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312275) (pages 13-14).

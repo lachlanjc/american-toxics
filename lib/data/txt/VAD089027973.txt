@@ -1,2 +1,50 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Buckingham County Landfill occupies eight acres, including a two-acre hazardous waste disposal area, near the town of Dillwyn, VA. The primitive disposal operation involved emptying solvent and paint waste into a series of trenches, whereby the byproducts of evaporation, known as still bottoms, were buried and remain today. Crushed drums were placed in another trench where they remain today as well. In 1989 the Site was added to the National Priorities List (NPL). An investigation in 1992 showed that on-site groundwater wells were contaminated with very high levels of volatile organic compounds (VOCs). Potential risks exist if people ingest or come into direct contact with this contaminated groundwater. An estimated 1,100 people use wells within three miles of the site and approximately 40 people live within a half mile of the site. A landfill cap was completed in 1998. A groundwater study was also done in 1998 to design the long-term groundwater monitoring program, and the first round of sampling was completed in September 1998. Ongoing groundwater monitoring results established that the site related contaminants were migrating past point of compliance wells at concentrations exceeding cleanup levels established in the 1994 Record of Decision (ROD). In 2013, the lead potentially responsible party (PRP) performing work at the site, Thomasville Furniture Industries Inc., declared bankruptcy. As a result, EPA has entered into an agreement with another PRP, Univar, to conduct the necessary remedial investigation/feasibility study (RI/FS). The 2013 Five-Year Review determined that the remedy put in place pursuant to the ROD was not functioning as intended and a new Remedial Investigation/Feasibility Study was determined to be necessary.
+
+### What Has Been Done to Clean Up the Site?
+
+The [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/136055), which describes the cleanup methods to be used, was issued in September 1994 and contained two options:
+
+- Monitoring the groundwater and installing a cap over the hazardous waste disposal area.
+- Monitoring the groundwater, limiting off-site treatment, and installing a cap over the hazardous waste disposal area; however, if migration of the contaminated plume was detected, Option 2 also included a contingency plan to pump and treat the groundwater.
+
+EPA attempted to negotiate a consent decree with the site's potentially responsible parties (PRPs) to carry out the remedy in the ROD, but a settlement was never reached. EPA then negotiated a de minimis settlement with three parties who were responsible for only a small amount of waste.
+
+After EPA's attempts to get the main PRPs and Buckingham County to agree to carry out the ROD, EPA finally issued a Unilateral Administrative Order in 1996 to Thomasville Furniture Industries Inc. to perform the cleanup.
+
+In December 2006, EPA met again with the PRPs to discuss the elevated contamination levels in the groundwater, mainly 1,4-dioxane and VOCs. The parties agreed to sample additional monitoring wells and install four more monitoring wells.
+
+During the 2008 Five-Year Review of the Buckingham County Landfill, EPA found that the cleanup remedy in the 1994 ROD was not effective in protecting human health and the environment, and therefore, the agency is revisiting this site by conducting additional investigation activities.
+
+Information gathered during the new investigation will be used to determine the best available technology that is appropriate in cleaning up the site.
+
+The 2008 Five-Year Review found that as many as nine site-related contaminants, one of which is 1,4-dioxane, a stabilizer found in solvents, has migrated in groundwater beyond point of compliance wells. Previously, 1,4-dioxane was not easily detected in groundwater, however, a new standard testing method is now available to detect it.
+
+It is important to note that the two closest downgradient residential monitoring wells have been sampled on a quarterly basis since 1996. Test results continue to indicate the wells are safe to use as a source of drinking water. A comprehensive residential groundwater study was performed by EPA in 2009. This study involved the two regularly monitored residential wells and additional residential wells up and downgradient of the site. Results of that study demonstrated that none of the residential wells have been impacted by the contamination from the landfill.
+
+Field work was completed during the fall of 2012 to install additional monitoring wells needed to delineate the groundwater contamination plume.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedy put in place protects public health and the environment, and function as intended by Site decision documents. The most recent, [2023 Five-Year Review](https://semspub.epa.gov/work/03/2354063.pdf), found the remedy to remain protective of human health and the environment in the short-term because there are no complete exposure pathways to contaminated Site media. Capping and fencing of the source area prevents exposure to contaminants in the area and prevents ongoing flux of Site-related constituents away from the source area. Site groundwater is not used, and Site-related contamination is not impacting nearby private wells. Deed restrictions prohibit activities that could compromise the integrity of the RCRA cap and prevent exposure to wastes within the source area and to groundwater contamination located within 150 feet of the edge of the RCRA cap. However, for the remedy to be protective over the long term, the following actions are needed:
+
+Completion of the ongoing Focused Feasibility Study (FFS), section of a remedy in a decision document that will address Site-related groundwater contamination beyond the point-of-compliance wells, and implementation of more groundwater institutional controls.
+
+Selection of an appropriate remedial strategy with associated protective numeric cleanup levels.
+
+The next five-year review is scheduled for August 2028.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+IC's are in place to Prevent exposure to hazardous substances in soil and groundwater by prohibiting residential use and groundwater use, and prohibit activities that could interfere with or adversely affect in any manner the integrity or protectiveness of the remedy.
+
+Additional information about the ICs is available in the [2018 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2260596) (on page 6).
+
+### Enforcement Information
+
+[August 2018 Consent Decree](https://semspub.epa.gov/work/03/2265104.pdf)

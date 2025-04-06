@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 8,200-acre Fort Eustis Site is located near Newport News, Virginia. As part of Joint Base Langley Eustis (JBLE), an active Army installation operates at the Site, which is located on a peninsula formed by the Warwick and James Rivers. The Installation was originally established during World War I as a training center for Coast Artillery Corps units and a balloonist school. Since that time, site uses have included a federal correction camp, a Works Progress Administration facility, a National Youth Administration facility, a bombing range for Langley Air Force Base, an anti-aircraft training facility, a prisoner-of-war camp and a transportation training center. Activities contaminated soil, sediment, surface water and groundwater with hazardous chemicals. The Site was added to the Superfund program's National Priorities List (NPL) in December 1994.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal actions. A March 2008 Federal Facilities Agreement (FFA) among EPA, the Virginia Department of Environmental Quality and the Army identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 18 operable units being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for 10 operable units. A list of the decision documents, including RODs, completed with a summary of the remedy can be viewed under the Operable Units section.
+
+### What Is the Current Site Status?
+
+There are currently 8 OUs under investigation which may require a remedy at the site.
+
+The Air Force has the lead role for cleaning up the Fort Eustis site. Per the Federal Facilities Agreement between EPA, the Virginia Department of Environmental Quality (VDEQ) and the Air Force, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern.
+
+A full list of activities per each operable unit can be found under the *Cleanup Progress* section.
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent can be found [here](https://semspub.epa.gov/work/03/2282851.pdf). The next five-year review is scheduled for 2023.
+
+### Emergency Response and Removal
+
+Cleanup has also included several removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These actions have included removing and disposing of contaminated sediment and soil; draining Brown’s Lake; excavating sediments from the upper drainage ditch; placing sediments in the deeper portion of the lake; capping the bottom of the lake with two feet of clean fill; and restoring the lake and restocking it with fish.

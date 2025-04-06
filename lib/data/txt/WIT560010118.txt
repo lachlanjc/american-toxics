@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Better Brite Plating Co. Chrome and Zinc Shops site, 519 Lande St., DePere, Wis, is a 4-acre site comprising two sections of land divided by a residential area. Metal plating operations were conducted at the Chrome Shop from 1978 to 1985 and at the Zinc Shop from 1968 to 1989. Between 20,000 and 60,000 gallons of plating solution leaked from in-ground tanks at the Chrome Shop. In addition, contaminated waste reportedly was spilled. At that time, groundwater was used for drinking water.
+
+In early investigations, high levels of chromium, zinc, cadmium, and cyanide were found in waste, surface water and soil samples. During periods of high water levels, chromium-contaminated surface water collected in the backyards of nearby homes. Area residents could have been exposed to contaminants through direct contact or accidental ingestion. There was an illegal discharge to a storm sewer. Chromium-contaminated groundwater was also recharging the sump of a nearby residence.
+
+### What Has Been Done to Clean Up the Site?
+
+Wisconsin Department of Natural Resources is operating and maintaining the groundwater withdrawal system at the Zinc Shop and maintaining the soil covers at the Chrome and Zinc Shops.
+
+Cleanup at the Chrome Shop included the removal of four subsurface plating and cleaning tanks, all surface waste, and some contaminated soil. The Wisconsin Department of Natural Resources razed the main Chrome Shop building, partially fenced the site, covered it with clay, placed topsoil on the clay cover, and seeded it. EPA installed new groundwater treatment and collection systems and removed more than 10,000 tons of contaminated soil and debris.  
+  
+Cleanup at the Zinc Shop included the removal of plating solutions and sludge stored in drums, vats and tanks, and the installation of a groundwater collection trench. EPA also removed the foundation, two 15-foot tanks, and excavated more than 6,000 tons of contaminated soil.  
+  
+EPA, and later the WDNR, operated and maintained the groundwater collection systems while a more complete investigation of the remaining soil and groundwater contamination was done. In September 1996, based on the recommendation of WDNR, EPA selected final the cleanup plans which included replacing the groundwater removal and treatment system at the Chrome Shop, treating the soil and groundwater by stabilizing the chromium, continuing groundwater removal and treatment at the Zinc Shop, and isolating the recharge of contaminated groundwater to basement sumps in a nearby residence.
+
+### What Is the Current Site Status?
+
+EPA has completed a [five-year review](https://semspub.epa.gov/work/05/951667.pdf ) (148 pp, 12.45 MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the Better Brite Superfund site. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. This was the fifth review of the site.
+
+This review included an evaluation of background information, cleanup requirements, effectiveness of the cleanup, and maintenance and monitoring efforts. It also looked at ways to operate more efficiently.
+
+The review found the cleanup continues to protect people and the environment. The next scheduled review will be in 2024.
+
+More information is available at the Brown County Library, Kress Family Branch, 333 N. Broadway, DePere, and under [Site Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0505257).
+
+If you have questions or need further information, contact the community involvement coordinator or remedial project manager.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The primary groundwater contaminants at the Better Brite SIte include chromium, nickel, cyanide, 1,1,1-trichloroethane, trichloroethylene, and tetrachloroethylene.

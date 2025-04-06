@@ -1,2 +1,15 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Leetown Pesticide Site is located in Jefferson County, West Virginia. The site includes three separate parcels: the former Pesticide Pile Area, the former Pesticide Mixing Shed, and the Crimm Orchard Packing Shed. Former site activities included mixing, storing, and using pesticides and insecticides, resulting in debris, waste, and soil contamination. The site was listed to the Superfund National Priorities List (NPL) in 1983. Following cleanup, EPA determined that no further cleanup actions were necessary to protect human health and the environment. EPA deleted the site from the NPL in 1996.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983, under the supervision of EPA and the State of West Virginia, the site's potentially responsible party (PRP) removed and disposed of a contaminated pile consisting of 160 cubic yards of waste and soil. In 1986, cleanup technologies were selected in a [Record of Decision](https://semspub.epa.gov/src/document/03/332737) (ROD) including: (1) demolition and off-site disposal of the eastern portion of the Crimm Orchard Packing Shed and its contents; and (2) anaerobic biodegradation of the pesticide-contaminated soils from the former Pesticide Pile Area, the former Pesticide Mixing Shed, and the soils from under the Crimm Orchard Packing Shed. A total estimated volume of 3,600 cubic yards of soil were to be consolidated and placed in treatment beds to be constructed on-site.
+
+EPA began the demolition and off-site disposal of the eastern portion of the Crimm Orchard Packing Shed and its contents on February 24, 1988, and completed these actions on April 22, 1988. EPA also performed treatability studies for the bioremediation of the consolidated soils on two separate occasions. Both studies demonstrated that bioremediation could not successfully treat the soils to meet the cleanup levels specified in the ROD.
+
+In 1992, EPA re-evaluated the site based on new risk assessment guidance and determined that the soils did not pose an unacceptable risk to human health or the environment. EPA concluded that no additional actions were necessary to clean up the site. This decision is documented in a [ROD Amendment](https://semspub.epa.gov/src/document/03/332745) dated April 1992. In June 1996, a Notice of Intent to Delete this site from the NPL was published in the Federal Register. No comments were received during the 30-day comment period and the site was officially deleted from the NPL in August 1996.
+
+### What Is the Current Site Status?
+
+All hazardous substances and materials have been cleaned up and removed, and the site no longer poses an unacceptable risk to human health and the environment. Additional monitoring is not necessary. EPA deleted the site from the NPL in 1996.

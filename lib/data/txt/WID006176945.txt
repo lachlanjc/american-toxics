@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Penta Wood Products site is in the unincorporated town of Daniels in Burnett County, Wisconsin. An inactive wood treatment facility is located on an 80-acre parcel of the 120-acre property. The facility operated from 1953 to 1992 and used a chemical called pentachlorophenol, or PCP, to treat wood posts and telephone poles by dipping them in an open tank. During that time, the site consisted of a main treatment building, an oil/water separator building, a gully where wastewater was discharged, a wastewater lagoon, a wood chip pile. The site also contained several other buildings, sawmills, garages, and storage sheds. The facility contaminated soil and groundwater with PCP and arsenic by dumping process wastes at various locations on the site, spilling chemicals, and using poor operating practices.
+
+In 1986, the Wisconsin Department of Natural Resources (WDNR) investigated operations where many chemical spills had reportedly occurred. A 1987 investigation found that groundwater at the facility was contaminated with PCP after WDNR asked the site owner to assess the environmental conditions on the property.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1996, EPA listed the Penta Wood Products site on the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term cleanup and federal funding under the Superfund law.
+
+In 1998, EPA issued a Record of Decision (ROD) which outlined the cleanup plan to address contamination at the site. EPA’s cleanup plan included demolishing all buildings and processing equipment; excavating and moving PCP- and arsenic-contaminated soils to an on-site disposal area; stabilizing arsenic-contaminated soil and placing under a 7-acre cover; installing groundwater extraction wells and a water treatment system.
+
+[\[Redacted\] Record of Decision (Rod) (Signed) - Penta Wood Products Inc (PDF)](https://semspub.epa.gov/src/document/05/946069) (100 pp, 11.53MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+EPA completed the cleanup in 2000 following further studies. This included demolishing all remaining buildings and equipment, excavating and moving contaminated soil and woodchips to an on-site disposal area, stabilizing arsenic-contaminated soil by mixing it with concrete and covering it, constructing a water treatment system, building an infiltration and concrete basin, clearing trees and brush, installing pipes for the treatment system and groundwater extraction wells, and fencing the soil cover area.
+
+In 2014, Wisconsin Department of Natural Resources assumed oversight of the operation and maintenance of the site. However, elevated levels of PCP were detected in soil samples taken on the Penta Wood property in 2017 by WDNR. An evaluation of the results indicated that soil and sediment required additional cleanup to meet the cleanup goals for the site and surrounding properties.
+
+WDNR also observed surface debris consisting of sawdust-like material, treated wood and drum waste in three areas. Samples of the debris were collected and submitted, and the results showed levels above state standards for arsenic, PCP, and other SVOCs for direct contact and groundwater protection. Subsequent soil sampling under the surface debris confirmed that contamination levels meet the groundwater protection standards.
+
+WDNR also shut down groundwater extraction and bioventing systems in 2015 as part of an EPA-approved pilot study. The pilot study covered a four-year period of data collection to determine if natural processes will address the remaining underground area of contamination, or plume, on the Penta Wood property. The pilot study concluded in 2019. EPA is reviewing a report summarizing the pilot study data. Based on the report, EPA and WDNR have decided to conduct further site characterization work commencing in 2023.
+
+### What Is the Current Site Status?
+
+This site is one of many across the country to receive funding from the Bipartisan Infrastructure Law, which invested $3.5 billion in environmental remediation at Superfund sites on the National Priorities List. The Bipartisan Infrastructure Law funding will be used to fund work through a Cooperative Agreement between WDNR and US EPA.
+
+The cleanup work consists of two parts: wetland excavation and cover of surface debris areas. Wetland cleanup includes soil/sediment excavation; confirmation sampling; relocation, placement, compaction, and grading of the excavated material within the Corrective Action Management Unit (CAMU); cover material placement; fencing relocation of the CAMU; well modifications and restoration and vegetation establishment. Cover of surface debris areas includes sawdust area cover placement and grading; wood debris cover placement and grading and restoration and vegetation establishment. Wetland cleanup continues this winter, and surface debris cover is planned for spring/summer 2023.
+
+### Sampling and Monitoring
+
+Since 2014, WDNR has overseen the ongoing operation and maintenance at the site, which includes sampling and monitoring.
+
+### Emergency Response and Removal
+
+From 1994 to 1996, EPA removed about 28 storage tanks containing liquid and sludge. Also, 43,000 gallons of a PCP/oil mixture and sludge were disposed of off-site. The treatment building was demolished, and contaminated soil was cleaned on-site or disposed of off-site.

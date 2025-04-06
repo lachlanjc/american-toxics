@@ -1,19 +1,43 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Langley Air Force Base (LAFB)/NASA Langley Research Center (NASA LaRC) site in Hampton, Virginia, consists of two federal facilities. LAFB covers 3,152 acres. It has been used as an airfield and aeronautical research center since 1917, and is the home base for the First Fighter Wing. NASA LaRC covers 787 acres. It is a research facility with numerous operations in nearly 200 buildings and 40 wind tunnels. Site activities contaminated soil, groundwater, sediment and fish with hazardous chemicals. Investigations have identified more than 40 sources of possible contamination at the two facilities. These sources include abandoned landfills, fueling areas, wastewater treatment plants, the stormwater system, warehouses, spill sites, electrical substations and transformers, fuel tanks, burning areas, septic tanks, storage areas, waste pits, and training areas. The Site added to the National Priorities List (NPL) on May 31, 1994. Remedial investigations, remedy selection and remedial designs are underway. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. Langley (Air Force):  A September 2009 Federal Facilities Agreement (FFA) between EPA, the Virginia Department of Environmental Quality (VDEQ) and the Air Force identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 27 operable units being addressed under the Superfund program. EPA signed Records of Decision (RODs) selecting remedies for 21 operable units. A list of the decision documents, including RODs, completed with a summary of the remedy can be viewed under the Operable Units section. NASA Langley Research Center:  A December 1993 Federal Facilities Agreement (FFA) between EPA, the Virginia Department of Environmental Quality (VDEQ) and NASA identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 5 operable units being addressed under the Superfund program. EPA signed Records of Decision (RODs) selecting remedies for 5 operable units. A list of the decision documents, including RODs, completed with a summary of the remedy can be viewed under the Operable Units section. A full list of operable units can be viewed under the Operable Units section. Operable units For NASA start at OU1, and for Air Force start at OU21. Top of Page
-What Is the Current Site Status?
-Langley: There are currently 5 areas under investigation which may require a remedy at the site. NASA:  All Operable Units have remedies. PFAS investigations are ongoing. The Air Force has the lead role for cleaning up the Langley Air Force Base, and NASA has the lead role for cleaning up NASA Langley Research Center. Per the Federal Facilities Agreement between EPA, VDEQ and the Air Force, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see 2022 SMP. NASA does not have a formal Site Management Plan; all of its operable units have remedies in place. A full list of activities per each operable unit can be found under the Cleanup Progress section. The Air Force and NASA have selected final remedies for over 18 site areas, or operable units (OUs). The long-term remedies for these OUs include institutional controls; dredging and off-site disposal of contaminated sediment; excavation and disposal of contaminated soil; construction of erosion and sediment controls; construction of soil covers; demolition and disposal of contaminated structures; and groundwater monitoring. Remedial investigations are underway at several other OUs. Remedy construction began in 1999 and is ongoing. Five-Year Reviews: The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. ﻿ EPA made an Independent Determination for Langley’s 2021 Five-Year Review. The next five-year review is scheduled for 2027. The most recent Five-Year review for the NASA site was completed in 2022. The next five-year review is scheduled for 2027. 
-Top of Page
-Emergency Response and Removal
+### Background
+
+The Langley Air Force Base (LAFB)/NASA Langley Research Center (NASA LaRC) site in Hampton, Virginia, consists of two federal facilities. LAFB covers 3,152 acres. It has been used as an airfield and aeronautical research center since 1917, and is the home base for the First Fighter Wing. NASA LaRC covers 787 acres. It is a research facility with numerous operations in nearly 200 buildings and 40 wind tunnels. Site activities contaminated soil, groundwater, sediment and fish with hazardous chemicals. Investigations have identified more than 40 sources of possible contamination at the two facilities. These sources include abandoned landfills, fueling areas, wastewater treatment plants, the stormwater system, warehouses, spill sites, electrical substations and transformers, fuel tanks, burning areas, septic tanks, storage areas, waste pits, and training areas. The Site added to the National Priorities List (NPL) on May 31, 1994. Remedial investigations, remedy selection and remedial designs are underway.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+**Langley (Air Force)**: A September 2009 Federal Facilities Agreement (FFA) between EPA, the Virginia Department of Environmental Quality (VDEQ) and the Air Force identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 27 operable units being addressed under the Superfund program.
+
+EPA signed Records of Decision (RODs) selecting remedies for 21 operable units. A list of the decision documents, including RODs, completed with a summary of the remedy can be viewed under the Operable Units section.
+
+**NASA Langley Research Center**: A December 1993 Federal Facilities Agreement (FFA) between EPA, the Virginia Department of Environmental Quality (VDEQ) and NASA identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 5 operable units being addressed under the Superfund program.
+
+EPA signed Records of Decision (RODs) selecting remedies for 5 operable units. A list of the decision documents, including RODs, completed with a summary of the remedy can be viewed under the Operable Units section.
+
+A full list of operable units can be viewed under the *Operable Units* section. Operable units For NASA start at OU1, and for Air Force start at OU21.
+
+### What Is the Current Site Status?
+
+**Langley**: There are currently 5 areas under investigation which may require a remedy at the site.
+
+**NASA:** All Operable Units have remedies. PFAS investigations are ongoing.
+
+The Air Force has the lead role for cleaning up the Langley Air Force Base, and NASA has the lead role for cleaning up NASA Langley Research Center.
+
+Per the Federal Facilities Agreement between EPA, VDEQ and the Air Force, a [Site Management Plan (SMP)](https://semspub.epa.gov/src/document/03/2342598) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see 2022 SMP. NASA does not have a formal Site Management Plan; all of its operable units have remedies in place.
+
+A full list of activities per each operable unit can be found under the *Cleanup Progress* section.
+
+The Air Force and NASA have selected final remedies for over 18 site areas, or operable units (OUs). The long-term remedies for these OUs include institutional controls; dredging and off-site disposal of contaminated sediment; excavation and disposal of contaminated soil; construction of erosion and sediment controls; construction of soil covers; demolition and disposal of contaminated structures; and groundwater monitoring. Remedial investigations are underway at several other OUs. Remedy construction began in 1999 and is ongoing.
+
+**Five-Year Reviews:**
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+EPA made an [Independent Determination](https://semspub.epa.gov/src/document/03/2329147) for Langley’s 2021 Five-Year Review. The next five-year review is scheduled for 2027.
+
+The [most recent Five-Year review](https://semspub.epa.gov/src/document/03/2317282) for the NASA site was completed in 2022. The next five-year review is scheduled for 2027.
+
+### Emergency Response and Removal
+
 Cleanup has also included several removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These actions have included soil removal at the old entomology plant/wastewater treatment plant area; PCB-contaminated soil removal at the abandoned electrical substation; demolition and disposal of the entomology building; excavation of chlorinated pesticide- and herbicide-contaminated soil; removal of soil and associated piping at an old wastewater treatment plant; and removal of contaminated soil at an old transformer storage area.
-Top of Page

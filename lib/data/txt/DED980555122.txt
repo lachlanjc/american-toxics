@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 120-acre E.I. Du Pont De Nemours and Co., Inc. (Newport Pigment Plant Landfill) Superfund site is located in Newport, New Castle County, Delaware. The site includes a paint pigment production facility currently operated by BASF Corporation (BASF), a groundwater treatment plant, two capped landfills, a solar array, a recreation park, wetland areas and portions of the Christina River. Decades of industrial waste disposal and plant operations contaminated soil, sediment, surface water and groundwater at the site with heavy metals and chlorinated volatile organics. The site was added the National Priorities List (NPL) in February 1990.
+
+### What Has Been Done to Clean Up the Site?
+
+In the late 1970s and early 1980s, the Delaware Department of Natural Resources and Environmental Control (DNREC) and DuPont found elevated levels of barium, cadmium, zinc, tetrachloroethene (PCE) and trichloroethene (TCE) in site groundwater. In August 1988, DuPont entered into an Administrative Order on Consent (AOC) with EPA to conduct a remedial investigation (RI) and feasibility study (FS).
+
+EPA selected a remedy in the 1993 Record of Decision (ROD) ( [part 1 (PDF)](http://semspub.epa.gov/src/document/03/45578) and [part 2 (PDF)](http://semspub.epa.gov/src/document/03/45580) ) and updated the selected remedy in Explanations of Significant Differences (ESDs) [1995 (PDF)](http://semspub.epa.gov/src/document/03/45056) and [2001 (PDF)](http://semspub.epa.gov/src/document/03/350636).
+
+| Area | OU | Remedy |
+| --- | --- | --- |
+| Ballpark | OU1 | soil excavation |
+| Groundwater | OU1 | long term monitoring, installation of public water supply |
+| North Landfill | OU3 & OU4 | capping of the landfill, remediation and restoration of wetlands, installation of vertical barrier wall, groundwater recovery and treatment |
+| South Landfill | OU6 | capping of the landfill, installation of barrier system along the Christina River and around the landfill, site security with fencing and thorny plants |
+| South Wetlands | OU5 | excavation, restoration and monitoring |
+| Christiana River | OU7 | dredging and monitoring |
+| Ciba-Geigy (now BASF) and DuPont Holly Run Plants | OU8 | installation of vertical barrier wall along the River, paving, recovery and treatment of groundwater |
+
+The ROD also requires institutional controls to protect the remedies put in place.
+
+In 1994, EPA issued a Unilateral Administrative Order stating that DuPont, as the potentially responsible party (PRP), carry out the rest of the cleanup work. Pursuant to an agreement between the companies, DuPont, and now Chemours, has conducted almost all the work.  
+  
+In 2002, EPA issued a [Preliminary Close-Out Report (PDF)](http://semspub.epa.gov/src/document/03/463653), once the site attained remedial action construction completion.
+
+### What Is the Current Site Status?
+
+The site's remedy involves long-term operations and maintenance (O&M) activities, which are ongoing. The long-term groundwater monitoring program addresses multiple site areas. The groundwater is sampled bi-annually and tested for volatile organic compounds, heavy metals and/or radionuclides, depending on the location of the wells. Pavement in the plant areas undergoes annual inspections and repair. Institutional controls are in place or will be in place in the near-term to preserve the integrity of the landfill caps, prohibit unauthorized land use, and prevent exposure to on-site contaminated groundwater and soil.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Five-Year Review (PDF](https://semspub.epa.gov/src/document/03/2302522) ), concluded that several portions of the remedy at the site are functioning as intended by decision documents, while more information is needed to make this determination for other remedies implemented at the site. The next five-year review is scheduled for 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site comprises multiple parcels of land. Institutional controls have been placed on some, but not all of the site areas and pertain to individual operable units (OUs) involving deed restrictions and groundwater use restrictions. Additional information about the institutional controls are available in the Appendix E of the [2020](https://semspub.epa.gov/src/document/03/2302522) [Five-Year Review (PDF).](https://semspub.epa.gov/src/document/03/2302522)
+
+### Emergency Response and Removal
+
+Cleanup also included a removal action, or short-term cleanup, to address immediate threats to human health and the environment. This action in 1993 included the installation of 700-foot-long steel barrier wall along the bank of the Christina River to prevent oil from seeping into the river.
+
+### Enforcement Information
+
+[Unilateral Administrative Order](http://semspub.epa.gov/src/document/03/44207) (1994)

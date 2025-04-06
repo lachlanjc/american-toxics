@@ -1,27 +1,59 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Amcast Industrial Corporation site is in the historic city and township of Cedarburg (Ozaukee County) in a suburban residential area north of Milwaukee. Amcast was a local automotive industry supplier on Hamilton Road in Cedarburg. The entire site consists of Amcast facility, sewers near the former plant, a stormwater retention pond southeast of Amcast, a pond in nearby Zeunert Park, and some private properties to the southeast. Amcast contaminated the site and surrounding area with polychlorinated biphenyls (PCBs). The Amcast site is divided between two properties (Amcast North and Amcast South). The present site of the Amcast South office building was formerly the Meta-Mold Aluminum Company, an aluminum die-cast facility that started operating around 1939. The original foundry facility, formerly located east of the office building, was demolished between 1975 and 1980. The demolition debris were placed in the southeast portion of the Amcast South property, the former disposal area, which also received demolition debris from previous site structures, scrap metals, and general office and factory refuse (e.g., paper and wood). The Amcast North site was used primarily for manufacturing aluminum castings. In 1993, the facility changed its name to Amcast Industrial Corporation. Top of Page
-What Has Been Done to Clean Up the Site?
-In February 2003, Amcast signed a legal agreement with the U.S. EPA to investigate the facility; however, Amcast filed for bankruptcy in November 2004 before the investigation was completed. The sewers and soil under the site buildings were investigated in November 2005. The soil and sewer samples were never analyzed due to Amcast’s bankruptcy. In the summer of 2005, soil samples were taken on private properties near the Amcast plant. The analytical results of those samples showed PCB contamination slightly above what EPA considers safe levels. The Amcast property investigation was originally being done as part of the Cedar Creek site but came to a halt when the company filed for bankruptcy. EPA is committed to cleaning up Amcast and the surrounding area which is why it was separated from the Cedar Creek project.  In 2009, Amcast was added to Superfund’s National Priorities List. Top of Page
-What Is the Current Site Status?
-You may need Adobe Reader to view files on this page. See EPA’s About PDF page to learn more.
-Record of Decision In September 2023, EPA issued its Record of Decision for the Amcast Industrial Corp. Superfund site. The Record of Decision is the final cleanup plan for the site and details the remedial action that will take place. EPA received public comments on the 2023 Proposed Plan and incorporated these into the Record of Decision. Public comments are also summarized in the responsiveness summary section of the document. As the next step in the Superfund process, EPA is preparing contractor procurement documents to plan for contractor support of the remedial design. EPA expects to begin reviewing the remedial design with contractors in 2024. Record of Decision (ROD) for Amcast Industrial Corporation (PDF) (179 pp, 11.6 MB) 
-Proposed Plan In May 2023, EPA, working with the Wisconsin Department of Natural Resources (WDNR) proposed a plan to clean up the Amcast Industrial Corp. Superfund Site. The EPA held a public meeting and received public comments on the proposed plan. Responses to these comments will be included as the responsiveness summary in the record of decision (ROD). The record of decision is expected to be issued in late 2023. A final cleanup decision will follow. All of these actions depend on the availability of federal funds. EPA Proposes Cleanup Plan for Amcast Industrial Corporation (PDF)  (1.06 MB) Proposed Plan – May 12, 2023 (PDF)(94 pp, 49.4MB) Community Involvement Plan In December 2022, EPA released an updated community involvement plan (CIP). The Community Involvement Plan includes the history of the Amcast site and Cedarburg, a summary of community interviews, and an overview of the superfund process. The CIP is a working document that will evolve as the investigation and cleanup process continues and input is received from the community. It is intended to be flexible, adaptable, and used as a guideline for EPA’s communication with the community. EPA - Community Involvement Plan 2022 (PDF) (51 pp, 8.98 MB) Remedial Investigation & Feasibility Study A document called a remedial investigation report, which details results from soil samples taken on the Amcast property and on nearby private properties between Hamilton Road and Wilshire Drive, is available to the public on this web page under "Additional Site Documents." In addition to taking samples on two areas referred to as the "north and south properties," EPA contractors focused on: 
-The Quarry Pond in Zeunert Park
-Residential yards southeast of Amcast north
-Wilshire Pond southeast of the residential yards
-Storm sewers that connect these areas to the former main plant
-Groundwater well installations on the Amcast property 
-The remedial investigation report is the basis for another document called a "feasibility study.” This study examines and compares several possible cleanup options. Remedial investigation report 2015 (PDF) (1905 pp, 42.28MB) 2020 Feasibility Study (PDF) (261 pp, 16.9 MB)﻿
-Top of Page
-Enforcement Information
+### Background
+
+The Amcast Industrial Corporation site is in the historic city and township of Cedarburg (Ozaukee County) in a suburban residential area north of Milwaukee. Amcast was a local automotive industry supplier on Hamilton Road in Cedarburg.
+
+The entire site consists of Amcast facility, sewers near the former plant, a stormwater retention pond southeast of Amcast, a pond in nearby Zeunert Park, and some private properties to the southeast. Amcast contaminated the site and surrounding area with [polychlorinated biphenyls (PCBs)](https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=142&tid=26).
+
+The Amcast site is divided between two properties (Amcast North and Amcast South). The present site of the Amcast South office building was formerly the Meta-Mold Aluminum Company, an aluminum die-cast facility that started operating around 1939. The original foundry facility, formerly located east of the office building, was demolished between 1975 and 1980. The demolition debris were placed in the southeast portion of the Amcast South property, the former disposal area, which also received demolition debris from previous site structures, scrap metals, and general office and factory refuse (e.g., paper and wood). The Amcast North site was used primarily for manufacturing aluminum castings. In 1993, the facility changed its name to Amcast Industrial Corporation.
+
+### What Has Been Done to Clean Up the Site?
+
+In February 2003, Amcast signed a legal agreement with the U.S. EPA to investigate the facility; however, Amcast filed for bankruptcy in November 2004 before the investigation was completed. The sewers and soil under the site buildings were investigated in November 2005. The soil and sewer samples were never analyzed due to Amcast’s bankruptcy. In the summer of 2005, soil samples were taken on private properties near the Amcast plant. The analytical results of those samples showed PCB contamination slightly above what EPA considers safe levels.
+
+The Amcast property investigation was originally being done as part of the [Cedar Creek site](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0506429) but came to a halt when the company filed for bankruptcy. EPA is committed to cleaning up Amcast and the surrounding area which is why it was separated from the Cedar Creek project.  In 2009, Amcast was added to [Superfund’s National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl).
+
+### What Is the Current Site Status?
+
+You may need Adobe Reader to view files on this page. See EPA’s [About PDF page](https://www.epa.gov/home/pdf-files) to learn more.
+
+#### Record of Decision
+
+In September 2023, EPA issued its Record of Decision for the Amcast Industrial Corp. Superfund site. The Record of Decision is the final cleanup plan for the site and details the remedial action that will take place. EPA received public comments on the 2023 Proposed Plan and incorporated these into the Record of Decision. Public comments are also summarized in the responsiveness summary section of the document.
+
+As the next step in the Superfund process, EPA is preparing contractor procurement documents to plan for contractor support of the remedial design. EPA expects to begin reviewing the remedial design with contractors in 2024.
+
+[Record of Decision (ROD) for Amcast Industrial Corporation (PDF)](http://semspub.epa.gov/src/document/05/985482) (179 pp, 11.6 MB)
+
+#### Proposed Plan
+
+In May 2023, EPA, working with the Wisconsin Department of Natural Resources (WDNR) proposed a plan to clean up the Amcast Industrial Corp. Superfund Site. The EPA held a public meeting and received public comments on the proposed plan. Responses to these comments will be included as the responsiveness summary in the record of decision (ROD). The record of decision is expected to be issued in late 2023. A final cleanup decision will follow. All of these actions depend on the availability of federal funds.
+
+[EPA Proposes Cleanup Plan for Amcast Industrial Corporation](http://extension/elhekieabhbkpmcefcoobjddigjcaadp/https:/www.epa.gov/system/files/documents/2023-05/Amcast_PP_FactSheet_508.pdf) (PDF) (1.06 MB)
+
+[Proposed Plan – May 12, 2023](https://semspub.epa.gov/work/05/982023.pdf) (PDF)(94 pp, 49.4MB)
+
+#### Community Involvement Plan
+
+In December 2022, EPA released an updated community involvement plan (CIP). The Community Involvement Plan includes the history of the Amcast site and Cedarburg, a summary of community interviews, and an overview of the superfund process. The CIP is a working document that will evolve as the investigation and cleanup process continues and input is received from the community. It is intended to be flexible, adaptable, and used as a guideline for EPA’s communication with the community.
+
+[EPA - Community Involvement Plan 2022 (PDF)](https://semspub.epa.gov/work/05/978601.pdf) (51 pp, 8.98 MB)
+
+#### Remedial Investigation & Feasibility Study
+
+A document called a remedial investigation report, which details results from soil samples taken on the Amcast property and on nearby private properties between Hamilton Road and Wilshire Drive, is available to the public on this web page under "Additional Site Documents." In addition to taking samples on two areas referred to as the "north and south properties," EPA contractors focused on:
+
+- The Quarry Pond in Zeunert Park
+- Residential yards southeast of Amcast north
+- Wilshire Pond southeast of the residential yards
+- Storm sewers that connect these areas to the former main plant
+- Groundwater well installations on the Amcast property
+
+The remedial investigation report is the basis for another document called a "feasibility study.” This study examines and compares several possible cleanup options.
+
+[Remedial investigation report 2015 (PDF)](https://semspub.epa.gov/src/document/05/941052) (1905 pp, 42.28MB)
+
+[2020 Feasibility Study (PDF)](https://semspub.epa.gov/work/05/978408.pdf) (261 pp, 16.9 MB)
+
+### Enforcement Information
+
 In February 2003, Amcast signed a legal document called an administrative order on consent, with the EPA to conduct a remedial investigation at the Amcast facility. At the time, Amcast was considered part of the Cedar Creek site.
-Top of Page

@@ -1,2 +1,34 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Rocky Hill Municipal Well site is located in Somerset County, New Jersey. The 2-acre site consists of two wells put in place in 1936 to supply residents of the borough of Rocky Hill with drinking water. In 1978, the first well was sealed and abandoned because it was contaminated with volatile organic compounds (VOCs), in particular trichloroethylene (TCE). The second well continued to operate until 1979, when it was also closed due to high levels of TCE. The well reopened for a short time when TCE levels declined, only to be closed again in 1982, when contamination levels increased in the groundwater. The borough temporarily used a private water supply until an air stripper could be installed on the municipal well. The air stripper has been operating since 1982 to ensure drinking water standards are met. Long-term groundwater treatment and monitoring are ongoing.
+
+  
+A 1978 study of the Rocky Hill Borough well revealed trichloroethene (TCE) contamination levels of about 25 micrograms per liter (μg/L). Continued testing of this water supply from 1978 to 1983 detected concentrations of TCE ranging from about 50 to 200 μg/L. Concern over groundwater contamination in Rocky Hill led NJDEP to conduct initial sampling of commercial and domestic wells in Montgomery Township from December 1979 to January 1980. Other investigations prior to 1984 included sampling from private wells, industrial water supply wells, soils, surface waters and septic tanks.
+
+After emergency actions to protect human health and the environment, and additional investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+Results indicated widespread contamination with various VOCs. Because of the proximity and the similarity of the contaminants present, EPA decided to address the Montgomery Township Housing Development site and the Rocky Hill Municipal Well Superfund site jointly. The site’s long-term remedy has been put in place. Groundwater treatment and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Following closure of the wells and completion of a remedial investigation and feasibility study, EPA selected a remedy for cleaning the contaminated groundwater plume in 1988. It called for: (1) extracting contaminated groundwater from the primary plume area; (2) treating the groundwater to state and federal cleanup standards using carbon; (3) discharging the treated water to surface water; (4) connecting residences to the public water supply, as needed; (5) sealing private wells within the contaminant plume; and (6) implementing a groundwater sampling program to monitor the contaminant plume and the effectiveness of the cleanup. This cleanup covers not only the site but also the nearby Montgomery Township Housing Development site.
+
+Following successful enforcement negotiations that led to a monetary settlement with a potentially responsible party (PRP), EPA put the site’s groundwater pump-and-treat systems in place in 2004 and 2005.
+
+EPA conducted the site’s second five-year review in 2010. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. For the remedy to be protective in the long term, the five-year review indicated the need for the New Jersey Department of Environmental Protection (NJDEP) to establish a Groundwater Classification Exception Area (CEA).
+
+The CEA was established in June 2014. EPA conducted a second five year review at the Site in 2016. The review concluded that the remedy at the site is protective of human health and the environment. EPA conducted a third five year review at the Site in 2020. The review concluded that the remedy at the site is protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The site is being addressed in a single long-term remedial phase focused on cleanup of the entire site.
+
+In January 2005 construction of the extraction wells and two groundwater treatment plants were completed. Periodic groundwater sampling began in 2005 and is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A CEA was established by NJDEP in June 2014.

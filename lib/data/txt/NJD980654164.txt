@@ -1,23 +1,41 @@
-MONTGOMERY TOWNSHIP HOUSING DEVELOPMENTMONTGOMERY TOWNSHIP, NJ 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Montgomery Township Housing Development site is located in Somerset County, New Jersey.
-Originally, 71 homes at the 72-acre area depended on private wells drawing water from the underlying aquifer. In 1978, volatile organic compounds (VOCs) were detected in the public well of the neighboring municipality of Rocky Hill. Concerned that the contamination might have spread to groundwater beneath the housing development, state officials sampled the housing development's wells. Tax records and accompanying maps indicate that the site was privately owned and had been used for farming until 1961. There was no knowledge of any underground tanks or landfill areas on the site property at that time. Tri-State Development Corporation purchased the land in 1961 and began building 71 homes. The potable water source for all homes was originally individual private wells. All homes use septic systems.
-A 1978 study of the Rocky Hill Borough well revealed trichloroethene (TCE) contamination levels of about 25 micrograms per liter (μg/L). Continued testing of this water supply from 1978 to 1983 detected concentrations of TCE ranging from about 50 to 200 μg/L. Concern over groundwater contamination in Rocky Hill led NJDEP to conduct initial sampling of commercial and domestic wells in Montgomery Township from December 1979 to January 1980. Other investigations prior to 1984 included sampling from private wells, industrial water supply wells, soils, surface waters and septic tanks. After emergency actions to protect human health and the environment, and additional investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983. Results indicated widespread contamination with various VOCs. Because of the proximity and the similarity of the contaminants present, EPA decided to address the site and the Rocky Hill Municipal Well Superfund site jointly. The site’s long-term remedy has been put in place. Groundwater treatment and monitoring are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-Emergency Actions: In 1981, Montgomery Township connected 20 homes in the development to the Elizabethtown Water Company's waterline. A total of 38 residences were connected to the public water supply before the alternate water supply remedy described below was put in place. Alternate Water Supply: Following a remedial investigation and feasibility study to determine the nature and extent of site contamination and to evaluate remedial alternatives, EPA selected a remedy for supplying clean water to the housing development in 1987. This remedy, which involved a continuation of the site’s emergency actions, was put in place between 1988 and 1990. The Elizabethtown Water Company distribution system was extended to residences using water from contaminated or threatened wells. Sealing of 43 of the residential wells finished in 2005. Groundwater: EPA selected a remedy for cleaning up the contaminated groundwater plume in 1988. The cleanup covers the housing development areas and the Rocky Hill Municipal Well site. The remedy includes: (1) extracting contaminated groundwater from the primary plume area; (2) treating the groundwater to state and federal cleanup standards using carbon; (3) discharging treated water to surface water; (4) connecting additional residences to the public water supply, as needed; (5) sealing private wells within the contaminant plume; and (6) implementing a groundwater sampling program to monitor the effectiveness of the cleanup. EPA conducted a five-year review at the site in 2010. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. For the remedy to be protective in the long term, the five-year review indicated the need for the New Jersey Department of Environmental Protection (NJDEP) to establish a Groundwater Classification Exception Area (CEA). The CEA was established in June 2014. EPA conducted a second five year review at the Site in 2016. The review concluded that the remedy at the site is protective of human health and the environment. EPA conducted a third five year review at the Site in 2020. The review concluded that the remedy at the site is protective of human health and the environment. Top of Page
-What Is the Current Site Status?
-The site has been addressed in three phases: emergency actions and two long-term remedial phases focused on the provision of an alternate water supply and groundwater cleanup. In 1981, the Township of Montgomery connected 20 homes in the development to the Elizabethtown Water Company's waterline. Construction of two groundwater treatment plants was completed in January 2005. Following additional field investigations and negotiations with the site’s potentially responsible parties, the site’s groundwater treatment systems began operating in January 2005. Periodic groundwater monitoring is ongoing. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-CEA was established by NJDEP in June 2014. Top of Page
+### Background
+
+The Montgomery Township Housing Development site is located in Somerset County, New Jersey.  
+Originally, 71 homes at the 72-acre area depended on private wells drawing water from the underlying aquifer. In 1978, volatile organic compounds (VOCs) were detected in the public well of the neighboring municipality of Rocky Hill. Concerned that the contamination might have spread to groundwater beneath the housing development, state officials sampled the housing development's wells.
+
+Tax records and accompanying maps indicate that the site was privately owned and had been used for farming until 1961. There was no knowledge of any underground tanks or landfill areas on the site property at that time. Tri-State Development Corporation purchased the land in 1961 and began building 71 homes. The potable water source for all homes was originally individual private wells. All homes use septic systems.  
+A 1978 study of the Rocky Hill Borough well revealed trichloroethene (TCE) contamination levels of about 25 micrograms per liter (μg/L). Continued testing of this water supply from 1978 to 1983 detected concentrations of TCE ranging from about 50 to 200 μg/L. Concern over groundwater contamination in Rocky Hill led NJDEP to conduct initial sampling of commercial and domestic wells in Montgomery Township from December 1979 to January 1980. Other investigations prior to 1984 included sampling from private wells, industrial water supply wells, soils, surface waters and septic tanks.
+
+After emergency actions to protect human health and the environment, and additional investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+Results indicated widespread contamination with various VOCs. Because of the proximity and the similarity of the contaminants present, EPA decided to address the site and the Rocky Hill Municipal Well Superfund site jointly. The site’s long-term remedy has been put in place. Groundwater treatment and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Emergency Actions: In 1981, Montgomery Township connected 20 homes in the development to the Elizabethtown Water Company's waterline. A total of 38 residences were connected to the public water supply before the alternate water supply remedy described below was put in place.
+
+Alternate Water Supply: Following a remedial investigation and feasibility study to determine the nature and extent of site contamination and to evaluate remedial alternatives, EPA selected a remedy for supplying clean water to the housing development in 1987. This remedy, which involved a continuation of the site’s emergency actions, was put in place between 1988 and 1990. The Elizabethtown Water Company distribution system was extended to residences using water from contaminated or threatened wells. Sealing of 43 of the residential wells finished in 2005.
+
+Groundwater: EPA selected a remedy for cleaning up the contaminated groundwater plume in 1988. The cleanup covers the housing development areas and the Rocky Hill Municipal Well site. The remedy includes: (1) extracting contaminated groundwater from the primary plume area; (2) treating the groundwater to state and federal cleanup standards using carbon; (3) discharging treated water to surface water; (4) connecting additional residences to the public water supply, as needed; (5) sealing private wells within the contaminant plume; and (6) implementing a groundwater sampling program to monitor the effectiveness of the cleanup.
+
+EPA conducted a five-year review at the site in 2010. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. For the remedy to be protective in the long term, the five-year review indicated the need for the New Jersey Department of Environmental Protection (NJDEP) to establish a Groundwater Classification Exception Area (CEA).
+
+The CEA was established in June 2014. EPA conducted a second five year review at the Site in 2016. The review concluded that the remedy at the site is protective of human health and the environment. EPA conducted a third five year review at the Site in 2020. The review concluded that the remedy at the site is protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The site has been addressed in three phases: emergency actions and two long-term remedial phases focused on the provision of an alternate water supply and groundwater cleanup.
+
+In 1981, the Township of Montgomery connected 20 homes in the development to the Elizabethtown Water Company's waterline.
+
+Construction of two groundwater treatment plants was completed in January 2005.
+
+Following additional field investigations and negotiations with the site’s potentially responsible parties, the site’s groundwater treatment systems began operating in January 2005. Periodic groundwater monitoring is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+CEA was established by NJDEP in June 2014.

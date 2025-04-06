@@ -1,2 +1,55 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Caldwell Trucking Co. site is in Fairfield Township, New Jersey. The site’s properties and groundwater are contaminated by residential, commercial, and industrial septic waste disposal. The soil cleanup is completed; however, long-term groundwater cleanup is ongoing.
+
+Caldwell Trucking disposed of septic waste in unlined lagoons on its 11-acre property from the early 1950s until 1973. After 1973, Caldwell installed underground storage tanks to store this waste. However, by 1984, the tanks were no longer used. Caldwell operated solely as a transport facility until 1988 when it ended operations.
+
+There are about 500 single-family homes located in a populated region within one mile of the site. Since 1981, the New Jersey Department of Environmental Protection (NJDEP) and the Fairfield health officer have taken more than 300 contaminated private wells in the area out of service and connected the homes to the municipal drinking water supply system.
+
+The contaminated groundwater flows north from the site towards the Passaic River. Caldwell Trucking Site Trust, known as the potentially responsible party (PRP). the entity responsible for the addressing the contamination, is cleaning the site and groundwater under EPA oversight.
+
+The Caldwell Trucking Co. site is located in Fairfield Township, New Jersey. It consists of properties and groundwater contaminated by the disposal of residential, commercial and industrial septic waste. Immediate actions to protect human health and the environment and soil cleanup have been completed.. Long-term groundwater cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Contamination at this site has been addressed by a variety of actions taken over several decades.
+
+EPA’s September 1986 [cleanup plan](https://semspub.epa.gov/work/02/107996.pdf) required the potentially responsible party (PRP) to treat drinking water in a well, provide an alternate water supply for residents potentially affected by groundwater contamination, dig up and treat about 28,000 cubic yards of contaminated soil and waste materials via low-temperature thermal treatment, and to dispose of treated soil in a secure on-site landfill. EPA connected 55 homes and nine commercial establishments to the municipal water system in 1989. EPA finalized a [cleanup plan](https://semspub.epa.gov/work/02/99876.pdf) in September 1989 for the groundwater that required the PRP to install recovery wells at various locations to intercept the contaminated groundwater. EPA made [significant changes to the cleanup plan](https://semspub.epa.gov/work/02/99875.pdf) in 1991 to include cleaning up contamination in an area where the groundwater emerges at the surface, known as the seep area.
+
+The PRP installed a seven-foot-high security fence around the entire site in May 1994.
+
+In September 1994 EPA supervised the removal and disposal of approximately 1,650 cubic yards (2640 tons) of material contaminated with [lead](https://www.atsdr.cdc.gov/toxfaqs/tfacts13.pdf) and [polychlorinated biphenyls](https://www.atsdr.cdc.gov/toxfaqs/tfacts17.pdf) (PCBs). In February 1995, EPA [amended the September 1986 cleanup plan](https://semspub.epa.gov/work/02/108443.pdf) to include on-site soil stabilization/solidification.
+
+With EPA approval, in June 1996, the PRP constructed a soil vapor extraction (SVE) system, a treatment process that uses vacuums to remove hazardous gases from the soil, to control high odors and emissions during the cleanup activities. The PRP operated the SVE system from June 1996 to March 1997 and removed over 12 tons of [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) (VOCs) from the soil. In September 1997, the PRP solidified approximately 64,000 tons of contaminated soil by adding a concrete mix.
+
+The site owner informed EPA of a new area of contamination in October 1997, triggering the need to address that contamination. The PRP solidified an additional 1,000 cubic yards of lead-contaminated soil in this area in the fall of 1998. The PRP found additional lead-contaminated soil in the North Lagoon area of the site in February 2001, and again in 2004. They subsequently removed and solidified approximately 2,500 cubic yards of the lead-contaminated soil from this area.
+
+The PRP installed an air stripping treatment system in 2002 which uses air to reduce the levels of contamination in the seep area. The air stripper was upgraded in 2007, increasing the pumping rate. The PRP regularly samples water at the seep to confirm that the treatment is working effectively. The treated water consistently meets the state permit eqivalency discharge requirements. However, because site-related contaminated groundwater is still reaching the unnamed tributary and Deepavaal Brook, the PRP upgraded the seep system to address this contamination in January 2014.
+
+Monthly samples of the air stripper system's water outflow continue to meet the state permit equivalency discharge requirements. Under EPA oversight, the PRP continues to monitor the downstream sample results to evaluate the effectiveness of the treatment system. The PRP upgraded the new seep system in 2018 to correct a water ponding issue. In 2020, EPA approved the seep area construction completion report.
+
+The PRP constructed and installed a groundwater pump-and-treat facility, known as the O'Connor Drive Groundwater Extraction and Treatment System (GETS), in December 2008. The PRP groundwater monitoring shows that the system is operating as designed to contain and treat the contaminated groundwater.
+
+The PRP sampled several monitoring wells between 2005 and 2014 to identify the extent of the [trichloroethylene](https://www.atsdr.cdc.gov/toxfaqs/tfacts19.pdf) (TCE) contamination in the North Lagoon Area (NLA). The PRP sampled several monitoring wells between 2005 and 2014 to identify the extent of the TCE contamination in the NLA. The PRP proposed biological remediation as a method to address contamination in the source area, which includes the NLA, in 2015. The biological remediation pilot study is ongoing.
+
+The PRP sampled about 100 residential and commercial properties downgradient of the Caldwell Trucking site between April 2007 and August 2010 for vapor intrusion. Currently, 17 properties have mitigation systems installed. In addition, EPA reviewed data from the West Essex High School and two daycare facilities near the site, ensuring the health of these sensitive populations are protected. The PRP continues to monitor properties with mitigation systems.
+
+### What Is the Current Site Status?
+
+All on-site soil contamination has been addressed. In addition, affected homes and businesses near the site are connected to the public water supply which has significantly reduced the potential for exposure to contaminated groundwater. Mitigation of vapor intrusion into residential structures has been conducted and monitoring for vapor intrusion and mitigation effectiveness are ongoing.
+
+However, high levels of groundwater contamination remain. As a result, the PRP has completed the construction of a pump-and-treat containment facility to remediate the contaminated groundwater near the source area using extraction wells near O'Connor Drive.
+
+The PRP has completed upgrades to the seep area treatment system and the biological remediation pilot study is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA limits land or activity use called [institutional controls](https://www.epa.gov/superfund/superfund-institutional-controls) at the site to reduce exposure to contamination. A groundwater use restriction known as a Classified Exception Area is in place to prevent installation of drinking water wells in areas impacted by the site contamination. The PRP also constructed chain-link gates and fences to restrict site access. The PRP also fenced and covered the exposed lagoon and the four underground storage tanks. The PRP also posted warning signs and covered access roads with artificial covering and stone to minimize contaminant exposure to trespassers.
+
+### Sampling and Monitoring
+
+The PRP installed over 95 wells to monitor the groundwater quality. The PRP provides monthly sampling reports and annual evaluations that summarize all data for the site to EPA.

@@ -1,18 +1,25 @@
-LONE PINE LANDFILLFREEHOLD TOWNSHIP, NJ 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 45 acre Lone Pine Landfill is located in Freehold Township, New Jersey. The landfill operated from 1959 until 1979 and accepted over 17,000 drums containing chemical wastes along with municipal refuse, large volumes of septage and millions of gallons of bulk liquid chemical wastes. The landfill was ordered closed by a New Jersey Department of Environmental Protection (NJDEP) Administrative Order in 1979.
-EPA placed the site on the Superfund program’s National Priorities List in September 1983.  The site’s long-term remedy is in place. Operation and maintenance activities are ongoing. 
-Top of Page
-What Has Been Done to Clean Up the Site?
- In the early 1970s, NJDEP unsuccessfully attempted to force the Lone Pine Corporation, the owner and operator, to update its operation to minimize leachate and surface runoff at the landfill. In the summer of 1981, an investigation indicated the possible presence of tens of thousands of steel drums, Sixty nine drums were excavated. Thirty-five of these drums had retained partial contents, with 25 containing sludge and 10 containing liquid. A variety of organic pollutants, heavy metals and pesticides were contained in these rusted, leaking drums. EPA selected a remedy for the landfill in 1984. The objective of the selected remedy was to contain the landfill and clean up contaminated groundwater and landfill leachate directly beneath the landfill. The remedy required the construction of an impermeable cap and methane gas venting system, a slurry wall around the perimeter of the landfill, a groundwater and leachate collection and treatment system, an on-site water treatment plant for treatment of the extracted groundwater and landfill leachate, and a monitoring system to ensure the remedy’s effectiveness. Construction of the landfill remedy began in July 1991 and finished in December 1993. The major components included installation of a 57-acre, multi-layer cap; installation of a 5,965-foot slurry cut-off wall; installation of chemical leachate and methane gas collection systems; construction of a powder-activated carbon treatment wastewater treatment plant with piping to the Ocean County Utilities Authority sewage treatment plant; installation of a methane gas flare; construction of a perimeter drainage system; and installation of a hydraulic monitoring system. EPA issued a decision for groundwater remediation in September 1990. The decision required a 2,800-foot-long interceptor drain to prevent contaminated groundwater from entering the Manasquan River, extraction and injection wells, on-site treatment of the extracted groundwater, institutional controls to restrict groundwater use in affected areas, and a monitoring program. Construction of the groundwater remedy started in March 1994 and was completed in June 1994. The major components included installation of a 2,800-foot-long interceptor drain; installation of a well collection system; installation of piping to the on-site wastewater treatment plant and connections to the Ocean County Utilities Authority sewage treatment plant; and installation of groundwater and hydraulic monitoring systems.
-Top of Page
-What Is the Current Site Status?
-The site has been addressed by two long-term remedial phases focused on landfill cleanup and groundwater cleanup. Construction of the two remedies at the Lone Pine Landfill has been completed. The landfill is now in the operation and maintenance phase. The landfill is encapsulated, leachate generation is being prevented by the landfill cap, existing leachate is being extracted and treated, contaminated ground water no longer migrates into the Manasquan River, and the contaminated ground water is being treated. To date, four five-year reviews have been performed to determine if the remedies are functioning as designed. The reviews have found the remedies are performing as designed and are protective of human health and the environment. Operation and maintenance activities for the site’s remedy are ongoing. Top of Page
+
+EPA placed the site on the Superfund program’s National Priorities List in September 1983. The site’s long-term remedy is in place. Operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+In the early 1970s, NJDEP unsuccessfully attempted to force the Lone Pine Corporation, the owner and operator, to update its operation to minimize leachate and surface runoff at the landfill. In the summer of 1981, an investigation indicated the possible presence of tens of thousands of steel drums, Sixty nine drums were excavated. Thirty-five of these drums had retained partial contents, with 25 containing sludge and 10 containing liquid. A variety of organic pollutants, heavy metals and pesticides were contained in these rusted, leaking drums.
+
+EPA selected a remedy for the landfill in 1984. The objective of the selected remedy was to contain the landfill and clean up contaminated groundwater and landfill leachate directly beneath the landfill. The remedy required the construction of an impermeable cap and methane gas venting system, a slurry wall around the perimeter of the landfill, a groundwater and leachate collection and treatment system, an on-site water treatment plant for treatment of the extracted groundwater and landfill leachate, and a monitoring system to ensure the remedy’s effectiveness.
+
+Construction of the landfill remedy began in July 1991 and finished in December 1993. The major components included installation of a 57-acre, multi-layer cap; installation of a 5,965-foot slurry cut-off wall; installation of chemical leachate and methane gas collection systems; construction of a powder-activated carbon treatment wastewater treatment plant with piping to the Ocean County Utilities Authority sewage treatment plant; installation of a methane gas flare; construction of a perimeter drainage system; and installation of a hydraulic monitoring system.
+
+EPA issued a decision for groundwater remediation in September 1990. The decision required a 2,800-foot-long interceptor drain to prevent contaminated groundwater from entering the Manasquan River, extraction and injection wells, on-site treatment of the extracted groundwater, institutional controls to restrict groundwater use in affected areas, and a monitoring program.
+
+Construction of the groundwater remedy started in March 1994 and was completed in June 1994. The major components included installation of a 2,800-foot-long interceptor drain; installation of a well collection system; installation of piping to the on-site wastewater treatment plant and connections to the Ocean County Utilities Authority sewage treatment plant; and installation of groundwater and hydraulic monitoring systems.
+
+### What Is the Current Site Status?
+
+The site has been addressed by two long-term remedial phases focused on landfill cleanup and groundwater cleanup.
+
+Construction of the two remedies at the Lone Pine Landfill has been completed. The landfill is now in the operation and maintenance phase. The landfill is encapsulated, leachate generation is being prevented by the landfill cap, existing leachate is being extracted and treated, contaminated ground water no longer migrates into the Manasquan River, and the contaminated ground water is being treated. To date, four five-year reviews have been performed to determine if the remedies are functioning as designed. The reviews have found the remedies are performing as designed and are protective of human health and the environment.
+
+Operation and maintenance activities for the site’s remedy are ongoing.

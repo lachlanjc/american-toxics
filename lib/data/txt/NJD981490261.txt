@@ -1,34 +1,43 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Higgins Farm site is located in a rural residential area on County Route 518 in Franklin Township, Somerset County, New Jersey.  The site, which is approximately 75 acres in size, is currently owned by the Higgins family and is operated as a cattle farm.  The site is primarily pasture land and is relatively flat and poorly drained.  There are two residences on the farm, and other residences bordering the site to the northeast and northwest.  Trap Rock Industries Kingston Quarry borders the site to the South. Mr. Clifford Higgins, Sr., operated a disposal business on Laurel Avenue approximately one mile from the site beginning in the latter 1950s.  Mr. Higgins continued to own and operate the business until approximately 1985.  According to local residents, Higgins Farm may have been used for disposal of wastes from this business.  Aerial photographs covering the period of time from 1940 to 1983 show disturbed sections within the New Jersey Department of Environmental Protection  (NJDEP) fenced area, east of the excavation pit area, and in the former drum area.  During the 1960s, municipal sludge and penicillin wastes were also used as fertilizers on the farm. Top of Page
-What Has Been Done to Clean Up the Site?
-Alternate Water Supply: EPA selected the site’s interim groundwater remedy in the site’s September 1990 Record of Decision, or ROD.  It included the design and construction of a water main distribution system extension and connections to an existing water supply system.  A total of 26 homes were connected to the distribution system extension.  Residential wells were closed to prevent future use. Long-term Groundwater Remedial Action: EPA selected the site’s long-term groundwater remedy in the site’s September 1992 ROD. It included the installation of groundwater extraction wells around the perimeter of the site, the construction of an on-site groundwater treatment plant, and a long-term groundwater monitoring plan to evaluate the continued effectiveness of the groundwater treatment system.  By providing a permanent alternate water source, EPA and the State have eliminated threats to potentially affected residents from contaminated groundwater at the site.  In addition, the on-site groundwater treatment system limits further migration of contaminated groundwater, while actively reducing contaminant levels. EPA has conducted four , five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.  The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
-Top of Page
-What Is the Current Site Status?
-The site has a 2022 revised Classified Exception Area (CEA) based on recent data. EPA will oversee the PRP plans to continue its operation and maintenance of the groundwater treatment plant and groundwater monitoring.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The New Jersey Department of Environmental Protection Agency issued a revised Classified Exception Area (CEA).
-Top of Page
-Sampling and Monitoring
+### Background
+
+The Higgins Farm site is located in a rural residential area on County Route 518 in Franklin Township, Somerset County, New Jersey. The site, which is approximately 75 acres in size, is currently owned by the Higgins family and is operated as a cattle farm. The site is primarily pasture land and is relatively flat and poorly drained. There are two residences on the farm, and other residences bordering the site to the northeast and northwest. Trap Rock Industries Kingston Quarry borders the site to the South.
+
+Mr. Clifford Higgins, Sr., operated a disposal business on Laurel Avenue approximately one mile from the site beginning in the latter 1950s. Mr. Higgins continued to own and operate the business until approximately 1985. According to local residents, Higgins Farm may have been used for disposal of wastes from this business. Aerial photographs covering the period of time from 1940 to 1983 show disturbed sections within the New Jersey Department of Environmental Protection (NJDEP) fenced area, east of the excavation pit area, and in the former drum area. During the 1960s, municipal sludge and penicillin wastes were also used as fertilizers on the farm.
+
+### What Has Been Done to Clean Up the Site?
+
+Alternate Water Supply: EPA selected the site’s interim groundwater remedy in the site’s September 1990 Record of Decision, or ROD. It included the design and construction of a water main distribution system extension and connections to an existing water supply system. A total of 26 homes were connected to the distribution system extension. Residential wells were closed to prevent future use.
+
+Long-term Groundwater Remedial Action: EPA selected the site’s long-term groundwater remedy in the site’s September 1992 ROD. It included the installation of groundwater extraction wells around the perimeter of the site, the construction of an on-site groundwater treatment plant, and a long-term groundwater monitoring plan to evaluate the continued effectiveness of the groundwater treatment system. By providing a permanent alternate water source, EPA and the State have eliminated threats to potentially affected residents from contaminated groundwater at the site. In addition, the on-site groundwater treatment system limits further migration of contaminated groundwater, while actively reducing contaminant levels.
+
+EPA has conducted four, five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.  
+
+### What Is the Current Site Status?
+
+The site has a 2022 revised Classified Exception Area (CEA) based on recent data. EPA will oversee the PRP plans to continue its operation and maintenance of the groundwater treatment plant and groundwater monitoring.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The New Jersey Department of Environmental Protection Agency issued a revised Classified Exception Area (CEA).
+
+### Sampling and Monitoring
+
 There is routine sampling and monitoring of the groundwater ranging from quarterly to annually.
-Top of Page
-Emergency Response and Removal
-In December 1985, the Franklin Township Health Department found that elevated levels of chlorobenzene existed in a residential well located on Route 518, adjacent to the site.  The New Jersey Department of Environmental Protection (NJDEP) investigated and discovered a drum burial dump at the site approximately forty yards from the contaminated well.  During the spring and summer of 1986, NJDEP sampled residential wells and soils on and in the vicinity of the site.  Analysis of the soil samples indicated the presence of volatile organic compounds (VOCs), pesticides, metals, and dioxins.  Analysis of samples taken from ten nearby residential wells revealed that the wells were contaminated with VOCs.  As a result, in November 1986, NJDEP established a “well impact area” near the Higgins Farm Site, restricting installation of new wells within the affected area.  Thirty-one residences were included within the well impact area at Higgins Farm. This well restriction was removed by NJDEP.  EPA responded to the presence of contamination in drinking water wells neighboring the site by providing bottled water to the potentially impacted residents.  Carbon filters were installed in the residences in the spring of 1989.  In August 1992, EPA’s removal program completed the excavation of 94 drums and contaminated soils which were discovered during test pit excavation activities in the NJDEP fenced area.  Other removal actions included the construction of a metal barn to house contaminated soil from the excavation pit area, drainage and backfilling of the excavation pit, and treatment and storage of the pumped liquids from the excavation pit.  All known drums, hazardous waste and contaminated soils were removed from the site and disposed of at an EPA-approved disposal facility.  Post excavation sampling was conducted to ensure that all contamination was removed, and the area was backfilled with clean material. Top of Page
-Enforcement Information
-NCH Corporation took over operations and maintenance activities on September 9, 2006.  In 2006, Mrs. Lisbeth Higgins, the owner of the site property at the time, entered into a federal judicial consent decree with EPA.  Among other things, the consent decree required that Mrs. Higgins, or her heirs, successors and assigns, donate her development rights to both the site property and to the Higgins Disposal Superfund site property, to a conservation organization or governmental body by recording an agricultural deed of easement on each property to preserve the properties as farmland in perpetuity.    Top of Page
+
+### Emergency Response and Removal
+
+In December 1985, the Franklin Township Health Department found that elevated levels of chlorobenzene existed in a residential well located on Route 518, adjacent to the site. The New Jersey Department of Environmental Protection (NJDEP) investigated and discovered a drum burial dump at the site approximately forty yards from the contaminated well.
+
+During the spring and summer of 1986, NJDEP sampled residential wells and soils on and in the vicinity of the site. Analysis of the soil samples indicated the presence of volatile organic compounds (VOCs), pesticides, metals, and dioxins. Analysis of samples taken from ten nearby residential wells revealed that the wells were contaminated with VOCs. As a result, in November 1986, NJDEP established a “well impact area” near the Higgins Farm Site, restricting installation of new wells within the affected area. Thirty-one residences were included within the well impact area at Higgins Farm. This well restriction was removed by NJDEP. EPA responded to the presence of contamination in drinking water wells neighboring the site by providing bottled water to the potentially impacted residents. Carbon filters were installed in the residences in the spring of 1989.
+
+In August 1992, EPA’s removal program completed the excavation of 94 drums and contaminated soils which were discovered during test pit excavation activities in the NJDEP fenced area. Other removal actions included the construction of a metal barn to house contaminated soil from the excavation pit area, drainage and backfilling of the excavation pit, and treatment and storage of the pumped liquids from the excavation pit. All known drums, hazardous waste and contaminated soils were removed from the site and disposed of at an EPA-approved disposal facility. Post excavation sampling was conducted to ensure that all contamination was removed, and the area was backfilled with clean material.
+
+### Enforcement Information
+
+NCH Corporation took over operations and maintenance activities on September 9, 2006.
+
+In 2006, Mrs. Lisbeth Higgins, the owner of the site property at the time, entered into a federal judicial consent decree with EPA. Among other things, the consent decree required that Mrs. Higgins, or her heirs, successors and assigns, donate her development rights to both the site property and to the Higgins Disposal Superfund site property, to a conservation organization or governmental body by recording an agricultural deed of easement on each property to preserve the properties as farmland in perpetuity.

@@ -1,2 +1,63 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Quanta Resources Corporation site is in the Borough of Edgewater, Bergen County, New Jersey. Various companies manufactured coal tar, paving, and roofing materials at the site starting in the late 1800s. Quanta Resources operated an oil processing facility at the site from 1974 to 1981. The New Jersey Department of Environmental Protection (NJDEP) closed the Quanta Resources facility in 1981 after it discovered large quantities of [polychlorinated biphenyl (PCB)](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=26) -laden oil in storage tanks.
+
+Various companies manufactured coal tar, paving and roofing materials on site from about 1876 to 1967. Allied Chemical Corporation’s Asphalt Division (now Honeywell) took over operations in 1930. Allied Chemical sold the property and the new owners leased the property in 1977 to E.R.P. Corporation for the storage and recycling of oil. Shortly thereafter, E.R.P. assigned its lease to Edgewater Terminals, Incorporated. Quanta Resources Corporation began operating at the property after a transfer of the lease from Edgewater Terminals.
+
+Quanta Resources operated a waste oil processing facility at the site from 1979 to 1981. The site housed 61 above-ground storage tanks with a total capacity of over 9 million gallons, an unknown number of underground storage tanks, and numerous underground pipes. Quanta stored oil, tar, asphalt, sludge, process water and other unknown liquids in the tanks.
+
+EPA placed the site on the Superfund program’s National Priorities List in September 2002, after initial actions to address risks to people's health and the environment and site investigations.
+
+Under EPA oversight, Honeywell is addressing the site in two distinct areas called Operable Units (OUs). Operable Unit 1 (OU1) addresses the land and groundwater and Operable Unit 2 (OU2) addresses sediment and the nearby Hudson River.
+
+### What Has Been Done to Clean Up the Site?
+
+The state of New Jersey asked EPA to help address PCB and other hazardous liquid waste contamination on the abandoned Quanta Resources facility through the Emergency Response program in 1984.
+
+EPA directed and provided oversight between 1984 and 1988 of several cleanup actions performed by parties responsible for the contamination, called potentially responsible parties (PRPs). These parties removed approximately 1.35 million gallons of PCB-contaminated oil for off-site treatment. They also removed and recycled over 1.5 million gallons of coal tar from storage tanks, removed over 60 aboveground storage tanks, ten underground storage tanks and numerous underground pipes.
+
+EPA and Allied Signal, now Honeywell, a PRP and the successor to Barrett Manufacturing Company, entered a legal agreement called an Administrative Order on Consent (AOC) in 1996. The AOC required the responsible parties to improve site security, further investigate the extent of site problems, and develop further response actions for the site. EPA and Allied Signal signed a second AOC in 1998 designating steps to investigate and address ongoing coal tar sheens in the mudflats of the Hudson River in front of the site.
+
+The studies performed under these AOCs, along with EPA’s ecological risk assessment of Hudson River sediments, led to the proposal of the site to the National Priorities List (NPL). EPA placed the site on the NPL in September 2002.
+
+The PRP group completed an investigation to determine the nature and extent of contamination at the site in June 2010. EPA proposed a cleanup plan in July 2010 and after extensive interaction with the community, issued a final cleanup plan in a decision document called a [Record of Decision](https://semspub.epa.gov/src/document/02/111917) in September 2011.
+
+Honeywell started the cleanup at the site in May 2017 on the west side of River Road on the Block 93 parcel. In August 2017, the cleanup activities moved to the main Quanta site between River Road and the Hudson River. Honeywell temporarily suspended soil solidification work at the site in May 2018 to allow the owner of the land parcel of 115 River Road to demolish the onsite building. Though not a part of the cleanup action, removal of the building gave access to contaminated soil under the foundation.
+
+Honeywell resumed cleanup work at the site in early 2019. When work resumed at the site, Honeywell managed soil solidification under large tent structures to control potential releases of naphthalene vapors and odors. Carbon filtration units on the tent structures removed potential contaminants from the tented air before it was released to the environment. About ten percent of the soil solidification needed to be completed outside of a tent due to physical interferences with the tent structures. Honeywell completed ISS on the Quanta property and adjacent properties in May 2021.
+
+### What Is the Current Site Status?
+
+Under EPA oversight, Honeywell has addressed or will address site contamination in several ways.
+
+In Operable Unit 1 (OU1) Honeywell used in-situ, or in place solidification and stabilization (ISS) to address zones of non-aqueous phase liquid (NAPL) coal tar and arsenic contamination. Non-aqueous phase liquid refers to liquids like oil and gasoline that do not dissolve in or easily mix with water. ISS involves mixing or injecting cement or another binding agent into contaminated soil or groundwater to lock up contaminants so they cannot move. Other cleanup actions at the site include the installation of NAPL recovery wells to collect flowable NAPL product. Future cleanup actions include the capping of both the treated source areas and areas of residual contaminated soil.
+
+To clean up contaminated groundwater, an underwater reactive barrier will be installed during the Operable Unit 2 (OU2) cleanup to address contaminated sediments in the Hudson River. The barrier will function as a filter to remove contaminants from groundwater.
+
+Honeywell installed NAPL recovery wells in 2015. ISS of the NAPL zones on the main Quanta property started in the summer of 2017. The ISS of the Quanta property and adjacent properties was completed in 2021. Treatment of an area of high arsenic concentrations in groundwater is being evaluated under a separate schedule. Portions of the NAPL are under River Road, the main thoroughfare through Edgewater. Treatment of the NAPL beneath River Road started in April 2024 and is expected to be completed by late summer 2024.
+
+The site is currently fenced to restrict access.
+
+Absorbent booms, which float on the river surface, intercept surface water contamination until the implementation of the OU2 cleanup. Honeywell maintains the booms regularly and replaces them when necessary.
+
+Honeywell completed the first phase of the OU2 investigation in 2014. OU2 includes contamination in the sediments and surface water of the Hudson River. Review of the information indicated the need for additional data gathering. This prompted the second phase of the investigation, which was completed in 2019. EPA is using data from the two phases of the investigation to develop the Feasibility Study, which evaluates appropriate technologies for cleaning up contamination. Development of the Feasibility Study is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Honeywell has implemented or is in the process of implementing institutional controls at all properties that are part of the site. Deed notices restrict certain uses of the land.
+
+A New Jersey Ground Water Classification Exception Area (CEA) for the site prohibits installation of wells and unacceptable use of the groundwater at the site.
+
+### Sampling and Monitoring
+
+**Air Monitoring Program**
+
+During active ISS, the air monitoring program at the Quanta site addressed odors, dust prevention, and incorporated best practices to meet air quality health standards. The air monitoring network included both on-site and perimeter monitoring and air monitors at residential properties adjacent to the site. Monitored adjacent properties included Independence Harbor, IPark, City Place, The Metropolitan, and The Promenade. An on-site portable weather station monitored wind speed and direction.
+
+Real-time monitors at the perimeter of the site measured dust and total [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) in the air during active cleanup work.
+
+Laboratory results for daily air samples are posted on the [Honeywell Quanta remediation website](http://www.quantaremediation.com/).

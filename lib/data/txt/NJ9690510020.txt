@@ -1,25 +1,37 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
- The Federal Aviation Administration (FAA) William J. Hughes Technical Center (site) is located in Atlantic County, New Jersey, ten miles northwest of Atlantic City and covers over 5,000 acres within the New Jersey Pine Barrens. Along with FAA, the site is home to the New Jersey Air National Guard 177th Fighter Wing, the Department of Homeland Security, Transportation Security Lab, and the United States Coast Guard Group Air Station, Atlantic City. The site was first developed during the 1930s, when it was established as the Atlantic City Watershed, the main water supply for the city. In 1936, Absecon Creek was dammed to create the Upper and Lower Atlantic City Reservoirs. In the 1940s, the Atlantic City Municipal Airport and a U.S. Naval Air Station were established at the site. In 1958, the Naval facility was transferred to the Airways and Modernization Board (AMB) and the installation was designated the National Aviation Facilities Experimental Center (NAFEC). In 1958, the FAA was established and took over the operation of the AMB, Including the NAFEC. Previous U.S. Naval Air Station, FAA, and National Guard operations led to soil, sediment, and groundwater contamination at the site. Following many short-term cleanups to protect human health and the environment, the site’s long-term cleanup is ongoing, and enhancements to existing cleanups are being continually implemented to accelerate progress on the site. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-  The principal concern at FAA is groundwater contamination and the initial focus of site remediation (clean up) activity was addressing impacted groundwater. These remediation efforts are ongoing. FAA has taken additional actions to address other contaminated media at the site such as soil, surface water, and sediment. Contaminated soil and sediment have been addressed by short-term cleanups such as removal actions (excavating contaminated material) and, in some cases, by covers and land use controls like fences to prevent access to contaminated areas. These actions are designed to prevent unacceptable exposures to human health or ecological receptors. FAA implemented an in-situ thermal remediation (ISTR) project to accelerate the remediation of contaminated groundwater at OU1/Area D. This system heated groundwater contaminated with volatile organic compounds (VOCs) until the contaminants break down into nontoxic byproducts. Top of Page
-What Is the Current Site Status?
- The FAA has identified almost 30 areas of concern at the site. Contaminated soil and sediment have been addressed by excavating contaminated material (removal), and in some cases, installing covers and implementing land use controls (LUCs). Covers and LUCs are designed to prevent unacceptable human exposure. Previous U.S. Navy operations on the site resulted in contaminated soil and sediment. Most notably, mercury contamination is found in on-site streams and reservoir sediment. Past U.S. Navy activities may also have left behind unexploded ordinance. The Formerly Used Defense Sites (FUDS) Military Munitions Response Program (MMRP) is currently working with FAA and EPA to assess this possibility. Once investigations are complete for these areas, remedies will be selected and implemented. Activities at the FAA Tech Center have also led to per- and polyfluoralkyl substances (PFAS) entering and contaminating groundwater, surface water and sediment.  One source of PFAS has been identified as OU6/Area 29, the Fire Training Area, where FAA used aqueous film-forming foams containing PFAS to put out fires. Other sources of PFAS may originate from the Air National Guard facilities and the Atlantic City International Airport. In 2020, the Air National Guard completed a Site Investigation (SI) to determine the nature of PFAS contamination that may originate from their facility. The FAA is currently performing a remedial investigation for PFAS contamination released at their portions of the site.   The most recent Five-Year Review Report was issued in September 2024. The Five-Year review concluded that remedies in place at the OUs in the report are functioning as intended to protect human health and the environment from the contaminants originally identified at these areas. There have been no changes in the conditions of the sites that would affect the protectiveness of the remedy. Continued implementation of the institutional controls is ongoing, and FAA is working to document these controls. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-As previously mentioned, access to the FAA Technical Center is limited by fencing and secured entrances to the site. This limits access to contaminated areas. The reservoirs are continually monitored to ensure that fishing does not occur. FAA is working to document land use controls, access controls and groundwater use restrictions for all relevant areas on the site. Top of Page
-Sampling and Monitoring
- Sampling of soil, sediment, surface water, and groundwater occurs regularly at various areas of the site to determine the nature and extent of contamination at the facility. 
-Top of Page
+### Background
+
+The Federal Aviation Administration (FAA) William J. Hughes Technical Center (site) is located in Atlantic County, New Jersey, ten miles northwest of Atlantic City and covers over 5,000 acres within the New Jersey Pine Barrens. Along with FAA, the site is home to the New Jersey Air National Guard 177th Fighter Wing, the Department of Homeland Security, Transportation Security Lab, and the United States Coast Guard Group Air Station, Atlantic City.
+
+The site was first developed during the 1930s, when it was established as the Atlantic City Watershed, the main water supply for the city. In 1936, Absecon Creek was dammed to create the Upper and Lower Atlantic City Reservoirs. In the 1940s, the Atlantic City Municipal Airport and a U.S. Naval Air Station were established at the site. In 1958, the Naval facility was transferred to the Airways and Modernization Board (AMB) and the installation was designated the National Aviation Facilities Experimental Center (NAFEC). In 1958, the FAA was established and took over the operation of the AMB, Including the NAFEC.
+
+Previous U.S. Naval Air Station, FAA, and National Guard operations led to soil, sediment, and groundwater contamination at the site. Following many short-term cleanups to protect human health and the environment, the site’s long-term cleanup is ongoing, and enhancements to existing cleanups are being continually implemented to accelerate progress on the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The principal concern at FAA is groundwater contamination and the initial focus of site remediation (clean up) activity was addressing impacted groundwater. These remediation efforts are ongoing. FAA has taken additional actions to address other contaminated media at the site such as soil, surface water, and sediment.
+
+Contaminated soil and sediment have been addressed by short-term cleanups such as removal actions (excavating contaminated material) and, in some cases, by covers and land use controls like fences to prevent access to contaminated areas. These actions are designed to prevent unacceptable exposures to human health or ecological receptors.
+
+FAA implemented an in-situ thermal remediation (ISTR) project to accelerate the remediation of contaminated groundwater at OU1/Area D. This system heated groundwater contaminated with volatile organic compounds (VOCs) until the contaminants break down into nontoxic byproducts.
+
+### What Is the Current Site Status?
+
+The FAA has identified almost 30 areas of concern at the site.
+
+Contaminated soil and sediment have been addressed by excavating contaminated material (removal), and in some cases, installing covers and implementing land use controls (LUCs). Covers and LUCs are designed to prevent unacceptable human exposure. Previous U.S. Navy operations on the site resulted in contaminated soil and sediment. Most notably, mercury contamination is found in on-site streams and reservoir sediment. Past U.S. Navy activities may also have left behind unexploded ordinance. The Formerly Used Defense Sites (FUDS) Military Munitions Response Program (MMRP) is currently working with FAA and EPA to assess this possibility. Once investigations are complete for these areas, remedies will be selected and implemented.
+
+Activities at the FAA Tech Center have also led to per- and polyfluoralkyl substances (PFAS) entering and contaminating groundwater, surface water and sediment. One source of PFAS has been identified as OU6/Area 29, the Fire Training Area, where FAA used aqueous film-forming foams containing PFAS to put out fires. Other sources of PFAS may originate from the Air National Guard facilities and the Atlantic City International Airport. In 2020, the Air National Guard completed a Site Investigation (SI) to determine the nature of PFAS contamination that may originate from their facility. The FAA is currently performing a remedial investigation for PFAS contamination released at their portions of the site.
+
+The most recent Five-Year Review Report was issued in September 2024. The Five-Year review concluded that remedies in place at the OUs in the report are functioning as intended to protect human health and the environment from the contaminants originally identified at these areas. There have been no changes in the conditions of the sites that would affect the protectiveness of the remedy. Continued implementation of the institutional controls is ongoing, and FAA is working to document these controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+As previously mentioned, access to the FAA Technical Center is limited by fencing and secured entrances to the site. This limits access to contaminated areas. The reservoirs are continually monitored to ensure that fishing does not occur. FAA is working to document land use controls, access controls and groundwater use restrictions for all relevant areas on the site.
+
+### Sampling and Monitoring
+
+Sampling of soil, sediment, surface water, and groundwater occurs regularly at various areas of the site to determine the nature and extent of contamination at the facility.

@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Moss-American site comprises 88 acres including a former creosote facility and six miles of the Little Menomonee River, which is adjacent to the former facility. The Moss-American property is located at the intersection of Brown Deer and Granville Roads on Milwaukee's northwest side. About 65 acres are undeveloped Milwaukee County park land. About 23 acres are owned by the Union Pacific Railroad and are currently being used for industrial purposes.
+
+From 1921 to 1976, Moss-American operated as a wood-preserving facility that treated railroad ties with a creosote and fuel-oil mixture. EPA environmental studies concluded that previous site activities contaminated soil and groundwater as well as sediment (mud) in the Little Menomonee River. Contaminants of concern include polycyclic aromatic hydrocarbons, or PAHs, and organic compounds such as benzene, toluene, ethyl benzene, and xylene.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2017, Wisconsin Department of Natural Resources completed excavating contaminated soil which was suspected to be the continuing source of on-site groundwater contamination. The excavated soil was transported to a landfill in Michigan that is licensed to accept hazardous waste. This work, which was done according to an official document called a “cooperative agreement” between EPA and WDNR, was a follow-up to EPA’s 2015 five-year review. The agreement also covered minor restoration that occurred 2019 which included removing invasive species, installing a gate, and recontouring disturbed areas. This completed all planned work at the site.
+
+The Little Menomonee River cleanup was completed in December 2009 which involved rerouting portions of the river as well as dredging contaminated sediment where rerouting wasn’t possible. The river project followed a 2002 cleanup of the Moss-American property. Since this was the source of the river's contamination, groundwater and soil were cleaned up first before moving on to the river.
+
+### What Is the Current Site Status?
+
+In 2019, EPA completed the [fifth five-year review (PDF)](https://semspub.epa.gov/work/05/952085.pdf) (116 pp, 12.66 MB) of the Moss-American site. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment.
+
+The review found the site’s cleanup continues to protect people and the environment.
+
+More information is available at the Milwaukee Public Library Good Hope Branch,,715 W. Good Hope Rd., Milwaukee, Wisconsin and here: [Site Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0505024).
+
+### Enforcement Information
+
+On November 10, 2014, the U.S. District Court for the Southern District of New York approved the historic settlement agreement that was announced by EPA and the Department of Justice on April 3, 2014, resolving fraudulent conveyance claims against Kerr-McGee Corporation and related subsidiaries of Anadarko Petroleum Corporation. The deadline for any appeals from the district court's decision passed on January 20, 2015, without any appeal being filed. The [settlement agreement](http://www.epa.gov/enforcement/case-summary-settlement-agreement-anadarko-fraud-case-results-billions-environmental) went into effect on January 21, 2015.

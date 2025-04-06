@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Radiation Technology, Inc. (RTI) is a 263-acre site near Lake Denmark in Rockaway Township, New Jersey. The RTI site is divided into two areas: the RTI Area (15 acres), that is currently occupied by Sterigenics International, and the former Rockaway Industrial Park which is currently unoccupied. The area around the site is generally residential properties. The Picatinny Military Arsenal is situated to the west and southwest of the site and areas east of the site consist mainly of single-family residences. The former Rockaway Industrial Park area includes the East Stand Area (22 acres), the South Stand Area (27 acres), and the P2 Area (16 acres). The remaining 183 acres of the site is undeveloped land. Lake Denmark Road bisects the site north to south, separating RTI from the former industrial park. Radiation Technology Inc. improperly stored and disposed of waste drums containing solvents and other organic chemicals on site, contaminating soil, sediment and groundwater ) with hazardous chemicals.
+
+Reaction Motors, Inc. (RMI) purchased the property in 1941 from the Singer Manufacturing Company and constructed facilities to support rocket engine and component testing programs in the mid-1940s. Thiokol Chemical Corporation (Thiokol) subsequently bought RMI in 1958.
+
+Radiation Technology Inc. purchased a 15-acre piece of the site northwest of Lake Denmark Road where it operated a sterilization business until it sold that operation to Sterigenics International in 1996. After purchasing the remaining 248 acres of the site from Thiokol, RTI filed for Chapter 11 bankruptcy. Various tenants remained on the site until EPA and Rockaway Township evicted the tenants from the property in 2006. What is meant by EPA took control? It implies ownership. Please rephrase
+
+The vacant property east of Lake Denmark Road, which is also part of the site, is secured to prevent public access.
+
+Sterigenics International continues to operate on the RTI portion of the site (west of Lake Denmark Road). Sterigenics is able to remain onsite due to a lease agreement with RTI, before its bankruptcy, with the rent going to an account with the bankruptcy court.
+
+Since RTI's bankruptcy, there has been no site owner that is financially responsible.
+
+Following initial actions to protect human health and the environment, and additional investigations, EPA placed the site on the Superfund program’s National Priorities List (NPL) in September 1984.
+
+### What Has Been Done to Clean Up the Site?
+
+**Initial Actions**: The New Jersey Department of Environmental Protection (NJDEP) and the Rockaway Township Health Department closed contaminated drinking water wells on site in 1981. RTI installed sampling wells to measure and monitor the groundwater contamination and also removed abandoned tanks and drums.
+
+**Long-term Cleanup**: NJDEP selected its [final cleanup plan](https://semspub.epa.gov/work/02/100004.pdf), which was documented in a Record of Decision (ROD) in May 1994, to remove and treat contaminated groundwater at the site. Following the decision, and at New Jersey's request, EPA has overseen the groundwater investigation and the removal of asbestos containing material from a portion of the site. In 2007, EPA was informed by The U.S. Army’s Military Munitions Response Program that part of the site is located within the boundaries of a previously used projectile firing range from the Picatinny Arsenal facility over Lake Denmark. This means the cleanup area may include unexploded ordnance (UXO).
+
+The U.S. Army investigated and concluded that there are no immediate actions needed to address the UXOs. EPA issued its [final cleanup decision](https://semspub.epa.gov/work/02/111749.pdf) in a 2011 ROD calling for the drum material and soil to be removed from the site.
+
+EPA negotiated a legal cleanup agreement known as a Consent Decree (CD) with Thiokol Corporation (later known as Alliant Techsystems, Inc. (ATK) and now known as Northrop Grumman Innovation Systems (NGIS)) in May 2004. The agreement called for the company to begin sampling groundwater and design an investigation to determine the full extent of contamination and whether the 1994 plan was still an appropriate cleanup approach for the groundwater.
+
+This investigation is still ongoing with EPA oversight.
+
+Northrup Grumman Innovations Systems is expected to submit a request to change the 1990 cleanup plan that would lead to a focused feasibility study in Summer 2024. This information will be considered by EPA for the long-term cleanup of the groundwater.
+
+In September 2014, EPA issued a [cleanup plan](https://semspub.epa.gov/work/02/282472.pdf) to address contaminated buildings and structures at the site. EPA worked with New Jersey historical experts to ensure that any buildings/facilities that may require preservation were noted before any cleanup begins. From June until August 2021, EPA removed lead-based paint, asbestos and PCB contaminatin in 18 buildings on the site as per the 2014 cleanup plan.
+
+### What Is the Current Site Status?
+
+Between March and July of 2021, EPA demolished two contaminated buildings and addressed contamination as identified in the [September 2014 feasibility study](https://semspub.epa.gov/work/02/282472.pdf) and the 2014 Record of Decision
+
+Northrup Grumman Innovation Systems (NGIS) is actively investigating the groundwater under the site to determine how best to address contamination. The results of this investigation and recommendations have led NGIS to submit an evaluation of the technical impracticability of restoring groundwater to EPA in September 2023. EPA will review the evaluation and if approvedl, this would lead to a potential change in the cleanup plan that would require an amendment to the Record of Decision.

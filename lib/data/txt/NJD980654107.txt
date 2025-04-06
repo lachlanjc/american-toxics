@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Fair Lawn Well Field Superfund site is in the Borough of Fair Lawn, New Jersey and includes the Fair Lawn Industrial Park to the northeast, a residential neighborhood to the southwest, and Henderson Brook to the west. The Passaic River is one mile southwest of the site.
+
+The groundwater contamination at the site impacts four Westmoreland Well Field (WMWF) municipal drinking water supply wells established between 1948 and 1950. The New Jersey Department of Environmental Protection (NJDEP) discovered [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) (VOCs), [primarily tetrachloroethylene](https://www.atsdr.cdc.gov/toxfaqs/tfacts18.pdf) (PCE) and [trichloroethylene](https://www.atsdr.cdc.gov/toxfaqs/tfacts19.pdf) (TCE) in the WMWF in 1978. NJDEP investigated all industrial and commercial facilities within a 3,000-foot radius of the contaminated municipal wells to determine the origin of the contamination and found that the primary source of the contamination was within the Fair Lawn Industrial Park. Based on the investigations, facilities owned and operated by Fisher and Sandvik in the industrial park were identified as contributing sources to the groundwater contamination and named Potentially Responsible Parties (PRPs). EPA placed the site on the Superfund National Priorities List (NPL) in September 1983.
+
+Fisher and Sandvik signed Administrative Consent Orders (ACOs) with NJDEP to investigate soil and groundwater at the site, remove and dispose of contaminated soil, and perform long-term groundwater quality monitoring. In addition, Fisher and Sandvik paid the borough to install, operate, and maintain the treatment system at the WMWF.
+
+Currently, two of the four municipal wells (FL-10 and FL-14) comprising the Westmoreland well field and that provided treated drinking water to residents are out of service. Treated water is discharged to Little Diamond Brook formerly Henderson Brook. The other two wells (FL-11 and FL-12) are temporarily out of service due to maintenance activities. The Borough of Fair Lawn and the PRPs are currently working together in utilizing all four municipal wells as part of the approved engineering design for a new treatment system to remove site contaminants from the groundwater while monitoring the effectiveness of the groundwater treatment system.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA took over the lead for the groundwater cleanup in 1992, while NJDEP continued addressing the source area properties owned by Thermo Fisher Scientific and Sandvik.
+
+EPA along with the Fair Lawn Health Department and Water Department sampled and analyzed residential wells in 1995 and found that the well water met the state’s drinking water standards and were safe for irrigation and drinking water purposes.
+
+EPA entered into an interagency agreement with the United States Geological Survey (USGS) in 1999 to conduct an area-wide groundwater study of the Fair Lawn area. The groundwater study was completed in 2005 and provided more details on the groundwater contamination at the WMWF. In 2008, Fisher, Sandvik and Kodak, collectively entered into legal agreements with EPA to conduct the Superfund Remedial Investigation and Feasibility Study (RI/FS) at the site to evaluate the extent of contamination and potential environmental and public health threats.
+
+Fisher, Sandvik and Kodak installed five new groundwater monitoring wells between September and December 2009 and sampled the groundwater and surface water in March 2010 and June 2011.
+
+Kodak filed for bankruptcy in January 2012, and subsequently notified EPA that it would no longer perform the RI/FS under the legal agreement; however, Fisher and Sandvik continued to perform the RI/FS.
+
+in 2013. Fisher and Sandvik installed 13 temporary monitoring wells to define the shallow groundwater between May and July 2014. Twelve additional groundwater monitoring wells were installed between July and September 2014 and conduct comprehensive groundwater and surface water monitoring in November 2015 and June 2016. The RI/FS was completed in July 2018.
+
+EPA selected a [final cleanup plan](https://semspub.epa.gov/work/02/550183.pdf) in September 2018, which called for pumping and treating the groundwater outside the source area properties and includes the WMWF, Little Diamond Brook formerly Henderson Brook, and the surrounding residential areas.
+
+The engineering design and construction phase began in February 2020. Fisher and Sandvik developed the required investigation and studies in 2020. They also sampled the groundwater for PFOA/PFOS in April and August 2021. The final engineering design to build the treatment system was approved by EPA in September 2023. The remedial construction work plan was approved and activities began in February 2024. The new groundwater treatment system will go through an operating and testing period during the first half of 2025.
+
+### What Is the Current Site Status?
+
+EPA is addressing the site in two stages: The immediate action to treat and extract groundwater treatment at the WMWF, and the long-term action to clean up groundwater and control the potential sources of contamination. Currently, treated groundwater is discharged to Little Diamond Brook formerly Henderson Brook. These actions have reduced the potential for exposure to contaminated groundwater at the site while the engineering design and construction activities are underway. The PRPs completed the engineering design in September 2023 and construction started in February 2024.
+
+**Intermediate Actions:**
+
+The Borough of Fair Lawn built and operated an air stripper, which removes volatile or semi-volatile organic compounds from contaminated groundwater, as well as a chlorination system to treat the contaminated wells. The PRPs later reimbursed the borough for the installation of the treatment system and are providing funding for continued operation and maintenance activities.  
+  
+**Long Term Actions:**
+
+Source Areas: Under the 1984 NJDEP legal agreement, Fisher and Sandvik investigated and cleaned up their properties. Fisher has operated a groundwater recovery and treatment system since 1987, and Sandvik has been treating groundwater using an enhanced bioremediation program since February 2014. Bioremediation is a process that uses living organisms to break down pollutants and convert them into less toxic forms.
+
+Additional properties that are sources of contamination include the former Eastman Kodak Company, now Fair Lawn Promenade and 18-01 Pollitt Drive. The owners of 18-01 Pollitt Drive initiated an in-situ, or in place bioremediation program in 2014, and they have operated a pump and treat system since February 2017. These companies will continue to perform these cleanup activities under NJDEP authority.
+
+Groundwater: Fisher and Sandvik completed the RI field activities in 2016 and a final RI/FS was approved by EPA in July 2018. EPA issued a Record of Decision in September 2018 which selected a remedy for the contaminated d groundwater. Under the March 2020 Consent Decree, the PRPs completed the engineering design and are currently conducting construction activities The new groundwater treatment system will begin operations and testing in 2025.
+
+### Sampling and Monitoring
+
+Perfluorononanoic acid/Perfluorooctanesulfonic acid/Perfluorooctanoic acid (PFNA/PFOS/PFOA) sampling was conducted during the preliminary design investigation activities in 2021. Two rounds of samples were collected from a select number of wells. The results are summarized in the preliminary design investigation evaluation report approved by EPA in 2022.

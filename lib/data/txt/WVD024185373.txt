@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Hanlin-Allied-Olin Site is located approximately three miles south of Moundsville, West Virginia, between the Ohio River, West Virginia Route 2, and the Moundsville Golf Course. Since 1953, the site has featured various owners and operators on both its North and South Plants, including Hanlin Chemicals, Allied Signal (now Honeywell), and Olin. The North Plant (Allied and Olin Areas) produced aniline, nitrobenzene, methylene dianiline, dinitrotoluene, toluenediamine, and toluene diisocyanate. The South Plant (Hanlin Area) produced chloromethane compounds using the chlor-alkali (mercury cell) process, as well as chlorine and sodium hydroxide. Mercury and chloromethane compounds have been identified in the groundwater. Cleanup is focused on protecting the Washington Public Lands Well, a public groundwater supply down gradient of the site. The site was added to the Superfund program's National Priorities List on July 22, 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was proposed to the National Priorities List (NPL) on October 2, 1995, and re-proposed on April 23, 1999. On July 22, 1999, it was added to the NPL, making it eligible for federal cleanup funds. EPA has entered into several agreements with the potentially responsible parties to address contamination at the site:
+
+- 1994 - EPA and Olin entered into an Administrative Order (AO) to investigate the contamination in the Olin Area.
+- 1995 - EPA and Honeywell entered into an AO to evaluate the South Plant and the Allied Park Area. Honeywell demolished the mercury cell building and removed tons of solid and hazardous waste material from the South Plant. The investigation was completed in 2003.
+- 1997 - EPA entered into an AO with Olin to conduct a removal action (based on the findings of the earlier investigation). Approximately 100,000 cubic yards of contaminated soils were excavated and placed in the north cell of the new landfill in 2008.
+- 2001 - EPA entered into an AO with Honeywell and Olin to conduct a Remedial Investigation and Feasibility Study (RI/FS). The RI/FS addressed groundwater and any soils that were not examined under other investigations. Groundwater and soil data were compiled into a work plan. The RI was approved in July 2018, and the FS was completed and approved in early 2020.
+- 2003 - EPA entered into an AO with Honeywell to perform several tasks including:
+	- Design and construct a hazardous waste landfill, consisting of a north and south cell, that complies with the hazardous waste regulations;
+	- Excavate and consolidate waste material from several former land disposal units into the landfill; and
+	- Design and construct a soil vapor extraction (SVE) system to remediate contaminated subsurface soils in the former production area.
+- 2016 - EPA signed an Environmental Covenant with Olin. As part of a Wetlands mitigation project currently being conducted by Olin, they are required to execute an environmental covenant that will be attached, in perpetuity, to the existing land deed currently owned by Williams Ohio Valley Midstream, LLC. The covenant has been developed in accordance with the West Virginia Unified Environmental Covenant Act.
+
+Construction of the landfill was completed in August 2009. The landfill consists of two cells with an engineered liner, a leachate collection system, and a multi-layer cap. All wastes placed in the landfill were from on-site sources generated during operations. The landfill did not receive wastes from off-site sources.
+
+A SVE system was installed in the summer of 2009 to treat contaminated subsurface soils in the former chloromethane production area. Operation of the SVE is ongoing. As of May 2020, the system has removed approximately 336,000 pounds of volatile organic compounds from the subsurface soils.
+
+### What Is the Current Site Status?
+
+The source area extraction wells are preventing groundwater in the alluvial aquifer from migrating off-site. The wastewater treatment plant treats over 300,000 gallons per day with a 99% contaminant removal efficiency, significantly reducing the load of contaminants into the Ohio River. Construction of the landfill, both the north and south cells, was completed in August 2009. All of the Hanlin-Allied production buildings, including chloro-methyl and mercury cell buildings, have been removed.
+
+The Remedial Investigation for soil and groundwater was approved in July 2018. The Feasibility Study was completed in 2020. EPA completed a [proposed cleanup plan](https://semspub.epa.gov/src/document/03/2303846) for the site in July 2020. In June 2021, EPA issued a [Record of Decision (PDF)](https://semspub.epa.gov/src/document/03/2317718) which included an interim cleanup action for South Plant alluvial groundwater and a final cleanup action for shallow soils, the former Mercury Cell Building area, and the Hanlin Area sewers. These areas are collectively known as Operable Unit 1.

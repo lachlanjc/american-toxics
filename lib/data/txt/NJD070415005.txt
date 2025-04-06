@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Renora, Inc. site is a former Superfund Site located in Edison New Jersey. The one-acre site accepted oils and hazardous waste materials for transfer, storage and blending from 1978 to 1982. The facility was poorly maintained throughout the period of its operation. NJDEP detected several spills on the property in 1978 and subsequently determined that Renora, Inc. lacked the proper registration to act as a waste transfer station. In 1980, NJDEP ordered Renora, Inc. to cease all activities and clean up the site. A subsequent investigation by NJDEP showed that, while Renora, Inc. had ceased operations, it had not begun any efforts to clean up the site. Although limited cleanup activities at the site was eventually initiated by the owner, these efforts ceased in 1980 due to lack of funds and the site was abandoned in 1982.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+From October 1984 to April 1985, a group of potentially responsible parties (PRPs) conducted a removal action at the site under EPA oversight to address immediate threats to human health and the environment. The action removed drums, tankers, truck trailers and their contents, and visibly contaminated soils, and included the installation of a perimeter fence to prevent access to the site.
+
+To address long-term health and environmental threats posed by the site, EPA selected a remedial action for the site in September 1987. The selected remedy included the removal and off-site disposal of soils contaminated with polychlorinated biphenyls (PCBs), and on-site bioremediation of soils contaminated with poly aromatic hydrocarbons (PAHs), using site groundwater as an irrigation medium in the bioremediation process. The removal of PCB-contaminated soils was completed in 1990.
+
+Treatability studies showed bioremediation to be ineffective in treating PAH-contaminated soils. EPA amended the remedy in September 1994. The amended remedy included removal and off-site disposal of of surface soil and backfilling with certified clean soil. Site PRPs completed excavation of contaminated soils in October 1995. Backfilling activities were completed in February 1996. Following completion of the placement of backfill material, the site was graded to match the area’s original grade and a vegetative cover was planted in the spring of 1996.
+
+Groundwater was determined not to pose a risk to human health.
+
+  
+
+### What Is the Current Site Status?
+
+After the site’s cleanup and a period of post-remediation monitoring, EPA removed the site from the Superfund program’s National Priorities List in March 2000.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+NJDEP required the site owner to place a Declaration of Environmental Restrictions (DER) on the Site which states that the owner and operators shall not excavate, nor allow to be excavated, subsurface soils beyond a depth exceeding five feet.

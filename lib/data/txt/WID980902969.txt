@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Spickler Landfill site is a former municipal and industrial dump. Two fill areas cover 10 acres on an 80-acre parcel of land. In the 1960s, the landfill was a municipal open dump. In 1970, the site owner constructed a clay-lined sludge disposal area for disposal of mercury brine waste. Other industrial waste disposed of included kalo dust that contained asbestos and waste solvents containing volatile organic compounds.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA’s 1992 cleanup plan required the landfill cap and the cover over the mercury brine pit to be upgraded to meet Wisconsin standards. It also included leachate and landfill gas collection systems, groundwater monitoring, and institutional controls such as restrictions to prevent damage to the landfill cap.
+
+Long-term monitoring will continue until groundwater achieves EPA’s cleanup goals. An evaluation of the effectiveness of the site’s land-use restrictions is also required. EPA's review of land-use restrictions found that agreements related to two easements on the site property – one for a mineral lease and the second related to a right-of-way for an oil pipeline between the two main landfill areas – needed to be put into place. EPA negotiated agreements with the owners to make sure that deed restrictions will be adhered to.
+
+In 2010, the companies determined to be responsible for the site’s contamination studied the methane gas produced by the landfill. The results of the study did not indicate that landfill gas was moving off site; however, additional gas monitoring points were installed in 2011 so conditions could be evaluated regularly.
+
+### What Is the Current Site Status?
+
+EPA completed a [review of the site's cleanup(PDF)](http://https://semspub.epa.gov/work/05/958196.pdf) (110 pp, 13.07MB, [About PDF](https://www.epa.gov/home/pdf-files) ). This type of review is required at least every five years where the cleanup is complete but hazardous waste remains managed on-site. These reviews are done to ensure that the cleanup continues to protect people and the environment. It was the sixth five-year review for this site.
+
+The review included an evaluation of:
+
+- Site background information
+- Cleanup requirements
+- Effectiveness of the cleanup and any anticipated future actions
+- Maintenance and monitoring efforts
+- Possible ways of operating the site more efficiently
+
+The review found the cleanup continues to protect people and the environment. The next scheduled review will be in 2025.
+
+### Sampling and Monitoring
+
+Grou ndwater, leachate, and landfill gas are regularly monitored and tested. The most recent groundwater sampling results showed vinyl chloride, 1,2-dichloroethane, iron and manganese to be present in a few on-site wells at levels slightly over federal and state drinking water standards. However, these levels are consistent with previous results and no increasing trends have been observed.

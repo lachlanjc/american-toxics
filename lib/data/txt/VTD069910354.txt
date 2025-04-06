@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Pownal Tannery site is located between Route 346 and the Hoosic River in North Pownal, Vermont. A former hide tanning and finishing facility owned by the Pownal Tanning Co., Inc. was located at the 28-acre Site.
+
+From about 1937 until 1962, untreated wastewater from the tanning process was directly discharged into the Hoosic River. A lagoon system of six lagoons was constructed in several stages between 1962 and 1971 to receive tannery wastewater. In 1982, a state-permitted lined landfill was constructed to receive sludge dredged from a portion of the lagoons. The tannery landfill, also known as the Dean Road Landfill, is locatedacross the Hoosic River and southwest of the former tannery building complex. In 1987, two-thirds of the landfill was covered and closed. It has been inactive since 1988 when the company declared bankruptcy. The remaining landfill area was covered in 2001.
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. The site’s long-term remedy, put in place between July 2003 and September 2004, included lagoon sludge consolidation and capping. The Vermont Department of Environmental Conservation is responsible for operations and maintenance activities at the site. Ground water and river sediments are sampled annually.  
+
+The site’s long-term remedy included the excavation and consolidation of tannery lagoon waste, construction of a low permeability cap over consolidated wastes on site, long-term monitoring of river sediments and ground water, and land use controls to protect the cap and prevent ground water consumption and excavation of waste in the lagoon area.
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These actions involved removing liquid and bulk hazardous materials remaining in the tannery buildings, which reduced the potential for accidental exposure to hazardous wastes at the site. Secondary measures to completely address building contamination and close the landfill addressed potential exposures to two of the three source areas at the former tannery.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101463).
+
+### What Is the Current Site Status?
+
+While some site-related contaminants have been detected in nearby residential wells in the past, current sampling data indicates that ground water meets safe drinking water standards. Following completion of the cleanup in 2004, operation and maintenance activities are ongoing.
+
+[Reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101463&doc=Y&colid=33011&region=01&type=SC) are conducted every five years.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101463).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To inquire about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101463&doc=Y&colid=31760&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.

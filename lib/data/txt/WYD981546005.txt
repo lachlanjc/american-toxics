@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Mystery Bridge Road/U.S. Highway 20 Superfund site is located in Natrona County, just east of Casper, Wyoming. The site originally included two industrial properties and a residential area downgradient of the source areas that was impacted by releases of contaminants. The two industrial properties were a facility formerly owned by KMI and a facility owned by Dow Chemical Company/Dowell Schlumberger, Inc. (Dow/DSI). The downgradient residential area is called the Brookhurst residential subdivision and consists of 125 lots ranging from 2 to 5 acres in size.
+
+Beginning in 1963, KMI owned and operated a gas compression and transmission plant at the site. The facility is still in operation, however, ownership has been transferred to Tallgrass Energy Partners, LP. Dow/DSI operated an oil production service facility and a truck wash at the site from the 1950s until the 1980s. As a result of industrial operations on the KMI and DOW/DSI properties over many years, a mixture of wastewater, oils and solvents seeped into the ground and created two areas of soil contamination and two groundwater plumes flowing toward the residential subdivisions on site.
+
+The site is also adjacent to the Sinclair Refinery (formerly Little America Refining Company). Potential releases at the Sinclair Refinery are currently being addressed under a Resource Conservation and Recovery Act 3008(h) order.
+
+The potentially responsible parties (PRPs), KMI and Dow/DSI, worked with EPA to clean up the site’s two operable units (OUs) through a series of removal and remedial actions focusing on groundwater (OU1) and source contamination (OU2).
+
+A partial deletion on August 29, 2017, removed the Kinder Morgan Energy Partners, L.P. (KMI) property at this site from the National Priorities List (NPL) of Superfund sites.
+
+### What Has Been Done to Clean Up the Site?
+
+(Sept. 20, 2019) EPA announces the deletion of the Mystery Bridge Road/U.S. Highway 20 Superfund Site from the National Priorities List. EPA and Wyoming Department of Environmental Quality have determined that all appropriate response actions, other than operation, maintenance and five-year reviews, have been completed
+
+[View the Federal Register notice »](https://www.federalregister.gov/documents/2019/09/20/2019-19993/national-oil-and-hazardous-substances-pollution-contingency-plan-national-priorities-list-deletion)
+
+The site is being addressed through federal and PRP actions.
+
+In August 1986, nearby residents complained of poor water quality. The Agency for Toxic Substances and Disease Registry then issued an advisory after volatile halogenated organics were detected in area drinking water wells. Studies determined that a contaminated groundwater plume from the nearby industrial facilities was responsible for the poor water and air quality.
+
+In January of 1987, EPA conducted a removal action that included the immediate installation of 25 groundwater monitoring wells and supplying alternative drinking water for area residents until permanent alternatives could be established. EPA’s subsequent response actions included extending a water transmission line from the Town of Evansville and connecting residents to the municipal water system. As part of the response action, the Evansville water treatment plant received a new water intake and related upgrades. However, treatment plant upgrades were not completed until January 1989. In July of 1987, EPA identified KMI and Dow/DSI as the companies responsible for generating the contaminated plumes emanating from the industrial area and negatively affecting domestic water supply wells in the downgradient Brookhurst residential development. By December 1987, KMI and Dow/DSI entered into Administrative Orders on Consent to perform immediate removal actions to control the sources of contamination and inhibit further migration of the existing groundwater plumes into the residential subdivision. EPA subsequently proposed the site for the NPL on June 24, 1988, and the site was finalized on the NPL on August 30, 1990.
+
+In an effort to remediate the DOW/DSI source area, a removal action combining excavation of heavily contaminated soils, remediation using a soil vapor extraction (SVE) system, and direct removal of a waste oil tank was conducted starting in 1988. Approximately 440 cubic yards of contaminated soils from a leachate sump area were excavated and sent off site to a landfill. The SVE remediation removed an additional 300 pounds of contaminants from the leachate sump area. In addition, the SVE system removed approximately 6,000 pounds of solvents from contaminated soils from an area around a toluene storage system. The SVE system operated until 1993 when post-removal sampling and testing confirmed that no further removal work was necessary. A groundwater extraction and treatment system operated until 2001, when light non-aqueous phase liquids (LNAPLs) impacted operation of the system. Groundwater monitoring of the DOW/DSI source area and groundwater plume continued until 2015, when it was determined that cleanup goals had been met.
+
+In an effort to remediate the KMI source area, a removal action involving a combined effort of SVE, LNAPL removal and groundwater pumping and treatment was initiated in 1989. Extraction of LNAPLs from the subsurface occurred until 1994, and the groundwater extraction and treatment system was operated until 1996. Groundwater monitoring for the KMI source area and groundwater plume continued until 2010, when it was determined that cleanup goals had been met.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included groundwater extraction and treatment; excavation and disposal of contaminated soil; soil vapor extraction; and institutional controls. Remedy construction took place in 1993. The remedy has been completed for both the KMI and the DOW/DSI properties. A partial deletion on August 29, 2017, removed the Kinder Morgan Energy Partners, L.P. (KMI) property at this site from the National Priorities List (NPL) of Superfund sites. Final deletion of the entire site, including the DOW/DSI property, will be proposed in the near future.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Restrictive covenants are in place for both the former KMI property and the Dow property. These covenants prevent the installation of groundwater wells and the use of groundwater until federal Maximum Contaminant Levels (MCLs) are reached. The covenants also restrict the land use of both properties to industrial, and restrict the excavation and handling of soils on both properties.
+
+### Emergency Response and Removal
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions in 1989 included connecting residents to the Evansville municipal water system.

@@ -1,2 +1,59 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ravenswood PCE site is located in downtown Ravenswood, West Virginia. In September 1989, perchloroethylene (PCE) contamination was detected in three of the city’s production wells at levels exceeding the federal drinking water maximum contaminant level (MCL). PCE is a manufactured chemical that was commonly used as a solvent in dry cleaning and metal degreasing and is considered a potential carcinogen. In the immediate vicinity surrounding the site area, there are three known former dry cleaning facilities, a former trash dump, a metal scrap heap, a municipal building (former electric power plant), a former waste dump, and a former hospital. These past industrial areas make identifying a single point-of-origin source of contamination difficult.
+
+The site's area of concern consists of a PCE-contaminated groundwater plume that extends from beneath the intersection of Broadway and Walnut Street approximately 1,400 feet northeast to the City of Ravenswood municipal drinking water plant and well field, which supplies water to approximately 7,100 people.
+
+The site was added to the Superfund program's National Priorities List in 2004.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1998, the City of Ravenswood shut down its municipal well #3 (PW-3) due to perchloroethylene (PCE) contamination. The city began pumping PW-3 to the Ravenswood wastewater treatment plant in an effort to protect the remaining municipal wells from contamination. At the request of the West Virginia Rural Water Authority, EPA began site investigations by surveying the area and testing the soil gas and groundwater for PCE contamination.
+
+In 1999, EPA installed four monitoring wells to further investigate the extent of contamination. During the next two years, a total of 55 geoprobe soil boring samples were collected and an additional seven monitoring wells were installed throughout the initial area of concern.
+
+In 2000, the City of Ravenswood installed a Venturi air-stripper to treat the contaminated water from two of the three wells where PCE was detected (PW-3 and PW-5). The treated water was blended with water from the other three municipal wells, which was then tested to help ensure that it met federal drinking water standards prior to distribution.
+
+In 2004, EPA's Removal Program installed two new production wells (PW-6 and PW-7) and associated water lines. These new production wells are located outside of the affected area and supply non-contaminated water to the municipal water treatment plant.
+
+The site was added to the Superfund program's NPL for cleanup in September 2004. The cleanup was separated into two operable units (OUs): OU-1 addresses the PCE contaminated groundwater; and OU-2 addresses potential vapor intrusion (VI) that could be a result of the PCE-contaminated groundwater. A Remedial Invesigation/Feasibility Study (RI/FS) for OU-1 began in 2005.
+
+In 2009, EPA conducted a treatability study as part of the RI/FS phase of the cleanup process. The treatability study involved evaluating the effectiveness of an air sparging with soil vapor extraction (AS/SVE) unit for removing PCE contamination. This technology works by blowing air into the groundwater through a well. As a result, the PCE becomes aerated and turns into a vapor, which is then captured by the soil vapor extraction system. The vapors are treated using a carbon filtration system and the cleaned air is released into the atmosphere. Sampling results showed that the treability study was successful at removing PCE contamination from the groundwater and the AS/SVE system was implemented as part of the cleanup remedy.
+
+In January 2011, after the RI/FS phase was completed for OU-1, EPA presented its proposed cleanup plan. After a public comment period, the proposed plan was approved and the OU-1 Record of Decision (ROD), which outlined the selected cleanup remedy for the PCE-contaminated groundwater, was signed and put into action. It included:
+
+- In-Situ AS/SVE units; this includes the continued operation of the AS/SVE system previously installed for the treatability study, monitoring the vapors, and an expansion of AS/SVE wells in areas that will effectively treat the contamination;
+- Groundwater monitoring throughout the contaminated plume area, including installing additional monitoring wells, as needed;
+- Municipal well-head treatment on the city's contaminated production wells prior to distribution, as needed;
+- A Pre-Remedial Design Investigation to help ensure the proper placement of the AS/SVE units; and
+- Institutional controls to prevent the installation of new production wells in the contaminated portion of the unconfimed Quaternary Alluvium aquifer.
+
+In 2015, EPA's Removal Program completed work on removing contaminated soil that had been identified as a potential contributor to the PCE-contaminated groundwater plume. The removal work included excavating the contaminated soil and removing it for proper disposal, backfilling the area with clean fill, and installing treatment units as part of the existing AS/SVE system.
+
+Remedial action at the site, including the expansion of the AS/SVE system and installation of a second treatment system, began in 2015 and was deemed operational and functional in 2016.
+
+EPA also conducted an OU-2 VI study in 2013 to investigate the possibility of residential VI as a result of the PCE-contaminated groundwater plume. Results of VI samplings showed a significant reduction in VI concentrations of PCE. An [Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/2247183) was issued in 2017, which explained that the constructed remedy for the groundwater was effective at alleviating VI at the site, reducing the levels of PCE below that which would trigger EPA to take a response action.
+
+### What Is the Current Site Status?
+
+Cleanup of the site is ongoing and is being addressed through federal, state and local actions. To date, soil-gas sampling results have not shown perchloroethlylene (PCE) concentrations at actionable levels. EPA will continue to monitor the plume to test the effectiveness of the remedy, including the air sparging with soil vapor extraction (AS/SVE) treatment. As part of the [2017 Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/2247183), additional vapor intrusion monitoring will take place at commercial buildings and residences twice per year to ensure the current remedy is effective. EPA and West Virginia Department of Environmental Protection will modify the frequency and number of samples in the future as results warrant.
+
+A [Preliminary Close Out Report](https://semspub.epa.gov/src/document/03/2264551) documenting the completed remedial construction for the site was issued in 2018. The site's first five-year review will take place in 2023. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A city ordinance is in place that prohibits the digging or drilling of groundwater wells within city limits. This ordinance protects the integrity of the remedy and is enforced by the City of Ravenswood. Additional information about the institutional controls is available in the [2018 Preliminary Close Out Report](https://semspub.epa.gov/src/document/03/2264551) (page 7).
+
+### Sampling and Monitoring
+
+[Feasibility Study Report - October 2010](http://semspub.epa.gov/src/document/03/2118283)
+
+[Remedial Investigation Report - October 2010](http://semspub.epa.gov/src/document/03/2118284)
+
+### Emergency Response and Removal
+
+[Ravenswood PCE Site Removal Program](http://www.epaosc.org/site/site_profile.aspx?site_id=9865)

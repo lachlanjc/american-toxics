@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Hercules, Inc. (Gibbstown Plant) site is located in Gibbstown, Gloucester County, New Jersey on approximately 350 acres of developed and undeveloped land. Clonmell Creek flows northwest through the site toward the Delaware River and separates the two primary areas of the site — the 80-acre Former Plant Area, located to the south, and the four-acre area, known as the solid waste disposal area (SWDA), located to the north.
+
+Before the site property was acquired by Hercules in 1952, DuPont reportedly used the area now designated as the SWDA to dispose of lead fragments and tar generated from the production of aniline. Hercules used the SWDA from 1955 until 1974 to dispose of wastes generated from its manufacturing activities. These disposal activities contaminated the SWDA soil and groundwater with heavy metals and volatile organic compounds (VOCs), which are potentially harmful contaminants that easily evaporate into the air. The SWDA has been inactive since 1974.
+
+Construction of the Gibbstown Plant began in 1953 and the plant was fully operational by 1959. Phenol and acetone were manufactured at the facility until 1970. After 1970, the plant produced three primary products—cumene hydroperoxide; diisopropylbenzene; and dicumyl peroxide, which are used in phenol and acetone production. These manufacturing activities contaminated the soil and groundwater in the Former Plant Area, sediment in Clonmell Creek, and an on-site stormwater retention basin, referred to as the Stormwater Catchment Basin. The primary contaminants present in the Former Plant Area are VOCs and lead. In 2010, Hercules decommissioned the Gibbstown Plant and demolished most of the aboveground structures.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed in two long-term remedial phases focused on the cleanup of the SWDA and the Former Plant Area.
+
+After investigations revealed the presence of groundwater contamination, EPA placed the site on the Superfund program’s National Priorities List in 1983. In 1984, as an interim remedy, Hercules installed a groundwater extraction and treatment system to prevent contaminated groundwater from migrating off-property. The system was upgraded in 2008 and continues to operate.
+
+Hercules, under New Jersey Department of Environmental Protection (NJDEP) oversight, completed a remedial investigation and feasibility study (RI/FS) to determine the nature and extent of contamination in the SWDA. A Record of Decision (ROD), selecting a remedy for the contamination in the SWDA, was issued by NJDEP in 1996. The selected remedy included waste consolidation and capping, long-term groundwater monitoring, periodic inspections, and institutional controls to restrict access and groundwater use. The remedial action for the SWDA was completed in 2014 and routine maintenance and monitoring is being performed by Hercules.
+
+Hercules initiated an RI/FS under NJDEP oversight to determine the nature and extent of contamination associated with the Former Plant Area. In 2008, EPA assumed the lead for the Former Plant Area and Hercules completed the RI/FS under EPA oversight. A ROD was issued by EPA in 2018, selecting a remedy for the contamination in the Former Plant Area. The selected remedy includes excavation and on-site treatment of the top four feet of contaminated soil using naturally-occurring microorganisms to destroy or break down the contaminants; in-place treatment of soil located deeper than four feet using chemicals to spur naturally-occurring microorganisms to destroy or break down the contaminants; excavation with off-site disposal of the lead-contaminated soil; removal and treatment of the contaminated sediment in Clonmell Creek and an on-site stormwater basin; and continued extraction and treatment of the contaminated groundwater. The treated soil and sediment will be reused on-site as soil cover to reduce infiltration of surface water and control surface water runoff/drainage.
+
+VOCs present in soil and groundwater, even at low levels, can migrate into buildings. This process, which is called vapor intrusion, can result in unacceptable human exposures to VOCs inside occupied buildings. In 2011, vapor intrusion sampling was conducted in the houses situated adjacent to the southern property boundary of the site. The results indicated that site-related VOCs are within the acceptable risk range and it was determined that no additional vapor intrusion monitoring is necessary.
+
+### What Is the Current Site Status?
+
+In 2020, EPA and the State of New Jersey signed a consent decree with Hercules LLC to prepare the remedial design of the selected remedy and to conduct the cleanup at the site. The remedial design is underway. A 30% design is anticipated in fall 2024.
+
+EPA reviews Superfund sites every five years to ensure that cleanups conducted remain fully protective of human health and the environment. EPA conducted five-year reviews at the Hercules, Inc. site in April 2015 and January 2020. Both reviews concluded that response actions taken at the site are in accordance with the remedy selected by EPA and that the cleanup remedy continues to be protective of human health and the environment. The next five-year review will be completed by January 2025.

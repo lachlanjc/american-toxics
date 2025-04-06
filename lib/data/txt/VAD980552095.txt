@@ -1,30 +1,34 @@
-DIXIE CAVERNS COUNTY LANDFILLSALEM, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 39-acre Dixie Caverns County Landfill site is located in Salem, Virginia. Roanoke County operated the unlicensed municipal landfill from 1965 until its closure in 1976. During operation, the landfill accepted municipal and industrial wastes which ultimately led to contamination of the soil and sediment with hazardous chemicals. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1989. Cleanup activities included removal and treatment of fly ash and the removal, treatment and disposal of contaminated stream sediments. The cleanup was completed in 1997, and EPA deleted the site from the NPL in 2001. Following cleanup, operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-A Remedial Investigation and Feasibilty Study conducted in 1991 concluded that the fly ash migration from the large fly ash pile and the high levels of metals in the surface waters and sediments of the nearby streams posed an imminent threat to human health and the environment. This conclusion, along with the initial site investigations, lead to the first response action in three parts to remove the contaminants from the site. 
-EPA extracted 300 discarded drums and prepared them for off-site disposal.
-EPA removed 500 cubic yards of sludge and contaminated soil and disposed the material off-site.
-EPA transported about 9,000 cubic yards of fly ash to an off-site location for treatment and disposal. 
-Even after the drums, sludge, and fly ash were removed from the site, there was still a concern for the state of the nearby streams and soil that also showed high levels of contaminants from the site. In 1993, EPA initiated a second response action to remove, treat, and/or dispose of contaminated sediment in the streams and soils from beneath the fly ash waste pile. During this second response action, sediment and soil were removed, stabilized and placed in an onsite landfill (monofill). The landfill was capped and certified closed. A small pocket of fly ash along the hillside of the stream north of the fly ash pile was covered with 7 feet of clay. Construction of the on-site remedy was completed and finalized in September 1997. Top of Page
-What Is the Current Site Status?
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2022 Five-Year Review (PDF), concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires an ecological health assessment. The next five-year review is scheduled for September 2027. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to prohibit digging or any activities that would distrub or interfere with the remedy at the site. The site's parcel is zoned as "Agricultural/Rural Preserve with Special Use." To protect the remedy for the site and maintain the landfill cap, the Roanoke County ordinance regarding this parcel includes the following prohibited activities: 
-Digging and/or construction;
-Disturbance of the waste water collection system and collection tanks;
-Any use of the waste water from the property that would lead to ingestion, vapor inhalation, or dermal contact; and
-Disturbance of the groundwater monitoring wells. 
-The special use zoning does allow for the grounds to be used for police training activies, so long as those activities do not disturb the site remedy. Additional information about the institutional controls are available in the 2022 Five-Year Review (PDF) (pages 8-10). Top of Page
+### Background
+
+The 39-acre Dixie Caverns County Landfill site is located in Salem, Virginia. Roanoke County operated the unlicensed municipal landfill from 1965 until its closure in 1976. During operation, the landfill accepted municipal and industrial wastes which ultimately led to contamination of the soil and sediment with hazardous chemicals. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1989. Cleanup activities included removal and treatment of fly ash and the removal, treatment and disposal of contaminated stream sediments. The cleanup was completed in 1997, and EPA deleted the site from the NPL in 2001. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+A Remedial Investigation and Feasibilty Study conducted in 1991 concluded that the fly ash migration from the large fly ash pile and the high levels of metals in the surface waters and sediments of the nearby streams posed an imminent threat to human health and the environment. This conclusion, along with the initial site investigations, lead to the first response action in three parts to remove the contaminants from the site.
+
+1. EPA extracted 300 discarded drums and prepared them for off-site disposal.
+2. EPA removed 500 cubic yards of sludge and contaminated soil and disposed the material off-site.
+3. EPA transported about 9,000 cubic yards of fly ash to an off-site location for treatment and disposal.
+
+Even after the drums, sludge, and fly ash were removed from the site, there was still a concern for the state of the nearby streams and soil that also showed high levels of contaminants from the site. In 1993, EPA initiated a second response action to remove, treat, and/or dispose of contaminated sediment in the streams and soils from beneath the fly ash waste pile. During this second response action, sediment and soil were removed, stabilized and placed in an onsite landfill (monofill). The landfill was capped and certified closed. A small pocket of fly ash along the hillside of the stream north of the fly ash pile was covered with 7 feet of clay. Construction of the on-site remedy was completed and finalized in September 1997.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335618), concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires an ecological health assessment. The next five-year review is scheduled for September 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prohibit digging or any activities that would distrub or interfere with the remedy at the site. The site's parcel is zoned as "Agricultural/Rural Preserve with Special Use." To protect the remedy for the site and maintain the landfill cap, the Roanoke County ordinance regarding this parcel includes the following prohibited activities:
+
+- Digging and/or construction;
+- Disturbance of the waste water collection system and collection tanks;
+- Any use of the waste water from the property that would lead to ingestion, vapor inhalation, or dermal contact; and
+- Disturbance of the groundwater monitoring wells.
+
+The special use zoning does allow for the grounds to be used for police training activies, so long as those activities do not disturb the site remedy.
+
+Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335618) (pages 8-10).

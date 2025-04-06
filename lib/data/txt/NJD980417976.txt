@@ -1,19 +1,23 @@
-SHERWIN-WILLIAMS/HILLIARDS CREEKGIBBSBORO, NJ 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-From the mid-1800s until 197,7John Lucas & Company, and eventually the Sherwin-Williams Company, operated a paint manufacturing facility in Gibbsboro, New Jersey. The facility included paint manufacturing buildings, wastewater and paint sludge settling lagoons, several tank farms, and open drum storage areas. Decades of direct waste discharge into Hilliards Creek, use of unlined waste lagoons, improper storage and handling and leaking tanks and drums led to widespread soil, sediment, surface water, and groundwater contamination. The former paint manufacturing facility is located on the southern shore of Silver Lake which forms the headwaters of Hilliards Creek. Hilliards Creek flows through the former manufacturing facility and continues approximately one mile where it empties into Kirkwood Lake in Vorhees, New Jersey. Bridgewood Lake, which adjoins the southern boundary of the former manufacturing facility, also flows into Hilliards Creek. Past paint manufacturing operations contaminated soil, groundwater, surface water and sediment with metals and solvents. The extent of soil and groundwater contamination at the former facility, as well as sediment and surface water contamination of Silver Lake, Hilliards Creek, Bridgewood Lake and Kirkwood Lake constitute the Sherwin-Williams Hilliards Creek Superfund Site. During the operation of the paint manufacturing facility, additional waste from the facility was deposited in two separate areas: the Route 561 Dump Site, and the United States Avenue Burn Superfund Site. The information contained in this webpage pertains to the Sherwin-Williams/Hilliards Creek Superfund site. Information for the Route 561 Dump Site may accessed at: https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0203909 Information for the United States Avenue Burn Superfund Site may be accessed at: https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0204003 
-Top of Page
-What Has Been Done to Clean Up the Site?
-Approximately 8,100 cubic yards of sludge material from the former lagoons, 66 tons of soil and 14,000 gallons of water and oil mixture were removed from the building area of the facility shortly after the facility closed in 1978. A soil vapor extraction (SVE) system and free product recovery (FPR) system was installed to collect vapors from the area adjoining the 1 Foster Avenue building.  The SVE and FPR systems recovered approximately 141,100 gallons of product.  An interceptor trench was installed next to Hilliards Creek to prevent further discharges of product to the creek. 52,700 tons of soil containing contaminants that originated from the former paint manufacturing facility was removed from 49 residential properties between 2016 and 2022. 
-Top of Page
-What Is the Current Site Status?
-Under EPA oversight, t﻿he Sherwin-Williams Company completed cleaning up 49 residential properties in February 2022. One residential property containing Hilliards Creek wetlands will be addressed during the cleanup of Hilliards Creek. The Sherwin-Williams Company, under EPA oversight, prepared the design for the cleanup of the former manufacturing plant which involves excavation and removal of site contaminants, capping of residual contaminated soil, as well as treatment of light non-aqueous phase liquid by in-situ bioremediation. Excavation of contaminated soil north of Foster Avenue started in the Spring of 2024 and is anticiapted to be completed the Spring 2025. While excavation and removal of soil north of Foster Avenue continues, design work is being conducted to prepare for the cleanup of soil South of Foster Avenue, sediment in Silver Lake, Bridgewood Lake, Hilliards Creek, and Kirkwood Lake, and light non-aqueous phase liquid by bioremediation.    EPA is overseeing Sherwin-Williams’ investigation of groundwater contamination and preparation of a feasibility study which will identify potential groundwater cleanup alternatives. The investigation and feasibility study are expected to be completed in the spring of  2025. 
-Top of Page
+### Background
+
+From the mid-1800s until 197,7John Lucas & Company, and eventually the Sherwin-Williams Company, operated a paint manufacturing facility in Gibbsboro, New Jersey. The facility included paint manufacturing buildings, wastewater and paint sludge settling lagoons, several tank farms, and open drum storage areas. Decades of direct waste discharge into Hilliards Creek, use of unlined waste lagoons, improper storage and handling and leaking tanks and drums led to widespread soil, sediment, surface water, and groundwater contamination.
+
+The former paint manufacturing facility is located on the southern shore of Silver Lake which forms the headwaters of Hilliards Creek. Hilliards Creek flows through the former manufacturing facility and continues approximately one mile where it empties into Kirkwood Lake in Vorhees, New Jersey. Bridgewood Lake, which adjoins the southern boundary of the former manufacturing facility, also flows into Hilliards Creek. Past paint manufacturing operations contaminated soil, groundwater, surface water and sediment with metals and solvents. The extent of soil and groundwater contamination at the former facility, as well as sediment and surface water contamination of Silver Lake, Hilliards Creek, Bridgewood Lake and Kirkwood Lake constitute the Sherwin-Williams Hilliards Creek Superfund Site. During the operation of the paint manufacturing facility, additional waste from the facility was deposited in two separate areas: the Route 561 Dump Site, and the United States Avenue Burn Superfund Site. The information contained in this webpage pertains to the Sherwin-Williams/Hilliards Creek Superfund site.
+
+Information for the Route 561 Dump Site may accessed at: https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0203909
+
+Information for the United States Avenue Burn Superfund Site may be accessed at: https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0204003
+
+### What Has Been Done to Clean Up the Site?
+
+Approximately 8,100 cubic yards of sludge material from the former lagoons, 66 tons of soil and 14,000 gallons of water and oil mixture were removed from the building area of the facility shortly after the facility closed in 1978. A soil vapor extraction (SVE) system and free product recovery (FPR) system was installed to collect vapors from the area adjoining the 1 Foster Avenue building. The SVE and FPR systems recovered approximately 141,100 gallons of product. An interceptor trench was installed next to Hilliards Creek to prevent further discharges of product to the creek. 52,700 tons of soil containing contaminants that originated from the former paint manufacturing facility was removed from 49 residential properties between 2016 and 2022.
+
+### What Is the Current Site Status?
+
+Under EPA oversight, the Sherwin-Williams Company completed cleaning up 49 residential properties in February 2022. One residential property containing Hilliards Creek wetlands will be addressed during the cleanup of Hilliards Creek.
+
+The Sherwin-Williams Company, under EPA oversight, prepared the design for the cleanup of the former manufacturing plant which involves excavation and removal of site contaminants, capping of residual contaminated soil, as well as treatment of light non-aqueous phase liquid by in-situ bioremediation. Excavation of contaminated soil north of Foster Avenue started in the Spring of 2024 and is anticiapted to be completed the Spring 2025.
+
+While excavation and removal of soil north of Foster Avenue continues, design work is being conducted to prepare for the cleanup of soil South of Foster Avenue, sediment in Silver Lake, Bridgewood Lake, Hilliards Creek, and Kirkwood Lake, and light non-aqueous phase liquid by bioremediation.
+
+EPA is overseeing Sherwin-Williams’ investigation of groundwater contamination and preparation of a feasibility study which will identify potential groundwater cleanup alternatives. The investigation and feasibility study are expected to be completed in the spring of 2025.

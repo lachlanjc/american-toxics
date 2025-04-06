@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Culpeper Wood Preservers Site, located in Culpeper County, Virginia, is an active 20-acre wood treatment facility owned and operated by Jefferson Homebuilders Inc. (JHB). The site formerly used a chromated copper arsenate (CCA) waterborne treating process where pressure-treated lumber was placed on an uncovered drip pad. As the lumber dried, CCA-contaminated drippings came into direct contact with the ground and collected in a retention pond. In early 1981, a breach in the retention pond released approximately 100,000 gallons of wastewater, contaminating nearby soils, sediments, surface water, and groundwater both on and off the property with arsenic and chromium. The site was added to the Superfund program's National Priority List on October 4, 1989, making it eligible for federal cleanup funds.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1981, EPA and the Commonwealth of Virginia required Jefferson Homebuilders Inc. (JHB), the potentially responsible party (PRP), to improve site conditions to control contaminated runoff in a Resource Conservation and Recovery Act Consent Agreement and Consent Order. These improvements included upgrading the drip pads, monitoring groundwater, and reconstructing the retention pond. Trenches constructed downgradient from the retention ponds would help collect any contaminated runoff liquid from the wood treatment facility.
+
+JHB entered into a Consent Order with EPA in 1993 to conduct a site-wide study to determine the extent of contamination and identify alternative technologies for the cleanup at the site. In late 2008, JHB collected samples from in-service private wells in areas downgradient from the site. These samples contained several contaminants including arsenic, hexavalent chromium, and copper. Since April 2009, JBH has been providing bottled water to 18 residential properties near the site. Sampling data from 2016 and 2018 again confirmed that there were elevated levels of hexavalent chromium in the wells used in residential and commercial properties downgradient of the site.
+
+### What Is the Current Site Status?
+
+The remedial investigation was completed in September 2016 and the feasibility study was finalized in May 2019. These reports showed that shallow groundwater found on the site was contaminated with arsenic, hexavalent chromium, cobalt, copper, and iron. Intermediate/deep groundwater on the site had both aresnic and hexavalent chromium, which has since migrated to private drinking water well sources near and downgradient of the site.
+
+EPA began a removal site evaluation in June 2019 to determine if a time critical response should be taken, based on the negative health impacts that consuming the contaminated groundwater could have on residents nearby. The assessment of historical and current data from sampling activities showed that the contamination did pose a threat to public health and the environment, giving EPA cause to begin a time critical removal action in 2020. The removal action included closing out the contaminated private wells and connecting the impacted residential and commercial properties to an exisiting municipal waterline.
+
+JHB began the waterline connection project in July 2020. In September 2020, JHB completed the installation of the municipal waterline serving the Culpeper Wood Preservers facility and compiled design information including well and septic locations, well construction, and aerial photographs for the consenting properties. This information was used in design plans of the waterline. JBH completed the waterline construction and connection in August 2022. In September 2022, JBH closed out remaining contaminated private wells.
+
+### Emergency Response and Removal
+
+EPA began a removal site evaluation in June 2019 to determine if a time critical response should be taken, based on the negative health impacts that consuming the contaminated groundwater could have on residents nearby. The assessment of historical and current data from sampling activities showed that the contamination did pose a threat to public health and the environment, giving EPA cause to begin a time critical removal action in 2020. The removal action will include closing out the contaminated private wells and connecting the impacted residential and commercial properties to an exisiting municipal waterline.

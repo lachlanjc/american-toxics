@@ -1,2 +1,11 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Witco Chemical Corporation (Witco) site is located in Oakland, New Jersey. Witco operated a technical research facility for the development of specialty chemicals at this 9-acre site. From 1966 through 1984, the company neutralized laboratory wastewater in an underground tank and then discharged it into a network of six unlined subsurface seepage pits. The New Jersey Department of Environmental Protection (NJDEP) inspected the operation in 1982. Petroleum hydrocarbons and volatile organic compounds (VOCs) were detected in soil and groundwater samples. Immediate actions to protect human health and the environment eliminated the threat of exposure to contamination at the site..
+
+### What Is the Current Site Status?
+
+Under a 1982 directive from NJDEP, Witco began cleanup operations. The company installed a 6,000-gallon fiberglass tank to receive laboratory waste. This completely eliminated any subsurface discharges by early 1984. A separate system for discharging uncontaminated cooling waters into a nearby lake has been established under a state environmental permit. In 1987, Witco started its own independent soil cleanup. Workers removed remaining sludge, contaminated soil and various seepage pit components. The excavated area was backfilled and closed in 1988.
+
+To ensure that Witco's cleanup met safety standards, EPA ordered the company to conduct groundwater and soil investigations to determine the nature and extent of any remaining contamination present on site. Witco completed the investigation in mid-1992. Based on the results of the investigations, EPA determined that no further cleanup actions were needed at the site.
+
+EPA deleted the site from the Superfund program’s National Priorities List in November 1993.

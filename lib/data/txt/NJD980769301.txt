@@ -1,2 +1,15 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lodi Municipal Well site is located in Lodi, New Jersey. The site consists of the Home Place Well. From the early 1900s to the early 1980s, the Lodi Water Department supplied drinking water for most local residential and commercial needs from a series of municipal wells that tapped the bedrock aquifer. The first of these wells, the Arnot Street Well, was installed in 1923. The 11th and last well, the Home Place Well, was installed in 1965.
+
+Groundwater from the Home Place Well showed both radiological and chemical contamination. All 11 municipal wells were closed by 1987 due to elevated levels of volatile organic compounds (VOCs), which are potentially harmful contaminants. About 95 percent of Lodi's drinking water is now supplied by the Passaic Valley Water Commission. The remainder is purchased from the Hackensack Water Company.
+
+### What Has Been Done to Clean Up the Site?
+
+During the 1980s, the Borough of Lodi closed 11 wells, based on sampling data from the New Jersey Department of Environmental Protection and the Lodi Water Department. Alternate water supplies were provided.
+
+Following initial site investigations, EPA placed the site on the Superfund program’s National Priorities List in August 1990.
+
+An EPA remedial investigation defined the source and extent of the groundwater contamination. The investigation indicated that the VOC contamination found at and near the site was sporadic and regional in nature. Additional bedrock and groundwater sampling from 1991 to 1993 determined that radionuclide contamination in the Home Place Well was naturally occurring. Section 104 of the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA) provides limitations on response actions and directs that remedial action not be taken in response to a release or threat of release of a naturally occurring substance in its unaltered form. In addition, remedial action is not necessary to ensure protection of human health and the environment from non-radiological compounds at the site, since the concentrations of those compounds in the groundwater at the well do not pose an unacceptable risk.
+
+On September 27, 1993, EPA signed a Record of Decision (ROD) that documented the selection of a "No Action" remedy for the site. The Site was deleted from the NPL on December 29, 1998.

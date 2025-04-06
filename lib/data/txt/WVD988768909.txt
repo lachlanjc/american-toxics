@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Shaffer Equipment/Arbuckle Creek Area Superfund Site encompasses Shaffer Equipment Company property, Arbuckle Creek sediments, and other areas where site related contamination may be located. Site soils and sediment were historically contaminated with polychlorinated biphenyls (PCBs), which were used by the Shaffer Equipment Company from 1970 to 1984 to manufacture electrical substations for the local coal mining industry.
+
+The company stored nonessential, damaged, or outdated transformers and capacitors on the Shaffer Equipment Company property. Leaks from the equipment, possible spills, and dumping practices contributed to PCB contamination in on-site soils and washed into nearby Arbuckle Creek sediments. Low levels of contamination have also been observed in Arbuckle Creek within the boundary of the New River Gorge National Park and Preservey. New River is home to sensitive environments and is also used for recreation and fishing.
+
+The Site was added to the National Priorities List (NPL) in May 2019, making it eligible for federal investigation and cleanup under the Superfund program.
+
+### What Has Been Done to Clean Up the Site?
+
+The West Virginia Department of Natural Resources (WVDNR) inspected the Shaffer Equipment/Arbuckle Creek Area Site in September 1984 and found several hundred transformers and capacitors. Analysis of a composite surface soil sample and a grab soil/sediment sample from a site drainage ditch to Arbuckle Creek indicated elevated levels of polychlorinated biphenyls (PCBs) in the material. At the request of WVDNR, EPA investigated the site and subsequently performed two contaminated soil removal actions, excavating and disposing of contaminated soils offsite. The first removal action was performed from 1985 through 1987. The second removal action was conducted from 1991-1992.
+
+In 1997, EPA was notified that an act of vandalism at the site had caused a fire at the remaining building that contained materials with PCBs. This resulted in a third removal action from 2001 to 2002. The EPA conducted another assessment and contracted the US Army Corps of Engineers (USACE) to design an impervious cap for the remaining contaminated soils and building debris. The USACE completed the construction of the cap in 2002. Additional engineering controls were constructed to prevent the offsite migration of PCBs. These included: a sheet pile cutoff wall along portions of Arbuckle Creek, surface diversion and drainage ditches, monitoring wells, and stone slope protection.
+
+In 2017, area residents contacted EPA and the West Virginia Department of Environmental Protection (WVDEP) to express their continued concern about residual PCB contamination at the site and the potential migration into the surrounding residential area. EPA collected soil and sediment samples in June and December 2017 to determine if there was PCB contamination at residential properties and any residual PCB contamination remaining at the Site. A removal assessment was also conducted in Arbuckle Creek and other potential PCB source areas. The removal assessment showed evidence of trespassers at the site and an area of erosion on the cap.
+
+In October 2017 and March 2018, the EPA held public meetings in Minden to share and review the June and December 2017 sampling results respectively, which found low PCB levels that did not indicate an immediate threat to human health. Additional sediment samples from Arbuckle Creek and soil samples from residences and the Shaffer Equipment Company property were also taken. Minden residents informed the EPA that there are other possible sources of contamination that should be evaluated, including areas subject to discharge from former mining operations. In March 2018, additional samples were collected from Arbuckle Creek within the boundary of the New River Gorge National Park and Preserve(National Park Service) property, possibly the result of frequent flooding in the area. The EPA also re-sampled two residences adjacent to the creek where PCB contamination was previously tested.
+
+In May and early June 2018, in addition to frequent personal interaction with residents, the EPA held additional listening and availability sessions for residents to further detail their concerns about the site. The EPA also conducted a wetlands survey and site reconnaissance to identify other potential areas of concern, and additional soil and sediment samples were collected from Arbuckle Creek and both residential and non-residential properties. In late June 2018, the EPA collected more samples based on community input from the site reconnaissance. Samples were collected in residential yards and at other potential PCB sources in the area. Sampling data from June 2017 through June 2018 and other site information are available in the [October 2018 Final Expanded Site Inspection Report (PDF, 159 pp)](http://semspub.epa.gov/src/document/03/2267782).
+
+The EPA proposed the site to the Superfund program's National Priorities List (NPL) on September 13, 2018. On May 13, 2019, EPA added the Site to the NPL. The designation was finalized following EPA’s review of comments received during the 60-day public comment period.
+
+A fourth action began in October 2019 and was completed in February 2020. This removal action included the excavation of soil from an area adjacent to the capped area and minor repairs to the capped area.
+
+### What Is the Current Site Status?
+
+**Remedial Investigation (RI):**
+
+Since the site was listed on the NPL, the EPA has been working proactively, along with the WVDEP, reviewing data already collected, engaging with the community and local officials, and conducting the RI.
+
+The initial phase of sampling for the RI began in November 2019 and was completed in March 2020. RI Phase II sampling occurred from July 2021 through September 2022. The sampling events included the installation of monitoring wells along with the collection of soil, sediment, surface water and groundwater samples. The list of contaminants that were analyzed include: PCBs, metals, pesticides, volatile organics, semi-volatile organics, and dioxins/furans. The goals of the sampling events were to characterize the nature and extent of contamination, determine site related
+
+In March 2023 a Proposed Cleanup Plan to addresss soil contamination on the former Shaffer Equipment Company was realeased for public review and comment.
+
+The EPA and the WVDEP are currently evaluating the remaining data collected in other portions of the site to determine if there are additional areas requiring cleanup. The EPA will share the cleanup options for any additional areas requiring cleanup with the community and consider public comments prior to selecting the preferred cleanup plan for those areas.
+
+### Sampling and Monitoring
+
+The sampling results to date show that there is no immediate threat to human health. Accordingly, no immediate action is necessary.
+
+Sampling data from June 2017 through June 2018 and other site information are available in the [October 2018 Final Expanded Site Inspection Report (PDF, 159 pp).](http://semspub.epa.gov/src/document/03/2267782)
+
+Since the EPA has added the Shaffer Equipment / Arbuckle Creek Superfund Site to the NPL the following documents have been published:
+
+[Removal Summary Report](https://semspub.epa.gov/src/document/03/2309525), [Remedial Investigation Sampling & Analysis Plan](https://semspub.epa.gov/src/document/03/2309527), &
+
+Tech Memorandum of Remedial Investigation Data Summary:
+
+[Part 1](https://semspub.epa.gov/src/document/03/2309529), [Part 2](https://semspub.epa.gov/src/document/03/2309542), & [Part 3](https://semspub.epa.gov/src/document/03/2309543)

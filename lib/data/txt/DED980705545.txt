@@ -1,23 +1,27 @@
-TYLER REFRIGERATION PITSMYRNA, DE 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The three-acre Tyler Refrigeration Pit Superfund Site is located in Smyrna, Delaware. Tyler Refrigeration, which operated at the site between 1956 to 1976, used solvents to degrease and clean refrigeration equipment at the site. In 1963, Tyler becarne part of the refrigeration division of Clark Equipment Company (Clark). Manufacturing and cleaning operations led to paint wastes and solvents being dumped into wastewater lagoons at the site until 1969, when wastewater discharges from site operations were connected to a municipal sewage system. Sometime between 1973 and 1975 the two wastewater lagoons were excavated, their contents removed from the site, and then backfilled. Following groundwater sampling events led by EPA and the Delaware Department of Natural Resources and Environmental Conservation (DNREC), in which low levels of contaminants in the grounwater were identified, the site was added to the Superfund program's National Priorities List (NPL) in February 1990. Following site investigations, EPA deleted the site from the NPL in 2004. Top of Page
-What Has Been Done to Clean Up the Site?
-Between 1973 and 1975, Clark Equipment Company excavated and removed the content from two former wastewater lagoons located at the site. These lagoons were then backfilled and graded. Investigations at the site determined that contamination did not appear to be related to the lagoons. In January 1995, the Delaware Department of Natural Resources and Environmental Control (DNREC) issued a consent decree to Metal Masters for a remedial investigation to identify the source and extent of contamination. The investigation concluded that contamination levels did not threaten people or the environment. In 1996, after DNREC established a Groundwater Monitoring Zone (GMZ) prohibiting the installation of new wells at the site, the EPA issued a "No Action (with monitoring)" Record of Decision and worked with Metal Masters and DNREC to establish a groundwater monitoring program. From 1997 to 2017, Metal Masters (who ceased business operations in 1995), conducted groundwater monitoring activities to confirm that contaminants at the site were not migrating off-site. In addition to this being confirmed, the groundwater in the immediate vicinity of the site was not used as a source of potable water, and it was determined that there were no significant risks to human health associated with the site. EPA deleted the site from the Superfund program’s National Priorities List in 2004. Top of Page
-What Is the Current Site Status?
-Following site investigations, EPA deleted the site from the National Priorities List in 2004. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2017 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. No further reviews are required. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in placed to restrict groundwater use. Additional information about the institutional controls is available in the 2017 Five-Year Review (PDF) (page 7).
-Top of Page
+### Background
+
+The three-acre Tyler Refrigeration Pit Superfund Site is located in Smyrna, Delaware. Tyler Refrigeration, which operated at the site between 1956 to 1976, used solvents to degrease and clean refrigeration equipment at the site. In 1963, Tyler becarne part of the refrigeration division of Clark Equipment Company (Clark). Manufacturing and cleaning operations led to paint wastes and solvents being dumped into wastewater lagoons at the site until 1969, when wastewater discharges from site operations were connected to a municipal sewage system. Sometime between 1973 and 1975 the two wastewater lagoons were excavated, their contents removed from the site, and then backfilled.
+
+Following groundwater sampling events led by EPA and the Delaware Department of Natural Resources and Environmental Conservation (DNREC), in which low levels of contaminants in the grounwater were identified, the site was added to the Superfund program's National Priorities List (NPL) in February 1990. Following site investigations, EPA deleted the site from the NPL in 2004.
+
+### What Has Been Done to Clean Up the Site?
+
+Between 1973 and 1975, Clark Equipment Company excavated and removed the content from two former wastewater lagoons located at the site. These lagoons were then backfilled and graded. Investigations at the site determined that contamination did not appear to be related to the lagoons. In January 1995, the Delaware Department of Natural Resources and Environmental Control (DNREC) issued a consent decree to Metal Masters for a remedial investigation to identify the source and extent of contamination. The investigation concluded that contamination levels did not threaten people or the environment.
+
+In 1996, after DNREC established a Groundwater Monitoring Zone (GMZ) prohibiting the installation of new wells at the site, the EPA issued a "No Action (with monitoring)" Record of Decision and worked with Metal Masters and DNREC to establish a groundwater monitoring program.
+
+From 1997 to 2017, Metal Masters (who ceased business operations in 1995), conducted groundwater monitoring activities to confirm that contaminants at the site were not migrating off-site. In addition to this being confirmed, the groundwater in the immediate vicinity of the site was not used as a source of potable water, and it was determined that there were no significant risks to human health associated with the site. EPA deleted the site from the Superfund program’s National Priorities List in 2004.
+
+### What Is the Current Site Status?
+
+Following site investigations, EPA deleted the site from the National Priorities List in 2004.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2017 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2247850), concluded that the remedy continues to be protective of human health and the environment. No further reviews are required.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to restrict groundwater use. Additional information about the institutional controls is available in the [2017 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2247850) (page 7).

@@ -1,2 +1,66 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Maywood Chemical Superfund site includes more than 90 properties in Maywood, Lodi and Rochelle Park, Bergen County, New Jersey. Maywood Chemical Works processed radioactive [thorium](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=659&toxid=121) ore on site from 1916 through 1955 that produced residual radioactive waste. Other processing activities generated various types of chemical wastes including lanthanum, lithium compounds, detergents, alkaloids, essential oils, and products from tea and cocoa leaves. Maywood Chemical Works used waste materials as fill on site and at nearby properties, spreading chemical and radioactive contamination over much of the local area.
+
+The original Maywood Chemical Works began operating in the late 1890s. Maywood Chemical pumped process wastes to diked areas west of the property. State Route 17 was built in 1932 through the disposal area. Process wastes migrated through runoff onto nearby properties. In addition, radioactive material was spread to nearby properties because the waste materials were used as mulch and fill. The radioactive material was also transported along Lodi Brook and Westerly Brook through soil and sediment. Although currently an underground culvert, Lodi Brook was formerly an open channel. Contamination was spread over much of the local area.
+
+The Stepan Chemical Company (later, the Stepan Company) bought the Maywood Chemical Works in 1959. The Stepan Company is the current owner/operator of a portion of the original Maywood Chemical Works property. The Stepan company discontinued many of Maywood Chemical's operations in the 1960s. The Stepan Company currently produces specialty chemicals. The company is considered responsible for contamination at the site and is known as a potentially responsible party or PRP.
+
+The U.S. Army Corps of Engineers (USACE) and Stepan Company are cleaning up the site. USACE’s responsibility includes cleanup of radioactive contamination, comingled radioactive and chemical contamination, and all contamination on or coming from an 11.7-acre government-owned property, known as the Maywood Interim Storage Site (MISS). Congress funds the USACE cleanup under the Formerly Utilized Sites Remedial Action Program (FUSRAP). The purpose of the FUSRAP program is to clean up contaminated sites where work was performed as part of the nation’s early atomic energy program. Under several administrative orders, Stepan has investigated non-FUSRAP contamination on or coming from former Maywood Chemical Works properties. Radiological soil cleanup is ongoing. Stepan, under EPA oversight, continues to develop additional cleanup actions for groundwater and chemically contaminated soil.
+
+The Stepan Company property has contaminated soil, groundwater, buildings and three formerly Nuclear Regulatory Commission (NRC) licensed burial pits. The NRC terminated the license for the burial pits in 2016 after USACE completed cleanup in the area. Other properties with site-related contamination include the MISS, over 60 residential properties, three properties owned by the state or federal government, four municipal properties, and 20 commercial properties referred to as the Sears and adjacent properties.
+
+The Stepan Company consolidated and buried about 19,100 cubic yards of waste materials from some of the former disposal areas on the original Maywood Chemical Works property, both east and west of State Route 17 in the late 1960s. The company sold parts of the original Maywood Chemical Works property after the waste materials were consolidated.
+
+A resident discovered radiological contamination on property formerly owned by the Stepan Chemical Company in 1980. The New Jersey Department of Environmental Protection (NJDEP), EPA and the Department of Energy (DOE) conducted radiological testing from 1980 to 1983 that revealed extensive low-level contamination at several locations.
+
+EPA added the site to the National Priorities List in 1983. Congress assigned the site to the DOE in 1984. DOE then placed the site in its FUSRAP program. EPA's [1986 study](https://semspub.epa.gov/src/document/02/49413) of chemical, non-radioactive pollutants indicated the presence of elevated concentrations of volatile organic compounds, semi-volatile organic compounds, metals, pesticides, and other hazardous substances. In conjunction with DOE's studies and investigations, EPA collected samples of soil and groundwater on the Stepan Company property in late 1987 through the spring of 1988 that indicated the presence of radiological contaminants in the soil and non-radiological contaminants in the soil and groundwater.
+
+A [1990 agreement](https://semspub.epa.gov/src/document/02/145636) between DOE and EPA defined the steps, responsibilities, and schedule for cleanup activities at Maywood. USACE assumed responsibility from DOE in October 1997 for cleaning up of the Maywood FUSRAP site. Stepan conducts cleanup actions under three EPA enforcement orders.
+
+EPA divided site cleanup work into four areas, known as operable units (OUs):
+
+- OU1 – Non-FUSRAP Soil and Source Areas (Stepan, with EPA oversight)
+- OU2 – FUSRAP Soil and Buildings (USACE)
+- OU3 – FUSRAP Groundwater (USACE)
+- OU4 – Non-FUSRAP Groundwater (Stepan, with EPA oversight)
+
+### What Has Been Done to Clean Up the Site?
+
+The U.S. Army Corps of Engineers (USACE) is responsible for addressing Formerly Utilized Sites Remedial Action Program (FUSRAP) contaminants associated with former thorium processing operations and cleans up the site’s radiological contamination.
+
+The FUSRAP soil and buildings are cleaned up by removing and disposing contaminated materials off-site. Also under FUSRAP, controls are put in place to limit the use and access of areas where contamination remains. USACE is also responsible for all contamination (radiological and non-radiological) at the Maywood Interim Storage Site (MISS). Under FUSRAP, the Department of Energy (DOE) and USACE cleaned up more than 70 residential and municipal properties. To date, DOE and USACE have removed approximately 800,000 cubic yards of contaminated materials from the site, significantly reducing potential exposure to contamination.
+
+USACE implements a separate FUSRAP groundwater cleanup plan to address contaminated groundwater associated with the MISS. The groundwater contamination is not impacting the public water supply in the area. No drinking water wells are located in potentially contaminated groundwater. The FUSRAP groundwater cleanup includes restrictions for drilling wells in areas with contaminated groundwater. USACE samples air, water, and streambed sediment annually.
+
+EPA finalized a plan for the non-FUSRAP soil cleanup, which includes removing and disposing chemically contaminated soil off-site. The Stepan Company is conducting this soil cleanup. The company is also investigating the groundwater contamination under its own property, Sears and neighboring commercial properties.
+
+Even as work is ongoing at the site, EPA conducts five-year reviews to determine if the cleanup work already completed remains protective of human health and the environment. In the [third five-year review](https://semspub.epa.gov/src/document/02/550221) released in 2019, EPA found that the cleanup work done so far is protecting people’s health and the environment as intended. However, the review does find that institutional controls, such as deed restrictions, need to be in place for properties where radiation remains above the state’s standard.
+
+### What Is the Current Site Status?
+
+**Operable Unit 1 (OU1)**: *Non-FUSRAP Soil and Source Areas (Stepan, with EPA oversight)*
+
+EPA documented its cleanup plan for OU1 in the 2014 [Record of Decision (ROD)](https://semspub.epa.gov/src/document/02/282476) which called for removing and disposing chemically contaminated soil off-site, as well as treating a limited amount of soil in place (in situ) and removing vapors from the soil. After a preliminary study, EPA and Stepan decided not to continue with treatment and instead remove soil in this area.
+
+EPA identified five areas of concern on three separate properties. Some areas, including residential properties, will require land use controls to restrict certain future uses. EPA and Stepan entered into a legal contract called a [Settlement Agreement](https://semspub.epa.gov/src/document/02/306976) to perform the engineering design work needed for the cleanup. The cleanup design continues and includes a significant amount of soil investigation work. The design field work began in February 2017, and Stepan completed the majority of design work in 2020. Once construction work begins, it will take about two years to complete.
+
+During the course of the OU1 cleanup design, Stepan sampled nearby residential properties next to areas of known contamination and found that site-related contamination extended onto several residential properties.
+
+Contamination on these properties generally lies below the ground surface and does not pose an immediate health risk to residents.. The residential properties are included in the OU1 cleanup as documented in an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/src/document/02/616867) signed in January 2020. The cleanup was completed in Spring 2024.
+
+EPA expects cleanup of the commerical properties to begin in Fall 2024.
+
+EPA communicates directly with affected property owners as information becomes available.
+
+**Operable Unit 2 (OU2):***FUSRAP Soil and Buildings (USACE)*
+
+The USACE continues to remove and dispose of the remaining FUSRAP contaminated soil and buildings as described in the cleanup plan documented in a [2003 ROD](https://semspub.epa.gov/src/document/02/85161). Removing accessible soil continues and should be completed within several years. However, some inaccessible contaminated soil remains under buildings that are currently in active commercial use. This soil will be accessible once property owners demolish the buildings. At that point, the U.S. Army Corps of Engineers (USACE) will remove the contamination. An [ESD](https://semspub.epa.gov/work/02/618479.pdf) describing a modification in the scope and cost of the OU2 cleanup was signed in June 2021.
+
+**Operable Unit 3 (OU3):***FUSRAP Groundwater (USACE)*
+
+The FUSRAP groundwater [cleanup plan](https://semspub.epa.gov/src/document/02/662053), detailed in a 2012 ROD, calls for removing and treating contaminated soil affecting the groundwater, long-term monitoring, and institutional controls to prevent well installations in areas of contamination. Soil removal and groundwater monitoring is underway.
+
+**Operable Unit 4 (OU4):***Non-FUSRAP Groundwater (Stepan, with EPA oversight)*
+
+Stepan recently completed an additional investigation of non-FUSRAP groundwater and is working on developing cleanup alternatives. EPA is evaluating the cleanup alternatives and reviewing Stepan’s studies. Once complete, EPA will publicly present its cleanup proposal. After a period to collect public comments, EPA will finalize the cleanup plan in a ROD. EPA expects the cleanup to be selected within the next few years.

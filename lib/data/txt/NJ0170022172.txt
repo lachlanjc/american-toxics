@@ -1,2 +1,95 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Naval Weapons Station Earle (NWSE) is located in Monmouth County, New Jersey and covers 11,134 acres in Colts Neck Township. Since the early 1940s, the U.S. Navy has renovated, stored and maintained munitions at the station. These operations involve preserving and maintaining ammunition, missile components and explosives. Twenty-seven areas of concern at NWSE were identified for potential cleanup under the Superfund program. Three areas (Sites 2, 18 and 21) are permitted under the Resource Conservation and Recovery Act (RCRA). Site investigations and long-term cleanup are ongoing.
+
+NWSE was commissioned in 1943. Its primary mission is to supply ammunition to the U.S. naval fleet. Wastes generated from weapons maintenance activities include grit and paint chips from sandblasting, paint scrapings, solvent and paint sludges, lead bullets from small arms ranges, and metals, including lead, zinc and chromium.
+
+Potential hazardous substance releases at NWSE were addressed in several assessment studies in 1982, 1986 and 1993 and after site investigations, EPA placed the site on the Superfund program’s National Priorities List in August 1990.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1991, an Interagency Agreement (IAG) was signed by the Navy and the EPA. The IAG is a document that establishes the framework for performing the necessary steps and provides the responsibilities of all parties involved in the cleanup activities. The Navy is the lead agency for the Superfund activities at the site. The EPA and the Navy work together to ensure that risk of exposures and contamination from the site are reduced.
+
+***Continuing Investigations***
+
+**Site 46:** At Site 46 (OU13 the fire fighting training school), in 2015 and 2016 the Navy conducted sampling to see if per- and poly-fluoroalkyl substances, commonly known as **PFAS** are in the groundwater/potable wells at Site 46 and in residences’ potable wells within a half-mile downgradient of the site. PFASinclude the compounds perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate (PFOS) which are found in fire fighting foam material. Results have indicated that there weres two residents that had an exceedance for EPA’s Provisionary Health Advisory for PFOS. The subject residences were provided bottled water and later connected to the public wate supply. T he Navy is working on the Remedial Investigation (RI) for Site 46. The RI includes sampling on the adjacent Monmouth County Fire Academy for PFAS.
+
+**Basewide and Off-site PFAS Investigations:** In 2020, the Navy launched a basewide PFAS investigation called a Preliminary Assessment. Eight locations were selected for sampling for PFAS. These eight locations were sampled under the Site investigation, and EPA is reviewing the report which will lead to a Remedial Investigation. an
+
+**Removal Actions:** The Navy has completed removal actions at sites 20, 22, 23, 24, 25 and 27. Cleanup work generally consisted of the excavation and off-site disposal of contaminated soil. Work at Site 20 finished in 1995. Work at the other sites finished in 1996. In total, cleanup removed about 1,189 tons of soil and 2 tons of lead (bullets and residue). Off-site disposal of contaminated soils from Site 47 took place in 2000. Removal of mine actuators from Site 48 occurred in 2004. No further action was required for Site 47 or Site 48 after the removal actions.
+
+**Remedial Investigations:** From 1990 through 1995, the Navy conducted remedial investigations at 27 separate areas of environmental concern. The investigations consisted of several rounds of groundwater, soil and sediment sampling. The objective was to determine the nature and the extent of contamination in these areas. The decisions to conduct the above-mentioned removal actions were based on these findings. Additionally, EPA and the Navy agreed that seven sites (3, 6, 12, 13, 16/F, 17 and 26) required additional sampling in order to develop feasibility study alternatives. This work took place between October 1996 and January 1997.  
+
+### What Is the Current Site Status?
+
+NWSE is being addressed through a base-wide remedial investigation focused on contamination at individual areas as well as the additive effects of contamination on each watershed at the facility. Cleanup activities are fast-tracked at areas of more immediate concern. Twenty-two sites have been grouped into ten Operable Units (OUs) for remediation using a phased approach.
+
+**Operable Unit 1 (Site 5):** The Landfill West of Army Barricades site is approximately 13-acres. The site received approximately 6,600 tons of mixed domestic and industrial wastes between 1968-1978. The wastes were placed in pits and covered with a sand and vegetated layer. A 1-acre portion of the site was previously used as a skeet shooting range. Low levels of solvents and metals were detected in shallow groundwater at the landfill boundaries. The Record of Decision (ROD) for OU1 was signed in August, 1997. The selected remedy consisted of regrading and capping of the landfill, prohibiting use of the groundwater in the adjacent area and long term periodic monitoring of the groundwater. The skeet range was closed and lead-impacted soils from the area were disposed of off-site. The Navy conducts post remediation groundwater monitoring every four years. The Classification Exemption Area (CEA) was established in 2020.
+
+**Operable Unit 1** **(Site 4):** Site 4 is a 5 acre former landfill that received domestic and industrial waste. The August 1997 ROD required a landfill cap, establishing a CEA, long-term periodic groundwater monitoring,and five year reviews. An evaluation of long term groundwater monitoring concluded that select metals are naturally occurring and VOCs have remained below Groundwater Quality Standards. A Technical Memorandum was concurred upon by NJDEP and EPA indicating that a CEA was no longer needed as well as long-term groundwater monitoring. A draft ESD to memorialize concurrence with the no CEA determination was submitted to EPA/NJDEP for review. On Sept 10, 2019, NJDEP concurred with the ESD and EPA issued its approval on October 16, 2019.
+
+  
+**Operable Unit 2 (Site 19):** Paint Chip and Sludge Disposal Area site is a 300-foot circular area that was used from the early 1940s until the early 1960s to dispose of paint chips and sludge from maintenance operations. A 50-foot diameter depression and an open drainage swale make up the two remediated areas of the site. Elevated levels of several metals were found in the soils in the on-site depression and the drainage ditch leading away from it. Monitoring wells show slightly elevated levels of metals in site groundwater. The ROD for OU2 was signed in August, 1997 and the selected remedy consisted of: excavation of impacted soils from the surface depression, prohibition of groundwater usage in the adjacent area and long term periodic monitoring of groundwater, surface water and sediment. The Navy has now demonstrated that Long Term Monitoring is no longer needed due to low concentrations of aluminum, lead, arsenic, and manganese in the groundwater and the metals appear to be natural, localized and not extensive. A Technical Memorandum for Site Closure was accepted by NJDEP and EPA. A Remedial Action Completion Report for site closure was approved by EPA on December 17, 2019.
+
+**Operable Units 3 and 7 (Site 26):** Site 26 is approximately 200x200 feet and is located in the Mainside area. Ammonium picrate was recovered from 5-inch shells for a one year period in the late 1960s. The water-soluble explosive was removed from the shells by a hot water wash and then cooled/settled in a tank located in Building GB-1. A process leaching system consisting of a grease trap and cesspool-like leach tank, north of the western end of Building GB-1 was used for process waste removal. Additionally, Building GB-1 was reportedly used for the reconditioning of munition casings/shells. Solvents were used in the reconditioning process. Spent solvents and wash waters were discarded into an unknown receptacle which drained to the process leaching system. The GB-1 process leaching system appears to have been used for the disposal of trichloroethene (TCE), 1,2-dichloroethene (1,2-DCE) and related compounds.
+
+.Operable Unit 3 consists of the TCE plume at Site 26 which was detected in a 1992 sampling event. The plume was approximately 420 feet long and 150 feet wide. A ROD was signed in August, 1998. Components of the remedy include excavation and off-site disposal of the leach tank and adjacent soils, treatment of contaminated groundwater, institutional controls and long term groundwater monitoring. As part of the treatment an air sparging/soil vapor extraction system was installed in and began operating in January 2001. The system operated until 2004 at which time the system was shut down due to reduced groundwater contamination. During recent monitoring events, it was found that the contaminant levels have increased. Based on additional groundwater and soil investigations, a voluntary removal action is planned to remove residual TCE discovered near the former process building. The Navy has elected to add a biological amendment to the open excavation area prior to backfilling to enhance the degradation of VOCs
+
+  
+Operable Unit 7 consists of the tetrachloroethene (PCE) portion of the Site 26 groundwater plume. The OU7 plume overlaps and partially coincides with the OU3 plume. A ROD for OU7 was signed in January, 2007. Land use controls and long term groundwater monitoring were selected as the remedy. No active remediation system is associated with OU 7 at Site 26. However, due to proximity of the AS/SVE system associated with OU 3, OU7 benefited from its operation between 2001 and 2004.. The CEA was established in 2022.
+
+  
+**Operable Unit 4 (Sites 14, 20, 22, 23, 24, 25, 27 & 29):** A ROD was signed for OU4 in September, 1999. No further action was the selected remedy. However, at Sites 20,23, and 27 institutional controls and five year reviews were required due to exceedances of contaminants in soil above NJDEP residential reference criteria.Due to recent revisions to the NJDEP Residential Direct Contact Soil Remediaion Standards Standards,the subject site now meets the unlimited u residential use criteria. Hence, the Navy submitted Explanation of Significant Differences (ESDs) for each of the subject sites which were concurred upon by NJDEP and approved by EPA on September 24, 2019.
+
+  
+Site 14 is the Defense Disposal Property Disposal Office warehouse. A mercury spill of several ounces occurred in 1970 and was cleaned up.
+
+  
+Site 20 is the grit blast disposal site in which metals were detected in the soils and sediment. The impacted soils and sediment were removed in 1994. see update provided above. On September 10, 2019, NJDEP concurred with the ESD.
+
+  
+Site 22 is the paint sludge disposal site. Contamination was found in site soils and a shallow drainage area. A removal action of the contaminated soils occurred in December, 1996.
+
+  
+Site 23 is also a paint sludge disposal site. Soil sampling showed significant levels of metals and paint residues. A removal action of contaminated soils was conducted in December 1996. see update provided above.
+
+  
+Site 24 is a closed pistol range. A significant amount of lead slugs were present in the impact berm. In 1996, a removal action was performed to remove the lead slugs.
+
+  
+Site 25 is also a closed pistol range adjacent to Site 24. Lead slugs were present in the impact berm. A removal action was performed in 1996 to remove the lead slugs. The metal bullets were mechanically removed from the impact berm soil and the soil itself was washed and placed back on the site.
+
+  
+Site 27 is a projectile refurbishing area. Paint wastes were dumped in the area. Elevated levels of metals and polychlorinated biphenyls (PCBs) were found in site soils. A soil removal action was conducted in 1996. See update provided above.
+
+  
+Site 29 is a PCB spill site. A PCB spill occurred in 1981. The area was cleaned up and all excavated soil was disposed of off-site.
+
+  
+**Operable Unit 5 (Site 13):** Site 13, the defense property disposal yard was an approximately 1.7 acre area of fill material that extend into a marsh. It was used for storage of such items as: scrap metal, fork lift batteries and transformers. Metals and PCBs were detected in site soils. In July, 2004 a ROD was signed. The selected remedy included an engineered low-permeability cover system, installation of a chain linked fence, LUCs and LTM. The final CEA which formally documents the areal and vertical extent of groundwater was approved by NJDEP. In 2023, EPA approved changing the sampling frequency to every four years and this decision was documented in the 2022 Annual Maintence and Monitoring Report.
+
+**Operable Unit 6 (Sites 3 and 10 **)**:** Site 3 is a 5 acre site that received approximately 4,800 tons of domestic and industrial wastes from 1960-1968. Several hydrocarbon compounds were found in the sediments of a nearby drainage ditch and volatile organic compounds were found in readings from a soil gas survey. The ROD was signed in August, 2006. The selected remedy was a vegetative soil cover system, land use controls, annual groundwater monitoring, and establishment of a CEA. DEP has agreed that a CEA is no longer required for Site 3 since contaminant concentrations appear to be naturally occurring and localized.
+
+  
+Site 10 is a 2 acre site which was used for disposal of demilitarized munitions, empty cases and paint chips from 1953-1965. Aluminum and iron were detected in groundwater at elevated levels. A ROD was signed in August, 2006. The selected remedy was site grading and capping, fencing and signage, land use controls, annual groundwater monitoring,and establishment of a CEA. In 2017, DEP concurred that a CEA was no longer required for Site 10. An ESD which was approved on October 16, 2019 for both Site 3 and 10, memorializes that a CEA and as such, long-term monitoring is no longer a required component of the remedy.
+
+  
+**Operable Unit 8 (Site 1)****:** Site 1 is a 6 acre site that was an ordnance disposal area. It was used for the burning of obsolete ordnance. The 2005 ROD required a Land Use Control (LUC) in the form of a CEA, long-term groundwater monitoring and five year reviews. However, groundwater contaminants were determined to be naturally occurring and as result LTM was no longer needed. NJDEP and EPA concurred with the Technical Memorandum recommending no CEA and LTM. Also, since the site has now met the unrestricted use criteria, the Navy submitted a Remedial Action Completion Report (RACR) for site closure. The RACR was approved by EPA and DEP in 2018.
+
+  
+**Operable Unit 9 (Sites 12, 15 and 17)****:** Site 12 was a temporary staging area for used forklift batteries which were then sent off site. Elevated lead levels were found in soil, sediment and surface water samples. In 1999 soil excavation occurred at the site and it was then backfilled with clean fill and graded. A no further action ROD was signed in September 2007.
+
+  
+Site 15 is an approximately 1 acre site where an unknown quantity of oily bilge sludge was disposed in the early 1970s. Small quantities of organic compounds were found in soils and sediments but not in groundwater. A ROD was signed in September 2007. The selected remedy was long-term periodic soil monitoring, institutional controls and five year reviews due to metals that were above NJDEP soil remediation criteria.. However, due to recent revisions to NJDEP Direct Contact Soil Remediation Standards, the soil at the site no longer has any contaminants above federal or state criteria. The Navy submitted a signed ESD for this site which documents that the site no longer exceeds state standards for residential use and is now compatible with the unrestricted use/unrestricted exposure scenario. NJDEP approval of the ESD and EPA issued its approval on December 12, 2019.
+
+  
+Site 17 is approximately a 3 acre former landfill adjacent to a tidal marsh. Several compounds were detected above ecological screening levels at the toe of the landfill. A ROD was signed in September 2007. The selected remedy includes long-term groundwater monitoring and institutional controls. A draft CEA determination report was submitted highlighting that a CEA is no longer required since select metals have been shown to be naturally occurring and localized. In 2021, an ESD elimiated arsenic as a contaminant of concern as it was showned to be naturally occuring. Since this site is a landfill, waste remains in place and the semi-annual operation and maintenance inspections and Five Year Reviews requirements continue.
+
+**Operable Unit 10 (Site 7):** Site 7 is a 5 acre site that was used from 1965-1977 for disposal of municipal type solid wastes. In July 2009, the Navy conducted a groundwater sampling investigation and no elevated organic compounds were found. A no further action ROD was signed in November 2010.
+
+  
+**Operable Unit 11 (Site 9):** Site 9 is a 3-acre site which was used for disposal and burning of dunnage (lumber) from 1967-1972. Low levels of pesticides, as well as, metals and cyanide were found in soils at the site, but the surrounding area is unaffected. A no further action ROD was signed in September 2014.
+
+**Operable Unit 12 (Site 41- Van Parking Area):** The Navy submitted a Draft Technical Memorandum which summarizes the updated Human Health and Ecological Risk Assessments (already approved by NJDEP and EPA). A Tech Memo was approved by NJDEP and EPA. The Proposed Plan called for No Action and comments were recevied during the Public Comment Period which ran from July 20 to August 20, 2020. The No Fruther Action Record of Decision was signed in March 2021.
+
+Operable Unit 13 (Site 46) - See above section on Clean up.

@@ -1,20 +1,29 @@
-U.S. RADIUM CORP.ORANGE, NJ 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The U.S. Radium Corp. site is located in Orange, New Jersey. From 1917 to 1926, the U.S. Radium Corporation operated a radium processing plant at the 2-acre area. Waste from the plant was disposed of on and off the facility property, contaminating the site and nearby properties with radium-226. Radium-226 emits ionizing radiation and decays into radon gas. When people are directly exposed to radiation, inhale radioactive dust particles, or inadvertently ingest radioactive particles they may suffer adverse health effects in the form of an increased risk of certain types of cancer. The radium-processing plant extracted and processed radium from carnotite ore. The purified radium was primarily sold for medical purposes, but also was added to luminous paint, which was painted onto dial and watch faces. About a half-ton of carnotite ore was processed each day from 1917 to 1926. Radium extraction and processing activities on site ceased in 1926, however, the U.S. Radium Corporation continued its dial-painting business. The company later sold its properties at High and Alden Streets in the 1940s. No subsequent occupants of the site properties are known to have processed or used radium. In the early 1980s, EPA and the New Jersey Department of Environmental Protection (NJDEP) began investigating former radium-processing facilities, including the High and Alden Streets facility. After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List (NPL) in September 1983. EPA completed a broader remedial investigation and feasibility study between 1989 and 1993, to assess the nature and extent of the contamination. EPA took interim removal actions in 1991 to mitigate the threat to human health and the environment.
-Immediate actions to protect human health and the environment, including installation of radon systems, were taken while EPA conducted the remedial investigation. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-Immediate Actions: EPA installed radon mitigation systems and gamma radiation shielding at residential and commercial properties where elevated levels were detected, minimizing the potential for exposure at these properties until they could be cleaned up. Entire Site: Remedies for the site soil and building material were selected in two Records of Decision (RODs) issued in September 1993 and August 1995. The remedial action involved the excavation and off-site disposal of radium-contaminated material from the former facility properties and from nearby affected residential and commercial properties. The long-term soil remedy has been divided into phases. Remedial actions for Phase 1 and Phase 2 (71 properties) started in January 1997 and finished in December 1998. The remedial actions for Phase 3 (63 properties) began in September 1997 and finished in October 1999. Phase 4 (the plant site and 23 other properties) began in September 1998 and finished in September 2001. Phase 5 (37 properties) began in September 2000 and finished in December 2002. Phase 6 (34 properties) began in September 2001 and finished in September 2003, and Phase 7 (18 properties) started in September 2002 and finished in September 2005. Phase 8 of the remedial action, which included one previously inaccessible property, was completed in June 2016. EPA completed a groundwater investigation at the site in August 2006. EPA determined that no action is necessary to address groundwater. Monitoring will ensure that the no action remedy remains protective of human health and the environment. EPA selected the no action remedy in the site’s September 2006 ROD for the groundwater. Construction of the site’s remedy was also completed at that time. Top of Page
-What Is the Current Site Status?
-The site was addressed in two stages: immediate actions and a long-term remedial action focused on cleanup of the entire site. In September 2006, a Preliminary Close-Out Report for the site was signed because all construction activities at the site had been essentially completed. Cleanup actions at the site included installing radon-mitigation systems and gamma radiation shielding at residential and commercial properties, excavation and off-site disposal of radium-contaminated material, and groundwater monitoring.  Groundwater monitoring is ongoing. Top of Page
-Sampling and Monitoring
-Groundwater monitoring is ongoing at the site. Top of Page
+### Background
+
+The U.S. Radium Corp. site is located in Orange, New Jersey. From 1917 to 1926, the U.S. Radium Corporation operated a radium processing plant at the 2-acre area. Waste from the plant was disposed of on and off the facility property, contaminating the site and nearby properties with radium-226. Radium-226 emits ionizing radiation and decays into radon gas. When people are directly exposed to radiation, inhale radioactive dust particles, or inadvertently ingest radioactive particles they may suffer adverse health effects in the form of an increased risk of certain types of cancer.
+
+The radium-processing plant extracted and processed radium from carnotite ore. The purified radium was primarily sold for medical purposes, but also was added to luminous paint, which was painted onto dial and watch faces. About a half-ton of carnotite ore was processed each day from 1917 to 1926. Radium extraction and processing activities on site ceased in 1926, however, the U.S. Radium Corporation continued its dial-painting business. The company later sold its properties at High and Alden Streets in the 1940s. No subsequent occupants of the site properties are known to have processed or used radium.
+
+In the early 1980s, EPA and the New Jersey Department of Environmental Protection (NJDEP) began investigating former radium-processing facilities, including the High and Alden Streets facility. After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List (NPL) in September 1983. EPA completed a broader remedial investigation and feasibility study between 1989 and 1993, to assess the nature and extent of the contamination. EPA took interim removal actions in 1991 to mitigate the threat to human health and the environment.
+
+Immediate actions to protect human health and the environment, including installation of radon systems, were taken while EPA conducted the remedial investigation.
+
+### What Has Been Done to Clean Up the Site?
+
+Immediate Actions: EPA installed radon mitigation systems and gamma radiation shielding at residential and commercial properties where elevated levels were detected, minimizing the potential for exposure at these properties until they could be cleaned up.
+
+Entire Site: Remedies for the site soil and building material were selected in two Records of Decision (RODs) issued in September 1993 and August 1995. The remedial action involved the excavation and off-site disposal of radium-contaminated material from the former facility properties and from nearby affected residential and commercial properties.
+
+The long-term soil remedy has been divided into phases. Remedial actions for Phase 1 and Phase 2 (71 properties) started in January 1997 and finished in December 1998. The remedial actions for Phase 3 (63 properties) began in September 1997 and finished in October 1999. Phase 4 (the plant site and 23 other properties) began in September 1998 and finished in September 2001. Phase 5 (37 properties) began in September 2000 and finished in December 2002. Phase 6 (34 properties) began in September 2001 and finished in September 2003, and Phase 7 (18 properties) started in September 2002 and finished in September 2005. Phase 8 of the remedial action, which included one previously inaccessible property, was completed in June 2016.
+
+EPA completed a groundwater investigation at the site in August 2006. EPA determined that no action is necessary to address groundwater. Monitoring will ensure that the no action remedy remains protective of human health and the environment. EPA selected the no action remedy in the site’s September 2006 ROD for the groundwater. Construction of the site’s remedy was also completed at that time.
+
+### What Is the Current Site Status?
+
+The site was addressed in two stages: immediate actions and a long-term remedial action focused on cleanup of the entire site. In September 2006, a Preliminary Close-Out Report for the site was signed because all construction activities at the site had been essentially completed.
+
+Cleanup actions at the site included installing radon-mitigation systems and gamma radiation shielding at residential and commercial properties, excavation and off-site disposal of radium-contaminated material, and groundwater monitoring. Groundwater monitoring is ongoing.
+
+### Sampling and Monitoring
+
+Groundwater monitoring is ongoing at the site.

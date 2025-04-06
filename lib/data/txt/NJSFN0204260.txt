@@ -1,2 +1,13 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Woodbrook Road Dump site is a 70-acre inactive dumping area located on two properties in South Plainfield, New Jersey. Dumps operated on the two properties during the 1940s and 1950s, accepting household and industrial wastes until the State of New Jersey shut them down in 1958. Texas Eastern Terminal Company (TETCO) purchased the properties by 1972. Partially buried, leaking capacitors were discovered in September 1999. After the capacitors were removed
+
+with EPA oversight, a contractor for TETCO, TRC, initiated the Remedial Investigation (RI) in 2007. The RI consisted of sampling groundwater, potable water, surface water, sediment as well as surface and sub-surface soil on and off site. The Draft Final RI Report, which summarizes the data and risk assessments, was approved by EPA in July 2012. Based on the RI and risk assessments, EPA identified one contaminant at the site that poses the greatest potential risk to human health, PCBs in soil. The RI also found that the highest concentrations of PCBs found on-site correspond to soil in the vicinity of the capacitor or capacitor parts previously found and removed from the site. The Feasibility Study, which evaluated alternatvies to remediate the site, was completed in 2013. A Record of Decision, signed in September 2013 documented EPA's remedy selection decision to excavate and dispose, off-site, soil and debris contaminated with PCBs at concentrations greater than 1.0 part per million (ppm). The remedial design was completed in September 2017 and the site is currently awaiting funding to initiate the remedial action.The remedial action will begin once funding is available.
+
+### What Has Been Done to Clean Up the Site?
+
+In March and April of 2000, TETCO removed and disposed of PCB contaminated capacitors that were found partially buried at the site and installed guard rails and warning signs at access points to prevent off-road vehicles from entering the site. TETCO installed warning signs along the paths leading to the areas where the capacitors were found and put in temporary fencing around these areas to prevent public access. In September 2005, to further limit access to the site, TETCO installed a perimeter fence, additional warning signs and additional separate fences inside the perimeter fence around Disposal Areas 1 and 2. Site security measures included the installation of security cameras. TETCO continues to maintain the fencing.
+
+### What Is the Current Site Status?
+
+From 2014 to 2016, a remedial design sampling investigation was conducted in the Eastern and Western Dumps to further delineate the contaminated soil and debris that exceed the remediation goal. The sampling results were used to estimate the extent of soil and debris excavation. Negotiations with the responsible party, TETCO, are on-going.

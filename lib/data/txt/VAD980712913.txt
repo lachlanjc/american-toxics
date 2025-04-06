@@ -1,25 +1,34 @@
-CHISMAN CREEKYORK COUNTY, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Chisman Creek Site, located in York County, Virginia, consists of three abandoned sand and gravel pits where over 500,000 tons of coal combustion residuals (CCRs) from the Yorktown Power Generating Station were disposed from 1957 to 1974. The CCRs included fly ash and bottom ash from burning coal mixed with petroleum coke. The Site also includes contaminated groundwater, three freshwater ponds, a freshwater tributary stream, and the Chisman Creek estuary. The Site was added to the Superfund Program's National Priorities List (NPL) on September 8, 1983. Top of Page
-What Has Been Done to Clean Up the Site?
-In 1980, in response to a homeowner complaint of discolored well water, the Virginia State Board of Health, the Virginia State Water Control Board, and the Virginia Institute of Marine Science sampled residential wells and surface water in the three disposal pit areas. The investigations found heavy metal contamination in Chisman Creek and the groundwater, sediments, surface water, and soils in and around the disposal pits. EPA placed the Site on the Superfund National Priorities List (NPL) in 1983. After listing, EPA conducted a remedial investigation and feasibility study (RI/FS), which found contamination in the disposal pits, the groundwater within and adjacent to the pits, and Chisman Creek ponds, tributaries, and sediments. EPA organized the Site cleanup into two parts: 
-Operable Unit 1 (OU1) consisted of the three pits filled with coal combustion residuals (CCRs);
-Operable Unit 2 (OU2) consisted of the three ponds, freshwater tributary stream, and Chisman Creek estuary. 
-In 1986, EPA issued a Record of Decision (ROD) outlining the final cleanup remedy for OU1. In a 1987 Consent Decree (CD) negotiated between EPA and the potential responsible party (PRP), Virginia Power (Dominion), Virginia Power agreed to conduct the design and construction of the remedy, which included: extending public water lines to homes using residential wells in the immediate Site area; installing a low permeability cap and soil cap in the disposal pit areas; collecting contaminated groundwater and treating on-Site before discharging into the Chisman Creek non-tidal tributary; and initiating groundwater and surface water monitoring and institutional controls, including deed restrictions, to prevent contact with the CCRs and contaminated groundwater. Construction was completed in December 1988.﻿ At the request of Virginia Power, EPA issued an Explanation of Significant Differences (ESD) in March 1994 to replace on-Site treatment of the groundwater with direct discharge to the publicly owned treatment works (POTW) for treatment and disposal. Over 23 million gallons of contaminated groundwater were treated at the on-Site treatment plant. An additional 64 million gallons were discharged to the POTW. The final ROD for OU2 was issued in 1988, which included surface water drainage modifications near one pond and a water quality monitoring program for each of the ponds, the tributary, and the estuary. Construction of the modifications was completed in December 1988. EPA has issued an Explanation of Significant Differences (ESD) in November 2021 outlining changes to the original cleanup plan to protect public health and the environment. The ESD designates the area within which groundwater cleanup is to be achieved and establishes a list of Site-specific chemicals and their cleanup levels. These changes support groundwater cleanup goals at the site. EPA has expanded the list of monitored chemicals and compounds at the site to include molybdenum and chromium. The PRP, Dominion, is developing a new site-wide Quality Assurance Project Plan (QAPP). This is a formal document describing in comprehensive detail necessary quality assurance (QA), quality control (QC), and other technical activities that must be implemented to ensure that the results of the work performed will satisfy the stated performance criteria. A QAPP presents the steps that should be taken to ensure that environmental data collected are of the correct type and quality required for a specific decision or use. EPA requires that a QAPP be approved for all data collection projects. Top of Page
-What Is the Current Site Status?
-EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. T﻿he most recent 2021 Five-Year Reviewconcluded that the OU1 and OU2 remedies are currently protective of human health and the environment. EPA is overseeing long-term groundwater and surface water monitoring to assess the effectiveness of the Site remedy. The next five-year review is scheduled for 2026. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Information about institutional controls for the Chisman Creek Site is available in the 2021 Five-Year Review (pages 10-11).
-Top of Page
+### Background
+
+The Chisman Creek Site, located in York County, Virginia, consists of three abandoned sand and gravel pits where over 500,000 tons of [coal combustion residuals (CCRs)](https://www.epa.gov/coalash/coal-ash-basics) from the Yorktown Power Generating Station were disposed from 1957 to 1974. The CCRs included fly ash and bottom ash from burning coal mixed with petroleum coke. The Site also includes contaminated groundwater, three freshwater ponds, a freshwater tributary stream, and the Chisman Creek estuary. The Site was added to the Superfund Program's National Priorities List (NPL) on September 8, 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1980, in response to a homeowner complaint of discolored well water, the Virginia State Board of Health, the Virginia State Water Control Board, and the Virginia Institute of Marine Science sampled residential wells and surface water in the three disposal pit areas. The investigations found heavy metal contamination in Chisman Creek and the groundwater, sediments, surface water, and soils in and around the disposal pits. EPA placed the Site on the Superfund National Priorities List (NPL) in 1983.
+
+After listing, EPA conducted a remedial investigation and feasibility study (RI/FS), which found contamination in the disposal pits, the groundwater within and adjacent to the pits, and Chisman Creek ponds, tributaries, and sediments. EPA organized the Site cleanup into two parts:
+
+- Operable Unit 1 (OU1) consisted of the three pits filled with coal combustion residuals (CCRs);
+- Operable Unit 2 (OU2) consisted of the three ponds, freshwater tributary stream, and Chisman Creek estuary.
+
+In 1986, EPA issued a Record of Decision (ROD) outlining the final cleanup remedy for OU1. In a 1987 Consent Decree (CD) negotiated between EPA and the potential responsible party (PRP), Virginia Power (Dominion), Virginia Power agreed to conduct the design and construction of the remedy, which included: extending public water lines to homes using residential wells in the immediate Site area; installing a low permeability cap and soil cap in the disposal pit areas; collecting contaminated groundwater and treating on-Site before discharging into the Chisman Creek non-tidal tributary; and initiating groundwater and surface water monitoring and institutional controls, including deed restrictions, to prevent contact with the CCRs and contaminated groundwater. Construction was completed in December 1988.
+
+At the request of Virginia Power, EPA issued an Explanation of Significant Differences (ESD) in March 1994 to replace on-Site treatment of the groundwater with direct discharge to the publicly owned treatment works (POTW) for treatment and disposal. Over 23 million gallons of contaminated groundwater were treated at the on-Site treatment plant. An additional 64 million gallons were discharged to the POTW.
+
+The final ROD for OU2 was issued in 1988, which included surface water drainage modifications near one pond and a water quality monitoring program for each of the ponds, the tributary, and the estuary. Construction of the modifications was completed in December 1988.
+
+EPA has issued an Explanation of Significant Differences (ESD) in [November 2021](https://semspub.epa.gov/src/document/03/2319766) outlining changes to the original cleanup plan to protect public health and the environment. The ESD designates the area within which groundwater cleanup is to be achieved and establishes a list of Site-specific chemicals and their cleanup levels. These changes support groundwater cleanup goals at the site.
+
+EPA has expanded the list of monitored chemicals and compounds at the site to include molybdenum and chromium. The PRP, Dominion, is developing a new site-wide Quality Assurance Project Plan (QAPP). This is a formal document describing in comprehensive detail necessary quality assurance (QA), quality control (QC), and other technical activities that must be implemented to ensure that the results of the work performed will satisfy the stated performance criteria. A QAPP presents the steps that should be taken to ensure that environmental data collected are of the correct type and quality required for a specific decision or use. EPA requires that a QAPP be approved for all data collection projects.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent [2021 Five-Year Review](https://semspub.epa.gov/src/document/03/2321354) concluded that the OU1 and OU2 remedies are currently protective of human health and the environment. EPA is overseeing long-term groundwater and surface water monitoring to assess the effectiveness of the Site remedy. The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Information about institutional controls for the Chisman Creek Site is available in the [2021 Five-Year Review](https://semspub.epa.gov/src/document/03/2321354) (pages 10-11).

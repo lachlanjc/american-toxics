@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The one-acre H & H Inc., Burn Pit Superfund site is located in Hanover County, Virginia. Between 1960 and 1976, Haskell Chemical Company, located in Richmond, Virginia, used the area for the disposal of printing inks and paint manufacturing wastes. The company collected and transported wastes to the site in drums and dumped the drums into a shallow, unlined pit for burning. These activities contaminated soil, sediment and groundwater with hazardous chemicals. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1989. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Under EPA oversight, the site’s potentially responsible parties (PRPs) completed cleanup of contaminated soil in the former pit area in 1998 and cleanup of downgradient sediment in 1999. A groundwater and soil vapor pump and treatment system operated at the site from 2000 until 2011. EPA and the PRPs are currently evaluating potential treatment technologies to clean up remaining groundwater contamination at the site. The site owners operate a timber lot at the site. To ensure the remedy is protective over the long term, EPA will continue to track land use plans for the Site and conduct an assessment of vapor intrusion pathway if construction is planned.
+
+### What Is the Current Site Status?
+
+The cleanups of contaminated soil and sediments are complete. Groundwater cleanup is still ongoing. A pilot test was initiated in Spring 2014 to assess whether Enhanced Bioremediation can mitigate remaining contaminated groundwater at the site.
+
+In July 2007, an Explanation of Significant Differences (ESD) was issued by the EPA to specifically establish institutional controls (ICs), originally called for in the 1995 Record of Decision (ROD). These institutional controls have been implemented and consist of a restrictive covenant on the property deed, which prevents the use of contaminated groundwater under the property.
+
+In May 2020, EPA issued an amendment to the Record of Decision (ROD) for the H&H Inc. Burn Pit Superfund Site. A ROD Amendment modifies the original cleanup plan to protect public health and the environment. This amendment modifies the Operable Unit 2 groundwater remedy by using enhanced bioremediation or microorganisms to breakdown contaminants and complete the groundwater cleanup.
+
+The 2020 ROD Amendment states that “Prior to the deployment of a full-scale remedy, a pre-Remedial Design study including a radius of influence study and further characterization of groundwater under the bermed area would be conducted.” The PRPs are conducting the Pre-Remedial Design Study for further characterization of the groundwater plume.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302576), concluded that the remedy continues to be protective of human health and the environment. The next five-year review will be conducted in 2025..
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to limit use of groundwater. Additional information about the institutional controls are available in the [2020 Five Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302576) (pages 8-9).

@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 23-acre Dover Gas Light Site is located in Kent County, Delaware, within the city of Dover. The site consists of two source areas: a former coal gas plant and a former dry-cleaning facility. From 1859 to 1948, the Dover Gas Light Company processed coal to produce gas for use in street lamps. Operators buried process materials containing coal tar residues on the site. After the plant closed in 1948, all structures except a brick garage were demolished. Much of the plant was removed, but sections of the tanks and other process equipment that contained coal oil and/or coal tar were buried on site. These waste disposal activities contaminated soil and groundwater with hazardous chemicals.
+
+Contamination was first discovered at the site in 1984 when the state of Delaware was installing geotechnical borings for the anticipated construction of a court building. Remains of the coal gas plant were encountered during the geotechnical drilling and oily soil samples yielded significant contamination levels. The shallow groundwater at and to the southeast of the location of the former coal gas plant was found to be contaminated with volatile organic compounds (VOCs) and polynuclear aromatic hydrocarbons. Following environmental investigations, EPA added the site to the National Priorities List (NPL) in October 1989, making it eligible for federal cleanup funds under the Superfund program.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA's decisions on how to address site contamination are formally outlined in legal documents known as Records of Decision (ROD). The first ROD for this site was issued in August 1994. In it, EPA called for the excavation of contaminated soils and off-site treatment. Also, EPA selected a combination of containment and natural attenuation for the groundwater. An amendment to the ROD was issued in December 1997.
+
+In May 1995, EPA issued an order to Chesapeake Utilities Corporation and General Public Utilities Corporation to implement the ROD. Only Chesapeake Utilities Corporation complied with the order.
+
+In the December 1997 ROD amendment, EPA modified the soil cleanup requirements. Contaminated soil would be excavated from within the three underground brick structures called gas holders. Remaining soil contamination would be addressed by using soil vapor extraction technology and capping the one-acre lot with an asphalt parking lot.
+
+In 1998, Chesapeake finished excavating soils from inside the gas holders. In 2000, the soil vapor extraction system finished removing soil contamination from the remaining soil. This work included: non-aqueous phase liquid (NAPL) monitoring and recovery, soil vapor extraction and gas holder remediation and involved constructing a parking lot.
+
+On April 25, 2002, Chesapeake Utilities Corporation began the parking lot construction. The parking lot construction, among other things, restricts exposure to soils and limits storm water infiltration in soils. The soil cleanup work was completed in September 2002.
+
+In 2000, design for the groundwater containment system was stopped to further reconsider the releases of perchloroethene from a nearby dry cleaner. First Energy (formerly General Public Utilities Corporation) completed a groundwater investigation to define the extent of the perchloroethene contamination. EPA formally accepted the results of this study in December 2005.
+
+EPA used the 2005 groundwater investigation completed by First Energy to plan a site-wide supplementary groundwater investigation, intended to fill any remaining data gaps. EPA completed groundwater sampling for the first phase of this investigation in April 2006, and completed the second phase of groundwater sampling in January 2008.
+
+EPA also conducted an initial round of vapor intrusion testing at several locations in Dover between April and July 2008. A second vapor intrusion study was completed in 2010. EPA completed the field investigation of groundwater contamination beneath the City of Dover in 2011.
+
+EPA completed the supplementary groundwater Remedial Investigation in July 2013 and the human health and ecological risk assessments in December 2014.
+
+EPA conducted additional characterization of source areas at the Capitol Cleaners location in 2018 using direct-sensing, high-resolution technologies to inform remedy selection for groundwater. EPA also conducted sediment sampling in the St. Jones River in 2018 as part of the OU2 site characterization activities.
+
+### What Is the Current Site Status?
+
+EPA is currently developing a Feasibility Study Addendum to reevaluate cleanup alternatives for the Dover Gas Light Site to determine the best approaches to address groundwater contamination at the site. Once completed, EPA will consult with Delaware Department of Natural Resources (DNREC) and identify its preferred interim cleanup in a Proposed Remedial Action Plan (PRAP). After inviting and responding to public comments on the PRAP, EPA will detail the remedy in an interim Record of Decision (ROD).
+
+EPA concluded a [five-year review](https://semspub.epa.gov/src/document/03/2368253.pdf) of the soil remedy at the site in July 2024. No issues were identified during the review, and the remedy is functioning as intended. The remedy remains protective of human health and the environment. The next five-year review will be conducted in 2029.
+
+Tests confirm that the City of Dover's drinking water supplies currently remain unaffected by site contamination.
+
+EPA has developed a [Proposed Remedial Action Plan](https://semspub.epa.gov/src/document/03/2335743.pdf) (PRAP) addressing the source(s) of groundwater contamination, and will be accepting public comments on the PRAP from September 8 - October 7, 2022.
+
+EPA announces the [Record of Decision](https://semspub.epa.gov/src/document/03/2342837) (ROD) for Operable Unit 2, addressing the groundwater contamination.

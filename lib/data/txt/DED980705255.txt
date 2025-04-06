@@ -1,2 +1,15 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The New Castle Steel Superfund Site is located near the Delaware River in New Castle, Delaware. The site consists of a three-acre landfill that received foundry wastes from the Deemer Steel Company from 1907 to 1987. In 1973, facility operators installed a baghouse system to control dust emissions from a furnace. Dust from the baghouse was mixed with black sand and spread over the disposal area from 1973 to 1980. This practice contaminated soil, groundwater, sediment and surface water with hazardous chemicals. The site was placed on the National Priorities List (NPL) in 1982, making it eligible for federal cleanup under EPA's Superfund program. Following a "No Action" Record of Decision in 1988, EPA deleted the site from the NPL in March 1989. EPA removes sites from the NPL once all the remedies are successfully implemented and no further cleanup is required to protect human health or the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and potentially responsible party actions. The Delaware Department of Natural Resources and Environmental Control was the lead agency for overseeing completion of the remedy.
+
+EPA conducted two five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2001 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/471082), concluded that the remedy continues to be protective of human health and the environment.
+
+Since the site no longer presents a threat and has been closed under state supervision, no further five-year reviews are required.
+
+### What Is the Current Site Status?
+
+EPA and the state determined that the site no longer presents a threat to human health or the environment. No cleanup actions were required under the law governing the Superfund program. The site was closed under the Delaware Department of Natural Resources and Environmental Control's Voluntary Cleanup Program in 2006.

@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 83-acre Omega Hills North Landfill site in Germantown, Washington County, Wisconsin. The landfill accepted hazardous wastes from 1977 to 1982, including heavy metals and solvents. Wisconsin industries used the area for hazardous waste disposal. Large amounts of asbestos have been disposed of at the site. More than 15 million gallons of liquid waste were disposed of at the site each year until the landfill stopped accepting such wastes. Facility operations contaminated soil and groundwater with hazardous chemicals. The landfill stopped accepting hazardous waste in 1982 and liquid waste in 1983. In 1989, the landfill stopped accepting all waste, and a soil cover was placed over it.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA took the site off its Superfund list in 1996. The Wisconsin Department of Natural Resources currently monitors the facility using Resource Conservation and Recovery Act (RCRA) authority. The WDNR conducts annual reviews of site operations.
+
+### What Is the Current Site Status?
+
+The site is fenced and posted signs warn people not to trespass on the landfill property. The site is closed and covered with four feet of compacted clay. Under state monitoring, the owner of the site installed additional perimeter slurry or compacted clay cutoff walls and systems to collect leachate, preventing it from entering the groundwater under the site. The owner also installed a pretreatment plant for the leachate and devices to intercept and collect gases that escape from the landfill. Residents in the area now use public water supplies.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site cleanups because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are inconsistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).

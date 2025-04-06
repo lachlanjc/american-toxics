@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 9.6-acre Middlesex Sampling Plant (MSP) site in Middlesex, New Jersey was part of the nation’s early atomic energy program established by the Manhattan Engineer District in 1943. The site is surrounded by residential and industrial areas, as well as fields and marshes and has a fence surrounding its property. Activities at the site continued under the Atomic Energy Commission until 1967. The site was primarily used to sample, store, test, and transfer ores containing [uranium](https://www.atsdr.cdc.gov/toxfaqs/tfacts150.pdf), [thorium](https://www.atsdr.cdc.gov/toxfaqs/tfacts147.pdf), and [beryllium](https://www.atsdr.cdc.gov/toxfaqs/tfacts4.pdf). The site was placed in the custody of the Department of Energy (DOE) in 1980 under the [Formerly Utilized Sites Remedial Action Program](https://www.energy.gov/sites/prod/files/2015/01/f19/FUSRAP_FactSheet.pdf) (FUSRAP).
+
+Over the years that MSP was operational, the buildings, grounds, and near-by parcels became contaminated with radiological and chemical wastes. In addition, the Middlesex Municipal Landfill (MML) received municipal wastes, as well as soil contaminated with pitchblende (high grade uranium ore) from the MSP. Under the FUSRAP program, DOE performed many site investigations and short-term cleanups. Contaminated wastes from properties nearby, as well as the MML, were removed and placed in interim storage on MSP, and the soil piles were removed from the site and transported to offsite disposal facilities in 1998 and 1999.
+
+DOE investigations and studies for both soil and groundwater became the basis for further cleanup, addressing the remaining contamination. DOE transferred cleanup activities to the U.S. Army Corps of Engineers (USACE) in 1997; however, once the site is cleaned up, DOE will monitor the site in the long-term. MSP was added to EPA's National Priority List in 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+**Initial Actions:** Cleanup activities began in 1980 under DOE's FUSRAP. DOE dug up and stockpiled about 35,000 cubic yards of contaminated soil from several nearby properties in 1980 and 1981. An additional, 33,000 cubic yards of contaminated soil were removed from the MML and placed in a separate interim storage pile in 1984 and 1986.
+
+DOE demolished several former process buildings and dug up contaminated sediments from a drainage ditch on the southern part of the site in 1996. USACE is continuing to maintain and monitor the site. In 1998, USACE disposed of the landfill’s interim storage pile and 137 tons of structural steel remaining from the building demolition. During this demolition, 44 tons of steel were recycled. USACE also disposed of another interim storage pile in 1999. A total of 35,679 cubic yards of material was sent for disposal.
+
+**Long-term Cleanup:** Following a Remedial Investigation and Feasibility Study to determine the nature and extent of site contamination and to evaluate cleanup alternatives, the cleanup plan for the site’s soil contamination was selected in the site’s [September 2005 Record of Decision](https://semspub.epa.gov/work/02/102266.pdf), or ROD. It included digging up contaminated soil to levels allowing for residential use, with offsite disposal of the material. Soil cleanup was completed in 2008.
+
+Additional groundwater investigations were performed throughout the years to determine the source and extent of [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) (VOC) contamination. EPA signed the final groundwater proposed cleanup plan in July 2020, after an extended public comment period. The following cleanup plan was selected:
+
+• in-situ, or in place chemical reduction to treat the contaminants present in groundwater situated in the fractured bedrock;  
+• monitored natural attenuation; and  
+• land use controls, such as well restrictions in a groundwater classification exception area.
+
+### What Is the Current Site Status?
+
+The site is being addressed by initial actions and two long-term cleanup phases. The first phase focused on soil cleanup and was completed in 2008; however, EPA considered the work complete in September 2010 due to administrative work. The second phase is addressing groundwater investigation and cleanup. USACE is currently reviewing data from a radiological investigation conducted in March 2021. This radiological investigation was conducted using an aircraft, which aimed to identify any potential radiological contamination near the site.
+
+USACE is conducting a pilot study that started in 2023 to help the cleanup design for the groundwater portion of the site.
+
+On April 1, 2024, DOE has transferred the MSP land to the borough of Middlesex for redevelopment. Part of the MSP site has been transferred before all cleanup actions are completed, however, USDOE will continue to address the groundwater. The Borough of Middlesex will be constructing an Emergency Management and Department of Public Works support facilities.

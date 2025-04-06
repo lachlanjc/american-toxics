@@ -1,21 +1,29 @@
-SOUTH JERSEY CLOTHING CO.MINOTOLA, NJ 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The South Jersey Clothing Company (SJCC) site is located in Buena Borough, New Jersey.  SJCC once made military uniforms. As part of the manufacturing process, assembled garments were treated by a dry-cleaning unit that used trichloroethylene (TCE). These operations generated TCE-contaminated wastewaters and sludges that were routinely discharged onto the ground behind the process building and along the adjacent railroad tracks. In addition, a fire in 1979 may have released an estimated 275 gallons of TCE from a storage tank on site. Cleanup of contaminated soil has been completed. Groundwater treatment and monitoring are ongoing. In early 1981, in response to a complaint by a nearby resident, NJDEP performed several inspections of the SJCC facility. After immediate actions to protect human health and the environment, and additional site investigations, EPA placed the site on the Superfund program’s National Priorities List (NPL) in October 1989. Top of Page
-What Has Been Done to Clean Up the Site?
+### Background
+
+The South Jersey Clothing Company (SJCC) site is located in Buena Borough, New Jersey. SJCC once made military uniforms. As part of the manufacturing process, assembled garments were treated by a dry-cleaning unit that used trichloroethylene (TCE). These operations generated TCE-contaminated wastewaters and sludges that were routinely discharged onto the ground behind the process building and along the adjacent railroad tracks. In addition, a fire in 1979 may have released an estimated 275 gallons of TCE from a storage tank on site. Cleanup of contaminated soil has been completed. Groundwater treatment and monitoring are ongoing.
+
+In early 1981, in response to a complaint by a nearby resident, NJDEP performed several inspections of the SJCC facility. After immediate actions to protect human health and the environment, and additional site investigations, EPA placed the site on the Superfund program’s National Priorities List (NPL) in October 1989.
+
+### What Has Been Done to Clean Up the Site?
+
 Immediate Actions: In May 1981, SJCC removed an area of contaminated soils from the site. Between 1981 and 1983, SJCC installed 10 groundwater monitoring wells near the site. SJCC installed a small-scale groundwater extraction and treatment system at the site in 1985.
-Entire Site: After a remedial investigation and feasibility study to determine the nature and extent of contamination, and to identify cleanup alternatives, EPA selected a remedy in the site’s September 1991 Record of Decision, or ROD. It called for: (1) in-place treatment of contaminated soil via the vapor extraction process; (2) extraction of groundwater with concentrations of VOCs above cleanup levels; (3) treatment of groundwater with an on-site air stripping column and carbon adsorption units; (4) reinjection of treated water into the aquifer; and (5) long-term groundwater monitoring. In August 1995, EPA completed the demolition of an existing structure at the site. EPA operated the groundwater extraction and treatment system starting in February 1999. The system is currently treating more than 400 gallons of contaminated groundwater per minute, and discharging the treated water back into the aquifer. In 2006 and 2007, EPA added three additional groundwater extraction wells. In 2010, EPA started remedial design activities for the additional source cleanup. Please add current status of treatment system. In September 2011, EPA completed excavation of an additional source area as part of a national pilot program to accelerate the pace of cleanups. In 2012, EPA completed the remedial design of in-place thermal treatment of a second source area that could not be excavated during the 2011 cleanup action.  The in place thermal treatment was conducted from June 2017 - March 2018 and successfully removed the remaining soil contamination. 
-Top of Page
-What Is the Current Site Status?
-The site is being addressed in a single long-term remedial phase focused on cleanup of the entire site with the construction of a soil vapor extraction (SVE) system and a groundwater extraction and treatment system. EPA has been operating the groundwater extraction and treatment system since February 1999. Groundwater treatment and monitoring are ongoing.  In 2012, EPA completed the remedial design of in-place thermal treatment of a second source area that could not be excavated during the 2011 cleanup action.  The in-place thermal treatment began operation in October 2016 and was completed by end of December 2016. In September 2020, EPA transfered the responsibility of operating the groundwater extraction and treatment system to NJDEP. EPA has submitted a request to NJDEP that would expand the current Classification Exception Area to include new monitoring wells installed in August 2020. <= please update Top of Page
-Sampling and Monitoring
+
+Entire Site: After a remedial investigation and feasibility study to determine the nature and extent of contamination, and to identify cleanup alternatives, EPA selected a remedy in the site’s September 1991 Record of Decision, or ROD. It called for: (1) in-place treatment of contaminated soil via the vapor extraction process; (2) extraction of groundwater with concentrations of VOCs above cleanup levels; (3) treatment of groundwater with an on-site air stripping column and carbon adsorption units; (4) reinjection of treated water into the aquifer; and (5) long-term groundwater monitoring.
+
+In August 1995, EPA completed the demolition of an existing structure at the site. EPA operated the groundwater extraction and treatment system starting in February 1999. The system is currently treating more than 400 gallons of contaminated groundwater per minute, and discharging the treated water back into the aquifer. In 2006 and 2007, EPA added three additional groundwater extraction wells. In 2010, EPA started remedial design activities for the additional source cleanup. Please add current status of treatment system.
+
+In September 2011, EPA completed excavation of an additional source area as part of a national pilot program to accelerate the pace of cleanups. In 2012, EPA completed the remedial design of in-place thermal treatment of a second source area that could not be excavated during the 2011 cleanup action. The in place thermal treatment was conducted from June 2017 - March 2018 and successfully removed the remaining soil contamination.
+
+### What Is the Current Site Status?
+
+The site is being addressed in a single long-term remedial phase focused on cleanup of the entire site with the construction of a soil vapor extraction (SVE) system and a groundwater extraction and treatment system.
+
+EPA has been operating the groundwater extraction and treatment system since February 1999. Groundwater treatment and monitoring are ongoing. In 2012, EPA completed the remedial design of in-place thermal treatment of a second source area that could not be excavated during the 2011 cleanup action. The in-place thermal treatment began operation in October 2016 and was completed by end of December 2016.
+
+In September 2020, EPA transfered the responsibility of operating the groundwater extraction and treatment system to NJDEP.
+
+EPA has submitted a request to NJDEP that would expand the current Classification Exception Area to include new monitoring wells installed in August 2020. <= please update
+
+### Sampling and Monitoring
+
 please add text about current monitoring activities.
-Top of Page

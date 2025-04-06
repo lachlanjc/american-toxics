@@ -1,2 +1,32 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Eau Claire Municipal Well Field, located in Eau Claire, Wisconsin, consists of 14 municipal groundwater wells. They provide drinking water to the 57,600 residents of Eau Claire County. In the mid-1980s, routine groundwater sampling by the state of Wisconsin indicated elevated levels of volatile organic compounds in the municipal water supply.
+
+In 1985, EPA selected air stripping as an interim measure to address ground-water contamination at the well field. It was built in 1987. EPA's 1988 cleanup plan provided for continued operation of the two-column air stripper which was built in 1987. EPA also required other measures such as connection of private wells to the municipal water system and installation of additional extraction wells in the North Field and Plume 2 for direct discharge into the Chippewa River. During the cleanup, EPA concluded that the nearby National Presto Industries Superfund site was the source of the well field's ground-water contamination.
+
+In 2009, EPA changed the ground water cleanup standards detailed in its 1988 cleanup plan, or record of decision. The Agency was legally required to issue an official document called "Explanation of Significant Differences" which outlines the changes. Originally, the Target Cleanup Levels, or TCLs, were developed by EPA as its cleanup goals rather than the state's groundwater quality standards described in Wisconsin Administrative Code NR 140. Wisconsin NR 140 also uses the Enforcement Standards as a compliance standard for human health and welfare concerns. The Enforcement Standards now serve as the groundwater cleanup goals.
+
+The cleanup has been completed and no further work is anticipated.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through a combination of potentially responsible party (PRP) and federal and state actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. EPA also determined that the air stripper can be taken off line; the groundwater entering the city's well field had met cleanup standards for over five years and is not expected to exceed the standards in the future.  
+
+### What Is the Current Site Status?
+
+This site was removed from the Superfund liste in 2014 because all of the cleanup actions had been completed. Before then, a regular status review was done in 2012. This type of review is required at least every five years where the cleanup is complete but hazardous waste remains managed on-site. These reviews are done to ensure that the cleanup continues to protect people and the environment.  
+  
+The review included:
+
+- An evaluation of background information
+- Cleanup requirements
+- Effectiveness of the cleanup and any anticipated future actions
+- An analysis of ways for EPA to operate more efficiently
+
+The review found that the cleanup continues to protect people and the environment. It also showed there is no waste to be managed on-site, so EPA started the process to remove the site its Superfund list. This was the fourth five-year review.
+
+The air stripper at the well field was shut down in November 2011 for about two weeks while EPA did some confirmation sampling from various points of the water plant. The results in a report showed the drinking water leaving the water plant meets the cleanup goals without the operation of the air stripper. The air stripper was restarted after the sampling was completed.  
+  
+The last five years of water data have been reviewed and it appears the individual production wells are meeting the Wisconsin enforcement standards cleanup levels. Blended water from these production wells also meets those standards.

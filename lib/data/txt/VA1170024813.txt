@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Norfolk Naval Shipyard (NNSY) site is located in Portsmouth approximately 15 miles from the Chesapeake Bay. The origin of NNSY dates back to 1767 when it was a merchant shipyard under British rule and was called the Gosport Shipyard. In 1775 with the outbreak of the American Revolution the Shipyard was confiscated by the Commonwealth of Virginia and in 1801, the Shipyard was purchased by the federal government. NNSY’s primary mission is to repair, overhaul, dry-dock, convert, modernize, and inactivate ships, and to provide logistics services in support of the fleet. Other activities at NNSY include metal forming, repair and installation of mechanical and electrical equipment, metal fabrication, metal plating, and painting operations.
+
+The present NNSY and the nearby Navy-owned noncontiguous areas comprise the following elements:
+
+- Main Shipyard – 533 acres of waterfront ship repair facilities (dry docks, wet slips, berths, and so forth), a Controlled Industrial Area, Public Works, administration and supply facilities, housing, medical facilities, and personnel and community support services.
+- Southgate Annex – 63 acres used primarily for storage.
+- Scott Center Annex – 63-acre recreational complex for NNSY personnel; the former Scott Center Landfill was remediated in 2005 with the removal of waste and the creation of sustainable tidal wetlands.
+- Paradise Creek Disposal Area – 91-acre hydraulic fill area formerly used for landfilling, solid waste disposal, and petroleum reclamation (storage of petroleum products and the maintenance and storage of waste-handling vehicles and equipment).
+- New Gosport – 57-acre former military housing area for married enlisted personnel; an area immediately to the north is the former New Gosport Landfill, which was remediated in 2001 with the removal of waste and the creation of sustainable tidal wetlands.
+
+The Site was added to the Superfund program's National Priorities List (NPL) in May 1999. The Federal Facilities Agreement (FFA) negotiated between the Navy, EPA, and Virginia Department of Environmental Quality (VDEQ), was signed in October 2003.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. A Federal Facilities Agreement (FFA) negotiated between EPA, the Virginia Department of Environmental Quality (VDEQ), and the Navy was signed in September 9, 2004. The FFA identified areas for investigation and possible cleanup and provides the framework and a schedule to accomplish this work. Currently there are six operable units (OUs) being addressed under the Superfund program.
+
+EPA has signed Record of Decisions (RODs) selecting remedies for 5 operable units.
+
+- **OU1**: Site 2. Remedy – No Further Action
+- **OU2**: Sites 2, 3, 4, 5, and 6. Type: Soil contamination.
+	- Remedy – Soil Cover with side slopes stabilization, Land Use Controls (LUCs) to ensure protectiveness from receptor exposure to contaminated soil and ato maintain the integrity of the soil cover.
+- **OU4:** Site 17. Type: Soil contamination.
+	- Remedy – LUCs to restrict exposure pathways to soil. Five-year site reviews are required to ensure that the remedy remains protective of human health and the environment. Five-year site reviews are required to ensure that the remedy remains protective of human health and the environment.
+- **OU6: Site 10**. Typle: Soil contamination.
+	- Remedy – LUCs to prevent use of the site for residential housing, childcare, elementary and secondary schools, or playground facilities. Five-year site reviews are required to ensure that the remedy remains protective of human health and the environment.
+
+A full list of the operable units can be viewed under the Operable Units section.
+
+### What Is the Current Site Status?
+
+The Navy has the lead role for cleaning up the Norfolk Naval Shipyard site.
+
+Per the FFA between EPA, VADEQ and the Navy, a Site Management Plan (SMP) is annually updated with activities at each OU and Area of Concern. For detailed information on the current clean-up status, see the [Norfolk Naval Shipyard website](https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/Norfolk-NSY/). A full list of activities per each OU can be found under the Cleanup Progress section.
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent can be found here, [Administrative Records](https://www.navfac.navy.mil/products_and_services/ev/products_and_services/env_restoration/installation_map/navfac_atlantic/midlant/norfolk_nsy/admin_records.html). The next five-year review is scheduled for 2024.

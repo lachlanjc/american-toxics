@@ -1,22 +1,51 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The former Reich Farms Superfund site included the 3-acre Reich Farm in Toms River, New Jersey.  In the 1970s, the owner of Reich Farm leased it to an independent waste hauler. The waste hauler dumped drums containing organic solvents and residues from manufacturing organic chemicals, plastics, and resins. Mr. and Mrs. Samuel Reich currently own the Reich Farm property. According to the Reichs, in August 1971, they rented part of their land to Mr. Nicholas Fernicola to temporarily store used 55-gallon drums. In December 1971, the Reichs discovered about 4,500 drums containing wastes and 450 empty drums on the area rented to Mr. Fernicola. The labels on the drums included "tar pitch," "lab waste solvent," "blend of resin and oil," and "solvent wash of process stream." In addition, many of the drums had Union Carbide Corporation (UCC) markings on them. State agencies discovered that waste was dumped into outdoor trenches. These disposal activities contaminated the soil and groundwater. Mr. and Mrs. Reich and Dover Township filed complaints in New Jersey Superior Court against Mr. Fernicola and the Union Carbide Corporation. The court ordered Mr. Fernicola and the Union Carbide Corporation to end the dumping and to remove all waste and drums. Union Carbide removed drums in 1972 and an additional 51 drums in 1974, as well as contaminated soil and trenched waste from the site. Union Carbide Corporation, a potentially responsible party (PRP), removed drums, trench waste and contaminated soil from the site 1972. Contaminated soil seeped into and contaminated the groundwater with organic compounds. In response, the New Jersey Department of Environmental Protection (NJDEP) closed private drinking water wells in the area. Zoning ordinances were put in place to prevent private use of the groundwater.  EPA oversaw work to clean up the groundwater in the long-term and EPA continues to monitor the groundwater. Early in 1974, some residents near the site observed an unusual taste and odor in their well water. Analyses of this water showed the presence of petrochemical contaminants, including phenol and toluene. More extensive sampling followed. Based on the results of this sampling, the Dover Township Board of Health ordered 148 private wells closed by the end of August 1974 and established a zoning ordinance restricting groundwater use near the site. Union Carbide signed an agreement with the New Jersey Department of Environmental Protection (NJDEP) in April 1977, for the state to lead additional investigations at the site. NJDEP dropped charges against Nicholas Fernicola in June 1977, and in return, Mr. Fernicola agreed to stop hauling and disposing chemical wastes. EPA placed the Reich Farm site on Superfund’s National Priorities List (NPL) in September 1983. EPA oversaw work to clean up the groundwater in the long-term and EPA continues to monitor the groundwater.
+### Background
+
+The former Reich Farms Superfund site included the 3-acre Reich Farm in Toms River, New Jersey. In the 1970s, the owner of Reich Farm leased it to an independent waste hauler. The waste hauler dumped drums containing organic solvents and residues from manufacturing organic chemicals, plastics, and resins.
+
+Mr. and Mrs. Samuel Reich currently own the Reich Farm property. According to the Reichs, in August 1971, they rented part of their land to Mr. Nicholas Fernicola to temporarily store used 55-gallon drums. In December 1971, the Reichs discovered about 4,500 drums containing wastes and 450 empty drums on the area rented to Mr. Fernicola. The labels on the drums included "tar pitch," "lab waste solvent," "blend of resin and oil," and "solvent wash of process stream." In addition, many of the drums had Union Carbide Corporation (UCC) markings on them. State agencies discovered that waste was dumped into outdoor trenches. These disposal activities contaminated the soil and groundwater.
+
+Mr. and Mrs. Reich and Dover Township filed complaints in New Jersey Superior Court against Mr. Fernicola and the Union Carbide Corporation. The court ordered Mr. Fernicola and the Union Carbide Corporation to end the dumping and to remove all waste and drums. Union Carbide removed drums in 1972 and an additional 51 drums in 1974, as well as contaminated soil and trenched waste from the site.
+
+Union Carbide Corporation, a potentially responsible party (PRP), removed drums, trench waste and contaminated soil from the site 1972. Contaminated soil seeped into and contaminated the groundwater with organic compounds. In response, the New Jersey Department of Environmental Protection (NJDEP) closed private drinking water wells in the area. Zoning ordinances were put in place to prevent private use of the groundwater. EPA oversaw work to clean up the groundwater in the long-term and EPA continues to monitor the groundwater.
+
+Early in 1974, some residents near the site observed an unusual taste and odor in their well water. Analyses of this water showed the presence of petrochemical contaminants, including phenol and toluene. More extensive sampling followed.
+
+Based on the results of this sampling, the Dover Township Board of Health ordered 148 private wells closed by the end of August 1974 and established a zoning ordinance restricting groundwater use near the site.
+
+Union Carbide signed an agreement with the New Jersey Department of Environmental Protection (NJDEP) in April 1977, for the state to lead additional investigations at the site.
+
+NJDEP dropped charges against Nicholas Fernicola in June 1977, and in return, Mr. Fernicola agreed to stop hauling and disposing chemical wastes.
+
+EPA placed the Reich Farm site on Superfund’s National Priorities List (NPL) in September 1983. EPA oversaw work to clean up the groundwater in the long-term and EPA continues to monitor the groundwater.
+
 EPA determined that the site's cleanup was complete and would protect people’s health and the environment and deleted the site from the NPL in September 2021.
-Top of Page
-What Has Been Done to Clean Up the Site?
-EPA oversaw the site cleanup in two stages: initial actions and a long-term corrective phase focused on the cleanup of the entire area. After treating over 15,000 cubic yards of contaminated soil, the potentially responsible party completed address soil contamination at the site. Completing the soil cleanup eliminated the chance for the contaminated soil to be a source of groundwater contamination. Initial Actions: Under the direction of the New Jersey Department of Environmental Protection (NJDEP), Union Carbide, the potentially responsible party (PRP), removed 5,095 drums and trench waste from the site in 1972 and an additional 51 drums in 1974, as well as removed contaminated soil. At the same time, the Dover Township Board of Health ordered the closure of 148 private wells near the site. In addition, a zoning ordinance restricted groundwater use in the area. As a result, residences near the site were connected to a permanent alternate water supply. Long-term Cleanup: EPA oversaw work including: (1) installing extraction wells; (2) treating extracted groundwater by air stripping and carbon adsorption; (3) reinjecting the treated groundwater into the ground; (4) digging up and removing contaminated soil and treating the soil in an enhanced volatilization unit; (5) backfilling the dug up area with the treated soil; and (6) digging up, removing, and off-site treatment of the soil that was not treated by the enhanced volatilization unit. Union Carbide treated contaminated soil to meet the soil cleanup goals and finished remaining cleanup actions for site soil in May 1995.  EPA updated the site's groundwater cleanup plan in September 1995 to allow continued pumping and treating of groundwater at an existing well field to protect uncontaminated wells.  Union Carbide installed activated carbon units to the existing groundwater treatment system in June 1997 after detecting a group of previously unidentified compounds. The carbon units effectively removed the compounds from the treated water and in March 1998, EPA adjusted the site's cleanup plan, requiring that carbon adsorption unit to be added to contaminated municipal wells.  In January 2018, Union Carbide achieved the groundwater cleanup requirements, meeting the requirements of EPA’s original cleanup decision from 1988 and the subsequent changes to that decision.   As a result, EPA allowed Union Carbide to stop operating the treatment system. Groundwater monitoring to ensure that the cleanup goals continue to be met will continue through at least 2023. Top of Page
-What Is the Current Site Status?
-Work at the site is completed and EPA deleted the Reich Farms site from the National Priorities List in September 2021. 
-Top of Page
-Sampling and Monitoring
+
+### What Has Been Done to Clean Up the Site?
+
+EPA oversaw the site cleanup in two stages: initial actions and a long-term corrective phase focused on the cleanup of the entire area.
+
+After treating over 15,000 cubic yards of contaminated soil, the potentially responsible party completed address soil contamination at the site.
+
+Completing the soil cleanup eliminated the chance for the contaminated soil to be a source of groundwater contamination.
+
+**Initial Actions**: Under the direction of the New Jersey Department of Environmental Protection (NJDEP), Union Carbide, the potentially responsible party (PRP), removed 5,095 drums and trench waste from the site in 1972 and an additional 51 drums in 1974, as well as removed contaminated soil. At the same time, the Dover Township Board of Health ordered the closure of 148 private wells near the site. In addition, a zoning ordinance restricted groundwater use in the area. As a result, residences near the site were connected to a permanent alternate water supply.
+
+**Long-term Cleanup**: EPA oversaw work including: (1) installing extraction wells; (2) treating extracted groundwater by air stripping and carbon adsorption; (3) reinjecting the treated groundwater into the ground; (4) digging up and removing contaminated soil and treating the soil in an enhanced volatilization unit; (5) backfilling the dug up area with the treated soil; and (6) digging up, removing, and off-site treatment of the soil that was not treated by the enhanced volatilization unit.
+
+Union Carbide treated contaminated soil to meet the soil cleanup goals and finished remaining cleanup actions for site soil in May 1995.
+
+EPA updated the site's [groundwater cleanup plan](https://semspub.epa.gov/work/02/99882.pdf) in September 1995 to allow continued pumping and treating of groundwater at an existing well field to protect uncontaminated wells.
+
+Union Carbide installed activated carbon units to the existing groundwater treatment system in June 1997 after detecting a group of previously unidentified compounds. The carbon units effectively removed the compounds from the treated water and in March 1998, EPA adjusted the [site's cleanup plan](https://semspub.epa.gov/work/02/99883.pdf), requiring that carbon adsorption unit to be added to contaminated municipal wells.
+
+In January 2018, Union Carbide achieved the groundwater cleanup requirements, meeting the requirements of EPA’s original cleanup decision from 1988 and the subsequent changes to that decision.
+
+As a result, EPA allowed Union Carbide to stop operating the treatment system. Groundwater monitoring to ensure that the cleanup goals continue to be met will continue through at least 2023.
+
+### What Is the Current Site Status?
+
+Work at the site is completed and EPA deleted the Reich Farms site from the National Priorities List in September 2021.
+
+### Sampling and Monitoring
+
 Groundwater monitoring will continue until at least 2023.
-Top of Page

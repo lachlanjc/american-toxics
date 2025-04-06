@@ -1,15 +1,41 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Lightman Drum Company site covers about 15 acres along Route 73 in Winslow Township, Camden County, New Jersey. The Lightman Drum Company operated an industrial waste hauling and drum reclamation business at the site from 1974 to 1979. The company stored chemical residues in underground storage tanks, drums, and trailers. The company also emptied drums into a pit in a wooded area on the property. Facility operations contaminated soil and groundwater with hazardous chemicals, including chemical powders, pesticides, waste oil, oil sludges, paints, pigment, thinner, ink, residues, ketones, alcohols, and mixed solvents. The New Jersey Department of Environmental Protection (NJDEP) asked EPA to evaluate the site in May 1999. EPA placed the site on the National Priorities List (NPL) in October 1999 and became the lead agency to clean up the site.  There are two plumes, or areas where contaminates are dispersed, of contaminated groundwater at the site. The eastern plume came from the former Waste Storage Tanks and the western plume came from the Unlined Waste Disposal Pit in the wooded area. United Cooperage currently operates a drum brokerage business where they buy, clean, and resell drums on a small portion of the site. Top of Page
-What Has Been Done to Clean Up the Site?
-Initial Response New Jersey Department of Environmental Protection (NJDEP) oversaw the removal of the underground tanks in 1984, as well as soil sampling in 1987, and soil and groundwater sampling from 1989 to 1990. EPA required that contaminated soil associated with a previously removed underground storage tank be taken out in 2007. Long-term Response EPA finalized a cleanup plan, memorialized in a document called a Record of Decision (ROD), in 2009. The site is divided into two operable units. Operable Unit 1 (OU1) covers the contaminated groundwater and Operable Unit 2 (OU2) covers contaminated soil. The 2009 ROD outlines the plan for OU1 and calls for removing contamination in the groundwater from the former Waste Storage Tank Area and the Unlined Waste Disposal Pit areas. Under EPA oversight, the entities deemed responsible for contamination on the site, known as a Potentially Responsible Party (PRP) group, performed several cleanup actions.  The PRP group constructed an air sparging and soil vapor extraction system for groundwater contamination near source areas. This process removes contamination by injecting air directly into contaminated groundwater to pull contaminants from groundwater in the form of vapors. The vapors are vacuumed out of the soil and captured. The original plan also required a system to extract and treat groundwater from certain highly contaminated spots. EPA amended its original 2009 ROD for the OU1 groundwater cleanup action in September 2019. Years of groundwater sampling data showed that groundwater hot spots no longer have high contamination. EPA decided to first gauge the effectiveness of the air sparging and soil vapor extraction followed by allowing the larger area of groundwater to naturally recover while being carefully monitored. EPA issued a Record of Decision (ROD) in 2011 to address soil contamination, which is considered Operable Unit 2 (OU2). OU2 is a small area of soil contamination near the former Waste Storage Tank Area. Under EPA’s oversight, the PRP group removed contaminated soil using the same soil vapor extraction system connected to the OU1 system. Based on groundwater sampling, EPA determined that the groundwater areas of highly contamianted groundwater were no longer present. In 2019, EPA issued a ROD Amendment to OU1 changing groundwater remedy in those areas from extraction and treatment to Monitored Natural Attenuation. NJDEP established a Classification Exception Area (CEA) on January 27, 2020 to prevent the use of the groundwater for drinking water purposes. Top of Page
-What Is the Current Site Status?
-The air sparging and soil vapor extraction system began operating in 2013 and removed the majority of the contamination for OU1 and OU2. Data from these areas show dramatic reduction in the contamination levels and that that the air sparging and soil vapor extraction have been effective. The system operated for OU1 and OU2 until the end of 2019. With EPA oversight, the PRP group sampled the soil in June 2021 to determine the progress of the system. The EPA determined that there is still a small area of soil contamination.   After soil sampling in late 2023, the EPA and the PRPs agreed to clean up a small area where contamination remains by removing the contamianted soil. The EPA expects the soil removal will be completed by the end of 2024. As described in the 2019 ROD Amendment, PRPs will sample groundwater as part of the existing Monitored Natural Attenuation well network. This monitoring is ongoing. Top of Page
+### Background
+
+The Lightman Drum Company site covers about 15 acres along Route 73 in Winslow Township, Camden County, New Jersey. The Lightman Drum Company operated an industrial waste hauling and drum reclamation business at the site from 1974 to 1979. The company stored chemical residues in underground storage tanks, drums, and trailers. The company also emptied drums into a pit in a wooded area on the property.
+
+Facility operations contaminated soil and groundwater with hazardous chemicals, including chemical powders, pesticides, waste oil, oil sludges, paints, pigment, thinner, ink, residues, ketones, alcohols, and mixed solvents.
+
+The New Jersey Department of Environmental Protection (NJDEP) asked EPA to evaluate the site in May 1999. EPA placed the site on the National Priorities List (NPL) in October 1999 and became the lead agency to clean up the site.
+
+There are two plumes, or areas where contaminates are dispersed, of contaminated groundwater at the site. The eastern plume came from the former Waste Storage Tanks and the western plume came from the Unlined Waste Disposal Pit in the wooded area. United Cooperage currently operates a drum brokerage business where they buy, clean, and resell drums on a small portion of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+**Initial Response**
+
+New Jersey Department of Environmental Protection (NJDEP) oversaw the removal of the underground tanks in 1984, as well as soil sampling in 1987, and soil and groundwater sampling from 1989 to 1990. EPA required that contaminated soil associated with a previously removed underground storage tank be taken out in 2007.
+
+**Long-term Response**
+
+EPA finalized a cleanup plan, memorialized in a document called a [Record of Decision](https://semspub.epa.gov/src/document/02/105101) (ROD), in 2009. The site is divided into two operable units. Operable Unit 1 (OU1) covers the contaminated groundwater and Operable Unit 2 (OU2) covers contaminated soil.
+
+The 2009 ROD outlines the plan for OU1 and calls for removing contamination in the groundwater from the former Waste Storage Tank Area and the Unlined Waste Disposal Pit areas. Under EPA oversight, the entities deemed responsible for contamination on the site, known as a Potentially Responsible Party (PRP) group, performed several cleanup actions.
+
+The PRP group constructed an air sparging and soil vapor extraction system for groundwater contamination near source areas. This process removes contamination by injecting air directly into contaminated groundwater to pull contaminants from groundwater in the form of vapors. The vapors are vacuumed out of the soil and captured.
+
+The original plan also required a system to extract and treat groundwater from certain highly contaminated spots.
+
+EPA amended its original 2009 ROD for the OU1 groundwater cleanup action in September 2019. Years of groundwater sampling data showed that groundwater hot spots no longer have high contamination. EPA decided to first gauge the effectiveness of the air sparging and soil vapor extraction followed by allowing the larger area of groundwater to naturally recover while being carefully monitored.
+
+EPA issued a [Record of Decision](https://semspub.epa.gov/src/document/02/111887) (ROD) in 2011 to address soil contamination, which is considered Operable Unit 2 (OU2). OU2 is a small area of soil contamination near the former Waste Storage Tank Area. Under EPA’s oversight, the PRP group removed contaminated soil using the same soil vapor extraction system connected to the OU1 system.
+
+Based on groundwater sampling, EPA determined that the groundwater areas of highly contamianted groundwater were no longer present. In 2019, EPA issued a ROD Amendment to OU1 changing groundwater remedy in those areas from extraction and treatment to Monitored Natural Attenuation.
+
+NJDEP established a Classification Exception Area (CEA) on January 27, 2020 to prevent the use of the groundwater for drinking water purposes.
+
+### What Is the Current Site Status?
+
+The air sparging and soil vapor extraction system began operating in 2013 and removed the majority of the contamination for OU1 and OU2. Data from these areas show dramatic reduction in the contamination levels and that that the air sparging and soil vapor extraction have been effective. The system operated for OU1 and OU2 until the end of 2019.
+
+With EPA oversight, the PRP group sampled the soil in June 2021 to determine the progress of the system. The EPA determined that there is still a small area of soil contamination. After soil sampling in late 2023, the EPA and the PRPs agreed to clean up a small area where contamination remains by removing the contamianted soil. The EPA expects the soil removal will be completed by the end of 2024.
+
+As described in the 2019 ROD Amendment, PRPs will sample groundwater as part of the existing Monitored Natural Attenuation well network. This monitoring is ongoing.

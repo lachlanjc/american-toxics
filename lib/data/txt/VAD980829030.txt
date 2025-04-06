@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Hidden Lane Landfill was a 25-acre privately owned and operated disposal facility north of Virginia Route 7 between the Broad Run Farms and Countryside communities. It is immediately adjacent to the floodplain of the Potomac River. Starting in 1971, the facility accepted a variety of solid wastes including construction and demolition wastes, land clearing wastes and other items such as appliances, tires, paper and cardboard. The landfill was closed in 1986 by order of the Commonwealth of Virginia, pursuant to a 1983 Loudoun Circuit Court Order. The Hidden Lane Landfill had been named by county and state health officials as the likely source of the degreasing solvent trichloroethylene (TCE), which was detected in the drinking water wells of some homes in the Broad Run Farms subdivision just west of the landfill in 1989. The Hidden Lane Landfill was added to the Superfund program's National Priorities List in March 2008.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and federal actions.
+
+In 2008, EPA began oversight and maintenance of carbon filtration systems in the Broad Run Farms community and continues to sample the systems quarterly.
+
+In February 2009, EPA installed a system of monitoring wells at and around the Hidden Lane Landfill site. Test results from the monitoring wells indicated that EPA needed more information. In 2010-2011, nine additional monitoring wells were installed deeper into the groundwater to better characterize the trichloroethylene (TCE) contamination.
+
+In 2012, test results from the deeper monitoring wells showed the location, depth and movement of the TCE plume and confirmed that it moves generally north from the landfill in the direction of the Potomac River.
+
+EPA completed indoor vapor intrusion (VI) testing at 18 properties near the Hidden Lane Landfill Site in 2015. The purpose of the testing was to determine if vapors from the contaminated groundwater plume were getting inside homes. The results of the VI tests show that no vapors from the groundwater are entering homes. Additional testing may be needed in the future to ensure that indoor air continues to be protective of human health.
+
+In early November 2024, EPA completed construction activities at the former landfill property for the source area excavation project. EPA disposed of approximately 15,000 tons of contaminated soil and debris at an approved off-site disposal facility, backfilled the excavation area with clean fill and topsoil, and graded and hydroseeded the disturbed area to help mitigate any future stormwater runoff issues.
+
+### What Is the Current Site Status?
+
+**Groundwater**
+
+In April 2018, EPA released a [Proposed Remedial Action Plan (Proposed Plan) (PDF)](https://semspub.epa.gov/src/document/03/2255966) for public comment. The Proposed Plan presented the preferred alternative for an interim remedial action to address potential exposure to site-related contaminants in groundwater. After consideration of the public comments, the preferred alternative was finalized in an interim [Record of Decision (PDF)](http://semspub.epa.gov/work/03/2259076.pdf) in June 2019. The remedial action at the site will include constructing a water line to connect affected properties to public water.
+
+In June 2020, EPA finalized the waterline design in collaboration with Loudoun County and Loudon Water. In December 2024, the U.S. Army Corps of Engineers Baltimore District (through an Interagency Agreement with EPA), awarded the construction contract to provide public waterline to the Broad Run Farms neighborhood. EPA will be working very closely with USACE on a preliminary construction schedule and hopes to have the schedule available to share with the community in early 2025.
+
+**Source Area**
+
+In Spring 2020, EPA conducted a source area investigation of the TCE contamination at the site to determine next steps for cleanup. In February 2022, EPA issued a [Record of Decision (ROD)](https://semspub.epa.gov/work/03/2330807.pdf) that documents EPA’s cleanup plans to address the landfill cap and the source area of site groundwater contamination. Cleanup plans include landfill cap repair and maintenance with land use controls, excavation with off-site disposal of principal threat source material, and in-situ bioremediation and chemical reduction of principal threat source material in bedrock.
+
+In early November 2024, EPA completed construction activities at the former landfill property for the source area excavation project. EPA disposed of approximately 15,000 tons of contaminated soil and debris at an approved off-site disposal facility, backfilled the excavation area with clean fill and topsoil, and graded and hydroseeded the disturbed area to help mitigate any future stormwater runoff issues.
+
+In 2025, EPA will conduct a bedrock pilot study before completing the design for the in-situ bioremediation and chemical reduction of TCE contamination in groundwater remedy.
+
+### Enforcement Information
+
+[Consent Decree - May 3, 2017 (PDF)](https://semspub.epa.gov/src/document/03/2243728)

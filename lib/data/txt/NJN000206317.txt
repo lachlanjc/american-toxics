@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Garfield Groundwater Contamination site in Garfield, New Jersey consists of the E.C. Electroplating (ECE) property and a [chromium](https://www.atsdr.cdc.gov/toxfaqs/tfacts7.pdf) groundwater plume, which is an area where contaminants disperse, that extends a half-mile west from the ECE property to the Passaic River. After investigating the extent of contamination and levels of chromium in groundwater, EPA chose a final clean-up plan for the first phase of cleaning up the Garfield Superfund site in April 2022.
+
+### What Has Been Done to Clean Up the Site?
+
+A tank at E.C. Electroplating (ECE) cracked in December 1983, spilling about 3,640 gallons of chromic acid into the groundwater. The New Jersey Department of Environmental Protection (NJDEP) ordered ECE to pump out the contaminated groundwater from its property. ECE recovered only 1,044 gallons before stopping the operation in late 1984. In 1993, ECE agreed to investigate the spill further, but limited the investigation to its own property.
+
+In 2002, NJDEP asked EPA to investigate possible chromium in nearby basements. EPA inspected about 500 properties in the area and found high levels of hexavalent chromium in 14 basements. EPA removed the chromium in the basements from 13 properties and installed systems to prevent more groundwater containing chromium from seeping into the basements of properties.
+
+EPA removed 233 drums of industrial waste and 6,100 gallons of chromium-tainted water from the ECE Property in 2011.
+
+From 2012 to 2014, EPA demolished the ECE buildings and excavated and removed soil and concrete containing chromium. EPA disposed of about 5,700 tons of polluted soil and 1,150 tons of polluted concrete at a permitted facility. EPA filled the excavated areas with clean soil and capped the property with asphalt to limit rainwater infiltration through the ECE property.
+
+EPA finished a study in 2014 to determine the extent of the chromium groundwater plume and assess the potential risks the chromium groundwater plume posed to people and wildlife and completed testing methods to clean up the groundwater at the site.
+
+In 2017, EPA installed additional monitoring wells to update the information on groundwater chromium levels. EPA also tested two new methods to reduce the chromium levels in groundwater. Both methods worked, and both involved a process called bioremediation, a process of using microorganisms to break down contamination. EPA completed a detailed study in April 2022 of one bioremediation method to clean up the source of groundwater contamination located on the former ECE property in April 2022. Between October and December 2023, EPA installed injection and extraction wells on the ECE property and sampled groundwater to get baseline levels of contamination. EPA will begin injecting bioremediation reagents into contaminated groundwater in the spring of 2024.
+
+### What Is the Current Site Status?
+
+EPA cleanout 13 basements contaminated with chromium and installed systems to keep more chromium from coming in. EPA continues to check basement conditions on properties when needed.
+
+EPA installed an asphalt cap on the ECE property to limit the rainwater that can seep down and further spread the chromium in the groundwater beneath the property. EPA continues to monitor site conditions.
+
+In 2023, EPA finished installing a bioremediation delivery system and conducted baseline groundwater sampling. EPA is analyzing groundwater data to develop a final plan for injecting the groundwater with reagent. In spring 2024, EPA will dose the source of groundwater contamination on the ECE property with bioremediation reagents to remove the source of groundwater contamination.

@@ -1,2 +1,24 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Garden State Cleaners (GSC) site is located in Buena Borough, New Jersey. A dry cleaning facility was located on site. Facility operations contaminated soil and groundwater with volatile organic compounds (VOCs), which are potentially harmful contaminants. The South Jersey Clothing Company (SJCC) Superfund site is located north of the GSC site. EPA combined its cleanup and monitoring of the sites due to similar contamination and their close proximity. Cleanup of contaminated soil at the GSC site finished in 1995. A groundwater treatment system for both sites has been operating since 1999.  
+
+### What Has Been Done to Clean Up the Site?
+
+A five-year review and remedial system evaluation in 2005 found that the groundwater treatment system was not capturing the leading edge of the contaminant plume, the plume had migrated into the deeper aquifer zone, additional extraction wells were needed, contaminant levels had not significantly decreased, and source areas may still be present at both sites and that the SVE system did not completely remove all of the sources of groundwater contamination.
+
+EPA updated the site’s remedy in September 2010 to include acquisition and demolition of the GSC building, excavation of the contaminated soil, and in-place treatment of soil where excavation is not possible. In 2011, EPA acquired the GSC property and demolished the building to facilitate excavation of contaminated soil beneath the building. Excavation of contaminated soil was completed in September 2011.
+
+  
+
+### What Is the Current Site Status?
+
+EPA has addressed cleanup of the site in two phases. For the first phase, in spring 1994, EPA installed a small-scale soil vapor extraction (SVE) system; operation of the system began in June 1994. In March 1995, with the cleanup objectives met, EPA removed the SVE system. The second phase involved cleanup of the contaminated goundwater plume. EPA conducted this work in conjunction with the SJCC Superfund Site. In August 1995, EPA completed a design for the extraction and treatment of the contaminated groundwater. In fall 1997, EPA started construction of the system. EPA has been operating the groundwater extraction and treatment system since February 1999. Response Action Status Entire Site: EPA began an intensive investigation of the sites in 1989 to determine the nature and extent of contamination and to identify alternatives for cleanup of the sites. In September 1991, based on the results of the investigation, EPA signed a Record of Decision (ROD) selecting the following remedy: (1) in-situ treatment of contaminated soil via the vapor extraction process; (2) extraction of groundwater with concentrations of VOCs above cleanup levels; (3) treatment of groundwater with an on-site air stripping column and carbon adsorption units; (4) reinjection of the treated water into the aquifer; and (5) long-term monitoring of groundwater. Investigations indicated that the SVE system did not completely remove all of the sources of groundwater contamination. Soil contaminated with PCE remained above the cleanup criteria, mainly underneath the Garden State Cleaners building.
+
+It was determined that the contamination in the groundwater was not fully captured by the current groundwater extraction system. As of 2011, system upgrades and optimization activities were performed, including the installation of additional extraction and reinjection wells, and EPA and the New Jersey Department of Environmental Protection (NJDEP) agreed to jointly share costs to operate the groundwater treatment system for another ten years. After the ten year period, the NJDEP will pay for 100 percent of costs to operate the groundwater treatment system.
+
+  
+As a result, the ROD was amended in September 2010. The amended remedy includes acquisition and demolition of the Garden State Cleaners building, excavation of the contaminated soil, and in-situ treatment of soil that cannot be practicably excavated. Demolition of the existing Garden State Cleaners building and excavation of contaminated soils under the building was completed in September 2011.
+
+EPA is working to transfer responsibility for the groundwater extraction and treatment system from EPA to NJDEP. Transfer occured in September 2020.
+
+Site Facts: Based on information obtained from the site owners and other sources, EPA determined that GSC is neither financially nor technically capable of undertaking the remedial actions chosen. Instead, EPA is conducting the required work using Trust Fund monies.

@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The White Chemical Corporation (WCC) site is a 4.4-acre vacant lot located at 660 Frelinghuysen Avenue in Newark, New Jersey. Historically, the site was used to manufacture various acid chlorides and fire-retardant compounds. The WCC property was used for industrial purposes as early as 1951. In 1983, WCC leased the property from AZS Corporation and moved its operations from Bayonne, New Jersey, to Newark, New Jersey. WCC produced three primary groups of chemical products: acid chlorides, brominated organics (both aliphatic and aromatic) and mineral acids, most notably hydriodic acid.
+
+WCC operated the facility from 1983 until July 1990 and the New Jersey Department of Environmental Protect (NJDEP) issued several citations for violations and for chemical releases into the soil and groundwater at the site. After investigating the site in 1990, NJDEP removed approximately 1,000 drums from the site.
+
+The NJDEP referred the site to EPA and EPA’s more detailed investigation found over 10,000 55-gallon drums and other containers of hazardous substances improperly stored throughout the site. Drums and other containers were found in various stages of deterioration, fuming or leaking their contents onto the soil. Other containers found included 150 gas cylinders, 126 storage tanks, vats and process reactors, hundreds of fiber pack drums, glass and plastic bottles, carboys and boxes. An on-site laboratory contained about 12,000 improperly stored, laboratory-size containers.
+
+EPA placed the site on the Superfund program’s National Priorities List in September 1991.
+
+Work on the site's soil was completed and the risks posed by the exposure to site soil were addressed. The groundwater under the site remains to be cleaned up. Though EPA completed the groundwater cleanup engineering design in September 2016, funding limitations put the work on hold. The EPA expects to begin cleanup work in 2023.
+
+### What Has Been Done to Clean Up the Site?
+
+**Immediate Actions**: NJDEP removed more than 1,000 drums from the site between May 1990 and October 1992.
+
+**On-site Hazardous Materials and Containers**: EPA selected a [cleanup plan](https://semspub.epa.gov/work/02/68646.pdf) for surface contamination in September 1991 to remove tanks, drums, vats, laboratory-size containers and other vessels. Cleanup took place from September 1991 to April 1993.
+
+**Buildings, Above Ground Storage Tanks (ASTs) and Soil**: EPA selected a [cleanup plan](https://semspub.epa.gov/work/02/92107.pdf) to address site buildings, ASTs and soil in September 2005, which included demolishing and disposing nine buildings off site, as well as removing approximately 21,000 cubic yards of contaminated soil. EPA oversaw the building demolition in 2001 and finished removing the contaminated soil in April 2009. EPA placed clean soil in dug up areas and added a layer of stone to help site drainage and prevent soil erosion.
+
+**Groundwater**: EPA approved the engineering design for cleaning up the contaminated groundwater in September 2016. This design acknowledged wide-spread contamination of groundwater both on and off-site property.
+
+Anticipated cleanup actions will include a technique known as bioremediation where amendments, or nutrients, are injected into the groundwater to stimulate the growth of naturally occuring organisms (microbes) which break down the contaminants. EPA will continue monitoring the groundwater to ensure the cleanup is working as intended.
+
+EPA also sampled sub-slab and indoor-air in the nearest, off-property structure in 2016 and 2021, as part of an investigation to see if vapors were migrating from the groundwater into any buildings in the area through a process known as vapor intrusion. The results showed that there are no indoor vapor intrusion impacts to buildings in the area. However, EPA will re-evaluate these buildings every five years.
+
+### What Is the Current Site Status?
+
+The EPA will be able to complete the cleanup work at White Chemical Corp. Superfund site. The infrastructure funds will be used to clean up the groundwater contaminated with volatile organic compounds, specifically [trichloroethylene](https://www.atsdr.cdc.gov/toxfaqs/tfacts19.pdf) (TCE) and  [1,2-dichloroethane](https://www.atsdr.cdc.gov/toxfaqs/tfacts38.pdf), through a bioremediation process of introducing nutrients and live microbes into the groundwater to break down contaminants.
+
+The site was split into three areas of focus, or Operable Units (OUs). EPA addressed the on-site hazardous materials and containers as part of OU1. For OU2, EPA removed on-site buildings and structures, as well as several above-ground storage tanks (ASTs) and disposed of approximately 21,000 cubic yards of contaminated soil. The contaminated groundwater, OU3, is the final portion for the site that needs to be addressed.
+
+Under the [cleanup plan](https://semspub.epa.gov/work/02/123550.pdf) for OU3, EPA will inject nutrients into the groundwater to stimulate the growth of naturally occuring microbes, which break down the contaminants. EPA will continue monitoring the groundwater to ensure the cleanup technique is working as intended. EPA anticipates that there may be several rounds of injections to effectively treat the contaminated groundwater. EPA will continue monitoring of the groundwater monitoring well network to track the effectiveness of the cleanup and the groundwater conditions.

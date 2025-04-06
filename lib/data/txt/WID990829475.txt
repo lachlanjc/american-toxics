@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 9-acre Waste Research & Reclamation Co. site is in Eau Claire, Wisconsin. A roofing company operated on-site from the 1970s to 1981. It has occupied the site since then and is primarily a reclamation and recycling business for hazardous liquid wastes, fuel blending and transportation of hazardous waste for incineration or disposal. Facility operations contaminated soil, surface water and groundwater with hazardous chemicals.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was divided into six solid waste management units for investigation and cleanup purposes: drum storage sheds; trailer parking, product warehouse, and abandoned drum storage area; pole barn-cooling water discharge area and abandoned drum storage area; abandoned lagoon, existing holding tank and existing collection sump for surface water runoff; a reclamation area, known as the LUWA area, located in the central and western portions of the site; and a reclamation area, known as the Kontro area, located in the south central portions of the site. The companies responsible for site contamination investigated the nature and extent of groundwater, surface water, and soil contamination at the site.
+
+### What Is the Current Site Status?
+
+Investigations determined that the site should be moved from Superfund to the Resource Conservation and Recovery Act program. It was taken off the Superfund list in 1993.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The groundwater, soil, and surface water are contaminated with various volatile organic compounds (VOCs) from site waste handling procedures. People who accidentally ingest or come into direct contact with contaminated materials may be at risk.

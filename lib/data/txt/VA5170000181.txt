@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+St. Juliens Creek Annex is a 490-acre facility situated at the confluence of St. Juliens Creek and the Southern Branch of the Elizabeth River in the City of Chesapeake, located in southeastern Virginia. The Norfolk Naval Shipyard is located approximately 1.5 miles to the north. St. Juliens Creek Annex began operations as a Naval facility in 1849. Past operations at SJCA have included general ordnance operations involving wartime transfer of ammunitions to various other US Naval facilities throughout the United States and abroad. All ordnance-related activities at SJCA have been discontinued. St. Juliens Creek Annex has also been involved in non-ordnance services, including degreasing; fire-fighter training; and storage of oil and chemicals.
+
+The current primary mission of SJCA is to provide a radar-testing range and various administrative and warehousing facilities and light industrial shops for nearby Norfolk Naval Shipyard and other local naval activities. Defense Logistics Agency, Space and Naval Warfare Systems Command, Fleet Logistics Norfolk, Naval Undersea Warfare Center Detachment, and a cryogenics school are currently located within SJCA. The site was added to the Superfund program’s National Priority List (NPL) in July 2000. The Federal Facilities Agreement (FFA) negotiated between the Navy, EPA, and the Virgnia Department of Environmental Quality (VDEQ), was signed in July 2004.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. A Federal Facilities Agreement (FFA) negotiated between EPA, Virginia Department of Environmental Quality (VDEQ), and the Navy was signed in July 2004. The FFA identified areas for investigation and possible cleanup and provides the framework and a schedule to accomplish this work.
+
+EPA has signed Records of Decision (RODs) selecting remedies for six operable units.
+
+**OU2, Waste Disposal Area B (Site 2)** - is a former waste disposal area covering approximately 6.3 acres. Operations at the site began in 1921. Initially, refuse was burned openly onsite and used to fill an adjacent swampy area (Site 2 inlet). Mixed municipal wastes, organics, inorganics, solvents, waste ordnance, and abrasive blast media were reportedly disposed of at Site 2. In 1942, an incinerator was installed to replace the open burning practices and was operated until sometime after 1947. The ROD documenting the selected remedy – soil cover, excavation, Enhanced Reductive Dechlorination, Monitored Natural Attenuation, Land Use Controls (LUCs), and a contingency Permeable Reactive Barrier was signed in February 2011. The Third Five-Year Review was signed in May 2020.
+
+**OU4, Site 4 Landfill D (Site 4)** - The ROD was signed in September 2004 outlining the selected remedy of soil cover over waste, removal of eastern drainage ditch sediment, and LUCs. The Remedial Action Completion Report was signed in October 2006 to document remediation complete and the Third Five-Year Review was signed in May 2020.
+
+**OU12, Industrial Area (Site 21)** - The ROD was signed in October 2011 outlining the selected remedy of in-situ chemical reduction, enhanced reductive dechlorination, and LUCs. It was also determined that vapor intrusion monitoring was warranted until shallow groundwater cleanup levels are achieved (although no potential unacceptable risks associated with the vapor intrusion pathway were identified). The Interim Remedial Action Completion Report was signed in July 2013 to document the Remedy in Place and the Third Five Year Review was signed in May 2020.
+
+**OU3, Landfill C** – No Action ROD signed February 2006.
+
+**OU5, Burning Grounds** – No Further Action ROD signed May 2016.
+
+**OU8, Caged Pit Disposal** – No Further Action ROD signed September 2003.
+
+A full list of operable units can be viewed under the *Operable Units* section.
+
+### What Is the Current Site Status?
+
+The Department of the Navy has the lead role for cleaning up the SJCA National Priorities List (NPL) site.
+
+The site has been construction complete since 2016, however the remedies at Operable Units (OUs) 2, 4 and 21 required long-term monitoring of groundwater.
+
+Per the FFA between EPA, VDEQ and the Navy, a Site Management Plan (SMP) is annually updated with activities at each OU and Area of Concern. For detailed information on the current clean-up status, see the [SJCA Site Management Plan](https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/St-Juliens-Creek-Annex/\)/) and [the](https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/St-Juliens-Creek-Annex/) [site's webpage](https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/St-Juliens-Creek-Annex/).
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent Five-Year Review was completed in [2020](https://semspub.epa.gov/src/document/03/2327266). The next Five-Year Review is scheduled for 2025.
+
+### Emergency Response and Removal
+
+Investigations continue at three additional sites (Sites 2, 5, 21) which may require removal and/or remedial actions.  
+  
+A Non-Time Critical Removal Action (NTCRA) at Site 19-Building 190 was completed in May 2006. to address the Elevated Subsurface polycyclic aromatic hydrocarbons (PAHs) and Metallic Slag areas. The action was comprised of excavation of contaminated soils and backfilled with imported clean fill. A final Closeout Report for Site 19 was completed in December 2006.  
+  
+With the completion of two non-time critical removal actions at two areas (Site 3: Landfill C, and Site 6: Ordnance Disposal Pit) unacceptable risk to human health and the environment has been eliminated. As a result, No Further Action Records of Decisions (RODs) have been completed for Sites 3 and 6.  
+  
+A ROD has also been signed at an additional area (Site 4: Landfill D). The selected remedial action for this site includes partial removal/consolidation of fill material, a soil cover and Land Use Controls (LUCs).  
+  
+A Baseline Ecological Risk Assessment for Blows Creek Watershed was completed in 2006 and recommended No Further Action.

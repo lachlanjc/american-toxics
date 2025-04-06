@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Avtex Fibers, Inc. Superfund Site is located in Front Royal, Virginia. The area includes a 440-acre plant that manufactured rayon and other synthetics from 1940 to 1989. Plant waste disposed in on-site impoundments and fill areas contaminated groundwater, soil, and the Shenandoah River with hazardous chemicals. The site was added to the Superfund program's National Priorities List in 1986. Following cleanup, operation and maintenance continues.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+**Time-Critical Removal Action (TCRA) Buildings**: Under EPA oversight, FMC Corporation (FMC) performed various cleanup activities at the Avtex Fibers Site. Under this TCRA, FMC sorted, segregated, and characterized demolition debris and waste materials generated during EPA’s demolition activities. Most of these materials were either cleaned for reuse on-site or transported off-site for recycling or disposal. In April 2006, material that could not be treated successfully was sent off-site for disposal. The final activities associated with this action were being implemented concurrently with the Non-Time Critical Removal Action for the remaining buildings and sewers and the Operable Unit 10 Plant Area Soils remedy.
+
+**Non-Time-Critical Removal Action (NTCRA) Buildings**: On December 20, 2001, to address the remainder of the plant area, EPA signed an Action Memorandum for the decontamination of the remaining buildings and excavation of the remaining sewers. In September 2005, FMC completed decontamination of the remaining above ground buildings. Not only did this effort manage the remaining environmental threats associated with the buildings, but it also facilitated the demolition of these buildings by the Army Corps of Engineers and reduced the costs associated with managing the demolition debris. In June 2005, excavation of the sewers began and has since been completed with the exception of the sewers associated with the wastewater treatment plant.
+
+**NTCRA Basins**: On January 31, 2000, EPA signed an Action Memorandum for the closure of approximately 120 acres of industrial waste basins (Sulfate Basins 1 through 5 and the Fly Ash Basins), the Fly Ash Stockpile and the wastewater treatment plant basins. The cleanup plan calls for the consolidation of wastes on site and provides for closure of the basins containing wastes using protective caps. The cleanup activities are facilitating the implementation of the Conservancy Park Master Plan that was developed for the future use of this portion of the site. The conservancy park concept has been integrated into the cleanup activities by revegetating the cleanup areas with appropriate vegetation, construction of a pond and wetland area, and providing the framework for future park trails.
+
+**Operable Unit 10 (OU-10)**: In March 2004, EPA selected a cleanup plan for Viscose Basins 1 through 8, the on-site landfill and the Plant Area Soils in the remedial action Record of Decision for OU-10. The Record of Decision calls for capping the viscose basins and the on-site landfill, treating leachate and monitoring groundwater associated with the viscose basins; excavation of those Plant Area Soils that contain contaminants at levels that exceed the cleanup standards and provides for appropriate treatment or disposal of the soil. The excavation of the soils and the capping of Viscose Basins 1 through 8 is complete. In January 2006, EPA issued an Explanation of Significant Differences to expand the area being addressed as Plant Area Soils to include additional areas of concern that had been identified. FMC completed the construction of the remedy for all components of OU-10 in June 2014.
+
+**Operable Unit 7 (OU-7)**: In January 2010, EPA selected a cleanup plan for groundwater, surface water, and Viscose Basins 9 through 11. The major components of the selected remedy include: installation of a low permeability cap on the viscose basins, construction and operation of a groundwater extraction and treatment system, extraction and treatment of leachate in the viscose basins, implementation of institutional controls, and provision of water to impacted property owners on the west side of the South Fork Shenandoah River. In September of 2015, EPA approved FMC’s final removal action report and certification of completion for the Non-Time-Critical Removal Action for the basins. In December 2015, OU-7 transitioned to Operation and Maintenance after the Groundwater and Leachate Treatment Plant commissioning activities were completed.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included capping basins and the on-site landfill, treating leachate, monitoring groundwater, excavating, and disposing of contaminated soil, extracting and treating groundwater and leachate, and implementing institutional controls. Active cleanup activity at the site is completed and the site is in Operation and Maintenance phase.
+
+Under EPA oversight, FMC Corporation (FMC) performed various cleanup activities at the Avtex Fibers Site. In the former plant area east of the railroad tracks, all above-ground structures have been removed. Soils exceeding the Operable Unit 10 cleanup standards have been excavated and shipped off-site to appropriate disposal facilities. The underground sewers have been removed and the remediation of the plant area east of the railroad tracks is complete. The Groundwater Leachate Treatment Plant is constructed and fully operational.
+
+Throughout the site, FMC is controlling erosion, collecting, and treating contaminated storm water, and maintaining site security.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2023 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/100001269) found the remedy to remain protective of human health and the environment in the short-term. There are no current exposures to soil or groundwater contamination apart from OU-10. A complete ecological exposure pathway exists at OU-10 between contaminated soils and ecological receptors due to lack of significant redevelopment in that portion of the site. The ecological habitat is beginning to regenerate due to the lack of redevelopment. For the remedy to be long-term protective, the Five-Year Review states that EPA should complete habitat and vegetation removal at OU-10 and implement an Operations and Management plan to reduce the potential for ecological exposure.
+
+EPA began habitat and vegetation removal activities in late 2022 at OU-10. The second phase of habitat and vegetation removal began in April 2023. This second phase included debris removal and consolidation. EPA completed grading and topsoil work in June 2023 and installed erosion matting and seeding in Fall 2023.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prevent installation of new drinking water supply wells where there is still groundwater contamination and to protect the integrity of the remedy by restricting land use. Additional information about the institutional controls is available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/100001269) (pages 18-23).
+
+### Sampling and Monitoring
+
+Groundwater monitoring is conducted annually. Site monitoring and inspection are conducted quarterly.
+
+### Emergency Response and Removal
+
+Site cleanup has also included several removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions between 1989 and 2005 included the demolition of site buildings, operation of an on-site wastewater treatment plant, removal of abandoned process chemicals, excavation of contaminated sewer lines, closure and capping of industrial waste basins, debris consolidation and removal, and the removal of contaminated soil.

@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Rentokil, Inc. Site is located in Richmond, Henrico County, Virginia. The 10-acre former wood treating plant operated from 1957 to 1990. Chemicals used during operations included pentachlorophenol (PCP), creosote, chromated copper arsenate, chromated zinc arsenate, fuel oil no.2, xylene, and fire retardants. From 1982 to 1990, wood treating operation used only the chromated copper arsenate process. An open earthen pit was used for the discharge of waste processing fluids from 1957 to 1963. In 1963, the earthen pit was cleared, cleaned, and replaced with a concrete holding pond under the direction of the Virginia State Water Control Board because of three fish kills in a nearby pond. Approximately 1,100 to 1,400 pounds of chromated copper arsenate were rendered unusable and were disposed of in a ditch on the site in either 1976 or 1977. In 1987, Rentokil, the Potentially Responsible Party (PRP) for the site, and EPA signed a Consent Order (CO) to determine the nature and extent of contamination and identify alternatives. The investigation determined that the groundwater, soil, and surface water are contaminated with PCP, creosote derivatives, copper, chromium, arsenic, and dioxin from the plant operations. Approximately 1,500 people live within a one-mile radius of the site. When the site was placed on the National Priorities List (NPL) in 1989, approximately 350 people used drinking water from wells drilled into the aquifers of concern. In 1987, water lines were extended to those residents living near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+- In the spring of 1991, all of the wood treating equipment was removed from the site. In March 1992, Virginia Properties, Inc. (VPI, a wholly owned subsidiary of Rentokil), and EPA entered into a Removal Consent Order to design, construct, and maintain sediment control structures to reduce further migration of sediment containing arsenic, chromium, copper, and zinc to the unnamed tributary to North Run Creek.
+- The [Record of Decision (ROD)](https://semspub.epa.gov/src/document/03/137867) which defines the final cleanup approach for the site was finalized by EPA in June 1993. VPI signed a Consent Decree (CD) to design and implement the clean-up remedy in February 1994. The remedy included demolition of remaining structures, excavation and off-site disposal of the unusable chromated copper arsenate, excavation and off-site incineration of pond sediments, construction of a cap, low temperature thermal desorption of "hot spot" soil, a slurry wall, a dewatering system (horizontal wells) within the cap/slurry wall, and restoration of three wetland areas. Based on an analysis by VPI., EPA [amended the cleanup decision](https://semspub.epa.gov/src/document/03/137878) in August 1996 to delete the low temperature thermal desorption of the "hot spot" soil.
+- EPA and VADEQ accepted a proposal made by VPI during the design phase to incorporate possible redevelopment of the site after completion of the remedy. The proposal included light industrial/commercial buildings constructed on the site with the building foundations incorporated into the cap, a concept termed "divider walls."
+- Construction of the cleanup systems were completed in August 1999. EPA, the Virginia Department of Environmental Quality (VADEQ), the U.S. Army Corps of Engineers (USACE), VPI and their contractors conducted a pre-final inspection on August 3, 1999 and determined that the systems were constructed in accordance with the remedial design plans and specifications.
+- The remedial action included the following components:
+	- demolition,
+	- off-site disposal of contaminated material,
+	- construction of a slurry wall,
+	- installation of a dewatering system,
+	- installation of divider walls,
+	- installation of monitoring wells,
+	- wetland restoration, and
+	- construction of a cap.
+- EPA is presently overseeing the long-term groundwater cleanup of the Rentokil Site. VPI. pumped contaminated groundwater from within the cap/slurry wall containment area and treated the groundwater at an off-site facility until May 2005, when EPA and VDEQ agreed to a moratorium on the recovery and treatment of the groundwater. The moratorium has been extended indefinitely.
+- In the winter of 2009, EPA deleted a portion of the Site to accommodate industrial/commercial development. This partial deletion includes the soil and sediment at former Wetland Areas B and C and the groundwater at former Wetland Area C. The remaining areas and media of the Site, including the groundwater at former Wetland Area B, will remain on the National Priorities List (NPL)
+- Since the end of the remedial action, EPA and VPI had been investigating high levels of PCP contamination in the area of monitoring well VPMW-2. These investigations include placement of additional wells (delineation wells), soil sampling, and a pilot study. The pilot study occurred in October 2007. The results, however, were not conclusive. Therefore, a focused feasbility study (FFS) was performed and submitted to EPA in November 2012. Based on the remedial alternatives in the FFS, EPA determined that extending the existing remedy containment system (which includes the original cap and slurry wall) was the most viable remedial option to address PCP contamination north of the orginal containment system. EPA documented this information in a December 2013 [Determination of Necessary Additional Response Action](https://semspub.epa.gov/src/document/03/2184308).
+- In 2016, the cap and slurry wall were extended to enclose an approximately one and a half (1.5) acre area located to the north of the original cap area. The cap was extended to contain residual PCP impacted soils and prevent the infiltration of stormwater, as well as any potential contact with impacted surface soils.
+
+### What Is the Current Site Status?
+
+- EPA issued the fifth [Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2348677) report for the site in July 2023.
+- EPA determined that the remedy is protective of human health and the environment.
+- The cap prevents direct exposure to contaminated soil. The groundwater contamination remains within the containment area on the Site.
+- The Site is fenced, and monitoring is performed to ensure the integrity of the remedy.
+- Institutional controls are also in place to prohibit residential land use, prevent the use of impacted groundwater, and protect the integrity of the remedy.
+- EPA will continue to conduct FYRs to ensure that the remedy remains protective.
+- The next Five-Year Review is scheduled for 2028.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+There are Institutional Controls (ICs) for the Site. Institutional Controls are administrative and legal controls that help protect human health, the environment, and the site's cleanup. Institutional Controls were implemented through a Restrictive Covenant in 2005. The Restrictive Covenant prohibits residential development, the use of groundwater at the site, and disturbance of the cap. In 2019, the Restrictive Covenant was amended to include Cap Area 2. There is no Institutional Control requiring mitigation of vapor intrusion on the site. EPA has found that vapor intrusion does not pose a risk to human health on the site.
+
+The [Fifth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2348677) provides an overview of the Site's current Institutional Controls. In the Fifth Five-Year Review, the Institutional Control Review section on page 12 and Appendix C provide a more detailed overview of the Site's Institutional Controls.

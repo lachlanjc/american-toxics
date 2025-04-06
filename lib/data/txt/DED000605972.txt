@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 27-acre Delaware Sand & Gravel Landfill Superfund Site is located in New Castle, Delaware. Between 1968 and 1976, the landfill accepted municipal and industrial wastes including drums containing organic and inorganic chemicals. Waste and leachate from the landfill contaminated soil and groundwater with hazardous chemicals.
+
+The site was placed on the Superfund program's National Priorities List in September 1983. Following several cleanup actions, operation and maintenance activities are ongoing. Additional cleanup actions are planned.
+
+### What Has Been Done to Clean Up the Site?
+
+Several cleanup measures have been implemented at the site including:
+
+- Installation of an underground slurry wall around the Drum Disposal Area.
+- Excavation and off-site disposal of drums and contaminated soil.
+- Construction and operation of a bio-venting system which supplied oxygen to live microbes in the soil from 1997 to 2009, enabling them to break down hazardous substances.
+- Installation of multi-layer landfill caps at two waste disposal areas of the site: the Inert Area and the Grantham South Area.
+- Extraction of contaminated groundwater from the Upper Potomac Aquifer with onsite treatment and discharge to surface water or discharge to the local wastewater treatment plant.
+
+Since 2000, the Artesian Water Company, which supplies water to the community, has been treating water from its Llangollen well field with carbon to remove the chemical bis(2-chloroethyl)ether (BCEE), a contaminant which has been traced to the Delaware Sand & Gravel Landfill Site. In 2014, Artesian installed an ultra violet/hydrogen peroxide treatment system at the Llangollen well field to remove 1,4-dioxane, a contaminant from the Delaware Sand & Gravel Landfill Site and the adjacent Army Creek Landfill Superfund Site. Artesian also installed an additional filtration system in 2019 to remove manganese associated with the Delaware Sand & Gravel Landfill Site and the Army Creek Landfill Superfund Site. Visit [Artesian Water Company's website](http://www.artesianwater.com/customer-service-center/artesian-water-quality-reports) for information on drinking water quality testing results.
+
+In April and June 2013, volatile organic compounds (VOCs), including benzene, 1,4-dichlorobenzene, ethylbenzene, trichloroethylene, 1,2,4-trimethylbenzene and xylenes, were detected in outdoor and indoor air samples collected at a small office building adjacent to the Inert Area. While the source of the VOCs was not confirmed, several of the VOCs detected in the indoor air samples at concentrations that exceed the industrial air screening level are contaminants of concern in the site groundwater. These contaminants were also detected in soil gas samples collected at the site in 2006.
+
+EPA performed calculations of potential health risks using the test results from the air samples collected in June 2013. The estimated risks for exposure to outdoor air did not exceed EPA’s criteria for acceptable risk. However, the estimated risks for exposure to air inside the office building exceeded EPA’s criteria for acceptable risk. In November 2014, the Delaware Sand & Gravel Remedial Trust installed and began operating a sub-slab depressurization system (SSDS) at the office building to mitigate the potential for migration of vapors, including methane, into the building. Indoor air samples collected following installation of the SSDS showed that VOC levels were within EPA’s acceptable risk range, indicating that the SSDS is working effectively. In 2017, the Delaware Sand & Gravel Remedial Trust installed a landfill gas mitigation system along the borders of the Inert Area and the Grantham South Area to prevent landfill gas from migrating into buildings on adjoining properties.
+
+### What Is the Current Site Status?
+
+In 2016, the Delaware Sand & Gravel Remedial Trust began monitoring groundwater for perfluoroalkyl substances (PFAS). EPA will evaluate the monitoring results to determine if these contaminants need to be addressed by the response actions at the site in the future.
+
+EPA issued a Record of Decision Amendment (PDF) for the site in December 2017 to address source material at the Drum Disposal Area and groundwater contamination. The Delaware Sand & Gravel Remedial Trust completed pre-design investigations and is currently performing the remedial design for the selected remedy in accordance with a 2018 Administrative Order on Consent.
+
+EPA has conducted several five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment, and function as intended by the decision documents. The most recent, [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306155), concluded that the remedy is currently protective of human health and the environment. The next five-year review is scheduled for 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls at the Delaware Sand & Gravel Site include restrictions that prevent any future use of the waste management areas that could compromise the effectiveness of the cleanup and restrictions preventing the installation of drinking water wells.
+
+Additional information about the institutional controls are available in the [2020 Five Year Review (PDF).](https://semspub.epa.gov/work/03/2306155.pdf)

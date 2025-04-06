@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 24-acre Kim-Stan Landfill site is located in Alleghany County, a predominately rural county in west central Virginia. The landfill is in a mixed commercial-residential area of Selma, Virginia, along the southern edge of VA Route 696, approximately 1,000 feet south of the Jackson River, and near a string of ponds that drain into the Jackson River. The Kim-Stan Landfill operated as a sanitary/industrial landfill for almost 20 years, and reportedly received approximately 865,000 tons of waste between November 1972 and May 1990. The depth of the waste buried at the landfill has been estimated at up to 80 feet thick.
+
+Wastes known to have been disposed at the landfill include: 5,000 gallons of waste oils containing polychlorinated biphenyls (PCBs); unknown quantities of aluminum sludges containing mercury; asbestos; and medical waste. Test pit data and information collected by local citizens indicate that landfilled wastes were derived from a wide range of sources, including hospitals, light industrial plants, manufacturing plants, automobile repair shops and dry cleaners.
+
+This site was added the National Priorities List (NPL) in July 1999, making it eligible for federal investigation and cleanup under the Superfund program.
+
+### What Has Been Done to Clean Up the Site?
+
+Beginning in 1982, a number of organizations, including EPA and the Commonwealth of Virginia, began collecting environmental samples to assess the surface water runoff and leachate presentat the landfill. The sampling results indicated that hazardous substances were entering the environment from the landfill, contaminating groundwater and surface water.
+
+The landfill was shut down by court order in May 1990. When operations ceased, the active part of the landfill remained uncovered. The thickness of the soil cover over the rest of the landfill generally did not exceed six inches. Although the Commonwealth of Virginia and Allegheny County undertook several measures to improve conditions at the landfill, surface runoff and leachate discharge continued to pose environmental concerns.
+
+In June 2000, Alleghany County began a stormwater diversion project designed to intercept clean surface water and groundwater flowing down from the Rich Patch mountains and convey the clean water around the landfill. The stormwater diversion project was successfully completed in 2001.
+
+Also in 2000, EPA conducted a Remedial Investigation to determine the nature and extent of contamination and a Feasibility Study to consider methods of addressing ongoing site risks. As part of the Remedial Investigation, air, soil, surface water, sediments, and groundwater samples were collected, and a risk assessment was completed.
+
+In 2002, the EPA issued the Record of Decision (ROD) for the site. The ROD identified the cleanup approach for the site, which was divided into two portions. The first portion included construction of a pipeline to carry leachate to the Allegheny County sewer system, and the second portion included construction of a leachate collection system.
+
+EPA began the remedial action at this site in October 2005. Phase I of the remedial action included upgrades to the Low-Moor waste water treatment plant that increased capacity by 250,000 gallons. Construction of a dedicated leachate line to transportleachate from the landfill to the wastewater treatment plant was also completed in 2007.
+
+EPA completed all phases of the cleanup, including the leachate collection system, in August 2009.
+
+### What Is the Current Site Status?
+
+In March 2012, the Commonwealth of Virginia took over the long-term responsibility for operation and maintenance of the site after EPA completed the remedial action. The state continues to oversee the operation and maintenance.
+
+EPA has completed three five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312246), concluded that the remedy continues to be protective of human health and the environment in the short term because there are no complete human exposure pathways to contaminated groundwater, landfill waste or landfill gas. Consolidation of landfill waste under the cap prevents direct contact with waste, and the collection trench and barrier walls prevent migration of wastes from the landfill property. Environmental monitoring is ongoing and institutional controls are in place to protect the integrity of the remedy and to prevent use of contaminated groundwater. In order to be protective in the long-term, additional monitoring wells need to be installed to support further analysis of chemicals and metals present in the landfill. The next five-year review will be completed in December 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls are in place to prevent access to contaminated groundwater and soil. More information about these controls can be found in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312246) pages 10-11.

@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Chem-Solv, Inc. site is located on a 1.5-acre property in Cheswold, Delaware. Chem-Solv was a small solvent distillation facility beginning in 1982.  
+  
+The facility recycled waste solvents, but in 1984 an explosion and fire at the site destroyed the facility. After the fire, authorities evaluated the Columbia Aquifer beneath the site and found high concentrations of volatile organic compounds (VOCs), primarily trichloroethene (TCE).  
+  
+The site was proposed to the Superfund program's National Priority List (NPL) in January 1987 and added to the NPL in August 1990. In 1995, TCE was found in a private water supply well located immediately downhill from the facility at levels 200 times greater than the drinking water standard.
+
+Following cleanup, operation and maintenance activities are ongoing.
+
+The site was proposed for deletion from the National Priorities List (NPL) on March 22, 2022. On August 18, 2022, Chem-Solv, Inc. was officially deleted from the NPL.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1985, the state excavated and treated 1,300 cubic yards of contaminated soil and installed a groundwater recovery system which it operated from 1985 to 1988. The system reduced the TCE concentrations from the 200-300 parts per million range to the 1 part per million range.  
+  
+In March 1992, EPA issued a Record of Decision (ROD) that required additional recovery of contaminated groundwater in order to reduce contaminant concentrations in the Columbia Aquifer to the level of drinking water standards. The ROD also restricted the use of groundwater in the contaminated aquifer until cleanup levels are achieved. It also provided for an alternate water supply to area residents, if necessary.  
+  
+In 1992, EPA issued an order to 33 companies (potentially responsible parties - PRPs) requiring them to carry out the cleanup laid out in the ROD. As required by the ROD, the PRPs immediately provided bottle water to the owners of the contaminated private wells. In 1996-1998, the PRPs replaced two private wells with wells that tap a deeper, uncontaminated aquifer, and replaced six uncontaminated private wells downgradient of the site, with deeper wells.  
+  
+Groundwater recovery and treatment was conducted from 1997-2017. In 2017, groundwater sampling showed concentrations had dropped below cleanup levels and groundwater extraction and treatment was conditionally discontinued.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+The PRPs continue to monitor groundwater to verify concentrations remain below cleanup levels. The ongoing operations and maintenance activities include quarterly sampling of site groundwater monitoring wells and semi-annual sampling of potable wells. A groundwater management zone that restricts groundwater use will remain in place until determined unnecessary.  
+  
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and that they function as intended by site decision documents. The most recent, [2018 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2260560), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2023.
+
+On August 18, 2022, the Chem-Solv, Inc. Superfund Site was officially deleted from the National Priorities List; the official deletion can be read in the Federal Register [here](https://www.govinfo.gov/content/pkg/FR-2022-08-17/pdf/2022-17480.pdf).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prevent the use of groundwater. Additional information about the institutional controls is available in the [2018 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2260560) (page 10).

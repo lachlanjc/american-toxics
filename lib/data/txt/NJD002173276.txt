@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The American Cyanamid Superfund site is in Bridgewater Township, New Jersey. Prior owners used the 575-acre site for numerous chemical and pharmaceutical manufacturing operations for more than 90 years.
+
+As part of the operations, waste was placed in large pound-like structures called impoundments, and soil and groundwater became contaminated with various [volatile organic compounds (VOCs)](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds), semi-volatile organic compounds (SVOCs), and metals.
+
+EPA added the site to the Superfund program’s National Priorities List (NPL) in September 1983 after contamination was found in impoundments, soil, and groundwater. The New Jersey Department of Environmental Protection (NJDEP) served as the lead agency overseeing work at the site until March 2009, when EPA assumed the lead role. EPA deleted a 140-acre portion of the 575-acre site from the NPL in 1998, leaving 435 acres to be cleaned up. The 140-acre parcel of land had primarily housed administrative and laboratory buildings and it was redeveloped for commercial use. All manufacturing at the site stopped in 1999. Most buildings were demolished by 2000. Wyeth Holdings LLC (Wyeth), a subsidiary of Pfizer Inc., purchased the site in 2009 and assumed responsibility for its cleanup. The site’s long-term cleanup is ongoing.
+
+Since the early 1980’s, the property owners cleaned up more than 80 acres and addressed over one million cubic yards of impoundment material through several different cleanup actions and have extracted and treated groundwater from the site’s pumping wells to curtail the spread of contaminated groundwater from the site.
+
+More recently under EPA oversight, Wyeth installed a groundwater removal system and protective barrier to capture highly contaminated groundwater in 2011. This action reduced the potential for contaminants to migrate to the Raritan River and Cuckel’s Brook.
+
+EPA finalized a [site-wide cleanup plan](https://semspub.epa.gov/work/02/123552.pdf) to address site soil, groundwater, and the contents of six impoundments in 2012. The groundwater component of the site-wide cleanup, which was includes a pump and treat system constructed and maintained by Wyeth is already in operation and engineering work to complete the rest of the cleanup is underway. Wyeth has also cleaned up impoundments 15 and 16, which has largely been completed. The remaining cleanup work includes stabilizing impoundment material, constructing a protective cover, implementing revegetation activities, and additional site-wide cleanup actions. The two most contaminated impoundments, Impoundments 1 and 2, were evaluated by EPA separately due to the highly complex nature of their contamination and their proximity to the Raritan River. A [cleanup plan for these impoundments](https://semspub.epa.gov/work/02/550185.pdf) was finalized in 2018. Wyeth is in the process of desiging the cleanup for the impoundments and, as part of that process, has been conducting detailed pilot studies..
+
+### What Has Been Done to Clean Up the Site?
+
+Wyeth is currently cleaning up the 435-acre site through four separate actions, all under EPA oversight:
+
+**Site-wide:** The [site-wide cleanup plan](https://semspub.epa.gov/work/02/123552.pdf) presented in an EPA 2012 decision document called a Record of Decision (ROD) calls for binding contaminated soil and sediment by introducing additives to solidify the material. This treatment process is known as solidification and stabilization. The ROD also calls for installing engineered capping systems to address three highly contaminated impoundments and contaminated soil. Capping systems place an impermeable cover over soil or contaminated material to prevent the spread of contaminants. Finally, the ROD requires that contaminated groundwater be collected and treated using an on-site water treatment system. The site-wide cleanup design is addressed in two components: (1) impoundments and site-wide soil, and (2) groundwater. The design of the groundwater treatment component was completed in 2018 and has been fully operational since March 2019. The design of the impoundments/soil component is ongoing.
+
+Wyeth is also completing an ecological risk assessment to determine whether more cleanup work is needed for three additional impoundments. An ecological risk assessment is the process for evaluating how likely it is that the environment might be impacted as a result of exposure to one or more environmental stressors.
+
+**Impoundments 1 and 2:** Due to the complex nature of the contaminants within impoundments one and two and the nearby Raritan River, impoundments 1 and 2 were not included in the site-wide remedy.
+
+The cleanup plan for these two impoundments is detailed in a September 2018 ROD and includes excavating and destructing acid tar waste that are found in the impoundments. Under this plan, clay and berm materials contaminated with acid tar waste will be solidified and stabilized and the entire impoundments topped with a protective cover. The engineering design work needed for this work for impoundments 1 and 2 started in early 2019 and a field demonstration study began in May 2020 and continued in 2021 and 2022.
+
+**Impoundments 15 and 16:** 81,000 cubic yards of iron oxide material within impoundments 15 and 16 were removed and recycled off-site. That work was completed in February 2015. Soil below these impoundments and the re-vegetation of the area will be addressed as part of the site-wide cleanup.
+
+**Short-term (Removal) Action:** After liquid material containing 20,000 parts per billion of benzene was found seeping along the site banks of the Raritan River in fall 2010 Wyeth built a trench and treatment system. The system was completed in 2012 and integrated into the site-wide groundwater cleanup plan in 2019.
+
+**Impoundment 8 Closure:** Under New Jersey Department of Environmental Protection (NJDEP) authority, Wyeth recently closed the Impoundment 8 facility in 2021. Wyeth redistributed and regraded waste material within the facility to a lower profile, upgraded the stormwater management system and improved aesthetics. In 2022, a final engineered cover system was put in place, along with a vegetative cover.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+To protect people from contamination in the future, NJDEP established institutional controls restricting the use of groundwater under the 140-acre portion of the site referred to as the Hill Property. This included a groundwater classification exception area (CEA) and a well restriction area (WRA) to prevent exposure to underlying groundwater contamination. Institutional controls are administrative or legal controls like deed restrictions that restrict activities at a site. Institutional controls minimize human exposure to contamination, protect the effectiveness of a cleanup action and ensure the cleanup is compatible with future reuse. NJDEP establishes a CEA to provide notice that groundwater contamination exists within a specific area. A WRA restricts the use of wells within the area for drinking water.
+
+For the entire site, EPA intends to implement the following institutional controls: deed restrictions, restrictive covenants, and the establishment of a CEA/WRA. NJDEP and Wyeth are developing a site-wide CEA/WRA to restrict drinking groundwater until it has been cleaned up. While contaminated impoundments and soil remain at the site, the site is fenced and patrolled by security to restrict access and prevent exposure to contaminated materials. The surrounding communities receive drinking water from sources that do not use the site groundwater.

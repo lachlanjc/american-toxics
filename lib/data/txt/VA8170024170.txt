@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Naval Weapon Station Yorktown (NWSY) site is located on the Virginia Peninsula in York and James City Counties, Virginia, and is bounded on the northwest by Naval Weapons Station Yorktown Cheatham Annex and on the northeast by the York River. The NWSY was established in 1918 to support the laying of mines in the North Sea during World War I. For 20 years after World War I, the depot continued to receive, reclaim, store, and issue mines, depth charges, and related materials. During World War II, the facility was expanded to include three Trinitrotoluene (TNT) loading plants and new torpedo overhaul facilities. A research and development laboratory for experimentation with high explosives was established in 1944. In 1947, a quality evaluation laboratory was developed to monitor special tasks assigned to the facility which included the design and development of depth charges and advanced underwater weapons. On August 7, 1959, the depot was renamed Naval Weapons Station Yorktown.
+
+Today, the primary mission of NWS Yorktown is to provide ordnance, technical support, and related services to sustain the war-fighting capability of the armed forces in support of national military strategy. Past/present activity resulted in contamination of the soil, groundwater, surface water and sediment with Volatile Organic Compounds (VOCs), Chlorinated Volatile Organic Compounds (CVOCs), Polycyclic Aromatic Hydrocarbons (PAHs), metals, municipal and construction waste materials as well as explosives related contaminants. The Site was added to the Superfund program's National Priorities List (NPL) in October,1992. The Federal Facilities Agreement (FFA) negotiated between the Navy, EPA, and Virginia Department of Environmental Quality (VADEQ) was signed in August 1994.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. An August 1994 a Federal Facilities Agreement (FFA) between EPA, and the Navy identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 16 operable units (OUs) being addressed under the Superfund program with additional areas being investigated for PFAS contamination.
+
+EPA has signed 12 Records of Decision (RODs) selecting remedies for 16 OUs::
+
+- **OUs 7, and, 14 Burn Pad Residue Landfill (Site 4)** – Following a removal action for waste in 1994, a removal of soil/waste in 2003 and a soil removal action in 2005, a No Further Action ROD for Soil/Waste was signed in September of 2005. A separate ROD was signed for Groundwater (GW), Surface Water (SW) and Sediment (SD) in 2011
+- **OU 1, Surplus Transformer Storage Area (Site 5)** – After a 1982 removal action of soil/waste at the 1,000 sq/ft stored Surplus transformer area, a ROD for all media was signed in September 1994.
+- **OUs 8 and 16,**
+	- **Abandoned Explosives Burn Pits (Site 11)** – After a year 2000, 0.5-acre waste ash and soil removal and disposal action and the Burn Area, an No Further Action ROD for all Media was signed in September of 2010.
+	- **Holm Road Landfill (Site 17)** – A soil removal action was completed in 2000 and a ROD was signed in September of 2010.
+- **OU 5, West Road Landfill (Site 16)** – After a 1992 surface debris and waste removal action that was associated with the Site 16 Scrap metal storage area was performed, a ROD was signed in September 1995 for soil and groundwater.
+- **OU 9 (Site 18) Building 476 Discharge Area** – After Findings of Fact and Remedial Investigation/Feasibility Study for the 1320 feet of drainage ditch, a No Further Action ROD was signed in September of 2005
+- **OUs 7 and 14 (Site 21) Battery and Drum Disposal Area** – After a waste and soil removal action in 1994 and a soil removal action was performed in 2002, a No Further Action ROD for soil/waste was signed in September of 2003. An additional ROD for GW, SW and SD was signed in 2011.
+- **OU 12 (Site 27) Building 1751 Chemistry Laboratory, Neutralization and Drainage Area** – Investigations at Site 27 determined that the Site poses no unacceptable human health or ecological risk from exposure to soil, groundwater, surface water or sediment, therefore no CERCLA remedial action was necessary. The No Further Action ROD was signed September of 2006.
+- **OU 24 (Site 28) Building 28 X-Ray Facility Tank Drain Field** – The No Further Action ROD for all media was signed in 2011.
+- **OU 13 (Site 29) Lee Pond** – The No Further Action ROD for all media was signed in 2009.
+- **OU 11 (Site 30/AOC 22) Bracken Road Incinerator and Environs (former SSA-24)** - After a 0.1-acre soil removal action in 2008, an No Further Action ROD for all media was signed in 2011.
+- **OU 23 (Site 23) Wetlands Downgradient of Beaver Pond** - After a contaminated sediment removal action was completed in 2009, a No Further Action ROD for Surface Water and Sediment was signed in 2011. A site investigation for Soil and Ground Water was performed in 2013 with findings of No Further Action.
+
+### What Is the Current Site Status?
+
+There are currently 16 Sites under investigation which may require a remedy at the site.
+
+The Navy has the lead role for cleaning up NWS Yorktown.
+
+Per the Federal Facilities Agreement between, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current Site Status, see ( [https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/Yorktown-NWS/Site-Descriptions/](https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/Yorktown-NWS/Site-Descriptions/) ).
+
+A full list of activities for each operable unit can be found under the *Cleanup Progress* section.
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review can be found in the [Navy's online Administrative Record](https://administrative-records.navfac.navy.mil/?LZU3RVUX4G4XWK). The next five-year review is scheduled for 2028.

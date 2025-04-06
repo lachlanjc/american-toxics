@@ -1,2 +1,32 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ordnance Works Disposal Areas site, located in Monongalia County, West Virginia, consists of a six-acre disposal area and a manufacturing plant area which is over 100 acres. The site is in a relatively rural location; the population within one mile is approximately 100. The adjacent Monongahela River supplies drinking water to approximately 60,000 residents, and the water intake is less than a mile downstream of the site. Many private companies operated chemical production facilities at this site since 1941, including ammonia and methanol production, operation of a coke plant, and production of various other organic chemicals. These companies became potentially responsible parties for the site. Contaminated materials from the manufacturing processes were disposed in the disposal area which includes: a landfill, former lagoons, and contaminated soils and sediments. The disposal area is referred to as Operable Unit 1 (OU-1). This site was proposed to the National Priority List (NPL) on October 15, 1984, and formally added to the list on June 10, 1986. Evidence of contamination was also found in a number of locations throughout the manufacturing plant area. The manufacturing plant area is referred to as Operable Unit 2 (OU-2) and was not listed on the NPL. The contamination found in the manufacturing area was addressed through a removal action.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party actions.
+
+OU-1: The long-term remedy, selected in 1989, included construction of a Resource Conservation and Recovery Act (RCRA)-type cap on the landfill, bioremediation of soils and sediments contaminated with polynuclear aromatic hydrocarbons (PAHs), solidification of soils contaminated with heavy metals, post-remediation monitoring, and institutional controls. Treatability studies determined that bioremediation was not cost effective and could not meet cleanup standards in a reasonable timeframe. Therefore, EPA selected a new remedy in September 1999. The new remedy required excavation and off-site thermal treatment of all tar-like material from the Lagoon Area, Scraped Area and stream sediments. The remedy also required consolidation of contaminated soils and sediments into the existing on-site landfill and covering of the landfill with a multi-layer cap. The remedy included the restoration of excavated areas, streams and wetlands, long-term monitoring, and institutional controls.
+
+OU-2: A 1997 removal action included off-site disposal of soil and sediments, removal of water and debris from on-site sumps and pits, backfilling and revegetation of excavated areas, and elimination of physical hazards.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317262) concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2026.
+
+### What Is the Current Site Status?
+
+The site consists of two areas, referred to by EPA as operable units (OUs). OU-1 is the disposal area, which consists of the landfill and lagoons. OU-2 is the manufacturing plant area.
+
+- OU-1: Remedy construction began in the fall of 2001 and finished in September 2003. Operation and maintenance activities are ongoing.
+- OU-2: A 1997 removal action included off-site disposal of soil and sediments, removal of water and debris from on-site sumps and pits, backfilling and revegetation of excavated areas, and elimination of physical hazards. EPA anticipates no further Superfund activity for OU-2.
+
+EPA signed the [Final Close-Out Report](https://semspub.epa.gov/src/document/03/2247893) [(PDF)](https://semspub.epa.gov/src/document/03/2247893) on September 29, 2017 and EPA removed the site from the Superfund program’s National Priorities List on August 21, 2018.
+
+Sites are deleted from the NPL by the EPA, with state concurrence, when all site cleanup goals have been met; no further response is necessary; and the remedy is protective of public health and the environment in the long-term. The Ordnance Works Disposal Areas site was once contaminated with hazardous chemicals due to past industrial practices. Since then, an extensive cleanup, continuous operation and maintenance of the remedy, and regular sampling activities have confirmed that public health and the environment are protected in the long-term.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to protect cap, restrict groundwater use and non-commerical use of anykind in Operable Unit 1 (OU-1). Additional information about the institutional controls are available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317262) (page 12-13).

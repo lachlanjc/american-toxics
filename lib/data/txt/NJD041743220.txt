@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Swope Oil & Chemical Company Site is approximately 2 acres in size and located at 8281 National Highway in an industrial area of Pennsauken Township, Camden County, New Jersey. From 1965 to late 1979, the Swope Oil & Chemical Company operated a chemical reclamation facility which processed solvents, oil, paints and other chemical compounds.The site included one main building, a "distillation house," a drum storage area, an unlined lagoon, a diked tank farm and an area containing buried sludge waste. Waste liquids and sludges were discharged to an excavated, unlined lagoon. Contaminated materials also were placed within a diked tank farm and in an exposed drum storage area. These waste disposal operations contaminated groundwater and soil with hazardous chemicals.
+
+The company was cited in 1975 for operating without proper permits, and again in 1979 for failure to prepare, maintain or fully implement a Spill Prevention, Containment and Countermeasure Plan. The company ceased operation in December 1979, leaving contamianted material in drums, tanks, in an unlined lagoon and as buried sludge at the Site.
+
+Risks at the Site included polychlorinated biphenyls (PCBs), semivolitile organic compounds (SVOCs) and volititle organic compounds (VOCs) in the surface soil. The subsurface soils were contamianted with SVOCs and VOCs. The groundwater contamaintion consists primarily of chlorinated VOCs.
+
+EPA placed the site on the Superfund program’s National Priorities List in September 1983
+
+### What Has Been Done to Clean Up the Site?
+
+The Site was addressed in three stages called Operable Units (OUs).
+
+Following an investigation, the Record of Decision (ROD) for OU1 was issued by EPA on September 27, 1985. The major components of the ROD addressed immediate threats to human health and the environment. This resulted in the removal of tanks and buildings, excavation of buried sludge and lagoon material, and removal of 1.5 feet of PCB-contaminated soils to a goal of 5 parts per million. The removal actviites were completed in August 1989. In addition, the ROD required that a cap be placed over the entire Site and further investigate the extent of subsurface soil and groundwater contamination.
+
+Follwing further investigations, the ROD for OU2 was issued by EPA on September 1991. This ROD addressed contamianted subsurface soil through construction of a soil vapor extraction system and required groundwater monitoring to evaluate the need for a groundwater remedy. Construction of the site-wide cap required under OU1 was postponed to allow the soil vapor extracton system to operate. The soil vapor extraction system operated from September 1997 to july 2005 and removed over 21,000 pounds of contaminants. Post-remediation subsurface soil sampling showed that some contamiantion remained. Also investigations showed contamaintion in the shallow and deep groundwater.
+
+The ROD for OU3 was issued by EPA on September 29, 2010. It called for monitored natural attenuation of shallow groundwater and monitoring of deep groundwater and institutional controls. EPA also announced the decision to construct the cap originally required under the OU1 ROD and whose constrcution had been postponed pending results from treatment of the subsurface soil through operation of the soil vapor extraction system.
+
+Construction of the cap was completed in July 2014. Groundwater monitoring is ongoing.
+
+### What Is the Current Site Status?
+
+Cleanup activites at the SIte have been completed. To ensure that the cleanup activities are functioning as intended, a Classification Exception Area has been put in place and a Deed Notice was filed. EPA continues to monitor the shallow groundwater quarterly and deep groundwater annually.
+
+### Sampling and Monitoring
+
+To ensure that the cleanup activities are functioning as intended EPA continues to monitoring the shallow groundwater quarterly and deep groundwater annually.

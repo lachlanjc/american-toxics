@@ -1,2 +1,26 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Paden City Groundwater site is in a mixed-use area consisting of residential homes and commercial buildings within the town of Paden City in northern West Virginia along the Ohio River.
+
+The site consists of soil and groundwater plumes contaminated with the solvent tetrachloroethylene (PCE) and its breakdown products. PCE is commonly used in commercial and industrial operations such as dry cleaning. Contamination at the site is attributed to historical operations at the former Band Box Dry Cleaning Facility.
+
+The town of Paden City obtains drinking water from public water supply wells which were found to be impacted with PCE. One additional industrial well has also been impacted. Paden City’s air stripper water treatment system went online in May 2020 which removes the contamination from the drinking water. The treated water currently meets State and Federal regulatory standards. The site was proposed to the Superfund program's National Priorities List (NPL) in September 2021 and added to the NPL in March 2022.
+
+### What Has Been Done to Clean Up the Site?
+
+The state of West Virginia began their investigation for potential sources of groundwater contamination when the city’s water authority reported contaminants in the untreated water. In 2018, WVDEP requested EPA assistance to determine the source of the contaminated groundwater plume. EPA in coordination with WVDEP conducted a removal assessment to characterize this Site.
+
+Due to the ongoing risks and identified contamination, EPA conducted a Preliminary Assessment (PA). The goal of the PA was to gather data and information for additional site activities. The PA identified potential source areas at the Site may pose a threat to human health and the Site and warrants further investigation.
+
+Beginning in January 2020, EPA started the Site Inspection (SI) to further define the groundwater contamination. The objective of an SI is to gather information to support a site decision regarding the need for further Superfund action. EPA collected water, soil, and air samples to determine if hazardous substances were present at the Site and if the site poses a threat to human health and the environment.
+
+The SI concluded that the site poses a risk and would require long-term cleanup. In concurrence with the State of West Virginia, EPA decided to propose the site on the National Priorities List (NPL). The NPL is a list of the most serious sites identified for long-term cleanup. On March 16, 2022, Paden City Groundwater Superfund Site was officially added to the NPL.
+
+### What Is the Current Site Status?
+
+- The site was listed on the National Priorities List in March 2022, which made it eligible for cleanup and funding under EPA’s Superfund program.
+- EPA awarded a contract for the Remedial Investigation and Feasibility Study (RI/FS) in June 2022. The purpose of the RI/FS is to understand the nature and extent of contamination at the site and the options available for cleaning it up.
+- EPA and our contractor prepared work plans for the RI/FS in summer/fall 2022.
+- EPA began field work for the remedial investigation in November 2022. The initial fieldwork included the collection of soil, soil gas, vapor intrusion, and indoor air samples.
+- EPA began installing and sampling monitoring wells in June 2023.
+- EPA is preparing for vapor intrusion sampling beginning in late 2023.

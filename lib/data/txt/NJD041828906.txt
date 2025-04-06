@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Fried Industries site is a 26-acre area located in the northwest corner of East Brunswick Township near the border of the Borough of Milltown in Middlesex County, New Jersey. For 25 years, Fried Industries operated the site and manufactured floor finishing products, aqueous detergent solutions, adhesives and algaecides in its building complex and manufacturing areas. The company also produced chemical products from components such as [toluene](https://www.atsdr.cdc.gov/toxfaqs/tfacts56.pdf) and [1,1,1-trichloroethane](https://www.atsdr.cdc.gov/toxfaqs/tfacts70.pdf). At times, site facilities were leased to other companies for the manufacture of automotive antifreeze products. The site includes a pond, a marsh area and several separate wetlands areas. Approximately 49,000 people live in the Township of East Brunswick and about 7,000 people live in the Borough of Milltown.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA found that hazardous wastes were improperly stored on site in 1983, and that site soil was contaminated with [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) (VOCs) and [arsenic](https://www.atsdr.cdc.gov/toxfaqs/tfacts2.pdf). Further examination through 1984 revealed deteriorated buried drums as well as evidence of improper handling, storage, and disposal of hazardous materials. Conditions at the site resulted in contamination of the soil and groundwater.
+
+EPA listed the site on the National Priorities List in June 1986.
+
+EPA pumped about 7,000 gallons of process and septic wastes from underground tanks and transported the wastes off site for treatment and disposal in 1985. East Brunswick Township provided hookups to the public water supply for homes still using residential wells as their source of drinking water.
+
+EPA installed a security fence around the building complex and removed about 1,400 aboveground drums and 4,000 laboratory bottles and containers from the site from 1989 to 1992. Removing hazardous liquids, provision of drinking water supplies and securing the site greatly reduced the potential for exposure to hazardous substances while the site’s long-term remedy was put in place.
+
+EPA selected the cleanup remedy for the site in June 1994. It included demolishing the building complex; removing, treating, and disposing of arsenic-contaminated and VOC-contaminated surface soil; and removing and treating organics-contaminated groundwater by chemical precipitation/activated carbon treatment, followed by discharge to surface water.
+
+The building complex demolition completed in 1998, eliminated physical danger to trespassers caused by the deteriorated state of the main building and surrounding structures, and eliminated potential health hazards resulting from the presence of asbestos in the building.
+
+Contractor trucks began removing contaminated soil, drums and miscellaneous debris from the site in mid-January 1999 and completed the work in June 1999.. The soil cleanup was done in conjunction with removing and disposing off-site more than 600 buried drums, pails and containers, about 12,200 tons of soil and debris, 1,250 tons of concrete, and nearly 600,000 gallons of groundwater. Completion of these activities eliminated the main sources of contamination at the site.
+
+The soil cleanup revealed a greater volume of soil and a large volume of contaminated groundwater that needed to be extracted. EPA updated the design of the site’s groundwater pump-and-treat cleanup plan. Construction of the system began in the fall of 2011 and finished in July 2012.
+
+The site entered long term remedial action (LTRA) phase in July 2013.
+
+EPA issued an Explanation of Significant Differences (ESD) in March 2017 that modified the 1994 Record of Decision. The Explanation of Significant Differences adds institutional controls as a component of the cleanup plan. Institutional controls are non-engineering measures, usually legal controls, intended to limit human activity in such a way as to prevent or reduce exposure to hazardous substances. For the Fried Industries site, EPA filed an institutional control in the form of a Classification Exception Area/Well Restriction Area (CEA/WRA) to enhance the protectiveness of the cleanup plan by reducing the future risk of ingestion of contaminated groundwater by potential users near the Fried Industries site.
+
+As a result of increased VOC concentrations found within the groundwater plume in the vicinity of groundwater monitoring wells, MW-14D and 18D, during the LTRA phase, an investigation was conducted in January 2018 with a primary goal of identifying a residual source. The 2018 investigation identified VOC source material in the overburden soil that could potentially serve as an ongoing source of contamination to the overburden and bedrock groundwater. To further delineate the soil contamination in the vicinity of the MW-18D area, a soil investigation was conducted in April 2021. Results of the investigation identified elevated VOC concentrations in the overburden soil. A supplemental hand auger soil investigation was conducted in June 2021 to verify whether the identified soil contamination in the MW-18D area extended into the adjacent constructed wetlands. The hand auger investigation found elevated concentrations of VOCs in the constructed wetlands as well. To address the source soil contamination, soil excavation will be conducted in the MW-18D area to remove VOC concentrations in soil that exceed NJDEP’s Soil Remediation Standards. The remediation will include removal and disposal of approximately 8,000 cubic yards of VOC contaminated soil. After the soil excavation and site restoration has been completed, two bedrock wells, a groundwater extraction well and a groundwater monitoring well, will be installed to improve groundwater capture in the bedrock aquifer where there are high concentrations of VOCs as well as to continue to monitor concentrations effectively in the groundwater plume. The EPA signed an Explanation of Significant Differences, or ESD in September 2022 to describe the changes made to the cleanup plan and address the additional area of VOC-contamianted soil that will be excavated in late 2023.
+
+The design for the additional soil cleanup is complete and construction activities began in August 2023. Beaver Dam Park was closed during the cleanup.
+
+### What Is the Current Site Status?
+
+The Beaver Dam Park and a trail walkway was opened to the public on November 15. The Township of East Brunswick is redeveloping part of the Fried Industries site by constructing pedestrian walkways to view the wetlands, pond, and marshes. The pedestrian walkways are a way of bringing the site back to beneficial use. The township constructed the first phase of the walkway in Summer 2021.
+
+Pedestrians using the walkways will not be impacted by the site contaminants. The contaminated groundwater at the site is being treated through the groundwater extraction and treatment system. Soil removal will take place at a limited portion of the site and the open walkway does not go through the area where soil removal will occur. The township will complete the second phase of the walkway once all the soil removal and restoration work is complete.
+
+The groundwater extraction and treatment system is operating and the site is in a long-term operation and maintenance phase. A [five year review](https://semspub.epa.gov/work/02/510534.pdf) of the site was completed in February 2022.

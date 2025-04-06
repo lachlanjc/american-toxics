@@ -1,30 +1,38 @@
-SUSSEX COUNTY LANDFILL NO. 5LAUREL, DE 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 37.5-acre Sussex County Landfill No. 5, located in Laurel, Delaware, was operated by Sussex County from 1970 until 1979. The landfill accepted mixed municipal and industrial wastes and, according to a 1978 Congressional report, an unknown quantity of various volatile organic compounds (VOCs). In certain areas of the landfill, wastes were deposited in the ground below the water table, threatening groundwater. The Site was added to the Superfund program's National Priorities List (NPL) on June 24, 1988. EPA deleted the site from the NPL in 2001. Operation and maintenance activities, as well as groundwater monitoring, are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-In ﻿1992, Sussex County conducted an investigation at the site which included the installation of several monitoring wells and sampling of groundwater, surface water, air, soil, and sediments. This investigation confirmed that the groundwater is contaminated primarily with very low levels of VOCs (e.g., benzene and vinyl chloride) and that groundwater is the primary concern at this site. Initial site activities included Sussex County providing bottled water and a water purification system to an affected resident, as well as construction of a water line to supply nearby residents with public water. Sussex County completed the water line construction in September 1995. Nearly all residences have been connected to the water line and domestic wells have been closed. The County continues to monitor groundwater on an annual basis and has filled in depressions on the cover of the landfill to promote proper drainage. The Human Health Risk Assessment conducted by EPA determined that current and potential future risk levels posed by the very low levels of volatile organic compounds (VOCs) in the groundwater are within or marginally above EPA's generally acceptable risk range. The EPA issued a No Action Record of Decision (ROD (PDF) in 1994 that documented the low levels of contamination at the site. In addition, the Delaware Department of Natural Resources and Environmental Control and Sussex County entered into a Notice of Conciliation in 1994 in which the County installed a water line to supply residents downgradient of the landfill with public water, continue groundwater monitoring, and maintain the cover on the landfill. Top of Page
-What Is the Current Site Status?
-Operation and maintenance activities are ongoing and Sussex County continues to monitor groundwater on an annual basis. The most recent, 2020 Five-Year Review (PDF) concluded that the No Action remedy for the site continues to be protective of human health and the environment. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional Controls are in place to restrict groundwater use and future use of the property. Additional information about the Institutional Controls at the site are available in the 2020 Five-Year Review (PDF) (page 8).
-Top of Page
-Sampling and Monitoring
-Five Year Reviews 
-Fourth Five-Year Review Report (PDF)
-Third Five-Year Review Report (PDF)
-Second Five-Year Review Report (PDF)
-First Five-Year Review Report (PDF) 
-Top of Page
+### Background
+
+The 37.5-acre Sussex County Landfill No. 5, located in Laurel, Delaware, was operated by Sussex County from 1970 until 1979. The landfill accepted mixed municipal and industrial wastes and, according to a 1978 Congressional report, an unknown quantity of various volatile organic compounds (VOCs). In certain areas of the landfill, wastes were deposited in the ground below the water table, threatening groundwater. The Site was added to the Superfund program's National Priorities List (NPL) on June 24, 1988.
+
+EPA deleted the site from the NPL in 2001. Operation and maintenance activities, as well as groundwater monitoring, are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1992, Sussex County conducted an investigation at the site which included the installation of several monitoring wells and sampling of groundwater, surface water, air, soil, and sediments. This investigation confirmed that the groundwater is contaminated primarily with very low levels of VOCs (e.g., benzene and vinyl chloride) and that groundwater is the primary concern at this site.
+
+Initial site activities included Sussex County providing bottled water and a water purification system to an affected resident, as well as construction of a water line to supply nearby residents with public water. Sussex County completed the water line construction in September 1995. Nearly all residences have been connected to the water line and domestic wells have been closed. The County continues to monitor groundwater on an annual basis and has filled in depressions on the cover of the landfill to promote proper drainage.
+
+The Human Health Risk Assessment conducted by EPA determined that current and potential future risk levels posed by the very low levels of volatile organic compounds (VOCs) in the groundwater are within or marginally above EPA's generally acceptable risk range. The EPA issued a [No Action Record of Decision (ROD (PDF)](https://semspub.epa.gov/src/document/03/100972) in 1994 that documented the low levels of contamination at the site.
+
+In addition, the Delaware Department of Natural Resources and Environmental Control and Sussex County entered into a Notice of Conciliation in 1994 in which the County installed a water line to supply residents downgradient of the landfill with public water, continue groundwater monitoring, and maintain the cover on the landfill.
+
+### What Is the Current Site Status?
+
+Operation and maintenance activities are ongoing and Sussex County continues to monitor groundwater on an annual basis.
+
+The most recent, [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2295398) concluded that the No Action remedy for the site continues to be protective of human health and the environment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls are in place to restrict groundwater use and future use of the property. Additional information about the Institutional Controls at the site are available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2295398.pdf) (page 8).
+
+### Sampling and Monitoring
+
+**Five Year Reviews**
+
+- [Fourth Five-Year Review Report (PDF)](http://semspub.epa.gov/src/document/03/2206506)
+- [Third Five-Year Review Report (PDF)](http://semspub.epa.gov/src/document/03/2136743)
+- [Second Five-Year Review Report (PDF)](http://semspub.epa.gov/src/document/03/2025484)
+- [First Five-Year Review Report (PDF)](http://semspub.epa.gov/src/document/03/471069)

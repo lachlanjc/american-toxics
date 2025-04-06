@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Fort Dix (formerly a U.S Army base), encompasses approximately 33,000 acres, all of which is located above a Class1-A aquifer that provides potable water for a large area of Central New Jersey. The NPL Site is confined to the 126-acre Fort Dix Landfill which operated as a sanitary landfill from 1950 until 1984. Access to the landfill was not controlled until 1980; therefore records of disposal practices and waste types are incomplete.
+
+As a result of 2005 Base Realignment and Closure legislation, the Army site was realigned, along with McGuire Air Force Base and Naval Air Engineering Station- Lakehurst to become one joint base uniquely capable of projecting air, land and sea power to support national defense.
+
+The Landfill is included within the Dix Basewide New Jersey Classification Exception Area (CEA). The CEA serves as an Institutional Control by providing notice that the groundwater does not meet the standards required by the groundwater classification.
+
+The U.S. Army's Fort Dix Military Reservation, as it formerly was known, and McGuire Air Force Base used the Landfill to bury wastes in a series of trenches, which then were covered with soil that had been excavated from those trenches. In addition, a pit in the southwest of the landfill was reported by the Army to be used to dispose of mess hall grease and grease trap cleansers. Types of waste disposed of in the Landfill include sludges, waste paints and thinners, and pesticides. Cannon Run and an unnamed stream are located nearby and flow into Rancocas Creek. A hardwood swamp is located near the Landfill. Older portions of the landfill were re-vegetated with ash and pine trees, while the newer portions were left to naturally re-vegetate. Newer portions, where refuse was disposed of at elevations above the original grade, suffered from extensive soil erosion and wash-outs which exposed the waste materials. The site is surrounded by woods and dense vegetation which had been open to the public during the hunting season. Unauthorized recreational activities such as dirt biking have occurred near the site. As many as 5,000 people have lived in military housing about 4,000 feet upstream of the Landfill. Approximately 500 people live in Pemberton Township, which also is 4,000 feet from the Landfill. As many as 7,300 residents once had been served by domestic wells within three miles of the Landfill.
+
+### What Has Been Done to Clean Up the Site?
+
+The Army and EPA signed a Record of Decision on September 24, 1991. The selected remedy consists of the following requirements
+
+- To cap the southernmost 53 acres of the landfill, and maintain two feet of existing final cover on the remaining portion of the landfill
+- Instillation of a landfill gas venting and air monitoring system to determine if methane gas and VOC emissions require treatment
+- Installation of a chain link fence around the perimeter of the landfill to restrict access
+- Perform long-term groundwater, surface water, sediment and air monitoring (30 years) pursuant to the New Jersey closure requirements.
+- Long-term Operation and Maintenance (O&M) to provide inspection of and repairs to the landfill cap
+- Implementation of institutional controls (ICs) in the form of deed and water restrictions on future uses of the landfill and groundwater in the immediate vicinity of the landfill
+- Development and implementation of a Soil Erosion and Sediment Control Plan
+- Conduct risk assessments using the data obtained in the monitoring reports.
+- Using the data obtained in the monitoring program, review the risk assessment and subsequently revise the risk assessment if the trend shows significant changes in water quality. These reviews and revisions will be performed within three years of commencement of a remedial action and at least every five years thereafter. Any changes in actual exposure scenarios will be addressed in the revised risk assessments.
+
+In 2016, two emerging contaminants, PFOS (Perfluorooctane Sulfonate) and/or PFOA (Perfluorooctanoic Acid) were confirmed to be present at JBMDL-Dix. PFOA and PFOS are components of a type of fire-fighting foam that has been used since 1970 to extinguish petroleum fires. 27 private wells off-base have been sampled. One well showed detections of PFOA/PFOS at concentrations less than the EPA Health Advisroy of 70 parts per trillion. This private well is included in the quarterly monitoring program.
+
+The AF has undertaken a Remedial Investigation for PFOS and PFOA at confirmed release sites and continues to assess potential on-site sources.
+
+### What Is the Current Site Status?
+
+The Long Term Monitoring Program (LTMP) continues to report satisfactory groundwater levels for a broad array of contaminants which were assumed to be among the unknowns buried in the Landfill. The long term monitoring will be continued until it can be assured that decomposition of the contents of the Landfill are not hazardous either to human health or to the environment. This would require EPA’s determination that the remedy is working and that additional remediation of the Landfill Site is not required. At this time, continued implementation of the institutional controls and the long-term monitoring program will ensure the long-term protectiveness of the remedy.
+
+The Landfill is part of the Five-Year Review Process. By end of FY1999, EPA had approved the first Five-Year Report. EPA's review of the second Five Year Review Report found agreement with the statement that the remedy is protective of human health but noted that recent monitoring detected additional migrant contaminations which could be harmful to the environment. EPA requested installation of additional monitoring wells and conduction of an ecological risk assessment. The ecological risk assessment, completed by the third Five-Year Review, determined that manganese was naturally occurring and that the remedy was protective. Monitoring of the groundwater, surface water and sediment indicated that analytical data are non-detect, below standards, or are declining in concentration over time.
+
+The most recent, the Sixth Five-Year Review Report, was issued in May 2023. The assessment based on this Five-Year review was that the remedy is functioning as intended by the ROD. There have been no changes in the conditions of the site that would affect the protectiveness of the remedy. Continued implementation of the institutional controls and Classification Exception Area will ensure the short and long-term protectiveness of the remedy. Currently none of the constituents of concern outlined in the ROD have migrated beyond the site boundary, and the remedy is considered to be functioning as intended and protective.
+
+The Fort Dix Landfill was delisted from the National Priorities List on September 24, 2012. Regulatory oversight of the Fort Dix Landfill now rests with the NJ Department of Environmental Protection,as part of this oversight, the site remains part of NJDEP's Classification Exemption Area (CEA). However, EPA continues oversight of the Five-Year Review process.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The contaminants of concern have included VOCs and metals. However, currently the site meets all cleanup requirements. None of the contaminants of concern have migrated past the landfill boundary and continued long-term monitoring will ensure the long-term protectiveness.
+
+### Sampling and Monitoring
+
+**Upon** listing this site on the NPL, the EPA performed an initial assessment and determined that the Fort Dix Landfill did not pose an immediate threat to nearby residents while studies leading to final cleanup progressed. Phase I of the remediation was completed early in fiscal year 1992; Phase II was completed in FY 1997. The remedial design, work plans, performance standards, construction quality control measures, Operation and Maintenance, and long-term monitoring plans were reviewed and approved by USEPA and NJDEP. USEPA made a final inspection of the completed work on March 28, 1998. Operation and Maintenance of the landfill consists of annual collection and analysis of groundwater, sediment and surface water samples. In addition, O&M activities include mowing, limiting erosion, and maintaining site security. Site inspections are performed by a Joint Base representative every 30 days and after severe weather.

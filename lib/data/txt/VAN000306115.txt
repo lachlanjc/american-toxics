@@ -1,17 +1,19 @@
-PECK IRON AND METALPORTSMOUTH, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The Peck Iron and Metal Site is located immediately southwest of the intersection of Elm Avenue and Victory Boulevard. The 33-acre Site is an inactive scrap metal recovery facility. The business purchased and processed metal scrap from military bases, other governmental entities and local businesses, including electric power and rail companies. Items processed included electrical transformers containing polychlorinated biphenyls (PCBs), lead/acid batteries, components of naval vessels, aircraft and tanks, insulated copper cables and demilitarized ordnance. Some of the items handled at the facility may have contained radioactive material, specifically radium-226. Radium-226 was used to produce items such as luminous (self-illuminated) instrument dials and watch faces. Early investigations at the Site also found that the soil is contaminated with PCBs and heavy metals, including arsenic, chromium and lead. The Site was added to the Superfund program's National Priorities List on November 4, 2009.
-Top of Page
-What Has Been Done to Clean Up the Site?
-​EPA began preliminary field investigations at the Site in December 2013. The preliminary work included surveying the Site for unexploded ordnance to clear the way for drilling and excavation during field investigations and radiation screening. During the unexploded ordnance survey, a training round was found and qualified Navy personnel removed it from the Site. Radiation screening identified areas on the Site where radioactivity levels were greater than twice the background levels. Further investigations were conducted and lead-214 and bismuth-214, the products of radioactive decay of radium-226, were found in small objects and soil at the Site. After this discovery, the field investigation was suspended and a radiation protection plan was developed for the site. Top of Page
-What Is the Current Site Status?
-Remedial Investigation sampling to determine the nature and extent of contamination at the Peck Iron and Metal Site began in January 2014. The field work is complete, and the Remedial Investigation Report (PDF) was finalized in October 2019. The feasibility study is now underway and is expected to be complete in late 2021. Work and investigations at the Site were broken down into 2 Operable Units (OU). OU1 will address contaminated soil and sediment on the 33-acre Site property.  The feasiblity study for Operable Unit 1 was completed in November 2021. EPA will be issuing its proposed cleanup plan for this area of the Site in 2022. Supplemental Site characterization activities are needed to address remaining data gaps for ground water and sediment in Paradise Creek and the adjoining tidal wetlands. This additional characterization, and an evaluation of remedial alternatives to address unacceptable risk presented by these media, will be performed in an OU2 Remedial Investigation/Feasibility Study after EPA issues a OU1 Record of Decision (ROD). EPA has issued a Record of Decision (ROD) for OU1 addressing the soil and sediment contamination at the Peck Iron and Metal Superfund Site. After reviewing and considering comments submitted by the community, EPA selected the recommended cleanup alternative to remove the principal threat waste and cover remaining low level threat waste with a Virginia Solid Waste Disposal Facility Compliant Cover. 
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+EPA began preliminary field investigations at the Site in December 2013. The preliminary work included surveying the Site for unexploded ordnance to clear the way for drilling and excavation during field investigations and radiation screening. During the unexploded ordnance survey, a training round was found and qualified Navy personnel removed it from the Site. Radiation screening identified areas on the Site where radioactivity levels were greater than twice the background levels. Further investigations were conducted and lead-214 and bismuth-214, the products of radioactive decay of radium-226, were found in small objects and soil at the Site. After this discovery, the field investigation was suspended and a radiation protection plan was developed for the site.
+
+### What Is the Current Site Status?
+
+Remedial Investigation sampling to determine the nature and extent of contamination at the Peck Iron and Metal Site began in January 2014. The field work is complete, and the [Remedial Investigation Report (PDF)](http://semspub.epa.gov/src/document/03/2291584) was finalized in October 2019. The feasibility study is now underway and is expected to be complete in late 2021.
+
+Work and investigations at the Site were broken down into 2 Operable Units (OU). OU1 will address contaminated soil and sediment on the 33-acre Site property.
+
+The [feasiblity study](https://semspub.epa.gov/src/document/03/2321341) for Operable Unit 1 was completed in November 2021. EPA will be issuing its proposed cleanup plan for this area of the Site in 2022.
+
+Supplemental Site characterization activities are needed to address remaining data gaps for ground water and sediment in Paradise Creek and the adjoining tidal wetlands. This additional characterization, and an evaluation of remedial alternatives to address unacceptable risk presented by these media, will be performed in an OU2 Remedial Investigation/Feasibility Study after EPA issues a OU1 Record of Decision (ROD).
+
+EPA has issued a [Record of Decision (ROD) for OU1](https://semspub.epa.gov/src/document/03/2349447) addressing the soil and sediment contamination at the Peck Iron and Metal Superfund Site. After reviewing and considering comments submitted by the community, EPA selected the recommended cleanup alternative to remove the principal threat waste and cover remaining low level threat waste with a Virginia Solid Waste Disposal Facility Compliant Cover.

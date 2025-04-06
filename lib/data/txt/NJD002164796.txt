@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Unimatic Manufacturing Corporation site is in an industrial and residential area of Fairfield, New Jersey, at 25 Sherwood Lane, Block 2301 and Lot 8. The site includes three properties: General Hose Products to the east, National Precision Tools Co. to the south, an office building to the west, and a buried water delivery pipeline for the Jersey City water system to the north.
+
+The site covers approximately 1.23 acres and contains a centrally located building on a partially paved parking lot. Unimatic constructed the building in 1955 to serve as a tool shop and later for its die-casting operations.
+
+Unimatic operated an aluminum die casting manufacturing process at the site from 1955 to 2001. The die casting process involved heating aluminum alloy to approximately 1,200 degrees Fahrenheit in natural gas-powered kilns. The process then injected molten aluminum alloy into a closed vessel (known as a casting die or mold) under high pressure and at a controlled temperature.
+
+Prior to the molten alloy injection, the heated mold was coated with a lubricating oil that contained [polychlorinated biphenyls (PCBs)](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=140&toxid=26). The PCB-contaminated lubricating oil prevented the aluminum from adhering to the molds. Spraying these lubricants resulted in spillage and splatter throughout the interior of the building.
+
+In addition, the facility discharged PCB-contaminated process water and cooling water through leaking wastewater pipes to a discharge point at the northeastern corner of the property. The poorly constructed wastewater pipes allowed the contaminated wastewater to leak into the groundwater, soil, and sediments at the property.
+
+Ongoing investigations and cleanup have taken place at the site since 2001.
+
+GZA GeoEnvironmental, Inc. (GZA), a state-Licensed Site Remediation Professional (LSRP) who worked for Unimatic under New Jersey Department of Environmental Protection (NJDEP) oversight, investigated the site under the New Jersey Industrial Site Recovery Act (ISRA). EPA's Toxic Substances Control Act (TSCA) program assisted NJDEP in its oversight of the site since approximately 2005. GZA GeoEnvironmental, Inc. investigated the soil, groundwater and building interior and excavated about 5,000 tons of PCB-contaminated soil.
+
+However, widespread PCB-contaminated soil remains in the subsurface on the site after excavation activities, both underneath and outside the building. EPA detected high levels of PCBs on the walls, the floor, and the ceiling of the building. Groundwater on the site remains contaminated with PCBs. EPA also detected high levels of pesticides in the soil.
+
+The nearest public drinking water wells are located less than one-half mile from the site. The water supply is monitored regularly to ensure the water quality meets drinking water standards and is safe to consume. The water meets federal and state drinking water standards.
+
+EPA proposed the Unimatic Manufacturing Corporation site for listing on its Superfund National Priorities List (NPL) on May 12, 2013. EPA placed the site on the NPL on June 11, 2014.
+
+EPA issued a [Record of Decision (ROD)](https://semspub.epa.gov/src/document/02/447167) in 2016, a decision document that explains EPA’s plan to clean up PCB/pesticides-contaminated soil and the PCBs-contaminated building at the site. This is the first of two operable units (OUs) planned for the site. The selected cleanup action for Operable Unit 1 (OU1) includes demolishing a contaminated building and excavating and disposing all contaminated soil. The excavated areas will be backfilled with clean soil. The excavated soil and building debris will be disposed of at a regulated landfill.
+
+Aerial photographs collected during the OU1 investigation indicated that site-related contaminants may have travelled off-site to areas downgradient of Unimatic and may have contaminated the sediment, surface water, and groundwater. EPA will address the off-site sediment, groundwater, and surface water in the second phase, known as Operable Unit 2 (OU2), of the cleanup design. EPA completed the investigations of the off-site sediment, groundwater, and surface water in 2020.
+
+### What Has Been Done to Clean Up the Site?
+
+GeoEnvironmental, Inc has removed approximately 5,000 tons of PCB contaminated soil from the Unimatic property, which has reduced some risk associated with the site. However, widespread PCB and pesticides-contaminated soil remains in the subsurface soil of the site, both underneath and outside the building footprint.
+
+### What Is the Current Site Status?
+
+The EPA will continue on-site soil and building contamination at the Unimatic Superfund site.
+
+EPA plans to clean up the site in two phases or Operable Units. These two Operable Units reflect the distinct areas that need cleaning up. The first phase, Operable Unit One (OU1), will address on-site soil and building contamination. Operable Unit 2 (OU2) will address off-site contaminated groundwater and contaminated sediment.
+
+High levels of PCBs remain in the interior of the on-site building. As a result, EPA plans to demolish the building, following strict procedures to control dust during the demolition. Also, EPA’s plan to remove contaminated soil and replace it with clean soil. During the cleanup, EPA will monitor the air to protect the public from any hazardous particles resulting from the demolition and will sample the soil to ensure the effectiveness of the cleanup.
+
+EPA conducted fieldwork for the OU1 remedial investigation/feasibility study (RI/FS) during the spring/summer 2015. An RI/FS is an investigation that examines the nature and extent of contamination and options for cleanup. EPA finalized the plan to clean up OU1 in a September [2016 Record of Decision (ROD)](https://semspub.epa.gov/src/document/02/447167). EPA completed the cleanup design for OU1 in January 2020.
+
+EPA finalized the plan to clean up OU2 in a [September 2020 ROD](https://semspub.epa.gov/work/02/615706.pdf). EPA started the engineering design for OU2 in October 2021.

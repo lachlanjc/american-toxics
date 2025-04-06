@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Iceland Coin Laundry Superfund Site (Site) consists of the former Iceland Coin Laundry and Dry Cleaner facility (former facility), located at 1888 Delsea Drive in the City of Vineland, Cumberland County, New Jersey, and an area of contaminated ground water migrating to the south/southwest of the former facility. The contaminated groundwater plume includes South Delsea Drive, Dirk Drive, Garrison Road, Lois Lane, South Orchard Road, West Elmer Road, and West Korff Drive.
+
+The former facility operated from approximately 1953 to at least 1971. Limited information is available regarding waste disposal areas and systems. Four coin-operated dry cleaner units of eight pound-capacity were present at the laundromat, each using four gallons of tetrachloroethene (PCE). It is not known how often the PCE was refilled.
+
+Two 14-foot deep seepage pits/cesspools with a 40-foot drain field between the pits were used beginning in 1962. According to the former owner, cesspools were located at the front of the building. Septic system design drawings from 1963 indicated effluent from 10 washers discharged to a septic tank, and then continued to flow through a 100-foot field drain and terminated at a 4-foot diameter receptor vessel. The facility was connected to the sanitary sewer in 1986.
+
+From September 1987 to October 1990, the City of Vineland Health Department (VCHD) collected three rounds of potable well water samples from a resident on Garrison Road and found the presence of trichloroethylene (TCE) and PCE. These levels exceeded both the State and Federal Maximum Contaminant Levels (MCLs) and the homeowner was advised to discontinue using the well water for cooking and drinking.
+
+Between December 1990 and September 1991, the VCHD collected drinking water well samples from 55 residences located in the area of Garrison Road and Korff Drive. Sampling results indicated the presence of VOCs, primarily PCE, TCE and 1,2 dichloroethylene (DCE), at concentrations above MCLs in 21 of the 55 residential samples. These 21 wells were estimated to serve approximately 44 people. Potable municipal wells which draws from the same aquifer system are located within 4 miles of the site and serve approximately 28,770 people.
+
+In November 1991, as a result of the potable well contamination, New Jersey Department of Environmental Protection (NJDEP) installed point-of-entry treatment (\[POET) units to the 21 residences as a temporary remedial measure. In July 1994, the Vineland City Water Department extended public water hook-ups to the affected residences.
+
+From November 1991 to November 1996, NJDEP conducted several investigations, including collection of soil gas samples, soil samples, and groundwater samples. PCE and TCE were detected in soil gas samples. Soil sample results were below NJDEP screening criteria. PCE, TCE, and DCE were detected in groundwater samples above New Jersey Groundwater Quality Standards (NJGWQS).
+
+The Site was placed on the National Priority List (NPL) in October 2002. EPA is the lead agency for the Site and is responsibility for conducting the remedial actions and long-term responses. NJDEP is the support agency for these activities.
+
+Site Responsibility: This site is being addressed through Federal and State actions.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed in two stages, immediate actions and long-term remedial phases focusing on cleanup of the site.
+
+Immediate Actions: In November 1991, the NJDEP installed point of entry treatment (POET) units at the 21 affected residences as a temporary remedial measure. From April 1993 to July 1994 the VCHD extended the public water supply mains to the affected area. Service connections from the new mains to the residences were completed in early 1996. Subsequently, EPA identified and connected an additional four residences in 2012.
+
+Long-term Response: The NJDEP conducted an expanded site investigation at the former facility. This investigation included subsurface soil and groundwater sampling.
+
+Between June 2002 and December 2003, EPA conducted remedial investigation (RI) activities at the Site. The activities included source (former facility) area, geologic and hydrogeologic, and ecological investigations. The results of the RI are summarized in the 2006 RI report. In addition, five remedial alternatives were evaluated for remediating the Site. The development and evaluation of alternatives are presented in the 2006 final feasibility study (FS) report.
+
+Based on the RI/FS at the site, PCE, TCE, and cis-1,2-DCE are the contaminants of concern at the Site and the extent of the groundwater plume is approximately 4,700 feet to the southwest. The highest PCE concentration of 290 micrograms per liter (μg/L) was detected at MW-7I (plume area), approximately 2,500 feet hydraulically downgradient (or southwest) of the former facility. TCE was found at a maximum level of 17 μg/L.
+
+A Record of Decision (ROD) was issued by EPA in September 2006. EPA selected in situ biological treatment to treat the 10 μg/L PCE contaminated groundwater plume at the Site. In-situ biological treatment allows for additives to be injected into the groundwater to break down hazardous substances into a less harmful form to people or the environment. In addition, natural attenuation would be monitored for the area outside the 10 μg/L during the 10-year long-term monitoring period. The ROD also stated that nutrient amendments would be injected into the groundwater and monitored during the treatability study, and if necessary, additional injection events would be performed based on periodic monitoring. Monitoring will continue until meeting the cleanup objectives.
+
+A treatability study of the selected remedy was conducted by EPA at the former facility and plume areas between December 2006 and July 2007. EPA installed injection and monitoring wells, injected multiple rounds of amendment, and when necessary, performed bioaugmentation between December 2006 and July 2007. The results of the treatability study found that injection of emulsified vegetable oil (EVO) changed the groundwater geochemistry to anaerobic conditions and promoted reductive dechlorination of PCE to DCE and vinyl chloride.
+
+Based on the treatability study, a full-scale remedial design was developed and implemented using barrier technology to implement enhanced anaerobic biological (EAB) where EVO would be injected into rows of injection wells perpendicular to the groundwater flow direction to establish treatment zones for anaerobic reductive dechlorination of site contaminants.
+
+Between July and October 2011, EPA implemented the full-scale biological barrier through installation of monitoring, extraction and injection wells along the intersection of Garrison Road and South Orchard Street. A baseline groundwater monitoring event capturing current conditions of the contaminated groundwater was performed followed by EVO injection into the subsurface to create a barrier wall that would reduce the migrating PCE contaminated groundwater plume. This bio-barrier was fully implemented by December 2011. Subsequently, additional amendment injection to treat hot spot areas was conducted during the summer of 2015.
+
+In August 2016, EPA submitted the Classification Exemption Area (CEA) application to the New Jersey Department of Environmental Protection (NJDEP) for approval. A CEA restricts the installation of potable and irrigation wells within a designated contaminated groundwater plume area. NJDEP approved the CEA in June 2019. The remedial action report (RAR) for the site was submitted in June 2019 and approved by EPA in August 2019.
+
+The bio-barrier and hot spot treatment injection activities are monitored through periodic sampling events. Seven rounds of post injection sampling events have been conducted between April 2012 and November 2017. The results of these sampling events are documented in groundwater performance evaluation reports. These periodic performance evaluation monitoring events have shown that the mass of the plume has decreased.
+
+Round 8 groundwater performance monitoring was completed in December 2020. Results showed the plume mass stayed the same or decreased since the 2017 sampling.
+
+Round 9 performance monitoring is scheduled for October 2021
+
+A vapor intrusion assessment was conducted at the former Iceland Coin Laundry and Dry Cleaner facility building in the winter 2008, 2009, 2011, 2013, 2014 and 2018. No impact to the indoor air was identified. The next vapor intrusion assessment event scheduled for 2022.
+
+### What Is the Current Site Status?
+
+EPA is entering the 10- year long term response phase. Annual groundwater performance monitoring will be conducted during that phase and if necessary, based on the results of the monitoring, additonal biological amendment injection activities would be conducted.
+
+### Sampling and Monitoring
+
+EPA will perform annual performance monitoring of the groundwater plume and prepare performance evalaution report for each event.

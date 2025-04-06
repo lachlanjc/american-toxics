@@ -1,29 +1,47 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Woodland Township Route 532 and Route 72 sites are located in Woodland Township, Burlington County, New Jersey. The Route 72 site is approximately 12 acres in size and is located 1/4 mile south of Route 72 along Crawley Road. Approximately 800 acres of wetlands are located in close proximity to the Route 72 site. The Route 532 site is approximately 20 acres in size and is located at the end of an access road approximately 1/8 mile south of Route 532.  More than 200 acres of wetland are located downgradient of the former disposal area of the Route 532 site.  Both sites are situated within the Preservation Area District of the New Jersey Pinelands. Both sites were operated concurrently as chemical waste disposal areas from the early 1950s until about 1962.  At the Route 72 site, concrete pads, possible basements, a utility building, and sidewalks existed prior to disposal activities.  Liquids, drums, and general refuse were disposed of in several excavated trenches.  At the Route 532 site, a pine forest existed at the site prior to disposal operations.  Liquids, drums, and general refuse were disposed into a series of bermed areas.  By 1962, most of the disposal areas at both sites had been graded and covered. The sites were placed on the National Priorities List on September 21, 1984. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-In 1990, approximately 37,200 cubic yards and 60,200 cubic yards of waste from the Route 72 and 532 sites, respectively, were excavated and disposed of at an off-site facility.  This effectively reduced the source of continuing groundwater contamination.  After excavation and off-site disposal of contaminated surface soil and materials, the sites were graded and covered with mulch and revegetated to prevent soil erosion. Based on the data collected in a remedial investigation, NJDEP and EPA determined that no remediation was needed for the subsurface soils at both sites. In 1990 a groundwater remedy was selected that required the extraction and treatment of groundwater from the fenced former disposal areas at both sites and of the downgradient plume at the Woodland Township Route 72 site.  Monitored natural attenuation was selected for the downgradient Route 532 site plume. Subsequent environmental evaluations demonstrated that the degree of groundwater extraction required at the Route 72 site would cause groundwater drawdown in the Pineland wetlands and re-injection would raise groundwater levels upgradient of the site, resulting in adverse impacts to the sensitive Pineland ecosystem.  It was determined that groundwater extraction and reinjection would pose a more significant threat to the environment than the contaminant plume.  Further studies identified air sparging and soil vapor extraction as a more appropriate groundwater remedy for the sites.  In 1999, NJDEP amended the remedy to address the contaminated groundwater at the Route 532 and Route 72 sites by using a combination of air sparging and soil vapor extraction in the source areas and natural attenuation of the downgradient plumes. At the Route 532 site, an estimated 44,500 pounds of organic contaminants were biodegraded by air sparging, and another 1,600 pounds of volatile organic contaminants were stripped from the groundwater by July 2005, when air sparging and soil vapor extraction operations ceased. Annual sampling of monitoring wells indicates that contaminant concentrations in groundwater are approaching remediation goals. A combination of air sparging and soil vapor extraction was used to remediate two areas of the Route 72 site.  Remediation was completed at the Route 72 site Phase 1 area in January of 2007. An estimated 46,500 pounds of organic constituents were biodegraded through air sparging, and another 2,960 pounds of volatile organic contaminants were stripped from the Phase 1 area. Sparging began in the Phase 2 area in 2003, and continued through 2009. By 2009, it was estimated that 81,400 pounds of organic contaminants were biodegraded from the Phase 2 area. Biosparging was expanded under Phase 2 and continued from 2011-2012, and then resumed from 2015 to 2018, as Phase 3.
-Top of Page
-What Is the Current Site Status?
-The soil remediation for the Woodlands Route 72 and Woodlands Route 532 sites has been completed.  Ongoing monitoring indicates that concentrations of groundwater contaminants continue to decline. Although groundwater at the sites has not yet met the groundwater remedial goals, there are currently no receptors that could be exposed to groundwater. A five-year review of the site was completed in January 2024 and determined the remedy remains protective of human health and the environment. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Security fencing surrounds the former disposal areas at both sites.  In 1999, a Classification Exception Area/Well Restriction Area was established for both sites.  The Classification Exception Area suspends the designated original uses of the groundwater beneath each site and the Well Restriction Area has been established for each site to prevent the use of ground water as potable water. Top of Page
-Sampling and Monitoring
-A performance monitoring program is in place for the Route 72 site and a monitored natural attenuation sampling program continues for both Route 72 and Route 532 sites. Top of Page
-Enforcement Information
- On March 4, 1985, NJDEP issued a directive to the Rohm and Haas Company, the Minnesota Mining and Manufacturing (3M) Company, Hercules, Inc., and other companies identified as potentially responsible parties to arrange for the investigation and remediation of the sites.  On March 27, 1985, NJDEP entered into an Administrative Consent Order (ACO) with Hercules, Inc. to help pay for the investigative and administrative costs.  On July 6, 1987, NJDEP entered into a similar ACO with 3M and Rohm and Haas Company.  On January 2, 1990, NJDEP entered into a Second Administrative Consent Order (ACO II) with Hercules, 3M and Rohn and Hass.  The purpose of this ACO was to compel the PRPs to remove liquids and sludges from isolated locations on the site’s surfaces.  A third order, ACO III, was signed with Hercules, 3M and Rohm and Hass on June 15, 1990.  It required the respondents to excavate, for off-site disposal, all visibly contaminated surface soils from both sites, as specified in the 1990 selected remedy. Top of Page
+### Background
+
+The Woodland Township Route 532 and Route 72 sites are located in Woodland Township, Burlington County, New Jersey.
+
+The Route 72 site is approximately 12 acres in size and is located 1/4 mile south of Route 72 along Crawley Road. Approximately 800 acres of wetlands are located in close proximity to the Route 72 site.
+
+The Route 532 site is approximately 20 acres in size and is located at the end of an access road approximately 1/8 mile south of Route 532. More than 200 acres of wetland are located downgradient of the former disposal area of the Route 532 site. Both sites are situated within the Preservation Area District of the New Jersey Pinelands.
+
+Both sites were operated concurrently as chemical waste disposal areas from the early 1950s until about 1962. At the Route 72 site, concrete pads, possible basements, a utility building, and sidewalks existed prior to disposal activities. Liquids, drums, and general refuse were disposed of in several excavated trenches. At the Route 532 site, a pine forest existed at the site prior to disposal operations. Liquids, drums, and general refuse were disposed into a series of bermed areas. By 1962, most of the disposal areas at both sites had been graded and covered.
+
+The sites were placed on the National Priorities List on September 21, 1984.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1990, approximately 37,200 cubic yards and 60,200 cubic yards of waste from the Route 72 and 532 sites, respectively, were excavated and disposed of at an off-site facility. This effectively reduced the source of continuing groundwater contamination. After excavation and off-site disposal of contaminated surface soil and materials, the sites were graded and covered with mulch and revegetated to prevent soil erosion. Based on the data collected in a remedial investigation, NJDEP and EPA determined that no remediation was needed for the subsurface soils at both sites.
+
+In 1990 a groundwater remedy was selected that required the extraction and treatment of groundwater from the fenced former disposal areas at both sites and of the downgradient plume at the Woodland Township Route 72 site. Monitored natural attenuation was selected for the downgradient Route 532 site plume.
+
+Subsequent environmental evaluations demonstrated that the degree of groundwater extraction required at the Route 72 site would cause groundwater drawdown in the Pineland wetlands and re-injection would raise groundwater levels upgradient of the site, resulting in adverse impacts to the sensitive Pineland ecosystem. It was determined that groundwater extraction and reinjection would pose a more significant threat to the environment than the contaminant plume. Further studies identified air sparging and soil vapor extraction as a more appropriate groundwater remedy for the sites. In 1999, NJDEP amended the remedy to address the contaminated groundwater at the Route 532 and Route 72 sites by using a combination of air sparging and soil vapor extraction in the source areas and natural attenuation of the downgradient plumes.
+
+At the Route 532 site, an estimated 44,500 pounds of organic contaminants were biodegraded by air sparging, and another 1,600 pounds of volatile organic contaminants were stripped from the groundwater by July 2005, when air sparging and soil vapor extraction operations ceased. Annual sampling of monitoring wells indicates that contaminant concentrations in groundwater are approaching remediation goals.
+
+A combination of air sparging and soil vapor extraction was used to remediate two areas of the Route 72 site. Remediation was completed at the Route 72 site Phase 1 area in January of 2007. An estimated 46,500 pounds of organic constituents were biodegraded through air sparging, and another 2,960 pounds of volatile organic contaminants were stripped from the Phase 1 area. Sparging began in the Phase 2 area in 2003, and continued through 2009. By 2009, it was estimated that 81,400 pounds of organic contaminants were biodegraded from the Phase 2 area. Biosparging was expanded under Phase 2 and continued from 2011-2012, and then resumed from 2015 to 2018, as Phase 3.
+
+### What Is the Current Site Status?
+
+The soil remediation for the Woodlands Route 72 and Woodlands Route 532 sites has been completed. Ongoing monitoring indicates that concentrations of groundwater contaminants continue to decline. Although groundwater at the sites has not yet met the groundwater remedial goals, there are currently no receptors that could be exposed to groundwater. A five-year review of the site was completed in January 2024 and determined the remedy remains protective of human health and the environment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Security fencing surrounds the former disposal areas at both sites. In 1999, a Classification Exception Area/Well Restriction Area was established for both sites. The Classification Exception Area suspends the designated original uses of the groundwater beneath each site and the Well Restriction Area has been established for each site to prevent the use of ground water as potable water.
+
+### Sampling and Monitoring
+
+A performance monitoring program is in place for the Route 72 site and a monitored natural attenuation sampling program continues for both Route 72 and Route 532 sites.
+
+### Enforcement Information
+
+On March 4, 1985, NJDEP issued a directive to the Rohm and Haas Company, the Minnesota Mining and Manufacturing (3M) Company, Hercules, Inc., and other companies identified as potentially responsible parties to arrange for the investigation and remediation of the sites. On March 27, 1985, NJDEP entered into an Administrative Consent Order (ACO) with Hercules, Inc. to help pay for the investigative and administrative costs. On July 6, 1987, NJDEP entered into a similar ACO with 3M and Rohm and Haas Company.
+
+On January 2, 1990, NJDEP entered into a Second Administrative Consent Order (ACO II) with Hercules, 3M and Rohn and Hass. The purpose of this ACO was to compel the PRPs to remove liquids and sludges from isolated locations on the site’s surfaces.
+
+A third order, ACO III, was signed with Hercules, 3M and Rohm and Hass on June 15, 1990. It required the respondents to excavate, for off-site disposal, all visibly contaminated surface soils from both sites, as specified in the 1990 selected remedy.

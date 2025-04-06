@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Matteo & Sons, Inc. Superfund site is located in West Deptford, New Jersey. In 1947, the Matteo family purchased the 82.5-acre property, which includes upland areas and adjacent mudflats between Woodbury Creek, Hessian Run, and U.S. Highway 130. The site is divided into three parts, known as Operable Units (OUs).
+
+EPA has designated the scrapyard, an open field/waste disposal area, and a residential rental property as OU1. This also includes the former Mira Trucking property, located across U.S. Highway 130 at 1689 Crown Point Road. The Matteo family operated an unregistered landfill, junkyard, and metals recycling facility beginning in 1961. The New Jersey Department of Environmental Protection (NJDEP) inspected the site regularly between 1968 and 1984 and discovered that Matteo had been landfilling crushed automobile battery casings and household waste along Hessian Run. The company also used an illegal incinerator to smelt lead; landfilled ash from the smelters and had two fires at the landfill. There were also abandoned drums of unknown waste, and yellow waste dispersed across the site. In January 1984, NJDEP issued an Administrative Consent Order to Matteo for solid waste violations and required the company to stop waste disposal at the site. The state oversaw the initial investigations at the site, but in June 2005, NJDEP asked EPA to complete the assessment.
+
+After completing a site assessment and evaluation, EPA added the site to the Superfund program’s National Priorities List in September 2006.
+
+There remains an active metal salvaging operation that accepts scrap metal from individuals and industrial sources on the southern portion of the Matteo property along U.S. Highway 130. This area is now covered with four inches of recycled crushed aggregate and recycled asphalt to minimize exposure to contamination. The rest of the property is unused and vacant, surrounded by a chain link fence between the Willow Woods Mobile Home Community, the Matteo property, and the northeastern property boundary on Crown Point Road.
+
+In March 2016, NJDEP asked EPA to also evaluate a residential property in West Deptford because they discovered buried crushed battery casings during a sewer lateral repair in the front yard of a Birchly Court residence. EPA found the same type of material contamination at the Birchly Court and surrounding properties. EPA designated the residential development as Operable Unit 2 (OU2).
+
+A third Operable Unit (OU3) for contaminated sediments and surface water will be addressed in the future.
+
+### What Has Been Done to Clean Up the Site?
+
+Under a 2006 legal agreement called an Administrative Consent Order, Matteo removed and disposed of approximately 425 tons of contaminated soil from the Willow Woods Manufactured Home Community and the area along its border with the Matteo property. They also installed a chain-link fence to restrict access to contaminated areas of OU1. In 2020, EPA removed and disposed of impacted soil and battery casing waste from the former Mira Trucking portion of OU1.
+
+To determine the size and scope of contamination, EPA completed an in-depth cleanup investigation called a Remedial Investigation and Feasibility Study (RI/FS) for OU1 in June 2019. EPA finalized a cleanup plan documented in the [October 2019 Record of Decision](https://semspub.epa.gov/work/02/541233.pdf) (ROD) that calls for removing and disposing of battery casing waste and impacted soil and capping impacted soil in the scrap yard area. EPA approved the cleanup design in January 2023. This work will be performed using funding from BIL.
+
+EPA has already finished work in OU2, which included removing contaminated materials from residential areas as detailed in a 2017 cleanup plan. The work was successfully completed in September 2022.
+
+### What Is the Current Site Status?
+
+The EPA will remove impacted soil and battery casing waste at the Matteo & Sons, Inc. Superfund site. EPA will dispose of the contaminated waste and soil at approved off-site facilities. Additionally, EPA will cap impacted soil on the active scrapyard portion of the site.
+
+EPA finished removing and disposing of impacted soil and battery casing waste at the former Mira Trucking portion of OU1 in August 2020 and completed design efforts for the remainder of OU1 clean up in January 2023. EPA completed the cleanup for OU2 in September of 2022.

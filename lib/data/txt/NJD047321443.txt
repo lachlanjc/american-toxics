@@ -1,2 +1,40 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Chemical Leaman Tank Lines, Inc. (CLTL) site in located in Logan Township, New Jersey. In 1961, Chemical Leaman Tank Lines, Inc. began operating a facility to wash and rinse tanker trucks. Prior to 1975, the wastewater generated from the tank-washing was placed in a series of seven unlined lagoons and was ultimately discharged to Cedar Swamp and Moss Branch Creek, which border the site. Following the closure of the lagoons in 1975, sludge in the settling lagoons was excavated and disposed of off-site. Conversely, the aeration lagoons were backfilled with sand and construction debris, but no sludge was removed. In 1980 and 1981, the NJDEP found VOCs in site groundwater, as well as in neighboring private wells. EPA added the site to the Superfund program NPL in 1984.
+
+From 1987 to 1995, EPA connected neighboring residential homes to the public water supply, eliminating risks to human health from contaminated groundwater. On-site cleanup activities are being addressed in three distinct areas called Operable Units (OUs). Operable Unit 1 (OU1) addresses the contaminated groundwater, Operable Unit 2 (OU2) addresses the source areas (the old lagoons) identified as the material allowing the contamination to seep into the groundwater and Operable Unit 3 (OU3) addresses the wetlands..
+
+A full-scale groundwater extraction, treatment, and reinjection system (GWETS) was constructed and continues to clean up contaminated groundwater in OU1... The OU2 remedy included excavating treatment areas 1-6 as well as capping the treatment areas 1, 4, and 6 following an electric resistance heating treatment to evaporate contaminants from the soil before installing the caps. The remedy also includes institutional controls to limit land use and eliminate risk of future exposure. The wetlands, or OU3, were excavated and backfilled with clean soil then restored with appropriate vegetation. Current land use zoning allows for light industrial operations. Quality Distribution, Inc., presently continues operating a tank rinsing facility on the Chemical Leaman Tank Lines, Inc. site.
+
+### What Has Been Done to Clean Up the Site?
+
+, The construction of the groundwater extraction and treatment system, which address OU1, began in May 2005 and was completed in \[XXXX\]. The treatment system started in 2010 and operated for five weeks but had to shut down temporarily due to air emissions exceeding the state permit equivalency. The exceedences were due to changes in the influent contaminant concentrations. The treatment system was modified to accommodate the higher contaminant levels. On September 8, 2011, the groundwater extraction and treatment system restarted. Operations and Maintenance (O&M) is ongoing.
+
+Cleanup of treatment areas (TA)1 through 6 began with the excavation and off-site disposal of source material from the lagoon (TA 1) in 1982 and resumed in earnest from 2003 to 2008 when TAs 2 to 6 were excavated. During that same period, a dense nonaqueous phase liquid or DNAPL recovery system was operating at TA 1. Dense nonaqueous phase liquids (DNAPLs) are chemicals or mixtures of chemicals that are heavier than and only slightly soluble in water. The DNAPL recovery system removedabout 19,500 liters of DNAPL before declining recovery rates made the system ineffective. A post-excavation, subsurface investigation completed in 2008 identified significant DNAPL masses remained beneath the water table in TAs 1 and 4 through 6. EPA decided to address the deeper DNAPL mass in the saturated zone of TA1 and 4 through 6using electrical resistivity heating (ERH) coupled with a multiphase and soil vapor extraction technology (MPE/SVE), The ERH system used electricity to heat the soil and groundwater and evaporate contaminants. The vapors that formed when the contaminatnts evaporated were extracted using the MPE/SVE which uses a vaccum to pull the vapors out  
+s
+
+The ERH-MPE system operated through December 2015, when the system’s power was reduced to evaluate the unanticipated detection of PCBs in the heated vapor phase. PCBs were not one of the identified OU2 COCs **(please define)** and the ERH-MPE treatment train was not designed to remove PCBs. In February 2016, the OU2 ERH-MPE system was completely shut down when it was determined that this treatment system had to undergo a redesign. The redesign involved the addition of clay filtration units, supplemental bag and cartridge filters, and **carbon vessels for polishing to address the PCBs (please explain).** Modifications to the system were completed and the ERH-MPE system was restarted in March 2017 and concluded in December 2017.
+
+While soil concentrations conform to the requirements of the ROD, NJDEP requested that the PRPs install caps over treatment areas 1, 4 and 6. The PRP installed caps over those areas and put in place a deed notice, as required by EPA, to require additional actions by the property owner if the site were put to other uses. In addition, the deed notice requires that monitoring and maintenance of the NJDEP requested caps be performed by the current or future property owners.
+
+Construction of the OU3 remedy started in June 2004. Sediment and surface soils in Areas 1, 2, 3, 3A; the Main Swale Area; Adjacent Swale Area; and the Upland Swale area were removed between June 2005 and February 2006. Approximately 7,500 cubic yards (CY) of material were excavated. Post-excavation samples were collected for each remediation area and the analytical results indicated that the cleanup goals developed during the RD were achieved for each remediation area except for the Main Swale Area.
+
+### What Is the Current Site Status?
+
+The site has completed all remedial actions and remains in the Operations and Maintenance (O&M) phase.
+
+OU1: The GWETS continues to pump contaminated groundwater at a rate of approximately 200 gallons per minute. The system removes 97-99% of all contamination and discharges the treated water into a nearby tributary of the Delaware River. EPA continues to monitor and review progress of the contaminants of concern of the site.
+
+OU2: The delineated source areas were either excavated or capped. Both required institutional controls have been implemented and continue to limit site use.
+
+OU3: The wetlands have been restored with vegetation and is currently being monitored on a five year cycle per EPA recommendation. Once every five year period, the PRPs sample the water and soil for contaminants.
+
+.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site has both a deed notice and a Classification Exception Area (CEA) in place to limit site use to commercial and prevent the disturbance of the capped areas of OU2 while preventing any further groundwater contamination.

@@ -1,39 +1,53 @@
-DEFENSE GENERAL SUPPLY CENTER (DLA)CHESTERFIELD COUNTY, VA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
- The 640-acre Defense Supply Center Richmond (DSCR) site is an active federal facility in Chesterfield County, Virginia, about eight miles south of Richmond. DSCR has operated at the site since 1941. Past operations include aviation equipment manufacturing and repair, firefighter training, and the use and storage of hazardous materials, including storage and shipping of flammable, toxic, corrosive, and oxidizing chemicals as well as pesticides. In the 1960s and early 1970s, the DSCR disposed of some waste material in a shallow ravine called the Area 50 Landfill. These activities contaminated soil, sediment, and groundwater with hazardous chemicals. Under the federal facility agreement for the site, cleanup has been divided into 13 operable units (OUs), to best address different areas of contamination. Records of Decision (RODs) are in place at all the OUs and remedy implementation and optimization are ongoing at many of the OUs. The Site was added to the Superfund program's National Priorities List (NPL) in July 1987. Top of Page
-What Has Been Done to Clean Up the Site?
- This site is being addressed through federal actions. An October 1990 Federal Facilities Agreement (FFA) between EPA, the Virginia Department of Environmental Quality (VADEQ) and the Defense Logistics Agency (DLA) identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 13 operable units being addressed under the Superfund program. 
-A full list of operable units can be viewed under the Operable Units section. Due to the handling and disposal of various toxic chemicals at the site, groundwater contaminated primarily with volatile organic compounds (VOCs) was detected downgradient of the landfill in the 1980s. Remedial actions completed to date include land use controls; soil and asphalt covers for contaminated areas; monitored natural attenuation of groundwater contaminants; enhanced bioremediation of contaminated groundwater; groundwater monitoring; vegetative covers; and excavation and off-site disposal of contaminated soil. Remedy construction began in 1993 and is ongoing.  Under the Federal Facility Agreement for this Site, the cleanup has been divided into 13 OUs at DSCR: 
-OU 1 (the Open Storage Area) was historically used for storage and recoupment activities. A Record of Decision (ROD) was signed in 1992; a revised Human Health Baseline Risk Assessment (HHBRA) and an Explanation of Significant Differences (ESD) was issued in 2007. The remedy consists of Land Use Controls (LUCs) and annual inspections. Long term monitoring is ongoing
-OU 2 (Area 50 Landfill) was formerly used to dispose of chemicals and construction debris. The ROD was signed in 2008 and the remedy consisted of a soil cover and LUCs. The Remedial Action Completion Report (RACR) was finalized in June 2010. Long term monitoring is ongoing.
-OU 3 (National Guard area soil) was impacted by vehicle maintenance and degreasing activities. The remedy, documented in the 1995 ROD, consisted of excavation and disposal offsite, an asphalt cover, monitoring and LUCs. The RACR was finalized in 1997. Long term monitoring is ongoing.
-OU 4 (the Former Fire Training Area soil) was found to need no further action and the ROD was signed in 1999. In 2004, a time-critical removal action was completed to excavate and treat/disposal of chlorinated VOC contaminated soil from fire training area pits to reduce the continued source of groundwater contamination in OU7.  
-OU5 (The Acid Neutralization Pit Area) consists of two former concrete settling tanks, used for the neutralization of acidic wastewater from metal cleaning and painting operations. The OU5 ROD was signed in 1992 and identified the use of a soil vapor extraction (SVE) system to reduce remaining VOC concentrations to below the soil remediation objective; however, upon further investigation using a pilot study, a full-scale SVE system was deemed unnecessary and an ESD was signed in 1995. The ESD recommended no further action be required.
-OU 6 (Groundwater Contamination Plume underlying OUs 1, 2 and 3) Contaminants of Concern (COCs) primarily include chlorinated VOCs. The selected remedies in the ROD signed in 2013 include in situ bioremediation to treat COCs in the source areas and downgradient portions of the groundwater plume, monitored natural attenuation, long-term monitoring and LUCs. The remedy also includes indoor air sampling for buildings over the plume. A RACR was finalized in 2016. Remedial action is ongoing at this site.
-OU 7 (Groundwater Contamination Plume underlying OUs 4 and 13) Similar to OU 6, the primary COCs include VOCs. The remedies selected in this 2012 ROD include enhanced in situ bioremediation, monitored natural attenuation, long term monitoring and LUCs. A RACR was finalized in 2017. Remedial action is ongoing at this site.
-OU 8 (Groundwater underlying OU 5) is a chlorinated VOC plume. The ROD was signed in 2007 and the remedy consists of monitored natural attenuation (MNA), with an in-situ bioremediation contingency. An ESD to document a shift to the in-situ remedy was finalized in September 2011. Biannual (March and September) groundwater monitoring in accordance with the ROD and remedial design are ongoing. Remedial action is ongoing at this site.
-OU 9 (Interim Remedy for OU 6) was finalized through an interim action ROD in 1993. The action consisted of a groundwater extraction and air-stripping system to reduce mass and limit further transport of impacted groundwater off-site. A rebound test of the treatment system revealed the operation of the system was not necessary and an amendment to the interim ROD authorizing the decommissioning of the system was signed in 2008. The final remedial action for the OU 9 groundwater plume is being addressed through the action taken at OU 6.
-OU 10 (Former Building 68 Area) was historically used as a pesticide storage building. The remedy documented in the 2007 ROD includes a vegetative cover and LUCs. Long term monitoring is ongoing.
-OU 11 (Transitory Shelter 202 Area) was formerly a storage area. The remedy, as finalized through the 2007 ROD, also consists of a vegetative cover and LUCs. Long term monitoring is ongoing.
-OU 12 (Former Building 112 Area) was historically used for pesticide storage and mixing operations. The ROD was signed in 2005 and the remedy included an asphalt cover, LUCs and groundwater monitoring for arsenic for five years. As of 2011, groundwater monitoring at this site is no longer required. Long term monitoring is ongoing.
-OU﻿ 13 (PAH Area) consists of a fuel oil spill area. The contaminants of concern include arsenic, dioxins and Polycyclic Aromatic Hydrocarbons(PAHs). The remedy in the 2013 ROD included LUCs to prevent exposure to subsurface soils. 
-Top of Page
-What Is the Current Site Status?
- The site is being addressed through federal actions. EPA is overseeing the ongoing cleanup efforts at the Site. Record of Decisions (RODs) have been issued for all the OUs.. Remedial actions is ongoing at the groundwater sites OU6, OU7 and OU8 groundwater. Long term monitoring continues on an annual basis, where required, to ensure remedy protectiveness.    Five Year Review The DLA, with EPA concurrence, has conducted several five-year reviews of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review and addendums to the review, conducted in 2023 and 2024 (PDF) concluded that the remedies at the site are protective, with recommendations for additional actions to ensure future protectiveness. The next FYR is scheduled for September 2028 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
- At this site, activity and use limitations that EPA calls institutional controls are in place. These play an important role in site remedies because the reduce exposure to contamination by limiting land or resource use. They also guidance human behavior. For instance, zoning restrictions prevent land use – use as residential uses – that are not consistent with the level of cleanup. For more background, see Institutional Controls 
+### Background
+
+The 640-acre Defense Supply Center Richmond (DSCR) site is an active federal facility in Chesterfield County, Virginia, about eight miles south of Richmond. DSCR has operated at the site since 1941. Past operations include aviation equipment manufacturing and repair, firefighter training, and the use and storage of hazardous materials, including storage and shipping of flammable, toxic, corrosive, and oxidizing chemicals as well as pesticides. In the 1960s and early 1970s, the DSCR disposed of some waste material in a shallow ravine called the Area 50 Landfill. These activities contaminated soil, sediment, and groundwater with hazardous chemicals. Under the federal facility agreement for the site, cleanup has been divided into 13 operable units (OUs), to best address different areas of contamination. Records of Decision (RODs) are in place at all the OUs and remedy implementation and optimization are ongoing at many of the OUs.
+
+The Site was added to the Superfund program's National Priorities List (NPL) in July 1987.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal actions. An October 1990 Federal Facilities Agreement (FFA) between EPA, the Virginia Department of Environmental Quality (VADEQ) and the Defense Logistics Agency (DLA) identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 13 operable units being addressed under the Superfund program.
+
+A full list of operable units can be viewed under the *Operable Units* section.
+
+Due to the handling and disposal of various toxic chemicals at the site, groundwater contaminated primarily with volatile organic compounds (VOCs) was detected downgradient of the landfill in the 1980s. Remedial actions completed to date include land use controls; soil and asphalt covers for contaminated areas; monitored natural attenuation of groundwater contaminants; enhanced bioremediation of contaminated groundwater; groundwater monitoring; vegetative covers; and excavation and off-site disposal of contaminated soil. Remedy construction began in 1993 and is ongoing.
+
+Under the Federal Facility Agreement for this Site, the cleanup has been divided into 13 OUs at DSCR:
+
+- **OU 1 (the Open Storage Area)** was historically used for storage and recoupment activities. A Record of Decision (ROD) was signed in 1992; a revised Human Health Baseline Risk Assessment (HHBRA) and an Explanation of Significant Differences (ESD) was issued in 2007. The remedy consists of Land Use Controls (LUCs) and annual inspections. Long term monitoring is ongoing
+- **OU 2 (Area 50 Landfill)** was formerly used to dispose of chemicals and construction debris. The ROD was signed in 2008 and the remedy consisted of a soil cover and LUCs. The Remedial Action Completion Report (RACR) was finalized in June 2010. Long term monitoring is ongoing.
+- **OU 3 (National Guard area soil)** was impacted by vehicle maintenance and degreasing activities. The remedy, documented in the 1995 ROD, consisted of excavation and disposal offsite, an asphalt cover, monitoring and LUCs. The RACR was finalized in 1997. Long term monitoring is ongoing.
+- **OU 4 (the Former Fire Training Area soil)** was found to need no further action and the ROD was signed in 1999. In 2004, a time-critical removal action was completed to excavate and treat/disposal of chlorinated VOC contaminated soil from fire training area pits to reduce the continued source of groundwater contamination in OU7.
+- **OU5 (The Acid Neutralization Pit Area)** consists of two former concrete settling tanks, used for the neutralization of acidic wastewater from metal cleaning and painting operations. The OU5 ROD was signed in 1992 and identified the use of a soil vapor extraction (SVE) system to reduce remaining VOC concentrations to below the soil remediation objective; however, upon further investigation using a pilot study, a full-scale SVE system was deemed unnecessary and an ESD was signed in 1995. The ESD recommended no further action be required.
+- **OU 6 (Groundwater Contamination Plume underlying OUs 1, 2 and 3)** Contaminants of Concern (COCs) primarily include chlorinated VOCs. The selected remedies in the ROD signed in 2013 include in situ bioremediation to treat COCs in the source areas and downgradient portions of the groundwater plume, monitored natural attenuation, long-term monitoring and LUCs. The remedy also includes indoor air sampling for buildings over the plume. A RACR was finalized in 2016. Remedial action is ongoing at this site.
+- **OU 7 (Groundwater Contamination Plume underlying OUs 4 and 13)** Similar to OU 6, the primary COCs include VOCs. The remedies selected in this 2012 ROD include enhanced in situ bioremediation, monitored natural attenuation, long term monitoring and LUCs. A RACR was finalized in 2017. Remedial action is ongoing at this site.
+- **OU 8 (Groundwater underlying OU 5)** is a chlorinated VOC plume. The ROD was signed in 2007 and the remedy consists of monitored natural attenuation (MNA), with an in-situ bioremediation contingency. An ESD to document a shift to the in-situ remedy was finalized in September 2011. Biannual (March and September) groundwater monitoring in accordance with the ROD and remedial design are ongoing. Remedial action is ongoing at this site.
+- **OU 9 (Interim Remedy for OU 6)** was finalized through an interim action ROD in 1993. The action consisted of a groundwater extraction and air-stripping system to reduce mass and limit further transport of impacted groundwater off-site. A rebound test of the treatment system revealed the operation of the system was not necessary and an amendment to the interim ROD authorizing the decommissioning of the system was signed in 2008. The final remedial action for the OU 9 groundwater plume is being addressed through the action taken at OU 6.
+- **OU 10 (Former Building 68 Area)** was historically used as a pesticide storage building. The remedy documented in the 2007 ROD includes a vegetative cover and LUCs. Long term monitoring is ongoing.
+- **OU 11 (Transitory Shelter 202 Area)** was formerly a storage area. The remedy, as finalized through the 2007 ROD, also consists of a vegetative cover and LUCs. Long term monitoring is ongoing.
+- **OU 12 (Former Building 112 Area)** was historically used for pesticide storage and mixing operations. The ROD was signed in 2005 and the remedy included an asphalt cover, LUCs and groundwater monitoring for arsenic for five years. As of 2011, groundwater monitoring at this site is no longer required. Long term monitoring is ongoing.
+- **OU 13 (PAH Area)** consists of a fuel oil spill area. The contaminants of concern include arsenic, dioxins and Polycyclic Aromatic Hydrocarbons(PAHs). The remedy in the 2013 ROD included LUCs to prevent exposure to subsurface soils.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal actions.
+
+EPA is overseeing the ongoing cleanup efforts at the Site. Record of Decisions (RODs) have been issued for all the OUs.. Remedial actions is ongoing at the groundwater sites OU6, OU7 and OU8 groundwater. Long term monitoring continues on an annual basis, where required, to ensure remedy protectiveness.
+
+**Five Year Review**
+
+The DLA, with EPA concurrence, has conducted several five-year reviews of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+The most recent review and addendums to the review, conducted in 2023 and [2024](https://semspub.epa.gov/src/document/03/2398221) (PDF) concluded that the remedies at the site are protective, with recommendations for additional actions to ensure future protectiveness. The next FYR is scheduled for September 2028
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. These play an important role in site remedies because the reduce exposure to contamination by limiting land or resource use. They also guidance human behavior. For instance, zoning restrictions prevent land use – use as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls)
+
 At DSCR, land use controls (LUCs) are a subset of institutional controls. LUCs are in place at several operable units. These restriction limit access, restrict residential land use, include preconstruction or pre-intrusive activity assessment, and restrict the use of groundwater.
-Top of Page

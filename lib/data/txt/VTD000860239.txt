@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 10-acre Old Springfield Landfill, previously referred to as the Will Dean Dump, was operated by the Town of Springfield between 1947 and 1968. Hazardous industrial waste from local industries was co-disposed with municipal trash into discrete trenches and mixed with municipal solid waste. Most hazardous material was reportedly disposed in bulk liquid and semi-liquid form. The site was placed on the National Priorities List (NPL) in September 1983.
+
+Following the closure of the landfill, it was sold and developed for use as a mobile home park, known as Springfield Mobile Home Estates. In 1984, shortly after the opening of the Springfield Mobile Home Estates, a nearby resident's complaint of foul-smelling water prompted an investigation by the Vermont Department of Health and the Department of Environmental Conservation. Volatile organic compounds (VOCs) were found in an area spring and in a residential well located near the mobile home park. In response, the potentially responsible parties (PRPs) installed a water line extending to nearby homes. EPA then performed a remedial investigation and feasibility study (RI/FS) to determine the extent and risk of contamination and potential cleanup actions.
+
+Construction of the site’s remedy has been completed. Operations and maintenance activities and groundwater and leachate treatment are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site consists of two Operable Units (OUs), with cleanup related activities performed on both.
+
+The “Management of Migration Remedy” at OU 1 includes two groundwater extraction wells (EW-1 and EW-2) and a leachate collection system (LSE-3/4) at the landfill that discharge to the Pre-Treatment Facility (PTF), along groundwater collection at the Western Seep. Both the PTF and the Western Seep discharge to the Town of Springfield’s public-owned treatment works (POTW).
+
+At OU 2, the “Source Control Remedy” includes the source control well (SC-1; which also discharges to the PTF), treatment of water at the PTF by air stripping, 10 passive gas vents (GV-1 through GV-10), three subsurface “french” drains (FD-1 through FD-3) to intercept off-Site groundwater before it enters the landfill, surface water diversions around the landfill, and the engineered landfill cap.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101437)
+
+### What Is the Current Site Status?
+
+Remedial actions (RAs) were completed in 1994 and the Site is considered operational and functional (O&F). Pursuant to two consent decrees (CD) for the Site, the potentially responsible parties (PRPs) were required to conduct operations and maintenance (O&M) for the Site, making the Town of Springfield responsible for O&M.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101437)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101437&doc=Y&colid=31728).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.
+
+### Sampling and Monitoring
+
+The Town of Springfield is conducting long-term monitoring and maintenance activities associated with the O&M Plan, the Long-term Monitoring Plan (LTMP), and Quality Assurance Project Plan (QAPP). The primary activities associated with O&M and long-term monitoring include: routine inspection and maintenance of the landfill cover system, extraction wells, French drains, and water treatment system; periodic sampling of groundwater, treatment plant influent and effluent, ambient air within the treatment facility, and air discharges from carbon canisters; and reporting.

@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Site is an abandoned copper mine located in the Town of Corinth, Orange County, Vermont. It includes three historic mining areas: Union, Eureka (also known as Corinth), and Smith (also known as Bicknell) mines. Together, the three mines that comprise the Site are the most northerly of the copper mines comprising the larger Orange County copper belt. The other mines in this areainclude the Elizabeth Mine and the Ely Copper Mine, which are both NPL Superfund sites.
+
+The waste piles at the Site extend over about 15 acres with an estimated volume of 85,000 cubic yards (cy) and are acting as a continuing source of contamination for the surface water and sediment of Pike Hill Brook and Cookville Brook Tributary #4. The Union and Eureka mines and the associated waste piles cover an area of about 14 acres and contain an estimated 81,000 cy of waste rock and tailing. The Smith mine and associated waste piles extend over an area of about 1 acre and contain about 4,000 cy of waste rock. The remaining areas of the Site include mine openings, historic foundations from the former mining operations and undeveloped woodlands.
+
+The mine waste generates mining influenced water characterized by a low pH leachate with elevated metals, particularly aluminum, copper, iron and zinc, which is released via stormwater and other routes into the local waterways.
+
+Copper ore was initially discovered in the vicinity of the Smith Mine on Pike Hill in 1845. In about 1853, mining of the Eureka deposit began at the peak of Pike Hill. Underground operations at the Eureka and Union Mines began in 1863. In 1881, the known portion of the ore body at the Union Mine was exhausted. The Smith Mine closed in 1882, leaving a relatively small area of waste rock piles and underground workings. The Eureka Mine ore mill closed in 1907 and activities were poorly documented between 1907 and 1915, which suggests that limited mining took place there during that period. Operations at the Eureka and Union Mines resumed under a single company (Pike Hill Mines Company) between 1916 and 1919. The magnetic separation and froth flotation processes were used during the two post 1900 operations resulting in the creation of the tailing waste at the Site. During the 1880’s ore from the Pike Hill mines was brought to the Ely Copper Mine for smelting. The underground workings at the Pike Hill mines were never reopened, but during the late 1940s and early 1950s, portions of the ore dumps were trucked to the Elizabeth Mine mill for processing. The only remaining Site buildings were destroyed by fire in 1960.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. In September 2022, EPA selected a non-time critical removal action (NTCRA) cleanup action to address the contamination leaching from the mine waste piles into Pike Hill Brook and Cookville Brook Tributary #4. In September 2023, EPA completed the design for the first phase of the NTCRA. EPA awarded a contract to implement the first phase of the NTCRA in May 2024 and the contract is expected to mobilize to the Site to begin the work in September 2024. The Phase 1 cleanup involves the in-situ stabilization of mine waste near the mine openings and the clearing of trees. EPA is also working to complete the design for Phase 2 of the NTCRA. The Phase 2 cleanup involves the excavation and consolidation of the mine waste into an on-site waste containment cell. The waste would be capped after the excavation and consolidation is completed. The design should be completed in 2025.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0102121).
+
+### What Is the Current Site Status?
+
+EPA began preliminary site investigations in the fall of 2004 and developed a comprehensive plan for a remedial investigation and feasibility study in 2005. Further studies took place in 2006 and 2007. The information collected to date is under review to allow for the development of a plan to complete the site’s Remedial Investigation Report.
+
+EPA retained the U.S. Geological Survey to perform a scoping investigation that will further characterize waste material at the site. The program will also include surface water and sediment sampling in the area. Surface water, sediment, biological community and waste assessments took place during a series of investigations from 2005 through 2007.
+
+EPA performed additional studies of the surface water and soil at the Site during 2020 - 2024 to document the nature and extent of contamination and provide information to support the design of the non-time critical removal action cleanup. EPA will continue to study the site to complete the documentation of the nature and extent of the contamination.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0102121).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+No formal activity and use restrictions have been put in place by EPA at this time.

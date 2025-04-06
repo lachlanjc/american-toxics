@@ -1,2 +1,54 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Diamond Head Oil Refinery Div. Superfund site is a 30.5-acre area near the Hackensack Meadowlands in Kearny, New Jersey. The site has over 20 acres of unoccupied land, including wetland areas, a drainage ditch, a small pond, a vegetated landfill area along the western border, and the remains of the former Diamond Head Oil Refinery on the eastern portion of the property.
+
+Interstate 280 (I-280) borders the property to the south and east. Harrison Avenue (Newark Turnpike) borders the property to the north, and the Campbell Distribution Foundry, an establishment that casts metals, is to the west.
+
+Most of the property is undeveloped and zoned for industrial and commercial use. Site contamination does not affect the nearest residential area, located a half-mile to the west.
+
+Several companies, including PSC Resources, Inc., Ag-Met Oil Service, Inc., and Newtown Refining Corporation, reprocessed oil at the Diamond Head Oil facility between the 1940s to the 1970s.
+
+These companies used multiple aboveground storage tanks and may have also used pits right below the ground surface to store oil waste during facility operations. This waste was periodically dumped directly into neighboring properties to the east and the wetland area on the site's south side, creating an "oil lake."
+
+### What Has Been Done to Clean Up the Site?
+
+EPA identified various contaminants of concern at the site and has placed a fence around the property to discourage trespassers. These contaminants include [chromium](https://www.atsdr.cdc.gov/toxfaqs/tfacts7.pdf), [dioxin](https://semspub.epa.gov/work/05/299680.pdf), [lead](https://www.atsdr.cdc.gov/toxfaqs/tfacts13.pdf), and [polychlorinated biphenyls](https://www.atsdr.cdc.gov/toxfaqs/tfacts17.pdf) (PCBs). The primary source of contamination is [light, non-aqueous phase liquids](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NRMRL&dirEntryId=126070) (LNAPL), which are contaminants that are less dense than water and not very water soluable, such as oil, gasoline or diesel fuel.
+
+EPA often divides Superfund sites into several distinct areas when planning a cleanup, depending on complexity and geography. These distinct areas are called Operable Units (OUs), and the Diamond Head Refinery Div. has two. One is focused on the LNAPL and the other on the residual contamination in soil, air, surface water, sediment, and groundwater at the site.
+
+EPA has performed several in-depth investigations of both OU1 and OU2 to define the nature and extent of contamination so that it can develop cleanup strategies for this contamination. The most recent investigation was focused on soil and sediment and was completed in 2016.
+
+EPA finalized its cleanup plan for OU2 in September 2017, which addresses residual contaminants in the soil, surface water, and sediments and also amended its final cleanup plan for OU1 to better address the LNAPL contamination at the site.
+
+In addition, EPA will create a third operable unit (OU3) to address groundwater directly once the cleanup plans for OU1 and OU2 begin.
+
+EPA is currently working on a joint cleanup plan to address OU1 and OU2 and in 2020, EPA completed an investigation which provides information to perform a final engineering design of the cleanup plan. The engineering design is scheduled to be completed in the summer of 2022.
+
+### What Is the Current Site Status?
+
+EPA will remove and dispose of soil contaminated with [dioxin](https://semspub.epa.gov/work/05/299680.pdf) and [light non-aqueous phase liquid](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NRMRL&dirEntryId=126070) (NAPL) and to consolidate and cap surface soil containing residual levels of  [polychlorinated biphenyls](https://www.atsdr.cdc.gov/toxfaqs/tfacts17.pdf) (PCBs), [lead](https://www.atsdr.cdc.gov/toxfaqs/tfacts13.pdf) and [chromium](https://www.atsdr.cdc.gov/toxfaqs/tfacts7.pdf).
+
+EPA is currently working on the design of its cleanup plan to address OU1 and OU2. The design was completed in the summer of 2022.
+
+### Sampling and Monitoring
+
+**Soil:** EPA took soil samples at multiple depths (surface soil: 0-4ft. and subsurface soil: 5-10ft.) from approximately 118 locations. EPA tested the samples for [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) (VOCs), semi-volatile organic compounds (SVOCs), pesticides, PCBs, metals, dioxins, and [furans](https://nj.gov/health/eoh/rtkweb/documents/fs/0952.pdf). EPA chose cleanup goals for soil based on the New Jersey Department of Environmental Protection’s [Non-Residential Direct Contact Soil Remediation Standards](https://www.nj.gov/dep/srp/guidance/rs/) (NRDCSRS) and EPA-risked based values. The cleanup goals for soil are as follows:
+
+- Chromium: 20 parts per million (ppm)
+- Dioxin: 730 parts per trillion (ppt)
+- PCBs: 1 ppm
+- Aldrin: 0.2 ppm
+- Lead: 800 ppm
+- Benzo\[a\]pyrene: 2 ppm
+
+EPA has divided the site into two geographical areas: the former Diamond Head Oil Refinery Div. property to the west and the Interstate 280 traffic cloverleaf to the east. EPA’s 2017 cleanup plan is designed to address areas where contamination exceeds our cleanup goals.
+
+Surface soil samples taken within the property boundary revealed maximum lead concentrations at 27,900 ppm, chromium at 7,650 ppm, and PCBs at 14 ppm. Subsurface soil samples taken within the property boundary revealed chromium concentrations at 22,300 ppm, and benzo\[a\]pyrene at 35 ppm. The general area of the former refining operations and the central section of the former Oil Lake had the highest levels of soil contamination.
+
+Surface soil samples taken outside the property boundary revealed maximum PCB concentrations at 1,800 ppm and [aldrin](https://www.atsdr.cdc.gov/toxfaqs/tfacts1.pdf) concentrations at 75 ppm. Subsurface soil samples taken outside the property boundary, in the I-280 cloverleaf area, showed concentrations of lead at 13,200 ppm and PCBs at 8.4 ppm. EPA found the highest levels of contamination from 0-2 feet in the surface soil, and from 5-17 feet in the subsurface soil, within the footprint of the former Oil Lake.
+
+Surface soil samples analyzed for dioxin and furan contamination from within the property boundary revealed a concentration of 1,873 ppt at 0-2 feet, located in the central section of the property, within the location of the former Oil Lake. Soil samples taken from outside the property boundary, in the I-280 cloverleaf area, revealed concentrations of dioxin/furans at 8,188 ppt from 0-2 feet, and 11,172 ppt from 2.5-3 feet, and were located within the footprint of the former Oil Lake.
+
+**Sediment:** EPA took sediment samples from the drainage ditch, which is only underwater during flooding events, and from Frank’s Creek in approximately 25 locations. EPA tested sediment samples for VOCs, SVOCs, pesticides, PCBs, metals, dioxins and furans. Sediment samples revealed lead contamination at a concentration of 84,400 ppm, found at 0-3 feet in the central section of the former Diamond Head Oil Refinery Div. property, within the footprint of the former Oil Lake. Sediment samples taken from the drainage ditch near its intersection with Frank’s Creek revealed lead contamination at a concentration of 84,300 ppm, from a depth of 0-0.5 feet. EPA chose a cleanup goal for lead in sediment based on NRDCSRS and EPA-risked based values. The cleanup goal for lead in sediment is 800 ppm.
+
+**Surface Water:** EPA took surface water samples from approximately 10 sample locations. EPA tested the samples for VOCs, SVOCs, pesticides, PCBs, and metals. Surface water samples revealed maximum lead concentrations at 712 µg/L (microgram per Liter) and beryllium at 990 µg/L, found in ponded surface water within the property boundary, and in one sample taken in the drainage ditch near its confluence with Frank’s Creek.

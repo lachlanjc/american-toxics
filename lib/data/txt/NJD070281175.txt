@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Price Landfill site is located in the City of Pleasantville and Egg Harbor Township, Atlantic County, New Jersey. The 26-acre landfill originally was a sand and gravel excavation operation that closed in 1968. Beginning in 1971, Price Landfill began to accept a combination of both drummed and bulk liquid wastes. Wastes included industrial chemicals, sludges, oil, grease, septic tank and sewer wastes. Tank trucks emptied bulk waste into the pit. Others dumped drums; some of these drums were punctured. Chemical waste disposal ended in late 1972, sludge disposal ended in the spring of 1973 and municipal waste disposal ended in 1976. It is estimated that over 9 million gallons of chemical waste were disposed of at the site during landfill operations. As a result, soil and groundwater in the area are contaminated.
+
+The site was listed on EPA's National Priorities List in 1983. Following immediate actions to protect human health and the environment by relocating local public water supply wells, EPA and the State of New Jersey put the site’s long-term remedy in place. The major elements of the long-term remedy completed included construction of a groundwater extraction and treatment system and conveyance of treated groundwater to the Atlantic County Utilities Authority Pleasant Avenue Pump Station and, construction of a landfill cap. Treatment and long-term monitoring of groundwater are ongoing. Off-site groundwater contamination due to the historical landfill operations is being further evaluated.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1980, residential wells in the area were found to be contaminated with volatile organic compounds and the Atlantic County Health Department recommended that their use as a potable water supply be discontinued. In 1981, EPA provided drinking water from tank trucks to the affected residences. Thirty-seven residences were connected to the New Jersey Water Company (NJWC) potable water system. In addition, EPA and the state interconnected the Atlantic City Municipal Utilities Authority (ACMUA) and the NJWC potable water systems. EPA redeveloped three ACMUA production wells, and installed granular activated carbon filtration units to treat any contaminated water.
+
+Field investigations were performed by several consultants in the vicinity of the Site in 1981 and 1982, and in September of 1983 EPA issued a Record of Decision (ROD) for the first discrete phase of work known as an Operable Unit (OU1), which included providing an alternate water source to local residents and the replacement of the existing ACMUA well field. Residents were provided connections to city water supplies and a new well field, located approximately 2 miles northwest of the Price Landfill was completed in 1985. In addition, consideration was to be given to plume management, source control and groundwater treatment alternatives.
+
+In February 1985, a Remedial Investigation/Feasibility Study (RI/FS) of the site was completed. The contaminants of concern identified in the groundwater were volatie organic compounds (VOCs) including benzene, chloroform, chlorobenzene, trans-1, 2-dichloroethylene, trichloroethylene, vinyl chloride, and acetone. Metals of concern include cadmium, lead, manganese, iron, and sodium.
+
+In 1986, EPA issued the ROD for the second phase (OU2) of remediation of the Price Landfill. The OU2 ROD specified the construction of a groundwater extraction and treatment system to control the discharge of leachate from the landfill and control the contaminant plume. The remedy also included construction of a landfill cap and long-term monitoring of groundwater to assess the progress of the clean-up. Implementation of the remedy included the following:
+
+1\. Installation of a security fence around the landfill;
+
+2\. Installation of groundwater extraction wells to control the contaminant source;
+
+.
+
+3\. Construction of a groundwater treatment facility;
+
+4\. Construction of a force main to the ACUA interceptor system to convey treated groundwater;
+
+5\. Construction of a landfill gas management system to treat methane and/or other landfill gases;
+
+6\. Extraction of contaminated groundwater followed by treatment and conveyance of treated groundwater to the ACUA wastewater treatment plant;
+
+7\. Quarterly monitoring of groundwater quality for approximately 25 years; and
+
+8\. Construction of a landfill cap at the conclusion of the groundwater extraction process
+
+During the 1986 – 2009 timeframe, NJDEP performed a pre-design investigation to address a number of design issues (e.g. delineation of the boundaries of the Site and performance of treatability studies); prepared a design of the remedy that could not subsequently be implemented because the ACUA did not want to accept treated groundwater from the Site at that time; re-designed the remedy to re-inject treated groundwater versus discharge to the ACUA and, designed, constructed and operated a pilot plant on the landfill to field test certain treatment technologies.
+
+The pilot plant operated from approximately 2001-2011, utilizing one extraction well to treat approximately 50 gallons per minute of VOC contaminated groundwater. The pilot plant consisted of a single groundwater extr action well located at the down gradient edge of the Site, treatment using a shallow tray air stripper, iron sequestration, and vapor phase carbon treatment of off gases, followed by recharge of the treated effluent at an onsite recharge basin.
+
+In 2009, the regulatory agency management of the Site was transferred from NJDEP to EPA. Oversight of the remedial design and construction has been conducted by the United States Army Corps of Engineers (USACE) on behalf of EPA. The remedial design for the 300 gallon per minute groundwater treatment facility (GWTF) was completed in 2010 and the facility construction was completed in late 2012. In early 2013; the GWTF commenced operation. There is a routine groundwater-monitoring program being performed at the Site in conjunction with the operation and maintenance of the groundwater remediation system.
+
+In 2011, the USEPA completed excavation of buried landfill material located on the directly adjacent property to the south of the Site. This remedial action consisted of consolidation of the excavated landfill material onto the existing 26-acre landfill. The volume excavated and consolidated from the adjacent property to the Site was 82,000 cubic yards as measured by truck loads. In 2011, the design for the 26-acre cap for the Site was completed.
+
+The construction of a groundwater treatment facility at the Site was completed in late 2012 and includes physical, chemical and biological treatment processes to treat contaminated groundwater. The groundwater treatment facility became operational in early 2013 and currently treats approximately 10 - 12 million gallons of contaminated groundwater per month. Treated groundwater is ultimately conveyed to the ACUA treatment facility. The groundwater treatment facility for the Price Landfill Site is projected to operate for at least 25 years. In 2014-15, an impermeable cap was placed over the 26-acre landfill as part of the overall remedy for the Site. The cap serves to restrict infiltration of rainwater that can allow contaminants to move through the landfill and further degrade groundwater. Both the groundwater treatment facility and the landfill are secure facilities surrounded by fencing with locked gates to prevent access.
+
+### What Is the Current Site Status?
+
+Operation and maintenance of the groundwater treatment system is on-going. The groundwater treatment system treats approximately 10 - 12 million gallons of groundwater per month. The landfill cap and gas management system is operated and maintained by NJDEP.
+
+An environmental investigation is in progress to evaluate the nature and extent of off-site groundwater contamination. This environmental investigation has involved installation of additional monitoring wells as well as surface water and sediment sampling of the wetlands and Absecon Creek. Once complete, EPA will evaluate the results of the environmental investigation to determine what, if any, additional environmental clean-up is required.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Both the groundwater treatment facility and the landfill are secure facilities surrounded by fencing with locked gates to prevent access.
+
+### Sampling and Monitoring
+
+Groundwater data is collected from on-site and off-site monitoring wells on a routine basis to assess the progress of the clean-up. Environmental samples are also collected to confirm compliance with discharge limits of treated groundwater to the ACUA.
+
+The on -going environmental investigation to evaluate the nature and extent of off-site groundwater contamination has involved installation of additional monitoring wells as well as surface water and sediment sampling of the wetlands and Absecon Creek.
+
+### Green Remediation
+
+Green remediation practices employed at the site include re-use/recycling of vapor phase granulated activated carbon of which four tons was re-used/recycled between August 2021 and January 2022. Renewable energy usage during this timeframe totaled 544,600 kilowatt hours.
+
+### Emergency Response and Removal
+
+In 1980, residential wells in the area were found to be contaminated with volatile organic compounds and the Atlantic County Health Department recommended that their use as a potable water supply be discontinued. In 1981, EPA provided drinking water from tank trucks to the affected residences. Thirty-seven residences were connected to the New Jersey Water Company (NJWC) potable water system. In addition, EPA and the state interconnected the Atlantic City Municipal Utilities Authority (ACMUA) and the NJWC potable water systems. EPA redeveloped three ACMUA production wells, and installed granular activated carbon filtration units to treat any contaminated water.
+
+### Enforcement Information
+
+A Consent Decree was entered into in June 1988 between EPA, the State of New Jersey, the Atlantic City Municipal Utilities Authority (ACMUA) and a group of Settling Parties to resolve claims associated with the implementation of an environmental clean-up of the site. In July 2011, EPA, NJDEP and the Atlantic City Electric Company executed a Settlement Agreement for payment of response costs and conveyance of certain real property to NJDEP, which was utilized to create a storm water settling basin that is part of the groundwater treatment facility..
