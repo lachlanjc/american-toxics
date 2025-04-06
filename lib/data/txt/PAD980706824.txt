@@ -1,2 +1,65 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301517)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301517)
+
+---
+
+### Background
+
+The 56-acre Watson Johnson Landfill site is located in Richland Township, Pennsylvania. A 32-acre landfill accepted industrial and municipal wastes on part of the site from the late 1950s until the early 1970s. Waste disposal activities contaminated soil, sediment and groundwater. EPA added the site to the Superfund program's National Priorities List on September 13, 2001.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+To address the immediate health concerns posed by volatile organic compound (VOC) contamination in several home wells, an extension of the public water main was completed in March 2006. This extension services up to thirty-five residential wells that were affected and/or threatened by VOC contaminated groundwater at levels of public health concern. Today, no private drinking water wells are impacted by site-relatedgroundwater contamination.
+
+It is important to note that EPA has continually monitored the site, even during the lapse in construction. Groundwater monitoring has taken place on a nearly annual basis and EPA has also taken sediment and surface soil samples.
+
+The agency has conducted a comprehensive site study, known as the Remedial Investigation/Feasibility Study. Data from this investigation was used to determine the nature and extent of the contamination and to develop cleanup plans. The Remedial Investigation Report was finalized in May 2006. A chemical oxidation pilot study was conducted to address the groundwater contamination with favorable results.
+
+The [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/2102878) for the Site was signed on August 14, 2009. The Remedial Design was initiated in November 2009 and a pre-design investigation was conducted. The Remedial Design was completed in September 2011. The groundwater cleanup began in early 2017 and landfill work began in Summer 2017.
+
+---
+
+### What Is the Current Site Status?
+
+EPA started construction of a landfill cap in Summer 2017 and the work was completed in Spring 2019. The in-situ treatment of groundwater began in early 2017.
+
+The cleanup of the Watson Johnson Landfill Superfund Sites includes
+
+**A multi-layer landfill cap:**
+
+- All waste located outside the landfill was removed or put below the cap
+- The landfill wasvegetated, and landscaping was designed around the Site
+- The cap will prevent exposure to all landfill contaminants
+- A drainage system for the landfill was installed
+- To learn more read EPA's [A Citizen's Guide to Capping (PDF)](http://clu-in.org/download/Citizens/a_citizens_guide_to_capping.pdf).
+
+**Groundwater cleanup:**
+
+- Installation of injection wells to treat the contamination
+- Installation of additional monitoring wells to monitor cleanup effectiveness
+- To learn more read EPA's [A Citizen’s Guide to In Situ Chemical Oxidation (PDF)](http://clu-in.org/download/Citizens/a_citizens_guide_to_capping.pdf).
+
+EPA conducted the first five-year review of the site’s remedy. This review ensures that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The [May 2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329154) concluded that the Site is protective of human health and the environment in the short-term. Immediate threats have been addressed and institutional controls that effectively limit exposure to contaminated soil and groundwater and protect the remedy are either planned or in place. In order for the remedy to be protective in the long term, the planned institutional controls need to be fully implemented and an evaluation to determine whether additional actions are necessary to address Site-related PFAS contamination in groundwater are needed and if so, document the actions needed in an appropriate decision document. The next Five-Year Review is scheduled for 2026.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls are in place to protect the landfill cap and prevent the use of contaminated groundwater in the vicinity of the site. More information about the Institutional Controls can be found in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/03/2329154.pdf)[,](https://semspub.epa.gov/work/03/2329154.pdf) pages 13-14.

@@ -1,29 +1,61 @@
-OHIO RIVER PARKNEVILLE ISLAND, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 32-acre Ohio River Park Superfund Site is located on Neville Island in Allegheny County, Pennsylvania. A municipal waste landfill for Neville Township operated at the site from the 1930s until the mid-1950s. Industrial waste disposal activities continued at the site from 1952 through the 1960s. In 1978, Allegheny County began developing the site as a park, but stopped construction after discovery of industrial waste. Waste disposal practices contaminated soil and groundwater with hazardous chemicals. EPA investigated contamination at the site and it was added to the Superfund program's National Priorities List (NPL) on August 30, 1990. EPA implemented cleanup remedies to address soil, buried waste, and groundwater. Following cleanup, operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through Potentially Responsible Party (PRP) actions. The remedy for the site is contained in three Records of Decision (ROD) issued in March 1993 (OU2), September 1996 (OU1), and September 1998 (OU3). The selected remedy addressed the following operable units (OU): 
-OU1: Soil and Buried Waste
-OU2: Coraopolis Bridge Soil
-OU3: Site-wide Groundwater 
-The selected remedy for OU2 of "No Action" for Coraopolis Bridge soil did not require implementation of any remedial action. The long-term remedy for site-wide soil contamination and buried waste (OU1) included installation of a multi-layer cap over an 11-acre waste disposal area, installation of a soil cap over the rest of the site, passive vents and institutional controls. Following construction of remedial cap components on the site, Neville Land Company (NLC) began redevelopment activities at the site, opening the Island Sports Center in 1998. The site achieved the “construction complete” Superfund milestone in September 1999. Operation and maintenance activities are ongoing. The selected remedy for site-wide groundwater (OU3) included Monitored Natural Attenuation, which began in January 2014 and is ongoing. In addition, institutional controls are in place prohibiting residential development and groundwater use at the site.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301227)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301227)
+
+---
+
+### Background
+
+The 32-acre Ohio River Park Superfund Site is located on Neville Island in Allegheny County, Pennsylvania. A municipal waste landfill for Neville Township operated at the site from the 1930s until the mid-1950s. Industrial waste disposal activities continued at the site from 1952 through the 1960s. In 1978, Allegheny County began developing the site as a park, but stopped construction after discovery of industrial waste. Waste disposal practices contaminated soil and groundwater with hazardous chemicals. EPA investigated contamination at the site and it was added to the Superfund program's National Priorities List (NPL) on August 30, 1990. EPA implemented cleanup remedies to address soil, buried waste, and groundwater. Following cleanup, operation and maintenance activities are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through Potentially Responsible Party (PRP) actions.
+
+The remedy for the site is contained in three Records of Decision (ROD) issued in March 1993 (OU2), September 1996 (OU1), and September 1998 (OU3). The selected remedy addressed the following operable units (OU):
+
+- OU1: Soil and Buried Waste
+- OU2: Coraopolis Bridge Soil
+- OU3: Site-wide Groundwater
+
+The selected remedy for OU2 of "No Action" for Coraopolis Bridge soil did not require implementation of any remedial action.
+
+The long-term remedy for site-wide soil contamination and buried waste (OU1) included installation of a multi-layer cap over an 11-acre waste disposal area, installation of a soil cap over the rest of the site, passive vents and institutional controls.
+
+Following construction of remedial cap components on the site, Neville Land Company (NLC) began redevelopment activities at the site, opening the Island Sports Center in 1998.
+
+The site achieved the “construction complete” Superfund milestone in September 1999. Operation and maintenance activities are ongoing.
+
+The selected remedy for site-wide groundwater (OU3) included Monitored Natural Attenuation, which began in January 2014 and is ongoing. In addition, institutional controls are in place prohibiting residential development and groundwater use at the site.
+
 In 2003, Robert Morris University (RMU) purchased the properties that make up the site to expand their athletic facilities. RMU has expanded the offerings of the Island Sports Center and has continued to maintain public use of the facilities and programs. Today, the site is home to a 5-acre building housing two indoor ice skating rinks, outdoor inline/ice rink facilities, a golf dome and golf training facility, a running track with center field space, a shot-put training area, sports equipment shops, dining facilities, paved parking areas and a mini-golf course.
-Top of Page
-What Is the Current Site Status?
-The site achieved the “construction complete” Superfund milestone in September 1999. Operation and maintenance activities are ongoing. EPA continues to conduct Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended. EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, 2023 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment for both the short-term and long-term. The next five-year review is scheduled for 2028. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in placed to protect the cap, prevent residental development, restrict groundwater use and warn againist consumption of potentially contaminated fish. Additional information about the institutional controls are available in the 2023 Five-Year Review (PDF) (page 10). 
-Top of Page
+
+---
+
+### What Is the Current Site Status?
+
+The site achieved the “construction complete” Superfund milestone in September 1999. Operation and maintenance activities are ongoing. EPA continues to conduct Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended.  
+  
+EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2341627.pdf), concluded that the remedy continues to be protective of human health and the environment for both the short-term and long-term. The next five-year review is scheduled for 2028.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to protect the cap, prevent residental development, restrict groundwater use and warn againist consumption of potentially contaminated fish. Additional information about the institutional controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2341627.pdf) (page 10).

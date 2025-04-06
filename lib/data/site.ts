@@ -1,7 +1,7 @@
 export interface Site {
   id: string;
   name: string;
-  semsId: number;
+  semsId: string;
   state: string;
   city: string;
   county: string;

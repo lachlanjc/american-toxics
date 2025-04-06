@@ -1,24 +1,47 @@
-MW MANUFACTURINGVALLEY TOWNSHIP, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 15-acre MW Manufacturing site is located in Valley Township in Montour County, Pennsylvania. From 1966 to 1972, MW Manufacturing operated a metal wire reclamation facility, which used mechanical and chemical processes to recover secondary copper from scrap wire. Spent solvent waste disposal practices contaminated soil and groundwater with hazardous chemicals and left waste piles of finely divided scrap wire called “fluff” on site. The Site was added to the Superfund program's National Priorities List (NPL) on June 10, 1986. Following cleanup, operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation of more efficient groundwater treatment methods. The most recent Five-Year Review (PDF)was completed in August 2020. 
-Top of Page
-What Is the Current Site Status?
-Since 1993, no commercial activities have occurred at the site. The site’s long-term remedy for groundwater included providing public water to affected residences and businesses, pumping and treating groundwater, and discharging it to nearby Mauses Creek. The public water line installation was completed in the summer of 1996 and provides water to 39 residences and 13 commercial establishments. The groundwater treatment system began operating in January 2005. EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, 2020 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2025.  
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to limit future use of the property and restricitng groundwater use. Development in the wetland, which overlays the plume, is unlikely due to existing wetland protection regulations. Additional information about the Institutional Controls are available in the 2020 Five-Year Review (PDF) 
-Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301428)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301428)
+
+---
+
+### Background
+
+The 15-acre MW Manufacturing site is located in Valley Township in Montour County, Pennsylvania. From 1966 to 1972, MW Manufacturing operated a metal wire reclamation facility, which used mechanical and chemical processes to recover secondary copper from scrap wire. Spent solvent waste disposal practices contaminated soil and groundwater with hazardous chemicals and left waste piles of finely divided scrap wire called “fluff” on site. The Site was added to the Superfund program's National Priorities List (NPL) on June 10, 1986. Following cleanup, operation and maintenance activities are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation of more efficient groundwater treatment methods.
+
+The most recent [Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2314119) was completed in August 2020.
+
+---
+
+### What Is the Current Site Status?
+
+Since 1993, no commercial activities have occurred at the site. The site’s long-term remedy for groundwater included providing public water to affected residences and businesses, pumping and treating groundwater, and discharging it to nearby Mauses Creek. The public water line installation was completed in the summer of 1996 and provides water to 39 residences and 13 commercial establishments. The groundwater treatment system began operating in January 2005.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [20](http://semspub.epa.gov/src/document/03/2216925) [20 Five-Year Review (PDF](https://semspub.epa.gov/src/03/2314119.pdf) ), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2025.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to limit future use of the property and restricitng groundwater use. Development in the wetland, which overlays the plume, is unlikely due to existing wetland protection regulations.
+
+Additional information about the Institutional Controls are available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/03/2314119.pdf)

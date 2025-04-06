@@ -1,2 +1,78 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301506)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301506)
+
+---
+
+### Background
+
+The 125-acre Taylor Borough Dump site is located in Taylor Borough, Pennsylvania. The City of Scranton used the former underground and strip mine as a municipal dump from 1964 to 1968. Illegal dumping of 1,200 drums containing hazardous organic chemicals and heavy metals took place. Waste disposal activities contaminated air, soil, surface water, sediment and groundwater. The site was added to the Superfund program's National Priorities List (NPL) in September 1984. Following the cleanup, EPA deleted the site from the NPL in September 1999. The potentially responsible parties continue to perform operation and maintenance activities at the site, with EPA oversight.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983, a fire broke out on the surface of the landfill and drums became partially buried due to mine spoil pushed over burning areas to extinguish the fire. EPA conducted a removal action that involved disposal, drum repacking, organization of materials, control of contaminant movement, excavation, security restoration and sampling. A total of 1,141 drums were removed from the site.
+
+In 1987, a Consent Decree was signed between EPA and five settling potentially responsible parties to implement the remedial action. The remedy featured the following:
+
+- Removal and off-site disposal of 125 drums and remnants
+- Collection and treatment of contaminated water in nearby ponds
+- Excavation and off-site disposal of contaminated soils
+- Construction of a soil cover over the area.
+
+Source control actions were effective in preventing further release of contaminants to the groundwater. Testing of groundwater following removal of contaminated soils and treatment of pond water showed that groundwater was within safe levels. Therefore, no additional groundwater cleanup was required. This cleanup work was completed in 1988.
+
+In addition to the operation and maintenance activities required by the Records of Decision, EPA conducted additional post-remediation activities. These activities included:
+
+- Surface water, sediment and biota sampling of nearby ponds
+- Landfill gas monitoring
+- On-site and residential ambient air monitoring
+- Stormwater sampling.
+
+Results of the sampling conducted showed that the remedy is performing as expected.
+
+During January 2011, EPA completed a number of activities at the site in preparation to hand the operation and maintenance responsibilities over to the City of Scranton. The activities included:
+
+- Closure of a drainage borehole in consultation with the Pennsylvania Department of Environmental Protection
+- Removal of woody scrub from the cap and fence line
+- Minor repairs to the cap, a drainage trench, access road and fence line
+
+The City of Scranton has since taken over operation and maintenance from EPA.
+
+---
+
+### What Is the Current Site Status?
+
+EPA deleted the Taylor Borough Dump Superfund Site from the National Priorities List in September 1999. The City of Scranton has taken over responsibility to conduct operation and maintenance activities at the site to ensure the protectiveness of the soil cover.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2345887.pdf), concluded that the overall site remedy is protective of human health and the environment in the short-term. For the remedy in Operable Unit 1 (OU-1) to be protective in the long-term, the potentially responsible party must continue to perform all operation and maintenance activities. Operable Unit 2 (OU-2) will no longer be included in future five-year reviews because five years of required groundwater monitoring did not identify a Site-realted release to groundwater and no additional monitoring at the Site is necessary. Groundwater is not a source of drinking water at or near the Site.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict future land use and maintain the integrity of the soil cover. Additional information about the institutional controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2345887.pdf) (page18).
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These actions included disposal, drum repacking, organization of materials, control of contaminant movement, excavation, security restoration and sampling. Removal activities removed 1,141 drums from the site. Additional cleanup, completed in 1988, included the removal and off-site disposal of an additional 125 drums and remnants, collection and treatment of contaminated water in ponds, excavation and off-site disposal of contaminated soils, and construction of a soil cover over the area.
+
+More information about past emergency response and removal activites at the site are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2345887.pdf) (pages 8-9).

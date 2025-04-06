@@ -1,2 +1,44 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302464)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302464)
+
+---
+
+### Background
+
+The Tobyhanna Army Depot (TYAD) site is located in the Pocono Mountains in Monroe County, Pennsylvania. The facility was used as a training and artillery range from 1909 until 1949. The industrial portion of the TYAD was constructed in 1950s and is currently the largest full-service electronics maintenance facility in the Department of Defense (DoD). During the 1950s to early 1960s, the Army used areas on the southern part of the site for drum staging, burning and disposal of garbage, construction rubble, scrap metal, drums and solvents. An inactive landfill which operated from 1963 to 1979 and received various types of wastes including plating wastes, sludge from the sewage treatment plant, ash, construction debris, paints, solvents, oils, and sanitary waste is also present on TYAD. Additionally, there is an approximately 400-acre area containing unexploded ordnance (UXO) located on TYAD due to its past use as an artillery range. Past/present activities resulted in contamination of groundwater, soils and sediments with volatile organic compounds (VOCs), inorganics, and per- and polyfluorylalkyl substances (PFAS). UXO remains onsite within a fenced and secured area. The site was added to the Superfund program’s National Priorities List (NPL) in August 1990. EPA deleted part of the site from the NPL in 2001.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. A September 1990 Federal Facilities Agreement (FFA) between EPA and the Army identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are 5 operable units being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for all 5 operable units:
+
+- OU1: Areas A and B. The potential source of contamination has been removed and the remedy consists of monitored natural attenuation and institutional controls to prevent the use of groundwater for drinking within the plume area.
+- OU2: PCB Transformer Area. The transformers and contaminated soils have been removed. This site requires no further action.
+- OU3: RCRA Closure Areas of Concern – This site consisted of two hazardous waste storage buildings that were closed out under RCRA. This site requires no further action.
+- OU4: UXO Area - Institutional Controls are in place to prevent exposure to potential unexploded ordnance in this area. The area is fenced and there are warning signs posted.
+- OU5: Inactive Landfill The remedy consists of monitored natural attenuation and institutional controls to prevent the use of groundwater for drinking within the plume area.
+
+---
+
+### What Is the Current Site Status?
+
+The Army has investigated and cleaned up multiple sites at the Tobyhanna Army Depot.
+
+In September 2000, the site reached the Superfund “construction complete” milestone. This means all necessary remedial actions have been completed and are operating as designed. Operation, maintenance and monitoring of in-place remedies and institutional controls are ongoing. In 2001, EPA deleted part of the site from the NPL. The groundwater contamination at two OUs are the only areas remaining on the NPL.
+
+Currently, the Army is completing an investigation to determine the extent of PFAS compounds which have been found in the groundwater, and may be present due to the use of AFFF firefighting foam and chromium plating activities. The final results of the PFAS site investigation can be found here, [https://aec.army.mil/index.php/PFAS/PA/TYAD.](https://aec.army.mil/index.php/PFAS/PA/TYAD)
+
+The Army, with EPA concurrence, has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, conducted in [September 2022](https://semspub.epa.gov/work/03/2335652.pdf) was an independent EPA review that deferred the determination of whether the remedies selected by the Army continue to be protective of human health and the environment until the Army gathers more information on the ongoing emerging contaminants investigation. The Army completed its review and determination in [November 2022](https://semspub.epa.gov/src/document/03/2338773). The next Five-Year Review is scheduled for September 2027.

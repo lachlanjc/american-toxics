@@ -1,26 +1,55 @@
-BROWN'S BATTERY BREAKINGHAMBURG, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Brown's Battery Breaking site is located in Shoemakersville, Berks County, Pennsylvania. The site consists of a 14-acre abandoned battery recycling facility that operated from 1961 to 1971. Three families were living on the site when the state discovered elevated levels of lead in children living in these residences. EPA then studied the site and found soil and surface water contamination. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1986. There is a fence around the perimeter of the site to restrict public access. The site is bordered by Conrail tracks to the west, the Schuylkill River to the southeast, and Mill Creek to the southwest. It lies within the flood plain of the Schuylkill River. Groundwater treatment at the site is ongoing. Approximately 220 people live within one-mile of the site. There are 1,000 people within three miles of the site who depend on groundwater for drinking water supplies. Two private residential wells are located on site. Only one of the private wells is currently used as a potable water source. The adjacent Schuylkill River is used as a potable water source, as well as for recreation. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-​The site is being addressed through federal and potentially responsible party (PRP) actions. In 1983, EPA temporarily relocated the three families living at the site. Contaminated soil and battery casings were moved to a containment area and were covered with a low permeability cap. The primary disposal area was also fenced. In 1990, EPA decided to permanently relocate three residences and a business, and Exide Corp. began the process under EPA's monitoring. In late 1991, EPA completed a study of the soil, debris, and groundwater contamination, and identified cleanup methods that could be used at the site. EPA issued its Record of Decision in 1992, calling for treatment of all soils containing lead levels above 1,000 ppm, using an innovative thermal treatment technology, similar to incineration. If the innovative technology was not feasible, a contingent method, on-site stabilization with off-site disposal, was also selected. In early 1993, EPA completed relocations of all residents and one business. The remaining business, at that time, left the site when the cleanup commenced. In March 1998, EPA determined that the innovative technology was not feasible and the contingent method would be used instead. Exide began the soil cleanup in June 2000 continuing until they declared bankruptcy in April 2002. EPA completed the cleanup of contaminated soil and battery casings in the summer of 2003, and Exide completed the grading and re-vegetation of the site in October 2003. Contaminated groundwater at the site is being treated by injecting sodium bicarbonate to elevate the pH and reduce the solubility of metals. Injections have been ongoing on a periodic basis since 2005. The most recent injection event was conducted in 2020. The groundwater treatment was conducted by Exide; however, Exide declared bankruptcy again in May 2020. EPA, in coordination with the Pennsylvania Department of Environmental Protection (PADEP), is evaluating options for continued groundwater treatment and monitoring at the site. Top of Page
-What Is the Current Site Status?
-Operation and maintenance activities will continue. However, because of the Exide bankruptcy, EPA is evaluating options for continuation of the work. 
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, 2022 Five-Year Review (PDF), concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy is expected to be achieved through continued operation of the in-place chemical treatment of groundwater and proper compliance with institutional controls. 
-The next five-year review is scheduled for September 2027. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to limit the site to industrial use. Additional information about the institutional controls is available in the 2022 Five-Year Review (PDF) (pages 9 and 10).
-Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301625)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301625)
+
+---
+
+### Background
+
+The Brown's Battery Breaking site is located in Shoemakersville, Berks County, Pennsylvania. The site consists of a 14-acre abandoned battery recycling facility that operated from 1961 to 1971. Three families were living on the site when the state discovered elevated levels of lead in children living in these residences. EPA then studied the site and found soil and surface water contamination. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1986. There is a fence around the perimeter of the site to restrict public access. The site is bordered by Conrail tracks to the west, the Schuylkill River to the southeast, and Mill Creek to the southwest. It lies within the flood plain of the Schuylkill River. Groundwater treatment at the site is ongoing. Approximately 220 people live within one-mile of the site. There are 1,000 people within three miles of the site who depend on groundwater for drinking water supplies. Two private residential wells are located on site. Only one of the private wells is currently used as a potable water source. The adjacent Schuylkill River is used as a potable water source, as well as for recreation.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+In 1983, EPA temporarily relocated the three families living at the site. Contaminated soil and battery casings were moved to a containment area and were covered with a low permeability cap. The primary disposal area was also fenced. In 1990, EPA decided to permanently relocate three residences and a business, and Exide Corp. began the process under EPA's monitoring.
+
+In late 1991, EPA completed a study of the soil, debris, and groundwater contamination, and identified cleanup methods that could be used at the site. EPA issued its [Record of Decision](https://semspub.epa.gov/src/document/03/105671) in 1992, calling for treatment of all soils containing lead levels above 1,000 ppm, using an innovative thermal treatment technology, similar to incineration. If the innovative technology was not feasible, a contingent method, on-site stabilization with off-site disposal, was also selected.
+
+In early 1993, EPA completed relocations of all residents and one business. The remaining business, at that time, left the site when the cleanup commenced.
+
+In March 1998, EPA determined that the innovative technology was not feasible and the contingent method would be used instead. Exide began the soil cleanup in June 2000 continuing until they declared bankruptcy in April 2002. EPA completed the cleanup of contaminated soil and battery casings in the summer of 2003, and Exide completed the grading and re-vegetation of the site in October 2003.
+
+Contaminated groundwater at the site is being treated by injecting sodium bicarbonate to elevate the pH and reduce the solubility of metals. Injections have been ongoing on a periodic basis since 2005. The most recent injection event was conducted in 2020. The groundwater treatment was conducted by Exide; however, Exide declared bankruptcy again in May 2020. EPA, in coordination with the Pennsylvania Department of Environmental Protection (PADEP), is evaluating options for continued groundwater treatment and monitoring at the site.
+
+---
+
+### What Is the Current Site Status?
+
+Operation and maintenance activities will continue. However, because of the Exide bankruptcy, EPA is evaluating options for continuation of the work.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2335626.pdf), concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy is expected to be achieved through continued operation of the in-place chemical treatment of groundwater and proper compliance with institutional controls.
+
+The next five-year review is scheduled for September 2027.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to limit the site to industrial use. Additional information about the institutional controls is available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2335626.pdf) (pages 9 and 10).

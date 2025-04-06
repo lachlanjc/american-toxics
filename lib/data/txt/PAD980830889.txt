@@ -1,29 +1,74 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 10-acre Shriver’s Corner site is located in Straban Township, Pennsylvania. A disposal area operated on site, accepting drums of waste from the nearby Westinghouse Elevator Co. Plant Superfund Site. Dumping of drums, containing volatile organic compounds (VOCs) which are chemical components of solvents, liquid wastes, and paint sludge, took place on the southern part of the site. Waste disposal operations contaminated soil, sediment and groundwater. The site was added to the Superfund program's National Priorities List in June 1986. Following cleanup, groundwater treatment is ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-In April 1985, EPA ordered Westinghouse to remove about 80 surface drums and 250 cubic yards of contaminated soils and send the materials to an EPA-approved disposal site. A two-inch soil cover was placed over a contaminated area of the site. The company also provided carbon filters for some residential wells. These measures eliminated the immediate threats to the affected public and are controlling further site contamination. In 1995, after failed negotiations with the potentially responsible parties (PRPs), EPA built an eight-foot chain link fence to prevent nearby residents, including children, from coming in contact with newly discovered dangerous chemicals. Under EPA supervision, Westinghouse finished the all studies of the groundwater and soil. These studies identified contamination types, locations, and concentrations. They also recommended a variety of approaches to dealing with the site pollution. In June 1995, EPA issued the Record of Decision (PDF) which selects the cleanup method for the site.  Groundwater sampling done in February 1999 showed that the water pollution was moving as predicted -- slowly, heading downhill toward the westward creek. The path of this pollution movement will not impact any water supplies. The soil cleanup at the Shealer Area and Culp Area was finished in August 1999. The community well was drilled and tested; affected residences were connected to it in February 2000. Installation of test wells for the groundwater pump and treat design was completed in the fall of 2001. A total of 49 groundwater monitoring wells and six recovery wells were installed during the design of the groundwater cleanup. In October 2002, the groundwater treatment system was constructed and completed. All the construction activities for site cleanup were successfully completed. EPA issued a Preliminary Close Out Report (PCOR) on January 7, 2003. The groundwater treatment system is fully functional and operating successfully. The system will need to operate many years to restore the groundwater to drinking standard. The PRP voluntarily conducted a screening process to investigate exposure pathways due to vapor intrusion (VI). PRP submitted VI assessment report in August 2005. The report findings indicated that there were no VI exposure threats to the nearby homes. In July 2018, EPA released an Explanation of Significant Differences (ESD) (PDF) for the Shriver’s Corner Superfund Site. The ESD outlines a change to the original cleanup plan to protect public health and the environment. This change requires the implementation of additional institutional controls to ensure that no new residential wells are installed near the site and to prevent damage to the remedy components. The site consists of three operable units (OUs): 
-OU-1 to address the community water supply well,
-OU-2 to address soil and sediment contamination, and
-OU-3 to address the groundwater treatment and extraction system. ﻿ 
-Top of Page
-What Is the Current Site Status?
-A groundwater extraction and treatment system has been in operation since November 2002 at each area. The system associated with the Culp Area has been successful at reducing total volatile organic compound (VOC) concentrations within the plume and reducing the footprint of the VOC plume. However, total VOC concentrations remain above cleanup goals. Therefore, the responsible party will conduct a pilot study to evaluate options to further reduce the VOC concentrations in the Culp Area, beginning in September 2019. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2023 Five-Year Review (PDF), concluded that the remedy sitewide continues to be protective of human health and the environment. EPA determined that for OU-3 to be protective in the long-term, a new decision document will need to clearly identify site contaminants, add 1-4 dioxane as a Contaminant of Concern for the site, and identify performance standards for site-related contaminants. The next five-year review is scheduled for 2028.  In September 2024, EPA issued the second Explanation of Significant Differences (ESD) (PDF) document for the site. This ESD documents changes to the original cleanup plan. These changes include adding 1,4-dioxane to the list of groundwater Contaminants of Concern (COC), clarifying groundwater COCs that are addressed by the cleanup, establishing groundwater cleanup standards for groundwater COCs without federal Maximum Contaminant Levels, and requiring a cumulative risk assessment after the groundwater cleanup standard for each COC is achieved. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to restrict groundwater use. Additional information about the institutional controls are available in the 2023 Five-Year Review (PDF) (pages 5-6). 
-Top of Page
-Emergency Response and Removal
-Cleanup has also included removal actions, or short-term, emergency cleanups, to address immediate threats to human health and the environment. Actions in 1985 included removal and off-site disposal of about 80 drums and 250 cubic yards of contaminated soil, placement of a two-inch soil cover over a portion of the site, and installation of carbon filters on affected residential wells. In 1995, EPA built a fence around the site to prevent people from coming into contact with contamination.
-Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301594)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301594)
+
+---
+
+### Background
+
+The 10-acre Shriver’s Corner site is located in Straban Township, Pennsylvania. A disposal area operated on site, accepting drums of waste from the nearby Westinghouse Elevator Co. Plant Superfund Site. Dumping of drums, containing volatile organic compounds (VOCs) which are chemical components of solvents, liquid wastes, and paint sludge, took place on the southern part of the site. Waste disposal operations contaminated soil, sediment and groundwater. The site was added to the Superfund program's National Priorities List in June 1986. Following cleanup, groundwater treatment is ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In April 1985, EPA ordered Westinghouse to remove about 80 surface drums and 250 cubic yards of contaminated soils and send the materials to an EPA-approved disposal site. A two-inch soil cover was placed over a contaminated area of the site. The company also provided carbon filters for some residential wells. These measures eliminated the immediate threats to the affected public and are controlling further site contamination.
+
+In 1995, after failed negotiations with the potentially responsible parties (PRPs), EPA built an eight-foot chain link fence to prevent nearby residents, including children, from coming in contact with newly discovered dangerous chemicals. Under EPA supervision, Westinghouse finished the all studies of the groundwater and soil. These studies identified contamination types, locations, and concentrations. They also recommended a variety of approaches to dealing with the site pollution.
+
+In June 1995, EPA issued the [Record of Decision (PDF)](https://semspub.epa.gov/src/document/03/42394) which selects the cleanup method for the site.
+
+Groundwater sampling done in February 1999 showed that the water pollution was moving as predicted -- slowly, heading downhill toward the westward creek. The path of this pollution movement will not impact any water supplies.
+
+The soil cleanup at the Shealer Area and Culp Area was finished in August 1999.
+
+The community well was drilled and tested; affected residences were connected to it in February 2000. Installation of test wells for the groundwater pump and treat design was completed in the fall of 2001. A total of 49 groundwater monitoring wells and six recovery wells were installed during the design of the groundwater cleanup. In October 2002, the groundwater treatment system was constructed and completed. All the construction activities for site cleanup were successfully completed.
+
+EPA issued a Preliminary Close Out Report (PCOR) on January 7, 2003. The groundwater treatment system is fully functional and operating successfully. The system will need to operate many years to restore the groundwater to drinking standard.
+
+The PRP voluntarily conducted a screening process to investigate exposure pathways due to vapor intrusion (VI). PRP submitted VI assessment report in August 2005. The report findings indicated that there were no VI exposure threats to the nearby homes.
+
+In July 2018, EPA released an [Explanation of Significant Differences (ESD) (PDF)](http://semspub.epa.gov/src/document/03/2260234) for the Shriver’s Corner Superfund Site. The ESD outlines a change to the original cleanup plan to protect public health and the environment. This change requires the implementation of additional institutional controls to ensure that no new residential wells are installed near the site and to prevent damage to the remedy components.
+
+The site consists of three operable units (OUs):
+
+1. OU-1 to address the community water supply well,
+2. OU-2 to address soil and sediment contamination, and
+3. OU-3 to address the groundwater treatment and extraction system.
+
+---
+
+### What Is the Current Site Status?
+
+A groundwater extraction and treatment system has been in operation since November 2002 at each area. The system associated with the Culp Area has been successful at reducing total volatile organic compound (VOC) concentrations within the plume and reducing the footprint of the VOC plume. However, total VOC concentrations remain above cleanup goals. Therefore, the responsible party will conduct a pilot study to evaluate options to further reduce the VOC concentrations in the Culp Area, beginning in September 2019.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2350799), concluded that the remedy sitewide continues to be protective of human health and the environment. EPA determined that for OU-3 to be protective in the long-term, a new decision document will need to clearly identify site contaminants, add 1-4 dioxane as a Contaminant of Concern for the site, and identify performance standards for site-related contaminants. The next five-year review is scheduled for 2028.
+
+In September 2024, EPA issued the [second Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2394493) document for the site. This ESD documents changes to the original cleanup plan. These changes include adding 1,4-dioxane to the list of groundwater Contaminants of Concern (COC), clarifying groundwater COCs that are addressed by the cleanup, establishing groundwater cleanup standards for groundwater COCs without federal Maximum Contaminant Levels, and requiring a cumulative risk assessment after the groundwater cleanup standard for each COC is achieved.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater use. Additional information about the institutional controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2350799) (pages 5-6).
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term, emergency cleanups, to address immediate threats to human health and the environment. Actions in 1985 included removal and off-site disposal of about 80 drums and 250 cubic yards of contaminated soil, placement of a two-inch soil cover over a portion of the site, and installation of carbon filters on affected residential wells. In 1995, EPA built a fence around the site to prevent people from coming into contact with contamination.

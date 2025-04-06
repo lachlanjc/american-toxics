@@ -1,2 +1,74 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Enforcement Information](#Enforce)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300773)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300773)
+
+---
+
+### Background
+
+The A.I.W Frank/Mid-County Mustang Superfund Site is located on 16 acres which were originally surrounded by farmland, but are undergoing rapid development, including a mix of residential, commercial and light industrial areas. From 1962 to 1981, 15 of the 16 acres were used to produce Styrofoam cups and plates. In 1981, Continental Refrigerator Corp. bought the property and manufactured refrigerators, freezers and warming cabinets for the institutional food industry. One acre of the site was leased by Mid-County Mustang since the 1940s, for auto repairs and body shops. Solvents used for engine cleaning were routinely dumped into floor drains until the 1980s when the drains were sealed. From the floor drains, the solvents proceeded onto a drain field and contaminated soil and groundwater, primarily with trichloroethylene (TCE), a major component of solvents and degreasers. The site was added to the Superfund program's National Priorities List in 1989. Groundwater treatment and monitoring are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1985, the owners of Mid-County Mustang cemented the floor drains, excavated contaminated soil in the drain field, and shipped the soil off site for proper disposal.
+
+In 1991, a fire destroyed one of the buildings while EPA was studying the site, so EPA demolished the damaged building to safely complete its Remedial Investigation and Feasibility Study, which was completed in June 1995. The studies identified three types of contamination: 1) trichloroethylene (TCE) and other solvents in groundwater; 2) TCE and other solvents in soil; 3) abandoned debris in drums, drainage ditches, sumps and underground tanks.
+
+EPA selected the final cleanup option for the site in a 1995 Record of Decision (ROD), which included construction of a municipal water line; extraction and treatment of contaminated groundwater; and removal and disposal of contaminated soil and debris.
+
+EPA connected residential homes to a new public water supply line in 2000 and, at the same time, dug extraction wells to pump and treat the groundwater. The groundwater pump and treat system began in 2000. Following a period of successful treatment, the system was shut down by EPA in 2008.
+
+In 2011, a vapor intrusion study was performed to determine if vapors from the contaminated groundwater were seeping into one of the homes located above the groundwater plume. The results indicated that vapor intrusion is not occurring.
+
+In January 2012, the Pennsylvania Department of Environmental Protection (PADEP) took over operation and maintenance of the groundwater treatment system, along with the required routine groundwater sampling.
+
+Prior to turning over operation and maintenance to PADEP, EPA contractors completed pilot studies of in situ chemical oxidation groundwater injections and biological remediation groundwater injections in existing and new monitoring wells. The injections used the oxidizing chemicals and naturally occurring bacteria and nutrients to break down contaminants to levels below clean-up standards. The results of the pilot studies, which were completed in August of 2011, were evaluated in a Focused Feasibility Study (FFS) that was completed in Spring 2015.
+
+The FFS results and the data collected were used to propose a remedy modification to the 1995 ROD. EPA prepared a proposed cleanup plan for public comment and issued a ROD Amendment in [June 2017](https://semspub.epa.gov/src/document/03/2244734). The amendment includes an additional contaminant of concern to the cleanup – 1,4 dioxane, and replaces the pump and treatment of groundwater via air stripping with in situ chemical oxidation (ISCO) and in situ bioremediation (ISBR) groundwater injections.
+
+Following the ROD Amendment, EPA took over operation and maintenance of the site to plan for the remaining groundwater injections.
+
+EPA completed the design for the groundwater injections in 2018. It also completed an initial round of in situ chemical oxidation (ISCO) groundwater injections in August 2019. In 2020 and 2021, additional sampling was performed to determine the influence of the ISCO on the groundwater contamination. The results showed that the ISCO treatment reduced the amounts of 1,4-dioxane in the groundwater. ISCO involves the injection or direct mixing of chemical oxidants into groundwater and/or soil for the primary purpose of changing harmful contaminants into less toxic ones. It is “in situ” because it is conducted in place, without having to dig oput soil or pump out groundwater for aboveground cleanup
+
+Following this sampling event in 2022, PADEP resumed operation and maintenance of the Site and will continue designing the groundwater in situ bioremediation (ISBR) program to address the remaining chlorinated contamination at the Site. The ISBR injections will further reduce contaminant concentrations at the site to cleanup goals. Additional sampling will determine if more groundwater injections are necessary.
+
+---
+
+### What Is the Current Site Status?
+
+Groundwater treatment and monitoring are ongoing. The Pennsylvania Department of Environmental Protection (PADEP) will continue to provide oversight and work closely with the EPA to ensure the remedy is not impacted during any future redevelopment activities.
+
+PADEP will continue to provide oversight and work closely with the EPA to ensure the remedy is not impacted during any future redevelopment activities.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF),](https://semspub.epa.gov/src/document/03/2314118\),) concluded that the remedies are functioning as designed. The next five-year review is scheduled for 2026.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place that currently prevent new residential wells from being installed in the contaminant plume. Controls are also in place on the site property to ensure protection of groundwater wells.
+
+An environmental covenant exists for new residential development immediately west of the site property. This environmental covenant restricts all groundwater use at the property, restricts interference with any monitoring wells and requires a vapor-mitigation system to be installed in every residential structure constructed at the property. Additional information about the institutional controls is available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2314118) (pages 10-13).
+
+---
+
+### Enforcement Information
+
+[Enforcement Documents Consent Decree - January 2012 (PDF)](http://semspub.epa.gov/src/document/03/2149544) (33 pp, 1.27 MB, [About PDF](https://www.epa.gov/home/pdf-files) )

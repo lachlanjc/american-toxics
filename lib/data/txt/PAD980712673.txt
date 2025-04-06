@@ -1,2 +1,62 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301541)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301541)
+
+---
+
+### Background
+
+The 15-acre Osborne Landfill Superfund Site is located in Pine Township, Pennsylvania. The landfill accepted wastes, including industrial wastes, from the 1950s until 1978. Waste materials included spent paint, asbestos, solvents, waste coolants, waste sand, waste acid, scrap metal, cooling system sludge, slag and waste oils. Disposal activities contaminated soil, groundwater, surface water and residential well water with hazardous chemicals.The Site was added to the Superfund program's National Priorities List in September 1983.
+
+Following completion of the selected remedies, operation and maintenance are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through federal, state and potentially responsible parties (PRP) actions, with the PRP as the lead.
+
+Cooper Industries, a PRP, performed an initial removal action at this Site in 1983. Under a Consent Order with Pennsylvania, Cooper Industries conducted a remedial investigation of the Site, but was unwilling to comply with all of the conditions required by the state. In 1988, at the request of the State, EPA took over the investigation and completed an intensive study of Site conditions and other required reports.  
+  
+In a September [1990](http://semspub.epa.gov/src/document/03/132315) [Record of Decision](http://semspub.epa.gov/src/document/03/132315), EPA selected a remedy for the fill material, the on-site water table, and the shallow aquifer. After long negotiations, EPA was unable to obtain an agreement with the responsible parties. EPA issued a Unilateral Order to Cooper Industries in March 1991 to install a slurry wall, clay cap, and leachate treatment system. General Electric contributed a cash settlement to reimburse EPA for past costs. A slurry wall has been constructed around the perimeter of the fill area to a depth of forty feet, and a clay cap has been installed over the fill to reduce leaching of contaminants.  
+  
+In 1994, Cooper Industries extended a public water line on the east side of the Site in reaction to high levels of contamination found in a resident's well. This completed a loop which now supplies residents at risk near the perimeter of the site with municipal water.  
+  
+Construction of the remedy for the fill area finished in the summer of 1997. A second remedy, selected by EPA in 1997, addressed wetland sediments and groundwater. This remedy included a "no action" decision for the wetlands, natural attenuation with monitoring for the Clarion Aquifer and groundwater monitoring for deeper uncontaminated aquifers at the Site.
+
+---
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302581), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2025.  
+  
+The Site status is "Construction Complete", with continued groundwater analysis of monitoring wells placed around the slurry wall and in the mine voids. The constructed remedies are functioning as intended and there are no current exposure pathways. The remedies, which included the landfill leachate collection system, the landfill cap and slurry wall, the groundwater monitoring plan, and institutional controls, are in place and include prohibitions on the use or disturbance of groundwater until cleanup levels are achieved.  
+  
+The landfill leachate collection system and the treatment system are no longer in operation as the cleanup levels for this portion of the remedy have been achieved. Additionally, prohibitions on new wells within the property containing the landfill continue to achieve the remedial action objective for the Site, and the Pennsylvania Department of Environmental Protection's Oil and Gas Program is reviewing all drilling permits to ensure that they require a restriction on mining or mineral removal within 1/2 mile of the Site.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater use and protect the cap that was put in place. Additional information about the institutional controls is available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302581) (pages 12-13).  
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1983, the potentially responsible party (PRP) installed fencing around the site, posted warning signs, and removed and disposed of 83 filled drums, 460 empty drums and 45 cubic yards of contaminated soil. In 1994, the PRP also extended a public water line on the east side of the Site in response to high levels of contamination in a resident's well.

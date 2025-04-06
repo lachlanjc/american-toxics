@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Sampling and Monitoring](#Sample)
+- [Green Remediation](#Green)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301570)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301570)
+
+---
+
+### Background
+
+The approximate 7-acre Walsh Landfill Site, also known as the Welsh Road Landfill, is located in Honey Brook Township, Pennsylvania. The Site reportedly received mixed municipal and industrial wastes for disposal between 1963 and 1976, but disposal operations may have continued through the 1980s. Several attempts were made by the owner to obtain state and township approval for a landfill in the 1970s. Due to citizen complaints and continued non-compliance with regulations, the operation was never permitted. Waste disposal activities contaminated soil, sediment, and groundwater. The Site was added to the Superfund program's National Priorities List (NPL) in September 1984.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+  
+In 1985, EPA approved the funds to start removing contaminated materials. The work was divided between EPA and the owner, who conducted on-site cleanup and disposed of 26 drums. EPA performed soil sampling and off-site well monitoring to determine the extent of contamination. Drummed wastes were removed from the site. In 1989, the Commonwealth of Pennsylvania began providing bottled water to 44 homes.  
+  
+The remedy called for in the 1990 Record of Decision addressed the threats to public health posed by the ingestion of, inhalation of, and dermal contact of contaminated groundwater and landfill soils by requiring the extension of a municipal water line to service affected residents in the vicinity of the site, capping the landfill, and fencing the site.  
+  
+In 1991, EPA issued a Unilateral Administrative Order (UAO) to the site owner, requiring the owner to remove all debris and salvage materials from the surface of the landfill in an environmentally sound manner. Initially, the site owner complied with the UAO, but removal operations ceased when one half of the site was cleared.  
+  
+In 1998, forty-five residences in the Route 10/Welsh Road corridor were connected to a water line extension project completed by EPA.  
+  
+Following legal actions between EPA and the property owner, the owner relocated his business and cleared the site in 2003. Also in 2003, EPA updated the long-term remedy to change the type of landfill cap to an evaporation/transpiration (ET) cover system. The ET cover system consists of a soil cover with densely planted, deep-rooting hybrid poplar trees and shallow-rooting plants to reduce surface water infiltration through the landfill and prevent further contamination of groundwater. Construction of the ET cover system was completed by a group of responsible parties in 2006.  
+  
+Groundwater at the site continues to be monitored annually.
+
+---
+
+### What Is the Current Site Status?
+
+All physical construction of the landfill cover is complete at the site. The site is in the operation and maintenance (O&M) phase which includes implementing the approved O&M plan for the evaporation/transpiration (ET) cover system and conducting annual groundwater monitoring.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF),](https://semspub.epa.gov/work/03/2314174.pdf) concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2026.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls (ICs) are in place for all properties that comprise the site to restrict future uses that could potentially affect performance of the remedies in place and any exposure risks to groundwater. ICs are in the form of deed notices, which were recorded in 2006. To learn more about the ICs, please see the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2314174.pdf) on page 13.
+
+---
+
+### Sampling and Monitoring
+
+There are many years of data and analysis for the Walsh Landfill Superfund Site. Detailed information may be found in the [Administrative Record](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ars&id=0301570).
+
+---
+
+### Green Remediation
+
+A group of responsible parties agreed to comply with an EPA Order for the design and construction of an Evaporation/Transpiration (ET) cover system. The ET cover system consists of a soil cover with densely planted, deep rooting hybrid poplar trees and shallow rooting plants. With this type of cover system, surface water infiltration will be reduced through the landfill, thereby preventing further degradation of groundwater quality. A groundwater monitoring plan is included and will provide a means for evaluating the performance of the cover system, as well as providing additional groundwater data. Construction of the ET cover system was completed in September 2006. The Evaporation/Transport cover system is comprised of 90% Hybrid Poplars and 10% native species (Oak, Willow etc.)
+
+**Evapotranspiration:**
+
+Evapotranspiration (ET) cover systems (PDF), are increasingly being considered for use at waste disposal sites, including municipal solid waste (MSW) and hazardous waste landfills when equivalent performance to conventional final cover systems can be demonstrated.
+
+Unlike conventional cover system designs that use materials with low hydraulic permeability (barrier layers) to minimize the downward migration of water from the cover to the waste (percolation), ET cover systems use water balance components to minimize percolation. These cover systems rely on the properties of soil to store water until it is either transpired through vegetation or evaporated from the soil surface.

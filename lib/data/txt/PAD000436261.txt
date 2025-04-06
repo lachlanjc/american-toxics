@@ -1,62 +1,82 @@
-Background
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300444)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300444)
+
+---
+
+### Background
+
 The 32-acre Centre County Kepone site, located in State College, Pennsylvania, was a chemical manufacturing facility. The facility produced the pesticide kepone in 1958, 1959 and 1963, and the pesticide mirex in 1973 and 1974. Process wastes originally were disposed of on-site in a spray irrigation field and lagoons and stored in drums on-site. After leaks were discovered, the material in the lagoons was solidified and disposed of in two earthen lagoons and capped. Approximately 2,100 people live within a one-mile radius of the site. The closest residence is less than a quarter mile from the site. In 1982, a section of the adjacent Spring Creek was designated as a catch and release zone for fishing as a result of high levels of pesticides in fish. The site was added to the Superfund program's National Priorities List in 1983.
 
 In 2001, the Commonwealth of Pennsylvania determined that the catch and release zone was no longer required. All chemical manufacturing operations at the facility ceased in March of 2004.
 
-Top of Page
+---
 
-What Has Been Done to Clean Up the Site?
+### What Has Been Done to Clean Up the Site?
+
 In June 1960, the Pennsylvania Department of Health (later renamed the Pennsylvania Department of Environmental Resources, or PADER) conducted a site inspection in response to a chemical odor near Thornton Spring. The Department of Health identified the lagoons as the source of the odor and ordered Nease to construct a concrete lagoon and macadamize an earthen lagoon with asphalt. Nease complied.
 
-In 1969, PADER determined that water from the spray field was affecting Thornton Spring. PADER recommended that use of the spray field be discontinued and that the facility prevent further discharges to Thornton Spring. Nease complied with the recommendations.
-
+In 1969, PADER determined that water from the spray field was affecting Thornton Spring. PADER recommended that use of the spray field be discontinued and that the facility prevent further discharges to Thornton Spring. Nease complied with the recommendations.  
+  
 In response to a PADER order in May 1972, Nease treated the wastewater and sludge in the concrete and earthen lagoons using a process called Chemfix™ to stabilize and solidify the material. Nease also disposed of the contents of the asphalt impoundment and backfilled the asphalt and earthen impoundments.
 
-In November 1977, PADER issued an Administrative Order to investigate environmental impacts at the Site and to abate discharges of industrial wastes. After acquiring the property, RUTGERS Organics Corporation (ROC) constructed an on-site ground water treatment facility in October 1982 and began operating the facility in November 1982. EPA proposed the Site for inclusion on the National Priorities List (NPL) on December 1, 1982, and placed it on the NPL on September 8, 1983.
-
-May 1986, EPA took over as lead agency for the Site. ROC and EPA entered into an Administrative Order on Consent (AOC) on November 7, 1988, requiring ROC to conduct a long-term remedial investigation and feasibility study at the site.
-
-April 1995 Operable Unit (OU 1) Record of Decision (ROD) was finalized. In April 1997 a Consent Decree was issuesd. All OU 1 activities were constructed by March 2000 and a ROD Admendment was issued in 2001.
-
-In early 2003, the enhanced soil vapor extraction (SVE) system became operational.
-
+In November 1977, PADER issued an Administrative Order to investigate environmental impacts at the Site and to abate discharges of industrial wastes. After acquiring the property, RUTGERS Organics Corporation (ROC) constructed an on-site ground water treatment facility in October 1982 and began operating the facility in November 1982. EPA proposed the Site for inclusion on the National Priorities List (NPL) on December 1, 1982, and placed it on the NPL on September 8, 1983.  
+  
+May 1986, EPA took over as lead agency for the Site. ROC and EPA entered into an Administrative Order on Consent (AOC) on November 7, 1988, requiring ROC to conduct a long-term remedial investigation and feasibility study at the site.  
+  
+April 1995 Operable Unit (OU 1) Record of Decision (ROD) was finalized. In April 1997 a Consent Decree was issuesd. All OU 1 activities were constructed by March 2000 and a ROD Admendment was issued in 2001.  
+  
+In early 2003, the enhanced soil vapor extraction (SVE) system became operational.  
+  
 In November 2004, an eight-acre area of the Site, referred to as the "Administration Parcel" was partially deleted from the NPL. The Administration Parcel includes the current ROC administration building, associated parking lot, and open areas. The Administration Parcel was never used for manufacturing operations and is located up gradient from the contaminated portion of the Site.
 
-EPA entered into an Administrative Settlement and Order on Consent (AOC) with the potentially responsible party for a removal response action at the Site in May 2007. The AOC addresses contaminated sediments from the lower portion of the freshwater drainage ditch and Thornton Spring drainage channels. Work for this removal action was completed in July 2008.
-
-In July 2009, EPA issued a second ROD for the Site addressing OU2. OU2 areas that were investigated include the soils of the 15-acre Former Spray Field Area and riparian areas of Spring Creek, and sediments from the lower freshwater drainage ditch, Thornton Spring outlet and drainage channel, and depositional areas of Spring Creek downstream of Benner Fish Hatchery.
-
+EPA entered into an Administrative Settlement and Order on Consent (AOC) with the potentially responsible party for a removal response action at the Site in May 2007. The AOC addresses contaminated sediments from the lower portion of the freshwater drainage ditch and Thornton Spring drainage channels. Work for this removal action was completed in July 2008.  
+  
+In July 2009, EPA issued a second ROD for the Site addressing OU2. OU2 areas that were investigated include the soils of the 15-acre Former Spray Field Area and riparian areas of Spring Creek, and sediments from the lower freshwater drainage ditch, Thornton Spring outlet and drainage channel, and depositional areas of Spring Creek downstream of Benner Fish Hatchery.  
+  
 The selected remedy in the OU2 ROD included the following major components:
 
-A soil cover for surface soils within the Remediation Parcel portion of the Former Spray Field Area.
-Any combination of a soil cover, pavement/building cover, or excavation/disposal and replacement with clean soil for surface soils within the Redevelopment Parcel portion of the Former Spray Field Area.
-Security fencing between the Redevelopment and Remediation Parcels.
-Institutional controls to protect the remedy.
+- A soil cover for surface soils within the Remediation Parcel portion of the Former Spray Field Area.
+- Any combination of a soil cover, pavement/building cover, or excavation/disposal and replacement with clean soil for surface soils within the Redevelopment Parcel portion of the Former Spray Field Area.
+- Security fencing between the Redevelopment and Remediation Parcels.
+- Institutional controls to protect the remedy.
+
 A Consent Decree (CD) for OU2 Remedial Design/Remedial Action activities was entered with the court in March 2011. Under the settlement, ROC agreed to:
 
-implement the ROD for OU2
-reimburse 100 percent of the United States’ past costs
-pay all future response costs
-commence the work pursuant to an early action settlement agreement
-reimburse the Pennsylvania’s Department of Environmental Protection’s response costs.
+1. implement the ROD for OU2
+2. reimburse 100 percent of the United States’ past costs
+3. pay all future response costs
+4. commence the work pursuant to an early action settlement agreement
+5. reimburse the Pennsylvania’s Department of Environmental Protection’s response costs.
+
 The design of the OU2 selected remedy was approved by EPA in June 2011. Construction of the remedy was completed by ROC in September 2011.
 
-Top of Page
+---
 
-What Is the Current Site Status?
+### What Is the Current Site Status?
+
 EPA is overseeing the cleanup of the Centre County Kepone Site, being carried out and paid for by RUTGERS Organics Corporation (ROC).
 
 All physical construction is complete at the Site and it is in long-term Operation and Maintenance, which includes environmental monitoring.
 
-EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, 2019 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment for both the short term and long term. The next five-year review is scheduled for 2024.
+EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2282849.pdf), concluded that the remedy continues to be protective of human health and the environment for both the short term and long term. The next five-year review is scheduled for 2024.
 
+---
 
+### Activity and Use Limitations
 
-Top of Page
-
-Activity and Use Limitations
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
 
-For more background, see Institutional Controls.
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
-Institutional controls are in place to prevent use of groundwater, eriosn control and limit uses of some parcels for future development. Additional information about the institutional controls is available in the 2019 Five-Year Review (PDF) (on page 15).
+Institutional controls are in place to prevent use of groundwater, eriosn control and limit uses of some parcels for future development. Additional information about the institutional controls is available in the [2019 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2282849.pdf) (on page 15).

@@ -1,2 +1,76 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301361)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301361)
+
+---
+
+### Background
+
+The Elizabethtown Landfill Superfund Site is an inactive landfill that occupies about 16 acres at 349 West Ridge Road in West Donegal Township, Lancaster County, Pennsylvania. The Site is located roughly one mile southwest of Elizabethtown, Pennsylvania, in a primarily rural, agricultural area. The entrance to the Site is via West Ridge Road.
+
+Initial commercial activities at the Site involved excavation of sand and gravel from 2-acre pit in the south-central portion of the Site. These quarrying operations occurred between September 1957 and April 1961. It subsequently operated as an unlicensed landfill from at least 1959 through 1973, accepting municipal, household, and industrial wastes, in its later years operating under the name of United Disposal, Inc. (UDI). UDI ceased landfilling operations on or about July 31, 1973, pursuant to a Consent Decree with the Pennsylvania Department of Environmental Resources (PADER), now the Pennsylvania Department of Environmental Protection (PADEP).
+
+As part of the closure of the landfill in 1973, SCA Services of Pennsylvania, Inc. (SCA) covered and seeded the landfill and installed four monitoring wells. In March 1976, UDI sold its assets, including the landfill, to SCA. SCA operated a trash hauling transfer station on the Site. The company's operations also included an area to stage and maintain trash hauling trucks and an office building.
+
+On November 26, 1985, an EPA contractor inspected the landfill and reported that leachate constituents had been detected in groundwater and surface water samples collected near the landfill. In 1986 and 1987, SCA installed a soil-based cover over approximately 12 acres on the northern portion of the landfill. The remaining four acres of the property were covered by a permeable base of gravel.
+
+On March 31, 1989 the Site was listed on EPA's National Priorities List (NPL). The NPL is a list of hazardous waste sites that are eligible to receive government funding for a cleanup. In 1994, WMDSPA (the property owner; SCA changed its name in 1993) stopped using the facility as a transfer station.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1985, EPA detected volatile organic compounds (VOCs), the major component of solvents, and manganese in monitoring wells in a leachate stream coming off the landfill.
+
+In 1986, Waste Management, Inc., one of the potentially responsible parties, installed a cap on the site, methane control vents, a leachate collection system, and a sedimentation basin.
+
+In 1990, the group of potentially responsible parties (PRPs) consented to conduct studies of the site to determine the full nature and extent of contamination, and in 1999, the PRPs agreed to carry out the cleanup.
+
+The EPA selected the following cleanup measures: 1) cap the uncapped portions of the landfill; 2) perform more groundwater and surface water studies; 3) pump and treat contaminated groundwater.
+
+The landfill cap and its associated gas extraction/flare system was completed in 2003.
+
+The groundwater study was submitted to EPA in 2008.
+
+The cleanup that was selected for the site includes:
+
+- Capping the uncapped portion of the landfill (the southern portion of the landfill).
+- Upgrading the storm water controls in both the northern and southern landfill areas.
+- Conducting a pre-design study of the groundwater and surface water to evaluate the effectiveness of the above remedial measures on the attainment of groundwater and surface water cleanup levels.
+- Constructing a groundwater extraction well system; extracting and treating contaminated groundwater and leachate; and discharging the treated liquid to Conoy Creek.
+- Extending the security fence to surround the entire Site.
+- Establishing institutional controls (ICs) to protect the landfill cap, minimize the potential for direct contact with the landfill contents, and prohibit use of the water supply well located on site for the provision of drinking water.
+- Monitoring of groundwater, surface water, sediment and wetlands.
+- Installing ladfill gas and leachate management systems in the southern portion of the landfill.
+- Maintaining cover, storm water, landfill gas, leachate, security and other existing landfill systems.
+- Performing quarterly monitoring of five residential wells and two public water supply wells. An alternate source of drinking water or treatment shall be provided for any of these wells in which the EPA determines that contaminants attributable to the landfill are found which exceed the action levels.
+- The cleanup also requires that if, after the landfill cap is installed, the pre-design groundwater and surface water study demonstrated that the groundwater and surface water cleanup levels could be attained within a reasonable time period without extraction and treatment of groundwater, then the EPA would modify the Record Of Decision to eliminate the requirement for extraction and treatment.
+
+---
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2345898.pdf), concluded that the remedy continues to be protective of human health and the environment.
+
+No issues and recommendations affecting the protectiveness of the remedy were identified in the 2023 Five-Year Review. The groundwater remedy was recently constructed in 2022. This system is expected to reduce contaminant concentrations in groundwater to meet cleanup standards.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) are in place to protect the integrity of the landfill cap, minimize exposure to landfill contents, and prohibit use or withdrawal of groundwater on the landfill property, as well as on the properties that are downgradient from the landfill.  
+Additional information about the ICs are available in the [2023 Five Year Review (PDF)](https://semspub.epa.gov/work/03/2345898.pdf) (on pages 12-13).)

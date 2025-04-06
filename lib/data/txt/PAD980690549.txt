@@ -1,2 +1,59 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301426)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301426)
+
+---
+
+### Background
+
+The East Mount Zion site, located in Springettsbury, York County, Pennsylvania, is a privately owned, inactive, 10-acre landfill that accepted municipal and industrial wastes, including electroplating sludge, from 1955 to 1972. The Pennsylvania Department of Environmental Protection (PADEP) attempted to close the dump during the 1960s and early 1970s. After extensive legal action, the site was closed in 1972. Final closing activities, including a soil cover, were completed in 1976; however, groundwater at the site had become contaminated with volatile organic compounds (VOCs) from the landfill. The Site was added to the National Priorities List (NPL) on September 21, 1984.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+Based on studies conducted by Pennsylvania Department of Environmental Protection (PADEP), EPA selected a cleanup method for the site in a 1990 Record of Decision (ROD). The cleanup consists of installation and maintenance of an impermeable cap over the landfill, surface water control systems for the cap, and a fence around the site to restrict access. Continued groundwater monitoring and deed restrictions regarding future activities at the site would ensure the effectiveness of the cleanup.
+
+Construction of the landfill cap was started in 1997 and completed in 1999. A fence was also constructed around the property to restrict access to the site. Following the completion of the landfill cap construction, disturbed areas outside the landfill property were re-landscaped.
+
+In February 1999, the EPA issued a report documenting that construction activities for the cleanup at the East Mount Zion site were completed. The construction of the landfill cap is complete and ongoing groundwater and perimeter landfill gas monitoring continues.
+
+In March 2000, EPA and the Commonwealth of Pennsylvania certified that the cleanup measures were operating as they should, and site maintenance is now the responsibility of the state government.
+
+In September 2001, EPA issued an order to the current site owner to implement the deed restrictions on the landfill property. These deed restrictions were implemented by the site owner in April 2002.
+
+The first five-year review for the site was conducted in August 2002. The review found the remedy is functioning as designed. As such, it is expected to be protective of human health and the environment after the groundwater cleanup goals are achieved through source control and contaminant attenuation.
+
+As part of 2007 five-year review report, methane concentrations were identified at the boundary of the landfill above the lower explosive limit, although methane was not detected in nearby homes. The review concluded that additional remedial action had to be performed to address the methane concentrations at the boundary of the landfill.
+
+EPA and PADEP addressed methane generation at the boundaries of the landfill. This included the installation of additional gas vents on the landfill, which was completed in 2007.
+
+The impact of the 11 additional gas vents which were installed on the landfill in 2007 is being evaluated by EPA and PADEP on an ongoing basis. The methane levels measured in 2011 on the western boundary of the landfill, adjacent to nearby homes, were not detectable or below levels of concern.
+
+---
+
+### What Is the Current Site Status?
+
+The Pennsylvania Department of Enviromental Protection (PADEP) continues to perform operations and maintenance at the landfill, such as grass cutting, groundwater sampling, and methane sampling.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. [The most recent, 2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329150), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2027.  
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place at the site. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2329150) (page 6).

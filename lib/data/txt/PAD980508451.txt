@@ -1,32 +1,58 @@
-BUTLER MINE TUNNELPITTSTON TOWNSHIP, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Butler Mine Tunnel is located in Luzerne County, Pennsylvania and was constructed in the 1930s to provide mine drainage for an estimated five-square-mile area of underground coal mines. The Butler Mine Tunnel drains into the Susquehanna River. Contamination was caused by the illegal disposal of liquid industrial wastes, including oily wastes, into underground mine areas via a mine ventilation borehole that was located at the Hi-Way Auto Service (HWAS) station in Pittston, PA. In 1979, an oily discharge coming from the tunnel created an oil slick on the Susquehanna River. The oil contamination was traced to the illegal dumping at the HWAS borehole. The HWAS borehole was found to drain into underground mine areas, which are part of the 5-square miles of underground mine areas for which drainage is provided by the Butler Mine Tunnel. The HWAS borehole is located approximately 3.5 miles from the outlet of the Butler Mine Tunnel into the Susquehanna River. Approximately 25,000 people live within a five-mile radius of the site, and approximately 1,400 people live within the boundaries of the Butler Mine Tunnel site. Also, a number of schools are located within one-mile of the Tunnel's discharge point. This site was added to the Superfund program's National Priorities List (NPL) in July 1987. Following remedial actions and continued monitoring of the site through Five-Year Reviews, the site was proposed for deletion from the NPL in May 2021. Following a 30-day public comment period, in September 2021 the site was deleted from the NPL. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-The remedy for the Butler Mine Tunnel Site was structured around prevention of another mine flush out. ﻿The remedy included the following elements: 
-Improving and using a warehouse in Pittston to store response equipment;
-Constructing a boat launch ramp and access roads;
-Installing tunnel flow monitoring equipment and a monitoring system;
-Constructing five in-river permanent moorings;
-Constructing 11 anchor points (eight pad-eyes and three fair-leads) and four winch pads;
-Preparing a response preparedness plan;
-Implementing the Community Information Program; and
-Closing seven boreholes used during the remedial investigation at the Site and the HWAS borehole. 
-The remedy was designed to anticipate future releases of oil from the site. An automated Administrative Center helped to predict when a future discharge of oil may occur from the Butler Mine Tunnel to the Susquehanna River. Preparation for oil recovery activities included constructing access roads and anchors along the Susquehanna river's edge and staging material needed to respond to potential future oil flush outs (booms, boats, etc). Based on the time which has passed since the disposal activities (1977-1979), and oil flush outs occurred (1979 and 1985), and based on the recorded flow levels which have occurred without an oil flush out during the Remedial Action, further oil flush outs from the Butler Mine Tunnel associated with the original disposal activities are not expected. Top of Page
-What Is the Current Site Status?
-The Butler Mine Tunnel Superfund Site was removed from the NPL on September 14, 2021. The Butler Mine Tunnel Site was created by the illegal disposal of oily waste into abandoned underground coal mines during the late 1970s. EPA's response to waste oil discharges from the mine included the closing of boreholes, development of an operation and maintenance plan, and establishment of an Administrative Center to monitor the site. Based on monitoring data collected, further oil flush outs associated with the original disposal activities are not expected. There will be no further operation and maintenance or monitoring activities. EPA's remedial response is complete at the Butler Mine Tunnel Site. EPA deletes sites, or portions of sites, from the National Priorities List ( NPL), with state concurrence, when all site cleanup goals have been met; no further response is necessary; and the remedy is determined to be protective in the long-term. EPA issued a Notice of Intent to delete the Butler Mine Tunnel Superfund Site from the National Priorities List (NPL) and held a public comment period from May 14, 2021 to June 14, 2021. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Additional information about the Institutional Controls at this Site is available in the 2019 Five-Year Review (PDF) (Page 5). Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301208)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301208)
+
+---
+
+### Background
+
+The Butler Mine Tunnel is located in Luzerne County, Pennsylvania and was constructed in the 1930s to provide mine drainage for an estimated five-square-mile area of underground coal mines. The Butler Mine Tunnel drains into the Susquehanna River. Contamination was caused by the illegal disposal of liquid industrial wastes, including oily wastes, into underground mine areas via a mine ventilation borehole that was located at the Hi-Way Auto Service (HWAS) station in Pittston, PA. In 1979, an oily discharge coming from the tunnel created an oil slick on the Susquehanna River. The oil contamination was traced to the illegal dumping at the HWAS borehole. The HWAS borehole was found to drain into underground mine areas, which are part of the 5-square miles of underground mine areas for which drainage is provided by the Butler Mine Tunnel. The HWAS borehole is located approximately 3.5 miles from the outlet of the Butler Mine Tunnel into the Susquehanna River. Approximately 25,000 people live within a five-mile radius of the site, and approximately 1,400 people live within the boundaries of the Butler Mine Tunnel site. Also, a number of schools are located within one-mile of the Tunnel's discharge point.
+
+This site was added to the Superfund program's National Priorities List (NPL) in July 1987. Following remedial actions and continued monitoring of the site through Five-Year Reviews, the site was proposed for deletion from the NPL in May 2021. Following a 30-day public comment period, in September 2021 the site was deleted from the NPL.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The remedy for the Butler Mine Tunnel Site was structured around prevention of another mine flush out. The remedy included the following elements:
+
+- Improving and using a warehouse in Pittston to store response equipment;
+- Constructing a boat launch ramp and access roads;
+- Installing tunnel flow monitoring equipment and a monitoring system;
+- Constructing five in-river permanent moorings;
+- Constructing 11 anchor points (eight pad-eyes and three fair-leads) and four winch pads;
+- Preparing a response preparedness plan;
+- Implementing the Community Information Program; and
+- Closing seven boreholes used during the remedial investigation at the Site and the HWAS borehole.
+
+The remedy was designed to anticipate future releases of oil from the site. An automated Administrative Center helped to predict when a future discharge of oil may occur from the Butler Mine Tunnel to the Susquehanna River. Preparation for oil recovery activities included constructing access roads and anchors along the Susquehanna river's edge and staging material needed to respond to potential future oil flush outs (booms, boats, etc).
+
+Based on the time which has passed since the disposal activities (1977-1979), and oil flush outs occurred (1979 and 1985), and based on the recorded flow levels which have occurred without an oil flush out during the Remedial Action, further oil flush outs from the Butler Mine Tunnel associated with the original disposal activities are not expected.
+
+---
+
+### What Is the Current Site Status?
+
+The Butler Mine Tunnel Superfund Site was removed from the NPL on September 14, 2021. The Butler Mine Tunnel Site was created by the illegal disposal of oily waste into abandoned underground coal mines during the late 1970s. EPA's response to waste oil discharges from the mine included the closing of boreholes, development of an operation and maintenance plan, and establishment of an Administrative Center to monitor the site. Based on monitoring data collected, further oil flush outs associated with the original disposal activities are not expected. There will be no further operation and maintenance or monitoring activities. EPA's remedial response is complete at the Butler Mine Tunnel Site.
+
+EPA deletes sites, or portions of sites, from the National Priorities List ( NPL), with state concurrence, when all site cleanup goals have been met; no further response is necessary; and the remedy is determined to be protective in the long-term. EPA issued a Notice of Intent to delete the Butler Mine Tunnel Superfund Site from the National Priorities List (NPL) and held a public comment period from May 14, 2021 to June 14, 2021.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Additional information about the Institutional Controls at this Site is available in the [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2278090) (Page 5).

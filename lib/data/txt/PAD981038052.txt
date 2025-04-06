@@ -1,2 +1,55 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301982)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301982)
+
+---
+
+### Background
+
+The 57-acre Delta Quarries & Disposal, Inc./Stotler Landfill Site, located in Blair County, Pennsylvania, is an inactive, municipal landfill that operated from 1964 until 1985. Originally, the site consisted of two separate landfills that were combined with the Delta-Altoona Sanitary Landfill to form one large facility. Approximately 2,500 people live within 3 miles of the site. The closest residence is 35 feet from the site, and there are private wells in the vicinity. The aquifer under the site is used as a source of drinking water by local municipalities. About 1,500 people obtain drinking water from wells within 3 miles of the site. Groundwater flows in the direction of the Little Juniata River, which is one-mile from the site and is used for recreational activities. This site was proposed to the list on June 10, 1986 and formally added to the list March 31, 1989.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal, state, and potentially responsible parties' (PRPs) actions.
+
+In 1984, the PRPs and the State entered into a Consent Order and Agreement to close the site.
+
+In 1987, the parties covered the landfill with soil to limit the further spread of contaminants. The same year, EPA and the PRPs executed an additional Consent Order requiring a study to define the nature and extent of contamination and to identify remedial alternatives for cleanup. The study, known as a remedial investigation, was completed in 1991. Based on the results of the remedial investigation, EPA issued a Record of Decision (ROD) in March 1991. The remedy selected consisted of pumping and treating ground water to address contamination, establishing deed and access restrictions, performing cap maintenance, installing a gas venting system, and conducting long-term monitoring. The design was conducted by the responsible parties under a May, 1992, Consent Decree. The entire site was fenced in 1992.
+
+At the end of the remedial design process, in 1995, the PRPs proposed to modify the selected remedy, as follows: Instead of pumping and treating ground water at the site, the responsible parties proposed to extract ground water at the site and pump it to the nearby waste water treatment plant for treatment. EPA agreed to this proposal and issued an Explanation of Significant Differences (ESD) in December 1995. The ESD allowed the responsible parties to implement a more reliable and less expensive treatment alternative.
+
+Construction of the extraction system started, in June 1996, and by December the system was operational. This achievement marked the completion of construction. In October 1998, after the extraction system was fine-tuned to ensure the extraction wells were preventing contaminated ground water from leaving the site, EPA acknowledged that the PRPs had completed the remedial action phase of the cleanup and entered into the operation and maintenance phase.
+
+The PRPs continue to work at the site. During the fall of 1999, they upgraded electrical instrumentation and installed additional chain link fencing. In March 2001, EPA and the State changed sampling requirements.
+
+---
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included pumping and treating contaminated groundwater; land use restrictions; cap maintenance; installing a gas venting system; and long-term monitoring. Construction of the remedy took place between 1995 and 1996. Groundwater treatment and monitoring are ongoing.
+
+EPA completed an [Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2330803) for the Delta Quarries Superfund Site in June 2022. An ESD outlines changes to the original cleanup plan to protect public health and the environment. This ESD will add 1,4-dioxane to the contaminant of concern list for the Site and set the cleanup goal of 6.4 ppb for the Site.
+
+EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2314178), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2026.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) are in place to restrict groundwater, use of the landfill, and prevent any possible direct human contact with contaminants at the site. Additional information about the ICs are available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2314178.pdf) (on page 8).

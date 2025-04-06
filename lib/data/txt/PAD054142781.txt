@@ -1,2 +1,76 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300995)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300995)
+
+---
+
+### Background
+
+The [Keystone Sanitation Landfill Site](https://iaspub.epa.gov/enviro/fii_query_detail.disp_program_facility?p_registry_id=110007764008) is an inactive and privately-owned landfill approximately 40 acres in area located at 355 Clouser Road in Hanover (Union Township), Adams County, Pennsylvania. The Landfill is located in a residential and agricultural area on a 70-acre property bordered to the north by Clouser Road and to the south by Line Road. The southern boundary of the Landfill Property is located approximately 800 feet north of the Pennsylvania-Maryland border.
+
+Keystone Sanitation Company operated the landfill from 1966 through 1990. The landfill operated without a proper liner or leachate containment system. In 1982, in accordance with Commonwealth of Pennsylvania permitting requirements, groundwater monitoring for volatile organic compounds (VOCs) was first conducted. VOC contamination was detected in the on-site potable well and in a nearby spring located east of the Landfill Property.
+
+In 1984, sampling conducted in response to complaints from local citizens identified the presence of low levels of VOCs in some residential wells. Subsequent investigations confirmed this contamination was site-related. In 1987, the site was added to the Superfund program's National Priorities List, making it eligible for federal funding for cleanup. Operation and maintenance activities are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1984, EPA initiated a Remedial Investigation and Feasibility Study (RI/FS) to delineate the nature and extent of contamination and develop and evaluate cleanup alternatives.
+
+Based upon the findings of the RI/FS and after public comment, EPA selected a remedial action in 1990 in a document known as a Record of Decision (ROD). The selected remedy included the requirement for an impermeable cap over the landfill, installation of an active methane venting system, groundwater extraction and treatment, and point-of-use treatment for the landfill’s potable wells.
+
+EPA modified the remedy in 1999 to require extraction and treatment of groundwater at off-site locations, installation of point-of-entry treatment systems on potable wells at distances up to one mile from the landfill boundary, and established specific cleanup levels in groundwater for certain hazardous substances.
+
+EPA again modified the remedy in 2000 to require capture of volatile organic compounds (VOCs) through landfill gas extraction wells and destruction of VOCs in a flare. The modification also permitted an upgrade of the existing soil cover over the landfill rather than installation of an impermeable cap.
+
+Construction of all remedy components was completed by 2004.
+
+In 2017, actions were taken based upon the findings of the 2015 Five-Year Review to improve the existing remedy. In the summer of 2017, a new extraction well was installed on the south side of the landfill adjacent to Line Road to improve capture of contaminated groundwater. At the end of 2017, several new leachate monitoring points and shallow piezometers (a type of monitoring well designed to measure groundwater level) were installed at the landfill to help evaluate the effectiveness of the landfill gas extraction system.
+
+---
+
+### What Is the Current Site Status?
+
+The remedy is in place and effectively protects human health and the environment. The remedial actions are being conducted by two groups of potentially responsible parties (PRPs) under EPA’s oversight: the Owner/Operators and the Original Generator Defendants (OGDs). The Owner/Operators include Waste Management of Pennsylvania, Inc. and Waste Management of Maryland, Inc.(Waste Management), the Keystone Sanitation Company, and the Landfill Property owners. HydroGeologic, Inc. (HGL) serves as the Owner/Operators’ primary consultant and conducts performance monitoring of the ELGE system. HGL replaced Golder Associates, Inc. in 2017. The OGDs include Quebecor Printing Fairfield, Inc., C&J Clark America, Inc., The ESAB Group, The Genlyte Group, Inc., Hanover Bronze and Aluminum Foundry, Inc., Kemper Industries, Inc., R.H. Sheppard Company, Inc., and SKF USA, Inc. BSI Group serves as the OGDs’ primary consultant. Environmental Standards, Inc. conducts annual sampling for the OGDs. BSI Group and Environmental Standards replaced de maximis, inc. and Frey Engineering, respectively, in 2017. The groundwater remedy, which includes the residential filters (OU2) and groundwater pumping and treatment  
+(OU4), is being implemented by the OGDs.
+
+The primary activities at the site are on-going operation and maintenance (O&M) of the groundwater extraction system and the soil gas extraction system. O&M includes but is not limited to:
+
+- Physical inspections of both systems;
+- Groundwater sampling;
+- Maintenance of point-of-entry treatment systems;
+- Soil gas sampling and methane monitoring; and
+- Mowing of the landfill cover grasses.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2020 Five-Year Review (PDF),](https://semspub.epa.gov/src/collection/03/SC30753)concluded that the remedy remains protective of human health and the environment. While the Review indicated that the remedy was protective, a few issues involving remedy performance were identified. Specifically, the Review noted the following:
+
+- Issue 1: 1,4-dioxane is present in leachate and groundwater but is not addressed by source control measures,
+- Issue 2: the landfill soil cover shows areas of ponding and subsidence, and
+- Issue 3: manganese is present at high concentrations in some perimeter groundwater wells.
+
+EPA has determined that these issues can most likely be addressed through an evaluation of new remedial alternatives or through implementation of the existing remedy. The PRPs responsible for source control have initiated activities to address the issues, namely a focused Feasibility Study to address Issue 1 and soil cover repairs to address Issue 2. EPA has not determined the best manner to address Issue 3 at this time, as manganese is contaminant commonly associated with landfills, but expects any actions to occur through one of the two options.
+
+The next five-year review is scheduled for 2025.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls restricting construction and sale of the site are in place. Additional information about the institutional controls is available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306167) (pages 6-7).
+
+One institutional control at the site is a 500-foot buffer zone around the known extent of contaminated groundwater (see Figure 2 in the [2015 Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/2184344) ). EPA requests that any party installing a groundwater well in this zone contact the EPA Remedial Project Manager so that EPA can determine if contaminants of concern (COCs) are present and whether treatment under the remedy is required. Any sampling or maintenance of a required point-of-entry treatment system would not be the responsibility of the property owner.

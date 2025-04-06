@@ -1,2 +1,61 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300530)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300530)
+
+---
+
+### Background
+
+The Sharon Steel Corporation Farrell Works Disposal Area Site is located in the Cities of Hermitage and Farrell, Mercer County, Pennsylvania. The site is between the Ohio border and the Shenango River and covers about 330 acres, including 100 acres of wetlands. Waste, from the Sharon Steel Corporation Farrell Works facility was disposed at the site and it included byproducts from steel manufacturing. Disposal activities resulted in contamination of soil, sediment and groundwater with hazardous chemicals. EPA added the site to the Superfund program’s National Priorities List in 1998.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The former Sharon Steel Plant was founded in 1900 and manufactured a variety of steel products. The company ceased operation in 1992 when it was ordered by the Pennsylvania Department of Environmental Protection (PADEP) to stop their disposal practices and they declared bankruptcy.
+
+Throughout its operating history, waste and byproducts of the manufacturing process were transported on rail cars across the Shenango River and discarded down embankments. Waste and byproducts were also piled into large mounds in several areas on the site until 1992.
+
+PADEP, based on several inspections of the waste disposal areas in the 1970s, concluded that the contamination from the site was responsible for the depressed biological community along at least 11.5 miles of the Shenango River. In 1992, a remedial investigation to identify areas of soil and groundwater contamination and assess human health and ecological risks was performed in two phases. Phase 1 took place from 1999 to 2001 and Phase 2 began in 2002. The [Final Remedial Investigation Report (PDF)](http://semspub.epa.gov/src/document/03/2062811) was completed in June 2005.
+
+The site was divided into two areas of contamination, called operable units (OUs). OU1 includes the Northern and Southern areas which consist of approximately 300 acres. OU2 includes an asphalt plant that is leasing the property with plans on purchasing the 29 acres in between the northern and southern parts.
+
+In 2000, EPA entered a Prospective Purchaser Agreement with a private company to buy most of the OU1 South property in order to mine the slag for beneficial reuse (e.g., roadbed material). Several hundred thousand tons of slag, of the estimated 8 to 12 million tons present, have already been mined for reuse. Once mining operations have been completed, EPA will prepare a design for remediation of the southern portion of OU1.
+
+The [Record of Decision (ROD) for OU1 (PDF)](http://semspub.epa.gov/src/document/03/2072062), which outlines the final cleanup plan, was signed in November 2006. The OU1 remedy includes grading and contouring the slag and sludge followed by capping with a biosolids-enhanced cap. Additional remedial actions will include stabilizing the Shenango River bank, constructing wetlands, installing erosion controls, establishing institutional controls, and long-term monitoring to assess the remedy effectiveness.
+
+In September 2012, EPA completed the remedial design for Phase 1 of the northern portion of OU1. The project addresses approximately 47 acres. The slag and waste will be consolidated and covered with a biosolids-enhanced cap. “Biosolids” are disinfected sludge from a wastewater treatment plant that will provide a nutrient base for re-establishing vegetation. The cap will reduce the movement of metals in the groundwater, minimize runoff into the Shenango River, and prevent dust blowing from the slag. The OU1 remedy also includes stormwater erosion control measures, streambank restoration, and the construction of wetlands. Groundwater and Shenango River water and sediment will be monitored to ensure that the remedies are working.
+
+In December 2013, EPA issued a cleanup plan in an [Interim ROD for OU2 (PDF),](http://semspub.epa.gov/src/document/03/2184310) followed by an [Explanation of Significant Differences (PDF)](http://semspub.epa.gov/src/document/03/2179564) in June 2015 that modified the interim action.
+
+In 2015, EPA entered into an agreement with the U.S. Army Corps of Engineers (USACE) to perform the remedial construction for the northern portion of OU1. The USACE worked with EPA to update the 2012 design and awarded a contract for construction in late July 2018. Preliminary field work was conducted in Fall 2018. Construction of the OU1 North remedy entered its second construction season in summer 2020 and was physically completed in Spring 2021 with an expected Fall 2021 final inspection. Following the final inspection, EPA will maintain the remedy (primarily vegetation maintenance) for a period of at least one year prior to turnover to the Commonwealth of Pennsylvania for long-term operation and maintenance.
+
+The interim remedial action at OU2 required that all exposed slag and soil, including berms, be covered with clean material to prevent direct contact and wind erosion of slag and soil, and alleviate migration of contaminants to surface water. This interim action, which began in December 2016, was completed in April 2019. In May 2020, EPA accepted the potentially responsible party's remedial action completion report and issued a Certification of Completion of the interim remedial action.
+
+---
+
+### What Is the Current Site Status?
+
+U.S. Army Corps of Engineers [restarted remedial action (PDF)](http://semspub.epa.gov/src/document/03/2265152) work at the site during the summer of 2020. The construction took place north of Ohio Street and includes the relocation of steel-making sludge and slag away from the Shenango River. The sludge and slag are being covered with a biosolids-enhanced cap and will be vegetated. Stream bank and floodplain restoration, revegetation of the floodplain along the Shenango River, and construction of a wetlands channel took place in 2021. The 2021 work primarily involved the plantings needed to revegetate the floodplain, the biosolids-enhanced cover, and the constructed wetlands. A fence will also be constructed to protect the site from trespassers.
+
+EPA competed the [first Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2321345) of the remedy at the Sharon Steel Corp. Superfund Site in November 2021. This review ensures that the remedy in place for Operable Unit 1 will be protective of human health and the environment upon completion of the of remedy, and the remedy for Operable Unit 2 is actively protective as intended by site decision documents.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place at OU2 to protect the cap by restricting property uses and prevent the use of groundwater at the site as drinking water. The same institutional controls are currently being implemented at OU1. Additional information about the institutional controls is available in the [2021 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2321345) (pages 13-15).

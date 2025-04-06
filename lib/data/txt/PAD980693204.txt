@@ -1,18 +1,43 @@
-SALFORD QUARRYLOWER SALFORD TOWNSHIP, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 3-acre Salford Quarry Superfund site is located in Lower Salford Township in Montgomery County, Pennsylvania. In the 1950s, a waste disposal business used the quarry as a dump for industrial, commercial and residential waste. Waste also included fly ash cinders from a coal-fired power plant. From about 1963 to 1980, a tile manufacturer used the quarry for the disposal of glaze wash-up sludge, settling pond sediment, and fired and unfired scrap tiles. These past operations contaminated soil, sediment, surface water and groundwater with hazardous chemicals. The site was added on the Superfund program’s National Priorities List (NPL) in 1990 and was later removed from the NPL due to a legal challenge in court. In 2009, the EPA finalized the site on the NPL, making it eligible for federal cleanup. Investigation and cleanup of the site are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-In 1982, a potentially responsible party cleaned out two 10,000-gallon tanks containing boron and fuel oil buried on site and installed a soil cover under the Commonwealth of Pennsylvania’s cleanup program. Also, in the mid 1990’s, the EPA completed a public water line for 113 residences near the site due to the presence of boron in private wells. Once on the National Priorities List, the EPA divided the investigation and cleanup of the site into two separate parts, or operable units (OUs). OU1 is defined as quarry waste and soil surrounding the waste. OU2 is defined as groundwater, sediment, surface water, and vapor intrusion, if necessary. The cleanup for OU1, selected in a September 2013 Record of Decision, included excavation and stockpiling of the existing cap, waste, contaminated soil and sediment, and placement of these materials in a low-permeability engineered cell. During design, the EPA found the remedy to be unimplementable due to insufficient space on the property to temporarily hold equipment for the cleanup. In 2018, the EPA installed and sampled new monitoring wells to collect additional information for a revised OU1 feasibility study. The cleanup plan for OU2 will be proposed separately after the effectiveness of the OU1 remedy is determined. In May 2020, the EPA collected rock and soil samples at the site to further inform a new cleanup plan for OU1. The EPA finalized the Record of Decision Amendment (PDF) in September 2021 after considering additional cleanup options from a Proposed Remedial Action Plan (PDF) to address waste and contaminated soil at the site. The EPA prepared a pre-recorded virtual public meeting Exitto provide information on the alternative proposed cleanup options. This public comment period was open from December 15, 2020 through February 12, 2021. The Record of Decision Amendment selects a subsurface perimeter wall and RCRA cap consistent with the Resource Conservation and Recovery Act (RCRA) to address OU1 (quarry waste and soil surrounding the waste) to replace the 2013 selected remedy at the site. The Modified Remedy is protective of human health and the environment, is cost-effective, and utilizes permanent solutions wherever possible. Top of Page
-What Is the Current Site Status?
-The EPA began site work in September 2024 to implement the clean up remedy selected in the 2021 Record of Decision Amendment. This cleanup includes: a traffic detour around the site, site prep, contaminated soil and waste disposal, barrier and cap installation for waste remaining on-site, and long-term monitoring activities. Site work is expected to last for 12 months. Top of Page
-Emergency Response and Removal
-Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1982, a potentially responsible party cleaned out tanks and installed a soil cover. In 1992, the EPA connected 113 homes to the public water supply in response to boron contamination in private wells. During the period when the EPA was extending this waterline, the potentially responsibly party supplied bottled water to affected residents. Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301486)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301486)
+
+---
+
+### Background
+
+The 3-acre Salford Quarry Superfund site is located in Lower Salford Township in Montgomery County, Pennsylvania. In the 1950s, a waste disposal business used the quarry as a dump for industrial, commercial and residential waste. Waste also included fly ash cinders from a coal-fired power plant. From about 1963 to 1980, a tile manufacturer used the quarry for the disposal of glaze wash-up sludge, settling pond sediment, and fired and unfired scrap tiles. These past operations contaminated soil, sediment, surface water and groundwater with hazardous chemicals. The site was added on the Superfund program’s National Priorities List (NPL) in 1990 and was later removed from the NPL due to a legal challenge in court. In 2009, the EPA finalized the site on the NPL, making it eligible for federal cleanup. Investigation and cleanup of the site are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1982, a potentially responsible party cleaned out two 10,000-gallon tanks containing boron and fuel oil buried on site and installed a soil cover under the Commonwealth of Pennsylvania’s cleanup program. Also, in the mid 1990’s, the EPA completed a public water line for 113 residences near the site due to the presence of boron in private wells.
+
+Once on the National Priorities List, the EPA divided the investigation and cleanup of the site into two separate parts, or operable units (OUs). OU1 is defined as quarry waste and soil surrounding the waste. OU2 is defined as groundwater, sediment, surface water, and vapor intrusion, if necessary. The cleanup for OU1, selected in a September 2013 Record of Decision, included excavation and stockpiling of the existing cap, waste, contaminated soil and sediment, and placement of these materials in a low-permeability engineered cell. During design, the EPA found the remedy to be unimplementable due to insufficient space on the property to temporarily hold equipment for the cleanup.
+
+In 2018, the EPA installed and sampled new monitoring wells to collect additional information for a revised OU1 feasibility study. The cleanup plan for OU2 will be proposed separately after the effectiveness of the OU1 remedy is determined. In May 2020, the EPA collected rock and soil samples at the site to further inform a new cleanup plan for OU1. The EPA finalized the [Record of Decision Amendment (PDF)](http://semspub.epa.gov/src/document/03/2319731) in September 2021 after considering additional cleanup options from a [Proposed Remedial Action Plan (PDF)](http://semspub.epa.gov/src/document/03/2309445) to address waste and contaminated soil at the site. The EPA prepared a [pre-recorded virtual public meeting](http://www.youtube.com/watch?v=bLw8KCReJ58&feature=youtu.be) to provide information on the alternative proposed cleanup options. This public comment period was open from December 15, 2020 through February 12, 2021.
+
+The Record of Decision Amendment selects a subsurface perimeter wall and RCRA cap consistent with the Resource Conservation and Recovery Act (RCRA) to address OU1 (quarry waste and soil surrounding the waste) to replace the 2013 selected remedy at the site. The Modified Remedy is protective of human health and the environment, is cost-effective, and utilizes permanent solutions wherever possible.
+
+---
+
+### What Is the Current Site Status?
+
+The EPA began site work in September 2024 to implement the clean up remedy selected in the 2021 Record of Decision Amendment. This cleanup includes: a traffic detour around the site, site prep, contaminated soil and waste disposal, barrier and cap installation for waste remaining on-site, and long-term monitoring activities. Site work is expected to last for 12 months.
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1982, a potentially responsible party cleaned out tanks and installed a soil cover. In 1992, the EPA connected 113 homes to the public water supply in response to boron contamination in private wells. During the period when the EPA was extending this waterline, the potentially responsibly party supplied bottled water to affected residents.

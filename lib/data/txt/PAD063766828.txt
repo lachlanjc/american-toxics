@@ -1,32 +1,85 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Resin Disposal Site is located approximately 0.5 miles from the Monongahela River, in Jefferson Hills Borough, Allegheny County, Pennsylvania. The site includes a two-acre former industrial waste landfill that was used between 1950 and 1964 for disposal of resin manufacturing waste. Historic disposal activities at the site contaminated soils, groundwater, surface water and sediment. The former landfill received about 85,000 tons of industrial waste from 1950 to 1964. At that time, the landfill was owned and operated by the Pennsylvania Industrial Chemical Company (PICCO). The wastes included organic solvents, resin cakes, filter materials and oils from a resin manufacturing process. The landfill is located in a strip mine valley and was created by constructing an earthen dike across the floor of the valley. Over time, perched groundwater within the landfill migrated to the southeast through the landfill dike, into down-gradient soils, and to the southwest within the mine voids of the adjacent Pittsburgh Coal formation. Hercules, Inc., a subsidiary of Ashland, Inc., purchased the property from PICCO in 1973. Hercules, Inc., the site’s Potentially Responsible Party, initiated site investigation activities after the discovery of contamination at the landfill in 1979. Site investigations conducted by the PRP between 1980 and 1984, found contaminated groundwater migrating beyond the landfill.  EPA added the site to the Superfund program's National Priorities List in September 1983. The site was deleted from the National Priorities List in October 2003. Currently, EPA and the Pennsylvania Department of Environmental Protection oversee the Potentially Responsible Party's long-term cleanup activities. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and Potentially Responsible Party actions. The cleanup implemented at the site includes a multilayer cap and a newly upgraded treatment plant. The leachate/wastewater is first treated at the treatment plant and then is sent to the wastewater treatment facility. The oil is collected and disposed of off-site. The fence around the landfill restricts access. Implementation of the institutional controls will alert prospective buyers of the contaminants on-site and limits future development. Groundwater at the site is not used for drinking water. Nearby residences use a public water supply, which is tested regularly and meets federal safe drinking water standards. Some private wells near the site are still used for washing cars or watering lawns; however, these wells are either located up-gradient of the site or recent sampling has shown they are not impacted by the site. The long-term leachate treatment, surface water monitoring and groundwater monitoring are on-going. Top of Page
-What Is the Current Site Status?
-As the leachate treatment system continues operations, the groundwater contamination is gradually decreasing in size and concentrations. However, on-site groundwater is still contaminated with volatile organic compounds (VOCs), such as benzene, toluene and naphthalene, from former disposal practices. Since 2011, multiple releases of untreated leachate have occurred at the site as a result of an undersized leachate collection and treatment system. In March 2015, EPA approved the remedial design for an upgraded on-site leachate treatment system. Construction of the upgraded system was completed in July 2016 and the system has been in continuous operation since August 2016. EPA certified the completion of the leachate treatment system in 2017.   In September 2018, EPA issued a﻿n Explanation of Significant Differences (ESD) (PDF), which modifies the remedy selected in the 1991 Record of Decision. Changes include:  
-Establishing acceptable levels of discharge to the West Elizabeth Publicly Owned Treatment Works. 
-Enacting new pretreatment standards in accordance with the Clean Water Act. 
-Installing and operating an oil/water separator and leachate pretreatment system that are capable of meeting pretreatment standards.
-Increasing the leachate treatment system capacity and adding upgradient storage capability.
-Documenting that the existing sanitary sewer line, which is located under a portion of the landfill, shall remain in place. 
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2020 Fifth Five-Year Review (PDF), concluded that the remedy was protective of human health and the environment in the short term. There were a number of actions identified that are being taken to ensure future long-term protectiveness. The next five-year review is scheduled for 2025.  Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to protect cap, restrict groundwater usage, and restrict site use to commericial and industrial uses. Additional information about the institutional controls are available in the 2020 Fifth Five-Year Review (PDF) (pages 12-14). Top of Page
-Sampling and Monitoring
-Remedial Investigation Report (PDF) Feasibility Study Report (PDF) Top of Page
-Enforcement Information
-Consent Decree, 1987 (PDF) Consent Decree, June 1992 (PDF) Agreement on Stipulated Penalties, June 2013 (PDF) Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Sampling and Monitoring](#Sample)
+- [Enforcement Information](#Enforce)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301042)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301042)
+
+---
+
+### Background
+
+The Resin Disposal Site is located approximately 0.5 miles from the Monongahela River, in Jefferson Hills Borough, Allegheny County, Pennsylvania. The site includes a two-acre former industrial waste landfill that was used between 1950 and 1964 for disposal of resin manufacturing waste. Historic disposal activities at the site contaminated soils, groundwater, surface water and sediment.
+
+The former landfill received about 85,000 tons of industrial waste from 1950 to 1964. At that time, the landfill was owned and operated by the Pennsylvania Industrial Chemical Company (PICCO). The wastes included organic solvents, resin cakes, filter materials and oils from a resin manufacturing process. The landfill is located in a strip mine valley and was created by constructing an earthen dike across the floor of the valley. Over time, perched groundwater within the landfill migrated to the southeast through the landfill dike, into down-gradient soils, and to the southwest within the mine voids of the adjacent Pittsburgh Coal formation.
+
+Hercules, Inc., a subsidiary of Ashland, Inc., purchased the property from PICCO in 1973. Hercules, Inc., the site’s Potentially Responsible Party, initiated site investigation activities after the discovery of contamination at the landfill in 1979.
+
+Site investigations conducted by the PRP between 1980 and 1984, found contaminated groundwater migrating beyond the landfill. EPA added the site to the Superfund program's National Priorities List in September 1983. The site was deleted from the National Priorities List in October 2003. Currently, EPA and the Pennsylvania Department of Environmental Protection oversee the Potentially Responsible Party's long-term cleanup activities.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and Potentially Responsible Party actions.
+
+The cleanup implemented at the site includes a multilayer cap and a newly upgraded treatment plant. The leachate/wastewater is first treated at the treatment plant and then is sent to the wastewater treatment facility. The oil is collected and disposed of off-site. The fence around the landfill restricts access. Implementation of the institutional controls will alert prospective buyers of the contaminants on-site and limits future development.
+
+Groundwater at the site is not used for drinking water. Nearby residences use a public water supply, which is tested regularly and meets federal safe drinking water standards. Some private wells near the site are still used for washing cars or watering lawns; however, these wells are either located up-gradient of the site or recent sampling has shown they are not impacted by the site.
+
+The long-term leachate treatment, surface water monitoring and groundwater monitoring are on-going.
+
+---
+
+### What Is the Current Site Status?
+
+As the leachate treatment system continues operations, the groundwater contamination is gradually decreasing in size and concentrations. However, on-site groundwater is still contaminated with volatile organic compounds (VOCs), such as benzene, toluene and naphthalene, from former disposal practices.
+
+Since 2011, multiple releases of untreated leachate have occurred at the site as a result of an undersized leachate collection and treatment system. In March 2015, EPA approved the remedial design for an upgraded on-site leachate treatment system. Construction of the upgraded system was completed in July 2016 and the system has been in continuous operation since August 2016. EPA certified the completion of the leachate treatment system in 2017.
+
+In September 2018, EPA issued an [Explanation of Significant Differences (ESD) (PDF)](http://semspub.epa.gov/src/document/03/2259070), which modifies the remedy selected in the 1991 Record of Decision. Changes include:
+
+1. Establishing acceptable levels of discharge to the West Elizabeth Publicly Owned Treatment Works.
+2. Enacting new pretreatment standards in accordance with the Clean Water Act.
+3. Installing and operating an oil/water separator and leachate pretreatment system that are capable of meeting pretreatment standards.
+4. Increasing the leachate treatment system capacity and adding upgradient storage capability.
+5. Documenting that the existing sanitary sewer line, which is located under a portion of the landfill, shall remain in place.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Fifth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312289), concluded that the remedy was protective of human health and the environment in the short term. There were a number of actions identified that are being taken to ensure future long-term protectiveness. The next five-year review is scheduled for 2025.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to protect cap, restrict groundwater usage, and restrict site use to commericial and industrial uses. Additional information about the institutional controls are available in the [2020 Fifth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312289) (pages 12-14).
+
+---
+
+### Sampling and Monitoring
+
+[Remedial Investigation Report (PDF)](http://semspub.epa.gov/src/document/03/31891)
+
+[Feasibility Study Report (PDF)](http://semspub.epa.gov/src/document/03/31903)
+
+---
+
+### Enforcement Information
+
+[Consent Decree, 1987 (PDF)](http://semspub.epa.gov/src/document/03/31867)
+
+[Consent Decree, June 1992 (PDF)](http://semspub.epa.gov/src/document/03/2173265)
+
+[Agreement on Stipulated Penalties, June 2013 (PDF)](http://semspub.epa.gov/src/document/03/2173265)

@@ -1,2 +1,53 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300862)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300862)
+
+---
+
+### Background
+
+The Stanley Kessler Company, Inc. site is located in Montgomery County, Pennsylvania. The company formerly engaged in degreasing and repackaging of welding wire. During operational practices, solvent degreasers were spilled into floor drains that fed into an underground septic tank and into a cesspool with no structural bottom. In 1979, organic compounds found in solvents and degreasers, such as 1,2,3-trichloropropane, trichloroethylene (TCE) and tetrachloroethane (TCA), were detected in the Upper Merion Reservoir about a half mile north from the site. The reservoir is a major source of drinking water for the Philadelphia Suburban Water Company. Groundwater on-site is contaminated with volatile organic compounds (VOCs) including TCE and TCA from the former waste disposal practices. This site was added to the Superfund program's National Priorities List in September 1983.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1981, the Stanley Kessler Company removed liquid wastes and 60 to 80 cubic yards of contaminated soil from the cesspool and septic tank and removed them from the site. The tank areas were then backfilled. The company also installed monitoring wells on the site. The company conducted limited groundwater monitoring from 1985 through 1990. In 1984, the company installed a small groundwater recovery and treatment system on site. The groundwater treatment and soil flushing program was discontinued in 1990 in order to conduct the remedial investigation.  
+  
+The Stanley Kessler Company, under EPA oversight and as ordered under a 1991 consent decree, completed the remedial investigation in 1992. Despite the groundwater remediation that was conducted from 1984 to 1990, contaminant concentrations were still significantly higher than drinking water quality standards. EPA selected of a remedy to address the contaminated groundwater at the site in a [1994 Record of Decision (ROD)](https://semspub.epa.gov/src/document/03/133216), which included the following actions:
+
+- groundwater extraction and treatment by activated carbon;
+- deed restriction to prohibit the installation of new wells in the area of contamination; and
+- periodic sampling of groundwater and treated water.
+
+Construction of the groundwater extraction system was completed in October 1998. An additional groundwater extraction well was installed in February 2003 to improve the removal of the contaminated groundwater.
+
+In August 2019, EPA issued an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/src/document/03/2262677) to the remedy. This ESD modifies the selected remedy by modifying the groundwater cleanup levels and requiring that a cumulative risk evaluation be performed once groundwater cleanup levels have been achieved.
+
+---
+
+### What Is the Current Site Status?
+
+Long-term groundwater monitoring is being performed by the potentially responsible parties consistent with the site's Operation and Maintenance Plan. Groundwater monitoring is performed semi-annually.
+
+EPA has conducted numerous five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2282813), determined that the remedy was working as designed. Groundwater treatment is ongoing and there are no exposures to groundwater contamination. Additionally, controls in place, such as deed restrictions, prevent future exposure to contaminated groundwater. The next five-year review is scheduled for 2024.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater use. Institutional controls include a deed restriction that prohibits the installation of new groundwater wells at the property. Additional information about the institutional controls can be found in the [July 2019 Five-Year Review Report (PDF)](https://semspub.epa.gov/src/document/03/2282813), pages 6-7.

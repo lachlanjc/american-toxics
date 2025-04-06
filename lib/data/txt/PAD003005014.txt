@@ -1,2 +1,72 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300643)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300643)
+
+---
+
+### Background
+
+The Whitmoyer Laboratories site, located in Lebanon County, Pennsylvania, occupies 22 acres in a rapidly developing rural residential area. The company manufactured veterinary pharmaceuticals between 1934 and 1984. Arsenic compounds were produced and stored at the site. The site itself featured 17 buildings, 23 storage tanks, a concrete storage vault, 15 lagoons, a waste pit, a petroleum products pipeline and pump station, plus a railroad spur.
+
+The laboratory changed ownership from Whitmoyer to Rohm & Haas in 1964, to Smith-Kline Beecham in 1978, and to Stafford Laboratories in 1982. In 1964, Rohm & Haas detected arsenic pollution in the soils, groundwater, and surface water. The cause of this pollution was previous disposal of wastes in the soils and unlined lagoons. Lagoon sludge was put in a concrete vault built to store the sludge and other contaminated materials.
+
+To be eligible for federal cleanup money, a site must be put on the National Priorities List (NPL). This site was proposed for NPL in October 1984, and was added to the list in July 1986. Following cleanup, operation and maintenance activities, as well as groundwater treatment, are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA emergency work began in 1987 by providing bottled water to 20 homes with contaminated drinking water. Work continued in 1988 and 1989 with the removal of drums and laboratory chemicals from the abandoned facility. In 1989, EPA removed waste liquids, transported them off-site for treatment, and disposed of tanks, piping and residues. A total of 335 tons and 16,240 gallons of hazardous wastes were transported to off-site treatment and disposal facilities.  
+  
+Long-term cleanup began in the fall of 1993 following successful negotiations with the potentially responsible parties (PRPs). The initial cleanup focused on decontaminating and demolishing 17 deteriorated buildings. A total of 515 tons of hazardous materials were removed from the buildings; these materials were either incinerated or encapsulated at off-site treatment facilities. Over 785 tons of metal debris were decontaminated and recycled. Approximately 1,290 tons of non-hazardous debris was placed in off-site landfills and 227,000 gallons of wastewater were treated. Demolition and disposal activities were completed in May 1996. Excavation of highly contaminated carbon, tar, sludge, soil, and debris from an on-site concrete vault was done in several phases. Over 930 tons of carbon and tar wastes were transported to four off-site incinerators in 1996 and 1997.
+
+Over 3,230 tons of arsenic contaminated sludge and debris were treated at an off-site treatment facility between December 1995 and May 1996. An additional 1,415 tons of soils excavated from the vault were transported for off-site treatment and disposal in June 1998. Work on building a full-scale groundwater treatment facility started in July 1997 and finished in May 1998. The groundwater treatment system reduces contamination by pumping water from 14 groundwater wells and treating it. This pumping and treating keeps contaminated water from reaching the Tulpehocken Creek. The treatment facility processes over 150,000 gallons of contaminated water each day. Groundwater treatment generates approximately 22 tons of recovered wastes each month; these solids are disposed of at an off-site landfill. The PRPs' consultant has analyzed groundwater monitoring data collected since 1998.
+
+Work on excavating the consolidated lagoon area started in September 1998 and ended in January 1999. Approximately 18,000 tons of lagoon wastes containing almost one million pounds of arsenic were transported via rail cars to an off-site treatment and disposal facility. Over 10,500 tons of the lagoon wastes needed to be treated (fixation) before disposal
+
+EPA started cleaning up site soils in September 1999 and finished in October 2001. Hazardous soils were dug up, treated as needed, and disposed of at an off-site landfill. Soil that is either moderately contaminated or lightly contaminated was capped with a two-foot layer of soil. A report outlining all the completed cleanup activities at the site was issued in June 2002.
+
+In October 2004, EPA entered into a Prospective Purchase Agreement (PPA) with the Jackson Township to facilitate purchase of the site property for recreational uses. In April 2005, the PRPs completed Whitmoyer Laboratories property transfer to Jackson Township.
+
+In September 2012, EPA issued an [Explanation of Significant Differences,](https://semspub.epa.gov/src/document/03/2157719) which modifies the arsenic cleanup levels in groundwater from the original remedy. EPA reduced the level from 50 micrograms per liter to 10 micrograms per liter.
+
+Jackson Township replaced the old bridge at Fairlane Avenue adjacent to the site in late 2015. The Township worked closely with EPA, the Pennsylvania Department of Environmental Protection (PADEP) and the PRP Group during this work to ensure workers were protected and the remedy was not impacted.
+
+---
+
+### What Is the Current Site Status?
+
+Operation and maintenance of the site is ongoing. Long-term groundwater treatment and monitoring are continuing on-site. As a part of long-term monitoring of groundwater, the potentially responsible parties (PRPs) are required to submit an annual report for each year of groundwater treatment operation. The report data indicates that the groundwater treatment is functioning as designed and the plume of groundwater contamination is contracting.
+
+In April 2020, EPA completed the [sixth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302584) which concluded that the remedy continues to be protective of human health and the environment in the short term. Additional actions need to be taken for the remedy to be protective in the long-term. These actions involve evaluating arsenic levels in Tulpehocken Creek and addressing streambank erosion issues. The next five-year review is scheduled for 2025.
+
+The Whitmoyer Private Study Group will begin construction of a groundwater the interceptor trench along Tulpehocken Creek near Fairlane Avenue in the spring of 2022. EPA and the U.S. Army Corps of Engineers will oversee construction. The purpose of the interceptor trench is to prevent arsenic contaminated groundwater from discharging to Tulpehocken Creek. Contaminated groundwater would be pumped to the treatment plant on Fairlane Avenue for remediation. This work is documented in a [February 2022 Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/2323079) for the site.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater use, digging and future use to recreational use. Additional information about the institutional controls is available in the [2020 Five-Year Review (PDF) (pages 11-13).](https://semspub.epa.gov/src/document/03/2302584)
+
+  
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions from 1987 to 1989 included providing bottled water to 20 homes with contaminated drinking water, and removing drums and laboratory chemicals from the abandoned facility. Removal actions also included removing waste liquids, transporting them off site for treatment, and disposing of tanks, piping and residues.

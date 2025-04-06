@@ -1,2 +1,84 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Enforcement Information](#Enforce)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300624)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300624)
+
+---
+
+### Background
+
+The Palmerton Zinc Pile Site is the area of a former primary zinc smelting operation. The site encompasses the Borough of Palmerton and surrounding areas, Blue Mountain, a large smelting residue pile called the Cinder Bank, and much of the valley. For nearly 70 years, the New Jersey Zinc Company deposited 33 million tons of slag at the site, creating a cinder bank that extends for 2 1/2 miles and measures over 100 feet high and 500 to 1,000 feet wide. The smelting operations emitted huge quantities of heavy metals throughout the valley. As a result, approximately 2,000 acres on Blue Mountain, which is adjacent to the former smelters, have been defoliated, leaving a barren mountain side. Soil on the defoliated area of the mountain has contaminated the rain water flowing across it. The runoff and erosion have carried contaminants into Aquashicola Creek and the Lehigh River. Approximately 850 people live within one mile of the site; the population of the town of Palmerton is approximately 5,000. The Palmerton Water Company has four production wells at the foot of Blue Mountain that supply water to the towns of Palmerton and Aquashicola; these wells have not been effected by contaminants from the site to date. This site was proposed to the National Priority List (NPL) on December 30, 1982 and formally added to the list on September 8, 1983.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA is overseeing the cleanup of the Palmerton Zinc Pile Site, which is being carried out by the potentially responsible party (PRP), CBS Corporation. The site is divided into four separate cleanups known as operable units (OUs).
+
+**Blue Mountain (OU-1):**  
+A consent decree (CD) between EPA and Zinc Corporation of America (ZCA), a division of Horsehead Industries, Inc., (HII) for implementation of the chosen remedy for OU-1 was entered by the U.S. District Court for the Middle District of Pennsylvania on October 18, 1988. Through this CD, EPA required that the PRPs revegetate over 3,000 acres of Blue Mountain that has been destroyed by air and soil contamination resulting from the historic smelting operations. Horsehead Industries revegetated approximately 800 acres in the 1990's.
+
+In April 2006, EPA approved a second preliminary design for revegetation of over 450 acres of privately-owned land. Work to apply amendments, fertilizer, lime and warm season grasses to over 200 acres via agricultural tractor and spreader and an additional 200 acres via fixed wing crop-duster type aircraft was completed in September 2006.
+
+Aerial application of lime fertilizer and seed occurred in March 2011 on approximately 1500 acres of Pennsylvania Game Commission and National Park Service land. Aerial application was completed on an additional 128 acres in March 2012.
+
+In 2013, the PRP installed of over 70 acres of resource islands. The five resource islands are fence enclosed areas where tree seeds and seedlings have been planted and will be intensively maintained to foster the growth of the trees to provide an ongoing seed source for the rest of the mountain. A total of over 13,000 trees of various variety including hybrid American Chestnut were planted in the resource islands.
+
+The revegetation, resource island construction and tree planting activities were completed in September 2013. Monitoring of the success of the revegetation and tree plant will continue along with management of invasive species.
+
+**Cinder Bank (OU-2):**  
+The Cinder Bank is a deposit of processed wastes from the East and West plants. It is composed of more than 30,000,000 tons of smelter residue that is highly contaminated with heavy metals including zinc, copper, lead and cadmium, along the base of Blue Mountain and bordering the Aquashicola Creek. It is approximately 2.5 miles long, 200 feet high, and ranges in width from 500 to 1,000 feet.
+
+The PRP built a system to divert surface water around the Cinder Bank, treat contaminated leachate before it is discharged to the nearby Aquashicola Creek and revegetate most of the Cinder Bank. This work was completed in the Fall of 2002. Monitoring of the treated discharge and revegetation is ongoing.
+
+**Community Soils (OU-3):**  
+On October 9, 2001, the EPA issued a final Record of Decision, or cleanup plan, for the contaminated residential soils.
+
+EPA worked with Viacom to develop plans to request property access and begin soil sampling to determine if cleanup is necessary. The first phase of the sampling began in the Fall 2002, when approximately 800 properties were sampled. Of these properties sampled, approximately 13 percent were found to have levels of lead above EPA's clean-up standards.
+
+The second phase of sampling requests began in June 2003. A total of 2,400 property owners were contacted for permission to be sampled. Over 1,500 properties sampled, of which, approximately 180 properties were eligible for soil cleanup.
+
+Soil cleanups were completed in the Fall of 2004 with minimal follow-up work on some properties in 2005.
+
+Interior dust sampling began in 2004 on properties where soil cleanup was completed. A total of 20 interiors which required clean-up were completed by Summer 2005.
+
+**Groundwater, Surface Water and Ecological Risks (OU-4):**  
+In 2012, EPA and the Pennsylvania Department of Environmental Protection oversaw the installation of an interim remedial measure at the east end of the Cinder Bank. The interim measure consisted of dewatering, excavation and placement of an iron rich material treatment cell to intercept and treat the groundwater by removing zinc and other metals from the groundwater prior to it entering Aquashicola Creek.
+
+Construction activities for the wetland restoration were completed in the Summer of 2015. Once the construction activities were completed and hydrology of the wetland determined, the remaining grass/plants were planted. The grasses, herbaceous plants, shrubs and trees were planted in the wetlands during the Fall of 2015. In 2016, all vegetation for the wetlands restoration were planted. EPA continues to evaluate the wetlands to ensure that the new vegetation is thriving, and the hydrology controls are working as designed.
+
+EPA is currently overseeing the Remedial Investigation/Feasibility Study (RI/FS), which will utilize groundwater data from existing deep wells and additional data from soils, surface water and groundwater to determine the extent of contamination. An ecological risk assessment is also being conducted, which will be incorporated with the remedial investigation. After the RI/FS is completed, EPA will issue a proposed cleanup plan for public comment followed by a final Record of Decision.
+
+---
+
+### What Is the Current Site Status?
+
+EPA is currently overseeing the Remedial Investigation and Feasibility Study (RI/FS) for OU-4, which addresses groundwater, surface water, site-wide ecological risk and institutional controls. After the RI/FS is completed, EPA will issue a proposed cleanup plan for public comment followed by a final Record of Decision.
+
+EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2333717.pdf), concluded that the remedy continues to be protective of human health and the environment in both the short-term and long-term. The next five-year review is scheduled for 2027.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to restrict groundwater use and soil excavation. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2333717.pdf) (page 11).
+
+---
+
+### Enforcement Information
+
+[Bankruptcy Settlement - March 2011 (PDF)](http://semspub.epa.gov/src/document/03/2165404)

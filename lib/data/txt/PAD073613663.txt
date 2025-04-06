@@ -1,26 +1,64 @@
-TONOLLI CORP.NESQUEHONING, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Tonolli Corporation Superfund site is located in Nesquehoning, Carbon County, Pennsylvania. The company operated a secondary lead smelter and lead-acid battery recycling facility between 1974 and 1985. The recycling operations included crushing batteries and recovering the lead and plastics. The 30-acre site included a lined landfill containing standing water and battery wastes. In 1985, the owner and the state detected arsenic and cadmium in on-site monitoring wells. The same year, Tonolli filed for bankruptcy. The site was later proposed to the Superfund program's National Priorities List (NPL) in June 1988 and added in October 1989. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA completed a preliminary assessment of the site in 1987, and identified it as a candidate for emergency response. In 1989, EPA took emergency action to address a 500,000 gallon wastewater lagoon. EPA approved the final cleanup design for the site in February 1998. Construction for the cleanup began in April 1998. EPA and the Commonwealth of Pennsylvania have entered into a consent decree with the potentially responsible parties (PRPs) for the performance of the cleanup. EPA issued the Preliminary Construction Completion Report in December 1999, documenting that construction activities were substantially complete at the Tonolli Site. Remaining activities included continued groundwater monitoring and landfill leachate removal and treatment﻿. The former smelter and crusher buildings, as well as other buildings and tanks at the site were decontaminated, demolished and the scrap metal sent off site for recycling. Lead contaminated soil has been excavated, treated, and taken to the on-site landfill for disposal. Landfill leachate and stormwater at the site has been treated and discharged to the Nesquehoning Creek. The construction of the passive groundwater treatment trench adjacent to the Nesquehoning Creek has been completed. Several oil storage tanks and over 5,000 cubic yards of oil impacted soils were excavated at the site. The southern, eastern and northern side slopes of the landfill have been expanded and stabilized. The Potentially Responsible Party (PRP) engineer designed an expansion to the on-site landfill to accommodate the lead-contaminated soil remaining at the site. A new area or cell for the landfill was created adjacent to the western embankment of the existing landfill. This new cell includes a bottom liner and leachate collection system and was large enough to contain all the waste left at the site. An approximately 5,000 cubic yard pile of fuel oil-contaminated soil, which was stored in a covered pile on a concrete pad on the site, has undergone on-site bioremediation and has been re-used as top soil on a portion of the site. All lead contaminated soils on site and off site have been excavated and backfilling and regrading has been completed. Contaminated sediments have been removed from Nesquehoning creek. Construction of the on-site landfill cap has also been completed. Top of Page
-What Is the Current Site Status?
-The EPA is working with the Pennsylvania Department of Environmental Protection and Site property owners to implement institutional controls at the site. The institutional controls will restrict the site use to industrial use only, and will prevent disturbance of the landfill cap. Groundwater cleanup goals at the site have been achieved in the deep aquifer, however, cleanup goals have not yet been achieved in the shallow aquifer. Remedial activities at the site have been effective in reducing lead concentrations below cleanup goals, however, cadmium, arsenic, and antimony are present in the shallow aquifer above cleanup goals. The long-term effectiveness of the cleanup activities at the site in achieving groundwater cleanup goals in the shallow aquifer will be evaluated by ongoing monitoring. EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent 2023 Five-Year Review (PDF),concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2028. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in placed to restrict land and groundwater use and protect the cap. Additional information about the institutional controls are available in the 2023 Five-Year Review (PDF) (pages 9-10). 
-Top of Page
-Emergency Response and Removal
-﻿Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1989 addressed a 500,000-gallon wastewater lagoon, treated liquid and sludge, treated and disposed of liquids in the site's storage tank, constructed a surface water collection and treatment system, and repaired the fence to limit site access. Activities also included filling and regrading of the lagoon and implementing security measures.
-Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301087)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301087)
+
+---
+
+### Background
+
+The Tonolli Corporation Superfund site is located in Nesquehoning, Carbon County, Pennsylvania. The company operated a secondary lead smelter and lead-acid battery recycling facility between 1974 and 1985. The recycling operations included crushing batteries and recovering the lead and plastics. The 30-acre site included a lined landfill containing standing water and battery wastes. In 1985, the owner and the state detected arsenic and cadmium in on-site monitoring wells. The same year, Tonolli filed for bankruptcy. The site was later proposed to the Superfund program's National Priorities List (NPL) in June 1988 and added in October 1989.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA completed a preliminary assessment of the site in 1987, and identified it as a candidate for emergency response. In 1989, EPA took emergency action to address a 500,000 gallon wastewater lagoon.  
+  
+EPA approved the final cleanup design for the site in February 1998. Construction for the cleanup began in April 1998. EPA and the Commonwealth of Pennsylvania have entered into a consent decree with the potentially responsible parties (PRPs) for the performance of the cleanup.  
+  
+EPA issued the Preliminary Construction Completion Report in December 1999, documenting that construction activities were substantially complete at the Tonolli Site. Remaining activities included continued groundwater monitoring and landfill leachate removal and treatment.
+
+The former smelter and crusher buildings, as well as other buildings and tanks at the site were decontaminated, demolished and the scrap metal sent off site for recycling. Lead contaminated soil has been excavated, treated, and taken to the on-site landfill for disposal. Landfill leachate and stormwater at the site has been treated and discharged to the Nesquehoning Creek. The construction of the passive groundwater treatment trench adjacent to the Nesquehoning Creek has been completed. Several oil storage tanks and over 5,000 cubic yards of oil impacted soils were excavated at the site. The southern, eastern and northern side slopes of the landfill have been expanded and stabilized.  
+  
+The Potentially Responsible Party (PRP) engineer designed an expansion to the on-site landfill to accommodate the lead-contaminated soil remaining at the site. A new area or cell for the landfill was created adjacent to the western embankment of the existing landfill. This new cell includes a bottom liner and leachate collection system and was large enough to contain all the waste left at the site.  
+  
+An approximately 5,000 cubic yard pile of fuel oil-contaminated soil, which was stored in a covered pile on a concrete pad on the site, has undergone on-site bioremediation and has been re-used as top soil on a portion of the site.  
+  
+All lead contaminated soils on site and off site have been excavated and backfilling and regrading has been completed. Contaminated sediments have been removed from Nesquehoning creek. Construction of the on-site landfill cap has also been completed.
+
+---
+
+### What Is the Current Site Status?
+
+The EPA is working with the Pennsylvania Department of Environmental Protection and Site property owners to implement institutional controls at the site. The institutional controls will restrict the site use to industrial use only, and will prevent disturbance of the landfill cap.
+
+Groundwater cleanup goals at the site have been achieved in the deep aquifer, however, cleanup goals have not yet been achieved in the shallow aquifer. Remedial activities at the site have been effective in reducing lead concentrations below cleanup goals, however, cadmium, arsenic, and antimony are present in the shallow aquifer above cleanup goals. The long-term effectiveness of the cleanup activities at the site in achieving groundwater cleanup goals in the shallow aquifer will be evaluated by ongoing monitoring.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2344420),concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2028.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to restrict land and groundwater use and protect the cap. Additional information about the institutional controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2344420) (pages 9-10).  
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1989 addressed a 500,000-gallon wastewater lagoon, treated liquid and sludge, treated and disposed of liquids in the site's storage tank, constructed a surface water collection and treatment system, and repaired the fence to limit site access. Activities also included filling and regrading of the lagoon and implementing security measures.

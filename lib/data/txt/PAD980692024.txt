@@ -1,21 +1,59 @@
-TYSONS DUMPUPPER MERION TWP, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 4-acre Tysons Dump site is located in Upper Merion Township, Pennsylvania. Disposal of septic and chemical waste in unlined lagoons took place at the site from 1962 to 1973. Waste disposal practices contaminated groundwater, surface water and soil. The Site was added to the Superfund program's National Priorities List (NPL) on September 21, 1984. Following cleanup, operation and maintenance activities and groundwater treatment are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. EPA completed a preliminary assessment of the site in 1987, and identified it as a candidate for emergency response. In 1989, EPA took emergency action to address a 500,000 gallon waste water lagoon. In 1988, the potentially responsible parties (PRPs), Ciba-Geigy Corp., Wyeth Labs Inc., Essex Group Inc., and SmithKline Beckman Corp., entered into a consent decree with EPA to address the contamination at the site. In 1989, a series of groundwater extraction wells were installed along the south bank of the Schuylkill River to prevent contaminated groundwater from entering the Schuylkill River. The groundwater is treated on-site. Since the groundwater treatment started operating in May 1990 site-related contaminants have not been detected in the Schuylkill River. In accordance with a Record of Decision (ROD) issued by EPA in March 1988, a soil vapor extraction (SVE) system was constructed to address the contaminated lagoon area soils. The SVE system operated from November 1988 to September 1996. During that time, approximately 200,000 pounds of organics were removed from the soils. However, it became apparent the SVE system was limited in its effectiveness to achieve the cleanup goals established in the ROD. As a result, EPA requested that the PRP conduct a Feasibility Study (FS) to determine if another remedy could be implemented to address the contaminated soils. Based on the FS, EPA issued a ROD in July 1996 and selected a remedy to cover the site with a wet soil cover. The wet soil cover is an innovative technology consisting of a low permeability layer which maintains nearly saturated conditions to control and eliminate upward migration of vapors. Construction of the wet soil cover was completed in August 1997. As a result of a ROD that was issued in 1990, the PRPs completed additional studies on the groundwater in the deep aquifer. The study determined that additional extraction wells were necessary to contain the contaminated groundwater plume. The extraction wells were installed in December 1997 and the groundwater is also treated on-site. EPA documented the completion of the wet soil cover and the groundwater treatment system in a Preliminary Close-Out Report (PCOR) in December 1997. The PRPs continue to operate and monitor the wet soil cover and the groundwater pump and treat system. Top of Page
-What Is the Current Site Status?
-The Tyson's Dump Site is currently in the Operation and Maintenance and Long-Term Monitoring Phase. The multiple remedies at the Site were fully constructed by 1997. The remedies include a wet soil cover to control the upward migration of vapors, a groundwater extraction system to prevent contaminated groundwater from entering the Schuylkill River, and another series of groundwater extraction wells to contain the deeper contaminated groundwater. The groundwater is treated on-site and is regularly monitored. The wet soil cover is also regularly maintained and monitored. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2024 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment in the short term with recommendations for long term protectiveness. The next five-year review is scheduled for 2029. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to restrict Site access and prevent groundwater usage within the affected aquifer. Additional information about the institutional controls at this Site are available in the 2019 Five-Year Review (PDF)(page 10). Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301436)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301436)
+
+---
+
+### Background
+
+The 4-acre Tysons Dump site is located in Upper Merion Township, Pennsylvania. Disposal of septic and chemical waste in unlined lagoons took place at the site from 1962 to 1973. Waste disposal practices contaminated groundwater, surface water and soil. The Site was added to the Superfund program's National Priorities List (NPL) on September 21, 1984. Following cleanup, operation and maintenance activities and groundwater treatment are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA completed a preliminary assessment of the site in 1987, and identified it as a candidate for emergency response. In 1989, EPA took emergency action to address a 500,000 gallon waste water lagoon.  
+  
+In 1988, the potentially responsible parties (PRPs), Ciba-Geigy Corp., Wyeth Labs Inc., Essex Group Inc., and SmithKline Beckman Corp., entered into a consent decree with EPA to address the contamination at the site.
+
+In 1989, a series of groundwater extraction wells were installed along the south bank of the Schuylkill River to prevent contaminated groundwater from entering the Schuylkill River. The groundwater is treated on-site. Since the groundwater treatment started operating in May 1990 site-related contaminants have not been detected in the Schuylkill River.
+
+In accordance with a Record of Decision (ROD) issued by EPA in March 1988, a soil vapor extraction (SVE) system was constructed to address the contaminated lagoon area soils. The SVE system operated from November 1988 to September 1996. During that time, approximately 200,000 pounds of organics were removed from the soils. However, it became apparent the SVE system was limited in its effectiveness to achieve the cleanup goals established in the ROD.
+
+As a result, EPA requested that the PRP conduct a Feasibility Study (FS) to determine if another remedy could be implemented to address the contaminated soils. Based on the FS, EPA issued a ROD in July 1996 and selected a remedy to cover the site with a wet soil cover. The wet soil cover is an innovative technology consisting of a low permeability layer which maintains nearly saturated conditions to control and eliminate upward migration of vapors. Construction of the wet soil cover was completed in August 1997.
+
+As a result of a ROD that was issued in 1990, the PRPs completed additional studies on the groundwater in the deep aquifer. The study determined that additional extraction wells were necessary to contain the contaminated groundwater plume. The extraction wells were installed in December 1997 and the groundwater is also treated on-site.
+
+EPA documented the completion of the wet soil cover and the groundwater treatment system in a Preliminary Close-Out Report (PCOR) in December 1997.
+
+The PRPs continue to operate and monitor the wet soil cover and the groundwater pump and treat system.
+
+---
+
+### What Is the Current Site Status?
+
+The Tyson's Dump Site is currently in the Operation and Maintenance and Long-Term Monitoring Phase. The multiple remedies at the Site were fully constructed by 1997. The remedies include a wet soil cover to control the upward migration of vapors, a groundwater extraction system to prevent contaminated groundwater from entering the Schuylkill River, and another series of groundwater extraction wells to contain the deeper contaminated groundwater. The groundwater is treated on-site and is regularly monitored. The wet soil cover is also regularly maintained and monitored.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2389280), concluded that the remedy continues to be protective of human health and the environment in the short term with recommendations for long term protectiveness. The next five-year review is scheduled for 2029.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict Site access and prevent groundwater usage within the affected aquifer. Additional information about the institutional controls at this Site are available in the [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2282817) (page 10).

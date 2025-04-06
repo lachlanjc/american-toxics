@@ -1,28 +1,71 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 25-acre Ambler Asbestos Piles site is located in Ambler, Pennsylvania. The site includes three asbestos-containing waste piles and a series of now-backfilled lagoons. Three asbestos manufacturing companies disposed of asbestos-containing waste on the site for over six decades. These activities contaminated air, soil, sediments and surface water with asbestos. The site was placed on the Superfund Program's National Priorities List (NPL) in June 1986. In 1996, the site was deleted from the NPL after meeting the cleanup goals established. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through potentially responsible party (PRP) actions. Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions in 1984, 1985 and 1990 included the establishment of a vegetative soil cover, placement of erosion control netting, installation of a surface drainage system, dismantling and removal of an on-site playground and repair and improvements to the soil cover, vegetation and site fencing. The cleanup, or remedy, was selected in a 1988 Record of Decision (ROD) (PDF) consisted of regrading and capping the waste piles; reinforcing the soil cover; installing erosion and sedimentation control devices; draining and backfilling the lagoons with clean soil; installing or upgrading the fencing/locking gates; posting warning signs; monitoring the air; and implementing institutional controls. Where the piles bordered surface water, they were reinforced against erosion. Construction of the remedy took place between 1992 and 1993. Following cleanup, EPA took deleted the site from the National Priorities List (NPL) in 1996. In June 2017, a remedy optimization project began at the site. The project, which is now completed, included repairs to the soil cap and the drainage systems on the site, which were originally installed in the early 1990s. Air monitoring did not show any exceedances of EPA’s action level for asbestos in air during the work. Work concluded in Spring 2019, which also including removing 15,000 cubic yards of fill material, unrelated to the site, that was previously placed near the site cap. In September 2019, EPA issued an Explanation of Significant Differences (ESD) (PDF), modifying the long-term operation and maintenance requirements on the site. 
-Top of Page
-What Is the Current Site Status?
-Although the site has been deleted from the EPA's National Priorities List (NPL), operation and maintenance of the site is ongoing to ensure that the remedy continues to be protective of human health and the environment. EPA, in cooperation with the Pennsylvania Department of Environmental Protection and the Potentially Responsible Party (PRP), continues to monitor the conditions of the site and the ongoing maintenance programs being conducted at the site by the potentially responsible parties. The site is inspected regularly, and five-year reviews are conducted. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The June 2022 Five-Year Review (PDF) concluded that the Site is protective of human health and the environment in the short-term. In order to be protective in the long-term, the following actions need to be taken: Plant Pile survey data must be assessed; the demolished fence must be rebuilt; alternatives to deter burrowing animals need to be evaluated; and a sitewide evaluation of trees and other vegetation requiring maintenance or removal needs to be performed. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to restrict land use at the site to ensure the remedy remains protective. PADEP issued a Section 512 Administrative Order (512 Order) to the owner of the two site parcels which defines prohibited activities at the site. Top of Page
-Sampling and Monitoring
-Since the cap remedy for the Ambler Asbestos Piles was completed in 1993, EPA has continued to monitor the conditions and ongoing maintenance programs being conducted at the site by the potentially responsible parties. The site is inspected regularly and five-year reviews are conducted. As a result of quarterly inspections, typical maintenance issues are identified and addressed. Typical maintenance issues include small disturbances in the soil cover by burrowing animals, erosion control of the piles, review of the pile plateaus, review of the revetment on the Wissahickon, and repairs to the security fences surrounding the site. 
-Top of Page
-Emergency Response and Removal
-EPA's Emergency Response Team and the Pennsylvania Department of Environmental Resources (now the Pennsylvania Department of Environmental Protection) conducted an initial Superfund Site Inspection in 1983. Also in 1983, the Centers for Disease Control issued a Public Health Advisory concerning the site. EPA determined that the site posed an imminent and substantial danger to the public health and welfare and made the decision to proceed with a removal response action in March 1984. That response involved establishing a vegetative-soil cover, placement of erosion control netting, and installation of a surface drainage system for the Locust Street Pile. Playground equipment adjacent to the pile was dismantled and removed from the site, leaving just the basketball court. Two additional removal responses were conducted in 1985 and 1990 to repair and improve the soil cover, vegetation and the fences around the Site. Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Sampling and Monitoring](#Sample)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300445)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300445)
+
+---
+
+### Background
+
+The 25-acre Ambler Asbestos Piles site is located in Ambler, Pennsylvania. The site includes three asbestos-containing waste piles and a series of now-backfilled lagoons. Three asbestos manufacturing companies disposed of asbestos-containing waste on the site for over six decades. These activities contaminated air, soil, sediments and surface water with asbestos. The site was placed on the Superfund Program's National Priorities List (NPL) in June 1986. In 1996, the site was deleted from the NPL after meeting the cleanup goals established.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through potentially responsible party (PRP) actions.
+
+Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions in 1984, 1985 and 1990 included the establishment of a vegetative soil cover, placement of erosion control netting, installation of a surface drainage system, dismantling and removal of an on-site playground and repair and improvements to the soil cover, vegetation and site fencing.
+
+The cleanup, or remedy, was selected in a [1988 Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/160231) consisted of regrading and capping the waste piles; reinforcing the soil cover; installing erosion and sedimentation control devices; draining and backfilling the lagoons with clean soil; installing or upgrading the fencing/locking gates; posting warning signs; monitoring the air; and implementing institutional controls. Where the piles bordered surface water, they were reinforced against erosion.
+
+Construction of the remedy took place between 1992 and 1993. Following cleanup, EPA took deleted the site from the National Priorities List (NPL) in 1996.
+
+In June 2017, a remedy optimization project began at the site. The project, which is now completed, included repairs to the soil cap and the drainage systems on the site, which were originally installed in the early 1990s. Air monitoring did not show any exceedances of EPA’s action level for asbestos in air during the work. Work concluded in Spring 2019, which also including removing 15,000 cubic yards of fill material, unrelated to the site, that was previously placed near the site cap.
+
+In September 2019, EPA issued an [Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2259564), modifying the long-term operation and maintenance requirements on the site.
+
+---
+
+### What Is the Current Site Status?
+
+Although the site has been deleted from the EPA's National Priorities List (NPL), operation and maintenance of the site is ongoing to ensure that the remedy continues to be protective of human health and the environment. EPA, in cooperation with the Pennsylvania Department of Environmental Protection and the Potentially Responsible Party (PRP), continues to monitor the conditions of the site and the ongoing maintenance programs being conducted at the site by the potentially responsible parties. The site is inspected regularly, and five-year reviews are conducted.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The [June 2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2329153.pdf) concluded that the Site is protective of human health and the environment in the short-term. In order to be protective in the long-term, the following actions need to be taken: Plant Pile survey data must be assessed; the demolished fence must be rebuilt; alternatives to deter burrowing animals need to be evaluated; and a sitewide evaluation of trees and other vegetation requiring maintenance or removal needs to be performed.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict land use at the site to ensure the remedy remains protective. PADEP issued a Section 512 Administrative Order (512 Order) to the owner of the two site parcels which defines prohibited activities at the site.
+
+---
+
+### Sampling and Monitoring
+
+Since the cap remedy for the Ambler Asbestos Piles was completed in 1993, EPA has continued to monitor the conditions and ongoing maintenance programs being conducted at the site by the potentially responsible parties. The site is inspected regularly and five-year reviews are conducted.
+
+As a result of quarterly inspections, typical maintenance issues are identified and addressed. Typical maintenance issues include small disturbances in the soil cover by burrowing animals, erosion control of the piles, review of the pile plateaus, review of the revetment on the Wissahickon, and repairs to the security fences surrounding the site.
+
+---
+
+### Emergency Response and Removal
+
+EPA's Emergency Response Team and the Pennsylvania Department of Environmental Resources (now the Pennsylvania Department of Environmental Protection) conducted an initial Superfund Site Inspection in 1983. Also in 1983, the Centers for Disease Control issued a Public Health Advisory concerning the site.  
+  
+EPA determined that the site posed an imminent and substantial danger to the public health and welfare and made the decision to proceed with a removal response action in March 1984. That response involved establishing a vegetative-soil cover, placement of erosion control netting, and installation of a surface drainage system for the Locust Street Pile. Playground equipment adjacent to the pile was dismantled and removed from the site, leaving just the basketball court. Two additional removal responses were conducted in 1985 and 1990 to repair and improve the soil cover, vegetation and the fences around the Site.

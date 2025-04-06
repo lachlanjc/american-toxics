@@ -1,2 +1,52 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Sampling and Monitoring](#Sample)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300982)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300982)
+
+---
+
+### Background
+
+The 113-acre Revere Chemical Co. site is located in Bucks County, Pennsylvania. An acid, metal and plating waste processing facility operated at the site. The facility is also suspected of accepting organic solvent waste. Site operations included placement of wastes containing chromic acid, copper sulfate and other heavy metals, as well as sulfuric acid and ammonia, in unlined earthen lagoons. Historical operations and poor waste handling practices contaminated soil, groundwater, surface water and sediment with hazardous chemicals. EPA added the site to the Superfund program’s National Priorities List in 1987. Following cleanup, operation and maintenance activities are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+From1970-1971, the Pennsylvania Department of Health consolidated drummed materials in the lagoons, treated them with lime, pumped out approximately 3,000,000 gallons of waste, and then removed them. About 1,000 empty drums were crushed and buried on site. In 1984, EPA removed 22 drums of waste chromic acid and excavated 30 cubic yards of sludge containing copper and chromium. All materials were sent to an EPA-approved hazardous waste facility. In 1991, EPA ordered a group of potentially responsible parties (PRPs), to remove the crushed drums which were excavated during remedial investigation field work, and also required soil erosion and sedimentation control at the site.
+
+A group of the PRPs, known as the Revere Steering Committee (RSC), is addressing contamination at the site. The committee is comprised of the following companies: AT&T Corporation, Inc. (currently Lucent Technologies), AT&T Global Information Solutions, Inc. (currently NCR Corporation), Carpenter Technology Corporation, General Electric Company, GTE Operations Support Incorporated (as successor to the interests of GTE Products Corporation), International Business Machines Corporation, Square D Company (on behalf of Yates Industries), and Unisys Corporation.
+
+Removal of solid waste & debris, and additional drum removal was completed in the Spring of 1996. Remedial action work plans for the vacuum extraction and the pre-construction activities for the cap were submitted in April 1997. Field work for the vacuum extraction of the contaminated soil was completed in July 1997. Phase I of the cap work was completed in September 1997. Phase II began in April 1998. All on-site construction was completed in October 1998 and was documented by the signing of the Preliminary Closeout Report in November 1998.
+
+In December 2003, ownership of the property was transferred to Nockamixon Township. Institutional controls in the form of a Declaration of Covenants, Conditions and Restrictions were recorded at the Bucks County Recorder of Deeds by the Township in April 2004. The institutional controls were updated with an Environmental Covenant that was recorded at the Bucks County Recorder in April of 2010.
+
+---
+
+### What Is the Current Site Status?
+
+Construction of the remedy was completed in 1998. EPA is overseeing the long-term maintenance of the site, including ongoing monitoring of groundwater. Groundwater does not appear to be impacted by the soil contamination under the cap. The site security system, the cap and the storm water management system are inspected quarterly. An annual inspection report is submitted to the EPA including photos and copies of the inspection reports. The required institutional controls are also in place.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317292), concluded that the remedy continues to be protective of human health and the environment in the short term. To achieve long term protectiveness, EPA must complete its copper evaluation in surface water and sediments. The next five-year review is scheduled for 2026.
+
+---
+
+### Sampling and Monitoring
+
+In 2012, the Revere Steering Committee requested a reduction in the sampling frequency for groundwater at the site. After another round of sampling in 2013 and the analysis of the previous 20 years of groundwater sampling, EPA has determined that it is safe to reduce the groundwater sampling frequency to once every five years. The groundwater sampling shall be done the year before the five-year review report is due in order to be available for the determination of the protectiveness statement of the report. Yearly site inspection and sampling ofsurface water and sediment will continue. No issues have been found during the sampling events.
+
+---
+
+### Emergency Response and Removal
+
+In 1970 and 1971, the Pennsylvania Department of Health consolidated drummed materials in the lagoons, treated them with lime, pumped out three million gallons of waste and removed them. About 1,000 empty drums were crushed and buried on site. In 1984, EPA removed 22 drums of waste chromic acid and 30 cubic yards of sludge containing copper and chromium, and sent the materials to an approved hazardous waste facility. In 1991, EPA ordered potentially responsible parties to remove the crushed drums excavated during remedial investigation field work, and also required soil erosion and sedimentation controls at the site. Removal of solid waste, debris and additional drums finished in the spring of 1996.

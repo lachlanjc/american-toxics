@@ -1,2 +1,62 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301434)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301434)
+
+---
+
+### Background
+
+The 4-acre Berks Sand Pit site, located in Longswamp Township, Pennsylvania, was reportedly used as a disposal area for industrial wastes as well as by area residents for the disposal of refuse. The pit was created by the removal of sand and gravel. Site activities include the clean up of contaminated groundwater from hazardous chemicals.
+
+In January 1982, residents detected groundwater contamination in the area. At one time, the contaminated groundwater plume impacted 30 residences in Longswamp Township. Despite emergency responses and further investigatory actions by EPA, the source of contamination was never specifically identified. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1984.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The Pennsylvania Department of Environmental Protection (PADEP) investigated the site and prepared the feasibility study. In September 1988, EPA issued the final cleanup plan, known as the [Record of Decisio](https://semspub.epa.gov/src/document/03/102662) [n (ROD)](http://semspub.epa.gov/src/document/03/102662), requiring the pumping and treatment of contaminated groundwater. EPA further defined the extent of the contaminated groundwater and, in 1990, began constructing the groundwater extraction wells and associated monitoring wells.
+
+Construction of the treatment plant began shortly thereafter, and the first phase was completed March 1993. Later that year, three additional extraction wells were installed and connected to the treatment system. A public meeting and tour of the completed facility was conducted in October 1993. The system was modified and optimized throughout 1994. Final inspection was conducted in February 1995.
+
+EPA and PADEP have treated over 435 million gallons of contaminated groundwater at the groundwater treatment facility since March 1993. The plume of contaminated groundwater has decreased approximately 90 percent since 1994. Since 2005, site operations and maintenance (O&M) were turned over to PADEP. The groundwater treatment plant had been fully operational except for brief periods for repair, maintenance, and draught through the summer of 2011 when it experienced a lightning strike which damaged the instrumentation and controls of the treatment plant. The plant has not been operating since July 2011. However, since little contamination was being removed during pumping, PADEP conducted a pilot study to determine if chemical reduction and bioremediation groundwater injections would more effectively treat the remaining groundwater contamination.
+
+In the fall of 2012, PADEP drilled two new injection wells, and in December 2012, they conducted a series of injections that have enhanced the degradation of the contaminants in the groundwater. Soybean-based amendments and iron are being used to promote anaerobic chemical reduction and the bacteria Dehalococcoides ethenogenes (DHC) are being added. Follow up analysis of groundwater in March of 2014 indicated the injections had a positive impact on contamination in the shallow aquifer.
+
+A second round of injections was performed in 2015 to study the effectiveness of injections in the site’s deeper aquifer. PADEP deepened two existing wells in early 2015. The injections have proven to be an effective method for removing the contamination in the deeper aquifer as well. As a result, EPA modified the [site's cleanup plan](https://semspub.epa.gov/work/03/2309487.pdf) to address the remaining contamination in a [ROD Amendment](http://semspub.epa.gov/work/03/2309487.pdf) issued in January 2021. The modifications include shutting down the groundwater treatment plant and performing combined on-site (in-situ) biological and chemical groundwater treatment to address groundwater contamination.
+
+PADEP is carrying out work identified in the ROD Amendment issued in January 2021. PADEP is taking the lead on the remedial work through a Superfund State Contract. PADEP is currently performing well redevelopment, groundwater injections, groundwater sampling, and residential well sampling with their contractor.
+
+---
+
+### What Is the Current Site Status?
+
+Operation and maintenance activities are ongoing.
+
+EPA has conducted several [five-year reviews (PDF)](https://semspub.epa.gov/src/document/03/2317237) of the site’s remedy, most recently in 2021. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2026.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Parcels with contaminated groundwater are flagged in the local government database. Any requests for well permits on those parcels trigger notification of EPA and the Pennsylvania Department of Environmental Protection for consultation. These parcels are shown on Figure 1: Institutional Control Base Map found in the [2021 Five-Year Review report (PDF)](https://semspub.epa.gov/src/document/03/2317237) (page 9).
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. A removal action in 1983 included the partial excavation of the pit and backfilling it with clean soil. The removal action also temporarily connected four impacted residences to an alternate water supply until groundwater reached safe drinking water standards.

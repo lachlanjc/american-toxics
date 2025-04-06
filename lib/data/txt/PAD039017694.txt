@@ -1,2 +1,71 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Sampling and Monitoring](#Sample)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300894)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300894)
+
+---
+
+### Background
+
+The Raymark Superfund Site is a 7-acre operating facility located at 220 Jacksonville Road in Hatboro, Montgomery County, Pennsylvania. The site consists of a manufacturing building which contains office space and a wastewater treatment building. The manufacturing building was historically used to treat electroplating wastes since 1948. As a result of this operation, the site was contaminated with volatile organic compounds (VOCs), specifically trichloroethene (TCE). TCE has not been used at the site since 1980. The site was added to the Superfund program's National Priorities List in October 1989.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1972-1973, four lagoons that once stored wastewater from the site were closed, and a potentially responsible party (PRP) removed the remaining waste sludge to an off-site disposal facility. The lagoons were backfilled with clean soil. In late 1979, a series of environmental samples revealed the presence of trichloroethene (TCE) and several other volatile organic compounds (VOCs) in 8 of 16 public supply wells. As a result, the Hatboro Borough Water Authority removed the affected wells from routine operation and began to supplement its water needs from an interconnection with a neighboring water company.
+
+In June 1983, EPA conducted a preliminary Site Investigation to determine the relative hazards posed by the site. The site was added to the National Priorities List (NPL) in October 1989.
+
+In September of 1991, EPA issued a Record of Decision (ROD) to document a remedy to address the contaminated soil and control the source of contamination. The remedy included soil vapor extraction, a low-permeability cap, and an asphalt cap. Cap construction was completed in April 1994.  
+  
+In December 1990, a ROD for the groundwater and contaminated drinking water wells, which is referred to as operable unit 3 (OU3), was issued. The groundwater remedy included extracting groundwater, treating, and discharging it via a storm sewer to a nearby creek. The remedy also included the use of air stripper towers with vapor phase carbon adsorption at existing contaminated drinking water wells.  
+  
+In September 2007, EPA issued an Explanation of Significant Differences (ESD) that modifies the approach to groundwater remediation at the site, eliminating the need for continuous public water supply operation and treatment by the Hatboro Borough Water Authority. The ESD also requires institutional controls in relation to the on-site treatment system and the contaminated groundwater attributable to the site.
+
+In February 2011, monitoring wells were installed off site. The purpose of these wells were to help EPA delienate the contamination plume.
+
+In 2013, out of an abundance of caution, EPA conducted a vapor intrusion investigation. Vapor intrusion occurs when chemicals or petroleum products, like those found at the Raymark site, are spilled on the ground or leak from underground storage tanks, and the gases or vapors seep inside buildings through cracks in basements, foundations, sewer lines or other openings. Over a dozen properties were tested for vapor intrusion. Results from the vapor intrusion investigation determined that a few properties had elevated levels of VOCs underneath thier basements. In response, EPA conducted further anaylsis, which included collecting data from a network of nearby monitoring wells. Based on the data, EPA could not verfiy that these results were connected to the Raymark site.
+
+In 2016, EPA's Removal Program further investigated these properties. Similar investigations had previously been conducted in Hatboro. For more information on the removal programs efforts in the community, please visit the [EPA On-Scene Coordinator website.](https://response.epa.gov/site/site_profile.aspx?site_id=11507)
+
+---
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2286490.pdf), concluded that the remedy continues to be protective of human health and the environment in the short term. The next five-year review is scheduled for 2024.
+
+The Pennsylvania Department of Environmental Protection is currently overseeing the operation and maintenance of the site.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place at the site. Additional information about the institutional controls are available in the [2019 Five-Year Review (PDF) (page 7).](https://semspub.epa.gov/work/03/2286490.pdf)
+
+---
+
+### Sampling and Monitoring
+
+The Pennsylvania Department of Environmental Protection samples the site monthly and conducts a more comprehensive sampling event annually.
+
+---
+
+### Emergency Response and Removal
+
+The EPA removal has conducted several investigations in the Hatboro communty. For more information on the removal programs efforts in the community, please visit the [EPA On-Scene Coordinator website.](https://response.epa.gov/site/site_profile.aspx?site_id=11507)

@@ -1,2 +1,71 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+- [Enforcement Information](#Enforce)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301139)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301139)
+
+---
+
+### Background
+
+The Breslube-Penn Superfund Site is located near Coraopolis in Allegheny County, Pennsylvania. The Site encompasses the former Breslube-Penn facility, a 7-acre tract of land in the floodplain of Montour Run in Moon Township. The Site also includes a small portion of adjacent properties owned by the Montour Trail Council and the Coraopolis District Sportsmen’s Association (CDSA). A steep, wooded hillside borders the Site to the north and west. Montour Run, a tributary of Fishers Creek, flows across the southern portion of the Site. A private road and the recreational Montour Trail also runs across the Site boundary.
+
+Wiseman Oil Company operated an oil processing and reclamation facility at the Site from 1977 to 1982. These operations generated a solid waste that was stockpiled at the facility. In 1982, Breslube-Penn, Inc. bought the facility and continued oil processing and stockpiling operations until 1986. The facility was a used oil transfer station from 1987 until 1992, at which time operations at the facility ceased. The former facility property includes the Site’s waste management area (WMA), which is a 4.7-acre area of consolidated waste covered with a cap, and a constructed wetland. There are no buildings on the former facility property.
+
+EPA placed the Site on the Superfund program's National Priorities List in 1996.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA completed a removal action in 1994 to dispose of 6,400 tons of contaminated solid waste. This contaminated material was removed from the Site and replaced with clean fill.
+
+In 1997, EPA began a Remedial Investigation/Feasibility Study (RI/FS) to determine how best to remove contamination and restore the existing property. An Agreement of Consent (AOC) between EPA and the potentially responsible parties (PRPs) was signed in 2000. The PRPs completed the Remedial Investigation (RI) in March 2003.
+
+In 2007, EPA issued a [Record of Decision (ROD)](https://semspub.epa.gov/src/document/03/2081094) outlining the selected remedy for the Site. The Site is being addressed in two separate areas, known as operable units (OUs). The remedy for OU1 includes consolidation of contaminated soils into a Waste Management Area (WMA) contained by a surface cap and slurry wall. A shallow groundwater collection and treatment system addresses groundwater within the WMA. An [Explanation of Significant Differences (ESD)](http://semspub.epa.gov/src/document/03/2179964) for OU1 was issued in 2014, modifying the ROD to address hydrogeological flow issues within the WMA. The PRPs completed the remedial actions and modifications for OU1 in September 2015. In 2016 and 2018, the PRPs modified the OU1 treatment cells to address performance inefficiencies.
+
+OU2 addresses contaminated groundwater outside the WMA. In June 2015, the PRP began an extended pilot study to evaluate the effectiveness of in-situ treatment for contaminated groundwater. In January 2021, EPA approved a Revised Enhanced Bioattenuation Work Plan for groundwater cleanup in OU2 based on the pilot study. The field activities described in the Work Plan have been implemented with the installation of additional monitoring wells and the first round of enhanced bioattenuation injections occuring in July 2021.
+
+The PRP monitors groundwater in the area to ensure that contamination from the Site does not pose a threat to public drinking water supplies.
+
+---
+
+### What Is the Current Site Status?
+
+The Site consists of two Operable Units (OUs) currently being addressed by potentially responsible parties (PRPs) with EPA oversight. The remedy for OU1 is currently in place and includes the consolidation of treatment of contaminants within a Waste Management Area (WMA). The OU2 remedy is currently designed and includes a continuation of groundwater cleanup actions originally introduced during the extended pilot study.
+
+EPA completed the second five-year review in April 2024. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2379231), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2028.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) are in place at the Site. ICs are legal and administrative tools used to maintain protection of human health and the environment by reducing potential for exposure to contamination and/or protecting the integrity of a response action. Institutional controls typically limit land use or provide guidance for human behavior. ICs were implemented at the Site to prevent disturbance of the WMA, to prevent potable use of contaminated groundwater, and to prevent exposure to contamination remaining in subsurface soil. The former facility property is fenced and locked. An Environmental Covenant for the facility property, recorded in 2016, prohibits groundwater use, prohibits excavation, prohibits residential land uses, requires pre-approval by EPA and PADEP for any public or commercial uses, and requires vapor intrusion mitigation for any future buildings.
+
+Additional information about the institutional controls are available in the [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2275291) (pages 16-18).
+
+---
+
+### Emergency Response and Removal
+
+Cleanup also included a removal action, or short-term cleanup, to address immediate threats to human health and the environment. The removal action, which took place in 1993, involved the disposal of stockpiled soil.
+
+---
+
+### Enforcement Information
+
+[Consent Decree - February 2011 (PDF)](http://www.epa.gov/reg3hwmd/super/sites/PAD089667695/enforce/03-2157673.pdf)

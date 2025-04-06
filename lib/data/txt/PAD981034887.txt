@@ -1,2 +1,92 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+[Sign up](Mailto:cruz.nancy@epa.gov?subject=Add me to the BORIT ASBESTOS Superfund site mailing list) for this Superfund site’s mailing list
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Sampling and Monitoring](#Sample)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301842)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301842)
+
+---
+
+### Background
+
+The BoRit Asbestos Site was used, from the early 1900s to the late 1960s, to dispose of asbestos-containing material (ACM) that came from a nearby asbestos products manufacturing plant. The site is divided into three parcels: an asbestos waste pile, a reservoir, and a closed park.
+
+The asbestos waste pile, approximately 25-feet high, is on a six-acre piece of land owned by Kane-Core, Inc. The waste pile covers approximately two-and-a-half acres. The reservoir is owned by the Wissahickon Waterfowl Preserve. The berm (walls) of the reservoir was believed to be constructed of asbestos shingles, millboard and soil.
+
+Asbestos product waste, such as piping and tiles, was visible surrounding the reservoir and the stream banks. A closed, 11-acre park parcel is owned by Whitpain Township. This former disposal area was filled with asbestos wastes and eventually used as a park and playground. In the mid-1980s, the park was closed and fenced due to asbestos contamination.
+
+The BoRit Site was added to EPA's National Priorities List (NPL) of the most hazardous waste sites in April 2009, making it eligible for cleanup using federal Superfund program funding. The site was added on the NPL because the nearby residential population was at risk of being exposed to airborne asbestos and to asbestos contamination in and along Tannery Run, Rose Valley Creek and the Wissahickon Creek. Following cleanup, operation and maintenance are ongoing.
+
+For more information about asbestos in the Ambler area, please visit EPA's [Environmental Concerns of Communities around Ambler](https://www.epa.gov/ambler) webpage.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA's Removal Program has completed work to remove any potential risk from asbestos contamination at the BoRit site by capping all asbestos-containing materials throughout the 32-acre site. The site consists of a 2 1/2-acre by 25-foot asbestos waste pile on a 6-acre parcel, an 11-acre pond (also known as the reservoir) within a 15-acre parcel, and an 11-acre former park parcel.
+
+EPA completed stream bank stabilization on the following: Wissahickon Creek, which runs along the perimeter of all parcels included in the site; Tannery Run Creek, which runs alongside the pile parcel; and Rose Valley Creek, which runs into Wissahickon Creek between the reservoir and park parcels. Storm damage to the Rose Valley Creek stream bank stabilization measures, which was caused by extreme weather events in 2011, was repaired and streambeds and the base of the cap were fortified.
+
+EPA issued a [Record of Decision (PDF)](https://semspub.epa.gov/work/03/2244733.pdf) in July 2017 documenting plans for the cleanup of the BoRit site. The remedy incorporates work that has already been completed at the site by EPA's Removal Program. This work includes covering the asbestos-containing wastes, soils and reservoir sediments with geotextile and a minimum of two feet of clean material. More information about the work conducted by the Removal Program can be found at: [response.epa.gov/BoRit](https://response.epa.gov/BoRit).
+
+The remedy also requires post-construction sampling, routine inspections, long term operations and maintenance and land-use controls. T he post-construction sampling was performed at the site from April to July 2018. There were no exceedances of the human health remediation goals that were established in the 2017 Record of Decision.
+
+---
+
+### What Is the Current Site Status?
+
+Routine operation and maintenance activities for the site consist of:
+
+- Quarterly site inspections – consisting of visual site inspections to ensure the integrity of the cap, vegetation, and stabilized stream bank areas.
+- Post-significant weather event inspections – following significant weather events, visual site inspections will be conducted to ensure the integrity of the cap, vegetation, and stabilized stream bank areas were not impacted by the weather event.
+- Long-term monitoring – annual monitoring will be conducted until the first five-year review (to be completed in 2022). Following the first five-year review, long-term monitoring will be performed once every five years. Long-term monitoring activities include activity-based, ambient air, soil, sediment, and surface water sampling to confirm the site remains protective of human health and the environment.
+- Cap and physical remedy maintenance – damage to the cap, vegetation and stabilized stream bank areas observed during quarterly inspections and post-significant weather event site inspections will be repaired to eliminate exposure of underlying contaminated waste, soil and reservoir sediment.
+
+[Updated - July 2020 - BoRit Final Operations and Maintenance Plan (PDF)](https://semspub.epa.gov/src/document/03/2309972)
+
+EPA and the Pennsylvania Department of Environmental Protection (PADEP) entered into a [Consent Decree with Whitpain Township](https://semspub.epa.gov/src/document/03/2292929) on November 21, 2019. The objectives are the Consent Decree are to protect human health and the environment by implementation of operation and maintenance activities at the Park Parcel by Whitpain Township. Whitpain Township is also be required to implement land use restrictions at the Parck Parcel.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prevent disturbing the cover of the caps in place. Additional information about the institutional controls is available in the 2017 [Record of Decision (PDF)](http://semspub.epa.gov/work/03/2244733.pdf) (page 71).  
+
+---
+
+### Sampling and Monitoring
+
+The Remedial Investigation/Feasibility Study (RI/FS) was conducted from November 2009 through July 2017 to study the nature and extent of contamination, health risks and potential cleanup options.
+
+The first phase of Remedial Investigation started with field work, which included collecting surface water, sediment, soil and waste samples. This field work started in the fall of 2009 and was completed in the winter of 2010. EPA sampled the pile, the reservoir, the park and the three creeks (Rose Valley Creek, Tannery Run, and Wissahickon Creek) that flow through the site.
+
+Various contaminants, including asbestos, were detected at the site. A second sampling program (Phase II) began in October, 2010 and concluded in the summer 2011. EPA collected ambient air data throughout the community over a one-year period. EPA installed and sampled six groundwater monitoring wells. Additional soil samples were collected from on-site and off-site locations. Activity-based sampling (ABS), the process of collecting air samples from the breathing zone of field technicians engaged in realistic activities (e.g., raking, mowing,) that may disturb asbestos-contaminated sources, was conducted in the summer of 2011. Air sampling data demonstrated that there is no unacceptable risk from airborne asbestos in the surrounding community.
+
+Additional sampling activities will be performed annually until 2022. After 2022, sampling will be performed every five years. Long-term monitoring activities include activity-based, ambient air, soil, sediment, and surface water sampling to confirm the site remains protective of human health and the environment.
+
+---
+
+### Emergency Response and Removal
+
+The cleanup activities have included removal actions (relatively short-term actions requiring minimal investigation) to address immediate threats to human health and the environment. The entire site, including the inside of the reservoir, was covered with a liner consisting of a geotextile which is covered by at least 2 feet of clean, vegetated soil.
+
+Along the site slopes, the soil cover is packed into and over geocells which resemble honeycombs intended to fortify the slopes against erosion. The soil cover was seeded and covered with erosion mats to hold the seeds in place to allow them time to sprout.
+
+Along the waterways, the lower sections of the geocells were filled with stone and covered by rip rap (large stones) to protect the cap from swift-flowing storm currents and daily stream flows. Where the walls of the reservoir were unstable, a geotextile impregnated with clay was used for extra stability. Prior to installing the reservoir liner, the water was pumped and treated on-site to meet state regulations. It was then released into the Wissahickon Creek. The removal action was completed in September 2017.
+
+More information about the work conducted by the Removal Program can be found at: [response.epa.gov/BoRit](https://response.epa.gov/BoRit).

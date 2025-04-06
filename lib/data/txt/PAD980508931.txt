@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301231)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301231)
+
+---
+
+### Background
+
+The Lord Shope Landfill, located in Erie County, Pennsylvania had approximately four million cubic feet of waste disposed on the privately owned five-acre site between 1959 and 1979. Wastes deposited on the landfill consisted principally of solid debris, and included rubber scrap, organic and inorganic chemicals, solvents, cooling oils, acids, and caustic agents. Land use in the immediate vicinity includes field crop agriculture, a golf course, orchards, vineyards, and wooded areas. The nearest residences are situated several hundred feet from the site. Approximately 125 people reside within one mile of the site, and about 5,700 people live within three miles of the contamination area. Elk Creek, into which the site runoff discharges, has a water intake located approximately 4,800 feet downstream of the contamination area. The water from this intake is used to irrigate food crops. This site was proposed to the National Priority List (NPL) on December 30, 1982 and formally added to the list September 8, 1983.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983, Lord Corporation, the potentially responsible party (PRP) for the site, removed 81 drums of waste; placed 20,000 gallons of landfill leachate into containers and removed it; regraded and capped the landfill with a multi-layer synthetic cap; and installed a subsurface “cut-off” wall to divert ground water from coming in contact with contaminated materials in the landfill. These actions were pursuant to a Consent Order and Agreement with the then Pennsylvania Department of Environmental Resources, now the Pennsylvania Department of Environmental Protection (PADEP).
+
+In 1987, the PADEP and Lord Corporation entered into a Consent Order and Agreement for performance of a Remedial Investigation/Feasibility Study (RI/FS) of the site. In 1990, EPA selected the remedy for cleanup of the entire site that included removal of volatile organic compounds (VOCs) from the landfill materials and surrounding soils through in-situ vapor stripping (ISVS) and treatment of the extracted vapor; treatment of contaminated groundwater by pre-treatment for iron and other metals; removal of the VOCs; and discharge of treated groundwater to a nearby tributary of Elk Creek.
+
+On September 27, 1991, EPA and Lord entered into a Consent Decree for Lord to perform the remedial design and action to implement the selected remedy.
+
+The design of the cleanup technologies was finalized in July 1994, and construction began in the fall of 1994. The in-situ vapor stripping component of the remedy became operational in November 1995. The groundwater treatment component was completed and began operating in June 1996. The groundwater treatment is expected to reach cleanup goals in 40 years.
+
+Lord Corporation continues to monitor the groundwater including the wells of nearby residences. The results are presented in an annual groundwater report. The 2021 annual report indicated that the results of the residential wells sampled remain within safe drinking water levels. EPA and PADEP continue to review the site's environmental monitoring data and reports
+
+In 2021 EPA issued an Explanation of Significant Difference (ESD) for the Lord Shope Landfill Superfund Site for public review. An ESD outlines changes to the original cleanup plan for a site.
+
+This ESD makes several changes to the Selected Remedy to monitor and manage the ongoing cleanup at the Site. The changes include updating the groundwater cleanup levels to the current federal drinking water standards; adding a contaminant as a contaminant of concern; adding ten parameters to the groundwater monitoring program; and requiring a cumulative risk for groundwater cleanup.
+
+---
+
+### What Is the Current Site Status?
+
+Construction is complete at the Lord Shope Landfill, and the remedy is operational and functional. Residential wells have not been affected by the site’s contamination. With minor exceptions, the groundwater extraction and treatment system continues to operate effectively and is well-maintained.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2397015) concluded that the remedy continues to be short term protective of human health and the environment with recommendations to achieve long term protectiveness. The next five-year review is scheduled for 2029.
+
+The cap and fencing prevent human and ecological contact with soil contaminants, the groundwater treatment and in-situ soil vapor stripping system (ISVS) systems are removing contaminants, and there are no exposures to contaminated groundwater.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place at the landfill property to restrict current and future exposures to groundwater at the landfill property. Additional information about the institutional controls is available in the [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2397015) (pages 13-14).

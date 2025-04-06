@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301408)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301408)
+
+---
+
+### Background
+
+The 57-acre Enterprise Avenue Landfill Site is located in Philadelphia, Pennsylvania. From 1971 through 1976, the City of Philadelphia used the site to dispose of incineration residue, fly ash, and bulky debris. Several waste handling firms also used the site to illegally bury drums containing industrial and chemical wastes. These improper waste disposal practices contaminated soil and groundwater with hazardous chemicals. In 1983, EPA added the site to the Superfund program's National Priorities List (NPL). The City of Philadelphia removed contaminated soil and placed a protective cap over the landfill, and groundwater monitoring and treatment is still ongoing at the site. EPA deleted the site from the NPL in 1986.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, and municipal actions.
+
+The City of Philadelphia led initial cleanup actions in 1982, which included the excavation of contaminated soil and buried drums and off-site disposal of the drums, some contaminated soil, and about 226,000 gallons of contaminated water. The City stored the remaining contaminated soil in the landfill area in two large piles and covered them with clay, topsoil, and seed.
+
+The site’s long-term remedy included sampling and analyzing the stockpile’s soil, on-site containment for some soil, off-site disposal of highly contaminated soil, and installation of a landfill cover. Construction of the remedy took place between 1984 and 1985.
+
+In 1994, the City received approval from the Federal Aviation Administration for a 5,000-foot-long commuter runway at the Philadelphia International Airport over part of the landfill. EPA evaluated the construction plan and determined that the runway project could potentially disturb contaminants in the landfill, which in turn affect the on-site aquifer, a valuable source of local drinking water. EPA recommended landfill capping and groundwater monitoring around the perimeter of the landfill. The City completed construction of the groundwater extraction and treatment system and cap in 1997.
+
+In 1999, the Philadelphia Department of Aviation completed a 5,000-foot commuter runway over the site for the Philadelphia International Airport. In 2008, the Philadelphia International Airport began plans to extend the commuter runway as part of an airport-wide expansion. The new runway expansion was completed in 2019.
+
+---
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2322988) concluded that the remedy selected continues to be protective of human health and the environment. The next five-year review is scheduled for 2027.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to protect the cap and to protect the remedy and provide fencing around the wastewater treatment plant. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2322988) (page A-9).

@@ -1,42 +1,63 @@
-BENDIX FLIGHT SYSTEMS DIVISIONSOUTH MONTROSE, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 60-acre Bendix Site is located in South Montrose just east of Route 29 in Bridgewater Township, PA. The Site consists of a closed manufacturing building and office, a parking lot, two treatment buildings, and fenced grounds. It was used to manufacture aircraft instruments from 1952 to 1996, when industrial solvent waste was disposed of in a lagoon and a series of trenches. In addition, from the 1950s to 1978, oil-contaminated water was also disposed of in a pit, but these liquids were eventually drained and the pit was backfilled and seeded. Investigations from 1984 to 1987 showed soil and groundwater contamination. In 1987 the Site was added the the National Priorities List (NPL). Top of Page
-What Has Been Done to Clean Up the Site?
-Below you will find a brief timeline highlighting what has been done to clean up the Bendix site: 
-The groundwater treatment system was completed in 1992.
-The monitoring well system was completed in 1994.
-Cleanup of contaminated soils was completed in 1995.
-Additional monitoring wells were completed in 1996. 
-A new sump was built to collect groundwater on the eastern side of the site in 1999.
-Monitoring of surface water, groundwater, and residential wells is ongoing, as is groundwater treatment. 
-The 2007 Five-Year Review of the site, which was done to evaulate if the cleanup actions continued to protect the community, recommended that additional evaluations be done of the groundwater remedy, vapor intrusion (contaminants seeping into indoor air from soil and/or groundwater), and institutional controls.
-As a result, 1) the vapor intrusion study was done in the on-site building and in residential homes; 2) institutional controls were put in place restricting use of the Site; and 3) the supplemental site investigations were done to trace ongoing sources of groundwater contamination.
-The vapor intrusion study concluded that a few site-related contaminants may be migrating into one or more nearby residences. However, there are also likely sources right within the homes contributing to most, if not all, of volatile chemicals picked up by the sampling. Evaluations of all the homes indicated that vapor intrusion does not present any unacceptable health risks to residents.
-A separate vapor intrusion study was also conducted in 2008 in the on-site building, and it was found that indoor air contaminants posed an unacceptable health risk to the workers in that building. As a result, the offices of two maintenance staff were moved to a new temporary building and the contaminated building is no longer being used.
-A Supplemental Site Investigation (SSI) was started in 2009 to identify remaining sources of groundwater contamination. A second phase of the SSI was conducted in 2011 and a third phase is currently ongoing (2022). As a result of the investigation, several pilot studies were conducted during the summer of 2011 to evaluate various cleanup technologies. Study results will be used to select additional cleanup actions. 
-The former main industrial building used for historical site operations was demolished in 2012. 
-Top of Page
-What Is the Current Site Status?
-EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, 2022 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2027.  
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The following Institutional Controls (IC) applies to the property owned by Honeywell and includes the former manufacturing facility and area west of the facility as well as a
-small area south of Route 3029: 
-restrict activities that would disturb or interfere with remedial components; prohibit installation of groundwater wells for domestic purposes, unless the groundwater is treated to comply with MCLs;
-prohibit installation of groundwater wells that would adversely affect the groundwater treatment system and the capture and containment of groundwater for remedial purposes;
-prohibit soil excavation that may adversely affect the release or mobility of residual contamination in the soils;
-require vapor intrusion assessment prior to building occupation;
-require vapor mitigation for all new buildings 
-Please see addtional information on ICs in the 2017 Five-Year Review (Page 8). Top of Page
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300694)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300694)
+
+---
+
+### Background
+
+The 60-acre Bendix Site is located in South Montrose just east of Route 29 in Bridgewater Township, PA. The Site consists of a closed manufacturing building and office, a parking lot, two treatment buildings, and fenced grounds. It was used to manufacture aircraft instruments from 1952 to 1996, when industrial solvent waste was disposed of in a lagoon and a series of trenches. In addition, from the 1950s to 1978, oil-contaminated water was also disposed of in a pit, but these liquids were eventually drained and the pit was backfilled and seeded. Investigations from 1984 to 1987 showed soil and groundwater contamination. In 1987 the Site was added the the National Priorities List (NPL).
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+Below you will find a brief timeline highlighting what has been done to clean up the Bendix site:
+
+- The groundwater treatment system was completed in 1992.
+- The monitoring well system was completed in 1994.
+- Cleanup of contaminated soils was completed in 1995.
+- Additional monitoring wells were completed in 1996.
+- A new sump was built to collect groundwater on the eastern side of the site in 1999.
+- Monitoring of surface water, groundwater, and residential wells is ongoing, as is groundwater treatment.
+- The 2007 Five-Year Review of the site, which was done to evaulate if the cleanup actions continued to protect the community, recommended that additional evaluations be done of the groundwater remedy, vapor intrusion (contaminants seeping into indoor air from soil and/or groundwater), and institutional controls.
+	- As a result, 1) the vapor intrusion study was done in the on-site building and in residential homes; 2) institutional controls were put in place restricting use of the Site; and 3) the supplemental site investigations were done to trace ongoing sources of groundwater contamination.
+- The vapor intrusion study concluded that a few site-related contaminants may be migrating into one or more nearby residences. However, there are also likely sources right within the homes contributing to most, if not all, of volatile chemicals picked up by the sampling. Evaluations of all the homes indicated that vapor intrusion does not present any unacceptable health risks to residents.
+- A separate vapor intrusion study was also conducted in 2008 in the on-site building, and it was found that indoor air contaminants posed an unacceptable health risk to the workers in that building. As a result, the offices of two maintenance staff were moved to a new temporary building and the contaminated building is no longer being used.
+- A Supplemental Site Investigation (SSI) was started in 2009 to identify remaining sources of groundwater contamination. A second phase of the SSI was conducted in 2011 and a third phase is currently ongoing (2022). As a result of the investigation, several pilot studies were conducted during the summer of 2011 to evaluate various cleanup technologies. Study results will be used to select additional cleanup actions.
+- The former main industrial building used for historical site operations was demolished in 2012.
+
+---
+
+### What Is the Current Site Status?
+
+EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2333714.pdf), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2027.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The following Institutional Controls (IC) applies to the property owned by Honeywell and includes the former manufacturing facility and area west of the facility as well as a  
+small area south of Route 3029:
+
+- restrict activities that would disturb or interfere with remedial components; prohibit installation of groundwater wells for domestic purposes, unless the groundwater is treated to comply with MCLs;
+- prohibit installation of groundwater wells that would adversely affect the groundwater treatment system and the capture and containment of groundwater for remedial purposes;
+- prohibit soil excavation that may adversely affect the release or mobility of residual contamination in the soils;
+- require vapor intrusion assessment prior to building occupation;
+- require vapor mitigation for all new buildings
+
+Please see addtional information on ICs in the [2017 Five-Year Review (Page 8).](https://semspub.epa.gov/work/03/2246092.pdf)

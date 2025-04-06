@@ -1,2 +1,71 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301029)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301029)
+
+---
+
+### Background
+
+The Bally Ground Water Contamination Superfund site is located around the Bally Engineered Structures (BES) plant in the Borough of Bally, Pennsylvania, just north of the intersection of Route 100 and Old Route 100. The source of the groundwater contamination began in the 1950s when the predecessor to the BES facility – a company that made insulated meat display cases and insulated panels – used a reservoir on-site to hold hazardous liquid wastes from production. BES continued this practice into the 1960s. The Bally Municipal Water Authority conducted a water quality check in 1982 and found elevated levels of contaminants in a well that supplied potable water to the community. The well was taken out of service shortly thereafter. EPA determined that the contamination found in the groundwater and surface water posed a threat to human health and the environment, and the site was placed on the Superfund program's National Priorities List in 1987.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1982, volatile organic compounds were discovered in the Borough of Bally's municipal well. Bally Engineered Structures (BES), the site’s potentially responsible party, conducted cleanup activities under EPA oversight beginning in 1987. As an initial response, a two-stage air-stripper water treatment system was constructed in 1989 to remove the contaminants before the water went on to the municipal water supply or to the small creek near the well. The well was reconnected to the Bally water system later that same year.
+
+The clean up for this Superfund site is divided up into three parts: Operable Unit 1 (OU-1) to address the contaminated groundwater plume, Operable Unit 2 (OU-2) to address the Bally public water supply, and Operable Unit 3 (OU-3) to address vapor intrusion.
+
+**OU-1: Contaminated Groundwater Plume**
+
+In 1989, EPA began to implement a treatment remedy for the contaminated groundwater plume at the site to prevent ingestion of the contaminated groundwater and remove the contaminants of concern from the groundwater. The treatment plan:
+
+- Abandoned contaminated wells, and limited the use of and construction of private wells;
+- Monitored groundwater and surface water;
+- Treated the extracted groundwater; and
+- Conducted additional studies.
+
+**OU-2: Bally Public Water Supply**
+
+In 2003, a contaminant known as 1,4-dioxane was also identified in Bally's public water supply and in the initially contaminated municipal well. This newly identified contaminant could not be removed from the water by the existing air-stripper treatment system. To address the 1,4-dioxane contamination, EPA:
+
+- Entered into an Administrative Order on Consent with BES to prepare a Focused Feasibility Study to address the contamination in the public water supply, and provide bottle water to those who were using the Bally public water supply at the time;
+- Issued a Record of Decision in 2007 to install a new municipal supply well and connect it to the Bally public water supply;
+- Disconnected the contaminated municipal well from service; and
+- Implemented a plan to continuously monitor the groundwater to prevent migration of contaminants into the new well.
+
+After installing a new well in August 2010, the water system underwent a flushing program and was sampled for 1,4-dioxane. Sampling results showed that 1,4-dioxane was not a concern and the water met federal Safe Drinking Water Act standards.
+
+EPA issued an Explanation of Significant Differences (ESD) for the site in May 2011 to change the discharge location of the initially contaminated municipal well. This required the construction of an underground discharge pipeline from the municipal well to the West Branch of Perkiomen Creek. This construction was completed in 2012.
+
+**OU-3: Vapor Intrusion**
+
+Vapor intrusion occurs when any vapor-forming chemical from a subsurface source, including soil, groundwater, and sewers, migrates into building on top of that source. These chemical vapors, when accumulated in the indoor air, can become dangerous for human health. From 2004 and 2007, EPA investigated for possible vapor intrusion at the BES facility and townhomes located between the BES facility and the initially contaminated municipal well. Though EPA determined that no further action needed to be taken at the townhome locations, the investigation did find that vapor intrusion was occurring at the former BES facility. In 2008, EPA and BES entered into another Administrative Order on Consent and constructed a mitigation system at the facility to minimize the vapor intrusion in 2009.
+
+---
+
+### What Is the Current Site Status?
+
+The remediation system at the Bally Ground Water Contamination Superfund site includes the primary extraction well (the initially contaminated municipal well), a two-stage air-stripper, groundwater monitoring, and a sub-slab depressurization system to address vapor intrusion at the site. A new public water supply well was also constructed to serve as the water source of the Borough of Bally. The potentially responsible party is currently evaluating optimization opportunities at the site, including monitoring and maintaining the treatment systems and groundwater monitoring program.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and that they function as intended by site decision documents. The most recent, [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312276), concluded that the remedy is protective of human health and the environment. The next five-year review is scheduled for 2025.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prevent private wells from being installed into the contamination plume and to limit the use of operable private wells. Additional information about the institutional controls are available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312276) (page 7).

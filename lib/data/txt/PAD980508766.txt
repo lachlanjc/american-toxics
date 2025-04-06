@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+[Sign up](Mailto:page.katherine@epa.gov?subject=Add me to the MOYERS LANDFILL Superfund site mailing list) for this Superfund site’s mailing list
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301226)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301226)
+
+---
+
+### Background
+
+The 65-acre Moyer's Landfill site is located in Lower Providence Township in Montgomery County, Pennsylvania. A municipal landfill operated at the site from the early 1940s until April 1981. The landfill accepted municipal waste, sewage and industrial sludges, including solid and liquid hazardous wastes. Disposal practices at the landfill contaminated soil, sediment, groundwater, surface water and fish tissue with hazardous chemicals. The site was added to the Superfund Program's National Priorities List (NPL) on September 8, 1983 and deleted from the NPL on May 27, 2014. Following cleanup, operation and maintenance activities are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1985, the EPA selected a remedy for controlling the source of the pollution. It included: grading and leveling the site; constructing retaining walls at highly erodible areas; capping the site with a low-permeability soil; installing a gas vent system that prevents accumulating gas from rupturing the cap; collecting surface runoff and discharging it directly into the creek; installing a leachate collection and removal system; treating collected leachate and discharging it; and continuing to monitor groundwater and surface waters. The engineering design for the cleanup remedy, undertaken by the Army Corps of Engineers, was completed in 1989. Construction of the collection trench was completed in July 1992. However, due to community concerns, the landfill cap was re-designed to minimize the amount of imported soil needed.
+
+Construction of the cap began in the summer of 1993 and was completed in November 1994. Additional erosion and sedimentation control units, as well as the leachate pumping system, were completed during early 1997. The Pennsylvania Department of Environmental Protection (PADEP) petitioned the EPA to change the remedial action to leachate treatment at a publicly owned treatment works. This action was not able to be implemented when the EPA's Record of Decision was signed, but is more cost effective than the original remedy.
+
+In 2000, the EPA issued the [first](https://semspub.epa.gov/src/document/03/173817) [Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/173817) to facilitate the change in the remedial action. As part of this change three actions were required: (1) construction of leachate holding tanks by the EPA; (2) updating of the leachate transfer system by PADEP; and (3) construction of a sewer line interceptor by the county. Leachate began to flow to the publiclyowned treatment works in September 2002, when construction at the site was completed.
+
+In September 2009, the EPA issued a [second ESD (PDF)](https://semspub.epa.gov/src/document/03/2108529) to add institutional controls into the remedy. The institutional controls were implemented when Lower Providence Township enacted an ordinance on October 20, 2011.
+
+Since all appropriate cleanup actions have been implemented and no further cleanup actions are appropriate, the EPA and the state have determined that cleanup actions conducted at the site are protective of public health, welfare, and the environment. Therefore, the EPA published an intent to delete the site from the National Priorities List on March 27, 2014. Since no comments were received during the 30-day public comment period, the deletion became final on May 27, 2014. Deletion does not preclude future cleanup actions under Superfund.
+
+---
+
+### What Is the Current Site Status?
+
+The EPA conducted residential well sampling for PFAS during Summer 2023. The EPA focused on sampling wells that were immediately around the landfill to determine if there was any impact from the Superfund site. The EPA also completed sampling of the nearby creeks during that time. Some residential well sampling results showed PFAS levels above the EPA and PADEP Maximum Contaminant Levels. This allowed the EPA and PADEP to take immediate action and provide impacted residents with bottled water. The EPA is currently installing water filtering systems for impacted residents into their home to filter the water for PFAS chemicals at the source.. The EPA also continues to conduct and expand residential sampling efforts for the community around the Superfund site. In March 2025, the EPA will evaluate the potential impact that the landfill has on surface water. The EPA will use infrared cameras to determine where groundwater is discharging to surface water. This will inform where the EPA should collect surface water samples. This information will better define the PFAS contamination originating from the Moyers Landfill. It will also help the EPA explore potential future remedial actions.
+
+The Pennsylvania Department of Environmental Protection (PADEP) performed leachate sampling at the site during the summer and fall of 2022. Leachate is the liquid that drains or ‘leaches’ from a landfill. Sample results identified the presence of PFAS, which are man-made chemicals, in the leachate at the site. The current remedy at Moyers Landfill includes a functioning leachate collection system. The landfill’s leachate is collected and discharged to the local publicly owned sewage treatment facility for treatment. PADEP continues to monitor and correct any issues with the system. PADEP also inspects the site on a monthly schedule, and sometimes more frequently. For more information on PFAS, please visit: [www.epa.gov/pfas/pfas-explained](http://www.epa.gov/pfas/pfas-explained)
+
+The site has been addressed through federal and state actions. PADEP is currently performing operation and maintenance activities at the site. All the cleanup actions are in place and are operating as intended.
+
+The EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329122), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2027.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to protect the cap and other parts of the remedy. Additional information about the institutional controls is available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329122) (page 10).

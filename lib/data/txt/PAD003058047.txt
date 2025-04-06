@@ -1,2 +1,62 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300701)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300701)
+
+---
+
+### Background
+
+The 8-acre Drake Chemical site is located in Lock Haven, Clinton County, Pennsylvania. A chemical plant operated on site from the 1960s to 1981. The plant made chemical intermediates for pesticides and other organic compounds. Six major buildings, including former offices, production facilities, and a wastewater treatment building were located at the facility. Outside the buildings were approximately 10 large tanks that were used for bulk storage of acids, bases, and fuel oils. Also located on-site were two lined and two unlined lagoons for wastewater treatment. Chemical sludge and contaminated soils had been filled in all of the open areas on the site. Site activities contaminated soil, groundwater and on-site structures with hazardous chemicals. The site was added to the National Priorities List in 1983. The remedy for the site was completed in 2000, however operation and maintenance are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party actions.
+
+In 1982, EPA removed 1,700 exposed drums and drained and neutralized tanks. The site was secured by an 8-foot fence, and warning signs were posted. The agency excavated the soil in the leachate stream area and directed the runoff into a sewer line in 1986. The lagoon where the leachate drained from was excavated and the soil was treated on site. The buildings and other structures were demolished and removed to an off-site hazardous waste facility in 1988. The contaminated soil was excavated and treated in an on-site incinerator. Over 295,000 tons of soil was processed through the incinerator with an average of 27.5 tons per hour. Processed soil has been backfilled on site. Compost was mixed into the upper layer of processed soil and grass was planted. EPA completed the cleanup in 2000.
+
+The groundwater remediation began in the summer of 1999 and the entire treatment system was constructed and began operating in the fall of 2000. The treatment system continues to operate.
+
+A commercial storage facility uses a portion of the site. A local municipality owns the remainder of the site, and it is currently not in use.
+
+The [2013 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2182337) concluded that the remedies for Operable Units (OUs) 1, OU2 and OU3 are protective of human health and the environment. The review also stated that the remedy for OU4 is protective of human health and the environment in the short term because no human exposure pathways to contaminated groundwater exists due to institutional controls in place prohibiting consumption of groundwater. However, in order for the remedy to be protective in the long term, the remedy needed to be modified to require institutional controls, and the treatment system must capture and treat contaminated groundwater.
+
+In order to address this need, EPA issued a [second Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2229906) in 2016. The ESD incorporates “institutional controls” to restrict future activities that could interfere with the cleanup remedy at the site. The required institutional controls are being carried out through a state order and recorded with the deeds for the three parcels that make up the property.
+
+The most recent [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2355123) ensured that the selected remedy sitewide is functioning as intended and remains protective of human health and the environment in the short-term. In order for the OU4 remedy to be protective in the long-term, there must be a comprehensive third-party independent optimization study to: (i) evaluate the current groundwater treatment systems, and (ii) update a sitewide conceptual site model including a comprehensive hydrogeological investigation. The next Five-Year Review will take place in 2028.
+
+---
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2355123), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2028.
+
+In March 2019, EPA issued a [third Explanation of Significant Differences (ESD) (PDF)](http://semspub.epa.gov/src/document/03/2259211) which outlines changes to the original cleanup plan to protect public health and the environment. This change documents the discharge of treated groundwater to an infiltration gallery. The infiltration gallery is a series of connected underground pipes that allow the treated water to be discharged back into the aquifer. The original cleanup plan required the discharge of treated water to a local sewage treatment plant or Bald Eagle Creek.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+ICs are in place regarding the soil and groundwater usage. Additional information about the ICs is available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2355123) (pages 9-11).
+
+---
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1982 and 1987 included removal of drums, emptying of tanks and demolition of buildings.

@@ -1,2 +1,52 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301543)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301543)
+
+---
+
+### Background
+
+The 5.5-acre Lehigh Electric & Engineering Co. Site is in Old Forge, Lackawanna County, Pennsylvania. The ite was part of a coal processing facility. From the mid-1970s to 1981, an electrical equipment repair and storage yard for about 4,000 transformers and capacitors operated on the Site. Improper handling and disposal of dielectric fluids containing polychlorinated biphenyls (PCBs) resulted in soil and debris contamination. EPA added the Site on the Superfund program's National Priorities List (NPL) in September 1983. Following cleanup, the Site was deleted from the NPL in March 1986. Operation and maintenance activities are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA divided the Site's cleanup into two phases: Phase I (an emergency removal action, also known as Operable Unit 1) and Phase II (the long-term remedial action, also known as Operable Unit 2). During Phase I, EPA removed PCB-contaminated transformers, capacitors, and other materials and disposed of them off-site. Following the removal action, EPA added the Site on the Superfund program's National Priorities List (NPL) in September 1983. During Phase II, EPA excavated contaminated soil, disposed of it off-site, and covered the remaining soils containing low-level PCBs with 10 to 15 feet of clean backfill as described in EPA's Record of Decision. EPA completed the Phase II remedial action in September 1984 and deleted the site from the NPL in 1986. Deed restrictions on the Site property prohibit disturbance of the Site cap, use of groundwater, and any other actions that would impact the remedy.
+
+---
+
+### What Is the Current Site Status?
+
+PCBs continue to be found in the Site's groundwater above EPA's maximum contaminant level for drinking water, primarily in one monitoring well location. The concentrations of PCBs have decreased over the years of groundwater sampling. EPA has installed additional monitoring wells, drafted an Operations and Monitoring Plan, and continues to monitor the groundwater quality. The state currently conducts Site operation and maintenance activities, including regular groundwater sampling.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2025 Five-Year Review (PDF),](https://semspub.epa.gov/src/document/03/2415256) concluded that the removal action at OU1 was successful in removing the main source of PCB contamination on the Site. EPA removed PCB-contaminated transformers, capacitors, and other material, and disposed of them off-Site, thereby removing the main source of PCB contamination. The remedy for OU2 was constructed according to the decision document and is functioning as intended by the ROD. The remedial actions for OU1 and OU2 are protective of human health and the environment because there is no exposure to contaminated media. Institutional controls have been enacted and are functioning as intended to protect the remedy. The property has been acquired by a new owner, who has agreed to perform long-term operations and maintenance activities at the Site. An O&M plan is in place to ensure long-term continuity of O&M activities. The next five-year review is scheduled for 2029.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+In May 2007, the Pennsylvania Department of Environmental Protection filed a Hazardous Sites Cleanup Act (HSCA) Section 512 Order for the Site, which prohibits disturbing the remedy, using groundwater for domestic purposes, and excavating contaminated soils without prior approval. The HSCA Section 512 Order protects the remedy and prevents potential exposure to contaminants.
+
+Additional information about the institutional controls are available in the [2020 Five-Year Review](https://semspub.epa.gov/src/document/03/2295376) (pages 5-6).
+
+---
+
+### Emergency Response and Removal
+
+Cleanup also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. During these actions in 1981 and 1982, EPA fenced the Site and removed transformers, capacitors, and other PCB-contaminated materials and disposed of them off-site.

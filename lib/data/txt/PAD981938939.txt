@@ -1,2 +1,60 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Sampling and Monitoring](#Sample)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302420)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302420)
+
+---
+
+### Background
+
+The Old Wilmington Road Groundwater Contamination Superfund Site is located in West Caln Township in Chester County, Pennsylvania. The Pennsylvania Department of Environmental Protection (PADEP) discovered the groundwater contamination during a site inspection of of the Perry Phillips Landfill Site. PADEP requested EPA further investigate. Monitoring and residential wells were found to be contaminated primarily with volatile organic compounds (VOCs). VOCs are chemicals that have the ability to turn into vapors or gases, potentially affecting human health and the environment. The site was added to the Superfund program's National Priorities List (NPL) on February 4, 2000.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+EPA has installed several carbon-filtration systems in affected homes near the site. EPA continues to sample and monitor these homes to ensure protectiveness. The Pennsylvania Department of Environmental Protection monitors the well that provides drinking water to the adjacent private mobile home park
+
+---
+
+### What Is the Current Site Status?
+
+EPA is currently conducting a remedial investigation and feasibility study (RI/FS) to determine the nature and extent of contamination and evaluate alternatives to clean up the site. EPA continues to evaluate residential and monitoring well data, vapor intrusion sampling results, and other site-related information. EPA expects to issue a proposed remedial action plan to present EPA’s preferred cleanup alternative for public comment in late 2022 or early 2023.
+
+Moving forward with the remedy for OU-1:
+
+design and installation of public waterline: include map of covered area
+
+vapor intrusion (VI) mitigation systems
+
+implementing institutional controls (ICs)
+
+and long-term monitoring (LTM)
+
+---
+
+### Sampling and Monitoring
+
+EPA conducted several sampling efforts over the years. The results of the sampling will be described in the remedial investigation and feasibility study report, which will be available at the time of the proposed remedial action plan. These efforts include:
+
+- Soil sampling at the landfill
+- Surface water and sediment sampling
+- On-site and off-site groundwater monitioring well installation and sampling
+- Residential well sampling
+- Vapor intrusion sampling
+
+---
+
+### Emergency Response and Removal
+
+During the course of the site investigation, removal actions were taken to install carbon filtration systems at homes that showed elevated levels of site-related volatile organic compounds and metals. These homes are part of a regular monitoring program to ensure protectivness.

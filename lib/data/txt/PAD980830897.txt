@@ -1,2 +1,67 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301595)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301595)
+
+---
+
+### Background
+
+The 22-acre Hunterstown Road Superfund site is located in Adams County, Pennsylvania, about 1.5 miles northeast of downtown Gettysburg. From 1970 to 1980, the property owner disposed wastes from several companies at seven different areas around the site. The main sources of contamination were from disposing liquid wastes, such as paint sludges and solvents, spraying toxic sludge onto actively farmed cornfields, burying drums containing wastes, and disposing hazardous materials containing asbestos and high levels of heavy metals. These activities contaminated the soil, surface water, groundwater, and sediments with toxic chemicals and volatile organic compounds.
+
+The Pennsylvania Department of Environmental Resources, now known as the Pennsylvania Department of Environmental Protection, began an investigation into the waste dumping on the site property in 1983 because of a complaint from the Adams County Community Environmental Control Office.
+
+The EPA issued an administrative order in 1984 to conduct a removal action at the site. The order required Westinghouse Electric Corporation, the potentially responsible party, to provide potable water to all affected residents and remove the sludge and liquid wastes from the Lagoon Area. The site was added to the National Priorities List on June 10, 1986.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (Westinghouse Electric Corporation) actions. All threats at the site have been addressed through groundwater pump and treatment, off-site disposal of highly contaminated materials, and capping of the remaining contaminated soils.
+
+The EPA and Westinghouse signed an Administrative Consent Order in March 1987 that led to a Remedial Investigation and Feasibility Study at the site. Between December 1988 and May 1989, Westinghouse removed buried drums and later treated ponded water from two drum burial sites in August and September of 1990. Westinghouse conducted residential well sampling around the site during the remedial investigation but did not find any contaminants that exceeded drinking water standards.
+
+The final site remedy was selected on August 2, 1993 in the Record of Decision and the major cleanup components were broken up into the following areas: soils and sediments, groundwater, surface water, and wetlands.
+
+**Soils and Sediments**
+
+Construction for the cleanup of the soils and sediments began on August 30, 2000. This included excavation and on-site stabilization of contaminated soil and sediment, installation of a soil cap, and putting up a fence around the perimeter of the area. Buried drums found in the Lagoon Area were sent off-site for incineration and disposal. Construction of a soil cap in the Lagoon Area, Corridor and Stressed Vegetation Area, and South Cornfield began in September 2000 and was completed in June 2001 after all the newly covered areas were seeded.
+
+**Groundwater**
+
+The groundwater recovery system construction began in July 2003. The system includes six underground extraction wells both on and off the site property. The volatile organic compounds found in the groundwater are removed using a shallow-tray air stripper system with the off-gas treated through carbon absorption.
+
+The findings from a screening for possible vapor intrusions, or migration of vapor-forming chemicals from an underground source into buildings, found that one home near the site had a possible pathway for vapor intrusion. Westinghouse installed a mitigation system in that home in February 2006 to prevent the residents from any exposure to those chemical vapors.
+
+**Wetlands**
+
+The wetland restoration construction began in July 2001 and was completed in March 2003. This wetland restoration was to help replace the wetlands affected by the construction activities on site by reintroducing woody plants to the area.
+
+---
+
+### What Is the Current Site Status?
+
+Groundwater monitoring, sampling, and treatment are ongoing.
+
+The EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306151), concluded that the remedy continues to be protective of human health and the environment. The soil cover and fencing are in good condition, institutional controls in the area prevent future disturbances to the remedies in place, and the groundwater treatment system is effectively removing contaminants. Long-term groundwater and residential well monitoring are also performed regularly to evaluate the effectiveness of the remedy. The next Five-Year Review is scheduled to be completed in August 2025.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to restrict groundwater use and protect the integrity of the constructed remedy, the groundwater treatment system, soil cover, and wetlands.
+
+Additional information about the institutional controls are available in Table 1 on page 9 of the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306151).

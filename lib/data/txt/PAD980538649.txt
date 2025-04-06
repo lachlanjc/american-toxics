@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301290)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301290)
+
+---
+
+### Background
+
+The Berkley Products Co. Dump Site, located in Denver, Pennsylvania, is a former privately-owned landfill that burned and buried municipal and industrial wastes from the 1930s until 1965. In 1965, Lipton Paint and Varnish Co. bought the site and used it to bury municipal waste, paint waste, organic solvents, resins, and pigment sludge. When operations ceased in 1970, the site was covered with soil, seeded, and sold. It is estimated that the landfill contained over 103,000 cubic yards of mixed wastes, which contaminated on-site soil, groundwater, and leachate. The site was added to the Superfund program's National Priorities List (NPL) in March 1989. Following cleanup, it was removed from the NPL in March 2007. In 2010, a contaminant, 1,4-dioxane, was detected in multiple site monitoring wells above risk-based levels of concerns. EPA initiated a remedial investigation in 2015 to determine the extent of the 1,4-dioxane contamination in groundwater. Groundwater investigations are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+After the site was added on the National Priorities List (NPL) in 1989, EPA investigated and selected a final remedy for the site to ensure the continued safety of residents' groundwater wells and drinking water supplies. The remedy selection for the landfill (Operable Unit 1) was outlined in a 1996 Record of Decision (ROD) and updated in a 1999 Explanation of Significant Differences (ESD). It included waste consolidation, a cover system for the landfill, excavation and off-site waste disposal, security fencing, erosion control measures, additional monitoring wells, and institutional controls. Construction of the remedy started in 2000 and was completed at the end of 2001. The site was removed from the NPL in March 2007.
+
+Due to the discovery of a contaminant of 1,4-dixoane in site monitoring wells, a Remedial Investigation and Feasibility Study (RI/FS) of groundwater (referred to as Operable Unit 2) began in 2015, and all wells were sampled for the investigation. The goals of the RI were to evaluate the nature and extent of possible groundwater, surface water and sediment contamination, and to support selection of an appropriate remedy. The investigation also focused on evaluating (if present) elevated metals concentrations in nearby residential wells. The investigation found no site-related contamination in residential wells. EPA completed the focused feasibility study (FFS) for groundwater in May 2020. The FFS Report presents an evaluation of remedial alternatives to address potential human health risks from exposure to groundwater contamination. EPA is currently evaluating the remedial alternatives for Operable Unit 2 groundwater presented in the 2020 FFS Report.
+
+---
+
+### What Is the Current Site Status?
+
+All remedial investigation actions have been completed and a Remedial Investigation/Feasibility Study (RI/FS) report was prepared. Now that the RI/FS is complete, EPA will review cleanup options and propose a remedy for the groundwater (Operable Unit 2).
+
+EPA and the state continue to monitor the site, including testing of residential wells, to ensure groundwater wells and drinking water supplies are not being impacted.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2306166), concluded that the remedy for Operable Unit 1 (OU1) continues to be protective of human health and the environment in the short-term. A final remedy for Operable Unit 2 (OU2) addressing groundwater is currently being developed. The next five-year review will be completed in September 2025.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to protect the landfill cap and prevent exposure to the landfill waste. Information about the site's institutional controls is available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306166) (page 10).

@@ -1,2 +1,32 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300911)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300911)
+
+---
+
+### Background
+
+The AMP, Inc. Glen Rock facility is a 20-acre site located in a rural area outside of Glen Rock, Pennsylvania. The facility is the plastics division of AMP, Inc., which manufactures injection-molded plastics and polyester. The materials development lab uses contact adhesives and lubricants. The facility has a permit for managing hazardous wastes. In 1984, employees' complaints about the taste of their water led to testing. Total solvents, some of which are suspect carcinogens, were found at many times the federal drinking water standards. Three wells located on the site were tested, and the owners were notified of the contamination. Well water serving an apartment complex also was tested, and the owner was notified of possible exposure to contaminants in the groundwater. The site was listed to the Superfund program’s National Priorities List (NPL) in June 1988, and EPA deleted the site from the NPL in 1996.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+AMP’s Glenrock Facility is an operating facility that normally would be regulated by EPA and the PADEP’s hazardous waste permitting program. EPA was unable to come to agreement with AMP, Inc. and subsequently, the AMP Site was placed on the National Priorities List (NPL) of most hazardous waste sites in the country on June 24, 1988. After the site was placed on the NPL, AMP, Inc. agreed to perform the needed work under existing authorities.  
+  
+AMP, Inc agreed to complete a study of the nature and extent of contamination at the site and to recommend a remedy for site cleanup. The site was investigated, a study of viable cleanup options was completed, and a remedy recommended by AMP, Inc. EPA agreed to the cleanup remedy and AMP, Inc. installed a bedrock flushing infiltration trench in 1991. This currently operational treatment system flushes contaminants through the bedrock and into the groundwater pumping wells and air stripping towers.
+
+---
+
+### What Is the Current Site Status?
+
+The EPA oversaw the cleanup of the AMP, Inc. Site which was completed in 1996, allowing the site to be deleted from the National Priorities List. AMP, Inc. pumped and treated contaminated groundwater by utilizing six recovery wells and two air stripping towers to prevent the contaminants from migrating off site. The cleanup requirements stated in the Administrative Order on Consent were met and EPA ended work at the site. No further reviews are required.

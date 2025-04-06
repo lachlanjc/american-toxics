@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Emergency Response and Removal](#Emergency)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301596)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301596)
+
+---
+
+### Background
+
+The Lansdowne Radiation Site is located in Lansdowne, Pennsylvania. From 1924 to 1944, a University of Pennsylvania chemistry and physics professor processed enriched radium ore in the basement of a home on Stratford Avenue. Processing activities resulted in radium contamination of the three-story house as well as two garages on the property, two garages on neighboring properties, about 243 feet of municipal sewer line, sidewalks, the street and soil on eight properties. Following cleanup, EPA deleted the site from the Superfund program’s National Priorities List (NPL) in 1991.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through state and federal actions.  
+
+---
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included demolishing the contaminated house; cleaning up contaminated soil, sidewalks and portions of the street; repaving the street; replacing a contaminated sewer line; removing and disposing of 1,430 tons of contaminated building rubble and 4,109 tons of contaminated soils off-site; and backfilling and reseeding excavated areas. Remedy construction took place between 1986 and 1989. All site cleanup activities have been completed.
+
+After cleanup, EPA deleted the site from the National Priorities List in 1991.
+
+---
+
+### Emergency Response and Removal
+
+Cleanup also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1984 included temporary relocation of the resident of the affected house; additional testing for radium contamination; installation of a fire suppression system and fire and intruder alarms; and sealing of the home’s windows.

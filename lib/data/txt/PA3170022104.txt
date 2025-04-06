@@ -1,2 +1,54 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302460)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302460)
+
+---
+
+### Background
+
+The 824-acre Navy Ships Parts Control Center site is located in Mechanicsburg, Pennsylvania. The Navy Ships Parts Control Center, formerly known as the Naval Inventory Control Point (NAVICP), provided global management of repair parts for Navy ships during the 1940s. In the early 1950s, NAVICP became a repository for a variety of metal ores received as war payment and reprimand. Historical operations and past waste disposal activities contaminated soil, sediment and groundwater with hazardous chemicals. The Site was added to the Superfund program's National Priorities List (NPL) in May 1994.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal actions. A Federal Facilities Agreement (FFA) negotiated between EPA, the Pennsylvania Department of Environmental Protection (PADEP), and the Navy was signed in November 2004. The FFA identified areas for investigation and possible cleanup and provides the framework and a schedule to accomplish this work. Remedies have been implemented at all sites.
+
+EPA has signed Records of Decision (RODs) selecting remedies for eight operable units:
+
+**OU 1 Site 3 Ball Road Landfill and Burn Pits** - ROD date: 9/27/2000. Media - Soil. Remedy – Land Use Controls (LUCs), Excavation, Ex-situ biological treatment and off-site disposal. Solvents and lubricants, coating materials (paints and varnishes), gasoline, and medical supplies were included in the materials burned.
+
+**OU3 Site 1 Carter Road Landfill** - ROD date: 09/30/1998. Media – Soil. Remedy - Land Use Controls to prohibit the use of the property for residential houses, schools, nursing homes, recreational facilities, and other residential-style facilities purposes. Antimony, arsenic, cadmium, and beryllium were found in subsurface soil at levels above background values. Several semivolatile organic compounds, pesticides and polychlorinated biphenyls were detected in soil samples.
+
+**OU4 Site 3 Ball Road Landfill and Burn Pits** - ROD date: 12/06/2004. Media-Groundwater. Remedy In-Situ chemical oxidation, Land Use Controls (LUCs). To further remediate the site, in 2016 the Navy implemented a pilot study for in-situ biogeochemical transformation. The study was partially effective, but contaminant concentrations remain above allowable levels. EPA and the Navy are currently discussing a Technical Impracticability waiver for the site.
+
+**OU5 Site 11 Ingot Storage Areas** – ROD date: 09/12/2007 No Further Action 09/12/07
+
+**OU7 Site 9 Stormwater Drainage Ditch** - ROD date: 09/27/2010. Media – Soil. Sediment. Remedy: Excavation and Off-Site Disposal with Stream Stabilization and Land Use Controls (LUCs). The long-term remedy, selected in 2010, included hot spot removal, stream stabilization and LUCs to restrict access, limit future site use to nonresidential activities and prohibit excavation/disturbance of soil /sediment. The remedy was implemented in 2010-2012 to prevent exposure to PCBs, PAHs and metals.
+
+**OU9 Project Ingot Storage Areas** – ROD date: 09/12/2007. Remedy: No Further Action
+
+**OU14 Site 5. Golf Course Landfill** – ROD date:03/05/2009. Remedy: No further Action.
+
+**OU15 Site 8 Ore Storage Area** - ROD date: 09/30/2009. Media – Soil and Subsurface Soil. Remedy: Excavation, Off-Site disposal and Land Use Controls (LUCs). Contaminants include arsenic, nickel and manganese was excavated in 2010-20 The LUCs to ensure that future use of the property is limited to non-residential activities.
+
+A full list of operable units can be viewed under the *Operable Units* section.
+
+---
+
+### What Is the Current Site Status?
+
+The Navy Ships Parts Control Center consists of multiple sites or areas that required investigation and cleanup.Currently, remedies have been implemented at all sites.The Navy has the lead role for cleanning up the site.
+
+In May 2019, the Navy completed a Preliminary Assessment of per- and polyfluoroalkyl substances (PFAS) which is a substance found in firefighting foam. The report concluded that there are 11 areas on base where PFAS has been used. No on-base sampling has yet been conducted. In August 2019, the Navy began sampling private wells that are within one mile of the base in the i direction. For more information on the PFAS investigation, see [here](https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/Mechanicsburg-NSA/PFAS-Sampling/).
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent Five Year Review can be found [here](https://semspub.epa.gov/work/03/2271336.pdf). The next five-year review is scheduled for 2024.

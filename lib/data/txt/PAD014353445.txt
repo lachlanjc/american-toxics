@@ -1,2 +1,74 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300868)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300868)
+
+---
+
+### Background
+
+The Malvern Trichloroethene (TCE) Superfund Site, located in East Whiteland Township, Chester County, Pennsylvania, operated as a solvent reclamation facility from 1952 to 1992. The site is in a wooded area surrounded by residential and undeveloped areas bordering the property to the west, north and east. The site consists of a main plant area connected to a former disposal area by a narrow meadow corridor, and sources of contamination at the site are tied to these two areas.
+
+A portion of the site is owned and operated by Chemclene Corporation that, until a fire in 1999, sold hydrogen peroxide and industrial cleaning solvents. These solvents were used by local industries for degreasing metal parts and for other cleaning purposes. Chemclene used a distillation process to remove impurities from the previously used solvents, which were then returned to customers for reuse or held in bulk storage for resale.
+
+Prior to 1976, sludge from the distillation process was disposed in the wooded area, also known as the former disposal area. The former processing, chemical storage, and waste management practices at the property contaminated the soil and groundwater. Following the detection of soil and groundwater contamination in 1980, Chemclene took several measures to clean up the site from 1982 to 1987 with the oversight of the Pennsylvania Department of Environmental Protection. The site was added to EPA's National Priorities List in September 1983.
+
+As an operating hazardous waste facility, Chemclene signed a Corrective Action Order with EPA in 1989 to continue the cleanup. When the company failed to carry out the Order, the site was referred back to EPA's Superfund program in November 1993. Since then, EPA has been overseeing the cleanup of the site.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+After soil and groundwater contamination was detected in 20 residential wells near the site in 1980, Chemclene installed carbon water filters in the affected wells. Following the installation of the carbon filters, Chemclene also removed 300 waste drums and contaminated soil from up to 15 feet below the surface from the former disposal area between 1981 and 1984. In 1986, Chemclene removed four underground storage tanks from the main plant area and soil samples from this area showed high levels of volatile organic compounds, such as trichloroethene (TCE), perchloroethylene (PCE), and 1,1,1-TCA.
+
+Following a Consent Decree in 1999 between EPA and a group of potentially responsible parties for the contamination, Chemclene Site Defense Group, the parties began cleanup construction activities at the site on May 31, 2005.
+
+To facilitate the cleanup, the site has been separated into four distinct operable units (OU):
+
+- OU1 – Main Plant Area Building Deconstruction and Removal
+- OU2 – Main Plant Area
+- OU3 – Residential Water Supply
+- OU4 – Former Disposal Area/Mounded Area
+
+**OU1 – Main Plant Area Building Deconstruction and Removal**
+
+EPA approved a work plan for Remedial Action work in August 1999 that addressed structure and underground storage tank removals in addition to work on and closure of the main building. After a fire at the main disposal area during that same month, an EPA emergency response contractor removed hazardous fire debris from the site. Chemclene stabilized the remaining buildings on the site by September 2000, and the remaining buildings at the main plant area were properly demolished and disposed of by May 2002.
+
+**OU2 – Main Plant Area**
+
+EPA determined in the 1997 Record of Decision that a cap would be necessary in the main plant area to prevent any direct contact with contaminated soils in this area. The cap was constructed from May 2005 to May 2006, and operation and maintenance of the cap and fencing in this area are ongoing.
+
+The same 1997 Record of Decision also determined that the contaminated groundwater should be treated by an air stripper system, followed by carbon adsorption before being put back into the main plant area groundwater source. An Explanation of Significant Differences, or an amendment to the original Record of Decision, in June 2009 allowed for the treatment of the groundwater to remain in place, while maintaining the extraction and reinjection aspects of the treatment as seen in the original Record of Decision. Construction of five new injection wells and retrofitting of two existing well began in October 2009. Four existing wells became extraction wells and one new extraction well was also installed.
+
+**OU3 – Residential Water Supply**
+
+The Philadelphia Suburban Water Company began extending existing waterlines in January 2000 so that residents at affected properties would not ingest any of the contaminated groundwater from the site. Construction of these new water lines was completed in May 2001.
+
+**OU4 – Former Disposal Area/Mounded Area**
+
+EPA amended the 1997 Record of Decision in March 2005 to account for additional contaminants found in the soil at the former disposal area and the mound area. Between May 2005 and May 2006, approximately 143 cubic yards of contaminated soil was excavated and disposed on off-site. Groundwater at the former disposal area and the mound area is also continuously monitored for contaminants.
+
+---
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306173) concluded that the remedy continues to be protective of human health and the environment and additional information is needed to improve the long-term cleanup goals. EPA and the Pennsylvania Department of Environmental Protection will continue to work with the responsible parties to collect and evaluate this additional information. The next five-year review is scheduled for 2025.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to protect the cap and to prevent installation of new wells for drinking water. Additional information about the institutional controls are available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306173) (pages 11-12).

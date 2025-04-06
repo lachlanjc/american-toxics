@@ -1,2 +1,63 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+- [Emergency Response and Removal](#Emergency)
+- [Enforcement Information](#Enforce)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301249)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301249)
+
+---
+
+### Background
+
+The 93-acre Heleva Landfill Site is located in Lehigh County, Pennsylvania. Open-pit iron ore mining operations in the late 1800s left four open, water-filled pits at the site. In 1967, the site owner operated a sanitary landfill on 26 acres of the site. The landfill accepted general mixed refuse and industrial wastes, including solvents. The landfill closed in 1981 and the landfill operators placed a two-foot layer of clay over the wastes. These activities contaminated soil and groundwater with volatile organic compounds (VOCs). The site was added to the Superfund program's National Priorities List on September 8, 1983. Following cleanup, operation and maintenance activities are ongoing.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+In 1985, EPA selected cleanup remedies for groundwater contamination at the Heleva Landfill Site, which included installing a cover over the landfill, constructing a surface water diversion system, constructing an on-site treatment facility to treat the contaminated groundwater before discharging it into Coplay Creek, extending the public water supply to residents whose groundwater supply wells have been or potentially could be contaminated, and monitoring the groundwater. EPA also installed a gas venting system and has monitored landfill gases at the vents and at the landfill boundary.
+
+In 1991, EPA modified the groundwater treatment portion of the cleanup remedy to include containing the source of contamination near the landfill while cleaning the aquifer downgradient. The potentially responsible parties completed construction of the groundwater extraction and treatment system, and have been operating it since October 1999.
+
+Since the beginning of the system startup in 1999, site-related contaminant concentrations have significantly decreased. The near-gradient groundwater plume is being contained and the downgradient groundwater plume concentrations have decreased over time. There is no data to suggest that people, animals, or the environment are being exposed to contaminated groundwater.
+
+Cursory review of the 2011-2012 Vapor Intrusion Investigation Report confirms that vapor intrusion is occurring at low levels in some residences. Indoor air risks for the residences are within EPA's safety range. Homes in the Village of Ormrod should continue to be monitored for vapor intrusion. A shallow groundwater investigation should also be performed in Ormrod to provide multiple lines of evidence in the evaluation of vapor intrusion.
+
+---
+
+### What Is the Current Site Status?
+
+EPA implemented several long-term remedies to the site including installation of a landfill cover, a passive gas venting system, and a groundwater pump-and-treat system. In addition to the installations, EPA provides ongoing groundwater treatment and monitoring, helped to extend the public water supply to 38 residences affected by site contamination, and constructed a surface water diversion system from 1986 and 1999.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies protect public health and the environment, and that they continue to function as intended according to site decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335607), concluded that the remedy continues to be protective of human health and the environment because all exposure pathways that could result in risks are being controlled. The landfill cap and ancillary features installed at the site are functioning properly and prevent direct exposure to landfill waste. The groundwater remedy is functioning as intended by the decision documents and intercepts impacted groundwater from the landfill and Source Area. Contaminated groundwater with site-related volatile organic compounds in the underlying aquifer is being monitored, captured, and treated at the site. The next five-year review is scheduled for 2027.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to protect the integrity of remedial components and prevent drilling of groundwater wells within impacted areas. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335607) (pages 12-13).
+
+---
+
+### Emergency Response and Removal
+
+Cleanup also included a removal action, or a short-term cleanup, to address immediate threats to human health and the environment. This 1985 action provided bottled water to homes with contaminated wells in Ornrod.
+
+---
+
+### Enforcement Information
+
+Under several EPA enforcement orders, the potentially responsible parties provided bottled water in 1985 to homes with contaminated wells in Ormrod. In 1986, the North Hampton Water Company extended an existing water line to provide water for 35 homes that had been drawing water from the contaminated well. In 1989, three additional homes with contaminated wells were discovered and extension of the water line to these homes was completed in early 1993.

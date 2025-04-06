@@ -1,2 +1,104 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Superfund Information Systems: Site Profile
+
+#### On this page:
+
+- [Background](#bkground)
+- [What Has Been Done to Clean Up the Site?](#Done)
+- [What Is the Current Site Status?](#Status)
+- [Activity and Use Limitations](#Limits)
+
+#### On related pages:
+
+- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301103)
+- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301103)
+
+---
+
+### Background
+
+The Foote Mineral Co. site is located on a 79-acre property in East Whiteland Township, PA. The site is bordered by public roads, mixed commercial and agricultural properties, a former railroad right of way, and an electric utility substation.
+
+Starting in 1941, the Foote Company operated a variety of process buildings for the manufacture of lithium metal, lithium chemicals, inorganic fluxes, and for crushing and resizing ores and minerals.
+
+When the plant closed in 1991, the site had two quarries, a pit used to burn solvents, a lined waste-water basin and more than 50 buildings and process areas. Three unlined settling lagoons had already been leveled and backfilled.
+
+Public and private wells within four miles of the site had supplied drinking water to approximately 42,300 people. Several private wells closest to the site where found to be impacted by contamination, and are no longer used for drinking water. A public water supply well, located about one mile downgradient of the site, was taken out of service.
+
+The site was added to the National Priorities List (NPL) on October 14, 1992.
+
+---
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) action.
+
+**In 1990**, the Cyprus Foote Mineral Co., Inc. (Foote) signed a legal agreement with EPA to evaluate the contamination in area groundwater to ensure that the local residents were using safe water. This included a groundwater survey of the area, provision of an alternate source of water for affected residents and five years of groundwater monitoring.
+
+**In 1992**, Foote removed two underground storage tanks and excavated 15,000 cubic yards of soil possibly contaminated by the one of the petroleum tanks.
+
+**In 1996**, the company signed another agreement with EPA to fully characterize the contamination problem site-wide and develop options for cleaning it up.
+
+**In 1998**, the company demolished and removed the remaining on-site buildings, and that same year, the Foote property was sold to Frazer-Exton Development, L.P. (FED) which agreed to complete the work started by Foote. Foote and FED completed the basic site studies by the end of 2001, however because of new developments additional investigations of contamination were deemed necessary.
+
+**In November 2001**, an unsuspected contaminant, bromate, was found in groundwater downgradient from the property, and sampling in 2002 revealed that some previously uncontaminated wells had become contaminated; a development likely caused by drought conditions in the region. Bottled water was provided and connections to the public water supply were supplied to residents with the additional contaminated wells.  
+  
+**In 2003**, an EPA proposed plan includingthe preferred cleanup approach was retracted due to the discovery of low level radioactive contamination in some on-site soils. Additional investigation to determine the extent of that contamination was conducted.
+
+**In March 2006**, a revised Proposed Plan was issued and finalized in a [Record of Decision](https://semspub.epa.gov/src/document/03/2055859). The final remedy included:
+
+- excavation and off-site removal of radiation-contaminated soils,
+- stabilization of process tailings located in one of the two on-site quarries,
+- consolidation of other site wastes, debris and contaminated soils into the quarry area, and
+- capping of the quarry area at the surrounding grade.
+
+During construction of this remedy it was discovered that the volume of contaminated soil exceeded the capacity of the quarries.
+
+**In April 2008**, an [Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/2089750), a document which revises the requirements of the selected remedy, was issued to allow expansion of the quarry area to accommodate the increased volume of contaminated soil.  
+  
+**As of October 28, 2010**, the site owner has completed all necessary construction for the remedy at this site. The site owner continues to conduct the operation and maintenance activities.
+
+**In September 2017**, an institutional control, in the form of an environmental covenant prohibiting any alterations or disturbance to the components of the remedy, was issued.
+
+**In January 2018**, the site achieved the EPA’s Sitewide Ready for Anticipated Use (SWRAU) designation. The SWRAU designation means that all aspects of the Site cleanup are in place and have been achieved and no unacceptable risks are present. It also means that all land use restrictions or other controls required as part of the cleanup are in place and that the Site is ready for reuse (or future use).
+
+**In September 2024**, the EPA issued the [third five-year review](https://semspub.epa.gov/work/03/2399721.pdf) for the Site, which concluded that additional information related to the extent of groundwater contamination needs to be obtained before determining the level of protectiveness of the site cleanup.
+
+To gather the additonal information needed, EPA will be:
+
+- Installling additional groundwater monitoring wells and collecting groundwater samples, and
+- Evaluating where any nearby private drinking water wells may be impacted by Site-related contamination.
+
+When additional information is collected and evaluated, the EPA will complete a Five-Year Review addendum that will document a protectiveness determination.
+
+If you have a private drinking water well and are located downgradient of the Site, please feel free to contact the Site Remedial Project Manager (Elizabeth Odren, 215-814-3150) to discuss.
+
+---
+
+### What Is the Current Site Status?
+
+##### Groundwater Monitoring
+
+Groundwater monitoring is conducted annually at the Site. Groundwater samples are collected from a set of groundwater monitoring wells that are located within the Property boundary and downgradient of the Property boundary (i.e., to the east and northeast of the Property).
+
+The extent of the groundwater contamination remains unknown, as overtime, the levels of some contaminants slowly decrease, whereas, the levels of some contaminants continue to exceed site-related clean-up goals.
+
+##### 2024 Five Year Review
+
+The most recent [2024 Five-Year Review](https://semspub.epa.gov/work/03/2399721.pdf) concluded that additional information related to the extent of groundwater contamination needs to be obtained before determining the level of protectiveness of the site cleanup.
+
+To gather the additional information needed, EPA will be:
+
+- Installling additional groundwater monitoring wells and collecting groundwater samples, and
+- Evaluating where any nearby private drinking water wells may be impacted by Site-related contamination.
+
+When additional information is collected and evaluated, the EPA will complete a Five-Year Review addendum that will document a protectiveness determination.
+
+---
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) prohibit the installation of new wells in the contaminated plume. ICs are also in place to prohibit residential use of the landfilled area. More information about the ICs can be found in the [2024 Five-Year Review](https://semspub.epa.gov/work/03/2399721.pdf) (pages 6-7).
