@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 178-acre Old City of York Landfill Site is in Seven Valleys, Pennsylvania, about 10 miles south of the City of York. From 1961 to 1975, a landfill operated on 56 acres of the site, receiving predominantly municipal waste with some commercial and industrial wastes. In 1981, EPA and state investigators found the landfill was contaminating groundwater and residential well water with volatile organic compounds (VOCs), the chemical components of solvents. The site was added to the Superfund program's National Priorities List in September 1983. Construction of the remedy was completed by the potentially responsible parties in 1996. Groundwater, surface water, sediment, and landfill air vent monitoring are on-going.
+
+### What Has Been Done to Clean Up the Site?
+
+In the early 1980s, local residents raised questions concerning water quality. Sampling showed six residential wells contained volatile organic compounds (VOCs) contamination. After the site was added to the Superfund National Priorities List (NPL) in 1983, a group of potentially responsible parties (PRPs) entered into an Administrative Order on Consent with EPA in 1987 to conduct a Remedial Investigation and Feasibility Study (RI/FS). The RI/FS was finalized in 1991. The RI identified 1,2-dichloroethane, tetrachloroethene (PCE), 1,1,2-trichloroethane, trichloroethene (TCE), and vinyl chloride as groundwater contaminants of concern, which exceeded drinking water maximum contaminant levels. Results of a human health risk assessment identified unacceptable carcinogenic risk for on- and off-site residents from exposure to contaminated groundwater.
+
+EPA issued a cleanup plan in a [Record of Decision (ROD)](https://semspub.epa.gov/src/document/03/130142) for the site in 1991. The 1991 ROD was modified in a [1998 Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/152831) and a [2000 ROD Amendment](https://semspub.epa.gov/src/document/03/194979). The final remedy included:
+
+- Restoring the soil cover in the northeastern portion of the site to a 2-foot minimum;
+- Leaving the existing leachate collection vaults in place, but removing and disposing sediments;
+- Installing a landfill gas venting system;
+- Constructing a perimeter fence at the leachate collection vaults;
+- Monitoring groundwater and surface water/sediment;
+- [Monitoring the natural attenuation of groundwater](https://clu-in.org/download/Citizens/a_citizens_guide_to_monitored_natural_attenuation.pdf) (with groundwater extraction and treatment as a contingent remedy); and
+- Implementing institutional controls on individual properties.
+
+In 1996, construction of the remedy was completed by the PRPs and a [Preliminary Close-Out Report](https://semspub.epa.gov/src/document/03/252736) was issued. The PRPs also initiated long-term groundwater, surface water, sediment, and landfill air vent monitoring.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent, [2021 Five-Year Review](https://semspub.epa.gov/src/document/03/2312298), concludes that the remedy continues to be protective of human health and the environment.The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict the use of the landfill property groundwater. Additional information about the institutional controls is available in the [2021 Five-Year Review](https://semspub.epa.gov/src/document/03/2312298) (pages 7-9).
+
+### Sampling and Monitoring
+
+Ongoing monitoring includes data collection every three years to check for volatile organic compounds in groundwater, surface water, seeps and sediment.

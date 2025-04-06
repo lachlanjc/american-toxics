@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 7.3-acre Ryeland Road Arsenic site is located in Berks County, Pennsylvania. The site consists of five parcels of land. Four of the parcels are on the north side of West Ryeland Road, where Standard Chemical Works Corporation (SCWC) and Allegheny Chemical Corporation (ACC) made pesticides, fungicides, paints and varnishes, and disposed of waste. Private residences were located on these four parcels. The fifth parcel is a vacant lot on the south side of West Ryeland Road, where SCWC and ACC disposed of waste. Past operations contaminated soil and groundwater with arsenic, lead and other chemicals. Investigations and cleanup activities at the site are ongoing. EPA placed the site on the Superfund program’s National Priorities List in 2004.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+EPA completed a Feasibility Study in August 2020 to evaluate alternatives to address groundwater contamination. EPA is preparing to conduct additional field investigations to identify the most effective cleanup actions for the site. EPA, in consultation with PADEP, will develop a proposed plan for cleanup upon completion of the field investigation and sampling activities. There will be a public comment period for the community to comment on the proposed plan for cleanup when the draft plan is available.
+
+EPA signed a [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/2054323) in January 2006 selecting the remedy to address the elevated arsenic and lead in residential soils and downstream sediments. EPA began excavating contaminated soil from the vacant lot in the late summer of 2006 and completed the permanent relocation of three residences by the end of 2006. Excavation of the vacant lot continued throughout the winter and was completed in the spring of 2007. EPA also removed the contaminated brick piles from nearby properties and demolished the three vacated homes in the spring of 2007. Excavation of the contaminated soil from the relocated residences and adjacent properties on the north side of Ryeland Road began in the summer of 2007 and was completed in July 2009. All excavated soils were disposed of in off-site permitted landfills and hazardous soils were stabilized before disposal. Excavation of contaminated sediments began in the fall of 2008 and was completed in February 2009. Residential properties affected by the clean-up were restored.
+
+A Pilot Study began in May 2007 to determine the effectiveness of arsenic uptake by ferns. The ferns were found to be a successful method to reduce arsenic in shallow soils and areas saturated by springs. Phytoremediation efforts, or the use of plants to clean up contaminated environments, began in 2009 and were halted in 2014. Soil sample results during that time showed that the ferns were successfully removing arsenic from the soil. From 2009 to 2014, over 30% of the area where arsenic contamination once existed along the stream has been cleaned up using the ferns. A number of additional wells were also installed to provide a better understanding of contamination present in the groundwater. EPA completed several rounds of sampling and is in the initial stages of evaluating potential options to clean up the groundwater.
+
+EPA has transferred four parcels of property to Heidelberg Township. The parcels included the areas referred to as the Northern Source Area and Southern Source Area. Soil contamination at these parcels has been cleaned up.
+
+### What Is the Current Site Status?
+
+This site is managed in two operable units: Operable Unit 1 (OU1) and Operable Unit 2 (OU2). OU1 includes contaminated soil, sediment, and waste at the site. OU2 includes contaminated groundwater and is currently being evaluated for remedial action.
+
+EPA is conducting additional investigations to determine the best cleanup option. A future proposed cleanup plan for Operable Unit 2 will address the contaminated groundwater, remaining contamination source area soil, sediment, and surface water. EPA will issue a proposed plan which will include the cleanup alternative for groundwater. The public will have an opportunity to offer comments on the proposed plan when it is available.
+
+The long-term remedy for OU1 included permanent relocation of three families, excavation and off-site disposal of contaminated soil, sediment and brick piles, restoration of a wetland area, phytoremediation of contaminated sediments, and institutional controls. All work except for phytoremediation began in 2006 and finished in 2009.
+
+Phytoremediation efforts, or the use of plants to clean up contaminated environments, began in 2009 and were temporarily halted in 2014. Though the plants placed by EPA along the creek helped to decrease arsenic concentrations in the shallow soil for many years, data in 2014 showed that the plants had decreased arsenic uptake from the environment. EPA determined that this may be due to another source of arsenic in the soil and sediment that was continuing to seep into the groundwater.
+
+EPA continues to evaluate shallow soil, sediment, and seep data to support remedy monitoring for OU1 and as part of the remedial investigation/feasibility study process for OU2.
+
+A remedial investigation/feasibility study to investigate site groundwater (OU2) was completed in August 2020.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2327265), concluded that response actions at the site are in accordance with the remedy selected by EPA and the site is protective of human health and the environment in the short term. Continued protectiveness of the OU1 remedy will require additional remedial action in the future. A future decision document for OU2 will address contaminated groundwater, remaining source area soil, sediment, and surface water. The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater and land use. Additional information about the institutional controls are available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2327265) (pages 13 -14).
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In August 1985, EPA started a removal action to excavate and dispose of 2,400 cubic yards of arsenic- and lead-contaminated waste material. EPA removed contaminated soil from three residential properties north of West Ryeland Road. In July 2001, EPA removed an additional 4,470 tons of contaminated soil off site for disposal. In 2002, two feet of contaminated soil was excavated and replaced with clean fill on three properties north of West Ryeland Road.

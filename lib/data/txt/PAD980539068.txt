@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301322)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301322)
-
----
-
 ### Background
 
 The 66-acre Modern Sanitation Landfill site is located in Lower Windsor Township in York County, Pennsylvania. The site consists of part of an active, permitted landfill that accepts municipal and non-hazardous industrial waste. The site was formerly a farm used as a landfill for open domestic dumping beginning in the 1940s. This landfill reportedly received hazardous wastes between 1976 and 1979. Past disposal practices at the landfill contaminated soil, groundwater and surface water with hazardous chemicals. The Site was added to the Superfund program's National Priorities List (NPL) in June 1986. Following cleanup, operation and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -45,13 +26,9 @@ The groundwater extraction system was originally expected to operate until backg
   
 On February 25, 2015, EPA issued an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/work/03/2201670.pdf) which modified the groundwater remediation goals for individual contaminants at the site from “background” to the applicable Safe Drinking Water Act maximum contaminant level (MCL). For contaminants that did not have an MCL, the revised groundwater remediation goal is now the medium specific concentration established in the Pennsylvania Land Recycling and Environmental Remedial Standards Act (Act 2). This ESD also set the requirement for a cumulative risk evaluation for groundwater. Finally, the 2015 ESD added institutional controls to protect the integrity of remedies put in place.
 
----
-
 ### What Is the Current Site Status?
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and functioning as intended by the site decision documents. The most recent [2025 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2421961), found that the implemented remedy is currently protective of human health and the environment. The cap and cover systems installed over the 66-acre site is functioning properly and prevents direct exposure to landfill waste. The groundwater remedy is functioning as intended by the decision documents and intercepts impacted groundwater flowing beneath the 66-acre unlined landfill. Institutional controls are in place to protect the integrity of remedial components and prevent drilling of groundwater wells within impacted areas. All exposure pathways that could result in unacceptable risks are being controlled. However, for the remedy to be protective over the long term, the report recommends that the EPA sample groundwater for PFAS compounds to determine if the presence of PFAS is related to the site.
-
----
 
 ### Activity and Use Limitations
 
@@ -60,8 +37,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls are in place to restrict groundwater use and protect cap. Additional information about the institutional controls are available in the [2020 Five-Year Review](https://semspub.epa.gov/work/03/2297919.pdf) (page 13).
-
----
 
 ### Emergency Response and Removal
 

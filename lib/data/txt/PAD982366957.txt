@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0303257)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0303257)
-
----
-
 ### Background
 
 The 8-acre Metropolitan Mirror and Glass Co., Inc. Site is located in Frackville in Schuylkill County, Pennsylvania. Metropolitan Mirror manufactured mirrors on site from 1959 to 1982. Metropolitan Mirror used silver solutions, paint strippers, paint thinners and other solvents. Wastes from these operations were disposed of in four settling lagoons, which contaminated soil and groundwater with hazardous chemicals. After construction of the Site’s remedy, EPA deleted the Site from the Superfund program’s National Priorities List in August 2005.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -26,13 +8,9 @@ EPA studied the contamination and explored cleanup options during 1995 to 1996. 
 
 EPA conducted one five-year review of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The [2003 Five-Year Review](https://semspub.epa.gov/src/document/03/471020) concluded that the response actions at the Site are in accordance with the remedy selected by EPA and that the remedy is expected to continue to be protective of human health and the environment and no further reviews are required.
 
----
-
 ### What Is the Current Site Status?
 
 In 1998, EPA issued a “No Action” [Record of Decision (ROD)](https://semspub.epa.gov/src/document/03/115002) for the Site. A removal action in 1997 adequately addressed Site contamination. After cleanup, EPA deleted the Site from the National Priorities List in August 2005.
-
----
 
 ### Emergency Response and Removal
 

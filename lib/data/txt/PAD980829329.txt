@@ -1,29 +1,10 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301568)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301568)
-
----
-
 ### Background
 
 The 20-acre Hebelka Auto Salvage Yard site is located about nine miles west of Allentown, Pennsylvania. Between 1958 and 1979, the site was the location of an automobile junkyard and salvage operation involving junk cars, used storage tanks and miscellaneous scrap metal, tires, empty drums and debris. Site operations included the accumulation of about 1,000 cubic yards of used battery casings, most broken and empty, in two large piles at the site. These activities contaminated sediment, soil and sludge with lead. The site was added to the Superfund program's National Priorities List on July 22, 1987. Following cleanup, operation and maintenance activities are ongoing.
 
----
-
 ### What Has Been Done to Clean Up the Site?
 
 The primary environmental threat at the site was lead contamination from 900 cubic yards of battery casings and fragments in two onsite piles. Additionally, there were 3,300 cubic yards of associated lead-contaminated soil. The battery casings were removed from the site and recycled when possible. The lead-contaminated soil was excavated and transported to an offsite facility for treatment before disposal in a permitted landfill.
-
----
 
 ### What Is the Current Site Status?
 

@@ -1,26 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Sampling and Monitoring](#Sample)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300881)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300881)
-
----
-
 ### Background
 
 The 45-acre C & D Recycling site is located in Foster Township, Pennsylvania. The site owner operated a metal-reclamation plant on site from the 1960s to the early 1980s. The company incinerated lead and plastic-cased telephone cables, or burned them in pits, in order to melt off the lead and reclaim the remaining copper wire. Processing activities also included mechanically stripping the plastic cable coverings and storing them in piles. These activities contaminated soil and sediment with hazardous chemicals. In 1987, the Site was added to the National Priorites List (NPL). It was deleted from the NPL on February 26, 2018.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -32,15 +12,11 @@ Air monitoring was conducted throughout the cleanup to ensure that air quality r
 
 Following the completion of cleanup actions, operation and maintenance activities continued at the site until 2007. EPA considered deleting the site from the NPL around 2009. However, in January 2010, the deletion process had been delayed pending EPA’s issuance of new clean-up criteria for dioxin at Superfund sites. The new criteria would include revised cleanup goals for dioxin found in soil, along with guidance for re-evaluating dioxin-contaminated sites where remedial action is already complete. EPA’s new dioxin criteria were finalized in February 2012. Since the new dioxin cleanup goals were lower than the previous dioxin cleanup goals used at the site, EPA and the PRPs performed additional dioxin sampling in September 2015 and determined that no residual dioxins are present at the site at or above the new cleanup goals.
 
----
-
 ### What Is the Current Site Status?
 
 With questions about dioxin resolved, EPA issued a Final Close Out Report in [October 2016](https://semspub.epa.gov/src/document/03/2244766), demonstrating that construction of the selected remedy at the site has been completed in accordance with the ROD, and that all remedial action objectives, performance standards, and cleanup goals established in the ROD have been achieved. EPA deleted the C&D Recycling Site from the NPL on [February 26, 2018](https://semspub.epa.gov/src/document/03/2252902).
 
 EPA has determined that there are no hazardous substances present on-site above levels allowing for unlimited use and unrestricted exposure now that the Selected Remedy is complete. The site is, therefore, protective of human health and the environment. No Five-Year Reviews have been performed and they are not required under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA).
-
----
 
 ### Activity and Use Limitations
 
@@ -49,8 +25,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 The Site was cleaned up to standards that allow for ‘unrestricted use and unlimited exposure’ which means that there are no restrictions on reuse as a result of the Superfund cleanup. However, land use restrictions were voluntarily placed on the original 46-acre C&D Recycling property by the previous and current property owners, to prohibit residential or commercial redevelopment. This property was converted to a wildlife preserve in approximately 2006. The remaining properties that comprise the site are undeveloped at the present time, but could be developed subject to local zoning ordinances. EPA is not aware of any future development plans for these properties.
-
----
 
 ### Sampling and Monitoring
 
@@ -66,8 +40,6 @@ Monitoring was conducted during and after cleanup construction activities to ens
 - construction activities did not result in the release of dust beyond the limits of the site;
 - on-site groundwater was not impacted by construction activities associated with the site remediation; and
 - surface water quality downstream of the pond and impacted portions of the creek did not exceed the associated performance standards during implementation of the remedial action.
-
----
 
 ### Emergency Response and Removal
 

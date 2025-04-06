@@ -1,26 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Sampling and Monitoring](#Sample)
-- [Green Remediation](#Green)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301570)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301570)
-
----
-
 ### Background
 
 The approximate 7-acre Walsh Landfill Site, also known as the Welsh Road Landfill, is located in Honey Brook Township, Pennsylvania. The Site reportedly received mixed municipal and industrial wastes for disposal between 1963 and 1976, but disposal operations may have continued through the 1980s. Several attempts were made by the owner to obtain state and township approval for a landfill in the 1970s. Due to citizen complaints and continued non-compliance with regulations, the operation was never permitted. Waste disposal activities contaminated soil, sediment, and groundwater. The Site was added to the Superfund program's National Priorities List (NPL) in September 1984.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -38,15 +18,11 @@ Following legal actions between EPA and the property owner, the owner relocated 
   
 Groundwater at the site continues to be monitored annually.
 
----
-
 ### What Is the Current Site Status?
 
 All physical construction of the landfill cover is complete at the site. The site is in the operation and maintenance (O&M) phase which includes implementing the approved O&M plan for the evaporation/transpiration (ET) cover system and conducting annual groundwater monitoring.
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF),](https://semspub.epa.gov/work/03/2314174.pdf) concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2026.
-
----
 
 ### Activity and Use Limitations
 
@@ -56,13 +32,9 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 
 Institutional controls (ICs) are in place for all properties that comprise the site to restrict future uses that could potentially affect performance of the remedies in place and any exposure risks to groundwater. ICs are in the form of deed notices, which were recorded in 2006. To learn more about the ICs, please see the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2314174.pdf) on page 13.
 
----
-
 ### Sampling and Monitoring
 
 There are many years of data and analysis for the Walsh Landfill Superfund Site. Detailed information may be found in the [Administrative Record](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ars&id=0301570).
-
----
 
 ### Green Remediation
 

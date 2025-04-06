@@ -1,26 +1,8 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301208)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301208)
-
----
-
 ### Background
 
 The Butler Mine Tunnel is located in Luzerne County, Pennsylvania and was constructed in the 1930s to provide mine drainage for an estimated five-square-mile area of underground coal mines. The Butler Mine Tunnel drains into the Susquehanna River. Contamination was caused by the illegal disposal of liquid industrial wastes, including oily wastes, into underground mine areas via a mine ventilation borehole that was located at the Hi-Way Auto Service (HWAS) station in Pittston, PA. In 1979, an oily discharge coming from the tunnel created an oil slick on the Susquehanna River. The oil contamination was traced to the illegal dumping at the HWAS borehole. The HWAS borehole was found to drain into underground mine areas, which are part of the 5-square miles of underground mine areas for which drainage is provided by the Butler Mine Tunnel. The HWAS borehole is located approximately 3.5 miles from the outlet of the Butler Mine Tunnel into the Susquehanna River. Approximately 25,000 people live within a five-mile radius of the site, and approximately 1,400 people live within the boundaries of the Butler Mine Tunnel site. Also, a number of schools are located within one-mile of the Tunnel's discharge point.
 
 This site was added to the Superfund program's National Priorities List (NPL) in July 1987. Following remedial actions and continued monitoring of the site through Five-Year Reviews, the site was proposed for deletion from the NPL in May 2021. Following a 30-day public comment period, in September 2021 the site was deleted from the NPL.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -39,15 +21,11 @@ The remedy was designed to anticipate future releases of oil from the site. An a
 
 Based on the time which has passed since the disposal activities (1977-1979), and oil flush outs occurred (1979 and 1985), and based on the recorded flow levels which have occurred without an oil flush out during the Remedial Action, further oil flush outs from the Butler Mine Tunnel associated with the original disposal activities are not expected.
 
----
-
 ### What Is the Current Site Status?
 
 The Butler Mine Tunnel Superfund Site was removed from the NPL on September 14, 2021. The Butler Mine Tunnel Site was created by the illegal disposal of oily waste into abandoned underground coal mines during the late 1970s. EPA's response to waste oil discharges from the mine included the closing of boreholes, development of an operation and maintenance plan, and establishment of an Administrative Center to monitor the site. Based on monitoring data collected, further oil flush outs associated with the original disposal activities are not expected. There will be no further operation and maintenance or monitoring activities. EPA's remedial response is complete at the Butler Mine Tunnel Site.
 
 EPA deletes sites, or portions of sites, from the National Priorities List ( NPL), with state concurrence, when all site cleanup goals have been met; no further response is necessary; and the remedy is determined to be protective in the long-term. EPA issued a Notice of Intent to delete the Butler Mine Tunnel Superfund Site from the National Priorities List (NPL) and held a public comment period from May 14, 2021 to June 14, 2021.
-
----
 
 ### Activity and Use Limitations
 

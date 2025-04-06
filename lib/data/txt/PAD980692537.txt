@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301444)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301444)
-
----
-
 ### Background
 
 The 40-acre Westline site is located in Westline, Pennsylvania. A lumber processing plant operated at the site during the early 1900s. A chemical facility on site converted lumber into charcoal, methanol and acetic acid until 1952 when a fire caused the facility to close. Activities at the site contaminated soil and groundwater. The Westline Inn began operating on the site in 1975. EPA discovered toxic tar deposits from the former operations in soil and groundwater in the early 1980s. Following removal of exposed tar deposits, thesite was added to the Superfund program's National Priorities List (NPL) in September 1983. Following cleanup of several additional tar deposits and monitoring groundwater for contaminants, EPA deleted the site from the NPL in 1992.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -28,15 +10,11 @@ In 1990, EPA completed the removal of tar deposits and associated contaminated s
 
 EPA deleted the site from the Superfund program’s National Priorities List (NPL) in 1992.
 
----
-
 ### What Is the Current Site Status?
 
 In 2015, EPA identified another tar area in the creek and conducted a site evaluation. Based on the evaluation, it was determined additional excavations of wood tar seepage was necessary. A removal of approximately 250 tons of wood tar and wood tar contaminated soil and debris was transported and disposed of off-site in 2017. In accordance with recommendations from the U.S. Fish and Wildlife Service, EPA implemented wetland restoration activities. Routine, periodic monitoring of site conditions was conducted by EPA through mid 2018 to ensure there was no change in site conditions. No new seep areas were identified.
 
 In 2020, the Pennsylvania Department of Transportation conducted a bridge replacement project in the area. EPA worked closely with the agency to address wood tar seeps. EPA continues to monitor the area for any additional wood tar.
-
----
 
 ### Emergency Response and Removal
 

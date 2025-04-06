@@ -1,23 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302458)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302458)
-
----
-
 ### Background
 
 The Letterkenny Army Depot (PDO Area) site is located five miles north of Chambersburg in Franklin County, Pennsylvania. The U.S. Army established the 19,243-acre facility in 1942 for ammunition storage. In 1947, facility activities expanded to include the testing, maintenance and overhaul of vehicles and missiles; the storage and transportation of industrial chemicals and petroleum; and storage, maintenance, demilitarization and modification of ammunition. There are two Superfund program National Priorities List (NPL) sites associated with the Letterkenny Army Depot: the Property Disposal Office (PDO) site and the Southeast (SE) Area site. This narrative addresses the PDO Area site. The PDO Area site was added to the National Priorities List on March 22, 1989. The PDO Area includes areas associated with the storage and disposal of industrial chemicals and petroleum. Historical operations contaminated soil, groundwater, sediment and surface water with hazardous chemicals. Cleanups are complete at some areas within the PDO Area. Operation and maintenance activities at these areas are ongoing. Investigations and remedy selection activities are ongoing at remaining areas.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -30,8 +13,6 @@ The PDO Area has nine investigated areas, known as operable units (OUs). CERCLA 
 **PDO OU-3 Mercury Detections in Rocky Spring Lake**: A site inspection was conducted from April to October 1993 to determine whether there were chronic or unacceptable levels of mercury in the Rocky Spring surface water. The site inspection concluded that the mercury levels are low and comparable to mercury levels in other Pennsylvania lakes.
 
 **PDO OU-7 Southern Martinsburg Shale Region (SMSR)**: The Southern Martinsburg Shale Region (SMSR) is a part of Letterkenny that contains an area of shale bedrock surrounded by downgradient limestone bedrock. This shale bedrock area forms the "highland" or elevated ridge areas in the Phase III parcels. Groundwater sampling in 1999, 2000 and 2002 proved that the SMSR was not impacted by any previous industrial activities at Letterkenny. Based on the finding of “no volatile organic compounds (VOC)-impacted groundwater,” the SMSR was redefined as PDO OU-7 and subsequently became the basis for the Phase III property transfer. EPA signed the ROD in August 2003 with a remedy of no further action. The Army transferred these parcels without any restrictions.This ROD also contained SE OU 14.
-
----
 
 ### What Is the Current Site Status?
 

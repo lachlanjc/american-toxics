@@ -1,27 +1,33 @@
-CRAIG FARM DRUMPARKER, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Craig Farm Superfund Site consists of 117 acres located in Armstrong County, Pennsylvania. Between 1958 and 1963, approximately 8,000 tons of waste material in drums were deposited in two former strip mine pits on the site property and covered with topsoil. The waste consisted of still bottom residue from the production of resorcinol at the Koppers Chemical Plant located in Petrolia, Pennsylvania. Resorcinol, an organic compound, is used as an adhesive enhancer in commercial products such as automobile tires and pharmaceutical manufacturing. This site was added to the Superfund program's National Priorities List in September 1983 and later deleted in September 2013 after completion of the remedy construction.﻿ Top of Page
-What Has Been Done to Clean Up the Site?
-During a site investigation in December 1980, EPA discovered soil, surface water, and groundwater contaminated with chemicals from waste drum disposals. One of the main contaminants of concern found during that investigation was resorcinol, a chemical used in tire manufacturing and in medical treatments for skin disorders. EPA conducted an environmental assessment in 1983 to find out how many drums there were that contained still bottom residue and assess the condition of those drums. Still bottom residue is a concentrated hazardous waste that results from a distillation process that often helps manufacturers recover necessary solvents for a business. The environmental assessment found that most of the drums were damaged, broken, or did not have lids to properly contain the hazardous wastes. EPA moved forward with a Remedial Investigation and Feasibility Study beginning in February 1986 through November 1987 to find the extent of the contamination from the drums. The biological survey conducted during the investigation showed that crustaceans, water insects, amphibians, and worms found downstream from the site in the unnamed creek were stressed due to site-related waste runoff. EPA issued a cleanup plan and documented it in a Record of Decision in September 1989. The remedy was based on the site’s impact on the environment rather than on a risk to human health. The cleanup objectives for this site were to minimize risk to public health and the environment from direct contact with contaminants and control the migration of contaminants to nearby surface water and groundwater. In September 2009, EPA modified the remedy in an Explanation of Significant Differences to better implement the remedy. This modification included: 
-Putting an impermeable cap on the 3-acre, former north pit area, excavate and fill existing ground surface near the former north pit
-Establishing ﻿infiltration features to direct clean surface water flow from the capped area
-Installing﻿ groundwater infiltration system into deep bedrock
-Maintaining the collection trench, piping, and storage tank to collect contaminated groundwater
-Treating collected some seep water at an offsite treatment facility and closing off the other seep water collection trench. 
-Top of Page
-What Is the Current Site Status?
-The Craig Farm Drum Superfund Site undergoes regular five-year reviews because there are hazardous substances, pollutants, or contaminants that remain at the site above levels that allow for unlimited use and unrestricted exposure. E﻿PA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2024 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2029. All construction at the site has been completed, and EPA deleted the site from the National Priorities List in September 2013. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to restrict the use of groundwater at the site and to prevent any construction from disturbing the cap over the waste area. Additional information about the institutional controls are available in the 2024 Five-Year Review (PDF) (page 7).   Top of Page
+### Background
+
+The Craig Farm Superfund Site consists of 117 acres located in Armstrong County, Pennsylvania. Between 1958 and 1963, approximately 8,000 tons of waste material in drums were deposited in two former strip mine pits on the site property and covered with topsoil. The waste consisted of still bottom residue from the production of resorcinol at the Koppers Chemical Plant located in Petrolia, Pennsylvania. Resorcinol, an organic compound, is used as an adhesive enhancer in commercial products such as automobile tires and pharmaceutical manufacturing. This site was added to the Superfund program's National Priorities List in September 1983 and later deleted in September 2013 after completion of the remedy construction.
+
+### What Has Been Done to Clean Up the Site?
+
+During a site investigation in December 1980, EPA discovered soil, surface water, and groundwater contaminated with chemicals from waste drum disposals. One of the main contaminants of concern found during that investigation was resorcinol, a chemical used in tire manufacturing and in medical treatments for skin disorders. EPA conducted an environmental assessment in 1983 to find out how many drums there were that contained still bottom residue and assess the condition of those drums. Still bottom residue is a concentrated hazardous waste that results from a distillation process that often helps manufacturers recover necessary solvents for a business. The environmental assessment found that most of the drums were damaged, broken, or did not have lids to properly contain the hazardous wastes.
+
+EPA moved forward with a Remedial Investigation and Feasibility Study beginning in February 1986 through November 1987 to find the extent of the contamination from the drums. The biological survey conducted during the investigation showed that crustaceans, water insects, amphibians, and worms found downstream from the site in the unnamed creek were stressed due to site-related waste runoff.
+
+EPA issued a cleanup plan and documented it in a Record of Decision in September 1989. The remedy was based on the site’s impact on the environment rather than on a risk to human health. The cleanup objectives for this site were to minimize risk to public health and the environment from direct contact with contaminants and control the migration of contaminants to nearby surface water and groundwater.
+
+In September 2009, EPA modified the remedy in an Explanation of Significant Differences to better implement the remedy. This modification included:
+
+- Putting an impermeable cap on the 3-acre, former north pit area, excavate and fill existing ground surface near the former north pit
+- Establishing infiltration features to direct clean surface water flow from the capped area
+- Installing groundwater infiltration system into deep bedrock
+- Maintaining the collection trench, piping, and storage tank to collect contaminated groundwater
+- Treating collected some seep water at an offsite treatment facility and closing off the other seep water collection trench.
+
+### What Is the Current Site Status?
+
+The Craig Farm Drum Superfund Site undergoes regular five-year reviews because there are hazardous substances, pollutants, or contaminants that remain at the site above levels that allow for unlimited use and unrestricted exposure. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2372979), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2029.
+
+All construction at the site has been completed, and EPA deleted the site from the National Priorities List in September 2013.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict the use of groundwater at the site and to prevent any construction from disturbing the cap over the waste area. Additional information about the institutional controls are available in the [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2372979) (page 7).

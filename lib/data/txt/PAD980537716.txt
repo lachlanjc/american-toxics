@@ -1,26 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-- [Enforcement Information](#Enforce)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301249)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301249)
-
----
-
 ### Background
 
 The 93-acre Heleva Landfill Site is located in Lehigh County, Pennsylvania. Open-pit iron ore mining operations in the late 1800s left four open, water-filled pits at the site. In 1967, the site owner operated a sanitary landfill on 26 acres of the site. The landfill accepted general mixed refuse and industrial wastes, including solvents. The landfill closed in 1981 and the landfill operators placed a two-foot layer of clay over the wastes. These activities contaminated soil and groundwater with volatile organic compounds (VOCs). The site was added to the Superfund program's National Priorities List on September 8, 1983. Following cleanup, operation and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -32,15 +12,11 @@ Since the beginning of the system startup in 1999, site-related contaminant conc
 
 Cursory review of the 2011-2012 Vapor Intrusion Investigation Report confirms that vapor intrusion is occurring at low levels in some residences. Indoor air risks for the residences are within EPA's safety range. Homes in the Village of Ormrod should continue to be monitored for vapor intrusion. A shallow groundwater investigation should also be performed in Ormrod to provide multiple lines of evidence in the evaluation of vapor intrusion.
 
----
-
 ### What Is the Current Site Status?
 
 EPA implemented several long-term remedies to the site including installation of a landfill cover, a passive gas venting system, and a groundwater pump-and-treat system. In addition to the installations, EPA provides ongoing groundwater treatment and monitoring, helped to extend the public water supply to 38 residences affected by site contamination, and constructed a surface water diversion system from 1986 and 1999.
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies protect public health and the environment, and that they continue to function as intended according to site decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335607), concluded that the remedy continues to be protective of human health and the environment because all exposure pathways that could result in risks are being controlled. The landfill cap and ancillary features installed at the site are functioning properly and prevent direct exposure to landfill waste. The groundwater remedy is functioning as intended by the decision documents and intercepts impacted groundwater from the landfill and Source Area. Contaminated groundwater with site-related volatile organic compounds in the underlying aquifer is being monitored, captured, and treated at the site. The next five-year review is scheduled for 2027.
-
----
 
 ### Activity and Use Limitations
 
@@ -50,13 +26,9 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 
 Institutional controls are in place to protect the integrity of remedial components and prevent drilling of groundwater wells within impacted areas. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335607) (pages 12-13).
 
----
-
 ### Emergency Response and Removal
 
 Cleanup also included a removal action, or a short-term cleanup, to address immediate threats to human health and the environment. This 1985 action provided bottled water to homes with contaminated wells in Ornrod.
-
----
 
 ### Enforcement Information
 

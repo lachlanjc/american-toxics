@@ -1,1 +1,29 @@
-Help us improve your experience by sending an error report [here](https://www.epa.gov/superfund/forms/report-superfund-site-profile-page-error).
+### Background
+
+The Lackawanna Refuse Superfund Site is a former mining area in a 258-acre property. Mining activities occurred between the late 1800s until the 1950s. In the 1970s, the Pennsylvania Department of Natural Resources, issued a permit to the Site owners to use about 18 acres of the property for municipal and commercial refuse. In 1978 an addendum was issued to allowed the disposal of non-hazardous sludge at the Site. Later that year, the permits were recinded because it was discovered that hazardous waste as well as industrial waste was being disposed at the Site.These activities contaminated sediment, groundwater and surface water. EPA added the Site to the Superfund program's National Priorities List in 1983, and it was later deleted in 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The following remedial actions were completed in accordance with EPA's cleanup plan known as the Record of Decision (ROD): removal and disposal of drums, highly contaminated municipal refuse, dried paint and contaminated soil; construction of clay caps over remaining contaminated soil, sediment and debris; installation of a surface water drainage diversion; construction of a gas venting system through the clay caps; development of a monitoring plan; and operation and maintenance of the caps. Remedy construction took place between 1987 and 1991.  
+  
+Subsequent to the placement of the synthetic cover, EPA's sampling showed that the landfill was generating a negligible amount of leachate due to the effectiveness of the synthetic cover in reducing rainfall infiltration to the landfill.  
+  
+EPA issued an Explanation of Significant Difference (ESD) in September 1993, documenting the decision to eliminate the leachate treatment plant due to insufficient leachate flow. An ESD outlines changes to the original cleanup remedy to protect public health and the environment.  
+  
+After construction and Site studies were completed, EPA issued a Close-Out Report stating that no further work is necessary and deleted the Site from the National Priorities List in 1999.
+
+### What Is the Current Site Status?
+
+Although the Lackawanna Refuse Superfund Site was deleted from the National Priorities List in 1999, the Site continues to be monitored and sampled due to the presence of contaminanted material that remains under the cap. The remedy has been completed and there has been no evidence of any exposure or failure of the remedy. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2396292), concluded that the remedy continues to be protective of human health and the environment. The next Five-Year Review is scheduled for 2028.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater use and excavation of the cap. Additional information about the institutional controls is available in the [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2396292) (page 7).
+
+### Sampling and Monitoring
+
+Periodic inspections of the capped area are performed annualy. The inspector verifies the integrity of the capped area, making sure that there are no damaged areas of the top cover, no signs of water runoff nor any other sign that may indicate that the cap has been compromised.

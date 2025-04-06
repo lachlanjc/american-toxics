@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Enforcement Information](#Enforce)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300624)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300624)
-
----
-
 ### Background
 
 The Palmerton Zinc Pile Site is the area of a former primary zinc smelting operation. The site encompasses the Borough of Palmerton and surrounding areas, Blue Mountain, a large smelting residue pile called the Cinder Bank, and much of the valley. For nearly 70 years, the New Jersey Zinc Company deposited 33 million tons of slag at the site, creating a cinder bank that extends for 2 1/2 miles and measures over 100 feet high and 500 to 1,000 feet wide. The smelting operations emitted huge quantities of heavy metals throughout the valley. As a result, approximately 2,000 acres on Blue Mountain, which is adjacent to the former smelters, have been defoliated, leaving a barren mountain side. Soil on the defoliated area of the mountain has contaminated the rain water flowing across it. The runoff and erosion have carried contaminants into Aquashicola Creek and the Lehigh River. Approximately 850 people live within one mile of the site; the population of the town of Palmerton is approximately 5,000. The Palmerton Water Company has four production wells at the foot of Blue Mountain that supply water to the towns of Palmerton and Aquashicola; these wells have not been effected by contaminants from the site to date. This site was proposed to the National Priority List (NPL) on December 30, 1982 and formally added to the list on September 8, 1983.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -59,15 +40,11 @@ Construction activities for the wetland restoration were completed in the Summer
 
 EPA is currently overseeing the Remedial Investigation/Feasibility Study (RI/FS), which will utilize groundwater data from existing deep wells and additional data from soils, surface water and groundwater to determine the extent of contamination. An ecological risk assessment is also being conducted, which will be incorporated with the remedial investigation. After the RI/FS is completed, EPA will issue a proposed cleanup plan for public comment followed by a final Record of Decision.
 
----
-
 ### What Is the Current Site Status?
 
 EPA is currently overseeing the Remedial Investigation and Feasibility Study (RI/FS) for OU-4, which addresses groundwater, surface water, site-wide ecological risk and institutional controls. After the RI/FS is completed, EPA will issue a proposed cleanup plan for public comment followed by a final Record of Decision.
 
 EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2333717.pdf), concluded that the remedy continues to be protective of human health and the environment in both the short-term and long-term. The next five-year review is scheduled for 2027.
-
----
 
 ### Activity and Use Limitations
 
@@ -76,8 +53,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls are in placed to restrict groundwater use and soil excavation. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2333717.pdf) (page 11).
-
----
 
 ### Enforcement Information
 

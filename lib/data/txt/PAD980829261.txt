@@ -1,17 +1,11 @@
-REESER'S LANDFILLUPPER MACUNGIE TWP, PA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Reeser’s Landfill site is located in Lehigh County, Pennsylvania. Reeser's Landfill was an unpermitted dump site for municipal and commercial wastes that operated in a former mine pit before 1970 and ceased operating in 1980. In 1983, EPA found elevated levels of lead and cadmium in one groundwater well near the site and low levels of mercury contamination on the landfill itself. The site was added to the Superfund program's National Priorities List (NPL) in July 1987. Subsequent investigations did not find significant contamination or risks to human health or the environment. EPA deleted the site from the NPL in May 1990. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA conducted a thorough investigation of the site from 1987 to 1988, resampling areas found to be contaminated during a preliminary assessment, installing several monitoring wells, sampling on-site and off-site surface water and soils, and excavating landfill wastes for visual and chemical analysis. This extensive sampling effort could not duplicate results from the preliminary assessment. Risk calculations indicated that the site posed no significant endangerment to public health and welfare or the environment. EPA selected a “no action” remedy for the site in 1989. After cleanup, EPA removed the site from the National Priorities List in May 1990. 
-Top of Page
-What Is the Current Site Status?
-EPA conducted a five-year review of the site’s remedy in 1993. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The 1993 Five-Year Review (PDF) concluded that the “no action” remedy at the site continues to be protective of human health and the environment. There will be no additional five-year reviews for the site. 
-Top of Page
+### Background
+
+The Reeser’s Landfill site is located in Lehigh County, Pennsylvania. Reeser's Landfill was an unpermitted dump site for municipal and commercial wastes that operated in a former mine pit before 1970 and ceased operating in 1980. In 1983, EPA found elevated levels of lead and cadmium in one groundwater well near the site and low levels of mercury contamination on the landfill itself. The site was added to the Superfund program's National Priorities List (NPL) in July 1987. Subsequent investigations did not find significant contamination or risks to human health or the environment. EPA deleted the site from the NPL in May 1990.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA conducted a thorough investigation of the site from 1987 to 1988, resampling areas found to be contaminated during a preliminary assessment, installing several monitoring wells, sampling on-site and off-site surface water and soils, and excavating landfill wastes for visual and chemical analysis. This extensive sampling effort could not duplicate results from the preliminary assessment. Risk calculations indicated that the site posed no significant endangerment to public health and welfare or the environment. EPA selected a “no action” remedy for the site in 1989. After cleanup, EPA removed the site from the National Priorities List in May 1990.
+
+### What Is the Current Site Status?
+
+EPA conducted a five-year review of the site’s remedy in 1993. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The [1993 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/471066.pdf) concluded that the “no action” remedy at the site continues to be protective of human health and the environment. There will be no additional five-year reviews for the site.

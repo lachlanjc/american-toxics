@@ -1,19 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301361)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301361)
-
----
-
 ### Background
 
 The Elizabethtown Landfill Superfund Site is an inactive landfill that occupies about 16 acres at 349 West Ridge Road in West Donegal Township, Lancaster County, Pennsylvania. The Site is located roughly one mile southwest of Elizabethtown, Pennsylvania, in a primarily rural, agricultural area. The entrance to the Site is via West Ridge Road.
@@ -25,8 +9,6 @@ As part of the closure of the landfill in 1973, SCA Services of Pennsylvania, In
 On November 26, 1985, an EPA contractor inspected the landfill and reported that leachate constituents had been detected in groundwater and surface water samples collected near the landfill. In 1986 and 1987, SCA installed a soil-based cover over approximately 12 acres on the northern portion of the landfill. The remaining four acres of the property were covered by a permeable base of gravel.
 
 On March 31, 1989 the Site was listed on EPA's National Priorities List (NPL). The NPL is a list of hazardous waste sites that are eligible to receive government funding for a cleanup. In 1994, WMDSPA (the property owner; SCA changed its name in 1993) stopped using the facility as a transfer station.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -56,15 +38,11 @@ The cleanup that was selected for the site includes:
 - Performing quarterly monitoring of five residential wells and two public water supply wells. An alternate source of drinking water or treatment shall be provided for any of these wells in which the EPA determines that contaminants attributable to the landfill are found which exceed the action levels.
 - The cleanup also requires that if, after the landfill cap is installed, the pre-design groundwater and surface water study demonstrated that the groundwater and surface water cleanup levels could be attained within a reasonable time period without extraction and treatment of groundwater, then the EPA would modify the Record Of Decision to eliminate the requirement for extraction and treatment.
 
----
-
 ### What Is the Current Site Status?
 
 EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2345898.pdf), concluded that the remedy continues to be protective of human health and the environment.
 
 No issues and recommendations affecting the protectiveness of the remedy were identified in the 2023 Five-Year Review. The groundwater remedy was recently constructed in 2022. This system is expected to reduce contaminant concentrations in groundwater to meet cleanup standards.
-
----
 
 ### Activity and Use Limitations
 

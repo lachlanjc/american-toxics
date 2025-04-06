@@ -1,26 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Sampling and Monitoring](#Sample)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302402)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302402)
-
----
-
 ### Background
 
 The 209-acre Crossley Farm site is located in a rural area in Hereford Township, Pennsylvania. A farm has been located on site since 1927. From the mid-1960s to the mid-1970s, the Bally Case and Cooler Company disposed of numerous drums of liquid waste at the site. These activities contaminated soil and groundwater with hazardous chemicals, specifically trichloroethylene (TCE). The site was added to the National Priorities List in 1992, making it eligible for investigation and cleanup under the federal Superfund program.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -40,8 +20,6 @@ EPA has installed over 100 monitoring wells in the vicinity of the site. Past le
 
 In 2012, EPA issued an [Record of Decision (ROD) (PDF) for Operable Unit 3](http://semspub.epa.gov/src/document/03/2157710) to address potential vapor intrusion as a result of the TCE contamination. EPA installed vapor intrusion mitigation systems (similar to radon systems) at 20 residences that are located above the site-related groundwater contamination plume. The vapor intrusion mitigation systems address potential risk to human health by reducing and/or eliminated an exposure pathway. The installation of the vapor intrusion systems was completed during summer 2015.
 
----
-
 ### What Is the Current Site Status?
 
 The Pennsylvania Department of Environmental Protection and EPA continue to monitor and sample more than 100 monitoring wells and residential wells in the vicinity of the site. These tests are done every year for monitoring wells and residential wells with point of entry treatment systems and every two years for other residential wells in the vicinity of the site.
@@ -49,8 +27,6 @@ The Pennsylvania Department of Environmental Protection and EPA continue to moni
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2282863), concluded that the remedies continue to be protective of human health and the environment. More information on the groundwater cleanup and 2019 Five-Year Review can be found in the [December 2019 Community Update](https://semspub.epa.gov/src/document/03/2292922). The next five-year review is scheduled for 2024.
 
 EPA evaluated the source area at the site where the highest concentrations of contamination have been detected. The source area is located at the top of Blackhead Hill on the farm property. The Crossley Farm Superfund Site is currently performing a cleanup to address the source area. EPA began the cleanup work in April 2023 and expects the work to be completed in early 2025. This work includes installing groundwater extraction wells, piping it to the existing treatment plant, and expanding the existing treatment plant to be able to treat the additional highly contaminated groundwater.
-
----
 
 ### Activity and Use Limitations
 
@@ -60,8 +36,6 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 
 Institutional controls restrict or limit future land and/or groundwater use, to protect the integrity of the remedy in place. The Pennsylvania Department of Environmental Protection has placed a HSCA 512 Order, which is a deed restriction on use of the property where groundwater contamination is present. Additional information about the institutional controls is available in the [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2282863).
 
----
-
 ### Sampling and Monitoring
 
 Site-related groundwater monitoring and bi-annual residential well testing is ongoing.
@@ -69,8 +43,6 @@ Site-related groundwater monitoring and bi-annual residential well testing is on
 Part of the OU-2 remedy involves discharging treated groundwater into the unnamed tributary to the West Branch Perkiomen Creek. The section of the West Branch Perkiomen Creek (WBPC) upstream of the site is classified as an Exceptional Value Cold Water Fishery (EV-CWF) Stream by the Commonwealth of Pennsylvania. At the request of the EPA Region III Biological Technical Assistance Team (BTAG), a baseline study of the WBPC was conducted prior to treated water discharge. The study established baseline condition assessments of the fish and benthic macroinvertebrate communities, water temperature and water quality conditions both upstream and downstream of both the Crossley Farm Superfund Site as well as the nearby Bally Superfund Site. The " [Crossley Farm Superfund Site 2008 Baseline survey of the Fish Community, Benthic Macroinvertibrate Community, Water Temperature and Water Chemistry of the West Branch Perkiomen Creek, Berks County, Pennsylvania (PDF)](http://semspub.epa.gov/src/document/03/2178915) " baseline survey is available for public review.
 
 Also available upon request is the Revised Hydrogeological Report, dated January 2014.
-
----
 
 ### Emergency Response and Removal
 

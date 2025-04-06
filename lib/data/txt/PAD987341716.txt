@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0304433)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0304433)
-
----
-
 ### Background
 
 The Austin Avenue Radiation site is located in Lansdowne Borough, East Lansdowne Borough, Upper Darby Township, Aldan Borough, Yeadon Borough and Darby Borough in Pennsylvania. The site consists of 40 privately owned properties. W.L. Cummings Radium Processing Company conducted radium-refining operations at the site from 1915 to 1925. These operations generated radioactive wastes. Waste disposal practices contaminated residential properties with radium, thorium, radon, and asbestos. The Site was added to the National Priorities List on October 14, 1992. Following cleanup, EPA deleted the site from the National Priotrities List in 2002.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -28,13 +10,9 @@ Under an Interagency Agreement with the EPA, the U.S. Army Corp of Engineers coo
 
 In September 1996, EPA issued a No Action Record of Decision (ROD) for groundwater at the Site. The total amount of radiologically contaminated materials disposed off site was 241 rail cars (approximately 20,000 tons). A [Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/309720) was completed in 2000 and demonstrates that the cleanup has been effective.
 
----
-
 ### What Is the Current Site Status?
 
 The EPA deleted the Austin Avenue site from the National Priorities List, a list of the nation's most hazardous waste sites, in 2002. The close-out report for the Site was finalized in August 2001, and the Site's Five-Year Review demonstrates that the cleanup remedies have been effective and continue to be protective of human health and the environment. No additional Five-Year Reviews or Institutional Controls will be needed at the Site, as all cleanup goals have been met. All the properties at the Austin Avenue Site have been returned to their original owners or transferred to the local municipalities in which they are located.
-
----
 
 ### Activity and Use Limitations
 

@@ -1,26 +1,8 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300444)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300444)
-
----
-
 ### Background
 
 The 32-acre Centre County Kepone site, located in State College, Pennsylvania, was a chemical manufacturing facility. The facility produced the pesticide kepone in 1958, 1959 and 1963, and the pesticide mirex in 1973 and 1974. Process wastes originally were disposed of on-site in a spray irrigation field and lagoons and stored in drums on-site. After leaks were discovered, the material in the lagoons was solidified and disposed of in two earthen lagoons and capped. Approximately 2,100 people live within a one-mile radius of the site. The closest residence is less than a quarter mile from the site. In 1982, a section of the adjacent Spring Creek was designated as a catch and release zone for fishing as a result of high levels of pesticides in fish. The site was added to the Superfund program's National Priorities List in 1983.
 
 In 2001, the Commonwealth of Pennsylvania determined that the catch and release zone was no longer required. All chemical manufacturing operations at the facility ceased in March of 2004.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -61,8 +43,6 @@ A Consent Decree (CD) for OU2 Remedial Design/Remedial Action activities was ent
 
 The design of the OU2 selected remedy was approved by EPA in June 2011. Construction of the remedy was completed by ROC in September 2011.
 
----
-
 ### What Is the Current Site Status?
 
 EPA is overseeing the cleanup of the Centre County Kepone Site, being carried out and paid for by RUTGERS Organics Corporation (ROC).
@@ -70,8 +50,6 @@ EPA is overseeing the cleanup of the Centre County Kepone Site, being carried ou
 All physical construction is complete at the Site and it is in long-term Operation and Maintenance, which includes environmental monitoring.
 
 EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2282849.pdf), concluded that the remedy continues to be protective of human health and the environment for both the short term and long term. The next five-year review is scheduled for 2024.
-
----
 
 ### Activity and Use Limitations
 

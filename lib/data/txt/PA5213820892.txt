@@ -1,23 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302464)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302464)
-
----
-
 ### Background
 
 The Tobyhanna Army Depot (TYAD) site is located in the Pocono Mountains in Monroe County, Pennsylvania. The facility was used as a training and artillery range from 1909 until 1949. The industrial portion of the TYAD was constructed in 1950s and is currently the largest full-service electronics maintenance facility in the Department of Defense (DoD). During the 1950s to early 1960s, the Army used areas on the southern part of the site for drum staging, burning and disposal of garbage, construction rubble, scrap metal, drums and solvents. An inactive landfill which operated from 1963 to 1979 and received various types of wastes including plating wastes, sludge from the sewage treatment plant, ash, construction debris, paints, solvents, oils, and sanitary waste is also present on TYAD. Additionally, there is an approximately 400-acre area containing unexploded ordnance (UXO) located on TYAD due to its past use as an artillery range. Past/present activities resulted in contamination of groundwater, soils and sediments with volatile organic compounds (VOCs), inorganics, and per- and polyfluorylalkyl substances (PFAS). UXO remains onsite within a fenced and secured area. The site was added to the Superfund program’s National Priorities List (NPL) in August 1990. EPA deleted part of the site from the NPL in 2001.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -30,8 +13,6 @@ EPA has signed Records of Decision (RODs) selecting remedies for all 5 operable 
 - OU3: RCRA Closure Areas of Concern – This site consisted of two hazardous waste storage buildings that were closed out under RCRA. This site requires no further action.
 - OU4: UXO Area - Institutional Controls are in place to prevent exposure to potential unexploded ordnance in this area. The area is fenced and there are warning signs posted.
 - OU5: Inactive Landfill The remedy consists of monitored natural attenuation and institutional controls to prevent the use of groundwater for drinking within the plume area.
-
----
 
 ### What Is the Current Site Status?
 

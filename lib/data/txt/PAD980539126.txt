@@ -1,26 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Sampling and Monitoring](#Sample)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301328)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301328)
-
----
-
 ### Background
 
 The UGI Columbia Gas Plant is a 1.5-acre site located in a light industrial/residential area 400 feet northeast of the Susquehanna River in southern Pennsylvania. From 1851 to 1949, Columbia Gas used the site for gas manufacturing. In 1932, ownership of the property was transferred to Pennsylvania Power and Light (PP&L) and subsequently transferred to Lancaster County Gas Company in 1949. Lancaster County Gas merged with UGI Corporation which owned the site until 1979. The property was used as a boat dealership from 1979 until 1994 when it was repurchased by PP&L. During the years of active gas manufacturing operations at the site, overflows from an on-site tar separator were directed to an open ditch that led to the Susquehanna River. Records show that local fishermen complained to the gas plant that their boats were being covered with tar. The site was added to EPA's National Priorities List in May 1994.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -48,13 +28,9 @@ In June 2018, EPA completed an [Explanation of Significant Differences (ESD) (PD
 
 Columbia Borough purchased the former gas plant property and is reusing the property for the Borough's vehicle maintenance garage and road salt storage facility.
 
----
-
 ### What Is the Current Site Status?
 
 EPA has conducted the second five-year review of the site’s remedy. This review ensures that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2314180) concluded that the remedy is protective of human health and the environment because the concrete and asphalt caps prevent unacceptable exposure to remaining contaminated soil and no exposure to contaminated groundwater is currently occurring. However, the review recommended additional evaluation of institutional controls for properties affected by site contamination, further evaluation of groundwater data and monitoring of site-related contaminants to determine if an ecological risk is present. The next five-year review is scheduled for 2026.  
-
----
 
 ### Activity and Use Limitations
 
@@ -64,13 +40,9 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 
 Institutional controls are in place to restrict groundwater use, prohibit excavation or removal of soils and prohibit residential use. Additional information about the institutional controls are available in the [2021 Five-Year Review](https://semspub.epa.gov/src/document/03/2314180) (PDF)(pages 10-18).
 
----
-
 ### Sampling and Monitoring
 
 Groundwater monitoring wells are located throughout the site to check contaminant levels.
-
----
 
 ### Emergency Response and Removal
 

@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301506)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301506)
-
----
-
 ### Background
 
 The 125-acre Taylor Borough Dump site is located in Taylor Borough, Pennsylvania. The City of Scranton used the former underground and strip mine as a municipal dump from 1964 to 1968. Illegal dumping of 1,200 drums containing hazardous organic chemicals and heavy metals took place. Waste disposal activities contaminated air, soil, surface water, sediment and groundwater. The site was added to the Superfund program's National Priorities List (NPL) in September 1984. Following the cleanup, EPA deleted the site from the NPL in September 1999. The potentially responsible parties continue to perform operation and maintenance activities at the site, with EPA oversight.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -51,15 +32,11 @@ During January 2011, EPA completed a number of activities at the site in prepara
 
 The City of Scranton has since taken over operation and maintenance from EPA.
 
----
-
 ### What Is the Current Site Status?
 
 EPA deleted the Taylor Borough Dump Superfund Site from the National Priorities List in September 1999. The City of Scranton has taken over responsibility to conduct operation and maintenance activities at the site to ensure the protectiveness of the soil cover.
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2345887.pdf), concluded that the overall site remedy is protective of human health and the environment in the short-term. For the remedy in Operable Unit 1 (OU-1) to be protective in the long-term, the potentially responsible party must continue to perform all operation and maintenance activities. Operable Unit 2 (OU-2) will no longer be included in future five-year reviews because five years of required groundwater monitoring did not identify a Site-realted release to groundwater and no additional monitoring at the Site is necessary. Groundwater is not a source of drinking water at or near the Site.
-
----
 
 ### Activity and Use Limitations
 
@@ -68,8 +45,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls are in place to restrict future land use and maintain the integrity of the soil cover. Additional information about the institutional controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2345887.pdf) (page18).
-
----
 
 ### Emergency Response and Removal
 

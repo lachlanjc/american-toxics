@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301590)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301590)
-
----
-
 ### Background
 
 The 135-acre York County Solid Waste and Refuse Authority Landfill site is located in Hopewell Township, Pennsylvania. The site includes an inactive municipal landfill with three unlined cells and is part of the more than 300-acre York County Sanitary Landfill property. Waste disposal contaminated groundwater. EPA added the site to the Superfund program’s National Priorities List (NPL) in 1987. Following cleanup, the site was deleted from the NPL in 2005. Groundwater treatment is ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -31,15 +13,11 @@ Following completion of the Remedial Investigation/Feasibility Study, EPA select
 - Implementation of a monitoring program to assess the effectiveness of the groundwater treatment system and its impact on downgradient surface water and wetland habitat.
 - Implementation of a monitoring program to assess the impact of the treated effluent discharge on the environmental quality of the surface waters and sediments in the streams where the outfalls are located.
 
----
-
 ### What Is the Current Site Status?
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2329199.pdf), concluded that the remedy continues to be protective of human health and the environment. The groundwater collection and treatment system is functioning properly by providing hydraulic containment of contaminated groundwater at the Site, with the exception of the area to the south where YC-3 is located. The current extraction system prevents Site-related contaminants from migrating off-Site to residential water supply wells, and reduces the levels of contaminants in the groundwater; the vegetated soil cap is in place and is being maintained; YCSWA continues to provide residents with point-of-entry filtration devices; and controls are in place to prevent potential exposures. If monitoring results in proximity to YC-3 indicate that contamination is migrating beyond the boundary of the landfill, an additional extraction well should be added to the area. The next five-year review is scheduled for 2027.
 
 EPA continues to conduct periodic site visits, and review quarterly and annual progress reports.
-
----
 
 ### Activity and Use Limitations
 

@@ -1,23 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302460)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302460)
-
----
-
 ### Background
 
 The 824-acre Navy Ships Parts Control Center site is located in Mechanicsburg, Pennsylvania. The Navy Ships Parts Control Center, formerly known as the Naval Inventory Control Point (NAVICP), provided global management of repair parts for Navy ships during the 1940s. In the early 1950s, NAVICP became a repository for a variety of metal ores received as war payment and reprimand. Historical operations and past waste disposal activities contaminated soil, sediment and groundwater with hazardous chemicals. The Site was added to the Superfund program's National Priorities List (NPL) in May 1994.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -42,8 +25,6 @@ EPA has signed Records of Decision (RODs) selecting remedies for eight operable 
 **OU15 Site 8 Ore Storage Area** - ROD date: 09/30/2009. Media – Soil and Subsurface Soil. Remedy: Excavation, Off-Site disposal and Land Use Controls (LUCs). Contaminants include arsenic, nickel and manganese was excavated in 2010-20 The LUCs to ensure that future use of the property is limited to non-residential activities.
 
 A full list of operable units can be viewed under the *Operable Units* section.
-
----
 
 ### What Is the Current Site Status?
 

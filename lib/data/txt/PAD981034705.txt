@@ -1,2 +1,52 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13-acre Butz Landfill Superfund Site, also known to some as the North Road Site, is located in Jackson Towns hip, Monroe County, Pennsylvania, south of Camelback Mountain along North Road in rural Stroudsburg. The site consists of a former, unpermitted 8.5-acre municipal dump that operated from 1965 to 1973. Former dumping operations contaminated groundwater with solvents including various volatile organic compounds (VOCs), such as trichloroethylene (TCE). EPA placed the site on the Superfund program’s National Priorities List in 1989. Construction of the remedy has been completed at the site. EPA transferred the long-term operations and maintenance to the Pennsylvania Department of Environmental Protection (PADEP) in 2011. PADEP conducts annual groundwater sampling to assess the effectiveness of the groundwater cleanup system.
+
+### What Has Been Done to Clean Up the Site?
+
+The first community complaints about the landfill are documented as early as 1971. In 1973, the Pennsylvania Department of Environmental Protection (PADEP), previously known as the Pennsylvania Department of Environmental Resources, ordered the landfill closed due to improper operations.
+
+In 1984 and 1986, PADEP conducted field examinations of the landfill and surrounding areas. The results showed elevated levels of trichloroethylene (TCE) in drinking water wells located south of the landfill, which prompted a request for EPA assistance to define and address the contamination. In 1986, EPA conducted an initial emergency removal action (short-term cleanup) to address immediate threats to human health and the environment by providing residents with bottled water.
+
+Cleanup at the site was separated into two parts called operable units (OUs).
+
+- OU-1: The [OU-1 Record of Decision](https://semspub.epa.gov/src/document/03/131964) addressed exposure to groundwater contamination by constructing a water supply and distribution system that provided a new source of water to the residences affected by the groundwater contamination emanating from the landfill. Construction of the municipal water supply was completed in September 1993. EPA turned over operation of the water system to the Pocono/Jackson Joint Water Authority (PJJWA) in early 1995.
+- OU-2: The [OU-2 Record of Decision](https://semspub.epa.gov/src/document/03/46798) addressed future exposure to groundwater contamination by installing a pump-and-treat system that will help eliminate the groundwater contamination. Construction of the groundwater treatment plant was completed in August 2001. PADEP has been operating the system since 2011.
+
+In 2007, 2008, 2012, 2013 and 2014, EPA performed vapor intrusion sampling to determine if vapors from the contaminated groundwater plume were entering nearby residences. Vapor intrusion occurs when there is a migration of vapor-forming chemicals from any subsurface source into an overlying building. After seven rounds of indoor air sampling at nearby residences, no vapor intrusion issues were identified.  
+  
+EPA installed two additional extraction/injection wells on-site to conduct a pilot study that may enhance the groundwater treatment system. EPA investigated an in-situ injection of chemicals into the groundwater that could improve the rate and effectiveness of the remedy. Emulsified vegetable oil was injected into the extraction wells to enhance the formation of bacteria. The bacteria, in turn, degrades the TCE. Treatability reports were completed in 2010 and 2013. The results indicated limited effectiveness, as the technology was difficult to employ into the fractured bedrock geology at the site.  
+  
+In 2011, EPA signed an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/src/document/03/2134630), outlining a modification to the cleanup for OU-2. The changes include:
+
+- Adding institutional controls to help ensure the continued integrity of the engineered on-site structures and to ban use of contaminated groundwater for potable purposes, until cleanup standards are met;
+- Changing the groundwater cleanup standards to include an additional chemical compound to the list of contaminants of concern that had not been previously listed; and
+- Changing the cleanup performance standards to meet revised state regulations.
+
+The site's long-term operations and maintenance was transferred to PADEP in 2011. PADEP conducts annual groundwater sampling to assess the effectiveness of the groundwater cleanup system.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317245) concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict or limit future land and/or groundwater use to protect the integrity of the remedy in place. Additional information about the institutional controls is available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317245) (pages 8-12).
+
+### Sampling and Monitoring
+
+Remedial Investigation / Feasibility Study
+
+- [Part 1 of 3 (PDF)](http://semspub.epa.gov/src/document/03/46765)
+- [Part 2 of 3 (PDF)](http://semspub.epa.gov/src/document/03/46768)
+- [Part 3 of 3 (PDF)](http://semspub.epa.gov/src/document/03/46769)
+
+### Emergency Response and Removal
+
+The site cleanup included an initial removal action (or short-term cleanup), to address immediate threats to human health and the environment. This action in 1986 included supplying nearby residents with bottled water and in-home carbon filtration systems, installing 17 groundwater monitoring wells and well sampling.
+
+EPA's Removal Program also led the [Butz Landfill Site vapor intrusion study.](http://www.epaosc.org/site/site_profile.aspx?site_id=8859 "removal program")

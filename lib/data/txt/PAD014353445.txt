@@ -1,19 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300868)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300868)
-
----
-
 ### Background
 
 The Malvern Trichloroethene (TCE) Superfund Site, located in East Whiteland Township, Chester County, Pennsylvania, operated as a solvent reclamation facility from 1952 to 1992. The site is in a wooded area surrounded by residential and undeveloped areas bordering the property to the west, north and east. The site consists of a main plant area connected to a former disposal area by a narrow meadow corridor, and sources of contamination at the site are tied to these two areas.
@@ -23,8 +7,6 @@ A portion of the site is owned and operated by Chemclene Corporation that, until
 Prior to 1976, sludge from the distillation process was disposed in the wooded area, also known as the former disposal area. The former processing, chemical storage, and waste management practices at the property contaminated the soil and groundwater. Following the detection of soil and groundwater contamination in 1980, Chemclene took several measures to clean up the site from 1982 to 1987 with the oversight of the Pennsylvania Department of Environmental Protection. The site was added to EPA's National Priorities List in September 1983.
 
 As an operating hazardous waste facility, Chemclene signed a Corrective Action Order with EPA in 1989 to continue the cleanup. When the company failed to carry out the Order, the site was referred back to EPA's Superfund program in November 1993. Since then, EPA has been overseeing the cleanup of the site.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -57,13 +39,9 @@ The Philadelphia Suburban Water Company began extending existing waterlines in J
 
 EPA amended the 1997 Record of Decision in March 2005 to account for additional contaminants found in the soil at the former disposal area and the mound area. Between May 2005 and May 2006, approximately 143 cubic yards of contaminated soil was excavated and disposed on off-site. Groundwater at the former disposal area and the mound area is also continuously monitored for contaminants.
 
----
-
 ### What Is the Current Site Status?
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306173) concluded that the remedy continues to be protective of human health and the environment and additional information is needed to improve the long-term cleanup goals. EPA and the Pennsylvania Department of Environmental Protection will continue to work with the responsible parties to collect and evaluate this additional information. The next five-year review is scheduled for 2025.
-
----
 
 ### Activity and Use Limitations
 

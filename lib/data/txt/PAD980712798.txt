@@ -1,26 +1,8 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301544)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301544)
-
----
-
 ### Background
 
 The Lindane Dump Superfund Site is located in Harrison Township in Allegheny County, Pennsylvania. The area consists of a 14-acre park and a 47.5-acre lower project zone that includes a closed landfill area. From 1850 until 1986, several companies used the Site for waste disposal. Wastes disposed of at the Site include wastes from mining, chemical manufacturing, electrical generation, steel manufacturing and building demolition. The contaminants of concern at the site include volatile organic compounds (VOCs) and organic pesticides (lindane) in the soil, groundwater, and leachate. The Site was added to the National Priorities List in 1983, making it eligible for investigation and cleanup under the federal Superfund program.
 
 Cleanup activities included capping the Site and constructing a leachate collection and treatment system. After the completion of cleanup activities at the Site in 1999, the Alsco Community Park was restored. The park now includes tennis courts, baseball fields, a utility building, pedestrian paths, picnic areas, open space and parking areas. Operation and maintenance activities at the Site are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -28,15 +10,11 @@ The cleanup plan for the Site was documented in [Record of Decision (ROD) (PDF)]
 
 Construction of the cap began in the Spring of 1998 and finished in the Spring of 1999. Once the cap was completed, the Harrison Township’s Alsco Community Park was restored and new facilities added. The lower portion of the Site is fenced and covered with an impermeable cap.
 
----
-
 ### What Is the Current Site Status?
 
 Operation and maintenance of the landfill cap, the leachate collection and treatment system, and monitoring of the groundwater and treated effluent are conducted by the potentially responsible party, with oversight from the EPA.
 
 EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2353783), concluded that the remedy continues to be protective of human health and the environment. Exposure pathways that could result in unacceptable risks are being controlled, and institutional controls are preventing exposure to contaminated wastes, soils, and groundwater. Contaminated leachate and shallow groundwater is being controlled by the leachate collection system, and it is being treated to a quality below limits established by the National Pollutant Discharge Elimination System permit. Operation and maintenance of the landfill cap, the leachate collection system, and treatment system is expected to continue until cleanup goals are met. The repairs to the tennis courts noted in the the 2018 Five-Year Review were completed in Spring of 2021. At the request of Harrison Township and community members, additional lines were painted on the repaired courts for pickleball. The next five-year review is scheduled for 2028.
-
----
 
 ### Activity and Use Limitations
 

@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301517)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301517)
-
----
-
 ### Background
 
 The 56-acre Watson Johnson Landfill site is located in Richland Township, Pennsylvania. A 32-acre landfill accepted industrial and municipal wastes on part of the site from the late 1950s until the early 1970s. Waste disposal activities contaminated soil, sediment and groundwater. EPA added the site to the Superfund program's National Priorities List on September 13, 2001.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -29,8 +11,6 @@ It is important to note that EPA has continually monitored the site, even during
 The agency has conducted a comprehensive site study, known as the Remedial Investigation/Feasibility Study. Data from this investigation was used to determine the nature and extent of the contamination and to develop cleanup plans. The Remedial Investigation Report was finalized in May 2006. A chemical oxidation pilot study was conducted to address the groundwater contamination with favorable results.
 
 The [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/2102878) for the Site was signed on August 14, 2009. The Remedial Design was initiated in November 2009 and a pre-design investigation was conducted. The Remedial Design was completed in September 2011. The groundwater cleanup began in early 2017 and landfill work began in Summer 2017.
-
----
 
 ### What Is the Current Site Status?
 
@@ -53,8 +33,6 @@ The cleanup of the Watson Johnson Landfill Superfund Sites includes
 - To learn more read EPA's [A Citizen’s Guide to In Situ Chemical Oxidation (PDF)](http://clu-in.org/download/Citizens/a_citizens_guide_to_capping.pdf).
 
 EPA conducted the first five-year review of the site’s remedy. This review ensures that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The [May 2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329154) concluded that the Site is protective of human health and the environment in the short-term. Immediate threats have been addressed and institutional controls that effectively limit exposure to contaminated soil and groundwater and protect the remedy are either planned or in place. In order for the remedy to be protective in the long term, the planned institutional controls need to be fully implemented and an evaluation to determine whether additional actions are necessary to address Site-related PFAS contamination in groundwater are needed and if so, document the actions needed in an appropriate decision document. The next Five-Year Review is scheduled for 2026.
-
----
 
 ### Activity and Use Limitations
 

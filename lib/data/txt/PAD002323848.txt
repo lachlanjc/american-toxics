@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Chem Fab Superfund Site is located on N. Broad Street in Doylestown, Bucks County, Pennsylvania. From the mid-1960s to the late 1970s, Chem Fab, Inc. operated an electroplating and metal etching facility and also stored and disposed of processing chemicals on-site. Groundwater underlying the Site is contaminated with metals and volatile organic compounds, chemicals commonly found in solvents, degreasers and associated electroplating operations. The volatile organic compounds have been found in two municipal wells and several residential wells. The Site was added to the Superfund program's National Priorities List in 2008, making it eligible for federal cleanup funding.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1990, EPA connected residences and businesses that were impacted by the groundwater contamination to city water. In 1994, EPA removed 117 drums of chemicals and 8,400 gallons of liquid waste from the Site.  
+  
+The Chem-Fab Site was added to EPA’s National Priorities List in 2008. EPA began a comprehensive investigation, called a Remedial Investigation, in April 2010 to determine the natures and extent of contamination at and around the Site.  
+  
+In December 2012, EPA issued an interim [Record of Decision (PDF)](https://semspub.epa.gov/src/document/03/2159159) for Operable Unit (OU) 1, which selected excavation and off-site disposal to remediate soil contamination on the former Chem Fab property. Between March and August 2014, a removal action was undertaken to implement the Site remedy. Post-excavation sampling confirmed that soils had been excavated to cleanup levels identified in the OU-1 interim ROD. Clean soils were used to replace the soils removed and parking facilities and blacktop were restored.
+
+In 2015 and 2017, EPA installed additional wells to delineate the extent of the groundwater contamination plume.
+
+EPA conducted vapor intrusion studies at several residences over the southwestern portion of the groundwater contaminant plume in 2017 and 2018 to ensure residents were not being impacted by contamination from the Site via vapor intrusion. These studies confirmed that vapor intrusion is not impacting residences in this area.
+
+In December 2023, EPA issued a [Record of Decision (PDF)](https://semspub.epa.gov/src/document/03/2362165) for Operable Unit 3 (OU-3), which addresses contaminated soil gas at the Site, remaining contaminated soil at the Site not addressed under OU-1, and contaminated sediment and surface water at the Site.
+
+### What Is the Current Site Status?
+
+EPA issued an early interim Record of Decision in July 2017 to prevent further migration of contamination from the area of highest groundwater contamination while the full characterization of contaminated groundwater is being completed. The interim remedy consists of extraction and treatment of contaminated groundwater at the former Chem Fab facility and a neighboring property. The design of the system was completed in 2019, and the groundwater extraction and treatment system is currently being constructed.
+
+EPA issued a Record of Decision to address soil gas, soil, and sediment contamination in December 2023.
+
+### Emergency Response and Removal
+
+Cleanup to date has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1987, 1994, 2012 and 2014 included connecting impacted residences and businesses to public water, removing 117 drums of chemicals and 8,400 gallons of liquid waste, addressing vapor intrusion in on-site buildings, and excavating and disposing of contaminated soil.
+
+For more information about the removal actions taken, please visit the [OSC website](https://www.epaosc.org/site/site_profile.aspx?site_id=5905).

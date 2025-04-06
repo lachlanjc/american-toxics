@@ -1,2 +1,48 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Dorney Road Landfill site is located in Upper Macungie Township, Lehigh County, with a small parcel extending into Longswamp Township in Berks County. The landfill was an open-pit iron mine, before it became a 27-acre municipal and industrial landfill from 1952 to 1978. The state inspected the site in 1970 and found that industrial sludge, batteries and barrels of petroleum products were dumped on site. The site was added to the Superfund program’s National Priorities List (NPL) in September 1984. It was deleted from the NPL in September 2018. The site is surrounded by residences and farmland, although many housing developments have been constructed in recent years. Remedies for the site are in place and monitoring and inspections take place on a quarterly basis.
+
+### What Has Been Done to Clean Up the Site?
+
+The Pennsylvania Department of Environmental Protection (PADEP) and EPA signed a cooperative agreement to study the nature and extent of contamination in 1984. In 1986, EPA regraded the site and installed surface water runoff controls to stop the flow of contaminated surface water, and a fence was constructed around the site.  
+  
+In 1988, EPA selected the [remedy for Operable Unit 1](https://semspub.epa.gov/src/document/03/105963) (OU1), the landfill. The cleanup included the following components and was performed by a group of responsible parties:
+
+- off-site disposal of 700,000 gallons of on-site pond water;
+- constructing a dike and diversion ditch system;
+- reshaping surface contours;
+- installing a multi-layer landfill cap and gas collection system;
+- groundwater monitoring;
+- limiting access through deed restrictions and a fence; and
+- restricting building in the area.
+
+EPA required that the responsible parties install replacement wetlands to compensate for those lost during the landfill capping. Those wetlands were constructed from 1999 through 2005.  
+  
+In 1991, EPA selected the [remedy for Operable Unit 2](https://semspub.epa.gov/src/document/03/106086) (OU2), groundwater, which included continued groundwater monitoring, and providing wellhead treatment units to residences, if contaminants were found above action levels.  
+  
+The baseline sampling of residential wells began in 1999, and continues on a quarterly schedule today. Results have indicated that no wells have contaminants above action levels, therefore, no wellhead treatment units have been required.  
+  
+A [2007](https://semspub.epa.gov/src/document/03/2073483) [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/src/document/03/2073483) was written for the original decision document, called the Record of Decision (ROD). The ESD required that institutional controls be placed on the property to protect the landfill cap. The ESD specified that no groundwater wells can be installed on the property.
+
+### What Is the Current Site Status?
+
+In 2018, the Dorney Road Landfill Superfund Site was [deleted from the National Priorities List](https://www.federalregister.gov/documents/2018/09/24/2018-20745/national-oil-and-hazardous-substances-pollution-contingency-plan-national-priorities-list-deletion). Groundwater monitoring and landfill cap inspections continue on a quarterly basis.
+
+EPA has conducted several Five-Year Reviews of the site’s cleanup. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2344436), concluded the remedies in place at the site are protective of human health and the environment for the following reasons:
+
+- The landfill cap prevents direct contact with site contamination and prevents migration of contaminants to groundwater.
+- Groundwater contamination has decreased to levels below most Maximum Contaminant Levels (MCLs).
+- Residential monitoring found that site contaminants are below MCLs.
+- The institutional controls prevent disturbance of the landfill cap and the installed ground water wells on the capped portion of the property. The institutional controls also prevent future use of the property that would compromise the effectiveness of the remedy.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to protect the landfill cap and prevent groundwater use. Additional information about the institutional controls are available in the [2023 Five Year Review (PDF)](https://semspub.epa.gov/src/document/03/2344436) (pages 8-10).
+
+### Emergency Response and Removal
+
+Cleanup also included a removal action, or short-term cleanup, to address immediate threats to human health and the environment. This action in 1986 included regrading the site to collect and contain surface water runoff.

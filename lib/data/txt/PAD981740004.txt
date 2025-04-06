@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Enforcement Information](#Enforce)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302401)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302401)
-
----
-
 ### Background
 
 The Dublin TCE Superfund Site is located in Dublin Borough, Bucks County, Pennsylvania. In 1986, the Bucks County Health Department discovered trichloroethylene (TCE), a chemical component of solvents, in 23 home tap water samples in Dublin. The highest TCE concentrations were found in a well on the site property. This property has been the site of several manufacturing operations over the last 50 years, including Kollsman Motor Company, which allegedly used and disposed of solvents, including TCE, on the property during its operation. This property is thought to be the likely source of the TCE groundwater contamination. The groundwater was used by private wells servicing approximately 100 homes, apartments, and businesses in Dublin. All the affected wells have been taken out of service and drinking water is being provided by the public system. The site was added to the Superfund program's National Priorities List in August 1990.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -27,15 +8,11 @@ In 1987, EPA and the current site owner entered into a consent order and agreeme
 
 In 1992, a Feasibility Study began to explore cleanup alternatives for the site. In September 2002, EPA issued a Record of Decision (ROD), selecting in-situ chemical oxidation (ISCO) as the groundwater cleanup remedy. The ROD stated that if the ISCO remedy failed to achieve clean-up goals within a reasonable timeframe, a contingent remedy to extract and treat the contaminated groundwater would be implemented. In August 2015, EPA issued an Explanation of Significant Differences to trigger implementation of the contingent ‘pump and treat’ remedy specified in the 2002 ROD. EPA is currently working with the responsible party and Dublin Borough to design and implement this contingent remedy.
 
----
-
 ### What Is the Current Site Status?
 
 EPA is currently working with the responsible party and Dublin Borough to design and implement a contingent remedy to address the groundwater contamination. The next five-year review will follow completion of the contingent remedial action.
 
 In addition, EPA and the responsible party are also working together to investigate the vapor intrusion pathway. The responsible party collected samples from approximately 20 homes and business in March 2014, March 2015 and December 2016. No risk from vapor intrusion was identified in the residential area. Vapor intrusion sampling at the onsite structure has indicated that, while elevated concentrations of VOCs existed in the sub-slab, there was no risk to human health associated with it.
-
----
 
 ### Activity and Use Limitations
 
@@ -44,8 +21,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls permanently limit the 120 Mill Street property to commercial/industrial use with no residential use in the future. Groundwater use is prohibited.  
-
----
 
 ### Enforcement Information
 

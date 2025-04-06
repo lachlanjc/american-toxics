@@ -1,2 +1,64 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+From 1947 to 1991, National Wood Preservers ran a wood treatment operation on this site in Delaware County, Pennsylvania. The company reportedly disposed of liquid waste in a well leading to groundwater under the plant. The wastes were mostly oil contaminated with pentachlorophenol (PCP). The liquid wastes leaked into nearby Naylor’s Run, a small stream that flows through a residential area and then empties into the Delaware River. Liquid wastes were also spilled on the surface, contaminating soil in the area. Approximately 26,000 people live within a mile of the site and there are no known users of the groundwater within a one-mile radius of the site. The nearby population is on the public water supply. The site was added to the National Priorities List in September 1983, making it eligible for investigation and cleanup under the federal Superfund program. The source of contamination has been capped and groundwater extraction network is in place to capture contaminated groundwater for treatment. A new plant is currently being constructed to handle higher volumes of water. A temporary treatment system is currently being operated to treat collected water. Operations and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA issued three Record of Decisions (RODs) which describe the remedies for cleaning up the site. The first ROD for the site was issued in [September 1989](https://semspub.epa.gov/src/document/03/111736). It identified interim remedies for on-site soil, storm sewer effluent, drummed waste and the continued release of contaminants to Naylors Run.
+
+In [September 1991](https://semspub.epa.gov/src/document/03/111839), EPA signed a second ROD, which selected an interim remedy to address the contamination in the shallow aquifer migrating from the site.
+
+In [April 2008](https://semspub.epa.gov/src/document/03/2089762), EPA signed the third ROD, which addresses groundwater contamination and the Recreation and Open Space (ROS) area of the site. The September 1991 ROD was incorporated into this document.
+
+The cleanup work completed to date includes the following activities:
+
+- A removal action in 1997 was conducted to address the soil contamination. The removal action consisted primarily of the installation of a synthetic geomembrane cap on 3 acres of the former National Wood Preservers facility. The installation of the cap removed the potential for exposure to soils contaminated with arsenic and dioxins by providing a synthetic geomembrane barrier and a minimum of 18 inches of soil cover over the areas of contamination.
+- In the fall of 1997, EPA covered the capped area with an additional 4 to 10 feet of fill and planted the fill with a mixture of seed, mulch and fertilizer. A self-storage facility as well as vegetated grassy areas currently cover the capped area. A Pennsylvania Department of Environmental Protection (PADEP) contractor conducts periodic inspections of the cap to ensure its integrity.
+- The construction of the groundwater treatment building began in 1997 and the plant was fully online in August 2001.
+- In November 2008, EPA redesigned the pre‐treatment portion of the groundwater extraction and treatment system to increase the amount of water treated by the facility. This portion of the remedial action was completed in February 2009. The facility can now treat 70 gallons of contaminated groundwater per minute.
+- Excavation of contaminated soil and the abandoned sanitary sewer line in the ROS area of the site began in January 2010, with completion in March 2010. EPA excavated about 3,000 cubic yards of contaminated soil in the ROS area and disposed it off-site. Restoration of the ROS area included placing riprap on the banks of Naylors Run, installing a drainage swale, placing topsoil and seeding. The restoration of the residential area included replacing a driveway, grading and seeding the yards and landscaping the area.
+- The site reached construction completion in September 2010. The groundwater continues to be extracted and treated on a continuous basis.
+- Operation and maintenance of the site was transferred from EPA to PADEP in June 2013.
+- An ecological monitoring program began in May 2009 and has continued through 2019. The program is intended to demonstrate recovery of benthic macroinvertebrate and fish communities, and to examine the efficacy of the ROS area excavation and groundwater treatment. Based on the results, several ecological monitoring endpoints clearly indicate improvement in the quality of Naylors Run since remedial activities were implemented at the site.
+
+In early 2019, several residents along Rittenhouse Circle in Havertown contacted EPA and PADEP reporting wetter than normal conditions in their backyards and flooding in their basements. They expressed concerns to both agencies about potential contamination. PADEP began taking samples on residential properties in February 2019. Additional sampling was conducted by EPA in April 2019.
+
+As part of the additional investigations, EPA also conducted a dye tracer study in April 2019. EPA injected brightly colored, non-toxic dyes into the ground at various points and monitored the discharge locations to help determine the cause of the elevated ground water table. EPA and PADEP asked that residents notify the agencies if they saw the brightly colored dyes coming to the surface.
+
+The sampling results identified one or more site contaminants in the soil and/or sump water (where present) for most of the residential properties that were tested. The contamination appears to have been transported from the groundwater into residential yards and structures between the YMCA and Rittenhouse Circle. This likely occurred when the water table was elevated and seeping out of the ground in 2018-2019.
+
+The contaminants that were detected are not present in amounts that pose an emergency situation or immediate health threat. However, some of the contaminants are high enough to exceed EPA's cleanup standards for the site and they can pose a health risk if people are in frequent contact with the contaminants over long periods of time (several decades).
+
+Based on the investigations, EPA conducted a short term response to reduce the potential for exposure to the site contaminants. This action is addressing residential property contamination and modifying the groundwater collection system to capture increased water table conditions. Additional testing of residential properties was conducted to determine the extent of the contamination. Response actions began in November 2019 and werecompleted on the residential properties in late 2021. More information can be found in this [Community Update - December 2020](https://semspub.epa.gov/src/document/03/2312254).
+
+### What Is the Current Site Status?
+
+The short-term response action conducted on residential properties along Rittenhouse Circle was completed in late 2021. This included soil excavation form four properties, waterproofing of nine residential crawl spaces, and installation of several shallow groundwater collection sumps and a trench. All of the collected water is conveyed to a temporary treatment plant on Site. The groundwater treatment plant expansion is expected to begin in late 2021 and will be completed in late 20231. Following these activities, additional groundwater recovery wells in other areas of the Site will also need to be installed.  
+  
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2020 Five-Year Review](http://[SG1]Link to report: https://semspub.epa.gov/src/document/03/2306171) found the remedy remains protective in the short-term. In order to be protective in the long-term, the short term response actions on Rittenhouse Circle need to be completed and the groundwater treatment plant must be expanded. The next five-year review is scheduled for 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prevent exposure to contaminated groundwater and to protect the integrity of the remedy, including the soil cap and the groundwater extraction and treatment system. Additional information about the institutional controls is available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2306171) (pages 16-22).
+
+### Sampling and Monitoring
+
+**Annual Groundwater Monitoring Reports**
+
+[2015 Annual Report (July 2014 to June 2015)](https://semspub.epa.gov/src/document/03/2278011)
+
+[2015 - 2016 Annual Report (July 2015 to June 2016)](https://semspub.epa.gov/src/document/03/2278015)
+
+[2016 - 2017 Annual Report (July 2016 to June 2017)](https://semspub.epa.gov/src/document/03/2278013)
+
+[2017 - 2018 Annual Report (July 2017 to June 2018)](https://semspub.epa.gov/src/document/03/2278014)
+
+### Emergency Response and Removal
+
+Cleanup has also included several removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These actions included installation of a catch basin in Naylor’s Run to contain chemicals; removal of contaminated tanks and drums; securing of on-site buildings; and capping of contaminated soil.
+
+EPA is currently conducting a short-term response to reduce the potential for exposure to the site contaminants. This action is addressing residential property contamination and modifying the groundwater collection system to capture increased water table conditions. Additional testing of more residential properties was conducted to determine the extent of the contamination and response actions began in November 2019. More information can be found in this [Community Update - December 2020.](https://semspub.epa.gov/src/document/03/2312254)

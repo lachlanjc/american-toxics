@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301343)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301343)
-
----
-
 ### Background
 
 The three-acre Wade site is located immediately north of the Commodore Barry Bridge in Chester, Delaware County, Pennsylvania. A rubber recycling facility operated at the site from 1950 until the early 1970s, and then an illegal industrial waste storage and disposal facility operated on site until 1978. Workers stored drums on site or dumped their contents either directly onto the ground or into trenches. In 1978, a fire destroyed one building and caused extensive damage to two others used for stockpiling drummed wastes. Burned building debris, exploded drums, tires, shredded rubber and contaminated soil littered the property. Waste disposal activities and the subsequent fire had contaminated soil and groundwater. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1983. Following cleanup, the site was deleted from the NPL in 1989. Monitoring of the site is ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -32,15 +14,11 @@ In 2004, with EPA and state approval, the site was upgraded with an asphalt surf
 
 In 2008, the adjacent Barry Bridge Park property was selected as the future site of the Chester Soccer stadium and construction activities began in 2009. EPA worked with the City of Chester to ensure that activities related to the construction and redevelopment of that property did not negatively impact the site, which continued in use as a parking facility.
 
----
-
 ### What Is the Current Site Status?
 
 The site has been redeveloped and is currently in use as a public parking facility. EPA and PADEP continue to monitor the site.
 
 EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2018 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2229397), concluded that the remedy continues to be protective of human health and the environment. Waste, debris and contaminated soils were removed in the original response action, and the remaining soil was capped in placed with the construction of an asphalt parking facility. Nearly three decades of groundwater sampling data has shown that groundwater contamination beneath the site has declined to very low or non-detect levels. This site is expected to remain protective of human health and the environment. The next five-year review is scheduled for 2023.
-
----
 
 ### Activity and Use Limitations
 

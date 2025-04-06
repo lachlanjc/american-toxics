@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 12-acre Brodhead Creek site is located in Stroudsburg, Pennsylvania at the confluence of Brodhead and McMichael creeks. From 1888 to 1944, a coal gasification plant operated at the site. The plant, which operated along the west bank of Brodhead Creek, produced coal tar wastes during its operation. Coal tar waste disposal practices contaminated groundwater, soil and creek sediment. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1983. Following cleanup, operation and maintenance activities are ongoing. EPA deleted the site from the NPL in 2001.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1981, EPA took steps to stop the seepage of coal tar into Brodhead Creek by constructing an underground slurry wall to contain the coal tar. The current landowner also pumped out about 8,000 gallons of coal tar out of the ground and collected approximately150 drums of material.In 1987, UGI and the PP&L (Responsible Parties) signed a consent order with the Pennsylvania Department of Environmental Protection (PADEP) to study the contamination and to develop alternative remedies for cleanup.
+
+In 1991, an innovative technology called the Contained Recovery of Oily Waste (CROW) process removed an additional 1,500 gallons of coal tar from the subsurface soils. In 1992, the Responsible Parties agreed to perform an investigation of the bedrock aquifer. The results of the study indicated that the bedrock aquifer was clean and that upward groundwater flow gradients existed across the site. Shallow groundwater was not used as a drinking water source and surface waters at the site had not been impacted by site related contamination. It was also determined that complete removal of residual coal tar at the site would be technically unworkable because of several site-specific constraints including a flood control levee and wetlands on site.
+
+In 1995, EPA issued a [Record of Decision](https://semspub.epa.gov/src/document/03/105554) stating that no further cleanup work was necessary for groundwater and residual coal tar at the site. EPA also waived requirements to clean the groundwater because of the inability to excavate the area. The preliminary close-out report was issued in [September 1997](https://semspub.epa.gov/src/document/03/463644). EPA completed the [first Five-Year Review](https://semspub.epa.gov/src/document/03/2053739) of the Brodhead Creek Site in 1999. In 2000, institutional controls (ICs), which limit future land use, were implemented by the Responsible Parties, and recorded at the Monroe County Courthouse Recorder of Deeds Office in Stroudsburg, Pennsylvania. These controls include restricting use of groundwater at the site and prohibiting excavation at the site unless prior written approval is provided. Also in 2000, EPA issued the final completion report for the Brodhead Creek Site and deleted the site from the National Priorities List in 2001.
+
+In 2007, EPA was notified of a potential coal tar seep in McMichael Creek adjacent to the site. A subsequent inspection by EPA and the Responsible Parties confirmed the coal tar seep and an additional seep in a stormwater drainage ditch discharging to Brodhead Creek. The Responsible Parties undertook immediate action to contain the seeps by installing absorbent booms and pads to contain the seep. The Responsible Parties also initiated a geophysical survey in November 2007 and additional subsurface exploration activities in May and June 2008 in an effort to identify potential subsurface coal tar deposits that may have migrated or been previously unknown.
+
+Targeted removal actions of residual coal tar impacted soils at the site were performed in 2008 and 2012. Approximately 500 tons of impacted soil was removed. No additional coal tar seeps have been observed.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2275299), concluded that the remedy is functioning as designed and is protective of human health and environment in the short-term. In order for the remedy to be protective in the long term, institutional controls should be improved to ensure protectiveness. The next Five-Year Review is scheduled for 2024.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls (ICs) are in place to prevent exposure to subsurface soil contamination and use of groundwater. Additional information about the ICs is available in the [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2275299) (pages11-14).
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. EPA removal actions in 2008 and 2012 addressed areas where creek erosion had caused coal tar seeps.

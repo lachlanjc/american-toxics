@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301594)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301594)
-
----
-
 ### Background
 
 The 10-acre Shriver’s Corner site is located in Straban Township, Pennsylvania. A disposal area operated on site, accepting drums of waste from the nearby Westinghouse Elevator Co. Plant Superfund Site. Dumping of drums, containing volatile organic compounds (VOCs) which are chemical components of solvents, liquid wastes, and paint sludge, took place on the southern part of the site. Waste disposal operations contaminated soil, sediment and groundwater. The site was added to the Superfund program's National Priorities List in June 1986. Following cleanup, groundwater treatment is ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -47,8 +28,6 @@ The site consists of three operable units (OUs):
 2. OU-2 to address soil and sediment contamination, and
 3. OU-3 to address the groundwater treatment and extraction system.
 
----
-
 ### What Is the Current Site Status?
 
 A groundwater extraction and treatment system has been in operation since November 2002 at each area. The system associated with the Culp Area has been successful at reducing total volatile organic compound (VOC) concentrations within the plume and reducing the footprint of the VOC plume. However, total VOC concentrations remain above cleanup goals. Therefore, the responsible party will conduct a pilot study to evaluate options to further reduce the VOC concentrations in the Culp Area, beginning in September 2019.
@@ -57,8 +36,6 @@ EPA has conducted several five-year reviews of the site’s remedy. These review
 
 In September 2024, EPA issued the [second Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2394493) document for the site. This ESD documents changes to the original cleanup plan. These changes include adding 1,4-dioxane to the list of groundwater Contaminants of Concern (COC), clarifying groundwater COCs that are addressed by the cleanup, establishing groundwater cleanup standards for groundwater COCs without federal Maximum Contaminant Levels, and requiring a cumulative risk assessment after the groundwater cleanup standard for each COC is achieved.
 
----
-
 ### Activity and Use Limitations
 
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
@@ -66,8 +43,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls are in place to restrict groundwater use. Additional information about the institutional controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2350799) (pages 5-6).
-
----
 
 ### Emergency Response and Removal
 

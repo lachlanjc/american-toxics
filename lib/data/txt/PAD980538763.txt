@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301295)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301295)
-
----
-
 ### Background
 
 The 200-acre Middletown Air Field is located in Middletown in Dauphin County, Pennsylvania. From 1868 to 1966, the federal government owned and operated the Middletown Air Field as the Olmstead Air Force Base. Historical operations at the site included the maintenance, overhauling and testing of aircraft. In 1971, the Pennsylvania Department of Transportation (PennDOT) began operation of the majority of the site as the Harrisburg International Airport (HIA). In 1983, volatile organic compounds (VOCs) were detected in groundwater wells operated by HIA at the site. Investigations indicated that facility operations at the Air Force Base and HIA resulted in contamination of soil, surface water and groundwater with hazardous chemicals. The site was added to the Superfund program's National Priorities List (NPL) in 1986. Following cleanup, operation and maintenance activities are ongoing. EPA deleted the site from the NPL in July 1997, having met the established cleanup goals. Since 1998, the Susquehanna Area Regional Airport Administration has owned and operated the HIA facility.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -35,8 +16,6 @@ Following the completion of an additional investigation and feasability study, E
 
 In October 2023, EPA issued a second [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/src/document/03/2356299) that modifies the Selected Remedy by changing the treatment system from the existing air stripper water treatment system to a Granular Activated Carbon (GAC) water treatment system. This upgrade is to treat the groundwater for non-site related contaminants to standards set forth by the PADEP Safe Drinking Water Program (SDWP). The system upgrade, financed by the current owner and operator, will still be protective of and effectively treat site-related contamination.
 
----
-
 ### What Is the Current Site Status?
 
 The long-term remedy included extraction and treatment of contaminated groundwater; institutional controls to restrict groundwater use and manage soil in certain areas of the site; and continued monitoring of groundwater, surface water and sediment. In 1997, a Memorandum of Understanding (MOU) was signed between the Pennsylvania Department of Environmental Protection (PADEP) and the Pennsylvania Department of Transportation (PennDOT) to implement the remedy selected in the 1996 ROD and to continue operation of the Harrisburg International Airport (HIA) groundwater treatment system.
@@ -47,8 +26,6 @@ The site is partially occupied by the HIA, which is operated by the Susquehanna 
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329179), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2027.
 
----
-
 ### Activity and Use Limitations
 
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
@@ -56,8 +33,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls are in place to restrict groundwater use and require soil sampling/analysis during excavations. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329179) (pages 7-9).
-
----
 
 ### Emergency Response and Removal
 

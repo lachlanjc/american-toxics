@@ -1,20 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Sampling and Monitoring](#Sample)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300939)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300939)
-
----
-
 ### Background
 
 The Metro Container Site is located in an industrialized area about 20 miles southwest of Philadelphia in Trainer, Delaware County, Pennsylvania. The main portion of the site is comprised of a two adjacent properties totaling 10.4 acres located at the southwest corner of 2nd and Price Streets (the "Metro Property"). Surrounding the Metro Property are a petroleum refinery, auto salvage operation, metal scrap operation, and rail yard. Residential properties are located north of the Metro Property. The Metro Property is located adjacent to Stoney Creek, a small stream historically known as Middle Run or Stony Run. Stoney Creek is a tidally influenced tributary of the Delaware River, which is located approximately 1,000 feet south of the Metro Property.
@@ -27,13 +10,9 @@ Soil and groundwater at the Metro Property is contaminated with polychlorinated 
 
 The site was added to the National Priorities List (NPL) in March 2012, making it eligible for long-term investigation and cleanup under the federal Superfund program.
 
----
-
 ### What Has Been Done to Clean Up the Site?
 
 In 2015, EPA issued two separate Administrative Orders on Consent (AOCs) to a group of potentially responsible parties (PRPs). One AOC outlined the conditions for performance of the removal actions by PRPs, which were completed in late 2016. Under the conditions of the other AOC, the PRPs agreed to perform the Remedial Investigation and Feasibility Study (RI/FS) under EPA oversight. The PRPs continue to perform the RI/FS at OU1 under EPA oversight.
-
----
 
 ### What Is the Current Site Status?
 
@@ -45,8 +24,6 @@ The actions were conducted in two phases from 2013 through 2016. Results and fin
 
 Current and future activities at the site are being performed by or under oversight of the EPA Superfund Remedial Program.
 
----
-
 ### Sampling and Monitoring
 
 To date, sampling and monitoring has included:
@@ -55,8 +32,6 @@ To date, sampling and monitoring has included:
 - Characterzation of sediment and ecological features in Stoney Creek;
 - Vapor Intrusion sampling at the site; and
 - Characterzation of off-site groundwater.
-
----
 
 ### Emergency Response and Removal
 

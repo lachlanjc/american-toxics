@@ -1,21 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-- [Enforcement Information](#Enforce)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301139)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301139)
-
----
-
 ### Background
 
 The Breslube-Penn Superfund Site is located near Coraopolis in Allegheny County, Pennsylvania. The Site encompasses the former Breslube-Penn facility, a 7-acre tract of land in the floodplain of Montour Run in Moon Township. The Site also includes a small portion of adjacent properties owned by the Montour Trail Council and the Coraopolis District Sportsmen’s Association (CDSA). A steep, wooded hillside borders the Site to the north and west. Montour Run, a tributary of Fishers Creek, flows across the southern portion of the Site. A private road and the recreational Montour Trail also runs across the Site boundary.
@@ -23,8 +5,6 @@ The Breslube-Penn Superfund Site is located near Coraopolis in Allegheny County,
 Wiseman Oil Company operated an oil processing and reclamation facility at the Site from 1977 to 1982. These operations generated a solid waste that was stockpiled at the facility. In 1982, Breslube-Penn, Inc. bought the facility and continued oil processing and stockpiling operations until 1986. The facility was a used oil transfer station from 1987 until 1992, at which time operations at the facility ceased. The former facility property includes the Site’s waste management area (WMA), which is a 4.7-acre area of consolidated waste covered with a cap, and a constructed wetland. There are no buildings on the former facility property.
 
 EPA placed the Site on the Superfund program's National Priorities List in 1996.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -38,15 +18,11 @@ OU2 addresses contaminated groundwater outside the WMA. In June 2015, the PRP be
 
 The PRP monitors groundwater in the area to ensure that contamination from the Site does not pose a threat to public drinking water supplies.
 
----
-
 ### What Is the Current Site Status?
 
 The Site consists of two Operable Units (OUs) currently being addressed by potentially responsible parties (PRPs) with EPA oversight. The remedy for OU1 is currently in place and includes the consolidation of treatment of contaminants within a Waste Management Area (WMA). The OU2 remedy is currently designed and includes a continuation of groundwater cleanup actions originally introduced during the extended pilot study.
 
 EPA completed the second five-year review in April 2024. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2379231), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2028.
-
----
 
 ### Activity and Use Limitations
 
@@ -58,13 +34,9 @@ Institutional Controls (ICs) are in place at the Site. ICs are legal and adminis
 
 Additional information about the institutional controls are available in the [2019 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2275291) (pages 16-18).
 
----
-
 ### Emergency Response and Removal
 
 Cleanup also included a removal action, or short-term cleanup, to address immediate threats to human health and the environment. The removal action, which took place in 1993, involved the disposal of stockpiled soil.
-
----
 
 ### Enforcement Information
 

@@ -1,23 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301849)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301849)
-
----
-
 ### Background
 
 The Croydon TCE Site is located in a 3.5 square mile area within the southernmost portion of Bristol Township, Bucks County, Pennsylvania. The area includes residential, commercial, and industrial properties. EPA identified the Croydon TCE site in 1985 after an investigation at a neighboring Rohm & Haas industrial plant revealed a plume of groundwater contamination that did not appear to be associated with that plant. Elevated levels of volatile organic contaminants (VOCs), primarily trichloroethene (TCE), have been detected in the groundwater and in surface water. However, to date, no source has been identified. This site was proposed to the National Priorities List on September 18, 1985 and was formally added to the list on June 10, 1986.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -34,8 +17,6 @@ Between March 2007 and September 2009, all wells on site were sampled for the co
 The [2015 OU2 ESD (PDF)](https://semspub.epa.gov/work/03/2217903.pdf) officially discontinued extraction and treatment of groundwater and allowed for the dismantling of the system (expected to occur in 2022). The treatment system building, and components currently remain on site. TCE concentrations in groundwater have generally remained below 15 µg/L in all site wells with no change in the plume extent since system shutdown.
 
 EPA and PADEP have been exploring alternative groundwater remedies to address remaining contamination. In 2014, PADEP initiated an enhanced monitored natural attenuation (MNA) evaluation. Between December 2017 and February 2018, PADEP’s contractor conducted a pilot test to evaluate injections of bio-stimulants (nutrients, sodium bicarbonate and dissolved methane) in certain areas where TCE levels were still above the Maximum Contaminant Level (MCL), primarily near the treatment building on the Heritage Conservancy parcel. The in-situ bioremediation (ISB) injections were conducted to enhance the natural degradation of TCE. Thestudy found that increased methane concentrations in groundwater resulted in significant increases in methane-oxidizing bacteria (MOB) (methanotrophs) and soluble methane monooxygenase (sMMO). The increased MOB and sMMO concentrations accelerate the natural TCE degradation rate by oxidizing the chlorinated solvents. PADEP’s contractor submitted an Enhanced Natural Attenuation Injection Activities and Data Evaluation Memorandum to PADEP in 2018, summarizing the activities and results. The 2018 ISB pilot study showed an immediate reduction of nearly 50% in TCE concentration but, subsequent sampling events demonstrated a rebound in concentrations close to the pre-pilot study concentrations.
-
----
 
 ### What Is the Current Site Status?
 

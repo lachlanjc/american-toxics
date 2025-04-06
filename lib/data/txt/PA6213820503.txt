@@ -1,26 +1,8 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0302467)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0302467)
-
----
-
 ### Background
 
 The Letterkenny Army Depot is located five miles north of Chambersburg in Franklin County, PA. The U.S. Army established the 19,243-acre facility in 1942 for ammunition storage, and since 1947 the facility has been used for military purposes associated with munitions and vehicle maintenance. There are two Superfund program National Priority List (NPL) sites associated with the Letterkenny Army Depot: the Property Disposal Office (PDO) site and the Southeast (SE) Area site. This narrative addresses the SE Area site, which was added to the NPL on July 22, 1987.
 
 The Letterkenny Army Depot SE Area site includes areas associated with the overhauling, rebuilding and testing of vehicles; disposal, maintenance and storage of various military ordnance; and warehousing operations. These operations consisted of cleaning, stripping, painting, lubrication, and plating activities, which involved the use of solvents, blast media (such as sand from sandblasting operations), paints, chemicals, petroleum products, and metals. Storage, spills, releases, and disposal of these materials contaminated soil, groundwater, sediment and surface water with hazardous chemicals. Cleanups are complete at some areas within the SE Area. Operation and maintenance activities at those areas are ongoing. Investigations and remedy selection activities are ongoing at the remaining areas.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -31,8 +13,6 @@ A list of the decision documents, including RODs, completed with a summary of th
 A full list of operable units can be viewed under the *Operable Units* section.
 
 The site is being addressed by the U.S. Department of Defense under the Installation Restoration Program and Base Closure.
-
----
 
 ### What Is the Current Site Status?
 
@@ -45,8 +25,6 @@ Cleanup work is ongoing at several operable units. Current work at Letterkenny S
 A full list of activities per each operable unit can be found under the *Cleanup Progress* section.
 
 The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent can be found here, hyperlink [2017 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2243725). EPA is in the process of reviewing the 2022 Five-Year Review report.
-
----
 
 ### Activity and Use Limitations
 

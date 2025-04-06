@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301426)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301426)
-
----
-
 ### Background
 
 The East Mount Zion site, located in Springettsbury, York County, Pennsylvania, is a privately owned, inactive, 10-acre landfill that accepted municipal and industrial wastes, including electroplating sludge, from 1955 to 1972. The Pennsylvania Department of Environmental Protection (PADEP) attempted to close the dump during the 1960s and early 1970s. After extensive legal action, the site was closed in 1972. Final closing activities, including a soil cover, were completed in 1976; however, groundwater at the site had become contaminated with volatile organic compounds (VOCs) from the landfill. The Site was added to the National Priorities List (NPL) on September 21, 1984.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -40,15 +22,11 @@ EPA and PADEP addressed methane generation at the boundaries of the landfill. Th
 
 The impact of the 11 additional gas vents which were installed on the landfill in 2007 is being evaluated by EPA and PADEP on an ongoing basis. The methane levels measured in 2011 on the western boundary of the landfill, adjacent to nearby homes, were not detectable or below levels of concern.
 
----
-
 ### What Is the Current Site Status?
 
 The Pennsylvania Department of Enviromental Protection (PADEP) continues to perform operations and maintenance at the landfill, such as grass cutting, groundwater sampling, and methane sampling.
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. [The most recent, 2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2329150), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2027.  
-
----
 
 ### Activity and Use Limitations
 

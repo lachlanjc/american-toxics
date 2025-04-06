@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300694)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300694)
-
----
-
 ### Background
 
 The 60-acre Bendix Site is located in South Montrose just east of Route 29 in Bridgewater Township, PA. The Site consists of a closed manufacturing building and office, a parking lot, two treatment buildings, and fenced grounds. It was used to manufacture aircraft instruments from 1952 to 1996, when industrial solvent waste was disposed of in a lagoon and a series of trenches. In addition, from the 1950s to 1978, oil-contaminated water was also disposed of in a pit, but these liquids were eventually drained and the pit was backfilled and seeded. Investigations from 1984 to 1987 showed soil and groundwater contamination. In 1987 the Site was added the the National Priorities List (NPL).
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -37,13 +19,9 @@ Below you will find a brief timeline highlighting what has been done to clean up
 - A Supplemental Site Investigation (SSI) was started in 2009 to identify remaining sources of groundwater contamination. A second phase of the SSI was conducted in 2011 and a third phase is currently ongoing (2022). As a result of the investigation, several pilot studies were conducted during the summer of 2011 to evaluate various cleanup technologies. Study results will be used to select additional cleanup actions.
 - The former main industrial building used for historical site operations was demolished in 2012.
 
----
-
 ### What Is the Current Site Status?
 
 EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2333714.pdf), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2027.
-
----
 
 ### Activity and Use Limitations
 

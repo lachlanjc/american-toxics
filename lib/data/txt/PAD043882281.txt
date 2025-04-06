@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300932)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300932)
-
----
-
 ### Background
 
 The 85-acre Westinghouse Elevator Co. Plant site is located in Cumberland Township, Pennsylvania. Between 1968 and 1989, Westinghouse Elevator Company operated an elevator and escalator manufacturing plant at the site. Schindler Elevator Corporation leased the site from Westinghouse in 1989 and continued elevator manufacturing operations until 2013. Historic elevator manufacturing operations utilized chlorinated solvents such as trichloroethene and 1,1,1-trichloroethane as degreasing agents. Releases during manufacturing operations and waste material storage resulted in impacts to groundwater, surface water, sediment and soil at the site.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -26,15 +8,11 @@ In 1983, in response to concerns presented by the Adams County Community Environ
 
 EPA selected the remedy for groundwater, surface water and sediment in a [June 1992 Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/134806) and modified the remedy in three separate Explanation of Significant Differences; [August 1998 ESD (PDF)](https://semspub.epa.gov/src/document/03/134829), [February 2012 ESD (PDF)](https://semspub.epa.gov/src/document/03/2136671), and [September 2016 ESD (PDF)](https://semspub.epa.gov/src/document/03/2235230). No unacceptable human health or ecological risk were identified for surface water or sediment; therefore, the 1992 ROD did not select a response action for those media. The groundwater remedy consists of extraction and treatment of contaminated groundwater. EPA issued a [“No Action” ROD (PDF)](https://semspub.epa.gov/src/document/03/135054) for soil in March 1995 because no unacceptable human health or ecological risk was identified for soil.
 
----
-
 ### What Is the Current Site Status?
 
 The groundwater remedy of extraction and treatment of contamination is ongoing.
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317209), concluded that the remedy for the site is protective of human health and the environment. Long-term groundwater and residential well monitoring are also performed regularly to evaluate the effectiveness of the remedy.
-
----
 
 ### Activity and Use Limitations
 

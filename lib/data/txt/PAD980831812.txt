@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301625)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301625)
-
----
-
 ### Background
 
 The Brown's Battery Breaking site is located in Shoemakersville, Berks County, Pennsylvania. The site consists of a 14-acre abandoned battery recycling facility that operated from 1961 to 1971. Three families were living on the site when the state discovered elevated levels of lead in children living in these residences. EPA then studied the site and found soil and surface water contamination. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1986. There is a fence around the perimeter of the site to restrict public access. The site is bordered by Conrail tracks to the west, the Schuylkill River to the southeast, and Mill Creek to the southwest. It lies within the flood plain of the Schuylkill River. Groundwater treatment at the site is ongoing. Approximately 220 people live within one-mile of the site. There are 1,000 people within three miles of the site who depend on groundwater for drinking water supplies. Two private residential wells are located on site. Only one of the private wells is currently used as a potable water source. The adjacent Schuylkill River is used as a potable water source, as well as for recreation.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -34,8 +16,6 @@ In March 1998, EPA determined that the innovative technology was not feasible an
 
 Contaminated groundwater at the site is being treated by injecting sodium bicarbonate to elevate the pH and reduce the solubility of metals. Injections have been ongoing on a periodic basis since 2005. The most recent injection event was conducted in 2020. The groundwater treatment was conducted by Exide; however, Exide declared bankruptcy again in May 2020. EPA, in coordination with the Pennsylvania Department of Environmental Protection (PADEP), is evaluating options for continued groundwater treatment and monitoring at the site.
 
----
-
 ### What Is the Current Site Status?
 
 Operation and maintenance activities will continue. However, because of the Exide bankruptcy, EPA is evaluating options for continuation of the work.
@@ -43,8 +23,6 @@ Operation and maintenance activities will continue. However, because of the Exid
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2335626.pdf), concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy is expected to be achieved through continued operation of the in-place chemical treatment of groundwater and proper compliance with institutional controls.
 
 The next five-year review is scheduled for September 2027.
-
----
 
 ### Activity and Use Limitations
 

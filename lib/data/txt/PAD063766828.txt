@@ -1,21 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Sampling and Monitoring](#Sample)
-- [Enforcement Information](#Enforce)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301042)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301042)
-
----
-
 ### Background
 
 The Resin Disposal Site is located approximately 0.5 miles from the Monongahela River, in Jefferson Hills Borough, Allegheny County, Pennsylvania. The site includes a two-acre former industrial waste landfill that was used between 1950 and 1964 for disposal of resin manufacturing waste. Historic disposal activities at the site contaminated soils, groundwater, surface water and sediment.
@@ -26,8 +8,6 @@ Hercules, Inc., a subsidiary of Ashland, Inc., purchased the property from PICCO
 
 Site investigations conducted by the PRP between 1980 and 1984, found contaminated groundwater migrating beyond the landfill. EPA added the site to the Superfund program's National Priorities List in September 1983. The site was deleted from the National Priorities List in October 2003. Currently, EPA and the Pennsylvania Department of Environmental Protection oversee the Potentially Responsible Party's long-term cleanup activities.
 
----
-
 ### What Has Been Done to Clean Up the Site?
 
 The site is being addressed through federal, state and Potentially Responsible Party actions.
@@ -37,8 +17,6 @@ The cleanup implemented at the site includes a multilayer cap and a newly upgrad
 Groundwater at the site is not used for drinking water. Nearby residences use a public water supply, which is tested regularly and meets federal safe drinking water standards. Some private wells near the site are still used for washing cars or watering lawns; however, these wells are either located up-gradient of the site or recent sampling has shown they are not impacted by the site.
 
 The long-term leachate treatment, surface water monitoring and groundwater monitoring are on-going.
-
----
 
 ### What Is the Current Site Status?
 
@@ -56,8 +34,6 @@ In September 2018, EPA issued an [Explanation of Significant Differences (ESD) (
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Fifth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312289), concluded that the remedy was protective of human health and the environment in the short term. There were a number of actions identified that are being taken to ensure future long-term protectiveness. The next five-year review is scheduled for 2025.
 
----
-
 ### Activity and Use Limitations
 
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
@@ -66,15 +42,11 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 
 Institutional controls are in place to protect cap, restrict groundwater usage, and restrict site use to commericial and industrial uses. Additional information about the institutional controls are available in the [2020 Fifth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312289) (pages 12-14).
 
----
-
 ### Sampling and Monitoring
 
 [Remedial Investigation Report (PDF)](http://semspub.epa.gov/src/document/03/31891)
 
 [Feasibility Study Report (PDF)](http://semspub.epa.gov/src/document/03/31903)
-
----
 
 ### Enforcement Information
 

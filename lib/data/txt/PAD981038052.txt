@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301982)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301982)
-
----
-
 ### Background
 
 The 57-acre Delta Quarries & Disposal, Inc./Stotler Landfill Site, located in Blair County, Pennsylvania, is an inactive, municipal landfill that operated from 1964 until 1985. Originally, the site consisted of two separate landfills that were combined with the Delta-Altoona Sanitary Landfill to form one large facility. Approximately 2,500 people live within 3 miles of the site. The closest residence is 35 feet from the site, and there are private wells in the vicinity. The aquifer under the site is used as a source of drinking water by local municipalities. About 1,500 people obtain drinking water from wells within 3 miles of the site. Groundwater flows in the direction of the Little Juniata River, which is one-mile from the site and is used for recreational activities. This site was proposed to the list on June 10, 1986 and formally added to the list March 31, 1989.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -34,8 +16,6 @@ Construction of the extraction system started, in June 1996, and by December the
 
 The PRPs continue to work at the site. During the fall of 1999, they upgraded electrical instrumentation and installed additional chain link fencing. In March 2001, EPA and the State changed sampling requirements.
 
----
-
 ### What Is the Current Site Status?
 
 The site’s long-term remedy included pumping and treating contaminated groundwater; land use restrictions; cap maintenance; installing a gas venting system; and long-term monitoring. Construction of the remedy took place between 1995 and 1996. Groundwater treatment and monitoring are ongoing.
@@ -43,8 +23,6 @@ The site’s long-term remedy included pumping and treating contaminated groundw
 EPA completed an [Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2330803) for the Delta Quarries Superfund Site in June 2022. An ESD outlines changes to the original cleanup plan to protect public health and the environment. This ESD will add 1,4-dioxane to the contaminant of concern list for the Site and set the cleanup goal of 6.4 ppb for the Site.
 
 EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2314178), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2026.
-
----
 
 ### Activity and Use Limitations
 

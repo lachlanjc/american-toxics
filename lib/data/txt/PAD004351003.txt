@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Enforcement Information](#Enforce)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300773)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300773)
-
----
-
 ### Background
 
 The A.I.W Frank/Mid-County Mustang Superfund Site is located on 16 acres which were originally surrounded by farmland, but are undergoing rapid development, including a mix of residential, commercial and light industrial areas. From 1962 to 1981, 15 of the 16 acres were used to produce Styrofoam cups and plates. In 1981, Continental Refrigerator Corp. bought the property and manufactured refrigerators, freezers and warming cabinets for the institutional food industry. One acre of the site was leased by Mid-County Mustang since the 1940s, for auto repairs and body shops. Solvents used for engine cleaning were routinely dumped into floor drains until the 1980s when the drains were sealed. From the floor drains, the solvents proceeded onto a drain field and contaminated soil and groundwater, primarily with trichloroethylene (TCE), a major component of solvents and degreasers. The site was added to the Superfund program's National Priorities List in 1989. Groundwater treatment and monitoring are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -45,8 +26,6 @@ EPA completed the design for the groundwater injections in 2018. It also complet
 
 Following this sampling event in 2022, PADEP resumed operation and maintenance of the Site and will continue designing the groundwater in situ bioremediation (ISBR) program to address the remaining chlorinated contamination at the Site. The ISBR injections will further reduce contaminant concentrations at the site to cleanup goals. Additional sampling will determine if more groundwater injections are necessary.
 
----
-
 ### What Is the Current Site Status?
 
 Groundwater treatment and monitoring are ongoing. The Pennsylvania Department of Environmental Protection (PADEP) will continue to provide oversight and work closely with the EPA to ensure the remedy is not impacted during any future redevelopment activities.
@@ -54,8 +33,6 @@ Groundwater treatment and monitoring are ongoing. The Pennsylvania Department of
 PADEP will continue to provide oversight and work closely with the EPA to ensure the remedy is not impacted during any future redevelopment activities.
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF),](https://semspub.epa.gov/src/document/03/2314118\),) concluded that the remedies are functioning as designed. The next five-year review is scheduled for 2026.
-
----
 
 ### Activity and Use Limitations
 
@@ -66,8 +43,6 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 Institutional controls are in place that currently prevent new residential wells from being installed in the contaminant plume. Controls are also in place on the site property to ensure protection of groundwater wells.
 
 An environmental covenant exists for new residential development immediately west of the site property. This environmental covenant restricts all groundwater use at the property, restricts interference with any monitoring wells and requires a vapor-mitigation system to be installed in every residential structure constructed at the property. Additional information about the institutional controls is available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2314118) (pages 10-13).
-
----
 
 ### Enforcement Information
 

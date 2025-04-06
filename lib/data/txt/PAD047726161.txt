@@ -1,55 +1,71 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Boarhead Farms Superfund Site is located on a residentially zoned property at 1310 Lonely Cottage Road in Bridgeton Township, Bucks County, Pennsylvania. The current owner, Boarhead Corporation, was incorporated and purchased the property in 1969. After purchase, Boarhead Corporation began storing and conducting activities that led to the release of hazardous substances to the environment. In 1970, a fish kill in a nearby stream was traced to releases of wastes from the site. Early investigations by the Bucks County Department of Health and the Pennsylvania Department of Environmental Resources (now Department of Environmental Protection) reported, among other observations, liquid wastes stored in 55-gallon drums, tanker trucks or trailers, and various containers, and liquid wastes pooled on the ground. Disturbed soils were observed, which inspectors believed to be indicators of buried waste.  In September 1976, approximately 34 local residents were evacuated due to the presence of sulfuric acid vapors that emanated from the site. These observations contributed to an order in October 1976 by the Bucks County Court of Common Pleas for Boarhead Corporation to remove all wastes from the site and prohibit the transport of hazardous substances onto the site at quantities greater than those that would be appropriate for normal household use.  In 1984, EPA began conducting preliminary assessments and site inspections to assess the contamination at the site. The site was added to the Superfund program's National Priorities List in 1989. EPA has addressed the releases of hazardous substances through a variety of actions and continues to oversee on-going work, which includes but is not limited to on-going operation and maintenance of a groundwater extraction and treatment system on the site and point-of-entry treatment systems on residential wells both on and off the site. Top of Page
-What Has Been Done to Clean Up the Site?
-Three removal actions were conducted in the 1990s: 
-Excavation and off-site shipment of buried drums and impacted soils containing hazardous waste (1992-1993 by EPA);
-Off-site shipment of buried drums containing radioactive hazardous waste (1993 by a potentially responsible party under EPA oversight); and
-Construction of a groundwater extraction and treatment system (1995-1997 by the U.S. Army Corps of Engineers). 
-During performance of these removal actions, EPA conducted a remedial investigation and feasibility study (RI/FS) to determine the nature and extent of contamination, evaluate risk, and assess the practicality of potential remedial alternatives. The findings of the RI/FS were used to identify remedial action objectives and select a remedy, which was presented in a Record of Decision (ROD) in November 1998. The remedy included the following: 
-Soil aeration and treatment of surface soil at two “hot spots";
-Excavation and off-site disposal of buried drums;
-Groundwater extraction and treatment using precipitation and air stripping;
-Installation of additional groundwater monitoring wells to monitor effectiveness of the remedial action;
-Maintenance of individual granular activated carbon filters installed on certain residential supply wells to prevent potential exposure to contaminated groundwater;
-Evaluation of phytoremediation treatability studies in former disposal areas to assist in the removal of contamination from groundwater; and
-Implementation of institutional controls to protect the integrity of the remedial action components. 
-In 2009, EPA initiated a fourth removal action to address high concentrations of trichloroethene (TCE) in indoor air at the single-family residence on the site through a migration pathway known as vapor intrusion. Vapor intrusion occurs when organic hazardous substances, such as TCE, volatilize in groundwater and migrate upward and into overlying structures. The residence is located within the Former Source Area, which is about 20 acres in size in the central part of the site, where the releases of hazardous substances occurred and concentrations of contaminants in groundwater remain high. Groundwater contaminated with high concentrations of TCE enters two sumps in the basement, and for reasons largely related to the older construction of the residence, accumulates in the basement air and subsequently, the indoor air of the living space above. TCE is one of 19 contaminants of concern selected in the remedy, and presents an acute risk at low concentrations in indoor air. Measures taken between 2009 and 2014 significantly reduced the concentrations of TCE in indoor air of the residence, but a potential risk may still exist for women of child-bearing years in certain conditions. In January 2019, EPA completed upgrades to basement sumps and an air exhaust system that successfully mitigated TCE concentrations in indoor air to acceptable risk levels. EPA has also overseen upgrades made by the potentially responsible party performing the cleanup to the existing groundwater extraction and treatment system. The first phase of upgrades began in 2017. As part of this phase, the larger of the two man-made ponds was drained to permit more effective control of groundwater. Afterward, a second interceptor trench was installed and additional extraction wells were drilled to address incomplete capture from former source areas at the origin of the Southern Plume. The land was regraded to reflect the original drainage patterns and Eastern cottonwoods were planted to promote the restoration of the land as a wooded wetland. The second phase began in November 2019 and is addressing incomplete capture near the origins of the Northern and Access Road plumes.  Top of Page
-What Is the Current Site Status?
-The potentially responsible party (PRP) is performing operation and maintenance of the remedy through an agreement with the EPA. EPA conducts oversight of all PRP activities at the site. Maintenance of the groundwater extraction and treatment system is conducted on an on-going basis. Sampling of monitoring wells and some residential wells near the site occurs on a semi-annual basis. The PRPs also perform annual indoor air and sub-slab vapor sampling at two off-site residences. EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, 2022 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2027. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional Controls (ICs) are non-engineered administrative and legal controls that help minimize the potential for human exposure to contamination and protect the integrity of remedial response actions. ICs were selected as part of the Remedy in the Record Of Decision and revised in the 2018 Explanation of Significant Differences for the following purposes: 
-prevent exposure to contaminated groundwater and organic vapors that may migrate into on-site improved structures,
-prevent exposure to contaminated subsurface soils (specifically, soils at depths greater than 2 feet) through excavation, construction, and regrading in and about the locations where former sources were buried and where releases of hazardous substances occurred, and
-protect remedial action components, including but not limited to the groundwater extraction system (“GWES”) building, extraction wells, monitoring wells, and lateral transmission lines. 
-To learn more about ICs at the site, visit the 2022 Five-Year Review (page 9). 
-Top of Page
-Sampling and Monitoring
+### Background
+
+The Boarhead Farms Superfund Site is located on a residentially zoned property at 1310 Lonely Cottage Road in Bridgeton Township, Bucks County, Pennsylvania. The current owner, Boarhead Corporation, was incorporated and purchased the property in 1969. After purchase, Boarhead Corporation began storing and conducting activities that led to the release of hazardous substances to the environment. In 1970, a fish kill in a nearby stream was traced to releases of wastes from the site. Early investigations by the Bucks County Department of Health and the Pennsylvania Department of Environmental Resources (now Department of Environmental Protection) reported, among other observations, liquid wastes stored in 55-gallon drums, tanker trucks or trailers, and various containers, and liquid wastes pooled on the ground. Disturbed soils were observed, which inspectors believed to be indicators of buried waste.
+
+In September 1976, approximately 34 local residents were evacuated due to the presence of sulfuric acid vapors that emanated from the site. These observations contributed to an order in October 1976 by the Bucks County Court of Common Pleas for Boarhead Corporation to remove all wastes from the site and prohibit the transport of hazardous substances onto the site at quantities greater than those that would be appropriate for normal household use.
+
+In 1984, EPA began conducting preliminary assessments and site inspections to assess the contamination at the site. The site was added to the Superfund program's National Priorities List in 1989.
+
+EPA has addressed the releases of hazardous substances through a variety of actions and continues to oversee on-going work, which includes but is not limited to on-going operation and maintenance of a groundwater extraction and treatment system on the site and point-of-entry treatment systems on residential wells both on and off the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Three removal actions were conducted in the 1990s:
+
+- Excavation and off-site shipment of buried drums and impacted soils containing hazardous waste (1992-1993 by EPA);
+- Off-site shipment of buried drums containing radioactive hazardous waste (1993 by a potentially responsible party under EPA oversight); and
+- Construction of a groundwater extraction and treatment system (1995-1997 by the U.S. Army Corps of Engineers).
+
+During performance of these removal actions, EPA conducted a remedial investigation and feasibility study (RI/FS) to determine the nature and extent of contamination, evaluate risk, and assess the practicality of potential remedial alternatives. The findings of the RI/FS were used to identify remedial action objectives and select a remedy, which was presented in a Record of Decision (ROD) in November 1998. The remedy included the following:
+
+- Soil aeration and treatment of surface soil at two “hot spots";
+- Excavation and off-site disposal of buried drums;
+- Groundwater extraction and treatment using precipitation and air stripping;
+- Installation of additional groundwater monitoring wells to monitor effectiveness of the remedial action;
+- Maintenance of individual granular activated carbon filters installed on certain residential supply wells to prevent potential exposure to contaminated groundwater;
+- Evaluation of phytoremediation treatability studies in former disposal areas to assist in the removal of contamination from groundwater; and
+- Implementation of institutional controls to protect the integrity of the remedial action components.
+
+In 2009, EPA initiated a fourth removal action to address high concentrations of trichloroethene (TCE) in indoor air at the single-family residence on the site through a migration pathway known as vapor intrusion. Vapor intrusion occurs when organic hazardous substances, such as TCE, volatilize in groundwater and migrate upward and into overlying structures. The residence is located within the Former Source Area, which is about 20 acres in size in the central part of the site, where the releases of hazardous substances occurred and concentrations of contaminants in groundwater remain high. Groundwater contaminated with high concentrations of TCE enters two sumps in the basement, and for reasons largely related to the older construction of the residence, accumulates in the basement air and subsequently, the indoor air of the living space above. TCE is one of 19 contaminants of concern selected in the remedy, and presents an acute risk at low concentrations in indoor air. Measures taken between 2009 and 2014 significantly reduced the concentrations of TCE in indoor air of the residence, but a potential risk may still exist for women of child-bearing years in certain conditions. In January 2019, EPA completed upgrades to basement sumps and an air exhaust system that successfully mitigated TCE concentrations in indoor air to acceptable risk levels.
+
+EPA has also overseen upgrades made by the potentially responsible party performing the cleanup to the existing groundwater extraction and treatment system. The first phase of upgrades began in 2017. As part of this phase, the larger of the two man-made ponds was drained to permit more effective control of groundwater. Afterward, a second interceptor trench was installed and additional extraction wells were drilled to address incomplete capture from former source areas at the origin of the Southern Plume. The land was regraded to reflect the original drainage patterns and Eastern cottonwoods were planted to promote the restoration of the land as a wooded wetland. The second phase began in November 2019 and is addressing incomplete capture near the origins of the Northern and Access Road plumes.
+
+### What Is the Current Site Status?
+
+The potentially responsible party (PRP) is performing operation and maintenance of the remedy through an agreement with the EPA. EPA conducts oversight of all PRP activities at the site. Maintenance of the groundwater extraction and treatment system is conducted on an on-going basis. Sampling of monitoring wells and some residential wells near the site occurs on a semi-annual basis. The PRPs also perform annual indoor air and sub-slab vapor sampling at two off-site residences.
+
+EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2336698.pdf), concluded that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is scheduled for 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) are non-engineered administrative and legal controls that help minimize the potential for human exposure to contamination and protect the integrity of remedial response actions. ICs were selected as part of the Remedy in the Record Of Decision and revised in the 2018 Explanation of Significant Differences for the following purposes:
+
+- prevent exposure to contaminated groundwater and organic vapors that may migrate into on-site improved structures,
+- prevent exposure to contaminated subsurface soils (specifically, soils at depths greater than 2 feet) through excavation, construction, and regrading in and about the locations where former sources were buried and where releases of hazardous substances occurred, and
+- protect remedial action components, including but not limited to the groundwater extraction system (“GWES”) building, extraction wells, monitoring wells, and lateral transmission lines.
+
+To learn more about ICs at the site, visit the [2022 Five-Year Review](https://semspub.epa.gov/work/03/2336698.pdf) (page 9).
+
+### Sampling and Monitoring
+
 Sampling to monitor the performance of the groundwater extraction and treatment system occurs twice per year, usually in April and October. The sampling network includes several dozen monitoring wells and four residential wells in close proximity to the site.
-Top of Page
-Emergency Response and Removal
-Site cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. All removal actions have been completed. These actions included: 
-removal of over 2,500 drums and numerous tanker trucks from the site;
-construction of a groundwater collection and treatment system;
-installation of extraction wells, an interceptor trench and residential well treatment filters;
-identification, excavation and removal of drums and soils contaminated with radioactive waste; and
-mitigation of high concentrations of trichloroethene (TCE) vapors in indoor air of the on-site residence.    
-To learn more, please visit the EPA On-Scene Coordinator website. Top of Page
-Enforcement Information
+
+### Emergency Response and Removal
+
+Site cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. All removal actions have been completed. These actions included:
+
+- removal of over 2,500 drums and numerous tanker trucks from the site;
+- construction of a groundwater collection and treatment system;
+- installation of extraction wells, an interceptor trench and residential well treatment filters;
+- identification, excavation and removal of drums and soils contaminated with radioactive waste; and
+- mitigation of high concentrations of trichloroethene (TCE) vapors in indoor air of the on-site residence.
+
+To learn more, please visit the [EPA On-Scene Coordinator website.](https://response.epa.gov/site/site_profile.aspx?site_id=12762)
+
+### Enforcement Information
+
 A potentially responsible party (PRP) is performing cleanup work at the site through a consent decree.
-Top of Page

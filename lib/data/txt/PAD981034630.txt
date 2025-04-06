@@ -1,38 +1,16 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301831)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301831)
-
----
-
 ### Background
 
 The Route 940 Drum Dump site located in Monroe County, Pennsylvania is a 2.5-acre site in Pocono Summit. In the 1970s, as many as 600 drums of unknown materials were stored on the site and in early 1983, the state was informed that some drums may have been buried on site. Later that year, the state detected volatile organic compounds (VOCs), chemical components of solvents, in on-site soils. Several organic chemicals also were detected in on-site groundwater. Thirty buried drums containing VOCs and heavy metals subsequently were discovered. Access to the site was restricted by a fence. Approximately 4,200 people depended on private wells and small public wells within three miles of the site as their sole source of drinking water. Indian River Creek, about a mile from the site, is used for fishing. Recreational fishing and hunting occur in the area surrounding the site.
 
 The groundwater and soil were contaminated with various VOCs that had leaked from buried drums on the site. The possibility of high concentrations of VOCs in the soil being transmitted through the air was thought to pose a threat to area residents. In addition, direct contact with contaminated areas or contamination of the drinking water supply may have posed a risk to the nearby public. The site was added to the Superfund program's National Priorities List (NPL) in September 1987. After cleanup, EPA deleted the site from the NPL in November 2000.
 
----
-
 ### What Has Been Done to Clean Up the Site?
 
 Under state supervision in 1983, Landmark International, a potentially responsible party for the contamination installed monitoring wells, excavated and removed 100 drums, and stockpiled contaminated soils on site. From 1983 to 1984, EPA removed buried containers suspected to contain pathogenic organisms. EPA also removed 131 full bottles and hundreds of broken containers from the site and disposed of them in an approved landfill. Ten drums of non-hazardous waste also were landfilled offsite. In 1988, stockpiled soil was passed through a soil shredder and neutralized. These early actions removed the source of site contamination, reducing the potential for contamination of water supplies from the site. In 1990, EPA took over the investigation from the PRP because of delays in their performance of the work. This investigation explored the nature and extent of soil and groundwater problems and recommended the best strategies for final cleanup. The investigation was completed in 1992 and EPA determined no further cleanup actions were needed. EPA issued a No Further Action Record of Decision for the site in 1992.
 
----
-
 ### What Is the Current Site Status?
 
 EPA signed a No Further Action Record of Decision (ROD) in 1992. The ROD required annual groundwater monitoring for five years to ensure the effectiveness of the cleanup. No further action was warranted because prior removal actions adequately addressed site contamination. After cleanup, EPA deleted the site from the National Priorities List in November 2000.
-
----
 
 ### Emergency Response and Removal
 

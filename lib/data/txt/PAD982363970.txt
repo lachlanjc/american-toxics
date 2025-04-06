@@ -1,20 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0303307)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0303307)
-
----
-
 ### Background
 
 The Valmont TCE Site is located in Valmont Industrial Park on Jaycee Drive near Deer Run Road in Hazle Township and West Hazleton Borough. The Site also includes an area of groundwater contamination which extends from the facility to the northeast in the area of Twin Oaks Road, Bent Pine Road, and Deer Run Road. The Site consists of one known source area of contamination (the Plant), a former upholstery manufacturing plant, and contaminated groundwater attributable to the Plant in the nearby residential neighborhood.
@@ -26,8 +9,6 @@ Futura Fabrics Corporation, a successor to Nutmeg, continued manufacturing fabri
 It is the use of these products and historical spills that led to the subsequent contamination at the Site. The building is currently owned by a warehousing and logistics company who uses the building as a warehouse to store non-hazardous materials. The groundwater is contaminated with TCE resulting from a spill. The Site was added to the Superfund program's National Priorities List (NPL) in September 2001.
 
 Nearby former residential wells are also contaminated, but these homes have been connected to the treated public water supply.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -41,8 +22,6 @@ Since 2011, EPA had conducted three rounds of in-situ chemical oxidation injecti
 
 In September 2021, following the public review and comment of a proposed cleanup plan (released in January 2021), EPA issued an Interim Record of Decision to address the source of groundwater contamination. The selected remedy involves the use of in-situ thermal remediation and groundwater extraction and treatment in the source area, which underlies a warehouse in the Valmont Industrial Park. In September 2024, EPA awarded a construction contract to complete the Interim Remedial Action detailed in the Interim Record of Decision (ROD) from September 2021. The Selected Remedy consists of [In Situ Thermal Remediation (ISTR)](https://semspub.epa.gov/src/document/HQ/401607) to address VOC contamination in the source area and groundwater extraction to prevent migration of PFAS with on-Site treatment and monitoring. The ISTR will address high levels of TCE that are underneath the warehouse floor, which is the source area of contamination. The depletion of contamination from the source area will help the downgradient plume since there will no longer be high levels of contamination to feed a dissolved plume.
 
----
-
 ### What Is the Current Site Status?
 
 EPA has suspended the groundwater component of the remedy selected in the 2011 Record of Decision (ROD) after determining the groundwater was not being cleaned up as intended. The indoor air component selected in the 2011 ROD continues to be implemented, and consists of annual inspections and repairs, as necessary, of the residential vapor mitigation systems.
@@ -55,8 +34,6 @@ In September 2024, EPA awarded a construction contract to complete the Interim R
 
 EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317238), concluded that the remedy continues to be protective of human health and the environment in the short-term because residents are connected to a public water line, institutional controls preventing the potable use of groundwater are in place, and mitigation measures prevent residents from exposure to vapors emanating from the groundwater plume. Two issues were identified in the FYR that include the groundwater remedy in the 2011 ROD was ineffective in addressing volatile organic compounds (VOC) contamination and PFAS compounds are present in groundwater. In order to address these issues, EPA issued the Interim ROD to address source area VOC contamination, and during implementation of the source area remedy EPA will take measures to avoid mobilization of PFAS compounds outside the treatment zone and reduce concentrations of PFAS compounds within the treatment zone. In the longer term EPA will address site-wide contamination (VOC and PFAS) in an amendment to the 2011 ROD. The next five-year review is scheduled for 2026.
 
----
-
 ### Activity and Use Limitations
 
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
@@ -66,8 +43,6 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 In July 2012, EPA worked with the Borough of West Hazleton to adopt a local ordinance that restricts the use of groundwater in the area around the Site as a source of drinking water until the groundwater is ultimately cleaned up.
 
 Institutional Controls are in place to restrict groundwater use and restrict access in order to protect public health. Additional information about the Institutional Controls are available in the [2021 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2317238).  
-
----
 
 ### Emergency Response and Removal
 

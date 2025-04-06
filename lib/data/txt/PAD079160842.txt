@@ -1,1 +1,29 @@
-Help us improve your experience by sending an error report [here](https://www.epa.gov/superfund/forms/report-superfund-site-profile-page-error).
+### Background
+
+The 65-acre Novak Sanitary Landfill site is located in South Whitehall Township in Lehigh County, Pennsylvania. This privately owned landfill operated from the late 1950s until 1990. The landfill accepted demolition wastes in its abandoned quarry and later accepted municipal and industrial wastes. Historical disposal practices contaminated groundwater, soil and leachate with hazardous chemicals. The site was added to the Superfund program's National Priorities List (NPL) on October 4, 1989 and partially deleted from the NPL on September 25, 2019. Monitoring, as well as operation and maintenance activities, are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+A vegetated soil cap for the landfill and on-site leachate monitoring and collection system were completed in September 2002.
+
+The Potentially Responsible Parties (PRPs) will continue to maintain the landfill cap and collect groundwater data. The groundwater and residential monitoring programs are in place and operating as intended. The measured concentrations for site-related contaminants in the on-site and off-site groundwater and residential wells are meeting the performance standards. Landfill gas emissions will continue to be monitored.
+
+The institutional controls for the site are fully implemented as set forth in EPA’s Record of Decision (ROD). Additionally, an environmental covenant strengthening the existing institutional controls, was signed in 2011.
+
+In March 2015, EPA issued an [Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2200779) which modifies the remedy selected in the 1993 ROD. The ESD changes some performance standards and requires an additional risk assessment before conclusion of the remedial action.
+
+The leachate collection system was decommissioned following an EPA determination that there is sufficient evidence to discontinue the extraction of leachate from the site.
+
+### What Is the Current Site Status?
+
+This site was [partially deleted](https://semspub.epa.gov/src/document/03/2289708) from the National Priorities List on September 25, 2019. EPA and the Pennsylvania Department of Environmental Protection (PADEP), determined that all appropriate response actions to address the groundwater portion of the site, other than monitoring, operations and maintenance, and five-year reviews have been completed. This partial deletion pertains only to the groundwater portion of the site. The landfill and landfill gas components of the site will remain in place and gas monitoring will continue. This partial deletion does not preclude future actions under Superfund.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317214) concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater use, excavation, and future use in general. Additional information about the institutional controls are available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2317214) (pages 11-13).

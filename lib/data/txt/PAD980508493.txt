@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301211)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301211)
-
----
-
 ### Background
 
 The 30-acre Industrial Lane Site is located in Easton, Pennsylvania. This Site began as an unlined landfill in 1961. It was later taken over by the Chrin Brothers and operated as a permitted landfill until 1988. Groundwater contamination has been documented since 1980. Contaminants detected in groundwater at the Industrial Lane Site include the volatile organic compounds, vinyl chloride, trichloroethene, perchloroethene, and benzene from the former disposal activities. Past industrial uses that may have contributed to Site contamination include iron ore extraction and iron works operations. There is a permitted, lined landfill continuing to operate on top of and adjacent to the Site. This Site was proposed to the National Priorities List on September 8, 1983, and formally added to the list on September 21, 1984.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -26,13 +8,9 @@ In 1983, the state and EPA conducted a water sampling program of private wells i
   
 The pump and treat remedy for the contaminated groundwater was completed in 1996 and has been operating since June 1999. EPA is evaluating all data generated since the startup of the system to determine if it is operating adequately. The automated water level monitoring system was installed in June 2001. EPA deferred making a protectiveness statement in the 2013 Five-Year Review for the Site until additional information is available about the landfill cover and liner slide. Additional sampling determined that vapor intrusion is not occurring at an on-site building at unsafe levels. In December 2015, EPA issued a decision document called an Explanation of Significant Difference requiring institutional controls (IC) for the site. The covenant implementing the IC was recorded on September 2016. The landfill owners currently are operating under a state municipal landfill permit, with oversight by the state and EPA.
 
----
-
 ### What Is the Current Site Status?
 
 EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2355122), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2028.
-
----
 
 ### Activity and Use Limitations
 

@@ -1,26 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Sampling and Monitoring](#Sample)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300894)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300894)
-
----
-
 ### Background
 
 The Raymark Superfund Site is a 7-acre operating facility located at 220 Jacksonville Road in Hatboro, Montgomery County, Pennsylvania. The site consists of a manufacturing building which contains office space and a wastewater treatment building. The manufacturing building was historically used to treat electroplating wastes since 1948. As a result of this operation, the site was contaminated with volatile organic compounds (VOCs), specifically trichloroethene (TCE). TCE has not been used at the site since 1980. The site was added to the Superfund program's National Priorities List in October 1989.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -40,15 +20,11 @@ In 2013, out of an abundance of caution, EPA conducted a vapor intrusion investi
 
 In 2016, EPA's Removal Program further investigated these properties. Similar investigations had previously been conducted in Hatboro. For more information on the removal programs efforts in the community, please visit the [EPA On-Scene Coordinator website.](https://response.epa.gov/site/site_profile.aspx?site_id=11507)
 
----
-
 ### What Is the Current Site Status?
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2019 Five-Year Review (PDF)](https://semspub.epa.gov/work/03/2286490.pdf), concluded that the remedy continues to be protective of human health and the environment in the short term. The next five-year review is scheduled for 2024.
 
 The Pennsylvania Department of Environmental Protection is currently overseeing the operation and maintenance of the site.
-
----
 
 ### Activity and Use Limitations
 
@@ -58,13 +34,9 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 
 Institutional controls are in place at the site. Additional information about the institutional controls are available in the [2019 Five-Year Review (PDF) (page 7).](https://semspub.epa.gov/work/03/2286490.pdf)
 
----
-
 ### Sampling and Monitoring
 
 The Pennsylvania Department of Environmental Protection samples the site monthly and conducts a more comprehensive sampling event annually.
-
----
 
 ### Emergency Response and Removal
 

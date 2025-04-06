@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301436)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301436)
-
----
-
 ### Background
 
 The 4-acre Tysons Dump site is located in Upper Merion Township, Pennsylvania. Disposal of septic and chemical waste in unlined lagoons took place at the site from 1962 to 1973. Waste disposal practices contaminated groundwater, surface water and soil. The Site was added to the Superfund program's National Priorities List (NPL) on September 21, 1984. Following cleanup, operation and maintenance activities and groundwater treatment are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -40,15 +22,11 @@ EPA documented the completion of the wet soil cover and the groundwater treatmen
 
 The PRPs continue to operate and monitor the wet soil cover and the groundwater pump and treat system.
 
----
-
 ### What Is the Current Site Status?
 
 The Tyson's Dump Site is currently in the Operation and Maintenance and Long-Term Monitoring Phase. The multiple remedies at the Site were fully constructed by 1997. The remedies include a wet soil cover to control the upward migration of vapors, a groundwater extraction system to prevent contaminated groundwater from entering the Schuylkill River, and another series of groundwater extraction wells to contain the deeper contaminated groundwater. The groundwater is treated on-site and is regularly monitored. The wet soil cover is also regularly maintained and monitored.
 
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2389280), concluded that the remedy continues to be protective of human health and the environment in the short term with recommendations for long term protectiveness. The next five-year review is scheduled for 2029.
-
----
 
 ### Activity and Use Limitations
 

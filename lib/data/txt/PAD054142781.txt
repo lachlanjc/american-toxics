@@ -1,19 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300995)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300995)
-
----
-
 ### Background
 
 The [Keystone Sanitation Landfill Site](https://iaspub.epa.gov/enviro/fii_query_detail.disp_program_facility?p_registry_id=110007764008) is an inactive and privately-owned landfill approximately 40 acres in area located at 355 Clouser Road in Hanover (Union Township), Adams County, Pennsylvania. The Landfill is located in a residential and agricultural area on a 70-acre property bordered to the north by Clouser Road and to the south by Line Road. The southern boundary of the Landfill Property is located approximately 800 feet north of the Pennsylvania-Maryland border.
@@ -21,8 +5,6 @@ The [Keystone Sanitation Landfill Site](https://iaspub.epa.gov/enviro/fii_query_
 Keystone Sanitation Company operated the landfill from 1966 through 1990. The landfill operated without a proper liner or leachate containment system. In 1982, in accordance with Commonwealth of Pennsylvania permitting requirements, groundwater monitoring for volatile organic compounds (VOCs) was first conducted. VOC contamination was detected in the on-site potable well and in a nearby spring located east of the Landfill Property.
 
 In 1984, sampling conducted in response to complaints from local citizens identified the presence of low levels of VOCs in some residential wells. Subsequent investigations confirmed this contamination was site-related. In 1987, the site was added to the Superfund program's National Priorities List, making it eligible for federal funding for cleanup. Operation and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -37,8 +19,6 @@ EPA again modified the remedy in 2000 to require capture of volatile organic com
 Construction of all remedy components was completed by 2004.
 
 In 2017, actions were taken based upon the findings of the 2015 Five-Year Review to improve the existing remedy. In the summer of 2017, a new extraction well was installed on the south side of the landfill adjacent to Line Road to improve capture of contaminated groundwater. At the end of 2017, several new leachate monitoring points and shallow piezometers (a type of monitoring well designed to measure groundwater level) were installed at the landfill to help evaluate the effectiveness of the landfill gas extraction system.
-
----
 
 ### What Is the Current Site Status?
 
@@ -62,8 +42,6 @@ EPA has conducted several five-year reviews of the site’s remedy. These review
 EPA has determined that these issues can most likely be addressed through an evaluation of new remedial alternatives or through implementation of the existing remedy. The PRPs responsible for source control have initiated activities to address the issues, namely a focused Feasibility Study to address Issue 1 and soil cover repairs to address Issue 2. EPA has not determined the best manner to address Issue 3 at this time, as manganese is contaminant commonly associated with landfills, but expects any actions to occur through one of the two options.
 
 The next five-year review is scheduled for 2025.
-
----
 
 ### Activity and Use Limitations
 

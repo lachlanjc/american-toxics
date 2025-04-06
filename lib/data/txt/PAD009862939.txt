@@ -1,23 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300847)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300847)
-
----
-
 ### Background
 
 The 7-acre Henderson Road Site is located in a commercial area of Upper Merion Township, Pennsylvania. Beginning in 1975, the O’Hara Sanitation Company used the area for waste storage, waste recycling, vehicle maintenance and parking, and office facilities. Operators used a former industrial water supply well to dispose of industrial liquid wastes during the 1970s. Contaminants include volatile organic compounds such as benzene, toluene, perchloroethene, and trichloroethene, and polyaromatic hydrocarbons. Site activities also included disposal of wastes in an on-site landfill and on properties next to the Site. The landfill did not have a permit and contains a mixture of construction demolition debris and other commercial wastes, cinders, a former trenching area, and four underground storage tanks. Liquid waste, sludge, and drums also may have been disposed of at the landfill. These activities contaminated soil and groundwater with hazardous chemicals. EPA placed the Site on the Superfund program’s National Priorities List in 1984. Following cleanup, operation and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -26,8 +9,6 @@ The Site is being addressed through federal and potentially responsible party (P
 February 6, 2023, U.S. Environmental Protection Agency (EPA), Region 3, finalized the ROD Amendment which modifies the Remedial Action selected for the Site by the EPA in the June 30,1988 ROD for Operable Unit 1 (OU1). The major change in this ROD Amendment replaces the groundwater extraction and treatment system with aerobic and anaerobic in-situ bioremediation. In addition to the remedial technology change, this ROD Amendment revises and clarifies the OU1 Remedial Action Objectives by clarifying the point of compliance groundwater cleanup to be groundwater restoration. This ROD Amendment additionally modifies the list of contaminants of concern (COCs) and the cleanup levels for certain COCs, establishes performance standards to incorporate a cumulative risk assessment, and clarifies re-evaluation requirements.
 
 In addition to the changes noted in the ROD Amendment, the sub-slab de-pressurization system (SSDS) at the onsite building is still being operated to further mitigate the risk of vapor exposure. Groundwater monitoring wells are sampled quarterly to measure the concentration of contaminants to ensure the remedial actions at the Site are effective.
-
----
 
 ### What Is the Current Site Status?
 
