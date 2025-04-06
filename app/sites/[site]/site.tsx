@@ -1,7 +1,6 @@
 import { useEffect } from "react";
-import title from "title";
 import { useChat } from "@ai-sdk/react";
-import { type Site } from "@/lib/data/sites";
+import { type Site } from "@/lib/data/site";
 import { SP } from "next/dist/shared/lib/utils";
 
 const questions = [
@@ -31,9 +30,6 @@ export function SiteCard({ site }: { site: Site }) {
   return (
     <>
       <header>
-        <h1 className="text-balance font-bold font-sans text-3xl">
-          {site.name} Superfund Site
-        </h1>
         <p className="opacity-70">
           {site.city}, {site.state} ({site.county} County)
         </p>
@@ -41,7 +37,7 @@ export function SiteCard({ site }: { site: Site }) {
       {messages.map((message) => (
         <div
           key={message.id}
-          className={`whitespace-pre-wrap even:mt-6 ${message.role === "user" ? "font-bold" : "opacity-70"} pr-8`}
+          className={`whitespace-pre-wrap even:mt-6 ${message.role === "user" ? "font-bold font-sans" : "opacity-70"} pr-8`}
         >
           {message.parts.map((part, i) => {
             switch (part.type) {

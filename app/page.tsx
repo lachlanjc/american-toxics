@@ -8,6 +8,7 @@ import {
   useState,
   useTransition,
 } from "react";
+import { Drawer } from "vaul";
 import { SiteCard } from "@/app/sites/[site]/site";
 import SITES from "@/lib/data/sites.json" assert { type: "json" };
 import { hasPlainSiteImage, Site } from "@/lib/data/site";
@@ -20,12 +21,25 @@ import { useFuse } from "@/lib/util/use-fuse";
 const MAPBOX_TOKEN =
   "pk.eyJ1IjoiaGFja2NsdWIiLCJhIjoiY2pscGI1eGdhMGRyNzN3bnZvbGY5NDBvZSJ9.Zm4Zduj94TrgU8h890M7gA";
 
-function MainCard(props: PropsWithChildren<{}>) {
+function MainCard({
+  title,
+  children,
+  ...props
+}: PropsWithChildren<{ title: string }>) {
   return (
-    <main
-      {...props}
-      className="main-card backdrop-blur-lg backdrop-saturate-150 flex flex-col w-full max-w-xl p-6 mx-auto stretch font-mono overflow-y-auto max-h-[80vh]"
-    />
+    <Drawer.Root dismissible={false} modal={false} open={true}>
+      <Drawer.Portal>
+        <Drawer.Content
+          {...props}
+          className="main-card backdrop-blur-lg backdrop-saturate-150 flex flex-col w-full md:max-w-xl p-6 mx-auto font-mono overflow-y-auto max-h-[80vh] fixed bottom-0 max-md:left-0 max-md:right-0 outline-none md:absolute md:top-8 md:left-8 rounded-t-2xl md:rounded-2xl"
+        >
+          <Drawer.Title className="text-balance font-bold font-sans text-3xl">
+            {title}
+          </Drawer.Title>
+          {children}
+        </Drawer.Content>
+      </Drawer.Portal>
+    </Drawer.Root>
   );
 }
 
@@ -48,20 +62,22 @@ function Search({ onSelect }: { onSelect: (site: Site) => void }) {
   });
 
   return (
-    <search>
-      <input
-        type="search"
-        className="w-full action-button p-2 mb-4"
-        value={query}
-        placeholder="Search sites"
-        onChange={handleSearch}
-      />
+    <section>
+      <search className="w-full action-button my-4">
+        <input
+          type="search"
+          className="p-2 w-full outline-0"
+          value={query}
+          placeholder="Search by county, city, state, or site name"
+          onChange={handleSearch}
+        />
+      </search>
       {results.length > 0 && (
         <ul className={`${isPending ? "opacity-50" : ""} transition-opacity`}>
           {results.map((result) => (
             <li key={result.id}>
               <button
-                className="border-b border-zinc-300 last:border-b-0 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
+                className="border-b border-zinc-300 last:border-b-0 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer w-full"
                 onClick={() => onSelect(result)}
               >
                 {result.name}
@@ -73,7 +89,7 @@ function Search({ onSelect }: { onSelect: (site: Site) => void }) {
           ))}
         </ul>
       )}
-    </search>
+    </section>
   );
 }
 
@@ -137,7 +153,7 @@ export default function Page() {
           </Marker>
         ))}
       </Map>
-      <MainCard>
+      <MainCard title={activeSite ? activeSite.name : "Superfund sites"}>
         {activeSite ? (
           <>
             <button
@@ -156,9 +172,6 @@ export default function Page() {
           </>
         ) : (
           <>
-            <h1 className="text-balance font-bold font-sans text-3xl mb-8">
-              Superfund sites
-            </h1>
             <Search onSelect={setActiveSite} />
           </>
         )}
