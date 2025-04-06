@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4.5-acre B&B Chemical Co., Inc. Superfund site is located in Hialeah, Florida. In 1963, B&B Tritech, Inc. (B&B) began manufacturing and mixing industrial cleaning products at the Site. In 1981, construction workers working on a water pipe near the site reported skin irritation and burns. In 1985, an EPA investigation verified that facility operations and waste handling practices at the Site had contaminated soil and groundwater.
+
+EPA added the site to the Superfund program’s National Priorities List (NPL) in 1990 and began monitoring site groundwater quality,
+
+Because of contaminated groundwater and soil resulting from facility operations, EPA, the Florida Department of Environmental Protection (FDEP) and B&B Tritech, the site’s potentially responsible party (PRP), have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. Site contamination does not currently pose a threat, since the groundwater attained the cleanup goals and contaminated soil on-site meets the criteria for unrestricted uses and unlimited exposure (UU/UE). By undertaking all neccessary cleanup actions, EPA, FDEP and the Site’s PRP have effectively protected people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+- In 1994, EPA issued a long-term cleanup plan for the site. The plan included using monitored natural attenuation to address contamination in groundwater, and placing institutional controls on the site to make sure future uses of the property continue to protect human health and the environment.
+- In 2009, EPA issued an Explanation of Significant Differences (ESD) to address potential vapor intrusion issues at the Site.
+- In 2014, the site was deleted from the NPL based on the restoration of the groundwater.
+- EPA completed the last Five-Year Review in 2017.
+- EPA does not anticipate additional work to be done at this Site.
+
+### What Is the Current Site Status?
+
+This site was deleted from the NPL on June 6th, 2014. The soil sampling event for [the 2017 FiveYear Review (FYR)](https://semspub.epa.gov/work/04/11096205.pdf) confirmed that the contamination in the soils on-site are below residential risk levels which indicates the Site had attained unrestricted uses and unlimited exposure (UU/UE) status and no further activity or FYRs are necessary. Vapor Intrusion was evaluated during the 2012 FYR and determined that indoor air quality was not a risk for this Site.

@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Trans Circuits, Inc. [Superfund](http://www.epa.gov/superfund) site is located in Lake Park, Florida.
+
+It is the location of a former circuit board manufacturing and plating facility.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2000 because of contaminated soil and groundwater resulting from facility operations.
+
+EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+Site contamination does not threaten people living and working near the site. In the 2000s, EPA constructed a public drinking water supply well and removed contaminated soil. EPA will clean up remaining groundwater contamination and site soils through bioremediation.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with FDEP.
+
+**2001**  
+EPA published a [Record of Decision](https://semspub.epa.gov/src/document/04/65035) and has implemented many parts of the approved cleanup plan. EPA utilized a bioremediation process and injected organic substances to break down contamination.
+
+EPA reimbursed the City of Riviera Beach for the operation of a groundwater treatment system during the construction of the new municipal water well. EPA dug up and removed contaminated soil to meet cleanup goals that allow for commercial and industrial land uses on site and disposed of the soil off site.
+
+**2012**  
+Implementation of this portion of the groundwater cleanup began in January 2012 and is expected to last several years.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11069959.pdf) was published by EPA HQs in 2017. The remedy at the Site currently protects human health and the environment because there are no completed exposure pathways.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The South Florida Water Management District has restricted inappropriate use of groundwater wells at the site until all contaminants of concern are below cleanup goals.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA was unable to identify any viable potentially responsible parties for the site. EPA is using federal funds to implement the final cleanup.

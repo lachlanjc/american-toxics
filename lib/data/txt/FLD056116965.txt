@@ -1,37 +1,57 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 11-acre Pioneer Sand Superfund site is located south of Saufley Field Road in a rural area in Warrington, Florida. A 50-home subdivision and other residences border the site to the north and east. Residences and commercial businesses border the site to the south and undeveloped land borders the site to the west. Nearby land uses include the U.S. Navy Naval Air Station Pensacola and other residential areas. A well field for the City of Pensacola is located within three miles of the site. Pioneer Sand Company disposed of wastes and sludge in an inactive quarry at the site from 1973 until 1979. Materials included shredded auto parts, construction waste and industrial sludge. Three-quarters of the site includes the area where the site PRP dug up contamination. The area where Pioneer Sand Company disposed of wastes makes up the remaining quarter of the site. In 1981, the Florida Department of Environmental Regulation (FDER, now FDEP), did not renew the company’s disposal permit and ordered the dumping to stop. The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1983 because of contaminated groundwater and soil resulting from disposal operations. Following completion of the site’s cleanup, the EPA deleted the site from the NPL in 1993. The site is currently fenced and not in use. The EPA, FDEP and Pioneer Sand Company, the site’s potentially responsible party (PRP), have investigated site conditions. By monitoring groundwater, placing institutional controls on the site and undertaking Five-Year Reviews, EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site. A water line connects residences next to the site to the public water supply. Top of Page
-What Has Been Done to Clean Up the Site?
-Pioneer Sand Company, the site PRP, leads cleanup activities, with oversight provided by the EPA and FDEP. 1986
-The EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included 
-collecting and stabilizing contaminated sludge and soil
-landfill capping
-access controls (e.g., fencing)
-groundwater monitoring
-constructing a system to collect contaminated water as it passes through contaminated material
-methane gas collection and venting. 
-1991
-The PRP removed or collected and covered all soil contamination. The PRP placed collected soil contamination on site in a landfill covered by a cap. The PRP completed cleanup activities and began groundwater monitoring in 1991. 1993
-The EPA removed the site from the NPL. The EPA placed an institutional control on the site to restrict construction activities, disposal activities, residential land use and commercial land use. Top of Page
-What Is the Current Site Status?
-The sixth Five Year Review was published by the EPA HQ in 2024. The remedy currently protects human health and the environment because the exposure pathways that may result in unacceptable risks through exposure to site contaminants are being mitigated by the remedy. 
-The last PRP went bankrupt. The EPA received over $700,000 in the bankruptcy settlement in 2016. The EPA used the Corps of Engineers and their contractor to continue sampling the groundwater and perform site maintenance.  They have used almost all of the funds. The EPA is in the process of transferring the Operation and Maintenace of the site over to FDEP. The EPA is waiting until the Superfund State Contract is in place to transfer the site over. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The EPA placed an institutional control on the site to restrict construction activities, disposal activities, residential land use and commercial land use. The South Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of the EPA’s mission to protect human health and the environment. When warranted, The EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The 11-acre Pioneer Sand [Superfund](http://www.epa.gov/superfund) site is located south of Saufley Field Road in a rural area in Warrington, Florida. A 50-home subdivision and other residences border the site to the north and east. Residences and commercial businesses border the site to the south and undeveloped land borders the site to the west. Nearby land uses include the U.S. Navy Naval Air Station Pensacola and other residential areas. A well field for the City of Pensacola is located within three miles of the site.
+
+Pioneer Sand Company disposed of wastes and sludge in an inactive quarry at the site from 1973 until 1979. Materials included shredded auto parts, construction waste and industrial sludge. Three-quarters of the site includes the area where the site PRP dug up contamination. The area where Pioneer Sand Company disposed of wastes makes up the remaining quarter of the site.
+
+In 1981, the [Florida Department of Environmental Regulation (FDER, now FDEP)](https://floridadep.gov/), did not renew the company’s disposal permit and ordered the dumping to stop. The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater and soil resulting from disposal operations.
+
+Following completion of the site’s cleanup, the EPA deleted the site from the NPL in 1993. The site is currently fenced and not in use.
+
+The EPA, FDEP and Pioneer Sand Company, the site’s [potentially responsible party (PRP](http://www.epa.gov/superfund/superfund-glossary#p) ), have investigated site conditions. By monitoring groundwater, placing institutional controls on the site and undertaking Five-Year Reviews, EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects residences next to the site to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+Pioneer Sand Company, the site PRP, leads cleanup activities, with oversight provided by the EPA and FDEP.
+
+**1986**  
+The EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included
+
+- collecting and stabilizing contaminated sludge and soil
+- landfill capping
+- access controls (e.g., fencing)
+- groundwater monitoring
+- constructing a system to collect contaminated water as it passes through contaminated material
+- methane gas collection and venting.
+
+**1991**  
+The PRP removed or collected and covered all soil contamination. The PRP placed collected soil contamination on site in a landfill covered by a cap. The PRP completed cleanup activities and began groundwater monitoring in 1991.
+
+**1993**  
+The EPA removed the site from the NPL.
+
+The EPA placed an institutional control on the site to restrict construction activities, disposal activities, residential land use and commercial land use.
+
+### What Is the Current Site Status?
+
+The sixth [Five Year Review](https://semspub.epa.gov/src/document/04/11141209) was published by the EPA HQ in 2024. The remedy currently protects human health and the environment because the exposure pathways that may result in unacceptable risks through exposure to site contaminants are being mitigated by the remedy.
+
+The last PRP went bankrupt. The EPA received over $700,000 in the bankruptcy settlement in 2016. The EPA used the Corps of Engineers and their contractor to continue sampling the groundwater and perform site maintenance. They have used almost all of the funds. The EPA is in the process of transferring the Operation and Maintenace of the site over to FDEP. The EPA is waiting until the Superfund State Contract is in place to transfer the site over.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The EPA placed an institutional control on the site to restrict construction activities, disposal activities, residential land use and commercial land use.
+
+The South Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, The EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA negotiated legal agreements with Pioneer Sand Company, the site PRP, to clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.
-Top of Page

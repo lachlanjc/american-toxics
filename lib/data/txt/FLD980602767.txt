@@ -1,2 +1,54 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Whitehouse Oil Pits [Superfund](http://www.epa.epa.gov/superfund) site is in Jacksonville, Florida. The area is a vacant former industrial property where Allied Petroleum disposed of acidic waste oil sludge from 1958 to 1968.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated debris, groundwater, sludge, soil, surface water and sediment resulting from past waste oil disposal practices.
+
+Site contamination is not a threat to nearby residents and businesses. A water line now connects most residences in the immediate vicinity of site contamination to the public water supply.
+
+By monitoring groundwater and undertaking Five-Year Reviews, EPA, [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/), the City of Jacksonville and the site’s [potentially responsible parties (PRPs](http://www.epa.gov/superfund/superfund-glosarry#p) ) continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The potentially responsible parties (PRPs) lead site investigation and cleanup activities, with oversight provided by EPA and FDEP.
+
+**1985**  
+In 1985, EPA issued the [cleanup plan](http://semspub.epa.gov/work/04/10480.pdf) (known as a Record of Decision, or ROD) for the site. It included constructing a slurry wall around the entire site; collecting and treating contaminated groundwater using a pump-and-treat system; removing contaminated sediments from the northeast tributary of McGirts Creek; and placing a clay cap with a vegetated soil cover over the entire site.
+
+**1992 – 1998**  
+EPA updated the remedy in [1992](https://semspub.epa.gov/work/04/6170.pdf) and [1998](https://semspub.epa.gov/work/04/18033.pdf), requiring a combination of on-site soil cleanup techniques.
+
+**2006**  
+A 5.7-acre area of hardwood swamp in the primary floodplain of McGirts Creek was impacted by waste oil released from the site. Contaminated sediments from this area were transported and disposed of in the capped 5.4-acre area landfill which was constructed on-site in the location of the former waste oil disposal pits. This off-site cleanup and on-site landfill construction was completed in 2006 and the landfill cap is now covered in grass.
+
+### What Is the Current Site Status?
+
+The remedy at the Site currently protects human health and the environment because a multilayered cap covers all impacted soil, a barrier wall contains contaminated ground water, and the municipal water supply was extended to residents who live near the Site.
+
+Monitoring wells with above ground casings are located around the site and are used for regular monitoring of groundwater height and groundwater quality. Inspection of the landfill cap will continue periodically to ensure that the site does not pose any threat to human health or the environment.
+
+On September 19, 2018, EPA [deleted the site from the NPL](https://www.gpo.gov/fdsys/pkg/FR-2018-09-19/pdf/2018-20390.pdf). The deletion of the site from the NPL will not stop the ongoing operation, maintenance and monitoring activities for the landfill at the site. Deletion from the NPL will help with the potential reuse and redevelopment of the site property and surrounding properties.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The current site use is as a natural ecological buffer for the floodplain of the adjacent creek. There is a potential for future possible recreational land uses in cooperation with the City of Jacksonville, who currently owns the property. Currently, the City of Jacksonville has no plans to reuse the property for any other uses.
+
+Land use controls, including site perimeter fencing and a restrictive covenant limiting well placement and future land uses, prevent contact with contaminated soil and groundwater.
+
+- A water line now connects most residences in the immediate vicinity of site contamination to the public water supply.
+- There is a locked fence around the site to prevent trespassing and possible damage to the landfill cap.
+- A restrictive covenant limits the placement of wells on the site property and restricts future land uses to ensure their compatibility with the site’s remedy.
+
+### Sampling and Monitoring
+
+Operation and maintenance activities are underway. These activities include routine inspections, ground water monitoring and inspection/maintenance of the vegetative cover and other plantings. Groundwater samples are collected and analyzed once a year.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+Many site Potentially Responsible Party(ies) (PRPs) funding the cleanup formed a Remedial Action Group (RAG) to clean up the site. However, the PRP for some of the waste at the site was either unidentifiable or insolvent and funds were not collected to address that part of the contamination. EPA assumed the cost of this funding gap, called an orphan share, and became a participant in the RAG as well. This innovative approach to funding cleanup meant that combined federal funds and PRP funds implemented the selected cleanup plan.

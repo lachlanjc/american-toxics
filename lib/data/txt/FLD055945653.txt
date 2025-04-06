@@ -1,40 +1,56 @@
-CITY INDUSTRIES, INC.ORLANDO, FL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 1-acre City Industries, Inc., Superfund site is located in Winter Park, Florida. The site includes the area where City Chemical Company operated a waste management facility from 1971 to 1983. From the early 1970s until 1983, site owners operated a hazardous waste management facility at the site. Improper disposal practices led to on-site soil and groundwater contamination. In 1983, after a state order to cease operations, City Chemical Company abandoned the site. They left barrels of hazardous waste and thousands of gallons of sludge in several large on-site holding tanks. The EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1989 because of contaminated soil and groundwater resulting from facility operations. The EPA and the Florida Department of Environmental Protection (FDEP) have investigated site conditions and taken steps to clean up the site. By treating groundwater and undertaking Five-Year Reviews, the EPA, FDEP and the site’s potentially responsible parties (PRPs) continue to protect people and the environment from site contamination. Since 1983, facility uses include small commercial and retail business operations. Site contamination does not currently threaten people living and working near the site. Businesses and residents use the public water system for their drinking water and therefore do not come into contact with contaminated ground water. Top of Page
-What Has Been Done to Clean Up the Site?
-Site PRPs are currently leading cleanup activities, with oversight provided by the EPA and FDEP. 1983 - 1984
-Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. 
-FDEP removed drums and sludges.
-The EPA removed and heat-treated 1,670 tons of contaminated soil and returned it to the site.
-The EPA removed and transported 10 tons of the site’s most highly contaminated soil to a hazardous waste landfill. 
-1990
-The site’s long-term remedy included pumping and treating groundwater and discharging treated groundwater to the Iron Bridge Publicly Owned Treatment Works (POTW), a public wastewater treatment facility. Because the EPA and the POTW were unable to reach an agreement regarding discharge of treated groundwater to the POTW, the EPA implemented the site’s contingency cleanup approach. 1992 – 1994
-The EPA built the site’s groundwater pump-and-treat system and began using it to treat groundwater in 1994. The EPA updated the long-term remedy in 1994 to explain why certain groundwater treatment technologies had not been used at the site and to set cleanup standards and discharge standards for chemicals not addressed in the long-term remedy. 2004
-The EPA completed major repairs and upgrades to the treatment system. In addition, site PRPs began operating the system with EPA oversight. Groundwater treatment is ongoing until contaminant levels meet state and federal cleanup standards. The treatment system keeps contaminated groundwater from spreading and continues to steadily decrease groundwater contamination levels. 2014
-The EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The site’s ground water pump-and-treat system will continue to operate until all contaminants of concern meet cleanup standards. Top of Page
-What Is the Current Site Status?
-The sixth Five Year Review was published in 2024. The 2015 ESD added 1,4-dioxane as a Contaminant of Concern. The 2020 ESD added HiPox system as an additional treatment compontent of the remedy. In 2022, the site was sold to another owner. The site was completely redeveloped in additional warehouses in 2023. The groundwater treatment system was relocated and HiPox was added to the treatment system. The pump and treat system has been working very effective since then.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-EPA fenced portions of the site and posted warning signs. Top of Page
-Sampling and Monitoring
+### Background
+
+The 1-acre City Industries, Inc., [Superfund](http://www.epa.gov/superfund) site is located in Winter Park, Florida. The site includes the area where City Chemical Company operated a waste management facility from 1971 to 1983. From the early 1970s until 1983, site owners operated a hazardous waste management facility at the site. Improper disposal practices led to on-site soil and groundwater contamination. In 1983, after a state order to cease operations, City Chemical Company abandoned the site. They left barrels of hazardous waste and thousands of gallons of sludge in several large on-site holding tanks.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1989 because of contaminated soil and groundwater resulting from facility operations. The EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) have investigated site conditions and taken steps to clean up the site. By treating groundwater and undertaking Five-Year Reviews, the EPA, FDEP and the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) continue to protect people and the environment from site contamination.
+
+Since 1983, facility uses include small commercial and retail business operations.
+
+Site contamination does not currently threaten people living and working near the site. Businesses and residents use the public water system for their drinking water and therefore do not come into contact with contaminated ground water.
+
+### What Has Been Done to Clean Up the Site?
+
+Site PRPs are currently leading cleanup activities, with oversight provided by the EPA and FDEP.
+
+**1983 - 1984**  
+Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment.
+
+- FDEP removed drums and sludges.
+- The EPA removed and heat-treated 1,670 tons of contaminated soil and returned it to the site.
+- The EPA removed and transported 10 tons of the site’s most highly contaminated soil to a hazardous waste landfill.
+
+**1990**  
+The site’s long-term remedy included pumping and treating groundwater and discharging treated groundwater to the Iron Bridge Publicly Owned Treatment Works (POTW), a public wastewater treatment facility. Because the EPA and the POTW were unable to reach an agreement regarding discharge of treated groundwater to the POTW, the EPA implemented the site’s contingency cleanup approach.
+
+**1992 – 1994**  
+The EPA built the site’s groundwater pump-and-treat system and began using it to treat groundwater in 1994.
+
+The EPA updated the long-term remedy in 1994 to explain why certain groundwater treatment technologies had not been used at the site and to set cleanup standards and discharge standards for chemicals not addressed in the long-term remedy.
+
+**2004**  
+The EPA completed major repairs and upgrades to the treatment system. In addition, site PRPs began operating the system with EPA oversight. Groundwater treatment is ongoing until contaminant levels meet state and federal cleanup standards. The treatment system keeps contaminated groundwater from spreading and continues to steadily decrease groundwater contamination levels.
+
+**2014**  
+The EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The site’s ground water pump-and-treat system will continue to operate until all contaminants of concern meet cleanup standards.
+
+### What Is the Current Site Status?
+
+The [sixth Five Year Review](https://semspub.epa.gov/src/document/04/11131532) was published in 2024. The 2015 ESD added 1,4-dioxane as a Contaminant of Concern. The 2020 ESD added HiPox system as an additional treatment compontent of the remedy. In 2022, the site was sold to another owner. The site was completely redeveloped in additional warehouses in 2023. The groundwater treatment system was relocated and HiPox was added to the treatment system. The pump and treat system has been working very effective since then.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA fenced portions of the site and posted warning signs.
+
+### Sampling and Monitoring
+
 Ground water treatment is ongoing. Site PRPs monitor wells periodically to make sure contaminated ground water is not spreading. After treatment, ground water discharges into a local drainage ditch. A cleanup contractor overseeing the treatment system samples the discharged water on a weekly basis to make sure it is properly treated. Businesses and residents use the public water system for their drinking water and therefore do not come into contact with contaminated ground water
-Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA negotiated legal agreements with site PRPs to finance cleanup activities at the site as well as reimburse the EPA for designing cleanup activities and other past costs. Site PRPs continue to fund site cleanup, monitoring and oversight activities.
-Top of Page

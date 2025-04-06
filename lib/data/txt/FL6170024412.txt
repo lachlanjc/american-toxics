@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Jacksonville Naval Air Station (NAS) is an active U.S. Navy Installation in Jacksonville, Florida. The installation currently provides facilities and support for the operation and maintenance of naval weapons and aircraft. EPA placed the site on the Superfund program’s National Priorities List in 1989 because of contaminated soil, sediment, groundwater and surface water. The U.S. Navy (Navy), EPA and the Florida Department of Environmental Protection (FDEP) investigated site conditions and have taken measures to address site contamination. EPA has issued cleanup plans to address site contaminants. The site's contamination is not a threat to nearby residents and businesses. The Navy, EPA and FDEP continue to protect people and the environment from site contamination through cleanup and monitoring of soils, sediment and groundwater, land use controls and required Five-Year Reviews.
+
+### What Has Been Done to Clean Up the Site?
+
+The Navy is ultimately responsible for investigation and cleanup of the site, with oversight provided by EPA and FDEP. The Navy’s Installation Restoration Program handles day-to-day cleanup responsibilities at the site.
+
+Since 1992, the Navy has undertaken and completed numerous cleanup actions at the site and completed cleanup actions for all OUs except OU-3 and OU-7. The Navy, EPA and FDEP are continuing to investigate portions of the installation, improve cleanup approaches in place, and investigate new areas or portions of the installation where the Navy implemented land use controls but did not issue cleanup plans.
+
+The Navy completed cleanup of OU-1 in 2005, which included a landfill cap, continuation of the system addressing light non-aqueous phase liquids (chemicals that float in water), and monitored natural attenuation for site groundwater. The Navy began cleanup actions at OU-2 and, by 1998, specified that no further action was required except for the implementation of land use controls to restrict groundwater use and land use. Land use controls are currently in place.
+
+The Navy has undertaken numerous cleanup actions to address contamination sources at OU-3 and efforts are ongoing to address contaminated soils, sediment and groundwater. The Navy is currently evaluating the extent of OU-3 groundwater contamination.
+
+The Navy has conducted stormwater monitoring at OU-4 and implemented institutional controls and ecological controls to protect the environment from contamination. The Navy also completed a soil removal in early 1998 at OU-5 and implemented land use controls for soil. In addition, the Navy is using monitored natural attenuation for groundwater contamination.
+
+Similarly, the Navy is using monitored natural attenuation to address groundwater contamination at OU-6 and implemented land use controls.
+
+The Navy continues to perform cleanup activities at OU-7, including the removal of contaminated soils. Cleanup action at OU-8, including implementation of land use controls, has been completed.
+
+The Navy completed the site’s third Five-Year Review in 2016; it addressed all eight OUs. The review determined that the Navy’s cleanup approaches at OUs 2, 4, 5, 6 and 8 continue to protect people and the environment. The Navy is evaluating environmental conditions at OU-3 and preparing to implement additional cleanup actions to protect human health and environment. In addition, the Navy determined that the remedy for OU-1 remains protective in the short term; the remedy for OU-7 is expected to be protective over the long term upon completion.
+
+### What Is the Current Site Status?
+
+EPA has divided the site into eight areas, referred to as operable units, or OUs. Each OU addresses a different area of the site: OU-1, On-Site Landfill and Polychlorinated Biphenyl (PCB) Transformer Storage Area; OU-2, Wastewater Treatment Plant; OU-3, Industrial Area; OU-4, Casa Linda Lake; OU-5, South Antenna Farm; OU-6, Hanger 1000 Groundwater Plume; OU-7, PSC 46 / Defense Reutilization and Marketing Office; and OU-8, Pesticide Shop.
+
+EPA has issued cleanup plans for seven OUs. The most recent one, for OU-8, was issued in 2008. The OU-8 cleanup plan included digging up contaminated soil and disposing of it in an off-site permitted landfill; placing clean soil back into the excavated area; installing a soil cover system over contaminated soil areas above contaminated groundwater. It also included monitored natural attenuation for contaminated groundwater, and implementation of land use controls. An Explanation of Significant Difference was issued in 2016 to update the cleanup target levels that reflects the most recent changes to the State of Florida's clean up target levels.
+
+The agencies are still investigating other portions of the site that may require cleanup. Approximately 10 to 12 areas require additional investigation to see if the need for land use controls remains. In addition, the Navy will soon begin Feasibility Studies after the Remedial Investigation is completedfor approximately six areas previously used as shooting ranges. The Navy continues to perform monitoring and monitored natural attenuation activities across the site. The Navy continues to perform cleanup activities for OU-3 and OU-7, and is required to assess how far OU-3 ground water contamination has spread. EPA completed the last Five-Year Review in 2016.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Land Use Controls are in place at OU-1, OU-2, OU-3, OU-4, OU-5, OU-6, OU-7 and OU-8 because contamination in soil or groundwater remain at levels above unrestrictive use, but at acceptables levels for industrial or current use.
+
+### Sampling and Monitoring
+
+The Navy continues to perform monitoring and monitored natural attenuation activities across the site. The Navy continues to perform cleanup activities for OU-3 and OU-7, and is required to assess how far OU-3 ground water contamination has spread.
+
+### Enforcement Information
+
+EPA has been working with its federal and state partners to ensure the site’s cleanup for a number of years. In 1990, the Navy, EPA and FDEP signed a Federal Facilities Agreement (FFA) (PDF) (76 pp, 2.8MB, About PDF) for Jacksonville NAS to ensure that environmental impacts associated with past and present activities at the site are thoroughly investigated and appropriate cleanup and corrective actions are developed and implemented.

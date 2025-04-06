@@ -1,48 +1,96 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Reeves Southeastern Galvanizing Corp. Superfund Site is located in Tampa, Florida. Most of the site has remained in continued use throughout the cleanup. In March 1996, Industrial Galvanizers of America (IGA) leased a 10-acre portion of the property. Since that time, IGA has continued to operate a galvanizing facility on the Site. In April 2001, Master-Halco, Inc. purchased Reeves Southeastern Corporation's Southeastern Wire Division, including the Southeastern Wire property. Master-Halco, Inc. has continued to operate a wire-fencing manufacturing facility on the Reeves Southeastern Wire property. It includes the area where galvanizing and wire production operations began in the 1960s. The Site includes the 17-acre Reeves Southeastern Galvanizing facility and the 11-acre Reeves Southeastern Wire facility. Beginning in the 1960s, the Reeves facilities disposed of waste disposal into ponds on Site. This resulted in contamination of groundwater, sediment and soil. The EPA placed the Site on the Superfund program’s National Priorities List (NPL) in 1983 because of contaminated groundwater, sediment and soil resulting from facility operations. The EPA, the Florida Department of Environmental Protection (FDEP) and Reeves Trust, the Site’s potentially responsible party (PRP), have investigated site conditions. By monitoring groundwater and wetland areas and undertaking Five-Year Reviews, the EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the Site. Top of Page
-What Has Been Done to Clean Up the Site?
-Reeves Trust, the Site’s PRP, leads site investigation and cleanup activities, with oversight provided by the EPA and FDEP. Site investigations and cleanup activities have focused on three areas, which the EPA refers to as operable units, or OUs. These areas include: 
-OU-1: soil and sediment contamination
-OU-2: contamination in the northern surficial groundwater
-OU-3: contamination in the North Wetland and unnamed creek. 
-1993
-The EPA issued the cleanup plan (a Record of Decision, or ROD) for OU-1. It included: 
-digging up 6,000 cubic yards of contaminated soil and sediment
-solidifying/stabilizing the contaminated soil and sediment
-disposing of the solidified/stabilized soil and sediment on Site
-placing a cap over the solidified/stabilized soil and sediment 
-The EPA issued the cleanup plan (ROD) for OU-2. It included: 
-using monitored natural attenuation to address groundwater contamination in the Northern Surficial Aquifer
-preventing discharge of groundwater from the Northern Surficial Aquifer into surface water in the unnamed creek
-constructing a pump-and-treat system if natural attenuation of contaminated groundwater does not achieve Site cleanup goals 
-In 1994, the EPA issued the cleanup plan (ROD) for OU-3. The EPA determined that groundwater monitoring was the only action required. 1996 – 1997
-The PRP dug up contaminated soil and sediment in 1996 and 1997. In 1997, the PRP shipped the dug-up soil and sediment to an off-site landfill and then backfilled and revegetated the dug-up areas. After two spills on Site in 1996 and 1997, the PRP conducted additional short-term cleanup activities. The EPA issued an Explanation of Significant Differences (ESD) to allow off-site containment of contaminated soil and sediment for OU-1. 1998
-The PRP installed a monitoring well in 1998 and conducted additional studies of groundwater contamination. 2002
-The PRP began monitoring the North Wetland. 2004
-The PRP designed a groundwater control structure to prevent contaminated groundwater from discharging to local surface water. 2014
-The EPA issued an Amended Record of Decision (AROD) for OU2: Groundwater. The OU2 AROD changed the selected remedy from Monitored Natural Attenuation (MNA) to an active remedy of in situ chemical precipitation of metal contaminants of concern (COCs) to treat groundwater to achieve cleanup standards. The selection of in situ chemically induced precipitation for OU2 (groundwater) is compatible with the remedies for OU1 (removal of soil and source material) and OU3 (impacted wetland sediments). The OU2 remedy is protective of both human and ecological receptors. The amended remedy is compatible with the planned future commercial/industrial use of the property. The major components of the amended OU2 remedy include: In situ chemical precipitation to treat groundwater to cleanup levels in areas defined as high concentration zones. Swale lining to mitigate groundwater discharges into surface water with monitoring to assess remedy performance and potential impacts to surface water. Monitored Natural Attenuation for portions of groundwater plume. Implement Institutional Controls (ICs) for the Site including, but not limited to, the following measures: 
-Restrict property use to industrial/commercial uses only, and
-Restrict groundwater use until cleanup levels are met.
-Protect engineering controls. 
-Top of Page
-What Is the Current Site Status?
-The Site’s fourth Five-Year Review, completed in 2016, found that the cleanup for OU-1 and OU-2 remains protective of human health and the environment. The review also identified the need for additional site investigations and institutional controls to restrict use of site groundwater. Ground water and wetland monitoring is ongoing. The PRP continues to investigate ground water contamination to determine whether the cleanup plan will need to be expanded or changed. If changes are needed, the EPA will issue an ESD or ROD Amendment to update the original cleanup plan. The first phase of injections to implement the 2014 AROD has been completed and groundwater monitoring continues to determine the effectiveness of the treatment. The EPA completed the fifth Five Year Review report in 2021. Additional rounds of injections were completed in the 2022 timeframe. The next Five-Year review is scheduled to take place in 2026. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The Southwest Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval. In addition, a Hillsborough County ordinance requires that new construction must connect to the public water supply. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The Reeves Southeastern Galvanizing Corp. [Superfund](http://www.epa.gov/superfund) Site is located in Tampa, Florida. Most of the site has remained in continued use throughout the cleanup. In March 1996, Industrial Galvanizers of America (IGA) leased a 10-acre portion of the property. Since that time, IGA has continued to operate a galvanizing facility on the Site. In April 2001, Master-Halco, Inc. purchased Reeves Southeastern Corporation's Southeastern Wire Division, including the Southeastern Wire property. Master-Halco, Inc. has continued to operate a wire-fencing manufacturing facility on the Reeves Southeastern Wire property.
+
+It includes the area where galvanizing and wire production operations began in the 1960s. The Site includes the 17-acre Reeves Southeastern Galvanizing facility and the 11-acre Reeves Southeastern Wire facility. Beginning in the 1960s, the Reeves facilities disposed of waste disposal into ponds on Site. This resulted in contamination of groundwater, sediment and soil.
+
+The EPA placed the Site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater, sediment and soil resulting from facility operations.
+
+The EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and Reeves Trust, the Site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By monitoring groundwater and wetland areas and undertaking Five-Year Reviews, the EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+Reeves Trust, the Site’s PRP, leads site investigation and cleanup activities, with oversight provided by the EPA and FDEP.
+
+Site investigations and cleanup activities have focused on three areas, which the EPA refers to as [operable units, or OUs](http://www.epa.gov/superfund/superfund-glossary#o). These areas include:
+
+- OU-1: soil and sediment contamination
+- OU-2: contamination in the northern surficial groundwater
+- OU-3: contamination in the North Wetland and unnamed creek.
+
+**1993**  
+The EPA issued the cleanup plan (a Record of Decision, or ROD) for OU-1. It included:
+
+- digging up 6,000 cubic yards of contaminated soil and sediment
+- solidifying/stabilizing the contaminated soil and sediment
+- disposing of the solidified/stabilized soil and sediment on Site
+- placing a cap over the solidified/stabilized soil and sediment
+
+The EPA issued the cleanup plan (ROD) for OU-2. It included:
+
+- using monitored natural attenuation to address groundwater contamination in the Northern Surficial Aquifer
+- preventing discharge of groundwater from the Northern Surficial Aquifer into surface water in the unnamed creek
+- constructing a pump-and-treat system if natural attenuation of contaminated groundwater does not achieve Site cleanup goals
+
+In 1994, the EPA issued the cleanup plan (ROD) for OU-3. The EPA determined that groundwater monitoring was the only action required.
+
+**1996 – 1997**  
+The PRP dug up contaminated soil and sediment in 1996 and 1997. In 1997, the PRP shipped the dug-up soil and sediment to an off-site landfill and then backfilled and revegetated the dug-up areas. After two spills on Site in 1996 and 1997, the PRP conducted additional short-term cleanup activities.
+
+The EPA issued an Explanation of Significant Differences (ESD) to allow off-site containment of contaminated soil and sediment for OU-1.
+
+**1998**  
+The PRP installed a monitoring well in 1998 and conducted additional studies of groundwater contamination.
+
+**2002**  
+The PRP began monitoring the North Wetland.
+
+**2004**  
+The PRP designed a groundwater control structure to prevent contaminated groundwater from discharging to local surface water.
+
+**2014**  
+The EPA issued an Amended Record of Decision (AROD) for OU2: Groundwater. The OU2 AROD changed the selected remedy from Monitored Natural Attenuation (MNA) to an active remedy of in situ chemical precipitation of metal contaminants of concern (COCs) to treat groundwater to achieve cleanup standards.
+
+The selection of in situ chemically induced precipitation for OU2 (groundwater) is compatible with the remedies for OU1 (removal of soil and source material) and OU3 (impacted wetland sediments). The OU2 remedy is protective of both human and ecological receptors. The amended remedy is compatible with the planned future commercial/industrial use of the property. The major components of the amended OU2 remedy include:
+
+In situ chemical precipitation to treat groundwater to cleanup levels in areas defined as high concentration zones.
+
+Swale lining to mitigate groundwater discharges into surface water with monitoring to assess remedy performance and potential impacts to surface water.
+
+Monitored Natural Attenuation for portions of groundwater plume.
+
+Implement Institutional Controls (ICs) for the Site including, but not limited to, the following measures:
+
+- Restrict property use to industrial/commercial uses only, and
+- Restrict groundwater use until cleanup levels are met.
+- Protect engineering controls.
+
+### What Is the Current Site Status?
+
+The Site’s [fourth Five-Year Review](https://semspub.epa.gov/src/document/04/11050353), completed in 2016, found that the cleanup for OU-1 and OU-2 remains protective of human health and the environment. The review also identified the need for additional site investigations and institutional controls to restrict use of site groundwater.
+
+Ground water and wetland monitoring is ongoing. The PRP continues to investigate ground water contamination to determine whether the cleanup plan will need to be expanded or changed. If changes are needed, the EPA will issue an ESD or ROD Amendment to update the original cleanup plan.
+
+The first phase of injections to implement the 2014 AROD has been completed and groundwater monitoring continues to determine the effectiveness of the treatment.
+
+The EPA completed the [fifth Five Year Review report](semspub.epa.gov/src/document/04/11166209) in 2021.
+
+Additional rounds of injections were completed in the 2022 timeframe.
+
+The next Five-Year review is scheduled to take place in 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Southwest Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval. In addition, a Hillsborough County ordinance requires that new construction must connect to the public water supply.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA negotiated legal agreements with the site PRP to investigate and clean up the Site. The PRP continues to fund site cleanup, monitoring and oversight activities.
-Top of Page

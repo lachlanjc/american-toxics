@@ -1,34 +1,60 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 16-acre Tower Chemical Co. Superfund site is located about 5-miles east of Clermont, Florida. From 1957 to 1980, Tower Chemical Company operated a manufacturing facility on site. The facility’s waste disposal practices left contamination on site. The Tower Chemical Company site is currently in commercial reuse. Local officials divided the former Tower Chemical Company property into four tax areas. The largest area is approximately 15 acres. The other three areas make up the remaining 1 acre of the site property and include the utility building and office building. The owner of the 15-acre area purchased the property in 2005 and uses it as a storage facility for recreational vehicles, boats, trailers and other vehicles. The owner cleared the collapsed part of the main production building and converted the remaining building, the concrete slab and uncontaminated land next to the area into the storage facility. In 2006, a commercial trucking operation purchased the remaining three areas at the site. The company uses the property as an unpaved parking area. EPA placed the site on the Superfund program’s National Priorities List (NPL) of contaminated sites in 1983 because of contaminated soil, sediment, surface water and groundwater resulting from the facility’s waste and wastewater disposal practices. Site contamination does not currently threaten people living and working near the site. A water line now connects eight residences next to the site to the public water supply. By removing contaminated soil, monitoring and sampling contaminated groundwater, and conducting Five-Year Reviews, EPA and the Florida Department of Environmental Protection (FDEP) continue to protect people and the environment from site contamination. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA leads site cleanup activities in cooperation with FDEP. During cleanup, a site can be divided into several distinct areas depending on the complexity of the problems associated with the site. These areas, called operable units, may address geographic areas of a site, specific site problems, or areas where a specific action is required. Tower Chemical has four designated operable units (OUs) 1983
-EPA and FDEP completed an emergency short-term cleanup to stop an immediate threat to people and the environment. EPA removed and treated about one million gallons of contaminated water from the wastewater pond. After treatment, EPA discharged the water into a nearby ditch. EPA dug up and disposed of 3,800 cubic yards of contaminated soil and sediment and 72 drums of other hazardous waste from the pond and burn and burial pit area. 1986
-The site’s long-term remedy for OU-1, selected in 1986, included treating contaminated soil and installing a groundwater pump-and-treat system. During pre-cleanup sampling, EPA did not find the high levels of contaminants originally anticipated. Therefore, EPA did not carry out the cleanup plan. 1987
-The Record of Decision for OU-1 was signed on July 6, 1987. 1988
-A second short-term cleanup addressed contaminated storage tanks, concrete pads and underlying contaminated soils. The concrete and excavated soils stayed on site. 2003
-The OU-2 interim action ROD, signed on August 23, 2000, included installation of well filters, well filter maintenance and groundwater monitoring. In 2003, EPA installed filters on six nearby residential wells. In 2010, EPA connected eight residences to the public water system. 2006
-The site’s long-term remedy for OU-3, selected in 2006, addressed groundwater and wetland contamination and replaced the OU-1 cleanup plan. 2010-2011
+### Background
+
+The 16-acre Tower Chemical Co. [Superfund](http://www.epa.gov/superfund) site is located about 5-miles east of Clermont, Florida. From 1957 to 1980, Tower Chemical Company operated a manufacturing facility on site. The facility’s waste disposal practices left contamination on site.
+
+The Tower Chemical Company site is currently in commercial reuse. Local officials divided the former Tower Chemical Company property into four tax areas. The largest area is approximately 15 acres. The other three areas make up the remaining 1 acre of the site property and include the utility building and office building.
+
+The owner of the 15-acre area purchased the property in 2005 and uses it as a storage facility for recreational vehicles, boats, trailers and other vehicles. The owner cleared the collapsed part of the main production building and converted the remaining building, the concrete slab and uncontaminated land next to the area into the storage facility. In 2006, a commercial trucking operation purchased the remaining three areas at the site. The company uses the property as an unpaved parking area.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) of contaminated sites in 1983 because of contaminated soil, sediment, surface water and groundwater resulting from the facility’s waste and wastewater disposal practices.
+
+Site contamination does not currently threaten people living and working near the site. A water line now connects eight residences next to the site to the public water supply. By removing contaminated soil, monitoring and sampling contaminated groundwater, and conducting Five-Year Reviews, EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site cleanup activities in cooperation with FDEP.
+
+During cleanup, a site can be divided into several distinct areas depending on the complexity of the problems associated with the site. These areas, called operable units, may address geographic areas of a site, specific site problems, or areas where a specific action is required. [Tower Chemical has four designated operable units (OUs)](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ous&id=0400521)
+
+**1983**  
+EPA and FDEP completed an emergency short-term cleanup to stop an immediate threat to people and the environment. EPA removed and treated about one million gallons of contaminated water from the wastewater pond. After treatment, EPA discharged the water into a nearby ditch. EPA dug up and disposed of 3,800 cubic yards of contaminated soil and sediment and 72 drums of other hazardous waste from the pond and burn and burial pit area.
+
+**1986**  
+The site’s long-term remedy for OU-1, selected in 1986, included treating contaminated soil and installing a groundwater pump-and-treat system. During pre-cleanup sampling, EPA did not find the high levels of contaminants originally anticipated. Therefore, EPA did not carry out the cleanup plan.
+
+**1987**  
+The Record of Decision for OU-1 was signed on July 6, 1987.
+
+**1988**  
+A second short-term cleanup addressed contaminated storage tanks, concrete pads and underlying contaminated soils. The concrete and excavated soils stayed on site.
+
+**2003**  
+The OU-2 interim action ROD, signed on August 23, 2000, included installation of well filters, well filter maintenance and groundwater monitoring. In 2003, EPA installed filters on six nearby residential wells. In 2010, EPA connected eight residences to the public water system.
+
+**2006**  
+The site’s long-term remedy for OU-3, selected in 2006, addressed groundwater and wetland contamination and replaced the OU-1 cleanup plan.
+
+**2010-2011**  
 EPA began carrying out the OU-3 cleanup plan. EPA dug up contaminated soil in the site’s affected wetland areas, placed clean fill in these areas and replanted vegetation. During 2010 and 2011, EPA dug up and disposed of 45,000 cubic yards of contaminated soil and sediment. EPA also removed deeper contaminated soil and debris. EPA conducts periodic monitoring of the restored areas.
+
 The site’s first Five-Year Review, completed in 2008, found that regular monitoring of wells, maintenance of well filters and application of institutional controls would continue to protect people and the environment from contamination. The 2013 Five-Year Review concluded the site’s remedy remains protective of human health and the environment in the short term while the groundwater remedy is completed.
-Top of Page
-What Is the Current Site Status?
-The most recent Five Year Review was published in 2018. The remedy is expected to be protective of human health and the environment upon completion. In the interim, remedial activities completed to date have adequately addressed all current exposure pathways that could result in unacceptable risks, as contaminated surface soils and selected subsurface soils have been removed to 12 feet and all the affected residences have been connected to the public water supply. A focused feasibility study to investigate stabilizing and solidifying the contaminated soil at the site was completed in February 2019. Soil and groundwater sampling occurred in 2017. EPA has completed several treatability and pilot studies over the past years as it continues to evaluate the best approach for site cleanup. EPA completed an interim action ROD amendment for OU-3 in the Fall of 2019 that included in-situ solidification/stabilization of contaminated soil down to a depth of 70 feet. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-EPA staff contacted the site owners to make them aware of current restrictions on land and groundwater use at the site. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws. The EPA negotiated legal agreements with the site's Potentially Responsible Party (PRP) to investigate and clean up the site. In 1987, the EPA and the PRP completed legal agreements but the PRP did not follow the agreements. In 2007, the EPA and the owners of the 15-acre area of the site negotiated a windfall lien settlement. Top of Page
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11111839.pdf) was published in 2018. The remedy is expected to be protective of human health and the environment upon completion. In the interim, remedial activities completed to date have adequately addressed all current exposure pathways that could result in unacceptable risks, as contaminated surface soils and selected subsurface soils have been removed to 12 feet and all the affected residences have been connected to the public water supply.
+
+A focused feasibility study to investigate stabilizing and solidifying the contaminated soil at the site was completed in February 2019. Soil and groundwater sampling occurred in 2017. EPA has completed several treatability and pilot studies over the past years as it continues to evaluate the best approach for site cleanup. EPA completed an interim action ROD amendment for OU-3 in the Fall of 2019 that included in-situ solidification/stabilization of contaminated soil down to a depth of 70 feet.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA staff contacted the site owners to make them aware of current restrictions on land and groundwater use at the site.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site's Potentially Responsible Party (PRP) to investigate and clean up the site. In 1987, the EPA and the PRP completed legal agreements but the PRP did not follow the agreements. In 2007, the EPA and the owners of the 15-acre area of the site negotiated a windfall lien settlement.

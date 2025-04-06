@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The two-acre Airco Plating Company [Superfund](http://www.epa.gov/superfund) site is an active metal plating facility in Miami, Florida. The site is located in a commercial and industrial area. The site has operated as an active metal plating facility since 1955. EPA placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/what-superfund) in 1990 because of contaminated soil and ground water resulting from plating operations.
+
+EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and Airco Plating Company (APC), the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions and taken steps to clean up the site. By cleaning up and monitoring ground water and soil and undertaking [Five-Year Reviews](http://www.epa.gov/superfund/superfund-glossary#f), EPA, FDEP and the site PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not threaten people living and working near the site. Both residents and businesses use public water systems for drinking water.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term remedy presented in the [Record of Decision published in 1998](https://semspub.epa.gov/src/document/04/92348) included removal of volatile organic compounds (VOCs) in soil using soil vapor extraction (SVE), placing a concrete cover over contaminated soils not addressed by SVE, removal of VOCs in ground water using an air stripping system, discharging treated ground water to the municipal sewer system, and institutional controls. Construction of the remedy took place between 1995 and 1997. Operation and maintenance activities are ongoing.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/work/04/11050336.pdf) was published by EPA HQs in 2016. The Site remedy currently protects human health and the environment in the short term because source control remediation has been completed, the groundwater treatment system operates at the Site and there are no complete exposure pathways.
+
+Groundwater treatment and operation and maintenance activities are ongoing. EPA plans to complete the next Five-Year Review in 2021.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The South Florida Water Management District has listed the site and the surrounding area as a ground water delineation area, which means all wells placed in the area require the District’s approval.
+
+All soil contamination with a concrete cover. The PRP regularly inspects the cover to make sure it remains in good condition.
+
+The PRP is currently coordinating with EPA to place a land use restriction on the site property to prohibit any future landowner from using the facility in a manner inconsistent with the site’s cleanup.
+
+### Sampling and Monitoring
+
+The PRP, with EPA oversight, regularly checks ground water wells to make sure contamination has not moved beyond site boundaries.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA issued an order and negotiated legal agreements with the site PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

@@ -1,2 +1,53 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 140-acre Cabot/Koppers [Superfund](http://www.epa.gov/superfund) site is in Gainesville, Alachua County, Florida. The site is one mile east of U.S Highway 441. It includes two properties: the Koppers area (now owned by Beazer East, Inc.), covering 90-acres on the western side of the site, and the Cabot Carbon area, covering 50-acres on the eastern side of the site. The area surrounding the site is a mix of commercial and residential urban development and undeveloped properties.
+
+Since the early 1900s, Cabot and Koppers operated pine tar, charcoal and wood-preserving facilities at the site. In 1984, because of soil and groundwater contamination caused by those operations, the EPA listed the site on the Superfund [National Priority List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n).
+
+In 1990, the EPA issued a [Record of Decision (ROD)](https://semspub.epa.gov/src/document/04/10401760) directing the [potential responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p), Beazer East (Koppers) and Cabot Carbon, to treat contaminated soils, sediments, groundwater, and surface water to protect human health and the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+Historical remediation activities at the site include:
+
+- Treating groundwater contamination using in-situ geochemical stabilization (ISGS).
+- Removal of contaminated soils from 103 residential structures, seven commercial buildings, four vacant lots, and the Genesis Preparatory School.
+- Removal of 116 tons of contaminated sediment from two creeks impacted by waste discharge from operations on the Cabot area of the site.
+- Completed construction of a trench that intercepts contaminated groundwater from the surficial aquifer for treatment at both the Koppers and former Cabot Carbon portions of the site. To date these system have removed more than 500 million gallons of groundwater per site area.
+
+**2018**  
+Cabot Carbon completed a remedial design to construct a vertical barrier wall and a hydraulic containment system with an engineered cap in September 2018.
+
+### What Is the Current Site Status?
+
+The EPA issued the [most recent Five-Year Review (FYR)](https://semspub.epa.gov/work/04/11018889.pdf) in 2016. The EPA recently began the process for the next FYR, which is scheduled for completion in 2021.
+
+All remedial construction activities, including subsurface vertical barrier wall installation and capping for waste containment, were completed in September 2020 on the Cabot Carbon side of the site.
+
+All remedial construction activities are scheduled to be completed at the Koppers side of the site by the end of 2026. These activities include:
+
+- ISGS injections which have been completed to address the contamination in the four source areas of the Koppers side;
+- installation of a vertical barrier wall; and
+- capping of the waste.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A fence surrounds the Koppers site to prevent direct access. Deed restrictions limit access to development and new groundwater wells.
+
+### Sampling and Monitoring
+
+Groundwater monitoring by Cabot Carbon and Beazer East is ongoing to address the required remedial design and remedial action in the Surficial, Hawthorn, and Upper Floridian aquifers.
+
+### Green Remediation
+
+Beazer East operates an extraction and treatment system in the Upper Floridan Aquifer that remediates contaminated groundwater. Instead of discharging treated water to the GRU system, Beazer East is reusing the treated water for irrigation purposes at the 86-acre Koppers Site.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s potentially responsible parties (PRPs) to investigate and clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

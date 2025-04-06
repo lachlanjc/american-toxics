@@ -1,43 +1,56 @@
-STAUFFER CHEMICAL CO. (TARPON SPRINGS)TARPON SPRINGS, FL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 130-acre Stauffer Chemical Company (Tarpon Springs) Superfund site is located at 877 Anclote Road in Tarpon Springs, Florida. The site is divided by Anclote Road. The Anclote River borders the site to the south and west. Victor Chemical Company and later Stauffer Chemical Company operated the facility from 1947 to 1981. Stauffer Chemical Company decommissioned and dismantled the facilities in 1983. In 1994, the U.S. Environmental Protection Agency listed the site on the National Priority List (NPL). In 1997, Stauffer Chemical Company formed Stauffer Management Company, which owns the site and is the potentially responsible party (PRP). The facility produced elemental phosphorus from phosphate ore that was mined in Florida. The facility and its wastewater ponds were located on the South parcel and the slag processing area was located on the North parcel. Contaminants found in soil included elemental phosphorus, arsenic, antimony, beryllium, thallium, and radium-226. Some of these contaminants were also found in groundwater. The EPA, the Florida Department of Environmental Protection (FDEP)Exit and Stauffer Management Company, have investigated site conditions and completed appropriate actions in order to protect people and the environment. By maintaining the site grounds and capped areas, monitoring groundwater and undertaking Five-Year Reviews, EPA, FDEP and the site’s potentially responsible party (PRP) continue to protect people and the environment. Top of Page
-What Has Been Done to Clean Up the Site?
-1997
-The PRP removed on-site phosphorous water and disposed of it at an off-site facility. 1998
-The EPA issued the cleanup plan (Record of Decision, or ROD). 1999-2007
-The EPA modified the cleanup plan through four Explanation of Significant Differences (ESD). The major components of the approximate remedy selected in the ROD and ESDs include: 
-Excavation of contaminated material that exceeds residential cleanup standards.
-Consolidation of contaminated material in the main pond area, slag area and/or other areas on site.
-Construction of a cap, which meets the Florida Administrative Code Section 62- 701.600.5(g), over the consolidation area.
-Construction of a groundwater cutoff wall to reduce the potential for contaminant migration from the former wastewater ponds.
-Implementation of institutional controls, including deed restrictions, land use ordinances, physical barriers and surficial aquifer water supply well permitting prohibitions. Institutional controls need to alert prospective buyers of site conditions, which prohibit future excavation or development of the capped areas. In addition, institutional controls should restrict the installation of surficial groundwater wells on any portion of the property for any purpose. 
-2010 - 2011
-The PRP conducted the following cleanup activities: 
-excavated and consolidated over 220,000 cubic yards of contaminated material;
-installed two caps totaling 42 acres;
-installed a groundwater cut-off wall of over 2,600 linear feet;
-restored of Meyers Cove to its original size;
-constructed a sea wall of over 1,300 linear feet along the shoreline of Anclote River and Meyers Cove; and
-installed fencing. 
-Top of Page
-What Is the Current Site Status?
-The second Five-Year Review was published in 2020. The remedy is protective of human health and the environment. The soil cleanup was completed in 2011. Current activities include maintenance of the grounds and capped areas and groundwater monitoring. Deed restrictions are in place on the site property to prohibit the use of groundwater at the Site and to prohibit future residential uses of the Site. Future industrial or commercial uses of the Site are possible. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place on the site property to prohibit the use of groundwater at the Site and to prohibit future residential uses of the Site. Future industrial or commercial uses of the Site are possible. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The 130-acre Stauffer Chemical Company (Tarpon Springs) [Superfund](http://www.epa.gov/superfund) site is located at 877 Anclote Road in Tarpon Springs, Florida. The site is divided by Anclote Road. The Anclote River borders the site to the south and west. Victor Chemical Company and later Stauffer Chemical Company operated the facility from 1947 to 1981. Stauffer Chemical Company decommissioned and dismantled the facilities in 1983.
+
+In 1994, the U.S. Environmental Protection Agency listed the site on the [National Priority List (NPL)](http://www.epa.gov/superfund\superfund=glossary#n). In 1997, Stauffer Chemical Company formed Stauffer Management Company, which owns the site and is the [potentially responsible party (PRP)](http://www.epa.gov/superfund\superfund=glossary#p).
+
+The facility produced elemental phosphorus from phosphate ore that was mined in Florida. The facility and its wastewater ponds were located on the South parcel and the slag processing area was located on the North parcel. Contaminants found in soil included elemental phosphorus, arsenic, antimony, beryllium, thallium, and radium-226. Some of these contaminants were also found in groundwater.
+
+The EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and Stauffer Management Company, have investigated site conditions and completed appropriate actions in order to protect people and the environment. By maintaining the site grounds and capped areas, monitoring groundwater and undertaking Five-Year Reviews, EPA, FDEP and the site’s potentially responsible party (PRP) continue to protect people and the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+**1997**  
+The PRP removed on-site phosphorous water and disposed of it at an off-site facility.
+
+**1998**  
+The EPA issued the cleanup plan (Record of Decision, or ROD).
+
+**1999-2007**  
+The EPA modified the cleanup plan through four Explanation of Significant Differences (ESD). The major components of the approximate remedy selected in the ROD and ESDs include:
+
+- Excavation of contaminated material that exceeds residential cleanup standards.
+- Consolidation of contaminated material in the main pond area, slag area and/or other areas on site.
+- Construction of a cap, which meets the Florida Administrative Code Section 62- 701.600.5(g), over the consolidation area.
+- Construction of a groundwater cutoff wall to reduce the potential for contaminant migration from the former wastewater ponds.
+- Implementation of institutional controls, including deed restrictions, land use ordinances, physical barriers and surficial aquifer water supply well permitting prohibitions. Institutional controls need to alert prospective buyers of site conditions, which prohibit future excavation or development of the capped areas. In addition, institutional controls should restrict the installation of surficial groundwater wells on any portion of the property for any purpose.
+
+**2010 - 2011**  
+The PRP conducted the following cleanup activities:
+
+- excavated and consolidated over 220,000 cubic yards of contaminated material;
+- installed two caps totaling 42 acres;
+- installed a groundwater cut-off wall of over 2,600 linear feet;
+- restored of Meyers Cove to its original size;
+- constructed a sea wall of over 1,300 linear feet along the shoreline of Anclote River and Meyers Cove; and
+- installed fencing.
+
+### What Is the Current Site Status?
+
+The [second Five-Year Review](https://semspub.epa.gov/src/document/04/11150502) was published in 2020. The remedy is protective of human health and the environment.
+
+The soil cleanup was completed in 2011. Current activities include maintenance of the grounds and capped areas and groundwater monitoring. Deed restrictions are in place on the site property to prohibit the use of groundwater at the Site and to prohibit future residential uses of the Site. Future industrial or commercial uses of the Site are possible.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[Institutional controls](https://www.epa.gov/superfund/superfund-glossary#i) are in place on the site property to prohibit the use of groundwater at the Site and to prohibit future residential uses of the Site. Future industrial or commercial uses of the Site are possible.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.
-Top of Page

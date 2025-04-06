@@ -1,47 +1,94 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 1.7 acre Alaric Area GW Plume Superfund site (Alaric) is located in Tampa, Florida in a mostly commercial and industrial area of Orient Park. It includes an area occupied by several businesses since the 1970s. The site currently contains a 5,000-square-foot metal building. Industrial and commercial businesses surround the site to the north, east and west. A railroad corridor is directly south of the site. Several businesses have occupied the site since the early 1970s. Alaric, Inc., operated a plastics recycling facility from 1981 to 1992. The current site owner leases the site property to a company that operates a street sweeper storage and maintenance facility. In 2000, EPA placed the site on the Superfund National Priorities List (NPL) because of contaminated groundwater and soil resulting from facility operations. The site is secure and site contamination does not currently threaten people living and working near the site. By monitoring groundwater, planning additional treatment of contaminated soils, and conducting required Five-Year Reviews, EPA and the Florida Department of Environmental Protection (FDEP) continue to protect people and the environment from site contamination. The site is secure and site contamination does not currently threaten people living and working near the site. Top of Page
-What Has Been Done to Clean Up the Site?
-2003 - 2008
-Between 2003 and 2008, EPA carried out the actions required in the 2002 Interim Record of Decision. Key activities included: 
-replacing the septic tank and related drain
-installing the pump-and-treat system
-injecting over 220,000 pounds of solution into the upper aquifer between 2003 and 2004 to treat chlorinated solvents
-adding a solution to a soakage pit system to address contaminated materials under the concrete slab at the southeastern comer of the main site building
-recovering and treating over 13 million gallons of groundwater through the upper aquifer pump-and-treat system
-recovering and treating over eight million gallons of groundwater through the intermediate aquifer pump-and-treat system
-Using thermal treatment, a process that heats the soil and drives off the contamination to be collected and treated at the surface. Treatment of the source is complete and over 2000 pounds of highly contaminated material has been removed from the subsurface. 
-2011 - 2012 As required by the IROD Amendment, a remedial design investigation was performed to further characterize the subsurface soil contamination by confirming the down-gradient edge of the Intermediate Zone VOE Plume. Investigative fieldwork took place in October and November 2011. EPA approved the Preliminary Remedial Design Report on October 11, 2012. 2018 EPA conducted a vapor intrusion evaluation and detections of PCE and TCE were present in indoor air. EPA installed a vapor mitigation system to address unacceptable risk from exposure to vapors. 2020 EPA issued an Explanation of Significant Differences to modify the site remedy; to install a new SVE system to capture and treat vapors to prevent human exposure to VOC contamination. 2021 - Present EPA is conducting a Remedial Investigation and Focused Feasibility Study, including Pilot Studies, to evaluate technologies for treatment of the dissolved phase ground water contamination plume left at the site. Top of Page
-What Is the Current Site Status?
-The most recent Five-Year Review was published by EPA HQs in 2023. The site is secure and site contamination does not currently threaten people living and working near the site. EPA leads site investigation and cleanup activities in cooperation with FDEP. EPA was unable to identify any viable potentially responsible parties for the site. EPA is using federal funds for site cleanup activities. The site was recently purchased by a new owner who plans to lease the property for commercial use Vapor Intrusion Following successful thermal treatment completion in December 2018, Alaric Site restoration activities were conducted from January 2019 through May 2019 when the site was purchased by a new owner.  From June through October 2018, three separate vapor intrusion investigation events were performed which indicated that elevated sub-slab solvent contamination levels were present and vapor intrusion was likely while the soil continued to cool following the thermal treatment.  The indoor air samples collected from the office space inside the onsite metal building demonstrated several detections of solvent contamination.  One sample was above vapor intrusion screening levels (VISL) for indoor air within a commercial/industrial work place. EPA installed a vapor mitigation system to address elevated air levels within the interior office space.  EPA developed site specific, risk-based contaminant levels that will be monitored and evaluated while the ground continues to cool following the thermal treatment and during future site investigation and remedial activities.     The onsite Vapor Mitigation System, which was installed in the interior office of the onsite metal building in November 2018, continues to be monitored quarterly and is successfully addressing the previously identified vapor intrusion contaminants of concern identified during a vapor intrusion study.  Groundwater Restoration The groundwater aquifer beneath the Alaric site is an important source of drinking water for the Tampa area. Since the completion of the soil treatment in December 2017, EPA and FDEP are focusing on restoring groundwater associated with the site.  EPA is actively installing and sampling all site monitor wells to ensure that onsite groundwater is restored. A detailed well survey was also performed, and several monitor wells were rehabilitated (repaired and saved) and several were identified for abandonment and future rehabilitation during the next Remedial Investigation Field mobilization.  Next Steps: 
-Monitoring will continue to ensure the effectiveness of the onsite vapor mitigation system.
-install monitor wells to assess the onsite dissolved plume
-continue monitor well rehabilitation and abandonment as required
-review of the collected groundwater samples
-plan for future site mobilizations
-Continue sampling and monitoring of onsite vapor mitigation system
-Continue monitoring of the groundwater/ground treatment zone temperatures 
-Complete pilot studies to inform and finalize a focused feasibility study.
-Develop and publish a proposed plan for treatment of ground water 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to prevent using groundwater for drinking purposes.   EPA plans to emplace additional ICs as appropriate The site is secure and site contamination does not currently threaten people living and working near the site. A potable well survey in 1986 indicated that a safe public water supply system connects to all users in the affected area. The Southwest Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area and EPA continues to interface with state agencies to ensure that any state concerns are addressed. Top of Page
-Sampling and Monitoring
-EPA has conducted an initial Remedial Investigation (RI) at the Alaric Site following thermal treatment and plans to continue monitor well sampling and installation to evaluate the onsite dissolved groundwater contaminant plume to determine future remedial action is required to restore onsite aquifers.  This aquifer is a primary source of drinking water for the Tampa area. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
-The agency was unable to identify any viable potentially responsible parties for the site. EPA is using federal funds for site cleanup activities.
-Top of Page
+### Background
+
+The 1.7 acre Alaric Area GW Plume [Superfund](http://www.epa.gov/superfund) site (Alaric) is located in Tampa, Florida in a mostly commercial and industrial area of Orient Park. It includes an area occupied by several businesses since the 1970s. The site currently contains a 5,000-square-foot metal building. Industrial and commercial businesses surround the site to the north, east and west. A railroad corridor is directly south of the site. Several businesses have occupied the site since the early 1970s. Alaric, Inc., operated a plastics recycling facility from 1981 to 1992. The current site owner leases the site property to a company that operates a street sweeper storage and maintenance facility.
+
+In 2000, EPA placed the site on the Superfund [National Priorities List (NPL)](http://www.epa.superfund/superfund-glossary#n) because of contaminated groundwater and soil resulting from facility operations. The site is secure and site contamination does not currently threaten people living and working near the site. By monitoring groundwater, planning additional treatment of contaminated soils, and conducting required Five-Year Reviews, EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) continue to protect people and the environment from site contamination.
+
+The site is secure and site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+**2003 - 2008**  
+Between 2003 and 2008, EPA carried out the actions required in the [2002 Interim Record of Decision](https://semspub.epa.gov/src/document/04/10059220). Key activities included:
+
+- replacing the septic tank and related drain
+- installing the pump-and-treat system
+- injecting over 220,000 pounds of solution into the upper aquifer between 2003 and 2004 to treat chlorinated solvents
+- adding a solution to a soakage pit system to address contaminated materials under the concrete slab at the southeastern comer of the main site building
+- recovering and treating over 13 million gallons of groundwater through the upper aquifer pump-and-treat system
+- recovering and treating over eight million gallons of groundwater through the intermediate aquifer pump-and-treat system
+- Using thermal treatment, a process that heats the soil and drives off the contamination to be collected and treated at the surface. Treatment of the source is complete and over 2000 pounds of highly contaminated material has been removed from the subsurface.
+
+**2011 - 2012**
+
+As required by the IROD Amendment, a remedial design investigation was performed to further characterize the subsurface soil contamination by confirming the down-gradient edge of the Intermediate Zone VOE Plume. Investigative fieldwork took place in October and November 2011. EPA approved the Preliminary Remedial Design Report on October 11, 2012.
+
+**2018**
+
+EPA conducted a vapor intrusion evaluation and detections of PCE and TCE were present in indoor air. EPA installed a vapor mitigation system to address unacceptable risk from exposure to vapors.
+
+**2020**
+
+EPA issued an Explanation of Significant Differences to modify the site remedy; to install a new SVE system to capture and treat vapors to prevent human exposure to VOC contamination.
+
+**2021 - Present**
+
+EPA is conducting a Remedial Investigation and Focused Feasibility Study, including Pilot Studies, to evaluate technologies for treatment of the dissolved phase ground water contamination plume left at the site.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/work/04/11189189.pdf) was published by EPA HQs in 2023. The site is secure and site contamination does not currently threaten people living and working near the site.
+
+EPA leads site investigation and cleanup activities in cooperation with FDEP. EPA was unable to identify any viable potentially responsible parties for the site. EPA is using federal funds for site cleanup activities. The site was recently purchased by a new owner who plans to lease the property for commercial use
+
+#### Vapor Intrusion
+
+Following successful thermal treatment completion in December 2018, Alaric Site restoration activities were conducted from January 2019 through May 2019 when the site was purchased by a new owner. From June through October 2018, three separate vapor intrusion investigation events were performed which indicated that elevated sub-slab solvent contamination levels were present and vapor intrusion was likely while the soil continued to cool following the thermal treatment.
+
+The indoor air samples collected from the office space inside the onsite metal building demonstrated several detections of solvent contamination. One sample was above vapor intrusion screening levels (VISL) for indoor air within a commercial/industrial work place. EPA installed a vapor mitigation system to address elevated air levels within the interior office space. EPA developed site specific, risk-based contaminant levels that will be monitored and evaluated while the ground continues to cool following the thermal treatment and during future site investigation and remedial activities.
+
+The onsite Vapor Mitigation System, which was installed in the interior office of the onsite metal building in November 2018, continues to be monitored quarterly and is successfully addressing the previously identified vapor intrusion contaminants of concern identified during a vapor intrusion study.
+
+#### Groundwater Restoration
+
+The groundwater aquifer beneath the Alaric site is an important source of drinking water for the Tampa area.
+
+Since the completion of the soil treatment in December 2017, EPA and FDEP are focusing on restoring groundwater associated with the site. EPA is actively installing and sampling all site monitor wells to ensure that onsite groundwater is restored.
+
+A detailed well survey was also performed, and several monitor wells were rehabilitated (repaired and saved) and several were identified for abandonment and future rehabilitation during the next Remedial Investigation Field mobilization.
+
+Next Steps:
+
+- Monitoring will continue to ensure the effectiveness of the onsite vapor mitigation system.
+- install monitor wells to assess the onsite dissolved plume
+- continue monitor well rehabilitation and abandonment as required
+- review of the collected groundwater samples
+- plan for future site mobilizations
+- Continue sampling and monitoring of onsite vapor mitigation system
+- Continue monitoring of the groundwater/ground treatment zone temperatures
+- Complete pilot studies to inform and finalize a focused feasibility study.
+- Develop and publish a proposed plan for treatment of ground water
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prevent using groundwater for drinking purposes. EPA plans to emplace additional ICs as appropriate
+
+The site is secure and site contamination does not currently threaten people living and working near the site.
+
+A potable well survey in 1986 indicated that a safe public water supply system connects to all users in the affected area.
+
+The Southwest Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area and EPA continues to interface with state agencies to ensure that any state concerns are addressed.
+
+### Sampling and Monitoring
+
+EPA has conducted an initial Remedial Investigation (RI) at the Alaric Site following thermal treatment and plans to continue monitor well sampling and installation to evaluate the onsite dissolved groundwater contaminant plume to determine future remedial action is required to restore onsite aquifers. This aquifer is a primary source of drinking water for the Tampa area.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The agency was unable to identify any viable potentially responsible parties for the site. EPA is using federal funds for site cleanup activities.

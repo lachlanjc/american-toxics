@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Tyndall Air Force Base is located one mile southeast of Panama City, Florida. It encompasses approximately 29,000 acres on a narrow, 18-mile-long, northwest-southeast peninsula. Major communities surrounding the installation include Panama City, Lynn Haven, Springfield, Callaway, and Cedar Grove to the northwest, Panama City Beach to the west, and Mexico Beach to the southeast. The federal government activated Tyndall in 1941 as a flexible gunnery school for the U.S. Army Air Corps and re-designated it as an Air Force Base in 1947.
+
+In the past, the installation’s operations contaminated soil, sediment, groundwater and surface water. Multiple Operable Units (OUs) are under investigation for sediment contamination, groundwater contamination and soil contamination. Once the Remedial Investigations are complete, the EPA will be able to make a determination regarding current groundwater migration.
+
+The EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1997. EPA, the AF and FDEP signed an Interagency Agreement known as a Federal Facility Agreement (FFA) on September 20, 2013 to guide the cleanup of the base. These formal agreements are site cleanup plans that ensure coordination of work priorities and establish enforceable schedules for cleanup activities for the life of the project. These agreements also ensure that concerned citizens in the community, including base workers and base residents, have a voice in the cleanup decisions. EPA is the lead federal regulator with FDEP as the co-regulator overseeing the investigation and the cleanup efforts under CERCLA at Tyndall AFB.
+
+A Site Management Plan to address the schedule of investigation and cleanup at Tyndall Air Force Base is required by the FFA and was originally approved in 2014. Updates to the enforceable schedule are conducted annually. The last update was approved by EPA and FDEP in 2018.
+
+### What Has Been Done to Clean Up the Site?
+
+The U.S. Air Force (AF) is the lead agency under CERCLA and has responsibility for investigating and cleaning up environmental contamination on Tyndall AFB as it is a National Priorities List Superfund site. Currently, multiple Operable Units are being investigated. Initially, the Air Force declined to enter into the IAG/FFA for EPA oversight of the cleanup and did not fully comply the 2007 RCRA Order that was put into place by EPA in lieu of a three party FFA. As a result, cleanup was delayed while the 3 parties negotiated an agreement. EPA Region 4, the Air Force, and FDEP signed an FFA on September 20, 2013. The FFA requires the Air Force to establish work schedules, conduct investigation and cleanup activities with the EPA oversight, and provide meaningful opportunities for State and public participation in the decision-making process.
+
+In 2015, during the Remedial Investigation (RI) of Tyndall Elementary School, the AF was notified by the Bay County School System of the School System's desires and plans to enlarge the front parking lot of the school. The RI conducted to date in the area of TES, indicated lead shot still remained in significant quantities in the area that the parking lot would be placed and beyond in front of the school. In order work with the school system's schedule and to ensure no inadvertent exposure to the lead pellets detected in the front of the school by workers or students, EPA and the FDEP worked with the AF to accelerate that portion of the cleanup through a Time Critical Removal Action. The Action was planned and implemented in 2015. Soil contaminated with lead and with lead shot present was excavated and disposed of off site in a CERCLA Off Site Rule approved landfill. During the RI sampling, it was also discovered that lead shot was present in limited areas between school buildings. In 2016, another Time Critical Removal Action was conducted by the AF to excavate soil containing lead shot detected between the school buildings.
+
+On December 13, 2017, the EPA and the AF signed a No Action Record of Decision (ROD) for OU34, AOC066 Wastewater Sprayfield. The investigations of the site indicated no risks to human health and the environment. The FDEP concurred on the decision. The OU34 ROD marked the first 3 party ROD signed under the terms of the FFA. Subsequent RODs have been signed for multiple OUs. The ROD for OU11 (Landfill003) chose excavation of the former dump area contaminated with Polyaromatic Hydrocarbons (PAHs) and metals and disposal off site. The Remedial Action is completed for OU11. Similarly, the ROD of OU10 (LF001) also chose excavation of a former dump area with disposal off site.
+
+### What Is the Current Site Status?
+
+Remedial actions are ongoing for Operable Unit 10, Landfill 001. The Environmental Protection Agency and the U.S. Air Force (AF) signed the Record of Decision (ROD) to excavate all landfill waste at OU-10 and dispose of the material off-site at a CERCLA Off Site Rule approved facility on July 30, 2018, after it was signed and submitted by the USAF. The Florida Department of Environmental Protection (FDEP) concurred with the decision. The contaminant of concern for the action is benzo(a)pyrene.
+
+A ROD has also been signed for OU15 (FR038), a former training range contaminated with lead shot, lead contaminated soils, PAH contaminated debris, and metals in soils. The selected remedy for OU15 includes stabilization (treatment) of lead contaminated soil, excavation and offsite disposal of contaminated soil and debris. The cleanup actions selected for OU15 are intended to be protective of ecological organisms and onsite workers. Land Use Controls (LUCs) are included with the selected remedy and 5 Year Reviews of the remedy are required.
+
+Remedial Investigations are ongoing at multiple Operable Units, such as OU25, OU21, OU22, OU33, and OU36.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Much of Tyndall AFB is surrounded by fences that were impacted by Hurricane Michael, but have been replaced or repaired. The entire base is guarded by a military security force that restricts use of the site for military personnel.
+
+### Sampling and Monitoring
+
+The U.S. Air Force hired multiple contractors to conduct sampling and monitoring at Tyndall AFB. All sampling and monitoring at the operable units covered under the FFA are working under work plans and sampling and analysis plans reviewed and approved by EPA and the FDEP, as required by the FFA. The Final Generic Uniform Federal Policy for Quality Assurance Program Plan is dated November 2013.
+
+### Enforcement Information
+
+EPA Region 4, the Air Force, and FDEP signed an FFA on September 20, 2013. The FFA requires the Air Force to establish work schedules, conduct investigation and cleanup activities with the EPA oversight, and provide meaningful opportunities for State and public participation in the decision-making process.

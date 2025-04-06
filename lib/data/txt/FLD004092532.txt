@@ -1,2 +1,65 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 40-acre Stauffer Chemical Company (Tampa) [Superfund](http://www.epa.gov/superfund) site is located in an industrial area, of Tampa, Florida.
+
+From 1951 to 1986, the Stauffer Chemical Company used the site for production, packaging and distribution of agricultural chemical products, primarily pesticides. During facility operations, workers disposed of waste materials and chemicals by burning or burying them on site. These improper waste disposal practices resulted in contamination of site soil, sediments, surface water and area groundwater with pesticides.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1996 because of contaminated groundwater, sediment, soil and surface water resulting from facility operations. EPA, the [Florida Department of Environmental Protection (FDEP](https://floridadep.gov/) ) and the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By treating and monitoring groundwater, enforcing institutional controls and conducting required Five-Year Reviews, EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s PRP, Stauffer Management Company/AstraZeneca, leads site investigation and cleanup activities, with oversight provided by EPA and FDEP.
+
+**1993**  
+In 1993, the site’s PRP conducted a short-term cleanup to address buried drums and debris and 3,450 cubic yards of contaminated soil. The PRP temporarily stored the contaminated soil on site and then treated it.
+
+**1995**  
+The site’s long-term remedy, selected in 1995, include
+
+- digging up soils with contaminant levels above cleanup goals
+- biologically treating the dug-up soils off site
+- placing the treated soils back into the dug-up areas
+- placing a foot of clean soil over pond sediments to reduce risk to the environment
+- pumping and treating groundwater and discharging treated groundwater to the local water treatment plant
+- restricting groundwater use until groundwater meets cleanup goals.
+
+**1999**  
+The PRP began carrying out cleanup activities required in the 1995 Record of Decision (ROD). Parties initially thought that 16,000 cubic yards of contaminated soil and 2,500 cubic yards of contaminated pond sediment required treatment. The PRP treated the contaminated soil by adding manure or wood chips to help break down organochlorine compounds such as DDT and dieldrin.
+
+**2000**  
+In August 2000, the PRP installed the site’s groundwater pump-and-treat system. The system continues to operate, capturing shallow groundwater under the site. The system discharges the treated water to the City of Tampa’s sanitary sewer system.
+
+**2006 - 2007**  
+Because the initial cleanup failed to meet soil cleanup goals, EPA updated the remedy in 2006 to address the remaining untreated surface soil, sediments and below-ground soil containing dense non-aqueous phase liquid. The revised plan called for containing and capping the remaining contaminated material on site. In 2006 and 2007, the PRP carried out the revised cleanup plan.
+
+**2021-2024**
+
+The PRP is following the groundwater treatment trench shutdown work plan approved by EPA and will continue monitoring of groundwater for any increasing levels of contamination.
+
+### What Is the Current Site Status?
+
+The [forth Five Year Review](https://semspub.epa.gov/src/document/04/11150460) was published by EPA HQ in 2020. The Sitewide Protectiveness Status is that the Site remedy is protective of human health and the environment. All exposure pathways that could result In unacceptable risks are being controlled through the Implementation of engineering controls and Institutional controls.
+
+The PRP maintains the ground water pump-and-treat system.
+
+The PRP cotinues to conduct ground water monitoring annually.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+All exposure pathways that could result In unacceptable risks are being controlled through the implementation of engineering controls and Institutional controls.
+
+### Sampling and Monitoring
+
+The PRP conducts ground water monitoring annually.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA has negotiated legal agreements with the site PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

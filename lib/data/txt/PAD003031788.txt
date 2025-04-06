@@ -1,2 +1,44 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+
+
+### Background
+
+The Foster Wheeler Energy Corporation/Church Road TCE Site consists of the former Foster Wheeler Energy Corp. (FWEC) facility and the Church Road TCE Site located in Mountain Top, Wright Township, Pennsylvania. The FWEC facility was operated as a pressure vessel manufacturing plant from 1953 through 1984, which resulted in soil and groundwater contamination. A groundwater extraction and treatment system has been in operation at the former FWEC facility since 1993. Groundwater contamination was identified in residential wells and impacted residences were connected to public water. The site is being addressed thought the Superfund alternative approach, an alternative to listing a site on the National Priorities List.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1986 EPA conducted a preliminary assessment of the site. In 1988, EPA, Pennsylvania Department of Environmental Protection (PADEP), and Foster Wheeler Energy Corp. (FWEC) entered into a Consent Agreement and Order requiring FWEC to begin a site investigation program.
+
+In 1991, pursuant to the 1988 Order, FWEC implemented design and construction of a groundwater extraction and treatment system (GETS) to remove trichloroethylene (TCE) from groundwater and to control and stabilize the contamination downgradient. The GETS commenced operations in October 1993 and is still in operation. Treated effluent is discharged to the headwaters of Watering Run. Monitoring of the system is currently conducted by FWEC on an annual basis and the results are provided to EPA and PADEP.
+
+In September 2004, groundwater samples were collected from residential wells located along Church Road. TCE was detected in 14 residential wells above the federal regulatory limit of 5 parts per billion (ppb). Bottled water was provided to affected residences and additional samples from residential wells were collected. Carbon filtration systems were installed at residences where TCE was detected and were operated until the residences were permanently connected to the public water supply.
+
+In 2005, EPA and FWEC entered into an Administrative Order on Consent (AOC) requiring FWEC to connect impacted residents to a public water line to eliminate exposure to TCE. In 2007, the water line was completed and impacted wells were disconnected and abandoned.
+
+In 2009, EPA and FWEC signed another AOC to conduct a Remedial Investigation and Feasibility Study (RI/FS) at the site. The AOC was negotiated within the context of the Superfund Alternative approach, under which the investigation and cleanup of the site may proceed without listing the site on the National Priorities List (NPL). The findings were presented in a [2018 RI Report (PDF)](https://semspub.epa.gov/src/document/03/2256607). From July 2016 through April 2018, EPA conducted a [Feasibility Study (PDF)](https://semspub.epa.gov/src/document/03/2256606) to identify alternatives for an interim remedial action based on data collected during the RI.
+
+### What Is the Current Site Status?
+
+The Foster Wheeler Energy Corporation/Church Road TCE Site includes the following three areas:
+
+1\. The former Foster Wheeler Energy Corp. (FWEC) Facility, an approximately 105-acre property, located in the northeastern portion of the site.  
+2\. The Affected Area, an approximately 295-acre area, is defined by the approximate extent of groundwater contamination from east to west along Church Road and Watering Run. It is generally located south and southwest of the former FWEC Facility.  
+3\. The Surrounding Industrial Properties, which consist of eight industrial properties located to the west and south of the former FWEC Facility that were investigated during the Remedial Investigation.
+
+An [Interim Record of Decision (ROD) (PDF)](https://semspub.epa.gov/src/document/03/2259177) was signed in September 2018, to addresses contaminated sediment, soil, and groundwater at the site and site-wide vapor intrusion. It does not address groundwater in the Surrounding Industrial Properties and the Affected Area. The final remedial action for the entire site will be selected in a future decision document.
+
+The interim remedy selected includes:
+
+- Capping and soil vapor extraction (SVE) treatment of Source Area Soils
+- Continued groundwater extraction and treatment using the existing groundwater extraction and treatment system (GETS) and optimization of the system
+- Sediment removal and restoration at the Former Wastewater Treatment Pond
+- Vapor intrusion monitoring and mitigation
+- Groundwater monitoring
+- Institutional controls
+
+On May 22, 2019, FWEC and EPA signed an Administrative Order on Consent to perform the Remedial Design for the components of the 2018 Interim ROD. As part of the Remedial Design, FWEC conducted a SVE pilot study in August 2019. The pilot study determined that SVE would not be effective. Instead FWEC implemented a voluntary focused soil excavation, to remove a soil “hot-spot” containing elevated concentrations of trichloroethene (TCE) within the Source Area Soils identified during the SVE study. In accordance with the Interim ROD the area was then covered with an impermeable cap. Sediment removal and restoration at the Former Wastewater Treatment Pond area was completed in the Spring and Summer of 2020.
+
+### Emergency Response and Removal
+
+Cleanup to date has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment.
+
+Actions between 1988 and 2005 included constructing and operating a groundwater treatment system; providing bottled water to residences with impacted wells; temporarily providing impacted residences with carbon filtration systems; connecting affected homes to the public water supply; and disconnecting and abandoning contaminated wells.

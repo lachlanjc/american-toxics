@@ -1,2 +1,50 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The four-acre Chemform, Inc. [Superfund](http://www.epa.gov/superfund) site is in Pompano Beach, Florida. Industrial businesses surround the Site.
+
+Between 1967 and 1985, a precision machine shop manufactured metal parts for the aerospace industry at the site. The company also designed and manufactured electrochemical machines for other industries. The property is currently used as a produce distribution center.
+
+In 1989, the EPA placed the Site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) because of contaminated groundwater and soil resulting from waste handling practices.
+
+Site contamination does not currently threaten people living and working near the Site. Both residents and businesses use the public water system for drinking water. The Site is fenced to reduce access by the public.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA, the Florida Department of Environmental Protection (FDEP) and some of the site’s [Potentially Responsible Parties](http://www.epa.gov/superfund/superfund-glossary#p) [(PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) have reduced risks caused by site contamination through the following actions:
+
+- removed about 3,600 cubic yards of contaminated soil as well as debris, drums, and sludge from two underground storage tanks;
+- removed containerized chemicals from the building;
+- conducted groundwater sampling; and
+- restricted groundwater use through institutional controls.
+
+**1992**  
+The EPA selected the cleanup plan in a Record of Decision (ROD) for groundwater contamination. The remedy called for quarterly groundwater monitoring for at least one year to verify that no site-related release of contaminants was occurring.
+
+**1993**  
+In September, the EPA published a ROD for soils. Because of the previous removal of contaminated soil, the remedy selected was no further action. In October, the PRPs began quarterly groundwater monitoring.
+
+**1999**  
+The EPA published an Explanation of Significant Differences (ESD) for the groundwater remedy. The ESD added vinyl chloride to the list of groundwater contaminants and required Five-Year Reviews to be conducted.
+
+**2000**  
+The EPA deleted the site from the NPL.
+
+### What Is the Current Site Status?
+
+The [fourth Five-Year Review](https://semspub.epa.gov/src/document/04/11155312) was published by EPA HQs in 2020. The sitewide remedy is protective of human heaith and the environment in the short term.
+
+The property is currently used as a produce distribution center.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+For this site, Institutional Controls are in place that restrict installation of potable water wells where the property abuts a water main owned by a public or private water utility system (Broward County Code sections 34-35 through 34-49). The Site also lies within a Florida Delineated Area which restricts well placement ( [FAC 62-524](https://www.flrules.org/gateway/ChapterHome.asp?Chapter=62-524) ).
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+Under 122(h) of the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), the EPA has entered into a settlement agreement with Metropolitan Life Insurance Company and Smith International, Inc. concerning the Chemform, Inc., Superfund Site located in Pompano Beach, Florida. The settlement addresses recovery of CERCLA costs for a cleanup action performed by the EPA at the Site.

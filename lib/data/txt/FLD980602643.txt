@@ -1,2 +1,61 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 660-acre Northwest 58th Street Landfill [Superfund](http://www.epa.gov/superfund) site is located in Hialeah, Florida. From 1952 to 1982, Miami-Dade County operated a municipal landfill at the site. The landfill accepted municipal and industrial wastes. Improper storage and burning of waste on site resulted in the contamination of groundwater.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) of contaminated sites in 1983 because of contaminated groundwater underneath the facility. The EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/), and Miami-Dade County, the site’s [potentially responsible party (PRP),](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By monitoring groundwater and undertaking Five-Year Reviews, the EPA, FDEP and the PRP continue to protect people and the environment from site contamination.
+
+All site cleanup activities are complete. Site contamination does not currently threaten people living and working near the site. Both residents and businesses use the public water system for drinking water.
+
+### What Has Been Done to Clean Up the Site?
+
+Miami-Dade County, the site’s PRP, led site investigation and cleanup activities, with oversight provided by the EPA and FDEP.
+
+**1987**  
+EPA issued a cleanup plan (a Record of Decision, or ROD) for the site. The plan included
+
+- connecting private well users impacted by the landfill to the public water system
+- closing the landfill in accordance with state and the EPA guidance
+- putting controls in place to address leachate, landfill gas migration and odor (leachate is water that collects contaminants as it passes through contaminated material on site)
+- operation and maintenance activities, including groundwater monitoring, landfill cover inspection, gate and fence inspection, and maintenance of the cover, fence and access roads.
+
+**1988 - 1995**  
+Parties undertook cleanup actions at the site in three stages.
+
+The PRP connected private well users to the public water system in 1988.
+
+The PRP constructed a leachate collector and interceptor trench in 1988–1989.
+
+The PRP closed the landfill in 1995. Damage from Hurricane Andrew in 1992 slowed closure of the landfill.
+
+**1996**  
+After the site’s cleanup met all site cleanup goals, the EPA took the site off the NPL.
+
+There has been significant development activity in areas surrounding the site. Due to a road expansion project north of the site, the PRP relocated some off-site monitoring wells.
+
+The PRP completed the site’s cleanup and there are no longer any significant ground water concerns at the site.
+
+### What Is the Current Site Status?
+
+The [sixth Five Year Review](https://semspub.epa.gov/src/document/04/11150459) was published by EPA HQs in 2020. The remedy at the Northwest 58th Street Landfill Is protective of human health and the environment.
+
+Dade county uses the surface of a portion of the closed landfill as a staging area for hurricane debris when needed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater institutional controls are in place under Sections 24-43.2 and 24-43.3 of the Miami-Dade County Code of Ordinances that regulate the permitting and use of wells in the vicinity of the Biscayne Aquifer Sites. Soil institutional controls are in place under the RCRA post-closure permit.
+
+Institutional controls restricting soil and groundwater use are also in place at the site.
+
+### Sampling and Monitoring
+
+The site has been deleted from the NPL, but groundwater monitoring will continue as needed.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA negotiated legal agreements with the site PRP to investigate and clean up the site. The PRP continues to fund site monitoring and oversight activities.

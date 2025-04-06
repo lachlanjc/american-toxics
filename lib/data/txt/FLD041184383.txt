@@ -1,2 +1,26 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Wilson Concepts of Florida, Inc. (Wilson Concepts) site is located in Pompano Beach, Florida. It includes the area where Wilson Concepts operated a manufacturing facility from 1967 to 1987. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1989 because of contaminated groundwater and soil resulting from facility operations.
+
+EPA and the Florida Department of Environmental Protection (FDEP) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. EPA determined that the site does not threaten people living or working near the site or the environment and, therefore, did not require cleanup activities beyond one year of groundwater monitoring. The groundwater sampling results from the site sampling indicated that the ROD groundwater clean-up goals had been achieved. EPA took the site off the NPL in 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+The 2-acre site is located at 1408 Southwest 8th Street in Pompano Beach, Florida, in an industrial area less than a half-mile from U.S. Interstate 95. A linen cleaning and delivery service borders the site to the north, a construction materials company borders the site to the south and a fiberglass manufacturing company borders the site to the east. The Chemform Inc. site borders the site to the west. From 1967 until 1987, a manufacturing facility for precision machine parts operated at the site. In 1989, EPA listed the site on the NPL. Precision Metal Industries, a sheet metal manufacturer, currently operates at the site.
+
+- EPA led site investigation and cleanup activities in cooperation with FDEP.
+- Initial site investigations in 1987 identified contamination of soil and groundwater resulting from spills and overflows of materials at the site.
+- In 1992, EPA issued the cleanup plan (a [Record of Decision, or ROD](https://sems.epa.gov/work/1556306688453/04-10449244.pdf) ) for the site. It documented EPA’s decision that no cleanup action was required. The plan also included quarterly monitoring of on-site groundwater for one year to confirm the appropriateness of the no-cleanup action plan.
+- EPA completed groundwater monitoring in 1994. Groundwater beneath the site meets federal standards for drinking water. EPA took the site off the NPL in 1995.
+
+### What Is the Current Site Status?
+
+In 1992, EPA issued the cleanup plan (a [Record of Decision, or ROD](https://sems.epa.gov/work/1556306688453/04-10449244.pdf) ) for the site. It documented EPA’s decision that no cleanup action was required. The plan also included quarterly monitoring of on-site groundwater for one year to confirm the appropriateness of the no-cleanup action plan.
+
+EPA deleted the site from the NPL in 1995 and does not require Five-Year Reviews for the site.
+
+The soil exposure risk was only evaluated for the industrial use and leaching to groundwater so the detection limits were not low enough to determine if the soil was a risk for residential exposure to hexivalent chromium. A soil sampling event was completed in April 2018 to sample hexivalent chromium, the results from this sampling event confirmed that the soil meets the criteria for UU/UE. The site achieved SWRAU in 2018, and no more work is anticipated at the Site.
+
+### Enforcement Information
+
+EPA negotiated legal agreements with site PRPs to investigate and clean up the site. The PRPs did not carry out the required actions so EPA took the lead. EPA used federal funds for site cleanup activities.

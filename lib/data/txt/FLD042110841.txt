@@ -1,2 +1,63 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13-acre Landia Chemical Company (LCC) [Superfund](http://www/epa.gov/superfund) site is located in Lakeland, Florida. The former facility location includes two properties:
+
+- the former LCC property; and
+- the former Florida Favorite Fertilizer (FFF) property.
+
+The properties were used for industrial operations beginning in the 1930s and 1940s, respectively.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-gloassary#n) in 2000 because of contaminated soil, groundwater and sediment resulting from past facility operations. EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By cleaning up the site, monitoring groundwater and undertaking FYRs, EPA, FDEP and the site’s PRPs continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. Nearby residents and businesses use the public water system for drinking water and potable water service.
+
+### What Has Been Done to Clean Up the Site?
+
+PRPs lead site investigation and cleanup activities, with oversight provided by EPA and FDEP.
+
+The Landia site has been divided into two Operable Units (OUs) to assist in planning and conducting cleanup activities.
+
+- OU 1 - soils
+- OU 2 - groundwater
+
+**1980s**  
+Site PRPs have conducted numerous on-site and off-site environmental assessments and cleanup actions at the site. In 1983, Landia Chemical Company removed over 146 tons of impacted sediments from the first 1,000 feet of the Wayman Street Ditch.
+
+**1990s**  
+Central Pipeline Florida started a removal action on the former FFF property after an underground pipeline rupture on the property. The removal addressed petroleum product and contaminated soil.
+
+**2001**  
+EPA oversaw a time-critical removal action on the former LCC property, the eastern portion of the former FFF property and the initial 600 feet of the Wayman Street Ditch. PRPs removed 4,250 tons of soil from the site and 510 tons of soil and sediment from a property south of Olive Street and the first 600 feet of the Wayman Street Ditch. This action addressed immediate health threats to people living near the site.
+
+**2007**  
+EPA issued the Record of Decision (ROD) a long-term cleanup plan for operable unit 1 (OU1) (soil) and an interim cleanup action for OU2 (groundwater). The plan included
+
+- digging up and disposing of contaminated soil off site
+- using chemicals or living organisms to break down contaminants in groundwater
+- developing a performance monitoring plan to evaluate the effectiveness of the soil cleanup approach
+- institutional controls to limit future uses at the site, restrict the use of contaminated groundwater and ensure the maintenance of engineering barriers (e.g., fencing).
+
+**2010 – 2011**  
+Site PRPs completed the design of the cleanup approach in 2010. Cleanup officially began in February 2011. PRPs began digging up contaminated site soil in March 2011 and disposed of it in an approved off-site landfill. PRPs placed crushed limestone into some of the dug-up areas to make remaining soil less acidic and then filled in these areas with clean soil and either capped the soil with impermeable material, such as clay, or planted trees and other vegetation to prevent the infiltration of stormwater and to control groundwater movement. The PRPs completed these activities in July 2011.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/work/04/11068572.pdf) was published by EPA HQs in 2017. The remedy at OU l is protective of human health and the environment; remedial activities have addressed exposure pathways that could result in unacceptable risks. The [interim ROD OU2](https://semspub.epa.gov/work/04/10520120.pdf) presents an interim cleanup plan is protective of human health and the environment utilizing the Memorandum of Agreement with the Southwest Florida Water Management District and Restrictive Covenants to prevent access to the exposure pathways that could result in unacceptable risks to the groundwater plume as defined by the ongoing groundwater monitoring program.
+
+EPA and FDEP used this opportunity to evaluate the future groundwater action needed for the site. Using the groundwater data for the past several years it was determined that the reduction in nitrate concentrations is due to the mass source soil removal action completed in 2011. Once the decrease in nitrate begins to slow or achieve equilibrium a final remedy will be selected for the groundwater. This path forward will be discussed further in the next FYR due to be completed in August 2022.
+
+This site is currently operating under an interim remedy for the groundwater. During the Remedial Design stage for OU2, groundwater sampling results indicated that the nitrate groundwater concentrations were naturally attenuating or decreasing. The decision was made to postpone the implementation of the interim groundwater remedy to avoid stalling out the natural chemical degradation.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A Restrictive Covenant for the Sylvite Property was recorded in Polk County, Florida on September 8th, 2016 and an Amended Restrictive Covenant for the Landia Property was recorded in Polk County, Florida on August 17th, 2016. This site is also utilizing the Memorandum of Agreement with the Southwest Florida Water Management District to prevent access to the contaminated groundwater by preventing new well installation. The controls restrict access to groundwater and ensure that the current and future site use will be compatible with the remedy. Future site uses are restricted to commercial or industrial land uses.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with site PRPs to investigate and clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

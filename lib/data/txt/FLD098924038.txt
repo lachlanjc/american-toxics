@@ -1,2 +1,67 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 180-acre United Metals, Inc. (UMI) [Superfund](http://www.epa.gov/superfund) site is site is located in Marianna, Florida. A large agricultural field borders the site to the north and woodlands border the site to the south, east and west. The nearest residence is less than a mile northwest of the site.
+
+The site includes approximately 24 acres where a battery reclaiming facility operated from 1979 until 1991. Facility operations reclaimed lead from batteries, shredded the lead cases and sent the materials off site. A chain link fence surrounds this area. Facility operations started in 1979 reclaiming lead from batteries, shredding the lead cases and sending the materials off site. Anrich Industries, Inc. purchased the UMI business and property in 1989. After renovations, the company restarted the battery recycling facility in 1991, but had to close the facility in 1992 after numerous RCRA violations.
+
+In 1998, the property was purchased through a tax sale for delinquent taxes. The property was sold again in 2012.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2003 because of contaminated soil and groundwater resulting from facility operations. EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) have investigated site conditions. By remediating contaminated soils, monitoring groundwater and undertaking Five-Year Reviews, EPA and FDEP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA and the Florida Department of Environmental Protection (FDEP) have investigated site conditions.
+
+**1996**  
+EPA conducted a short-term removal action at the site. EPA removed six 55-gallon drums, cut open a 6,000-gallon storage tank, solidified several hundred gallons of sulfuric acid sludge and disposed of the solidified sludge off site.
+
+**2002 – 2006**  
+EPA conducted site investigations and studies from 2002 to 2006. The site’s long-term remedy, selected in 2006, includes
+
+- removing contamination and demolishing buildings and other structures on site
+- digging up, stabilizing and solidifying contaminated soil, sediments and concrete building debris
+- placing the stabilized/solidified materials in a containment area on site
+- filling in dug-up areas with clean soil
+- installing a cap over the containment area
+- placing 2 feet of clean soil over the containment cell
+- restoring remediated wetlands
+- placing institutional controls on the site property to limit land uses and to restrict the installation of irrigation equipment or wells in the contaminated groundwater area without the prior notification and approval of EPA and FDEP
+- using monitored natural attenuation to address groundwater contamination.
+
+**2006**  
+EPA conducted additional removal activities. These activities included separating soil and debris from the 2,500-cubic-yard waste pile and disposing of about 400 cubic yards debris at a hazardous waste landfill and the remaining soil in the waste pile was disposed of at an off-site landfill.
+
+**2011**  
+The remedy was implemented with the stabilization/solidification of lead contaminated soil into the on-site containment cell and the monitoring of the groundwater to evaluate the natural attenuation of the groundwater contamination.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/work/04/11200910.pdf) was published by EPA HQs in 20 24. The sitewide remedy is protective of human health and the environment. Contaminated soils and sediment were excavated, treated, and placed in an on-site capped containment cell. The cap prevents direct exposure to COCs in soils and sediment and helps prevent contaminants from leaching into the groundwater. Institutional controls protect the integrity of the containment cell and limits exposure to contaminated soil and surficial groundwater.
+
+EPA plans to complete the next Five-Year Review in 2029.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls protect the Integrity of the monolith and further limit the potential of contaminant exposure by prohibiting digging In areas of remaining soil contamination under building foundations and restricting ground water use.
+
+### Sampling and Monitoring
+
+Groundwater sampling is on going to monitor the performance of the containment cell and monitor the level of contamination in the groundwater.
+
+### Emergency Response and Removal
+
+In 1996, EPA conducted a short-term cleanup at the site. EPA removed six 55-gallon drums, cut open a 6,000-gallon storage tank, solidified several hundred gallons of sulfuric acid sludge and disposed of the solidified sludge off site.
+
+In 2006, EPA conducted additional removal activities. Removal activities included separating soil and debris from the 2,500-cubic-yard waste pile and disposing of approximately 400 cubic yards of debris at a hazardous waste landfill with the remainder of the waste pile disposed of at an off-site landfill.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA was unsuccessful in locating and negotiating financial obligations with any viable PRPs. Cleanup activities at this site are “Fund Lead”, paid through taxpayer funding.

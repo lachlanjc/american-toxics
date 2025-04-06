@@ -1,2 +1,40 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The one-acre JJ Seifert Machine [Superfund](http://www.epa.gov/superfund) site is located along Old Highway 41 South in Ruskin, Florida. Site surroundings include Vidor Avenue, a service shop and residential properties to the north, commercial businesses to the south, U.S. Highway 41, a church and agricultural land to the east, and Old US Highway 41 and residential properties to the west.
+
+JJ Seifert Machine Company operated at the site from 1962 until 2011, making manufactured products such as electronic components, tools, dies, jigs and fixtures. A paint shed, a drum storage area and a plating operation were located at the site. The site is not currently in use. A vacant machine shop building and a metal building remain on site. The state of Florida referred the site to the EPA because the owner and operator of the facility were unwilling to adequately address the contamination at the site and because sampling detected contamination in nearby private drinking water wells.
+
+In 2009, FDEP had filters installed on private wells where contaminants exceeded drinking water standards.
+
+The U.S. Environmental Protection Agency (EPA) placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2010 because of contaminated groundwater resulting from facility operations. EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) have investigated site conditions and taken steps to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with FDEP.
+
+Since the listing of the site on the NPL, EPA in conjunction with the Florida Department of Environmental Protection (FDEP) have implemented a cleanup strategy that included
+
+- excavation and off-site disposal of shallow contaminated soil
+- injection of biological amendments to treat VOCs in the groundwater. Since the first injections in 2014, the concentration and extent of VOCs in the groundwater has been reduced significantly. However, it may be 5 to 10 years before all VOCs have reduced to drinking water standard
+
+EPA conducted soil sampling on the church property located directly across the street from the site, which includes a children’s playground. EPA did not identify any site-related contaminants in soil.
+
+**2014**  
+EPA began a treatment program that involved the injection of biological amendments into the subsurface to naturally degrade the volatile organic contaminants (VOCs) in the groundwater. Two injections have been completed and ground-water monitoring indicate a steady decrease in contaminant levels.
+
+**2017**  
+There are no active cleanup activities currently underway at the JJ Seifert Machine Shop Site (Seifert). Cleanup at the site involves the injection of biodegradable material into the subsurface to facilitate the biological degradation of the volatile organic groundwater contaminants. The last injection occurred in April 2017 and the groundwater is currently being monitored.
+
+### What Is the Current Site Status?
+
+The [first Five-Year Review](https://semspub.epa.gov/src/document/04/11142961) was published by EPA HQ in 2020. Currently, a long-term ground-water monitoring program is underway to evaluate the effectiveness of the biological treatment of the VOC ground-water contamination.
+
+### Sampling and Monitoring
+
+Currently, a long-term ground-water monitoring program is underway to evaluate the effectiveness of the biological treatment of the VOC ground-water contamination.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA is negotiating with the site’s potentially responsible party (PRP) to pay for site investigation and cleanup costs.

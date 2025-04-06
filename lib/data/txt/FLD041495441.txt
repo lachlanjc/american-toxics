@@ -1,32 +1,31 @@
-ALPHA CHEMICAL CORP.LAKELAND, FL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 32-acre Alpha Chemical Corporation Superfund site is located three miles north of Lakeland, Florida, in the town of Kathleen. It includes an area where various manufacturers have produced fiberglass material since 1967. The U.S. Environmental Protection Agency placed the site on the Superfund Program’s National Priorities List (NPL) in 1983 because of contaminated soil and groundwater resulting from manufacturing operations. 
-EPA, the Florida Department of Environmental Protection (FDEP) and Alpha Resins Corporation (ARC), the site’s potentially responsible party (PRP), have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
-Groundwater sampling at the site has consistently shown that site contaminants of concern (COCs) are below Maximum Contaminant Levels (MCLs).
-Surface water sampling was discontinued in 1994 due to site COCs concentrations remaining below these MCLs and Ambient Criteria for Fresh Water Life.
-2013 soil sampling results from underneath the liner of the capped pond indicated COC concentrations below FDEP Soil Clean-up Target Levels.
-In 2014, the U.S. EPA (EPA HQ) and FDEP discontinued the requirement to conduct Five-Year Reviews as the Site had met the requirements for unlimited use/unrestricted exposure (UU/UE) and is protective of human health and the environment. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is located three miles north of Lakeland, Florida, in the town of Kathleen. The site includes a resin manufacturing plant, parking areas, storage tanks, a rail spur andIn 1983, the EPA listed the site on the NPL. In 1995, the EPA deleted the site from the NPL. 
-The PRP led site investigation and clean-up activities, with oversight provided by EPA and FDEP.
-Parties have taken a number of clean-up actions at the site. The site’s PRP removed contaminated soil from one waste pond. The PRP then backfilled the area with clean soil. The PRP completed construction of a cap covering the remaining unlined pond in 1989 and continued groundwater monitoring. The PRP also seeded the cap surface to prevent possible hurricane damage and erosion.
-Groundwater and surface water monitoring confirmed that contamination had decreased, meeting state and federal cleanup standards, and that the protective cap over the contaminated soil was effective. In 1995, EPA took the site off the NPL.
-As part of the fifth Five-Year Review, the Florida Department of Health sampled potable groundwater wells in the area surrounding the site. No exceedances of the MCLs were detected within a quarter-mile of the site. On-site monitoring wells were also sampled with no exceedances noted.
-In 2014, EPA HQ and FDEP discontinued the requirement to conduct Five Year Reviews as the site had met the requirements for UU/UE and is protective of human health and the environment. 
-Top of Page
-What Is the Current Site Status?
-In 2014, EPA HQ and FDEP discontinued the requirement to conduct Five-Year Reviews as the site had met the requirements for UU/UE and is protective of human health and the environment. The last Five-Year Review is available for review. CERCLA actions are complete at the site. The site is being monitored under RCRA, because it is an active chemical plant. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The 32-acre Alpha Chemical Corporation Superfund site is located three miles north of Lakeland, Florida, in the town of Kathleen. It includes an area where various manufacturers have produced fiberglass material since 1967. The U.S. Environmental Protection Agency placed the site on the Superfund Program’s National Priorities List (NPL) in 1983 because of contaminated soil and groundwater resulting from manufacturing operations.
+
+- EPA, the Florida Department of Environmental Protection (FDEP) and Alpha Resins Corporation (ARC), the site’s potentially responsible party (PRP), have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+- Groundwater sampling at the site has consistently shown that site contaminants of concern (COCs) are below Maximum Contaminant Levels (MCLs).
+- Surface water sampling was discontinued in 1994 due to site COCs concentrations remaining below these MCLs and Ambient Criteria for Fresh Water Life.
+- 2013 soil sampling results from underneath the liner of the capped pond indicated COC concentrations below FDEP Soil Clean-up Target Levels.
+- In 2014, the U.S. EPA (EPA HQ) and FDEP discontinued the requirement to conduct Five-Year Reviews as the Site had met the requirements for unlimited use/unrestricted exposure (UU/UE) and is protective of human health and the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is located three miles north of Lakeland, Florida, in the town of Kathleen. The site includes a resin manufacturing plant, parking areas, storage tanks, a rail spur andIn 1983, the EPA listed the site on the NPL. In 1995, the EPA deleted the site from the NPL.
+
+- The PRP led site investigation and clean-up activities, with oversight provided by EPA and FDEP.
+- Parties have taken a number of clean-up actions at the site. The site’s PRP removed contaminated soil from one waste pond. The PRP then backfilled the area with clean soil. The PRP completed construction of a cap covering the remaining unlined pond in 1989 and continued groundwater monitoring. The PRP also seeded the cap surface to prevent possible hurricane damage and erosion.
+- Groundwater and surface water monitoring confirmed that contamination had decreased, meeting state and federal cleanup standards, and that the protective cap over the contaminated soil was effective. In 1995, EPA took the site off the NPL.
+- As part of the [fifth Five-Year Review](http://semspub.epa.gov/work/04/10944639.pdf), the Florida Department of Health sampled potable groundwater wells in the area surrounding the site. No exceedances of the MCLs were detected within a quarter-mile of the site. On-site monitoring wells were also sampled with no exceedances noted.
+- In 2014, EPA HQ and FDEP discontinued the requirement to conduct Five Year Reviews as the site had met the requirements for UU/UE and is protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+In 2014, EPA HQ and FDEP discontinued the requirement to conduct Five-Year Reviews as the site had met the requirements for UU/UE and is protective of human health and the environment. The [last Five-Year Review](https://semspub.epa.gov/work/04/10944639.pdf) is available for review.
+
+CERCLA actions are complete at the site. The site is being monitored under RCRA, because it is an active chemical plant.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with the site's PRP to investigate and clean up the site.
-Top of Page

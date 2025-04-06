@@ -1,2 +1,81 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 18-acre American Creosote Works Inc. (Pensacola Plant) [Superfund](http://www.epa.gov/superfund) site is located on 701 J Street in Pensacola, Florida. It includes the area where a wood-treating facility operated from 1902 to 1981. Several businesses are located north of the site, including a lumber company, an auto body shop and an appliance sales and repair shop. Residential areas, which are included in the site, also surround the site to the west, south and east. The site is in a commercial and residential district directly south of the intersection of Barrancas Avenue and West Main Street, about 600 yards north of Pensacola Bay and Bayou Chico.
+
+Prior to 1950, the company used creosote exclusively to treat poles. Use of Pentachlorophenol (PCP) started in 1950 and steadily increased in later years of the facility’s operation. Dioxins at the site resulted from the use of PCP as a wood-treating chemical. Dioxins are a common impurity in commercial-grade PCP.
+
+Operators sent process wastewater to four holding ponds located in the western portion of the site. The ponds overflowed after heavy rains. Prior to 1970, wastewater in these ponds overflowed through a spillway into local streets and storm drains and Bayou Chico and Pensacola Bay. In later years, the company collected and spread liquid wastes on the ground in designated "Spillage Areas" on Site.
+
+American Creosote Works filed for bankruptcy in 1981.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.,gov/superfund/superfund-glossary#n) in 1983 because of contaminated soil and groundwater resulting from facility operations. The EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov) have investigated site conditions and taken steps to clean up the site to protect people and the environment from contamination.
+
+Both residents and businesses use the public water system for drinking water; private wells are used for irrigation purposes only. By undertaking Five-Year Reviews (FYR), the EPA and FDEP continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1985, the EPA issued the cleanup plan for the Site called the Record of Decision (ROD). However, the Florida Department of Environmental Regulation (FDER, now FDEP) and the EPA were unable to reach agreement regarding the selected cleanup plan and did not implement it.
+
+Site investigations and clean-up activities have focused on three areas which the EPA refers to as [operable units, or OUs](http://www.epa.gov/superfund/superfund-glossary#o). OU-0 consolidates the other three OUs.
+
+#### OU0 Sitewide
+
+- The [Sitewide Record of Decision (ROD)](https://semspub.epa.gov/src/document/04/11070338) was signed in September 2017. When warranted, Superfund sites include an Operable Unit-0 to consolidate all other cleanup activities and ensure all areas of contamination have been addressed. It is usually the last OU to be addressed.
+
+#### OU1 Source Control
+
+- The EPA has undertaken interim cleanup activities at the site. In1989, the EPA issued a second cleanup plan for OU-1. The EPA amended the ROD in 1999. The September 2017 ROD replaced the 1989 ROD. The1989 plan included:
+- The EPA moved contaminated soils from surrounding residential areas onto the site and covered the soil with a temporary cap. The EPA has not installed a final, permanent sitewide cap.
+- Demolishing, decontaminating and disposing of process area foundations and debris in an off-site landfill
+- Digging up contaminated surface and subsurface soil in residential areas and the Pensacola Yacht Club (PYC) exceeding the EPA cleanup goals and consolidating these materials on site
+- Capping consolidated materials and contaminated areas of the site
+- Installing drainage channels, a stormwater retention pond and other drainage improvements
+- Repairing or replacing existing security fencing
+- Periodic sampling of sediment in the PYC drainage ditch
+- Regular mowing and maintenance of the surface cap
+- Institutional controls to protect the cap and make sure future site uses are compatible with the site’s cleanup approach.
+- Site contaminants affected the Southeast Ditch, which borders Pine Street, Cypress Street, F Street and a residential driveway. The EPA dug up the Southeast Ditch in January 2010 and placed all dug-up soil on site. The EPA filled the dug-up area with clean soil and the area was seeded.
+
+#### OU2 GROUNDWATER
+
+- In 1994, The EPA issued a two-phase cleanup plan for OU-2. Phase 1 includes:
+- Enhancing dense non-aqueous phase liquid (DNAPL) collection;
+- DNAPL/groundwater separation and groundwater treatment;
+- DNAPL transported off site and recycled;
+- Injection of treated groundwater back into the ground;
+- Periodic groundwater monitoring to evaluate the efficiency of DNAPL collection; and
+- Implementation of state-imposed well permit restrictions.
+- Phase I of the two-phase DNAPL removal system has been installed. The Mobile District of the U.S. Army Corps of Engineers currently operates the DNAPL system. The EPA also installed groundwater monitoring wells at 10 locations in 2007 to begin monitoring and preparation for Phase II cleanup activities. Deeper extraction wells installed in 2009 increased the rate of DNAPL recovery to about double the previous rate. The system has recovered over 185,000 gallons of creosote to date.
+- The September 2017 ROD describes installing a barrier around the source area down to 100 feet below surface and connecting a marine clay at that depth. All cresote left outside of the barrier wall, thermal enhanced extraction will be used to remove it.
+
+#### OU3 Offsite dioxin-impacted soil
+
+- In 2006, the EPA created OU-3 based on new risk-based FDEP regulations for dioxin. OU-3 includes all off-site dioxin contamination. The sitewide ROD, which was signed in September 2017 includes remedies for all three OUs. The remedy includes include a barrier wall around the dense non-aqueous phase liquid (DNAPL) source area, offsite DNAPL treatment, removal of off-facility residential soil and stabilization of the on-facility soil.
+- An institutional control, preventing the drilling of any wells on or near the site, is in place and fencing around the facility prevents access to contaminated soil.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11166224.pdf) was published in 2021.
+
+The Sitewide Record of Decision (ROD) was signed in September 2017. This ROD includes remedies to encapsulate the main source area of creosote with a barrier wall and remove other areas of creosote with thermal extraction. It also includes excavation of all dioxin impacted soil within the exposure units and have it capped onsite.
+
+Some offsite parcels have already been cleaned up and approximately 200,000 gallons of creosote have been removed to date. A Remedial Design (RD) was completed in September 2019. The first scheduled remedial action is to clean up residential properties.
+
+Site investigations and cleanup activities have focused on three areas, which the EPA refers to as operable units, or OUs. These areas include OU-1: surface and below-ground soil and sediment; OU-2: groundwater; and OU-3: off-site dioxin-impacted soil.
+
+- The EPA performed several Five-Year Reviews at the Site in 1995, 2000, 2004, 2011, 2016, and 2021.
+- The OU-1 cleanup is not yet complete. EPA has undertaken interim cleanup activities at the site. In 2003, the EPA moved contaminated soils from surrounding residential areas onto the site and covered the soil with a temporary cap. However, the EPA has not installed a final, permanent sitewide cap.
+- For OU-2, Phase I of the two-phase DNAPL removal system has been installed. The Mobile District of the U.S. Army Corps of Engineers currently operates the DNAPL system. the EPA also installed groundwater monitoring wells at 10 locations in 2007 to begin monitoring and preparation for Phase II cleanup activities. Deeper extraction wells installed in 2009 increased the rate of DNAPL recovery to about double the previous rate. The system has recovered over 185,000 gallons of creosote to date.
+- The EPA created OU-3 in 2006, based on new risk-based FDEP regulations for dioxin. OU-3 includes all off-site dioxin contamination. The Agency issued a focused Feasibility Study (FS) in July 2010. The EPA is incorporating FDEP’s input on the study into the final Focused FS Report. The EPA is using the information to complete the sitewide Proposed Plan and ROD for all three OUs. A sitewide ROD was signed in September 2017. This ROD included remedies for all three OUs. The remedy would include a barrier wall around the dense non-aqueous phase liquid (DNAPL) source area, offsite DNAPL treatment, removal of off-facility residential soil and stabilization of the on-facility soil.
+- An institutional control, preventing the drilling of any wells on or near the site, is in place and fencing around the facility prevents access to contaminated soil.
+- The EPA recieved $40 Million from the BIL. The EPA is in the process of converting the RD from a time an materials format to a fixed price format.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Fencing around the facility prevents access to contaminated soil.
+
+The EPA uses [institutional controls](https://www.epa.gov/superfund/superfund-institutional-controls) to help minimize the potential for human exposure to contamination and/or protect the integrity of the remedy. Institutional controls are non-engineered instruments such as administrative and legal controls that can help guide human behavior through terms such as deed restrictions and public health warning signs.

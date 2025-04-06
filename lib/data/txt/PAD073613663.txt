@@ -1,25 +1,8 @@
-Superfund Information Systems: Site Profile
 
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301087)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301087)
-
----
 
 ### Background
 
 The Tonolli Corporation Superfund site is located in Nesquehoning, Carbon County, Pennsylvania. The company operated a secondary lead smelter and lead-acid battery recycling facility between 1974 and 1985. The recycling operations included crushing batteries and recovering the lead and plastics. The 30-acre site included a lined landfill containing standing water and battery wastes. In 1985, the owner and the state detected arsenic and cadmium in on-site monitoring wells. The same year, Tonolli filed for bankruptcy. The site was later proposed to the Superfund program's National Priorities List (NPL) in June 1988 and added in October 1989.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -37,8 +20,6 @@ An approximately 5,000 cubic yard pile of fuel oil-contaminated soil, which was 
   
 All lead contaminated soils on site and off site have been excavated and backfilling and regrading has been completed. Contaminated sediments have been removed from Nesquehoning creek. Construction of the on-site landfill cap has also been completed.
 
----
-
 ### What Is the Current Site Status?
 
 The EPA is working with the Pennsylvania Department of Environmental Protection and Site property owners to implement institutional controls at the site. The institutional controls will restrict the site use to industrial use only, and will prevent disturbance of the landfill cap.
@@ -47,8 +28,6 @@ Groundwater cleanup goals at the site have been achieved in the deep aquifer, ho
 
 EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2344420),concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2028.
 
----
-
 ### Activity and Use Limitations
 
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
@@ -56,8 +35,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls are in placed to restrict land and groundwater use and protect the cap. Additional information about the institutional controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2344420) (pages 9-10).  
-
----
 
 ### Emergency Response and Removal
 

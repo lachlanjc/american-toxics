@@ -1,48 +1,80 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 151-acre Florida Steel Corp. Superfund site is located in Martin County, Florida, 10 miles east of Lake Okeechobee. It includes the area where Florida Steel Corporation, now known as Gerdau AmeriSteel, operated a steel mill from 1970 to 1982. The EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1983 because of contaminated groundwater, sediment and soil resulting from facility operations. Site contamination does not currently threaten people living and working near the site. the EPA, the Florida Department of Environmental Protection (FDEP) and Gerdau AmeriSteel, the site’s potentially responsible party (PRP), have investigated site conditions. By treating and monitoring groundwater, conducting required Five-Year Reviews and enforcing institutional controls, EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination. Top of Page
-What Has Been Done to Clean Up the Site?
-The site’s PRP leads site investigation and cleanup activities, with oversight provided by the EPA and FDEP. The EPA divided the site into two areas, which EPA refers to as operable units, or OUs. 
-OU-1 addresses soil contamination.
-OU-2 addresses contamination in the Southwest Wetland and groundwater. 
-1980s
-In the mid-1980s, the site’s PRP removed aboveground EC dust piles. In 1987 and 1988, the PRP incinerated PCB-contaminated soil. 1992
-The EPA issued the cleanup plan for OU-1. It included 
-digging up and disposing of 600 cubic yards of soil contaminated with polychlorinated biphenyl (PCB) levels above 50 parts per million (ppm) off site
-digging up and solidifying 37,000 cubic yards of emission control (EC) dust and metals-contaminated soil and ash, soil containing lead above 600 ppm, and soil containing PCB levels between 25 and 50 ppm on site
-controlling surface water runoff from the site
-disposing of all solidified material in an on-site, double-lined Resource Conservation and Recovery Act (RCRA) landfill with a RCRA cap
-periodic monitoring of surface water and groundwater quality for up to 30 years. 
-1994
-The EPA issued the cleanup plan for OU-2. It included 
-extracting groundwater and mixing with clean water from an upgradient portion of the site to meet federal and state drinking water standards
-disposing of the blended water by spraying it onto nearby fields
-in the upper portion of the Southwest Wetland included removing contaminated sediment and revegetating the dug-up wetland area. Dug-up wetland sediment containing lead at levels above 600 ppm was to be solidified and disposed of in the on-site landfill. 
-1995 - 1996
-The PRP began OU-1 soil cleanup activities in 1995 and completed those activities in 1996. solidified 100,000 tons of contaminated soil and then disposed of it in the on-site RCRA landfill began cleanup of the Southwest Wetland in 1995. The PRP dug up contaminated sediment from wetland areas with the highest levels of metals and solidified it along with other contaminated soil and disposed of the soil and sediment in the on-site landfill used the remaining dug-up sediment with low metal concentrations (between 160 and 600 ppm) as a soil amendment in upland areas on site. replanted the affected portion of the wetland with native wetland plants. 1996
-The PRP installed the groundwater treatment system at the site and began operating it. 2009
-The PRP shut the system down when a wildfire destroyed most of the spray heads and some of the electrical services, rendering the spray irrigation system non-functional. During this period, the EPA, FDEP and the PRP evaluated whether remaining groundwater contamination could be successfully treated using monitored natural attenuation. After determining this approach would not be successful, the EPA and FDEP decided that it would be necessary to restart the groundwater treatment system. The PRP is currently working to restart the system. 2013
-The 2013 Explanation of Significant Differences (ESD) modified the OU1 and OU2 ROD to document the selection and inclusion of institutional controls as part of the remedy for the Site. Institutional controls cited in the ESD include: limiting future uses of the property to industrial or commercial, restricting any future use of the landfill area, which can impact the integrity of the landfill, and restricting the use of contaminated groundwater until cleanup levels and remedial action objectives have been achieved. 2016
-In October 2016 the PRP retained an outside consultant (CBI Inc) to perform the restoration work which included relocation of several gopher tortoises to a designated recipient site. The work was completed in November 2016. 2025 Groundwater monitoring continues at the site until such time as all cleanup goals have been met. Top of Page
-What Is the Current Site Status?
-The most recent Five Year Review was published by the EPA HQs in 2021. Because the remedial actions at all OUs are protective in the short term, the Site’s remedy is protective of human health and the environment in the short term.  
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The original ROD did not include institutional controls.  The 2013 Explanation of Significant Differences (ESD) modified the OU1 and OU2 ROD to document the selection and inclusion of institutional controls as part of the remedy for the Site. Institutional controls cited in the ESD include: limiting future uses of the property to industrial or commercial, restricting any future use of the landfill area, which can impact the integrity of the landfill, and restricting the use of contaminated groundwater until cleanup levels and remedial action objectives have been achieved. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The 151-acre Florida Steel Corp. [Superfund](http://www.epa.gov/superfund) site is located in Martin County, Florida, 10 miles east of Lake Okeechobee. It includes the area where Florida Steel Corporation, now known as Gerdau AmeriSteel, operated a steel mill from 1970 to 1982.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater, sediment and soil resulting from facility operations.
+
+Site contamination does not currently threaten people living and working near the site. the EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and Gerdau AmeriSteel, the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By treating and monitoring groundwater, conducting required Five-Year Reviews and enforcing institutional controls, EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s PRP leads site investigation and cleanup activities, with oversight provided by the EPA and FDEP.
+
+The EPA divided the site into two areas, which EPA refers to as [operable units, or OUs.](http://www.epa.gov/superfund/superfund-glossary#o)
+
+- OU-1 addresses soil contamination.
+- OU-2 addresses contamination in the Southwest Wetland and groundwater.
+
+**1980s**  
+In the mid-1980s, the site’s PRP removed aboveground EC dust piles. In 1987 and 1988, the PRP incinerated PCB-contaminated soil.
+
+**1992**  
+The EPA issued the cleanup plan for OU-1. It included
+
+- digging up and disposing of 600 cubic yards of soil contaminated with polychlorinated biphenyl (PCB) levels above 50 parts per million (ppm) off site
+- digging up and solidifying 37,000 cubic yards of emission control (EC) dust and metals-contaminated soil and ash, soil containing lead above 600 ppm, and soil containing PCB levels between 25 and 50 ppm on site
+- controlling surface water runoff from the site
+- disposing of all solidified material in an on-site, double-lined Resource Conservation and Recovery Act (RCRA) landfill with a RCRA cap
+- periodic monitoring of surface water and groundwater quality for up to 30 years.
+
+**1994**  
+The EPA issued the cleanup plan for OU-2. It included
+
+- extracting groundwater and mixing with clean water from an upgradient portion of the site to meet federal and state drinking water standards
+- disposing of the blended water by spraying it onto nearby fields
+- in the upper portion of the Southwest Wetland included removing contaminated sediment and revegetating the dug-up wetland area. Dug-up wetland sediment containing lead at levels above 600 ppm was to be solidified and disposed of in the on-site landfill.
+
+**1995 - 1996**  
+The PRP began OU-1 soil cleanup activities in 1995 and completed those activities in 1996.
+
+solidified 100,000 tons of contaminated soil and then disposed of it in the on-site RCRA landfill
+
+began cleanup of the Southwest Wetland in 1995. The PRP dug up contaminated sediment from wetland areas with the highest levels of metals and solidified it along with other contaminated soil and disposed of the soil and sediment in the on-site landfill
+
+used the remaining dug-up sediment with low metal concentrations (between 160 and 600 ppm) as a soil amendment in upland areas on site.
+
+replanted the affected portion of the wetland with native wetland plants.
+
+**1996**  
+The PRP installed the groundwater treatment system at the site and began operating it.
+
+**2009**  
+The PRP shut the system down when a wildfire destroyed most of the spray heads and some of the electrical services, rendering the spray irrigation system non-functional. During this period, the EPA, FDEP and the PRP evaluated whether remaining groundwater contamination could be successfully treated using monitored natural attenuation. After determining this approach would not be successful, the EPA and FDEP decided that it would be necessary to restart the groundwater treatment system. The PRP is currently working to restart the system.
+
+**2013**  
+The 2013 Explanation of Significant Differences (ESD) modified the OU1 and OU2 ROD to document the selection and inclusion of institutional controls as part of the remedy for the Site. Institutional controls cited in the ESD include: limiting future uses of the property to industrial or commercial, restricting any future use of the landfill area, which can impact the integrity of the landfill, and restricting the use of contaminated groundwater until cleanup levels and remedial action objectives have been achieved.
+
+**2016**  
+In October 2016 the PRP retained an outside consultant (CBI Inc) to perform the restoration work which included relocation of several gopher tortoises to a designated recipient site. The work was completed in November 2016.
+
+2025
+
+Groundwater monitoring continues at the site until such time as all cleanup goals have been met.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/src/document/04/11160920) was published by the EPA HQs in 2021. Because the remedial actions at all OUs are protective in the short term, the Site’s remedy is protective of human health and the environment in the short term.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The original ROD did not include institutional controls. The 2013 Explanation of Significant Differences (ESD) modified the OU1 and OU2 ROD to document the selection and inclusion of institutional controls as part of the remedy for the Site. Institutional controls cited in the ESD include: limiting future uses of the property to industrial or commercial, restricting any future use of the landfill area, which can impact the integrity of the landfill, and restricting the use of contaminated groundwater until cleanup levels and remedial action objectives have been achieved.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The PRPs have cooperated with the EPA and have assumed financial responsibility for the cleanup.
-Top of Page

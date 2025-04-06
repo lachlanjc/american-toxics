@@ -1,2 +1,68 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4-acre Anodyne, Inc. [Superfund](http://www.epa.gov/superfund) site is located in the Sunshine State Industrial Park, an unincorporated part of Miami-Dade County, Florida near North Miami Beach. The industrial park is located in a mixed residential, commercial and industrial area. The site borders the Palmetto Expressway to the north, Interstate 95 to the east, U.S. Route 441 and the Biscayne Canal to the south, and a residential development to the west. An additional residential development is located south of the site beyond the Biscayne Canal. The site overlies the Biscayne Aquifer, a shallow water table aquifer that serves as the primary source of drinking water for Miami-Dade and Broward counties.
+
+Between 1960 and 1978, Anodyne and other companies used the area for a variety of industrial processes. Consumer products produced at the facility included decorative trim, control panels, face plates and equipment dials. Some storage of process chemicals occurred in aboveground tanks enclosed in concrete block structures along the south side of the main facility building. EPA concluded that the facility discharged wastes via pipes through the building wall directly onto the ground outside. A 10-inch-diameter, 90-foot-deep well is also located near the south side of the building. The facility possibly used this well for waste disposal. The well is the likely source of the site’s deep aquifer groundwater contamination.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1990 because of contaminated groundwater and soil resulting from facility operations. By conducting studies to identify the best way to clean up contaminated groundwater and negotiating with the [site’s potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) to design and implement the site’s cleanup plan, EPA and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+**1990**  
+EPA listed the site on the NPL.
+
+**1993**  
+EPA issued the cleanup plan (a Record of Decision, or ROD) for the site which managed the cleanup activities in two Zones.
+
+*Zone 1 Cleanup Activities*  
+PRPs led Zone 1 cleanup activities, with oversight provided by EPA and FDEP. In Zone 1, PRPs dug up contaminated soils potentially contaminating groundwater and sent them to a landfill or placed them back onto the site after cleanup. The level of cleanup allows for commercial and industrial land uses at the site. The cleanup does not allow for residential land uses, schools or daycare facilities.
+
+**2005**  
+PRPs began Zone 1 cleanup in 2003 and completed it in 2005. No further work is expected in Zone 1.
+
+*Zone 2 Cleanup Activities*  
+EPA is conducting Zone 2 cleanup activities in cooperation with FDEP and Miami-Dade County’s Department of Environmental Resources Management. EPA also has an Interagency Agreement with the U.S. Army Corps of Engineers (USACE) to assist with groundwater cleanup at the site.
+
+**2000**  
+EPA began Zone 2 design studies in 2000 to evaluate changes in the location of contaminants in the site’s groundwater.
+
+**2004**  
+EPA installed additional monitoring wells in 2004. These additional wells allowed for expanded tracking of movement of the site’s groundwater contamination. EPA collected additional groundwater samples from existing wells to further analyze and determine the level of contamination concentrations from previous data collected.
+
+**2007**  
+EPA finalized a report evaluating the groundwater sampling results in 2007.
+
+**2010**  
+EPA and USACE completed a pilot study to assess the treatability of contaminated groundwater identified in the deep aquifer in 2010.
+
+**2017**  
+EPA initiated a pilot study in 2017 for treating concentrated areas of contamination in the groundwater at depths of approximately 140 to 160 feet below land surface. The pilot study focused on enhanced biological treatment in specific areas to monitor performance of the biological treatment on the groundwater.
+
+The South Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area. This means that drinking water wells must have the District’s approval before placement in the area.
+
+### What Is the Current Site Status?
+
+The Remedial Design for Anodyne has been completed to address the Zone 2 groundwater in accordance with the [Amended Record of Decision dated August 2016](https://semspub.epa.gov/src/document/04/11049381). The Remedial Design comprises of the construction of injection wells at three separate locations to treat groundwater through enhanced biological treatment. The Remedial Design addresses a plume of approximately one mile in length.
+
+*Zone Two*  
+Groundwater monitoring is ongoing. Movement of groundwater contamination is relatively active due to groundwater recharge and local area wellhead influence. EPA does not expect that the pump-and-treat groundwater cleanup method, which is the use of pumps to remove and clean up groundwater, will effectively address groundwater contamination.
+
+EPA monitors the local public water treatment facility for contaminants of concern to ensure drinking water safety. Businesses and residents use the public water system and therefore do not encounter contaminated groundwater.
+
+An alternative cleanup approach is under review. EPA issued a [ROD Amendment in July 2016](https://semspub.epa.gov/src/document/04/11049381). Select areas of the deep zone groundwater will be treated along with Monitored Natural Attenuation for the remainder of the plume.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Businesses and residents use the public water system and therefore do not encounter contaminated groundwater.
+
+The South Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area. This means that drinking water wells must have the District’s approval before placement in the area.
+
+### Sampling and Monitoring
+
+Groundwater monitoring is ongoing in Zone Two.

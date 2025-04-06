@@ -1,2 +1,85 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 25-acre Pepper Steel & Alloys [Superfund](http://www.epa.gov/superfund) site is located near the eastern border of Medley, Florida, approximately 10 miles northwest of Miami and southwest of the Miami Canal. Commercial and industrial areas surround the site.
+
+From the mid-1960s to the mid-1980s, a variety of industrial businesses operated at the site and left behind trash and waste products, including rusted machinery, vehicles, aircraft, oil tanks, transformers, underground storage tanks and batteries. Site activities also included the recycling of electrical transformers, which resulted in the dumping of waste oil on the ground.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www/epa.gov/superfund/superfund-glossary#n) in 1984 because of contaminated soil resulting from facility operations.
+
+Site contamination does not currently threaten people living and working near the site. Through cleaning up contaminated soil, putting institutional controls in place and undertaking Five-Year Reviews, EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/), Miami-Dade County’s Department of Environmental Response and Management (DERM) and the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+**1982**  
+In December 1982, DERM observed oily layers up to six-inches deep in six pits on site. DERM performed test pit explorations and confirmed the presence of oil containing polychlorinated biphenyls (PCBs) in the shallow subsurface materials.
+
+**1983**  
+The detection of PCBs prompted a site investigation by EPA. EPA conducted a geophysical survey which identified several zones requiring further investigation. Using CERCLA emergency response funds, EPA removed PCB contaminated soil and oil floating on the shallow aquifer underlying the site. The site was proposed to the NPL on September 8, 1983.
+
+**1984**  
+The site was finalized on the NPL on September 21, 1984.
+
+**1986**  
+The March 12, 1986 Record of Decision (ROD) selected remedy addressed site contamination as follows:
+
+- collection of all free oil and disposal offsite according to the Toxic Substances Control Act (TSCA) regulations
+- Excavation of soils exceeding 1 part per million (ppm) PCBs, 1,000 ppm lead, and 5 ppm arsenic
+- Solidification of these contaminated soils with a cement-type mixture and placing the monolith on site.
+- Establish institutional controls to ensure that future land uses remained compatible with the remedy and monitoring of the effectiveness of the remedy.
+
+**1991**  
+In March 1991, EPA utilized the State of Florida to institute a ten-year term judgement for protection of the remedy as a temporary Institutional Control until more permanent Ics could be established.
+
+**2012**
+
+The 2012 Five-Year Review found that the soil cleanup, temporary institutional controls and groundwater monitoring are functioning as required to achieve site cleanup goals. The monolith cover was intact and in good shape. None of the site contaminants were found in the groundwater above MCLs so there is no current exposure for human health.
+
+**2017**  
+EPA completed a Five-Year Review [i](https://semspub.epa.gov/src/document/04/11069991) n September 2017. The Groundwater sampling was completed during March 2017 and the data from this event was included in the 2017 Five-Year Review.
+
+The FYR provided two recommendations for further action.
+
+- Implement the Restrictive Covenants (RCs)
+- Incorporate the Operations and Maintenance (O&M) Plan for the site into the IC documents.
+
+**2019**  
+The site Restrictive Covenants were recorded on the last few parcels. This was the final requirement for the site to achieve Site Wide Ready for Anticipated Use (SWRAU). The Site acheived SWRAU on June 26, 2019.
+
+**2022**  
+EPA completed a Five- Year Review in August 2022. The groundwater sampling was completed March 2022 and the data from this event was included in the 2022 Five-Year Review. The 2022 Five Year Review has not yet been published but determined the site remedy was fully protective.
+
+### What Is the Current Site Status?
+
+A [2022 Five Year Review](https://semspub.epa.gov/work/04/11173676.pdf) was completed in August 2022. The 2022 Five Year Review determined the site remedy was fully protective. The site's remedy currently protects human health and the environment in the short term because contaminants remaining at the site are contained in the on-site monolith and there are no current completed exposure pathways.
+
+With the RCs now implemented and the O&M Plan incorporated into the site Ics documents, the site is now long-term protective.
+
+The RCs and the incorporated O&M Plan should be consulted for guidance on potential reuse of the site parcels to ensure protection of the remedy and compliance with EPA, FDEP and DERM. With these RCs finalized the site achieved SWRAU on June 26, 2019 and the site is expected to be eligible for deletion in the next few years.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The [1986 Record of Decision](https://semspub.epa.gov/src/document/04/10802113) established Restrictive Covenants (RCs) to ensure that the remedy remains protective regardless of property owner. Institutional controls ensure that future land use remains compatible with the remedy. Long-term Operation and Maintenance actions, including a sampling program, are required to ensure that the remedy remains effective.
+
+Restrictive Covenants (RCs) are now in place and should be consulted for guidance on potential reuse of the Site parcels. The Long-term Operation and Maintenance plan (O&M) was included in the RCs for each property to ensure protection of the remedy.
+
+Summary of Restrictions include no drilling of wells, no use of groundwater and site use restricted to commercial and industrial. Additionally, there shall be no digging, excavation, grading, construction, drilling, mining, tunneling or other displacing activities on, into or below the monolith as identified in Exhibits "C" and "D" unless pre-approved by FDEP and EPA.
+
+Onsite engineering controls (i.e. the monolith) as identified in Exhibits "C" and '"D" of the RCs shall be maintained. Grantor shall perform such "Site Activities" as set forth in the Operation and Maintenance manual as updated in December 2017, attached to the RC's and under Site Documents on this page.
+
+For any construction activities, in addition to any other federal, state or local requirements, a plan must be submitted and approved by FDEP and EPA to address and ensure the appropriate management of any contaminated soil that may be encountered.
+
+This additional language was added because this site is part of the goal 5 effort out of HQ. The RCs and O&M should have also been attached as documents for everyone to have access for viewing.
+
+### Sampling and Monitoring
+
+Groundwater sampling was executed onsite March 2022 and the data from this event was included in the 2022 Five-Year Review. These results confirm that contamination is not leaking from the capped and solidified soil area into groundwater and that all contaminant concentrations are below MCLs and the PCB concentrations continue to be below the laboratory detection limits.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated a legal agreement with site PRPs to clean up the site but this agreement excluded operation and maintenance. In 1997, the EPA and smaller site owner PRPs entered into another legal agreement to establish an EPA special account. This account contained PRP funds set aside to assist with the implementation of long-term operation and maintenance requirements for the Site until a long term solution could be developed.

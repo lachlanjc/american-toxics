@@ -1,2 +1,69 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The eight-acre Helena Chemical Company (Tampa) [Superfund](http://www.epa.gov/superfund) Site is located in the Orient Park section of Tampa, Florida. A pesticide manufacturing facility operated on site from 1929 to 1981. Pesticide packaging and distribution activities have continued from 1929 to the present, including during site cleanup activities.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1992 because of contaminated soil and groundwater resulting from facility operations.
+
+EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By cleaning up soils and conducting Five-Year Reviews, EPA, FDEP and the site’s PRPs continue to protect people and the environment from site contamination. The most recent Five Year Review is dated March 2021.
+
+Site contamination does not threaten people living and working near the site. Both residents and businesses use the public water system for drinking water.
+
+### What Has Been Done to Clean Up the Site?
+
+Site PRPs lead site investigation and cleanup activities, with oversight provided by EPA and FDEP.
+
+**1996**  
+EPA issued the cleanup plan for the site. It included
+
+- demolishing tank storage areas and disposing of the debris
+- digging up material from a former sulfur pit and disposing of it off site
+- addressing soil contamination through neutralizing soils in place
+- biologically treating contaminated soils and sediments and placing treated soils back on site
+- institutional and engineering controls such as fencing and deed restrictions.
+- addressing contaminated groundwater though containment and removal
+- treating groundwater to meet surface water cleanup goals
+- discharging treated groundwater to the Tampa Bypass Canal.
+
+**2000 - 2005**  
+In 2000, PRPs excavated and shipped pesticide-contaminated soil from a retention pond off site for treatment and disposal. In 2004, PRPs removed, treated and disposed of soil contaminated with sulfur and pesticides followed by additional removal of soil contaminated with sulfur and pesticides in 2005.
+
+In 2005, EPA updated the cleanup plan to make the groundwater cleanup goal for xylene consistent with federal and state primary drinking water standards. EPA anticipates changing the site’s groundwater cleanup method. The Agency is completing a series of studies to determine the most effective option.
+
+**2006 – 2007**  
+Groundwater contaminated with volatile organic compounds (VOCs) at the nearby Alaric Area Groundwater Plume Superfund site appears to be mixing with the western area of groundwater contamination at the Helena Chemical Company site. In 2006-2007, PRPs sampled site groundwater that showed contamination remaining above cleanup level goals. However, EPA and FDEP did not change the approach to monitored natural attenuation.
+
+**2008 - 2012**  
+The site PRP proposed a series of pilot-scale studies to evaluate the potential biological breakdown of low-level pesticides and xylene remaining in site groundwater. PRPs began these studies in September 2009 and completed them in the summer of 2012. EPA and FDEP reviewed the results of the pilot-scale study and concluded that, with sulfuric acid generation continuing in the vicinity of the former sulfur pit, biological degradation of the hexachlorocyclohexane (HCH, also known as BHC) is not possible. As a result, the PRPs are currently developing plans for the scalable pilot-scale treatability study, designed to raise the pH of the areas impacted by former sulfur pit.
+
+**2015 - 2017**  
+In April 2015, while conducting the neutralization pilot study, unexpected contamination was encountered. The subsurface at this location appeared disturbed: paper bags; a black, gelatinous material; and material that resembled elemental sulfur were encountered, along with a very strong odor. The pesticides and insecticides 4,4'-DDT isomers, aldrin, BHC isomers and toxaphene were detected at maximum concentrations of 6,100, 35, 1.6 and 3,200 mg/kg, respectively. This area was removed in March 2017. A total of 454 tons of contaminated soil were excavated and shipped to the Clean Harbors facility in La Porte, Texas.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11160251.pdf) was published by EPA HQs in 2021. The Site's remedy is expected to be protective of human health and the environment upon completion, and in the interim, exposure pathways that could result in unacceptable risks are being controlled.
+
+The pump-and-treat system continues to operate at the site. Ground water monitoring and sampling of ground water and sediment are ongoing.
+
+Currently, Helena Chemical Co. continues to operate a retail facility on site that sells fertilizers, herbicides, pesticides and seed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Helena Chemical Company Landfill site is currently in continued commercial use. The Helena Chemical Company still owns the property and operates a retail sales outlet for agricultural fertilizers, herbicides, pesticides and seed at the site.
+
+EPA and the Southwest Florida Water Management District have entered into an agreement that requires the District to regulate the permitting process and the construction of water wells within the area of the site’s ground water contamination, as well as within the areas of ground water contamination at the two neighboring Superfund Sites.
+
+The area is fenced and secured.
+
+### Sampling and Monitoring
+
+Ground water monitoring and sampling of ground water and sediment in wetland area are ongoing.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA issued an order and negotiated a legal agreement with the site owner to investigate and clean up the site. The owner continues to fund site cleanup, monitoring and oversight activities. All area businesses and the residence north of the site use the public water system for drinking water. In addition, EPA and the Southwest Florida Water Management District have entered into an agreement. According to the agreement, the District regulates the permitting process and the construction of water wells within the area of the site’s ground water contamination, as well as within the areas of ground water contamination at the two neighboring Superfund Sites.

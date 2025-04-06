@@ -1,2 +1,82 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Sydney Mine Sludge Ponds Superfund Site is located in Brandon, Florida. It includes an area mined for phosphate ore from the 1930s through the 1950s, and later used as a liquid waste disposal facility until 1981.
+
+The EPA placed the Site on the Superfund program’s National Priorities List (NPL) in 1989 because of contaminated soil, sediment and groundwater resulting from waste disposal practices. The EPA, the Florida Department of Environmental Protection (FDEP) and the Site’s potentially responsible parties (PRPs) have investigated Site contamination. By monitoring groundwater and undertaking Five-Year Reviews (FYRs), the EPA, FDEP and the Site’s PRPs continue to protect residents and the environment.
+
+Site contamination does not currently threaten people living and working near the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+PRPs lead Site investigation and cleanup activities, with oversight provided by the EPA and FDEP. Monitoring wells were installed into the Bone Valley (BV) Formation (upper aquifer) and the Hawthorn Formation (lower aquifer). The Floridian aquifer, which is a drinking water source, is located below the Hawthorn Formation.
+
+**1982**
+
+Hillsborough County began voluntarily cleaning up the Site, remedial actions included installing a slurry wall to contain Site wastes, excavation and incineration of pond wastes. A groundwater pump-and-treat system was installed for the surficial aquifer.
+
+**1987-1989**
+
+More contaminated soils and materials were excavated. The ROD was signed in 1989.
+
+**1991**
+
+The remedy was modified in an ESD to include investigation of VOC in groundwater that had migrated to into the BV aquifer.
+
+**1997**
+
+The BV groundwater pump-and-treat system was shut down because monitored natural attenuation was determined to be effective as a final remedy for the Site.
+
+**2001**
+
+The first Five-Year-Review was signed.
+
+In 2010, the Site was purchased by University Energy Park, LLC, and the Hillsborough County Planning Commission rezoned some areas of the Site to the Energy Industrial Park-Urban Service Area (EIP-USA). This allowed for different land uses which included: alternative energy production, research facilities, warehousing, industrial research, office buildings, and retail space.
+
+**2011**
+
+Restrictive Covenants were filed that separated the Site into 4 categories:
+
+- Area of institutional control: a 325.8-acre area;
+- Delineation area: a 246.5-acre within the area of the institutional control. The delineation area is a Florida groundwater delineation area, which restricts well installations;
+- The Superfund area: a 56.4-acre area; and
+- The Superfund site: a 9.5-acre area
+
+**2021**
+
+The semi-annual groundwater sampling plan was modified to include analysis of 1,4-dioxane in the [fifth Five-Year-Review](https://semspub.epa.gov/src/document/04/11160062).
+
+The most recent [Five Year Review](https://semspub.epa.gov/src/document/04/11160062) was published in 2021. The remedy at the Site is protective of human health and the environment.
+
+Long-term ground water monitoring is ongoing. This site is in Long-term Operations and Maintenance by the PRP until the contaminants in the groundwater drop below the Clean-up Levels, Maximum Contaminant Levels (MCLs), established in the ROD.
+
+**2024-2025**
+
+Hillsborough County will begin installing monitoring wells to define the subsurface extent of 1,-4 dioxane in groundwater.
+
+### What Is the Current Site Status?
+
+Long-term ground water monitoring is ongoing. This site is in Long-term Operations and Maintenance by the PRP until the contaminants in the groundwater drop below the Clean-up Levels, Maximum Contaminant Levels (MCLs), established in the ROD. The plume is stable and shrinking while concentrations are steadily decreasing as well.
+
+The EPA has completed the [2021 Five-Year Review](https://semspub.epa.gov/src/document/04/11160062) and the remedy was found to be fully protective during that file review.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this Site, activity and use limitations that the EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see Institutional Controls at https://www.epa.gov/superfund/superfund-institutional-controls.
+
+An institutional control in the form of a restrictive covenant prevents the use of groundwater at the Site. The restrictive covenant also prohibits the use of the Site for any residential purpose.
+
+### Sampling and Monitoring
+
+PRPs monitor Site groundwater semi-annually to measure levels of benzene, vinyl chloride, and 1,-4 dioxane in groundwater.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with site PRPs to investigate and clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

@@ -1,56 +1,85 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Green Remediation
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 80-acre Piper Aircraft Corp./Vero Beach Water & Sewer Department Superfund site in Vero Beach, Florida operates as an active manufacturing facility for small commuter and business planes. The facility began manufacturing airplanes in 1975. Soil and groundwater contamination resulted from a leaking underground storage tank that stored chemicals used in the manufacturing process by the company. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1990 because of contaminated groundwater resulting from facility operations. Site contamination does not currently threaten people living and working near the site. A water line connects residences and businesses near the site to the public water supply. By treating and monitoring groundwater, placing institutional controls on the site property EPA, the Florida Department of Environmental Protection (FDEP) and the site’s potentially responsible party (PRP) (Piper Aircraft) continue to protect people and the environment from site contamination. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-Piper Aircraft, the site’s PRP, leads site investigation and cleanup activities, with oversight provided by EPA and FDEP. 1979
-The City of Vero Beach and the site’s PRP installed a groundwater pump-and-treat system to address groundwater contamination. 1989
-The PRP removed the underground storage tank and dug up the contaminated soil surrounding and beneath the tank. 1990
-EPA placed the site on the National Priorities List (NPL) because of contaminated groundwater resulting from facility operations. 1993
-EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included using an air stripper to remove contamination from groundwater; using the existing water line and extraction wells to address groundwater contamination; discharging treated groundwater; and modeling and analyzing air emissions from the groundwater treatment unit to determine the need for air emission control equipment. 1998
-The PRP installed and began operating a new groundwater extraction and treatment system. 2009
-EPA updated the remedy to include institutional controls in the form of a groundwater delineation area as part of groundwater cleanup activities at the Site. The remedy update also incorporated modifications to the groundwater treatment system. In 2009, Institutional Controls (ICs) were placed on the property to restrict the groundwater use. 2014
-The Site’s 2014 FYR found that the groundwater treatment system and groundwater monitoring are functioning as required to achieve groundwater cleanup goals. The FYR also included a Vapor Intrusion (VI) screening to determine whether residents or workers might be at risk from harmful groundwater vapors in buildings due to VI. The screening tool indicated that there is no unacceptable risk attributed to the VI pathway. 2017
-In 2017, The groundwater was determined to have met the Florida NADCs that allow for monitored natural attenuation, thus the site treatment system was approved by EPA and FDEP for shutdown.﻿ Top of Page
-What Is the Current Site Status?
-The most recent Five-Year Review was published by EPA HQs in 2024. The remedy currently protects human health and the environment, because exposure to contaminated ground water is prevented through the implementation of institutional controls. Groundwater treatment and monitoring was ongoing until the groundwater contaminant concentrations met the Florida Natural Attenuation Default Concentrations (NADCs) in 2017. NADCs are a remediation strategy involving the use of natural biological, chemical, and physical processes to treat groundwater contaminants, and conducting ongoing monitoring to verify that these processes are effective.The attainment of Florida NADCs allowed for the treatment system to be discontinued and for natural attenuation of the remaining groundwater contaminant levels. EPA completed the previous FYR in 2019 and the Site was determined to be fully protective during that review as well. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The groundwater plume is now fully contained within the site property and the site is restricted to industrial use only.
-A water line connects residences and businesses near the site to the public water supply.
-In addition, the St. John’s River Water Management District has listed the Site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval. 
-Top of Page
-Sampling and Monitoring
-This site is in long-term O&M by the PRP until the contaminants in the groundwater drop below the clean-up levels, MCLs, established in the ROD. The groundwater has already met the Florida NADCs that allow for monitored natural attenuation, thus the site treatment system was approved by EPA and FDEP for shutdown in 2017. The groundwater sampling results are reviewed annually to determine the time required for the Site to meet the clean-up levels. Top of Page
-Green Remediation
-Piper has been very aggressive in not only the mitigation of the subsurface contamination that drove the inclusion of Piper on the National Priority List, but in improving the overall environmental footprint of the company. 
-Three diesel-fired boilers utilized for aircraft painting operations were decommissioned and replaced with natural gas-fired heaters. This eliminated consumption of #5 diesel (saving approximately 11,000 gallons of #5 used annually) and eliminated the attendant emissions (CO, NOx, PM10, PM, SO2, VOC and lead). 
-Two diesel–fired boilers utilized for general plant use in production building #3 were converted to run natural gas as their only fuel. This eliminated consumption of #2 diesel (saving approximately 40,000 gallons of #2 diesel annually) and eliminated the attendant emissions (CO, NOx, PM10, PM, SO2, VOC and lead). 
-Together these changes enabled Piper to eliminate an entire emissions unit from the Agency's FESOP air permit. The current gas-fired units are now covered by a categorical exemption under state regulations. Piper is a RCRA Large Quantity Generator and shipping approximately 200,000 pounds of RCRA-regulated waste annually (including 100,000 pounds of hazardous waste). Piper worked with their supplier, they are now reclaiming / recovering 91% of the hazardous wastes (H020, H050 and H061 management codes). This resulted in a 57% rate for reclamation/ recovery of the total RCRA waste shipments (both hazardous and non-hazardous). [2018 YTD numbers] 
-Piper currently recycles much of its non-RCRA waste. On average, Piper recycles
-260,000 lbs of steel and aluminum
-45,000 lbs of shredded paper
-8.4 MM lbs of pallets
-6 MM lbs of cardboard and
-2.4 MM lbs of single-stream waste
-Piper is currently constructing a secured, state-of-the-art concrete block, purpose-built 90-day hazardous waste storage facility that is designed to minimize the chances of any release and to provide proper fire protection; segregation of incompatibles and prevention of any unauthorized access.
-Piper has moved to utilize technology to reduce manufacturing waste. This year, Piper installed a cutting edge “additive manufacturing” process to create parts that were previously made by thermoforming. This process will reduce waste for plastic parts by an estimated 50%. 
-Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The 80-acre Piper Aircraft Corp./Vero Beach Water & Sewer Department [Superfund](http://www.epa.gov/superfund) site in Vero Beach, Florida operates as an active manufacturing facility for small commuter and business planes. The facility began manufacturing airplanes in 1975.
+
+Soil and groundwater contamination resulted from a leaking underground storage tank that stored chemicals used in the manufacturing process by the company.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1990 because of contaminated groundwater resulting from facility operations.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects residences and businesses near the site to the public water supply. By treating and monitoring groundwater, placing institutional controls on the site property EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p) (Piper Aircraft) continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+Piper Aircraft, the site’s PRP, leads site investigation and cleanup activities, with oversight provided by EPA and FDEP.
+
+**1979**  
+The City of Vero Beach and the site’s PRP installed a groundwater pump-and-treat system to address groundwater contamination.
+
+**1989**  
+The PRP removed the underground storage tank and dug up the contaminated soil surrounding and beneath the tank.
+
+**1990**  
+EPA placed the site on the National Priorities List (NPL) because of contaminated groundwater resulting from facility operations.
+
+**1993**  
+EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included using an air stripper to remove contamination from groundwater; using the existing water line and extraction wells to address groundwater contamination; discharging treated groundwater; and modeling and analyzing air emissions from the groundwater treatment unit to determine the need for air emission control equipment.
+
+**1998**  
+The PRP installed and began operating a new groundwater extraction and treatment system.
+
+**2009**  
+EPA updated the remedy to include institutional controls in the form of a groundwater delineation area as part of groundwater cleanup activities at the Site. The remedy update also incorporated modifications to the groundwater treatment system. In 2009, Institutional Controls (ICs) were placed on the property to restrict the groundwater use.
+
+**2014**  
+The Site’s 2014 FYR found that the groundwater treatment system and groundwater monitoring are functioning as required to achieve groundwater cleanup goals.
+
+The FYR also included a Vapor Intrusion (VI) screening to determine whether residents or workers might be at risk from harmful groundwater vapors in buildings due to VI. The screening tool indicated that there is no unacceptable risk attributed to the VI pathway.
+
+**2017**  
+In 2017, The groundwater was determined to have met the Florida NADCs that allow for monitored natural attenuation, thus the site treatment system was approved by EPA and FDEP for shutdown.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/src/document/04/11200780) was published by EPA HQs in 2024. The remedy currently protects human health and the environment, because exposure to contaminated ground water is prevented through the implementation of institutional controls.
+
+Groundwater treatment and monitoring was ongoing until the groundwater contaminant concentrations met the Florida Natural Attenuation Default Concentrations (NADCs) in 2017. NADCs are a remediation strategy involving the use of natural biological, chemical, and physical processes to treat groundwater contaminants, and conducting ongoing monitoring to verify that these processes are effective.The attainment of Florida NADCs allowed for the treatment system to be discontinued and for natural attenuation of the remaining groundwater contaminant levels. EPA completed the previous FYR in 2019 and the Site was determined to be fully protective during that review as well.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+- The groundwater plume is now fully contained within the site property and the site is restricted to industrial use only.
+- A water line connects residences and businesses near the site to the public water supply.
+- In addition, the St. John’s River Water Management District has listed the Site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval.
+
+### Sampling and Monitoring
+
+This site is in long-term O&M by the PRP until the contaminants in the groundwater drop below the clean-up levels, MCLs, established in the ROD. The groundwater has already met the Florida NADCs that allow for monitored natural attenuation, thus the site treatment system was approved by EPA and FDEP for shutdown in 2017. The groundwater sampling results are reviewed annually to determine the time required for the Site to meet the clean-up levels.
+
+### Green Remediation
+
+Piper has been very aggressive in not only the mitigation of the subsurface contamination that drove the inclusion of Piper on the National Priority List, but in improving the overall environmental footprint of the company.
+
+- Three diesel-fired boilers utilized for aircraft painting operations were decommissioned and replaced with natural gas-fired heaters. This eliminated consumption of #5 diesel (saving approximately 11,000 gallons of #5 used annually) and eliminated the attendant emissions (CO, NOx, PM10, PM, SO2, VOC and lead).
+- Two diesel–fired boilers utilized for general plant use in production building #3 were converted to run natural gas as their only fuel. This eliminated consumption of #2 diesel (saving approximately 40,000 gallons of #2 diesel annually) and eliminated the attendant emissions (CO, NOx, PM10, PM, SO2, VOC and lead).
+
+Together these changes enabled Piper to eliminate an entire emissions unit from the Agency's FESOP air permit. The current gas-fired units are now covered by a categorical exemption under state regulations.
+
+Piper is a RCRA Large Quantity Generator and shipping approximately 200,000 pounds of RCRA-regulated waste annually (including 100,000 pounds of hazardous waste). Piper worked with their supplier, they are now reclaiming / recovering 91% of the hazardous wastes (H020, H050 and H061 management codes). This resulted in a 57% rate for reclamation/ recovery of the total RCRA waste shipments (both hazardous and non-hazardous). \[2018 YTD numbers\]
+
+- Piper currently recycles much of its non-RCRA waste. On average, Piper recycles
+	- 260,000 lbs of steel and aluminum
+	- 45,000 lbs of shredded paper
+	- 8.4 MM lbs of pallets
+	- 6 MM lbs of cardboard and
+	- 2.4 MM lbs of single-stream waste
+- Piper is currently constructing a secured, state-of-the-art concrete block, purpose-built 90-day hazardous waste storage facility that is designed to minimize the chances of any release and to provide proper fire protection; segregation of incompatibles and prevention of any unauthorized access.
+- Piper has moved to utilize technology to reduce manufacturing waste. This year, Piper installed a cutting edge “additive manufacturing” process to create parts that were previously made by thermoforming. This process will reduce waste for plastic parts by an estimated 50%.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP continues to fund site clean-up, monitoring and oversight activities.
-Top of Page

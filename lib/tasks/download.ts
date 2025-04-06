@@ -3,29 +3,26 @@ import SITES from "@/lib/data/sites.json" assert { type: "json" };
 import { Defuddle } from "defuddle/node";
 import { JSDOM } from "jsdom";
 
-async function parseArticle(url: string): Promise<string> {
-  // return new Promise(async (resolve, reject) => {
-  // try {
-  const dom = await JSDOM.fromURL(url);
-  // const mainColumn = dom.window.document.body.querySelector(
-  //   ".node.view-mode-full",
-  // ).firstChild;
-  const result = await Defuddle(dom, url, { markdown: true });
-  const content = result.content ?? "";
-  const sections = content.split("\n\n---");
-  const body = sections.slice(1, sections.length).join("");
+function parseArticle(url: string): Promise<string> {
+  return new Promise(async (resolve, reject) => {
+    const dom = await JSDOM.fromURL(url);
+    const result = await Defuddle(dom, url, { markdown: true });
+    const content = result.content ?? "";
+    // console.log(content);
+    if (content.startsWith("Oops!")) {
+      return reject("URL invalid");
+    }
+    const sections = content.split("\n\n---");
+    const body = sections.slice(1, sections.length).join("").trim();
 
-  return body;
-  //   } catch (e) {
-  //     console.log(`error parsing ${url}, error: ${e}`);
-  //     reject("not available");
-  //   }
-  // });
+    resolve(body);
+  });
 }
 
-const sitesPreview = SITES.filter((site) => site.state === "Pennsylvania");
+const scopedSites = SITES.filter((site) => site.state === "Florida");
+// sort((a, b) => a.id.localeCompare(b.id)).slice(0, 10);
 
-for (const site of sitesPreview) {
+for (const site of scopedSites) {
   const url = `https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0${site.semsId}`;
   console.log(`Downloading ${site.id} ${site.name}... ${url}`);
   parseArticle(url)

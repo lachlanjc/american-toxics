@@ -1,39 +1,78 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 3-acre Petroleum Products Corporation Superfund site is located on Pembroke Road in a commercial and industrial area of Pembroke Park, Florida, 17-miles north of Miami. The site includes the area where Petroleum Products Corporation operated a used oil processing and refining facility from 1957 until 1971. Contamination from site operations affected soil and groundwater at the site as well as areas next to the site and the underlying Biscayne Aquifer. A mobile home park and Carolina Road border the site to the south. Pembroke Road borders the site to the north, Park Road to the west and S.W. 31st Avenue to the east. Continued use at the site include Pembroke Park Warehouses, a 400-unit storage facility, a shooting range and a restaurant.  The area surrounding the site also includes public water well fields for the cities of Hallandale and Hollywood.  The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1987 because of contaminated groundwater and soil.  EPA, the Florida Department of Environmental Protection (FDEP)Exitand Petroleum Products Corporation, Pembroke Park Warehouses and the U.S. Navy, the site’s potentially responsible parties (PRPs), have investigated site conditions and taken steps to clean up the site to protect people and the environment from contamination. A water line connects residences and businesses near the site to the public water supply. By monitoring groundwater and conducting Five-Year Reviews, EPA, FDEP and the site’s PRPs continue to work toward protecting people and the environment from site contamination. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA has divided the Site into three operable units (OU) for investigation and remediation purposes: 
-OU-1: waste oil recovery
-OU-2: soil contamination
-OU-3: groundwater contamination. 
-1990
-In 1990, EPA issued an interim cleanup plan (an Interim Action Record of Decision, or IROD) for OU-1. The plan included retiring non-operating wells; closing storm drainage wells that discharge to the Biscayne Aquifer; conducting a private water well survey to find any users of site groundwater; and installing the groundwater recovery system to remove more oil and contain the spread of contaminants. 1999
-In 1999, the PRPs began operating a vacuum-enhanced system for recovering waste oil from groundwater in OU-1. The system has recovered more than 30,000 gallons of non-aqueous phase liquids since 1999 and continued to operate until October 2013. 2003
-The PRPs began annual groundwater sampling and monitoring. The PRPs fenced and gated the former disposal pit area at the site. 2009
-In 2009, the EPA and the U.S. Army Corps of Engineers finalized an Interagency Agreement to conduct a remedial investigation for OU-2. 2012
-The OU-1 oil recovery system collected oil through October 2013. The site oil collection and monitoring continue with perimeter monitoring and addressing seepage areas. 2017 - 2018
-EPA’s contractor conducted site investigations on OU-2 and OU-3 (soil and groundwater contamination) from December 2017 through November 2018.   2019
-EPA completed the OU-2 Feasibility Study. 2021
-EPA completed the sitewide Record of Decision 2022
-The Preliminary Design Investigation has begun. Top of Page
-What Is the Current Site Status?
-The most recent Five Year Review was published in 2020. The remedy for 0U1 is currently protective of human health and the environment in the short term. The OU-1 oil recovery system collected oil through October 2013. The site oil collection and monitoring continues with perimeter monitoring and addressing seepage areas. A remedy selection will be made for OU-2 (soil) once site investigations and a feasibility study are completed. A ROD for OU-1 and OU-2 was completed in FY 2021. EPA has not yet developed a final cleanup plan for OU-3. Site Potentially Responsible Parties will address soil and ground water contamination after the EPA issues cleanup plans (RODs) for OU-2 and OU-3. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-A water line connects residences and businesses near the site to the public water supply. The PRPs fenced and gated the former disposal pit area at the site. The South Florida Management District listed the site as a groundwater delineation area, which means all wells placed in the area require the District’s approval. Zoning prohibits schools and residential land uses in the former disposal pit area. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The 3-acre Petroleum Products Corporation [Superfund](http://www.epa.gov/superfund) site is located on Pembroke Road in a commercial and industrial area of Pembroke Park, Florida, 17-miles north of Miami. The site includes the area where Petroleum Products Corporation operated a used oil processing and refining facility from 1957 until 1971. Contamination from site operations affected soil and groundwater at the site as well as areas next to the site and the underlying Biscayne Aquifer.
+
+A mobile home park and Carolina Road border the site to the south. Pembroke Road borders the site to the north, Park Road to the west and S.W. 31st Avenue to the east. Continued use at the site include Pembroke Park Warehouses, a 400-unit storage facility, a shooting range and a restaurant. The area surrounding the site also includes public water well fields for the cities of Hallandale and Hollywood.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1987 because of contaminated groundwater and soil. EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and Petroleum Products Corporation, Pembroke Park Warehouses and the U.S. Navy, the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions and taken steps to clean up the site to protect people and the environment from contamination. A water line connects residences and businesses near the site to the public water supply.
+
+By monitoring groundwater and conducting Five-Year Reviews, EPA, FDEP and the site’s PRPs continue to work toward protecting people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA has divided the Site into three [operable units (OU)](http://www.epa.gov/superfund/superfund-glossary#O) for investigation and remediation purposes:
+
+- OU-1: waste oil recovery
+- OU-2: soil contamination
+- OU-3: groundwater contamination.
+
+**1990**  
+In 1990, EPA issued an interim cleanup plan (an Interim Action Record of Decision, or IROD) for OU-1. The plan included retiring non-operating wells; closing storm drainage wells that discharge to the Biscayne Aquifer; conducting a private water well survey to find any users of site groundwater; and installing the groundwater recovery system to remove more oil and contain the spread of contaminants.
+
+**1999**  
+In 1999, the PRPs began operating a vacuum-enhanced system for recovering waste oil from groundwater in OU-1. The system has recovered more than 30,000 gallons of non-aqueous phase liquids since 1999 and continued to operate until October 2013.
+
+**2003**  
+The PRPs began annual groundwater sampling and monitoring.
+
+The PRPs fenced and gated the former disposal pit area at the site.
+
+**2009**  
+In 2009, the EPA and the U.S. Army Corps of Engineers finalized an Interagency Agreement to conduct a remedial investigation for OU-2.
+
+**2012**  
+The OU-1 oil recovery system collected oil through October 2013. The site oil collection and monitoring continue with perimeter monitoring and addressing seepage areas.
+
+**2017 - 2018**  
+EPA’s contractor conducted site investigations on OU-2 and OU-3 (soil and groundwater contamination) from December 2017 through November 2018.
+
+**2019**  
+EPA completed the OU-2 Feasibility Study.
+
+**2021**  
+EPA completed the sitewide Record of Decision
+
+**2022**  
+The Preliminary Design Investigation has begun.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/src/document/04/11155801) was published in 2020. The remedy for 0U1 is currently protective of human health and the environment in the short term.
+
+The OU-1 oil recovery system collected oil through October 2013. The site oil collection and monitoring continues with perimeter monitoring and addressing seepage areas.
+
+A remedy selection will be made for OU-2 (soil) once site investigations and a feasibility study are completed. A ROD for OU-1 and OU-2 was completed in FY 2021.
+
+EPA has not yet developed a final cleanup plan for OU-3.
+
+Site Potentially Responsible Parties will address soil and ground water contamination after the EPA issues cleanup plans (RODs) for OU-2 and OU-3.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A water line connects residences and businesses near the site to the public water supply.
+
+The PRPs fenced and gated the former disposal pit area at the site.
+
+The South Florida Management District listed the site as a groundwater delineation area, which means all wells placed in the area require the District’s approval.
+
+Zoning prohibits schools and residential land uses in the former disposal pit area.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated a legal agreement with the site PRPs to investigate and clean up the site under the direction of an EPA On-Scene Coordinator. The PRPs continue to fund site cleanup, monitoring and oversight activities.
-Top of Page

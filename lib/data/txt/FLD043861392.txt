@@ -1,44 +1,87 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 43-acre Sherwood Medical Industries Superfund Site is located approximately three miles northeast of downtown Deland in Volusia County, Florida, about 50 miles north of Orlando. Site features include a manufacturing facility, warehouse, laboratory, wastewater treatment facility and paved parking areas. Land uses in the area are mostly residential and commercial. A portion of Lake Miller, a 12-acre lake, is also located on Site. U.S. Highway 92 borders the Site to the north, a Florida Department of Transportation maintenance yard borders the Site to the south, residential homes border the Site to the east and Lake Miller borders the Site to the west.  Since 1959, Sherwood Medical Industries manufactured medical supplies on the property. The company disposed of liquid and sludge wastes into tanks and ponds on Site, contaminating groundwater and soils. The EPA placed the Site on the Superfund program’s National Priorities List (NPL) in 1983 because of contaminated groundwater, sediment, soil and surface water resulting from facility operations. The EPA, the Florida Department of Environmental Protection (FDEP) and American Home Products Corporation (AHPC), the Site’s potentially responsible party (PRP), have investigated site conditions. By treating and monitoring groundwater and undertaking Five-Year Reviews, the EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination. The Sherwood Medical Industries Site is in continued industrial use by a medical supply manufacturer. In 2007, TYCO Healthcare separated from TYCO Industries and became Covidien Corporation. Covidien Corporation currently manufactures medical supplies at the site and employs about 550 workers. Covidien Corporation’s current operations at the site include grinding, hub processing and cleaning of stainless steel and aluminum parts used to manufacture hypodermic syringes, molding plastic syringes and conducting laboratory work. Site contamination does not currently threaten people living and working near the Site. Top of Page
-What Has Been Done to Clean Up the Site?
-AHPC, the site’s PRP, leads site investigation and cleanup activities, with oversight provided by the EPA and FDEP. During cleanup, a Site can be divided into a number of distinct areas depending on the complexity of the problems associated with the Site. These areas called operable units (OUs).  At the Sherwood Site, there are three OUs: 
-OU-1: : on-site soils and off-site groundwater contamination
-OU-2: on-site groundwater contamination
-OU-3: sediment contamination in Lake Miller 
-1991
-The EPA issued an interim cleanup plan (a Record of Decision, or ROD) for OU-2. The plan included using a pump-and-treat system to address groundwater contamination and discharging treated water into Lake Miller. 1992
-The EPA issued the Record of Decision for OU-1. It included: 
-continuing groundwater treatment
-monitoring groundwater in the shallow aquifer as well as the Upper and Lower Floridan Aquifers
-monitoring residential wells next to the Site
-continuing operation of the Floridan Aquifer water supply well and treatment system
-digging up and testing on-site contaminated soils
-disposing of contaminated soils
-placing an institutional control on the site property to make sure Site uses remain industrial. 
-1997
-The EPA issued the Record of Decision for OU-3. It documented the EPA’s decision that no cleanup action was required to address sediment contamination in Lake Miller. The plan included semi-annual sampling of Lake Miller sediment and surface water as well as sampling of fish tissues from Lake Miller and adjoining lakes. 2003
-The PRP sampled fish tissue, sediment and surface water in lakes on and off SSite. Sampling did not find contamination in plants or fish. Several residential water supply wells near the ite continue to be monitored and no site-related contamination has been found in these wells. The PRP completed removal of contaminated soil and sediment from the on-site wastewater holding ponds. Some contamination remains under buildings and parking lots on Site.   2025 Ongoing groundwater monitoring and remediation continues.﻿ Top of Page
-What Is the Current Site Status?
-The fifth Five Year Review was published in 2020. The Sitewide Protectiveness Status is protective of human health and the environment in the short-term because all exposure pathways that may result in unacceptable risks are being controlled. Groundwater contamination in the shallow groundwater aquifer has moved off Site, but the aquifer is not used for drinking water in the affected area. Contamination in the deeper Floridan Aquifer, which supplies water for private and public wells near the Site, including the City of Deland's water supply well, is contained within the Site boundary. The EPA, FDEP and the Site’s PRP continue to address off-site ground water contamination by monitoring lakes on and near the Site, including Lake Miller and Cypress Lake. The EPA anticipates that the site’s ground water cleanup approach may change. Depending on the changes to the ground water cleanup, the EPA will issue either an Explanation of Significant Differences or an amendment to the cleanup plan (ROD) for OU-1. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The Site owners also test residential wells and enforce land use restrictions. Access to Miller Lake, which is partially located on Site property, is also restricted. An institutional control in the form of a restricted covenant prohibits use of the Site for any purposes except industrial land uses. The PRP fenced and secured the Site. Prior to any digging beneath the buildings or parking facilities, parties must test the soil for chromium. Several residential water supply wells near the site continue to be monitored and no Site-related contamination has been found in these wells. Top of Page
-Sampling and Monitoring
-The EPA, FDEP and the site’s PRP continue to address off-site ground water contamination by monitoring lakes on and near the Site, including Lake Miller and Cypress Lake. The EPA anticipates that the site’s ground water cleanup approach may change. Depending on the changes to the ground water cleanup, the EPA will issue either an Explanation of Significant Differences or an amendment to the cleanup plan (ROD) for OU-1. The plan for OU-3 included semi-annual sampling of Lake Miller sediment and surface water as well as sampling of fish tissues from Lake Miller and adjoining lakes. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The 43-acre Sherwood Medical Industries [Superfund](http://www.epa.gov/superfund) Site is located approximately three miles northeast of downtown Deland in Volusia County, Florida, about 50 miles north of Orlando. Site features include a manufacturing facility, warehouse, laboratory, wastewater treatment facility and paved parking areas. Land uses in the area are mostly residential and commercial. A portion of Lake Miller, a 12-acre lake, is also located on Site. U.S. Highway 92 borders the Site to the north, a Florida Department of Transportation maintenance yard borders the Site to the south, residential homes border the Site to the east and Lake Miller borders the Site to the west.
+
+Since 1959, Sherwood Medical Industries manufactured medical supplies on the property. The company disposed of liquid and sludge wastes into tanks and ponds on Site, contaminating groundwater and soils.
+
+The EPA placed the Site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater, sediment, soil and surface water resulting from facility operations.
+
+The EPA, the [Florida Department of Environmental Protection (FDEP](https://floridadep.gov/) ) and American Home Products Corporation (AHPC), the Site’s [potentially responsible party (PRP),](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By treating and monitoring groundwater and undertaking Five-Year Reviews, the EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination.
+
+The Sherwood Medical Industries Site is in continued industrial use by a medical supply manufacturer. In 2007, TYCO Healthcare separated from TYCO Industries and became Covidien Corporation. Covidien Corporation currently manufactures medical supplies at the site and employs about 550 workers. Covidien Corporation’s current operations at the site include grinding, hub processing and cleaning of stainless steel and aluminum parts used to manufacture hypodermic syringes, molding plastic syringes and conducting laboratory work.
+
+Site contamination does not currently threaten people living and working near the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+AHPC, the site’s PRP, leads site investigation and cleanup activities, with oversight provided by the EPA and FDEP.
+
+During cleanup, a Site can be divided into a number of distinct areas depending on the complexity of the problems associated with the Site. These areas called [operable units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o). At the Sherwood Site, there are three OUs:
+
+- OU-1:: on-site soils and off-site groundwater contamination
+- OU-2: on-site groundwater contamination
+- OU-3: sediment contamination in Lake Miller
+
+**1991**  
+The EPA issued an interim cleanup plan (a Record of Decision, or ROD) for OU-2. The plan included using a pump-and-treat system to address groundwater contamination and discharging treated water into Lake Miller.
+
+**1992**  
+The EPA issued the Record of Decision for OU-1. It included:
+
+- continuing groundwater treatment
+- monitoring groundwater in the shallow aquifer as well as the Upper and Lower Floridan Aquifers
+- monitoring residential wells next to the Site
+- continuing operation of the Floridan Aquifer water supply well and treatment system
+- digging up and testing on-site contaminated soils
+- disposing of contaminated soils
+- placing an institutional control on the site property to make sure Site uses remain industrial.
+
+**1997**  
+The EPA issued the Record of Decision for OU-3. It documented the EPA’s decision that no cleanup action was required to address sediment contamination in Lake Miller. The plan included semi-annual sampling of Lake Miller sediment and surface water as well as sampling of fish tissues from Lake Miller and adjoining lakes.
+
+**2003**  
+The PRP sampled fish tissue, sediment and surface water in lakes on and off SSite. Sampling did not find contamination in plants or fish. Several residential water supply wells near the ite continue to be monitored and no site-related contamination has been found in these wells.
+
+The PRP completed removal of contaminated soil and sediment from the on-site wastewater holding ponds. Some contamination remains under buildings and parking lots on Site.
+
+2025
+
+Ongoing groundwater monitoring and remediation continues.
+
+### What Is the Current Site Status?
+
+The [fifth Five Year Review](https://semspub.epa.gov/src/document/04/11150175) was published in 2020. The Sitewide Protectiveness Status is protective of human health and the environment in the short-term because all exposure pathways that may result in unacceptable risks are being controlled.
+
+Groundwater contamination in the shallow groundwater aquifer has moved off Site, but the aquifer is not used for drinking water in the affected area.
+
+Contamination in the deeper Floridan Aquifer, which supplies water for private and public wells near the Site, including the City of Deland's water supply well, is contained within the Site boundary.
+
+The EPA, FDEP and the Site’s PRP continue to address off-site ground water contamination by monitoring lakes on and near the Site, including Lake Miller and Cypress Lake. The EPA anticipates that the site’s ground water cleanup approach may change. Depending on the changes to the ground water cleanup, the EPA will issue either an Explanation of Significant Differences or an amendment to the cleanup plan (ROD) for OU-1.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Site owners also test residential wells and enforce land use restrictions. Access to Miller Lake, which is partially located on Site property, is also restricted.
+
+An institutional control in the form of a restricted covenant prohibits use of the Site for any purposes except industrial land uses. The PRP fenced and secured the Site.
+
+Prior to any digging beneath the buildings or parking facilities, parties must test the soil for chromium.
+
+Several residential water supply wells near the site continue to be monitored and no Site-related contamination has been found in these wells.
+
+### Sampling and Monitoring
+
+The EPA, FDEP and the site’s PRP continue to address off-site ground water contamination by monitoring lakes on and near the Site, including Lake Miller and Cypress Lake.
+
+The EPA anticipates that the site’s ground water cleanup approach may change. Depending on the changes to the ground water cleanup, the EPA will issue either an Explanation of Significant Differences or an amendment to the cleanup plan (ROD) for OU-1.
+
+The plan for OU-3 included semi-annual sampling of Lake Miller sediment and surface water as well as sampling of fish tissues from Lake Miller and adjoining lakes.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA negotiated legal agreements with the site PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.
-Top of Page

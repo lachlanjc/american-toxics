@@ -1,3 +1,76 @@
-404
-The page you are trying to access could not be found. Please try again or notify the
-administrator.
+### Background
+
+The 1-acre Southern Solvents, Inc., [Superfund](http://www.epa.gov/superfund) site is located in North Tampa, Hillsborough County, Florida. Mixed land uses surround the site, including a gas station to the east, a tire and rim shop and a condominium complex to the west, and a coffee distribution center to the north. West Linebaugh Avenue is located along the southern border of the site.
+
+The site is the former location of a facility that distributed dry cleaning solvents, including tetrachloroethylene (also known as PCE or PERC) and trichloroethylene (TCE), to the local dry-cleaning industry. Spills from storage tanks on site contaminated soil and groundwater. Since 1998, a commercial painting business, AAA Diversified Services, has operated at the site alongside remediation activities.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2000 because of contaminated soil and groundwater resulting from periodic spills of cleaning solvents – substances used to dissolve other substances – at the site.
+
+In 2004, EPA entered into a prospective purchaser agreement with the owner. This agreement allowed AAA Diversified Services to purchase the property and continue operating the business. This working partnership demonstrates how EPA’s goals of protecting human health and the environment at contaminated properties can be achieved without creating unnecessary barriers for site users.
+
+Site contamination does not currently threaten people living and working near the site. Both residents and businesses use the public water system for drinking water and the Northwest Florida Water Management District restricts well placement within the area of contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with FDEP.
+
+During cleanup, a site can be divided into a number of distinct areas depending on the complexity of the problems associated with the site. These areas called [operable units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o). At the Southern Solvents, these areas include
+
+- OU-1: soil and surficial aquifer cleanup
+- OU-2: Floridan Aquifer cleanup.
+
+**1999**  
+EPA issued the cleanup plan (a Record of Decision, or ROD) for OU-1 in 1999. It included
+
+- digging up contaminated, unsaturated soils located in the former solvent storage area
+- treating highly contaminated saturated soil and surficial groundwater using in-place chemical oxidation (ISCO)
+- evaluating continued ISCO use in areas with lower tetrachloroethylene (also known as PCE or PERC) concentrations
+- restricting groundwater use by designating the site as part of a Southwest Florida Water Management District groundwater delineation area.
+
+**2000**  
+With FDEP concurrence, EPA updated the OU-1 remedy. Additional sampling during the initial cleanup design found a larger amount of soil contamination than had been previously identified, including soil contamination that EPA could not access beneath the facility building. In response, EPA changed the soil cleanup from excavation to SVE. EPA would also conduct an ISCO pilot study prior to full-scale implementation to confirm the effectiveness of the technology in cleaning up groundwater and possible dense non-aqueous phase liquid (DNAPL) in the surficial aquifer.
+
+EPA started a second remedial investigation/feasibility study to investigate groundwater contamination in the deeper Floridan Aquifer (OU-2) in early 2000. The study identified substantial contamination in the aquifer. EPA installed monitoring wells.
+
+**2004 – 2005**  
+The remedial design for OU-1 included the treatment of the contaminated subsurface soil above the water table using an SVE system. The SVE system operated from June 2005 to June 2006.
+
+**2009**  
+EPA addressed groundwater contamination below the water table using ISCO. Under the ISCO pilot study work plan, EPA completed two phases of ISCO injections in April 2009.
+
+**2010 - 2011**  
+Groundwater monitoring results from April 2010 indicated that 13 out of 18 wells monitored had declining PCE concentrations. However, PCE concentrations had increased in three of the monitored wells. EPA restarted the SVE system in early 2011 and operated it until July 2011, when soil vapor levels had declined.
+
+**2015 -2017**  
+EPA started a focused feasibility study to investigate implementing thermal technology as a cleanup action for OU-1.
+
+**2016**  
+Soil and groundwater sampling occurred most recently in 2016. The groundwater sampling results confirmed high concentrations of PCE, as well as PCE DNAPL, where the concrete pad area is located at the site. This is where the two above-ground storage tanks containing PCE were placed, when the facility operated as a PCE distributor business.
+
+**2018**  
+EPA issued an ammended record of decision (ROD) selecting thermal treatment as the remedy at the Site.
+
+**2024**  
+EPA installed and began operating the thermal treatment system and clean up activities and monitoring at the Site are ongoing.
+
+### What Is the Current Site Status?
+
+EPA has selected thermal treatment as a cleanup action at the site. EPA has worked with the FDEP on establishing common remedial goals for cleanup. The change in remedy required a ROD amendment.
+
+EPA held a Proposed Plan public meeting in 2018 in Tampa, Florida. The Proposed Plan for cleanup will involve thermal treatment or heating the contaminants of concern within the soil and groundwater. The contaminants will be removed as a vapor and captured in a vapor cap system. The Proposed Plan will also involve a groundwater polishing step or a second treatment in addition to thermal treatment. The polishing step will be bioremediation, which adds microorganisms or bugs/insects in the ground that will feed on the chlorine contaminants.
+
+EPA began implementing the thermal treatment remedial action in 2024.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Land use controls at the site include fencing and secured gates to prevent access. The Southwest Florida Water Management District listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval. The delineation area acts as an institutional control to prevent residents from coming into contact with contaminated groundwater.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site PRP to provide some funding for site investigations and cleanup. However, the EPA is using federal funds for the majority of site cleanup activities.

@@ -1,2 +1,65 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The half-acre Flash Cleaners [Superfund](http://www.epa.gov/superfund) site is located at 4131 North Federal Highway in a commercial and residential area of Pompano Beach, Florida. The site includes a rectangular building, a two-car parking lot east of the building and a driveway that connects to a back alley. The building covers about 1,790 square feet. The northwest corner of the site included a former septic tank and drain field. Most of the building’s surrounding area is paved. North Federal Highway, also known as Highway 1, separates the cities of Pompano Beach and Lighthouse Point. Stormwater drainage from the site flows to North Federal Highway storm sewers, which connect to the North Grand Canal, which connects with other canals in Lighthouse Point.
+
+The site is the location of a former dry-cleaning facility that operated onsite from 1977 to about 2001, with continued use as a laundry pickup/drop-off station through 2013. During a facility inspection in 1999, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) staff members saw two improperly installed dry cleaning machines. Dry cleaning workers reportedly discharged wastewater to the on-site septic tank, which resulted in soil and ground water contamination. Ground water contamination from the site extends into the City of Lighthouse Point, located across North Federal Highway east of the site.
+
+The State of Florida referred the site to the EPA after deciding it was not eligible for the state’s Drycleaning Solvent Cleanup Program. EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2008 because of contaminated soil and groundwater resulting from dry cleaning activities.
+
+The U.S. Environmental Protection Agency and the Florida Department of Environmental Protection (FDEP) have investigated site conditions. By treating soil and groundwater contamination below the former dry-cleaning facility and monitoring groundwater and surface water, EPA and FDEP continue to protect people and the environment from site contamination.
+
+Site contamination does not threaten people living and working near the site. EPA used an innovative approach to move the site rapidly from investigation into the cleanup phase.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA, in cooperation with FDEP, led site investigation and now leads cleanup activities.
+
+**2001**  
+The septic tank was pumped out in 2001
+
+**2010**  
+In September 2010, EPA issued the cleanup plan. It included:
+
+- excavating 700 cubic yards of contaminated soil;
+- disposing of excavated soil in an approved off-site waste disposal landfill;
+- installing a soil vapor extraction (SVE) system to remove soil contamination beneath the Flash Cleaners building;
+- injecting organic material into groundwater to speed up the natural breakdown of contaminants.;
+- preventing people from coming into contact with the groundwater until cleanup is complete, using temporary institutional controls (ICs) in an area of groundwater where contaminant levels are higher than site cleanup goals.
+- monitoring of groundwater and surface water.
+
+**2011**  
+EPA completed construction and removal activities that were part of the site’s cleanup, including:
+
+- installing injection wells on site, in the center of the North Federal Highway and east of the highway. Organic material was injected into contaminated groundwater to speed up the natural breakdown of contaminants.
+- treating soil beneath the dry cleaner building, using an SVE system installed and operational in 2011. EPA removed the SVE system after successfully reducing the contaminant concentrations below cleanup levels.
+- EPA and FDEP officials formally inspected all cleanup activities in August 2011.
+
+2023
+
+The EPA transferred the responsibilities for operation and maintenance (O&M) of the groundwater remedial action, selected in the September 30, 2010, Record of Decision (ROD) for the Flash Cleaners Superfund Site, from the U.S. Environmental Protection Agency to the Florida Department of Environmental Protection (FDEP.) As required by CERCLA §104(c)(3) and State Superfund Contract (SSC) Paragraph 20, the FDEP is now responsible for implementing the O&M until the cleanup levels have been achieved.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11160578.pdf) was published by EPA HQs in 2021. The remedy at the Site currently protects human health and the environment because there are no completed exposure pathways.
+
+The Florida Department of Environmental Protection (FDEP) has assumed the responsibilities for operation and maintenance (O&M) of the groundwater remedial action until the cleanup levels have been achieved.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The cleanup plan also required temporary institutional controls (ICs) in an area of groundwater where contaminant levels are higher than site cleanup goals. The ICs will prevent people from coming into contact with the groundwater until cleanup is complete. In addition, the cleanup plan requires EPA to periodically monitor groundwater and surface water.
+
+### Sampling and Monitoring
+
+In January 2011, EPA sampled seven residential properties in Lighthouse Point and a condominium near the site to find any potential soil vapor impacts from groundwater contaminants. While EPA found high concentrations of VOCs in soil gas samples collected on site, VOCs were not detected in the soil gas samples from nearby residential properties.
+
+The FDEP now conducts regular groundwater monitoring within the plume area according to the Site Groundwater Monitoring Plan. After each round of data is obtained, the FDEP Remedial Project Manager and Hydrogeologist evaluate the results, consult with the EPA, and determine what adjustments may be needed to the plan prior to the next round.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA is using federal funds to clean up the site. The site’s potentially responsible party is unable to pay for the site’s cleanup. EPA has placed a Superfund cost recovery lien on the site property. The lien can help EPA recover some or all of its cleanup costs from the site in the future.

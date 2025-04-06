@@ -1,2 +1,73 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 20-acre Solitron Microwave [Superfund](http://www.epa.gov/superfund) site is an industrial property in Port Salerno, Florida. The site is located along Cove Road, approximately three-quarters of a mile east of U.S. Highway 1, in Port Salerno, Florida. The site originally included a main plant building, a hazardous waste storage building, parking lots, a manmade pond and two wastewater fields. Residential areas surround the site.
+
+From 1963 to 1968, the General R. F. Fittings Company ran the facility. The Solitron Microwave Company (Solitron) ran a metals plating and manufacturing business at the site from 1968 until January 1987. Solitron made materials for the military, aerospace and microwave industries. The companies used solvents – substances used to dissolve other substances – in the manufacturing and cleaning work. The companies then placed the solvents in barrels and shipped them off site. Site inspections during the mid-1980s found leaking pipes and drum pads that were potential sources of contamination for surrounding soil and ground water.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1998 because of contaminated soil and groundwater resulting from former metal plating and manufacturing activities.
+
+The U.S. Environmental Protection Agency (EPA) and the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+Site contamination does not threaten people living and working near the site. Both residents and businesses use the public water system for drinking water.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with FDEP. The State of Florida required Solitron to remove about 260 cubic yards of sediments from the facility’s manmade pond in 1989. Later, Solitron did more soil and ground water sampling.
+
+**1988 – 1991**  
+Solitron collected ground water samples between 1988 and 1991 and found contaminant concentrations above drinking water standards.
+
+The Martin County Health Department has regularly tested private drinking water wells in neighborhoods near the site. At first, 12 private wells had contaminant levels above allowable drinking water standards. Martin County connected these residences to the public water supply.
+
+**2000**  
+The site’s long-term remedy included
+
+- excavation and off-site disposal of contaminated soils
+- chemical treatment of contaminated groundwater
+- monitored natural attenuation (natural attenuation is the reduction of contaminants in soil or groundwater through natural physical, chemical or biological processes)
+- extension of water lines to provide people access to the public water system.
+
+**2002 – 2004**  
+In 2002, the U.S. Army Corps of Engineers (USACE), through a cooperative agreement with EPA, excavated contaminated soil near the former main plant building.
+
+In 2003, Martin County finished the installation of water line extensions, allowing residents in the area to connect to the public water system.
+
+In 2004, USACE and EPA excavated soil from under the former site buildings, removed the remaining contaminated soil and sent it to an off-site landfill for disposal. EPA issued a report stating that the Agency had finished all construction activities for the site’s cleanup.
+
+**2005**  
+EPA updated the remedy in 2005, changing the groundwater cleanup plan to rely only on monitored natural attenuation. In addition, Port Salerno Industrial Park, LLC’s demolition of several buildings on site made it possible for EPA to excavate contaminated soil under the former building locations and send the soil off site for disposal at a landfill. The remedy update also changed the cleanup plan to include this work.
+
+**2014**  
+EPA continued conducting annual sampling of the ground water until July 2014, after which, the FDEP assumed the responsibility for conducting annual ground water sampling until all contaminants of concern are below cleanup level goals.
+
+### What Is the Current Site Status?
+
+EPA completed the latest [Five-Year Review in 2019](https://semspub.epa.gov/src/document/04/11131533) and groundwater monitoring data indicate natural attenuation of groundwater contaminants continue to occur.
+
+EPA continues to carry out the monitored natural attenuation cleanup plan. Activities include annual sampling of groundwater to monitor the progress of natural attenuation. Sampling and monitoring will continue until all contaminants of concern are below cleanup level goals.
+
+MNA continues as the remedy and is successfully working. The DEP will perform all future groundwater monitoring activities and MNA remedy evaluations.
+
+Groundwater analysis will continue to be performed. The most recent groundwater monitoring event took place between March and June 2017, with work included for monitoring well replacement.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A solar energy project is currently located on a portion of the site. Fencing surrounds the site and controls access.A solar energy project is currently located on a portion of the site. Fencing surrounds the site and controls access.
+
+### Sampling and Monitoring
+
+The EPA will continue to conduct annual sampling of the ground water through July 2014. After July 2014, the FDEP will assume the responsibility for conducting annual ground water sampling until all contaminants of concern are below cleanup level goals.
+
+### Green Remediation
+
+Passive Diffusion Bag (PDB) samplers are currently used at the Solitron site. A PDB sampler is a low-density bag made of polyethylene and filled with deionized water. When placed in a well, the VOC-contaminated groundwater diffuses across the bag until the water concentration inside the bag is equal to that of the surrounding groundwater.  
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+Port Salerno Industrial Park, LLC and the EPA entered into a Prospective Purchaser Agreement for the site in 2003 that helped enable the site’s cleanup and redevelopment.

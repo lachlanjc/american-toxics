@@ -1,2 +1,80 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Escambia Wood (Pensacola) [Superfund](http://www.epa.gov/superfund) site is located at 3910 North Palafox Street in Pensacola, Florida. The Site is located in a mixed industrial and residential area, bordered on the north by former residential neighborhoods, on the west by Palafox Street, on the east by a Railroad Switchyard, and on the south by an abandoned concrete plant and small industrial park. The site includes the 31-acre former facility and about 70 acres of the nearby former residential areas. The [Agrico Superfund site](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0400818) is located about a quarter-mile southeast of the site.
+
+From 1942 to 1982, the Escambia Wood Treating Company manufactured treated wood products. From 1942 to 1982, the Escambia Wood Treating Company manufactured treated utility poles, foundation pilings and lumber with creosote and PCP. Operations generated wastewater that was stored in impoundments on site. In 1991, the company filed for bankruptcy and abandoned the facility.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL](http://www.epa.gov/superfund/superfund-glossary#n) ) in 1994 because of contaminated groundwater and soil resulting from waste handling practices at the site.
+
+Soil contamination from the site has been addressed and does not currently threaten people living and working near the site. Groundwater contamination at the site does not currently threaten people because drinking water is supplied by the public water supply. The groundwater cleanup will begin once funding is available.
+
+EPA and [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) will continue to protect people and the environment by continuing the cleanup, monitoring the site and undertaking Five-Year Reviews.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA and the Florida Department of Environmental Protection (FDEP) are conducting the cleanup using taxpayer funds because the parties responsible went bankrupt.
+
+Site investigations and cleanup activities are divided into two operable units (OUs). These areas include OU-1: contaminated soil; and OU-2: contaminated groundwater.
+
+**1991**  
+The Escambia Wood Treating Company was abandoned in 1991, leaving about 120 acres of soil contamination and a 1.5-mile-long plume of contaminated groundwater.
+
+EPA began a removal action to stabilize the site, excavate contaminated materials and to estimate the amount of material to be dealt with in future phases of the cleanup. The removal action finished in 1992. The excavated material (225,000 cubic yards) was stockpiled on site and secured under a heavy-duty geomembrane cover.
+
+**1994**  
+EPA placed the site on the NPL in 1994 because of contaminated soil and groundwater resulting from facility operations.
+
+**1995**  
+In June 1995, the ETC site was selected for the EPA's National Relocation Evaluation Pilot to evaluate the use of large-scale permanent residential relocation under Superfund.
+
+**1997**  
+EPA selected an Interim remedy for OU-1 in 1997, included permanently relocating 358 households from the on-site residential areas of Rosewood Terrace subdivision, the Oak Park subdivision, the Escambia Arms Apartments and the Goulding subdivision; demolishing the homes in residential areas on site; and placing institutional controls on the site to restrict future land uses to commercial and industrial uses.
+
+**2006**  
+The final remedy for OU-1, selected in 2006, included permanently relocating households from the Clarinda Triangle neighborhood, digging up contaminated soil, placing the soil in an on-site containment cell, solidifying and stabilizing the top layer of the cell.
+
+EPA added the Clarinda Triangle neighborhood to the Interim remedy. The Clarinda Triangle relocation began in December 2006, was finished in August 2008, and included 38 properties. From 1997 to 2008, more than 400 households were successfully relocated as part of the Interim Remedial Action. EPA acquired about 70 acres of land through the relocation. Recovery Act funding of $3.5 million comprised about 10% of the funding for the cleanup.
+
+**2007**  
+EPA began the final soil cleanup in 2007. EPA dug up, stockpiled and placed contaminated soil and debris in a 550,000-cubic-yard containment cell. EPA also installed a drainage system above the containment cell. During cleanup activities, EPA conducted air monitoring, dust control and site restoration to minimize additional effects on the surrounding community. The FDEP began Operation and Maintenance of most of the OU-1 remedy on March 1, 2013.
+
+**2008**  
+EPA selected the OU-2 remedy in 2008 and then discovered additional contamination, which led the EPA to amend the OU-2 remedy in an Amended Record of Decision in 2015.
+
+**2010**  
+By 2010, EPA had completed major cleanup activities for OU-1.
+
+**2015**  
+EPA amended the OU-2 remedy in a [2015 Amended Record of Decision for Operable Unit 2 (Groundwater)](https://semspub.epa.gov/src/document/04/11014642).
+
+**2016**  
+The OU-2 Remedial Design was approved in September 2016. EPA presents the Site at the EPA Priority Panel. Once funding is available, the groundwater cleanup can begin. The remedy for OU-2 includes a series of cleanup technologies; heating the aquifer with steam and extracting creosote from the aquifer, installing vertical and horizontal injection and extraction wells, treating contamination using chemical and bioremediation, and using monitored natural attenuation.
+
+**2018**  
+The 70-acre property acquired by EPA was transferred to Escambia County in 2018 for the development of the "Midtown Commerce Park".
+
+EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The 2017 [Five-Year Review for OU-1](https://semspub.epa.gov/work/04/11070132.pdf) concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires the placement of institutional controls on the site.
+
+**2021**  
+EPA Region 4 intends to use funds from the Bipartisan Infrastructure Law to implement the groundwater cleanup selected in the [2015 Amended Record of Decision for Operable Unit 2 (Groundwater).](https://semspub.epa.gov/src/document/04/11014642)
+
+**2023**  
+EPA and FDEP, with support from the U.S. Army Corps of Engineers began the groundwater cleanup of Operable Unit 2 (OU2).
+
+### What Is the Current Site Status?
+
+As of 2019, the soil cleanup is protective for human health for industrial or commercial uses.
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11174395.pdf) was published in 2022. The OU-l remedy currently protects human health and the environment because direct exposure has been eliminated, contaminated soils are contained, and exposure pathways have been mitigated through access controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Northwest Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval.
+
+EPA placed institutional controls on the federally acquired property in early 2014 and is discussing institutional controls with the owners of the former facility.
+
+EPA uses [institutional controls](https://www.epa.gov/superfund/superfund-institutional-controls) to help minimize the potential for human exposure to contamination and/or protect the integrity of the remedy. Institutional controls are non-engineered instruments such as administrative and legal controls that can help guide human behavior through terms such as deed restrictions and public health warning signs.

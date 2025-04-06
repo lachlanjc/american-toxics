@@ -1,2 +1,80 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The one-acre Florida Petroleum Reprocessors [Superfund](http://www.epa.gov/superfund) site is located in Davie, Florida. Several companies operated at the FPR facility including the area where an oil reprocessing facility operated from 1979 to 1992. While cleanup was underway, a vehicle and equipment storage facility operated on the southern portion of the site.
+
+In 2003, an investment corporation purchased the site property through a tax sale and leased it to equipment storage companies.
+
+Oil reprocessing operations took place at the facility, including Barry's Waste Oil, Oil Conservationist, Inc., Florida Petroleum Reprocessors and South Florida Fuels. Operations included the collection of waste oils, including used motor oil, surplus fuels, marine oils and slops, hydraulic oils, aviation oils and fuels, and oil wastes from local automotive, agricultural and marine industries. After processing, operators delivered waste oils to used-oil marketers, asphalt plants for use as fuel and phosphate mines for use as flotation oil.
+
+The reprocessing operators dumped oil into a perforated on-site tank. Leftover waste materials referred to as NAPLs, moved through these holes into the underlying aquifer, located six feet below the ground surface. As a result, extensive [volatile organic compounds (VOCs)](https://www.epa.gov/indoor-air-quality-iaq/volatile-organic-compounds-impact-indoor-air-quality) contamination of groundwater occurred and spread from beneath the facility to an area over 800 acres in size, resulting in contamination of the Biscayne Aquifer.
+
+In 1996, EPA and the [Florida Department of Environmental Protection (](https://floridadep.gov/) FDEP) identified contamination at a nearby municipal water well field. The agencies traced the contamination back to the FPR facility.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1998 because of contaminated soil, sediment and groundwater resulting from facility operations. The site consists of the one-acre facility property and a groundwater plume that covered about 870 acres. EPA and the Florida Department of Environmental Protection (FDEP) have investigated site conditions and taken steps to clean up the site to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near the site. Both residents and businesses use the public water system for drinking water.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with the Florida Department of Environmental Protection (FDEP).
+
+Cleanup actions have included removing barrels left on site, removing contaminated site soil and breaking down remaining source material (i.e., non-aqueous phase liquids or NAPLs) in groundwater with a process called bioaugmentation, which uses microbial cultures to break down groundwater contaminants. Treatment through bioaugmentation is ongoing.
+
+**1997**  
+EPA conducted a series of removal actions to address the source of contamination at the site by removing and disposing of numerous containers, including barrels and bulk storage tanks, off site in accordance with local regulations.
+
+**1999**  
+Parties excavated, or dug up, and removed 6,000 tons of highly contaminated soil.
+
+**2001**  
+In 2001, EPA issued the site's long-term cleanup plan. It included collecting and treating contaminated groundwater at the site and from the southern part of the Peele-Dixie Wellfield (PDWF) using natural processes to break down groundwater contaminants. The plan also included restarting groundwater pumping at the PDWF and long-term monitoring of groundwater.
+
+**2003**  
+Parties used on-site chemical oxidation to treat contaminants in soil beneath the ground surface (i.e., subsurface soil). This treatment successfully removed the bulk of subsurface soil contaminants.
+
+Damage to the monitoring and injection well network by site tenants delayed the final treatment of contaminated groundwater at the facility using bioaugmentation. Tenants damaged and made repairs to the site over multiple years.
+
+**2004**  
+EPA revised the cleanup plan in September 2004 to delay the implementation of the PDWF protection component of the remedy due to saltwater intrusion in the southern PDWF. Based on &nbsp; data collected, EPA determined that the wellfield will be sufficiently protected through the use of monitored natural attenuation (MNA)
+
+**2010**  
+EPA reached agreement with the current site property owner to keep the site vacant.
+
+**2011**  
+EPA resumed bioaugmentation efforts.
+
+**2014**  
+The August 2014 sampling results indicated that the on-site groundwater contamination had dropped below the Florida NADC threshold concentrations for the site contaminants. Thus, the site has been transitioned into the long-term area-wide groundwater MNA plan.
+
+**2017**  
+Remedial Actions were completed in 2017.
+
+**2018**  
+The [2018 Five-Year Review (FYR)](https://semspub.epa.gov/work/04/11111841.pdf) was completed on September 18, 2018.
+
+2023  
+The [2023 Five-Year Review (FYR)](https://sems.epa.gov/work/1736166000353/04-11189177.pdf) was completed on September 18, 2018.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://sems.epa.gov/work/1736166000353/04-11189177.pdf) was published by EPA HQs in 2023. The remedy currently protects human health and the environment because contaminated soil has been excavated or treated to meet the cleanup goal protective for residential use. Groundwater treatment has reduced contaminant concentrations and MNA monitoring shows that the concentrations continue to decrease over time. In addition, the surrounding community is connected to a public water supply.
+
+The removal actions have been effective at addressing the source of site contamination. As a result, the site may not need groundwater restoration. EPA is continuing to evaluate the appropriateness of the cleanup approach selected in the cleanup plan. EPA implemented long-term Monitored natural attenuation (MNA) of groundwater contamination; EPA approved the remedial design for this approach in 2007. MNA is ongoing, demonstrating that contamination is decreasing over time.
+
+Another update to the cleanup plan will be completed in the future since the plan to relocate the southern wellfield has now been completed by the city. The cleanup plan will retain the pumping and treatment remedy for use if at some point in the future the wellfields in use exhibit impacts from the site and the protection component needs to be reevaluated with the new contaminant concentrations from the site.
+
+EPA has worked closely with the City of Fort Lauderdale and the South Florida Water Management District to obtain their input and coordinate on cleanup activities. The U.S. Army Corps of Engineers also assisted with a groundwater flow model for the site. Long-term MNA of groundwater is ongoing and in conjunction with the approved optimization treatment using the enhanced bioaugmentation system groundwater remedy.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site property is fenced and gated.
+
+Soil and sediment cleanup on the site property allows for commercial and industrial uses.
+
+### Sampling and Monitoring
+
+This site is in Long-term O&M by the PRP until the contaminants in the groundwater drop below the Clean-up Levels, MCLs, established in the ROD. The groundwater has already met the Florida NADCs that allow for MNA. The next groundwater sampling event is due in 2024.

@@ -1,32 +1,34 @@
-WHITING FIELD NAVAL AIR STATIONMILTON, FL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-Naval Air Station (NAS) Whiting Field is an active U.S. Navy (Navy) installation located in Milton, Florida. The installation provides aircraft and helicopter training for Navy personnel. Historic operations at NAS Whiting Field generated solid and industrial wastes that contaminated soil and groundwater. EPA placed NAS Whiting Field on the Superfund program’s National Priorities List (NPL) of contaminated sites in 1994.The Navy, EPA and the Florida Department of Environmental Protection (FDEP) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. The installation's contamination does not pose a threat to people living and working near the site. Several short-term cleanups have significantly lowered contaminants levels. By cleaning up and monitoring soils, enforcing land use controls, and undertaking Five-Year Reviews, the Navy, EPA and FDEP continue to protect people and the environment from site contamination. The parties are also continuing to investigate the installation and issue cleanup plans.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The 3,842-acre installation is located in Santa Rosa County, approximately six miles north of Milton, Florida, and 25 miles northeast of Pensacola, Florida. The installation consists of two airfields (the North and South Airfields) separated by an industrial area. Lands surrounding NAS Whiting Field include agricultural land to the northwest, residential and forested areas to the south, and forested areas to the east, west and northeast. NAS Whiting Field began operating in 1943. Past waste handling practices at the installation resulted in contamination of soil and ground water with petroleum products, pesticides and used solvents. Through the early 1980s, operators disposed of construction and demolition debris, garbage, waste solvents and oils, tank bottom sludges, and fuels and machine fluids at different locations at the installation. In 1994, the EPA listed NAS Whiting Field on the NPL. 
-The Navy leads the investigation and cleanup of the Site, with oversight provided by EPA and FDEP.
-The Navy began cleanup activities at NAS Whiting Field in 1999. The Navy has focused a majority of its cleanup actions to date on soil contamination. The Navy completed short-term cleanup actions at five OUs during 1999 and at six OUs in 2001. For areas of the site that cannot support residential uses because of remaining soil contamination, the Navy has put in place land use controls that specify allowable land uses.
-OU-1 and OU-2: The EPA, FDEP and the Navy signed a Land Use Control Assurance Plan Memorandum of Agreement in 1999 to make sure land use controls required for OU-1 (Northwest Disposal Area) and OU-2 (Northwest Open Disposal Area) would be effective. In 2008, the Navy and EPA removed the land use control requirements as part of a ROD Amendment issued for OU-2.
-The Site’s first Five-Year Review, completed in 2006 for OU-1 and OU-2, found that the cleanup actions for both areas continue to protect people from remaining site contamination. The Navy completed a second Five-Year Review in September 2012. The second review also found that cleanup actions to date continue to protect people from remaining site contamination. The third Five-Year Review, completed in 2016, and fourth Five-Year Review completed in 2021, found all immediate threats have been addressed with the appropriate land use controls in place.
-OU-4 Solar-Powered Cleanup Pilot Test: In 2005, the Navy, in collaboration with EPA and FDEP, tested a solar-powered cleanup system at OU-4. This system involved the use of a soil vapor extraction unit powered by solar panels to clean up soil. Due to the high concentration of contaminants in the soil, the agencies determined that the solar-powered cleanup approach would take too long. Nevertheless, the pilot test showed that parties could potentially use the approach at other sites.
-The next Five-Year Review will be completed in 2026. 
-Top of Page
-What Is the Current Site Status?
-Investigations and cleanup activities have focused on 28 areas, which EPA refers to as operable units, or OUs. These OUs refer to distinct areas of NAS Whiting Field. OU-1, for example, refers to a 5-acre parcel located along the northwestern installation boundary where operators disposed of wastes associated with the operation and maintenance of aircraft from 1943 to 1965. The Navy has completed remedial investigations and feasibility studies for 26 of the Site’s 28 OUs. The Navy and EPA have also issued a series of cleanup plans (Records of Decision, or RODs) for those 26 OUs. No Action and No Further Action RODs have been issued for eight OUs: OU-3, Site 3; OU-5, Site 5; OU-6, Site 6; OU-8, Site 9; OU-11, Site 12; OU-13, Site 14; OU-23, Site 38; and OU-26, Site 29. 
-In 2023, the Navy and EPA issued their most recent cleanup plan. The ROD was for OU-28/UXO-1, the Former Gunnery Area/Skeet Range at NAS Whiting Field. Cleanup activities selected in the plan included removing soils with levels exceeding industrial use standards; restricting future land uses to non-residential uses; and prohibiting the digging and disturbance or removal of soils unless the EPA or FDEP provide written approval. The Navy and EPA have yet to issue cleanup plans (RODs) for two OUs (OU-24/Site 39 Clear Creek Floodplain and OU-25/Site 40 Basewide Ground Water). The Navy is currently conducting a remedial investigation for OU-25 and a feasibility study for OU-24.. Top of Page
-Sampling and Monitoring
+### Background
+
+Naval Air Station (NAS) Whiting Field is an active U.S. Navy (Navy) installation located in Milton, Florida. The installation provides aircraft and helicopter training for Navy personnel. Historic operations at NAS Whiting Field generated solid and industrial wastes that contaminated soil and groundwater. EPA placed NAS Whiting Field on the Superfund program’s National Priorities List (NPL) of contaminated sites in 1994.
+
+The Navy, EPA and the Florida Department of Environmental Protection (FDEP) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. The installation's contamination does not pose a threat to people living and working near the site. Several short-term cleanups have significantly lowered contaminants levels. By cleaning up and monitoring soils, enforcing land use controls, and undertaking Five-Year Reviews, the Navy, EPA and FDEP continue to protect people and the environment from site contamination. The parties are also continuing to investigate the installation and issue cleanup plans.
+
+### What Has Been Done to Clean Up the Site?
+
+The 3,842-acre installation is located in Santa Rosa County, approximately six miles north of Milton, Florida, and 25 miles northeast of Pensacola, Florida. The installation consists of two airfields (the North and South Airfields) separated by an industrial area. Lands surrounding NAS Whiting Field include agricultural land to the northwest, residential and forested areas to the south, and forested areas to the east, west and northeast. NAS Whiting Field began operating in 1943. Past waste handling practices at the installation resulted in contamination of soil and ground water with petroleum products, pesticides and used solvents. Through the early 1980s, operators disposed of construction and demolition debris, garbage, waste solvents and oils, tank bottom sludges, and fuels and machine fluids at different locations at the installation. In 1994, the EPA listed NAS Whiting Field on the NPL.
+
+- The Navy leads the investigation and cleanup of the Site, with oversight provided by EPA and FDEP.
+- The Navy began cleanup activities at NAS Whiting Field in 1999. The Navy has focused a majority of its cleanup actions to date on soil contamination. The Navy completed short-term cleanup actions at five OUs during 1999 and at six OUs in 2001. For areas of the site that cannot support residential uses because of remaining soil contamination, the Navy has put in place land use controls that specify allowable land uses.
+- OU-1 and OU-2: The EPA, FDEP and the Navy signed a Land Use Control Assurance Plan Memorandum of Agreement in 1999 to make sure land use controls required for OU-1 (Northwest Disposal Area) and OU-2 (Northwest Open Disposal Area) would be effective. In 2008, the Navy and EPA removed the land use control requirements as part of a ROD Amendment issued for OU-2.
+- The Site’s first Five-Year Review, completed in 2006 for OU-1 and OU-2, found that the cleanup actions for both areas continue to protect people from remaining site contamination. The Navy completed a second Five-Year Review in September 2012. The second review also found that cleanup actions to date continue to protect people from remaining site contamination. The third Five-Year Review, completed in 2016, and fourth Five-Year Review completed in 2021, found all immediate threats have been addressed with the appropriate land use controls in place.
+- OU-4 Solar-Powered Cleanup Pilot Test: In 2005, the Navy, in collaboration with EPA and FDEP, tested a solar-powered cleanup system at OU-4. This system involved the use of a soil vapor extraction unit powered by solar panels to clean up soil. Due to the high concentration of contaminants in the soil, the agencies determined that the solar-powered cleanup approach would take too long. Nevertheless, the pilot test showed that parties could potentially use the approach at other sites.
+- The next Five-Year Review will be completed in 2026.
+
+### What Is the Current Site Status?
+
+Investigations and cleanup activities have focused on 28 areas, which EPA refers to as operable units, or OUs. These OUs refer to distinct areas of NAS Whiting Field. OU-1, for example, refers to a 5-acre parcel located along the northwestern installation boundary where operators disposed of wastes associated with the operation and maintenance of aircraft from 1943 to 1965.
+
+The Navy has completed remedial investigations and feasibility studies for 26 of the Site’s 28 OUs. The Navy and EPA have also issued a series of cleanup plans (Records of Decision, or RODs) for those 26 OUs. No Action and No Further Action RODs have been issued for eight OUs: OU-3, Site 3; OU-5, Site 5; OU-6, Site 6; OU-8, Site 9; OU-11, Site 12; OU-13, Site 14; OU-23, Site 38; and OU-26, Site 29.
+
+In 2023, the Navy and EPA issued their most recent cleanup plan. The ROD was for OU-28/UXO-1, the Former Gunnery Area/Skeet Range at NAS Whiting Field. Cleanup activities selected in the plan included removing soils with levels exceeding industrial use standards; restricting future land uses to non-residential uses; and prohibiting the digging and disturbance or removal of soils unless the EPA or FDEP provide written approval.
+
+The Navy and EPA have yet to issue cleanup plans (RODs) for two OUs (OU-24/Site 39 Clear Creek Floodplain and OU-25/Site 40 Basewide Ground Water). The Navy is currently conducting a remedial investigation for OU-25 and a feasibility study for OU-24..
+
+### Sampling and Monitoring
+
 The Navy is completing a remedial investigation for OU-25 (Basewide Ground Water). The Navy has also recently completed a remedial investigation for OU-28/UXO-1 (Former Gunnery Area/Skeet Range).
-Top of Page
-Enforcement Information
+
+### Enforcement Information
+
 For many years, the EPA has been working with its federal and state partners to clean up the installation. In 2009, a Federal Facilities Agreement (FFA) for NAS Whiting Field signed by the Navy, the EPA and FDEP became effective. The FFA helps ensure that the parties will fully investigate environmental impacts associated with past and present activities at the installation and undertake and complete appropriate cleanup actions. The FFA also establishes schedules and enforceable milestones for cleanup activities.
-Top of Page

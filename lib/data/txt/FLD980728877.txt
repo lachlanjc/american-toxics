@@ -1,35 +1,60 @@
-SIXTY-SECOND STREET DUMPTAMPA, FL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Sixty-Second Street Dump Superfund site is located in Tampa, Florida. It includes an area used for the disposal of battery wastes and shredded auto parts in the 1960s and 1970s. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1983 because of contaminated debris, soil and groundwater resulting from past waste disposal operations. By investigating site conditions, monitoring groundwater and undertaking Five-Year Reviews, EPA, the Florida Department of Environmental Protection (FDEP) and the site’s potentially responsible parties (PRPs) continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site. Top of Page
-What Has Been Done to Clean Up the Site?
-Site PRPs led site investigation and cleanup activities, with oversight provided by EPA and FDEP. While EPA identified numerous site PRPs, only The David J. Joseph Company and Lafarge Corporation actively participated in efforts to implement the site’s cleanup plan. 1983
-EPA placed the site on the Superfund program’s National Priorities List (NPL) 1990
-A Record of Decision that documents cleanup plans for the site was signed on July 27, 1990.  The site’s long-term remedy included solidifying/stabilizing battery wastes, shredded auto parts and contaminated soils; not treating on-site cement wastes since they did not present a threat to people or groundwater; capping the entire site with a 2-foot vegetative soil cover underlain by a waterproof cover; treating groundwater from the upper-level aquifer both on site and off site; and implementing institutional controls or other land use restrictions to protect the cap and prevent human exposure to underlying soils. 1991
-EPA issued a Unilateral Order for the cleanup on April 26, 1991, changing the cleanup goal for lead in below ground soil and allowing certain waste to be disposed of offsite or recycled without treatment.  1993 – 1995
-Cleanup took place between 1993 and 1995. Cleanup actions included constructing the belowground barrier wall around the site to limit the potential for contaminants to migrate off site; excavating and treating non-cement wastes and contaminated soils to prevent contaminants from moving into the groundwater; and constructing a 4.5-acre cap over the treated waste to provide additional protection against contaminants moving into groundwater. A second remedy update in 1995 removed the requirement for the on-site and off-site treatment of contaminated groundwater in the surficial aquifer, including 1999
-EPA took the site off the NPL in 1999. Site PRPs conduct inspections regularly throughout the year. The PRPs also conduct groundwater monitoring annually. EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. EPA completed the last Five-Year Review in 2014. Top of Page
-What Is the Current Site Status?
-The fifth Five-Year Review was published by EPA HQ in 2019. The remedy for the Site currently protects human health and the environment in the short term. Site PRPs conduct inspections regularly throughout the year. The PRPs also conduct groundwater monitoring annually. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The site is fenced and secured. The Southwest Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval. Efforts are also underway to place an institutional control in the form of a restrictive covenant on the site to prohibit access to the cap and limit on-site groundwater use. Top of Page
-Sampling and Monitoring
+### Background
+
+The Sixty-Second Street Dump [Superfund](http://www.epa.gov/superfund) site is located in Tampa, Florida. It includes an area used for the disposal of battery wastes and shredded auto parts in the 1960s and 1970s.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated debris, soil and groundwater resulting from past waste disposal operations.
+
+By investigating site conditions, monitoring groundwater and undertaking Five-Year Reviews, EPA, the Florida Department of Environmental Protection (FDEP) and the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Site PRPs led site investigation and cleanup activities, with oversight provided by EPA and FDEP. While EPA identified numerous site PRPs, only The David J. Joseph Company and Lafarge Corporation actively participated in efforts to implement the site’s cleanup plan.
+
+**1983**  
+EPA placed the site on the Superfund program’s National Priorities List (NPL)
+
+**1990**  
+A Record of Decision that documents cleanup plans for the site was signed on July 27, 1990. The site’s long-term remedy included solidifying/stabilizing battery wastes, shredded auto parts and contaminated soils; not treating on-site cement wastes since they did not present a threat to people or groundwater; capping the entire site with a 2-foot vegetative soil cover underlain by a waterproof cover; treating groundwater from the upper-level aquifer both on site and off site; and implementing institutional controls or other land use restrictions to protect the cap and prevent human exposure to underlying soils.
+
+**1991**  
+EPA issued a Unilateral Order for the cleanup on April 26, 1991, changing the cleanup goal for lead in below ground soil and allowing certain waste to be disposed of offsite or recycled without treatment.
+
+**1993 – 1995**  
+Cleanup took place between 1993 and 1995. Cleanup actions included constructing the belowground barrier wall around the site to limit the potential for contaminants to migrate off site; excavating and treating non-cement wastes and contaminated soils to prevent contaminants from moving into the groundwater; and constructing a 4.5-acre cap over the treated waste to provide additional protection against contaminants moving into groundwater.
+
+A second remedy update in 1995 removed the requirement for the on-site and off-site treatment of contaminated groundwater in the surficial aquifer, including
+
+**1999**  
+EPA took the site off the NPL in 1999. Site PRPs conduct inspections regularly throughout the year. The PRPs also conduct groundwater monitoring annually.
+
+EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. EPA completed the last Five-Year Review in 2014.
+
+### What Is the Current Site Status?
+
+The [fifth Five-Year Review](https://semspub.epa.gov/src/document/04/11133576) was published by EPA HQ in 2019. The remedy for the Site currently protects human health and the environment in the short term.
+
+Site PRPs conduct inspections regularly throughout the year. The PRPs also conduct groundwater monitoring annually.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site is fenced and secured.
+
+The Southwest Florida Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval.
+
+Efforts are also underway to place an institutional control in the form of a restrictive covenant on the site to prohibit access to the cap and limit on-site groundwater use.
+
+### Sampling and Monitoring
+
 The site has been deleted from the NPL. PRPs conduct ground water monitoring annually to ensure contaminants are not moving into ground water.
-Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with site PRPs to investigate and clean up the site. The PRPs continue to fund site monitoring and oversight activities.
-Top of Page

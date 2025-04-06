@@ -1,2 +1,68 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4.39-acre Chevron Ortho [Superfund](http://www.epa.gov/superfund) site is located at 3100 North Orange Blossom Trail (U.S. Highway 441) in Orlando, Florida. The site is cleared, vegetated with grass, fenced and unoccupied. Light industrial land uses are located south and west of the site. Lake Fairview Commerce Center is located directly across Orange Blossom Trail to the east. The nearest residential property is a trailer park, located across North Orange Blossom Trail to the northeast. In addition, one resident now lives in a building located on the former Armstrong Trailer Park property immediately north of the site.
+
+Between 1950 and 1976, a pesticide formulation plant operated at the site. A truck repair business operated at the site from 1978 to 1986.
+
+The U.S. Environmental Protection Agency (EPA) placed the site on the Superfund program’s [National Priorities List (NPL](http://www.epa.gov/superfund/superfund-glossary#n) ) in 1994 because of contaminated soil and groundwater resulting from past operations.
+
+EPA, the [Florida Department of Environmental Protection (FDEP)](https://floridadep.gov/) and Chevron, the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions and taken steps to clean up the site. By conducting ongoing groundwater monitoring and required Five-Year Reviews, EPA, FDEP and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. Nearby residents and businesses use the public water system for drinking purposes. Fencing prevents access to the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The PRP leads site investigation and cleanup activities, with oversight provided by EPA and FDEP.
+
+**1991 – 1992**  
+Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Between 1991 and 1992, the PRP demolished and removed all site structures. The PRP excavated 18,000 tons of pesticide-contaminated soil and disposed of it properly off site. The PRP treated groundwater encountered during the excavation on site.
+
+**1994**  
+The PRP excavated 230 tons of pesticide-contaminated soil and properly disposed of it off site.
+
+**1996**  
+The site’s long-term remedy selected in 1996 included using institutional controls to prevent use of contaminated groundwater, site maintenance such as fence upkeep and grass mowing, monitored natural attenuation of groundwater, and a contingency groundwater cleanup plan in case natural processes did not successfully break down contamination. The long-term remedy also stated that additional soil cleanup was not necessary.
+
+**1997**  
+The PRP completed installation of groundwater monitoring wells.
+
+**2004**  
+The PRP found site contaminants in monitoring wells uphill from Lake Fairview. As a result, the PRP implemented the contingency cleanup plan in the long-term remedy. The PRP increased the frequency of groundwater monitoring in existing wells from annual to quarterly monitoring and installed more monitoring wells. EPA conducted a groundwater cleanup pilot study using permeable reactive barriers.
+
+With EPA approval, the PRP installed 11 permeable reactive barriers (PRBs) as part of the groundwater cleanup. Water must flow through the PRB to be treated. The “reactive” materials that make up the wall either trap harmful contaminants or make them less harmful. The treated groundwater flows out the other side of the wall.
+
+**2010 - 2012**  
+EPA updated the long-term remedy in 2010 after implementing the contingency cleanup plan. The PRP removed over 3,000 cubic yards of contaminated soil remaining on site to address the primary source of site contamination.
+
+**2013**  
+EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The 2013 FYR concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+**2023**  
+EPA conducted a [Five-Year Review](https://sems.epa.gov/work/1736168213781/04-11189497.pdf) in 2023.
+
+**2024**  
+The PRP installed an additional permeable reactive barrier (PRB) near the site property boundry to prevent any remaining contamination in the ground water from leaving the Site.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://sems.epa.gov/work/1736168213781/04-11189497.pdf) was published by EPA HQs in 2023. The remedy at the Site currently protects human health and the environment in the short term.
+
+Currently there are 14 permeable reactive barriers (PRBs) installed and 7 remediation areas (excavated areas containing slurry material and clean backfill) at the site. [Please check out this document describing PRBs.](http://semspub.epa.gov/work/HQ/158715.pdf)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to limit the Site to industrial use. Unauthorized site access is discouraged through secured fencing. No drinking or irrigation wells exist currently within the impacted area, and institutional controls have been implemented to prevent exposure to groundwater on the Chevron property
+
+### Sampling and Monitoring
+
+The PRP continues to study the movement of ground water contamination, as there is evidence that ground water contamination has not yet been fully contained.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site PRP, Chevron, to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

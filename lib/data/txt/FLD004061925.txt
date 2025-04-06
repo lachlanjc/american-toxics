@@ -1,3 +1,69 @@
-404
-The page you are trying to access could not be found. Please try again or notify the
-administrator.
+### Background
+
+The Site operated as a sawmill prior to Post and Lumber occupying the18-acre Site. Post and Lumber, a wood treater, began operations to pressure treat posts and other lumber at the Site in 1948. Between 1948 and 1990, wood preserving operations at the facility used pentachlorophenol (PCP) and chromated copper arsenate (CCA). In 1987, waste materials from the on-site pond were consolidated into a surface impoundment and capped. The surface impoundment contains high levels of wood preserving-related wastes. Dioxin and arsenic contamination have been found in the wetlands surrounding the site and in the creek leading from the site to the Little River. The Little River is classified as a recreational river by the State of Florida.
+
+The State of Florida referred the site to the EPA because of contamination in shallow groundwater at the site and the need to investigate the extent of the contamination in off-site wetlands and downstream sediments. Other federal and state cleanup programs were evaluated, but the EPA eventually a letter from the state supporting the proposal to add this site to the National Priorities List (NPL).
+
+The EPA added the site to the Superfund program’s National Priorities List (NPL) in the summer of 2017 due to soil, sediment and groundwater contamination resulting from facility operations. Site investigations by EPA and the Florida Department of Environmental Protection (FDEP) are ongoing. Through these efforts, the EPA and FDEP will protect people and the environment from site contamination.
+
+The image below is a Conceptual Site Model that visualizes the EPA's current understanding of the environmental contamination, including contaminant sources, pathways, and potential impacts to human and ecological receptors.
+
+![](https://usepa.sharepoint.com/:i:/r/sites/OSWER_Work/SFCEF/SuperfundImages/Post%20and%20Lumber/Figure%205%20CSM.jpg?csf=1&web=1&e=B3Yefg)
+
+![](https://usepa.sharepoint.com/:i:/r/sites/OSWER_Work/SFCEF/SuperfundImages/Post%20and%20Lumber/Figure%202%20Site%20Layout.jpg?csf=1&web=1&e=iyVpe4)
+
+### What Has Been Done to Clean Up the Site?
+
+**1987**  
+Waste materials from the on-site pond were consolidated into a surface impoundment and capped.
+
+**1996**  
+A time-critical removal action by the EPA addressed contaminated on-site surface soils and removed remaining tanks and drums. From 1996 to 2015, FDEP removed approximately 74,000 tons of contaminated soils from surrounding offsite residential properties. FDEP also placed a temporary cover over the surface impoundment.
+
+**2017**  
+Post & Lumber Preserving Co was listed to the NPL in the summer of 2017.
+
+**2020**  
+EPA signed the [Record of Decision](http://semspub.epa.gov/src/document/04/11145177) to address contaminated soils and sediments.
+
+**2023**  
+The Remedial Design was finalized.
+
+**2024**  
+Post and Lumber Superfund Site was awarded $32,808,300.00 in funding through the Infrastructure Investment and Jobs Actto perform cleanup actions.
+
+### What Is the Current Site Status?
+
+The 2023 [Remedial Design](http://semspub.epa.gov/work/04/11189866.pdf), established the technical specifications for cleanup treatments for Operable Unit 1(OU-1) and allows the EPA to enter into the Pre-Construction step of the next phase, Remedial Action. Cleanup will commence during the Remedial Action phase.
+
+The objectives of the OU-1 cleanup are listed below:
+
+- Prevent human exposure to site-related contaminated soil/sediments at concentrations above levels protective of human health based upon FDEP SCTLs for residential direct exposure or risk-based concentration where SCTL not available for the COC
+- Prevent ecological receptor exposure to contaminated soil/sediment/surface water above protective levels that includes FDEP Surface Water Quality Criteria
+- Prevent and control migration of soil/sediment contaminants to groundwater and surface water
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) are required as a component of the selected remedy. ICs are non-engineering measures which usually include legal controls to affect human activities in such a way to prevent or reduce exposure to contamination. The EPA is working to evaluate ICs at the Post and Lumber Superfund Site that would accomplish the following:
+
+- Deed Notice
+- Environmental Covenant
+- Use Restriction
+
+The implementation of the instruments listed above will do the following:
+
+- provide information on the waste/contamination left in place
+- apply restrictions in the disposal ares where waste was left in place, including the closed RCRA landfill
+- record land use restrictions for the areas where waste is left in place that are legally enforceable against current and future landowners
+
+### Sampling and Monitoring
+
+The EPA is working to identify potential data gaps based on data collected in previous sampling events. Additionial sampling events may be scheduled prior to the construction of the remedy. The detailings for upcoming sampling events will be provided to this page once a sampling event is finalized and a date is determined.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.

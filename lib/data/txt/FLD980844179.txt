@@ -1,2 +1,71 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Yellow Water Road [Superfund](http://www.epa.gov/superfund) site is located in Baldwin, Florida.
+
+In 1981, the American Environmental Energy Corporation, the American Electric Corporation and the American Environmental Protection Corporation joined together to start a disposal facility at the site. In the process, chemicals spilled onto and contaminated the soil.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1986 because of contaminated soil resulting from facility operations. EPA, the Florida Department of Environmental Protection (FDEP) [https://floridadep.gov/](https://floridadep.gov/) and the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By inspecting the site semi-annuallyr and undertaking Five-Year Reviews, EPA, FDEP and the site’s PRPs continue to protect people and the environment from site contamination.
+
+In 1999, EPA took the site off the NPL.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Site PRPs lead site investigation and cleanup activities, with oversight provided by EPA and FDEP.
+
+**1984**  
+EPA conducted short-term cleanup activities to remove contaminated fluids and highly contaminated soil at the site.
+
+**1990**  
+EPA issued the cleanup plan (a Record of Decision, or ROD) for OU-1. It included
+
+- digging up contaminated soil
+- solidifying and stabilizing contaminated soils with cement
+- placing the soil and cement mixture in the former storage area
+- constructing a cap and placing one foot of clean soil over the capped soil and cement mixture
+- placing a chain-link security fence around the capped area.
+
+**1992**  
+EPA issued the cleanup plan, or ROD, for OU-2. It included
+
+- monitoring groundwater
+- four additional groundwater monitoring wells downgradient from the contamination source area
+- institutional controls to restrict well drilling as well as soil and cap disturbance
+- designing a backup cleanup plan.
+
+**1995 – 1997**  
+The PRPs removed 4,472 cubic yards of contaminated soil and treated it by mixing the soil with cement. PRPs placed the soil and cement mixture on the former storage area of the site, installed groundwater monitoring wells and began a groundwater monitoring program. PRPs contained and capped all soil contamination on site. A chain-link security fence and locked entrance gate restrict access to the capped area.
+
+The PRPs completed cleanup activities in 1996.  
+EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The [fifth Five Year Review](http://https://semspub.epa.gov/src/document/04/11155315) was published by EPA HQ in 2020.
+
+Site investigations and cleanup activities have focused on two areas, which are referenced by EPA as [operable units, or OUs](http://www.epa.gov/superfund/superfund-glossary#o). These areas include OU-1: contamination source control; and OU-2: groundwater contamination.
+
+Site PRPs inspect the fence twice annually. Other ongoing activities include site inspections and ground water monitoring.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A chain-link security fence and locked entrance gate restrict access to the capped area.
+
+In 2010, EPA and PRPs placed an institutional control on the site prohibiting cap and surface soil disturbance as well as groundwater use on the site property.
+
+The St. John’s Water Management District has listed the site and nearby surrounding area as a groundwater delineation area, which means all wells placed in the area require the District’s approval.
+
+### Sampling and Monitoring
+
+PRPs monitor and sample ground water every five years as part of long term O&M at the site.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with site PRPs to investigate and clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.
