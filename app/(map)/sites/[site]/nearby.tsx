@@ -14,7 +14,8 @@ import {
   Marker,
 } from "@alpaca-travel/react-maki-icons";
 import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
-import { Site } from "@/lib/data/api";
+import { getNearbySites, Site } from "@/lib/data/api";
+import { SiteList } from "../list";
 
 export const icons = {
   school: School,
@@ -40,7 +41,8 @@ function metersToMiles(meters: number) {
 export async function Nearby({ site }: { site: Site }) {
   const url = `https://api.mapbox.com/search/searchbox/v1/category/education,church,assisted_living_facility,park,field,waterfall,campground,outdoors,place_of_worship?proximity=${site.lng},${site.lat}&language=en&poi_category_exclusions=medical_laboratory&access_token=${MAPBOX_TOKEN}`;
   const mapbox = await fetch(url).then((res) => res.json());
-  console.log(url, mapbox.features);
+  // console.log(url, mapbox.features);
+  const nearbySites = getNearbySites(site);
 
   return (
     <section className="border border-black/10 rounded-lg bg-black/2 p-4 mt-4">
@@ -79,6 +81,12 @@ export async function Nearby({ site }: { site: Site }) {
           })}
         </tbody>
       </table>
+      {nearbySites.length > 0 && (
+        <>
+          <hr className="-mx-4 my-4 border-black/10" />
+          <SiteList sites={nearbySites} />
+        </>
+      )}
     </section>
   );
 }

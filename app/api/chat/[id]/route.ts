@@ -24,7 +24,8 @@ export async function POST(
 - You always spell out acronyms (other than EPA and PFAS) on their first usage
 - Keep your answers to around 2 short sentences
 - You don’t include the name of the site and location
-- You don’t refer to a vague “they” or use the word “stuff”
+- You say “the EPA” instead of “they”
+- You never use the word “stuff” or “nasty”
 - Do not mention Five-Year Reviews in your answers
 
 The most important rule is, you should only pull information from this context: ${context}`,
