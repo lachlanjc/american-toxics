@@ -24,11 +24,11 @@ export function MapZoom({
     if (window.mapRef.current) {
       fly();
     } else {
-      timeout = setTimeout(fly, 3000);
+      timeout = setTimeout(fly, 2000);
     }
-    return () => {
-      if (timeout) clearTimeout(timeout);
-    };
+    // return () => {
+    //   if (timeout) clearTimeout(timeout);
+    // };
   }, [center, zoom, duration]);
   return null;
 }
