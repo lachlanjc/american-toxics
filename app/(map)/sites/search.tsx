@@ -1,5 +1,6 @@
 "use client";
 import { useFuse } from "@/lib/util/use-fuse";
+import { useFocusable } from "@/lib/util/use-focusable";
 import { allSites } from "@/lib/data/api";
 import { SiteList } from "./list";
 
@@ -12,6 +13,7 @@ export function Search({ children }: React.PropsWithChildren<{}>) {
     data: allSites,
     options: searchOptions,
   });
+  const ref = useFocusable();
 
   return (
     <section>
@@ -22,6 +24,7 @@ export function Search({ children }: React.PropsWithChildren<{}>) {
           value={query}
           placeholder="Search by county, city, state, or site name"
           onChange={handleSearch}
+          ref={ref}
         />
       </search>
       {results.length > 0 && (
