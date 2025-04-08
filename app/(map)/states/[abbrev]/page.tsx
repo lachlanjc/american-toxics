@@ -5,6 +5,7 @@ import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
 import { MapZoom } from "../../zoom";
 import { Count } from "@/lib/ui/count";
 import { nplStatuses } from "@/lib/data/site";
+import { Heading } from "@/lib/ui/typography";
 
 export async function generateStaticParams() {
   return states.map(({ abbrev }) => ({ abbrev }));
@@ -64,9 +65,7 @@ export default async function Page({
         if (!sectionSites.length) return null;
         return (
           <section id={section} key={section}>
-            <h2 className="text-xl font-bold font-sans tracking-tight">
-              {nplStatuses[section].label}
-            </h2>
+            <Heading>{nplStatuses[section].label}</Heading>
             <SiteList className="mb-4" sites={sectionSites} />
           </section>
         );

@@ -17,8 +17,8 @@
   --color-primary-light: #f56900;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-familjen-grotesk);
+  --font-mono: var(--font-martian-mono);
 }
 
 /*
@@ -33,6 +33,10 @@
 body {
   background: var(--background);
   color: var(--foreground);
+}
+
+::selection {
+  background-color: var(--color-primary);
 }
 
 [data-appearance="dark"] .action-button {
@@ -112,7 +116,7 @@ body {
 }
 
 .floating-image {
-  position: absolute;
+  position: fixed;
   inset-block-end: 20px;
   inset-inline-end: 20px;
   box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);

@@ -20,7 +20,7 @@ function MainCard({
       <Drawer.Portal>
         <Drawer.Content
           {...props}
-          className="main-card backdrop-blur-lg backdrop-saturate-150 flex flex-col w-full md:max-w-xl p-6 mx-auto font-mono overflow-y-auto max-h-[80vh] fixed bottom-0 max-md:left-0 max-md:right-0 outline-none md:absolute md:top-8 md:left-8 rounded-t-2xl md:rounded-2xl @container"
+          className="main-card backdrop-blur-lg backdrop-saturate-150 flex flex-col w-full md:max-w-xl p-6 mx-auto font-mono overflow-y-auto max-h-[80vh] fixed bottom-0 max-md:left-0 max-md:right-0 outline-none md:absolute md:top-8 md:left-8 rounded-t-2xl md:rounded-2xl @container text-sm leading-relaxed !select-auto"
           data-vaul-custom-container
         >
           {title && (
@@ -78,8 +78,6 @@ export default function Layout({ children }: PropsWithChildren<object>) {
           position: "absolute",
           inset: 0,
         }}
-        cooperativeGestures
-        scrollZoom={true}
       >
         {SITES.sort((a, b) => b.lat - a.lat).map((marker) => (
           <Marker

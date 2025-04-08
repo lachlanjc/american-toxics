@@ -3,6 +3,7 @@ import { SiteCard } from "./site";
 import { allSites, findSiteById } from "@/lib/data/api";
 import { MapZoom } from "../../zoom";
 import { Nearby } from "./nearby";
+import { Suspense } from "react";
 
 export const generateStaticParams = async () => {
   return allSites.map(({ id }) => ({ site: id }));
@@ -48,7 +49,9 @@ export default async function Page({
             </h2>
           </section>
         ) : (
-          <Nearby site={site} />
+          <Suspense>
+            <Nearby site={site} />
+          </Suspense>
         )}
       </SiteCard>
     </>

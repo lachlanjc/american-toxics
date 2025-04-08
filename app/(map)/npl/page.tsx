@@ -34,7 +34,7 @@ export default function Page() {
                   className={`${status.color} bg-current w-4 h-4 rounded-full inline-block`}
                 />
                 <span
-                  className="font-sans font-medium text-black transition-colors group-hover:text-neutral-600"
+                  className="font-sans text-lg font-medium text-black transition-colors group-hover:text-neutral-600"
                   style={{ viewTransitionName: key }}
                 >
                   {status.label}

@@ -31,19 +31,16 @@ export function SiteList({
         <li key={result.id}>
           <Link
             href={`/sites/${result.id}`}
-            className="border-b border-zinc-300 last:border-b-0 text-sm py-2 text-left transition-colors hover:text-neutral-600 w-full grid grid-cols-[8px_1fr] gap-x-2 gap-y-1 items-center"
-            // onClick={() => {
-            //   onSelect?.(result);
-            // }}
+            className="py-1 text-left transition-colors text-black hover:text-neutral-600 w-full grid grid-cols-[8px_1fr] gap-x-2 gap-y-1 items-center"
           >
             <SiteNPLStatusIcon status={result.npl} />
             <strong
-              className="font-sans font-medium"
+              className="font-sans text-base font-normal"
               style={{ viewTransitionName: result.id }}
             >
               {result.name}
             </strong>
-            <small className="text-neutral-500 font-mono block text-xs col-start-2">
+            <small className="text-neutral-600 font-mono block text-xs col-start-2">
               {result.city}, {result.stateCode}
             </small>
           </Link>

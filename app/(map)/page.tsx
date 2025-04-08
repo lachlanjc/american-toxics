@@ -9,7 +9,7 @@ export default function Page() {
       <HeaderRoot showClose={false}>
         <HeaderTitle>Superfund Sites</HeaderTitle>
       </HeaderRoot>
-      <div className="grid grid-cols-3 gap-4 w-full font-sans font-semibold tracking-tight text-neutral-800 leading-tight">
+      <div className="grid grid-cols-3 gap-4 w-full font-sans text-lg font-semibold tracking-tight text-neutral-800 leading-[1.125]">
         <Link
           href="/states"
           className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
