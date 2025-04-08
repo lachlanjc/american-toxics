@@ -2,13 +2,8 @@
 import { useEffect } from "react";
 import { useChat } from "@ai-sdk/react";
 import { type Site } from "@/lib/data/site";
-import Link from "next/link";
-import {
-  Header,
-  HeaderRoot,
-  HeaderSubtitle,
-  HeaderTitle,
-} from "@/lib/ui/header";
+import { Link } from "next-view-transitions";
+import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 
 const questions = [
   "What caused contamination here?",
@@ -37,7 +32,9 @@ export function SiteCard({ site }: { site: Site }) {
   return (
     <>
       <HeaderRoot showClose>
-        <HeaderTitle>{site.name} Superfund Site</HeaderTitle>
+        <HeaderTitle style={{ viewTransitionName: site.id }}>
+          {site.name} Superfund Site
+        </HeaderTitle>
         <HeaderSubtitle>
           {site.city},{" "}
           <Link

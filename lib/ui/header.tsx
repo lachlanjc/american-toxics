@@ -1,6 +1,7 @@
 "use client";
 
-import Link, { LinkProps } from "next/link";
+import { LinkProps } from "next/link";
+import { Link } from "next-view-transitions";
 import { Drawer } from "vaul";
 import { Title } from "./typography";
 // import { usePathname } from "next/navigation";
@@ -71,7 +72,7 @@ export function HeaderBreadcrumb({
 export function HeaderTitle(props: ComponentProps<typeof Title>) {
   return (
     <Drawer.Title asChild>
-      <Title {...props} style={{ viewTransitionName: "header-title" }} />
+      <Title style={{ viewTransitionName: "header-title" }} {...props} />
     </Drawer.Title>
   );
 }

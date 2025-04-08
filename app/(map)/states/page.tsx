@@ -1,6 +1,6 @@
 import STATES from "@/lib/data/states.json" assert { type: "json" };
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
-import Link from "next/link";
+import { Link } from "next-view-transitions";
 
 const nonStates = ["DC", "PR", "VI", "GU", "MP", "AS", "UM"];
 
@@ -14,7 +14,10 @@ function List({ states }: { states: typeof STATES }) {
             className="flex w-full gap-2 align-baseline group py-1"
           >
             <span className="text-neutral-500 select-none">{i + 1}.</span>
-            <span className="font-sans text-black transition-colors group-hover:text-neutral-600">
+            <span
+              className="font-sans text-black transition-colors group-hover:text-neutral-600"
+              style={{ viewTransitionName: state.abbrev }}
+            >
               {state.name}{" "}
             </span>
             <small className="text-neutral-500 ml-auto">

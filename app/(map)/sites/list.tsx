@@ -1,5 +1,5 @@
 import { Site, SiteNPLStatus } from "@/lib/data/site";
-import Link from "next/link";
+import { Link } from "next-view-transitions";
 import { ComponentPropsWithoutRef } from "react";
 
 function SiteNPLStatusIcon({
@@ -43,7 +43,12 @@ export function SiteList({
             // }}
           >
             <SiteNPLStatusIcon status={result.npl} />
-            <strong className="font-sans font-medium">{result.name}</strong>
+            <strong
+              className="font-sans font-medium"
+              style={{ viewTransitionName: result.id }}
+            >
+              {result.name}
+            </strong>
             <small className="text-neutral-500 font-mono block text-xs col-start-2">
               {result.city}, {result.stateCode}
             </small>

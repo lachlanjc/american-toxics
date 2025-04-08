@@ -46,7 +46,9 @@ export default async function Page({ params }: { params: { abbrev: string } }) {
         <HeaderBreadcrumb href="/states">
           Superfund Sites by State
         </HeaderBreadcrumb>
-        <HeaderTitle>{state.name}</HeaderTitle>
+        <HeaderTitle style={{ viewTransitionName: state.abbrev }}>
+          {state.name}
+        </HeaderTitle>
       </HeaderRoot>
       <SiteList sites={sites} className="-mt-2" />
     </>
