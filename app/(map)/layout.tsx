@@ -8,9 +8,7 @@ import SITES from "@/lib/data/sites.json" assert { type: "json" };
 import Map, { MapRef, Marker } from "react-map-gl/mapbox";
 import { useSearchParams, useRouter } from "next/navigation";
 import { SiteNPLStatus } from "@/lib/data/site";
-
-const MAPBOX_TOKEN =
-  "pk.eyJ1IjoiaGFja2NsdWIiLCJhIjoiY2pscGI1eGdhMGRyNzN3bnZvbGY5NDBvZSJ9.Zm4Zduj94TrgU8h890M7gA";
+import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
 
 function MainCard({
   title,
