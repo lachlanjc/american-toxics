@@ -19,7 +19,7 @@ export function HeaderRoot({
 }: React.PropsWithChildren<{ showClose?: boolean }>) {
   // const pathname = usePathname();
   return (
-    <header className="mb-4 flex gap-4 relative">
+    <header className="mb-4 flex gap-2 md:gap-4 relative">
       <div className="flex flex-col">{children}</div>
       {showClose && (
         <Link
@@ -80,7 +80,7 @@ export function HeaderTitle(props: ComponentProps<typeof Title>) {
 export function HeaderSubtitle({ children }: React.PropsWithChildren<object>) {
   return (
     <p
-      className="text-sm text-gray-600 mt-2"
+      className="text-sm text-gray-600 text-pretty mt-2"
       style={{ viewTransitionName: "header-subtitle" }}
     >
       {children}

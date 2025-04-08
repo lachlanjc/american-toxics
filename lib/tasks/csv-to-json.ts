@@ -34,13 +34,15 @@ Bun.write("./lib/data/sites.json", JSON.stringify(jsonObj));
 console.log(`CSV to JSON conversion complete: ${jsonObj.length} sites`);
 
 const miniKeys = ["id", "lat", "lng", "npl"];
-const miniJson = structuredClone(jsonObj).map((site) => {
-  const miniSite: Record<string, any> = {};
-  miniKeys.forEach((key) => {
-    miniSite[key] = site[key];
-  });
-  return miniSite;
-});
+const miniJson = structuredClone(jsonObj)
+  .map((site) => {
+    const miniSite: Record<string, any> = {};
+    miniKeys.forEach((key) => {
+      miniSite[key] = site[key];
+    });
+    return miniSite;
+  })
+  .sort((a, b) => b.lat - a.lat);
 Bun.write("./lib/data/sites-mini.json", JSON.stringify(miniJson));
 console.log("Wrote mini sites file");
 

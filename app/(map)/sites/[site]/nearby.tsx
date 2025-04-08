@@ -74,40 +74,31 @@ export async function Nearby({ site }: { site: Site }) {
     <WellRoot className="mt-4">
       <WellTitle>Nearby</WellTitle>
       {nearbyFeatures.length > 0 && (
-        <table className="text-sm w-full mt-2">
-          <thead className="sr-only">
-            <tr>
-              <th>Icon</th>
-              <th className="text-left">Name</th>
-              <th className="text-right">Distance</th>
-            </tr>
-          </thead>
-          <tbody>
-            {nearbyFeatures.map((feature) => {
-              /* @ts-expect-error might fail */
-              const Icon = icons[feature.properties.maki] ?? Marker;
-              const dist = metersToMiles(feature.properties.distance);
-              return (
-                <tr key={feature.properties.mapbox_id}>
-                  <td className="pr-1">
-                    <Icon className="w-4 h-4 fill-neutral-400" />
-                  </td>
-                  <td>
-                    <span className="py-1 font-sans text-base">
-                      {feature.properties.name}
-                    </span>
-                  </td>
-                  <td
-                    className={`py-1 text-right text-xs align-top ${dist < 0.15 && site.dateDeleted.length === 0 ? "text-primary font-semibold" : "text-neutral-600"}`}
-                  >
-                    {dist.toLocaleString("en-US", { maximumFractionDigits: 2 })}{" "}
-                    mi
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
+        <ol className="mt-2 grid grid-cols-[16px_1fr_auto] gap-x-2 gap-y-2 items-baseline">
+          {nearbyFeatures.map((feature) => {
+            /* @ts-expect-error might fail */
+            const Icon = icons[feature.properties.maki] ?? Marker;
+            const dist = metersToMiles(feature.properties.distance);
+            return (
+              <li
+                className="contents"
+                role="listitem"
+                key={feature.properties.mapbox_id}
+              >
+                <Icon className="w-4 h-4 fill-neutral-400 self-center" />
+                <span className="w-full font-sans text-base truncate">
+                  {feature.properties.name}
+                </span>
+                <small
+                  className={`text-right text-xs align-top whitespace-pre ${dist < 0.15 && site.dateDeleted.length === 0 ? "text-primary font-semibold" : "text-neutral-600"}`}
+                >
+                  {dist.toLocaleString("en-US", { maximumFractionDigits: 2 })}{" "}
+                  mi
+                </small>
+              </li>
+            );
+          })}
+        </ol>
       )}
       {nearbyFeatures.length > 0 && nearbySites.length > 0 && <WellDivider />}
       {nearbySites.length > 0 && (
