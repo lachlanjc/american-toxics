@@ -142,7 +142,7 @@ export function SiteCard({
                 case "text":
                   return (
                     <div key={`${message.id}-${i}`} className="text-pretty">
-                      {part.text}
+                      {part.text.replaceAll("**", "")}
                     </div>
                   );
               }

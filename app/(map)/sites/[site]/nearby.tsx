@@ -38,9 +38,9 @@ function metersToMiles(meters: number) {
 }
 
 export async function Nearby({ site }: { site: Site }) {
-  const url = `https://api.mapbox.com/search/searchbox/v1/category/education,church,assisted_living_facility,park,field,waterfall,campground,outdoors,place_of_worship?proximity=${site.lng},${site.lat}&language=en&access_token=${MAPBOX_TOKEN}`;
-  console.log(url);
+  const url = `https://api.mapbox.com/search/searchbox/v1/category/education,church,assisted_living_facility,park,field,waterfall,campground,outdoors,place_of_worship?proximity=${site.lng},${site.lat}&language=en&poi_category_exclusions=medical_laboratory&access_token=${MAPBOX_TOKEN}`;
   const mapbox = await fetch(url).then((res) => res.json());
+  console.log(url, mapbox.features);
 
   return (
     <section className="border border-black/10 rounded-lg bg-black/2 p-4 mt-4">

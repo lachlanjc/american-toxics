@@ -1,7 +1,6 @@
 import { notFound } from "next/navigation";
 import { SiteCard } from "./site";
 import { allSites, findSiteById } from "@/lib/data/api";
-import { hasPlainSiteImage } from "@/lib/data/site";
 import { MapZoom } from "../../zoom";
 import { Nearby } from "./nearby";
 
@@ -42,7 +41,15 @@ export default async function Page({
     <>
       <MapZoom center={[site.lat, site.lng]} />
       <SiteCard site={site}>
-        <Nearby site={site} />
+        {site.id === "NYD000606947" ? (
+          <section className="border border-black/10 rounded-lg bg-black/2 p-4 mt-4">
+            <h2 className="text-lg text-center text-neutral-600 font-bold font-sans tracking-tight">
+              This was the very first Superfund site!
+            </h2>
+          </section>
+        ) : (
+          <Nearby site={site} />
+        )}
       </SiteCard>
     </>
   );
