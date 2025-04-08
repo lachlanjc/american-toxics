@@ -13,6 +13,7 @@
     "@ai-sdk/react": "^1.2.8",
     "@alpaca-travel/react-maki-icons": "^3.0.0",
     "ai": "^4.3.4",
+    "clsx": "^2.1.1",
     "fuse.js": "^7.1.0",
     "mapbox-gl": "^3.11.0",
     "next": "15.2.4",

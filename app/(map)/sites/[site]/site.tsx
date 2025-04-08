@@ -11,8 +11,8 @@ import { WellRoot } from "@/lib/ui/well";
 const questions = [
   "What happened here?",
   "What types of contaminants are present?",
-  "How is cleanup progressing?",
-  "Is it safe to be here?",
+  "How is cleanup progressing? Is it safe to be here?",
+  "Who is funding this cleanup?",
   "Provide a timeline of major events here",
 ];
 
@@ -93,7 +93,7 @@ export function SiteCard({
   // Clear AI chat on site change
   useEffect(() => {
     setData(undefined);
-    append({ role: "user", content: questions[0] });
+    if (messages.length === 0) append({ role: "user", content: questions[0] });
   }, [site.id, setData]);
   const suggestions = questions.filter(
     (q) =>

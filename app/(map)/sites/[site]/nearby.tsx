@@ -102,7 +102,7 @@ export async function Nearby({ site }: { site: Site }) {
       )}
       {nearbyFeatures.length > 0 && nearbySites.length > 0 && <WellDivider />}
       {nearbySites.length > 0 && (
-        <SiteList sites={nearbySites} className="-mt-2" />
+        <SiteList sites={nearbySites} className="-mt-1" />
       )}
     </WellRoot>
   );
