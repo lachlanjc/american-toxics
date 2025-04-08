@@ -118,23 +118,25 @@ export function SiteCard({ site }: { site: Site }) {
         </HeaderSubtitle>
       </HeaderRoot>
       <SiteNPLStatusTimeline site={site} />
-      {messages.map((message) => (
-        <div
-          key={message.id}
-          className={`whitespace-pre-wrap even:mt-6 ${message.role === "user" ? "font-bold font-sans" : "opacity-70"} pr-8`}
-        >
-          {message.parts.map((part, i) => {
-            switch (part.type) {
-              case "text":
-                return (
-                  <div key={`${message.id}-${i}`} className="text-pretty">
-                    {part.text}
-                  </div>
-                );
-            }
-          })}
-        </div>
-      ))}
+      <section>
+        {messages.map((message) => (
+          <div
+            key={message.id}
+            className={`whitespace-pre-wrap odd:mt-6 ${message.role === "user" ? "font-bold font-sans" : "opacity-70"} pr-8`}
+          >
+            {message.parts.map((part, i) => {
+              switch (part.type) {
+                case "text":
+                  return (
+                    <div key={`${message.id}-${i}`} className="text-pretty">
+                      {part.text}
+                    </div>
+                  );
+              }
+            })}
+          </div>
+        ))}
+      </section>
 
       <form onSubmit={handleSubmit} className="mt-auto w-full pt-8">
         {suggestions.length > 0 && (
