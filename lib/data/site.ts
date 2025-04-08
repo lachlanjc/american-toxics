@@ -6,7 +6,7 @@ export interface Site {
   stateCode: string;
   city: string;
   county: string;
-  status: string;
+  npl: SiteNPLStatus;
   dateProposed: string;
   dateListed: string;
   dateCompleted: string;
@@ -15,6 +15,13 @@ export interface Site {
   hasPartialDeletion: boolean;
   lng: number;
   lat: number;
+}
+
+export enum SiteNPLStatus {
+  Proposed = "proposed",
+  Deleted = "deleted",
+  Active = "active",
+  // Other = "",
 }
 
 export function hasPlainSiteImage(id: string): boolean {

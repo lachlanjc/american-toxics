@@ -3,6 +3,12 @@ import { useEffect } from "react";
 import { useChat } from "@ai-sdk/react";
 import { type Site } from "@/lib/data/site";
 import Link from "next/link";
+import {
+  Header,
+  HeaderRoot,
+  HeaderSubtitle,
+  HeaderTitle,
+} from "@/lib/ui/header";
 
 const questions = [
   "What caused contamination here?",
@@ -30,13 +36,19 @@ export function SiteCard({ site }: { site: Site }) {
   console.log(messages);
   return (
     <>
-      <header>
-        <p className="opacity-70">
+      <HeaderRoot showClose>
+        <HeaderTitle>{site.name} Superfund Site</HeaderTitle>
+        <HeaderSubtitle>
           {site.city},{" "}
-          <Link href={`/states/${site.stateCode}`}>{site.stateCode}</Link> (
-          {site.county} County)
-        </p>
-      </header>
+          <Link
+            href={`/states/${site.stateCode}`}
+            className="underline underline-offset-2"
+          >
+            {site.stateCode}
+          </Link>{" "}
+          ({site.county} County)
+        </HeaderSubtitle>
+      </HeaderRoot>
       {messages.map((message) => (
         <div
           key={message.id}

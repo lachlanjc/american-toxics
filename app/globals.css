@@ -94,7 +94,7 @@ body {
 }
 
 [data-appearance="light"] .action-button {
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: hsla(0, 0%, 100%, 0.5);
 }
 
 .main-card {

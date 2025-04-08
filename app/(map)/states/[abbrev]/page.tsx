@@ -1,6 +1,8 @@
-import { SiteList } from "@/app/sites/list";
+import { SiteList } from "@/app/(map)/sites/list";
 import states from "@/lib/data/states.json" assert { type: "json" };
-import allSites from "@/lib/data/sites.json" assert { type: "json" };
+import { allSites } from "@/lib/data/api";
+import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
+import { MapZoom } from "../../zoom";
 
 export async function generateStaticParams() {
   return states.map(({ abbrev }) => ({ abbrev }));
@@ -36,7 +38,17 @@ export default async function Page({ params }: { params: { abbrev: string } }) {
   const sites = allSites
     .filter((site) => site.stateCode === state.abbrev)
     .sort((a, b) => a.name.localeCompare(b.name));
-  console.log(abbrev, state, allSites.length, sites.length);
 
-  return <SiteList sites={sites} />;
+  return (
+    <>
+      <MapZoom center={[state.lat, state.lng]} zoom={state.zoom + 2} />
+      <HeaderRoot>
+        <HeaderBreadcrumb href="/states">
+          Superfund Sites by State
+        </HeaderBreadcrumb>
+        <HeaderTitle>{state.name}</HeaderTitle>
+      </HeaderRoot>
+      <SiteList sites={sites} className="-mt-2" />
+    </>
+  );
 }

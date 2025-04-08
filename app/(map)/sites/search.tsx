@@ -1,26 +1,21 @@
+"use client";
 import { useFuse } from "@/lib/util/use-fuse";
+import { allSites } from "@/lib/data/api";
 import { SiteList } from "./list";
-import { Site } from "@/lib/data/site";
 
 const searchOptions = {
   keys: ["name", "stateCode", "stateName", "city", "county"],
 };
 
-export function Search({
-  sites,
-  onSelect,
-}: {
-  sites: Site[];
-  onSelect: (site: Site) => void;
-}) {
+export function Search({ children }: React.PropsWithChildren<{}>) {
   const { results, handleSearch, query, isPending } = useFuse({
-    data: sites,
+    data: allSites,
     options: searchOptions,
   });
 
   return (
     <section>
-      <search className="w-full action-button my-4">
+      <search className="w-full action-button mb-4">
         <input
           type="search"
           className="p-2 w-full outline-0"
@@ -32,10 +27,10 @@ export function Search({
       {results.length > 0 && (
         <SiteList
           className={`${isPending ? "opacity-50" : ""} transition-opacity`}
-          onSelect={(site) => onSelect(site)}
           sites={results}
         />
       )}
+      {!query ? children : null}
     </section>
   );
 }
