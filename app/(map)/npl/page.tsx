@@ -1,4 +1,5 @@
 import { nplStatuses } from "@/lib/data/site";
+import { allSites } from "@/lib/data/api";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Link } from "next-view-transitions";
 
@@ -27,20 +28,20 @@ export default function Page() {
             <li key={key} role="listitem" className="">
               <Link
                 href={`/npl/${key}`}
-                className="flex w-full gap-3 items-center group py-1"
+                className="flex w-full gap-3 items-center group py-2"
               >
                 <span
                   className={`${status.color} bg-current w-4 h-4 rounded-full inline-block`}
                 />
                 <span
-                  className="font-sans text-black transition-colors group-hover:text-neutral-600"
+                  className="font-sans font-medium text-black transition-colors group-hover:text-neutral-600"
                   style={{ viewTransitionName: key }}
                 >
                   {status.label}
                 </span>
-                {/* <small className="text-neutral-500 ml-auto">
-                        {status.count} sites
-                      </small> */}
+                <small className="text-neutral-500 ml-auto">
+                  {allSites.filter((site) => site.npl === key).length} sites
+                </small>
               </Link>
             </li>
           );

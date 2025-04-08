@@ -37,14 +37,7 @@ export default async function Page({
   if (!status) {
     return notFound();
   }
-  const statusIndex = Object.keys(nplStatuses).indexOf(statusKey);
-  const fieldsEmpty = Object.values(nplStatuses)
-    .slice(statusIndex + 1)
-    .map((obj) => obj.field);
-  const sites = allSites.filter((site) =>
-    fieldsEmpty.every((field) => site[field].toString().length === 0),
-  );
-  // .sort((a, b) => a.stateCode.localeCompare(b.stateCode));
+  const sites = allSites.filter((site) => site.npl === statusKey);
 
   return (
     <>
