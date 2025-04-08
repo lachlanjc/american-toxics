@@ -39,6 +39,10 @@ body {
   background-color: var(--color-primary);
 }
 
+.pin {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.375));
+}
+
 [data-appearance="dark"] .action-button {
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
 }

@@ -67,7 +67,7 @@ for await (const file of txt.scan(".")) {
 
 const scopedSites: Array<Site> = ids
   .map((id) => SITES.find((site) => site.id === id))
-  .filter(Boolean);
+  .filter(Boolean) as unknown as Array<Site>;
 // const scopedSites = SITES.filter((site) => site.id.startsWith("WA"));
 // sort((a, b) => a.id.localeCompare(b.id))
 
@@ -108,7 +108,7 @@ async function downloadSite(
   }
 }
 
-await Promise.all(scopedSites.map(downloadSite));
+await Promise.all(scopedSites.map((site) => downloadSite(site)));
 // for (const site of scopedSites) {
 //   await downloadSite(site);
 // }

@@ -50,7 +50,7 @@ async function generateResponse() {
   // return response.data.choices[0].message.content;
 }
 
-export async function GET(request) {
-  const text = await generateResponse();
-  return new Response(text);
-}
+// export async function GET(request) {
+//   const text = await generateResponse();
+//   return new Response(text);
+// }

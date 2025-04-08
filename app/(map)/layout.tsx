@@ -3,10 +3,10 @@
 import { PropsWithChildren, useEffect, useRef } from "react";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
-import SITES from "@/lib/data/sites.json" assert { type: "json" };
+import SITES from "@/lib/data/sites-mini.json" assert { type: "json" };
 
 import Map, { MapRef, Marker } from "react-map-gl/mapbox";
-import { useSearchParams, useRouter } from "next/navigation";
+import { useParams, useRouter } from "next/navigation";
 import { SiteNPLStatus } from "@/lib/data/site";
 import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
 
@@ -48,14 +48,13 @@ const statuses: Record<SiteNPLStatus, string> = {
   listed: "fill-primary",
   cleaning: "fill-fuchsia-500",
   cleaned: "fill-violet-500",
-  completed: "fill-indigo-500 opacity-50",
+  completed: "fill-indigo-500 opacity-70",
 };
 
 export default function Layout({ children }: PropsWithChildren<object>) {
   const router = useRouter();
   // const pathname = usePathname();
-  const searchParams = useSearchParams();
-  const siteId = searchParams.get("site");
+  const { site: siteId, status: nplStatus } = useParams();
 
   const mapRef = useRef<MapRef | null>(null);
   const rootRef = useRef<HTMLDivElement | null>(null);
@@ -88,20 +87,20 @@ export default function Layout({ children }: PropsWithChildren<object>) {
               router.push(`/sites/${marker.id}`);
             }}
             key={marker.id}
-            style={{ position: "relative" }}
+            className={`relative ${nplStatus && nplStatus !== marker.npl ? "relative -z-1" : ""}`}
           >
             <svg
-              className={
-                siteId && siteId === marker.id
-                  ? "fill-primary-light scale-150"
-                  : (statuses[marker.npl as SiteNPLStatus] ?? "fill-white")
-              }
-              style={{ filter: "drop-shadow(0 2px 4px rgba(0,0,0,0.375))" }}
+              className={[
+                "pin",
+                "transition-transform duration-500 origin-bottom",
+                siteId && siteId === marker.id ? "scale-200 !opacity-100" : "",
+                statuses[marker.npl as SiteNPLStatus],
+              ].join(" ")}
               width={24}
               height={24}
               viewBox="0 0 24 24"
             >
-              <title>{marker.name}</title>
+              {/* <title>{marker.name}</title> */}
               <path
                 d={`M20.2,15.7L20.2,15.7c1.1-1.6,1.8-3.6,1.8-5.7c0-5.6-4.5-10-10-10S2,4.5,2,10c0,2,0.6,3.9,1.6,5.4c0,0.1,0.1,0.2,0.2,0.3 c0,0,0.1,0.1,0.1,0.2c0.2,0.3,0.4,0.6,0.7,0.9c2.6,3.1,7.4,7.6,7.4,7.6s4.8-4.5,7.4-7.5c0.2-0.3,0.5-0.6,0.7-0.9 C20.1,15.8,20.2,15.8,20.2,15.7z`}
               />

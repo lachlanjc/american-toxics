@@ -42,6 +42,7 @@ function metersToMiles(meters: number) {
 interface MapboxFeature {
   type: string;
   properties: {
+    mapbox_id: string;
     name: string;
     distance: number;
     category: string;
@@ -52,20 +53,18 @@ interface MapboxFeature {
 export async function Nearby({ site }: { site: Site }) {
   const url = `https://api.mapbox.com/search/searchbox/v1/category/education,church,assisted_living_facility,park,field,waterfall,campground,outdoors,place_of_worship?proximity=${site.lng},${site.lat}&language=en&poi_category_exclusions=medical_laboratory&access_token=${MAPBOX_TOKEN}`;
   const mapbox = await fetch(url).then((res) => res.json());
-  let nearbyFeatures = mapbox.features.filter(
-    (feature: any) => feature.properties.distance <= 1609,
-  ) as MapboxFeature[];
-  if (
-    nearbyFeatures.every((feature: any) => feature.properties.distance > 750)
-  ) {
+  let nearbyFeatures: Array<MapboxFeature> = (mapbox.features ?? []).filter(
+    (feat: MapboxFeature) => feat.properties?.distance <= 1609,
+  );
+  if (nearbyFeatures.every((feat) => feat.properties?.distance > 750)) {
     nearbyFeatures = [];
   }
   // Dedupe by name
   nearbyFeatures = nearbyFeatures.filter(
-    (feature: any, index: number) =>
+    (feat, index) =>
       index ===
       nearbyFeatures.findIndex(
-        (f) => f.properties.name === feature.properties.name,
+        (f) => f.properties.name === feat.properties.name,
       ),
   );
   // console.log(url, mapbox.features);
@@ -84,7 +83,7 @@ export async function Nearby({ site }: { site: Site }) {
             </tr>
           </thead>
           <tbody>
-            {nearbyFeatures.map((feature: any) => {
+            {nearbyFeatures.map((feature) => {
               /* @ts-expect-error might fail */
               const Icon = icons[feature.properties.maki] ?? Marker;
               const dist = metersToMiles(feature.properties.distance);

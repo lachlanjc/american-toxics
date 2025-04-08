@@ -8,7 +8,7 @@ const nonStates = ["DC", "PR", "VI", "GU", "MP", "AS", "UM"];
 function List({ states }: { states: typeof STATES }) {
   return (
     <ol className="-mt-2 last:mt-0 -mb-1 text-neutral-500" role="list">
-      {states.map((state, i) => (
+      {states.map((state) => (
         <li key={state.abbrev} role="listitem" className="">
           <Link
             href={`/states/${state.abbrev}`}
@@ -19,6 +19,7 @@ function List({ states }: { states: typeof STATES }) {
               {i + 1}.
             </span> */}
             {!nonStates.includes(state.abbrev) && (
+              // eslint-disable-next-line @next/next/no-img-element
               <img
                 src={`https://raw.githubusercontent.com/coryetzkorn/state-svg-defs/refs/heads/master/SVG/${state.abbrev}.svg`}
                 width={32}

@@ -32,6 +32,7 @@ export function SiteList({
           <Link
             href={`/sites/${result.id}`}
             className="py-1 text-left transition-colors text-black hover:text-neutral-600 w-full grid grid-cols-[8px_1fr] gap-x-2 gap-y-1 items-center"
+            prefetch={false}
           >
             <SiteNPLStatusIcon status={result.npl} />
             <strong
