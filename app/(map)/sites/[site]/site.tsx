@@ -1,6 +1,7 @@
 "use client";
 import { useEffect } from "react";
 import { useChat } from "@ai-sdk/react";
+import { useFocusable } from "@/lib/util/use-focusable";
 import { hasPlainSiteImage, nplStatuses, type Site } from "@/lib/data/site";
 import { Link } from "next-view-transitions";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
@@ -83,6 +84,7 @@ export function SiteCard({
   site,
   children,
 }: React.PropsWithChildren<{ site: Site }>) {
+  const ref = useFocusable();
   const { messages, setData, input, handleInputChange, handleSubmit, append } =
     useChat({ api: `/api/chat/${site.id}` });
   // Clear AI chat on site change
@@ -172,6 +174,7 @@ export function SiteCard({
           value={input}
           placeholder="Ask something..."
           onChange={handleInputChange}
+          ref={ref}
         />
       </form>
     </>

@@ -10,6 +10,7 @@ import {
   Soccer,
   Baseball,
   Basketball,
+  Waterfall,
   Marker,
 } from "@alpaca-travel/react-maki-icons";
 import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
@@ -27,6 +28,7 @@ export const icons = {
   soccer: Soccer,
   baseball: Baseball,
   basketball: Basketball,
+  waterfall: Waterfall,
   marker: Marker,
 };
 
@@ -36,7 +38,7 @@ function metersToMiles(meters: number) {
 }
 
 export async function Nearby({ site }: { site: Site }) {
-  const url = `https://api.mapbox.com/search/searchbox/v1/category/education,church,assisted_living_facility,park,field?proximity=${site.lng},${site.lat}&language=en&access_token=${MAPBOX_TOKEN}`;
+  const url = `https://api.mapbox.com/search/searchbox/v1/category/education,church,assisted_living_facility,park,field,waterfall,campground,outdoors,place_of_worship?proximity=${site.lng},${site.lat}&language=en&access_token=${MAPBOX_TOKEN}`;
   console.log(url);
   const mapbox = await fetch(url).then((res) => res.json());
 
