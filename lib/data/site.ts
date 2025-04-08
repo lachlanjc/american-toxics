@@ -17,12 +17,7 @@ export interface Site {
   lat: number;
 }
 
-export enum SiteNPLStatus {
-  Proposed = "proposed",
-  Deleted = "deleted",
-  Active = "active",
-  // Other = "",
-}
+export type SiteNPLStatus = keyof typeof nplStatuses;
 
 export const nplStatuses: Record<
   string,

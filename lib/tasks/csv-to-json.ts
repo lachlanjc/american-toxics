@@ -1,12 +1,6 @@
 import csv from "csvtojson";
 import states from "@/lib/data/states-raw.json" assert { type: "json" };
-import { SiteNPLStatus } from "@/lib/data/site";
-
-const nplStatuses: Record<string, SiteNPLStatus> = {
-  "Proposed NPL Site": SiteNPLStatus.Proposed,
-  "Deleted NPL Site": SiteNPLStatus.Deleted,
-  "NPL Site": SiteNPLStatus.Active,
-};
+import { nplStatuses } from "@/lib/data/site";
 
 const input = Bun.file("./lib/data/sites.csv");
 const csvString = await input.text();
@@ -22,7 +16,12 @@ for (const site of jsonObj) {
     (state) => state.name === site.stateName,
   )?.abbrev;
   delete site.state;
-  site.npl = nplStatuses[site.status] ?? "";
+
+  site.npl = "proposed";
+  Object.keys(nplStatuses).forEach((status) => {
+    const fieldName = nplStatuses[status].field;
+    if (site[fieldName]) site.npl = status;
+  });
   delete site.status;
   delete site.hasPartialDeletion;
 }

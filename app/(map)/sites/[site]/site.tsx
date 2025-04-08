@@ -29,12 +29,6 @@ const formatDate = (dateString?: string) => {
 };
 
 function SiteNPLStatusTimeline({ site }: { site: Site }) {
-  // let currentStatus = "proposed";
-  // for (const status in Object.keys(statuses)) {
-  //   const field = statuses[status].field;
-  //   if (site[field]) currentStatus = status;
-  // }
-
   return (
     <ul className="flex flex-col gap-1 text-sm @md:flex-row @md:justify-between @md:px-8 border border-black/10 rounded-lg bg-black/2 p-4">
       {Object.keys(nplStatuses).map((statusKey) => {

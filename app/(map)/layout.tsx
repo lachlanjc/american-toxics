@@ -45,8 +45,10 @@ const initialViewState = {
 
 const statuses: Record<SiteNPLStatus, string> = {
   proposed: "fill-amber-500",
-  active: "fill-primary",
-  deleted: "fill-violet-500 opacity-50",
+  listed: "fill-primary",
+  cleaning: "fill-fuchsia-500",
+  cleaned: "fill-violet-500",
+  completed: "fill-indigo-500 opacity-50",
 };
 
 export default function Layout({ children }: PropsWithChildren<object>) {
@@ -77,6 +79,7 @@ export default function Layout({ children }: PropsWithChildren<object>) {
           inset: 0,
         }}
         cooperativeGestures
+        scrollZoom={true}
       >
         {SITES.sort((a, b) => b.lat - a.lat).map((marker) => (
           <Marker

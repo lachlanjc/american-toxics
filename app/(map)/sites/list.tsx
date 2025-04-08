@@ -1,6 +1,5 @@
-import { Site, SiteNPLStatus } from "@/lib/data/site";
+import { nplStatuses, Site, SiteNPLStatus } from "@/lib/data/site";
 import { Link } from "next-view-transitions";
-import { ComponentPropsWithoutRef } from "react";
 
 function SiteNPLStatusIcon({
   status,
@@ -9,16 +8,11 @@ function SiteNPLStatusIcon({
   status: SiteNPLStatus;
   className?: string;
 }) {
-  const statuses: Record<SiteNPLStatus, string> = {
-    proposed: "border-amber border-dashed",
-    active: "bg-primary",
-    deleted: "bg-violet-500/50",
-  };
   return (
     <span
       role="img"
       aria-label={status}
-      className={`inline-block w-2 h-2 rounded-full ${statuses[status] ?? "bg-black/20"} ${className ?? ""}`}
+      className={`inline-block w-2 h-2 rounded-full ${nplStatuses[status].color} bg-current ${className ?? ""}`}
     />
   );
 }
@@ -30,7 +24,7 @@ export function SiteList({
 }: {
   sites: Array<Site>;
   // onSelect?: (site: Site) => void;
-} & ComponentPropsWithoutRef<"ul">) {
+} & React.ComponentPropsWithoutRef<"ul">) {
   return (
     <ul {...props}>
       {sites.map((result) => (
