@@ -6,7 +6,7 @@ import { Link } from "next-view-transitions";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 
 const questions = [
-  "What caused contamination here?",
+  "What happened here?",
   "What types of contaminants are present?",
   "How is cleanup progressing?",
   "Is it safe to be here?",
