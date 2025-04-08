@@ -3,6 +3,7 @@ import states from "@/lib/data/states.json" assert { type: "json" };
 import { allSites } from "@/lib/data/api";
 import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
 import { MapZoom } from "../../zoom";
+import { Count } from "@/lib/ui/count";
 
 export async function generateStaticParams() {
   return states.map(({ abbrev }) => ({ abbrev }));
@@ -51,7 +52,7 @@ export default async function Page({
           Superfund Sites by State
         </HeaderBreadcrumb>
         <HeaderTitle style={{ viewTransitionName: state.abbrev }}>
-          {state.name}
+          {state.name} <Count value={sites.length} />
         </HeaderTitle>
       </HeaderRoot>
       <SiteList sites={sites} className="-mt-2" />

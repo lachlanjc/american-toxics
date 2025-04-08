@@ -45,9 +45,9 @@ async function generateResponse() {
           "You are a helpful assistant who is knowledgeable about contaminated waste Superfund sites in the US. You will be provided with embeddings of text written by scientists, and your job is to summarize the key findings in a concise manner readable to regular educated people. You should only pull information from the embeddings.",
       },
     ],
-    embeddings,
+    // embeddings,
   });
-  return response.data.choices[0].message.content;
+  // return response.data.choices[0].message.content;
 }
 
 export async function GET(request) {

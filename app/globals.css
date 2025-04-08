@@ -94,7 +94,14 @@ body {
 }
 
 [data-appearance="light"] .action-button {
+  transition: background-color 0.2s ease;
   background-color: hsla(0, 0%, 100%, 0.5);
+}
+
+[data-appearance="light"] .action-button:focus-within,
+[data-appearance="light"] .action-button:active,
+[data-appearance="light"] .action-button:hover {
+  background-color: hsla(0, 0%, 100%, 0.75);
 }
 
 .main-card {

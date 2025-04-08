@@ -13,7 +13,10 @@ function List({ states }: { states: typeof STATES }) {
             href={`/states/${state.abbrev}`}
             className="flex w-full gap-2 align-baseline group py-1"
           >
-            <span className="text-neutral-500 select-none">{i + 1}.</span>
+            <span className="text-neutral-500 select-none">
+              {i < 9 ? 0 : null}
+              {i + 1}.
+            </span>
             <span
               className="font-sans text-black transition-colors group-hover:text-neutral-600"
               style={{ viewTransitionName: state.abbrev }}
@@ -21,7 +24,7 @@ function List({ states }: { states: typeof STATES }) {
               {state.name}{" "}
             </span>
             <small className="text-neutral-500 ml-auto">
-              {state.count} sites
+              {state.count} site{state.count === 1 ? "" : "s"}
             </small>
           </Link>
         </li>
@@ -41,8 +44,10 @@ export default function Page() {
           (state) => !nonStates.includes(state.abbrev),
         ).sort((a, b) => b.count - a.count)}
       />
-      <hr />
-      <h2>Territories</h2>
+      <hr className="border-black/20 -mx-6 my-6" />
+      <h2 className="text-xl font-bold font-sans tracking-tight mb-4">
+        Territories
+      </h2>
       <List
         states={STATES.filter((state) => nonStates.includes(state.abbrev)).sort(
           (a, b) => b.count - a.count,

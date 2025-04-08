@@ -4,6 +4,7 @@ import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
 // import { MapZoom } from "../../zoom";
 import { nplStatuses } from "@/lib/data/site";
 import { notFound } from "next/navigation";
+import { Count } from "@/lib/ui/count";
 
 export async function generateStaticParams() {
   return Object.keys(nplStatuses).map((status) => ({ status }));
@@ -53,7 +54,7 @@ export default async function Page({
           Superfund Sites by Cleanup Phase
         </HeaderBreadcrumb>
         <HeaderTitle style={{ viewTransitionName: statusKey }}>
-          {status.label} ({sites.length})
+          {status.label} <Count value={sites.length} />
         </HeaderTitle>
       </HeaderRoot>
       <SiteList sites={sites} className="-mt-2" />
