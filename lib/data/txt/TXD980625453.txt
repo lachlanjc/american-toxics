@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 58-acre Brio Refining, Inc. site is located in Harris County, Texas. The company operated a chemical reprocessing and refining facility on site from the 1950s to 1982. Chemical disposal practices contaminated groundwater, surface soils and subsurface soils with hazardous chemicals. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 2006.
+
+**Current Status**  
+Elevated ground water contaminant concentrations have been reported in the Fifty-Foot Sand water bearing zone (FFSZ) at the Brio Site. The Brio Site Task Force is completing the field work for an investigation of the FFSZ groundwater at multiple locations on and off site in order to assess the need for further remedial action.
+
+The Site was deleted from the National Priorities List in December 2006. The Fourth Five Year Review was completed in September 2013 and determined that the Site is protective in the short term. The remedial action has removed the exposure pathways that could have resulted in unacceptable risks by preventing exposure of human receptor populations to contaminated air, soils, and groundwater. Long term protectiveness will be achieved by continuing the monitoring of air, groundwater, and surface water to assess the effectiveness of the Site controls. The affected FFSZ groundwater, currently under investigation, will be evaluated during the next five-year review, scheduled for completion in 2018.  
+
+This 58 acre site is located almost 20 miles south of Houston at 2501 Dixie Farm Road in southern Harris County, Texas. The Brio Refining Site was used as a chemical re-processing and refining facility from the 1950's to 1982. A neighboring residential subdivision (now abandoned and the homes removed) was located along and north of the northern boundary of the Site. Mud Gully, a flood control ditch and local tributary of Clear Creek, runs along the western boundary of the site. Most of the feedstock materials for processing at Brio were stored in on-site pits, many of which were located on Brio North. However, the disposal areas were on both the Brio North and South sites. All of the pits were closed before the site ceased operations in December 1982.
+
+The majority of the contamination at the Site was found near the former storage pit areas. EPA issued a Record of Decision on March 31, 1988, that selected on-site incineration of pit residuals, removal of surface contamination, channel improvements to Mud Gully, demobilization of remaining process equipment, removal of dense non-aqueous phase liquids (DNAPL), and pump and treat for groundwater in the numerous sand channel zone (NSCZ).
+
+Excavation began at Pit R on Brio South, and emission problems during excavation led to a "stop work" order. Subsequently, an amended Record of Decision was signed by the EPA on July 2, 1997. Instead of incineration, the amended ROD selected containment including a vertical barrier wall, site cover, groundwater flow control, air monitoring, long term groundwater monitoring, and channel improvements to Mud Gully.
+
+**Benefits**  
+The completion of construction activities in 2004 provided long-term reduction of risk to human health. The subsurface barrier wall and groundwater control system ensured that contaminated groundwater is contained underneath the site and will not discharge into surface water. The multi-layer cover system over the site reduces the risk from direct contact with the residual wastes at the site.  
+The site is currently ready for anticipated use (non-residential), although any future use must not disturb the cap over the waste materials.
+
+**National Priorities Listing (NPL) History**  
+Proposed Date: 10/05/1984  
+Final Date: 3/31/1989  
+Deletion Proposal Date: 06/23/2006  
+Final Deletion Date: 12/28/2006
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires continued air, groundwater and surface water monitoring.
+
+Processing activities consisted of reclamation of petrochemicals from various source materials, most of which were residues, tank bottoms and tars of other processes at off-site locations. Processing operations included regeneration of copper catalysts, recovery of ethylbenzene from styrene tars, recovery of chemicals from chlorinated hydrocarbons and the production of chemical compounds. The site owner stored most of the feedstock materials for processing in on-site pits. The site owner closed all of the pits before operations ceased in 1982.
+
+### What Is the Current Site Status?
+
+The long-term remedy included excavation and removal of contaminated soil, debris and drums; continued operation of a wastewater treatment system; and maintenance and monitoring. EPA later updated the remedy to include construction of a vertical barrier wall, a site cover, a groundwater pumping system, and maintenance and stabilization of the mud gully. Construction of the remedy finished in 2004. Operation and maintenance activities are ongoing.  
+
+EPA took the site off the NPL in 2006.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+State Contact (TCEQ): Sherell Heidt, 713-767-3708, [Sherell.Heidt@tceq.texas.gov](mailto:Sherell.Heidt@tceq.texas.gov)

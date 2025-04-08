@@ -4,6 +4,7 @@ import { allSites } from "@/lib/data/api";
 import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
 import { MapZoom } from "../../zoom";
 import { Count } from "@/lib/ui/count";
+import { nplStatuses } from "@/lib/data/site";
 
 export async function generateStaticParams() {
   return states.map(({ abbrev }) => ({ abbrev }));
@@ -28,6 +29,7 @@ export async function generateMetadata({
   };
 }
 
+const sections = Object.keys(nplStatuses);
 export default async function Page({
   params,
 }: {
@@ -40,9 +42,7 @@ export default async function Page({
   if (!state) {
     throw new Error(`State not found: ${abbrev}`);
   }
-  const sites = allSites
-    .filter((site) => site.stateCode === state.abbrev)
-    .sort((a, b) => a.name.localeCompare(b.name));
+  const sites = allSites.filter((site) => site.stateCode === state.abbrev);
 
   return (
     <>
@@ -55,7 +55,22 @@ export default async function Page({
           {state.name} <Count value={sites.length} />
         </HeaderTitle>
       </HeaderRoot>
-      <SiteList sites={sites} className="-mt-2" />
+      {sections.map((section) => {
+        const sectionSites = sites
+          .filter((site) => site.npl === section)
+          .sort((a, b) => {
+            return a.name.localeCompare(b.name);
+          });
+        if (!sectionSites.length) return null;
+        return (
+          <section id={section} key={section}>
+            <h2 className="text-xl font-bold font-sans tracking-tight">
+              {nplStatuses[section].label}
+            </h2>
+            <SiteList className="mb-4" sites={sectionSites} />
+          </section>
+        );
+      })}
     </>
   );
 }
