@@ -12,12 +12,23 @@ export function MapZoom({
   duration?: number;
 }) {
   useEffect(() => {
+    let timeout: NodeJS.Timer | undefined;
+    const fly = () =>
+      // @ts-expect-error global
+      window.mapRef.current?.flyTo({
+        center: { lat: center[0], lng: center[1] },
+        zoom,
+        duration,
+      });
     // @ts-expect-error global
-    window.mapRef.current?.flyTo({
-      center: { lat: center[0], lng: center[1] },
-      zoom,
-      duration,
-    });
+    if (window.mapRef.current) {
+      fly();
+    } else {
+      timeout = setTimeout(fly, 3000);
+    }
+    return () => {
+      if (timeout) clearTimeout(timeout);
+    };
   }, [center, zoom, duration]);
   return null;
 }

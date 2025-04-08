@@ -1,9 +1,10 @@
 "use client";
 import { useEffect } from "react";
 import { useChat } from "@ai-sdk/react";
-import { nplStatuses, type Site } from "@/lib/data/site";
+import { hasPlainSiteImage, nplStatuses, type Site } from "@/lib/data/site";
 import { Link } from "next-view-transitions";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
+import { Root as Portal } from "@radix-ui/react-portal";
 
 const questions = [
   "What happened here?",
@@ -78,7 +79,10 @@ function SiteNPLStatusTimeline({ site }: { site: Site }) {
   );
 }
 
-export function SiteCard({ site }: { site: Site }) {
+export function SiteCard({
+  site,
+  children,
+}: React.PropsWithChildren<{ site: Site }>) {
   const { messages, setData, input, handleInputChange, handleSubmit, append } =
     useChat({ api: `/api/chat/${site.id}` });
   // Clear AI chat on site change
@@ -96,6 +100,18 @@ export function SiteCard({ site }: { site: Site }) {
   console.log(messages);
   return (
     <>
+      {hasPlainSiteImage(site.id) && (
+        <Portal>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={`/plainsite/${site.id}.jpg`}
+            width={1097 / 4}
+            height={1080 / 4}
+            className="floating-image"
+            alt={`Plain Site of ${site.name}`}
+          />
+        </Portal>
+      )}
       <HeaderRoot showClose>
         <HeaderTitle style={{ viewTransitionName: site.id }}>
           {site.name} Superfund Site
@@ -112,6 +128,7 @@ export function SiteCard({ site }: { site: Site }) {
         </HeaderSubtitle>
       </HeaderRoot>
       <SiteNPLStatusTimeline site={site} />
+      {children}
       <section>
         {messages.map((message) => (
           <div
