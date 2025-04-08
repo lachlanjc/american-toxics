@@ -1,6 +1,7 @@
 import { openai } from "@ai-sdk/openai";
 import { streamText } from "ai";
 import fs from "fs";
+import path from "path";
 
 // Allow streaming responses up to 30 seconds
 export const maxDuration = 30;
@@ -12,7 +13,14 @@ export async function POST(
   const { id } = await params;
   const { messages = [] } = await req.json();
   // const site = SITES.find((site) => site.id === id);
-  const context = fs.readFileSync(`./lib/data/txt/${id}.txt`, "utf8");
+  const filePath = path.resolve(
+    process.cwd(),
+    "lib",
+    "data",
+    "txt",
+    `${id}.txt`,
+  );
+  const context = fs.readFileSync(filePath, "utf8");
   if (!context) throw new Error(`No context found for site ${id}`);
 
   const result = streamText({

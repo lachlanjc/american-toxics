@@ -93,6 +93,7 @@ export function SiteCard({
   // Clear AI chat on site change
   useEffect(() => {
     setData(undefined);
+    append({ role: "user", content: questions[0] });
   }, [site.id, setData]);
   const suggestions = questions.filter(
     (q) =>
