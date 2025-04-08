@@ -24,6 +24,29 @@ export enum SiteNPLStatus {
   // Other = "",
 }
 
+export const nplStatuses: Record<
+  string,
+  { label: string; field: keyof Site; color: string }
+> = {
+  proposed: {
+    label: "Proposed",
+    field: "dateProposed",
+    color: "text-amber-500",
+  },
+  listed: { label: "Listed", field: "dateListed", color: "text-primary" },
+  cleaning: {
+    label: "Cleaning",
+    field: "dateCompleted",
+    color: "text-fuchsia-500",
+  },
+  cleaned: { label: "Cleaned", field: "dateNOID", color: "text-violet-500" },
+  completed: {
+    label: "Completed",
+    field: "dateDeleted",
+    color: "text-indigo-500",
+  },
+};
+
 export function hasPlainSiteImage(id: string): boolean {
   return [
     "CA2170090078",

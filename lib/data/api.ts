@@ -1,5 +1,6 @@
 import SITES from "./sites.json" assert { type: "json" };
 import { Site } from "./site";
+export type { Site } from "./site";
 
 export const allSites = SITES as Array<Site>;
 

@@ -24,6 +24,7 @@ for (const site of jsonObj) {
   delete site.state;
   site.npl = nplStatuses[site.status] ?? "";
   delete site.status;
+  delete site.hasPartialDeletion;
 }
 
 Bun.write("./lib/data/sites.json", JSON.stringify(jsonObj));

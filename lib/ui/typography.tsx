@@ -5,7 +5,7 @@ export function Title(props: ComponentPropsWithoutRef<"h1">) {
     // <Drawer.Title asChild>
     <h1
       {...props}
-      className="text-balance font-bold font-sans tracking-tight text-3xl -ml-[2px]"
+      className="text-balance font-bold font-sans tracking-tight text-3xl leading-8 -ml-[2px]"
     />
     // </Drawer.Title>
   );

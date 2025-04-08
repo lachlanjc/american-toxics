@@ -61,7 +61,7 @@ export function HeaderBreadcrumb({
   return (
     <Link
       href={href}
-      className="text-sm font-sans text-neutral-500"
+      className="text-sm font-sans font-medium text-neutral-600 mb-1"
       style={{ viewTransitionName: "header-breadcrumb" }}
     >
       &larr; {children}
@@ -80,7 +80,7 @@ export function HeaderTitle(props: ComponentProps<typeof Title>) {
 export function HeaderSubtitle({ children }: React.PropsWithChildren<{}>) {
   return (
     <p
-      className="text-sm text-gray-500"
+      className="text-sm text-gray-600 mt-2"
       style={{ viewTransitionName: "header-subtitle" }}
     >
       {children}
