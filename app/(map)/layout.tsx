@@ -6,7 +6,7 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import SITES from "@/lib/data/sites.json" assert { type: "json" };
 
 import Map, { MapRef, Marker } from "react-map-gl/mapbox";
-import { usePathname, useSearchParams, useRouter } from "next/navigation";
+import { useSearchParams, useRouter } from "next/navigation";
 import { SiteNPLStatus } from "@/lib/data/site";
 
 const MAPBOX_TOKEN =
@@ -51,16 +51,16 @@ const statuses: Record<SiteNPLStatus, string> = {
   deleted: "fill-violet-500 opacity-50",
 };
 
-export default function Layout({ children }: PropsWithChildren<{}>) {
+export default function Layout({ children }: PropsWithChildren<object>) {
   const router = useRouter();
-  const pathname = usePathname();
+  // const pathname = usePathname();
   const searchParams = useSearchParams();
   const siteId = searchParams.get("site");
 
   const mapRef = useRef<MapRef | null>(null);
   const rootRef = useRef<HTMLDivElement | null>(null);
   useEffect(() => {
-    // @ts-expect-error
+    // @ts-expect-error global
     window.mapRef = mapRef;
   }, []);
 
@@ -80,7 +80,7 @@ export default function Layout({ children }: PropsWithChildren<{}>) {
         }}
         cooperativeGestures
       >
-        {SITES.sort((a, b) => b.lat - a.lat).map((marker, i) => (
+        {SITES.sort((a, b) => b.lat - a.lat).map((marker) => (
           <Marker
             anchor="bottom"
             longitude={marker.lng}

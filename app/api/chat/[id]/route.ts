@@ -1,5 +1,3 @@
-import { type Site } from "@/lib/data/site";
-import SITES from "@/lib/data/sites.json" assert { type: "json" };
 import { openai } from "@ai-sdk/openai";
 import { streamText } from "ai";
 import fs from "fs";

@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import { SiteCard } from "./site";
 import { allSites, findSiteById } from "@/lib/data/api";
-import { hasPlainSiteImage, Site } from "@/lib/data/site";
+import { hasPlainSiteImage } from "@/lib/data/site";
 import { MapZoom } from "../../zoom";
 
 export const generateStaticParams = async () => {
@@ -11,7 +11,7 @@ export const generateStaticParams = async () => {
 export async function generateMetadata({
   params,
 }: {
-  params: { site: string };
+  params: Promise<{ site: string }>;
 }) {
   const { site: siteId } = await params;
   const site = findSiteById(siteId);
@@ -24,7 +24,11 @@ export async function generateMetadata({
   };
 }
 
-export default async function Page({ params }: { params: { site: string } }) {
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ site: string }>;
+}) {
   const { site: siteId } = await params;
   const site = findSiteById(siteId);
   if (!site) {
@@ -35,6 +39,7 @@ export default async function Page({ params }: { params: { site: string } }) {
       <MapZoom center={[site.lat, site.lng]} />
       <SiteCard site={site} />
       {hasPlainSiteImage(site.id) && (
+        // eslint-disable-next-line @next/next/no-img-element
         <img
           src={`/plainsite/${site.id}.`}
           width={1097 / 3}

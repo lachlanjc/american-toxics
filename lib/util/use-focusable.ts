@@ -1,4 +1,4 @@
-import { useRef, useEffect, Ref } from "react";
+import { useRef, useEffect } from "react";
 
 export function useFocusable() {
   const inputRef = useRef<HTMLInputElement>(null);

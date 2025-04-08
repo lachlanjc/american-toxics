@@ -23,7 +23,7 @@ const formatDate = (dateString?: string) => {
       year: "numeric",
     });
   } catch (error) {
-    console.error("Invalid date format:", dateString);
+    console.error("Invalid date format:", dateString, error);
     return null;
   }
 };
@@ -90,7 +90,7 @@ export function SiteCard({ site }: { site: Site }) {
   // Clear AI chat on site change
   useEffect(() => {
     setData(undefined);
-  }, [site.id]);
+  }, [site.id, setData]);
   const suggestions = questions.filter(
     (q) =>
       !messages.some(

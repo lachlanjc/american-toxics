@@ -11,7 +11,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: { abbrev: string };
+  params: Promise<{ abbrev: string }>;
 }) {
   const { abbrev } = await params;
   const state = states.find(
@@ -27,7 +27,11 @@ export async function generateMetadata({
   };
 }
 
-export default async function Page({ params }: { params: { abbrev: string } }) {
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ abbrev: string }>;
+}) {
   const { abbrev } = await params;
   const state = states.find(
     (state) => state.abbrev.toLowerCase() === abbrev.toLowerCase(),

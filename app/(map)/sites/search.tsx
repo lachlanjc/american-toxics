@@ -8,7 +8,7 @@ const searchOptions = {
   keys: ["name", "stateCode", "stateName", "city", "county"],
 };
 
-export function Search({ children }: React.PropsWithChildren<{}>) {
+export function Search({ children }: React.PropsWithChildren<object>) {
   const { results, handleSearch, query, isPending } = useFuse({
     data: allSites,
     options: searchOptions,

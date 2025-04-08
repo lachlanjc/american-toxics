@@ -77,7 +77,7 @@ export function HeaderTitle(props: ComponentProps<typeof Title>) {
   );
 }
 
-export function HeaderSubtitle({ children }: React.PropsWithChildren<{}>) {
+export function HeaderSubtitle({ children }: React.PropsWithChildren<object>) {
   return (
     <p
       className="text-sm text-gray-600 mt-2"

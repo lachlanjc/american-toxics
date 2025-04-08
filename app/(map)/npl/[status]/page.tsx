@@ -1,5 +1,5 @@
 import { SiteList } from "@/app/(map)/sites/list";
-import { allSites, Site } from "@/lib/data/api";
+import { allSites } from "@/lib/data/api";
 import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
 // import { MapZoom } from "../../zoom";
 import { nplStatuses } from "@/lib/data/site";
@@ -12,7 +12,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: { status: string };
+  params: Promise<{ status: string }>;
 }) {
   const { status: statusKey } = await params;
   const status = nplStatuses[statusKey];
@@ -26,7 +26,11 @@ export async function generateMetadata({
   };
 }
 
-export default async function Page({ params }: { params: { status: string } }) {
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ status: string }>;
+}) {
   const { status: statusKey } = await params;
   const status = nplStatuses[statusKey];
   if (!status) {
