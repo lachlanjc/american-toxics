@@ -1,3 +1,33 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+Black Butte Mine is located near Cottage Grove, Oregon. Mercury mining in the late 1880s to the late 1960s, included extracting ore from the mine, crushing it on site, roasting it in kilns to volatilize the mercury, and bottling and shipping the mercury. Mining operations, tailings piles left at the site, and erosion from Furnace Creek contaminated soil, sediment, surface water and groundwater with mercury and other toxic metals.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA completed a number of actions and investigations at the mine site in recent years. EPA completed an early cleanup action in 2007 to stabilize contaminated mine wastes and reduce delivery into the downstream watershed, field investigations and data collection from 2012 to 2017, and mine tailings removal near Furnace Creek in 2018.
+
+In 2007, at the request of the Oregon Department of Environmental Quality (DEQ), EPA completed a removal action to regrade the main tailings pile to prevent erosion and cap certain areas of contaminated soil. Significant contamination remains and sampling confirms that the site remains a source of mercury to the Coast Fork of the Willamette River and the Cottage Grove Reservoir, where mercury contamination in sediments has resulted in a fish advisory.
+
+EPA and its contractor, CDM Smith, began field work at the former Black Butte Mine in 2012. The initial field investigations (Phase 1) focus on an area adjacent to and including the former mine site. The primary objective for Phase 1 is to assess mercury movement from mercury sources at the former mine site into Garoutte Creek, which eventually becomes the Coast Fork Willamette River. Phase 1 cleanup work established stream sampling stations and an on-site rainfall collection station for continuous monitoring of stream flow and surface water quality and collection of rainfall samples, respectively. EPA and its contractor conducted surface water, sediment, and rainfall sampling. EPA and the Battelle National Laboratory evaluated mercury in water and sediments in Cottage Grove Lake.
+
+From other studies EPA understands that the vast majority of the mercury that accumulates in fish is an organic form of mercury, termed methylmercury. However, most of mercury transported over time from the Black Butte Mine to the lake is believed to be inorganic mercury. It is not clear what processes control the rate of conversion of inorganic mercury in sediments to methylmercury in water within the lake. This aspect of the Black Butte Mine project is being funded by the EPA Office of Research and Development as the findings may have implications to mercury contamination in lakes elsewhere in the U.S.
+
+### What Is the Current Site Status?
+
+In 2018 and 2019, EPA and our construction contractors worked in the Furnace Creek area of the Black Butte Mine site, excavating mercury-containing mine tailings and contaminated soils/sediment for safe disposal in an on-site repository. Removing the mine tailings eliminated a significant source of mercury contamination at the site. In 2020, EPA completed the remedial investigations at the mine site. Starting in 2020, the focus of the project will shift to investigating conditions in downstream areas, including Cottage Grove Lake and the Coast Fork Willamette River.
+
+[Fact Sheet: Black Butte Mine Site Sampling Update (PDF)](https://semspub.epa.gov/src/document/10/100291899) (4 pp, 840.71 KB) November 2020
+
+[Fact Sheet: EPA cleans up Furnace Creek area of Black Butte Mine](https://semspub.epa.gov/src/document/10/100125983) (4 pp, 1.35 MB) November 2018
+
+[Non-Time Critical Removal Action Implementation Plan, Furnace Creek Area, Black Butte Mine](https://semspub.epa.gov/src/document/10/100093096) (62 pp, 11.49 MB) April 2018
+
+[Amendment to the Action Memorandum for Non-Time Critical Removal Action, Furnace Creek Area, Black Butte Mine Superfund Site](https://semspub.epa.gov/src/document/10/100064480) (49 pp, 5.59 MB) September 2017
+
+[Remedial Investigation and Planned Interim Cleanup Action at Furnace Creek](https://semspub.epa.gov/src/document/10/100057357) (4 pp, 901.35 KB) July 2017
+
+[Fact Sheet: Interim Cleanup Action at Black Butte Mine Superfund Site](https://semspub.epa.gov/src/document/10/100028565) (4 pp, 1.09 MB) August 2016
+
+### Emergency Response and Removal
+
+Site cleanup to date has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions in 2007 included removing highly contaminated soil; capping the Old Furnace Area with cleaner tailings taken from the New Furnace Area; and resloping the tailing piles. Site investigations for the site’s long-term cleanup are underway.

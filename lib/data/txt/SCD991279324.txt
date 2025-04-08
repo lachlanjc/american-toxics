@@ -1,2 +1,74 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 7-acre Leonard Chemical Superfund Site is located in a rural area of Rock Hill on Cureton Ferry Road, near Highway 697, approximately one half-mile east of Catawba, York County, South Carolina. A rail line borders the site to the north, industrial land uses border the site to the south, Ferry Branch Creek borders the site to the east, and undeveloped land borders the site to the west. The site’s broader surroundings include agricultural and industrial land uses and forested areas.
+
+The site includes the area where the Leonard Chemical Company operated a hazardous waste treatment facility from the late 1960s until 1982. Operations included separating wastes through boiling and placing residues from this process in three main site locations
+
+- the Truck Turn-around Area;
+- the Storage Area; and
+- the Landfill Area.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) in 1984 because of contaminated soil, groundwater and liquid waste resulting from facility operations. The EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/) and the site’s [potentially responsible parties (PRPs)](https://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By treating groundwater, the EPA, SCDHEC and the PRPs continue to protect human health and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+**1983**
+The facility was forced to stop operations by a York County court order. A voluntary surface removal was conducted by certain PRPs in the spring of 1983, under the SCDHEC oversight. This effort removed 3,957 drums, 11 tanks, and 544 cubic yards of material from the Landfill Area and 66 cubic yards of contaminated soil.
+
+**1984**
+The EPA listed the site on the NPL because of contaminated soil, groundwater and liquid waste resulting from facility operations.
+
+**1990**
+The PRP Group entered into an Administrative Order of Consent (AOC) to perform the Remedial Investigation/Feasibility Study (RI/FS). Contaminants of concern include metals, polycyclic aromatic hydrocarbons (PAHs) and volatile organic compounds (VOCs).
+
+**2001 - 2003**
+The August 2001 Record of Decision (ROD) includes
+
+- removal of surface soils (0 to 18 inches below ground surface)
+- in-situ soil vacuum extraction (SVE) and air sparging (AS) of both the shallow and deep groundwater.
+
+An Explanation of Significant Differences (ESD) was signed in 2003 to update clean-up levels for subsurface soils.
+
+**2010 - 2014**
+Phase I of the remedial action (RA) began in July 2010 with removal of 18 inches of surface soil and backfill with clean soil within the former Storage, Truck turn-around, and Landfill Areas. Initial operation of the SVE system included extraction from four source area SVE wells (VE-1 through VE-4), and initial AS system operation included air sparging in two downgradient bedrock air sparge wells (D-1 and D-2). On January 4, 2011, AS operations were expanded to include eight source area air sparge wells (shallow and intermediate AS-1S/1I through AS-4S/4I). Phase 1 operated until July 14, 2014 and removed 1,934 tons of contaminated soil from the site.
+
+**2014**
+Phase II of the RA added 29 shallow and intermediate zone well pairs and 9 deep, bedrock wells to the AS system and added 22 wells to the SVE system.
+
+**2015**
+Operation of the expanded SVE system (including SVE wells VE-1 through VE-22) began on January 13th, and operation of the expanded bedrock AS system (including bedrock sparge wells D-1 through D-8) began on January 23rd. Operation of the expanded source area AS system (including paired shallow and intermediate sparge wells AS-1S/I through AS-29S/I) began in late August. Following installation of the AS and SVE system, the PRP Group began groundwater sampling to monitor cleanup progress.
+
+**2018**
+Short-circuiting was observed and the PRP decided to abandon AS-16I and install a replacement air sparge well, AS-16IR, adjacent to its location. The PRP connected the new well to the sparge system in May.
+
+2019-2021
+
+Based on an evaluation of results from the October 2019 soil and groundwater assessment activities and performance monitoring and groundwater sampling results through April 2020, the system was expanded in November 2020 to enhance treatment of soil and groundwater contamination at select areas of the Site. Operation of the expanded SVE system began in November 2020, and operation of the expanded source area AS system began in January 2021. Based on the results of October/November 2020 groundwater assessment activities conducted in the former Truck Turn- Around Area (TTA), the AS system was expanded to the eastern portion of the Site in November 2021 and operation of the expanded source area AS system began in November 2021.
+
+### What Is the Current Site Status?
+
+Groundwater monitoring was conducted semi-annually during the system expansions conducted in 2020 and 2021 and the semi-annual monitoring was extended through 2022. Since 2023, groundwater monitoring is conducted annually, and the next sampling event is scheduled for October 2025. Additionally, the PRP provides EPA Quarterly Progress Reports and Semi-Annual Performance Monitoring Reports.
+
+From January through June 2024, monthly SVE system mass removal rates ranged from 12 pounds in February 2024 to 17 pounds in April 2024. An estimated 85 pounds of VOCs were removed during this reporting period.
+
+Since November 2010, a total of approximately 28,409 pounds of contaminant mass have been removed by the original and expanded AS/SVE system, and the system remains effective at removing VOCs from the subsurface.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Fencing surrounds the Leonard Chemical Co., Inc. site and restricts access.
+
+### Sampling and Monitoring
+
+The PRP collects an off-gas TO-15 sample monthly. Groundwater monitoring is conducted semi-annually.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s PRPs to investigate and cleanup the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

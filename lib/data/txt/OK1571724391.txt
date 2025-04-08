@@ -1,20 +1,37 @@
-TINKER AIR FORCE BASE (SOLDIER CREEK/BUILDING 3001)OKLAHOMA CITY, OK
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The Tinker Air Force Base (AFB) (Soldier Creek/Building 3001) site is located in Oklahoma County, Oklahoma. Tinker AFB covers about 5,000 acres and contains about 500 buildings. The Building 3001 area of Tinker AFB is a major aircraft rebuilding and refurbishing facility with a history of using large quantities of industrial solvents. Military operations and waste disposal practices contaminated soil and groundwater with hazardous chemicals. Investigation and cleanup of the site is ongoing.
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. The Air Force is responsible for investigation and cleanup of the site. The Air Force and EPA have conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Information is needed to evaluate long-term protectiveness of the remedy. The focused RI is underway to obtain this information. The focused FS that follows the RI will review optimization of the current remedy and evaluate additional technologies that might either complement the remedy or replace it. A long-term protectiveness determination will be made when this study is complete. Remediation of the groundwater at the Building 3001 site will reduce environmental risks posed to the Garber-Wellington aquifer. The groundwater treatment plant provides about 200,000 gallons per day of water for industrial processes inside Building 3001. The remedy selected for the Soldier Creek Operable Unit included monitoring and risk evaluations to ensure that no risk to human health or the environment developed in the creek.
-Activated in 1942, Tinker AFB serves as a worldwide repair depot for aircraft and associated equipment. Base disposal of industrial wastes took place from 1942 until 1979. EPA and the Air Force signed a Federal Facilities Agreement (FFA) for site cleanup in December 1988. Activated in 1942, Tinker AFB serves as a worldwide repair depot for aircraft and associated equipment. Base disposal of industrial wastes took place from 1942 until 1979. EPA and the Air Force signed a Federal Facilities Agreement (FFA) for site cleanup in December 1988.
-What Is the Current Site Status?
-The site was divided into four operable units (OUs) to prioritize and manage cleanup. OU-1, Building 3001 Groundwater: The long-term remedy, selected in 1990, included pumping and treatment of contaminated groundwater, with industrial reuse of treated water; soil vapor extraction with thermal destruction and free-product removal of petroleum products within the North Tank Area; and removal of liquids, cleaning and sealing of Pit No. Q-51, with off-site disposal of contaminated pit material. The Air Force shut down the pump-and-treat system in 2006 since contaminant recovery had reached asymptotic conditions and contaminant removal rates were minimal. The system shut down also allowed for the aquifer to rebound and for additional investigation in a focused remedial investigation and feasibility study (RI/FS). The focused RI discovered an additional hot spot of contamination toward the southern portion of Building 3001. This discovery triggered a second investigation phase to collect additional data to properly delineate the extent of the contamination plume in the area. EPA signed a Record of Decision (ROD) Amendment in July 2014. The amendment identifies interim remedial actions to address soil gas and hot spot groundwater areas beneath Building 3001.  Some interim remedial actions have been initiated.  A soil vapor extraction (SVE) system comprised of three horizontal extraction wells was initiated in November 2015.  In-Situ Chemical Oxidation (ISCO) injections asociated with Building 3001 areas MN 36 and Q5 were performed in May 2018 and February 2018, respectively.  ISCO injections associated with the Building 3001 E105 as well as a SVE system planned for the Administration Area of Building 3001 have yet to be initiated. OU-2, Soldier Creek Sediment and Surface Water: The long-term remedy, selected in 1993, included monitoring and risk evaluations to ensure no risk to human health of the environmental develops in the creek. EPA approved the Remedial Action Report in 2006. The Air Force has discontinued monitoring since the remedy is complete. OU-3, Soldier Creek Off-Base Groundwater: In January 2008, EPA selected a “no action” remedy. OU-4, Industrial Waste Treatment Plant (IWTP): A remedy has not been selected for OU-4; it was combined with OU-1 in the July 2014 ROD Amendment.
-Emergency Response and Removal
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. The Air Force is responsible for investigation and cleanup of the site. The Air Force and EPA have conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Information is needed to evaluate long-term protectiveness of the remedy. The focused RI is underway to obtain this information. The focused FS that follows the RI will review optimization of the current remedy and evaluate additional technologies that might either complement the remedy or replace it. A long-term protectiveness determination will be made when this study is complete.
+
+Remediation of the groundwater at the Building 3001 site will reduce environmental risks posed to the Garber-Wellington aquifer. The groundwater treatment plant provides about 200,000 gallons per day of water for industrial processes inside Building 3001.
+
+The remedy selected for the Soldier Creek Operable Unit included monitoring and risk evaluations to ensure that no risk to human health or the environment developed in the creek.
+
+Activated in 1942, Tinker AFB serves as a worldwide repair depot for aircraft and associated equipment. Base disposal of industrial wastes took place from 1942 until 1979.
+
+EPA and the Air Force signed a Federal Facilities Agreement (FFA) for site cleanup in December 1988.
+
+Activated in 1942, Tinker AFB serves as a worldwide repair depot for aircraft and associated equipment. Base disposal of industrial wastes took place from 1942 until 1979.
+
+EPA and the Air Force signed a Federal Facilities Agreement (FFA) for site cleanup in December 1988.
+
+### What Is the Current Site Status?
+
+The site was divided into four operable units (OUs) to prioritize and manage cleanup.
+
+*OU-1, Building 3001 Groundwater:* The long-term remedy, selected in 1990, included pumping and treatment of contaminated groundwater, with industrial reuse of treated water; soil vapor extraction with thermal destruction and free-product removal of petroleum products within the North Tank Area; and removal of liquids, cleaning and sealing of Pit No. Q-51, with off-site disposal of contaminated pit material. The Air Force shut down the pump-and-treat system in 2006 since contaminant recovery had reached asymptotic conditions and contaminant removal rates were minimal. The system shut down also allowed for the aquifer to rebound and for additional investigation in a focused remedial investigation and feasibility study (RI/FS). The focused RI discovered an additional hot spot of contamination toward the southern portion of Building 3001. This discovery triggered a second investigation phase to collect additional data to properly delineate the extent of the contamination plume in the area.
+
+EPA signed a Record of Decision (ROD) Amendment in July 2014. The amendment identifies interim remedial actions to address soil gas and hot spot groundwater areas beneath Building 3001. Some interim remedial actions have been initiated. A soil vapor extraction (SVE) system comprised of three horizontal extraction wells was initiated in November 2015. In-Situ Chemical Oxidation (ISCO) injections asociated with Building 3001 areas MN 36 and Q5 were performed in May 2018 and February 2018, respectively. ISCO injections associated with the Building 3001 E105 as well as a SVE system planned for the Administration Area of Building 3001 have yet to be initiated.
+
+*OU-2, Soldier Creek Sediment and Surface Water:* The long-term remedy, selected in 1993, included monitoring and risk evaluations to ensure no risk to human health of the environmental develops in the creek. EPA approved the Remedial Action Report in 2006. The Air Force has discontinued monitoring since the remedy is complete.
+
+*OU-3, Soldier Creek Off-Base Groundwater:* In January 2008, EPA selected a “no action” remedy.
+
+*OU-4, Industrial Waste Treatment Plant (IWTP):* A remedy has not been selected for OU-4; it was combined with OU-1 in the July 2014 ROD Amendment.
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In July 1985, the Air Force removed many underground storage tanks. In November 1985 and December 1999, cleanups removed contaminated soil from on-base areas of Soldier Creek. Additional removal actions included removal of fuel product, volatile organic compounds and metals from groundwater, abandonment of two water supply wells, and removal and closure of various pits inside Building 3001.

@@ -1,40 +1,70 @@
-Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Green Remediation
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Brown & Bryant, Inc. (Arvin Plant) covers about 5 acres in Arvin, CA. From 1960 to 1989, the site was an agricultural chemical mixing facility. Accidental spills and improper disposal of the chemicals at the facility contaminated (polluted) soil and groundwater at/beneath the site. Dinoseb, a common herbicide used for weed and insect control banned in 1986, was the main chemical found in the soil and groundwater. Site investigations and cleanup are ongoing.
-What Has Been Done to Clean Up the Site?
- In 1983, EPA and California Department of Health Services started investigating the site. In 1989, EPA added the site in its Superfund cleanup program—a program designed to clean up the most toxic hazardous waste sites in the country. The Superfund process includes investigating a contamination problem, evaluating and comparing cleanup options, selecting a cleanup remedy after public input, and designing and executing the cleanup. To clean up the site, EPA designed a two-part cleanup plan. Soils & Groundwater: In 1993, the first part of the cleanup plan started. It included covering contaminated soil to prevent people from coming into contact with it and reduce impacts to groundwater. This work was completed in 1999. This first part of the cleanup plan also included extracting (pumping out) and treating contaminated shallow groundwater. However, this was delayed until the second part of the cleanup. Groundwater:  In 2007, the second part of the cleanup began. A major piece of this part of the cleanup was to design a groundwater extraction system. After the system was designed, in 2014, EPA built and began operating this system to extract contaminated groundwater. After groundwater is extracted, EPA disposes of it off-site at a hazardous waste facility. In 2017, EPA improved the groundwater extraction system by: → installing a system to remove contaminated soil vapor and increase the groundwater extraction rate; and → installing additional wells to:
-remove more contaminated water; and
-prevent contamination from moving to deeper groundwater.
-EPA has conducted several five-year reviews of the site-wide remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review completed in 2021, found that the remedy operates as intended and continues to protect human health and the environment. 
-What Is the Current Site Status?
-Cleanup actions to date have greatly reduced potential exposure to contaminants at the site. The following are recent cleanup actions, focusing on reducing groundwater contamination in order to prevent contaminants moving to deeper groundwater. New Arvin Well:
-In 2018, the Arvin Community Services District or District properly abandoned the existing Arvin CW-1 domestic drinking water supply well that was less than ½ mile from the Brown & Bryant facility. In 2019, the District installed a replacement well in a location further away from the path of Site contamination. The removal of Well CW-1 eliminated the threat of cross contamination from contaminated shallow groundwater zones into the deeper drinking water zones.  May 2021 - The State issued the permit for the new well and the well began serving water. July 2021 - EPA inspected and confirmed installation of the new well, currently in operation. Treating contaminated groundwater on-site: In July 2021, EPA completed a temporary on-site treatment and disposal system for treated groundwater, consisting of a carbon treatment system and a lined pond on-site. Operational since , this allows EPA to evaporate the treated water instead of hauling it off-site. Note: No contaminated water is being released from the site. If successful, EPA plans to build a full-scale treatment and disposal system  to speed up the cleanup process and reduce emissions and the risk of accidents and spills. Construction of the full-scale treatment system is being delayed; critical parts are on back-order due to the Covid-19 pandemic.
+### Background
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-At this site, activity and use limitations that EPA calls institutional controls are proposed. EPA is working to implement them. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup. For more background, see Institutional Controls.
-Sampling and Monitoring
+The Brown & Bryant, Inc. (Arvin Plant) covers about 5 acres in Arvin, CA. From 1960 to 1989, the site was an agricultural chemical mixing facility. Accidental spills and improper disposal of the chemicals at the facility contaminated (polluted) soil and groundwater at/beneath the site. Dinoseb, a common herbicide used for weed and insect control banned in 1986, was the main chemical found in the soil and groundwater. Site investigations and cleanup are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983, EPA and California Department of Health Services started investigating the site. In 1989, EPA added the site in its Superfund cleanup program—a program designed to clean up the most toxic hazardous waste sites in the country. The Superfund process includes investigating a contamination problem, evaluating and comparing cleanup options, selecting a cleanup remedy after public input, and designing and executing the cleanup. To clean up the site, EPA designed a two-part cleanup plan.
+
+*Soils & Groundwater:*
+
+In 1993, the first part of the cleanup plan started. It included covering contaminated soil to prevent people from coming into contact with it and reduce impacts to groundwater. This work was completed in 1999. This first part of the cleanup plan also included extracting (pumping out) and treating contaminated shallow groundwater. However, this was delayed until the second part of the cleanup.
+
+*Groundwater:*
+
+In 2007, the second part of the cleanup began. A major piece of this part of the cleanup was to design a groundwater extraction system. After the system was designed, in 2014, EPA built and began operating this system to extract contaminated groundwater. After groundwater is extracted, EPA disposes of it off-site at a hazardous waste facility.
+
+In 2017, EPA improved the groundwater extraction system by:
+
+→ installing a system to remove contaminated soil vapor and increase the groundwater extraction rate; and
+
+→ installing additional wells to:
+
+- remove more contaminated water; and
+- prevent contamination from moving to deeper groundwater.
+
+EPA has conducted several five-year reviews of the site-wide remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review completed in 2021, found that the remedy operates as intended and continues to protect human health and the environment.
+
+### What Is the Current Site Status?
+
+Cleanup actions to date have greatly reduced potential exposure to contaminants at the site. The following are recent cleanup actions, focusing on reducing groundwater contamination in order to prevent contaminants moving to deeper groundwater.
+
+*New Arvin Well:*
+
+In 2018, the Arvin Community Services District or District properly abandoned the existing Arvin CW-1 domestic drinking water supply well that was less than ½ mile from the Brown & Bryant facility. In 2019, the District installed a replacement well in a location further away from the path of Site contamination. The removal of Well CW-1 eliminated the threat of cross contamination from contaminated shallow groundwater zones into the deeper drinking water zones.
+
+May 2021 - The State issued the permit for the new well and the well began serving water.
+
+July 2021 - EPA inspected and confirmed installation of the new well, currently in operation.
+
+*Treating contaminated groundwater on-site:*
+
+In July 2021, EPA completed a temporary on-site treatment and disposal system for treated groundwater, consisting of a carbon treatment system and a lined pond on-site. Operational since, this allows EPA to evaporate the treated water instead of hauling it off-site. Note: No contaminated water is being released from the site.
+
+If successful, EPA plans to build a full-scale treatment and disposal system to speed up the cleanup process and reduce emissions and the risk of accidents and spills. Construction of the full-scale treatment system is being delayed; critical parts are on back-order due to the Covid-19 pandemic.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are proposed. EPA is working to implement them. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+### Sampling and Monitoring
+
 EPA samples the monitoring wells on an annual basis and the treatment system wells and treated soil vapor on a monthly basis.
 
-Green Remediation
-EPA is working to reduce greenhouse gas emission and energy use. In April 2021, EPA and the National Renewable Energy Laboratory completed a solar panel study. The study determined the technical feasibility and cost-effectiveness of installing solar panels to partially power the groundwater extraction system. Later in 2021, EPA expects to bid out the solar panel system. This system, when installed, will:
-lower operational costs for the site;
-decrease greenhouse gas emissions; and
-reduce energy needed for site operations.
+### Green Remediation
 
-Emergency Response and Removal
+EPA is working to reduce greenhouse gas emission and energy use. In April 2021, EPA and the National Renewable Energy Laboratory completed a solar panel study. The study determined the technical feasibility and cost-effectiveness of installing solar panels to partially power the groundwater extraction system. Later in 2021, EPA expects to bid out the solar panel system. This system, when installed, will:
+
+- lower operational costs for the site;
+- decrease greenhouse gas emissions; and
+- reduce energy needed for site operations.
+
+### Emergency Response and Removal
+
 Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1988, under State supervision, Brown & Bryant, Inc., excavated heavily contaminated soil under the pond and installed a liner. An additional removal of dinoseb-contaminated soil took place in 1991. Excavated soil was cleaned, treated and returned to the ground. Water used to clean the soil was treated by an innovative technology called ultraviolet/ozone. This process used special ultraviolet lights and ozone gas to break down hazardous chemicals. Between 1991-1994, prior to issuing the cleanup plan, more monitoring wells were installed to detect any contaminants migrating to the Arvin municipal wells and to monitor the perched water plume.

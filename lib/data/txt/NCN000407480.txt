@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 42.1-acre Horton Iron and Metal [Superfund](http://www.epa.gov/superfund) Site is located in an industrial corridor along the Northeast Cape Fear River in Wilmington, North Carolina. An active rail line cuts north-to-south through the middle of the Site. A scrap yard and metal recycling business operates on the western half of the Site, just east of Highway 421. The eastern portion of the Ste is vacant. Two boat slips are also located on the eastern edge of the Site. Site surroundings include the Northeast Cape Fear River to the east, wooded areas to the west and industrial properties to the north and south. A small neighborhood, which includes low-income residents, known as Flemington is located about three-quarters of a mile northwest of the Site. The Virginia Carolina Chemical (VCC) Almont Works Site is located directly north of the Site; just beyond is the Northeast Chemical Company Superfund Site. The adjacent Northeast Cape Fear River is a commercial and recreational fishery home to two federally endangered species. The river connects to an intercoastal waterway and various companies use the river for cargo transportation.
+
+Fertilizer manufacturing took place at the Site from 1911 to 1954. During the 1960s and 1970s, ship breaking of World War II Liberty ships took place in the two slips on Site. In the 1960s, companies dredged out the boat slips and placed the dredged material along the northern, western and southern edges of the slips. In 1988, the U.S. Coast Guard found extensive oil staining around metal crushing equipment at the Site.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2011 because of contaminated soil, sediment and groundwater from past industrial operations at the Site. The EPA, the [North Carolina Department of Environment and Natural Resources (NCDENR) now called North Carolina Department of Environmental Quality (NCDEQ)](https://deq.nc.gov/), and the Site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions and taken steps to clean up the area to protect people and the environment from contamination.
+
+The EPA has tested all private wells in use around the Site and has not identified any threats.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA has identified several PRPs at the Site. The PRPs have funded the remedial investigation and feasibility study. They have paid all oversight bills submitted by the EPA.
+
+The EPA and NCDEQ are working with the Site’s PRPs to fully assess site-related threats to people and the environment and to evaluate cleanup options.
+
+The focus of an upcoming study will be the eastern portion of the site, east of the railroad tracks.
+
+| When | What |
+| --- | --- |
+| **2003** | NCDENR conducted surface and subsurface (below ground) soil, ground water, surface water and sediment sampling throughout the site and in the adjacent Northeast Cape Fear River. |
+| **2011** | The EPA also conducted several investigations at the site. The State of North Carolina referred the site to the EPA because of the extent of ground water, soil and sediment contamination.The site was listed on the NPL. |
+| **2013** | The Remedial Investigation was completed. The EPA, NCDEQ and the site’s PRPs have compiled the Feasibility Study.  In surface soil, select VOCs, SVOCs, metals, PCBs, pesticides, and asbestos have been reported at concentrations greater than the preliminary screening criteria.  In the shallow and deeper overburden, certain metals were reported at concentrations above the screening criteria, including arsenic and, to a limited extent, lead.  PAH exceedances are present in the shallow groundwater in MW-7 (located near the current railroad tracks and former rail spurs). |
+| **2016** | Sediments are impacted with metals, PAH, PCBs and pesticides. Two cofferdams were installed at the end of the boat slips. |
+| **2017** | The EPA and NCDEQ have finished the remedial investigation/feasibility study. Additional sediment sampling was performed to determine if the sediments were impacted. |
+| **2018** | The EPA signed the sitewide Record of Decision (ROD) on September 6, 2018. |
+| **2019** | The EPA sent out Special Notice letters to all of the PRPs in 2019. The EPA settled out with PRP W.R. Grace. Phillips 66 hired several experts and wrote a report on how they were not libable at the site. The EPA wrote it's own report on how their succesor companies contaminated the site. |
+| **2024** | After meeting in August, the EPA agreed to settle out with the Phillips 66 for a significant figure. |
+
+### What Is the Current Site Status?
+
+The EPA is now in the process of getting the US Army Corps of Engineers (USACE) to perform the Remedial Design at the site. The contract should be awarded in early 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site’s PRPs installed a gate prohibiting access to the eastern portion of the site. When the cleanup at the site is complete, the site will be protective of commercial/industrial standard. The area around Horton Iron and Metal is very developed in commercial and industrial uses.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA has identified several PRPs at the Site. The PRPs have funded the remedial investigation and feasibility study. They have paid all oversight bills submitted by the EPA.

@@ -1,3 +1,41 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+In 1982, the City of Spokane discovered tetrachloroethylene ( [PCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCE) ) in the groundwater at the landfill. In 1983, PCE was found in residential wells near the landfill. The City immediately provided bottled water to impacted residences and later extended the public water supply lines to service this area. Based on the contamination in the groundwater, the Washington State Department of Ecology recommended the Northside Landfill be listed on the National Priorities List (NPL). EPA added the site to the NPL in 1986.
+
+**What is tetrachloroethylene (PCE)?**
+
+PCE is a contaminant that may harm the nervous system, liver, kidneys, reproductive system and may also increase the risk of developing cancer. In 1992, EPA established a Maximum Contaminant Level (MCL), an enforceable drinking water standard, for PCE of 5 parts per billion. PCE concentrations in residential wells have never exceeded the MCL.
+
+**What was the source of the PCE?**
+
+In 1986 through 1988, the City of Spokane investigated the potential sources of PCE and other organic compounds in the landfill. The PCE appeared to originate in approximately 300-tons of dry-cleaning solvent filters and sludges spread throughout the landfill. As was common for that time, the landfill was not lined, thus allowing groundwater to move through the wastes, absorb PCE and transport it downstream.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, municipal and potentially responsible party (PRP) actions.
+
+The site’s cleanup plan required three unlined cells be closed and capped; groundwater to be extracted, treated and monitored; landfill gases to be managed and drinking water be provided to residents affected by the contamination. The three unlined cells were closed to receiving new wastes in 1991. Construction of the cap and the groundwater extraction and treatment system was completed in 1993.
+
+Groundwater cleanup levels and remedial action objectives were achieved in 2020.
+
+[The Site was Deleted from the NPL in Sepetember 2020](https://www.federalregister.gov/d/2020-14137).
+
+Groundwater monitoring, operation and maintenance activities, and five-year reviews continue to be required. The active portions of the landfill will continue to be regulated under state and county authorities.
+
+### What Is the Current Site Status?
+
+In May 2020, the EPA determined that all cleanup activities had been performed and all cleanup goals achieved. Therefore, EPA deleted the site from the National Priorities List.
+
+Groundwater monitoring, operation and maintenance activities and five-year reviews continue to be required.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+On June 17, 2011, an Environmental Covenant was recorded for all parcels within the landfill boundaries. The covenant prohibits activities that may impair the function or integrity of the remedy and the use of groundwater. The landowner is also responsible for the maintenance of all aspects of the landfill, including the implementation of post-closure requirements under other environmental regulations.
+
+### Emergency Response and Removal
+
+Site cleanup also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions in 1983 included supplying residents in the area of the groundwater contamination with an alternate supply of drinking water. In 1983 and 1984 the City of Spokane extended the municipal water service to these homes.

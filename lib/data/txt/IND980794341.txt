@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 10-acre Lemon Lane Landfill site is located in Bloomington, Indiana. From about 1933 until 1964, the landfill, which had no bottom liner or runoff controls, accepted both municipal and industrial wastes. From about 1958 until 1964, a large number of electrical capacitors containing polychlorinated biphenyls (PCBs) were dumped at the site. Throughout the late 1950s until 1964, PCBs were released from many of the electrical capacitors when metal scavengers broke open the capacitors to reclaim internal metal capacitor parts. Labels on the capacitors linked the PCB contamination to the Westinghouse Electric Corporation (formerly Viacom and now doing business as CBS Corporation). Following cleanup, operation maintenance activities and groundwater treatment and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.  
+
+### What Is the Current Site Status?
+
+The remedy for the site’s source areas included removal of “hot spots” of PCB-contaminated soil and capacitor parts, consolidation of the landfill, landfill capping, cleanup of fenceline areas, and monitoring of the landfill cap, groundwater, springs and surface water. Construction of the remedy finished in 2000.
+
+The remedy for site groundwater and sediment included surface and groundwater treatment. The plant treats 6,000 gallons per minute of spring water contaminated with PCBs. During large rainfall events, when PCB concentrations in groundwater become elevated, storage tanks store up to 1.2 million gallons of water. The remedy also included excavation and off-site disposal of contaminated sediment, institutional controls to prevent development on the landfill cap and in drainage area, and groundwater monitoring. Construction of the remedy finished in 2012. CBS continues to treat contaminated spring water and as of March 2021, approximately 2.4 billion gallons of spring water has been treated. CBS continues to meet the discharge criteria and do routine monitoring of the landfill and nearby springs. The State of Indiana has also reduced the fish advisories in Clear Creek from do not eat any fish due to PCB contamination to safely eating one meal a month. Since no further response actions are needed and all the Remedial Action Objectives have been met, EPA is proposing to delist the Lemon Lane Landfill off the Superfund list. CBS will still be required to perform all operation and maintenance activities including operating the water treatment plant and performing all the necessary monitoring to ensure the remedy is still performing as designed and protective of public health and the environment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Polychlorinated biphenyls (PCBs)
+
+### Sampling and Monitoring
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1987, Westinghouse removed exposed capacitors and stained soils from the site and capped the site with a synthetic liner. About 400 capacitors were incinerated at a licensed commercial incinerator. EPA fenced the site in 1987. Capping and fencing greatly reduced the risks posed by direct contact at the site.

@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+From 1967 to 1983, the Town of South Kingstown leased the site property for use as a domestic and industrial waste disposal facility. Three separate areas on or near the site received wastes, including a solid waste landfill, a bulky waste disposal area and a sewage sludge landfill. In 1983, the facility became inactive and the operator graded and seeded the disposal areas. The landfill, covering 70 acres, was operated by the town on land it owned or leased. Before the landfill, the parcel was the location of a sand and gravel operation. A transfer station for municipal refuse now operates on site.
+
+The site was placed on the National Priorities List (NPL) in October 1989.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal state and potentially responsible party (PRP) actions.
+
+EPA has conducted five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101279).
+
+### What Is the Current Site Status?
+
+The site was addressed in two stages: initial actions and two long-term cleanup phases focused on the entire site. Cleanup activities included the extension of municipal water to homes with contaminated wells, installation of gas alarms for nearby homes and relocation of one residence. Landfill cleanup activities include the consolidation of landfill areas, addition of a landfill cap, installation of a landfill gas destruction system, monitoring of surface water, landfill gas and groundwater, and groundwater and land use restrictions. Site cleanup finished in 2008. Operation and maintenance activities, including environmental monitoring, are ongoing.
+
+EPA and the Rhode Island Department of Environmental Management (RIDEM) believe the cleanup is working as intended, but are concerned with the potential for landfill gas to migrate off site. When designing a cleanup plan, EPA agreed in 2008 that it should include a gas collection system that could work in either a passive mode, through venting, or an active mode, through combustion. As a result, landfill gas monitoring increased and in April 2009, RIDEM found evidence of gas migration in the western portion of the site and along Rose Hill Road. As part of an effort to address landfill gas concerns, RIDEM in June 2009 identified potential means of reducing methane concentrations detected off site. EPA and RIDEM determined, with agreement from the towns, that they should switch from the passive gas mitigation system to an active landfill gas destruction option. The new system was in place by February 2010 and the landfill gas pilot study showed that the active system could essentially eliminate migration of landfill gas.
+
+Operation and maintenance activities are ongoing.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101279).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The matrix below is a general summary of the restrictions at this site at the date of this report. The information in this matrix is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101279&doc=Y&colid=33343).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.

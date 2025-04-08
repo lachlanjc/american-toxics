@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Schroud property site – located southwest of the intersection of 126th Street and Avenue O in Chicago, IL – was formerly used to store and dump slag material from the former Republic/LTV Steel manufacturing operations located about a mile away on the southeast side of Chicago. Slag dumping is estimated to have occurred from 1951 to 1977 and may have continued after purchase of the Republic Steel site by LTV Steel in the early 1980s. The site consists of a large, unmaintained waste disposal area and is approximately 67 acres in size. Foundry sand and other types of foundry waste may also have been deposited on site. Elevated levels of inorganic compounds have been found in soil and waste samples collected from the site. The site is private property and public use is considered trespassing. Soil and waste at the property and in nearby Indian Creek are contaminated with lead, chromium and other inorganic compounds.
+
+[Schroud Property map (PDF)](https://semspub.epa.gov/src/document/05/955856) (1 pp, 891.57 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### What Has Been Done to Clean Up the Site?
+
+The state of Illinois referred the site to the EPA because the site was unmaintained. Other federal and state cleanup programs were evaluated but were not pursued because of the lack of a viable, cooperative responsible party to implement an investigation or perform clean up. The EPA received a letter of support for placing this site on the NPL from the state of Illinois.
+
+In November 2019, the site was added to [EPA’s Superfund National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl).  [Cleaning up Superfund sites](https://www.epa.gov/superfund/cleaning-superfund-sites) is a complex, multi-phase process. After a site is listed on the National Priorities List (NPL), a remedial investigation / feasibility study (RI/FS) is performed at the site.
+
+### What Is the Current Site Status?
+
+In response to community requests to prevent access of trespassers who are disregarding health risks warnings, the City of Chicago completed construction of a barrier system on the south end of the Schroud Property Superfund site in the Summer of 2023. EPA completed installation of a gate on the northern access road in September 2023 to completely close off the north side from access. EPA will continue to perform monitoring and maintenance of the barrier over the next year before transitioning this responsibility to the City of Chicago. EPA also continues to work with the City of Chicago to install cameras to monitoring for continued trespassing.
+
+The next step in the remedial process at the site is the [Remedial Investigation / Feasibility Study](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-3). This stage involves an evaluation of the nature and extent of contamination at a site and assessing potential threats to human health and the environment. This stage of the process also includes evaluation of the potential performance and cost of the treatment options identified for a site.
+
+EPA continues to coordinate with Illinois EPA and the City of Chicago to begin investigations of soil, groundwater, surface water, and sediment at the site. EPA approved the Field Sampling Plan for the RI/FS in October 2023. Field work began in mid-November 2023 and included surface water and sediment sampling in Indian Creek and the Hyde Lake Wetlands. Later in November, on-site field work began to drill approximately 40 borings to collect soil samples and to install permanent wells to monitor concentrations of chemicals in groundwater over time. EPA also began collecting soil samples from off-site properties along the site boundary in December.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site is private property and public use is considered trespassing. The city of Chicago recently placed barriers and warning signs around parts of the site to discourage access.
+
+### Sampling and Monitoring
+
+In 2017 the Illinois Environmental Protection Agency prepared the [IL EPA Site Inspection Report (PDF) (75pp, 11.37MB,](https://semspub.epa.gov/src/document/05/2000160) [About PDF](https://www.epa.gov/home/pdf-files) ), which describes sampling activities and results used to determine if the site qualified to be listed in the Superfund Program.
+
+### Enforcement Information
+
+Under the authority of the [Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA, commonly known as Superfund)](https://www.epa.gov/superfund/superfund-cercla-overview), the [Superfund enforcement program](https://www.epa.gov/enforcement/superfund-enforcement) gets sites cleaned up by finding the companies or people responsible for contamination at a site and negotiating with or ordering them to do the cleanup themselves, or to pay for the cleanup done by another party (i.e., EPA, state, or other responsible parties).
+
+In early 2020, EPA began searching for [potentially responsible parties (PRPs)](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp) for enforcement, which includes conducting a title search. EPA has sent several [Section 104(e) information requests](https://www.epa.gov/enforcement/superfund-information-request-letters) regarding the site. Under Section 104(e) of CERCLA, EPA has the authority to require any person to furnish information or documents related to hazardous substances that were generated, treated, stored or disposed of at a site. This includes anyone, including business entities and government agencies, who may have information about a site, not just those who may be potentially responsible parties. Section 104(e) also gives EPA the authority to inquire into the ability of a person to pay for or perform a cleanup.
+
+The majority of the Schroud property is held in a land trust by Chicago Title Land Trust Company.

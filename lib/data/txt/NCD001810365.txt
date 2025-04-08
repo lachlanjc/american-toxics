@@ -1,2 +1,69 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 5-acre Martin-Marietta, Sodyeco, Incorporated [Superfund](http://www.epa.gov/superfund) site is part of a 150-acre production facility area located on Highway 27, approximately 10 miles west of Charlotte in Mecklenburg County, North Carolina. Grass-covered and forested areas border the site to the north, south and east. The Catawba River borders the site to the west. The City of Mount Holly and residential areas are located west of the site, across the Catawba River.
+
+The site includes five areas, labeled as Areas A through E.
+
+From the 1930s to 1973, Area A operated as an on-site landfill. In 1936, DyeStuff Company began operations producing liquid sulfur dyes at the site. In 1958, American Marietta, which later became Martin Marietta, purchased the site. Martin Marietta produced vat dyes, disperse dyes and specialty chemical products for the agrochemical, electronic, lithographic, pigment, plastic, rubber and general chemical industries.
+
+From 1973 to 1978, Area B operated as an on-site landfill. In 1983, Sodyeco Inc. purchased the site property. Sodyeco Inc.’s operations produced waste streams that the company discharged to the Catawba River. Parties disposed of residual distillation tars, empty drums and cartons, discarded chemicals, off-specification products, general plant wastes and construction debris at the site.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater and soil resulting from facility operations. EPA, the [North Carolina Department of Environment and Natural Resources (NCDENR)](https://deq.nc.gov/), and Clariant Corporation, the site’s primary [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By treating groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews, EPA, NCDENR and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The Resource Conservation and Recovery Act (RCRA) regulates the site and the larger facility area. The Clariant Corporation owns the facility property, including the site.
+
+Clariant, the site’s primary PRP, leads site investigation and cleanup activities, with oversight provided by EPA and NCDENR.
+
+**1973**  
+The site’s PRP cleaned one of the two wastewater ponds in Area D.
+
+**1976 – 1979**  
+The PRP cleaned the remaining wastewater pond and installed a lined freshwater pond.
+
+**1981 – 1983**  
+The PRP dug up three pits containing wastes in Area C and disposed of the materials at an off-site landfill. Then, the PRP regraded the dug-up areas and planted grass.
+
+**1987**  
+EPA issued the site’s long-term cleanup plan. It included
+
+- using a pump-and-treat system at the site to extract, treat and discharge contaminated groundwater from all five areas of the site
+- digging up soil from Area D and incinerating it off site
+- placing a cap over Area B
+- performing treatability studies on Area C to determine the cleanup activity for the area.
+
+**1989**  
+The PRP completed installation of the asphalt cap over Area B.
+
+**1990**  
+The PRP installed the groundwater pump-and-treat system and 11 recovery wells, and also found additional buried drums, wastes and contaminated soil in Area C. The PRP dug up the drums and contaminated soil, emptied the drums, disposed of the drums and disposed of the contents of the drums using a fuel blending process.
+
+**1994**  
+EPA revised the cleanup plan, selecting soil flushing as the cleanup activity for Area C. The plan included flushing soil with water, capturing the water and treating it in the groundwater treatment system.
+
+**1998**  
+EPA revised the cleanup plan again, selecting off-site treatment and disposal to address stockpiled contaminated soil in Area C. EPA issued a third revision to the cleanup plan in 1998, correcting the estimated quantity of soils addressed by cleanup activities.
+
+**1999**  
+The PRP dug up contaminated soil and treated it off site, after which EPA issued a Preliminary Close-Out Report for the site in 1999.
+
+**2011**  
+EPA removed groundwater cleanup activities from the cleanup plan and called for the placement of institutional controls on the site property.
+
+**2012**  
+EPA deleted the site from the NPL in January 2012.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11174364.pdf) was published in September 2022. The soil remedy is protective of human health and the environment in the short term because contaminated soils were either removed from the Site or contained under on-site caps that are regularly inspected and maintained.
+
+The site’s PRP continues to operate the pump-and-treat system under the RCRA program.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP conducted cleanup activities after the EPA issued the ROD under the authority of the RCRA program. Cleanup activities continue under the PRP’s RCRA post-closure permit. The PRP continues to fund site cleanup, monitoring and oversight activities.

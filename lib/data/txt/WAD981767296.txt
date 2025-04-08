@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 16-acre Spokane Junkyard/Associated Properties site is located in the Hillyard area, a light commercial and residential area in Spokane, Washington. From the 1940s until 1983, the Spokane Junkyard accepted military surplus items, automobiles, heavy equipment, appliances and electrical transformers. Spokane Metals Co. located next to the junkyard, recycled scrap metal, including transformers and batteries, from 1936 to 1983. Junkyard and recycling activities contaminated soils with polychlorinated biphenyls ( [PCBs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCB) ), lead and solvents.
+
+In 1987, after an explosive fire destroyed the junkyard, EPA commenced a removal action on the junkyard property. During 1988 and 1989, asbestos and approximately 8000 cubic yards of contaminated soil were removed. The site was listed on the Superfund National Priorities List in June 1994. In 1995, three of the site generators, Kaiser Aluminum, Avista and Inland Power and Light signed a consent order with the EPA in which they agreed to conduct a Site Investigation and then either a remedial investigation and feasibility study or an engineering evaluation/cost analysis depending on site conditions.
+
+The site investigation was completed in the summer of 1995, and an EE/CA was completed in the fall of 1995. A non-time critical removal action was performed under the Consent Order on consent was performed between August and December 1996. Lead and PCB containing soil were excavated and consolidated into a containment cell (an engineered hole) on the Spokane Metals property. Approximately 10,000 tons of soil were excavated and consolidated without treatment. A total of 2600 tons of soil with lead over 5000 ppm (parts per million) was treated.
+
+A post removal risk assessment determined that no additional action was required, and the site was deleted from the National Priorities List in September 1997. Property use restrictions were placed on the Spokane Metals property to prevent activities which could disturb the containment cell. Five year reviews are required because waste was left on the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and potentially responsible parties (PRPs) actions.
+
+### What Is the Current Site Status?
+
+EPA cleaned up the site through removal actions, or short-term cleanups, to address immediate threats to human health and the environment. From 1987 to 1989, EPA completed an emergency removal action, taking lead- and PCB-contaminated soil, hazardous liquid and solid waste, and asbestos to regulated landfills. In 1995, the site’s PRPs completed a non-time-critical removal action that included excavation and treatment of contaminated soil and consolidation of the treated soil in an on-site containment cell. In addition, institutional controls were placed on the site. Cleanup finished in 1996.

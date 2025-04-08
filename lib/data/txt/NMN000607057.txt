@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lea and West Second Street Superfund Site is located in the City of Roswell, Chaves County, New Mexico and consists of four Operable Units (OUs), where soil and groundwater have been impacted to varying degrees by chlorinated solvents primarily from dry cleaning operations.
+
+The chlorinated solvents of concern are tetrachloroethylene (PCE), trichloroethylene (TCE), cis- 1,2-dichloroethene (cis-1,2-DCE), and trans-1,2-dichloroethene (trans-1,2-DCE). Petroleum hydrocarbon contamination from multiple leaking underground storage tanks (LUSTs) is interspersed and commingled throughout the OUs. Details for each OU are provided below.
+
+Operable Unit 1 – 510 and 514 West Second Street: OU 1 was commonly referred to as Denio’s. Contamination is present in soil and groundwater on the south side of commercial buildings, which encompasses the stretch between 510 and 514 West Second Street. Groundwater contamination was initially discovered in 2006 during LUST investigations of the Allsup’s 289 and Sawey Gulf Petroleum facilities (New Mexico Environment Department \[NMED\] 2014) located downgradient of 510 and 514 West Second Street. The area designated for OU 1 encompasses 156 acres.
+
+Operable Unit 2 – 507 East Second Street: Located approximately 0.8 mile east of OU 1, OU 2 contamination is the result of leakage from a private sewer line believed to be associated with former dry cleaning operations (EPA 2015) that historically have been located between 505 and 511 East Second Street. Groundwater contamination was initially discovered in private supply wells downgradient of 507 East Second Street. The area designated as OU 2 encompasses 509 acres.
+
+Operable Unit 3 – Intersection of West Second and Montana: OU 3 is located near the intersection of West Second and Montana Avenue and is the result of two separate releases of PCE. The first PCE release (Source Area 1) originated from an underground separator tank associated with drainage of wastes from former dry cleaning operations at the Monterey Shopping Center. This release was discovered by the NMED Superfund Oversight Section (SOS) during a Site Inspection (SI) conducted at the Site (NMED 2010). The second release (Source Area 2) originated from a former dry cleaner located at 1401 West Second Street where chlorinated solvent contamination was also present in groundwater samples from monitoring wells at two adjacent properties on the northeast corner of the intersection of West Second Street and North Montana Avenue (NMED 2010). The area designated as OU 3 encompasses 276 acres.
+
+Operable Unit 4 – Intersection of South Virginia Avenue and East Alameda Street: OU 4 is commonly referred to as Parks Underground Storage Tank (UST) site. Groundwater contamination was initially discovered during groundwater monitoring activities conducted at the Parks site. Minor soil contamination is present on the south side of a building at 511 South Main Street, where a dry cleaner operated from 2003 to 2007. More substantial soil contamination is present north of the historical dry cleaner in the alley along the sewer alignment behind the property at 501 South Main Street. The area designated as OU 4 encompasses 123 acres.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is currently in the remedial investigation phase and additional details will be provided as data is collected and evaluated.
+
+### What Is the Current Site Status?
+
+The phased Remedial Investigation / Feasibility Study process is ongoing. Phase I began in 2016 and was completed in May 2021. Phase II began September 2021 and will continue until the Feasibility Study is completed. This will take multiple years.
+
+### Sampling and Monitoring
+
+Annual vapor intrusion monitoring occurs at OUs 1, 2, and 3.
+
+Soil vapor, soil, and groundwater sampling has been completed and the data is presented in the Remedial Investigation Report. Additional vapor, soil, and groundwater sampling will continue as the remedial investigation progresses. Pump tests and treatability studies will provide information on potential remedies.
+
+### Enforcement Information
+
+An enforcement assessment of the source properties has been initiated.

@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The El Toro Marine Corps Air Station covers about 4,700 acres. Commissioned in 1943, it supported the Fleet Marine Forces in the Pacific Ocean, serving as the major west coast jet fighter facility. A total of 25 potentially contaminated areas were identified on the Air Station, including four landfills suspected of containing both hazardous and solid waste, and other areas where polychlorinated biphenyls (PCBs), battery acids, leaded fuels and other hazardous substances were suspected of being dumped or spilled. Site investigations and long-term cleanup activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions, with the Navy as the lead Department of Defense (DoD) agency.
+
+El Toro Marine Corps Air Station is participating in the Installation Restoration Program, a specially funded program established by the DoD in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities. El Toro Marine Corps Air Station was approved for closure under the 1993 Defense Base Closure and Realignment Commission and Congressional Action, which established special accounts for funding the environmental cleanup at closing bases. Further funding for cleanup was procured through the sale of much of the former base in 2005.  
+
+### What Is the Current Site Status?
+
+This site is being addressed in several long-term remedial phases focusing on cleanup of the groundwater, identification of the sources and cleanup of volatile organic compound (VOC) contamination in soils, and cleanup of abandoned wastewater treatment lines and tanks. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1990. To better manage site investigations and cleanup, EPA established three operable units (OUs) for the site.
+
+**Site Investigations and Remedial Design**  
+
+*OU-2B and OU-2C Landfills:* proposed remedy includes capping of four landfills – Sites 2, 3, 5 and 16 – and habitat restoration. Capping and habitat restoration is complete at Site 2 and work is nearing completion at Site 17.
+
+*OU-2C, Anomaly Area 3:* following investigations, remedy selection and cleanup planning are ongoing.
+
+*OU-3, Site 1:* following investigations, the long-term remedy for contaminated groundwater at Sites 1 and 2 was selected in February 2012. Cleanup planning to address contaminated soils, munitions and explosives of concern is ongoing.
+
+*OU-2, Site 2 Groundwater:* Site 2 groundwater has been coupled with Site 1 groundwater since the perchlorate plume originating at Site 1 is present at Site 2. Following remedy selection in February 2012, pilot studies and remedial design work are ongoing.  
+
+**Cleanup Ongoing**  
+
+*OU-1, Groundwater Sites 18 and 24:* Following remedy selection in 2002, the Irvine Ranch Water District portion of the remedy was completed in the spring of 2006 and the groundwater extraction and treatment system became fully operational in the fall of 2006. The system is fully operational and groundwater remediation efforts are ongoing.
+
+*USTs, Abandoned Wastewater Treatment Lines and Tanks:* Numerous former underground storage tanks (USTs) have been declared for no further action. The Navy has constructed free product removal systems and soil vapor extraction (SVE) systems. Closure work is ongoing at a number of USTs.
+
+*OU-3A, Sites 8, 11 and 12:* The sites are contaminated primarily with PCBs in the soil. Groundwater is not affected by these sites. The Navy completed excavation and disposal of contaminated soil at Site 11 in the summer of 2005. Cleanup of sites 8 and 12 started in the winter of 2009.OU-3, Site 16: Site 16 (Former Crash Crew Training Pits and Firefighting Training Pits) is located within the runways and was an area contaminated with VOCs and petroleum hydrocarbons due to its use as a firefighting training area where large quantities of solvents were dumped in the pits and then set on fire and subsequently doused with water and chemicals. Soil and groundwater were contaminated with total petroleum hydrocarbons (TPHs) and VOCs. A multi-phase extraction pilot study from 1999 to 2001 removed significant amounts of VOCs from the soil but had little impact on the groundwater. Monitored natural attenuation was selected as the final groundwater remedy in the spring of 2007.
+
+**Completed Cleanup**
+
+*OU-1, Site 24 Soil:* SVE was used to address VOC-contaminated soils near two aircraft hangars from May 1999 to September 2000. Soil gas and groundwater monitoring wells will remain in place until operation of the groundwater cleanup system has been confirmed to be addressing remaining contamination. Parties signed a “no further action” Record of Decision for the area in March 2006.  
+
+*OU-3B, Sites 7 and 14:* Parties signed a “no further action” Record of Decision for the area in the spring of 2001.

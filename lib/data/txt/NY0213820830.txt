@@ -1,2 +1,80 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Seneca Army Depot Activity (SEDA) site is located in Romulus, New York. It covers 10,587 acres. The U.S. Army has operated the facility and stored and disposed of military explosives there between 1941 and 2000, when SEDA closed. Following recommendation by DoD, approval by the Base Closure Commission, the President and Congress, SEDA was approved for the 1995 Base Realignment and Closure (BRAC) list in October 1995. Some parts of the base have been transferred to various entities, prison and correctional authorities, as well as the Local Redevelopment Authority (LRA). Current reuse plans project that most of the site property will be transferred for wildlife conservation, recreation, industrial and warehousing land uses. The site is being addressed through a Federal Facility Agreement between the Army, EPA and the State of New York. The site’s long-term cleanup is ongoing and it is expected to be completed in 2028.
+
+SEDA was owned by the U.S. Government and operated by the Army between 1941 and about 2000, when SEDA’s military mission ceased. Prior to construction of the Depot, much of the land was used for farming. From 1941 to 1974, household trash and depot refuse was burned in a series of Refuse Burning Pits near the Incinerator Building. During about the same period of time (1941 until the late 1950s or early 1960s), ash from the Refuse Burning Pits was buried in the Ash Landfill.
+
+The Incinerator Building was built in 1974. Between 1974 and 1979, materials intended for disposal were transported to the incinerator. The incinerator was a multiple chamber, batch-fed, 2,000-pound-per-hour capacity unit that burned rubbish and garbage. The unit contained an automatic ram-type feeder, a refractory-lined furnace with secondary combustion and settling chamber, a reciprocating stoker, a residue conveyor for ash removal, combustion air fans, a wet gas scrubber, an induced draft fan and a refractory-lined stack. Nearly all of the 18 tons of refuse generated weekly at the Depot were incinerated. The source for the refuse was domestic waste from Depot activities and family housing. Large items that could not be burned were disposed of at the NCFL. The NCFL is southeast of the Incinerator Building, immediately south of the SEDA railroad line. The NCFL was used as a disposal site for non-combustible materials, including construction debris, from 1969 to 1977.
+
+Ashes and other residues from the incinerator were temporarily disposed of in the Incinerator Cooling Water Pond immediately north of the Incinerator Building. The Incinerator Cooling Water Pond consisted of an unlined depression about 50 feet in diameter and about 6 to 8 feet deep. When the pond filled (about every 18 months), fly ash and residues were removed, transported and buried in the adjacent Ash Landfill. The refuse was dumped in piles and occasionally spread and compacted. No daily or final cover was applied during operation. The active area of the Ash Landfill extended at least 500 feet north of the Incinerator Building, near a bend in a dirt road. A fire destroyed the incinerator in May 1979. The landfill was subsequently closed. A vegetative cover composed of native soils and grasses was observed on the Ash Landfill during the remedial investigation. A grease pit disposal area near the eastern boundary of the site was used for disposal of cooking grease.
+
+After site investigations, EPA placed the site on the Superfund program’s National Priorities List in August 1990.
+
+### What Has Been Done to Clean Up the Site?
+
+Cleanup at the SEDA site has included:
+
+**Open Burning (OB) Grounds:** Previous demilitarization of munitions had been conducted for 40 years by open burning of fuses, projectiles, explosives and propellants directly on the ground surface. These activities adversely affected soil at the OB Grounds and sediments in Reeder Creek. The remedy selected in the site’s June 1999 ROD includes clearance of unexploded ordnance in the area of the remedial action, excavation of lead-contaminated soil and sediments from Reeder Creek; solidification and stabilization of 3,800 cubic yards of contaminated soils; off-site disposal of soil, solidified soil and sediment; providing 9 inches of clean fill with revegetation over remaining soils; and groundwater monitoring to ensure groundwater is not affected in the future by remaining lead in the soil.
+
+Screening excavation of unexploded ordnance continues together with stock piling and soil classification for disposal or backfill. Currently, 50,000 tons of soil have been excavated, with 45,000 tons treated by stabilization. Oversize materials are being segregated and removed. Long-term monitoring started in December 2007.
+
+**Fire Training Pad and Pit:** Fire training practices may have adversely affected soil and groundwater in these areas. The remedy selected in the site’s September 2004 ROD includes excavation and off-site disposal of contaminated source soils and treatment of recovered groundwater, and groundwater monitoring. The remedial action finished in 2005.
+
+**Deactivation Furnaces:** Incineration of obsolete and unserviceable small arms munitions, fuses, boosters and fire devices may have adversely affected soil and groundwater in these areas. The site’s 2006 ROD included excavation and off-site disposal of contaminated soils. The remedial action finished in August 2008.
+
+**The Old Construction Debris (CD) Landfill and the Garbage Disposal Areas:** Results of site investigations indicate that previous activities may have adversely affected soil and groundwater. A removal action at the CD landfill removed buried materials in 2006. A no further action (NFA) ROD was signed in September 2009.
+
+**Munitions Washout Facility and Leach Field:** Operations at this facility included dismantling and removing explosives from munitions by steam cleaning. Results of site investigations indicate that previous activities may have adversely affected soil and groundwater. The ROD was signed on September 2008. Cleanup took place from October 2008 to November 2008.
+
+**Inhibited Red Fuming Nitric Acid (IRFNA) Disposal Site:** Unserviceable IRFNA was mixed with water and deposited into limestone-lined trenches to facilitate the neutralization of the acid. Sampling field work took place in the spring of 2002. Results indicated no significant impact to soils and limited impact to groundwater. A ROD proposing institutional controls was signed in July 2007.  
+  
+**The Radioactive Waste Burial Sites, the Pitchblende Storage Igloos and the Miscellaneous Components Burial Site:** Burial of laboratory wastes occurred between 1940 and 1980. These pits were excavated in 1987, with the waste shipped to an authorized off-site radioactive waste landfill. During the 1950s and 1960s, wastewater generated from washing radioactive contaminated clothing was stored in a 5,000-gallon tank. In 1987, SEDA attempted to remove the tank, but then backfilled it in place.During the 1950s and 1960s, "classified" metallic parts were buried at the Miscellaneous Components Burial Site. Since the documentation related to the disposal is considered classified by the Army, the exact nature of the buried material has not been disclosed.
+
+Results of site investigations indicate that previous activities may have adversely affected soil and groundwater. SEDA conducted a removal action to remove buried components. A no further action ROD for the Miscellaneous Components Burial Site was signed in September 2006. Supplemental investigations have been performed due to sporadic hits of TCE in the groundwater around Building 813. A removal action of military components took place during the summer of 2009. The ROD for limited institutional controls around building 813 was signed in March 2015.
+
+**The Ammunition Breakdown Area and the Oil Discharge Area Adjacent to Building 609:** Following investigations, SEDA proposed no action for these areas. All concerns have been addressed and a no action ROD was signed in November 2003.
+
+**The Sewage Sludge Piles, the Fill Area West of Building 135 and the Alleged Paint Disposal Area:** Following a removal action, a ROD was signed in May 2009, and a cap was placed over the area.  
+
+### What Is the Current Site Status?
+
+**PFAS Current Status: See Announcements and Key Topics Section**
+
+**PFAS Previous Work Performed**
+
+Prior to conducting the 5 Site RI, the Army conducted an Expanded Site Investigation (ESI) for PFAS at 3 of the RI sites (SEAD-25 (Fire Training and Demonstration Pad), SEAD-26 (Fire Training Pit and Area) and the Firehouse (Building 103). The ESI was conducted from 2019 through 2021 and included sampling and analysis of soil, groundwater, and surface water for PFAS. EPA and NYSDEC provided review and comment on the draft and draft final ESI Work Plans and Reports,and EPA approved the Army's Response to Comments on the draft final Report in January 2022. The ESI concluded that additional investigation was required to further define the nature and extent of PFAS contamination at the 3 sites, and that an RI was needed. The RI ended up including the 3 ESI sites, as well as 2 sites at the airfield - SEAD-122D (Hot Pad Spill) and SEAD-122E (Plane Deicing Pads), which were originally investigated during the initial Site Investigation (SI) at the former depot**.**
+
+The original PFAS Site Investigation (SI) sampling by the Army took place in April 2017, and the draft SI report was submitted in October 2017. EPA and NYSDEC reviewed the report and submitted comments to the Army. A final report was issued in 2018 and approved by EPA and NYSDEC. The maximum detected PFAS total in groundwater at Seneca was 92,900 parts per trillion (ppt). The criteria used was the EPA Health Advisory Level (HAL) at the time for drinking water for PFAS of 70 ppt. The HAL consistsof the combined total of the 2 most prevalent PFAS compounds known as Perfluorooctanyl Sulfate (PFOS) and Perfluorooctanoic Acid (PFOA). Most of the groundwater wells at SEAD-25 and SEAD-26 were highly contaminated with PFAS above the HAL.
+
+SEAD-25 is located in the east-central portion of SEDA. SEAD-25 was in use from the late 1960s to the late 1980s. The former pad was used for fire control training. During the 1980s, the pad was used twice for fire-fighting demonstrations, including one demonstration in 1982 or 1983, and one in 1987.
+
+SEAD-26 is located in the southeastern portion of SEDA and was used one to four times a year for firefighting training during which time various flammable materials were floated on water, ignited, and extinguished. Prior to 1977, the fire training area may have also been used for fire demonstrations.
+
+SEAD-122E, and the surrounding airfield, are located in the southwest corner of SEDA. SEAD-122E is associated with the deicing of planes at four separate aircraft refueling areas at the former SEDA Airfield.
+
+**Other Work:**
+
+The former depot is being addressed through different types of investigations and cleanup actions (removal and remedial). SEDA’s Local Reuse Authority (LRA), the Seneca County Industrial Development Agency (IDA) has determined that parts of the site property will be used for wildlife conservation and recreation as well as industrial uses and warehousing in the future.
+
+  
+**Areas with ongoing activity include:**
+
+**Ash Landfill:** The removal and in-place thermal treatment of 35,000 tons of contaminated soil finished in June 1995. The groundwater is contaminated with volatile organic compounds (VOCs), including trichloroethylene (TCE), 1,2-dichloroethene and vinyl chloride. In December 1998, an interceptor trench was installed and groundwater monitoring wells were placed upgradient, downgradient and on the wall as part of a treatability study. As a result, the Army has proposed additional continuous reactive walls to remediate the VOCs in groundwater. A Record of Decision (ROD) was signed in January 2005. The reactive material of the treatment walls is mulch. Construction of the remedy finished in 2008 and long term monitoring is ongoing.
+
+**Open Detonation (OD) Grounds:** See Announcements and Key Topics Section for latest status.
+
+The Army revised the Feasibility Study (FS) for this site a number of times in response to regulatory agency comments. The FS evaluated several potential alternatives for remediation of the site. The final FS was approved by EPA and NYSDEC in 2022. A Site Characterization Study to update the understanding of chemical contamination in groundwater, surface water and sediment was conducted in 2020 and 2021, and a report finalized in 2022 after review and comment by the regulatory agencies.
+
+The Army previously conducted a limited remedial investigation of the OD Grounds in December 2001. Unexploded ordinance material was removed from the site during several previous response actions. Several additional investigations have also been conducted since 2001. The Proposed Plan for the OD Groounds was finalized and released for public comment on September 27, 2024. An in-person public meeting for the Propsoed Plan will be held on October 9, 2024. Signing of the Record of Decision (ROD) is not expected until 2025. The ROD will select the final remedial action for the OD Grounds. This is the last currently planned ROD for Seneca Army Depot other than a possible ROD for PFAS.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+There are activity and use limitations for many sites at the Base as a result of RODs and property transfer documents / deeds.
+
+### Enforcement Information
+
+A Federal Facility Agreement (FFA) signed between the Army, EPA and NYSDEC governs investigation and cleanup at the site. The Army is the lead agency and oversight is conducted by EPA, NYSDEC, and NYSDOH.

@@ -1,2 +1,40 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 113-acre Yard is located six miles southeast of downtown Baltimore, Maryland. The Yard was established in 1899 as a Coast Guard training academy and boat repair facility. By 1910 the Yard had become a fully operational shipbuilding and repair facility. The Yard currently provides support for the U.S. Coast Guard, including the design, construction and repair of ships and boats. Previous site activities included operation of an on-site incinerator, manufacturing operations, and ship repair and maintenance. These activities contaminated soil, sediment, and groundwater (GW) with hazardous chemicals including semi-volatile organic compounds, volatile organic compounds, metals, polychlorinated biphenyls, and pesticides.
+
+The Site was added to the Superfund program's National Priorities List (NPL) in September 2002.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed through federal actions. A September 2008 Federal Facilities Agreement (FFA) between EPA and the Yard identified areas for investigation and possible cleanup. The FFA provides the framework and a schedule to accomplish this work. Currently, there are six operable units (OU) being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for five operable units:
+
+- **OU1: Type - Soil & Groundwater**
+	- Remedy: No Further Action (following post- removal action evaluation).
+- **OU2: Type - Soil & Groundwater**
+- **OU3: Type - Sediment & Surface Water**
+	- Remedy: No Further Action
+- **OU4: Type - Soil & Sediment**
+	- Remedy: Sediment – No Further Action (following post- removal action evaluation).
+	- Remedy: Soil – Five Year Reviews, Land Use Controls (LUCs) to prohibit a change from current industrial building use to residential uses such as: residence, childcare facility, elementary school, secondary school, or playground facility. Prohibit future excavation or development within the footprints of Buildings 25 and 26 and under portions of Waesche Avenue and prohibit activities that would compromise the integrity of the envelopes of Buildings 25 and 26 without further evaluation.
+- **OU5: Type – Soil**
+	- Remedy: No Further Action (following post- removal action evaluation)
+
+A full list of operable units can be viewed under the Operable Units section.
+
+### What Is the Current Site Status?
+
+The site is considered construction complete since August 2013. The remedy at one Operable Unit requires long-term monitoring of groundwater and the remedy at two operable units requires Land Use Controls. There is currently one Operable Unit under investigation which may require a remedy at the site.
+
+The Coast Guard has the lead role for cleaning up the Yard.
+
+Per the Federal Facilities Agreement between EPA and the Yard, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. The FY2024-FY2028 SMP is currently being updated to final and a link will be provided when it is finalized.
+
+A full list of activities per each operable unit can be found under the Cleanup Progress section.
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent Five-Year Review period ended in [2023](https://semspub.epa.gov/src/document/03/2408611). The next five-year review is scheduled for 2028 and will be posted when it is complete.
+
+### Emergency Response and Removal
+
+Cleanup has also included several removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions included excavating contaminated soil; backfilling, regrading and reseeding excavated areas; and dredging contaminated sediment.

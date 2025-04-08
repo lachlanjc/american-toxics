@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Camp Pendleton Marine Corps Base site covers 125,000 acres in San Diego County, California. The base provides housing, training, logistical and administrative support for the Fleet Marine Force units. Past disposal practices have contaminated the groundwater and soil. In an initial investigation, the Marine Corps found nine areas of contamination. Waste generation operations include maintenance and repair of vehicles (trucks, tanks and aircraft), landfill operations, waste disposal areas such as scrap yards, and firefighting drill areas. The base contains wetlands, streams and rivers that feed into the Pacific Ocean. This land is the only remaining undeveloped area between Los Angeles and San Diego. The site’s long-term cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+*Group A (OU-1):* The long-term remedy included institutional controls and monitoring for Site 9. No further action for other sites.
+
+*Group B (OU-2):* Landfills, Surface Impoundments and Groundwater: The long-term remedy included deferral of groundwater sites to OU-4 and the Site 7 landfill was included as part of OU-3. The landfill is capped as part of the OU-3 remedial action.
+
+*Group C (OU-3):* Other Soils and Groundwater: The long-term remedy included excavation and disposal of contaminated soils at an on-base landfill designated as a Corrective Action Management Unit (CAMU). The remedial action finished in 2002. A methane capture system is under development. The site has also been chosen as the location for a solar panel array to generate energy for several on-base projects, including powering the methane recovery system. A remedy update in 2008 covered the work.
+
+*OU-4:* Remaining Areas: Soils removal has begun and several sites have been cleaned.
+
+*OU-5:* Sites 1D, 1A1, 21, 1111, 6A and 13: The OU is made up of sites that required a greater level of cleanup funding than previously proposed or were uncompleted when Site 7 was prematurely closed. Soils removal is ongoing. The Navy is updating the remedy to address unexpected groundwater encountered at Site 1-D.  
+
+### What Is the Current Site Status?
+
+The site is being addressed in four long-term remedial phases focusing on cleanup of soils; landfills, surface impoundments and groundwater; other soils and groundwater; and remaining areas.
+
+In December 1995, 14,000 cubic yards of soil containing trichloroethane (TCE) and Total Petroleum Hydrocarbons (TPH) was removed from a former fire-fighting drill field. The TPH-contaminated soil was treated through bioremediation. The TCE-contaminated soil was removed and disposed of at an off-site landfill.
+
+In January 1997, 12,000 cubic yards of soil containing organochlorine pesticides was removed from a former pesticide disposal area – Site 3. The soil was stabilized at an on-site treatment facility and disposed of at an on-site landfill. Thirty-two 55-gallon drums of material containing pesticide and medical waste were also removed and disposed of off site.
+
+Also in January 1997, 25,000 cubic yards of soil containing pesticides, metals and PAHs was removed from Site 6 and stabilized at an on-site treatment facility and disposed of at an on-site landfill.
+
+In 2002, the Marine Corps completed construction of a landfill cap for a 28-acre class III landfill that operated from 1946 to 1970.
+
+In February 2007, Site 1111 was excavated to remove drums containing pesticides and solvents. Groundwater was removed from the excavation, treated on site and removed from the facility. The excavation was continued until all soils were clean. Four new monitoring wells were installed and will be monitored to assess if further groundwater remediation is necessary.  
+
+The site’s most recent Five-Year Review concluded that remedies that have not yet been completed, but are still in the construction phase for IR Sites 1A (OU3), 1D and 30 (OU4), and 1A-1 and 1H (OU5), are expected to be protective upon completion. In the interim, exposure pathways that could result in unacceptable risks are being managed. The remedy for IR Site 7 was found to be protective of both human health and the environment. However, methane levels in compliance gas monitoring probe GP-9 continue to be near the 5 percent by-volume state criterion.

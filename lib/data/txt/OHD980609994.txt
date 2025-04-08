@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+This 11.5-acre site is located on a former coal strip mine containing a coal wash pond and stockpile. From 1974 to 1978, the site was used as a waste disposal facility for oil, resin, paint and metal plating sludge, and flammable and chlorinated solvents. Wastes were stored in underground storage tanks, 55-gallon drums, and in an open pit. Two surface water ponds and an incinerator were also located on-site. Some waste was incinerated and some was buried or dumped on the soil. The groundwater, soil, surface water, and sediments were contaminated with polychlorinated biphenyls, or PCBs, volatile organic compounds, phenols, phthalates, and heavy metals. The site was listed in the Superfund National Priorities List in September of 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The cleanup remedy for the site was delineated in a June 30, 1988 Record of Decision. The cleanup plan was later modified by the November 2, 1990 ROD Amendment, and the March 23, 1992 Explanation of Significant Differences (ESD). The cleanup construction activities at the site were performed in five phases from June 1993 to August 1995.
+
+The final cleanup included removing over 17,000 drums and tanks from the site for off-site disposal and excavating 18,600 tons of contaminated soil for on-site thermal treatment. The treated soil was tested, retreated if needed, backfilled onto the site, covered by 2-foot soil cover, and then revegetated. Regular groundwater monitoring over the last 16 years confirms that groundwater contaminants are not moving off-site above the drinking water standards.
+
+### What Is the Current Site Status?
+
+On August 17, 2022, U.S. EPA removed the land/soil portion of the Summit National site from the NPL after determining that the soil cleanup was complete, and no further action was necessary other than continued operation and maintenance, monitoring, and five-year reviews. The groundwater portion of the site is undergoing a long-term cleanup and remains on the NPL along with the surface water and sediments that shallow groundwater may discharge to.
+
+U.S. EPA continues to perform five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The federal agency completed the [sixth five-year review (pdf)](https://semspub.epa.gov/work/05/981745.pdf) (138pp, 6.03MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the site in July 2023.
+
+The review concluded that the remedy at the site continues to be protective of human health and the environment. However, for the remedy to be effective in the long-term the following actions are needed:
+
+- Samples should be collected and analyzed for PFAS and 1,4-Dioxane in the next groundwater sampling event to determine if they are present and site-related.
+- Further investigation into the hydrogeological connection between groundwater and surface water is required to determine whether site-related contaminants are being transported into the water body.
+- U.S. EPA needs to evaluate whether a decision document is needed to update the groundwater cleanup standards, and if so, complete one.
+
+### Emergency Response and Removal
+
+Cleanup at the site also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1980, the State of Ohio and eight waste generators reached an agreement that provided $2.5 million for a surface cleanup at the Site. The cleanup was conducted from 1981 to 1982 and included the removal of drums, tanks, surface debris, and soil. The surface cleanup removed a significant amount of the source of the contamination at the site but did not include any subsurface investigations or cleanup. In 1987, EPA responded to an emergency involving overflows of the east site pond onto an adjacent residential property. EPA’s response included the excavation and disposal of a buried tank located north of the site incinerator.

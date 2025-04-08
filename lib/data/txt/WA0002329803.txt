@@ -1,3 +1,133 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The Lower Duwamish Waterway (LDW) Superfund site is a five mile segment of Seattle’s only river, the Duwamish. The river flows between the neighborhoods Georgetown and South Park and through the industrial core of Seattle into Elliott Bay. The LDW has served as Seattle’s major industrial corridor since the early 1900s. This has caused the Waterway’s sediments (river bottom) to be contaminated with toxic chemicals from many sources, ranging from stormwater runoff, wastewater, and industrial practices. While environmental regulation and cleanup of older infrastructure, soils, sediments, and groundwater have helped reduce pollution sources, legacy contamination and ongoing sources continue to impact people and the environment. There are many chemical contaminants in LDW sediment, fish and shellfish. Most of the human health risk comes from polychlorinated biphenyls (PCBs), arsenic, carcinogenic polycyclic aromatic hydrocarbons (cPAHs), as well as dioxins and furans. As a result, consumption of resident fish and shellfish, as well as contact with contaminated sediments, pose a risk to human health. The Washington Department of Health issued a fish advisory recommending no one eat crab, shellfish and fish (except salmon) from the Lower Duwamish Waterway. Salmon (except blackmouth salmon) are the healthiest choice because they spend a short time in the Duwamish River.
+
+The EPA declared the Lower Duwamish Waterway a “Superfund” site in 2001, meaning it was eligible for a special federal cleanup program due to the severity of its contamination. The EPA is responsible for administering the cleanup of sediments in the Waterway, and the Department of Ecology is responsible for controlling sources of pollution to the Waterway. The City of Seattle, King County, the Port of Seattle, and the Boeing Company joined together as the Lower Duwamish Waterway Group (LDWG). As a group, LDWG stepped forward to complete a comprehensive study, called a Remedial Investigation (RI). LDWG maintains a [website](http://ldwg.org/) with EPA-approved project documents. The remedial investigation identified some of the most contaminated areas where they could start early cleanups, called Early Action Areas (EAAs). Several EAAs were selected for action by the EPA and Ecology. By the end of 2015, 50 percent of PCB contamination in the river bottom was removed through these early action cleanups, including:
+
+- [Norfolk Combined Sewer Overflow (CSO)/Storm Drain (SD)](https://www.kingcounty.gov/services/environment/wastewater/sediment-management/projects/Norfolk.aspx)
+- [Duwamish/Diagonal CSO/SD](https://www.kingcounty.gov/services/environment/wastewater/sediment-management/projects/DuDi.aspx)
+- [Slip 4](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=1002020&doc=Y&colid=30683&region=10&type=SC)
+- Terminal 117 (T-117)
+- [Boeing Plant 2](https://www.epa.gov/hwcorrectiveactioncleanups/epa-rcra-id-wad009256819)
+- [Jorgensen Forge](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=1002020#EMJ)
+
+In 2014, the EPA published a [final cleanup plan](https://semspub.epa.gov/src/document/10/715975), also known as a [Record Of Decision (ROD)](https://semspub.epa.gov/src/document/10/715975) for the remaining sediment cleanup. The ROD is the EPA’s cleanup plan to reduce risks to people’s health and the environment from toxic chemicals in the river. The plan includes details of the cleanup of about 177 acres in the waterway. Cleanup will involve dredging, capping, and natural sedimentation. The cleanup will cost an estimated $342 million.
+
+### What Is the Current Site Status?
+
+The EPA is the lead agency for the in-waterway cleanup. The LDW was designated a Superfund site by the EPA in 2001. The LDW Superfund site encompasses upland sources of contamination as well as contamination within the waterway. The Washington Department of Ecology (Ecology) is the lead agency for control of upland sources ("source control").
+
+The site is being addressed through potentially responsible party (PRP) actions with EPA and state oversight. Like other complex Superfund sites, the Lower Duwamish Waterway (LDW) Superfund site is a multi-phased process. Since LDW became a Superfund site in 2001, five Early Action Area (EAA) cleanups have focused on sediment hotspots (areas of highly contaminated mud on the river bottom). The EAAs were predicted to reduce average PCB levels across the waterway by 50%. In 2014, EPA completed the study of the overall site and published a [final cleanup plan (Record of Decision)](https://semspub.epa.gov/src/document/10/715975) for remaining contaminated sediments. Please see the 2015 memo with corrections to ROD figures and tables and [the 2021 Explanation of Significant Differences documenting changes](https://semspub.epa.gov/src/document/10/100353876) to the ROD remedial action levels, cleanup levels, and target tissue levels for carcinogenic PAHs.
+
+Two years of “baseline” sampling of sediment, water, and seafood were completed in 2017 and 2018. Sampling results show average levels in sediment of the four main contaminants for human health have improved. Reduced pollution levels were expected, due to early action area cleanups, ongoing reductions in on-shore pollution sources, and cleaner sediment from the Green River settling in parts of the waterway. The [baseline sampling report is available online.](https://ldwg.org/wp-content/uploads/2020/06/LDW-Data-Evaluation-Report_toEPA_06-26-20.pdf)
+
+EPA is overseeing the design of the cleanup plan for the southernmost two miles (the “upper reach”) of the waterway and, separately, the approximately 1.5 mile middle reach. Pre-design investigations include sampling of upper reach sediments in 2020 and 2021, followed by preparation of engineering design documents in 2022 and 2023. Contracting and construction planning is likely to be done in time to start cleanup of this reach in fall 2024 or 2025. Pre-design investigations in the middle reach are planned for 2022 and 2023.
+
+Over the coming years, EPA expects PRPs (parties potentially responsible for cleanup costs) to design and construct the remaining sediment cleanup and to monitor and maintain the site over time. As cleanup and source control continue, testing will be repeated to assess progress towards long-term cleanup goals.
+
+**Fishing in the Duwamish**
+
+Many people enjoy fishing on the Duwamish River. However, the resident seafood that live in the river year-round are not safe to eat. To get a better idea of who fishes on the river and their fishing practices, EPA completed the [Fishers Study](https://semspub.epa.gov/src/document/10/100036528) in 2016. Some of the key findings from the Study were:
+
+- Fishing is an important activity for the wellbeing of fishers and creates a sense of community
+- Fishers on the Duwamish are very diverse, represented more than 20 ethnic/language groups
+- Fishers continue to consume and share their catch, including resident fish, crab and shellfish
+- The advisory information is hard to understand, and signs are not entirely effective in promoting safe fish consumption
+
+Promoting healthy fish consumption must connect with the local fishing culture. Rather than asking “why don’t fishers follow the advisory?” the question should be reframed as “how do we meet the needs of the fishers to promote healthy fish consumption?”
+
+In January 2017, EPA entered into a Cooperative Agreement (CA) with Public Health Seattle-King County to establish a community-based [Healthy Seafood Consumption Institutional Control (IC) Program](https://www.kingcounty.gov/depts/health/environmental-health/healthy-communities/duwamish-fishing.aspx) for the LDW Superfund Site. The CA establishes a community-based participatory process to develop culturally-appropriate IC tools that can be implemented throughout the cleanup of the LDW Superfund Site. The program promotes healthy seafood consumption before, during, and after the cleanup.
+
+**Learn more about fishing on the Duwamish at the ["Fun to Fish / Toxic to Eat” website](https://www.kingcounty.gov/depts/health/environmental-health/healthy-communities/duwamish-fishing.aspx)!**
+
+The Community Health Advocates with the EPA/Public Health Seattle King County safe seafood consumption program assisted in the design of Public Health’s new program website. The website targets fishing families, including children, and is available in [Khmer](https://www.kingcounty.gov/depts/health/environmental-health/healthy-communities/duwamish-fishing/khmer.aspx), [Spanish](https://www.kingcounty.gov/depts/health/environmental-health/healthy-communities/duwamish-fishing/spanish.aspx), and [Vietnamese](https://www.kingcounty.gov/depts/health/environmental-health/healthy-communities/duwamish-fishing/vietnamese.aspx).
+
+On this website, you can find the latest “Go Fishing in King County” Brochure that was co-designed with the fisher CHAs; the brochure is a tool to identify fishing sites that overlays fishing rules with health advisory information. You can also see the CHAs’ recipe cards for traditional ethnic fish meals featuring salmon as the healthier LDW fish choice. Digital short stories by the CHAs can be viewed on the website.
+
+More information on fishing in the Duwamish can be found in the documents linked below:
+
+- [Fishers Study Final Report (PDF)](https://semspub.epa.gov/src/document/10/100036528) - in English (181 pp, 6.87 MB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: English (PDF)](https://semspub.epa.gov/src/document/10/100046881) (2 pp, 1.87 MB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Spanish/en español](https://semspub.epa.gov/src/document/10/100046887) (PDF) (2 pp, 1.61 MB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Vietnamese (PDF)](https://semspub.epa.gov/src/document/10/100045848) (2 pp, 1.23 MB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Tagalog (PDF)](https://semspub.epa.gov/src/document/10/100045831) (2 pp, 1.24 MB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Lao (PDF)](https://semspub.epa.gov/src/document/10/100045850) (2 pp, 614.06 KB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Khmer (PDF)](https://semspub.epa.gov/src/document/10/100045849) (2 pp, 747.3 KB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Korean (PDF)](https://semspub.epa.gov/src/document/10/100045834) (2 pp, 1.28 MB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Chinese (PDF)](https://semspub.epa.gov/src/document/10/100045833) (2 pp, 1.19 MB)
+- [Fact Sheet about Fishers Study Final Report and Next Steps: Russian (PDF)](https://semspub.epa.gov/src/document/10/100045832) (2 pp, 617.75 KB)
+
+**Early Action Area cleanups**
+
+The following Early Action Area, or EAA cleanups, have been completed or are near completion, as noted below::
+
+- **[Norfolk CSO](https://www.kingcounty.gov/services/environment/wastewater/sediment-management/projects/Norfolk.aspx)** - Sediment cleanup project around the Norfolk Combined Sewer Overflow (CSO) near the south end of Boeing Field was completed in 1999 by King County's Sediment Management Program.
+- **[Duwamish Diagonal](https://www.kingcounty.gov/services/environment/wastewater/sediment-management/projects/DuDi.aspx)** - Sediment cleanup project just upstream from Harbor Island was completed in 2005 by King County's Sediment Management Program
+- [**Slip 4**](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=1002020&doc=Y&colid=30683&region=10&type=SC) - This site is located on the east side of the waterway, just north of the Boeing Plant 2 site. The City of Seattle dredged and removed contaminated sediments, including the eroding banks, and placed engineered caps of clean sand and gravel over the remaining sediments. Cleanup was completed in 2012. Overall, the cleanup resulted in a net gain of over an acre of shallow and riparian habitat for threatened Puget Sound Chinook and Coastal/Puget Sound bull trout.
+- **Terminal 117** - This site is in Seattle’s South Park neighborhood, between 14th Avenue South, Dallas Avenue South, and South Donovan Street. The uplands and off-shore sediments of Terminal 117 (T-117) and some streets and yards near the terminal were primarily contaminated with PCBs. EPA issued a cleanup plan for the T-117 site in 2010. The Port of Seattle and City of Seattle did the cleanup work, which replaced soil and sediment and updated the storm drainage system, from 2012 to 2015. Final site modifications, including permanent stormwater controls and regrading the Dallas and Donovan streets, were completed in 2017. In addition to routine stormwater monitoring and inspections at this completed site, sediment samples were collected in 2019 to assess whether conditions have changed since cleanup was completed in 2015. The results meet the T-117 cleanup levels except at a location where a thick sediment layer has accumulated on top of the cleanup. Sampling is planned again in March 2021.
+	In 2020, the Port started construction of a habitat restoration and public access project. The 2020 restoration work is focused on the shoreline south of T-117. In fall 2021, the project will restore habitat in the T-117 area. Together these areas are called the Duwamish River People’s Park and Habitat.
+	- More information on this EAA is available at [www.T117.com](http://www.t117.com)
+- **[Boeing Plant 2](https://www.epa.gov/hwcorrectiveactionsites/hazardous-waste-cleanup-boeing-plant-2-tukwila-washington):** This site is located on the east bank of the Duwamish Waterway at 7755 East Marginal Way South in Seattle and Tukwila. While Ecology is overseeing upland cleanup studies, EPA has been overseeing the EAA sediment cleanup. In 2015, Boeing completed its early action area cleanup to dredge and remove contaminated sediments in the waterway next to the Plant 2 site. Over the course of three construction seasons, Boeing transformed nearly one mile of former industrial waterfront into an award-winning new habitat area. Boeing continues to monitor the quality of the mud, or sediment, at the site.
+- **Jorgensen Forge (EMJ)** is a steel and aluminum forging and distribution facility on the banks of the Lower Duwamish Waterway. It is located at 8531 East Marginal Way South in Tukwila. The riverbanks and sediments next to the facility are contaminated with toxic metals and PCBs that may pose a risk to people’s health and to the environment. The Earle M. Jorgensen company removed some of the contaminated riverbanks and sediments in 2014, but they left some of the pollution in place. EMJ has submitted an Engineering Evaluation/Cost Analysis to EPA that describes what additional actions can be taken at the EAA. EPA is holding a public comment period on those options.  
+	Cleanup of the Jorgensen Forge facility that is located above the riverbank, in the upland area, is being led by the Washington Department of Ecology. [You can learn more about Ecology’s source control work on their website.](https://fortress.wa.gov/ecy/gsp/Sitepage.aspx?csid=3689)
+
+In addition, EPA is overseeing cleanup at the following contaminated sites in the Duwamish area:
+
+- **Rhone-Poulenc** (also currently known as Container Properties) - This site is located at 9229 East Marginal Way South in Tukwila. The eastern half of the site has been cleaned up and is now owned by the Museum of Flight. Toluene, metals, and high pH affect groundwater and soil throughout parts of the western half of the site, known as the West Parcel, and PCBs affect sediments in the tideflats. A groundwater pump-and-treat system with a barrier wall currently contains much of the soil and groundwater contamination at the West Parcel. EPA reviewed the final report from the pilot study of injecting carbon dioxide into the groundwater to lower pH. The onsite study was successful, and the report is a compilation of the data and results from the study. EPA will use this information in the upcoming Corrective Measures Study. EPA is also finishing up an update to the preliminary cleanup levels.  
+	More information about this cleanup can be found on the [Rhone-Poulenc webpage](https://www.epa.gov/hwcorrectiveactionsites/hazardous-waste-cleanup-former-rhone-poulenc-facility-tukwila-washington).
+- [**Boeing Plant 2**](https://www.epa.gov/hwcorrectiveactioncleanups/epa-rcra-id-wad009256819): As noted above, this site is located on the east bank of the Duwamish Waterway at 7755 East Marginal Way South in Seattle and Tukwila. Boeing has completed the majority of interim soil cleanups and installed stormwater treatment systems to control contaminants from entering the waterway. The upland area is the last part to be cleaned up at this facility. With EPA oversight, Boeing finalized the Corrective Measures Study, where they looked at a range of alternatives to clean up the upland area and evaluate the advantages and disadvantages of each option. EPA used this study to develop its Statement of Basis, which is its proposed cleanup plan for the site. The EPA received public comment on the draft Statement of Basis in early summer 2019. EPA is currently developing its response to comments from the Statement of Basis, as well as its final corrective action decision for the cleanup of this site.
+- **Boeing Electronics Manufacturing Facility** (EMF) - This site is located at 7755 East Marginal Way in Seattle. The groundwater beneath the site was contaminated with trichloroethene (TCE), which breaks down to vinyl chloride and other chlorinated volatile organic compounds (VOCs). Groundwater treatment pilot testing has been ongoing since 1997. Boeing continues to voluntarily implement enhanced reductive dechlorination to treat solvents in groundwater.
+	- [Boeing EMF Documents](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=1002020&doc=Y&colid=33861&region=10&type=SC)
+- **Jorgensen Forge Outfall** \- This is a portion of the Jorgensen Forge site located at 8531 East Marginal Way South in Seattle. An underground pipe and outfall ran along the property line adjacent to Boeing Plant 2. The pipe, outfall, and dirt below the pipe were contaminated with PCBs. The pipe and contaminated dirt were excavated in phases, in 2015 and 2017. Cleanup of this site was completed in 2017. Land use restrictions will address remaining contamination left in place.
+- **Terminal 108** - This site is located at 4525 Diagonal Avenue S in Seattle. The property was used in the past for sewage treatment ponds associated with a wastewater treatment plant and various industrial operations. The Port of Seattle conducted a Preliminary Assessment Report for the site. In May 2020, the Port of Seattle, City of Seattle, and King County agreed to perform an Engineering Evaluation and Cost Analysis (EE/CA) for the site. The EE/CA will study site conditions and, if necessary, develop cleanup options. Once a contractor has been selected, they will develop a work plan for the project. Field investigations are expected to start in 2021 and take about two years.
+
+The Washington Department of Ecology is overseeing studies and cleanup at numerous upland sites in the Duwamish Valley, part of an overall strategy for controlling pollution sources to the LDW. The 2016 update to Ecology's Source Control Strategy can be viewed here: [https://ecology.wa.gov/Spills-Cleanup/Contamination-cleanup/Cleanup-sites/Lower-Duwamish-Waterway/Source-control](https://ecology.wa.gov/Spills-Cleanup/Contamination-cleanup/Cleanup-sites/Lower-Duwamish-Waterway/Source-control)
+
+- [Source Control](https://ecology.wa.gov/Spills-Cleanup/Contamination-cleanup/Cleanup-sites/Toxic-cleanup-sites/Lower-Duwamish-Waterway/Source-control) - When the sources of pollution are sufficiently controlled, recontamination of the sediments above a Remedial Action Level (RAL) is minimized. EPA and Ecology are coordinating to ensure that EPA's in-waterway cleanup of the river sediments starts only after source control is sufficient.  
+	For more information on Ecology’s work in the LDW, please visit:
+	[https://www.ecy.wa.gov/Spills-Cleanup/Contamination-cleanup/Cleanup-sites/Toxic-cleanup-sites/Lower-Duwamish-Waterway](https://www.ecy.wa.gov/Spills-Cleanup/Contamination-cleanup/Cleanup-sites/Toxic-cleanup-sites/Lower-Duwamish-Waterway)
+- [Green-Duwamish Watershed Pollutant Loading Assessment](https://ecology.wa.gov/Water-Shorelines/Water-quality/Water-improvement/Total-Maximum-Daily-Load-process/Directory-of-improvement-projects/Green-Duwamish-Watershed-PLA) will identify sources of pollution in the Green-Duwamish watershed and strategies to reduce those sources. Ecology is partnering with the U.S. Environmental Protection Agency (EPA) to conduct this multi-year project.
+
+The EPA cleanup work detailed above complements the work of state, county and city agencies to improve the health of the Green/Duwamish watershed. All of these actions together will remove over 90 percent of contamination in the waterway.
+
+**Key Site Documents**
+
+- [Record of Decision Errata Correction Memo (PDF)](https://semspub.epa.gov/src/document/10/722724) (12 pp, 355K) - August 2015
+- [Final Record of Decision (PDF)](https://semspub.epa.gov/src/document/10/715975) (181 pp, 7.3MB) - November 2014
+- [Response to Public Comments on EPA's Proposed Plan (PDF)](https://semspub.epa.gov/src/document/10/715977) (164 pp, 2.5MB) - November 2014
+- [Memorandum of Agreement Between EPA and Ecology (PDF)](https://semspub.epa.gov/src/document/10/715862) (5 pp, 382K) - November 20, 2014
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Most of the human health risk comes from polychlorinated biphenyls (PCBs), arsenic, carcinogenic polycyclic aromatic hydrocarbons (cPAHs), as well as dioxins and furans. As a result, consumption of resident fish and shellfish, as well as contact with contaminated sediments, pose a risk to human health.
+
+Fish are nutritious and good for your health. Many people enjoy fishing on the Duwamish River. Unfortunately, the river has harmful chemicals, such as PCBs, that can cause health problems in humans. You cannot see these chemicals in the fish. They get into fish, shellfish and crab that spend their entire lives in the river (“resident fish”). The Washington State Department of Health recommends salmon as the healthiest choice to eat because they spend a short time in the river.
+
+**For more information about fishing in the Duwamish River, visit Public Health - Seattle & King County's " [Fun to Catch, Toxic to Eat Program](https://www.kingcounty.gov/depts/health/environmental-health/healthy-communities/duwamish-fishing.aspx) ” webpage.**
+
+### Sampling and Monitoring
+
+In 2017 and 2018, testing of sediment, water, and seafood was done to establish new baseline conditions. Over the coming years, EPA expects PRPs (parties potentially responsible for cleanup costs) to design and construct the remaining sediment cleanup and to monitor and maintain the site over time. As cleanup and source control continue, testing will be repeated to assess progress towards long-term cleanup goals.
+
+### Enforcement Information
+
+**Who Pays for the Cleanup?**
+
+The EPA's policy is to have the polluters pay for cleaning up pollution they created. Since pollution has been entering the Duwamish River for over 100 years from many different sources, it can be difficult to determine who should pay for the cleanup.
+
+**Lower Duwamish Waterway Group**  - Early on, four organizations have stepped forward to perform the Remedial Investigation and Feasibility Study: City of Seattle, King County, Port of Seattle, and the Boeing Company, collectively known as the  [Lower Duwamish Waterway Group](http://www.ldwg.org/) These parties have since agreed to four additional work elements, under a series of amendments to the original administrative order on consent (AOC), including the Fishers Study, the carbon amendment pilot study, post-ROD baseline sampling, and the design of the cleanup for the upper reach of the LDW.
+
+**General Notice Letters** - General notice letters inform recipients that they are identified as "potentially responsible parties" at Superfund sites, that they may be liable for cleanup costs at the site, and explain the process for negotiating the cleanup with the EPA.
+
+- [List of General Notice Letter recipients (PDF)](https://semspub.epa.gov/src/document/10/500010600) (3 pp, 81K) - December 2013
+- [More about Notice of Liability Letters](http://www2.epa.gov/enforcement/superfund-notice-liability-letters)
+
+**Information Collection Requests** - To help us learn more about known or suspected releases of contamination, we're continuing to send Superfund Information Collection Requests (also called "CERCLA 104e letters") to current and former property owners near the site.
+
+- [List of Information Collection Request recipients (PDF)](https://semspub.epa.gov/src/document/10/500010597) (9 pp, 67K) - November 2012
+- [Fact Sheet: Information on 104(e) and General Notice Letters](https://semspub.epa.gov/src/document/10/500010599) (1 pg, 1 MB)
+- [More about Information Collection Request letters](http://www2.epa.gov/enforcement/superfund-information-request-letters)

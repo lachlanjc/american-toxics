@@ -1,2 +1,70 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The North Ridge Estates Superfund Site is a residential subdivision located three miles north of Klamath Falls, Oregon.
+
+The site is contaminated with asbestos as a result of the improper demolition of approximately eighty 1940s-era military barracks buildings. North Ridge Estates was added to the National Priorities List in 2011 after annual efforts to remove contamination were not effective for long-term protection of human health.
+
+Asbestos-containing materials and soil were removed from the old military barracks site during three seasons of cleanup from 2016-2018. Beginning in 2016, EPA and Oregon DEQ excavated and removed about 360,000 cubic yards of asbestos-containing materials and contaminated soils across the 144-acre site. The cleanup has returned the site to productive use as a residential neighborhood, protecting current and future residents and the Klamath Falls community from harmful asbestos contamination.
+
+Long-term management of the site will be transferred to Oregon DEQ and will include land use restrictions to prevent disturbance of the cover and prevent potential exposure to any remaining asbestos.
+
+EPA will be conducting a limited removal action at Operable Unit 2 of the North Ridge Estates site in June 2024. The removal action is in the area formerly known as the Kingsley Firing Range. The removal action will consist of excavation and off-site disposal of contaminated soils within a portion of the site and related dust suppression activities. The area is contaminated by heavy metals when it was used as a firing range. This contamination was identified during EPA’s remedial investigation of the site. This is the only portion of the site that has been identified to have contamination above residential cleanup levels.
+
+**Fact Sheets and Presentations:**
+
+- [Public Meeting: Season 3 Site Update Presentation (PDF)](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=1002476&doc=Y&colid=30529&region=10&type=SC) (30pp, 1.6MB) - March 2018
+- [What to expect during construction (PDF)](https://semspub.epa.gov/src/document/10/100025870) (2pp, 1.3MB) - June 2016
+- [Project overview (PDF)](https://semspub.epa.gov/src/document/10/100021231) (1p, 1.2 MB) - June 2016
+- [Asbestos and frost heave (PDF)](https://semspub.epa.gov/src/document/10/100021229) (2pp, 7.3MB) - May 2016
+- [Frequently asked questions (PDF)](https://semspub.epa.gov/src/document/10/100021232) (3pp, 1.3MB) - May 2016
+- [Looking ahead - Restoration (PDF)](https://semspub.epa.gov/src/document/10/100021233) (2pp, 3MB) - May 2016
+- [Site history (PDF)](https://semspub.epa.gov/src/document/10/100021234) (1p, 1.3MB) - May 2016
+
+**Key Documents:**
+
+- [Basis of Design Report without appendices (PDF)](https://semspub.epa.gov/src/document/10/100023067) (125pp, 48MB) - December 2015
+- [Basis of Design Report with appendices (PDF)](https://semspub.epa.gov/src/document/10/100023068) (1,326pp, 305MB) December 2015
+- [Record of Decision (PDF)](https://semspub.epa.gov/src/document/10/100023080) (220pp, 13MB) - September 2011
+- [Proposed Plan for North Ridge Estates (PDF)](https://semspub.epa.gov/src/document/10/100023077) (23pp, 9MB) - April 2010
+- [Final Feasibility Study Report (PDF)](https://semspub.epa.gov/src/document/10/100023075) (523pp, 17MB) - March 2010
+- [Final Remedial Investigation Report (PDF)](https://semspub.epa.gov/src/document/10/100023066) (531pp, 28.5MB) - January 2010
+
+### What Has Been Done to Clean Up the Site?
+
+EPA first responded to the site in 2003, at the request of DEQ. Investigations found widespread asbestos contamination at the site because of improper demolition of the former buildings. Starting in 2003, EPA conducted several cleanup operations at the surface to remove asbestos-containing materials and contaminated soil. Unfortunately, annual winter frost heave continued to force asbestos to the surface. EPA determined that a more permanent remedy was needed.
+
+In 2006, the North Ridge Estates developer, homeowners, the U.S. Department of Justice and EPA negotiated a settlement to permanently relocate and compensate most subdivision residents. The settlement also provided for a receiver to manage and hold title to the properties as a potential resource for funding cleanup activities.
+
+In 2011, EPA added the site to the Superfund National Priorities List and selected a long-term remedy. The remedy included excavation and consolidation of asbestos-contaminated materials in on-site repositories, engineered controls to prohibit future digging below the excavation, and placement of caps and clean fill over excavated areas.
+
+Over three construction seasons from 2016 to 2018, EPA removed 360,000 cubic yards of asbestos-contaminated materials and restored approximately 40 properties. As part of this work, EPA replaced home septic systems, home decks and driveways, planted over 1,000 trees and shrubs, and resurfaced two roads.
+
+Additional contamination at the nearby Kingsley Firing Range, also part of the site, will be investigated and completed at a later time.
+
+### What Is the Current Site Status?
+
+EPA’s removal and cleanup of asbestos-contaminated materials at the site was completed in 2018. The cleanup has returned the site to productive use as a residential neighborhood, protecting current and future residents from harmful asbestos contamination.
+
+Following the cleanup, EPA will monitor the site for two more years. Oregon DEQ will be responsible for operations and maintenance of the site beginning one year from cleanup completion. The 17 restored home properties at the site will be available for sale.
+
+EPA will be conducting a limited removal action at Operable Unit 2 of the North Ridge Estates site in June 2024. The removal action is in the area formerly known as the Kingsley Firing Range. The removal action will consist of excavation and off-site disposal of contaminated soils within a portion of the site and related dust suppression activities. The area is contaminated by heavy metals when it was used as a firing range. This contamination was identified during EPA’s remedial investigation of the site. This is the only portion of the site that has been identified to have contamination above residential cleanup levels.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Engineering and Institutional Controls**
+
+Engineering Controls are physical measures that help reduce or eliminate exposure to remaining contamination. Institutional Controls are legal controls that help minimize potential for exposure to contamination by restricting land use and/or by providing information. Both controls are in place at North Ridge Estates.
+
+The Engineering Control is the protective clean soil cap present over the entire neighborhood. Multiple types of materials were used as protective caps including a minimum two-foot layer of clean soil with vegetation, asphalt and concrete surfaces, large rock surfaces, and liners installed below covered porches and in crawlspaces.
+
+The Institutional Controls are easement and deed restrictions on every excavated property and notices of environmental contamination on Thicket Court properties with underground asbestos steam pipe. Property owners are required to maintain the protective caps present on their property. This includes ensuring vegetation on the soil cap is healthy and maintained to prevent erosion, drainage on the property is maintained to prevent the soil cap from eroding, asphalt and concrete surfaces are kept in good repair, and geotextile liners in crawlspaces and under porches are undisturbed. Property owners are also required to maintain any stormwater features location on the property to preserve stormwater conveyance capacity. Stormwater features include culverts, surface channels, and other miscellaneous features such as inlet structures. Property owners cannot alter, impede, or restrict the flow of stormwater conveyed by these features through the property.
+
+### Emergency Response and Removal
+
+EPA first responded to the site in 2003 at the request of Oregon Department of Environmental Quality. From 2003 to 2005, all visible asbestos was picked up to address immediate threats to human health. However, due to a process called "frost heave" when the soil freezes and thaws, new contamination surfaced each spring. EPA temporarily relocated residents during the summer of 2005 and all but a few residents were permanently relocated through a third-party settlement with the polluter in 2006. Asbestos and soil removals continued for several years, but it became clear that the extent of contamination at North Ridge Estates was far more extensive than could be addressed through the removal program.
+
+In 2011, EPA added the site to the Superfund National Priorities List and selected a long-term remedy. The remedy included excavation and consolidation of asbestos-contaminated materials in on-site repositories, engineered controls to prohibit future digging below the excavation, and placement of caps and clean fill over excavated areas. Over three construction seasons from 2016 to 2018, EPA removed 360,000 cubic yards of asbestos-contaminated materials and restored approximately 40 properties. EPA’s removal and cleanup of asbestos-contaminated materials at the site is complete.

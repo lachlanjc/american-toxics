@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 8-acre Astoria Marine Construction Company (AMCC) site is in Astoria, Oregon. The site is situated on the east bank of the Lewis and Clark River at its confluence with Jeffers Slough and includes low-lying land adjacent to tidal flats. Since 1924, a marine shipyard has operated at the site. Site activities contaminated soil, sediment and groundwater with hazardous chemicals. EPA proposed the site for listing on the Superfund program’s National Priorities List (NPL) in 2011.
+
+### What Has Been Done to Clean Up the Site?
+
+The shipyard primarily constructed wooden boats and ships, except for brief periods during World War II and the Korean Conflict, when the company constructed military vessels including minesweepers and tugs. Currently, AMCC conducts manufacturing and repair on small marine vessels. Site sources are potentially contaminating the Lewis and Clark River. Upland contamination sources include a burn area estimated at 1,900 square feet, two grit piles estimated at 1,500 and 300 square feet, and several areas of petroleum-contaminated soils estimated at 400 square feet.
+
+At this time, site cleanup activities are being conducted with oversight by the Oregon Department of Environmental Quality (ODEQ).
+
+Cleanup began in 2020. Sediment remedial areas were excavated and disposed offsite at the Hillboro, OR landfill, and a levee was restored in the former burn pit areas. The remaining cleanup will conclude in 2021 with capping of the north yard and construction of the stormwater treatment basin.
+
+Refer to ODEQ’s [site summary page](https://www.oregon.gov/deq/Hazards-and-Cleanup/CleanupSites/Pages/Astoria-Marine.aspx) or [online document repository](https://www.deq.state.or.us/Webdocs/Forms/Output/FPController.ashx?SourceId=1898&SourceIdType=11) for additional information.
+
+### What Is the Current Site Status?
+
+Cleanup activities began in 2020 and will conclude in 2021. After cleanup is complete, ODEQ will continue operations and maintenance activities for the in-river sediment cap to ensure cleanup goals continue to be met.

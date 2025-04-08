@@ -1,18 +1,31 @@
-JACKPILE-PAGUATE URANIUM MINELAGUNA PUEBLO, NM
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Jackpile-Paguate Uranium Mine site ("the Site") is located at the Laguna Pueblo, about 40 miles west of Albuquerque in Paguate, Cibola County, New Mexico.  The Site consists of three former tribal leases within the Laguna Pueblo.  The former leaseholder, Anaconda Minerals Company, a division of Atlantic Richfield Company (ARCO), mined and operated a uranium mine at the Site from 1952 through Februrary 12, 1982. Out of a total of 7,868  leased acres, 2,656 acres were disturbed by mining.  This disturbance originally included three open pits, 32 waste dumps and 23 protore (sub-grade ore) stockpiles, four topsoil stockpiles and 66 acres of buildings and roads. During the 30 years of mining, about 400 million tons of rocks were moved within the mine area and about 25 million tons of uranium ore were transported via the Santa Fe Railroad from the mine to Anaconda's Bluewater Mill.  The Mill was located 40 miles west of the Site. Mining operations detrimentally affected surface water with hazardous chemicals in quantities sufficient to support listing onto the EPA National Priorities List (NPL) for CERCLA cleanup. Additional background information can be obtained by accessing the 1986 Environmental Impact Statement, developed by the Department of Interior.
-What Has Been Done to Clean Up the Site?
-The Pueblo's environmental program works with various federal agencies and private sector consultants on Site issues and concerns.  Anaconda Minerals Company, a division of Atlantic Richfield Company, operated the mine under lease agreement through the Department of Interior (DOI).  The lease terms and Federal regualtions gave the DOI authority to require reclamation of the minesite. Mining operations took place from 1952 through Febrary 12, 1982. During the 30 years of mining, about 400 million tons of rocks were moved within the mine area and about 25 million tons of uranium ore were transported via the Santa Fe Railroad from the mine to Anaconda's Bluewater Mill, 40 miles west of the site.During the period of active mining operations, various reclamation activites occurred prior to the termination of the lease. EPA was not party to reclamation work or to activities prior to listing the Site onto the National Priorities List. Anaconda Minerals Company, a division of Atlantic Richfield Company, operated the mine under lease agreement through the Department of Interior (DOI).  The lease terms and Federal regualtions gave the DOI authority to require reclamation of the minesite. Mining operations took place from 1952 through Febrary 12, 1982. During the 30 years of mining, about 400 million tons of rocks were moved within the mine area and about 25 million tons of uranium ore were transported via the Santa Fe Railroad from the mine to Anaconda's Bluewater Mill, 40 miles west of the site.During the period of active mining operations, various reclamation activites occurred prior to the termination of the lease. EPA was not party to reclamation work or to activities prior to listing the Site onto the National Priorities List.
-What Is the Current Site Status?
-EPA proposed the site for listing on the NPL on March15,  2012.  The site was listed on December 12, 2013. The Site is currently under RI/FS investigation.
-Sampling and Monitoring
+### Background
+
+The Jackpile-Paguate Uranium Mine site ("the Site") is located at the Laguna Pueblo, about 40 miles west of Albuquerque in Paguate, Cibola County, New Mexico. The Site consists of three former tribal leases within the Laguna Pueblo. The former leaseholder, Anaconda Minerals Company, a division of Atlantic Richfield Company (ARCO), mined and operated a uranium mine at the Site from 1952 through Februrary 12, 1982. Out of a total of 7,868 leased acres, 2,656 acres were disturbed by mining. This disturbance originally included three open pits, 32 waste dumps and 23 protore (sub-grade ore) stockpiles, four topsoil stockpiles and 66 acres of buildings and roads. During the 30 years of mining, about 400 million tons of rocks were moved within the mine area and about 25 million tons of uranium ore were transported via the Santa Fe Railroad from the mine to Anaconda's Bluewater Mill. The Mill was located 40 miles west of the Site. Mining operations detrimentally affected surface water with hazardous chemicals in quantities sufficient to support listing onto the EPA National Priorities List (NPL) for CERCLA cleanup.
+
+Additional background information can be obtained by accessing the 1986 Environmental Impact Statement, developed by the Department of Interior.
+
+### What Has Been Done to Clean Up the Site?
+
+The Pueblo's environmental program works with various federal agencies and private sector consultants on Site issues and concerns.
+
+Anaconda Minerals Company, a division of Atlantic Richfield Company, operated the mine under lease agreement through the Department of Interior (DOI). The lease terms and Federal regualtions gave the DOI authority to require reclamation of the minesite.
+
+Mining operations took place from 1952 through Febrary 12, 1982. During the 30 years of mining, about 400 million tons of rocks were moved within the mine area and about 25 million tons of uranium ore were transported via the Santa Fe Railroad from the mine to Anaconda's Bluewater Mill, 40 miles west of the site.During the period of active mining operations, various reclamation activites occurred prior to the termination of the lease.
+
+EPA was not party to reclamation work or to activities prior to listing the Site onto the National Priorities List.
+
+Anaconda Minerals Company, a division of Atlantic Richfield Company, operated the mine under lease agreement through the Department of Interior (DOI). The lease terms and Federal regualtions gave the DOI authority to require reclamation of the minesite.
+
+Mining operations took place from 1952 through Febrary 12, 1982. During the 30 years of mining, about 400 million tons of rocks were moved within the mine area and about 25 million tons of uranium ore were transported via the Santa Fe Railroad from the mine to Anaconda's Bluewater Mill, 40 miles west of the site.During the period of active mining operations, various reclamation activites occurred prior to the termination of the lease.
+
+EPA was not party to reclamation work or to activities prior to listing the Site onto the National Priorities List.
+
+### What Is the Current Site Status?
+
+EPA proposed the site for listing on the NPL on March15, 2012. The site was listed on December 12, 2013.
+
+The Site is currently under RI/FS investigation.
+
+### Sampling and Monitoring
+
 Monthly air particulate samples are currently being collected and will be composited. The meteorological data and air monitoring data are undergoing data validation/verification and Data Summary Report(s) (DSR) will be written upon completion of the QA/QC process and submitted to EPA and POL-ENRD for review, comment and approval.

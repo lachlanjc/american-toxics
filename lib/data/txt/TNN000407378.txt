@@ -1,2 +1,44 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 9-acre Smalley-Piper Superfund site is in Collierville, Tennessee. Commercial and industrial land uses border the site. Residential areas, including single-family homes and a mobile home park, are located ¼ mile southeast of the site. Groundwater flows to the northwest.
+
+From the 1960s to 2007, a farm equipment manufacturing facility operated at the site. In the 1960s, operations included farm tool manufacturing. In the 1970s, operations included battery casing manufacturing and treatment. Operations sent liquid wastes into an underground pipe that discharged to open retention ponds. The ponds treated the wastes and allowed the liquid to flow into surface water drainage ditches. Facility operations later abandoned the ponds and backfilled them with soil. The operations caused chromium and hexavalent chromium contamination in soil and groundwater. Prior to shutting down in 2007, the facility applied an iron slurry to used farm tools under high temperatures to harden the new surfaces.
+
+The U.S. Environmental Protection Agency placed the site on the [National Priorities List (NPL)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-4) in 2005 because of contaminated groundwater, surface water, and soil resulting from facility operations.
+
+EPA and the [Tennessee Department of Environment and Conservation (TDEC)](https://www.tn.gov/environment.html) have investigated site conditions and taken steps to clean up the site in order to protect human health and the environment from contamination. These cleanup actions, managed by EPA and TDEC, continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) led site investigation activities until 2006. The EPA now leads site investigation and cleanup activities in cooperation with TDEC.
+
+**2006**  
+The PRPs completed a draft site investigation report but were unable to continue with site investigation and cleanup activities. The EPA funded remaining site investigations and selected a cleanup plan to address site contamination.
+
+**2008**  
+EPA issued a cleanup plan (a Record of Decision, or ROD) for the site. The plan included:
+
+- digging up contaminated soil;
+- treating contaminated soils with chemicals and disposing of them off-site;
+- extracting, treating and disposing of contaminated groundwater on site; and
+- placing institutional controls on the site property.
+
+**2012**  
+EPA completed cleanup of more than 6,000 tons of contaminated soil.
+
+**2015**  
+EPA constructed the initial groundwater treatment system, which is still operating.
+
+### What Is the Current Site Status?
+
+The initial phase groundwater treatment has been in operation since December 2015. The system has successfully treated over 80 million gallons of groundwater as of June 2020.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site is not currently in use.

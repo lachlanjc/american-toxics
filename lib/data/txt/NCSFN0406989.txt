@@ -1,2 +1,95 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 438-acre Barber Orchard Superfund Site is located on the north facing slope of a mountain in Haywood County, North Carolina, three miles west of Waynesville. Residential areas surround the site and U.S. Forest Service land is located to the south. From 1908 until 1988, an apple orchard operated at the Site. Pesticides were commonly used at the Site. Pesticides were mixed at mixing at mixing stations, drained downhill to a compressor building and pumped back up to the orchard under substantial pressure (800 pounds per square inch) through an underground system of pipes. In 1988, the bank holding the loan foreclosed on the owners of the orchard and subdivided the former orchard into 170 parcels of varying sizes for public purchase. The parcels are currently being used for residential, agricultural, commercial, and light industry applications.
+
+In 1999, a concerned Barber Orchard resident requested that the Haywood County Health Department analyze a groundwater sample from their potable well. The analysis determined that Organochlorine pesticides (OCPs) were detected in the sample. After discovery, a large scale sampling effort was conducted by NC Department of Environment and Natural Resources (NCDENR, currently NC Department of Environmental Quality \[NCDEQ\]) and NCDA. This effort confirmed OCP contamination in groundwater as well as arsenic, lead, and OCP contamination in soils. The EPA's Region 4 Emergency Response was notified and response action commenced at the site.
+
+The EPA placed the Site on the Superfund Program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2001 because of contaminated groundwater and soil resulting from facility operations. The EPA and the [N](https://deq.nc.gov/) [C](https://www.deq.nc.gov/) [DEQ](https://www.deq.nc.gov/) investigated Site conditions and took steps to clean up the Site to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near or on the Site. By monitoring groundwater and undertaking Five-Year Reviews, the EPA and NCDENR continue to protect people and the environment from Site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA leads Site investigation and cleanup activities in cooperation with NCDEQ.
+
+**1999-2000**
+
+The EPA conducted removals of soil on residential properties where arsenic levels exceeded 40 milligrams per kilogram (mg/kg). The EPA removed the top foot of soil from portions of 28 residential properties, backfilled, graded and re-vegetated the areas. Approximately 18 acres of property were addressed from this removal action.
+
+**2001-2005**
+
+Between 2001 and 2003, the EPA conducted the remedial investigation/feasibility study at the site using federal funds.
+
+Two other activities occurred separately from the the EPA-sponsored remedial cleanups that will also help to protect human health:
+
+- the State's 2003 requirement that all future potable wells to be drilled in the Barber Orchard area will require a permit and
+- the extension of the Town of Waynesville's municipal waterline through the Orchard and surrounding area in 2004-2005.
+
+**2004**
+
+The EPA selected a remedy for the soil and underground piping system in the September 29, 2004 ROD for OU1.
+
+The major components of the remedy included:
+
+- Excavation of approximately the top foot of an estimated 117 acres of the Orchard.
+- Removal of the underground distribution pipeline and associated contaminated soils.
+- Back filling, grading, and re-vegetation of the excavated areas with clean soil.
+- Performance of additional sampling to better delineate the areas requiring excavation.
+- Implementation of institutional controls (ICs) for those contaminated properties not cleaned up by the remedial action.
+
+**2010**
+
+Soil cleanup removed approximately 200,000 tons of contaminated soil and debris. Clean soil was imported from an approved off-site source to backfill the excavated properties.
+
+**2011**
+
+The EPA selected a remedy for the groundwater, surface water and sediment in the September 29, 2011 ROD for OU2.
+
+The OU2 ROD is a No Action Remedy with long-term monitoring. Long-term groundwater monitoring will be conducted to:
+
+- Ensure the quality of the groundwater remains protective of human health,
+- Confirm that the soil remedy was effective in preventing the contaminants in the soil from migrating to the groundwater, and
+- Demonstrate that the quality of the underlying groundwater continues to improve with time.
+
+**2016**
+
+The EPA conducted the First Five-Year Review (FYR) for the Site. The EPA deferred the protectiveness statement until additional information can be collected about the potable use of groundwater within the Barber Orchard community.
+
+**2017**
+
+The EPA continued to monitor groundwater in the Orchard on a biannual basis.
+
+**2021**
+
+The EPA conducted the [second FYR](https://semspub.epa.gov/src/document/04/11166327) for the Site. The EPA determined that additional grounwater sampling of montioring and potable wells is needed to determine protectiveness of the remedy.
+
+**2023**
+
+At the request of the EPA, NCDEQ conducted a groundwater sampling event for both potable and montioring wells.
+
+**2024**
+
+The EPA determined that the current groundwater remedy is protective. This is included in an [Addendum to the second FYR report.](https://semspub.epa.gov/src/document/04/11201072) Biennial sampling of groundwater is still warranted to determine long-term protectiveness.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](semspub.epa.gov/src/document/04/11166327) [Addendum](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0406989&doc=Y&colid=31344&region=04&type=SC) is available for the Site.
+
+Long-term groundwater monitoring is ongoing. The next groundwater sampling event will occur in 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+In 2003, the State required:
+
+- all future potable wells to be drilled in the Barber Orchard area will require a permit
+- the extension of the Town of Waynesville's municipal waterline through the Orchard and surrounding area in 2004-2005
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA spent federal money to fund all activities at the site because there are no viable, potentially responsible parties (PRPs) identified for this Site, to date.

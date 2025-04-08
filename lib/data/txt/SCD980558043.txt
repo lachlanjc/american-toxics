@@ -1,42 +1,68 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 160-acre Lexington County Landfill Superfund site is 3.5 miles south of Columbia, in Cayce, Lexington County, South Carolina. The site includes three landfill areas.
-the 321 Landfill
-the Old Cayce Dump
-the Bray Park Road Dump.
-Highway 321 borders the site to the west. A commercial property, woodlands and Seaboard Coast railroad tracks border the site to the east. Highway 26 borders the site to the northeast. Forested areas and commercial businesses border the site to the south. A residential subdivision borders the site to the north. The Palmetto Wood Preserving Superfund site is located approximately one mile east of the site. During the 1960s, the Old Cayce Dump operated as a solid waste disposal facility. From the mid-1960s until 1970, the cities of Cayce and West Columbia used the Bray Park Dump for waste disposal purposes. Following disposal activities, parties covered Bray Park Dump with several feet of soil.  Between 1972 and 1988, Lexington County operated the 321 Landfill as a sanitary municipal landfill. Most of the material placed in the 321 Landfill consisted of sanitary domestic waste. The landfill also accepted certain types of industrial wastes, petroleum products and industrial metallic wastes. Lexington County conducted landfill closure activities at the 321 Landfill, including placement of a clay cap over the area, in 1990. A golf driving range operates on part of the former 321 Landfill area and a miniature golf course is located west of the driving range. The University of South Carolina’s golf practice course is also located on the former 321 Landfill area. The Bray Park baseball fields are located on the southeast portion of the site. Commercial businesses and a recycling center are also located on portions of the site. The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1989 because of contaminated soil and groundwater resulting from landfill operations. EPA, the South Carolina Department of Health and Environmental Control (SCDHEC)Exit, and Lexington County, the site’s potentially responsible party (PRP), have investigated site conditions. By treating water, conducting operation and maintenance activities, and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRP continue to protect people and the environment from site contamination. Contamination does not currently threaten people living and working near the site. A water line connects nearby businesses and residents to the public water supply.
-What Has Been Done to Clean Up the Site?
-Lexington County, the site’s PRP, leads site investigation and cleanup activities with oversight provided by EPA and SCDHEC.  1994
+
+- the 321 Landfill
+- the Old Cayce Dump
+- the Bray Park Road Dump.
+
+Highway 321 borders the site to the west. A commercial property, woodlands and Seaboard Coast railroad tracks border the site to the east. Highway 26 borders the site to the northeast. Forested areas and commercial businesses border the site to the south. A residential subdivision borders the site to the north. The Palmetto Wood Preserving Superfund site is located approximately one mile east of the site.
+
+During the 1960s, the Old Cayce Dump operated as a solid waste disposal facility. From the mid-1960s until 1970, the cities of Cayce and West Columbia used the Bray Park Dump for waste disposal purposes. Following disposal activities, parties covered Bray Park Dump with several feet of soil. Between 1972 and 1988, Lexington County operated the 321 Landfill as a sanitary municipal landfill. Most of the material placed in the 321 Landfill consisted of sanitary domestic waste. The landfill also accepted certain types of industrial wastes, petroleum products and industrial metallic wastes. Lexington County conducted landfill closure activities at the 321 Landfill, including placement of a clay cap over the area, in 1990.
+
+A golf driving range operates on part of the former 321 Landfill area and a miniature golf course is located west of the driving range. The University of South Carolina’s golf practice course is also located on the former 321 Landfill area. The Bray Park baseball fields are located on the southeast portion of the site. Commercial businesses and a recycling center are also located on portions of the site.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1989 because of contaminated soil and groundwater resulting from landfill operations. EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/), and Lexington County, the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By treating water, conducting operation and maintenance activities, and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRP continue to protect people and the environment from site contamination.
+
+Contamination does not currently threaten people living and working near the site. A water line connects nearby businesses and residents to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+Lexington County, the site’s PRP, leads site investigation and cleanup activities with oversight provided by EPA and SCDHEC.
+
+**1994**  
 EPA issued the site’s long-term cleanup plan. It included
-consolidating wastes from the three landfill areas
-capping the wastes on site
-placing institutional controls in the form of deed restrictions on the site property to protect the cap and restrict the use of groundwater for drinking purposes.
-constructing and operating a landfill gas collection and venting system
-extracting contaminated groundwater and leachate
-discharging contaminated groundwater and leachate to the local water treatment plant
-conducting additional sampling of surface water and sediment
-monitoring groundwater, surface water, sediment and landfill gas.
-In 1999, EPA revised the cleanup plan to include capping wastes in the Old Cayce Dump in place. 1996 – 1999
-Lexington County conducted cleanup activities for the cap and groundwater treatment system from 1996 to 1999. The PRP began the operation of the groundwater treatment system; treated groundwater is used for local land irrigation purposes. EPA revised the cleanup plan to include capping wastes in the Old Cayce Dump in place. 2001
-The PRP began operation of the site’s landfill gas recovery system in 2001, after which EPA signed the Preliminary Close-Out Report for the site. 2016
+
+- consolidating wastes from the three landfill areas
+- capping the wastes on site
+- placing institutional controls in the form of deed restrictions on the site property to protect the cap and restrict the use of groundwater for drinking purposes.
+- constructing and operating a landfill gas collection and venting system
+- extracting contaminated groundwater and leachate
+- discharging contaminated groundwater and leachate to the local water treatment plant
+- conducting additional sampling of surface water and sediment
+- monitoring groundwater, surface water, sediment and landfill gas.
+
+In 1999, EPA revised the cleanup plan to include capping wastes in the Old Cayce Dump in place.
+
+**1996 – 1999**  
+Lexington County conducted cleanup activities for the cap and groundwater treatment system from 1996 to 1999.
+
+The PRP began the operation of the groundwater treatment system; treated groundwater is used for local land irrigation purposes.
+
+EPA revised the cleanup plan to include capping wastes in the Old Cayce Dump in place.
+
+**2001**  
+The PRP began operation of the site’s landfill gas recovery system in 2001, after which EPA signed the Preliminary Close-Out Report for the site.
+
+**2016**  
 EPA completed the site’s fourth Five-Year Review in 2016. It found that the cleanup continues to protect people and the environment in the short term. For site remedies to be protective in the long term, additional sampling is necessary to determine if hexavalent chromium is present at the site.
-What Is the Current Site Status?
-The most recent Five Year Review was published by EPA HQs in 2022. The remed\ at the Lexington Countx Landfill Site cunenth protects human health and the environment.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11174382.pdf) was published by EPA HQs in 2022. The remed\\ at the Lexington Countx Landfill Site cunenth protects human health and the environment.
+
 The ground water treatment system continues to operate on site. The site’s PRP conducts operation and maintenance activities at the site. EPA intended to complete the next Five-Year Review in 2022.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 EPA placed institutional controls in the form of deed restrictions on the site property to protect the cap and restrict the use of groundwater for drinking purposes.
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

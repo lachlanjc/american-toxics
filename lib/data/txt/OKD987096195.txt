@@ -1,2 +1,149 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Tulsa Fuel and Manufacturing Superfund Site, a former zinc smelter and lead roaster facility, occupies 61 acres in Tulsa County, Oklahoma. Primary contaminants of concern are arsenic, cadmium, and lead, which contaminated soil, sediment, and potentially groundwater during operations from 1914 to 1925.
+
+Located 1-1/3 miles south of downtown Collinsville, the site is bordered by "Old" U.S. Highway 169, railroad tracks, a flooded strip mine pit, and residential areas. In 1999, EPA added the site to the National Priorities List due to elevated concentrations of heavy metals in on-site media and nearby residential areas.
+
+The 2008 Record of Decision outlined a remedy involving excavation and consolidation of contaminated materials into an on-site cell. Approximately 186,000 cubic yards of contaminated soil, sediment, and waste were placed in this 11-acre consolidation cell during the 2017 remedial action. The cell is surrounded by a barbed wire fence and includes four groundwater monitoring wells.
+
+While groundwater was not directly impacted, ongoing monitoring ensures the consolidation cell's integrity. The site was deleted from the National Priorities List in 2020, but operation and maintenance activities continue, including groundwater monitoring, site inspections, and institutional controls to restrict land use.
+
+Recent developments include the site's partial use for beekeeping since 2019. The Second Five-Year Review in 2024 identified the need for further evaluation based on updated EPA guidance for lead and new risk parameters for cadmium.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA and Oklahoma Department of Environmental Quality (ODEQ) have taken significant steps to clean up the Tulsa Fuel and Manufacturing Superfund Site:
+
+1. 1999: EPA added the site to the National Priorities List.
+2. 2004: Perimeter fences were installed as an emergency response action to secure the site.
+3. 2008: EPA issued the Record of Decision (ROD), outlining the cleanup plan.
+4. 2015: A ROD Amendment was finalized, modifying some technical aspects of the remedy.
+5. 2015-2016: Remedial Action construction was conducted. Approximately 186,000 cubic yards of contaminated soil, sediment, and waste were excavated and placed into an on-site consolidation cell.
+6. 2017:
+	- Remedial Action Completion Report was issued.
+	- Institutional controls were implemented through deed notices.
+	- Operation and Maintenance (O&M) activities began, including groundwater monitoring.
+7. 2019: The first Five-Year Review was completed, finding the remedy protective of human health and the environment
+8. 2020: The site was deleted from the National Priorities List.
+9. 2024: The second Five-Year Review was completed, identifying the need for further evaluation based on updated EPA guidance.
+
+These efforts have effectively addressed the primary health and environmental concerns by containing contaminated materials, preventing exposure, and monitoring potential impacts. Ongoing O&M activities, including groundwater monitoring and site inspections, continue to ensure the remedy's effectiveness.
+
+### What Is the Current Site Status?
+
+The Tulsa Fuel and Manufacturing Superfund Site was deleted from the National Priorities List in 2020. However, ongoing activities continue to ensure the remedy's effectiveness:
+
+1. Operation and Maintenance: ODEQ conducts annual groundwater monitoring, site inspections, and maintenance of the consolidation cell cap. Recent work included repairing erosion and installing sod in certain areas.
+2. Second Five-Year Review: Completed in August 2024, the review identified the need for further evaluation based on updated EPA guidance for lead and new risk parameters for cadmium.
+3. Planned Evaluation: EPA will reevaluate the site using updated lead guidance and new cadmium risk parameters. This process will include:
+	- Evaluating cleanup levels selected in the 2008 ROD
+	- Compiling existing sampling data for lead and cadmium in soil
+	- Collecting additional samples if necessary
+4. Institutional Controls: Remain in place to restrict land use and protect the remedy.
+5. Site Reuse: The property owner is considering opportunities for reuse and redevelopment. Since 2019, part of the site has been used for beekeeping operations.
+6. Community Engagement: DEQ plans to mail out an informational update to nearby residents to address their interest in receiving more information about the site.
+
+The EPA expects to complete the reevaluation process within approximately four years, at which time a new protectiveness determination will be made. In the meantime, the site continues to be managed to prevent exposure to contaminated materials.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls (ICs) remain in place at the Tulsa Fuel and Manufacturing Superfund Site to protect the remedy and restrict land use. Key aspects of these controls include:
+
+1. Deed Notices: Two deed notices were filed with the Tulsa County Clerk in September 2017:
+	- One notice for the adjacent property to the north states that remediation activities have been completed, allowing for unrestricted use.
+	- The other notice restricts use of the consolidation cell area and the southeast strip of land adjacent to the Watco-owned railroad.
+2. Consolidation Cell Area Restrictions:
+	- No damage to the consolidation cell cap is permitted.
+	- No erection of buildings is allowed.
+	- The area is restricted from residential, daily care, or pre-K-12 uses.
+3. T-37 Area Restriction: This area is limited to commercial/industrial use only.
+4. Groundwater Use: The ICs protect continued monitoring of groundwater as an indicator of consolidation cell integrity.
+
+Engineering controls that must be maintained include:
+
+- The consolidation cell cap
+- Stormwater berms and letdown structures
+- Groundwater monitoring wells
+- Warning signs
+- Fencing around the consolidation cell area
+
+These institutional and engineering controls are essential for ensuring the long-term protectiveness of the remedy. The effectiveness of these controls is assessed during regular site inspections and five-year reviews.
+
+### Sampling and Monitoring
+
+Ongoing sampling and monitoring activities at the Tulsa Fuel and Manufacturing Superfund Site include:
+
+1. Groundwater Monitoring:
+	- Annual sampling of four monitoring wells surrounding the consolidation cell
+	- Testing for site-related contaminants: arsenic, cadmium, and lead
+	- Results to date show no exceedances of Safe Drinking Water Act Maximum Contaminant Levels for arsenic or lead
+	- Cadmium has never been detected in site groundwater
+2. Site Inspections:
+	- Regular inspections of the consolidation cell cap, drainage features, and fencing
+	- Monitoring for erosion, settling, or damage to the cell cap
+	- Assessing vegetation health on the cell
+3. Soil Sampling:
+	- Confirmation sampling was conducted during the Remedial Action to ensure cleanup levels were met
+	- The Second Five-Year Review (2024) recommends reevaluation of soil lead and cadmium levels based on updated EPA guidance
+4. Environmental Justice Screening:
+	- An EJScreen report was conducted as part of the Second Five-Year Review
+	- Identified the site area as above the 80th percentile for wildfire risk nationally, but only within the 50-60th percentile for Oklahoma
+5. Future Monitoring Plans:
+	- Additional soil sampling for lead and cadmium may be conducted as part of the recommended reevaluation
+
+Detailed sampling results and monitoring reports are available through the Oklahoma Department of Environmental Quality (ODEQ) website: [Tulsa Fuel and Manufacturing Superfund Site](https://www.deq.ok.gov/land-protection-division/cleanup-redevelopment/superfund/tulsa-fuel-and-manufacturing-superfund-site/)
+
+The next comprehensive evaluation of site data will occur during the third Five-Year Review, scheduled for 2029.
+
+### Green Remediation
+
+The Tulsa Fuel and Manufacturing Superfund Site has incorporated several green remediation approaches:
+
+1. Beekeeping Operations:
+	- Since Spring 2019, a cooperative of local businesses has maintained honeybee hives on the site
+	- This initiative supports local honey production while providing ecological benefits through pollination
+	- The beekeeping operations are conducted in compliance with site institutional controls
+2. Vegetation Management:
+	- The consolidation cell cap is maintained with a vegetative cover
+	- Regular mowing services are conducted during the growing season to control pests and prevent tree growth on the cell
+3. On-Site Waste Consolidation:
+	- The cleanup approach consolidated contaminated materials on-site, reducing transportation needs and associated emissions
+4. Potential Future Initiatives:
+	- Discussions have been held with the National Resources Conservation Service, ODEQ, and conservationist groups about seeding pollinator-friendly flowers on a portion of the site north of the consolidation cell
+	- The property owner is considering additional opportunities for site reuse and redevelopment, which may incorporate further green practices
+
+These green remediation practices aim to enhance the ecological value of the site while maintaining the integrity of the cleanup remedy. They demonstrate how post-cleanup land use can provide environmental benefits beyond the primary goal of contaminant containment.
+
+### Emergency Response and Removal
+
+**Emergency Response and Removal Activities:**
+
+1. Historical Removal Action (2004):
+	- Perimeter fences were installed as an emergency response action to secure the site and prevent unauthorized access.
+2. Main Remedial Action (2015-2016):
+	- While not strictly a removal action, this major cleanup effort involved excavating approximately 186,000 cubic yards of contaminated soil, sediment, and waste.
+	- Materials were consolidated into an on-site cell, effectively removing the immediate exposure risk.
+
+**Current Safety and Maintenance Activities:**
+
+1. Consolidation Cell Maintenance:
+	- Regular inspections are conducted to check for erosion, settling, or damage to the cell cap.
+	- In September 2020, 2000 ft² of sod was installed to repair erosion rills forming near the consolidation cell access road.
+2. Fencing and Access Control:
+	- The consolidation cell is surrounded by a five-strand barbed wire fence to restrict access.
+	- During the February 2024 site inspection, a cut lock on the consolidation cell gate was discovered and subsequently replaced.
+	- A section of barbed wire fencing needing repair was identified during the latest inspection.
+3. Groundwater Monitoring:
+	- Annual monitoring of four wells around the consolidation cell is conducted to ensure contaminants are not leaching into groundwater.
+4. Site Inspections:
+	- Regular inspections are performed to identify any potential issues that could compromise the remedy's effectiveness or site safety.
+
+While there are no ongoing emergency response or removal activities, these continued maintenance and monitoring efforts are crucial for maintaining the site's safety and the integrity of the remedy. Any significant issues identified during routine inspections could potentially trigger additional response actions if deemed necessary.
+
+### Enforcement Information
+
+Cost recovery efforts are currently underway.

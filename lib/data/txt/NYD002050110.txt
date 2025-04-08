@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Genzale Plating Company site is located in Franklin Square, New York. It included a metal-plating facility, an attached two-story office building and an undeveloped backyard area that served as a parking lot and storage area. From 1915 through 2000, the facility electroplated small products such as automobile antennas, parts of ball point pens, and bottle openers. It discharged wastewater containing heavy metals as well as volatile organic compounds (VOCs) into four subsurface leaching pits at the rear of the site and into tanks under the process building. The buildings have been removed and soil excavation has been completed. Long-term groundwater cleanup is ongoing.
+
+Genzale Plating Company’s electroplating facility started operating at the site in 1915. Over time, production activities and chemicals used in the electroplating process have changed. The earliest record of operations at the Genzale facility dates back to 1952. At that time, processing was reported to have involved anodizing and cadmium, zinc and brass plating. In 1954, electroplating operations are on record as using the following chemical compounds: copper, cyanide, silver cyanide, zinc cyanide, cadmium oxide, chromic acid, nickel sulfate, sulfuric acid, nitric acid and alkali cleaners. The relative quantities of chemicals used at the site during this period are unknown.
+
+At the time of the facility’s closure in 2000, the company electroplated such products as automobile antennas and component parts, tops and bottoms of ball point pens, and housewares such as can and bottle openers. The electroplating process at the site since 1959 involved a number of different steps and the use of a variety of chemicals. The electroplating process was carried out by dipping and advancing the materials to be plated through a series of processing tanks or vats. Rinsing the metal parts between each processing tank generated wastewater, which was discharged to the municipal sewer system for disposal. Previously, wastewater was discharged to the subsurface leaching pits in the rear yard area of the site. It should be noted, that wastewater was detected in three of the four leaching pits as recently as 1981.
+
+Distillation of spent solvent (1,1,1-trichloroethane) was used to condense out clean product for reuse. Sludge remaining from the distillation process was stored on site for eventual removal. In April 1981, the Nassau County Department of Health (NCDH) inspected the facility. NCDH noted that industrial wastewater from the plating facility was being discharged to at least three of four on-site leaching pits. NCDH representatives instructed company personnel to discontinue discharge to the leaching pits at that time. In addition, wastewater samples were obtained from the leaching pits by NCDH and submitted for laboratory analysis of inorganic compounds only. The results indicated that the wastewater samples exhibited heavy metal concentrations in excess of state discharge standards.
+
+After investigations, EPA placed the site on the Superfund program’s National Priorities List in July 1987.
+
+### What Has Been Done to Clean Up the Site?
+
+Previous Actions: In 1982, contaminated sludge and soil were removed from the leaching pits.
+
+Site Soil and Groundwater: EPA selected the remedy for the site’s contaminated soil and groundwater in the site’s 1991 Record of Decision, or ROD. The remedy included the treatment of contaminated soil by soil vapor extraction (SVE) for organics contamination, followed by excavation and off-site treatment of soil for metals contamination. Construction for the SVE system finished in July 1995. In May 1996, soil reached cleanup levels for organics and the unit was shut down and dismantled. About 32,000 tons of soil were cleaned up. About 50 pounds of volatile and semi-volatile organics were removed during the SVE system’s operation. The excavation of metals-contaminated soil finished in the fall of 1997. More than 5,500 tons of soil contaminated with metals were removed from the site and replaced with native sand.
+
+In May 2000, the Genzale facility ceased operations. The company set aside funds for the decommissioning of the operational part of the site and for the removal of the wastes generated during the decommissioning. The wastes were exported off-site for disposal. Decommissioning activities were completed in June 2000. Following the cessation of operations at the facility, EPA sampled soil and groundwater underlying the vacated plant building. This sampling indicated the presence of additional inorganic and organic contamination.
+
+Based on the additional contamination found underneath the former plant building, EPA determined that TCE contamination from the site was migrating into three adjacent homes. A new SVE system was installed and operated from September 2003 until the remainder of the building was demolished in March 2005. Subsequent ambient air samples in the affected homes showed this system was effective in reducing the TCE contamination.
+
+Once the contaminated soil and remaining process building remediation finished, a groundwater extraction and treatment system was put in place. The system started operating in September 2005 and remains in operation. The system is based on ion-exchange technology and was designed to address the heavy metals contamination. Numerous adjustments have been made in the site operations to remediate the limited contamination remaining at the site.
+
+The responsibility for the site remediation was transferred to New York State Department of Environmental Conversation in September 2016. NYSDEC has been sampling the site and will take action on the recalcitrant chromium and nickel detected in July 2019. NYSDEC will be sampling the site and performing another round of injection treatment in 2021.
+
+### What Is the Current Site Status?
+
+The site has been addressed in two stages: two long-term response actions focused on cleanup of the on-site soil and groundwater, and the investigation of downgradient groundwater.
+
+In early 1991, a remedy was selected and documented in a Record of Decision (ROD). The remedy included the treatment of contaminated soil by soil vapor extraction (SVE) for organics contamination, followed by excavation and off-site treatment of soil for metals contamination. The design of the selected remedies was begun in late 1991 and was completed in September 1994. Construction activities for the soil vapor extraction unit were completed in July 1995. After approximately one year of operation, in May 1996, confirmatory soil sampling established that the soil had reached clean-up levels for organics and the unit was shut down and dismantled.
+
+Once the contaminated soil and remaining process building remediation was completed, a groundwater extraction and treatment system was constructed in accordance with the 1991 and 1995 RODs. This system was completed in September 2005 and operated until a pilot study began in 2015. The pilot study consists of injecting a stabilizer into the area of recalcitrent contamination. NYSDEC is evaluating the site current site conditions and will be performing another stabilizer treatment in the winter of 2020.
+
+A 1995 study found no significant downgradient groundwater contamination. Therefore, the nearby water supplies were not at risk of contamination and further off-site groundwater remedial action was not warranted. EPA documented this decision in the site’s September 1995 ROD.
+
+On June 30, 2020, EPA issued the third Five-Year Review for the site which concluded that the remedy implemented at the site remains protective of human health and the environment.  
+
+### Sampling and Monitoring
+
+NYSDEC has sampled the groundwater at the site three times since the remediation was transferred in 2016. The data shows that the pilot study injections are effectively treating the recalcitrent contamination at the site. The contamination has rebounded to much lower levels than previosly observed. Another application of the stabilizer will be performed in 2021, and the groundwater will be sampled again after the treatment has time to act. If it is determined that this action can permanantly attain remediation goals, EPA will document the change in the remedial action.

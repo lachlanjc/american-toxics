@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 37-acre IMC site is in a semi-industrialized area in Terre Haute, Indiana. From 1946 - 1954, the Chemical Solvent Corporation built and operated a small facility on a six-acre segment of the property for manufacturing, packaging, and warehousing of technical-grade benzene hexachloride (BHC), known as “BHC-tech.” This material was sold to insecticide manufacturers as raw material to produce insecticide. in 1975, IMC purchased Chemical Solvent Corporation. EPA added the IMC site to the National Priorities List in 1986. The IMC site was removed from the NPL in 2001.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA added the IMC – East Plant site to the National Priorities List in 1986. The NPL is a list of the nation’s most hazardous waste sites eligible for federal funding under the Superfund law.
+
+In 1986, EPA and IMC entered a legal agreement which required IMC to conduct a remedial investigation/feasibility study (RI/FS) at the site. The RI/FS is the part of the Superfund cleanup process when the nature of and extent of site contamination is investigated, and EPA evaluates the most suitable cleanup option. The RI/FS concluded that the BHC contamination within the on-site, clay-capped waste mound was not adversely impacting groundwater in the area. The study further concluded that the initial remedial measures implemented by IMC were protecting human health and the environment by preventing groundwater contamination and by preventing erosion and surface runoff of contaminated soils. Because of the immediate remedial measures implemented by IMC, EPA issued a Record of Decision (ROD) selecting a “No Action” alternative with routine inspection of the cap, maintenance of the vegetative cover, continuation of periodic groundwater monitoring and reporting, and deed restrictions on site land use. The ROD also included a contingency plan to initiate a remedial action and methods for cap repair and replacement, if necessary. Implementation of this contingency action was never determined to be necessary.
+
+[RECORD OF DECISION (ROD) (SIGNED) (PDF)](https://semspub.epa.gov/src/document/05/269632) (78 pp, 2.78 MB)
+
+EPA deleted the site from the NPL in 2001. During the 30-year monitoring period, exceedances of groundwater contamination were not found at the site. After consultation with IDEM, EPA decided that it was reasonable to allow groundwater monitoring at the site to cease after 2010 as outlined in the ROD. The site achieved Site-Wide Ready for Anticipated Use status in March 2011
+
+### What Is the Current Site Status?
+
+EPA is conducting the seventh five-year review of IMC – East Plant site. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. The five-year review is an opportunity for you to tell EPA about site conditions and any concerns you have.
+
+The most recent five-year review concluded that cleanup remedies in place at the site continue to be protective of human health and the environment.
+
+[SIXTH FIVE YEAR REVIEW REPORT (SIGNED) - INTERNATIONAL MINERALS (EAST PLANT) - 2018 (PDF)](https://semspub.epa.gov/src/document/05/945557) (35 pp, 28.91 MB)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater and soils were contaminated with volatile organic compounds (VOCs) and low levels of BHC. Due to the nature of this chemical, it is unlikely that it migrated into the local water supply system. During sampling, three residential wells were found to contain chloroform and associated derivatives at or above the maximum contaminant level for safe drinking water. The removal of the source of contamination (described below) resulted in the reduction of contaminants to safe levels. Potential health threats included direct contact with or inhalation of contaminated soils and accidental ingestion of contaminated groundwater.
+
+Groundwater and soils were contaminated with volatile organic compounds (VOCs) and low levels of BHC. Due to the nature of this chemical, it is unlikely that it migrated into the local water supply system. During sampling, three residential wells were
+
+### Emergency Response and Removal
+
+Following purchase of the property, IMC collected surface soil samples from the site that were assumed to be contaminated with BHC. IMC then excavated approximately 18,500 cubic yards of contaminated soil and placed the excavated soils and other debris in a fenced clay capped mound in the northwest corner of the site property. The clay-capped mound was designed in accordance with then-current EPA guidelines for closure of hazardous waste landfills and included a surface water drainage system and soil gas venting. IMC also installed six monitoring wells near the site, three up-gradient and three down-gradient. EPA also implemented a 30-year groundwater monitoring plan at the site.

@@ -1,2 +1,13 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Pike and Mulberry Streets PCE plume site is located in Martinsville, Indiana. There are several possible sources of contamination, including Master Wear, a commercial and institutional dry cleaning and laundry operation formerly operating at 28 N. Main St. The 38-acre groundwater plume is contaminated with chlorinated solvents, primarily tetrachloroethylene (often referred to as PCE), and has affected one of Martinsville’s municipal drinking water wells. The well field serves about 15,000 people. Martinsville has operated an activated carbon filtration system since 2005 to remove PCE from its water. However, monitoring has shown that PCE levels continue to increase.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+The contaminant plume at this site extends to the city’s municipal wellfield and drinking water plant. This well field is used by the city of Martinsville for its public drinking water supply and serves about 15,000 people. In 2005, the city built a new $1.5 million water treatment plant which now houses four 20,000-pound activated carbon filtration units. All water from all three city wells is filtered through the activated carbon filtration system and further treated with chlorine, phosphate and fluoride before being distributed to the customer. The [Martinsville Annual Drinking Water Quality Report](https://martinsville.in.gov/2020/05/21/martinsville-water-utility-public-water-supply-in5255009-annual-drinking-water-quality-report-2019/) shows that the drinking water is safe and meets all Federal & state requirements.
+
+### What Is the Current Site Status?
+
+EPA placed the site on the Superfund program’s National Priorities List in May 2013. Adding the site to the NPL enables EPA to study site conditions further, identify possible sources of the contamination and develop a comprehensive strategy to address all locations and sources of the contamination.

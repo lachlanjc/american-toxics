@@ -1,2 +1,38 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Fort Wayne Reduction Dump is a 35-acre site located along the south bank of the Maumee River and situated in a 100-year old flood plain of the river. The site operated as a residential and industrial landfill and accepted hazardous wastes from 1966 to 1974. As a result, the site soils were contaminated with a large variety of contaminants, including volatile organic compounds (VOCs), heavy metals, polychlorinated biphenyls (PCBs), and polycyclic aromatic compounds. Groundwater was contaminated with VOCs and heavy metals.
+
+A remedial investigation and feasibility study, a study of the nature and extent of contamination and alternatives for cleanup, began in 1986 and resulted in a cleanup plan to:
+
+- Dig up drums and incinerate the drum contents.
+- Construct a fence around the site.
+- Install a groundwater capture system to collect and treat ground water before entering the Maumee River.
+- Install erosion mats and plant vegetation to reduce erosion during flooding.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+Through a consent decree with EPA, Waste Management Inc. agreed to fund the cleanup. The remedy for the eastern part of the site consisted of a landfill soil cover. The remedy for the western part of the site included installation of a geotextile wall, bio-polymer collection trench, and vertical barrier; drum removal; and groundwater collection and treatment. The remedy also required institutional controls to restrict future site uses and use of groundwater or installation of water supply wells.
+
+Construction began in 1990 with drum removal occurring in 1993. Over 27,000 drums were removed from the site. Construction of the remedy finished in 1995.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review, completed in July 2024, concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. However, for the remedy to protective in the long term, EPA requires the following:
+
+- Further monitoring data to determine if dense liquid contamination is present onsite.
+- Confirmation that the slurry wall is preventing migration of contaminants offsite via groundwater.
+- Sampling to determine if emerging contaminants, including PFAS compounds and 1,4-dioxane, are present onsite.
+
+EPA will conduct the next five-year year review in 2029.
+
+### What Is the Current Site Status?
+
+This site is in the Operations and Maintenance Phase of the Superfund process. EPA has recently completed the sixth five-year review of this site. Please consult the [Sixth Five-Year Review Report](https://semspub.epa.gov/work/05/993005.pdf) for further information about the site status. The next milestone for this site will be full deletion from the National Priorities List.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site soils were contaminated with a large variety of contaminants, including VOCs, heavy metals, PCBs, and polycyclic aromatic compounds. Groundwater is contaminated with VOCs and heavy metals.

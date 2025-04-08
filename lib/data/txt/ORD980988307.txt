@@ -1,2 +1,59 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 53-acre Northwest Pipe & Casing/Hall Process Company Superfund site is located in an industrial park in Clackamas, Oregon. The company manufactured and coated pipes at the site from 1956 to 1985. Improper waste disposal contaminated the soil and groundwater with solvents, primers, coal tar, coal-tar residues, polychlorinated biphenyls (PCBs), and oils. The site was added to EPA’s National Priorities List 1992. Site cleanup included:
+
+- Demolition and removal of all site infrastructure
+- Removal and off-site disposal of contaminated soils
+- Placement of a 2-foot clean soil cap over contaminated areas of soil
+- Treatment of contaminated groundwater on site
+
+### What Is the Current Site Status?
+
+EPA divided the site into two separate areas, or operable units, to better address site contamination. OU-1 addresses contaminated soil; OU-2 addresses contaminated groundwater. The site’s long-term remedy included demolition and removal of site infrastructure; excavation and off-site disposal of contaminated soil; placement of a clean soil cap over remaining contaminated soil; groundwater treatment; and institutional controls. The original remedy construction took place between 2001 and 2004.
+
+The site is being addressed through state and federal actions.
+
+EPA has conducted several Five Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent FYR completed in 2021 concluded that the Site remedy, in the short term, is currently protective of human health and the environment. However, additional actions need to be taken to ensure long-term protectiveness of the Site. These actions include:
+
+- Confirming the boundaries of the groundwater contamination
+- Fill gaps in data and information about the Site’s remedy
+- Update the conceptual Site model
+- Evaluate natural degradation of contamination at the Site
+- Evaluate the need to update groundwater use limitations and institutional controls
+- Consider remediation goals for three additional contaminants measured in the Site’s groundwater
+- Identify a final groundwater remedy
+
+In 1993, buildings at the site were demolished and a fence was constructed to keep people away from the site. In 1998, two underground fuel tanks were decommissioned and removed from the site. In 1999, security patrols were started to keep trespassers off the site. Following a comprehensive study, EPA issued a soil cleanup plan in 2000 and a groundwater cleanup plan in 2001.
+
+Between Aug. 1, 2001 and Sept. 8, 2004 cleanup consisted of soil excavation and treatment of 32,010 tons of contaminated soil and installation of a two-foot cap of clean soil on a portion of the Site, installation of a groundwater treatment system consisting of groundwater circulating wells and monitoring wells, and institutional controls to prohibit the use of groundwater at the Site. In 2006, a Five-Year review of the site found that human health and the environment were protected, but EPA needed to modify the cleanup plan to make sure that the remedy for groundwater contamination continued to protect people and wildlife in the future.
+
+The groundwater treatment system was determined to be unsuccessful in [2007](https://semspub.epa.gov/src/document/10/100088294). A 2008 investigation located three areas of dense non-aqueous phase liquid (presumably composed of coal tars) in the soil at depths of approximately 6 feet below ground surface. These pools of DNAPL in the Plant 3/Plant 4 area were 12 to 16 feet thick. EPA determined that no further effective action on the groundwater remedy could be taken until the DNAPL was removed from the soil or otherwise treated. In 2009, EPA excavated and disposed of this contaminated material from OU1 that was identified as a source of groundwater contamination. This area was referred to as the Plant 3 source area, based on its proximity to the historic Plant 3. As documented the [Time Critical Removal Action Report](https://semspub.epa.gov/src/document/10/100508601), approximately 3,100 cubic yards of contaminated soil were removed and taken to an off-site waste disposal facility.
+
+In June 2010, three additional monitoring wells were installed near the 2009 removal area. Additional data was collected from these new wells, which was used to assess the effectiveness of the 2009 removal action and conduct groundwater modeling/natural attenuation evaluation. In June 2013, the EPA contactors completed a monitored natural attenuation evaluation in order to better understand the biodegradation processes occurring at the site, and to develop a flow and mass transport model to simulate MNA at the site. This evaluation concluded that MNA could potentially be a groundwater remedy at the site if remaining source areas were removed or otherwise treated. Further study of the Plant 3/Plant 4 source area was then completed in late 2013 to delineate and characterize remaining source areas. In January 2014, Ecology and Environment, Inc. and EPA conducted an additional source investigation around the Plant 4 area, which included installing eight boreholes. The analytical results confirmed the known magnitude and extent of subsurface soil contamination near the outside boundary of the former Plant 4 building, with PCE concentrations in soil of up to 280,000 µg/kg and as deep as 28 feet bgs.
+
+In 2015, the mass of contaminated soil in the vicinity of Plant 4 was excavated and the remaining component of the groundwater treatment system that was installed in the early 2000s were removed. Approximately 6,000 cubic yards of contaminated soil was removed near former Plant 4 between September and November 2015. Daramend (an anaerobic bioremediation agent) was mixed with the backfill to promote degradation of any residual PCE or TCE. During the 2015 removal action, the treatment units associated with the groundwater treatment system were dismantled and removed. The groundwater treatment system was closed in accordance with ODEQ well closure requirements. These efforts were documented in the [NonTime-Critical Removal Action Final Report](https://semspub.epa.gov/src/document/10/100427492). A comprehensive round of groundwater samples including water levels and contaminants of concern from all of the current 100 groundwater monitoring wells was done in September 2016 with a second round in April 2017.
+
+In March 2016, EPA and the U.S. Army Corps of Engineers, Environmental and Munitions Center of Expertise completed an optimization study to identify actions that could be taken improve the remedy’s effectiveness and cost-efficiency.
+
+In mid-2021, the U.S. Environmental Protection Agency conducted its fourth Five-Year Review of the environmental cleanup at the site. EPA reviews this site every five years to make sure the cleanup continues to be protective of people and the environment.
+
+The 2021 FYR found that the site remedy, in the short term, currently protects people’s health and the environment. Institutional controls like property easements are part of the site remedy and restrict groundwater use until cleanup goals are achieved and is safe to be used as drinking water. Restrictions are necessary because groundwater at and near the site are not currently suitable for drinking. While groundwater near the site is not currently used for drinking water, it may be a potential source in the future. Therefore, it is important the groundwater be cleaned up.
+
+EPA determined in the 2021 FYR that, in the long term, the existing remedy for groundwater at the site is not performing well enough to achieve cleanup goals. People and the environment could be at risk if groundwater at the site is used in the future. Therefore, additional actions need to be taken to ensure the cleanup works in the long-term at the site. These additional actions included completing a Supplemental Remedial Investigation/Focussed Feasibility Study that to evaluate and assess a range of potentially viable options to clean up groundwater at the site. A Feasibility Study evaluates new technologies or remedies to achieve cleanup goals.
+
+As recommended by the 2021 FYR, between 2022 and 2023 EPA conducted a series of actions to assess groundwater conditions at the Site in order to inform a final groundwater remedy decision. These actions helped to better understand what is happening with contamination at the site and subsequently assess potentially viable options to clean up groundwater at the Site. These actions included:
+
+- Groundwater sampling events during dry and wet season conditions
+- Surface water sampling
+- Installation of additional groundwater monitoring wells for continued monitoring and sampling
+- Advancement of soil boreholes to improve understanding of subsurface lithology and to sample the soil
+- Inspection and maintenance of existing groundwater monitoring wells to improve reliability of data acquired through groundwater sampling
+- Performing aquifer hydraulic testing to refine the Site groundwater model and understanding of site conditions
+
+EPA worked collaboratively with technical consultants, stakeholders and partner agencies to design a sampling plan to be sure data was collected at the right place, right time and in sufficient number. EPA used this data, often with computer models, to predict how contaminants at the site are likely to respond to different cleanup approaches. The site’s CSM was updated with these data and the results of the data collected are discussed in the Data Evaluation Report which was finalized mid-2024.
+
+As a result of the data collection effort, in 2023 EPA published an Explanation of Significant Differences, a decision document outlining the selected groundwater remedy. The ESD selected an in-situ treatment approach to address contaminated groundwater by introducing biological and/or chemically reducing amendments to the Site’s subsurface environment. The amendments will occur in “remediation zones,” or areas where groundwater with the highest contaminant concentrations have been identified. The treatment objective is to reduce the concentrations of perchloroethylene and tetrachloroethylene in these remediation zones by 90 percent. Once the treatment objective is met, preliminary modeling projects that PCE and TCE concentrations passing through monitoring transects downgradient of the remediation zones will be reduced to below 30 μg/L, and in some areas, less than 10 μg/L, within 10 years. The next steps include selecting a technical contractor to design and implement the final remedy under the direction and supervision of EPA. In 2025, a contractor will be selected, and the remedial action effort will begin.
+
+### Emergency Response and Removal
+
+Cleanup included removal actions, or short-term cleanups, to address immediate threats to human health and the environment (see above for details of the recent removal actions). Actions in 1993 included demolition of on-site buildings and construction of a fence to restrict site access.

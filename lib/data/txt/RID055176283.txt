@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 500-acre Peterson/Puritan, Inc. site encompasses over two miles of industrial and residential property in the towns of Cumberland and Lincoln in north-central Rhode Island. The site "study area" encompasses a wide variety of land uses, including former and active industrial and commercial areas, state and local recreational areas, the Blackstone River, and a former landfill. The site also includes interspersed areas of undeveloped land, floodplain and wetlands. The site covers about two miles between the Ashton Dam to the north and the Pratt Dam to the south. The Blackstone River extends along the western and southern sides of the site.
+
+Historically, site operations included aerosol packaging, chemical manufacturing, warehousing and land filling. Beginning in 1959, the former Peterson/Puritan, Inc. plant (also known as CCL Custom Manufacturing, or CCL) served as a packaging location for aerosol consumer products. A railroad tank car accident in 1974 released about 6,200 gallons of chemical solvent in the facility’s tank farm. Past operations also included the disposal of chlorinated VOCs into a manhole and catch basins associated with the facility sewer system. In 1976, following a fire, the facility owner rebuilt the plant.
+
+The former Pacific Anchor Chemical Company (PAC) facility, located immediately north of the CCL area, manufactured specialty chemicals for use in detergents, cosmetics, agriculture and food industries. Past PAC operations included the disposal of process wastes in three leach fields.
+
+The former J. M. Mills Landfill sits about one mile south of the former Peterson/Puritan, Inc. and PAC facilities. The privately owned 52-acre landfill accepted mixed municipal, industrial and commercial wastes from 1954 to the mid-1980s. Landfill operations also included the disposal of hazardous substances, including hazardous waste and sewage sludge.
+
+During routine sampling in 1979, the Rhode Island Department of Health (now RIDEM) discovered chlorinated VOCs in water collected from the Lincoln Quinnville well field and Cumberland Lenox Street municipal well. Subsequent investigations by Peterson/Puritan, Inc. and EPA determined that site activities had contaminated soil and groundwater.
+
+The site was placed on the National Priorities List in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions. Alternate water supplies have provided safe drinking water to affected area residents, and treatment systems are complete and operating at the primary source areas within OU-1.
+
+In late 1993, EPA selected a cleanup plan for OU-1. OU-1 is about one mile long and includes multiple properties along the eastern side of the main Blackstone River channel. Completed cleanup activities in the CCL Custom Manufacturing area in OU-1 include digging up manhole and catch basin sediment and capping the tank farm area to enhance soil vapor extraction. Ongoing cleanup activities in this area include extracting and treating soil gas at the tank farm, pumping and treating the contaminated groundwater plume emanating from the tank farm, and pumping groundwater down gradient of the tank farm into the local sewer system.
+
+Completed cleanup activities in the Pacific Anchor Chemical Company (PAC) area in OU-1 include the excavation of the leach fields and treatment of contaminated soil. Monitored natural attenuation of contaminated groundwater in this area is ongoing.
+
+Potentially responsible parties (PRPs) completed most of these activities between the fall of 1995 and January 1997. Under EPA oversight, site PRPs continue to conduct the groundwater cleanup and monitor groundwater annually to ensure the effectiveness of the cleanup.
+
+The contaminated groundwater plume coming from the former CCL facility affects an area referred to as the CCL Down gradient Area. This area includes parts of the Blackstone River and the immediately adjacent Blackstone River State Park and Bikeway. Extraction wells contain the plume, preventing its migration toward the river and state park. Coordination among EPA and property and business owners allowed for installation of the extraction wells in well-chosen areas, enabling the continued use of the properties. The cleanup bolsters the water quality of the Blackstone River, resulting in increased interest in and recreational use of the river valley. The cleanup also played a key role in restoring community pride in the area.
+
+Throughout the ongoing cleanup of OU-1, EPA has held regular public information sessions to update the community. The EPA-led meetings serve as forums to address community questions, concerns and priorities. EPA, RI DEM and the PRPs worked together to clean up the site in a way that would protect public health and the environment, while making redevelopment and continued use possible. EPA scheduled cleanup activities to avoid unnecessary disruption of ongoing operations. The installation of treatment systems outside of existing buildings also allowed site businesses to stay open during cleanup.
+
+Access to the J.M. Mills landfill at OU-2 is also currently restricted while further studies are being undertaken.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101247).
+
+### What Is the Current Site Status?
+
+In 1990, EPA divided the site into two separate areas, known as operable units 1 and 2 (OU-1 and OU-2), to best address the different areas and types of contamination. OU-1 addresses contaminated soil and groundwater associated with the Peterson/Puritan, Inc. facility and the PAC leach field. OU-2, located just south of OU-1, addresses contamination associated with the J. M. Mills Landfill, the Nunes Transfer Station, an unnamed island and other areas.
+
+**OU-1**
+
+Completed cleanup activities in the Pacific Anchor Chemical Company (PAC) area in OU-1 include the excavation of the leach fields and treatment of contaminated soil. Potentially responsible parties (PRPs) completed most of these activities between the fall of 1995 and January 1997. Monitored natural attenuation of contaminated groundwater in this area is ongoing.
+
+**OU-2**
+
+OU-2 includes large undeveloped areas and extends about one mile along the eastern side of the Blackstone River. EPA believes the most contaminated OU-2 parcel is the J. M. Mills Landfill property. OU-2 also includes a 34-acre unnamed island in the Blackstone River, southeast of the landfill, and a former Nunes Transfer Station operation. Investigations have found buried wastes in portions of this parcel. In 1992, EPA removed drums from the J. M. Mills Landfill and fenced the area to restrict access. PRPs are currently investigating the nature and extent of contamination at the J. M. Mills Landfill, the Nunes Transfer Station, an unnamed island and surrounding areas.
+
+In July 2002, the Rhode Island Department of Transportation did an investigation to determine the extent of former landfill operations along the Blackstone River and the floodplain compensation necessary for bikeway development. The investigation was part of the design for a segment of the Blackstone River Bikeway. EPA provided guidance to the state regarding its plan to address potential contamination in the proposed flood compensation area for the bikeway. This cooperation helped the state make informed cleanup decisions and complete the bikeway.
+
+A [Record of Decision (ROD) was signed on September 8, 2015](https://semspub.epa.gov/src/document/01/582110) (575 pp, 57 M, [About PDF](/home/pdf-files) ) selecting a remedy for OU 2.
+
+The selected remedy for OU 2 addresses contaminated floodplain soils, sediment, and groundwater within OU 2. The remedy also calls for containment (consolidation and capping) to address the large volumes of wastes, including hazardous waste, disposed of in landfills and associated debris fields within the boundary of OU 2. These waste disposal areas include the J. M. Mills Landfill, the Nunes Parcel, and an island between the two areas located in the Blackstone River and called the "Unnamed Island".
+
+In addition to the cleanup requirements, an objective of the remedy is to minimize detrimental impacts from the remedy to the Blackstone River Valley National Heritage Corridor and Blackstone River Valley National Historical Park, within which the Site is located. A related objective is to ensure that aesthetic considerations are incorporated into the remedy which are compatible with development of the National Historical Park within the National Heritage Corridor.
+
+EPA and Rhode Island began negotiations with Potentially Responsible Parties (PRPs) in 2016, attempting to reach [a settlement](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101247&doc=Y&colid=32387&region=01&type=SC) under which the PRPs would implement the cleanup remedy selected in the 2015 ROD. In September 2016, the parties reached an agreement in principle. The Court signed the agreement (Consent Decree) in May 2017. In accordance with the settlement, the performing parties have been developing plans to begin the pre-design and design of the remedy for OU2. It is anticipated that the majority of pre-design activities will be conducted during 2018.
+
+[Cleanup Progress](http://Cleanup Progress.).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+[Click here for IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.redevelop&id=0101247#Limits).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of documents above, and the EPA regional offices may also be contacted.

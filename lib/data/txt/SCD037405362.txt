@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 25-acre Wamchem, Incorporated [Superfund](http://www.epa.gov/superfund) site is in Beaufort, South Carolina. A residential property borders the site to the north. The Marine Corps Air Station Beaufort borders the site to the south. A salt marsh and McCalley’s Creek border the site to the east. U.S. Highway 21 borders the site to the west. McCalley’s Creek is used for recreational fishing and commercial shellfish harvesting.
+
+It includes an area where a facility produced dye products from the 1950s to 1982.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) in 1984 because of contaminated groundwater and soil from facility operations and waste handling practices. EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/) and Springs Industries, the site’s [potentially responsible party (PRP),](https://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By treating and monitoring groundwater and conducting required Five-Year Reviews, EPA, SCDHEC and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Springs Industries, the site’s PRP, leads site investigation and cleanup activities, with oversight provided by EPA and SCDHEC.
+
+**1988**  
+EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included using low-level heat to pull contamination from soil; using a pump-and-treat system to address contaminated groundwater; and discharging treated groundwater to McCalley’s Creek.
+
+**1993**  
+The PRP treated about 1,800 tons of contaminated soil on site. The PRP also did follow-up sampling to confirm that the treated soil met cleanup goals.
+
+**1996**  
+The PRP put in a five-well groundwater pump-and-treat system. Groundwater treatment is ongoing.
+
+### What Is the Current Site Status?
+
+The [Sixth Five-Year Review](https://semspub.epa.gov/src/document/04/11208091) was published by EPA HQs in 2024. The remedy at the Site currently protects human health and the environment.
+
+In 1988, EPA issued the cleanup plan (a [Record of Decision](https://sems.epa.gov/work/1548868700107/11-187113.pdf), or ROD) for the site. It included using low-level heat to pull contamination from soil; using a pump-and-treat system to address contaminated groundwater; and discharging treated groundwater to McCalley’s Creek.
+
+- The latest [Five-Year Review was completed in 2024](https://sems.epa.gov/work/1548868700107/11-181151.pdf). The results determined that the Site was still protective of human health and the environment. The next Five-Year Review is slated for 2029.
+- Groundwater treatment is ongoing.

@@ -1,2 +1,55 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13-acre Western Processing Company, Inc. site is located in Kent, Washington. The company originally reprocessed animal byproducts and brewer's yeast. The business expanded in the 1960s to include recycling, reclaiming, treating and disposing of industrial wastes. These included electroplating wastes, waste acids (pickle liquor and battery acid), zinc dross and flue dust from steel mills, transformers, waste oils, pesticides and spent solvents. From 1961 until 1983, about 300 businesses transported their industrial wastes to the site. The company stored bulk tanks and drums on the site property. The property also contained other containers, buried materials, open waste piles and lagoons. In 1983, the company was permanently closed by federal court order. Site operations contaminated soil, groundwater and sediment with hazardous chemicals. Following cleanup, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA divided the site into two areas, referred to as operable units, or OUs.
+
+**Cleanup Actions**
+
+In 1984, EPA selected a long-term remedy for OU-1 to address surface site cleanup. It included digging up and removing all bulk liquids, drummed liquids and waste piles to a permitted off-site facility for disposal or incineration; removal and proper disposal of all transformers and substation equipment; demolition and removal of all on-site buildings to a permitted off-site facility; dismantling of all on-site bulk storage tanks and sold for scrap metal where possible; removal of all debris; site grading; installation of a stormwater collection system; and use of a portable treatment plant to treat collected water.
+
+In 1985, EPA selected an interim remedy for OU-2 that addressed site-wide soils. It included a soil and waste sampling program, both on and off site; excavation and off-site disposal of the most highly contaminated soils and non-soil material; excavation of nearby off-property soils; and covering remaining soils. The plan also included construction and operation of a shallow groundwater extraction system, groundwater treatment plant and a stormwater control system; excavation of contaminated East Drain and Mill Creek sediments; and construction and maintenance of a RCRA-like cap over the source area. The plan also included long-term surface water and groundwater monitoring; conditionally required actions if performance standards are not achieved or if it appears that more than 20 years of groundwater extraction will be necessary; and institutional controls, as needed.
+
+EPA updated the OU-2 remedy in 1986 to include construction and operation of a groundwater extraction and treatment system to address a plume that had migrated off site, as well as updated cleanup and performance goals. A second OU-2 remedy update in 1995 formalized the site’s conditionally required remedies. The update also included institutional controls to protect the cap and slurry wall and limit groundwater usage; containment pumping and treatment of extracted groundwater; and capping of the site after removal of the extraction and treatment systems. The revised plan also included long-term surface water and groundwater monitoring; construction of a cut-off wall; “hot spot” remediation of targeted areas using bioremediation, thermal desorption and stabilization techniques; site maintenance; and contingency planning for mitigating potential releases from the site if containment pumping is not effective.
+
+**Cleanup Progress**
+
+Beginning in 1983, EPA removed truckloads of chemical waste, contaminated soil and other debris from the site. The removal included drums of polychlorinated biphenyl ( [PCB](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCB) )-contaminated liquids, flammable/combustible liquids or solvents, corrosive liquids, other waste liquids and solidified flammables and paint sludges. EPA and the State of Washington also capped a waste material pile with an impermeable, flexible cover, regraded portions of the site, installed a stormwater runoff system, and constructed a lined impoundment for stormwater collection and treatment. The removal action finished by November 1984, with the exception of a dioxin-contaminated oily liquid discovered in one storage tank. The liquid was later treated on site in 1986. Residual material from the treatment process was shipped off site for incineration.
+
+In 1988, the site’s potentially responsible parties (PRPs) constructed a slurry wall around the site to laterally confine remaining contaminants on site. The PRP used groundwater extraction to vertically contain contamination; extracted groundwater was then treated to remove the contaminants and discharged to the local sewer system. The PRP cleaned up contaminated sediments in Mill Creek and the East Drain in 1994. Extensive monitoring, including sampling of the extraction wells, treatment plant influent and effluent, and Mill Creek and the East Drain, is ongoing. In 1999, the PRPs placed an impermeable RCRA cap over the main containment area.
+
+The PRPs extracted and treated the off-site plume between 1988 and 2000 and continue to monitor groundwater until cleanup standards have been met. Groundwater in the main containment area continues to be pumped and treated until all cleanup goals have been met. Most of the institutional controls are in place. Some of the required controls, such as deed restrictions, still need to be implemented in order to ensure the long-term protectiveness of the remedy.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+All data indicate that the remedy has been operating successfully for many years. Pumping and treatment rates have been dramatically decreased over time and continue to be effective in containing contamination within the confining slurry wall and RCRA cap. The monitored natural attenuation remedy applied in the off-site trans plume areas has been shown to be effective in reducing the size and contaminant concentrations of the groundwater plume. Monitoring data indicate that the trans plume has biodegraded to levels well below the ROD action levels.
+
+The 2013 five-year review found that concentrations of PAHs in the East Drain were elevated considerably above the State of Washington's new Freshwater Sediment Standards. The recommendation was to evaluate PAH concentrations in Mill Creek and East Drain and determine whether contamination found is related to the site or whether the sediment remedy works and is protective.
+
+EPA completed the sixth Five-Year Review in 2018. It concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. EPA found that the federal cleanup standards for surface water in Mill Creekand East Drain met cleanup levels. Continued protectiveness of the remedy requires that the current institutional controls remain in place and that an IC is placed on the RCRA cap in Sector 1.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Some institutional controls have been established. Passive controls include state regulations, currently in effect, limiting groundwater use as a drinking water source in the affected area. Active controls include annual land use notifications and engineering controls of fencing and site security. The site property is leased by the Trust and they maintain an office at the site. They actively maintain the site for security, proper fencing and locked gates, treatment plant operations, cap maintenance and the long term monitoring program as part of their approved O&M plan. However, ROD required institutional controls in the form of restrictive covenants or deed notices have not been implemented in Sector 1.
+
+### Sampling and Monitoring
+
+Groundwater quality monitoring results have indicated a strong downward trend for the contaminants of concern for wells in the trans plume area. Mill Creek surface water quality monitoring data do not reflect contamination from the Site although occasional sampling analysis results register exceedences in Federal Ambient Water Quality Criteria (AWQC) originating upstream of the Site. The source of these impacts is not known. EPA is re-evaluating the sampling requirement for the Site.
+
+### Emergency Response and Removal
+
+In April 1983, EPA issued a CERCLA Section 106 order requiring the owners/operators to cease operations immediately and to provide assurances that they would conduct a cleanup. When those assurances were not obtained, EPA used Superfund money to conduct an immediate removal operation to stabilize the Site. Work began in late April 1983 and was completed in July 1983. Over 1,900 cubic yards of solids/sludges and 930,000 gallons of waste liquids and hazardous substances were removed from the Site.
+
+### Enforcement Information
+
+The Western Processing facility was permanently closed by court order in July 1983.
+
+Under an August 1984 Consent Decree, a group of over 190 Potentially Responsible Parties were formed into the Western Processing Trust Fund, and undertook the initial surface cleanup.

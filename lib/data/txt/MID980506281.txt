@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 40-acre Gratiot County Landfill site is located southeast of St. Louis, Michigan. In 1971, the Gratiot County Board of Public Works operated the landfill for the disposal of domestic, commercial and industrial solid wastes. The Michigan Department of Environmental Quality (MDEQ) licensed the landfill for operation in 1974. However, because of permit violations, MDEQ started proceedings to revoke the landfill's license in 1976. Contaminants of concern include 269,000 pounds of polybrominated biphenyls (PBBs). Waste disposal operations contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and federal actions.
+
+EPA and MDEQ have reviewed the site’s remedy with Gratiot County. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires ongoing groundwater and methane monitoring and evaluation as well as compliance with effective institutional controls.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included building a slurry wall around the perimeter of the landfill; construction of burial cells inside the landfill to encapsulate the PBB-contaminated waste; excavation, transportation and burial of about 20,000 cubic yards of PBB-laden waste from property across from the site; fencing the landfill; construction of a clay cap over the entire landfill; and construction of a lagoon to collect surface water runoff to control the source of hazardous PBB contamination in the soils and groundwater. Construction of the remedy finished in 1995. Improvements to the methane collection system and Operation and maintenance activities are ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater and surface water contain PBBs. Potential health risks include accidental ingestion of or direct contact with contaminated groundwater and surface water.

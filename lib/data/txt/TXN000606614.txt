@@ -1,2 +1,42 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The East 67th Street Ground Water Plume site is located just north of Odessa, Texas. The site consists of a contaminated groundwater plume originating from an intentional release of over 15,000 gallons of solvents, along with 635 gallons of tetrachloroethene (PCE) from the former Delta Chemical facility (now Brenntag) on East 67th Street.
+
+The water table is at a depth of 60 feet and the base of the aquifer is about 145 feet below ground surface. Tetrachloroethene from the spill has formed a plume in the aquifer that extends eastward along East 67 <sup>th</sup> Street to Stevenson Avenue. EPA signed a Record of Decision in September 2011 that selected the cleanup strategy to address human exposure from ground water contamination, the remaining tetrachloroethene source area, and the ground water contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The U.S. Environmental Protection Agency (EPA) and the Texas Commission on Environmental Quality (TCEQ) are conducting a cleanup of the tetrachloroethene contamination in the ground water and former spill area at the East 67 <sup>th</sup> Street Ground Water Plume Superfund Site. The current site activities include:
+
+- Operation and Maintenance activities of the soil vapor extraction system.
+- Ongoing assessment and monitoring of the ground water contamination through periodic sampling of the monitoring wells and the nearby private supply wells.
+- Installation of a new PlumeStop injection line to control PCE migration in the lower sand aquifer.
+
+**Completed actions include the following activities:**
+
+- Cleanup activities began in December 2014, and are ongoing at this Superfund Site.
+- Installed 17 replacement private water supply wells, and plugged and abandoned 18 existing water supply wells within the tetrachloroethene plume to prevent exposure to the contaminated ground water.
+- Installed 11 injection wells and 8 observation wells south of East 67 <sup>th</sup> Street to treat the tetrachloroethene contamination in the shallow aquifer zone migrating away from the former spill area. Treatment of the ground water uses naturally occurring bacteria (bioremediation) to breakdown the tetrachloroethene into a non-hazardous chemical components.
+- Installed 24 injection wells and six monitoring wells along Stevenson Avenue, north of East 67 <sup>th</sup> Street, to treat the tetrachloroethene contamination in the lower zone of the aquifer (Figure 2). Treatment of the ground water uses a liquid carbon product that captures the tetrachloroethene migrating through the treatment zone.
+- Ongoing assessment and monitoring of the ground water contamination through periodic sampling of the monitoring wells and the nearby private supply wells.
+- Installation of three horizontal soil vapor extraction wells beneath the spill that occurred in 1985 at the former Delta Solvents facility located at 108 East 67th Street (see Figure 1). The wells were installed at a depth of 35 feet below ground surface.
+- Installation of a treatment unit on the Brenntag property, operated by EPA, to extract solvent vapors beneath the former spill area. The extracted solvent vapors is trapped in a granular activated carbon unit to prevent concentrations from exceeding permissible air limits.
+- Installation of soil vapor extraction system.
+
+The contaminant plume is located along 67th Street between Yukon Road to the north and VFW Lane to the south, Andrews Highway to the west and Alderfer Avenue to the east. The Trinity Aquifer is the only groundwater source for drinking water in the area.The contaminant plume is located along 67th Street between Yukon Road to the north and VFW Lane to the south, Andrews Highway to the west and Alderfer Avenue to the east. The Trinity Aquifer is the only groundwater source for drinking water in the area.
+
+### What Is the Current Site Status?
+
+Implementation of Remedial Actions began in 2014 and are ongoing. EPA and TCEQ are continuing assessment and monitoring of the groundwater contamination through periodic sampling of the monitoring wells and the nearby private supply wells. The 1st Five Year Review is currently being conducted to ensure that the remedy is protective of human health and the environment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+State Contact (TCEQ): Xiaoxia Lu, 512-239-4521, [xiaoxia.lu@tceq.texas.gov](mailto:xiaoxia.lu@tceq.texas.gov)
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. The TCE installed and maintained water filtration systems on 13 private wells with contamination exceeding drinking water limits established under the federal Safe Drinking Water Act. The water filtration systems were removed after the affected supply wells were replaced during the 2015 remedial action project.

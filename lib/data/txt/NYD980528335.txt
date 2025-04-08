@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The GE Moreau site is located in Moreau, New York. General Electric Company (GE) used a pit on the property to dispose of industrial waste from 1958 to 1968. The disposal activities contaminated the soil, surface water, and groundwater. GE performed cleanup activities at the site under legal agreements with the New York State Department of Environmental Conservation and EPA. Cleanup actions were completed in 1990; maintenance and monitoring are ongoing. While groundwater at the site continues to exceed federal cleanup levels for several chemicals of concern, there are currently no exposure pathways that could result in unacceptable risks to the public.
+
+### What Has Been Done to Clean Up the Site?
+
+Initial Actions: In 1978, GE removed about 100 cubic yards of contaminated soil from the pit for off-site disposal. The pit was covered with a soil mix to reduce exposure and potential volatilization (release into the air), and the area was fenced and posted. As a temporary measure, GE also installed activated carbon filter systems in nearby homes where drinking water was contaminated with volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that can easily evaporate into the air.
+
+Long-Term Cleanup: In 1985, GE installed a containment system to control the flow of the contaminated groundwater. The containment system consists of a vertical soil-bentonite barrier wall and a clay cap that was placed over and around the disposal pit. Before it was capped, contaminated soil from the roads was dug up and placed in the containment system. GE also installed an air stripping treatment system on Reardon Brook to treat contaminated groundwater after it discharges to surface water. Air stripping is the process of sendingair through contaminated water in an aboveground treatment system to volatilize VOCs.
+
+Approximately 100 residences located nearest to the site were connected to a public water supply system. These residences were subsequently incorporated into a new water district which extends well beyond the area of the site, and which is connected to a regional water supply system to insure reliability.
+
+GE completed cleanup actions in 1990. Maintenance and monitoring are ongoing to ensure the effectiveness of the containment system. The air stripper on Reardon Brook is operated by the Village of Fort Edward.
+
+In 1991, based on data collected after the installation of the monitoring system, EPA determined that an estimated 55,000 to 65,000 gallons of water were being lost through the barrierwall annually. EPA determined that the water level inside the cutoff wall should be lowered to reduce the flow of impacted groundwater through the wall. In 1994, EPA issued an Explanation of Significant Differences (ESD) to document this decision and establish performance criteria to require that the flow of impacted groundwater be reduced. To meet the performance criteria, dewatering of the containment system was performed 1994-1996, 2003-2004, 2011, and 2014.
+
+In another a 1994 ESD, EPA waived the cleanup standards for groundwater in the plume (area where contaminants disperse) because it would be technically impractical to attain those standards in a reasonable period of time. The waiver did not change the cleanup standards for Reardon Brook after treatment by the air stripper.
+
+Site use is currently restricted to only cleanup-related activities under a permanent easement granted by the New York State Department of Environmental Conservation in 1986. In 2001, the Town of Moreau enacted a regulation that restricts groundwater use within a buffer area around the plume. In addition, the locality extended the public water supply to include all residences near the area of groundwater contamination.
+
+In response to nationwide concerns that under certain conditions, VOCs might vaporize from contaminated groundwater and rise up through the soil to enter buildings, in 2002, 12 residences along Bluebird Road (located over and near the groundwater plume) and Moreau Elementary School (near the plume) were tested for vapor intrusion. None was found. Other testing areas included a small ponded area in a sand pit adjacent to the site and soil gas testing at a nearby planned subdivision.
+
+All cleanup actions have been implemented at the GE Moreau site.
+
+### What Is the Current Site Status?
+
+The air stripper at Reardon Brook continues to treat approximately 215 million gallons per year of contaminated water; it is expected to operate for more than 200 years.
+
+Groundwater samples are collected semiannually and annually and surface water samples are collected annually to monitor the contaminated groundwater plume.
+
+GE is required to operate, maintain, and monitor the implemented cleanup remedy at the site.
+
+As was noted above, groundwater from the containment system is periodically pumped out and treated on-site. In 2021, a phytohydraulic study commenced to manage this water. This involved planting approximately 50-60 hybrid poplar trees within the containment system area along with a solar powered pumping and irrigation system which will use groundwater from within the containment area to water the trees.. The system will be operated for several years while evaluating its effectiveness, after which point a determination will be made to continue using the new phytohydraulic system or to decommission it and return to the previous periodic extraction and treatment system.
+
+Five-year reviews are conducted at sites to ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.EPA conducted five-year reviews at the site in February 1994, September 1998, September 2003, September 2008, September 2013, September 2018, and April 2023. The most recent review concluded that the implemented cleanup actions currently protect human health and the environment in the short-term. To be protective in the long term, an investigation into the bedrock aquifer should be completed to determine if it has been impacted by site-related contamination. The five-year review also found that institutional controls which were inadvertently removed by the Town of Moreau should be reinstated in order to be protective in the long-term. This was completed via a town resolution passed on May 9, 2023. The next five-year review will be completed by April 2028.
+
+EPA and GE have been discussing the installation of three bedrock aquifer wells for the purposes of the investigation called for in the April 2023 five-year reviw. A site visit was conducted in May 2024 so that both parties could walk the site to determine mutually agreeable well placement locations. A work plan related to the necessary work is under preparation.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Site use is currently restricted to only cleanup-related activities under a permanent easement granted by the New York State Department of Environmental Conservation in May 1986. Groundwater withdrawal in the vicinity of the contaminated groundwater plume is also restricted until drinking water standards are met by Local Law No. 1 of 2001, Chapter 145, Article IV, Water District No. 4 Rules and Regulations, passed by the Town of Moreau in May 2001. It was readoptedas Local Law No. 2 of 2023 on May 9, 2023.
+
+### Sampling and Monitoring
+
+Groundwater monitoring for VOCs is conducted on an annual or semiannual basis for six and 23 wells, respectively. Surface water monitoring was previously conducted on a semiannual basis but, as of 2017, is conducted annually following discussions between EPA and GE to address recommendations in the 2013 five-year review report. The current surface water monitoring program includes annual sampling for VOCs at eight locations, as well as two surface water collection boxes that are sampled every five years.

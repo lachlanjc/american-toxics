@@ -1,45 +1,79 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Blue Ridge Plating Company Superfund site is located in Arden, Buncombe County, North Carolina. It includes the area where Blue Ridge Plating Company operated a metal plating facility starting in 1974. The site included the facility building where metal plating operations took place. Commercial and industrial businesses and residential properties surround the site. Two residences and an apartment complex are located west of the site which include low-income and minority residents. From 1974 to 1985, operations included collection of metal plating wastes in drums located in the basement of the facility. Operations filtered out plating sludge, discharged the wastewater to a 70,000-gallon in-ground concrete pond located behind the facility and disposed of plating sludge off site. Between 1985 and 1990, operations discharged wastewater to the local public sewer system. In 1990, the local government suspended the facility’s access to the sewer system because wastewater did not meet pretreatment requirements. After 1990, the company employed a closed loop waste recovery system, which was located in the facility basement. Blue Ridge Plating ceased operations when the Buncombe Fire Department declared the building unfit to occupy. The Removal Action removed everything including the building’s slab. The property was sold in March 2017. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 2005 because of contaminated groundwater and soil resulting from facility operations. Site contamination does not currently threaten people living and working near the site. A water line connects residences and businesses to the public water supply. By monitoring groundwater and undertaking Five-Year Reviews (FYRs), EPA and the North Carolina Department of Environment and Natural Resources (NCDENR) continue to protect people and the environment from site contamination.
-What Has Been Done to Clean Up the Site?
-2002 – 2004
-EPA, with the cooperation of NCDEQ, conducted a Remedial Investigation and Feasibility Study (RI/FS) at the Site between 2002 and 2004 using federal funds as the Blue Ridge Plating Company could not fund the RI/FS. EPA issued the Record on Decision (ROD) in 2004. The ROD specifies how a Superfund site is to be cleaned up. The 2004 ROD required digging up contaminated soil; stabilizing and transporting contaminated soil to an off-site landfill for disposal; sampling excavated areas, backfilling the areas with clean soil, and grading and revegetating the areas; using monitored natural attenuation to address groundwater contamination; and placing institutional controls on contaminated properties. 2005
-In 2005, EPA listed the site on the NPL. 2006 - 2007
-Actual cleanup activities began in November 2006 and were completed in September 2007.
-EPA excavated and disposed of 8,737 cubic yards of contaminated soil at an off-site facility. The area was regraded and revegetated.
-EPA installed four groundwater monitoring wells and an additional five groundwater monitoring wells in 2012 to identify the source and extent of trichloroethene in the groundwater. Annual groundwater monitoring activities at the site are ongoing.
-2008
-In June 2008, EPA issued an Explanation of Significant Difference (ESD) to correct the groundwater cleanup level for 1,1-dichloroethane in Table 18 of the 2004 ROD. 2012
-The first Five-Year Review was completed in 2012. The five-year review concluded that remedy at the Site currently protects human health and the environment in the short term because the soil contamination was remediated through source removal,and currently no human exposure pathways exist to contaminated groundwater as municipal water is supplied at and surrounding the Site. The following actions were required to ensure long-term protectiveness
-implement institutional controls
-complete delineation of the volatile organic compound plume
-issue an Explanation of Significant Difference to
-allow the collection of additional groundwater data to complete the evaluation of monitored natural attenuation and
-revise performance standards for 1,1-DCA and cyanide.
-EPA installed five additional groundwater monitoring wells in 2012 to identify the source and extent of trichloroethene in the groundwater. Annual groundwater monitoring activities at the site are ongoing. 2013
-A joint inspection was conducted by the EPA Region 4 RCRA program and NCDENRs RCRA Section in April 2013. During this inspection, a variety of issues were observed, including leaking and unlabeled containers. A City of Asheville Inspection report from the Fire Marshalls Office dated October 29, 2013 indicated the presence of hazardous substances on site. An inventory of the hazardous substances including hydrochloric acid, sulfuric acid, cyanides and various unknowns remained at the site. On December 18, 2013, the City of Asheville determined that the building to be unsafe and advised tenants to stay out. After a review of Site conditions, the EPA-Emergency Response and Removal Branch (ERRB) concluded that the Site meets the criteria as set forth for a time-critical removal action. 2016
-EPA’s sponsored time-critical removal action included removing all chemicals from the building, removing asbestos from the building, demolition of the building, the removal of the concrete flooring, and all contaminated soils underneath the flooring of the building (3,950 tons), and the abandonment of an old supply well. The removal action was completed in July 2016. 2017
-Institutional controls to restrict groundwater use were placed on the property in March 2017.
-What Is the Current Site Status?
-The most recent Five-Year Review was published by EPA Headquarters in 2017.  The remedy at the site currently protects human health and the environment in the short term because the soil contamination was remediated through source removal currently, no human exposure pathways exist to contaminated groundwater, as municipal water is supplied to the site and surrounding communities. EPA is conducting groundwater monitoring activities at the site.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls to restrict groundwater use were placed on the property in March 2017.
-Municipal water is supplied to the site and the surrounding communities.
+### Background
 
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
-The property was sold in March 2017. There were two key components of the negotiated settlement between the EPA and Blue Ridge Plating Company:
-Any/all proceeds from the sale of the property were to be given to the EPA to help defray costs incurred by the EPA during the RI/FS, site cleanup, and the time-critical removal action the EPA conducted between December 2014 and July 2015.
-The Blue Ridge Plating Company would place institutional controls on the property using NCDEQ Declaration of Perpetual Land Use Restrictions (DPLURs) process.
+The Blue Ridge Plating Company [Superfund](http://www.epa.gov/superfund) site is located in Arden, Buncombe County, North Carolina. It includes the area where Blue Ridge Plating Company operated a metal plating facility starting in 1974. The site included the facility building where metal plating operations took place. Commercial and industrial businesses and residential properties surround the site. Two residences and an apartment complex are located west of the site which include low-income and minority residents.
+
+From 1974 to 1985, operations included collection of metal plating wastes in drums located in the basement of the facility. Operations filtered out plating sludge, discharged the wastewater to a 70,000-gallon in-ground concrete pond located behind the facility and disposed of plating sludge off site. Between 1985 and 1990, operations discharged wastewater to the local public sewer system. In 1990, the local government suspended the facility’s access to the sewer system because wastewater did not meet pretreatment requirements. After 1990, the company employed a closed loop waste recovery system, which was located in the facility basement. Blue Ridge Plating ceased operations when the Buncombe Fire Department declared the building unfit to occupy. The Removal Action removed everything including the building’s slab.
+
+The property was sold in March 2017.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2005 because of contaminated groundwater and soil resulting from facility operations.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects residences and businesses to the public water supply. By monitoring groundwater and undertaking Five-Year Reviews (FYRs), EPA and the North Carolina Department of Environment and Natural Resources (NCDENR) continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+**2002 – 2004**  
+EPA, with the cooperation of NCDEQ, conducted a Remedial Investigation and Feasibility Study (RI/FS) at the Site between 2002 and 2004 using federal funds as the Blue Ridge Plating Company could not fund the RI/FS.
+
+EPA issued the Record on Decision (ROD) in 2004. The ROD specifies how a Superfund site is to be cleaned up. The 2004 ROD required digging up contaminated soil; stabilizing and transporting contaminated soil to an off-site landfill for disposal; sampling excavated areas, backfilling the areas with clean soil, and grading and revegetating the areas; using monitored natural attenuation to address groundwater contamination; and placing institutional controls on contaminated properties.
+
+**2005**  
+In 2005, EPA listed the site on the NPL.
+
+**2006 - 2007**  
+Actual cleanup activities began in November 2006 and were completed in September 2007.
+
+- EPA excavated and disposed of 8,737 cubic yards of contaminated soil at an off-site facility. The area was regraded and revegetated.
+- EPA installed four groundwater monitoring wells and an additional five groundwater monitoring wells in 2012 to identify the source and extent of trichloroethene in the groundwater. Annual groundwater monitoring activities at the site are ongoing.
+
+**2008**  
+In June 2008, EPA issued an Explanation of Significant Difference (ESD) to correct the groundwater cleanup level for 1,1-dichloroethane in Table 18 of the 2004 ROD.
+
+**2012**  
+The first Five-Year Review was completed in 2012. The five-year review concluded that remedy at the Site currently protects human health and the environment in the short term because the soil contamination was remediated through source removal,and currently no human exposure pathways exist to contaminated groundwater as municipal water is supplied at and surrounding the Site.
+
+The following actions were required to ensure long-term protectiveness
+
+- implement institutional controls
+- complete delineation of the volatile organic compound plume
+- issue an Explanation of Significant Difference to
+- allow the collection of additional groundwater data to complete the evaluation of monitored natural attenuation and
+- revise performance standards for 1,1-DCA and cyanide.
+
+EPA installed five additional groundwater monitoring wells in 2012 to identify the source and extent of trichloroethene in the groundwater. Annual groundwater monitoring activities at the site are ongoing.
+
+**2013**  
+A joint inspection was conducted by the EPA Region 4 RCRA program and NCDENRs RCRA Section in April 2013. During this inspection, a variety of issues were observed, including leaking and unlabeled containers.
+
+A City of Asheville Inspection report from the Fire Marshalls Office dated October 29, 2013 indicated the presence of hazardous substances on site. An inventory of the hazardous substances including hydrochloric acid, sulfuric acid, cyanides and various unknowns remained at the site.
+
+On December 18, 2013, the City of Asheville determined that the building to be unsafe and advised tenants to stay out. After a review of Site conditions, the EPA-Emergency Response and Removal Branch (ERRB) concluded that the Site meets the criteria as set forth for a time-critical removal action.
+
+**2016**  
+EPA’s sponsored time-critical removal action included removing all chemicals from the building, removing asbestos from the building, demolition of the building, the removal of the concrete flooring, and all contaminated soils underneath the flooring of the building (3,950 tons), and the abandonment of an old supply well. The removal action was completed in July 2016.
+
+**2017**  
+Institutional controls to restrict groundwater use were placed on the property in March 2017.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/work/04/11070115.pdf) was published by EPA Headquarters in 2017**.** The remedy at the site currently protects human health and the environment in the short term because the soil contamination was remediated through source removal currently, no human exposure pathways exist to contaminated groundwater, as municipal water is supplied to the site and surrounding communities.
+
+EPA is conducting groundwater monitoring activities at the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+- Institutional controls to restrict groundwater use were placed on the property in March 2017.
+- Municipal water is supplied to the site and the surrounding communities.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+- The property was sold in March 2017. There were two key components of the negotiated settlement between the EPA and Blue Ridge Plating Company:
+- Any/all proceeds from the sale of the property were to be given to the EPA to help defray costs incurred by the EPA during the RI/FS, site cleanup, and the time-critical removal action the EPA conducted between December 2014 and July 2015.
+- The Blue Ridge Plating Company would place institutional controls on the property using NCDEQ Declaration of Perpetual Land Use Restrictions (DPLURs) process.

@@ -1,2 +1,54 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The "Rockets, Fireworks, and Flares" (RFF) site includes a 160-acre industrial area in Rialto, California where volatile organic compounds (VOCs) and perchlorate have contaminated soil and groundwater. The site, formerly known as the B.F. Goodrich site, also includes a six-mile long area of groundwater contamination downgradient of the 160-acre area. Site investigations and cleanup are ongoing.
+
+In 1942, the U.S. Army used a portion of the site to store ammunition and weapons. After World War II, the 160-acre area was sold and used by defense contractors, fireworks manufacturers, and other businesses. The firms included West Coast Loading Corporation, B.F. Goodrich Corporation, Pyrotronics, Pyro Spectaculars, and American Promotional Events. These companies handled perchlorate salts and other hazardous chemicals and disposed of chemical wastes on site, contaminating the groundwater supply.
+
+The California Regional Water Quality Control Board led initial efforts to respond to the contamination. EPA added the site to the Superfund program’s National Priorities List (NPL) in September 2009. The Goodrich Corporation, Emhart Industries (a corporate successor to West Coast Loading Corporation), Pyro Spectaculars, American Promotional Events, and others have entered into agreements with EPA to pay for cleanup work at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA selected the site’s "Source Area Operable Unit" groundwater remedy in September 2010. The selected remedy is a groundwater pump-and-treat system intended to intercept and remove contaminated groundwater spreading from the 160-acre source area. The 160-acre source area is where most or all of the contaminants entered the groundwater and testing has identified the highest levels of groundwater contamination.
+
+The "Source Area Operable Unit" groundwater remedy was designed in 2013 and 2014, and constructed between 2015 and 2021. It includes a new groundwater extraction well; water treatment systems that make use of liquid-phase granular activated carbon (LGAC) and ion exchange to remove trichloroethene (TCE) and perchlorate from the extracted groundwater; pipelines and pumps to convey the treated water from the treatment plant to the City of Rialto's water distribution system for use as drinking water supply; and a groundwater monitoring program.
+
+In September 2022, EPA selected its second groundwater cleanup remedy at the site. The remedy addresses contaminated groundwater in the "mid-basin" area which has moved past (i.e., downgradient of) the Source Area remedy. To provide information needed to support the remedy, EPA completed testing between 2008 and 2012 and entered into an agreement with the Goodrich Corporation to complete additional testing and engineering evaluations as part of a second remedial investigation and feasibility study for the site. Eleven multi-level groundwater monitoring wells were installed and tested between 2013 and 2019. Testing of the groundwater is ongoing. This work is an area known as the "Mid-basin Operable Unit."
+
+Remediation of contaminated soils at the 160-acre area may also be needed. To provide information needed to support that decision, the Goodrich Corporation completed testing between 2013 and 2024 that included the installation and sampling of six 400' vapor wells, subslab vapor sampling, and indoor air testing. An engineering evaluation is underway to help determine whether soil remediation is needed. This work is an area known as the "Soils Operable Unit."
+
+### What Is the Current Site Status?
+
+The "Source Area Operable Unit" groundwater remedy began continuous operation in early 2023 after issuance of a permit by the California Division of Drinking Water.
+
+EPA released its Mid-Basin Operable Unit proposed cleanup plan for public comment from January 24 to February 23, 2022, and its final cleanup plan, called a “Record of Decision” in September 2022. The Record of Decision includes a summary of all comments received during the comment period and EPA’s responses to the comments. The estimated cost of the cleanup is $31 to $37 million. EPA formed a design working group with the cities of Rialto and Colton, and the West Valley Water District, to provide input on key design decisions, including where groundwater pumped from the leading-edge area will be treated. An agreement is in place for the responsible party to design, construct, and operate the wells, pipelines, and water treatment facilities required by the Record of Decision. Design work has begun in accordance with the [remedial design workplan](https://semspub.epa.gov/src/document/09/100032662) and is expected to continue into 2025.
+
+### Sampling and Monitoring
+
+The most recent Source Area groundwater monitoring report is dated [July 2024](https://semspub.epa.gov/src/document/09/100037652). The most recent Mid-Basin groundwater monitoring report is dated [May 2024](https://semspub.epa.gov/src/document/09/100036811) [3](https://semspub.epa.gov/src/document/09/100032014).
+
+### Enforcement Information
+
+EPA has identified the following parties as PRPs at the site:  
+  
+\- Goodrich Corporation  
+\- Emhart Industries (on behalf of West Coast Loading Corporation)  
+\- Pyro Spectaculars Inc. (PSI)  
+\- Ken Thompson Inc. (current property owner)  
+\- The estate of Chung Ming Wong (current property owner)  
+\- Pyrotronics, Inc. (“Pyrotronics”) and Harry Hescox  
+  
+In February 2010, the U.S. Department of Justice (DOJ) filed a complaint on EPA’s behalf pursuant to CERCLA and the Resource Conservation and Recovery Act (RCRA) seeking reimbursement of costs and performance of response actions by the PRPs. In February 2011, EPA issued "Special Notice" letters to PRPs at the site inviting the PRPs to participate in formal negotiations with EPA in an effort to reach a settlement to conduct or finance the cleanup identified in its September 2010 Record of Decision. When the special notice moratorium expired in May 2011, EPA had not received a "Good Faith Offer" to its Special Notice letters.
+
+In 2012, EPA reached settlements with PSI, Emhart Industries, and other entities involved in litigation at the site. In 2013, EPA reached settlements with Goodrich and Ken Thompson Inc.
+
+The settlement with PSI was lodged with the Court on October 10, 2012, open for public comment until November 26, 2012, and approved by the Court in March 2013. The settlement requiredpayment of $4.3 million to help fund the cleanup and partially reimburse EPA for money spent on investigation work at the Site. The PSI settlement includes the following entities: PSI; Astro Pyrotechnics (a defunct subsidiary of PSI); Trojan Fireworks; Thomas O. Peters and related trusts; and Stonehurst Site, LLC.  
+  
+The settlement with Emhart Industries was available for public comment until January 31, 2013 and approved by the Court in July 2013. The Emhart settlement requires Emhart, the U.S. Dept. of Defense, and other settling parties to fund the design, construction, and operation of the groundwater wells, water treatment systems, and other equipment called for in EPA's 2010 cleanup plan for the Source Area Operable Unit. The cleanup work is estimated to cost over $43 million over the next 30 years. The Emhart settlement includes the following entities: Emhart Industries, Inc., Black & Decker Inc, American Promotional Events, Inc., the Department of Defense, the Ensign-Bickford Company, Raytheon, Whittaker Corporation, Broco, Inc., and J. S. Brower & Associates, Inc. and related companies.  
+  
+The settlement with Goodrich Corporation includes two agreements. The first agreement requires Goodrich, under an administrative consent order with EPA, to install additional groundwater monitoring wells and complete testing and engineering analyses as part of EPA's RI/FS process for the Mid-Basin and Soils Operable Units. EPA used the results of the Mid-Basin RI/FS to develop its 2022 cleanup plan and expects to make a decision on the need for cleanup of the Soils Operable Unit in 2024 or 2025. The second agreement is a judicial consent decree, which requires Goodrich, under EPA’s oversight, to design, build, and operate any cleanup facilities selected by the agency in the cleanup plan for the Mid-Basin and Soils Operable Units. The Consent Decree was available for public comment until May 1, 2013 and approved by the Court in July 2013.  
+  
+The Consent Decree with Ken Thompson Inc. was also available for public comment until May 1, 2013 and approved by the Court in July 2013. The settlement required payment of $2.8 million to help fund the cleanup and partially reimburse EPA for money spent on investigation work at the Site.
+
+The Consent Decree with the estate of Harry Hescox, a former president of Pyrotronics, was available for public comment until March 10, 2014 and approved by the Court on April 7, 2014. The settlement required payment of $11 million to help fund the cleanup and partially reimburse EPA for money spent on investigation work at the Site.  
+  
+The sixth and last planned Consent Decree, with the estate of Chung Ming Wong, was made available for public comment in August 2017. A public meeting on the proposed Consent Decree was held at the Grace Vargas Senior Center in Rialto, CA on October 25, 2017. The agreement was approved by the Court in December 2017.

@@ -1,18 +1,17 @@
-UTAH POWER & LIGHT/AMERICAN BARREL CO.SALT LAKE CITY, UT
-  Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 2.2-acre Utah Power & Light/American Barrel Co. site is located in Salt Lake City, Utah. Barrel storage, wood-treating and coal gasification operations took place on site from 1870 to 1987. The wood-treating and coal gasification operations produced byproducts such as tar, sludge, ash and liquid wastes. Site activities and waste disposal practices contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
+### Background
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through PRP actions.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires addressing increasing cyanide levels in a site boundary monitoring well (RW-600) and the potential for vapor intrusion.
+The 2.2-acre Utah Power & Light/American Barrel Co. site is located in Salt Lake City, Utah. Barrel storage, wood-treating and coal gasification operations took place on site from 1870 to 1987. The wood-treating and coal gasification operations produced byproducts such as tar, sludge, ash and liquid wastes. Site activities and waste disposal practices contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.  
 
-What Is the Current Site Status?
-The long-term remedy included removal of 50,000 empty barrels; excavation and removal of 20,000 tons of contaminated soil; removal and disposal of 1,388 tons of non-hazardous debris; construction and operation of a soil vapor extraction and groundwater treatment system; and institutional controls. Remedy construction took place between 1994 and 1996.In 2007, EPA approved the potentially responsible party’s (PRP’s) request to transition from active remediation (soil vapor extraction and groundwater treatment) to passive remediation. Monitored natural attenuation of groundwater contaminants is ongoing.Overall, groundwater monitoring data suggest that the underlying organic contaminated plume has remained within the boundaries of the site. Stringent institutional controls are in place to restrict use of contaminated groundwater and residences and businesses in the area are connected to the municipal water system.
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through PRP actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires addressing increasing cyanide levels in a site boundary monitoring well (RW-600) and the potential for vapor intrusion.  
+
+### What Is the Current Site Status?
+
+The long-term remedy included removal of 50,000 empty barrels; excavation and removal of 20,000 tons of contaminated soil; removal and disposal of 1,388 tons of non-hazardous debris; construction and operation of a soil vapor extraction and groundwater treatment system; and institutional controls. Remedy construction took place between 1994 and 1996.
+
+In 2007, EPA approved the potentially responsible party’s (PRP’s) request to transition from active remediation (soil vapor extraction and groundwater treatment) to passive remediation. Monitored natural attenuation of groundwater contaminants is ongoing.
+
+Overall, groundwater monitoring data suggest that the underlying organic contaminated plume has remained within the boundaries of the site. Stringent institutional controls are in place to restrict use of contaminated groundwater and residences and businesses in the area are connected to the municipal water system.

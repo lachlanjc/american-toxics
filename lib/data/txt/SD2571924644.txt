@@ -1,2 +1,69 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Ellsworth Air Force Base (EAFB) is a U.S. Air Force Air Combat Command base located six miles east of Rapid City, South Dakota, next to the town of Box Elder. EAFB began operating in July 1942 as the Rapid City Army Air Base, a training facility for B-17 bomber crews. In 1948, as part of the 28th Strategic Reconnaissance Wing, it became a permanent facility.
+
+Historically, EAFB has been operations headquarters for a variety of aircraft, as well as the Titan I intercontinental ballistic missile system and the Minuteman missile system. Presently, the 28th Bomb Wing (B-1B bombers) is the host unit of EAFB.
+
+EAFB covers about 4,858 acres in Meade and Pennington counties. The base includes runways, airfield operations, industrial areas, housing and recreation facilities. A half-century of military activities contaminated soil, sediment, surface water and groundwater with hazardous chemicals on the base and on private land beyond its boundaries. Following cleanup, operation and maintenance activities and groundwater monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The Air Force performs all cleanup activities. EPA and the state of South Dakota provide regulatory oversight.
+
+The Air Force has conducted five-year reviews at the site. These reviews evaluate whether the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that groundwater remedies are in place and operating, and that they protect human health and the environment because contaminated groundwater is contained at the base boundary, high concentration source areas have been identified and are being treated, and land use controls and alternate water supplies prevent contaminated groundwater use.
+
+New areas under remedial investigation and site inspection do not yet have identified remedies in place. They were discussed but not evaluated in the last five-year review. If remedies are required, they will be evaluated in the next five-year review.
+
+### What Is the Current Site Status?
+
+The site is divided into 12 areas called operable units (OUs). These areas include:
+
+- landfills
+- a fire protection training area
+- spill sites
+- industrial areas
+- an explosive-ordinance disposal area
+
+The EPA and the Air Force have done cleanups at all OUs.
+
+The 2015 five-year review found four more areas that needed to be studied. This was to figure out if they belong in a new or existing OU. These areas included:
+
+- munitions on base
+- vapor intrusion on base
+- PFCs from multiple possible sources on base
+- buried concrete structures near OU-2 that may need to be removed
+
+The long-term cleanups included:
+
+- groundwater pump-and-treat systems
+- removing chlorine with chemicals like sodium sulfite
+- landfill covers
+- soil treatment systems
+- excavation activities
+- using chemicals and microorganisms to break down contamination
+- new rules, called institutional controls
+
+The cleanups are working as planned. Starting in 2007, new treatment systems replaced the pump-and-treat systems for groundwater cleanup. Today the cleanups are being operated and maintained. The EPA is also monitoring groundwater.
+
+Additional cleanup work included abandonment of base water supply wells and extension of a water supply line off base. Ellsworth AFB supplied water to east off-base residents until 2007. After that, the City of Box Elder got a license for operation and maintenance of the water supply. Ellsworth AFB still provides water to people who live southwest of the base.
+
+Groundwater is the only remaining portion of the site that needs more cleanup. The EPA proposed to delete all the areas above ground on the site from the Superfund Program’s National Priorities List in March 2012. The EPA did not receive any comments. The ground areas of the site were then deleted from the list in May 2012. The EPA will still monitor and maintain the deleted portions of the site.
+
+The Air Force is also investigating areas contaminated with PFAS (per- and polyfluoroalkyl substances). PFAS was used in firefighting foams at military bases. They can travel on and under the ground and stay in the environment. There may be health concerns when PFAS is in the parts per trillion range.
+
+The US Air Force first detected PFAS in the groundwater at Ellsworth AFB in 2011. The PFAS in the groundwater has travels beyond base boundaries. It has contaminated local private drinking water wells. The contamination in drinking wells was first found in 2016.
+
+The groundwater, also called at plume, is estimated to be about 25 miles long. Removal of emerging contaminant PFAS started in 2019. The groundwater under the site is called OU13 and is divided into six areas: 
+
+- Area A, southwest of Ellsworth AFB
+- Area B, south of East Waterline along Interstate 90 and Boxelder Creek
+- Area B North, east of Ellsworth AFB and immediately south of East Waterline
+- Area C, part of Boxelder Creek almost mid-way between Box Elder and New Underwood
+- Area D, part of Boxelder Creek about mid-way between New Underwood and Owanka
+- Area E, part of Boxelder Creek just east of New Underwood
+
+As of October 2023, an investigation for OU13 being done to define the type and location of PFAS on- and off-base. Bottled water is currently being supplied to three properties off base based on early information for areas off-base. The Air Force operates 21 residential treatment systems.
+
+In addition, a short-term cleanup is building a new community water line for Areas A/B. A second short-term cleanup is connecting Area C to the Sunset Ranch Community Water System. They are also installing a replacement shallow well in Area D.
+
+The Air Force is also investigating vapor intrusion on base and low-level radioactive waste potentially present in concrete monoliths. They have found that there is not a need to do more work on vapor intrusion in off-base areas where trichloroethylene (TCE) was previously found in the groundwater.

@@ -1,2 +1,36 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 3.5-square mile Tri-County Public Airport (TCPA) site is located approximately seven miles east of the city of Herington in rural Morris County, Kansas. The geographic coordinates at the approximate center of the site are latitude 38°44’6.4" N and longitude 96°48'41.7" W. The surrounding land use is primarily agricultural, which includes farming and ranching operations. Clarks Creek lies approximately three miles west of the site.
+
+The TCPA site was an Army airfield during World War II. Later activities at the site included aircraft restoration, plane storage and manufacturing of farm implements, black powder and roofing materials. Manufacturing operations contaminated groundwater and soils with trichloroethylene (TCE) and degradation products.
+
+Beginning in 1994, investigations of the site and the surrounding area have been conducted by the U.S. Army Corps of Engineers (USACE), the Kansas Department of Health and Environment (KDHE), the U.S. Environmental Protection Agency and Raytheon Aircraft Company. Several volatile organic compounds, including TCE, dichloroethylene (DCE) and vinyl chloride were detected in soil and groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+Samples taken in 1997 from residential water supply wells located north and northwest of the site found TCE above the EPA maximum containment level (MCL) of 5 micrograms per liter (ug/L). Thus, the EPA authorized a time critical removal action to provide bottled water and filtration to residences. Subsequently, on March 29, 2000, the EPA entered into a consent order, CERCLA-7-2000-0013 with Raytheon Aircraft Company, a responsible party, to provide whole house filtration to 22 residences.
+
+In early 2006, the extension of the Herington water system was completed which included adding approximately 50 new residences to the water line. The water supply line provides potable water for the airport and other industrial operations at the TCPA. It also connected the 15 residences previously provided whole house carbon filtration systems, as well as approximately seven residences who were provided maintenance/monitoring on existing carbon filtration. The exceptions are one residence (812 S. 2700 Road) that has VOC detections less than the MCLs but continues to use carbon treatment, and the other is a business that is no longer in operation.
+
+A site investigation conducted by the EPA in October 2010 documented the presence of drummed wastes stored on the site. The EPA oversaw a removal action to dispose of the drummed wastes in May 2011.
+
+### What Is the Current Site Status?
+
+Although all known impacted homes have been addressed, investigations remain ongoing to determine the best way to address contaminated groundwater in the area. KDHE finalized the Corrective Action Decision (CAD) in December 2020.
+
+CAD remedies include:
+
+- *In situ* chemical oxidation
+- Soil vapor extraction
+- Implemented various institutional controls
+- Water well management
+
+### Sampling and Monitoring
+
+The responsible party continues to perform quarterly groundwater sampling at the site in accordance with the March 29, 2000 Administrative Order On Consent – CERCLA-7-2000-0013 (Order).
+
+### Enforcement Information
+
+In September 2021, the EPA and KDHE have mutually determined to defer the site to KDHE by adding it to the list of sites on Attachment A of the Memorandum of Agreement between the two agencies..
+
+KDHE will continue to manage the site through its September 15, 2015 Consent Order Agreement and Final Order (CAFO) with Beechcraft Corporation (Respondent), as well as subsequent amendments, until KDHE has determined that respondent has demonstrated that the terms of the CAFO have been satisfactorily completed.

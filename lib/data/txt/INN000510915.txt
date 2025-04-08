@@ -1,15 +1,13 @@
-BROADWAY STREET CORRIDOR GROUNDWATER CONTAMINATIONANDERSON, IN
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
- The Broadway Street Corridor Groundwater Contamination in Anderson, Indiana consists of three separate groundwater contamination plumes. In 1992, concentrations of chlorinated volatile organic compounds at or above the Safe Water Drinking Act’s Maximum Contaminant Levels (MCLs) was found in untreated water in three of the municipal wells that supply water to residents of Anderson. In 2011, the Indiana Department of Environmental Management reported trace concentrations of volatile organic compound contamination in the finished water at the treatment plant and referred the site to IDEM’s Site Investigation Program. In 2013, IDEM also found vinyl chloride in raw water. Since 1999, the city has been treating the water with air strippers to reduce contaminant levels to below their respective MCLs. Despite several investigations in the area, the source of the contamination is unknown.
-What Has Been Done to Clean Up the Site?
-In September 2018, EPA listed Broadway Street Groundwater Contamination site on the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term remedial action and federal funding under the Superfund law. The Superfund law is what gives EPA the authority to clean up releases of hazardous substances. Although there are three separate, distinct groundwater plumes from three separate source areas, the Broadway Street Corridor Groundwater Contamination is listed one site because water from all three contaminated municipal wells is blended at the Wheeler Avenue Treatment Plant before being distributed. The contamination from each plume affects the same population, and a combined listing will allow for more effective management of the risk posed by contamination and any cleanup of the contamination.
-What Is the Current Site Status?
- EPA continues to investigate the source and extent of contamination at the site. Neither IDEM nor EPA has been able to identify the source of the contamination entering the drinking water supply wells for Anderson.
+### Background
+
+The Broadway Street Corridor Groundwater Contamination in Anderson, Indiana consists of three separate groundwater contamination plumes. In 1992, concentrations of chlorinated volatile organic compounds at or above the Safe Water Drinking Act’s Maximum Contaminant Levels (MCLs) was found in untreated water in three of the municipal wells that supply water to residents of Anderson. In 2011, the Indiana Department of Environmental Management reported trace concentrations of volatile organic compound contamination in the finished water at the treatment plant and referred the site to IDEM’s Site Investigation Program. In 2013, IDEM also found vinyl chloride in raw water. Since 1999, the city has been treating the water with air strippers to reduce contaminant levels to below their respective MCLs. Despite several investigations in the area, the source of the contamination is unknown.
+
+### What Has Been Done to Clean Up the Site?
+
+In September 2018, EPA listed Broadway Street Groundwater Contamination site on the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term remedial action and federal funding under the Superfund law. The Superfund law is what gives EPA the authority to clean up releases of hazardous substances.
+
+Although there are three separate, distinct groundwater plumes from three separate source areas, the Broadway Street Corridor Groundwater Contamination is listed one site because water from all three contaminated municipal wells is blended at the Wheeler Avenue Treatment Plant before being distributed. The contamination from each plume affects the same population, and a combined listing will allow for more effective management of the risk posed by contamination and any cleanup of the contamination.
+
+### What Is the Current Site Status?
+
+EPA continues to investigate the source and extent of contamination at the site. Neither IDEM nor EPA has been able to identify the source of the contamination entering the drinking water supply wells for Anderson.

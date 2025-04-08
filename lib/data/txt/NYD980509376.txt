@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 85-acre Volney Landfill site is located in Volney, New York. Landfilling operations took place at an unlined disposal area on site from.
+
+The Oswego Valley Solid Refuse Disposal District Board owned and operated the landfill from 1969 to 1975, when the current owner, Oswego County, acquired it. During its operation from 1969 to 1983, the unlined landfill accepted wastes from homes, businesses, and light industry. However, from 1974 to 1975, the landfill accepted up to 8,000 barrels containing chemical residues from a local hazardous waste treatment facility. Of these, allegedly 200 barrels contained liquids of unknown volume and composition. Also, from 1976 to 1978, the landfill accepted an industrial sludge, which was later identified as hazardous waste. After terminating disposal operations at the landfill in 1983, Oswego County finished closure of the landfill in 1985.
+
+EPA placed the site on the Superfund program’s National Priorities List in June 1986
+
+### What Has Been Done to Clean Up the Site?
+
+Source Control: Landfill closure by the County was finished in 1985. This included capping the top of the landfill with a synthetic liner, capping the side slopes with compacted soil, installing a landfill gas collection system on the lined-top of the landfill, and installing a leachate collection system in the northern part of the site.
+
+After a source control remedial investigation and feasibility study to determine the nature and extent of contamination emanating from the site and to evaluate remedial alternatives, EPA selected a remedy for the site in a 1987 Record of Decision. The selected remedy required the construction of a supplemental cap (with a synthetic liner) on the side slopes of the landfill; installation of a more extensive leachate collection system, with accompanying slurry walls, (i.e., to include the southern part of the site); and treatment of the collected leachate, either by construction of an on-site leachate treatment plant or transportation of the leachate to an off-site treatment facility.
+
+EPA modified the site’s remedy in 1997 to include intermittent groundwater extraction on an as-needed-basis (in place of an expanded leachate collection system and slurry wall installation), continued leachate collection from the existing leachate collection system, off-site leachate treatment and disposal, and long-term groundwater monitoring. After construction, the extraction system started operating in 2001. Extracted groundwater is mixed with collected leachate and disposed of at a local treatment and disposal facility.
+
+In 2003, Oswego County granted several easements to the New York State Department of Environmental Conservation (NYSDEC) for the landfill and several properties surrounding the landfill. The easements prohibit the installation of groundwater wells, alteration of surface water runoff, and any activities that could adversely affect the integrity of the landfill cap. During 2004 and 2005, activities were undertaken to obtain an easement prohibiting the use of groundwater from a privately-owned property near the landfill. In 2007, a municipal water system was completed. It allowed a groundwater well on that property to be taken out of operation.
+
+Five-year reviews are conducted at sites to ensure that the implemented remedies protect public health and the environment and that they function as intended by the site decision documents. Five-year reviews, which were completed in August 2005, August 2010, and August 2015, concluded that the implemented remedy is functioning as intended by the decision documents and is protecting human health and the environment. The next five-year review will be conducted before August 2020.
+
+### What Is the Current Site Status?
+
+The site is being addressed in one long-term remedial phase focused on controlling the source of contamination (source control) and the migration of contaminants from the site (contamination pathways).
+
+The landfill has been fenced and capped, thus, reducing the potential for direct contact with the waste materials. Also, surface water controls were significantly upgraded. Leachate collection will continue to address the downloading of moisture from the waste. To date, over three million gallons of leachate have been collected and disposed of at an off-site treatment and disposal facility.

@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301231)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301231)
-
----
-
 ### Background
 
 The Lord Shope Landfill, located in Erie County, Pennsylvania had approximately four million cubic feet of waste disposed on the privately owned five-acre site between 1959 and 1979. Wastes deposited on the landfill consisted principally of solid debris, and included rubber scrap, organic and inorganic chemicals, solvents, cooling oils, acids, and caustic agents. Land use in the immediate vicinity includes field crop agriculture, a golf course, orchards, vineyards, and wooded areas. The nearest residences are situated several hundred feet from the site. Approximately 125 people reside within one mile of the site, and about 5,700 people live within three miles of the contamination area. Elk Creek, into which the site runoff discharges, has a water intake located approximately 4,800 feet downstream of the contamination area. The water from this intake is used to irrigate food crops. This site was proposed to the National Priority List (NPL) on December 30, 1982 and formally added to the list September 8, 1983.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -36,8 +18,6 @@ In 2021 EPA issued an Explanation of Significant Difference (ESD) for the Lord S
 
 This ESD makes several changes to the Selected Remedy to monitor and manage the ongoing cleanup at the Site. The changes include updating the groundwater cleanup levels to the current federal drinking water standards; adding a contaminant as a contaminant of concern; adding ten parameters to the groundwater monitoring program; and requiring a cumulative risk for groundwater cleanup.
 
----
-
 ### What Is the Current Site Status?
 
 Construction is complete at the Lord Shope Landfill, and the remedy is operational and functional. Residential wells have not been affected by the site’s contamination. With minor exceptions, the groundwater extraction and treatment system continues to operate effectively and is well-maintained.
@@ -45,8 +25,6 @@ Construction is complete at the Lord Shope Landfill, and the remedy is operation
 EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent [2024 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2397015) concluded that the remedy continues to be short term protective of human health and the environment with recommendations to achieve long term protectiveness. The next five-year review is scheduled for 2029.
 
 The cap and fencing prevent human and ecological contact with soil contaminants, the groundwater treatment and in-situ soil vapor stripping system (ISVS) systems are removing contaminants, and there are no exposures to contaminated groundwater.
-
----
 
 ### Activity and Use Limitations
 

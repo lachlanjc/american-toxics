@@ -1,0 +1,47 @@
+### Background
+
+The 2.5-acre Plymouth Harbor/Cannon Engineering Corp. site is located in Cordage Park, a business and industrial area next to Plymouth Harbor in Plymouth, Massachusetts. The site contained aboveground storage tanks holding low levels of polycyclic aromatic hydrocarbons, or PAHs, and lead.
+
+Site facilities once held three aboveground storage tanks. The storage tanks were surrounded by 6- to 8-foot-high earthen berms. The tanks, which all sat between 50 feet and 180 feet from Plymouth Harbor, were originally constructed in the 1920s and used for storing fuel and oil unloaded from barges. In 1975, the company got a license to store motor oils, industrial oils and emulsions, solvents, lacquers, organic and inorganic chemicals, cyanide and plating wastes, plating sludge, oily solids, pesticides, and clay and filter media with chemicals on site. Cannon Engineering Corp. transported and stored hazardous wastes at the Plymouth facility and incinerated the wastes at its Bridgewater, Massachusetts facility until 1980, when the facilities went into receivership.
+
+The site was placed on the National Priorities List (NPL) in September 1983. After cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in November 1993.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through Federal, State and a Potentially Responsible Party (PRP) actions. Cleanup work eliminated the exposure to hazardous substances and removed the sources of contamination at the site. All cleanup activities have been completed and the site ready for reuse for non-residential uses.
+
+EPA has conducted several [FiveYear Reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100726&doc=Y&colid=33004&region=01&type=SC) of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The 2015 review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. EPA will complete the next Five Year Review in 2018.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0100726).
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included removal and disposal of tanks and associated piping, sampling soil to determine the distribution of contaminants, sampling groundwater, surface water and sediment near the site, and assessing floodplains to determine possible effects on cleanup actions. In 1986 and 1987, EPA cleaned the inside of the three empty storage tanks and dismantled them. The pipework, foundations and 33 drums of wastes already on the site were transported to a licensed disposal facility. Soil from two spots on the site was placed in drums and disposed of, and clean fill was brought in. Once the tanks and other materials were removed, EPA sampled soil, groundwater, surface water, and sediments. The site was fenced and all cleanup activities were finished in late 1987. Since the cleanup was based on levels that are protective for commercial and industrial redevelopment, land use restrictions, in the form of Institutional Controls, were put in place to prevent the area from being redeveloped for residential or other restricted uses.
+
+After cleanup, EPA took the site off the NPL in 1993. A Five Year Review will be completed in 2018.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0100726).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The matrix below is a general summary of the restrictions at this site at the date of this report. The information in this matrix is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100726&doc=Y&colid=31739&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.
+
+### Emergency Response and Removal
+
+Site cleanup also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1983, Salt Water Trust removed the contents of a tank called the south tank and then cleaned and decontaminated it. EPA removed the contents of the central tank. In 1984, 183,899 gallons of waste were transported for incineration. An estimated 52,750 gallons of sludge and 8,000 gallons of toluene were removed from the tanks and shipped off site for disposal.

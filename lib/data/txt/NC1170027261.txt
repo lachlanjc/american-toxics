@@ -1,2 +1,53 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13,164-acre Cherry Point Marine Corps Air Station site is located in Havelock, North Carolina, and includes an active U.S. Marine Corps installation – Marine Corps Air Station (MCAS) Cherry Point. It opened in 1942. The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1994 because of contaminated groundwater, soil, sediment and surface water resulting from the installation’s operations.
+
+EPA, the North Carolina Department of Environment and Natural Resources (NCDENR), and the U.S. Navy (Navy) have investigated site conditions and taken steps to clean up the site to protect people and the environment from contamination. Site contamination does not currently threaten people living and working at or near the site. By treating or monitoring groundwater, capping or removing contaminated soil, putting in place land use restrictions and doing required Five-Year Reviews, the EPA, NCDENR and the Navy continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2005, the EPA, the U.S. Navy and the North Carolina Department of Environment and Natural Resources (NCDENR) signed a Federal Facilities Agreement (FFA) for the site. The FFA helps make sure that the parties will fully investigate environmental impacts associated with past and present activities at the installation. It also helps ensure that they will take appropriate cleanup actions. The FFA establishes schedules, priorities and enforceable milestones for cleanup activities. EPA partcipates in meetings and conference call to address site issues.
+
+Marine Corps Air Station (MCAS) Cherry Point conducted its Five‐Year Review (FYR) with regulatory oversight from USEPA Region 4 and the NCDENR. This is the third FYR for MCAS Cherry Point; earlier FYRs were finalized in 2002 and 2008. The FYR was prepared in accordance with the Comprehensive Five‐Year Review Guidance (USEPA, 2001) and the Navy/Marine Corps' Policy for Conducting Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) Five‐Year Reviews (Navy, 2011). The objective of the FYR is to evaluate remedies and RAs at each OU to determine whether they remain protective of human health and the environment in accordance with the requirements set forth in their ROD. The protectiveness of the remedies was evaluated through reviews of technical reports, site visits and inspections, and community involvement activities. In addition, this FYR report identifies issues, if any, that may be preventing a particular remedy from functioning as designed or as appropriate, or that could endanger the protection of human health and the environment.
+
+In April 2017, US EPA R4 particpated in the site inpection/Site visit for the 2018 FYR.
+
+The Navy leads site investigation and cleanup activities, with oversight and technical support provided by EPA and NCDENR.
+
+· **OU-1:** OU-1 cleanup actions include running a ground treatment system and an air sparging/soil vapor extraction (AS/SVE) system for Site 16. Site 16 is a disposal site that contains petroleum products. In 2005, the AS/SVE system was shut down because it was not achieving remedial action objectives and the system was decommissioned, including well abandonment, in 2011. EPA issued a long-term remedy of *No Further Action* for Sites 14, 15, 17, 18 and 40 in 2010 and a long-term remedy of *No Further Action* for Site 83 in 2012. A Draft Proposed Plan for site 16 was submitted in 2012. EPA issued a long-term remedy in 2016.
+
+The pump-and-treat system was shut down in 2005 because of decreasing efficiency and interference with ongoing treatability studies. Decommissioning of the system’s components was completed in 2014. Two pilot studies were completed in 2014 to investigate potential alternate groundwater treatment options to address the OU-1 Central Groundwater Plume. The purpose of these pilot studies were to gather information to aid in the selection of potential remedies to address the plume. The pilot studies were successful.
+
+· **OU-2:** In 1998, the Navy put in a soil vapor extraction system to address VOC-contaminated soil. The system ran until the soil met cleanup goals in 2003. While the cleanup goals have been met, the Navy continues to monitor groundwater, surface water and sediment from both Turkey Gut and Slocum Creek. Based on soil sampling results, EPA updated the long-term remedy for OU-2 in 2011 describing its plan for addressing a contaminated soil area known as Hot Spot 2. The Navy carried out the plan in 2012, which included putting a cover over the contaminated soil. Land use restrictions limit site land uses to industrial uses and do not allow groundwater use. Fencing and warning signs control access to the site.
+
+· **OU-3:** The Navy installed an air sparging system in 2000, at Site 7, in OU-3 (Old Incinerator Area). The system addresses contaminated soil. The Navy began OU-3 groundwater monitoring in 2002. The Navy shut the system down in 2003, after meeting cleanup goals. The Navy stopped the monitoring in 2011, after groundwater samples met performance standards for four sampling events in a row.
+
+· **OU-4:** The Navy began using monitored natural attenuation of groundwater at OU-4 in 2006. Restrictions do not allow the withdrawal and future use of groundwater, except for monitoring, from the upper-level aquifer within OU-4. The Navy has included these restrictions in its master planning process. It also updated the installation’s environmental geographic information system. The Navy will continue long-term groundwater monitoring until contaminants do not exceed the performance standards in the OU-4 long-term remedy.
+
+· **OU-5:** The Navy is using monitored natural attenuation of groundwater at OU-5, along with land use controls. Restrictions do not allow groundwater use, except for monitoring. Groundwater monitoring is ongoing. The Navy has included the restrictions in its master planning process. It also updated the installation’s environmental geographic information system. The Navy stopped the monitoring in 2011, after groundwater samples met performance standards for four sampling events in a row. All site activities have been completed and the land use controls were removed in 2012.
+
+· **OU-6:** In 2007, the Navy excavated a tar-like layer in soils beneath the former location of Burn Pit E, a potential source of groundwater contamination. The Navy is using monitored natural attenuation to address groundwater contamination. Groundwater monitoring began in 2007 and was completed in 2008.
+
+· **OU-13:** The long-term remedy for OU-13 includes monitored natural attenuation of groundwater and land use controls. The Navy began groundwater monitoring in 2006. Results indicate that overall VOC concentrations in the groundwater have decreased. Restrictions in place for OU-13 do not allow for groundwater use, except for monitoring. The Navy has included the restrictions in its master planning process. It also updated the installation’s environmental GIS. The Navy stopped the monitoring in 2012 after groundwater samples met performance standards, for four sampling events in a row. All site activities have been completed and the land use controls were removed in 2013.
+
+· **OU-14:** OU-14 includes Site 90, an area of groundwater contaminated with VOCs. Located in the west-central portion of the MCAS Cherry Point flight line complex, Site 90 consists of a broad expanse of concrete tarmac, buildings, taxiways and some grassy areas adjacent to Runway 14L. The MCAS Cherry Point Underground Storage Tank Program manages and investigates all releases from pipelines and underground and aboveground storage tanks. The long-term remedy includes long-term monitoring with a land use control. Indoor air and vapor intrusion issues will be evaluated, if necessary, if new buildings are planned within the land use control’s designated area. Long-term monitoring is ongoing and will continue until groundwater contaminants do not exceed the performance standards defined in the OU-14 long-term remedy.
+
+· **OU-15:** EPA issued a long-term remedy for OU-15 of *No Further Action* because previous investigations found no threats to people or the environment.
+
+EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, completed in 2013, concluded that response actions at OU-1, OU-2, OU-3, OU-4, OU-5, OU-6 and OU-13 are in accordance with the remedies selected by EPA and that the remedies continue to be protective of human health and the environment in the short term. Protectiveness of the remedy for OU-1 requires additional cleanup activities. The next Five-Year Review is due in 2018.
+
+### What Is the Current Site Status?
+
+Investigations and cleanup activities have focused on nine areas. EPA refers to these areas as operable units (OUs). The OUs cover large portions of the site and contain one or more specific areas of contamination. OU-1 (Groundwater Central Hotspot Area), for example, is an industrial area in the southern portion of MCAS Cherry Point. It covers about 565 acres and includes 12 areas designated for investigation and possible cleanup.
+
+The Navy and EPA have issued 12 long-term remedies for OUs at the site. The Navy has taken many actions in cooperation with EPA and NCDENR to clean up and control the areas of contamination.
+
+Contaminants of concern (COCs) are being addressed. These COCs within soil includes VOCs, semi‐volatile organic compounds (SVOCs), pesticides, polychlorinated biphenyls (PCBs), and inorganic constituents. In groundwater, the most‐prevalent VOCs are trichloroethene (TCE), vinyl chloride (VC), 1,2‐dichloroethene (DCE), 1,1‐dichloroethane (DCA), and 1,1‐DCE.
+
+### Sampling and Monitoring
+
+Ground water monitoring until ground water contaminants do not exceed the performance standards defined in the site RODs. enforcement of land use controls is ongoing.
+
+### Enforcement Information
+
+In 2005, EPA, the Navy and NCDENR signed a Federal Facilities Agreement (FFA) for the site. The FFA helps make sure that the parties will fully investigate environmental impacts associated with past and present activities at the installation. The FFA also helps ensure that the parties will take appropriate cleanup actions. The FFA establishes schedules, priorities and enforceable milestones for cleanup activities.

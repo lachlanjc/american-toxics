@@ -1,23 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300585)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300585)
-
----
-
 ### Background
 
 The six-acre Fischer & Porter Superfund Site is an active commercial property in Warminster, Pennsylvania that was formerly owned by the Fischer & Porter Company (F&P), who manufactured flow meters and process control equipment at the location. In 1979, volatile organic compounds (VOCs), specifically trichloroethylene (TCE) and perchloroethylene (PCE), were detected in local groundwater. These VOCs were found in some public water supply wells of both the Hatboro Borough and Warminster Heights Water Authorities. The Site was added to the Superfund program's National Priorities List in 1983, and in 1986, permanent treatment systems were installed to address contamination in the water supply wells. Hydrologic investigations found that the contamination discovered in the Hatboro Borough wells was unrelated to the Site. In 2004, Warminster Heights wells were taken out of service and shut down. Local regulations prohibit the installation of new drinking water wells.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -30,8 +13,6 @@ EPA determined that a re-evaluation of the groundwater and contamination plume w
 Vapor intrusion occurs when vapor-forming chemicals migrate from a subsurface source into an overlying building - similar to radon gas seeping into homes. To address the potential for vapor intrusion, sampling occurred in 2013 and 2018 and determined that there are no current unacceptable risks at the Site. EPA will continue to monitor the potential for vapor intrusion.
 
 In July 2024, the EPA issued the fifth Five-Year review for the Site. These reviews ensure the remedies put in place protect public health and the environment and function as intended by Site decision documents. The most recent concluded that the remedy is not functioning as intended and protectiveness of the remedy is deferred until additional information can be collected. Issues and Recommendations were identified in the Fischer and Porter 2024 Five-Year Review and once these issues are addressed, a protectiveness evaluation can be completed. The first step in addressing the issues and recommendations that are outlined in the Five-Year Review will involve the installation of additional groundwater monitoring wells and collecting groundwater samples to fully characterize the extent of Site-related groundwater contamination. The EPA will also be evaluating where there are any private drinking water wells in the area that may be impacted by Site-related contamination. If you have a private drinking water well and are located downgradient of the Site, please feel free to contact the Site Remedial Project Manager (Elizabeth Odren, 215-814-3150) to discuss.
-
----
 
 ### What Is the Current Site Status?
 

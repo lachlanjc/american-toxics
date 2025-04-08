@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The North Bronson Industrial Area (NBIA) site is located in Bronson, Michigan. Waste disposal operations at several nearby industrial sites resulted in soil and groundwater contamination, including contamination of two lagoon areas and a county drain that runs adjacent to the lagoons. Site investigations and cleanup planning are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and PRP actions.  
+
+### What Is the Current Site Status?
+
+The site includes two areas, or operable units (OUs). OU-1, composed of the lagoons and county drain, is in remedial design. Remedial activities may include soil dredging and excavation, consolidation of contaminated soils into one area of the western lagoons, and a constructed wetland to treat groundwater from the lagoon area. OU-2 consists of groundwater and an industrial sewer line. During negotiations with the site’s Potentially Responsible Parties (PRPs) in 2000, EPA and the PRPs agreed to evaluate upstream source areas prior to completing remedial work on OU-2. Evaluation and remedial activities at the upstream source areas are ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+High levels of trichloroethylene, dichloroethylene, and vinyl chloride (also known as volatile organic compounds or VOCs) as well as elevated levels of heavy metals and cyanide have been detected in private and groundwater monitoring wells in the area. Polychlorinated biphenyls (PCBs) and metals such as cadmium have been found in sediment samples downstream of the old lagoons. Lagoon sludge contains heavy metals, including cadmium, chromium, and lead.
+
+[http://www.epa.gov/region5/cleanup/bronson/index.htm](http://www.epa.gov/region5/cleanup/bronson/index.htm)
+
+### Enforcement Information
+
+Remedial Design and Remedial Action (RD/RA) negotiations with the potentially responsible parties began a week after the ROD was signed. A Consent Decree (CD) was signed by EPA and the five PRPs. The RD began in February 2000, with the firs

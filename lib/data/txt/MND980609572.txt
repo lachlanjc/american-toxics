@@ -1,27 +1,29 @@
-PERHAM ARSENIC SITEPERHAM, MN
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Perham Arsenic site is located in Perham, Minnesota. It consists of a six- to eight-foot deep pit and associated groundwater plume. From the 1930s to 1947, a facility mixed U.S. Department of Agriculture-supplied arsenic with sawdust and molasses on site; the mix was used as a pesticide to control an outbreak of grasshoppers threatening crops throughout the Midwest. In 1947, around 200 to 2,500 pounds of arsenic pesticide was buried in a shallow pit. This contaminated soil and groundwater with arsenic. In the 1970s, an adjacent property owner discovered a contaminated well after 11 employees reported being poisoned by arsenic-contaminated groundwater; the property was connected to the public water supply system. Following cleanup including a removal action, treatment system and a site landfill cap, operation and maintenance activities are ongoing.
+### Background
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and state actions.EPA and the Minnesota Pollution Control Agency (MPCA) have conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires compliance with institutional controls, continued operation of the groundwater recovery system and ongoing groundwater monitoring.
+The Perham Arsenic site is located in Perham, Minnesota. It consists of a six- to eight-foot deep pit and associated groundwater plume. From the 1930s to 1947, a facility mixed U.S. Department of Agriculture-supplied arsenic with sawdust and molasses on site; the mix was used as a pesticide to control an outbreak of grasshoppers threatening crops throughout the Midwest.
 
-What Is the Current Site Status?
-The site’s long-term remedy included groundwater extraction and treatment, a removal action, a landfill cap, interim institutional controls and connection of one residence to the public water supply system. The resident received a public water supply connection in 1994. Construction of the groundwater extraction and treatment system took place between 1997 and 1998. Operation and maintenance activities are ongoing.  The most recent five year review in August 2021 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The contaminant of concern at the Site is arsenic. http://www.epa.gov/superfund/sites/fiveyear/f2011050004123.pdf
+In 1947, around 200 to 2,500 pounds of arsenic pesticide was buried in a shallow pit. This contaminated soil and groundwater with arsenic. In the 1970s, an adjacent property owner discovered a contaminated well after 11 employees reported being poisoned by arsenic-contaminated groundwater; the property was connected to the public water supply system. Following cleanup including a removal action, treatment system and a site landfill cap, operation and maintenance activities are ongoing.
 
-Emergency Response and Removal
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+EPA and the Minnesota Pollution Control Agency (MPCA) have conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires compliance with institutional controls, continued operation of the groundwater recovery system and ongoing groundwater monitoring.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included groundwater extraction and treatment, a removal action, a landfill cap, interim institutional controls and connection of one residence to the public water supply system. The resident received a public water supply connection in 1994. Construction of the groundwater extraction and treatment system took place between 1997 and 1998. Operation and maintenance activities are ongoing. The most recent five year review in August 2021 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The contaminant of concern at the Site is arsenic.
+
+[http://www.epa.gov/superfund/sites/fiveyear/f2011050004123.pdf](http://www.epa.gov/superfund/sites/fiveyear/f2011050004123.pdf)
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1984 disposed of 200 cubic yards of arsenic wastes and contaminated soils from the pit, backfilled the pit and reestablished a clay cap.

@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 40-acre Colbert Landfill site is located two miles north of Colbert, Washington. From 1968 through 1986, the landfill received municipal and commercial wastes. The disposal of solvent wastes at the landfill contaminated soil and groundwater with volatile organic compounds ( [VOCs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=VOC) ). Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1984, Spokane County and Key Tronic began supplying bottled water to residents affected by contaminated groundwater. In 1985, the county extended the public water supply main to 26 affected residences. Private wells downgradient of the Site continue to be monitored on a regular basis.
+
+In 1987, EPA selected a remedy to clean up the landfill. These included installing and operating groundwater interception wells to prevent the contaminants from spreading; installing and operating groundwater extraction wells in the area where the plumes originate to remove source material; reducing the toxicity, mobility, and volume of contaminants by treating all extracted groundwater from both the interception and extraction wells; capping the landfill; and providing an alternate water supply system to any residents deprived of their domestic supply due to the contamination or to the construction of interception or extraction wells.
+
+Under a 1989 Consent Decree with EPA, Spokane County is implementing the remedy. The groundwater system was completed in the Spring of 1994. The extraction and treatment system were operational from May 1995 to April 2014. The landfill cap was completed in April 1997. Groundwater monitoring is ongoing.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included installing and operating groundwater interception wells to prevent the contaminants from spreading; installing and operating a groundwater treatment system; capping the landfill; and Remedy construction took place between 1989 and 1997. Groundwater at and near the Site is regularly monitored.
+
+Restrictive Covenants restricting groundwater use at the Site have been filed.
+
+The most recent Five-Year Review (2014) found the remedy was protective of human health and the environment because residences with affected wells have been connected to public water supplies; the groundwater extraction system was preventing further migration of the groundwater plume; regular domestic well sampling occurs; and the Spokane County Health Department has procedures in place to detect any new residential well in the vicinity of the Site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Restrictive Covenants restricting groundwater use at the Site have been filed.

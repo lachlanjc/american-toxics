@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Umatilla Army Depot (Lagoons) site occupies about 20,000 acres in Hermiston, Oregon. A storage depot for conventional munitions and chemical warfare agents has operated on site since 1941. Between the 1950s and 1965, the Army discharged wastewater from explosive washout operations into two unlined lagoons, contaminating soil and groundwater with heavy metals and explosive compounds. Following cleanup, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.  
+
+The Army completed the most recent Five-Year Review in 2010. It concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation of the need for additional institutional controls.  
+
+### What Is the Current Site Status?
+
+EPA and the Army divided the site into eight areas, referred to as operable units, or OUs. EPA and the Army selected long-term remedies for seven of the eight OUs between 1992 and 1994. The remedy for the eighth OU, Site 39, was selected in 2008.
+
+The remedy for the Deactivation Furnace included on-site solidification/stabilization of lead-contaminated soil, with treatment residues placed in the on-site Active Landfill. The Army finished construction activities in 1996. The remedy for the Washout Lagoons Soils included on-site bioremediation of explosives-contaminated soils, with the residues used as backfill on site. The Army completed construction activities in the fall of 1996. The remedy for the active and inactive landfills was no further action. The remedy for the Washout Lagoons groundwater included pumping and treatment using granular activated carbon (GAC) for the 350-acre explosives-contaminated groundwater plume; off-site treatment of explosives-laden GAC; and reinjection of the treated groundwater on site. The Army completed construction activities in 1997. System optimization is currently underway; the system continues to operate.
+
+The remedy for the Explosives Washout Plant included steam cleaning, flash flaming treatment and building demolition. The Army completed these activities in 1996. The remedy for the Ammunition Demolition Activity Area included excavation, solidification/stabilization and on-site landfill disposal of soil contaminated with metals and explosives; off-site removal of unexploded ordnance (UXO); and implementation of institutional controls. In early 1997, the Army completed surface clearance of UXO. Treatment of soils finished in 2002. Subsurface clearance of UXO remains to be completed.
+
+The remedy for Miscellaneous Areas included excavation, solidification/stabilization and on-site landfill disposal of metals-contaminated soil. The Army completed construction activities in 1996. The Site 39 remedy included clearance of munitions and explosives of concern in the Test Pad Area, Rifle Range and Test Pit Area. The Army completed these construction activities in 2008.
+
+A storage depot for conventional munitions and chemical warfare agents has operated on site since 1941. Areas were contaminated with explosives and metals as a result of past demilitarization and disposal operations. The Army placed the site on the Base Realignment and Closure (BRAC) list for realignment in 1988. It was subsequently recommended for closure under BRAC in 2005. The 2005 BRAC recommendation provides that the installation shall close when all demilitarization activities are complete.
+
+The groundwater contaminant plume is estimated to cover 350 acres. Access to the site is restricted. There are about 100 people living on post and 900 people live within three miles of the site. The nearest drinking water well is located about 6,500 feet from the disposal area. Commercial agriculture is conducted near the depot; crops are irrigated with area groundwater.

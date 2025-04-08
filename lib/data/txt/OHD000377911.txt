@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 30-acreesite is located in Stark County, Ohio. Prior to 1966, the area was used for mining sand and gravel. In 1966, the mining and excavation pit was converted into a landfill, which operated until 1980. During this time, the IEL received industrial waste primarily from the rubber industries in Akron, Ohio. An estimated 780,000 tons of solid waste and one million gallons of liquid waste were dumped onto the ground and into an evaporation lagoon on site. Besides industrial wastes, the landfill also accepted waste from hospitals, septic tank cleaning firms, and the general public. The landfill ceased operations in 1980, and was covered with soil. Landfill operations contaminated soil and groundwater with hazardous chemicals. Groundwater cleanup and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The U.S. EPA’s previous cleanup activities at the closed landfill consisted of enhancing the existing vegetative cover with the selected planting of trees and other plants; using natural processes such as decay, dilution, and evaporation to clean up on-site and off-site groundwater contaminants; monitoring groundwater and landfill gas; installing new wells and upgrading or abandoning other wells as needed; perimeter fencing; deed restrictions; maintenance of an alternate water supply; and additional design studies.
+
+The PRPs continue to monitor methane on a weekly basis to ensure no off-Site migration is occuring. At U.S. EPA’s request, the PRPs expanded the current fence line to include the agency owned parcels along Cleveland Avenue. The reason for expanding the fence line is due to subsurface methane detections within those parcels, to deter trespassing, protect monitoring wells and landfill gas vents, and to meet height requirements.
+
+Additionally, the PRPs are performing site work to address the Issues and Recommendations from the 2021 Five-Year Review report.
+
+[Fifth Five Year Review Report (Signed) - Industrial Excess Landfill - 2021](https://semspub.epa.gov/src/document/05/965605) [(PDF)](https://semspub.epa.gov/src/document/05/965605) (602 pp, 29.71 MB)
+
+### What Is the Current Site Status?
+
+In April 2022, the PRPs began sampling private residential wells for dioxane contamination. Of the 110 private wells sampled, a mix of 35 primary and secondary use (e.g., irrigation) wells had detections of 1,4-dioxane. Residents with primary use well impacts are being provided water. To date, 39 homes have been connected to municipal water and additional connections are underway. A map of the focused area of investigation along with validated [1,4-dioxane data is available](http://epa.maps.arcgis.com/apps/dashboards/3f3c596026704a4396ef0795eb7264f3).
+
+The responding PRP will transition from sampling private residential wells to investigating the nature and extent of the 1,4-dioxane groundwater plume beyond the Site boundary. Throughout the winter and spring, workers will conduct activities such as sampling surface water, drilling temporary boreholes to collect groundwater samples, and installing permanent monitoring wells in the direction of the groundwater at the Site. The data will be used to update the protectiveness determination in a FYR report addendum which should be completed by December 2023. More information about the direction of groundwater flow and its relationship to the Site is available here: [Groundwater Flow Direction At The Industrial Excess Landfill (Iel) Superfund Site, Uniontown, Ohio(PDF)](https://semspub.epa.gov/src/document/05/978520) (9 pp, 594.09K, [About PDF](https://www.epa.gov/home/pdf-files) ).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+On-site groundwater is contaminated with a few volatile organic compounds (VOCs). Contamination levels are decreasing, both in terms of number of contaminants detected and in concentration. There is no evidence to support the presence of a groundwater plume. Methane concentrations in the landfill gas continues to dissipate, to the point where the existing methane venting system no longer needs to be operated.
+
+Most residents downgradient of the site are connected to an alternate water supply, thereby minimizing potential receptors of contaminated groundwater from the site. Although historically there have been sporadic detections of metals outside of the landfill boundaries, tests of drinking water wells in 1998 revealed that such metal contaminants were significantly lower (i.e., one or two orders of magniture less) than federal drinking water standards. Groundwater on and off the site continues to be monitored.
+
+### Sampling and Monitoring
+
+[Use our interactive map to view 1,4-Dioxane Sample Locations](https://epa.maps.arcgis.com/apps/dashboards/3f3c596026704a4396ef0795eb7264f3)
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Between 1985 and 1988, EPA installed a methane gas venting system at the site to control the migration of methane and landfill gases off site. EPA also removed 53 drums of suspected industrial waste as part of this effort. EPA also installed air strippers at residences with private wells affected by the site’s groundwater contamination.  
+
+### Enforcement Information
+
+This site is being addressed by responsible party actions, with oversight by U.S. EPA and Ohio EPA.

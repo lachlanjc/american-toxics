@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300614)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300614)
-
----
-
 ### Background
 
 The 52-acre Douglassville Disposal site is located in Douglassville, Pennsylvania. A waste oil recycling facility operated on site from 1941 to 1986. Beginning in 1941, site operators kept waste oil sludge in on-site lagoons. The contents of these lagoons washed into the Schuylkill River during flooding in 1970 and 1972. Additionally, site operators landfarmed sludge generated in the oil recycling process at the site. The operators stored about 700 drums, many leaking, at the site from 1979 to 1982. These activities contaminated site soil, sediment and groundwater. EPA proposed the Site for listing on the Superfund Program's National Priorities List (NPL) in December 1982 and listed the Site on the NPL in September 1983. Following cleanup, groundwater monitoring and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -29,8 +11,6 @@ In the first phase of the OU-2 cleanup, the potentially responsible parties (PRP
 In the second phase of the OU-2 remediation, the large pile of oily filter cake wastes (estimated to have contained approximately 46,000 cubic yards) remained to be addressed, although EPA constructed a fence around the pile in 1996.
 
 In 1996, the PRP submitted a proposal to treat the oily filter cake wastes on site using lime-based stabilization technology instead of thermal treatment. EPA evaluated the proposal and determined that lime-based stabilization could work. EPA amended its OU-2 Record of Decision (ROD) in 1999 to officially change the treatment method and a consent decree was signed by EPA and the PRPs and was lodged with the federal court on January 19, 2001. Actual on-site cleanup work under the consent decree started in June of 2001. Oily sludge and filter cake was stabiliized with lime and the treated material covered with three feet of soil. A pre-final inspection of the remedial action took place on June 12, 2002. EPA signed a Preliminary Close-Out Report on July 17, 2002. The final inspection of the cleanup was conducted in October 2002. The Final Report of the cleanup was approved by EPA on March 27, 2003.
-
----
 
 ### What Is the Current Site Status?
 
@@ -45,8 +25,6 @@ EPA has conducted several five-year reviews of the Site’s remedy. These review
 3) Evaluate all detected chemicals in the forthcoming risk assessments and determine if they should be identified as site Contaminants of Concern.
 
 The next five-year review is scheduled for 2029.
-
----
 
 ### Activity and Use Limitations
 

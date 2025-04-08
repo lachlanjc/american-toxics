@@ -1,2 +1,69 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 140 to 150-acre Wilcox Oil Company site is located in Bristow, Oklahoma, and includes the inactive and abandoned Lorraine and Wilcox Oil Refineries. The property was used as a crude oil refinery from approximately 1915 to 1963. Wilcox Oil and Gas Company began operating a crude oil refinery in the 1920s, and expanded in 1937 when it purchased the Lorraine Refinery.
+
+The main components of the refinery included a skimming plant, cracking unit, and redistillation battery with a vapor recovery system and continuous treating equipment. The crude oil was brought directly from the field, eliminating storage and handling facilities, but resulted in crude with high sediment and water. The upgraded facility had an operating capacity of 4,000 barrels of crude per day. Refinery operations contaminated soil and sediment and left behind waste material. Planning for the site’s remedial investigation and feasibility study (RI/FS) is ongoing.
+
+The site is located at West 221st Street South about 0.35 miles east of U.S. Highway 66. About 2,404 people live within a mile of the site and about 6,134 people live within four miles of the site. The site area is mostly rural and primarily residential. The site includes a church, and 7 residential properties.  
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+- T he site was placed on the National Priorities List on December 12, 2013. Since that time, EPA completed two searches to find potentially responsible parties to do the work. No potentially responsible parties agreed to do the work, and as a result, EPA received funding to begin the RI/FS for the Site.
+- EPA is working closely with ODEQ to plan and implement investigation activities. In addition, EPA and ODEQ are working closely with residents, tribes, and the community to provide site updates and share information.
+- The RI/FS phase of the [Superfund Process](http://www2.epa.gov/superfund/superfund-cleanup-process) is expected to take approximately 2-3 years depending on site complexity and contaminants present. All field work is complete.
+- Properties of concerned residents were sampled in May/June 2015. Soil data from the residential areas was reviewed to assess the potential for immediate human health risks. All results and concerns were discussed with the residents in October 2015. At this time, no immediate health risks are identified.
+- Properties where refinery waste is present at the surface are fenced and locked to deter trespassing and potential contact with the refinery waste.
+- EPA's removal team completed the removal of 1349 tons of oil waste material associated with one of the former tank locations on a residential property.
+- The EPA signed the Source Control Record of Decision on September 5, 2018. The source control cleanup is limited in scope to addressing tank waste and lead additive area sources, and provides for the cleanup of nine source areas through excavation, treatment of the lead source material and offsite disposal.
+- The EPA and DEQ completed the remedial design in support of the Source Control Record of Decision. The field pilot study to evaluate lead stabilization was completed in April 2019.
+- EPA and DEQ started source control remediation on June 20, 2022.
+
+### What Is the Current Site Status?
+
+Source Control Cleanup: cleanup of approximately 31,000 cubic yards began on June 20, 2022 and is expected to last 3-4 months. Site waste materials will be removed and disposed in a landfill.
+
+**The remedial investigation and feasibility study phase of the superfund process is ongoing.**
+
+EPA completed all feild activities, except for additional data collection that will be needed to further assess the shallow ground water.
+
+[Remedial Investigation Report](http://semspub.epa.gov/work/06/90043353.pdf) - summarizes the data gathered to identify the nature and extent of contamination. Released March 2021.
+
+[Soil Feasibility Study](http://semspub.epa.gov/work/06/90044670.pdf) - summarizes areas targetted for potential cleanup based on the results of the human health risk assesssment and provides a description of the potential cleanup options that may be used to address the contamination. This document is focussed on the soil becasue additional data are needed to further evaluate ground water. Released August 17, 2021.
+
+[Human Health Risk Assessment](http://semspub.epa.gov/work/06/100022980.pdf) - summarizes the contaminants of concern and the likelyhood that exposures to them may effect human health. Released March 2021
+
+[Ecological Risk Assessment](http://semspub.epa.gov/work/06/100022981.pdf) \- summarizes the contaminants of concern and the likelyhood that exposures to them may effect ecolgocial health. Released March 2021
+
+**Interim/Early Cleanup Action**
+
+The EPA signed the [Source Control Record of Decision](https://semspub.epa.gov/work/06/100011691.pdf) on September 5, 2018. The source control cleanup is limited in scope to addressing tank waste and lead additive area sources, and provides for the cleanup of nine source areas through excavation, treatment of the lead source material and offsite disposal.
+
+The EPA and DEQ completed the [Source Control Remedial Design](http://semspub.epa.gov/work/06/100017609.pdf) in support of the Source Control Record of Decision.
+
+### Sampling and Monitoring
+
+**Development of the Remedial Investigation and Feasibility Study Documents.**
+
+Please find listed here a summary of sampling and monitoring completed. All work is being conducted in conjuction with ODEQ.
+
+- December 2014: completed soil sampling at a residential property, and provided results to the property owner.
+- May/June 2015: sampled 9 residential properties. These properties were sampled and analyzed for organics, inorganics, pesticides, and polychlorinated biphenyls. EPA and ODEQ met with each resident to discuss the results in October 2015.
+- September 2015: completed geophysics work to investigate the subsurface.
+- December 2015: completed direct sensing field work.
+- August 2016: completed field event 1 - passive gas sampling
+- September 2016: completed field event 2 - reconnaissance and waste mapping, wetlands investigation, ground water sampling, and borehole geophysics.
+- October 2016: completed field event 3 - soil sampling (surface and subsurface), surface water sampling, residential ground water sampling, and vapor intrustion sampling.
+- April 2017: completed field event 4 - soil sampling (surface and subsurface)
+- September/October 2017: Removal of 1349 tons of tank waste from a residential property followed by offiste disposal in a permitted landfill.
+- October/November 2017: field event 5 - sampling soil (surface and subsurface), surface water, and sediment and lead sweetening area delineation
+- March 5-8, 2018: Field Event 6 - continuation of soil sampling on North Tank Farm
+- November/December 2018: Field Event 7 - soil, ground water, sediment, surface water collection and lead source material (supporting the remedial design)
+- April 2019 - remedial design treatability study field pilot for lead stabilization
+- August 2020 - data gap sampling to support ground water evaluation.
+- October/November 2022 - data gap sampling to support ground water evaluation
+
+### Emergency Response and Removal
+
+EPA's removal team completed the removal of oil waste material associated with one of the former tank locations used to store crude oil in the east tank farm. Please refer to the site figures for a map of the area addressed. The removal of oil waste material began on September 27, 2017, and was completed on October 12, 2017. Approximately 1349 tons of oil waste material was removed. The area was backfilled with clean dirt, seeded, and new trees planted.

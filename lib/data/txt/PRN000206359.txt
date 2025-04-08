@@ -1,18 +1,23 @@
-HORMIGAS GROUND WATER PLUMECAGUAS, PR
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Hormigas Ground Water Plume site is located in the municipality of Caguas in interior east-central Puerto Rico. The site consists of a groundwater plume with no identified source(s) of contamination. The Site is located in the municipalities of Caguas and Aguas Buenas in east-central Puerto Rico within the area of two former public water supply wells, the Hormigas and Eufracia wells.  VOCs were detected above federal drinking water standards, called Maximum Contaminant Levels (MCLs), in the public water supply well, identified as Eufracia public supply well in 2006. As a results of this contamination the Eufracia well and a nearby public supply well named Hormigas were closed by the Puerto Rico Aqueduct and Sewer Authority (PRASA).  
-What Has Been Done to Clean Up the Site?
- The former Hormigas public water system consisted of two wells (Eufracia and Hormigas) and served 5,488 people. In August 2006, the system's operator, the Puerto Rico Aqueduct and Sewer Authority (PRASA), detected tetrachloroethene (PCE) above EPA's Safe Drinking Water Act Maximum Contaminant Levels (MCLs) in the Eufracia well. PRASA closed the Hormigas water system and disconnected the wells in February 2009. EPA collected two groundwater samples from the Eufracia well in August 2009, and the results confirmed the presence of PCE. Sampling also detected trichloroethene (TCE) and cis-1,2-dichloroethene (cis-1,2-DCE) in the Eufracia well. Following these initial investigations, EPA placed the site on the Superfund program’s National Priorities List in March 2011. EPA conducted be conducting a RI/FSremedial investigation and feasibility study to determine the magnitude and extent of the contamination and to identify potentially responsible parties.  A No action ROD was signed in September 2016. Public supply wells were placed out of service, a RI conducted and an a no action ROD signed.
-What Is the Current Site Status?
-EPA placed the site on the Superfund program’s National Priorities List in March 2011. A No action ROD was signed in September 2016 and the Site deleted from the NPL in 2020. .
-Sampling and Monitoring
- The nature and extent of contamination in Site media was assessed during the RI by collecting and analyzing samples and then comparing analytical results to federal, Commonwealth, and Site-specific screening criteria.  Field investigations were conducted to characterize the nature and extent of contamination and to identify possible sources of contamination at the Site. Soil, groundwater, surface water, and sediment samples were collected and analyzed as part of the investigations. Four chemicals were identified as SRCs: PCE, TCE, cis-1,2-DCE and 1,1-dichloroethene (1,1-DCE).  These four VOCs were detected in groundwater.  However, none of these VOCs were detected during RI sampling at concentrations greater than the screening criteria that were approved by EPA. Groundwater samples were collected from three existing wells: Villa de Oro community supply well, Unnamed Well 1, and Unnamed Well 2. No SRCs were detected in any of the sampled wells. The groundwater contamination in the Eufracia supply well identified by PRASA and EPA in 2006 and 2009, respectively, was not found to be present during numerous phases of RI sampling, with the exception of very low concentrations (below the screening criteria) of TCE and cis-1,2-DCE in one sampling event (wireline fracture sampling). Additionally, very low concentrations (below the screening criteria) of PCE were detected in Rounds 3 and 4, and 1,1-DCE in Round 3.  . Therefore, no plume has been identified and the original contamination is no longer present at the Site. 
+### Background
+
+The Hormigas Ground Water Plume site is located in the municipality of Caguas in interior east-central Puerto Rico. The site consists of a groundwater plume with no identified source(s) of contamination. The Site is located in the municipalities of Caguas and Aguas Buenas in east-central Puerto Rico within the area of two former public water supply wells, the Hormigas and Eufracia wells. VOCs were detected above federal drinking water standards, called Maximum Contaminant Levels (MCLs), in the public water supply well, identified as Eufracia public supply well in 2006. As a results of this contamination the Eufracia well and a nearby public supply well named Hormigas were closed by the Puerto Rico Aqueduct and Sewer Authority (PRASA).
+
+### What Has Been Done to Clean Up the Site?
+
+The former Hormigas public water system consisted of two wells (Eufracia and Hormigas) and served 5,488 people. In August 2006, the system's operator, the Puerto Rico Aqueduct and Sewer Authority (PRASA), detected tetrachloroethene (PCE) above EPA's Safe Drinking Water Act Maximum Contaminant Levels (MCLs) in the Eufracia well. PRASA closed the Hormigas water system and disconnected the wells in February 2009. EPA collected two groundwater samples from the Eufracia well in August 2009, and the results confirmed the presence of PCE. Sampling also detected trichloroethene (TCE) and cis-1,2-dichloroethene (cis-1,2-DCE) in the Eufracia well.
+
+Following these initial investigations, EPA placed the site on the Superfund program’s National Priorities List in March 2011. EPA conducted be conducting a RI/FSremedial investigation and feasibility study to determine the magnitude and extent of the contamination and to identify potentially responsible parties. A No action ROD was signed in September 2016.
+
+Public supply wells were placed out of service, a RI conducted and an a no action ROD signed.
+
+### What Is the Current Site Status?
+
+EPA placed the site on the Superfund program’s National Priorities List in March 2011. A No action ROD was signed in September 2016 and the Site deleted from the NPL in 2020..
+
+### Sampling and Monitoring
+
+The nature and extent of contamination in Site media was assessed during the RI by collecting and analyzing samples and then comparing analytical results to federal, Commonwealth, and Site-specific screening criteria. Field investigations were conducted to characterize the nature and extent of contamination and to identify possible sources of contamination at the Site. Soil, groundwater, surface water, and sediment samples were collected and analyzed as part of the investigations.
+
+Four chemicals were identified as SRCs: PCE, TCE, *cis* -1,2-DCE and 1,1-dichloroethene (1,1-DCE). These four VOCs were detected in groundwater. However, none of these VOCs were detected during RI sampling at concentrations greater than the screening criteria that were approved by EPA. Groundwater samples were collected from three existing wells: Villa de Oro community supply well, Unnamed Well 1, and Unnamed Well 2. No SRCs were detected in any of the sampled wells.
+
+The groundwater contamination in the Eufracia supply well identified by PRASA and EPA in 2006 and 2009, respectively, was not found to be present during numerous phases of RI sampling, with the exception of very low concentrations (below the screening criteria) of TCE and *cis* -1,2-DCE in one sampling event (wireline fracture sampling). Additionally, very low concentrations (below the screening criteria) of PCE were detected in Rounds 3 and 4, and 1,1-DCE in Round 3.. Therefore, no plume has been identified and the original contamination is no longer present at the Site.

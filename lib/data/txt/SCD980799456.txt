@@ -1,48 +1,49 @@
-GOLDEN STRIP SEPTIC TANK SERVICESIMPSONVILLE, SC
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 55-acre Golden Strip Septic Tank Service Superfund site is located near Simpsonville, a suburb of Greenville, South Carolina. A forested area borders the site to the north and residential areas border the site to the south, east and west. From 1960 until 1975, a waste hauling and disposal service operated at the site. Operations included the disposal of industrial and septic wastes into five unlined on-site wastewater ponds. The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1987 because of contaminated soil, sludge and surface water resulting from facility operations. EPA, the South Carolina Department of Health and Environmental Control (SCDHEC), and the Golden Strip Task Group, the site’s potentially responsible parties (PRPs), have investigated site conditions. By monitoring groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRPs continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site. Following cleanup, the EPA took the site off the NPL in 1998.
-What Has Been Done to Clean Up the Site?
-Golden Strip Task Group, the site’s PRPs, led site investigation and cleanup activities, with oversight provided by the EPA and SCDHEC.
-When﻿
-What﻿
-﻿1991
-The EPA issued the site’s cleanup plan. It included:
-discharging surface water from on-site wastewater ponds to the local public water treatment facility
-digging up and solidifying contaminated soil and sludge and placing it in an on-site landfill
-filling in the dug-up area with clean soil
-establishing a vegetative cover to prevent erosion.
-monitoring groundwater and surface water to make sure soil treatment and containment remains effective
-placing institutional controls on the site property to limit land use.
-﻿1994
-The site’s PRPs began cleanup activities, including the pretreatment and discharge of water from on-site wastewater ponds.
-﻿1995 – 1996
-The PRPs dug up contaminated soil and sludge, solidified the soil and sludge with cement, and placed it in an on-site landfill. The landfill was then with clean soil and a vegetated cover.
-﻿1998
-The EPA took the site off the NPL.
-﻿2002
-The YMCA of Greenville purchased the site property and redeveloped the area into the YMCA-Lucille Rice Recreational Park, which offers a day camp, team-building exercise courses, education trails, athletic fields, picnic areas and natural areas. The YMCA also redeveloped buildings remaining on site into an interactive environmental education center.
+### Background
 
-What Is the Current Site Status?
-The fifth Five-Year Review was published by EPA HQ in 2021. The Solidification/Stabilization remedy implemented at the GSST continues to be protective of human health and the environment, and the property is well maintained. YMCA conducts operation and maintenance activities. These activities include inspections of the landfill cap, cover and site security, landscape maintenance to keep the landfill cap intact, and stream and ground water monitoring to verify the performance of the soil cleanup approach. The site’s PRPs continue to monitor five wells annually to make sure landfill material is not leaching into ground water.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are on the site property to limit land use.
-Sampling and Monitoring
+The 55-acre Golden Strip Septic Tank Service [Superfund](http://www.epa.gov/superfund) site is located near Simpsonville, a suburb of Greenville, South Carolina. A forested area borders the site to the north and residential areas border the site to the south, east and west.
+
+From 1960 until 1975, a waste hauling and disposal service operated at the site. Operations included the disposal of industrial and septic wastes into five unlined on-site wastewater ponds.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1987 because of contaminated soil, sludge and surface water resulting from facility operations.
+
+EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/), and the Golden Strip Task Group, the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By monitoring groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRPs continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. Following cleanup, the EPA took the site off the NPL in 1998.
+
+### What Has Been Done to Clean Up the Site?
+
+Golden Strip Task Group, the site’s PRPs, led site investigation and cleanup activities, with oversight provided by the EPA and SCDHEC.
+
+| When | What |
+| --- | --- |
+| **1991** | The EPA issued the site’s cleanup plan. It included:  - discharging surface water from on-site wastewater ponds to the local public water treatment facility - digging up and solidifying contaminated soil and sludge and placing it in an on-site landfill - filling in the dug-up area with clean soil - establishing a vegetative cover to prevent erosion. - monitoring groundwater and surface water to make sure soil treatment and containment remains effective - placing institutional controls on the site property to limit land use. |
+| **1994** | The site’s PRPs began cleanup activities, including the pretreatment and discharge of water from on-site wastewater ponds. |
+| **1995 – 1996** | The PRPs dug up contaminated soil and sludge, solidified the soil and sludge with cement, and placed it in an on-site landfill. The landfill was then with clean soil and a vegetated cover. |
+| **1998** | The EPA took the site off the NPL. |
+| **2002** | The YMCA of Greenville purchased the site property and redeveloped the area into the YMCA-Lucille Rice Recreational Park, which offers a day camp, team-building exercise courses, education trails, athletic fields, picnic areas and natural areas. The YMCA also redeveloped buildings remaining on site into an interactive environmental education center. |
+
+### What Is the Current Site Status?
+
+The [fifth Five-Year Review](https://semspub.epa.gov/work/04/11166409.pdf) was published by EPA HQ in 2021. The Solidification/Stabilization remedy implemented at the GSST continues to be protective of human health and the environment, and the property is well maintained.
+
+YMCA conducts operation and maintenance activities. These activities include inspections of the landfill cap, cover and site security, landscape maintenance to keep the landfill cap intact, and stream and ground water monitoring to verify the performance of the soil cleanup approach.
+
 The site’s PRPs continue to monitor five wells annually to make sure landfill material is not leaching into ground water.
 
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are on the site property to limit land use.
+
+### Sampling and Monitoring
+
+The site’s PRPs continue to monitor five wells annually to make sure landfill material is not leaching into ground water.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA negotiated legal agreements with the site’s PRPs to investigate and clean up the site. The PRPs continue to fund monitoring and oversight activities.

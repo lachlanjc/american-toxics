@@ -1,2 +1,34 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Rochester Property site includes an area where waste disposal operations took place in 1971 and 1972. The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1989 because of contaminated groundwater and soil resulting from waste handling practices. Following the removal of wastes at the site in 1990, EPA determined only groundwater contamination remained at the site.
+
+EPA, the South Carolina Department of Health and Environmental Control (SCDHEC), and the site’s primary potentially responsible party (PRP) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. The PRP cleaned up the site to levels that support unrestricted use and unrestricted exposure. EPA does not anticipate additional work at this site.
+
+### What Has Been Done to Clean Up the Site?
+
+The 4.5-acre site is located in a rural area in Greenville County, approximately three miles west of Travelers Rest, South Carolina. An unnamed tributary borders the site to the north and east. Another stream borders the site to the south. Several homes surround the site. The site’s broader surroundings include rural residences and agricultural land uses. From 1971 until 1972, the site received wastes, including wood glue, print binders, powder materials, natural guar gums, adhesive for food packages and adhesive restick for envelopes. Operations placed the wastes in four trenches on site. In 1989, the EPA listed the site on the NPL. Following cleanup activities, the EPA deleted the site from the NPL in 2007. Currently, the site is not in use. The site can support unrestricted use.
+
+- The site’s primary PRP led site investigation and cleanup activities, with oversight provided by EPA and SCDHEC.
+- EPA placed the site on the National Priorities List (NPL) in 1989 because of contaminated ground water and soil resulting from waste handling practices.
+- In 1990, the site’s PRP removed 1,500 cubic yards of contaminated soil and eight drums of waste from the site. Following the removal, EPA determined that no further cleanup activities for soil contamination were necessary.
+- In 1995, the PRP installed and began operation of the air sparging system.
+- In 2002, the PRP modified the air sparging system to include the use of ozone to address groundwater contamination.
+- The site’s second Five-Year Review, completed in 2005, found that the cleanup would be protective of human health and the environment following the achievement of groundwater cleanup level goals.
+- In 2006, the PRP conducted the final sampling event at the site and found that groundwater achieved cleanup level goals.
+- In 2007, EPA completed the Close-Out Report for the site.
+
+### What Is the Current Site Status?
+
+- In 1993, EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included using air sparging to inject air into the groundwater to address contamination.
+- In 2002, EPA updated the remedy, adding the use of ozone to treat contaminated groundwater during the air sparging process.
+- In 2006, a second remedy update by EPA changed cleanup level goals for manganese.
+- EPA deleted the site from the NPL in 2007.
+- The EPA does not require additional Five-Year Reviews for the site. The EPA does not anticipate additional work at this site.
+
+### Sampling and Monitoring
+
+EPA deleted the site from the NPL in 2007 and does not anticipate additional work at this site.
+
+### Enforcement Information
+
+EPA negotiated legal agreements with the site’s primary PRP to investigate and clean up the site. The PRP funded site cleanup, monitoring and oversight activities.

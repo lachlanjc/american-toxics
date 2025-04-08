@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Missouri Electric Works Superfund Site consists of soil and groundwater impacted by polychlorinated biphenyls (PCBs) related to servicing and remanufacturing electric equipment. The site property is 6.4 acres located adjacent to U.S. Highway 61 (South Kings Highway) in Cape Girardeau, Missouri. A commercial building and a storage facility are currently located on the site property. The current land use for the area surrounding the site property is predominantly commercial and industrial.
+
+Missouri Electric Works, Inc., sold, serviced and remanufactured electric motors, transformers and equipment controls at the site property from 1953 to 1992. During most of its time in operation, the company processed electrical equipment that was filled with oil containing PCBs. Part of the operations were to recovery oil from electrical equipment and to recycle or dispose of the oil. These operations resulted in soil and groundwater contaminated with PCBs.
+
+The site has three operable units: OU01 Soil addresses soil contamination on the site property; OU02 Groundwater addresses the contaminated groundwater plume and OU03 Adjacent Areas addresses soil that were potentially impacted by surface water runoff from the site property.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was discovered in 1984 when the Missouri Department of Natural Resources (MoDNR), conducted an inspection of the facility. The inspection found soil contaminated with PCBs and over 100 drums containing PCB-contaminated oil. The EPA performed additional investigations from 1985 to 1988 to characterize the contamination. The EPA issued an administrative order on consent restricting the facility from handling electrical equipment filled with PCB-contaminated oil and to mitigate exposure to PCBs. The site was listed on the National Priorities List on February 21, 1990.
+
+The site is being addressed with two separate actions. The first action was performed at OU01 to address soil contamination on the site property. The second action was performed at OU02 to address the contaminated groundwater plume. No remedial action was needed at OU03.
+
+The EPA issued the record of decision for OU01 on September 28, 1990, to select the soil remedy for the site property. The soil remedy included the excavation, processing and treatment of PCB-contaminated soils using thermal desorption technology. On-site construction activities to implement the remedy began in June 1999 and were completed in September 2000. The remedial action at OU01 has been completed and achieved cleanup levels for soil.
+
+The EPA issued the record of decision for OU02 on September 28, 2005, to select the groundwater remedy. The groundwater remedy included routine groundwater monitoring and institutional controls to address the two groundwater aquifers that had been impacted by contamination from the site. The long-term groundwater monitoring program began in June 2015 and is ongoing.
+
+The remedial investigation at OU03 was conducted from October 2016 to September 2018 and concluded that levels of contamination in soil, sediment and surface water do not pose unacceptable risk to current or potential future human receptors. The remedial investigation also evaluated ecological risks and concluded that residual PCBs in soils, sediments and surface water at OU03 are not present at concentrations that pose unacceptable risks to ecological receptors. As a result, the EPA issued a record of decision on September 7, 2018 selecting no remedial action, or “no action,” for OU03.
+
+### What Is the Current Site Status?
+
+**Five-Year Reviews**
+
+The EPA conducts Five-Year Reviews (FYRs) to evaluate the protectiveness for remedial actions where hazardous substances, pollutants or contaminants remain above levels that allow for unlimited use and unrestricted exposure. The EPA completed the fifth and most recent FYR at the MEW Site on July 10, 2024, and issued the following protectiveness statements:
+
+OU01:
+
+Protectiveness Statement: The remedy at OU01 of the MEW site is protective of human health and the environment.
+
+OU02:
+
+Protectiveness Statement: The remedy at OU02 of the MEW Site is protective of human health and the environment because TCE concentrations in groundwater continue to decrease and no groundwater production wells are within the contaminated plume. Institutional controls have been implemented to prohibit groundwater use.
+
+Site-wide:
+
+Protectiveness Statement: The remedy at the MEW Site is protective of human health and the environment.
+
+The next FYR is due on July 10, 2029, five years after the signature of the last FYR report.
+
+### Sampling and Monitoring
+
+The EPA conducts annual site inspections of the soil cap at OU01 and annual groundwater sampling as part of the long-term monitoring program at OU02.

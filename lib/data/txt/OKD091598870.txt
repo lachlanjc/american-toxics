@@ -1,19 +1,27 @@
-OKLAHOMA REFINING CO.CYRIL, OK
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 160-acre Oklahoma Refining Co. site is located in Cyril, Oklahoma. A refinery operated by several different owners was located on site until 1984. Site operations contaminated soil, sediment, surface water and groundwater with polycyclic aromatic hydrocarbons (PAHs), volatile organic compounds (VOCs) and metals. Remedial activities were completed in 2001 on the southern part of the site.  Removal activities were completed in 2006. A Record of Decision was issued in June 2013 which describes the selected remedy for the north side of the site. A Remedial Design which specifies the plans for implementing the remedy for the northern portion of the site was completed on April 20, 2020. The remedial action concerning the north side of the site is anticipated to commence pending availability of federal funding. 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and state actions.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires repair of the security fence, continued operation and maintenance of the source control remedy, investigation of soil in the former refinery area, and evaluation of sitewide groundwater and surface water contamination.
+### Background
 
-What Is the Current Site Status?
-EPA completed the Fifth Five Year Review Report on May 6, 2022. The Five Year Review Report concluded that the remedy is protective of human health and the environment. EPA divided the site into three operable units (OUs) to prioritize and manage cleanup activities. Remedy Selected OU-1 – Southern Soil, Sediment and Surface Water: The long-term remedy included bioremediation, stabilization, neutralization and containment and treatment of surface water and groundwater. Remediation activities including construction of two landfills for hazardous and non-hazardous materials and two temporary biotreatment areas. Construction of the remedy finished in 2001. Operation and maintenance activities are ongoing. OU-2 - Northern Soil, Sediment and Light Non-Aqueous Phase Liquids (LNAPLs): The long-term remedy included excavation of contaminated soils and sediments, on-site disposal of excavated materials in the hazardous waste landfill, recovery and monitoring of LNAPLs, fencing the site to prevent access, and institutional controls to protect the remedy.  A Remedial Design is currently being developed for this selected remedy. OU-3 - Groundwater: A Remedial Investigation to gather information concerning the interaction of the groundwater at the site with Galdys Creek was initiated on January 15, 2015.  Information and data collected in this investigation along with historical groundwater data will be utilized to develop a Feasiblity Study. 
-Emergency Response and Removal
+The 160-acre Oklahoma Refining Co. site is located in Cyril, Oklahoma. A refinery operated by several different owners was located on site until 1984. Site operations contaminated soil, sediment, surface water and groundwater with polycyclic aromatic hydrocarbons (PAHs), volatile organic compounds (VOCs) and metals. Remedial activities were completed in 2001 on the southern part of the site. Removal activities were completed in 2006. A Record of Decision was issued in June 2013 which describes the selected remedy for the north side of the site. A Remedial Design which specifies the plans for implementing the remedy for the northern portion of the site was completed on April 20, 2020. The remedial action concerning the north side of the site is anticipated to commence pending availability of federal funding.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires repair of the security fence, continued operation and maintenance of the source control remedy, investigation of soil in the former refinery area, and evaluation of sitewide groundwater and surface water contamination.  
+
+### What Is the Current Site Status?
+
+EPA completed the [Fifth Five Year Review Report](https://semspub.epa.gov/work/06/100026756.pdf) on May 6, 2022. The Five Year Review Report concluded that the remedy is protective of human health and the environment.
+
+EPA divided the site into three operable units (OUs) to prioritize and manage cleanup activities.
+
+**Remedy Selected**
+
+*OU-1 – Southern Soil, Sediment and Surface Water:* The long-term remedy included bioremediation, stabilization, neutralization and containment and treatment of surface water and groundwater. Remediation activities including construction of two landfills for hazardous and non-hazardous materials and two temporary biotreatment areas. Construction of the remedy finished in 2001. Operation and maintenance activities are ongoing.
+
+*OU-2 - Northern Soil, Sediment and Light Non-Aqueous Phase Liquids (LNAPLs):* The long-term remedy included excavation of contaminated soils and sediments, on-site disposal of excavated materials in the hazardous waste landfill, recovery and monitoring of LNAPLs, fencing the site to prevent access, and institutional controls to protect the remedy. A Remedial Design is currently being developed for this selected remedy.
+
+*OU-3 - Groundwater:* A Remedial Investigation to gather information concerning the interaction of the groundwater at the site with Galdys Creek was initiated on January 15, 2015. Information and data collected in this investigation along with historical groundwater data will be utilized to develop a Feasiblity Study.
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. A removal action in 2003 demolished process towers, vessels, buildings, cooling towers, aboveground piping, sumps, aboveground storage tanks and asbestos-containing materials from pipes and vessels. Another removal action in 2003 addressed drums, lab chemicals and access controls. A removal action in 2006 fenced the site, emptied and removed tanks in the tank farm, took down the refinery superstructure, and disposed of debris from the demolition of the facility.

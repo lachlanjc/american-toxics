@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Site is located next to the Arkansas River at 10 Tantalum Place, Muskogee, Oklahoma, and includes approximately 105 acres, multiple process buildings, multiple process ponds containing process waste and a significant amount of stored waste as described below.
+
+The Fansteel Metals Site is a former metals processing plant that extracted Tantalum and Columbium (aka niobium) from ores and slag. Fansteel, Inc. (Fansteel) operated the plant from 1957 to 1989. The raw ore and slag contained trace amounts of uranium (about 0.1%) and thorium, (about 0.25%). The amount of radioactive uranium and thorium was enough to be considered as “source material” by the Nuclear Regulatory Commission (NRC). Fansteel Metals operated under an NRC license that has been modified since the facility stopped production (NRC License No. SMB-911). Since 1989, the activity at the Site has been limited to environmental monitoring, maintenance, and some cleanup of operating areas.
+
+The site contains managed piles of low level radioactive materials and strata found in closed on-site ponds. Some waste previously contained in those closed ponds has been containerized in SuperSacks which are now stored in the Sodium Reduction Building. On-site former process waste ponds are now used as active water treatment ponds as part of the groundwater treatment operation that captures potentially contaminated water prior to entering the Arkansas River.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA contractors completed a SI in October 1981, which included the collection and sampling of two sediment samples from a runoff outfall and an area of seepage. The results of the SI indicated the presence of hazardous substances at the Site, as well as a release of hazardous substances from the Site to surface water.
+
+ODEQ conducted a PA at the Site in June 2018, the scope included the review of available information from ODEQ and other State agencies’ files and a comprehensive target survey. As a result of the information gathered during the PA, further investigation at the Site was recommended.
+
+EPA conducted a removal action at this site in 2018. That removal action addressed abandoned laboratory chemicals and an abandoned ammonium hydroxide tank. The removal action was taken in part to ensure the continued safe functioning of the on-site wastewater treatment plant.
+
+EPA conducted an Expanded Site Investigation (ESI) at the site in 2018. That report was finalized in November, 2019.
+
+EPA conducted a gamma survey at the site in 2019. That survey identified multiple instances of gamma radiation above established background levels (see Figure 5).
+
+A portion of the property referred to at the Northwest Property has been assessed and released by the NRC as clean. That portion is approximately 35 acres of the Site’s 105 acres.
+
+EPA used existing data from the 2019 ESI and the 2019 gamma survey to calculate risk to an on-site worker from the soil stockpile.
+
+EPA conducted a file review groundwater evaluation and evaluation of the soil stockpile in 2021.
+
+EPA conducted a site walk to evaluate potential removal actions in March, 2023.
+
+### What Is the Current Site Status?
+
+Currently the site was added to the NPL list in September of 2023.
+
+EPA Superfund Removal and Remedial branches are evaluation what actions will be conducted in the short and long term of the site.
+
+The site is currently still being operated and managed by Fansteel/FMRI under an NRC license until approximatley October of 2024. Once the site runs out of funding the EPA will become the site lead at the facility.
+
+### Emergency Response and Removal
+
+EPA conducted a time crtiical removal action at this site in 2018. That removal action addressed abandoned laboratory chemicals and an abandoned ammonium hydroxide tank.

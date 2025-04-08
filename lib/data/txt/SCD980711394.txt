@@ -1,44 +1,42 @@
-SCRDI DIXIANACAYCE, SC
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 2-acre SCRDI Dixiana Superfund site is located on Ballard Court in Cayce, Lexington County, South Carolina. The site includes a ground water extraction and treatment system and a privately owned warehouse. Ballard Court borders the Site to the north. Two residential properties border the site to the east. Commercial and retail land uses, including a farmer’s market, an amphitheater and a South Carolina Department of Agriculture (SCRCI) facility, border the site to the west and south. In 1978, SCRDI leased the Site property for the storage of drums containing industrial wastes, including paints, solvents, acids, waste oils, phenols and dyes. Some of the drums leaked during storage. In the early 1980s, SCDHEC confirmed that contamination had affected groundwater and the City of Cayce connected residences and businesses to the public water supply. The EPA placed the Site on the National Priorities List (NPL) in 1983 because of contaminated groundwater resulting from waste handling practices. The EPA, the South Carolina Department of Health and Environmental Control (SCDHEC)Exit, and the Site’s potentially responsible parties (PRPs) have investigated site conditions. By treating and monitoring groundwater and placing institutional controls on the surrounding properties, the EPA, SCDHEC and the site’s PRPs continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site. A water line connects residences and businesses to the public water supply.
-What Has Been Done to Clean Up the Site?
+### Background
+
+The 2-acre SCRDI Dixiana [Superfund](http://www.epa.superfund) site is located on Ballard Court in Cayce, Lexington County, South Carolina. The site includes a ground water extraction and treatment system and a privately owned warehouse. Ballard Court borders the Site to the north. Two residential properties border the site to the east. Commercial and retail land uses, including a farmer’s market, an amphitheater and a South Carolina Department of Agriculture (SCRCI) facility, border the site to the west and south.
+
+In 1978, SCRDI leased the Site property for the storage of drums containing industrial wastes, including paints, solvents, acids, waste oils, phenols and dyes. Some of the drums leaked during storage. In the early 1980s, SCDHEC confirmed that contamination had affected groundwater and the City of Cayce connected residences and businesses to the public water supply.
+
+The EPA placed the Site on the [National Priorities List (NPL)](http://www.epa.superfund/superfund-glossary#n) in 1983 because of contaminated groundwater resulting from waste handling practices. The EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](http://www.scdhec.gov/), and the Site’s [potentially responsible parties (PRPs)](http://www.epa.superfund/superfund-glossary#p) have investigated site conditions. By treating and monitoring groundwater and placing institutional controls on the surrounding properties, the EPA, SCDHEC and the site’s PRPs continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects residences and businesses to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
 The PRPs continue to fund site cleanup and monitoring with oversight provided by the EPA and SCDHEC.
-When
-What﻿
-﻿1980
-SCRDI removed all drummed wastes and visibly contaminated soil and stockpiled the materials for disposal.
-﻿1984 - 1985
-The ﻿EPA conducted a remedial investigation/feasibility study (RI/FS) at the Site.
-﻿1986
- The EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included:
-using deep-well technology to extract contaminated groundwater
-treating contaminated groundwater on site
-discharging treated groundwater to a nearby surface water pathway.﻿
-﻿1989 - 1995
-The ﻿EPA began cleanup activities in 1989, completed cleanup construction in 1992 and led site investigation and cleanup activities until 1995. Since 1995, the Site’s PRPs have led site activities, with oversight provided by the EPA and SCDHEC.
-﻿1991
-The EPA updated the remedy to change the components used in the groundwater treatment system and to discharge treated groundwater to the local water treatment plant.
-2010
+
+| When | What |
+| --- | --- |
+| **1980** | SCRDI removed all drummed wastes and visibly contaminated soil and stockpiled the materials for disposal. |
+| **1984 - 1985** | The EPA conducted a remedial investigation/feasibility study (RI/FS) at the Site. |
+| **1986** | The EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included:  - using deep-well technology to extract contaminated groundwater - treating contaminated groundwater on site - discharging treated groundwater to a nearby surface water pathway. |
+| **1989 - 1995** | The EPA began cleanup activities in 1989, completed cleanup construction in 1992 and led site investigation and cleanup activities until 1995. Since 1995, the Site’s PRPs have led site activities, with oversight provided by the EPA and SCDHEC. |
+| **1991** | The EPA updated the remedy to change the components used in the groundwater treatment system and to discharge treated groundwater to the local water treatment plant. |
+| **2010** | The EPA issued a second remedy update required the placement of institutional controls on the Site property to restrict groundwater use. |
+
+### What Is the Current Site Status?
+
+The [sixth Five Year Review](https://semspub.epa.gov/src/document/04/11155292) was published by EPA HQ in 2020. The Sitewide Protectiveness Status currently protects human health and the environment because no complete exposure pathways exist.
+
+The Site’s PRPs will continue to monitor and treat the groundwater until it meets site cleanup goals.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 The EPA issued a second remedy update required the placement of institutional controls on the Site property to restrict groundwater use.
 
-What Is the Current Site Status?
-The sixth Five Year Review was published by EPA HQ in 2020. The Sitewide Protectiveness Status currently protects human health and the environment because no complete exposure pathways exist. The Site’s PRPs will continue to monitor and treat the groundwater until it meets site cleanup goals.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The EPA issued a second remedy update required the placement of institutional controls on the Site property to restrict groundwater use.
+### Enforcement Information
 
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 In 1995, the EPA negotiated legal agreements with the site’s PRPs to investigate and clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

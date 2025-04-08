@@ -1,25 +1,35 @@
-GRIGGS & WALNUT GROUND WATER PLUMELAS CRUCES, NM
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-﻿Current Site Status The Joint Superfund Project (JSP) prepares annual remedial action reports that summarize the progress made during operation of the remedy. The most recent annual report was completed in June 2019. Environmental Protection Agency (EPA) is working through the Department of Justice (DOJ) in order to settle all claims with all parties with regard to performing and funding operation and maintenance (O&M) of the ground water extraction and treatment system. Currently, the City of Las Cruces (City) and Doña Ana County (DAC) continue to operate and maintain the system through a Joint Superfund Project (JSP) which is defined by an intergovernmental agreement the City and DAC entered into for the Site. In operating the ground water extraction and treatment system, the JSP is continuing to satisfy water supply demands while meeting drinking water standards.﻿﻿ Site Background﻿ The Griggs & Walnut Ground Water Plume is centered near the intersection of Griggs Avenue and Walnut Street in the city of Las Cruces in Dona Ana County, New Mexico. The area of the plume is about 2,500 feet wide by 4,000 feet long.  In 1993, the New Mexico Environment Department (NMED) discovered tetrachloroethylene (PCE) contamination in the City of Las Cruces (CLC) municipal supply wells.  Dissolved PCE was detected upgradient and downgradient of four affected municipal supply wells.
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. NMED first detected low concentrations of PCE in water samples from two CLC municipal water supply wells, Wells 21 and 27, in August 1993.  The concentrations of PCE were well below the drinking water maximum contaminant level (MCL) of 5 micrograms/liter (μg/L) established for PCE by EPA.  In January 1995, a water sample from a third municipal well, Well 18, while it was off-line following repairs, contained 32 μg/L of PCE.  Concentrations of PCE in follow-up samples were less than 2.0 μg/L.  Regular follow-up sampling of Well 18 continued.  In January 1996, another sample from Well 18 contained 6.4 μg/L of PCE, but the concentrations of PCE in confirmation samples were 1.0 μg/L or less. Although the confirmation results indicated that PCE concentrations in water from Well 18 were below the MCL, Well 18 was permanently removed from service in September 1996 by the CLC as a precaution.NMED first detected low concentrations of PCE in water samples from two CLC municipal water supply wells, Wells 21 and 27, in August 1993.  The concentrations of PCE were well below the drinking water maximum contaminant level (MCL) of 5 micrograms/liter (μg/L) established for PCE by EPA.  In January 1995, a water sample from a third municipal well, Well 18, while it was off-line following repairs, contained 32 μg/L of PCE.  Concentrations of PCE in follow-up samples were less than 2.0 μg/L.  Regular follow-up sampling of Well 18 continued.  In January 1996, another sample from Well 18 contained 6.4 μg/L of PCE, but the concentrations of PCE in confirmation samples were 1.0 μg/L or less. Although the confirmation results indicated that PCE concentrations in water from Well 18 were below the MCL, Well 18 was permanently removed from service in September 1996 by the CLC as a precaution.
-What Is the Current Site Status?
-The site’s long-term remedy, selected in 2007, included enhanced groundwater extraction with treatment (air stripping). Construction of the remedy began in September 2011 and finished in July 2012.  Operation and maintenance (O&M) activities commenced following completion of construction and are ongoing. EPA conducted the first five-year review of the long-term remedy in 2016. EPA completed the second five-year review in August 2021.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+### Background
+
+**Current Site Status**
+
+The Joint Superfund Project (JSP) prepares annual remedial action reports that summarize the progress made during operation of the remedy. The most recent annual report was completed in June 2019. Environmental Protection Agency (EPA) is working through the Department of Justice (DOJ) in order to settle all claims with all parties with regard to performing and funding operation and maintenance (O&M) of the ground water extraction and treatment system. Currently, the City of Las Cruces (City) and Doña Ana County (DAC) continue to operate and maintain the system through a Joint Superfund Project (JSP) which is defined by an intergovernmental agreement the City and DAC entered into for the Site. In operating the ground water extraction and treatment system, the JSP is continuing to satisfy water supply demands while meeting drinking water standards.
+
+**Site Background**
+
+The Griggs & Walnut Ground Water Plume is centered near the intersection of Griggs Avenue and Walnut Street in the city of Las Cruces in Dona Ana County, New Mexico. The area of the plume is about 2,500 feet wide by 4,000 feet long. In 1993, the New Mexico Environment Department (NMED) discovered tetrachloroethylene (PCE) contamination in the City of Las Cruces (CLC) municipal supply wells. Dissolved PCE was detected upgradient and downgradient of four affected municipal supply wells.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+NMED first detected low concentrations of PCE in water samples from two CLC municipal water supply wells, Wells 21 and 27, in August 1993. The concentrations of PCE were well below the drinking water maximum contaminant level (MCL) of 5 micrograms/liter (μg/L) established for PCE by EPA. In January 1995, a water sample from a third municipal well, Well 18, while it was off-line following repairs, contained 32 μg/L of PCE. Concentrations of PCE in follow-up samples were less than 2.0 μg/L. Regular follow-up sampling of Well 18 continued. In January 1996, another sample from Well 18 contained 6.4 μg/L of PCE, but the concentrations of PCE in confirmation samples were 1.0 μg/L or less. Although the confirmation results indicated that PCE concentrations in water from Well 18 were below the MCL, Well 18 was permanently removed from service in September 1996 by the CLC as a precaution.NMED first detected low concentrations of PCE in water samples from two CLC municipal water supply wells, Wells 21 and 27, in August 1993. The concentrations of PCE were well below the drinking water maximum contaminant level (MCL) of 5 micrograms/liter (μg/L) established for PCE by EPA. In January 1995, a water sample from a third municipal well, Well 18, while it was off-line following repairs, contained 32 μg/L of PCE. Concentrations of PCE in follow-up samples were less than 2.0 μg/L. Regular follow-up sampling of Well 18 continued. In January 1996, another sample from Well 18 contained 6.4 μg/L of PCE, but the concentrations of PCE in confirmation samples were 1.0 μg/L or less. Although the confirmation results indicated that PCE concentrations in water from Well 18 were below the MCL, Well 18 was permanently removed from service in September 1996 by the CLC as a precaution.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy, selected in 2007, included enhanced groundwater extraction with treatment (air stripping). Construction of the remedy began in September 2011 and finished in July 2012. Operation and maintenance (O&M) activities commenced following completion of construction and are ongoing.  
+  
+EPA conducted the first five-year review of the long-term remedy in 2016.
+
+EPA completed the second five-year review in August 2021.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 Until the concentrations of PCE in the aquifer meet the Maximum Contaminant Level, there are land use restrictions involving prohibition of new completion of wells in and nearby the Griggs and Walnut Ground Water Plume Superfund Site.
 
-Emergency Response and Removal
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In June 2002, CLC began pumping two of its municipal wells to provide hydraulic control of the plume. Three of the four affected municipal supply wells were also taken out of service in various years.

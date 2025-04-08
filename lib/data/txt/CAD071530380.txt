@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 8-acre Frontier Fertilizer Superfund site is located near the City of Davis, California. Frontier Fertilizer was initially developed in the 1950s and contained facilities that serviced the agricultural industry. Operations in the 1970s and 1980s consisted of pesticide and herbicide storage, mixing and delivery. These activities contaminated site soils, as well as groundwater. The Site was listed on the U.S. Environmental Protection Agency’s (EPA’s) National Priorities List in 1994. The chemicals of concern (COCs) identified in the 1999 Risk Assessment at the Site are the pesticides 1,2-dibromoethane (EDB), 1,2-dibromo-3-chloropropane (DBCP), 1,2-dichloropropane (DCP), and 1,2,3-trichloropropane (TCP), which were used as soil fumigants. Carbon tetrachloride (CCl4) also was used as a grain fumigant, and the source appears to be separate from the pesticides. The Site contains contaminated soil and a groundwater plume that extends in a northerly direction beyond the property line under residential housing.
+
+The California Department of Toxic Substances Control (DTSC) installed a groundwater extraction and treatment system in 1993, and EPA upgraded that system in 1995. A human health risk assessment (HHRA) was completed for the Site in April 1999 (Bechtel, 1999), and updated in 2016 (CH2M, 2016). In a September 28, 2006 Record of Decision (ROD), EPA selected the following remedies to clean up the site: in-situ heating of source area contaminated soil and groundwater; operation of a groundwater extraction and treatment system; and institutional controls.
+
+EPA completed the in-situ heating remedy component in September 2015. From that operation, 95% of the contaminant mass within the treated area was removed, and soil and groundwater sampled within the treated area were below clean-up values. No further action is necessary for the soil component of the remedy. The groundwater component of the remedy is functioning as intended and concentrations of contaminants continue to exhibit decreasing trends overall.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+EPA's goals have been to halt the migration of contaminated groundwater, to restore the affected groundwater to drinking water quality standards, and to remediate contaminated soil in the former waste pit area so that it no longer acts as an ongoing source of contamination to groundwater.
+
+EPA completed an in-situ heating remedy in September 2015 for soils. From that operation, 95% of the contaminant mass within the treated area was removed, and soil and groundwater sampled within the treated area were below clean-up values. No further action is necessary for the soil component of the remedy.
+
+A groundwater extraction and treatment system is in place to reduce the concentrations of contaminants in groundwater. The system is function as intended and contaminants continue to decrease over time.
+
+### What Is the Current Site Status?
+
+In 2017, EPA expanded the groundwater extraction and treatment system to further enhance its effectiveness. Expansion included installation of additional extraction wells, and doubling the capacity of the water treatment system from its previous 80 gpm to 160 gpm. This treatment system and all wells were transferred to the California Department of Toxic Substances Control (DTSC) for continued operation and maintenance. The groundwater extraction and treatment system continue to function today, as intended. The remedy at the Frontier Fertilizer Superfund Site is currently protective of human health and the environment. Soil no longer poses an unacceptable risk and institutional controls are preventing exposure to groundwater, while the groundwater extraction and treatment remedy continues to reduce levels of chemicals in groundwater.
+
+### Sampling and Monitoring
+
+Groundwater sampling and monitoring activities were transferred to the California Department of Toxic Substances Control (DTSC) in Fall of 2016. Groundwater sampling and monitoring events take place on a quarterly basis and DTSC produces quarterly reports on the results. The most recent reports can be found on the DTSC [website](https://www.envirostor.dtsc.ca.gov/public/profile_report?global_id=57070001).
+
+### Green Remediation
+
+This site serves as a prime example of innovative green remediation and renewable energy at a Superfund site. For the first time nationwide, solar energy is providing all of the power for a Superfund groundwater cleanup. In 2007, EPA installed the initial solar panels which partially offset the site groundwater treatment system’s electrical power needs, but could not fully power the remedy. In 2010, $350,000 in American Recovery and Reinvestment Act funds facilitated an expansion of the solar energy system, which provided 100 percent of the power for the groundwater treatment system at the time. The solar panels cover half an acre, resulting in a green cleanup method that generates plenty of solar energy and offsets non-renewable energy use. The installation and operation of the solar panel system resulted in a $15,000 reduction in the site’s overall annual energy costs and a reduction of more than 54 metric tons of annual carbon dioxide emissions. Heating of the source area, completed in October 2012, will accelerate the site’s estimated cleanup duration by about 120 years. This will reduce the time for achieving groundwater cleanup from 150 years to 30 years thus reducing the footprint it would have produced.
+
+### Enforcement Information
+
+Potentially Responsible Parties (PRPs) refers to companies that are potentially responsible for generating, transporting, or disposing of the hazardous waste found at the site.
+
+EPA has found that the owners of the Frontier Fertilizer site are not financially viable PRPs. Therefore, contamination at the Site is being addressed using EPA funding.

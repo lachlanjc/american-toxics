@@ -1,6 +1,28 @@
-Reuse Assessment
-  The Lower Neponset River Superfund Site Reuse Assessment Report identifies reasonably anticipated future land uses at the Site to guide for EPA's cleanup decision-making process and inform land use planning activities by state and local governments and other interested parties. The report provides background information and identifies current land use, ownership and demographic considerations at the Site as well as stakeholder perspectives and feedback gathered in 2022 and 2023.
-  Neponset River Watershed Report Cards
-  Each year, the Neponset River Report Cards are developed to measure and evaluate progress towards meeting the State of Massachusetts bacterial water quality standards for swimming, boating, and general health of the watershed.
-  Contact Us to ask a question, provide feedback, or report a problem. 
-Last updated on March 19, 2025
+Background
+The Lower Neponset River site consists of a 3.7-mile section of the Neponset River between its confluence with Mother Brook (in Hyde Park, Massachusetts (MA)) and the Walter Baker Dam (in Dorchester/Milton, MA). Based on preliminary studies, this portion of the river contains sediment contaminated with elevated levels of polychlorinated biphenyls (PCBs). The Lower Neponset River channel ranges from approximately 40 feet to 300 feet wide and comprises an estimated 40 acres within or bordering the City of Boston (Hyde Park, Mattapan and Dorchester sections) and the Town of Milton, MA. The site is bordered by residential, commercial, industrial, and public parcels of land, including the Neponset River Greenway.
+
+From 2002 through 2006, the United States Geological Survey (USGS), in cooperation with the Massachusetts Executive Office of Environmental Affairs Riverways Program and the EPA, conducted studies which included the Lower Neponset River in Boston and Milton. According to the USGS report, the PCB concentrations substantially increased in sediment core samples collected downstream of the Mother Brook confluence. In 2006 and 2007, Massachusetts Department of Environmental Protection (MassDEP) oversaw a large removal of contaminated sediments in Mother Brook, which feeds into the Neponset River. In 2013, MassDEP conducted sediment core sampling to further evaluate PCBs in Neponset River sediments at four areas along the Neponset River.
+
+In October 2015, MassDEP requested that the EPA evaluate the Neponset River for potential listing on the National Priorities List (NPL) as the surface water, sediment, and fish within the Neponset River and Estuary are contaminated with PCBs. On March 16, 2022, the Environmental Protection Agency (EPA) listed the Lower Neponset River site on the National Priorities List.
+
+What Has Been Done to Clean Up the Site?
+A Preliminary Assessment (pdf) (5.9 MB) was completed on August 13, 2018.
+The Site Inspection (pdf) (25 MB) was completed on April 19, 2019.
+
+The Site was listed on the National Priorities List on March 16, 2022.
+
+The remedial investigation began in February 2023.
+
+The Remedial Investigation and Feasibility Study Phase I sampling (from the confluence of the Mother Brook and the Neponset River downstream to the Tileston and Hollingsworth Dam) was completed in November of 2023.
+
+For updates on the progress at the Lewis Chemical removal site, please refer to https://response.epa.gov/lewischemical
+
+For updates on the progress at the Riverside Square PCBs removal investigation site, please refer to https://response.epa.gov/riversidesquarepcb
+
+What Is the Current Site Status?
+An Engineering Evaluation and Cost Analysis to evaluate early action alternatives is in progress and is anticipated to be completed in the coming months. A public comment period will follow shortly thereafter.
+
+The Remedial Investigation Phase 2 Reach sampling (from the Tileston and Hollingsworth Dam downstream to the Walter Baker Chocolate Dam) is ongoing and anticipated to be completed in 2025.
+
+Sampling and Monitoring
+General Remedial Investigation Phase 1 and Phase 2 sampling activities include, but are not limited to, site reconnaissance, well and outfall inventory, historical and cultural resource surveys, geospatial data collection, magnetometer surveys, installation of transducers, sediment profile imaging, ecological characterization and evaluations, and the sampling of floodplain soils, wetlands, sediment, surface water, porewater, mussels and fish tissue.

@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Joliet Army Ammunition Plant Manufacturing Area is located 10 miles south of Joliet in Will County, Illinois. It covers 14 square miles of a former Army munitions facility. From the early 1940s through 1977 in the MFG Area, more than four billion pounds of explosives, primarily trinitrotoluene (TNT) and tetryl. The production facilities are located in the northern half of the MFG Area. Extensive explosives storage facilities occupy the southern half of the MFG Area. Following cleanup, the site’s long-term remedy is in place. Groundwater monitoring is ongoing. The site is now in reuse.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. The U.S. Army has lead responsibility at the site.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The site is in reuse. Institutional controls make sure land uses on site are protective of the remedy.  
+
+### What Is the Current Site Status?
+
+Site remedies are in place and operating successfully. Institutional controls make sure land uses located on site are protective of the site’s remedy. Site reuses include the Midewin Tallgrass Prairie, Abraham Lincoln National Cemetery, Prairie View Landfill and several manufacturing and distribution business parks. After extensive environmental investigation and cleanup, and close collaboration between federal, state and local governments, community groups and the private sector, cleanup finished in early 2008 – three years ahead of schedule.
+
+Final actions for the MFG Area included digging up and treating various kinds of contaminated soil, digging up and disposing of the two ash piles, capping the two landfills and natural attenuation with deed restrictions for the groundwater plumes. Composting was used to bioremediate explosives-contaminated soil. Bioremediation is the use of microbes to clean up contaminated soil and groundwater. Ultimately, a total of 205,000 cubic yards of contaminated soil were successfully bioremediated. Excavation of one of the ash landfills took place in 2005 and 2006. Over 55,000 cubic yards of material were dug up and sent to the Will County landfill. Excavation of the remaining ash landfill took place in 2006 and 2007.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Contaminants of concern include polychlorinated biphenyls (PCBs), volatile chlorinated solvents, heavy metals, explosives and explosive compounds.
+
+  
+
+### Sampling and Monitoring
+
+Long-term groundwater monitoring and landfill inspection documentation is completed on a semi-annual basis for the Groundwater Operable Unit (GOU) and the Soil Operable Unit (SOU) of the Site. This monitoring and inspection program is required per the Record of Decision for the Soil and Groundwater Operable Units on the Manufacturing and Load-Assemble Package Areas (U.S. Army, 1998; 1998 ROD) for the Site.
+
+The remedy selected for the Groundwater Operable Unit is monitored natural attenuation (MNA). Natural attenuation is a remedy which relies on natural processes to decrease or “attenuate” concentrations of contaminants in soil and groundwater. Scientists monitor these conditions to make sure natural attenuation is working to cleanup up the groundwater. The remedy selected for the Soil Operable Unit involved the construction of landfills to contain wastes and institutional controls to prevent unacceptable exposures to contamination left in place. Landfill inspections help ensure that the physical integrity of the landfill remains intact and that there are no impermissible uses of the landfill property.
+
+The objectives of the long-term groundwater monitoring and landfill inspection documentation program are primarily to:
+
+1. Monitor contaminant concentration reductions and plume migration;
+2. Verify containment of contaminant concentrations greater than the Remedial goals selected in the 1998 ROD to areas designated for those concentrations called “Groundwater Management Zones”; and
+3. Evaluate the effectiveness of the SOU remedial action and MNA for the GOU remedy.
+
+Results and conclusions are documented in groundwater monitoring reports issued semiannually, which can be found under “ [Site Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0501179).”
+
+### Enforcement Information
+
+This site is being addressed through federal actions. The Army has the lead responsibility at the site. U.S. EPA and Illinois EPA oversee the cleanup work being performed by the Army.

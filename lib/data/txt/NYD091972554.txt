@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The General Motors (GM) site is located in Massena, St. Lawrence County, New York, near the St. Lawrence River, Akwesasne (Land Where the Partridge Drums), a federally recognized Mohawk territory belonging to the Saint Regis Mohawk Tribe (SRMT), the Raquette River, and properties owned by Alcoa and CSX. The facility, built in 1959, was used to produce aluminum cylinder heads for vehicles until 2009. Various industrial wastes were disposed of on-site which contaminated the groundwater, soil, and nearby sediment, creating potential risks for the nearby Akwesasne community.
+
+Operations at the facility produced various industrial wastes, including [polychlorinated biphenyls](https://www.atsdr.cdc.gov/toxfaqs/tfacts17.pdf) (PCBs) in hydraulic fluids and [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds), [phenols](https://www.atsdr.cdc.gov/toxfaqs/tfacts115.pdf), and other hazardous substances. The waste materials were disposed of in the North Disposal Area and the East Disposal Area, an Industrial Landfill, and four industrial lagoons. Public water supply systems are monitored regularly and have not been impacted.
+
+EPA added the site to the Superfund National Priorities List in 1984.
+
+Akwesasne is located along the St. Lawrence River downstream of the site. The SRMT territory is located within the boundaries of New York and across the Canadian border within the provinces of Ontario and Quebec in Canada. According to the SRMT, Akwesasne has a population of 12,400 people and covers a land area of approximately 16,640 square acres. This land includes wetlands, agricultural land, woodlands, and light commercial development. Members of the SRMT consume of fish or wildlife from contaminated areas, which is a special focus of EPA’s collaborative work with the SRMT related to the site cleanup.
+
+GM was working cooperatively with EPA to address the contamination at the site under a Unilateral Administrative Order when it filed for bankruptcy protection in 2009. To continue the cleanup work, the Revitalizing Auto Communities Environmental Response (RACER) Trust was formed in 2011. EPA, the SRMT Environment Division, and the New York State Department of Environmental Conservation (NYSDEC) all oversee the work.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA is addressing the site in two stages. There were immediate actions, which included installing a temporary cap on the Industrial Landfill at the site in 1987 to prevent the surface flow of contaminants and reduce potential air exposure from contaminants. There is also long-term cleanup, focused on cleaning up St. Lawrence and Raquette River system sediment, excavating and removing contaminated on-site soil, removing contaminated soil and sediment on St. Regis Mohawk Tribal properties (including Turtle Cove), and collecting and treating contaminated groundwater.
+
+*River Sediment, Lagoons, Soil and Groundwater*:  EPA finalized a cleanup plan in a [1990 Record of Decision](https://semspub.epa.gov/work/02/112586.pdf), or ROD, that includes dredging and excavating contaminated materials, followed by treating and disposing of residual contamination onsite, as well as extracting and treating groundwater. EPA later modified the plan to allow for off-site disposal, rather than on-site treatment of certain wastes.
+
+In 1995, GM finished dredging PCB-contaminated sediment found in the St. Lawrence River. The dredged sediment was shipped by rail to a hazardous waste disposal facility. Because the cleanup goals were not reached in all targeted areas after multiple dredging attempts, a multilayer cap was placed over the river sediment in those areas.
+
+In the early 2000s, GM dug up, stabilized, and shipped to an off-site disposal facility contaminated sludge and soil associated with a 1.5-million-gallon lagoon and a 350,000-gallon lagoon.
+
+GM finished cleaning up riverbank soil and sediment in 2003.
+
+In 2005 and 2007, RACER also cleaned up three of five Tribal properties that contained PCB-contaminated soil. Under EPA and SRMT oversight, RACER sampled the two remaining properties in 2021, and is designing the soil cleanup at those properties. It is anticipated that the design will be completed in late 2023 or early 2024.
+
+*Industrial Landfill and East Disposal Area*: EPA finalized a cleanup plan documented in a [1992 ROD](https://semspub.epa.gov/work/02/112595.pdf) that includes excavating highly-contaminated materials from the East Disposal Area, followed by treating and disposing of residual contamination. The plan also includes capping the Industrial Landfill and less contaminated materials in the East Disposal Area and containing the groundwater. Because of strong public opposition to the treatment of and containment of the materials on-site, EPA revised [the cleanup plan in 1999](https://semspub.epa.gov/work/02/110933.pdf) to allow these materials to be disposed of off-site. EPA [further modified the cleanup plan in 2000](https://semspub.epa.gov/work/02/110932.pdf) to allow for certain materials to be disposed of off-site after solidifying them (rather than the originally proposed thermal desorption).
+
+After the closure of the plant, RACER found elevated concentrations of PCBs in and on interior building surfaces, as well as in tunnels and soil located beneath the main production floor level. RACER finished demolishing the buildings, removing the sub-slab soil, and disposing of the contamination off-site in 2014.
+
+RACER finished demolishing aeration basins, wastewater treatment buildings and Butler Building, and excavating the contaminated soil underlying these buildings within the North Disposal Area in 2014. RACER finished excavating the East Disposal Area in 2015 and, in 2016, completed a 150-foot setback at the toe of the landfill– a waste-free buffer zone along the Tribal border and the St. Lawrence River.
+
+In 2017, RACER replaced the temporary cap on the Industrial Landfill with a multi-layered engineered cap, and, in 2019, finished dredging a 10-million-gallon lagoon. RACER constructed a groundwater collection and treatment system in 2020.
+
+To date, RACER has developed design plans and performed cleanup work at the site at a cost of more than $150 million.
+
+### What Is the Current Site Status?
+
+The remaining areas that require cleanup are two PCB-contaminated Tribal properties located adjacent to the former GM facility. The properties were not addressed during an earlier phase of cleanup because access was not provided. When granted access, RACER [collected samples on properties](https://semspub.epa.gov/work/02/620863.pdf) in 2021. The results are being used to design a cleanup plan, which will include excavating contaminated soil and sediment. The design plan wascompleted in late June 2024. While the Trust had sufficient funds to complete the design plan, it does not the funds to perform the cleanup work. EPA will perform the cleanup of the Tribal properties. Following the solicitation of bids for the work and the award of a contract, the cleanup work will be performed. It is anticipated that the construction will begin in spring 2025.
+
+Five-year reviews are performed at sites to ensure that implemented cleanup plans protect people’s health and the environment and that they function as designed by site decision documents. EPA conducted five-year reviews at the site in July 2005, July 2010, September 2015, and September 2020. After the 2020 five-year review, EPA concluded that additional sampling was needed to determine the source of PCBs found in the previously cleaned up Turtle Cove and St. Lawrence River. This sampling was performed in October 2023. EPA will determine the path forward in the next five-year review, which will be completed by August 2025.

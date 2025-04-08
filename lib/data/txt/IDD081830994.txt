@@ -1,3 +1,31 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 800-acre Monsanto Chemical Co. (Soda Springs Plant) site is located outside the city limits of Soda Springs, Idaho. The site includes the 540-acre Monsanto plant operating area and a 260-acre buffer area.
+
+Monsanto purchased the property in 1952 to use local phosphate-rich ore to manufacture elemental phosphorus. Site activities and waste disposal practices contaminated soil and groundwater with hazardous chemicals and radioactive constituents. Following cleanup, operation and maintenance activities and monitoring are ongoing.
+
+The operating area of the Monsanto Chemical Company encompasses 540 acres and processes locally mined phosphate ore to produce elemental phosphorus. Surrounding the operating area are approximately 260 acres of buffer properties. All 800 acres (540 acres in the operating area and 260 acres in the buffer properties) have institutional controls in place to prevent future land-use that could result in exposure to hazardous constituents.
+
+The elemental phosphorous plant consists of over a dozen administrative and processing buildings plus ore piles, slag piles, by-product materials, surface impoundments and a waste landfill. Ore is stockpiled on-site prior to being processed for introduction into electric arc furnaces along with coke and silica. All process waters, except for non-contact cooling water, are held and treated on site and then reused. The non-contact cooling water is discharged from the site to Soda Creek, which is used in agricultural irrigation.
+
+Land use in the vicinity of the Monsanto facility is primarily industrial and agricultural. The plant is staffed with about 400 employees, and 3,300 residents live within 3 miles of the site. Most residents' water is supplied by the City of Soda Springs from springs unaffected by the plant. The closest surface water is Soda Creek, located approximately 2,000 feet west of the facility. Some nearby residents depend on domestic wells, but none are known to be in use for drinking water downgradient of the site.
+
+In 1991, Monsanto agreed to an administrative order with EPA to perform the necessary Remedial Investigation Feasibility Study (RI/FS) and to pay EPA’s oversight costs. The RI/FS was completed in the summer of 1996. Process wastes, previously stored in unlined ponds or impoundments, have been pinpointed as sources of contamination to the local groundwater. Groundwater underlying the site and the surrounding vicinity is contaminated with cadmium, selenium, fluoride and nitrate. Studies to date have confirmed that Soda Springs drinking water supplies are uncontaminated and have not been affected by the site. Contaminated groundwater is not currently used for drinking.
+
+On April 23, 2021, EPA, Idaho Department of Environmental Quality, and P4 Production entered into a new Administrative Settlement Agreement and Order on Consent to conduct a supplemental Remedial Investigation and focused Feasibility Study. The results of the SRI/FFS will lead to a ROD Amendment.
+
+Below is the protectiveness statement included in the fifth five-year review report:
+
+"The remedy for the Monsanto Site is not protective because selenium concentrations in Soda Creek, which has the presumed beneficial use of Cold Water Aquatic Life and Secondary Contact Recreation, and Mormon Creek continue to exceed the Idaho chronic aquatic life AWQC. To ensure protectiveness the following actions need to be taken: complete the SRI and FFS, evaluate surface water ARARs and determine if additional remedial actions are needed to address surface water impacts.
+
+In addition, the following actions need to be taken to ensure long-term protectiveness: complete the SRI and FFS to evaluate the current remedy and the need to add additional remedial actions to achieve RAOs. If necessary, issue a ROD amendment or an ESD to document any necessary changes to the remedy.”
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. In the most recent review, EPA determined the remedy was not functioning as intended and that P4 would need to complete the supplemental remedial investigation and focused feasibility study to evaluate the current remedy and the need to add additional remedial actions.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included monitored natural attenuation of contaminated groundwater and institutional controls. In 2018, EPA determined the remedy was no longer functioning as intended and additional work would be required to select new remedial actions.

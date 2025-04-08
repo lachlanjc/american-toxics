@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Solvent Savers site covers 13 acres in Lincklaen, New York.
+
+Solvent Savers, Inc. operated a chemical waste recovery facility at the site from about 1967 to 1974 for reprocessing or disposing of industrial solvents and other wastes. Operations included distillation to recover solvents for reuse, reconditioning drums, and burying liquids, solids, sludges and drums in several on-site areas. Facility operations contaminated the groundwater, surface water, sediment, and soil with hazardous chemicals.
+
+In 1981, the New York State Department of Environmental Conservation (NYSDEC) conducted an initial site characterization, which included sampling of surface soil, water in Mud Creek, and three private wells near the facility. The sampling found volatile organic compound (VOC) contamination in the groundwater, surface water, sediment, and soil. The VOCs included tetrachloroethene (PCE), trichloroethene (TCE), and 1,1,1-trichloroethane (TCA). VOCs are potentially harmful contaminants that easily evaporate in the air. Polychlorinated biphenyls (PCBs) were found in the soil. The soil and groundwater also contained inorganics, including arsenic, barium, cadmium, chromium, and lead.
+
+After immediate actions to protect human health and the environment and site investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed in two stages: immediate actions and long-term actions focused on cleanup of the entire site.
+
+Immediate Actions: In 1989, during EPA’s site investigation field work, 127 drums were excavated and placed in leak-proof outer drums, called overpack drums. An overpack drum is a larger container that is used to provide an additional layer of protection and containment for smaller containers during storage or transportation. In 1990, the site’s potentially responsible parties (PRPs) removed the overpacked drums for off-site treatment and disposal. The PRPs also excavated 33 drums and drum parts, which were also taken off-site for disposal in 1991. Contaminated soil that was removed with the drums and drum parts was transported off-site for treatment and disposal in 2000.
+
+Long-Term Cleanup: Following a remedial investigation and feasibility study to determine the nature and extent of the contamination and to evaluate cleanup alternatives, EPA selected a cleanup plan in a 1990 decision document called a Record of Decision (ROD). The ROD called for extracting and treating contaminated groundwater, excavating contaminated soil, treating soil contaminated with PCBs through off-site incineration, and treating soil contaminated with VOCs using on-site low temperature thermal (heat) extraction.
+
+The ROD also called for treatability studies to determine whether low-level VOC-contaminated soils could be treated using in-situ (in-place) soil vapor extraction (ISVE). Soil vapor extraction is used to remove contaminant vapors from below ground for treatment above ground. ISVE involves drawing air through a series of wells to remove the VOCs from soil. If the ISVE treatability studies showed that ISVE would be an effective treatment, then the cleanup plan would be changed.
+
+After completing field sampling to better define the extent of the soil contamination, a pilot-scale ISVE system was designed and constructed to treat a portion of the VOC-contaminated soil. Since the completion of the ISVE system in 1995, it was expanded and modified several times. It eventually encompassed all of the unsaturated (above the water table) VOC-contaminated soil. Because of the success of the ISVE system in addressing VOC-contaminated soil (the volume of VOC-contaminated soil decreased from about 135,000 cubic yards to about 6,500 cubic yards), EPA changed the cleanup plan for the VOC-contaminated soil in 2006 to ISVE through an Explanation of Significant Differences document. EPA also modified the cleanup plan for PCB-contaminated soil and two VOC-contaminated soil hot spots in 2006 through a formal change to the cleanup plan, called a ROD amendment. The modified plan includes excavating the contaminated soil followed by on- and/or off-site treatment and disposal. The design plan for the soil cleanup was completed in 2012. The excavation and on- and off-site treatment and disposal of approximately 15,000 cubic yards of contaminated soil were performed from 2012 to 2014.
+
+EPA oversees all of the work at the site which is performed by the companies responsible for the cleanup.
+
+### What Is the Current Site Status?
+
+Five-year reviews are conducted at sites to ensure that the implemented cleanup plans protect people's health and the environment and that cleanups are functioning as intended. EPA conducted five-year reviews for the site in 2017 and 2022. In the most recent five-year review, EPA found that the response actions at the site protect people's health and the environment because the completed soil cleanup activities addressed the source contamination and there are no private wells being used in the area. During the last five-year review, institutional controls were put into place to limit potential exposure to remaining contaminants (via an Environmental Easement and Declaration of Restrictive Covenants), and the groundwater conceptual site model was updated. A conceptual site model is a description of a site and its environment that is based on existing knowledge.The groundwater monitoring data that is being collected will be evaluated and used to refine the conceptual site model for groundwater. The cleanup is expected to be protective in the long term, after the groundwater portion of the cleanup is completed. It is anticipated that the next five-year review will be completed in 2027.
+
+The design planning for the groundwater extraction and treatment portion of the cleanup is currently underway.
+
+There were six groundwater monitoring wells that had to be abandoned as part of the soil cleanup. New monitoring wells were installed as needed to address data gaps and to complete the groundwater design. Seasonal groundwater sampling has been performed since the new wells were installed. Mud Creek was also sampled. The test extraction well design and installation have been completed. Four additional monitoring wells have also been installed to supplement the site monitoring well network. Aquifer testing will follow. It is anticipated that the design planning for the groundwater extraction and treatment system will be completed in 2026 and the groundwater cleanup will be completed in 2027.

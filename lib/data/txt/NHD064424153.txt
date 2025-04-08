@@ -1,2 +1,77 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Coakley Landfill Site (Site) includes approximately 92-acres located in the towns of Greenland and North Hampton, Rockingham County, New Hampshire. The landfill area encompasses 27-acres in the southern part of the Site. The privately-owned landfill accepted municipal and industrial wastes from the Portsmouth area between 1972 and 1982. Incinerator residue was also accepted from 1982 to 1985 from the City of Portsmouth's incineration recovery plant that it operated on leased property at Pease Air Force Base.
+
+The primary source of contamination at the Site is the landfill. Volatile organic compounds and metals were the primary contaminants of concern after the initial investigation and the selection of remedial action and issuance of a [Record of Decision](https://semspub.epa.gov/src/document/01/14809) (ROD) for Operable Unit 1 source control in 1990. The initial Operable Unit 1 source control remedial action included:
+
+- Consolidation of waste and capping of the landfill
+- Collection and venting of landfill gases
+- Long-term monitoring
+- Implementation of institutional controls
+
+The initial remedial action also proposed the extraction and treatment of contaminated groundwater at the Site. After the successful consolidation of landfill waste and capping of the landfill, monitoring of groundwater showed that volatile organic coumpunds and metals in groundwater had dropped to levels that would allow for natural attenuation to continue to lower contaminant levels. In 1999, EPA determined that the pumping and treating of contaminated groundwater were no longer necessary.
+
+EPA selected the remedy for managing contaminant migration in the Site's 1994 Operable Unit 2 [Record of Decision](https://semspub.epa.gov/src/document/01/14810). (232 pp, 12.8MB, [About PDF](https://www.epa.gov/home/pdf-files) ) The Operable Unit 2 management of migration remedial action included:
+
+- Natural attenuation for the contaminated groundwater plume
+- Institutional controls
+	- Deed restrictions
+	- Groundwater use restrictions
+	- Well installation reporting requirements
+	- Land use restrictions
+- Groundwater monitoring
+
+Sampling at the Site since 2016 has shown the presence of the emerging contaminants 1,4-dioxane and per- and polyfluoroalkyl substances (PFAS) in groundwater and surface water. These contaminants have also been discovered in some private water supply wells near the Site. As a result, private water supply well sampling has been expanded and additional investigations are being conducted to determine the full extent of these contaminants at the Site.
+
+There are more than 20 private wells that are part of the semi-annual monitoring program, and four exceed New Hampshire groundwater standards. Of the four:
+
+- Two wells have been equipped with point-of-entry treatment systems
+- Two wells have been taken off-line and the homes have been connected to municipal water supply
+
+To further understand the migration of contamination in groundwater and the potential for impact to private wells in the area, EPA directed the Coakley Landfill Group to investigate the extent of contamination in bedrock groundwater and the potential for migration of contamination to receptors. Between 2018 and 2021 the Coakley Landfill Group conducted an extensive investigation and submitted a [final report](https://semspub.epa.gov/src/document/01/100030200) (3 pp, 839 K, [About PDF](https://www.epa.gov/home/pdf-files) ).
+
+The Coakley Landfill Group continues to implement recommendations from the deep bedrock investigation including:
+
+- Completion and monitoring of new wells
+- Drilling of a new well along the primary groundwater flowpath in bedrock south of the landfill
+- Further identifying the extent of contamination and potential for back diffusion and transport of contaminants in groundwater east of the landfill
+
+The Coakley Landfill Group continues to investigate the extent of contamination that is migrating from the landfill cap in to surface water and the interaction between surface water and groundwater and the relative contribution of contaminants migrating from the Site. Signs are posted along Berrys Brook and associated wetlands near the Site advising the public that contaminants associated with the Site have been detected in surface water and to avoid contact with surface water.
+
+### What Has Been Done to Clean Up the Site?
+
+The Coakley Landfill Site (Site) is being addressed through the state, federal, and potentially responsible party actions. The potentially responsible parties at the Site include the municipalities of Portsmouth, Newington and North Hampton, and the solid waste generators and transporters that were identified as responsible parties. The Coakley Landfill Group was formed to represent the potentially responsible parties and manages the remedial action at the Site.
+
+Following the discovery of contaminated groundwater at the Site, a municipal water supply was expanded to provide an alternate drinking water supply to replace many private water supply wells in the area, reducing the potential for exposure to groundwater contamination. Since the completion of the landfill cap in 1998, the levels of many of the contaminants of concern in groundwater have been significantly reduced. Since the discovery of the emerging contaminants 1,4-dioxane and PFAS at the Site, sampling has been expanded and the frequency increased, private water supply wells have been added to the monitoring program, and additional investigations have been initiated to determine the full extent of these contaminants.
+
+EPA has conducted several [five-year reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101107&doc=Y&colid=32747&region=01&type=SC) of the remedy at the Site to ensure that public health and the environment are protected. The most recent [five-year review](https://semspub.epa.gov/src/document/01/100018871) completed in 2021 determined that the remedy was still protective of public health, but that measures would need to be taken for the remedy to remain protective in the long term. Those measures included the completion of the investigation of the extent of contamination in bedrock groundwater that was initiated in 2018 and completed in 2021, with a [final report](https://semspub.epa.gov/src/document/01/100022053) of the findings submitted in September 2022.
+
+The Coakley Landfill Group continues to implement recommendations from the deep bedrock investigation including the completion and monitoring of new wells, the drilling of a new well along the primary groundwater flowpath in bedrock south of the landfill, and further identify the extent of contamination and potential for back diffusion and transport of contaminants in groundwater east of the landfill.
+
+In addition, EPA has directed the Coakley Landfill Group to undertake an evaluation to characterize the interaction between contaminated groundwater and surface water at the Site. This is being conducted to help determine the amount of contamination that leaves the landfill in groundwater and surface water runoff from the landfill cap, and to what extent contamination migrating from the landfill is impacting nearby surface waters.
+
+### What Is the Current Site Status?
+
+Since EPA issued its [1990 source control cleanup plan](https://semspub.epa.gov/src/document/01/14809) and its [1994 groundwater cleanup plan](https://semspub.epa.gov/src/document/01/14810) for the Site, the levels of most of the contaminants of concern at the Site have dropped to below cleanup levels. The remedy implemented at the Site continues to be protective of public health.
+
+Due to the discovery of emerging contaminants 1,4-dioxane and PFAS, additional investigations have been initiated to determine the extent of these contaminants. In addition, monitoring has been expanded to include the sampling of numerous private water supply wells in the area. Findings and recommendations from a deep-bedrock investigation conducted from 2018-2021 are being implemented to further monitor contaminant migration in bedrock groundwater and to make sure that private water supplies are not impacted.
+
+The Coakley Landfill Group will also be conducting further sampling and evaluations to determine to what extent contaminants from the landfill are impacting nearby surface waters, including Berrys Brook. EPA and NHDES will continue to inform community members and local officials of the progress towards cleanup at the Site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the Site that would restrict the use of the Site. These ICs are required to help ensure the Site is used appropriately and that activities at the Site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on Site. The matrix below is a general summary of the restrictions at the Site at the date of this report. The information in this matrix is a general description of the restrictions at the Site only. The Site contacts should be consulted if there are questions on the ICs for this Site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment, and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101107&doc=Y&colid=31711).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits, and easements. ICs are normally used when waste is left on site and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.

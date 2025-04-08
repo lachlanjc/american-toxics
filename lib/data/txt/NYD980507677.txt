@@ -1,15 +1,25 @@
-SIDNEY LANDFILLSIDNEY, NY
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The privately-owned Sidney Landfill site is located in the town of Sidney, New York. The 74-acre area includes a 20-acre former landfill that accepted municipal and commercial waste, including waste oils, from 1964 until 1972. In 1972, the town of Sidney began sending its waste to a landfill in Chenango County. Files maintained by the New York State Department of Environmental Conservation (NYSDEC) and the New York State Department of Health (NYSDOH) show that the Sidney Landfill was poorly operated, with improper compaction of waste, poor daily covering, no supervision and uncontrolled access. EPA placed the site on the Superfund program’s National Priorities List (NPL) in March 1989.
-What Has Been Done to Clean Up the Site?
-The site is being addressed in two stages: immediate actions and a long-term remedial phase focused on cleanup of the entire site. Immediate Actions: About 80 warning signs were posted along the perimeter of the landfill and the site was fenced. Long-term Cleanup:  After the performance of a remedial investigation and feasibility study to determine the nature and extent of the contamination at the site and to evaluate cleanup alternatives, EPA selected a cleanup remedy in a 1995 decision document called a Record of Decision, or ROD. It called for the construction of four independent caps over several disposal areas and extracting and treating contaminated groundwater in a groundwater hot spot. The design of the caps was completed in 1998.  Construction of the caps was finished in 1999. Based on the results of groundwater testing and sampling, EPA determined that a groundwater extraction and treatment system already operating at the nearby Richardson Hill Road Landfill Superfund site was capturing contaminated groundwater from the Sidney Landfill site, alleviating the need for a separate system at the Sidney Landfill site.  This decision was documented in a 2004 Explanation of Significant Differences.
-What Is the Current Site Status?
-The groundwater extraction and treatment system operating at the nearby Richardson Hill Road Landfill Superfund site is being used to capture contaminated groundwater from the Sidney Landfill site. Site groundwater monitoring well and gas vent monitoring and landfill cap monitoring and maintenance are being performed quarterly. The effectiveness of the groundwater management system is currently being evaluated. Five-year reviews are performed at sites to evaluate if cleanups are performing as intended and protective of human health and the environment. Five-year reviews were performed in June 2004, June 2009, June 2014, and July 2017, and April 2022.  The most-recent five-year review concluded that the implemented actions at the site protect human health and the environment in the short-term because the wastes have been consolidated and capped and the groundwater is not impacting residences downgradient of the site.  For the site to be protective in the long-term, additional monitoring wells need to be installed and a supplemental water-level data needs to be collected to evaluate the effectiveness of the collection system (operating at the nearby Richardson Hill Road Landfill Superfund site) in capturing the groundwater contamination plume. The next five-year review will be completed by April 2027.
+### Background
+
+The privately-owned Sidney Landfill site is located in the town of Sidney, New York. The 74-acre area includes a 20-acre former landfill that accepted municipal and commercial waste, including waste oils, from 1964 until 1972. In 1972, the town of Sidney began sending its waste to a landfill in Chenango County.
+
+Files maintained by the New York State Department of Environmental Conservation (NYSDEC) and the New York State Department of Health (NYSDOH) show that the Sidney Landfill was poorly operated, with improper compaction of waste, poor daily covering, no supervision and uncontrolled access.
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in March 1989.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed in two stages: immediate actions and a long-term remedial phase focused on cleanup of the entire site.
+
+Immediate Actions: About 80 warning signs were posted along the perimeter of the landfill and the site was fenced.
+
+Long-term Cleanup:
+
+After the performance of a remedial investigation and feasibility study to determine the nature and extent of the contamination at the site and to evaluate cleanup alternatives, EPA selected a cleanup remedy in a 1995 decision document called a Record of Decision, or ROD. It called for the construction of four independent caps over several disposal areas and extracting and treating contaminated groundwater in a groundwater hot spot. The design of the caps was completed in 1998. Construction of the caps was finished in 1999.
+
+Based on the results of groundwater testing and sampling, EPA determined that a groundwater extraction and treatment system already operating at the nearby Richardson Hill Road Landfill Superfund site was capturing contaminated groundwater from the Sidney Landfill site, alleviating the need for a separate system at the Sidney Landfill site. This decision was documented in a 2004 Explanation of Significant Differences.
+
+### What Is the Current Site Status?
+
+The groundwater extraction and treatment system operating at the nearby Richardson Hill Road Landfill Superfund site is being used to capture contaminated groundwater from the Sidney Landfill site. Site groundwater monitoring well and gas vent monitoring and landfill cap monitoring and maintenance are being performed quarterly. The effectiveness of the groundwater management system is currently being evaluated.
+
+Five-year reviews are performed at sites to evaluate if cleanups are performing as intended and protective of human health and the environment. Five-year reviews were performed in June 2004, June 2009, June 2014, and July 2017, and April 2022. The most-recent five-year review concluded that the implemented actions at the site protect human health and the environment in the short-term because the wastes have been consolidated and capped and the groundwater is not impacting residences downgradient of the site. For the site to be protective in the long-term, additional monitoring wells need to be installed and a supplemental water-level data needs to be collected to evaluate the effectiveness of the collection system (operating at the nearby Richardson Hill Road Landfill Superfund site) in capturing the groundwater contamination plume. The next five-year review will be completed by April 2027.

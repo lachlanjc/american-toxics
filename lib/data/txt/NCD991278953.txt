@@ -1,31 +1,54 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The National Starch Superfund site is located at 485 Cedar Springs Road in Rowan County, North Carolina, about 5 miles south of the city of Salisbury. Commercial, industrial and residential developments surround the Site. Grants Creek is the western site boundary. Two tributaries of Grants Creek, the Unnamed Tributary and the Northeast Tributary, are located on the southwest and northeast portions of the site, respectively. A third unnamed tributary is located on the northwest portion of the site. A mobile home community is located next to the site’s southwestern corner. Groundwater is used as a source of drinking water near the site; the closest potable well is located about 400 feet north of the northern site boundary, which is over 1,500 feet from site-related contamination. Potable wells are also located along the western side of the southwest boundary of the site, with the closest well about 100 to 200 feet south of the site boundary.  Nouryon owns most of the 485-acre Site. Henkel Corporation (Henkel), also a specialty chemical manufacturer, owns 53 acres on the eastern portion of the site and operates a facility there. The Nouryon manufacturing facility operates on the southeastern portion of the site. The remainder of the site property is undeveloped. From 1970 to present day, a textile finishing and custom specialty chemical manufacturing facility has operated on the site. Soil, groundwater and surface water contamination at the site resulted from disposal of 350,000 gallons of reaction vessel wash waters in the Trench Area between 1971 and 1978, the use of former unlined wastewater treatment lagoons, and the use of a leaking underground terra-cotta pipeline conveying process wastewater to the lagoons, and normal industrial activities. EPA placed the site on the Superfund Program’s National Priorities List (NPL) in 1989 because of contaminated groundwater and soil resulting from waste disposal practices. EPA, the North Carolina Department of Environmental Quality (NCDEQ)Exit and the Nouryon Surface Chemistry LLC (successor of National Starch & Chemical Corporation and formerly AkzoNobel), the site’s potentially responsible party (PRP), have investigated site conditions. By treating groundwater, monitoring and treating soil, placing institutional controls on the site property, and undertaking Five-Year Reviews, EPA, NCDEQ and the site’s PRP continue to protect people and the environment from site contamination.
-What Has Been Done to Clean Up the Site?
-Nouryon and its predecessor led site investigation and cleanup activities, with oversight provided by EPA and NCDEQ. The site has been divided into four Operable Units (OUs).
-OU-1   Groundwater cleanup
-OU-2   Soil cleanup
-OU-3   Surface water/northeast tributary
-OU-4   Source control
-OU-1
-The site’s PRP began conducting cleanup activities for OU-1 in 1990. Efforts included installation of a groundwater extraction system. The groundwater extraction and treatment were taken offline due to a fire which caused extensive damage to the treatment system in 2014. The Groundwater Pretreatment System (GWPTS) was repaired and continued to operate to treat OU-3 groundwater until 2017, when the system was bypassed. EPA approved a new GWPTS design in 2021, the PRP is currently constructing a new GWPTS to handle the flow rates and mass loading from the new extraction well system. Startup of the new OU-1 groundwater extraction and pretreatment system is expected to occur in 2025. OU-1 surface water and groundwater monitoring are ongoing. Additional work continues to better define the extent of groundwater contamination in OU-1 to include replacing extraction wells and installing additional monitoring wells. This effort is to ensure that the OU-1 groundwater pump-and-treat system is capturing contaminated groundwater emanating from the Trench Area. OU-2
-Soil cleanup activities have been conducted. In April 2005, in an effort outside of ROD requirements, the PRP voluntarily planted about 1,800 trees in OU-2 to provide a canopy cover in the area. The trees also served to decrease infiltration of precipitation to groundwater OU-3
-In 2000, the PRP initiates cleanup activities for OU-3. Additional groundwater contamination was encountered in OU-3 in 2012. Consequently, an additional groundwater extraction well was installed in this area. In 2019, the PRP installed a manifold allowing for treated water to be diverted to an aeration tank for pretreatment. Groundwater concentrations in the operable unit have remained below 500 μg/L resulting in direct discharge to the facility’s treatment lagoons. OU-3 groundwater and surface water monitoring are ongoing. OU-4
-In 2006, he PRP completed a monitored natural attenuation study for OU-4 and also identified limited natural breakdown of contamination in soil. Therefore, EPA decided to implement the contingency option of installing a soil vapor extraction (SVE) system. The PRP completed the system in 2010. The SVE system continues to operate. In 2010, EPA issued a Preliminary Close-Out Report documenting the completion of cleanup activities at the site. Adjustments to the AS/SVE system continue to focus remediation efforts in the areas of OU-4 where high levels of VOCs remain in the soil. SVE soil gas performance monitoring continues when the system is in operation.
+### Background
 
-What Is the Current Site Status?
-The most recent Five-Year Review was published by EPA HQs in 2022. The Site remedies addressing potential soil exposures (OU2 and OU4) are protective of human health and the environment in the short term as there are no direct contact risks and deed restrictions are in place. The OU1 and OU3 remedies are also protective in the short term as there are no current on-site groundwater receptors and the nearest private, potable wells are located approximately 2,700 feet from any onsite source. Environmental data collected for the areas of the site falling under OU-3 and OU-4 show that very good progress is being made in addressing the contamination in these areas. The soil sampling conducted in the OU-2 area shows that the concentrations of contamination in the Trench Area are decreasing. Once the modification for OU-1 are implemented, the revised groundwater extraction and treatment system should be effective in addressing the groundwater contamination in the OU-1 area.
-Sampling and Monitoring
+The National Starch [Superfund](http://www.epa.gov/superfund) site is located at 485 Cedar Springs Road in Rowan County, North Carolina, about 5 miles south of the city of Salisbury. Commercial, industrial and residential developments surround the Site. Grants Creek is the western site boundary. Two tributaries of Grants Creek, the Unnamed Tributary and the Northeast Tributary, are located on the southwest and northeast portions of the site, respectively. A third unnamed tributary is located on the northwest portion of the site.
+
+A mobile home community is located next to the site’s southwestern corner. Groundwater is used as a source of drinking water near the site; the closest potable well is located about 400 feet north of the northern site boundary, which is over 1,500 feet from site-related contamination. Potable wells are also located along the western side of the southwest boundary of the site, with the closest well about 100 to 200 feet south of the site boundary.
+
+Nouryon owns most of the 485-acre Site. Henkel Corporation (Henkel), also a specialty chemical manufacturer, owns 53 acres on the eastern portion of the site and operates a facility there. The Nouryon manufacturing facility operates on the southeastern portion of the site. The remainder of the site property is undeveloped.
+
+From 1970 to present day, a textile finishing and custom specialty chemical manufacturing facility has operated on the site. Soil, groundwater and surface water contamination at the site resulted from disposal of 350,000 gallons of reaction vessel wash waters in the Trench Area between 1971 and 1978, the use of former unlined wastewater treatment lagoons, and the use of a leaking underground terra-cotta pipeline conveying process wastewater to the lagoons, and normal industrial activities.
+
+EPA placed the site on the Superfund Program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) in 1989 because of contaminated groundwater and soil resulting from waste disposal practices. EPA, the [North Carolina Department of Environmental Quality (NCDEQ)](https://deq.nc.gov/) and the Nouryon Surface Chemistry LLC (successor of National Starch & Chemical Corporation and formerly AkzoNobel), the site’s [potentially responsible party (PRP)](https://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By treating groundwater, monitoring and treating soil, placing institutional controls on the site property, and undertaking Five-Year Reviews, EPA, NCDEQ and the site’s PRP continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+Nouryon and its predecessor led site investigation and cleanup activities, with oversight provided by EPA and NCDEQ.
+
+The site has been divided into four [Operable Units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o).
+
+- OU-1 Groundwater cleanup
+- OU-2 Soil cleanup
+- OU-3 Surface water/northeast tributary
+- OU-4 Source control
+
+**OU-1**  
+The site’s PRP began conducting cleanup activities for OU-1 in 1990. Efforts included installation of a groundwater extraction system. The groundwater extraction and treatment were taken offline due to a fire which caused extensive damage to the treatment system in 2014. The Groundwater Pretreatment System (GWPTS) was repaired and continued to operate to treat OU-3 groundwater until 2017, when the system was bypassed. EPA approved a new GWPTS design in 2021, the PRP is currently constructing a new GWPTS to handle the flow rates and mass loading from the new extraction well system. Startup of the new OU-1 groundwater extraction and pretreatment system is expected to occur in 2025. OU-1 surface water and groundwater monitoring are ongoing.
+
+Additional work continues to better define the extent of groundwater contamination in OU-1 to include replacing extraction wells and installing additional monitoring wells. This effort is to ensure that the OU-1 groundwater pump-and-treat system is capturing contaminated groundwater emanating from the Trench Area.
+
+**OU-2**  
+Soil cleanup activities have been conducted. In April 2005, in an effort outside of ROD requirements, the PRP voluntarily planted about 1,800 trees in OU-2 to provide a canopy cover in the area. The trees also served to decrease infiltration of precipitation to groundwater
+
+**OU-3**  
+In 2000, the PRP initiates cleanup activities for OU-3.
+
+Additional groundwater contamination was encountered in OU-3 in 2012. Consequently, an additional groundwater extraction well was installed in this area. In 2019, the PRP installed a manifold allowing for treated water to be diverted to an aeration tank for pretreatment. Groundwater concentrations in the operable unit have remained below 500 μg/L resulting in direct discharge to the facility’s treatment lagoons. OU-3 groundwater and surface water monitoring are ongoing.
+
+**OU-4**  
+In 2006, he PRP completed a monitored natural attenuation study for OU-4 and also identified limited natural breakdown of contamination in soil. Therefore, EPA decided to implement the contingency option of installing a [soil vapor extraction (SVE)](https://semspub.epa.gov/work/HQ/189976.pdf) system. The PRP completed the system in 2010. The SVE system continues to operate. In 2010, EPA issued a Preliminary Close-Out Report documenting the completion of cleanup activities at the site. Adjustments to the AS/SVE system continue to focus remediation efforts in the areas of OU-4 where high levels of VOCs remain in the soil. SVE soil gas performance monitoring continues when the system is in operation.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/src/document/04/11173661) was published by EPA HQs in 2022. The Site remedies addressing potential soil exposures (OU2 and OU4) are protective of human health and the environment in the short term as there are no direct contact risks and deed restrictions are in place. The OU1 and OU3 remedies are also protective in the short term as there are no current on-site groundwater receptors and the nearest private, potable wells are located approximately 2,700 feet from any onsite source.
+
+Environmental data collected for the areas of the site falling under OU-3 and OU-4 show that very good progress is being made in addressing the contamination in these areas. The soil sampling conducted in the OU-2 area shows that the concentrations of contamination in the Trench Area are decreasing. Once the modification for OU-1 are implemented, the revised groundwater extraction and treatment system should be effective in addressing the groundwater contamination in the OU-1 area.
+
+### Sampling and Monitoring
+
 The PRP continues to conduct annual sampling for each OU.
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

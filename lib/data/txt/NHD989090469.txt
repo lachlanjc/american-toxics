@@ -1,2 +1,38 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2-acre Tibbetts Road site is located in Barrington, New Hampshire. The property was the former home of Alexander Johnson and occupied much of the property along Tibbetts Road. From 1944 until 1958, Mr. Johnson transported and stored solvent-containing drums near his home. In the 1970’s Mr. Johnson began selling home lots from his property. Several of the new residents noticed rusting drums that contained unknown liquids scattered over the property. The New Hampshire Water Supply and Pollution Control Commission (now the New Hampshire Department of Environmental Services, or NHDES) found that the drums were leaking, rusted, and contained thinners, solvents, antifreeze, kerosene, motor and transmission oil, polychlorinated biphenyls (PCBs), grease and brake fluid. EPA removed 337 drums in 1984.
+
+Continuing investigations at the Site identified significant contamination in the soils and groundwater. In 1986, EPA removed 405 cubic yards of soil from the Site and incinerated an additional 4-cubic yards found to be contaminated with dioxin. In 1986, EPA completed the design and construction of a drinking water treatment plant that initially served 45 affected homes. The residents took over operation of the drinking water plant and operated it until 2019. The responsible party has since taken over running of the drinking water treatment plant and distribution system. The drinking water plant has since been extended to new residences and has had several improvements.
+
+EPA issued a cleanup decision in 1992 that selected extracting and treating groundwater from both the overburden and bedrock aquifers. In 1994, the Ford Motor Company agreed to perform the remedy at the site and in 1995 began operation of a dual groundwater/air vacuum extraction system to address soil and groundwater contaminants in soils above the bedrock. That system operated until 1997 removing over 800 pounds of contamination from the surficial soils and sands that covered the bedrock. Groundwater treatment above the bedrock has evolved from a vigorously operated vacuum extraction system that actively removed and captured site contaminants, to planting of poplar trees to reduce groundwater flow and enable native micro-organisms to continue to consume contaminants.
+
+Bedrock groundwater has proven more difficult. Ford has conducted a number of pilot studies to determine the more effective means of cleaning up VOCs in the groundwater. In 2015 EPA allowed a Directed Groundwater Recirculation pilot test in the contaminated bedrock north of the Site to address bedrock groundwater contamination. Subsequent monitoring has found that that pilot test did not address all contamination as effectively as the on-going natural attenuation..
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent review concluded that response actions at the Site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### What Is the Current Site Status?
+
+The removal of drums, treatment of contaminated soil and groundwater, and the provision of a new water supply at the site have reduced the potential for exposure to contamination. These actions have helped to protect public health and the environment while the groundwater cleanup remedy continues to operate. The remedy consisted of vacuum extraction of the near-surface sand and gravel aquifer and in situ treatment of the bedrock aquifer. Those actions significantly reduced the mass of contamination in groundwater. The groundwater remedy was changed to monitored natural attenuation in 1998 and continues to the present.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.
+
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
+
+Click here for [IC Instruments implemented for this sit](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101208&doc=Y&colid=31749&region=01&type=SC) e.
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.

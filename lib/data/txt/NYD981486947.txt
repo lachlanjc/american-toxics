@@ -1,25 +1,31 @@
-CONKLIN DUMPSCONKLIN, NY
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Conklin Dumps site is located in the Town of Conklin, Broome County, New York, approximately 10 miles southeast of Binghamton. The 37-acre site originally consisted of two landfilled areas referred to as the "Upper Landfill" and the "Lower Landfill." The 5.5-acre Upper Landfill is located on the western border of the site; the now excavated Lower Landfill (2.5 acres) was located on the eastern border of the site. County Route 322, also known as Broome Parkway, traversesthe middle of the site in a north-south direction.
-Both landfills were used for the disposal of municipal wastes. The Lower Landfill, which operated between 1964 and 1969, contained approximately 48,000 cubic yards of municipal wastes before it was excavated and consolidated with the Upper Landfill as part of the selected cleanup plan ﻿for the site. The Upper Landfill, which originally contained approximately 55,000 cubic yards of municipal and industrial waste, operated from 1969 until 1975, when a closure order was issued by the New York State Department of Environmental Conservation (NYSDEC). The property is currently owned by the Town of Conklin. It is believed that some industrial wastes were co-disposed with municipal solid wastes in the Upper Landfill. Testing conducted by Broome County found the groundwater to be contaminated with heavy metals and volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that easily evaporate in the air. Before the site was remediated, leachate from the site drained into Carlin Creek, a tributary of the Susquehanna River. The site wsa placed on the Superfund program’s National Priorities List (NPL) in 1989. After the cleanup of the site, EPA took the site off the NPL in 1997.
+### Background
 
-What Has Been Done to Clean Up the Site?
-The site was addressed in a single, long-term remedial phase focused on cleanup of the entire site. Long-Term Cleanup: Following a remedial investigation and feasibility study to determine the nature and extent of the contamination and to evaluate remedial cleanup alternatives, EPA selected the remedy in a 1991 Record of Decision, or ROD. It included capping the landfills, pumping and collecting leachate, and treating the leachate off site at a publicly-owned treatment works. In 1992, EPA modfied the remedy, calling for the excavation of the Lower Landfill, consolidation of the excavated Lower Landfill contents onto the Upper Landfill, capping of the Upper Landfill, and construction of a leachate collection and treatment system. The change to the remedy was documented in an Explanation of Significant Differences. The Lower Landfill was excavated and placed on the Upper Landfill in 1993. The capping of the Upper Landfill finished in 1994. The cap covers about 37 acres. The installation of a leachate collection system and the construction of a pipeline to transfer the collected leachate to a local sewage treatment plant finished in January 1996. To date, about 70,000 gallons of leachate has been collected and sent for treatment at the Binghamton-Johnson City sewage treatment plant in Vestal, New York.
+The Conklin Dumps site is located in the Town of Conklin, Broome County, New York, approximately 10 miles southeast of Binghamton.The 37-acre site originally consisted of two landfilled areas referred to as the "Upper Landfill" and the "Lower Landfill." The 5.5-acre Upper Landfill is located on the western border of the site; the now excavated Lower Landfill (2.5 acres) was located on the eastern border of the site. County Route 322, also known as Broome Parkway, traversesthe middle of the site in a north-south direction.
 
-What Is the Current Site Status?
-Leachate collection and its transfer to the Binghamton-Johnson City sewage treatment plant for treatment continues.  Five-year reviews are conducted at sites to ensure that the cleanup remedies put in place protect public health and the environment, and function as intended by site decision documents. Five-year reviews were conducted in January 1998, January, 2003, January 2008, January 2013, July 2018, and April 2023. The most-recent five year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The next five-year review for the site is expected to be completed on or before April 2028.
+Both landfills were used for the disposal of municipal wastes. The Lower Landfill, which operated between 1964 and 1969, contained approximately 48,000 cubic yards of municipal wastes before it was excavated and consolidated with the Upper Landfill as part of the selected cleanup plan for the site. The Upper Landfill, which originally contained approximately 55,000 cubic yards of municipal and industrial waste, operated from 1969 until 1975, when a closure order was issued by the New York State Department of Environmental Conservation (NYSDEC). The property is currently owned by the Town of Conklin.
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+It is believed that some industrial wastes were co-disposed with municipal solid wastes in the Upper Landfill. Testing conducted by Broome County found the groundwater to be contaminated with heavy metals and volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that easily evaporate in the air. Before the site was remediated, leachate from the site drained into Carlin Creek, a tributary of the Susquehanna River.
+
+The site wsa placed on the Superfund program’s National Priorities List (NPL) in 1989. After the cleanup of the site, EPA took the site off the NPL in 1997.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed in a single, long-term remedial phase focused on cleanup of the entire site.
+
+Long-Term Cleanup: Following a remedial investigation and feasibility study to determine the nature and extent of the contamination and to evaluate remedial cleanup alternatives, EPA selected the remedy in a 1991 Record of Decision, or ROD. It included capping the landfills, pumping and collecting leachate, and treating the leachate off site at a publicly-owned treatment works. In 1992, EPA modfied the remedy, calling for the excavation of the Lower Landfill, consolidation of the excavated Lower Landfill contents onto the Upper Landfill, capping of the Upper Landfill, and construction of a leachate collection and treatment system. The change to the remedy was documented in an Explanation of Significant Differences.
+
+The Lower Landfill was excavated and placed on the Upper Landfill in 1993. The capping of the Upper Landfill finished in 1994. The cap covers about 37 acres. The installation of a leachate collection system and the construction of a pipeline to transfer the collected leachate to a local sewage treatment plant finished in January 1996. To date, about 70,000 gallons of leachate has been collected and sent for treatment at the Binghamton-Johnson City sewage treatment plant in Vestal, New York.
+
+### What Is the Current Site Status?
+
+Leachate collection and its transfer to the Binghamton-Johnson City sewage treatment plant for treatment continues.
+
+Five-year reviews are conducted at sites to ensure that the cleanup remedies put in place protect public health and the environment, and function as intended by site decision documents. Five-year reviews were conducted in January 1998, January, 2003, January 2008, January 2013, July 2018, and April 2023. The most-recent five year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The next five-year review for the site is expected to be completed on or before April 2028.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 Institutional controls were implemented in 2013 to restrict activities that could affect the integrity of the cap, prohibit the residential use of the site property, and prohibit the installation of groundwater wells for drinking or irrigation until groundwater standards are achieved.

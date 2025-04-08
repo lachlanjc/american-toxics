@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The CTS Printex, Inc. site (site) is located in Mountain View, California. CTS Printex operated a printed circuit board manufacturing facility within a 5.5-acre portion of the area bounded by Plymouth, Colony, and Sierra Vista Streets from 1966 to 1985. Metals and volatile organic compounds (VOCs), including trichloroethene (TCE), were discharged to site soils and groundwater during CTS Printex’s manufacturing operations. EPA added the site to the Superfund National Priorities List (NPL) in 1990. The site includes the former facility property and an area of impacted groundwater extending beyond the facility boundary.
+
+### What Has Been Done to Clean Up the Site?
+
+Environmental cleanup activities began in 1985, when CTS Printex initiated site closure activities in cooperation with the Regional Water Board. This work included the removal of contaminated soil, and the construction, operation, and maintenance of a groundwater extraction system.
+
+Active groundwater extraction occurred from 1987 to 1996, resulting in successful removal of approximately 100 pounds of TCE and more than 106 million gallons of contaminated groundwater. In 1996, it was determined that the groundwater extraction system was no longer an efficient way to remove contaminants, and the Regional Water Board disconnected the system. However, VOC concentrations in groundwater remained above cleanup goals.
+
+In 2011, EPA became the lead agency for the site and issued a Record of Decision Amendment with updated remedies for both groundwater and vapor intrusion. The vapor intrusion remedy relies on institutional controls, monitoring, and installation of mitigation measures at specific properties and/or during site redevelopment. The new groundwater remedy includes enhanced anaerobic bioremediation (EAB) to speed up cleanup of remaining VOC contamination, monitored natural attenuation, and institutional controls restricting groundwater use. EAB is a treatment technology that uses naturally occurring microorganisms below the surface to clean up the groundwater contamination. CTS Printex completed the Remedial Design investigation for the new groundwater remedy selected in the 2011 Record of Decision Amendment.
+
+Soil cleanup is complete and groundwater cleanup is ongoing.
+
+EPA has conducted five Five-Year Reviews (FYR) to evaluate if the remedy is working as intended and protective of human health and the environment. The 2020 FYR concluded that the remedy continues to be protective of human health and the environment. The 2025 FYR will be completed by September 30, 2025.
+
+### What Is the Current Site Status?
+
+Soil cleanup is complete and groundwater cleanup is ongoing. In 2019, CTS Printex started an enhanced anaerobic bioremediation groundwater cleanup with EPA oversight. Vapor intrusion mitigation measures have been successfully implemented at a new development to address potential vapor intrusion concerns. Vapor intrusion mitigation measures will be implemented as needed for future construction and redevelopment on or near the Site.

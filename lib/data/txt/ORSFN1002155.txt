@@ -1,2 +1,154 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+**Site Background**
+
+The Portland Harbor Superfund Site includes an in-river and an upland portion of the lower Willamette River, contaminated from decades of industrial use along the Willamette River. The Portland Harbor Superfund Site was added to EPA's National Priorities List in December 2000.
+
+Water and sediment at the Portland Harbor Site are contaminated with many hazardous substances, including polychlorinated biphenyls (PCBs), polycyclic aromatic hydrocarbons (PAHs), dioxins/furans, pesticides and heavy metals. These compounds have been found to be harmful to people and the environment. Health risks at the site are great enough for cleanup to be needed under the Superfund law.
+
+The Willamette River is an integral feature of the Portland, Oregon metropolitan area, which is home to over 500,000 people. The harbor is an international portal for commerce; dozens of industries within the site provide economic sustainability to the community. The Lower Willamette is also a popular area for recreation, including fishing and boating. The river provides a critical migratory corridor and rearing habitat for salmon and steelhead, including endangered runs of steelhead and chinook. The area holds great importance to several tribes as a natural and cultural resource.
+
+**[Final Explanation of Significant Differences (ESD) for the Portland Harbor Superfund Site](https://semspub.epa.gov/work/10/100194028.pdf)**: After reviewing and responding to input from over 1,100 commenters, the United States Environmental Protection Agency has issued the final ESD that identifies changes to the Selected Remedy in the 2017 Record of Decision (ROD) at the Portland Harbor Superfund Site. This ESD occurred because EPA’s Integrated Risk Information System (IRIS) issued a reduction in the cancer calculation for benzo(a)pyrene which is a polycyclic aromatic hydrocarbon (PAH) and a contaminant of concern at the Site. No substantive changes were made from the Proposed ESD to this Final ESD. The full ESD and other supporting documents are now available at the links below:
+
+- **[Two-page fact sheet for the Final ESD](https://semspub.epa.gov/src/document/10/100193522)** (2pp, 356KB) December 2019
+- **[Full Final ESD for the Portland Harbor Superfund Site](https://semspub.epa.gov/work/10/100194028.pdf)** \* (500pp, 27.7MB) December 2019
+
+\* *Please note that this final ESD includes a responsiveness summary (in Appendix B starting on page 162 of 500) where EPA replied to all the comments on the proposed ESD.*
+
+- [**Administrative Record for the Final ESD**](https://semspub.epa.gov/src/collection/10/AR66212): The Administrative Record is a collection of documents (including all public comments received) that informed EPA’s final ESD decision.
+
+**Portland Harbor Pre-Remedial Design Investigation and Baseline Sampling Work (Pre-RD Project):** The Pre-Remedial Design (Pre-RD) Project is a two-year sampling and analysis program being conducted under an Administrative Settlement Agreement and Order on Consent (ASAOC) signed between the EPA and a group of four potentially responsible parties (PRPs). The four signatories (the Pre-RD Group) are Arkema Inc., Evraz Inc. NA, Schnitzer Steel Industries Inc., and The Marine Group. The Pre-RD Project collected a portion of the needed data identified in EPA’s Record of Decision (ROD). For more information about this project, please see the most up-to-date [EPA and Pre-RD Group joint fact sheet](http://semspub.epa.gov/src/document/10/100173779).
+
+- **EPA’s Comments on the Pre-Remedial Design Investigation Evaluation Report (PDI Evaluation Report):** EPA has reviewed the [PDI Evaluation Report](http://semspub.epa.gov/src/document/10/100173734) submitted on behalf of the Portland Harbor Pre-Remedial Design Group (Pre-RD Group) and [prepared comments](https://semspub.epa.gov/src/document/10/100173757) with a [cover letter](https://semspub.epa.gov/src/document/10/100173754). EPA finds the data collected by the Pre-RD Group to be of suitable quality and generally acceptable. EPA intends to fully utilize this new, comprehensive data set as we work to move the entire harbor into design this year and start construction of the final cleanup. **However**, EPA does not agree that the data or the Pre-RD Group’s analysis support many of the conclusions presented in the PDI Evaluation Report. EPA does not need to approve the Pre-RD Group’s PDI Evaluation Report and will not provide any further review or comment. Please visit the ‘ [Site Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=1002155) ’ page for additional documents regarding this topic.
+- **Project Background:** Prior to discussions with responsible parties and [signature of the Pre-Remedial Design agreement or ASAOC](http://semspub.epa.gov/src/document/10/100077191), EPA in collaboration with our regulatory partners and stakeholders prepared and presented a draft sampling plan in June 2017. Additionally, EPA presented how this draft sampling plan compared to the final agreement that was signed with the Pre-Remedial design group in January 2018. These documents are provided below for background information:
+	- [Cover Letter for Draft Portland Harbor Sampling Plan (PDF)](http://semspub.epa.gov/src/document/10/100049035) (2pp, 121K) - June 2017
+	- [Portland Harbor Draft Sampling Plan for Pre-Remedial Design, Baseline and Long-Term Monitoring (PDF)](http://semspub.epa.gov/src/document/10/100049036) (80pp, 5.4MB) - June 2017
+	- [EPA Presentation on Sampling and Monitoring at the Portland Harbor Superfund Site (PDF)](http://semspub.epa.gov/src/document/10/100049034) (14pp, 768K) - June 2017
+	- [EPA January 10, 2018 Presentation on Updates for the Portland Harbor Superfund Site (PDF)](https://semspub.epa.gov/src/document/10/100080476) (29pp, 3.21MB) - January 2018
+	- [EPA January 2018 Fact sheet for Portland Harbor Superfund Site Updated (PDF)](https://semspub.epa.gov/src/document/10/100080693) (4pp, 368K) - January 2018
+
+**Proposed Explanation of Significant Differences (ESD):** EPA released a [proposed Explanation of Significant Differences (ESD)](https://semspub.epa.gov/src/document/10/100116390.pdf) for a public comment period that ended on December 21, 2018. This 60-day comment period incorporated a 30-day extension request that EPA has granted. This proposed ESD documented EPA’s plan for changing some of the cleanup levels for one of the contaminants of concern (carcinogenic polycyclic aromatic hydrocarbons or cPAHs) in the selected remedy. An [updated health risk assessment](https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=136) from EPA’s Integrated Risk Information System shows that benzo(a)pyrene or BaP (a type of carcinogenic polycyclic aromatic hydrocarbon or cPAH) is less toxic for people who contact or ingest the chemical than previously thought. EPA must consider how this updated information affects the final cleanup plan (also known as the Record of Decision or ROD) in the proposed ESD because cPAHs are a contaminant of concern for the Site.
+
+**The proposed ESD and related documents are listed below:**
+
+- [Proposed Explanation of Significant Differences (ESD) for the Portland Harbor Superfund Site](https://semspub.epa.gov/src/document/10/100116390.pdf) (401 pp, 25MB) - October 2018
+	- To view a hard copy of the Proposed ESD, visit the Multnomah County Central Library (801 SW 10th Avenue - please check library hours), the St. Johns Library (7510 N. Charleston Avenue - please check library hours), the Kenton Library (8226 N. Denver Avenue - please check library hours), or the EPA Region 10 Oregon Operations Office (805 SW Broadway, Suite 500 - call 503-326-3250 to schedule a viewing appointment).
+- [Fact Sheet on EPA's Proposed Explanation of Significant Differences for the Portland Harbor Superfund Site](https://semspub.epa.gov/src/document/10/100116881.pdf) (4 pp, 1.26MB) - October 2018
+- The ESD [Administrative Record](https://semspub.epa.gov/src/collection/10/AR65748) is a collection of documents that informed EPA’s proposed ESD
+- [All public comments received](https://semspub.epa.gov/src/collection/10/SC38491) during the Proposed ESD comment period. Also, [an index of all these commenter files](https://semspub.epa.gov/src/document/10/100142136.pdf) is available so you may see which commenter files correspond with specific entities.
+
+**Final Record of Decision for Portland Harbor, January 2017:** The EPA issued the [Record of Decision](https://semspub.epa.gov/work/10/100036257.pdf) (ROD) that selects the remedy for cleanup at the Portland Harbor Superfund Site in January 2017. The Selected Remedy is a final action for the in-river portion of the site from approximately river mile 1.9 to 11.8. We selected Alternative F Modified as the final remedy. Alternative F Modified is designed to reduce risks to human health and the environment to acceptable levels and actively remediate (using dredging, capping, enhanced natural recovery, and monitored natural recovery) 394 acres of contaminated sediments and 23,305 lineal feet of river bank. This final remedy will cost approximately $1.05 billion and take about 13 years to complete.
+
+EPA received input from over 5,300 commenters between June 9 and September 6, 2016 on the *Proposed Cleanup Plan for the Portland Harbor Superfund Site*. We thank everyone who submitted comments. All comments that were submitted to EPA are available in the Administrative Record (see [Site Documents and Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=1002155) page). Our responses to comments are included in the Responsiveness Summary in Part 3 of the ROD.
+
+The Record of Decision and related documents are listed below:
+
+- [Portland Harbor Superfund Site Record of Decision](https://semspub.epa.gov/work/10/100036257.pdf) (3012 pp, 81.07 MB) – January 2017  
+	Note: The ROD includes the Responsiveness Summary (see Part 3 of the ROD)
+- [Comments Submitted to EPA for the Proposed Plan](https://semspub.epa.gov/src/collection/10/SC34572)  
+	Note: This is a special sub-collection of the Administrative Record that includes all of the public comments that were submitted to EPA during the public comment period.
+- [The full Administrative Record (AR)](https://semspub.epa.gov/src/collections/10/AR/ORSFN1002155), a collection of documents that informed EPA’s proposed cleanup decision, is also available.
+	- [You can also search these AR sub-collections](https://semspub.epa.gov/src/collections/10/SC/ORSFN1002155) to help you find key documents from the larger Administrative Record.
+- [Portland Harbor ROD Fact Sheet](http://semspub.epa.gov/src/document/10/100036700) (2 pp, 600 KB) – January 2017
+	- [En Espanol (PDF)](http://semspub.epa.gov/src/document/10/100039265) (2 pp, 303K)
+	- [In Russian (PDF)](http://semspub.epa.gov/src/document/10/100039281) (2 pp, 444.5K)
+	- [In Chinese (PDF)](http://semspub.epa.gov/src/document/10/100039278) (2 pp, 792K)
+	- [In Vietnamese (PDF)](http://semspub.epa.gov/src/document/10/100039266) (2 pp, 427K)
+	- [In Korean (PDF)](http://semspub.epa.gov/src/document/10/100039280) (2 pp, 722K)
+	- [In Hmong (PDF)](http://semspub.epa.gov/src/document/10/100039279) (2 pp, 367K)
+	- [In Arabic (PDF)](http://semspub.epa.gov/src/document/10/100039277) (2 pp, 618K)
+- [Portland Harbor ROD Community Summary](http://semspub.epa.gov/src/document/10/100036704) (4 pp, 462 KB) – January 2017
+	- [En Espanol (PDF)](http://semspub.epa.gov/src/document/10/100039290) (4 pp, 434K)
+	- [In Russian (PDF)](http://semspub.epa.gov/src/document/10/100039284) (4 pp, 339K)
+	- [In Chinese (PDF)](http://semspub.epa.gov/src/document/10/100039282) (4 pp, 576K)
+	- [In Vietnamese (PDF)](http://semspub.epa.gov/src/document/10/100039289) (4 pp, 470K)
+	- [In Korean (PDF)](http://semspub.epa.gov/src/document/10/100039283) (4 pp, 348K)
+	- [In Hmong (PDF)](http://semspub.epa.gov/src/document/10/100039288) (4 pp, 367K)
+	- [In Arabic (PDF)](http://semspub.epa.gov/src/document/10/100039287) (4 pp, 418K)
+
+### What Has Been Done to Clean Up the Site?
+
+**Agreements & Orders for Remedial Design:** For a comprehensive list of all agreements and orders for remedial design to-date, please visit the " [Site Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=1002155) " section.
+
+**Past Early Action Cleanup Areas**  are locations where EPA already started work to clean up the Portland Harbor Superfund Site before the final cleanup plan was signed. Early action cleanup areas are parts of a Superfund site that may become a threat to people or the environment before the long-term cleanup is completed. Within the Site, there are several early action areas, listed below.  *Note: Additional documents associated with these early action areas are available upon request.*
+
+- **Gasco-NW Natural/Siltronic** \- A former manufactured gas plant contaminated with tar deposits from past manufacturing. In 2009, EPA reached an agreement for sampling and cleanup design plans for this area.
+	- [Gasco-NW Natural/Siltronic June 2018 Update](https://semspub.epa.gov/work/10/100098494.pdf)
+- **River Mile 11 East (RM11E)** \- An area located between the Fremont and Broadway Bridges on the east side of the Willamette River.
+	- [River Mile 11 East Group and EPA Joint Fact Sheet (June 2019)](https://semspub.epa.gov/src/document/10/100153807)
+	- [River Mile 11 East December 2018 Update](https://semspub.epa.gov/src/document/10/100125371.pdf)
+	- [Final Recontamination Assessment Report for River Mile 11 East](https://semspub.epa.gov/src/document/10/100125884.pdf)
+	- [River Mile 11 East June 2018 Update](https://semspub.epa.gov/work/10/100098488.pdf)
+	- [River Mile 11 East Fact Sheet (June 2018)](https://semspub.epa.gov/work/10/100098511.pdf)
+	- EPA finalized an agreement with the RM11E responsible parties in January 2018 to develop a cleanup design plan for this early action area. The new agreement amends an existing agreement from 2013 under which the parties performed supplemental RI/FS work. The cleanup plan design is expected to take two to three years. Once a draft of the cleanup design plan is complete, EPA plans to collect public feedback on the draft and provide an information session. The final agreement is below:
+		- [Administrative Settlement Agreement Order on Consent for Supplemental RI/FS Work and Remedial Design on RM11E Amendment No. 1](http://semspub.epa.gov/work/10/100080477.pdf) - January 2018
+- **Terminal 4** \- A former industrial site contaminated with pesticides, PCBs, metals, and PAHs.
+	- [Terminal 4 Administrative Settlement Agreement and Order on Consent (ASAOC) for Removal Action, Amendment No. 1](https://semspub.epa.gov/work/10/1225148.pdf) (September 2005)
+	- [Terminal 4 Administrative Settlement Agreement and Order on Consent (ASAOC) for Removal Action, Amendment No. 2 - Pre-Design Investigation and Remedial Design](http://semspub.epa.gov/work/10/100185014.pdf) (June 21, 2018)
+	- [Terminal 4 June 2018 Update](https://semspub.epa.gov/work/10/100098499.pdf)
+	- [Terminal 4 April 2019 Update](https://semspub.epa.gov/src/document/10/100144915.pdf)
+- **Arkema** \- A former pesticide manufacturing facility contaminated with high levels of DDT and other chemicals.
+- **Triangle Park** \- A 35-acre former industrial site with soil and groundwater contamination.
+- **U.S. Moorings Early Action Area** - A former industrial site contaminated with metals, solvents, and petroleum by-products from historical boat maintenance activities.
+
+### What Is the Current Site Status?
+
+**December 2019 - [Final Explanation of Significant Differences (ESD)](http://semspub.epa.gov/work/10/100194028.pdf):** After reviewing and responding to input from over 1,100 commenters, the United States Environmental Protection Agency issued the final ESD in December 2019 that identified changes to the Selected Remedy in the 2017 Record of Decision (ROD) at the Portland Harbor Superfund Site. This ESD occurred because EPA’s Integrated Risk Information System (IRIS) issued a reduction in the cancer calculation for benzo(a)pyrene which is a polycyclic aromatic hydrocarbon (PAH) and a contaminant of concern at the Site. No substantive changes were made from the Proposed ESD to this Final ESD. A [two-page fact sheet](http://semspub.epa.gov/src/document/10/100193522)  and [full administrative record](http://semspub.epa.gov/src/collection/10/AR66212) are also available.
+
+****Final Portland Harbor Baseline Sampling Plan Work Complete:**** In November 2019, all site-wide baseline sampling work (including delivery of data which EPA intends to use for pre- and post-construction monitoring in addition to targeted sampling during cleanup to evaluate progress toward cleanup goals) was completed by the Pre-Remedial Design (Pre-RD) Group under the [December 2017 agreement with EPA](http://semspub.epa.gov/src/document/10/100077191). Please see the ' [Background](http://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=1002155#bkground) ' section of this website for more information.
+
+**Final Record of Decision for Portland Harbor Issued (January 2017):** EPA issued the Record of Decision (ROD) that selects the remedy for cleanup at the Portland Harbor Superfund Site in January 2017. We selected Alternative F Modified as the final remedy.
+
+Alternative F Modified is designed to reduce risks to human health and the environment to acceptable levels and actively remediate (using dredging, capping, enhanced natural recovery, and monitored natural recovery) 394 acres of contaminated sediments and 23,305 lineal feet of river bank. This final remedy will cost approximately $1.05 billion and take about 13 years to complete.
+
+The EPA received input from over 5,300 commenters between June 9 and September 6, 2016 (90 days) on the Proposed Cleanup Plan for the Portland Harbor Superfund Site. We thank everyone who submitted comments. All comments that were submitted to EPA are available in the Administrative Record (please see the ‘Site Reports and Documents’ box to the right). Our responses to comments are included in the Responsiveness Summary in Part 3 of the ROD.
+
+The Record of Decision and related documents are listed below:
+
+- [Portland Harbor Superfund Site Record of Decision (PDF)](https://semspub.epa.gov/work/10/100036257.pdf) (3012 pp, 81.07 MB) – January 2017  
+	**Note**: The ROD includes the Responsiveness Summary (see Part 3 of the ROD)
+- [Comments Submitted to EPA for the Proposed Plan](https://semspub.epa.gov/src/collection/10/SC34572)  
+	**Note**: This is a special sub-collection of the Administrative Record that includes all of the public comments that were submitted to EPA during the public comment period.
+- [The full Administrative Record (AR)](https://semspub.epa.gov/src/collections/10/AR/ORSFN1002155), a collection of documents that informed EPA’s proposed cleanup decision, is also available.
+	- [You can also search these AR sub-collections](https://semspub.epa.gov/src/collections/10/SC/ORSFN1002155) to help you find key documents from the larger Administrative Record.
+- [Portland Harbor ROD Fact Sheet (PDF)](http://semspub.epa.gov/src/document/10/100036700) (2 pp, 600 KB) – January 2017
+	- [En Espanol (PDF)](http://semspub.epa.gov/src/document/10/100039265) (2 pp, 303K)
+	- [In Russian (PDF)](http://semspub.epa.gov/src/document/10/100039281) (2 pp, 444.5K)
+	- [In Chinese (PDF)](http://semspub.epa.gov/src/document/10/100039278) (2 pp, 792K)
+	- [In Vietnamese (PDF)](http://semspub.epa.gov/src/document/10/100039266) (2 pp, 427K)
+	- [In Korean (PDF)](http://semspub.epa.gov/src/document/10/100039280) (2 pp, 722K)
+	- [In Hmong (PDF)](http://semspub.epa.gov/src/document/10/100039279) (2 pp, 367K)
+	- [In Arabic (PDF)](http://semspub.epa.gov/src/document/10/100039277) (2 pp, 618K)
+- [Portland Harbor ROD Community Summary (PDF)](http://semspub.epa.gov/src/document/10/100036704) (4 pp, 462 KB) – January 2017
+	- [En Espanol (PDF)](http://semspub.epa.gov/src/document/10/100039290) (4 pp, 434K)
+	- [In Russian (PDF)](http://semspub.epa.gov/src/document/10/100039284) (4 pp, 339K)
+	- [In Chinese (PDF)](http://semspub.epa.gov/src/document/10/100039282) (4 pp, 576K)
+	- [In Vietnamese (PDF)](http://semspub.epa.gov/src/document/10/100039289) (4 pp, 470K)
+	- [In Korean (PDF)](http://semspub.epa.gov/src/document/10/100039283) (4 pp, 348K)
+	- [In Hmong (PDF)](http://semspub.epa.gov/src/document/10/100039288) (4 pp, 367K)
+	- [In Arabic (PDF)](http://semspub.epa.gov/src/document/10/100039287) (4 pp, 418K)
+
+EPA hosted community information sessions in Portland on March 7-9, and a webinar on March 14, to present the details of the final remedy.
+
+- [Slides from EPA’s Presentation of the Portland Harbor Superfund Site Record of Decision](http://semspub.epa.gov/src/document/10/100042471) (21pp, 1.24MB)
+- [Video: Community Information Webinar on the Portland Harbor Record of Decision (YouTube)](https://www.youtube.com/watch?v=aXsAf-9Wpyc&feature=youtu.be)
+
+### Sampling and Monitoring
+
+**Portland Harbor Superfund Site Data Portal**
+
+This interim website provides public access to view and download analytical data and reports associated with environmental studies for the [Portland Harbor Superfund Site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=1002155). All data sets and reports available in this portal have been approved by EPA to use in designing future cleanup actions. When available, reports associated with data collection and analysis may also be viewed and downloaded for each study. More data will be added as it becomes available. EPA is also exploring better ways to manage and display data for the Portland Harbor Superfund Site.
+
+[Portland Harbor Superfund Site Data Portal](http://ph-public-data.com/)
+
+### Emergency Response and Removal
+
+Early-action cleanup areas have addressed immediate threats to human health and the environment at six areas of the site. EPA completed early actions at the Gasco-NW Natural/Siltronic and Terminal 4 areas in 2005 and 2009, respectively. Cleanups within the Portland Harbor site, Triangle Park and U.S. Moorings early-action areas have been completed and are being monitored. Additional early actions are ongoing or near completion. They include Arkema, a former pesticide manufacturing facility on the southwest bank of the Willamette River, and River Mile 11E located between the Fremont and Broadway Bridges on the east side of the Willamette River.
+
+### Enforcement Information
+
+EPA has identified at over 150 Potentially Responsible Parties (PRPs) for the Portland Harbor Superfund Site, including businesses and local, state and federal government agencies.
+
+- The current list of Potentially Responsible Parties can be viewed here: [Portland Harbor Superfund Site PRPs](https://semspub.epa.gov/work/10/100181072.pdf)
+
+**EPA - PRP Coordination Meeting:** On December 4, 2018, EPA met with Potentially Responsible Parties to discuss next steps on the Portland Harbor cleanup. EPA provided this [presentation](https://semspub.epa.gov/src/document/10/100123704.pdf) and reviewed these [frequently asked questions](http://semspub.epa.gov/work/10/100195001.pdf) for remedial design with PRPs during this meeting.

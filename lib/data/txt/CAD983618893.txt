@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 33-acre Lava Cap Mine is a former gold mine in the Sierra Foothills. Cleanup is ongoing, with a cap completed on site in 2006. Construction of a new drinking water pipeline for nearby impacted residents was completed in 2014. Design work for a mine drainage treatment system is nearing completion and EPA expects to perform the remedial action in 2025. A feasibility study is underway for downstream impacted areas.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. In 2006 the mine buildings were cleaned and fenced, hazardous waste was shipped to an off-site landfill, creeks and other suface waters were lined with an impermeable mebrane liner and a cap was constructed over mine tailings in the main mine area.
+
+In 2014 construction was completed to connect residents living near the former mine site to the local municipal water supply, ensuirng that their drinking water could not be impacted by contaminated groundwater beneath the mine.
+
+### What Is the Current Site Status?
+
+This site has four operable units (OUs) and two signed Records of Decision (RODs). The OU-1 ROD included the cleanup of the mine tailings and adit water in the mine area and the mine residences. The residences were later designated as OU4. The OU-2 Interim ROD for groundwater was signed in 2008. OU-3 is the Lost Lake area downstream of the site.
+
+The ROD for OU-1 (the Lava Cap Mine Area) is being implemented as two distinct remedies. The first remedy included excavation of tailings and tailings consolidation, vegetative covers, a tailings pile cap, a rock buttress and drainage channels. Construction is complete.
+
+The second remedy for OU-1, which is still in the remedial design phase, is treatment of adit water draining from the mine. The remedy also includes institutional controls to minimize potential future exposure to remaining contaminated materials. Completion of the remedial design is anticipated by 2024 and construction is expected to occur in 2025.
+
+EPA continues to study the groundwater (OU-2) in the area to determine a final remedy to address contamination from the mine.
+
+The Lost Lake area (OU-3) feasibility study is ongoing. Alternatives are being evaluated to address the tailings deposited in the lake area. EPA is also looking at the bioavailability of contaminants in the Lost Lake area and the impacts from implementation to ecological systems in the area. The revised feasibility study and proposed cleanup alternatives for OU-3 are expected in 2023.
+
+The remedy for OU-4 (mine residences) consisted of demolition of mine residences followed by removal of contaminated debris and soils. Construction activities for OU-4 finished in June 2006.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The remedy selected in the ROD included restricting the uses of the mine area. For example, use of the area for residential purposes is not allowed.
+
+### Sampling and Monitoring
+
+EPA monitors and samples surface water and groundwater in OU-1, OU-2, and OU-3 on a regular basis.
+
+### Green Remediation
+
+The planned adit water treatment system is a semi-passive wetland treatment system that primarily uses gravity to route water through treatment wetlands. In comparison to a mechanized treatment plant, the wetland system is expected to cost less to maintain, use far less electrical energy, greatly reduce the need for off-site disposal of wates, and will create additional wetland habitat.

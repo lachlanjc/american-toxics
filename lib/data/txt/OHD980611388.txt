@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The South Dayton Dump and Landfill is a former disposal area for industrial and municipal waste. The site is approximately 80 acres and includes a 15-acre pond, as well as property now occupied by an operating asphalt plant and other businesses.
+
+In the 1930s a portion of the site was used for agricultural purposes, and later as a sand and gravel quarry. From the late 1940s until 1996 a portion of the site was utilized as a landfill.
+
+Open burning, landfilling and storage of hazardous waste resulted in soil and groundwater contamination that could potentially threaten the adjacent Great Miami River. Soil contains metals that include lead, copper, mercury and other chemicals. Groundwater contamination is mainly organic chemicals such as tetrachloroethylene, trichloroethylene, vinyl chloride, and benzene.
+
+In 2006 EPA and the potentially responsible parties (PRPs) signed an agreement for EPA to oversee the PRPs investigation of the nature and extent of contamination, determination of risks posed by the site to human health and the environment, and the development of cleanup options.
+
+### What Has Been Done to Clean Up the Site?
+
+From 2008 to 2010 investigations at the site included a geophysical survey, test pit and test trench sampling, vertical aquifer sampling, landfill gas sampling, and groundwater monitoring well installation and sampling. Based on these investigations, site work was divided into two parts or "operable units". Operable Unit 1, or OU1 consists of parcels on which the landfill operators placed waste, while OU2 consists of nearby parcels where contamination from the landfill may have migrated.
+
+A vapor intrusion study in 2011 and 2012 found that vapor intrusion and landfill gas migration at the site posed risks to human health. Vapor intrusion occurs when chemicals in landfill materials and groundwater give off gases that can rise through the soil and seep into buildings through foundations. To reduce sub-slab and indoor levels of trichloroethylene and methane, EPA issued an [Action Memo (pdf)](https://semspub.epa.gov/src/document/05/437265.pdf) (47pp, 8.15 MB) in October 2012 requiring site PRPs to install sub-slab depressurization systems at several on-site buildings. These systems, similar to radon mitigation systems, have been installed in several buildings along Dryden Road. They draw TCE, methane and other vapors out of the soil under the buildings and vent them outside. The PRPs installed the mitigation systems and demolished other site buildings in the summer of 2013. These activities added two more Operable Units to the site, Operable Units 3 and 4. Operable Unit 3 represents the vapor intrusion mitigation performed on several of the buildings along Dryden Road, and Operable Unit 4 represents the vapor intrusion mitigation performed on the buildings on the Valley Asphalt property.
+
+### What Is the Current Site Status?
+
+In June 2016, EPA and several PRPs entered into a new [Administrative Settlement Agreement and Order on Consent (pdf)](https://semspub.epa.gov/work/05/2002824.pdf) (158pp, 7.69 MB), or AOC under which the PRPs will collect additional samples of soil, groundwater, and sediment to characterize the site, understand the risks to human health and the environment, and develop remedial alternatives to address site risks. In September 2017, [EPA approved the Remedial Investigation/Feasibility Study Work Plan (pdf)](https://semspub.epa.gov/work/05/950618.pdf) (4041pp, 215.10 MB) for two of the four Operable Units at the site, Operable Units 1 and 2.
+
+Although a few buildings on site continue to have sub-slab concentrations of some chemicals greater than Ohio Department of Health screening levels, there are no vapor-intrusion-related exceedances in the indoor air concentrations.
+
+The site is currently in the Remedial Investigation phase and the PRPs continue to perform additional investigations of soil, waste, soil gas, groundwater, sediment, and surface water to better characterize the site and determine the best cleanup alternatives. It is anticipated that the Remedial Investigation will be completed by the end of 2022. Following the Remedial Investigation, EPA will evaluate remedial alternatives and select a final remedy for the site.

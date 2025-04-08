@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Teledyne Semiconductor has operated as a semiconductor manufacturer at this 1-acre site since 1962. In 1982, Teledyne reported to the California Regional Water Quality Control Board (CRWQCB) that soil and groundwater were contaminated with solvents from an underground solvent storage tank. The State inspected the site and found that contaminants had migrated north of the site and affected approximately 50 private domestic wells. Furthermore, contaminated groundwater that migrated north from another NPL site, Spectra-Physics, Inc., merged with the contaminated plume of the Teledyne site. The two firms are cleaning up the sites jointly. These sites are among the 28 sites in the South Bay Area of San Francisco. Facilities at these sites have used a variety of toxic chemicals, primarily chlorinated organic solvents, which have contaminated a common groundwater basin. Although the sites are listed separately on the NPL, the EPA intends to combine cleanup activities at some of the sites as part of an area-wide approach to the contamination. The site is located in a densely populated, urban area. Approximately 189,000 people live within a 3-mile radius of the site. The distance from the site to the nearest residence is 200 feet.
+
+### What Has Been Done to Clean Up the Site?
+
+The parties responsible for the environmental cleanup have been conducting soil and groundwater cleanup activities for over 30 years. Groundwater extraction and soil vapor extraction have removed thousands of pounds of volatile organic compounds from both groundwater and soil. Over the last several years, a new cleanup method was tested and evaluated to speed up the groundwater cleanup.
+
+In September 2023 EPA changed the groundwater cleanup method from groundwater extraction to a bioremediation remedy and issued a Record of Decision (ROD) Amendment for Groundwater. This ROD Amendment revises the 1991 ROD and identifies how EPA will continue to clean up groundwater that was contaminated from the former Teledyne Semiconductor and Spectra-Physics, Inc. facilities. This new cleanup method has greatly improved groundwater quality across the former Teledyne property and will greatly reduce the time it will take for groundwater to be cleaned up to drinking water standards. The ROD Amendment for Groundwater is available here.
+
+The major components of the new cleanup remedy are: 1) injecting a substrate into the groundwater to enhance naturally-occuring microorganisms that break down the contaminants; 2) extracting contaminated soil vapor and treating it; 3) monitored natural attenuation; and 4) institutional controls to a) prevent the groundwater from being used until it is cleaned up and b) prevent the building of homes and schools at the former facilities. EPA prepared this ROD Amendment in consultation with the San Francisco Bay Regional Water Quality Control Board.
+
+When EPA became aware of the potential for contamination in the groundwater to vaporize and migrate up into buildings through cracks and openings in foundations, EPA and the Regional Water Quality Control Board conducted vapor intrusion assessments. This process is known as vapor intrusion. To determine if vapor intrusion is occurring at unacceptable levels, EPA and the Regional Water Quality Board worked with the Teledyne and Spectra Physics responsible parties to conduct indoor air testing in homes and businesses over the TCE plume. The process for testing TCE in indoor air is not disruptive and involves placing a small sampling device inside a home (such as on a shelf) and underneath the building in the crawlspace and left untouched for one to two weeks. There is no cost to owners or tenants for the sampling. EPA found that some businesses had vapors coming up from the groundwater and into buildings and issued a Record of Decision for Vapor Intrusion in 2020 that identifies the process for evaluating and mitigating buildings with vapor intrusion. The ROD for Vapor Intrusion is available [here](http://semspub.epa.gov/src/document/09/100021617).
+
+### What Is the Current Site Status?
+
+In September 2024 EPA completed the Sixth Five-Year Review for the Site. The Five-Year Review concluded that the remedy for Operable Unit 1 (Soil and Groundwater) was “short-term protective” and the remedy for Operable Unit 2 (Vapor Intrusion) “will be protective” once the remedy is fully implemented. The following issues and recommendations were identified in the report:
+
+- The selected vapor intrusion remedy is currently not being fully implemented.
+
+Recommendation – More residential indoor air sampling is needed. EPA will conduct public outreach and education to increase awareness of risks pertaining to vapor. Additionally, long-term operation and maintenance plans and vapor intrusion monitoring plans need to be developed and implemented. A third-party tracking system needs to be established to track and report the progress of city permitting procedures. Finally, commercial vapor intrusion sampling is need in buildings that have not been sampled wit HVAC systems turned off.
+
+- Past practices at the Site involved discharge of groundwater containing untreated chlorinated VOCs into the sanitary sewer.
+
+Recommendation – Assessment of the sewer to indoor air pathway is needed to determine if Site contamination may pose a vapor intrusion concern.
+
+- Other Findings: Evaluation of PFAS in groundwater is needed to determine whether PFAS is present in monitoring wells at the Site. On June 5, 2024, the Regional Water Board directed the responsible party to prepare a work plan for PFAS sampling at the Site to determine whether it is present in groundwater within the Study Area, and if so, to identify the extent and source of contamination.
+
+The Five-Year Review further stated the following:
+
+The remedy at the Teledyne Semiconductor/Spectra-Physics Lasers, Inc. Superfund Site is expected to be protective of human health upon completion of the selected remedies. In the interim, vapor intrusion mitigation measures have been initiated in buildings where access has been granted. Furthermore, additional enhanced reductive dechlorination (ERD), soil vapor extraction, and monitoring is warranted.

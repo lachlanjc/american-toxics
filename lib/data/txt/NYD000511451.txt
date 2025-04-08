@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Nepera Chemical Company site is located in Hamptonburgh, New York. The site is a 29-acre former industrial waste disposal facility. Between 1953 and 1967, lagoons at the site received about 50,000 gallons of wastewater per day from the Nepera chemical plant in Harriman, New York. Nepera Chemical made a variety of pharmaceutical and industrial chemicals. State inspectors detected leaks from the lagoons in 1958 and 1960, and disposal operations ended in December 1967. The company’s disposal operations contaminated soils and groundwater with hazardous chemicals. Actions have been taken to protect human health and the environment, contaminated soils have been excavated and removed from the Site, and groundwater monitoring is ongoing.
+
+The Nepera Chemical Company was a producer of bulk pharmaceutical chemicals, hydrogels and pyridine-based industrial chemical intermediate compounds at its facility, located in Harriman, New York, about 25 miles away from the site. The company purchased the site property in 1952. Warner Lambert Corporation purchased the company in 1956 and reincorporated as Nepera, Inc. From 1953 through 1967, Nepera used the lagoons at the site for the discharge of industrial wastewater generated at its plant in Harriman. No wastewater disposal has taken place at the site since December 1967. All of the lagoons were backfilled with clean soil by 1974.
+
+After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List in June 1986
+
+### What Has Been Done to Clean Up the Site?
+
+Long-term Cleanup: After a remedial investigation and feasibility study was conducted to determine the nature and extent of site contamination and to evaluate remedial alternatives, EPA selected the remedy addressing subsurface and surface soil contamination and groundwater contamination in the site’s September 2007 Record of Decision, or ROD. Remedial Design work was conducted, including collecting additional soil samples, which reflected that site conditions affected more soils than originally projected. Based on this re-assessment of site conditions, the remedy was updated in July 2011, requiring excavation of all contaminated soils and transportation of the contaminated soils for off-site treatment and disposal. Groundwater remediation involves the application of oxygen releasing compounds (ORCs) to contaminated groundwater to foster bioremediation of the contaminants.
+
+In total, about 83,000 tons of contaminated soils have been removed from the site for treatment and disposal. ORCs have been introduced into all excavated areas to remediate contaminated groundwater. Groundwater monitoring continues to ensure protection of human health and the environment.
+
+### What Is the Current Site Status?
+
+The site is being addressed in two stages: immediate actions and a long-term remedial phase focused on cleanup of the entire site.
+
+The 5-acre lagoon area was fenced in 1995.
+
+Cleanup of contaminated soil was conducted in 2011 and 2012. Remedial activities were temporarily halted because of the onset of freezing temperatures assoicated with the Winter of 2011/2012. Remedial activities were re-started in late Spring of 2012 and continued throughout 2012. Contaminated soils have been excavated and removed from the Site.
+
+Groundwater remediation and monitoring is ongoing.

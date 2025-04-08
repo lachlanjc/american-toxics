@@ -1,17 +1,47 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Washington Navy Yard (WNY) is the Navy’s oldest shore station and the oldest continuously operated federal facility in the United States. It was established on October 2, 1799, as a shipbuilding yard on land set aside by a presidential order. WNY is located on approximately 63 acres in southeastern Washington, DC. At its largest, WNY occupied approximately 129 acres. After World War II (WWII), WNY’s role began to shift from primarily manufacturing to administration, which gradually resulted in the need for fewer facilities and less land. In the early 1960s, 63 acres were sold to the General Services Administration (GSA) for the Southeast Federal Center (SEFC). WNY’s original mission was the construction and maintenance of naval vessels. The prevalent activities at WNY from its establishment were industrial development and ordnance production. Ordnance production became WNY’s mission by the 1860s. By WWII, the Yard served as the primary naval ordnance plant. At its peak, the WNY consisted of 188 buildings and employed nearly 25,000 people. After WWII, administrative activities continued to replace industrial work as the primary function of the facility. Currently, WNY consists of administrative, supply, and storage buildings; residences; training facilities; and museums. Buildings and other impervious surfaces cover approximately 95 percent of WNY, with 2.7 acres of parkland being the only substantially vegetated area in a largely urban setting.  The site was added to the Superfund program’s National Priority List (NPL) in August 1998. The Federal Facilities Agreement (FFA) negotiated between the Navy, EPA, and the DC Department of Energy and Environment (DOEE), was signed in June 1999.
+### Background
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. A Federal Facilities Agreement (FFA) negotiated between EPA, DC Department of Energy & Environment (DOEE), and the Navy was signed in June 1999. The FFA identified areas for investigation and possible cleanup and provides the framework and a schedule to accomplish this work.  Currently there are three operable units being addressed under the Superfund program, with additional areas currently being investigated for PFAS contamination.
+The Washington Navy Yard (WNY) is the Navy’s oldest shore station and the oldest continuously operated federal facility in the United States. It was established on October 2, 1799, as a shipbuilding yard on land set aside by a presidential order. WNY is located on approximately 63 acres in southeastern Washington, DC. At its largest, WNY occupied approximately 129 acres. After World War II (WWII), WNY’s role began to shift from primarily manufacturing to administration, which gradually resulted in the need for fewer facilities and less land. In the early 1960s, 63 acres were sold to the General Services Administration (GSA) for the Southeast Federal Center (SEFC). WNY’s original mission was the construction and maintenance of naval vessels. The prevalent activities at WNY from its establishment were industrial development and ordnance production. Ordnance production became WNY’s mission by the 1860s.
 
-What Is the Current Site Status?
-The Department of the Navy has the lead role for cleaning up the WNY NPL site. Per the FFA between EPA, DOEE and the Navy, a Site Management Plan (SMP) is annually updated with activities at each OU and Area of Concern. For detailed information on the current clean-up status, see the WNY Site Management Plan. A full list of activities per each Operable Unit can be found in the Site Management Plan. EPA has co-signed Records of Decisions (RODs) at the WNY selecting remedies for twelve operable units (OUs): OU 4, Site 4 - Soil around Buildings 44, 46, 67, and 108. Final ROD signed September 2004. OU 14, Site 14 - Soil around Building 292. Final ROD signed September 2005. OU 16, Site 16 – Subsurface soil. Final ROD signed September 2006. OU 5, Site 5 – Subsurface soil. Final ROD signed September 2006.  OUs 1, 2, 3, 7, 9, 11, and 13 No Action. Final ROD signed September 2007. OU 17, Site 17 – No Action. Final ROD signed September 2011. OU 23, Site 23 – No Action. Final ROD signed March 2013. OU 6, Site 6 – Land Use Controls and Long - Term Monitoring. Final ROD signed September 2016. OU 22, Site 22 - Land Use Controls and Long - Term Monitoring. Final ROD signed September 2016. OU 8, Site 8 – No Action.  Final ROD signed September 2017. Site Screening Area 12 – No Action. Final ROD signed September 2017. OU – 1, Site-Wide Groundwater. No Action. Final ROD signed September 2019. Site 21 – Conduct additional data collection activities to evaluate a potential source area for contaminated groundwater at Site 21; begin preparing the FS for soil and groundwater.
-Five Year Review - The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent can be found here, June 2021. The next five-year review is scheduled for 2026.
+By WWII, the Yard served as the primary naval ordnance plant. At its peak, the WNY consisted of 188 buildings and employed nearly 25,000 people. After WWII, administrative activities continued to replace industrial work as the primary function of the facility. Currently, WNY consists of administrative, supply, and storage buildings; residences; training facilities; and museums. Buildings and other impervious surfaces cover approximately 95 percent of WNY, with 2.7 acres of parkland being the only substantially vegetated area in a largely urban setting. The site was added to the Superfund program’s National Priority List (NPL) in August 1998. The Federal Facilities Agreement (FFA) negotiated between the Navy, EPA, and the DC Department of Energy and Environment (DOEE), was signed in June 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. A Federal Facilities Agreement (FFA) negotiated between EPA, DC Department of Energy & Environment (DOEE), and the Navy was signed in June 1999. The FFA identified areas for investigation and possible cleanup and provides the framework and a schedule to accomplish this work. Currently there are three operable units being addressed under the Superfund program, with additional areas currently being investigated for PFAS contamination.
+
+### What Is the Current Site Status?
+
+The Department of the Navy has the lead role for cleaning up the WNY NPL site.
+
+Per the FFA between EPA, DOEE and the Navy, a Site Management Plan (SMP) is annually updated with activities at each OU and Area of Concern. For detailed information on the current clean-up status, see the [WNY Site Management Plan](https://www.navfac.navy.mil/Portals/68/Documents/Business-Lines/Environmental/Environmental-Restoration/NAVFAC-Washington/WNY/WNY_SMP_FY2018.pdf?ver=AXorbj2Dc7RRKiEgPXQV0g%3d%3d).
+
+A full list of activities per each Operable Unit can be found in the Site Management Plan.
+
+EPA has co-signed Records of Decisions (RODs) at the WNY selecting remedies for twelve operable units (OUs):
+
+**OU 4, Site 4** - Soil around Buildings 44, 46, 67, and 108. Final ROD signed September 2004.
+
+**OU 14, Site 14** - Soil around Building 292. Final ROD signed September 2005.
+
+**OU 16, Site 16** – Subsurface soil. Final ROD signed September 2006.
+
+**OU 5, Site 5** – Subsurface soil. Final ROD signed September 2006.
+
+**OU** **s 1, 2, 3, 7, 9, 11, and 13** No Action. Final ROD signed September 2007.
+
+**OU 17, Site 17** – No Action. Final ROD signed September 2011.
+
+**OU 23, Site 23** – No Action. Final ROD signed March 2013.
+
+**OU 6, Site 6** – Land Use Controls and Long - Term Monitoring. Final ROD signed September 2016.
+
+**OU 22, Site 22** \- Land Use Controls and Long - Term Monitoring. Final ROD signed September 2016.
+
+**OU 8, Site 8** – No Action. Final ROD signed September 2017.
+
+**Site Screening Area 12** – No Action. Final ROD signed September 2017.
+
+**OU – 1**, Site-Wide Groundwater. No Action. Final ROD signed September 2019.
+
+**Site 21** – Conduct additional data collection activities to evaluate a potential source area for contaminated groundwater at Site 21; begin preparing the FS for soil and groundwater.
+
+**Five Year Review** \- The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent can be found here, [June 2021](https://semspub.epa.gov/src/document/03/2338750). The next five-year review is scheduled for 2026.

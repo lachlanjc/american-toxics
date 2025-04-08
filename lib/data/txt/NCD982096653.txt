@@ -1,44 +1,82 @@
-RAM LEATHER CARE SITECHARLOTTE, NC
-  Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Ram Leather Care Superfund site is located in Charlotte, North Carolina. It includes an area where the Ram Leather Care company restored leather goods and operated a dry-cleaning facility from 1977 to 1993. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 2003 because of contaminated groundwater and soil resulting from facility operations and waste handling practices. EPA and the North Carolina Department of Environmental Quality (NCDEQ)Exit have investigated site conditions. . By conducting site investigations and studies, EPA and NCDEQ continue to protect people and the environment from site contamination. Site contamination does not currently threaten people working on or near the site. A water line connects nearby residences and businesses to the public water supply.
-What Has Been Done to Clean Up the Site?
-EPA leads site investigation and cleanup activities in cooperation with NCDEQ. 1991
-Studies at the Ram Leather Care Site were initiated by the owner in 1991 and the EPA began investigations in 1994, at the request of the Superfund Section of the North Carolina Department of Environmental Quality (formerly Department of Environment and Natural Resources). 1994 – 2006
-Several investigations were conducted at the site between 1994 and 2006 resulting in the issuance of an Interim ROD (IROD) in 2004. 2008
-The selected groundwater remedy to pump and treat of groundwater at an onsite wastewater treatment system was initiated in 2008. Four potable wells were abandoned at residential properties adjacent to the site. An interim soil remedy to excavate 2,400 cubic yards of soil to the approximate depth of the water table (18 feet below ground surface [ft bls] ) was implemented in 2008. EPA completed soil cleanup activities and installed the groundwater pump-and-treat system. EPA began additional soil and groundwater sampling as part of the site’s remedial investigation. EPA connected nearby residents to the public water supply. From 2008 to 2011, EPA conducted operation and maintenance activities for the groundwater pump-and-treat system. 2010
+### Background
+
+The Ram Leather Care Superfund site is located in Charlotte, North Carolina. It includes an area where the Ram Leather Care company restored leather goods and operated a dry-cleaning facility from 1977 to 1993.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2003 because of contaminated groundwater and soil resulting from facility operations and waste handling practices.
+
+EPA and the [North Carolina Department of Environmental Quality (NCDEQ)](https://deq.nc.gov/) have investigated site conditions.. By conducting site investigations and studies, EPA and NCDEQ continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people working on or near the site. A water line connects nearby residences and businesses to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with NCDEQ.
+
+**1991**  
+Studies at the Ram Leather Care Site were initiated by the owner in 1991 and the EPA began investigations in 1994, at the request of the Superfund Section of the North Carolina Department of Environmental Quality (formerly Department of Environment and Natural Resources).
+
+**1994 – 2006**  
+Several investigations were conducted at the site between 1994 and 2006 resulting in the issuance of an Interim ROD (IROD) in 2004.
+
+**2008**  
+The selected groundwater remedy to pump and treat of groundwater at an onsite wastewater treatment system was initiated in 2008.
+
+Four potable wells were abandoned at residential properties adjacent to the site.
+
+An interim soil remedy to excavate 2,400 cubic yards of soil to the approximate depth of the water table (18 feet below ground surface \[ft bls\] ) was implemented in 2008.
+
+EPA completed soil cleanup activities and installed the groundwater pump-and-treat system. EPA began additional soil and groundwater sampling as part of the site’s remedial investigation.
+
+EPA connected nearby residents to the public water supply.
+
+From 2008 to 2011, EPA conducted operation and maintenance activities for the groundwater pump-and-treat system.
+
+**2010**  
 An additional Remedial Investigation/Feasibility Study (RI/FS) was initiated in 2010 to better characterize the extent of contamination at the site and to finalize an approach to remediate the site remediation in support of a final Record of Decision (ROD). Additional investigations included
-soil and groundwater sampling
-monitoring well installation
-surface water sampling
-a modified active gas and multiphase extraction pilot test
-an electrical resistivity imaging (ERI) survey
-a Membrane Interface Probe-Hydraulic Profiling Tool (MiHPT) investigation
-an investigation of suspected buried drums using ground penetrating radar (GPR)
-vertical profiling of groundwater using a sonic drill rig.
-2011
-The pump and treat system was shut down in 2011 after it was determined that the construction of the pumping well, which included a long screen interval, was increasing contamination concentrations in the deeper portions of the bedrock aquifer. 2013
-EPA completed the building demolition activities at the site. EPA also completed an electrical resistivity imaging of the top of competent bedrock and has finalized the soil and groundwater investigation. 2015
-EPA completed the Remedial Investigation (RI) at the site in 2015 2017
-EPA completed a draft Feasibility Study (FS) in 2017. EPA completed the site's final cleanup plan in 2018.
-What Is the Current Site Status?
-EPA conducted a Proposed Plan public meeting in mid-May 2018. The cleanup at the site was classified into four contaminated media zones as follows: Unsaturated zone, Saturated source Zone , Main source Area and the Dilute Plume Area.  The Dilute Plume including the bedrock aquifer and the regolith aquifer down-gradient of the site will be developed in a future proposed plan. An Interim Record of Decision will be completed to document the preferred remedy for the site this year.
-The preferred clean-up plan for the Unsaturated zone is soil vapor extraction.
-The preferred clean-up plan for the Main source Area is insitu thermal treatment.
-The remedy for the Saturated area is in-situ thermal treatment with biobarriers.
-The EPA completed the Remedial Design in 2020. EPA  assessed vapor intrusion as part of the site’s remedial design to determine whether residents or workers might be at risk from harmful groundwater vapors in buildings.  Intakes were calculated for residents and industrial workers for on and off property exposure to indoor air from subsurface vapor intrusion. Engineering controls may be required regarding vapor intrusion for the existing building. The site is currently unoccupied.
-Sampling and Monitoring
-EPA will continue to monitor and sample residential wells in the vicinity of the site. A final cleanup plan documented in the Interim Record of Decision.
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+- soil and groundwater sampling
+- monitoring well installation
+- surface water sampling
+- a modified active gas and multiphase extraction pilot test
+- an electrical resistivity imaging (ERI) survey
+- a Membrane Interface Probe-Hydraulic Profiling Tool (MiHPT) investigation
+- an investigation of suspected buried drums using ground penetrating radar (GPR)
+- vertical profiling of groundwater using a sonic drill rig.
+
+**2011**  
+The pump and treat system was shut down in 2011 after it was determined that the construction of the pumping well, which included a long screen interval, was increasing contamination concentrations in the deeper portions of the bedrock aquifer.
+
+**2013**  
+EPA completed the building demolition activities at the site. EPA also completed an electrical resistivity imaging of the top of competent bedrock and has finalized the soil and groundwater investigation.
+
+**2015**  
+EPA completed the Remedial Investigation (RI) at the site in 2015
+
+**2017**  
+EPA completed a draft Feasibility Study (FS) in 2017.
+
+EPA completed the site's final cleanup plan in 2018.
+
+### What Is the Current Site Status?
+
+EPA conducted a Proposed Plan public meeting in mid-May 2018. The cleanup at the site was classified into four contaminated media zones as follows: Unsaturated zone, Saturated source Zone, Main source Area and the Dilute Plume Area.
+
+The Dilute Plume including the bedrock aquifer and the regolith aquifer down-gradient of the site will be developed in a future proposed plan. An Interim Record of Decision will be completed to document the preferred remedy for the site this year.
+
+- The preferred clean-up plan for the Unsaturated zone is soil vapor extraction.
+- The preferred clean-up plan for the Main source Area is insitu thermal treatment.
+- The remedy for the Saturated area is in-situ thermal treatment with biobarriers.
+
+The EPA completed the Remedial Design in 2020.
+
+EPA assessed vapor intrusion as part of the site’s remedial design to determine whether residents or workers might be at risk from harmful groundwater vapors in buildings. Intakes were calculated for residents and industrial workers for on and off property exposure to indoor air from subsurface vapor intrusion. Engineering controls may be required regarding vapor intrusion for the existing building. The site is currently unoccupied.
+
+### Sampling and Monitoring
+
+EPA will continue to monitor and sample residential wells in the vicinity of the site. A final cleanup plan documented in the Interim Record of Decision.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 In 1991 and 1992, NCDEQ issued violation notices and legal documents requiring the site owner to clean up the site. However, the site owner filed for bankruptcy. EPA is using federal funds for site cleanup activities.

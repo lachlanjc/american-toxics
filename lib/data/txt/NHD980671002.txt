@@ -1,2 +1,104 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Site includes a volatile organic compounds (VOCs) and metals groundwater plume that generally extends from the intersection of Route 101 and Elm Street eastward approximately 6,000 feet (ft). It is roughly bounded on the north and east by the Souhegan River and on the south by Elm Street and Tucker Brook. Operable Unit 1 (OU1), the OK Tool Source Area, is the portion of the plume where levels of groundwater contamination are the highest. Operable Unit 2 (OU2) is the extended plume. OU1 is fund-lead and managed by EPA and NHDES while the settling defendants (SDs) are responsible for the remedy in OU2. Please see Figure 1 in the [3rd F](https://semspub.epa.gov/src/document/01/100018775) [ive Year Review report](https://semspub.epa.gov/src/document/01/100018775). (151 pp, 22 MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+Major contaminants of concern (COCs) include the following: Benzene, 1,1-Dichloroethane, 1,1-Dichloroethylene, trans-1,2-Dichloroethylene, Methylene Chloride, Tetrachloroethylene (PCE), 1,1,1-Trichloroethane, Trichloroethylene (TCE), Antimony, Arsenic, Beryllium, Chromium, Lead, Nickel, Vinyl Chloride, cis-1,2-Dichloroethene, trans-1,2- Dichloroethene, 1,4-Dioxane, and Manganese.
+
+The Site and surrounding area are generally flat and consist of residential, agricultural, industrial, and commercial land use. Residences are located north of OU1 along North River Road, and along Elm Street and Old Wilton Road, and a mobile home park is located north of Elm Street within OU2. Most of the remaining area between Elm Street and the Souhegan River is used for agriculture, with industrial and commercial use along Elm Street and south of Elm Street.
+
+Four industrial plants were situated to the west of the previously operational Savage Municipal Water Supply well: Hendrix Wire and Cable Corporation, Hitchiner Manufacturing Company, Inc., OK Tool Company, and New England Steel Fabricators, Inc. From the 1940s until the 1980s, process waters and wastes from these four industrial facilities were released untreated to the ground or to the surface waters flowing through the Site.
+
+In February 1983, the State observed several VOCs (1,1,1-trichloroethane, TCE, trans-1,2-DCE, PCE, and 1,1 dichloroethane) above drinking water standards in the Savage Municipal Water Supply well. Similar VOCs were also observed in the water drawn from a well supplying the nearby Milford Mobile Home Trailer Park. The State of New Hampshire immediately ordered the Town to cease use of the Savage Municipal Water Supply well.
+
+In March1983 EPA conducted an emergency removal action which supplied bottled water to residences of the Milford Mobile Home Trailer Park and in May 1983 the Trailer Park's water distribution system was connected to the existing municipal water supply system. The Site was included on the final NPL on September 1, 1984.
+
+### What Has Been Done to Clean Up the Site?
+
+For OU1 the remedy has included the extraction and treatment of contaminated groundwater, in situ chemical treatment, soil-vapor extraction and a slurry wall. The remainder of the OU1 Area outside of the treatment and containment area (area within slurry wall) has been allowed to naturally attenuate.
+
+The slurry wall and groundwater extraction and treatment system began operating in 1999 and groundwater contamination levels have dropped significantly since then. In-situ chemical oxidation (ISCO) was implemented between 2003 and 2010 and included the injection of potassium permanganate and sodium permanganate inside the slurry wall into the deep overburden and other overburden areas with lower hydraulic conductivity. The deep overburden was targeted to reduce contaminant mass and to provide a treatment barrier between the overburden and bedrock (within the slurry wall). The overburden areas with lower hydraulic conductivity were targeted to reduce the potential for back-diffusion of contaminants from the soil matrices into groundwater.
+
+In 2010, EPA and the New Hampshire Department of Environmental Services (NHDES) started investigating the extent of contamination in the deep bedrock under the Site. This investigation included drilling bedrock boreholes, collecting water quality samples, conducting pumping tests and characterizing bedrock fractures. The investigation was completed and a remedial investigation report was published in March 2014. A feasibility study was performed to evaluate possible remediation alternatives and the results were published in a July 2014 Feasibility Study Report. A Proposed Plan detailing the preferred remedial alternative was presented to the public for comment in August 2015, and a Record of Decision (ROD) Amendment documenting the preferred remedial alternative for OU1 was issued on August 24, 2016.
+
+Also, in 2015 a Technical Impracticability (TI) Evaluation Report identified a TI Zone for OU1 where cleanup standards could not be achieved in a reasonable timeframe. The eastern boundary of the TI zone is located at the boundary between OU1 and OU2. The “groundwater cleanup area” for OU1 is the remaining area outside the TI Zone.
+
+The 2016 ROD Amendment modified the OU1 remedy by incorporating a TI Waiver within the TI Zone; including additional ISCO in overburden and bedrock to reduce source material where it is believed to be present; including ISCO in the bedrock near the TI Zone compliance boundary, as a management of migration (MOM) component to mitigate contaminant migration beyond the TI Zone compliance boundary and eliminate further contaminant migration from OU1 as a potential source for OU2 groundwater impacts; and installing a permeable reactive barrier (PRB) gate into the slurry wall to provide passive treatment via ISCO for contaminated groundwater exiting the barrier.
+
+In June 2021 an Optimization Study of OU1 was conducted by the EPA. The study challenged several aspects of the conceptual site model (CSM) developed by the case team and raised questions about the effectiveness of the 2016 AROD remedy. In addition to concerns that the PRB may not be effective, the Optimization Study postulated that drilling numerous deep bedrock boreholes in and near the source area could have mobilized dense non‑aqueous phase liquid (DNAPL) that had accumulated along the bedrock surface into the underlying deep bedrock. This hypothesis conflicted with the long‑standing CSM that DNAPL released at the Site had migrated along the sloped bedrock surface in the source area, entered the moderately to steeply dipping fractures identified in the bedrock, and moved into the deep bedrock long before any bedrock drilling had been conducted. Resolving this fundamental difference in the CSM is paramount to implementing an effective remedy for the deep bedrock aquifer. The OSRTI report recommended that open deep bedrock boreholes in the source area at the Site be sealed with Flexible Liner Underground Technology (FLUTe) liners or completed as discrete monitoring wells to prevent inter-borehole groundwater flow between fractures.
+
+Seventeen of the thirty one open boreholes were sealed with either FLUTe liners or by installing discrete monitoring wells with grout seals between the screens. The intent of this work was to prevent potential ongoing vertical flow within the open boreholes and facilitate monitoring of water quality in specific fracture zones within the bedrock to assess if concentrations decrease (suggesting that drilling of the boreholes allowed vertical migration of contaminants as postulated by OSRTI) or remained relatively constant (suggesting that contamination was present in the deep bedrock as a result of the original release as postulated by the NHDES contractor. FLUTe liners were installed in nine select open deep bedrock boreholes in 2021. One of the FLUTe liners (IP-18) was later removed to install a discrete monitoring well in the deep bedrock borehole in 2022. Eighteen additional discrete monitoring wells were installed in eight deep bedrock boreholes in 2022, and quarterly groundwater monitoring was initiated to assess contaminant trends following sealing of the wells.
+
+Quarterly groundwater sampling of the deep bedrock wells will continue until July 2024 to track changes in groundwater quality because of the sealing of the open bedrock boreholes. The monitoring events will be conducted during January 2024, April 2024, and July 2024 for consistency with the previous
+
+events. Results of the monitoring will be assessed by WESTON in April 2024 to evaluate short-term changes in bedrock groundwater quality in response to installation of the FLUTe liners and construction of the monitoring wells. After the last round of quarterly sampling (July 2024), the evaluation will be refined, a conclusion regarding the CSM about the DNAPL migration will be provided, and a recommendation for a new remedial design will be included. This information will be provided in a Progress Report expected on/before September 1st, 2024.
+
+Currently, the NHDES contractor is identifying several alternative remedial options that will be evaluated as part of a Focused Feasibility Study.
+
+For OU2 a treatment facility using air stripping for the VOCs in groundwater began operation in late November 2004. The treated water was injected back into the ground to help in cleaning the aquifer. The plant operated until it was shut down the next month due to problems that caused the injection wells to malfunction. After modifications that added metals treatment and a surface water outfall to the Souhegan River, extraction and treatment operations restarted in 2005 and continued until 2015.
+
+On September 2015, a temporary suspension of groundwater extraction and treatment activities at OU2 was initiated to assess potential rebound after influent concentrations had stabilized at low concentrations and to evaluate opportunities for optimizing the system. In March 2019 EPA completed an Optimization Study of OU2 and recommended that the remedy continue to be in suspension while groundwater is monitored and the effectiveness of the OU1 remedy was evaluated. At that time, the settling defendants submitted a data report showing asymptotic PCE concentrations at or below the EPA cleanup level at most wells and formally requesting to transition the entire OU2 remedy to Monitored Natural Attenuation (MNA).
+
+EPA has evaluated several iterations of this formal request and has determined that additional data and information is needed before the transition can be approved. In particular it has determined that further evaluation of the influence of the shallow bedrock aquifer in some overburden wells showing recalcitrant PCE concentrations, is needed. The responsible parties have submitted a workplan for a limited investigation of the bedrock influence in these wells. EPA in consultation with the USGS and NHDES is evaluating that work plan.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and Settling Defendants (SDs) actions. There are currently no unacceptable risks to human receptors or the environment. A municipal water supply provides potable water for the residential and commercial properties impacted by the contaminated plume. Sampling is conducted on a regular basis to ensure that existing residential bedrock wells are not impacted by contamination from the Site. No contamination has been detected in any of the residential bedrock wells that have been sampled in or near the site.
+
+In OU1 the treatment plan has been operating since 1999. Data shows a significant reduction in groundwater contamination levels since then. NHDES and its contractor (Weston Solutions Inc.) operate the remedy in OU1.
+
+Cleanup of the Extended Plume Area (OU2) is being conducted by the site Settling Parties (ABB Installation Products Inc., and Hitchiner Manufacturing Company, Inc.). The system at OU2 remains in temporary suspension as EPA completes the review of the MNA transition request. Groundwater monitoring and reporting continues.
+
+EPA has conducted the 3rd Five Year Review for the Site. The Review determined that the remedy is still protective of human health and the environment. The Review findings were documented in the 3rd Five Year Review Report, completed on September 13, 2021.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional Controls are required for this site.**
+
+Hitchiner Manufacturing Company Inc. purchased the Savage Municipal Well property from the Town of Milford. The company also owns 65 acres of farmland protected from development by the purchase of development rights by the New Hampshire Department of Agriculture.
+
+The 1991 ROD required institutional controls to reduce the risk to public health from consumption of groundwater. The 1991 ROD stated that institutional controls (ICs) may include deed restrictions and zoning ordinances to restrict the use of contaminated groundwater, and that ICs shall be imposed in the area where the risk to public health is outside EPA’s acceptable risk range.
+
+OU1
+
+The 2016 OU1 AROD required ICs for both the TI Zone and the Groundwater Cleanup Area. It stated that permanent ICs will be put into place to prohibit the use of the contaminated overburden and bedrock groundwater. It also stated that a well restriction zone will also be established in the area outside of the TI Zone to prohibit installation and pumping of wells that may pull the contaminated groundwater across the boundary of the TI Zone. Additionally, the AROD stated that institutional controls will also either require evaluation of vapor intrusion risks above the contaminant plume within the TI Zone, if any structures are to be constructed over the plume or allow protective vapor mitigation measures, as approved by EPA and NHDES, to be installed in any new or reoccupied structures in lieu of conducting a risk evaluation. OU1 encompasses all or part of eight lots of record in Milford (refer to Figure 2 of the 3rd Five Year Review Report). EPA and NHDES are working to implement appropriate institutional controls.
+
+On July 17, 2017, a notice of activity and use restriction (AUR) was recorded for the Town of Milford Property at 589 Elm Street, Map 13, Lot 5. The AUR restricts:
+
+Extraction of groundwater for purposes other than carrying out the remedy specified in the ROD and ESD by EPA and/or the state.
+
+Any activity, including soil excavation and groundwater extraction, interfering with the remedy established in the ROD and ESD, or subsequent remedy decision documents.
+
+Any use of the property for residential or day care purposes.
+
+The AUR also outlines obligations and conditions to be undertaken and/or maintained at the property as set forth in the AUR, including the requirement for all occupied structures to have a sub-slab depressurization system. The full AUR is available at this link: FIRST, I NEED DOC ID 100016933 TO BE INCLUDED IN THE IC SECTION OF REPORTS AND DOCUMENTS, THEN I CAN INSERT A LINK HERE.
+
+OU2
+
+A Sitewide Groundwater Management Zone (GMZ) via a Town Ordinance was proposed to the Town of Milford and it was adopted by the Town's Board of Selectmen on September 27, 2021. The GMZ prohibits all uses of groundwater within the GMZ for any purpose, without the prior written approval from the Town, EPA and the New Hampshire Department of Environmental Services. A copy of the Town adopted GMZ is available at the following link: https://semspub.epa.gov/src/document/01/100019167
+
+In order to determine the current status of ICs for this site, the site contacts should be consulted.
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found on the site profile page and the EPA regional offices may also be contacted.
+
+### Sampling and Monitoring
+
+The latest sampling reports are available here:
+
+- [FINAL 2022 ANNUAL REPORT, December 13, 2023](http://semspub.epa.gov/src/document/01/675792) (1773 pp, 200 MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [2022 GROUNDWATER QUALITY MONITORING DATA, July 21, 2023](http://semspub.epa.gov/src/document/01/100026437) (420 pp, 10 MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Green Remediation
+
+The Optimization Review performed at OU2 recommended to continue the suspension test indefinitely, while evaluating the results of the OU1 remedy changes. This recommendation has been followed and it conserves the resources used by the extraction and treatment system in OU2. This includes net reduction for: 1) electricity usage of approximately 500,000 kWh per year (assuming electricity will still be used to heat the treatment plant); 2) elimination of chemical use, which includes approximately 300 gallons per year each of sodium hydroxide and muriatic acid; and 3) fuel usage for bi-weekly site visits and transport of chemical.
+
+### Enforcement Information
+
+On June 27, 1994, EPA issued a a Consent Decree (CD) requiring settling parties (Hitchiner Manufacturing Company and Hendrix Wire and Cable Company) to perform the work in the Extended Plume, defined as the area outside operable unit 1 (OU1). Thereafter OU1 is referred to as OU1 and the Extended Plume, OU2.

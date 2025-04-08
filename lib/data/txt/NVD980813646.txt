@@ -1,37 +1,118 @@
-Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 In 1859, miners discovered large natural deposits of gold and silver, also known as the Comstock Lode, in Carson City, Virginia City, and Dayton, Nevada. Miners used mercury to process gold and silver ore at approximately 236 mills. Over time, this mining process released an estimated 14 million pounds of mercury into the environment. Changes in the way miners processed the ores over time, also caused arsenic and lead contamination in certain areas.
+
 In 1990, the Carson River Mercury Superfund Site became part of the National Priorities List. This list consists of some of the most toxic Superfund sites in the country. The Carson River Mercury Superfund Site covers five counties, about 330 square miles and more than 130 river miles in Northwestern Nevada. Historic mill sites in Carson City, Virginia City, Dayton, Washoe Valley and Pleasant Valley have mercury contamination. Waterways located next to mill sites spread mercury from the 100-year floodplain of Carson River to its ends where it dries up. EPA’s site investigation found mercury in soil, sediments (earthen materials that settle to the bottom of a water body), fish and wildlife.
 
-What Has Been Done to Clean Up the Site?
-EPA excavated and removed mercury-contaminated tailings and soil and placed protective caps over these areas. In the early 1990s, EPA removed 10,735 cubic yards of contaminated soil and disposed it off-site as an emergency response. In 1995, EPA published the Record of Decision (ROD) document for one area (Operable Unit 1). The ROD describes how EPA cleans up and manages site contamination. In the late 1990s, EPA removed over 9,000 cubic yards of contaminated soil, disposed it off-site, then backfilled the area with clean soil. In one location, EPA did not remove or backfill soil, but placed clean soil over the contaminated area as a cap. EPA restored the previous landscaping in these areas. Since the early 2000s, EPA and NDEP have been working with local developers to sample residential areas. Some investigations resulted in removing and/or capping of contaminated soil.  These activities help protect people from exposure to soil with high levels of mercury, arsenic, and lead.
-What Is the Current Site Status?
-EPA divided the site into two operable units (OUs) to better manage cleanup actions. Operable Unit 1 consists of the old mill sites and tailings. Operable Unit 2 includes the Carson River and adjacent floodplain from the New Empire area to the Carson Sink. EPA performed a Remedial Investigation and Feasibility Study for both OUs to determine cleanup actions. The Remedial Investigation looks at where contaminants are, where they move, and the risks they pose to people and the environment. The Feasibility Study evaluates technologies and approaches to reduce contaminant exposure. Operable Unit 1 (old mill sites and tailings) Due to the widespread contamination, EPA and NDEP developed a Long-Term Sampling and Response Plan (sampling and response plan). This plan provides a framework for EPA, NDEP, developers, and their consultants to test soil and help prevent mercury and other metals from further spreading. People are more likely to be exposed to contaminated soil in new residential developments or when a lot of soil is moved below the surface, such as when installing a pool or utility line. These areas have been undisturbed for long periods of time, and need to be evaluated for metals in soil before the land can be put to use. Since the early 2000s, NDEP worked on more than 70 development proposals, including detailed soil sampling events at 28 developments. They work with developers to help prevent exposure to metals in soil and prevent their spread in the environment. EPA provides oversight to NDEP. In September 2018, EPA and NDEP added detailed soil sampling and evaluation procedures to the sampling and response plan. In 2023, EPA plans to start a residential sampling program. Operable Unit 2 (Carson River & adjacent floodplain from New Empire area to Carson Sink) Mercury is widespread in the sediments and adjacent floodplain in the Carson River, the agricultural drains and canals. It is also in Lahontan Reservoir, Carson Lake, Little Washoe Lake, Big Washoe Lake, Indian Lakes, and Stillwater National Wildlife Refuge and Fallon National Wildlife Refuge. These mercury-contaminated sediments result in high levels of mercury in nearby fish and wildlife, which poses health risks if eaten. In April 2017, EPA completed a Remedial Investigation. Although arsenic and lead were released during ore processing, EPA we found during the Remedial Investigation that mercury compounds are the only contaminant of concern in Operable Unit 2. In December 2018, EPA completed a Feasibility Study for mercury contamination. In September 2021, EPA issued a Proposed Plan to address mercury contamination in OU2. Althou In the plan, EPA evaluated costs, benefits and cleanup options to address mercury contamination. Although EPA cannot get rid of all mercury from the site due to the widespread contamination and technology limits. EPA is considering cleanup options that prevents more movement of mercury where possible. From October 2021 to February 2022, EPA received public input on the plan. By early 2023, EPA anticipates signing an interim Record of Decision. The interim decision will allow EPA to take action now to protect people and the environment, while we continue to work toward a final decision to address the widespread mercury contamination in OU2. EPA continues to investigate the impacts of mercury in the river and wildlife. The answers will inform the final Record of Decision.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-There are limitations when eating fish, for children playing at home, and when digging and moving soil. When fishing or eating fish: It is not safe to eat most fish caught in the area due to the mercury contamination. Mercury contamination presents a serious health risk to those who eat the fish, causing permanent damage to the nervous system and serious disabilities for developing fetuses, babies, and children. State governments have the primary responsibility for protecting their communities from eating contaminated fish. Due to high mercury levels in fish, the Nevada State Health Division issued a health advisory. The advisory recommends no consumption of fish in the Carson River from Dayton to Lahontan Dam and all waters in the Lahontan Valley. For more information, link to: www.ndow.org/Fish/ Exit ﻿Catch and release fishing, swimming, and other recreational activities are safe. When playing at home: Children six years old and younger are at risk if they live and play daily in soil contaminated with high levels of mercury, arsenic, and lead. It is important that the soil at residences with young children is tested according to the Long Term Sampling and Response Plan. When digging or moving soil: Residents, developers, and local utilities should reach out to NDEP if they plan to disturb more than three cubic yards (a little bit more than a standard six-foot pickup truck holds) of soil. EPA is available to sample at existing residences that may be impacted by site contamination. Residential cleanups are subject to Environmental Covenants, attached to property deeds. Environmental covenants inform current and future property owners about sampling and cleanup that was done at the property.
-Sampling and Monitoring
-Most of the site's sampling data can be seen by visiting EPA's StoryMap for the site. EPA and NDEP use the sampling and response plan to screen for contaminated soil in OU1. In 1992, EPA began studying the contamination in Lahontan Reservoir and Carson River. In 1997, EPA funded research by the U.S. Geological Survey and U.S. Fish and Wildlife Service. The study looked at mercury levels in midges, fish, and in bird blood and feathers from the river’s main stem, Lahontan Reservoir, as well as nearby lakes and refuges. The researchers studied how contamination affects wildlife, including:
-how mercury takes the form of methylmercury in contaminated sediments;
-if contaminated sediments in the Lahontan Reservoir are a significant source of mercury exposure for wildlife;
-how mercury moves through the Fallon and Stillwater National Wildlife Refuges and;
-how mercury gets into the Lahontan Reservoir and other water bodies.
-In 2017, EPA studied different forms of mercury to see how they might impact people and wildlife. In 2018, EPA updated the sampling and response plan for future residential developments and construction at private residences. The revised plan guides where and how staff collect soil samples for residences near historic mill sites. Sampling is done on an as needed basis. In 2019, EPA and NDEP began a pilot study using a tool called X-ray Fluorescence. Staff collected soil from about 1,600 locations around historic mill sites in Virginia City and below Six Mile Canyon. X-ray Fluorescence helps EPA and NDEP provide real-time results for mercury, lead, and arsenic. In 2022, EPA did a pilot study with a backpack instrument to test hyperspectral imaging. This type of imaging helps to map an area’s features and could help to more efficiently identify contamination. The results are still being analyzed.
-Emergency Response and Removal
-EPA has used short-term cleanup actions to address immediate threats to human health and the environment. In 1991 and 1992, EPA removed mercury-contaminated tailings off Highway 50 near Dayton and at a park in Dayton. EPA took about 10,735 cubic yards of contaminated materials off-site for disposal or reprocessing.
-Enforcement Information
+### What Has Been Done to Clean Up the Site?
+
+EPA excavated and removed mercury-contaminated tailings and soil and placed protective caps over these areas.
+
+In the early 1990s, EPA removed 10,735 cubic yards of contaminated soil and disposed it off-site as an emergency response.
+
+In 1995, EPA published the Record of Decision (ROD) document for one area (Operable Unit 1). The ROD describes how EPA cleans up and manages site contamination.
+
+In the late 1990s, EPA removed over 9,000 cubic yards of contaminated soil, disposed it off-site, then backfilled the area with clean soil. In one location, EPA did not remove or backfill soil, but placed clean soil over the contaminated area as a cap. EPA restored the previous landscaping in these areas.
+
+Since the early 2000s, EPA and NDEP have been working with local developers to sample residential areas. Some investigations resulted in removing and/or capping of contaminated soil.
+
+These activities help protect people from exposure to soil with high levels of mercury, arsenic, and lead.
+
+### What Is the Current Site Status?
+
+EPA divided the site into two operable units (OUs) to better manage cleanup actions. Operable Unit 1 consists of the old mill sites and tailings. Operable Unit 2 includes the Carson River and adjacent floodplain from the New Empire area to the Carson Sink.
+
+EPA performed a Remedial Investigation and Feasibility Study for both OUs to determine cleanup actions. The Remedial Investigation looks at where contaminants are, where they move, and the risks they pose to people and the environment. The Feasibility Study evaluates technologies and approaches to reduce contaminant exposure.
+
+**Operable Unit 1 (old mill sites and tailings)**
+
+Due to the widespread contamination, EPA and NDEP developed a Long-Term Sampling and Response Plan (sampling and response plan). This plan provides a framework for EPA, NDEP, developers, and their consultants to test soil and help prevent mercury and other metals from further spreading.
+
+People are more likely to be exposed to contaminated soil in new residential developments or when a lot of soil is moved below the surface, such as when installing a pool or utility line. These areas have been undisturbed for long periods of time, and need to be evaluated for metals in soil before the land can be put to use.
+
+Since the early 2000s, NDEP worked on more than 70 development proposals, including detailed soil sampling events at 28 developments. They work with developers to help prevent exposure to metals in soil and prevent their spread in the environment. EPA provides oversight to NDEP.
+
+In September 2018, EPA and NDEP added detailed soil sampling and evaluation procedures to the sampling and response plan.
+
+In 2023, EPA plans to start a residential sampling program.
+
+**Operable Unit 2 (Carson River & adjacent floodplain from New Empire area to Carson Sink)**
+
+Mercury is widespread in the sediments and adjacent floodplain in the Carson River, the agricultural drains and canals. It is also in Lahontan Reservoir, Carson Lake, Little Washoe Lake, Big Washoe Lake, Indian Lakes, and Stillwater National Wildlife Refuge and Fallon National Wildlife Refuge. These mercury-contaminated sediments result in high levels of mercury in nearby fish and wildlife, which poses health risks if eaten.
+
+In April 2017, EPA completed a Remedial Investigation. Although arsenic and lead were released during ore processing, EPA we found during the Remedial Investigation that mercury compounds are the only contaminant of concern in Operable Unit 2.
+
+In December 2018, EPA completed a Feasibility Study for mercury contamination.
+
+In September 2021, EPA issued a Proposed Plan to address mercury contamination in OU2. Althou In the plan, EPA evaluated costs, benefits and cleanup options to address mercury contamination. Although EPA cannot get rid of all mercury from the site due to the widespread contamination and technology limits. EPA is considering cleanup options that prevents more movement of mercury where possible. From October 2021 to February 2022, EPA received public input on the plan.
+
+By early 2023, EPA anticipates signing an interim Record of Decision.
+
+The interim decision will allow EPA to take action now to protect people and the environment, while we continue to work toward a final decision to address the widespread mercury contamination in OU2.
+
+EPA continues to investigate the impacts of mercury in the river and wildlife. The answers will inform the final Record of Decision.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+There are limitations when eating fish, for children playing at home, and when digging and moving soil.
+
+**When fishing or eating fish:**
+
+It is not safe to eat most fish caught in the area due to the mercury contamination. Mercury contamination presents a serious health risk to those who eat the fish, causing permanent damage to the nervous system and serious disabilities for developing fetuses, babies, and children.
+
+State governments have the primary responsibility for protecting their communities from eating contaminated fish.
+
+Due to high mercury levels in fish, the Nevada State Health Division issued a health advisory.
+
+The advisory recommends no consumption of fish in the Carson River from Dayton to Lahontan Dam and all waters in the Lahontan Valley. For more information, link to: www.ndow.org/Fish/
+
+Catch and release fishing, swimming, and other recreational activities are safe.
+
+**When playing at home:**
+
+Children six years old and younger are at risk if they live and play daily in soil contaminated with high levels of mercury, arsenic, and lead. It is important that the soil at residences with young children is tested according to the Long Term Sampling and Response Plan.
+
+**When digging or moving soil:**
+
+Residents, developers, and local utilities should reach out to NDEP if they plan to disturb more than three cubic yards (a little bit more than a standard six-foot pickup truck holds) of soil.
+
+EPA is available to sample at existing residences that may be impacted by site contamination.
+
+Residential cleanups are subject to Environmental Covenants, attached to property deeds. Environmental covenants inform current and future property owners about sampling and cleanup that was done at the property.
+
+### Sampling and Monitoring
+
+Most of the site's sampling data can be seen by visiting EPA's [StoryMap](https://storymaps.arcgis.com/collections/4226e8cbc86f421eab0d359329b68f8f) for the site.
+
+EPA and NDEP use the sampling and response plan to screen for contaminated soil in OU1.
+
+In 1992, EPA began studying the contamination in Lahontan Reservoir and Carson River.
+
+In 1997, EPA funded research by the U.S. Geological Survey and U.S. Fish and Wildlife Service. The study looked at mercury levels in midges, fish, and in bird blood and feathers from the river’s main stem, Lahontan Reservoir, as well as nearby lakes and refuges. The researchers studied how contamination affects wildlife, including:
+
+- how mercury takes the form of methylmercury in contaminated sediments;
+- if contaminated sediments in the Lahontan Reservoir are a significant source of mercury exposure for wildlife;
+- how mercury moves through the Fallon and Stillwater National Wildlife Refuges and;
+- how mercury gets into the Lahontan Reservoir and other water bodies.
+
+In 2017, EPA studied different forms of mercury to see how they might impact people and wildlife.
+
+In 2018, EPA updated the sampling and response plan for future residential developments and construction at private residences. The revised plan guides where and how staff collect soil samples for residences near historic mill sites. Sampling is done on an as needed basis.
+
+In 2019, EPA and NDEP began a pilot study using a tool called X-ray Fluorescence. Staff collected soil from about 1,600 locations around historic mill sites in Virginia City and below Six Mile Canyon. X-ray Fluorescence helps EPA and NDEP provide real-time results for mercury, lead, and arsenic.
+
+In 2022, EPA did a pilot study with a backpack instrument to test hyperspectral imaging. This type of imaging helps to map an area’s features and could help to more efficiently identify contamination. The results are still being analyzed.
+
+### Emergency Response and Removal
+
+EPA has used short-term cleanup actions to address immediate threats to human health and the environment.
+
+In 1991 and 1992, EPA removed mercury-contaminated tailings off Highway 50 near Dayton and at a park in Dayton. EPA took about 10,735 cubic yards of contaminated materials off-site for disposal or reprocessing.
+
+### Enforcement Information
+
 EPA has authority under Superfund law (the Comprehensive Environmental Response, Compensation and Liability Act or "CERCLA") Sections 104 and 106 to ensure investigation, cleanup, and payment for work at sites. EPA can use the Superfund law to enforce the sampling and response plan at residential properties within the site's boundaries.

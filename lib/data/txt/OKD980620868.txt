@@ -1,2 +1,95 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 72-acre Mosley Road Sanitary Landfill (MRSL), in Oklahoma County, Oklahoma, primarily faces groundwater contamination. Major contaminants of concern include vinyl chloride, benzene, arsenic, and barium.. The contamination stemmed from varied landfill operations over the years, including a period of hazardous waste acceptance between February and August 1976..
+
+MRSL operated as a sanitary landfill from 1971 to 1987, with ownership changing hands multiple times. During its six-month period of hazardous waste acceptance, the site received approximately 1.7 million gallons of predominantly liquid hazardous waste, including industrial sludge, caustics, plating sludge, acid solutions, oil emulsions, alkaline solutions, solvents, paint sludge, toxaphene, and trichloroethene. This waste was placed in three below-grade unlined pits, now buried beneath municipal waste.
+
+The site's geology consists of North Canadian River alluvium overlying the Garber-Wellington sandstone aquifer. Both aquifers have been impacted by contamination, with the alluvial aquifer showing higher levels of concern. The Garber-Wellington aquifer, while less affected, is a potential drinking water source for nearby cities, though most local drinking water comes from surface water sources.
+
+Following extensive remediation efforts, including the installation of a compacted clay cover in 1988 and ongoing monitoring and maintenance, the EPA removed the site from the National Priorities List in 2013. However, hazardous substances remain above levels allowing for unlimited use and unrestricted exposure, necessitating continued oversight.
+
+Current site management includes regular monitoring of groundwater, landfill gas, and cover integrity. Recent concerns include consistent arsenic exceedances in some monitoring wells, though these may be partially attributed to naturally occurring sources in Oklahoma soils. The site also faces potential emerging contaminants, with recommendations to monitor for PFOA and PFOS in the future.
+
+The MRSL case highlights the long-term challenges of managing contaminated sites and the ongoing commitment required to ensure environmental and public health protection.
+
+### What Has Been Done to Clean Up the Site?
+
+The cleanup of the Mosley Road Sanitary Landfill Superfund Site has involved several significant milestones, addressing both public health and environmental concerns. Here's a summary of the key actions taken:  
+  
+**Implementation of Remedial Design and Monitoring Plans:** In 1994, Waste Management of Oklahoma (WMO) submitted the Landfill Gas Assessment Report. This was followed by the Remedial Design Work Plan, Groundwater Monitoring Work Plan, and Health and Safety Plan. These documents laid the groundwork for the site's remediation strategy.  
+  
+**Construction of Landfill Gas Management System:** Phase I construction activities for the Landfill Gas Management System began in August 1995 and were completed by February 1996. This system was crucial for managing and reducing the concentration of volatile organic compounds entering the groundwater and for preventing the inhalation and explosion of landfill gas.  
+  
+**Completion of Remedial Action Construction:** The Preliminary Close-Out Report, marking the completion of construction activities in accordance with the remedial design plan, was signed and issued in September 2004. This step was crucial in ensuring that the site's remedial actions were in line with the established specifications.  
+  
+**Ongoing Operations and Maintenance (O&M) Plan:** Implemented in April 2010 and approved by the Department of Environmental Quality (DEQ), the O&M Plan covers various aspects such as maintenance of the final cover, drainage and erosion control, site security, and landfill gas monitoring system. This continuous O&M is essential for the long-term effectiveness of the remedy.  
+  
+**Groundwater Monitoring Plan Modifications:** A modified Groundwater Monitoring Plan (GWMP) was developed and approved by DEQ in April 2010, with further revisions approved in June 2014. This plan includes semi-annual detection and assessment monitoring for aquifers and ensures the long-term protectiveness of the groundwater.  
+  
+**Protectiveness of the Remedy:** The implemented remedy, including landfill cap improvements and installation of monitoring wells, has been protective of human health and the environment. The landfill cap prevents direct contact with landfill contents, and the gas management system reduces the risk of VOCs contaminating groundwater.  
+  
+**Community Engagement and Compliance:** Public notices and community involvement have been a part of the process, ensuring transparency and addressing public concerns. For instance, a public notice in 2018 informed citizens about the ongoing review and invited comments.  
+  
+**Regular Data Review and Monitoring:** Groundwater monitoring reports have been submitted semi-annually, showing that contaminant levels in most cases have remained or declined to levels below Maximum Contaminant Levels (MCLs), except for arsenic in certain wells.  
+  
+These efforts collectively address the public health and environmental concerns associated with the landfill site, ensuring long-term protection and compliance with environmental standards.
+
+### What Is the Current Site Status?
+
+The current status of the Mosley Road Sanitary Landfill Superfund Site, as detailed in the latest five-year review, is as follows:  
+  
+**Site Status:** The remedial actions prescribed in decision documents for the site continue to be implemented as planned. The major components of the remedy include repair and improvement of the existing cap, addition of a vegetative soil layer, groundwater restoration through natural attenuation, ongoing groundwater monitoring, leachate migration monitoring, institutional controls, and a landfill gas monitoring system. Active groundwater extraction will be implemented if necessary.
+
+**Completion of Remedial Action Activities:** All remedial action activities were completed in September 2004
+
+**Innovative Technology Implementation:** The site features a renewable biogas and natural gas-to-liquid fuel technology demonstration project, converting methane gas from the site into clean-burning diesel fuel and wax.  
+  
+**Current Activities:** Waste Management of Oklahoma (WMO) maintains the landfill cover, groundwater monitoring wells, and landfill gas monitoring wells. Semi-annual groundwater monitoring and quarterly landfill gas monitoring are conducted. The remedy is functioning as intended, and no issues were identified during the review. Biggs and Mathews Environmental, on behalf of WMO, performs and provides reports on semi-annual groundwater monitoring events.  
+  
+**Remedy Performance:** The remedy is generally functioning as intended. Groundwater concentrations have remained or declined to levels below MCLs in most cases, except for arsenic. Arsenic exceedances are being monitored and may be partially attributed to naturally occurring sources in Oklahoma soils.  
+  
+**Landfill Gas Management:** Corrective actions are being implemented to address methane concentration exceedances in gas monitoring well GP-9R.  
+  
+**Environmental Justice:** An EJ Screen report identified several environmental indicators above the 80th percentile at national and state levels near the site, highlighting the need for continued community engagement.  
+  
+**Future Plans:**The review recommends monitoring for PFOA and PFOS before the next five-year review period begins in August 2028 to determine if these substances are present at the Site and if additional actions are needed.  
+  
+**Environmental Indicators:** Human exposure is under control, and groundwater migration is also under control. The site is ready for anticipated reuse.  
+  
+**Long-Term Protectiveness:** The Sixth Five-Year Review concluded that the remedy at the Mosley Road Sanitary Landfill Superfund Site is protective of human health and the environment in the long term. However, monitoring for PFOA and PFOS is recommended to ensure continued protectiveness.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls have been established at the Mosley Road Sanitary Landfill superfund site to ensure long-term protection of human health and the environment. These controls are in the form of deed restrictions that are designed to prevent exposure to contaminants above levels that are safe for unrestricted use and unlimited exposure (UU/UE) in the soil and groundwater. The controls restrict future land use and prohibit the installation of wells and the use of groundwater at the site. These institutional controls are crucial for maintaining the sites safety and are effectively functioning to prevent exposure to contaminants.
+
+### Sampling and Monitoring
+
+The Mosley Road Sanitary Landfill has undergone extensive sampling and monitoring activities as part of its ongoing environmental management and remediation efforts. These activities are essential to ensure the site remains compliant with environmental regulations and protective of human health and the environment.  
+  
+**Monitoring Data and Trends:** Regular monitoring of the landfill site has been a crucial part of the project. The data collected from these monitoring activities, particularly concerning groundwater, have shown a decreasing trend in contaminant levels. For example, only one well (MW-225A) has shown arsenic levels of concern, and this will be addressed in a detailed groundwater report.  
+  
+**On-site Operations and Maintenance (O&M) Presence:** The site maintains a continuous on-site O&M presence, which includes regular inspections and activities by various staff members. The District Manager visits once or twice a week, the Operations Manager and Gas Well Technician are present every day, and the Environmental Manager visits monthly. This continuous presence ensures prompt response to any issues and proper management of the site.  
+  
+**Compliance and Community Impact:** Interviews with site managers and local environmental authorities have confirmed that the site operations have not adversely impacted the surrounding community. There have been no complaints from neighbors, and the site has been beneficial to the local community, such as supporting a neighboring elementary school.  
+  
+**Regulatory Compliance and Management:** The site is managed by Waste Management in cooperation with the Oklahoma Department of Environmental Quality (ODEQ). It has been in compliance with solid waste rules and the facility's permit. Regular communications, inspections, and reports are part of the routine to ensure ongoing compliance.  
+  
+**Five-Year Review:** ODEQ conducts a Five-Year Review of the landfill. The purpose of this review is to assess whether the Remedial Action (RA) remedy is functioning as intended, if maintenance is required, and if the remedy continues to protect human health and the environment.  
+  
+**Remedy Effectiveness:** The implemented remedy, including the landfill gas management system and the repair and improvement of the existing landfill cover, has been successful in limiting the migration of leachate out of the landfill and preventing explosion or inhalation hazards.  
+  
+Overall, the Mosley Road Sanitary Landfill is an example of how Superfund sites can be effectively managed and remediated to protect both the environment and the community
+
+### Green Remediation
+
+The Mosley Road Sanitary Landfill Superfund Site has been recognized for its significant contributions to green remediation, which reflects the practice of considering and minimizing the environmental impacts of cleanup activities. One of the most notable achievements at this site is the implementation of a renewable biogas and natural gas-to-liquid fuel technology. This innovative project, undertaken by Waste Management of Oklahoma (WMO) in collaboration with three joint venture companies, involves converting methane gas produced at the landfill into clean-burning diesel fuel and wax.  
+  
+This initiative not only represents a significant advancement in renewable energy technology but also contributes to the sustainable reuse of the Superfund site. The construction of the first full-scale commercial facility for this technology on the Mosley Road site underscores its commitment to environmental stewardship and innovation in green remediation.  
+  
+In recognition of these efforts, the EPA Region 6 awarded the first "Greenovations Award" to Waste Management of Oklahoma in 2014 for their work at the Mosley Road Sanitary Landfill Superfund Site. This award highlights the successful efforts in sustainability, reuse, green remediation, and alternative and renewable energy utilization at the site. [More info here](https://www.epa.gov/superfund-redevelopment/epa-region-6-greenovations-and-excellence-site-reuse-award)  
+  
+These initiatives at the Mosley Road Sanitary Landfill Superfund Site demonstrate a commitment to environmental responsibility and the pursuit of innovative solutions in the field of green remediation, setting a precedent for similar projects in the future.

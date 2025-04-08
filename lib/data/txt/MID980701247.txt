@@ -1,2 +1,48 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The [Wash King Laundry (WKL) site (PDF)](http://semspub.epa.gov/src/document/05/958266) (1 pp,14.01MB, [About PDF](https://www.epa.gov/home/pdf-files) ) is located south of Baldwin, Michigan. WKL began dry cleaning operations in 1962 and used the solvent [perchloroethylene (PCE) (](https://www.epa.gov/sites/production/files/2016-09/documents/tetrachloroethylene.pdf) 5 pp, 176.28 K,[About PDF](https://www.epa.gov/home/pdf-files) ). The dry-cleaning operations discharged solvents and laundry waste into a nearby seepage lagoon. The business also used an underground storage tank to store solvent which leaked, contaminating with hazardous chemicals the sediments in the lagoon as well as soil and [groundwater](https://www.epa.gov/superfund/superfund-groundwater-introduction). The contaminated groundwater plume extends from onsite source areas north toward the Pere Marquette River. However, the contaminated groundwater plume is being contained by an active pump and treat remediation system. [Operation and maintenance](https://www.epa.gov/superfund/superfund-operation-and-maintenance-and-long-term-response-actions) of the system is ongoing.
+
+The contamination source areas are referred to as Operable Unit 2 (OU2) and include contaminated soils beneath three areas: the former Wash King Laundry building area, the former Piping Run, and the former wastewater seepage lagoon area.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is currently being addressed through federal and state actions, but it did involve a [potentially responsible party (PRP)](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp) in the past. [Several site cleanup milestones have already been achieved.](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0502992#Milestone)
+
+The site’s long-term remedy – announced by the Agency in 1993 – included groundwater extraction and treatment (pump and treat), soil vapor extraction, drainage and removal of the building sumps and the building. Construction of the remedy took place between 1999 and 2001. [Operation and maintenance activities](https://www.epa.gov/superfund/superfund-operation-and-maintenance-and-long-term-response-actions) are ongoing.
+
+- [Superfund Groundwater Introduction](https://www.epa.gov/superfund/superfund-groundwater-introduction)
+- [Pump and Treat (PDF)](https://semspub.epa.gov/src/document/HQ/401617) (2 pp, 779 KB, About PDF) (EPA-542-F-21-021)
+- [Soil Vapor Extraction and Air Sparging (PDF)](https://semspub.epa.gov/src/document/HQ/401619) (2 pp,.99 MB) (EPA-542-F-21-022)
+- [Site operations and maintenance activity photos (PDF)](http://semspub.epa.gov/src/document/05/958995) (12 pp, 7.19MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+EPA has conducted four [five-year reviews](https://www.epa.gov/superfund/superfund-five-year-reviews) of the site's remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The 2021 review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term because there is no exposure to contaminated groundwater or soil. However, for the remedy to be protective in the long-term, the report listed a number of recommendations to ensure protectiveness.
+
+[Fourth Five Year Review Report 2021 (PDF)](http://semspub.epa.gov/src/document/05/969711) (91 pp, 3.71MB, [About PDF](https://www.epa.gov/home/pdf-files) ) (91 pp, 3.71 MB, About PDF)
+
+After the treatment technologies were implemented and groundwater contaminant concentrations did not significantly decrease, it became clear that a source of contamination remained. Additional investigation was performed, indicating that an exceptionally fine layer of sandy silt and clayey sand hardened from compaction (called a glacial till unit) remained above and below the water table in areas of the site. This till material is heavily contaminated with [PCE](https://www.epa.gov/sites/production/files/2016-09/documents/tetrachloroethylene.pdf) and is the continuing source of groundwater contamination. The till unit is designated as Operable Unit 2 or OU2 of the site and was the subject of the Michigan Department of Environment, Great Lakes, and Energy’s (EGLE) 2019 proposed cleanup plan.
+
+In February 2021, EPA signed a Record of Decision (ROD) for Operable Unit 2 (OU2) of the Wash King Laundry Superfund site. The ROD announces the In-Situ Thermal Remediation (ISTR) selected for OU2, which includes contaminated soils beneath the former Wash King Laundry building area, the former Piping Run, and the former wastewater seepage lagoon area. Contaminated soils remain in these areas from the former dry-cleaning operations and act as a continuing source of groundwater contamination.
+
+[Record of Decision for OU-2 Source Area Cleanup (PDF)](https://semspub.epa.gov/src/document/05/964281) (87 pp, 14.9MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+[A Citizen's Guide to in Situ Thermal Treatment (PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_in_situ_thermal_treatment.pdf) (EPA 542-F-12-013) (2 pp, 579 K, [About PDF](https://www.epa.gov/home/pdf-files) ) (2 pp, 579 KB)
+
+This cleanup is expected to have the highest probability of success, would achieve the greatest contaminant mass reduction in the shortest timeframe, and will reduce or eliminate risks to public health from exposure to contaminated groundwater.
+
+### What Is the Current Site Status?
+
+To implement the OU-2 in-situ thermal remediation, EPA and Michigan EGLE are taking steps to develop the remedial design, which is the development of engineering drawings and specifications for a site cleanup. Pre-design soil sampling is planned at each source area of the site in the summer or fall of 2022. The data collected from the pre-design soil investigation will be used to develop the remedial design.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Planned and/or implemented institutional controls (ICs) are summarized in the ICs section of the [Third Five-Year Review Report – 2016 (PDF)](http://semspub.epa.gov/src/document/05/508874) (83pp, 56.24MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Sampling and Monitoring
+
+The [1996 Explanation of Significant Differences (PDF)](http://semspub.epa.gov/src/document/05/373128) (13 pp, 765 K, [About PDF](https://www.epa.gov/home/pdf-files) ) and remedial action completed in 2001 was for Operable Unit 1 of the site. It included groundwater extraction and treatment, soil vapor extraction, drainage and removal of the building sump(s) and the building. Since then, performance monitoring has been conducted generally twice a year, and resultant data has been summarized in the five-year reviews and other site related documents.
+
+T he [Third Five-Year Review Report – 2016 (PDF)](http://semspub.epa.gov/src/document/05/508874) (83 pp, 56.24, [About PDF](https://www.epa.gov/home/pdf-files) ) describes operation and maintenance (O&M), sampling and monitoring, and reporting activities at the site.

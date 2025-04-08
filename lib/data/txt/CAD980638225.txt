@@ -1,21 +1,15 @@
-COPPER BLUFF MINEHOOPA, CA
-  Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Copper Bluff Mine is an inactive copper and zinc mine on the Hoopa Valley Indian Reservation in Northeast Humboldt County in northern California. The mine extracted ore between 1957 and 1962 with exploration and development occurring as far back as 1928. Extracted ore from the mine was processed at the Celtor Mill site, located approximately one mile south. Acid mine drainage and associated metals discharge from the mine's portal entrance, located about 300 feet above the Trinity River. Acid mine drainage occurs when groundwater contacts minerals inside the mine and reacts to create sulfuric acid, which dissolves metals from the surrounding mineralized rock. This drainage can be toxic to people and aquatic life. The drainage contains elevated levels of cadmium, copper iron and zinc and varies from 5 to 500 gallons per minute depending on the season.  Over 2,000 feet of underground mine workings are located east of the draining portal.  
-What Has Been Done to Clean Up the Site?
-Presently, the EPA is investigating the extent of this contamination at the mine and will take information gathered to evaluate possible cleanup measures.  
+### Background
 
-What Is the Current Site Status?
-The site is in the initial stage of investigation.  The information gathered will lead to an understanding of the best way to address the contamination.
+The Copper Bluff Mine is an inactive copper and zinc mine on the Hoopa Valley Indian Reservation in Northeast Humboldt County in northern California. The mine extracted ore between 1957 and 1962 with exploration and development occurring as far back as 1928. Extracted ore from the mine was processed at the Celtor Mill site, located approximately one mile south. Acid mine drainage and associated metals discharge from the mine's portal entrance, located about 300 feet above the Trinity River. Acid mine drainage occurs when groundwater contacts minerals inside the mine and reacts to create sulfuric acid, which dissolves metals from the surrounding mineralized rock. This drainage can be toxic to people and aquatic life. The drainage contains elevated levels of cadmium, copper iron and zinc and varies from 5 to 500 gallons per minute depending on the season. Over 2,000 feet of underground mine workings are located east of the draining portal.
 
-Sampling and Monitoring
-EPA is currently monitoring the acid mine discharge rate seasonality to understand possible sources.
+### What Has Been Done to Clean Up the Site?
+
+Presently, the EPA is investigating the extent of this contamination at the mine and will take information gathered to evaluate possible cleanup measures.
+
+### What Is the Current Site Status?
+
+The site is in the initial stage of investigation. The information gathered will lead to an understanding of the best way to address the contamination.
+
+### Sampling and Monitoring
+
+EPA is currently monitoring the acid mine discharge rate seasonality to understand possible sources.

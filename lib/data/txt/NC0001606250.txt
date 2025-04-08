@@ -1,2 +1,79 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 22-acre Cristex Drum [Superfund](http://www.epa.gov/superfund) site is in the southwestern portion of Oxford, North Carolina about 0.25 miles west of the Route 15-Industry Drive intersection. Site terrain is flat to gently sloping to the east-northeast with elevations of 480 to 450 feet (ft) above mean sea level. The property is in a predominantly industrial area and is bounded on the west and south by West Industry Drive, on the north by the Norfolk Southern Railroad, and on the east by several private parcels.
+
+The site is presently owned by Jomar Ventures LLC. The site is a former textile plant that operated from 1968 until 1986. The Site was purchased by Steinfield Mills in 1965 which constructed the 150,000 ft building and 0.5-acre lagoon on the property. Steinfield Mills changed its name to IMI Knits, Inc. in 1971 and to Cristex Corporation in 1981. From 1966 to 1986, Cristex operated as a warp knit fabric mill that knitted, dyed, and finished nylon acetate Tricot.
+
+The operations area consists of the building, several gravel driveways and parking lots, and concrete and asphalt pads, which are surrounded by an eight-foot high fence that prevents unauthorized access. A former above-ground storage tank (AST) area, oil-water separator area, and drum storage pad area are located adjacent to the building; the AST and oil-water separator have been removed. The lagoon is located northeast of the building and is separated from the Cristex building by an overgrown area of dense brush.
+
+When the facility was in operation, boilers were fueled by natural gas and fuel oil; chemicals were stored mostly on the east side of the building. Dyes, dyeing assistants and cellulosic and synthetic yarns were used in the manufacturing process. The dyeing process used metals such as zinc, copper and chromium. Chlorinated solvents were used to clean equipment, dry clean fabric, and as part of the dyeing process. During operations, the lagoon received wastewater from a buried pipeline and runoff from a surface ditch. From the lagoon, the wastewater entered the city sewer system.
+
+In 1998, the earthen impoundment was partly breached, allowing the lagoon to discharge flow to a small wetland area and to the intermittent creek. Between 1991 and 2015, the Cristex building was used by several businesses; however, none of these uses led to the current contamination found at the Site. The last business ceased operations in 2015 and the building has been vacant since that time.
+
+EPA proposed the site for listing on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2013. EPA began Remedial Investigations in 2014, to determine the nature and extent of the contamination. Soil, groundwater, surface water and sediment samples were collected as part of the investigation. Contaminants of concern (COCs) were found in soil and groundwater, and these could potentially affect indoor air; no COCs were identified in surface water or sediment.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s Potentially Responsible Party (PRP) leads site investigation and cleanup activities, with oversight provided by EPA and the [North Carolina Department of Environmental Quality.](https://deq.nc.gov/)
+
+**1997 – 1998**  
+EPA conducted removal actions, or short-term cleanups, to address immediate threats to human health and the environment. EPA removed 26 buried drums and 137 drum carcasses from the surface in an area outside the fence on site property. In 1998, above-ground storage tanks, soil underneath the tanks and an oil water separator were removed.
+
+**2007 – 2010**  
+The Remedial Investigation (RI) report \[SUF1\] summarizes data from the RI investigation as well as data collected previously at the site, including surface and subsurface soil and groundwater data collected in 2007 (EPA) and groundwater and subsurface soil data collected in 2010 (NCDENR).
+
+**2012**  
+In March 2012, the EPA documented the decision to proceed with a Fund-lead Remedial Investigation/Feasibility Study (RI/FS) at the Cristex Site. This decision was made consistent with EPA’s guidance, promoting Enforcement First for RI/FS at Superfund sites.
+
+**2013**  
+EPA reviewed the PRP’s evaluation of vapor intrusion at the nearby Oak Ridge apartments. The results indicated that there is not a complete groundwater to indoor air vapor intrusion pathway at the Oak Ridge Apartments that could create a potential risk/hazard above the EPA’s target levels.
+
+As part of the Remedial Investigation, a baseline human health risk assessment (HHRA) and ecological risk assessment (ERA) were prepared for the site. These assessments evaluated risks to human and ecological populations that may be exposed to chemicals present in surface soil, subsurface soil, groundwater, surface water, and sediment at the site under current and potential future conditions. These risk assessments provide the basis for determining if remedial action is warranted and if so, to identify the contaminants and exposure pathways that need to be addressed by the preferred remedial alternative.
+
+**2016**  
+Based on the conclusions of the 2016 Remedial Investigation report, the EPA determined that cleanup actions were required.
+
+**2017**  
+The Feasibility Study Report was completed January 2017, which documented the development, and analysis of remediation alternatives for the site. As part of the FS, EPA's contractor completed screening and evaluation of remedial alternatives and recommended the remedy solution for the chemical of concerns (COCs) in the media at the site.
+
+A [Record of Decision was issued on September 29, 2017](https://semspub.epa.gov/src/document/04/11070129) for site-wide remedial action.
+
+### What Is the Current Site Status?
+
+Based on the conclusions of the 2016 Remedial Investigation report, soil and groundwater contamination at the Site were classified into three contaminated media zones.
+
+- The unsaturated zone (UZ) encompasses significantly contaminated surface and subsurface soil from 0 to about 20 feet below ground with significant concentrations of chlorinated volatile organic compounds.
+- The saturated source zone (SSZ) encompasses contaminated soil beneath the former drum storage pad and groundwater extending down-gradient toward the lagoon and vertically from the water table at approximately 20 feet below ground to bedrock at a depth ranging from 60 to 90 feet.
+- The dissolved plume (DP) encompasses a wider band of dissolved contamination in the fractured bedrock aquifer and in material adjacent to the SSZ.
+
+**Preferred Cleanup Plans**  
+The preferred cleanup plan for the UZ is soil excavation. Approximately 11,500 cubic yards of soil will be excavated to a depth of approximately 20 feet and removed from the Site to a landfill. The excavation will be backfilled with clean fill.
+
+The preferred cleanup plan for the SSZ is electrokinetic-in situ chemical oxidation (EK-ISCO) with biobarriers. In the most highly contaminated parts of the SSZ, this remedy will inject chemicals from wells into the subsurface to permanently destroy chlorinated volatile organic compounds by chemical oxidation; a direct current will be applied to ensure an even distribution of the oxidants to improve effectiveness. In less contaminated parts of the SSZ, two biobarriers will be installed across the mid-point and toe of the SSZ to limit migration of contaminants by permanently destroying contaminants flowing through the barriers by chemical reduction. Each passive barrier will consist of two rows of injection wells. The injection wells will be injected with emulsified oil substrate potentially supplemented with a bacteria consortium and pH adjustment to accelerate biodegradation via direct anaerobic reductive dechlorination of CVOCs\[SUF1\] in groundwater.
+
+The preferred cleanup plan for the DP is enhanced in situ bioremediation (EISB) biobarriers. Similar to the remedy for the outlying parts of the SSZ, this remedy will use chemical reduction to permanently destroy contaminants passing through the barriers. The barriers will be created by injecting emulsified oil from wells into the bedrock.
+
+Institutional controls (i.e. limits to land and groundwater use) will be placed on the property to reduce the likelihood that people will be exposed to contaminants in the future.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[Institutional controls](https://www.epa.gov/superfund/superfund-institutional-controls) (i.e. limits to land and groundwater use) will be placed on the property to reduce the likelihood that people will be exposed to contaminants in the future.
+
+### Sampling and Monitoring
+
+The RI report summarizes data from the RI investigation as well as data collected previously at the Site, including surface and subsurface soil and groundwater data collected in 2007 (EPA) and groundwater and subsurface soil data collected in 2010 (NCDENR).
+
+The fieldwork documented in the 2016 RI Report was completed between April 2015 and April 2016. Below is a summary of RI sampling activities and findings:
+
+- Collection and analyses of 6 surface water samples, 5 sediment samples, 5 surface soil samples, 57 subsurface soil samples and 49 groundwater samples;
+- Screening of soil locations using a Membrane Interface Probe (MIP)-Hydraulic Profiling Tool (MiHPT); and Installating 8 monitoring wells (MWs) to supplement the existing Site MW network.
+
+***Surface Soil:*** Analytical results for surface soil samples collected were 38 mg/kg of Tetrachloroethene. However, previous investigations revealed maximum Tetrachloroethene (PCE) in the subsurface soil at 180mg/kg around the drum storage area.
+
+***Groundwater:*** Analytical results for groundwater samples show contamination (exceeding the MCL) over a broad area. The maximum concentration is in the groundwater is 13,000 ug/L Tetrachloroethene in MW15S. In addition, benzene, cis-1,2-Dichloroethene, Trichloroethene and Vinyl Chloride are present above EPA MCLs and/or state groundwater standards.
+
+***Indoor Air:*** Consist of Benzene (12.6ug/m3), Tetrachlorothene (5940ug/m3), Trichloroethene (114ug/m3), and Vinyl chloride (68.9ug/m3).

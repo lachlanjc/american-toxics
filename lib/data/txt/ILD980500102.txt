@@ -1,2 +1,97 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 70-acre Yeoman Creek Landfill (YCL) site is located in Waukegan, Illinois. A landfill operated onsite from 1958 to 1969 and reportedly accepted both municipal and industrial wastes. It is largely within wetlands and within the flood plain of Yeoman Creek. The landfill has no bottom liner and the underlying soils are permeable. Leachate was observed discharging to Yeoman Creek as early as 1969. Polluted liquid from the landfill contains chemicals, elevated concentrations of metals, and [ammonia](https://www.epa.gov/caddis-vol2/ammonia). [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas) has been detected migrating offsite. The site’s long-term remedy is in place, and landfill gas migration and groundwater monitoring are ongoing. The YCL site was placed on the [National Priorities List (NPL)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-2) for site cleanup on March 31, 1989.
+
+[The site](http://semspub.epa.gov/src/document/05/955857) consists of:
+
+- Yeoman Creek Landfill (both East and West portions) located north of a Commonwealth Edison (ComEd) right-of-way
+- Edwards Field Landfill (EFL)
+- North Rubloff Landfill (RFL)
+- South Rubloff Landfill
+
+### What Has Been Done to Clean Up the Site?
+
+U.S. EPA is the lead agency in partnership with Illinois EPA overseeing the potentially responsible parties’ (PRPs’) cleanup of the site. The PRPs for this site are known as the Yeoman Creek Remediation Group (YCRG). [Several site cleanup milestones have already been achieved.](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0500574#Milestone)
+
+Long-term response actions have been implemented at the site as required by the [1996 Record of Decision (ROD) (PDF)](http://semspub.epa.gov/src/document/05/89141) (132 pp, 7.03MB, [About PDF](https://www.epa.gov/home/pdf-files) ). The cleanup consisted of: (1) removal of [contaminated sediment](https://www.epa.gov/superfund/superfund-contaminated-sediments) from Yeoman Creek and nearby wetlands; (2) consolidation of wastes under a flexible, dual-barrier [cover](https://clu-in.org/download/Citizens/a_citizens_guide_to_capping.pdf); (3) continuation of measures to address [landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas); (4) [long-term monitoring](https://www.epa.gov/superfund/superfund-operation-and-maintenance-and-long-term-response-actions); and (5) [institutional controls (ICs)](https://www.epa.gov/superfund/superfund-institutional-controls) to minimize the potential for exposure to wastes and protect the integrity of the cleanup.
+
+Control of LFG migration remained a concern after major remedial cleanup construction activities were completed in 2005. YCRG has completed several remedial actions to prevent unacceptable exposures and migration of gases away from the landfills. In some cases, modifications to the design of the gas control systems were required to control gas migration.
+
+Since the [2012 Five-Year Review Report (PDF)](http://semspub.epa.gov/src/document/05/414241) (52 pp,4.86MB, [About PDF](https://www.epa.gov/home/pdf-files) ), YCRG implemented Phase 1 and Phase 2 of additional protective measures. Phase 1 was implemented in 2013 and consisted of:
+
+- sealing the basement of the nearby Terrace Nursing Home (TNH) building, including two basement sumps, to prevent [vapor intrusion](https://www.epa.gov/vaporintrusion);
+- installation of six continuous [methane](https://www.epa.gov/lmop/basic-information-about-landfill-gas#methane) detectors in the TNH basement, each equipped with alarm/auto-call out system for notification of emergency conditions; and
+- installation and monitoring of pressure taps for sub-slab conditions.
+
+Phase 2 was constructed by November 2016 and involved the excavation of nonpermeable clay materials in the TNH parking lot which was causing an accumulation of methane which then could migrate and infiltrate the TNH building. These materials were replaced with highly permeable materials and the installation of the TNH gas venting system. Monitoring results show gas concentrations have declined to well below levels of concern and, in most cases, have remained below detection since February 2017. The [active gas collection system](https://www.epa.gov/lmop/basic-information-about-landfill-gas#collecting) was converted to passive operation at the beginning of February 2018. Monitoring needs to continue to ensure these efforts have mitigated the elevated methane levels detected prior to these efforts.
+
+U.S. EPA has conducted [four five-year reviews](https://www.epa.gov/superfund/superfund-five-year-reviews)  of the remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The  [Fourth Five Year Review Report – 2022 (PDF)](https://semspub.epa.gov/src/document/05/976686) (81 pp, 4.08 MB) was signed on August 24, 2022 and concluded that the implemented remedy is protective in the short-term. In order for the remedy to continue to be protective in the long-term, a plan identifying [institutional controls (ICs)](https://www.epa.gov/superfund/superfund-institutional-controls) needs to be finalized and approved. Then the plan needs to be formally implemented. Monitoring of the landfill gas continues to be necessary.
+
+More information:
+
+[U.S. EPA Fact Sheet – Construction to Begin this Summer, 2001 (PDF)](http://semspub.epa.gov/src/document/05/367222) (10pp,1.13MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+See Part II. Response Action Summary of the [Third Five-Year Review Report – 2017 (PDF)](http://semspub.epa.gov/src/document/05/534974) (52 pp, 13.47MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+[A Citizen’s Guide to Capping (EPA 542-F-12-004)(PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_capping.pdf) (2 pp, 840 K, [About PDF](https://www.epa.gov/home/pdf-files) ) 2 pp, 840KB)
+
+[A Citizen's Guide to Soil Vapor Extraction and Air Sparging (EPA 542-F-12-018)(PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_soil_vapor_extraction_and_air_sparging.pdf) (2 pp, 1.63MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+[Progressive Engineering & Construction Inc - Revised Phase 2 Additional Protective Measures Final Work Plan (PDF)](http://semspub.epa.gov/src/document/05/927464) (131pp, 8.4MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### What Is the Current Site Status?
+
+Monitoring of the landfill gas continues to be necessary to ensure that [the landfill gas (LFG) collection system](https://www.epa.gov/lmop/basic-information-about-landfill-gas#collecting) is protective in the long-term. The continuous methane detectors that were installed in the basement of the Terrace Nursing Home remain in operation. Any alarms are remotely monitored and are automatically communicated to the local fire department. The LFG collection system equipment is routinely maintained and its operating data are monitored.
+
+Groundwater, surface water, and sediment continue to be monitored to ensure compliance with the selected remedy. The Yeoman Creek Remediation Group (YCRG) has submitted proposed modifications to the long-term monitoring plan that address concerns regarding elevated contaminant concentrations in sediment. EPA is currently reviewing the plans. Continued monitoring is planned pursuant the approved work plan and long-term monitoring plan (LTMP).
+
+A large portion of the site is anticipated to be redeveloped into a solar farm. Other areas site may be used for parking.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Planned and/or implemented institutional controls (ICs) are summarized in the ICs section of the [Fourth Five Year Review Report – 2022 (PDF)](https://semspub.epa.gov/src/document/05/976686) (81 pp, 4.08 MB).
+
+### Sampling and Monitoring
+
+Monitoring of the landfill gas is routinely conducted to ensure that the [landfill gas (LFG) collection system](https://www.epa.gov/lmop/basic-information-about-landfill-gas#collecting) is protective in the long-term. The gas monitoring checks that the Phase 1 and Phase 2 additional protective measures implemented by YCRG adequately mitigated the migration of LFGs or if additional actions are needed. Methane sensors are located within the basement of four structures immediately north of the site:
+
+- two sensors at the Terrace Nursing Home (TNH)
+- one sensor at the Evoy office property
+- one sensor at 1401 W. Golf Road
+- one sensor at 1451 W. Golf Road
+
+In addition, all sensors are on auto-dialers with direct connection to the fire department and the Yeoman Creek Remediation Group (YCRG) contractor. The sensors are factory calibrated for methane, and they also detect [carbon monoxide](https://www.epa.gov/co-pollution), propane, butane and other explosive hazards. The basements located at TNH, the Evoy office and 1401 & 1451 W. Golf Road are routinely monitored weekly and monthly.
+
+Groundwater and sediment continue to be monitored to ensure compliance with the selected remedy.
+
+### Emergency Response and Removal
+
+Interim removal actions were implemented to address imminent and substantial threats posed by the site, including fencing, improvement of the soil cover, and construction of a building ventilation system and a landfill gas (LFG) collection system.
+
+More information
+
+[Removal Action Memorandum 1998 (PDF)](http://semspub.epa.gov/src/document/05/89143) (13 pp, 630.28 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Enforcement Information
+
+In 1990 pursuant to the [1989 Remedial Investigation (RI) and Feasibility Study (FS) Consent Order (AOC) (PDF)](http://semspub.epa.gov/src/document/05/87307) (62 pp, 1.88MB, [About PDF](https://www.epa.gov/home/pdf-files) ) with EPA, the [potentially responsible parties (PRPs)](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp) installed a fence around the site to limit site access and improve site security and initiated the [RI/FS activities](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-3). In mid-1994, the PRPs implemented an interim action installing an air exchange and ventilation system (AEVS) in a building next to the site to mitigate exposure to LFG. The PRPs completed the RI under U.S. EPA oversight in 1995 culminating in a [1996 Record of Decision (ROD) (PDF)](http://semspub.epa.gov/src/document/05/89141) (132pp, 7.03MB, [About PDF](https://www.epa.gov/home/pdf-files) ).
+
+On April 28, 1998, EPA issued a [Unilateral Administrative Order (PDF)](http://semspub.epa.gov/src/document/05/143742) (27 pp, 15.65MB, [About PDF](https://www.epa.gov/home/pdf-files) ) to the PRPs requiring a [time-critical removal action](https://www.epa.gov/superfund/non-time-critical-removal-actions), including the installation of an interim LFG collection system at the perimeter of the landfill to supplement the AEVS and reduce LFG migration. The AEVS system was removed from service, and the interim LFG system was removed during construction of the final remedy because offsite LFG migration was controlled by the final cover's ventilation layer and additional collection trenches outside the final cover.
+
+On April 7, 1999, the court entered a [Consent Decree (CD) (PDF)](http://semspub.epa.gov/src/document/05/153448) (311 pp, 1.84MB, [About PDF](https://www.epa.gov/home/pdf-files) ) for [remedial design (RD) and remedial action (RA)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-5). The Yeoman Creek Remediation Group (YCRG) included at the time the following major potentially responsible parties:
+
+1\. Browning Ferris Industries of Illinois, Inc.
+
+2\. City of Waukegan, Illinois
+
+3\. Outboard Marine Corporation (OMC)
+
+4\. Waukegan Community School District No. 60
+
+5\. Goodyear Tire & Rubber Company
+
+6\. Dexter Corporation

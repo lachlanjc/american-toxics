@@ -1,28 +1,53 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Little Scioto River Superfund site is located west of the city of Marion in Marion County, Ohio. The site is comprised of two separate Operable Units, or OUs. OU 1 consists of an 8.5-mile stretch of Little Scioto River from the State Route 309 bridge to the Scioto River confluence just south of Green Camp, Ohio. OU1 also includes the North Rockswale Ditch, the Rockswale Ditch, the Columbia Ditch, and the Unnamed Ditch. OU 2 is the location of the former Baker Woods Creosoting (BWC) facility. Historical information suggests that poor disposal practices at the former BWC facility, a lumber preserver from the 1890s until the 1960s contaminated groundwater, sediment, and soil in the area with arsenic and polycyclic aromatic hydrocarbons (PAH) chemicals. PAHs are a group of chemicals that are formed during the incomplete burning of coal, oil and gas, garbage, or other organic substances. The contaminated groundwater is not impacting municipal water supplies, and the municipal water is monitored to ensure the drinking water supply is safe. In the 1940s, Ohio Department of Health documented that chemicals from BWC were being discharged into the combined sewers that drained into the North Rockswale Ditch and then to the Little Scioto River. The BWC drain that discharged into the North Rockswale Ditch (NRD) is now sealed so no further contamination can be released into the NRD or the river.
-What Has Been Done to Clean Up the Site?
-From May 1999 through May 2000, EPA conducted a site evaluation of the NRD and the Little Scioto River pertaining to creosote contamination. EPA concluded that approximately 4 miles of the river and 0.5 miles of the NRD contained an estimated 40,000 cubic yards of creosote contaminated sediment. As a result of this evaluation, in June 2002 EPA performed a removal action that excavated and staged about 7,500 cubic yards of creosote-contaminated sediment from the NRD and about 17,840 cubic yards of contaminated sediment from the Little Scioto River.  The removal action concluded in August 2003. In May 2006, EPA removed an additional 23,000 cubic yards of contaminated sediment from approximately 5,600 linear feet of the river. When the removal was completed in September 2006, Ohio EPA estimated that 3.25 miles of the Little Scioto River was still adversely impacted. EPA placed the Little Scioto River site on the National Priorities List, or NPL, in September 2009. Sites on the NPL are eligible for financial resources to characterize the extent of contamination and develop a cleanup plan. EPA’s remedy for Little Scioto River OU1 was selected in 2016.
-In July 2022, EPA released a proposed cleanup plan (pdf) (4.55MB) (About pdf) for OU2. The proposed plan described the remediation options evaluated by the agency and provided a recommendation to clean up for the operable unit. EPA held a virtual public meeting on July 28, 2022, to explain the proposed cleanup plan for OU2 and the cleanup options evaluated by the agency.
+### Background
 
-What Is the Current Site Status?
-Operable Unit 1 (OU1) EPA’s remedy for Little Scioto River OU1 was published in the 2016 OU1 Record of Decision and expanded in the 2021 Explanation of Significant Differences (ESD) (pdf) (5.13MB) (About pdf). In the summer of 2023 EPA began field work activities to clean contaminated sediment of OU1 from a 3.25-mile section of the Little Scioto River, starting just north of State Route 95 (Marion-Agosta Rd.) and ending slightly south of State Route 739 (Marion-Green Camp Rd.). In the first week of August 2024, EPA began dredging sediment from portions of the Little Scioto River in the northern half of the cleanup area, between State Route 95 and Keener Pike West. Dredging in this area is scheduled to continue through November. Excavated sediment is being hauled out and disposed of in a permitted landfill. EPA anticipates the entire cleanup project will be finished in 2028. Main activities throughout the entire cleanup will include: 
-Placing temporary dams and bypassing water in segments of the Little Scioto River at approximately 0.5-mile intervals.
-Excavating the top 2-4 ft of sediment from the river channel.
-Staging contaminated sediment for drying and treating it with cementitious material.
-Transporting treated sediment to an offsite permitted landfill.
-Replacing excavated sediment with clean sediment and restoring the river’s water flow.
-Restoring riverbanks and the temporary staging areas for excavated sediment.
-The cleanup activities are summarized in the May 2023 factsheet (pdf) (2﻿ pp, 396.5 K, About pdf). For OU2 The EPA, in coordination with Ohio EPA, published a  Record of Decision (ROD) (pdf) (6.34KB) ( About pdf) in September 2022 for the former Baker Woods Creosoting facility portion of the Little Scioto Superfund site, also known as Operable Unit 2, or OU2. The ROD is a public document that explains the selected cleanup alternative for OU2 and includes a response to the public comments received during the Proposed Plan public comment period from July to August 2022. The selected cleanup alternative for OU2 includes:
-Installation of groundwater monitoring wells.
-Removal and disposal of contaminated soil.
-Adding substances to treat and destroy subsurface soil contamination.
-Injection of microorganisms, nutrients, and other additives into groundwater to enhance natural processes and treat groundwater contamination.
+The Little Scioto River Superfund site is located west of the city of Marion in Marion County, Ohio. The site is comprised of two separate Operable Units, or OUs. OU 1 consists of an 8.5-mile stretch of Little Scioto River from the State Route 309 bridge to the Scioto River confluence just south of Green Camp, Ohio. OU1 also includes the North Rockswale Ditch, the Rockswale Ditch, the Columbia Ditch, and the Unnamed Ditch. OU 2 is the location of the former Baker Woods Creosoting (BWC) facility.
+
+Historical information suggests that poor disposal practices at the former BWC facility, a lumber preserver from the 1890s until the 1960s contaminated groundwater, sediment, and soil in the area with arsenic and polycyclic aromatic hydrocarbons (PAH) chemicals. PAHs are a group of chemicals that are formed during the incomplete burning of coal, oil and gas, garbage, or other organic substances. The contaminated groundwater is not impacting municipal water supplies, and the municipal water is monitored to ensure the drinking water supply is safe.
+
+In the 1940s, Ohio Department of Health documented that chemicals from BWC were being discharged into the combined sewers that drained into the North Rockswale Ditch and then to the Little Scioto River. The BWC drain that discharged into the North Rockswale Ditch (NRD) is now sealed so no further contamination can be released into the NRD or the river.
+
+### What Has Been Done to Clean Up the Site?
+
+From May 1999 through May 2000, EPA conducted a site evaluation of the NRD and the Little Scioto River pertaining to creosote contamination. EPA concluded that approximately 4 miles of the river and 0.5 miles of the NRD contained an estimated 40,000 cubic yards of creosote contaminated sediment. As a result of this evaluation, in June 2002 EPA performed a removal action that excavated and staged about 7,500 cubic yards of creosote-contaminated sediment from the NRD and about 17,840 cubic yards of contaminated sediment from the Little Scioto River. The removal action concluded in August 2003.
+
+In May 2006, EPA removed an additional 23,000 cubic yards of contaminated sediment from approximately 5,600 linear feet of the river. When the removal was completed in September 2006, Ohio EPA estimated that 3.25 miles of the Little Scioto River was still adversely impacted.
+
+EPA placed the Little Scioto River site on the National Priorities List, or NPL, in September 2009. Sites on the NPL are eligible for financial resources to characterize the extent of contamination and develop a cleanup plan. EPA’s remedy for Little Scioto River OU1 was selected in 2016.
+
+In July 2022, EPA released a [proposed cleanup plan (pdf)](https://semspub.epa.gov/work/05/976418.pdf) (4.55MB) ( [About pdf](https://www.epa.gov/home/pdf-files) ) for OU2. The proposed plan described the remediation options evaluated by the agency and provided a recommendation to clean up for the operable unit. EPA held a virtual public meeting on July 28, 2022, to explain the proposed cleanup plan for OU2 and the cleanup options evaluated by the agency.
+
+### What Is the Current Site Status?
+
+#### Operable Unit 1 (OU1)
+
+EPA’s remedy for Little Scioto River OU1 was published in the 2016 OU1 Record of Decision and expanded in the [2021 Explanation of Significant Differences (ESD) (pdf)](https://semspub.epa.gov/work/05/971756.pdf) (5.13MB) ( [About pdf](https://www.epa.gov/home/pdf-files) ).
+
+In the summer of 2023 EPA began field work activities to clean contaminated sediment of OU1 from a 3.25-mile section of the Little Scioto River, starting just north of State Route 95 (Marion-Agosta Rd.) and ending slightly south of State Route 739 (Marion-Green Camp Rd.).
+
+In the first week of August 2024, EPA began dredging sediment from portions of the Little Scioto River in the northern half of the cleanup area, between State Route 95 and Keener Pike West. Dredging in this area is scheduled to continue through November. Excavated sediment is being hauled out and disposed of in a permitted landfill.
+
+EPA anticipates the entire cleanup project will be finished in 2028.
+
+Main activities throughout the entire cleanup will include:
+
+- Placing temporary dams and bypassing water in segments of the Little Scioto River at approximately 0.5-mile intervals.
+- Excavating the top 2-4 ft of sediment from the river channel.
+- Staging contaminated sediment for drying and treating it with cementitious material.
+- Transporting treated sediment to an offsite permitted landfill.
+- Replacing excavated sediment with clean sediment and restoring the river’s water flow.
+- Restoring riverbanks and the temporary staging areas for excavated sediment.
+
+The cleanup activities are summarized in the [May 2023 factsheet (pdf)](https://semspub.epa.gov/work/05/982886.pdf) (2 pp, 396.5 K, [About pdf](https://www.epa.gov/home/pdf-files) ).
+
+#### For OU2
+
+The EPA, in coordination with Ohio EPA, published a [Record of Decision (ROD) (pdf)](https://semspub.epa.gov/work/05/977957.pdf) (6.34KB) ( [About pdf](https://www.epa.gov/home/pdf-files) ) in September 2022 for the former Baker Woods Creosoting facility portion of the Little Scioto Superfund site, also known as Operable Unit 2, or OU2. The ROD is a public document that explains the selected cleanup alternative for OU2 and includes a response to the public comments received during the Proposed Plan public comment period from July to August 2022.
+
+The selected cleanup alternative for OU2 includes:
+
+- Installation of groundwater monitoring wells.
+- Removal and disposal of contaminated soil.
+- Adding substances to treat and destroy subsurface soil contamination.
+- Injection of microorganisms, nutrients, and other additives into groundwater to enhance natural processes and treat groundwater contamination.
+
 The EPA is beginning to work on the engineering design for OU2, also known as the Remedial Design (RD) phase, for the selected cleanup alternative. Once the RD is complete, EPA will begin the Remedial Action phase and implement the cleanup.

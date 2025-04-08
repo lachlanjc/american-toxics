@@ -1,2 +1,53 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Centredale Manor Restoration Project site is located at 2072 and 2074 Smith Street in North Providence, Rhode Island. The area is contaminated with dioxin and other contaminants from chemical production and drum reconditioning that took place on site from the 1940s to the 1970s. The EPA laid out a plan for cleaning the site in September 2012 and was engaged in litigation with the site’s potentially responsible parties (PRPs) regarding liability and performance of the $100 million cleanup plan from that time until a settlement was reached in July of 2018.
+
+The main site area known as the “source area” consists of about 9 acres peninsula. The site extends south down the Woonasquatucket River to the Lyman Mill Dam and includes the restored Allendale Dam. From the early 1940s to the early 1970s, the source area of the site was the location of chemical manufacturing and drum reconditioning operations. Atlantic Chemical Co. operated on the main area of the site in the early 1940s. The company changed its name in 1953 to Metro-Atlantic, Inc. and continued to operate until the early 1970s. New England Container Company, Inc. operated an incinerator-based drum reconditioning facility on part of the site from 1952 until about 1971. A major fire in 1972 destroyed most structures at the site. Brook Village apartments opened in 1977 and the Centredale Manor apartments opened in 1982 on the grounds of these former facilities, with the two new buildings, parking lots and driveways occupying a large part of the properties. These apartment complexes still occupy the site.
+
+As a result of past site operations, chemicals were released directly to the ground, buried, and emptied directly to the river. This resulted in contamination of soil, groundwater, surface water and sediment in the adjacent and downstream river and ponds. Over time, contamination from the source area of the site has entered the river and contaminated sediments in the ponds and streams.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA site investigations from 1999 to 2012 characterized contamination in source area soil, groundwater, sediment, floodplain soil, surface water and biota. EPA identified the presence of chemicals such as dioxin and polychlorinated biphenyls (PCBs) in the soil. To address immediate risks, EPA did several early cleanups from 1999 to 2002, such as: fencing the site, capping contaminated soil, reconstructing the Allendale Dam, and restoring Allendale Pond. Additional caps were also installed in 2005 and 2009.
+
+The site is being addressed through federal and potentially responsible party (PRP) actions. The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+The EPA selected the site’s [long-term cleanup plan](https://semspub.epa.gov/src/document/01/521788) in September 2012, after updating an earlier [October 2011 proposed plan](https://semspub.epa.gov/src/document/01/494732) with [July 2012 proposed plan amendment](https://semspub.epa.gov/src/document/01/509365).
+
+The upcoming long-term cleanup will address site risks through the following actions:
+- Installation of a protective cap over the area where contamination releases originally occurred in the source area.
+- Excavation of the majority of contaminated Woonasquatucket River sediment and floodplain soil in the Allendale and Lyman Mill reaches of the river and disposing of this sediment and soil off-site and disposing dewatered sediment and floodplain soils that have the highest contamination levels at an off-site treatment facility such as an incinerator.
+- Putting a soil cover over remaining contamination in the Oxbow to help with natural recovery and preserve valuable habitat.
+- Putting institutional controls in place to prevent exposure and preserve the integrity of components of the selected cleanup plan and long-term monitoring and maintenance to protect the integrity of the cap, Allendale Dam, and thin-layer wetland cover.
+
+The updated cleanup addresses a new non-cancer toxicity value for dioxin that EPA developed shortly after the public comment period closed on the earlier proposed plan. Because this newer toxicity value is more stringent than the toxicity value used in the earlier cleanup plan, EPA and RIDEM evaluated properties within the 100-year floodplain as part of the long-term cleanup of the Woonasquatucket River. The agencies have implemented interim protective measures, mostly consisting of installing fences in 2014, to limit exposure to the potentially contaminated soil on their properties while preparations for this long-term cleanup of the river were underway.
+
+The remedy selected in the [2012 RECORD OF DECISION (ROD)](https://semspub.epa.gov/src/document/01/521788) (656 pp, 22KM [About PDF](https://www.epa.gov/home/pdf-files) ) (656 pp, 22.27 MB) for the site is being implemented in several phases; see [Fact Sheets, Updates, and Public Meeting Documents](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101388&doc=Y&colid=32364&region=01&type=SC) for what is being done in each area of the Site.
+
+Documents, reports, studies, and other content will be added to the following collections as work progresses.
+
+[**Remedial Design/Remedial Actions Plans and Reports – Entire Site**](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101388&doc=Y&colid=37935&region=01&type=SC)
+
+[**Remedial Design/Remedial Actions Plans and Reports – Woonasquatucket (Woony) River Background Conditions**](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101388&doc=Y&colid=37936&region=01&type=SC)
+
+[**Remedial Design/Remedial Actions Plans and Reports – Phase 1 - Source Area and Adjacent Properties**](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101388&doc=Y&colid=37937&region=01&type=SC)
+
+[**Remedial Design/Remedial Actions Plans and Reports – Phase 2 - Allendale Pond and Adjacent Properties**](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101388&doc=Y&colid=37940&region=01&type=SC)
+
+[**Remedial Design/Remedial Actions Plans and Reports – Phase 3 – Oxbow Wetland Area**](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101388&doc=Y&colid=37941&region=01&type=SC)
+
+[**Remedial Design/Remedial Actions Plans and Reports – Phase 4 - Lyman Mill Pond and Adjacent Properties**](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101388&doc=Y&colid=37942&region=01&type=SC)
+
+[![](https://semspub.epa.gov/src/document/01/100010341)](https://semspub.epa.gov/src/document/01/100010341)
+
+### What Is the Current Site Status?
+
+EPA laid out a [plan for cleaning the site in September 2012](https://semspub.epa.gov/src/document/01/521788) and was engaged in litigation with the site’s potentially responsible parties (PRPs) regarding liability and performance of the $100 million cleanup plan from that time until a [settlement was reached in July of 2018](http://semspub.epa.gov/src/document/01/627495).
+
+The responsible parties began implementation of the 2012 cleanup plan in 2018 under oversight of EPA and RIDEM. Construction began at the site in late 2019 and is expected to take 6 to 7 years and will be done in phases along the 1.5 miles of the river. EPA will work closely with the towns of North Providence and Johnston, Woonasquatucket River Watershed Council, interested citizens and state officials as the project progresses.
+
+### Enforcement Information
+
+In July 2018 EPA reached a settlement with two subsidiaries of Stanley Black & Decker, Inc.—Emhart Industries Inc. and Black & Decker, Inc., which includes cleanup work in the Woonasquatucket River (River) and bordering residential and commercial properties along the river, requires the companies to perform the remedy selected by EPA for the Site in 2012 (estimated to cost approximately $100 million), and resolves longstanding litigation.
+
+[EPA News release 7/09/18: $100 Million Settlement will Speed Cleanup Work at Centredale Manor Superfund Site in North Providence, R.I](http://semspub.epa.gov/src/document/01/627494). (3 pp, 650 K, [About PDF](https://www.epa.gov/home/pdf-files) )

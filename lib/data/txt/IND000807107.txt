@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Reilly Tar & Chemical site is located at 1500 S. Tibbs Ave. in the southwest quadrant of Indianapolis. Minnesota Street divides the 120-acre site into two parcels. The Oak Park property, which occupies approximately 40 acres, is located north of Minnesota Street. The Maywood property, which occupies approximately 80 acres and includes OU1, is located south of Minnesota Street and was the location of wood preserving operations from 1921- 1972.
+
+### What Has Been Done to Clean Up the Site?
+
+The remedy was implemented by the PRP under EPA and Indiana Department of Environmental Management (IDEM) oversight.
+
+EPA often divides the cleanup of sites into Operable Units (OUs) to make the cleanup more efficient. The site has been divided into five OUs and each has been addressed. OU1 (on-site) and OU5 (off-site) address groundwater. OU2, OU3 and OU4 involve cleanup of on-site sources of contamination and have been completed with long-term inspections and maintenance ongoing.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+In 2021, EPA signed an [amendment](http://semspub.epa.gov/work/05/967741.pdf) [(pdf)](http://semspub.epa.gov/work/05/967741.pdf) (47pp, 4.78MB, [About PDF](https://www.epa.gov/home/pdf-files) ) to the Operable Unit 1 (OU1) Record of Decision at the Reilly Tar site. The original 1992 [Record of Decision (pdf)](https://semspub.epa.gov/src/document/05/121221) (80 pp, 3.6MB, [About PDF](https://www.epa.gov/home/pdf-files) ), or ROD, addresses groundwater contaminated with benzene, pyridines and ammonia from operations at the site. This amendment updates the cleanup plan for these contaminants.
+
+The 2021 amendment highlights a change from groundwater collection and extraction to in-place biosparging groundwater treatment for OU1. The new remedy will shorten the estimated groundwater cleanup time to 20 years in the area to the east of the site. Biosparging involves injecting oxygen into groundwater, which helps microorganisms break down contamination. Construction of the new system is estimated to begin in spring 2025.
+
+In February 2024, the EPA and the Department of Justice lodged a site-wide consent decree with the site owner, 1500 South Tibbs LLC. The consent decree provides for the design and implementation of the amended OU1 groundwater remedy. It also includes ongoing operation and maintenance of the already-implemented remedies in other Operable Units. The EPA will continue to oversee all activities. The consent decree also requires 1500 South Tibbs LLC to fund the remedy and provide financial assurance to the EPA to perform the remedy in the event they fail to do so.
+
+### Emergency Response and Removal
+
+In 1997, the PRP addressed four on-site areas of soil contamination by removing and treating the soil. The PRP also addressed contamination in a fifth area by solidifying the contaminated material and placing a soil cover over it. In 1999, the PRP completed cleanup of the wood treatment and storage area. Cleanup included placement of a permeable cover over the area. A soil vapor treatment system operated at the site until 2005. Fencing surrounds the site.

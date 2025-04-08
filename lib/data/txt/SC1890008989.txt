@@ -1,2 +1,44 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Savannah River Site (SRS) facilities were constructed during the early 1950s to produce basic materials used in the fabrication of nuclear weapons, primarily tritium and plutonium-239. The nation's defense programs used these nuclear weapons. Five reactors were built on the site. The reactors produced nuclear materials by irradiating target materials with neutrons. Other facilities built were two chemical separation plants, a heavy water extraction plant, a nuclear fuel and target fabrication facility and waste management facilities. Production of nuclear materials for the defense programs was discontinued in 1988.
+
+Since 1988, non-defense-related activities have continued at SRS. SRS has provided nuclear materials for the space program, as well as for medical, industrial and research efforts up to the present day. SRS is one of the largest employers in South Carolina. Savannah River Nuclear Solutions, LLC is responsible for site management and operations. EPA placed SRS on its [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-national-priorities-list-npl) of contaminated sites in 1989.
+
+### What Has Been Done to Clean Up the Site?
+
+DOE has taken many actions to investigate and clean up the SRS over the past several decades. Their Federal Facility Agreement Annual Progress Report for Fiscal Year 2017 (FY2017) summarized actions undertaken during October 1, 2016 through September 30, 2017. The report stated that the Environmental Compliance and Area Completion Projects has 515 units in the program. At the beginning of FY2017, 417 units were complete or in the remediation phase (405 complete and 12 in the remediation phase). At the end of FY2017, 418 units were complete or in the remediation phase (408 complete and 10 in the remediation phase).
+
+Interim Remedial Actions were begun at the following Operable Units (OU):
+
+- H-Area Tank Farm, Waste Tank 12
+- H-Area Tank Farm, Waste Tank 16
+
+In addition, although not required, DOE installed hog barrier fences to prevent damage by feral hogs to caps/covers that DOE are required to maintain over waste left in place for protection of human health and the environment.
+
+Additional details can be found in the [Annual Progress Report](https://www.srs.gov/general/programs/soil/ffa/ffaapr.pdf).
+
+### What Is the Current Site Status?
+
+Cleanup work is ongoing at multiple Operable Units (OUs) across SRS. The [Federal Facility Agreement Annual Progress Report for Fiscal Year 2017](https://www.srs.gov/general/programs/soil/ffa/ffaapr.pdf), includes a summary of planned activities for the current Fiscal Year. These activities are listed in Table 3 of the report on page 10 of 18.
+
+Currently, EPA is participating in meetings with DOE to scope and plan early remedial actions based on principal source waste material \[primarily Cesium-137\] for the Lower 3 Runs Integrator OU. Determining potential treatment options for any early actions is the primary objectives.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Multiple OUs at SRS have [Institutional Controls (ICs)](https://www.epa.gov/superfund/superfund-institutional-controls) as part of a capping or land use restriction remedy. ICs are administrative and legal controls that help minimize the potential for human exposure to contamination and/or protect the integrity of the remedy. EPA evaluates the effectiveness of ICs during [Five-Year Reviews](https://www.epa.gov/superfund/superfund-five-year-reviews).
+
+### Sampling and Monitoring
+
+DOE collects numerous samples throughout the year for investigation and monitoring purposes. DOE submits monitoring reports to EPA and SCDHEC for review, comment and approval throughout the year.
+
+### Green Remediation
+
+Multiple green remediation activities are underway at the site including solar powered soil vapor extraction systems and passive soil vapor extraction wells that rely on barometric pressure to remove contaminants from the soil above the water table.
+
+### Enforcement Information
+
+In 1993, EPA, DOE and SCDHEC entered into a [Federal Facility Agreement (FFA).](https://www.srs.gov/general/programs/soil/ffa/ffa.pdf)The FFA is required by law and governs all aspects of the correction/remedial action process from site investigation through remediation.

@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Katonah Municipal Well (KMW) site (Site) is located in Katonah, Westchester Country, New York. The City of New York (NYC) owns the Site property. Well sampling identified several volatile organic compounds (VOCs), which are potentially harmful contaminants that easily evaporate in the air. The contamination was traced to a local septic waste collection facility. Following cleanup, in March 2000, EPA took the Site off the Superfund program’s National Priorities List. Long-term groundwater monitoring is ongoing and being mannaged by the Town of Bedford and its contractor, Chazen Companies.
+
+The Site is located on a peninsula that extends into the Muscoot Reservoir, which supplies drinking water to New York City. The original, 32-foot-deep well, built prior to 1900, was designed to draw water primarily from the reservoir through the underlying aquifer by a mechanism known as induced recharge. The Westchester County Health Department first discovered contaminants in the KMW in 1978, at which time it was taken out of service. By 1979, the possible sources of the contamination were traced to four nearby dry cleaning establishments discharging process liquids to septic systems. The county worked with the owners to correct the problems and to remove the sources. Maintenance activities at the nearby pumphouse also contributed to contamination in the aquifer. In addition, the area surrounding the well and pumphouse had been historically used for the disposal of street cleaning debris.
+
+Following site investigations, EPA placed the Site on the Superfund program’s National Priorities List in June 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+**Long-term Cleanup**: EPA selected the remedy in the Site’s September 1987 Record of Decision (ROD. It included: (1) installation of a new Katonah municipal well, as well as filling and sealing of the existing abandoned well; (2) installation and operation of a water treatment facility that includes an air stripper and disinfection systems; (3) discharging of clean treated water to the Bedford Consolidated Water Distribution System; (4) a monitoring program to detect identified contaminants in the treated water; and (5) recommendations for the local government to remove trash and debris from the area.
+
+EPA has conducted several five-year reviews at the Site. These reviews ensure that the remedies put in place protect human health and the environment, and function as intended by Site decision documents. The 2017 or fifth five-year review concluded that response actions taken at the Site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment. The regular monitoring reports prepared the by Town of Bedford provides the EPA with the technical information necessary to perform these reviews. The next five-year review will be performed in 2022.
+
+### What Is the Current Site Status?
+
+The Site was addressed in a single, long-term remedial phase focused on cleanup of the entire Site.
+
+Construction of the Site’s remedy, i.e.*,* new production well and treatment facility, was completed in July 1992. Long-term groundwater monitoring is ongoing. In March 2000 EPA deleted Site from the Superfund program’s National Priorities List.
+
+Currently, the KMW is not being used for drinking water purposes but is being regularly sampled and monitored. In 2013, EPA required that the Town of Bedford install four new monitoring wells in order to provide more accurate groundwater data about the aquifer underlying the Site. The Town of Bedford has provided EPA with regular monitoring reports. The data that has been gathered thus far reflects the current aquifer conditions.
+
+In the future, EPA will be assessing subsequent groundwater monitoring reports in order to assess any potential modification to the original Site remedy, *i.e.*, the operation of the KMW. The current Five-Year Review indicates that the site is protective of human health and the environment.

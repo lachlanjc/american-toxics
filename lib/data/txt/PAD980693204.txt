@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301486)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301486)
-
----
-
 ### Background
 
 The 3-acre Salford Quarry Superfund site is located in Lower Salford Township in Montgomery County, Pennsylvania. In the 1950s, a waste disposal business used the quarry as a dump for industrial, commercial and residential waste. Waste also included fly ash cinders from a coal-fired power plant. From about 1963 to 1980, a tile manufacturer used the quarry for the disposal of glaze wash-up sludge, settling pond sediment, and fired and unfired scrap tiles. These past operations contaminated soil, sediment, surface water and groundwater with hazardous chemicals. The site was added on the Superfund program’s National Priorities List (NPL) in 1990 and was later removed from the NPL due to a legal challenge in court. In 2009, the EPA finalized the site on the NPL, making it eligible for federal cleanup. Investigation and cleanup of the site are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -30,13 +12,9 @@ In 2018, the EPA installed and sampled new monitoring wells to collect additiona
 
 The Record of Decision Amendment selects a subsurface perimeter wall and RCRA cap consistent with the Resource Conservation and Recovery Act (RCRA) to address OU1 (quarry waste and soil surrounding the waste) to replace the 2013 selected remedy at the site. The Modified Remedy is protective of human health and the environment, is cost-effective, and utilizes permanent solutions wherever possible.
 
----
-
 ### What Is the Current Site Status?
 
 The EPA began site work in September 2024 to implement the clean up remedy selected in the 2021 Record of Decision Amendment. This cleanup includes: a traffic detour around the site, site prep, contaminated soil and waste disposal, barrier and cap installation for waste remaining on-site, and long-term monitoring activities. Site work is expected to last for 12 months.
-
----
 
 ### Emergency Response and Removal
 

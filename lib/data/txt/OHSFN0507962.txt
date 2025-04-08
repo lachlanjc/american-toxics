@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The East Troy Contaminated Aquifer site, known as ETCA, is in Troy, Ohio, along the western bank of the Great Miami River. It includes a 20-square block area that extends from South Walnut Street on the northwest to Floral Avenue on the southeast, Canal and Scott streets on the southwest and the river on the northeast. The site is an area where volatile organic compounds (VOCs), primarily the common industrial chemicals PCE and TCE, have contaminated groundwater, soil and indoor air in some homes and businesses.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. EPA is the lead agency and Ohio EPA is providing support to EPA.
+
+In 2006 EPA found elevated levels of VOCs seeping into some buildings in the area through a process called vapor intrusion. Vapor intrusion occurs when pollutants give off gases that rise through the soil and seep into buildings through cracks and holes in foundations or crawl spaces. Once inside, the vapors cause hazardous indoor air pollution. In the summer of 2007 EPA installed vapor abatement systems in 16 homes and an elementary school to address the indoor air health risk in the area. A remedial investigation was conducted at the site from 2009 to 2014, and in 2015 the [remedial investigation report (pdf)](https://semspub.epa.gov/work/05/918065.pdf) (28.2 MB) for the site was completed. A [focused feasibility study (pdf)](https://semspub.epa.gov/work/05/2000451.pdf) (29.2 MB) to evaluate potential interim cleanup alternatives was completed in 2017.
+
+### What Is the Current Site Status?
+
+An interim or short-term cleanup plan for the two contaminated source areas associated with the site was finalized in September 2018 in the [Interim Record of Decision](https://semspub.epa.gov/work/05/943543.pdf) (PDF) (16.74 MB). The two ongoing sources of contamination to site groundwater are the *East Water Street Soil Source*, and the *Residential Plume Source*. The objective of the interim plan is to remediate these sources of groundwater contamination while the federal Agency develops long-term cleanup options for groundwater throughout the site. In June of 2018, EPA held a public meeting and gave [a presentation](https://semspub.epa.gov/src/document/05/942056.pdf) (PDF) (5.24MB) at City Hall in Troy to explain the recommended interim cleanup plan. The interim cleanup for the East Water Street Soil Source Area consists of soil excavation with off-site disposal; and the interim cleanup for the Residential Plume Source Area involves utilizing in-situ, or in-place, treatment by chemical oxidation, and installing sub-slab depressurization systems to alleviate vapor intrusion.
+
+In 2025 from the end of January to May EPA will conduct a *pilot study* in a parking lot near the intersection of East Franklin St. and South Mulberry St. to collect additional information in the Residential Plume Groundwater Source Area of the site and evaluate the effectiveness of utilizing permanganate to reduce groundwater contamination.
+
+After the pilot study is performed, contractors under EPA’s oversight plan to start the remedial design for the Residential Plume Groundwater Source Area of the site in late spring. The remedial design will specify how the interim cleanup is to be performed in this area. A final Record of Decision to address residual groundwater contamination throughout the site will be developed after assessing the effectiveness of the interim action.
+
+Also in 2025, soil samples are planned to be collected at the end of January or in February for approximately three days to help characterize levels of soil contamination in the East Water Street Soil Source Area located in the northwest corner of the former Hobart Cabinet property on East Water Street. The [January 2025 fact sheet](https://semspub.epa.gov/work/05/998595.pdf) (PDF) (1019.31 KB) provides more information in the 2025 pilot study, and the soil sampling/waste characterization.
+
+After the soil sampling/waste characterization is performed, contractors under EPA’s oversight plan to start the interim cleanup of the East Water Street Soil Source Area in late spring. The interim cleanup activities in this area will include excavating contaminated soil from the former Hobart Cabinet property, backfilling the area with clean soil, disposing of excavated soils, and restoring all disturbed areas.

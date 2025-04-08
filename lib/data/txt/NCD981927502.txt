@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 1-acre Geigy Chemical Corroboration (Aberdeen Plant) Superfund Site is located in Aberdeen, Moore County, North Carolina. Highway 211 borders to the north and the Aberdeen and Rockfish rail line borders to the south. Commercial businesses, residential properties and undeveloped forested areas surround the property. The Aberdeen Contaminated Ground Water Superfund Site is located next to this Site. The Aberdeen Pesticide Dumps Superfund site is located approximately 2.5 miles northwest of this Site. The Aberdeen and Rockfish Railroad owns the property.
+
+From 1947 to 1989, Geigy and its predecessors blended pesticides for retail sale.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1989 because of contaminated groundwater and soil resulting from facility operations.
+
+The EPA, the [North Carolina Department of Environment and Natural Resources (NCDENR)](https://deq.nc.gov/) and the Site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site.
+
+### What Has Been Done to Clean Up the Site?
+
+Syngenta Crop Protection (successor to Novartis Crop Protection and Ciba-Geigy Corporation), Olin Corp, Kaiser Aluminum & Chemical Corp, Lebanon Chemical Corp, Aberdeen and Rockfish Railroad, and Columbia Nitrogen Corporation, the site’s PRPs, lead site investigation and cleanup activities, with oversight provided by the EPA and NCDENR.
+
+| When | What |
+| --- | --- |
+| 1992 | The PRPs completed the remedial investigation and feasibility study at the site.  The EPA issued the Site’s Record of Decision (ROD), whichis the Site's cleanup plan. It included:  - extracting and treating groundwater on site and discharging the treated water to the local treatment facility or an infiltration gallery - demolishing the warehouse foundation and disposing of it off site - digging up the top foot of contaminated soil; and placing clean soil back in the dug-up areas - monitoring groundwater. |
+| 1989 - 1997 | The Site’s PRPs conducted cleanup activities in 1989, 1991 and 1996 to remove all contaminated soil, debris and structures from the Site.  The PRPs also completed construction of the groundwater treatment system in 1996 and began operating the system in 1997. |
+| 1998 | The PRPs completed soil cleanup activities in 1998.  The EPA updated the cleanup plan to add [monitored](https://clu-in.org/techfocus/default.focus/sec/Natural_Attenuation/cat/Overview/) natural attenua [tion](https://clu-in.org/techfocus/default.focus/sec/Natural_Attenuation/cat/Overview/) (MNA) to address contaminated groundwater.  The EPA issued the Preliminary Close Out Report which documents the completion of all construction activities at the Site. |
+
+### What Is the Current Site Status?
+
+The [most recent Fifth Five Year Review](https://semspub.epa.gov/work/04/11189886.pdf) was published by the EPA HQs in 2023.
+
+The remedy at the Site currently protects human health and the environment in the short-term because no unacceptable health risks result from human exposure to contaminated soil or groundwater from the Site. Soil contamination was remediated through source removal and the performance standards for the soil remediation were met. Groundwater remediation continues to consist of an active pump and treat system and MNA downgradient of the Site. However, the groundwater contaminant plume may have migrated off site. Institutional controls have been fully implemented at the Site, as required by the 2019 Explanation of Significant Difference.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The EPA is preparing an institutional control for the site and updating the ground water cleanup standard.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s PRPs to investigate and clean up the site. The PRPs continue to fund previous the EPA and NCDENR response costs as well as monitoring and oversight activities.

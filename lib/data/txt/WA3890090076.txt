@@ -1,3 +1,40 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 154 square-mile Hanford 100-Area (USDOE) site is located 35 miles north of Richland, Washington. It is one of four areas at the Hanford Nuclear Reservation originally listed on EPA's National Priorities List (NPL). These areas are part of a U.S. Department of Energy complex that includes buildings, disposal sites, contaminated groundwater, a national monument and other vacant land totaling about 586 square miles.
+
+The 100 Area cleanup, also referred to as the River Corridor, is focused on contamination that originated from nine nuclear reactors, the last one shutting down in 1988. Cooling water contaminated with radioactive and hazardous chemicals was discharged to both the adjacent Columbia River and infiltration cribs and trenches. Site operations also included burying contaminated solid wastes on-site. These activities contaminated soil, sludge and groundwater with radioactive constituents, heavy metals and other hazardous chemicals.
+
+EPA has divided the 100 Area into six reactor areas, each with multiple operable units (OUs), to better address site contamination. The six reactor areas are 100-B/C; 100 KE/KW, 100-N, 100 D/DR, 100-H, and 100-F. Final remedies have not yet been selected for all of the 100 Area; however, eight interim remedies have been selected and remedial investigations are underway to support selection of final cleanup remedies.
+
+**Cleanup Areas**
+
+In 1988, Hanford was divided into four National Priorities List (NPL) sites, including the 100, 200, 300, and 1100 Areas.
+
+- Hanford 100 Area (USDOE) - this page
+- [Hanford 200 Area (USDOE)](https://www.epa.gov/superfund/hanford-200)
+- [Hanford 300 Area (USDOE)](https://www.epa.gov/superfund/hanford-300)
+- [Hanford 1100 Area (USDOE)](https://www.epa.gov/superfund/hanford-1100)
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and federal actions.
+
+The 100 Area is a 67.4 square-kilometer (26-square-mile) piece of land along the Columbia River where nine water-cooled plutonium reactors were constructed between 1943-1963.
+
+There are six reactor areas (three of which contain two reactors each and three that contain one reactor each) in the 100 Area. All nine reactors were operating at one point during the early 1960s, but only N Reactor (which produced both plutonium and electricity) remained in operation after 1971 and ceased operation in 1987. While in operation, the reactors disposed of cooling water and solid wastes in over 400 waste sites, trenches, cribs (underground drain fields), ponds, and burial grounds in the 100 Area. Also, leaks in the reactors’ wastewater piping and retention systems led to soil and groundwater (which ultimately flows into the Columbia River) contamination.
+
+The 100 Area has approximately 28.5 square kilometers (11 square miles) of contaminated groundwater and waste disposal locations. Remediation of soil waste sites in the 100 Area began in the mid-1990s. Since then, over 18 million tons of contaminated soil have been retrieved and moved to the Environmental Restoration Disposal Facility (ERDF) in the Central Plateau. ERDF is a lined landfill that meets the technical design requirements of a hazardous waste landfill. Additionally, “pump and treat” systems and other in-place treatment systems are in use to reduce levels of contaminants in 100 Area groundwater sites.
+
+Much of the groundwater is being treated, but there is still slow seepage of some contaminants to the Columbia River through groundwater. Monitoring results show that concentrations of radionuclides identified in the river, however, are within the drinking water standards set by the EPA and Washington State. Active pump and treat systems address hexavalent chromium contamination to protect aquatic communities.
+
+The 100 Area reactors are being placed into Interim Safe Storage Project known as “cocooning.” Beginning in late 1996, all the wings were torn off each reactor building; hundreds of metric tons of asbestos, steel, copper, and contaminated soil were removed, and the old pumphouse, pumps, tunnels and other parts of the structure were demolished. The core and the surrounding shields are all that were left. They were then sealed up and given a new aluminum and zinc-coated roof slanted to allow for rain run-off.
+
+Presently, interim safe storage projects are completed at C, F, D, DR, H and N. Interim safe storage projects in the future will address KE and KW reactors. The B Reactor is part of the Manhattan Project National Historical Park in 2014, EPA continues to provide oversight of cleanup at the Hanford Site.
+
+EPA has conducted several five-year reviews of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the interim remedies selected; however, remedy construction is still underway and issuance of a protectiveness statement for the entire 100 Area NPL site has been deferred.
+
+### What Is the Current Site Status?
+
+Removal actions, primarily consisting of the demolition of buildings and placing old reactors in an 'interim safe storage' condition, have met interim removal action goals. Most of the waste sites in the 100 Area have been remediated to meet the cleanup levels established by the interim remedies. Groundwater plumes are being remediated through pump-and-treat and may be expanded further based on future decision documents.
+
+Cleanup activities completed to date have included removal of millions of tons of contaminated soil and debris; groundwater extraction and treatment; construction of barrier walls to address contaminated groundwater; demolition of buildings and structures; removal of spent nuclear fuel and associated waste; and institutional controls. Remedy construction began in 1996 and is ongoing.

@@ -1,23 +1,21 @@
-ELECTROVOICEBUCHANAN, MI
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Electro-Voice site is located in Buchanan, Michigan. Activities at the plant included die-casting, machining, assembly, painting and electroplating. The business closed its doors in 2000. Contamination at the site resulted from Electro-Voice’s discharge of electroplating wastes into two clay-lined lagoons from 1952 to 1962, and from the disposal of paint wastes and solvents into a drywell from 1964 to 1973. The waste disposal activities caused groundwater to become contaminated with chemicals called volatile organic compounds, or VOCs. Following construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing.
+### Background
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Exposure pathways that could result in unacceptable risks are under control. The progress and long-term effectiveness of the natural attenuation remedial action to address groundwater contamination will continue to be verified through ongoing groundwater monitoring. The next five-year review is scheduled to be completed by September 2026.
-What Is the Current Site Status?
+The Electro-Voice site is located in Buchanan, Michigan. Activities at the plant included die-casting, machining, assembly, painting and electroplating. The business closed its doors in 2000. Contamination at the site resulted from Electro-Voice’s discharge of electroplating wastes into two clay-lined lagoons from 1952 to 1962, and from the disposal of paint wastes and solvents into a drywell from 1964 to 1973. The waste disposal activities caused groundwater to become contaminated with chemicals called volatile organic compounds, or VOCs. Following construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Exposure pathways that could result in unacceptable risks are under control. The progress and long-term effectiveness of the natural attenuation remedial action to address groundwater contamination will continue to be verified through ongoing groundwater monitoring. The next five-year review is scheduled to be completed by September 2026.
+
+### What Is the Current Site Status?
+
 Construction of the site’s long-term remedy finished in 1999. Soil cleanup included construction of a clay cap and active treatment by an in-place ventilation and volatilization system. Groundwater remediation is ongoing through monitored natural attenuation of pollutants.
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 The principal contaminants of concern (COCs) at the EV Site include trichloroethene (TCE), vinyl chloride (VC) and several metals.

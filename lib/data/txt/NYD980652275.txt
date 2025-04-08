@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Brewster Well Field site is in Brewster, New York. The nearby East Branch Croton River is a significant brown trout fishery and, in combination with two other nearby streams, is a part of the Croton System that contributes to New York City's water supply. A water intake lies 12 miles downstream of the site. Woods and wetlands surround the well heads, pump houses, and access roads, and the wetlands connect directly with the East Branch Croton River.
+
+The village of Brewster found potentially harmful contaminants that easily evaporate in the air called [volatile organic compounds (VOCs)](https://www.epa.gov/indoor-air-quality-iaq/what-are-volatile-organic-compounds-vocs) in the village’s well field water distribution system in 1978. Additional testing revealed a groundwater contaminant plume. EPA traced the source of the contamination to a dry cleaner where dry-cleaning wastes were disposed in a on-property dry well until 1983.
+
+Between 1978 and 1984, the village of Brewster drilled new drinking water wells and blended and pumped groundwater to keep contaminant levels down. EPA and the village installed a water treatment system in 1984 to remove VOCs from the groundwater and provide safe drinking water to about 2,000 area residents.
+
+EPA added the site to the Superfund program’s National Priorities List in 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA has addressed the site in two phases focused on cleaning up the groundwater and controlling the source of contamination.
+
+**Groundwater:** The New York State Department of Environmental Conservation (NYSDEC) investigated the site in 1984 to determine the nature and extent of the groundwater contamination and to evaluate cleanup alternatives.
+
+Based on the NYSDEC’s study, EPA selected a [plan in a 1986 Record of Decision (ROD)](https://semspub.epa.gov/work/02/61660.pdf) to clean up the contaminated groundwater. The plan called for the continued operation of the existing treatment system at the well field. It also called for designing and constructing a groundwater management system to restore groundwater quality. The groundwater management system cleans up contamination by extracting contaminated groundwater from wells and removing VOCs from the extracted groundwater with an air stripper. The original plan called for injecting the treated water into the ground.
+
+After the groundwater management system became operational in 1991, the reinjection wells began to clog. EPA determined the most appropriate approach would be to discharge the treated groundwater to the East Branch of the Croton River instead of reinjecting it. Construction of an underground discharge pipe and outfall system for the groundwater management system was finished in 1996. The system remains in continuous operation.
+
+EPA documented the modification to the selected cleanup action (i.e., changing the final disposition of the treated groundwater from reinjection to surface water discharge) in a [1996 Explanation of Significant Differences (ESD)](https://semspub.epa.gov/src/document/02/61661). EPA operated the groundwater management system for 10 years as a long-term response action. The State assumed responsibility in 2007 for the operation and maintenance of the groundwater management system and continues to operate the system. The system has treated about 398 million gallons of contaminated groundwater, to date.
+
+**Source Control:** To address the source of the groundwater contamination, EPA selected a cleanup plan in a [1988 ROD](https://semspub.epa.gov/src/document/02/61747).
+
+The ROD called for the excavation of about 100 cubic yards of sediments, sludge, and soil contaminated with VOCs from the dry well located underground outside of the dry cleaners. It also called for the treatment and disposal of these materials off-site. Finally, it called for the removal of the dry well, the decontamination of the excavated dry well and associated debris, and the disposal of contaminated materials off-site at an EPA-approved hazardous waste facility. The work was completed in 1991.
+
+Because contaminant levels in the groundwater remained elevated after years of extraction and treatment, EPA suspected that contaminants had leaked under the slab from the pipe leading to the dry well. EPA sampled beneath the slab of the former dry cleaner, now a Subaru dealership, to see if VOC concentrations were present. Because the levels were found to be elevated, EPA installed a sub-slab mitigation system, which draws vapors out of the soil and vents them outside, to remove the source material and to prevent vapors from entering the building. VOCs entering the building could pose a health risk to those in the building.
+
+Further investigation at the dealership indicated that there was also a small volume of contaminated soil under the building. EPA enhanced the sub-slab mitigation system so that it could target the contaminated soil. The results of soil sampling in 2011 indicated that the levels of contamination are not below levels of concern.
+
+There are no impacted private drinking water wells near the groundwater plume. Because new wells require a permit from the County’s health department, this effectively prevents their installation near the groundwater plume. EPA notified the local planning board that EPA should be contacted prior to the approval of any construction on the dealership property and any planned development near the site. This prevents potential exposures to contaminated soils below the water table on the Subaru dealership property and to area groundwater. EPA also notified the dealership.
+
+EPA or the state issues periodic reminders to the planning board and the dealership. The state has been issuing these reminders since they assumed the groundwater management system O&M responsibilities in 2007 EPA added the county health department’s restrictions related to the installation of wells and the notifications to the planning board and the dealership to the implemented cleanup. EPA documented these changes in an October 2009 ESD.
+
+Sampling from 2011 indicated contamination in the soil had reached cleanup goals. Restrictions on property use and for site groundwater remain. The car dealership continues to operate its business on site.
+
+### What Is the Current Site Status?
+
+The groundwater management system continues to operate successfully and has mitigated the risks. EPA estimates that the system will treat 10 million gallons of contaminated groundwater each year for the duration of cleanup.
+
+EPA conducts five-year reviews at sites to ensure that implemented cleanups protect public health and the environment and that they function as intended by the site decision documents. EPA completed five-year reviews for the Brewster Well Field Superfund site in April 2002, April 2007, April 2012, and August 2017, and March 2022. The five-year reviews determined that the site cleanup actions continue to protect human health and the environment.

@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Harbor Island is an industrial island in Seattle, Washington's Elliott Bay. Built in the early 1900s, the 420-acre island supports businesses that conduct commercial and industrial activities, including ocean and rail transport operations. Commercial and industrial operations on the site contaminated groundwater, sediment, and soil.
+
+The East Waterway was created during the construction of Harbor Island and is maintained by the U.S. Army Corps of Engineers. Since the creation of Harbor Island, the original estuarine mudflat area has been either filled or dredged and channelized to create the East Waterway. Early industrial and commercial use of the East Waterway consisted of fish processing facilities, shipyards, and facilities with flour mills, grain elevators, lumber yards, and cold storage primarily located on the eastern shore. Wharves constructed on creosoted piles were built in the early 1900s along both sides of the East Waterway. Commercial and industrial development continued after the 1940s including oil terminals, shipyards, rail transfer terminals, cold storage, lumber yards, and sand and gravel transfer stations. From these uses, the sedimentsin the East Waterway were contaminated with high levels of pollutants. PCBs are most widespread, other contaminants of concern (COCs) include arsenic, PAHs, mercury and tributyltin.
+
+The potential sources of contaminants are both legacy pollutants and from potentially ongoing sources.
+
+The Harbor Island Superfund Site is large and complicated and is broken up into smaller areas to make cleanup easier and more manageable. These smaller areas are called "Operable Units" or OUs. There are seven active OUs. Cleanup decisions were made by EPA at five OUs and by the Washington Department of Ecology at the Tank Farms OU. East Waterway is the last remaining OU without a cleanup decision by EPA.
+
+Cleanup Decisions Made by EPA at Five OUs of Harbor Island:
+
+- **Soil and Groundwater OU:** Removed contaminated soil, treated and disposed soil off-site; capped remaining soil; implemented Institutional Controls; implemented long-term removal and treatment of petroleum-related products, and continued with the shoreline groundwater monitoring program.
+- **Tank Farms OU:** BP, Kinder Morgan and Shell excavated and disposed of lead- and arsenic-contaminated shallow surface soil; removed soil contaminated with total petroleum hydrocarbons and treated and disposed of it off-site; treated remaining contaminated soil and groundwater; used natural processes to reduce contaminant concentrations; and implemented long-term groundwater monitoring and institutional controls.
+- **Lockheed Upland OU:** On Harbor Island, removed upland contaminated soil and treated and disposed of it off-site; capped remaining soil contamination; continued long-term groundwater monitoring; and implemented stormwater management.
+- **Lockheed Shipyard Sediments OU:** Demolished the existing pier on the west side of Harbor Island and removed approximately 6,000 creosote-treated piles; dredged the nearshore area and capped remaining sediments; created a riparian buffer and placed a habitat-friendly soil layer on top of the capped sediments.
+- **Todd Shipyard Sediments OU (now Vigor Shipyard):** Dredged the area near the berth; demolished piers; capped contaminated sediments under the remaining piers; and created a habitat area at a capped nearshore area.
+
+EPA has conducted several five-year reviews of the operable units’ remedies. The purpose of a five-year review is to determine whether the remedy at a site, including operable units, continues to be protective of human health and the environment. Five-Year Review reports also identify issues or deficiencies found during the review, if any, and recommendations to address them.
+
+- [2020 Signed Fifth Five-Year Review Report for Harbor Island Superfund Site, King County, Washington (PDF)](https://semspub.epa.gov/src/document/10/100270771). (104 pp, 9.44 MB)
+
+For the remedies to be protective in the long term at Harbor Island, cap inspections and maintenance must be completed annually; light non-aqueous phase liquid removal must continue at Vigor Shipyard (formerly known as Todd Shipyard); and the groundwater monitoring program needs to be evaluated and coordinated. Because contamination remains in both the upland soils and sediments at concentrations greater than allowable for unrestricted use or unlimited exposure, appropriate restrictive covenants must be recorded - such as restricting groundwater for drinking water, preventing unrestricted excavation, and identifying "no anchor" areas. Most of these restrictions are on properties owned by or under the control of large potentially responsible parties, including the Port of Seattle and major oil companies.
+
+The Lockheed West Seattle Superfund Site is located at the head of Harbor Island’s West Waterway in Elliott Bay, adjacent to the Port of Seattle Terminal 5. Learn more about this nearby Superfund site at [www.epa.gov/superfund/lockheed-west-seattle](https://www.epa.gov/superfund/lockheed-west-seattle)
+
+**Fishing and recreation on the East Waterway**
+
+There is little public access and a greater concentration of commercial shipping activity, so swimming, kayaking, and boating on the East Waterway is minimal. The East Waterway serves ecological and recreational functions as a deepwater estuary at the mouth of the Duwamish River. It is also an area used for a tribal commercial netfishery and recreational fishing occurs off the Spokane Street Bridge. There is a state-wide Washington Department of Health (WDOH) fish consumption advisory for mercury in Northern Pikeminnow and Small- and Largemouth Bass, and another WDOH advisory against eating any resident fish or shellfish from the Lower Duwamish Waterway, and an advisory recommending limits on consumption of salmon throughout Puget Sound, including from the Duwamish River.
+
+Community Health Advocates, supported by the parties responsible for the Lower Duwamish Waterway cleanup, EPA, and Public Health Seattle-King County, have developed [the “Fun to Catch, Toxic to Eat” institutional control program for the Lower Duwamish Waterway](https://kingcounty.gov/depts/health/environmental-health/healthy-communities/duwamish-fishing/about-us.aspx), which promotes culturally appropriate, healthy actions that protect the health and well-being of fishing communities, pregnant women, nursing moms and young children. This program includes the Spokane Street Bridge where the most fishers in the Duwamish River fish.
+
+### What Is the Current Site Status?
+
+To date, cleanup decisions were made by EPA at five of the Harbor Island operable units and by the Washington Department of Ecology at the Tank Farm OU. These OUs are undergoing long-term monitoring to ensure the cleanup activities continue to protect people’s health and the environment. Site cleanup is addressed through federal and potentially responsible party actions.
+
+The one operable unit that remains to be cleaned up is the East Waterway. EPA is overseeing the cleanup of the East Waterway, which is primarily being conducted by the East Waterway Group. The Group consists of the Port of Seattle, the City of Seattle, and King County. The Port is leading the cleanup work under a legal agreement with EPA. The City of Seattle and King County are supporting the Port's efforts and are conducting source control measures with EPA oversight.
+
+In 2014, the Remedial Investigation for the East Waterway was completed. Information gathered from the Remedial Investigation helps EPA determine the best and most efficient ways to address the threats to human health and the environment from the East Waterway sediment. Data from the Remedial Investigation supported the analyses conducted in the Feasibility Study that was finalized in 2019.
+
+The Feasibility Study for the East Waterway evaluated and discussed the different methods available for sediment cleanup and described ways to combine those methods into a wide range of options for cleaning up the contamination, including removing contaminants by dredging, capping over contaminants with an engineered cap, adding thin layers of sand to less contaminated areas where sediment does not move, and monitoring contaminant concentrations over time to ensure contaminant levels are decreasing.
+
+EPA used the Remedial Investigation and Feasibility Study reports to help prepare a proposed cleanup plan for the East Waterway that was made available to the public in April 2023.
+
+On May 29, 2024 EPA released the [Interim Record of Decision for the East Waterway Operable Unit](https://semspub.epa.gov/src/document/10/100551831).

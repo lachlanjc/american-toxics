@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Facet Enterprises, Inc. Superfund site is located in Elmira Heights, New York. From 1929 to 1976, Bendix Corporation manufactured bicycle parts, automobile engine components, and various other products at the site, including small arms during World War II. In 1976, Facet Enterprises, Inc., which was owned by Bendix, began manufacturing automobile engine components. From the 1940s through 1978, the companies disposed of cyanide salts, heavy metal sludges, spent solvents, and various oils on the plant property. These disposal practices led to soil and groundwater contamination, resulting in the EPA placing the site on the Superfund National Priorities List in September 1983. The site borders a residential area and is less than 200 feet from the nearest home. Approximately 1,000 people live within a quarter-mile radius of the site and six schools are within a mile of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA issued a [cleanup plan](https://semspub.epa.gov/work/02/57087.pdf) documented in a Record of Decision, or ROD, in 1992 to remove contaminated soil and sediment, place a protective cap over the remaining soil, and treat the contaminated groundwater at the facility. The groundwater treatment system began operating in 1997 and remains in service. The EPA removed contaminated soil and sediment from the site and placed a protective cap over soil remaining in one area, as planned.
+
+In 2007, the EPA began to investigate whether vapor intrusion was occurring in the area toward which groundwater flows from the site. Vapor intrusion occurs when chemical vapors move from shallow groundwater and soil into buildings through cracks in basements, foundations, sewer lines, and other openings. Where vapor intrusion has been found to occur, the EPA installs systems to vent or redirect vapors to the outside air that would otherwise have the potential to collect under the property or enter the building. The EPA has sampled over 300 properties for [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds), or VOCs, primarily, [trichloroethylene](https://www.atsdr.cdc.gov/toxfaqs/tfacts19.pdf), or TCE, and has installed vapor mitigation systems at about 80 properties where vapor intrusion was found to be occurring.
+
+### What Is the Current Site Status?
+
+The EPA continues to sample residential and commercial properties and install vapor mitigation systems where vapor intrusion is occurring or may have the potential to occur.
+
+The EPA reached an agreement in 2021 with a potentially responsible party, a company that merged with Facet in 1989, to investigate contaminated groundwater that has moved beyond the borders of the former Facet facility. The ongoing investigation includes collecting groundwater samples from existing monitoring wells in the area and installing new monitoring wells to better understand the nature and extent of contamination.
+
+The EPA finalized a cleanup plan to address vapor intrusion at the site in September 2021. The EPA continues to sample properties in Elmira Heights for vapors and install vapor mitigation systems at properties where there may be a potential for vapor intrusion. These systems, similar to radon mitigation systems, vent or direct vapors that have the potential to collect under the property or enter the structure to the outside air.
+
+A municipal water supply provides town residents with drinking water and institutional controls restrict access to the portions of the groundwater aquifer that remain contaminated, thereby restricting exposure to groundwater.
+
+In addition to the EPA’s continued operations to prevent vapor intrusion and oversight of the potentially responsible party’s groundwater investigation, the EPA continues to conduct a formal review of the site and all systems every five years, known as a “ [Five Year Review](https://semspub.epa.gov/work/02/609938.pdf) ”. This thorough review uses site inspections, detailed record reviews, and discussions with site operators to ensure that the current approach protects people’s health and the environment.

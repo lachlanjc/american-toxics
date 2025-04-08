@@ -1,2 +1,42 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Eighteen Mile Creek Superfund site is in Niagara County, New York. The creek flows north for approximately 15 miles and discharges to Lake Ontario in Olcott, New York. Immediately north of the New York State Barge Canal are the East and West branches of the creek. The branches merge to form the main body of the Eighteen Mile Creek at the Clinton Street Bridge in Lockport, New York. The creek has been divided into three sections: the Eighteen Mile Creek Corridor, which extends from the creek's headwaters at the Barge Canal to Harwood Street in Lockport; the sediment transitional area that begins at Harwood Street and extends downstream for approximately 5.3 miles; and north of the sediment transitional area or the remainder of the creek until discharing at Lake Ontario.
+
+EPA placed the site on the Superfund program’s National Priorities List in March 2012 and began investigating the site in May 2012.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA permanently relocated people from five residences on Water Street, demolished the homes, and also demolished the building at the former Flintkote Plant in 2015. EPA installed security fencing to restrict access to contaminated soil at these properties until the cleanup could take place.
+
+The New York State Department of Health issued an “eat none” advisory for any fish caught in the creek because [Polychlorinated biphenyls](https://www.atsdr.cdc.gov/toxfaqs/tfacts17.pdf) (PCBs) were detected in fish.
+
+### What Is the Current Site Status?
+
+Site remediation activities are sometimes separated into different phases, or Operable Units (OUs), so that remediation of different aspects of a site can proceed separately, resulting in a more efficient and expeditious cleanup of the entire site. EPA is addressing the Eighteen Mile Creek Site in multiple OUs.
+
+OU1 addressed the risks associated with the residential soil contamination at nine residential properties located on Water Street and the threats posed from the deteriorating Flintkote Plant building. On September 30, 2013, EPA selected a final cleanup plan for OU1 (OU1 ROD). As part of EPA’s selected remedy for OU1, residents on Water Street were permanently relocated from their homes because of the presence of PCB contaminated soils in residential yards and the likelihood of recontamination based on recurring flooding of the properties with PCB contaminated water and sediments from the Creek, given their properties’ location within the Creek’s floodplain. It was determined that the OU1 soil excavation work would be performed at the time of the cleanup of the OU2 sediments to prevent the Creek from re-contaminating the above-referenced residential properties subsequent to their cleanup. Following the relocations, the structures at the OU1 properties were demolished. The buildings at the Flintkote property were also demolished.
+
+On January 19, 2017, EPA selected the OU2 remedy (OU2 ROD), which addressed the contaminated soil at the following properties adjacent to the Creek: the former Flintkote Plant property (Flintkote), Upson Park, the White Transportation property, and the former United Paperboard Company property. The remedy set forth in the OU2 ROD also addressed contaminated sediment within the Creek Corridor. The highest levels of PCB contamination in sediments, and the presence of PCBs on adjacent properties, occurs within the Creek Corridor, which is why this portion of the Creek is being addressed first. The cleanup plan for OU2 includes bank-to-bank excavation of sediment in the Creek Corridor and a combination of soil excavation and capping at the upland properties. This remedy is currently in the remedial action phase and construction activities began in Summer 2024.
+
+OU3 addresses sediments within a portion of the Creek, referred to as the Sediment Transition Area (STA) in the cleanup plan (in 2024 OU3 ROD). The STA is a subset area of the full length of the Creek comprising the portion of the Creek beginning from Harwood Street and extending downstream for approximately 5.3 miles. Floodplain soils impacted by the Creek adjacent to the STA are also included within this OU. Evaluations conducted during EPA’s investigation of OU3 revealed that the STA contains approximately 21% of the overall mass of PCBs in the Creek, as well as the highest contaminant concentration in the sediment downstream of OU2. The EPA selected remedy is to remove the contaminated sediment and place clean material over the disturbed areas. The EPA will dispose of the contaminated sediment off-site at a landfill. In addition, the EPA will remove floodplain soil contaminated with lead and PCBs.
+
+OU4 addresses lead-contaminated soils at certain residential properties in the vicinity of the former Flintkote Property. EPA selected a cleanup plan for OU4 (in the OU4 ROD) in 2019, which calls for the excavation and off-Site disposal of lead-contaminated soils found to be located at the residential properties. The remedy for the first phase of the OU4 remediation includes 33 residential properties, and construction activities began in Fall 2024. Soil sampling at additional residential properties, referred to as Phase 2 of OU4, is ongoing.
+
+Future Operable Unit(s)
+
+The remaining areas of the Creek (commencing immediately downstream of the STA to the Creek’s discharge at Lake Ontario) that are not addressed by these actions would be addressed under separate, future action(s). The impoundment areas upstream of Newfane Dam and Burt Dam have historically acted as sinks for contaminated sediment, and as such these areas have been identified as potential pockets of downstream contamination in the event of a change in the flow regime of the Creek. These remaining areas require additional evaluation to establish a final remedy for the full length of the Creek.
+
+### Green Remediation
+
+The EPA Region 2 Clean and Green Policy provides guidance for the implementation of green remediation for response actions in the region. The goal of this policy is to enhance the environmental benefits of federal cleanup programs by promoting technologies and practices that are sustainable, while complying with all applicable laws and regulations. The objectives of green remediation are to: protect human health and the environment by achieving remedial action goals; support human and ecological use and reuse of remediated land; minimize impacts to water quality and water resources; reduce air emissions and greenhouse gas production; minimize material use and waste production; and conserve natural resources and energy.  
+  
+This policy establishes touchstone practices that are both quantifiable and reportable. The region uses reporting requirements in enforcement instruments, grants, and contracts to collect and report metrics annually. Examples of touchstone practices that may be used during the implementation of the selected remedies are: se of renewable energy, and energy conservation and efficiency approaches including Energy Star equipment
+
+- Cleaner fuels and clean diesel technolgoies and strategies
+- Water conservation and efficiency appraoches including WaterSense products
+- Sustainable site design
+- Industrial material reuse or recycling within regulatory requirements
+- Recycling applications for materials generated at or removed from the site
+- Environmentally Preferable Purchasing
+- Greenhouse gas emission reduction technologies
+Green remediation techniques, as detailed in NYSDEC’s Division of Environmental Remediation (DER) DER-31 Green Remediation Program Policy, will also be considered during the implementation of the selected remedy to reduce short-term environmental impacts.

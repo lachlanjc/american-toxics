@@ -1,19 +1,23 @@
-ANDREWS AIR FORCE BASEANDREWS AIR FORCE BASE, MD
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 4,360-acre Andrews Air Force Base (AAFB) site is an active U.S. Department of Defense facility in Camp Springs, Maryland, about five miles southeast of Washington, D.C. AAFB changed its name to Joint Base Andrews (JBA) Naval Air Facility Washington before the federal facility agreement (FFA) was signed in September 2011. The base has been in operation since 1942. It includes runways and airfield operational areas, an industrial area, and housing and recreation facilities. Past activities at the site contaminated soil, sediment, surface water and groundwater with petroleum and hazardous chemicals. Investigation and cleanup activities are ongoing.
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. The U.S. Air Force (USAF) and EPA signed the federal facility agreement (FFA) to guide cleanup efforts on September 7, 2011. JBA (formerly AAFB) is an active USAF installation and is home to the presidential aircraft, Air Force One. JBA supports worldwide airlift support operations for high-ranking domestic and foreign dignitaries, and supports the flight operations of more than 100 aircraft. On-base activities include aircraft and wheeled vehicle storage, maintenance and servicing, office space, residential housing, and open and recreational space. EPA has conducted three five-year reviews of the site remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The next five-year review is due May 23, 2026.
-What Is the Current Site Status?
-The U.S. Air Force (USAF) has conducted environmental investigations at the site since 1985, under its Environmental Restoration Program. EPA and the USAF identified 16 different areas that require remedial investigations. Long-term remedies have been selected for some site areas; investigations are still underway for many other site areas. Completed cleanup activities to date include groundwater treatment and monitoring, land use controls, and capping of contaminated areas. The USAF conducted a site investigation (SI) to determine the presence or absence of Per- and Polyfluroalkyl Substances (PFAS) in the environment at JBA and released the report in 2018. These compounds are a class of synthetic fluorinated chemicals used in industrial and consumer products, including defense-related applications. Aqueous film forming foam, firefighting agents containing PFAS, are and have been used to extinguish petroleum fires. The SI determined that PFAS has been released into the environment above the EPA lifetime health advisory (HA) levels. The USAF has performed some PFAS sampling but the remedial investigations for PFAS are expected to begin in 2022. The USAF is the lead agency responsible for cleanup. The Community Involvement Plan is currently being updated and will revisit the need to reconstitute a Restoration Advisory Board and to further investigate potential environmental justice concerns. Federal facilities, such as JBA, can be quite large, surrounded by diverse (rather than uniform) communities and land use. Moreover, not all surrounding communities will be impacted by site releases and remedial activities, and those that may be impacted may be impacted differently, depending on location. Each Federal agency shall make achieving environmental justice part of its mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations.
+### Background
 
-Emergency Response and Removal
+The 4,360-acre Andrews Air Force Base (AAFB) site is an active U.S. Department of Defense facility in Camp Springs, Maryland, about five miles southeast of Washington, D.C. AAFB changed its name to Joint Base Andrews (JBA) Naval Air Facility Washington before the federal facility agreement (FFA) was signed in September 2011. The base has been in operation since 1942. It includes runways and airfield operational areas, an industrial area, and housing and recreation facilities. Past activities at the site contaminated soil, sediment, surface water and groundwater with petroleum and hazardous chemicals. Investigation and cleanup activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. The U.S. Air Force (USAF) and EPA signed the federal facility agreement (FFA) to guide cleanup efforts on September 7, 2011.
+
+JBA (formerly AAFB) is an active USAF installation and is home to the presidential aircraft, Air Force One. JBA supports worldwide airlift support operations for high-ranking domestic and foreign dignitaries, and supports the flight operations of more than 100 aircraft. On-base activities include aircraft and wheeled vehicle storage, maintenance and servicing, office space, residential housing, and open and recreational space.
+
+EPA has conducted three five-year reviews of the site remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The next five-year review is due May 23, 2026.
+
+### What Is the Current Site Status?
+
+The U.S. Air Force (USAF) has conducted environmental investigations at the site since 1985, under its Environmental Restoration Program. EPA and the USAF identified 16 different areas that require remedial investigations. Long-term remedies have been selected for some site areas; investigations are still underway for many other site areas. Completed cleanup activities to date include groundwater treatment and monitoring, land use controls, and capping of contaminated areas.
+
+The USAF conducted a site investigation (SI) to determine the presence or absence of Per- and Polyfluroalkyl Substances (PFAS) in the environment at JBA and released the report in 2018. These compounds are a class of synthetic fluorinated chemicals used in industrial and consumer products, including defense-related applications. Aqueous film forming foam, firefighting agents containing PFAS, are and have been used to extinguish petroleum fires. The SI determined that PFAS has been released into the environment above the EPA lifetime health advisory (HA) levels. The USAF has performed some PFAS sampling but the remedial investigations for PFAS are expected to begin in 2022. The USAF is the lead agency responsible for cleanup.
+
+The Community Involvement Plan is currently being updated and will revisit the need to reconstitute a Restoration Advisory Board and to further investigate potential environmental justice concerns. Federal facilities, such as JBA, can be quite large, surrounded by diverse (rather than uniform) communities and land use. Moreover, not all surrounding communities will be impacted by site releases and remedial activities, and those that may be impacted may be impacted differently, depending on location. Each Federal agency shall make achieving environmental justice part of its mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations.
+
+### Emergency Response and Removal
+
 Site cleanup has also included numerous removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Some of the removal actions have included removing and replacing underground storage tanks; excavating contaminated soil; covering areas with clean soil; and demolishing and removing contaminated structures.

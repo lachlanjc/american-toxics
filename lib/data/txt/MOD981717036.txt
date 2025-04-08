@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Oak Grove Village Well site is located in Franklin County, Missouri. The site consists of trichloroethylene (TCE) contamination in groundwater in several separate areas in the city of Sullivan and Oak Grove Village. TCE is a volatile organic compound. The widespread, sporadic nature of the detections are likely the result of the complex karst subsurface and rock fracturing in the area. The site has been divided into two operable units. Operable Unit 1 consists of several private and public wells in Oak Grove Village and Sullivan. Operable Unit 2 consists of the closed Sullivan Landfill and impacted groundwater around the landfill. There is also a local, commercial show cave which has been impacted by contamination from both Operable Units 1 and 2.
+
+Contamination at the site was first detected on June 10, 1986, during routine sampling conducted by the Missouri Department of Natural Resources. Subsequent sampling discovered TCE in several area wells. The extent of the contamination prompted the EPA to propose the site to the National Priorities List. The site was listed on the NPL on September 5, 2002.
+
+The MoDNR and the EPA have conducted extensive investigations into the contamination across the site to determine the sources of the TCE contamination. No potential sources for the TCE contamination have been discovered besides the closed Sullivan Landfill and the old TRW-Ramsey facility, which is being addressed by the MoDNR’s RCRA program.
+
+### What Has Been Done to Clean Up the Site?
+
+Residents previously served by private wells which were impacted above health concerns have since been provided with an alternate water supply and air mitigation systems have been implemented at a local, commerical show cave to limit exposures to trichloroethylene within the air.
+
+### What Is the Current Site Status?
+
+Although all known impacted homes have been addressed and trichloroethylene (TCE) concentrations in certain areas are decreasing, investigations remain ongoing to determine the best way to address contaminated groundwater in the area. Sampling is also ongoing at a local, commercial show cave to ensure air mitigation systems remain effective in limiting TCE within the air in the utilized portions of the cavern.
+
+### Sampling and Monitoring
+
+Routine air sampling is being conducted within a commercial show cave at the site to ensure trichloroethylene (TCE) concentrations remain below levels of health concern.
+
+Private and municipal drinking water wells are sampled periodically to evaluate changes in TCE concentrations across the site and ensure wells that have been impacted by TCE concentrations above levels of health concern are addressed.
+
+### Emergency Response and Removal
+
+In order to protect human health, a removal action was conducted at the site to provide private wells with detections of trichloroethylene (TCE) that exceeded levels of health concern with filtration systems.
+
+A second removal action is being conducted to address TCE within the air inside a commercial show cave. This removal action included the use of air mitigation controls to limit TCE concentrations in the utilized portion of the cavern.

@@ -1,20 +1,17 @@
-TRONIC PLATING CO., INC.FARMINGDALE, NY
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Tronic Plating Co., Inc. site is located in Farmingdale, New York. Tronic Plating occupied the southeastern corner of a long building in an industrial park area from 1968 to 1984. It provided electroplating and metal protective coating services for the electronics industry. The half-acre site consists of the long building, two inside aboveground storage tanks, four underground leaching pools and a storm drain in the paved area northeast of the building. Following site investigations and removal of contaminated waste, EPA determined that the site did not pose a significant threat to human health and the environment. EPA took the site off the Superfund program’s National Priorities List (NPL) in October 2001.
-During its operation, the facility discharged industrial wastes into a sanitary pit and the four underground leaching pools. Tronic Plating produced about 1.25 million gallons of wastewater each year. The storm drains, which were about 40 feet from the northern rear door of the operation, were allegedly also used by Tronic Plating to dispose of potentially hazardous effluent. New York State issued a Pollutant Discharge Elimination System permit to Tronic Plating in 1980. Tests by the New York State Department of Health in 1985 detected heavy metals, including copper, silver, iron, zinc, lead and cadmium, in the leaching pools and in the storm drain. The company is now operating in another location. The building space where it formerly operated is occupied by three small companies. EPA placed the site on the Superfund program’s National Priorities List in June 1986.
-What Has Been Done to Clean Up the Site?
-Following a remedial investigation from 1988 to 1992, EPA determined that the site does not pose a significant threat to human health and the environment. However, EPA identified waste present in storm drains, sanitary leaching pools and dry wells that could be discretely removed. These wastes were removed from the site by Commerce Holding Company, the site’s potentially responsible party (PRP), in 1992. About 9,000 gallons of groundwater and 10 tons of sediment were removed from the site.
+### Background
 
-What Is the Current Site Status?
-A Remedial Investigation/Feasibility Study by Commerce
-Holding Company indicated that there
-were contaminated soils and sediments on-site, but at low levels that
-did not pose a risk to human health. Commerce Holding Company removed these wastes from the sit in 1993. The site was deleted from the National Priorities List in October 2001.
+The Tronic Plating Co., Inc. site is located in Farmingdale, New York. Tronic Plating occupied the southeastern corner of a long building in an industrial park area from 1968 to 1984. It provided electroplating and metal protective coating services for the electronics industry. The half-acre site consists of the long building, two inside aboveground storage tanks, four underground leaching pools and a storm drain in the paved area northeast of the building. Following site investigations and removal of contaminated waste, EPA determined that the site did not pose a significant threat to human health and the environment. EPA took the site off the Superfund program’s National Priorities List (NPL) in October 2001.
+
+During its operation, the facility discharged industrial wastes into a sanitary pit and the four underground leaching pools. Tronic Plating produced about 1.25 million gallons of wastewater each year. The storm drains, which were about 40 feet from the northern rear door of the operation, were allegedly also used by Tronic Plating to dispose of potentially hazardous effluent. New York State issued a Pollutant Discharge Elimination System permit to Tronic Plating in 1980. Tests by the New York State Department of Health in 1985 detected heavy metals, including copper, silver, iron, zinc, lead and cadmium, in the leaching pools and in the storm drain. The company is now operating in another location. The building space where it formerly operated is occupied by three small companies.
+
+EPA placed the site on the Superfund program’s National Priorities List in June 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+Following a remedial investigation from 1988 to 1992, EPA determined that the site does not pose a significant threat to human health and the environment. However, EPA identified waste present in storm drains, sanitary leaching pools and dry wells that could be discretely removed. These wastes were removed from the site by Commerce Holding Company, the site’s potentially responsible party (PRP), in 1992. About 9,000 gallons of groundwater and 10 tons of sediment were removed from the site.  
+
+### What Is the Current Site Status?
+
+A Remedial Investigation/Feasibility Study by Commerce Holding Company indicated that there were contaminated soils and sediments on-site, but at low levels that did not pose a risk to human health. Commerce Holding Company removed these wastes from the sit in 1993.
+
+The site was deleted from the National Priorities List in October 2001.

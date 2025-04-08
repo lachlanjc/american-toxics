@@ -1,2 +1,54 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Location: Intersection of 25th Street NW and US Hwy 65
+
+The Site consists of an area within the Lafarge-Holcim facility located north of Mason City, Iowa, near the intersection of 25th Street and U.S. Highway 65. The facility has previously been known as the Northwestern States Portland Cement Company; Holnam, Inc.; and Holcim (US), Inc. Another cement manufacturing plant and Superfund Site (Lehigh Portland Cement Co.) is located just north of the Site, with Calmus Creek between them. Calmus Creek flows to the Winnebago River, which is less than one mile east of the Site. Groundwater flow in the Site is primarily to the northeast, toward Calmus Creek and the Winnebago River.
+
+Cement manufacturing began at the Site in 1908 and ceased in the fall of 2009. The area referred to as the West Quarry was mined for limestone, a raw material for cement production, until 1950. The West Quarry had reached a depth of approximately 40 feet and covered an area of about 150 acres. In 1969, the company began using the West Quarry for the disposal of waste cement kiln dust (CKD). When disposal activities ceased in 1985, approximately two million tons of cement kiln dust had been placed in the quarry, and the quarry’s unfilled area had been reduced to approximately 40 acres. The open portion of the quarry, filled with approximately 420 million gallons of water, was known as the West Quarry Pond. Cement kiln dust is composed of a primary cement component, calcium oxide, which reacts with water and releases hydroxide ions into solution. The hydroxide ion concentration directly controls the potential of the hydrogen (pH) level of an aqueous solution. Groundwater and surface water at the Site have been impacted by high pH levels and total dissolved solids (TSD). The high pH levels in groundwater may cause metals, naturally-occurring in soil or rock in the subsurface, to dissolve into downgradient groundwater.
+
+In 1979, two seeps emerged from the northeastern portion of the filled West Quarry, and the water traveled overland and into Calmus Creek. The Iowa Department of Natural Resources found that downstream from the West Quarry, the creek water pH was elevated and the total dissolved solids were also elevated. In October 1980, water samples obtained from the West Quarry pond had a pH value of about 12.5. (pH is considered neutral at 7.0. A pH value lower than 7.0 is referred to as acidic and a value higher than 7.0 is referred to as alkaline.) A fish kill occurred in Calmus Creek in September 1986.
+
+The contaminated groundwater plume is controlled by extraction wells and remains within the footprint of the capped quarry. The site location is shown in Figure 1. The site was deleted from the NPL in 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1987, the EPA conducted a site inspection. Based upon the results of the site inspection, the site was proposed for the NPL in June 1988 and was added to the final NPL listing in August 1990.
+
+In 1990, the Northwestern States Portland Cement Company (a predecessor to the current site owner, Lafarge-Holcim) completed a remedial investigation and feasibility study under the enforcement oversight of the Iowa Department of Natural Resources (IDNR). A remedy was selected in a Record of Decision prepared by the IDNR and signed by the EPA in June 1990.
+
+In 1991, Northwestern States Portland Cement Company and Holnam Inc., both predecessor companies to the current owner, Lafarge-Holcim, entered into a Consent Decree to conduct the cleanup actions at the site. The major components of the cleanup actions include dewatering of the West Quarry, construction of a cap over the quarry as well as a water treatment system and groundwater extraction system. This construction was completed in October 1993. The clay cap was constructed to limit rainwater from saturating the West Quarry. Seven groundwater extraction wells were installed around the West Quarry and pumped to lower the water table below the cement kiln dust waste. The water that is pumped out is treated in the treatment system before being discharged to Calmus Creek. The system continues to operate and Lafarge-Holcim continues to maintain the cap over the West Quarry. All the work is performed under oversight of the EPA.
+
+Following cleanup, the EPA removed the site from the Superfund program’s National Priorities List (NPL) in 1995. Monitoring and maintenance activities are ongoing.
+
+### What Is the Current Site Status?
+
+The construction of the remedy was completed by Holcim in 1993. Groundwater pumping and treatment are ongoing to lower the groundwater below the cement kiln dust waste in the West Quarry. Groundwater monitoring confirms that the extraction system controls the groundwater and the treatment system lowers the pH of the extracted groundwater before it is discharged to Calmus Creek. The cap continues to limit infiltration of rainwater into the quarry. The cap maintenance is ongoing, with repairs to any eroded areas, fertilizing and mowing the grass cover occurring as needed. The EPA removed the site from the NPL in 1995.
+
+The EPA has conducted sixFive-Year Reviews of the site’s remedy. These reviews evaluate whether the remedies put in place protect public health and the environment and function as intended by site decision documents.
+
+**Upcoming Schedule and Targets:**
+
+Remedial Action status reports are completed annually and submitted by Holcim (US) Inc.
+
+The Sixth Five-Year Review was completed in June 2022. One Issue and Recommendation was found, but it was determined that the remedy stil remained protective of human health and the environment. The issue concerned erosion North of the Retention Pond, and a recommnedation was made for a Workplan to be Submitted to the United States Environmental Protection Agency (EPA) Region 7 with a milestone date of Dec. 30, 2024..
+
+The workplan was submitted on Dec. 17, 2024, with a timeline of the repairs to begin during the late Spring into early Summer 2025. Updates will be provided as they are recieved.
+
+The next Five-Year Review will be completed in June 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+An environmental covenant, document number 2016-5994, was recorded with the Cerro Gordo County Recorder on Oct. 4, 2016, with the following activity and use limitations:
+
+- The construction, installation, maintenance or use of any wells on the property for the purpose of extracting water for human drinking purposes or for the irrigation of food or feed crops shall be prohibited;
+- The soil cap located on the property shall be maintained in good repair in order to prevent direct contact with the landfill materials, reduce infiltration and leaching of contaminants and minimize run-off transport of contaminants;
+- The soil cap located on the property shall not be excavated or disturbed unless approved in advance in writing by the EPA or its assigns; and
+- Residential use is prohibited on the property unless approved in advance in writing by the EPA or its assigns.
+
+### Sampling and Monitoring
+
+Sampling and monitoring continues with an annual report submitted each year.

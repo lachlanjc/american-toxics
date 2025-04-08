@@ -1,29 +1,29 @@
-HEGELER ZINCDANVILLE, IL
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-EPA recently announced the final plan to clean up contaminated soil and sediment at the Hegeler Zinc site. In addition to zinc products, the former smelting facility produced sulfuric acid and cadmium which resulted in large amounts of slag, stored in piles on the site. Soil, sediment, groundwater and surface water are contaminated with cadmium, lead, arsenic and zinc. The cleanup will involve excavating contaminated sediment and soil and adding it to the existing slag pile or disposing of it off-site. The agency will then install a low-permeability cover over the pile, reroute portions of a creek to ensure a safe distance from the slag pile, and continue monitoring groundwater and surface water. 
+### Background
 
-What Has Been Done to Clean Up the Site?
-In 2015 EPA began cleanup of the residential properties at OU3 of the Hegeler Zinc Site. EPA’s cleanup of lead and arsenic included digging up and removing contaminated soil from residential yards; backfilling excavated properties with clean soil; transporting excavated non-hazardous soil to the former smelting facility for stockpiling to be addressed as part of the future remedy; transporting and disposing of hazardous  excavated soil to an Agency approved landfill. EPA completed cleanup of residential yards in OU3 in 2016.
-What Is the Current Site Status?
-EPA completed a review(PDF)(21 pp, 3.63MB, About PDF) of the site's cleanup in June 2020. This type of review  is required at least every five years where the cleanup is complete but hazardous waste remains managed on-site. These reviews are done to ensure that the cleanup continues to protect people and the environment. It was this site’s first five-year review. The review included an evaluation of:
-Background information
-Cleanup requirements
-Effectiveness of the cleanup and any anticipated future actions
-Maintenance and monitoring efforts
-Possible ways of operating the site more efficiently
+EPA recently announced the final plan to clean up contaminated soil and sediment at the Hegeler Zinc site. In addition to zinc products, the former smelting facility produced sulfuric acid and cadmium which resulted in large amounts of slag, stored in piles on the site. Soil, sediment, groundwater and surface water are contaminated with cadmium, lead, arsenic and zinc. The cleanup will involve excavating contaminated sediment and soil and adding it to the existing slag pile or disposing of it off-site. The agency will then install a low-permeability cover over the pile, reroute portions of a creek to ensure a safe distance from the slag pile, and continue monitoring groundwater and surface water.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2015 EPA began cleanup of the residential properties at OU3 of the Hegeler Zinc Site. EPA’s cleanup of lead and arsenic included digging up and removing contaminated soil from residential yards; backfilling excavated properties with clean soil; transporting excavated non-hazardous soil to the former smelting facility for stockpiling to be addressed as part of the future remedy; transporting and disposing of hazardous excavated soil to an Agency approved landfill. EPA completed cleanup of residential yards in OU3 in 2016.
+
+### What Is the Current Site Status?
+
+EPA completed a [review](https://semspub.epa.gov/work/05/960759.pdf) [(PDF)](https://semspub.epa.gov/work/05/960759.pdf) (21 pp, 3.63MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the site's cleanup in June 2020. This type of review is required at least every five years where the cleanup is complete but hazardous waste remains managed on-site. These reviews are done to ensure that the cleanup continues to protect people and the environment. It was this site’s first five-year review.
+
+The review included an evaluation of:
+
+- Background information
+- Cleanup requirements
+- Effectiveness of the cleanup and any anticipated future actions
+- Maintenance and monitoring efforts
+- Possible ways of operating the site more efficiently
+
 The review found the cleanup continues to protect people and the environment. The next scheduled review will be in 2025.
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 Heavy metals associated with the slag pile on OU1.

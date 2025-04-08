@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Historical facility operations in the area contaminated soil, sediment, and groundwater with hazardous chemicals. The 129-acre site was placed on the National Priority List (NPL) in 1983 and consisted of a former coke plant and five former lagoons, a former tar plant with a main parcel and a river parcel, a section consisting of parts adjacent to a local stream known as Ice Creek, and a section known as the Goldcamp Disposal Area. Eventually the site was divided into three areas, or Operable Units (OUs), for cleanup; the Goldcamp Disposal Area (OU 1), the Coke Plant Lagoon Area (OU2) and the Tar Plant (OU3).
+
+The cleanup at the site was performed from 1993 to 2015 and the remedies implemented were described in four Record of Decision (ROD) documents issued in 1988, 1990, 1997 and 2007; three ROD Amendments published in 1995, 1997, and 1998; and two Explanations of Significant Differences documents issued in 2015 and 2020. All these documents are available in the [NPL Partial Deletion Docket](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0504336&doc=Y&colid=39610&region=05&type=SC) collection in the Site Documents & Data section of this website.
+
+### What Has Been Done to Clean Up the Site?
+
+The cleanup at the site consisted of tearing down a former coke plant, placing protective coverings over disposal areas, converting a former lagoon area into a wetlands ecosystem, digging up and removing contaminated soil and coal from the property, installing a pump-and-treat system for groundwater, long-term monitoring, and limiting the use of and access to the site.
+
+Before August 2020, the site consisted of three Operable Units:
+
+**Goldcamp Disposal Area (Operable Unit 1):** The remedy for this OU included installation of a slurry wall, capping, and groundwater pumping and treatment. Construction of the remedy was completed in 1995. The land portion of this OU was deleted on August 2020.
+
+**Coke Plant and Lagoon Area (Operable Unit 2):** The remedy for this OU included demolition of the coke plant; off-site disposal of low-level contaminated soil; recycling, treatment and/or disposal of soft tar; hot spot excavation and treatment; wetland development; and groundwater pumping and treatment. Construction of the remedy was completed in 2001. Since 2011, recovery of the wetlands habitat is occurring through natural processes in this area. This portion of the site, except for a land section known as the OU2 ROD Soils Area 2 was deleted in August 2020.
+
+**Tar Plant (Operable Unit 3):** The tar plant was closed in December 2000. Honeywell began decommissioning activities in 2001 and completed all significant decontamination and demolition work in 2003. The remedy for contaminated soil beneath the former tar plant structures included capping of contaminated soil, land use restrictions to make sure the cap remains intact and a project to cap contaminated river sediment. Construction of the remedy was completed in 2016. This OU was deleted in August 2020.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+On August 24, 2020, U.S. EPA removed portions of the site from the NPL after a 30-day public comment period. The cleanup of the lagoon and sediment on site is now complete. The portions of the site deleted were OU3; the land portion of OU1; and the land and lagoon portion of OU2, except for a land section known as the OU2 ROD Soils Area 2.
+
+U.S. EPA removed these portions of the site from the Superfund list because actions taken at the site and follow-up monitoring confirm these areas no longer pose a threat to people or the environment.
+
+U.S. EPA continues to perform five-year reviews of the remedies at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The federal agency completed [the sixth five-year review (PDF)](https://semspub.epa.gov/work/05/995160.pdf) (54 pp, 2.24 MB) of the site in September 10, 2024. The review concluded that the remedy at the site continues to be protective of human health and the environment. However, for the remedy to be effective in the long-term the following actions are needed:
+
+- An additional extraction well should be installed to enhance the extraction pumping well to historical capacity of around 300 gallons per minute.
+- Additional extraction wells for chemicals known as DNAPL, or dense non-aqueous phase liquid, should be installed to remove the extensive DNAPL contamination in groundwater at OU2.
+- Groundwater sampling is needed to determine whether [Per- and Polyfluoroalkyl Substances (PDF)](https://www.epa.gov/system/files/documents/2023-10/final-virtual-pfas-explainer-508.pdf) (4 pp, 262.29 KB) are present
+
+In the summer of 2021, U.S. EPA began overseeing the installation of 2.3 acres of solar panels by the potentially responsible party for cleanup of the site. The installation was completed in 2022.
+
+The solar array is designed to provide power for 100% of the groundwater treatment plant on-site which consumes about 1.2 million kilowatt hours a year. The use of the solar energy is intended to offset about 817 tons of the plant’s annual carbon emissions.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA placed activity and use limitations known as institutional controls at this site because Poly Aromatic Hydrocarbons, or PAHs \[comprised of benzo(a)anthracene, benzo(a)pyrene, chrysene, and dibenzo(a,h)anthracene\], naphthalene, benzene, phenolics, and inorganic compounds such as arsenic and cyanide were found in groundwater, soil, and sediment.

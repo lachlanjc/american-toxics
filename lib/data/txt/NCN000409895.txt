@@ -1,2 +1,50 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ore Knob Mine Superfund site is located approximately 12 miles south of the Virginia state line, 45 miles southeast of Bristol, Tennessee, and eight miles east of Jefferson, North Carolina. The area hosted intermittent mining of copper ore from the 1850s through 1962, with most mining occurring from 1873 to 1883 and from 1957 to 1962. The site includes three principal areas and several downstream areas.
+
+- The 1950s Mine and Mill Area is located northwest of the intersection of Ore Knob Road and Little Peak Creek Road, just north of Highway 88. This 15-acre area contains derelict ore bins, concrete mill foundations, a transformer building, other ruins, tailings and a 2-acre former pond where process water was stored.
+- The 19th Century Operations Area includes a series of barren and nearly barren stretches of land (totaling about 5 acres) near the top of Ore Knob. This land contains waste rock dumps from at least 11 mineshafts as well as former ore smelting locations.
+- The Main Tailings Impoundment Area is located across Little Peak Creek Road, at the end of Ore Knob Mine Road. The Main Tailings Impoundment Area is located about 0.3 miles northeast of the 19th Century Operations Area. The Main Tailings Impoundment Area contains an estimated 720,000 cubic yards of tailings. These tailings contain high levels of metals, including copper, zinc, iron, arsenic and mercury, which can be a source of acid mine drainage, which can damage streams, rivers and other water bodies.
+
+All mining operations were conducted underground although large tailings piles are above ground. The mines are more than 4,000 feet long and more than 1,000 feet deep. The mines are now partly flooded with ground water to a depth of approximately 130-feet below ground surface. The process of mining exposed the ore containing sulfur bearing minerals to air and moisture. Air and water react with the ore and produce acid which in turn releases metals into the groundwater. Underground pools of mine-impacted water provide a continuing source of contamination to groundwater down-gradient of the underground mine workings.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2009 because of contaminated surface water, groundwater, sediment and soil.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA and the NCDEQ have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. EPA leads site investigation and cleanup activities in cooperation with NCDEQ.
+
+**2010 – 2012**
+
+- From April 2010 through June 2012, EPA sampled 79 potable water sources (64 private wells and 15 springs) in order to determine the extent of contaminated or potentially contaminated private drinking water wells. EPA will continue collecting samples from private drinking water wells as necessary to assess whether site contamination might be affecting additional wells. EPA also samples whole-house well treatment systems annually and potential at risk water sources to make sure the treatment systems are working properly.
+- EPA installed or upgraded 15 whole house treatment systems.
+- EPA has attempted to identify all affected drinking water wells and provides bottled water or well treatment systems where necessary.
+
+**2011**  
+In 2011, EPA completed an emergency response removal action to stabilize the Main Tailings Impoundment Area dam and prevent a catastrophic release of tailings into downstream waters. Specific actions included:
+
+- Analyzing the face of the Main Tailings Impoundment Area dam.
+- Removing 16,000 cubic yards of tailings from the Main Tailings Impoundment Area sediment pond so the pond could continue to capture new sediment.
+- Constructing a diversion channel to direct storm water around the Main Tailings Impoundment Area to minimize erosion of the dam face and acid mine drainage.
+- Filling in four ponds near the Main Tailings Impoundment Area to reduce surface water infiltration.
+- Re-facing the Main Tailings Impoundment Area dam.
+- Removing 60,000 cubic yards of mine tailings from the tailings dam at the 1950s Mine and Mill Area.
+- Constructing catchment basins to minimize the flow of sediment into the diversion channel.
+- Reconstructing the sediment pond embankment to provide more stability and increase sediment pond capacity.
+
+**2015**  
+In February 2015, EPA completed an investigation and determined a municipal water line will be extended about 8 miles from the Town of Jefferson through Ashe County to affected residents near the Ore Knob Mine Site.
+
+### What Is the Current Site Status?
+
+EPA has issued an interim cleanup plan (an interim Record of Decision, or IROD) which addressed contamination and related risks to people and the environment. This IROD can be found [here](http://semspub.epa.gov/src/document/04/11208118). In the future, EPA will issue a final cleanup plan (a Record of Decision, or ROD) which addresses any long-term contamination and related risks to people and the environment. After issuing the plan, EPA will begin preparations to carry out the approved long-term cleanup activities.
+
+### Sampling and Monitoring
+
+EPA conducts annual well water sampling on properties identified as being in the zone of concern. The purpose of the sampling is to ensure that whole house filter system is removing contamination present in drinking water related to the Ore Knob Mine Superfund Site and to evaluate if any further response actions are necessary to protect public health and the environment.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA has identified several potentially responsible parties (PRPs) associated with the site. EPA is engaged in ongoing enforcement activities. On November 9, 2010, EPA published notice of a proposed Settlement Agreement with one site PRP, The Marsh Foundation, Inc., and invited public comments.

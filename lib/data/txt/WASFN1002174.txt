@@ -1,3 +1,44 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The Hamilton/Labree Roads Groundwater Contamination site is located about two miles southwest of Chehalis, Washington. The site is contaminated with PCE. PCE is also called PERC, perchloroethylene, or tetrachloroethene. It’s a chemical used for dry cleaning, metal degreasing, and other industrial processes. PCE and its byproducts can present a risk to people’s health and the environment. In the past, PCE was spilled and dumped in Berwick Creek. Also, drums and other containers of assorted hazardous chemicals were buried in the area of what is now known as the Livestock Market. Release of the chemical from the buried and dumped containers contaminated soil, sediment, groundwater, and surface water. EPA and the State conducted early cleanup actions to address immediate threats. Risks to people’s health and the environment remain. In 2013, EPA selected an interim remedy for the site. Cleanup is underway.
+
+The site includes two areas where releases of hazardous wastes are known to have occurred: the 10-acre Hamilton Road Impacted Area (HRIA) and the 11-acre area now known as the Livestock Market. The site also contains an area called the Thurman Berwick Creek Area where a release is likely to have occurred. Contaminated groundwater plumes originating from these areas extend to the North/Northwest of Hamilton Road (which is downgradient) as well as west of Labree Road.
+
+For administrative purposes, the site has been divided into two units, called Operable Units, or OUs. The HRIA is OU-1. The Livestock Market area, Thurman Berwick Creek Area, and downgradient areas outside of the HRIA are OU-2.
+
+### What Has Been Done to Clean Up the Site?
+
+Contamination was first identified at the site in late 1993-early 1994 by the Washington State Department of Health (WDOH). Out of 18 water-supply wells sampled, PCE was detected in six.
+
+EPA conducted removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions included removing drums, pails and cans from beneath Building B on the property known as the Livestock Market area; supplying bottled water to affected well owners for drinking and cooking; and expanding the Chehalis municipal water supply system to affected residents.
+
+### What Is the Current Site Status?
+
+Cleanup began in 2020, and will continue through 2023. The site's interim cleanup for Operable Unit (OU) #1 includes:
+
+- temporarily rerouting Berwick Creek around contaminated areas;
+- removing PCE from the areas with highest concentrations, by heating the PCE-contaminated soil and sediment, then collecting the contaminants before discharging either the air or water, and by treating contaminated groundwater using bioremediation;
+- placing limits on future activities at the site; and
+- site monitoring.
+
+This interim remedy will inform other response actions at the site and is expected to contribute to, and be consistent with, the site’s final cleanup. In conjunction with the cleanup underway at OU1, EPA is leading characterization efforts at OU2 to collect information on downgradient sources and identify site-wide remedial action alternatives.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+During the cleanup activities, a locked fence will surround the operation to keep people away from high voltage electrical hazards, as well as from the chemicals and the operating equipment. This webpage will be updated with emergency contact information once work begins. Signs in the cleanup area will also include emergency contact information.
+
+### Sampling and Monitoring
+
+The cleanup plan includes monitoring of surface water, sediment, soil, groundwater and air to be performed during and after cleanup. The monitoring will help ensure protection of people and the environment and determine the effectiveness of the cleanup. EPA continues to perform routine monitoring of wells that are downgradient and outside of the known impacted areas to ensure that contamination does not move onto properties relying on private drinking wells.
+
+### Green Remediation
+
+The cleanup’s design will use green and sustainable alternatives to the extent feasible.
+
+### Emergency Response and Removal
+
+Cleanup has included past removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions have included removing drums, pails and cans from beneath Building B on the property known as the Livestock Market area; supplying bottled water to affected well owners for drinking and cooking; and expanding the Chehalis municipal water supply system to affected residents.

@@ -1,2 +1,36 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site is in Rock Creek, Ohio. It consists of two parcels of land, the Henfield property (3 acres) and the Kraus property (10 acres). The properties are separated by Station Street.
+
+EPA’s response activity at the site began in 1979, when EPA and Ohio EPA found approximately 1,200 drums of toxic waste on both properties including solvents, oils, resins, and polychlorinated biphenyls. Facility operations contaminated soil and groundwater with hazardous chemicals. The site was proposed for inclusion on the National Priorities List (NPL) on December 1982 and finalized on the NPL on September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+In August 1985 EPA issued a Record of Decision (ROD) with a selected cleanup remedy for the site. As part of the remedy residences within one-half mile downgradient of the site were offered the opportunity to connect to the public water supply.
+
+The cleanup for the site was completed in September of 1991. The cleanup consisted of demolishing dilapidated buildings, digging up and disposing of contaminated soil, installing a groundwater pumping and treating system, long-term monitoring, and limiting the use of and access to the site.
+
+In December 2006, the groundwater treatment system was idled to start a Monitored Natural Attenuation (MNA) Pilot Study to evaluate the effectiveness of MNA as a long-term remedial alternative for site groundwater.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal and state oversight of potentially responsible party (PRP) actions. The Old Mill PRP Group is responsible for long-term Operation and Maintenance responsibilities at the site. Including conducting quarterly and annual monitoring events. The annual groundwater monitoring events consist of sampling 21 shallow zone monitoring wells, 13 deep zone monitoring wells, and 3 shallow zone piezometers.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies function as intended by site decision documents. EPA completed the [sixth five-year review (PDF)](https://semspub.epa.gov/work/05/969580.pdf) (46 pp, 6.86 MB) of the site in September 2021. The review concluded that the remedy at the site continues to be protective of human health and the environment in the short-term, but additional actions and data are needed to ensure the remedy is protective in the long-term.
+
+The actions and data needed to ensure protectiveness in the long-term include:
+
+- Fully evaluating the results of the Monitored Natural Attenuation (MNA) pilot study to determine if a groundwater remedy modification is necessary
+- Collecting and evaluating additional data to assess the possibility of MNA as a potential groundwater remedy
+- Assessing whether an Institutional Control Implementation and Assurance Plan (ICIAP) is necessary, and
+- Enhancing the parcel-specific deed restrictions with standardized environmental covenants, or UECA covenants, for six parcels that do not have them.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) are required to ensure the protectiveness of the remedy. ICs are non-engineered instruments, such as administrative and/or legal controls, that help minimize the potential for exposure to contamination and protect the integrity of the remedy. Compliance with ICs is required to assure long-term protectiveness for any areas which do not allow for Unlimited Use and Unrestricted Exposure (UU/UE).
+
+The primary IC for groundwater at the site is the Village of Rock Creek’s Ordinance No. 2221, dated June 5, 2002, which provides rules, regulations, and conditions of service for the waterworks system of the Village of Rock Creek, Ohio. Specifically, Section 14 of the Ordinance, entitled “Private Water Supply Prohibited,” states that "No new wells will be dug or drilled within the Village limits. All wells or other sources of potable water now in use may remain in service, providing they have not been condemned by the Ashtabula County Health Department." The Village monitors compliance with this ordinance through water meter flow readings and physical inspections.

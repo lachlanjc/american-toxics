@@ -1,3 +1,17 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 5-acre General Electric Co. (Spokane Apparatus Service Shop) site is located on Spokane, Washington. From 1961 until 1980, GE cleaned and repaired transformers and stored transformer oils and electric-related equipment on the site. Some of the equipment and transformers contained polychlorinated biphenyls (PCBs), which were released into a dry well during steam cleaning. These activities contaminated soil, groundwater and sludge with PCBs. Following cleanup, operation and maintenance activities and monitoring are ongoing.  
+
+### What Has Been Done to Clean Up the Site?
+
+The General Electric Co. (Spokane Apparatus Service Shop) Site ("GE/Spokane") was listed on the CERCLA National Priorities List (the "Superfund" list) by the U.S. Environmental Protection Agency in 1988. Washington Department of Ecology ("Ecology") was established as the lead agency for oversight of the cleanup through agreement with EPA. The GE/Spokane Site is located at E. 4323 Mission Avenue, in Spokane, WA. The site was used by GE to operate a transformer service shop from 1961 to 1980. In the course of servicing transformers, oils containing PCBs were used. PCBs were banned in 1979 under the federal Toxic Substances Control Act. Before then, oils containing polychlorinated biphenyls (PCBs) and Total Petroleum Hydrocarbons (TPH) were released to soils during service operations. Following closure of the transformer shop, investigations found PCBs in groundwater, surface soils, dry wells, and other drainage features. Cleanup actions began in 1991. GE demolished buildings and excavated most subsurface tanks and drainage structures as an interim action. Soils and debris generated were used to construct a "test cell" to demonstrate the effectiveness of In-Situ Vitrification (ISV) in destroying PCBs to standards required under federal law and regulation. The feasibility study proposed using ISV to destroy PCBs in onsite soils prior to the demonstration test. Remedies accepted as complete in 1999 included vitrification, removal, containment, groundwater monitoring, and institutional controls. Institutional controls include fencing the GE property, inspecting and maintaining an asphalt cap, and recording of restrictive covenants. Periodic reviews are conducted every five years to evaluate the success of the cleanup actions.
+
+The site is being addressed through state and potentially responsible party (PRP) actions.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included in-place treatment of some PCB-contaminated soils, and off-site disposal of the remaining PCB-contaminated soils. Remedy construction took place between 1996 and 1999. Groundwater monitoring is ongoing.  
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1990 included demolition and removal of a service shop, several storage tanks and other underground structures.

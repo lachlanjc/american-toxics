@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site is located in the city of Ogallala, Keith County, southwestern Nebraska. It consists of two distinct areas, located in Ogallala along the north side of the South Platte River. OU1 consists of primarily trichloroethylene (TCE) groundwater contamination along the business corridor of Highway 30 and beyond in the direction of the former city landfill and the northernmost lake of those labeled Gravel Pits (also known as Gravel Pit Lake). Commercial, residential and agricultural land uses surround the site. These land uses are not expected to change within the foreseeable future. Operable Unit (OU) 2 consists of a perchloroethylene (PCE) source area and an area of PCE groundwater contamination that flows in a southeasterly direction, north of Highway 30, east of West A Street and south of 5th Street. The OU2 groundwater plume emanates from the location of Tip-Top Cleaners that formerly operated at 116 West 5th Street. The area affected by the groundwater plume is a mixture of residential and commercial properties. Land use is not anticipated to change in the foreseeable future.
+
+The groundwater beneath the site has been divided into two composite intervals based on depth: Upper Groundwater and Lower Groundwater. Upper Groundwater includes wells and sample intervals from the ground surface to 60 feet below ground surface (bgs). Geologically, this group encompasses the alluvial aquifer and the upper portion of the Upper Ogallala aquifer, which includes the Ash Hollow Formation.
+
+The Lower Groundwater is designated for monitoring wells with screen intervals deeper than 60 feet bgs, which includes the lower part of the Upper Ogallala aquifer and the upper portion of the Lower Ogallala aquifer. These composite intervals are a simplification based on depth and do not represent distinct geological or hydrogeological features. The Ogallala aquifer is an aquifer of regional significance, which supplies water for municipal, industrial, agricultural and domestic well usages in the area of the Ogallala Groundwater Contamination site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through private party, state, and federal actions.
+
+Site investigative work performed between 1990 and 1994 confirmed releases of hazardous substances into the environment and discovered potential sources of groundwater contamination.
+
+In April 1999, the EPA issued a Record of Decision for OU1. The Record of Decision selected the Remedial Action to be implemented at OU1. The area of groundwater contamination defined in the Record of Decision as OU1 included the plume of PCE and TCE in the alluvial aquifer, and the plume of carbon tetrachloride (CT) and TCE in the Ogallala aquifer. The long-term remedy for OU1 included groundwater extraction and treatment, institutional controls to protect the public water supply, and monitored natural attenuation. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater. Institutional controls are in place and natural attenuation is ongoing. Groundwater extraction and treatment ended in 2003.
+
+Between 2001 and 2003, the EPA conducted two removal actions to reduce PCE present in the soils and groundwater near the suspected OU2 source area. The first removal action was soil vapor extraction which was initiated in 2001 and completed in 2002. The second removal action, initiated in January 2003, was in-situ chemical oxidation and addressed the most contaminated portion of the OU2 groundwater plume.
+
+Between 2003 and 2005, the EPA performed a time-critical removal action at OU2 to reduce the PCE present in the alluvial aquifer and reduce the risk of exposure to indoor vapor intrusion. The EPA injected sodium permanganate at 43 locations. Levels of PCE were reduced to a range of less than the detection limit of 1.0 micrograms per liter (μg/L) to 160 μg/L.
+
+In February 2006, the EPA issued a Record of Decision for OU2. The long-term remedy for OU2 included soil vapor extraction to treat contaminated soil and in-place chemical oxidation to treat contaminated groundwater. In 2011, the EPA finished a removal action that demolished the former dry cleaners building, excavated contaminated soils, replaced excavated areas with clean soils, and regraded the site. Institutional controls are in place to protect the public water supply.
+
+In 2016, a vapor intrusion investigation was continued by the EPA to evaluate potential indoor air contamination. Investigation activities found indoor air was above EPA action levels in several properties. Vapor mitigation systems were subsequently installed at the properties. The investigation was completed in 2021.
+
+The U.S. Environmental Protection Agency began conducting Five-Year Reviews of the site’s remedy in 2011. Such reviews evaluate whether the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review in 2021 concluded that response actions at the site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### What Is the Current Site Status?
+
+The long-term remedy for OU1 included groundwater extraction and treatment, institutional controls to protect the public water supply and monitored natural attenuation. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater. Institutional controls are in place and natural attenuation is ongoing. Groundwater extraction and treatment ended in 2003.
+
+The long-term remedy for OU2 included soil vapor extraction to treat contaminated soil and in-place chemical oxidation to treat contaminated groundwater. In 2011, the EPA finished a removal action that demolished the former dry cleaners building, excavated contaminated soils, replaced excavated areas with clean soils and regraded the site. Institutional controls are in place to protect the public water supply.
+
+Additional investigation into the OU1 source plume was conducted in 2022 and 2023. Supplemental investigation work will take place in 2024-2025. Data from the investigations will be incorporated into an updated draft Remedial Investigation. Once the Remedial Investigation is final, a Feasibility Study will be completed to determine the best treatment technologies to clean up the groundwater contaminants.

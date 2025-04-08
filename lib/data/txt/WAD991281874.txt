@@ -1,3 +1,35 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 250-acre Pasco Sanitary Landfill (PSL) is located about 1.5 miles northeast of Pasco, Washington. An open burning dump operated on site from 1958 to 1971. Sanitary landfilling began in a 40-acre unlined area in 1972, operating until it was placed under interim cover in 1992. Another portion of the site property received hazardous wastes between 1972 and 1975.The landfilling activities contaminated groundwater beneath and downgradient of the property with volatile organic compounds ( [VOCs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=VOC) ). Site investigations, cleanup planning and remedy optimization are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and potentially responsible party (PRP) actions.
+
+The portion of the site that received hazardous wastes between 1972 and 1975 currently contains five separate cells, two of which contained thousands of drums containing paints, resins, herbicide- and pesticide-manufacturing wastes, caustic chemicals, and other wastes. The three remaining cells accepted bulk liquid waste and sludges in unlined lagoons, where the wastes were dried and later covered. In April 2014, Ecology proposed to issue an enforcement order to 32 different PRPs. The order requires that the PRPs expedite work in the Balefill area of the landfill where an underground fire continues to burn.
+
+### What Is the Current Site Status?
+
+The Pasco Landfill Cleanup Action Plan became final after public comment in late 2019, and cleanup construction began in October 2020. Plan details include:
+
+- 35,000 drums of hazardous waste and associated debris from Zone A will be excavated, characterized, and transported for off-site disposal
+- Zone B is becoming a separate site
+- The remaining municipal solid waste and industrial waste zones will continue to be maintained and monitored under their existing engineered covers
+
+Additional plan details can be viewed on [Ecology’s site webpage](https://apps.ecology.wa.gov/gsp/Sitepage.aspx?csid=1910).
+
+**Cleanup Progress**
+
+The site’s remedial investigation, completed in 1999, indicated that additional interim actions were needed. The actions included expanding the groundwater treatment system and Soil Vapor Extraction (SVE) system; installing final landfill covers over the former municipal waste landfill and four industrial waste landfills; removing one drum cell containing 5,000 drums of herbicide manufacturing waste; and placing institutional controls on groundwater withdrawal in the plume area.
+
+The PRPs completed a six-year performance monitoring period to assess the effectiveness of the interim actions. In 2007, Ecology identified the need for additional site investigations, monitoring and evaluation of remedial system performance. The first phase of supplemental investigation in 2008 demonstrated that the groundwater treatment system could be discontinued and adjustments to the existing SVE system would better optimize performance. Upgrades to the SVE system and installation of a new RCRA-compliant cap over the former herbicide waste disposal cell are also planned. Routine groundwater monitoring and interim remedial system operations are ongoing.
+
+The Washington State Department of Ecology is the lead agency for site cleanup. In mid-April 2021, cleanup and disposal of the Zone A drum area began. Contractors have started excavating, segregating, and characterizing drums for offsite disposal.
+
+From January through March 2021 during the Zone A cover removal process, over 200 roll off boxes of municipal solid waste, almost 40 roll off boxes of tires, and 18 roll off boxes of hazardous waste were excavated and disposed off-site.
+
+Air quality is monitored during the cleanup actions to ensure worker and community safety and inform the need for any additional engineering controls. If you have any questions or comments about the work, please visit Ecology’s site [webpage](https://apps.ecology.wa.gov/gsp/Sitepage.aspx?csid=1910) or directly contact Ecology at [PascoLandfill@ecy.wa.gov](mailto:PascoLandfill@ecy.wa.gov).
+
+### Emergency Response and Removal
+
+Site cleanup has included short-term cleanups to address immediate threats to human health and the environment. Based on data from investigative work, the City of Pasco extended community water supplies to residents whose groundwater had been or potentially could be affected by releases from the landfill. Site PRPs conducted interim actions in 1996-1997 to address source area soil and groundwater contamination. The interim actions included soil vapor extraction (SVE) operating in combination with an in-well air stripping technology.

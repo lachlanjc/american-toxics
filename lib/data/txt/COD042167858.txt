@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lincoln Park site is located south of Cañon City in Fremont County, Colorado. The site includes the Cotter Corporation’s (Cotter) 2,600-acre uranium mill and areas of mill-associated contamination, including the Lincoln Park community near the mill.
+
+During the operation of the former alkaline leach mill (1958-1979), liquid wastes containing radionuclides and heavy metals were discharged into 11 impoundments, now known as the Old Ponds Area. All but three of those impoundments were unlined. Mill and impoundment operations resulted in environmental contamination. Additionally, a flood in June 1965 caused the impoundments in the Old Ponds Area to overflow into Sand Creek. Sand Creek flows from the mill area north toward the residential area named Lincoln Park.
+
+In 1971, a flood control dam was completed by the Soil Conservation Service on Sand Creek, approximately 0.8 miles north and downstream of the mill area. Since the dam’s completion, surface runoff and spring flow that emerge upgradient of the dam have been impounded at the dam, and since 1979 this impounded water has been pumped back to the primary impoundment, where it is evaporated. The ponds in the Old Ponds Area were replaced in 1979 with two lined impoundments.
+
+Cotter also was producing yellowcake at the Cañon City mill. Yellowcake is the solid form of mixed uranium oxide, which is produced from uranium ore in the uranium milling process. In addition to producing yellowcake, the mill produced vanadium and molybdenum as byproducts. Historical mill operations and disposal practices released radioactive and metal contamination into the environment.
+
+The mill was originally licensed by the Atomic Energy Commission, but the authority for licensing was transferred to the Colorado Department of Public Health and Environment (CDPHE) in 1968 when Colorado became an Agreement State. Investigation and cleanup activities at the site are ongoing under a 2014 agreement to conduct a Remedial Investigation/Feasibility Study (RI/FS).
+
+The Lincoln Park site was added to the Superfund National Priorities List (NPL) in 1984. The Superfund listing includes Cotter's 2,600-acre uranium mill and areas where contamination occurred. Historic releases to the environment were found to affect surface soils and groundwater in neighboring Lincoln Park.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. CDPHE is the lead agency overseeing site activities, working in partnership with EPA as the support agency.
+
+During the operation of the former alkaline leach mill (1958-1979), liquid wastes containing radionuclides and heavy metals were discharged into 11 impoundments, known as the Old Ponds Area. All but three of those impoundments were unlined. Sand Creek flows from the mill area north towards the residential area named Lincoln Park. A flood in June 1965 caused the impoundments in the Old Ponds Area to overflow into Sand Creek. In 1971, the Soil Conservation Service completed a flood control dam on Sand Creek, approximately 0.8 miles north and downstream of the mill area. Since the completion of the dam, surface runoff and spring flow that emerge upgradient of the dam have been impounded at the dam, and since 1979, this impounded water has been pumped back to the primary impoundment, where it is evaporated. The ponds in the Old Ponds area were replaced in 1979 with two lined impoundments.
+
+The Lincoln Park site was added to the Superfund National Priorities List (NPL) in 1984. The Superfund listing includes Cotter's 2,600-acre uranium mill and areas where contamination occurred. Historic releases to the environment were found to affect surface soils and groundwater in neighboring Lincoln Park
+
+For administrative purposes, the site is divided into three operable units (OUs):
+
+**OU1** – The sources of contamination on the mill site, such as the Old Ponds Area.
+
+**OU2** – The Lincoln Park neighborhood (off-site impacts).
+
+**OU3** – Other areas near the mill where there has been a release or threat of release of hazardous substances from the mill. This area has not been delineated on the site map.
+
+In 1988, The state of Colorado settled a lawsuit for natural resource damages with Cotter. As part of the settlement, the state and Cotter agreed on required site characterization and cleanup activities. These requirements are contained in a 1988 Remedial Action Plan. Major cleanup activities performed since 1988 include:
+
+- Connecting Lincoln Park residents to city water;
+- Constructing a groundwater barrier at the Soil Conservation Service (SCS) dam to minimize migration of contaminated ground water into Lincoln Park;
+- Excavating contaminated stream sediments in Sand Creek;
+- Cotter voluntarily moving tailings remaining after 1981-1983 cleanup activities and contaminated soils into a lined impoundment to eliminate them as a source of contamination; and
+- Cotter voluntarily cleaning up several railroad loading areas around Cañon City, where uranium ore and other materials had been spilled.
+
+In January 2002, EPA issued a Record of Decision for OU2 that stated all work necessary to remediate contaminated soils in the Lincoln Park area has been accomplished.
+
+### What Is the Current Site Status?
+
+An Administrative Settlement and Order on Consent for Remedial Investigation/Feasibility Study took effect December 9, 2014. This document is also known as the 2014 Remedial Investigations/Feasibility Study Settlement Agreement. It sets out Cotter’s legal obligation to conduct a Remedial Investigation/Feasibility Study (RI/FS) in accordance with CERCLA, commonly known as Superfund. Per this agreement, the Lincoln Park Superfund site entered the RI/FS phase of the Superfund process. RI/FS will determine the nature and extent of contamination at the site, identify technologies available to address this type of contamination, and will evaluate performance of technologies that may be used to clean up the site. Several investigations and response actions have occurred at the site under CERCLA, the Radioactive Materials License, and the 1988 Consent Decree and Remedial Action Plan. Therefore, the RI will include an evaluation of existing data, which will be subject to data quality verification, and will identify data gaps, if any. If necessary, additional data collection will be performed to characterize the nature and extent of contamination at the site.

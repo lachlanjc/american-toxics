@@ -1,2 +1,54 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 60-acre Himco Dump site is located at the intersection of County Road 10 and John Weaver Parkway in Cleveland Township, Elkhart County, Indiana. It encompasses a closed, unlicensed landfill formerly operated by Himco Waste Away Services, Inc., a 4-acre construction debris area (CDA), and portions of the backyards of eight residences which abut the CDA. The contaminant source area is the landfill, which began operations in 1960 and accepted household refuse, construction rubble, medical waste, and calcium sulfate. The landfill closed in 1976 and was covered with about 1 foot of sand overlying a layer of calcium sulfate. The landfill is fenced and is surrounded by a mix of agricultural, residential and commercial/light industrial parcels. EPA also determined that private wells in this area were affected by liquids leaking from the landfill referred to as leachate
+
+### What Has Been Done to Clean Up the Site?
+
+EPA selected a final cleanup plan in 1993:
+
+- Constructing a cap over the landfill area;
+- Placing deed restrictions on the landfill property to limit future land and groundwater use;
+- Installing an active landfill gas collection system with treatment by a technology called vapor phase carbon;
+- Installing an enclosed ground flare system to control landfill gas emissions;
+- Monitoring groundwater quality to ensure effectiveness of the cleanup and to evaluate the need for future groundwater treatment;
+- Taking measures during the construction of the cleanup to minimize adverse effects to area wetlands.
+
+The plan was amended in 2004 based on new information:
+
+- Contouring, grading, and planting vegetation on the existing landfill cover and installing a gas management system;
+- Removing all construction debris and rubble from the surface of the CDA and excavating and disposing of contaminated materials in the soil;
+- Providing municipal water to 39 residences located east of the landfill and abandoning their existing drinking water wells;
+- Establishing a long-term groundwater monitoring program for a minimum of 10 years;
+- Completing a pre-design groundwater investigation study on the south, east and southeast sides of the site to determine concentrations and the rate and extent of movement of all detected contaminants;
+- Placing deed restrictions on the landfill, residential properties east and south of the landfill, a property designated as "Parcel F," and residential wells near the CDA;
+- Installing a fence around Parcel F, the CDA, and the landfill.
+
+Bayer and several other companies own the site. They are operating and maintaining the cleanup under EPA and state oversight.
+
+EPA recognized this cleanup in 2013 for its “green” approach, which significantly reduced its environmental footprint. The cleanup included reuse of some of the material removed from the site. The local government used wood chips from the site for mulch. The landfill’s slope design supported a wide range of reuses and eliminated off-site runoff when it rains.
+
+### What Is the Current Site Status?
+
+EPA issued a notice in the Federal Register finalizing the deletion of part of the Himco Dump Superfund site from the National Priorities List (NPL). IDEM formally concurred with EPA’s proposal on January 26, 2022, and EPA proposed the Site for partial deletion in March, 2022.
+
+The partial deletion includes the capped landfill area, four adjacent properties, and 43 downgradient properties that were connected to the municipal water supply because the cleanup is complete at these portions of the Site. Regular Site inspections, landfill gas, groundwater, and land use monitoring, maintenance of the landfill cap, landfill gas control system, and fence, and five-year reviews will continue.
+
+The property included in EPA’s proposed partial deletion is listed in Table 1 and shown in Figure 1 of EPA’s Partial Deletion Report:
+
+[\[Redacted\] Site-specific justification for the deletion of the land/soil portion of the landfill property and 47 adjacent/downgradient parcels of the Himco Dump Superfund Site from the National Priorities List, Cleveland Township, Elkhart County, Indiana](https://semspub.epa.gov/src/document/05/972087) [(PDF)](https://semspub.epa.gov/src/document/05/972087) (71 pp, 1.99mb, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+Groundwater is undergoing a long-term monitored natural attenuation cleanup and will remain on the NPL, along with a few other properties that have been cleaned up but still require formal land or groundwater use controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see Institutional Controlls.
+
+### Emergency Response and Removal
+
+A 1992 short-term cleanup was done to address immediate threats to human health and the environment. A “hot spot” of contamination was identified and 71 chemical drums were removed and disposed.

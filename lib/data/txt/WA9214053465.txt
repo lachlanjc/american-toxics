@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 180-acre Fort Lewis (Landfill No. 5) site is located in Tillicum, Washington. It includes a 60-acre closed portion of the active Fort Lewis Landfill No. 5. From 1967 through 1990, the landfill accepted mixed municipal solid waste (industrial, commercial, residential), demolition waste, and dewatered sludge from the Fort Lewis wastewater treatment plant. Investigations determined that no action was necessary because the landfill was capped pursuant to its closure plan and groundwater was not contaminated above regulatory levels. The July 24, 1992 Record of Decision selected no-action as the remedy. EPA took the site off the Superfund program’s National Priorities List (NPL) in 1995. Operation and maintenance activities and monitoring are ongoing, pursuant to Tacoma-Pierce County Department of Health permit conditions and WAC 173-304.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+Groundwater modeling from 1980 to 1984 revealed that groundwater contaminant concentrations did not exceed regulatory standards and will decrease over time because the cap will reduce leachate productions. The site is located adjacent to the city of Dupont. The predominant land use in the area is the Fort Lewis Military Installation.
+
+### What Is the Current Site Status?
+
+Closure of the landfill started in 1987 and took place under the authority of the Tacoma-Pierce County Health Department by the Army. The closure complied with State Minimum Functional Standards and included the construction of a cover, a surface water management system and a passive gas ventilation system to collect and burn landfill gas.
+
+Contaminant concentrations in the groundwater declined to levels below state and federal cleanup standards once the cover was in place; therefore, EPA determined that no further action was required. The Army will continue to monitor groundwater in accordance with state and local solid waste landfill operating and closure requirements.
+
+After cleanup, EPA took the site off the NPL in 1995.

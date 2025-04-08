@@ -1,3 +1,51 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+Bremerton Gas Works is a former manufactured gas plant located about a mile and a half north of downtown Bremerton, Washington. It occupies about 2.8 acres of property along the Port Washington Narrows in Puget Sound, a designated estuary of national significance under the Clean Water Act. Two species of federally listed endangered or threatened fish (steelhead trout and chinook salmon) live near the site. This portion of Puget Sound is used as a sport and commercial fishery, as well as for subsistence fishing by the Suquamish Tribe. The site was listed on the Superfund National Priorities List in May 2012.
+
+We are in the early stages of the Superfund process. During this "Remedial Investigation/Feasibility Study" (RI/FS) stage, the Potentially Responsible Party (PRP) designs a thorough study of the site to characterize the types and concentrations of contaminants, and to delineate both the area affected and the depth. We expect the RI/FS will be complete in early 2025. The [Final Remedial Investigation/Feasibility Study Work Plan](http://semspub.epa.gov/src/document/10/100053647) describes the work.
+
+**Learn More about Manufactured Gas Plants**
+
+This page provides links to non-EPA web sites that provide additional information about this topic. You will leave the EPA.gov domain, and EPA cannot attest to the accuracy of information on that non-EPA page. Providing links to a non-EPA web site is not an endorsement of the other site or information it contains by EPA or any of its employees. Also, be aware that the privacy protection provided on the EPA.gov domain may not be available at the external link.
+
+- [Manufactured Gas Plants in New York State](http://www.dec.ny.gov/chemical/8430.html)
+- [Former manufactured gas plants history and chronology](http://www.hatheway.net/01_history.htm)
+- [The Heritage Center – Manufactured Gas](http://www.heritageresearch.com/ourlibrary/histories/manufactured_gas.html)
+
+### What Has Been Done to Clean Up the Site?
+
+EPA is working to clean up the Bremerton Gas Works site to ultimately protect human health and the environment. The RI/FS phase is expected to take about six years. The RI/FS will include a risk assessment to characterize the current and potential future threats to human health and the environment posed by contaminants at the site. EPA will communicate with the Bremerton Gas Works community about any risks posed by the site, as part of our regular cleanup updates. We will post the RI/FS report, including risk assessments, on this web page.
+
+Cascade Natural Gas Corporation is conducting the RI/FS under the direction of EPA. The work plan was prepared as required by the Administrative Settlement Agreement and Order on Consent for Remedial Investigation/Feasibility Study (2013). EPA coordinates with Cascade, Washington Department of Ecology, the City of Bremerton, the Suquamish Tribe, Washington Department of Health, and several other local, state, and federal agencies on this project.
+
+### What Is the Current Site Status?
+
+EPA, the City of Bremerton, Washington State Department of Ecology, Cascade, and the U.S. Coast Guard were involved in several assessments and removal actions at the site. In fall 2010, the U.S. Coast Guard issued an order to Cascade to remove a pipe that was releasing tars into the Port Washington Narrows. Forty feet of pipe was removed and the remaining pipe was plugged. Contaminated sediments near the pipe were also removed. Visibly contaminated sediments were covered with organo-clay mats and clean beach materials to act as a temporary cap. In 2013, Cascade, under the direction of EPA, performed a second action to plug a manhole, remove contaminated sediments in the western beach area, install an organo-clay cover, and post warning signs. These Time-Critical Removal Actions addressed a limited area of contaminated sediments, but did not address upland soils or contaminated ground water.
+
+To date, various contaminants have been detected within upland soils, ground water beneath the former plant site, and within the Port Washington Narrows sediments. Contaminants include tars which are associated with the gas manufacturing processes used at the former facility. These tars contain volatile aromatics and carcinogenic polycyclic aromatic hydrocarbons.
+
+Heavy metals and benzene, among other contaminants, have also been found at the site. Upland soils contain contaminants with concentrations above the EPA Regional Screening Levels to depths of at least 30 feet below the ground. Ground water beneath the former plant site is also contaminated. Sediments in the Port Washington Narrows near the former plant site contain concentrations of contaminants above Washington State Sediment Management Standards.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+To stay Safe: To reduce your risks to site-related contamination, you should:
+
+- Avoid or minimize the time you spend on the beach and upland areas of the site;
+- Avoid direct contact with beach sediments, upland soils or any tarry materials at the site; and
+- Do not harvest or eat any seafood in the vicinity of the site.
+
+### Emergency Response and Removal
+
+Cleanup activities to date have included removal actions, or short-term cleanups, to address immediate threats to human health and the environment.
+
+Removal actions in 2010 and 2013 included:
+
+- removal of a pipe that was releasing tar into the Port Washington Narrows
+- removal of contaminated sediment near the pipe
+- temporary capping of contaminated sediment
+- removal of solid tar, and
+- capping an oily area on the beach with a clay mat covered with a foot of imported beach material.

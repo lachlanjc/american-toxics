@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Clearwater Finishing is a former textile dyeing and finishing plant, located in western South Carolina, on State Road 126, in Clearwater. The site shares a border with Clearwater Lake and Little Horse Creek. The surrounding area includes extensive wetlands, vacant land parcels and a mix of residential and commercial uses.
+
+Clearwater Finishing Plant, a division of United Merchants & Manufacturers, Inc., operated from 1929 to 1988. Operations included bleaching, dyeing, printing and finishing textiles, and chromium electroplating. Clearwater Finishing made use of surface impoundments on an island between the canal and Little Horse Creek. Wastewater from the facility was piped over the canal and discharged into the surface impoundments on the island, before discharging into Little Horse Creek. In the mid-to-late 1970s, Clearwater Finishing constructed a wastewater treatment plant on an adjacent parcel that was used until facility operations ceased. The wetlands, sediments of Little Horse Creek and Horse Creek, and soils in the plant area are contaminated with metals and PCBs. Groundwater is contaminated by chromium, among other constituents. In 1988 United Merchants & Manufacturers declared bankruptcy and closed the facility; most of the buildings were destroyed during the 2011 to 2013 timeframe.
+
+The facility was closed in 1988. Changes in property ownership took place throughout the years, and most recently in the late 2020s and, again, in the Spring of 2021. The site consists of two parcels and includes the former plant area, surface impoundment, a drainage canal, Little Horse Creek and adjacent wetlands and Horse Creek. A portion of Clearwater Lake, the lake dam and two wastewater clarifiers are being addressed by the South Carolina Department of Health and Environmental Control (SCDHEC) and are not considered part of the site, for EPA’s National Priorities List purposes.
+
+Site soils are [contaminated](https://wwwn.cdc.gov/TSP/index.aspx) with PCBs, benzo(a)pyrene, arsenic, hexavalent chromium, copper, lead, mercury and zinc. An abandoned surface impoundment in a wetlands area contains PCBs, arsenic, cadmium, chromium, hexavalent chromium, copper, lead and mercury. Chromium, copper, lead, mercury and zinc are also contaminating the drainage canal, Little Horse Creek and surrounding wetlands and Horse Creek. Limited groundwater data is currently available; that data confirms that groundwater is contaminated with chromium and copper.
+
+### What Has Been Done to Clean Up the Site?
+
+**1994-1995**  
+After unsuccessful attempts to compel the former site’s owners to clean up the site, the EPA removed hazardous waste. This included:
+
+- 2,694 drums
+- 12,450 gallons of flammable liquids
+- 10,500 gallons of caustic liquids
+- 12,600 gallons of base-neutral liquids
+- 3,500 gallons of acidic liquids
+- 7,500 gallons of acid-neutral liquids
+- 35 drums of oxidizers and peroxides
+- 83 containers of laboratory chemical reagents
+- 240 tons of organic/inorganic solids.
+
+**1998**  
+CDC, Inc. conducted a site assessment and removed a limited amount of PCB-contaminated soil under a Voluntary Cleanup Contract with the South Carolina Department of Health and Environmental Control.
+
+**2007-2008**  
+Three Oh, LLC removed about 60 cubic yards of PCB-contaminated soil.
+
+**2012**  
+A fire destroyed most of the buildings, and reuse plans were abandoned.
+
+**2020**  
+The site was added to the [National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl) for cleanup.
+
+**2023 - 2025**  
+A removal site evaluation was conducted by the EPA, to determine presence of asbestos-containing material (ACM) mixed with debris piles throughout the Site.
+
+A time-critical removal action to remove debris piles contaminated with ACM started on October 16, 2023. The table below shows the amount of material the EPA removed from the Site. In February 2025, the asbestos removal actions were halted. This table will be updated when removal actions resume.
+
+| Reporting Period | \# of Trucks | Total (Tons)\* | Grand Total (Tons) |
+| --- | --- | --- | --- |
+| 10/16/23-10/27/23 | 0 | 0 | 0 |
+| 10/28/23-11/03/23 | 16 | 164 | 164 |
+| 11/04/23-11/10/23 | 65 | 908 | 1072 |
+| 11/11/23-11/24/23 | 77 | 1062 | 2134 |
+| 11/25/23-12/09/23 | 128 | 1778 | 3911 |
+| 12/10/23-12/20/23 | 146 | 2221 | 6180 |
+| 12/31/23-1/13/24 | 114 | 2004 | 8184 |
+| 1/14/24-2/10/24 | 54 | 888 | 9072 |
+| 12/9/24-12/13/24 | 18 | 271 | 9343 |
+
+\*Tonnage rounded up
+
+### What Is the Current Site Status?
+
+On September 3, 2020, the EPA added the Clearwater Finishing Site to the National Priorities List. Project scoping and initial samplings events for the Remedial Investigation/Feasibility Study (RI/FS) were conducted in the spring and fall of 2023 Additional RI/FS investigations are ongoing in 2025.
+
+### Sampling and Monitoring
+
+Sampling has been conducted over the years to evaluate contamination on the property. Additional sampling is ongoing as part of the Remedial Investigation (RI).
+
+### Emergency Response and Removal
+
+On January 30, 2023, the EPA mobilized to the Site to determine presence of asbestos-containing material (ACM) in demolition debris and debris piles. The EPA collected a total of 184 bulk and 16 composite soil samples from the Site. The sampling results indicated that both soil and debris piles are contaminated with asbestos. It is estimated that approximately 80% of the Site is covered with ACM.
+
+The EPA started a time-critical removal action in October 2023. The time-critical removal action focused on removing construction and demolition debris contaminated with asbestos-containing material. In 2025, the asbestos removal actions were halted, before all of the asbestos-containing debris could be removed. As of February 2025, 9,343 tons of the asbestos-containing debris has been removed. The remaining 12,000 tons of asbestos-containing debris has been excavated, covered and contained, limiting the risk of exposure while waiting for removal actions to resume.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the Agency’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA is currently evaluating identified [potentially responsible parties (PRPs)](https://www.epa.gov/superfund/superfund-glossary#p) to aid in the investigation and cleanup of the site.

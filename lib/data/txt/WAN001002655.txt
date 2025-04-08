@@ -1,3 +1,24 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 40-acre Lockheed West Seattle site is located in Elliott Bay near the mouth of the West Waterway in Seattle, Washington. [Harbor Island](https://yosemite.epa.gov/r10/cleanup.nsf/9f3c21896330b4898825687b007a0f33/5a64831b6521f46b8825650200836f1c!OpenDocument) and [Pacific Sound Resources](https://yosemite.epa.gov/r10/cleanup.nsf/sites/psr) are neighboring Superfund sites. The Lockheed West Seattle site included about 7 acres of aquatic tidelands owned by the Port of Seattle and 33 acres of state-owned aquatic lands. Industrial activities generated considerable quantities of sandblast grit and other industrial waste that discharged to sediments and accumulated beneath dry docks and shipways. Historic industrial practices at the former shipyard contaminated sediment with hazardous chemicals. In August 2013, the EPA released its final cleanup plan, also known as a Record of Decision (ROD), for the site. Cleanup activities started in August 2018 by the Lockheed Martin Corporation. In two in-water work seasons, they removed over 100,000 cubic yards of contaminated mud and shoreline debris. They also placed 6-9 inches of clean sediments over 15-acres that were dredged and on the rest of the 40-acre site. After this work was done, cleanup levels were met at the Site for the all the contaminants, including the five primary contaminants - arsenic, copper, lead, mercury and polycyclic biphenyls (PCBs). Work finished in March 2020.
+
+### What Is the Current Site Status?
+
+Lockheed West Seattle was added to EPA's National Priorities List in 2007. Cleanup was needed to reduce contaminants in mud-dwelling animals, fish, shellfish and birds, and to reduce people's exposure to contaminated mud through net fishing, beach play, clamming or eating resident fish.
+
+The final cleanup plan, also known as the Record of Decision or ROD, was signed on August 28, 2013. In May 2014, the EPA recognized that Tables 12 and 23 in the Record of Decision contained three transcription errors. As a result, an Explanation of Significant Difference was issued by EPA on February 12, 2015, correcting these mistakes.
+
+The Lockheed Martin Corporation is the Potentially Responsible Party for the cleanup. Cleanup activities started in August 2018 by the Lockheed Martin Corporation. For the cleanup, Lockheed Martin:
+
+- Removed pilings and debris;
+- Dredged and disposed of sediments, pilings and debris at a permitted off-site landfill;
+- Added a thin layer of clean sand across the entire site to enhance natural recovery and cover dredged areas; and
+- Continued the Washington State Department of Health fish advisory so people are aware of risks from eating contaminated seafood.
+
+In two in-water work seasons, they removed over 100,000 cubic yards of contaminated mud and shoreline debris. They also placed 6-9 inches of clean sediments over 15-acres that were dredged and on the rest of the 40-acre site. After this work was done, cleanup levels were met at the Site for the all the contaminants, including the five primary contaminants - arsenic, copper, lead, mercury and polycyclic biphenyls (PCBs). Work finished in March 2020. This is good news towards improving the environment of South Elliott Bay and of Puget Sound overall.
+
+The fish consumption advisory, warning individuals not to consume contaminated resident seafood caught in the waterway, remains in place. However, salmon are safe to eat since they only pass through Elliott Bay and do not live year-round in the bay.
+
+Special advice for fish consumption in the Puget Sound, Elliott Bay, the Lower Duwamish River, and other rivers is available from the Washington Department of Health and King County.
+
+Now that the cleanup sis done, the EPA will monitor the site to ensure that the cleanup is effective. Monitoring will be conducted to support the EPA's [Five Year Review process](https://www.epa.gov/superfund/superfund-five-year-reviews).

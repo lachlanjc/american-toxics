@@ -1,2 +1,63 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Olean Well Field Superfund site is an area where the groundwater underneath residential areas and manufacturing facilities is contaminated. The Allegheny River and two of its tributaries, the Olean and Haskell creeks, flow through the site. Previous industrial operations at four properties within the site contaminated the soil and groundwater with volatile organic compounds (VOCs). EPA added the site to Superfund’s National Priorities List in 1983.
+
+Olean city officials discovered VOCs at the site in 1981 and discontinued the use of the public wells. The city reactivated an existing surface water filtration plant to provide water to residents. After Potentially Responsible Parties (PRPs), under EPA’s direction and oversight, installed two air strippers to treat the groundwater in 1990, the city reactivated public wells and extended the city water lines from the Town of Olean to approximately 93 homes that were previously served by private wells. PRPs and EPA removed contaminated soil from certain properties within the site. The city also extended the water mains to provide safe fire hydrants for the community and replaced or cleaned five thousand feet of sewer lines. One of the PRPs, McGraw Edison, repaired and replaced industrial sewer lines at the former McGraw-Edison property.
+
+The four properties that are sources of contamination to the groundwater are Alcas (currently owned and operated by Cutco Corporation), McGraw Edison (currently owned and operated by Cooper Power Systems, LLC), the former Loohn’s Dry Cleaners and Launderers property (currently a vacant lot), and the AVX property (currently owned by Kyocera AVX Components Corporation (KAVX)).
+
+### What Has Been Done to Clean Up the Site?
+
+**Immediate Actions:** EPA installed and monitored 32 home carbon filtration treatment systems on private wells between 1983 and 1985. This was part of a short-term cleanup action that provided for regular monitoring and the installation of additional carbon adsorption units, as necessary, until a permanent cleanup was put in place. EPA dug up and removed contaminated soil while constructing an addition to an office building in 1990.
+
+**Groundwater:** Following the initial site investigation, EPA selected a cleanup plan for the contaminated groundwater that included:
+
+1) reactivating the three public wells and treating the groundwater using air to remove hazardous compounds from contaminated water, a process called air stripping, to reduce trichloroethylene (TCE) contamination to a level that protects people’s health.
+
+2) extending public waterlines from the Town of Olean to connect 93 households served by private wells.
+
+3) inspecting the McGraw-Edison industrial sewer and performing any necessary repairs or replacement.
+
+4) restricting the use of contaminated groundwater for drinking purposes.
+
+Additionally, the city replaced or cleaned 5,000 feet of sewer lines. The city finished the water main extension work in 1989, enhancing the infrastructure with hydrants and fire protection to the targeted areas. In 1989, the PRP installed two air strippers at the public wells, which were again reactivated in 1990.
+
+**Source Control:** EPA directed the potentially responsible party (PRP) to look for contaminants at 13 properties in 1996. The PRP identified soil and groundwater contamination at four of the 13 properties.
+
+EPA issued a final cleanup plan that was documented in the September 1996 Record of Decision (ROD) to address soil and groundwater contamination at these four properties. The following is a summary of the cleanup status at each of the four areas that are the sources of contamination:
+
+**AVX:** In July 2000, the PRP removed about 5,055 tons of contaminated soil from the AVX facility. Follow up sampling showed that significant soil contamination remained. EPA conducted additional studies in 2011 and found more extensive soil and groundwater contamination underneath the AVX manufacturing building and at the southern region of the property. In September 2015, EPA modified the 1996 ROD, selecting a short-term plan for the AVX facility that required:
+
+1) constructing a Hydraulic Collection Trench along the southern property boundary line.
+
+2) controlling site contaminants via sustained pumping of the deep aquifer by the AVX manufacturing production well.3) maintaining soil/surface cover to minimize the potential for contaminants to move to the groundwater.
+
+The cleanup action is currently underway.
+
+In 2018, EPA demolished the AVX manufacturing building in order to study the contaminated soil located beneath and near the footprint of the former manufacturing building. EPA issued a cleanup plan in September 2023 to address contaminated soil located beneath and near the footprint of the former manufacturing building.
+
+**Alcas:** EPA originally selected, in 1996, a method of cleanup called Vacuum Enhanced Recovery for the Alcas property. But through an investigation done by the PRP Arconic Corporation, EPA determined that the Vacuum Enhanced Recovery plan, chosen in the September 1996 ROD, would not be effective in removing contamination. The engineering investigation revealed that there was more extensive contamination in the soil and groundwater at the Alcas facility, including at an adjoining property located to the immediate south of the Alcas facility designated as Parcel B.
+
+EPA modified the 1996 ROD for the Alcas facility in 2014, selecting instead a method called In-Situ (in place) Chemical Oxidation (ISCO). This involves injecting a substance (in this case, activated persulfate) into areas of highest groundwater contamination to promote the breakdown into harmless substances of contaminants through chemical oxidation.
+
+EPA also issued a new cleanup plan in 2014 for Parcel B, selecting Enhanced Anaerobic Bioremediation (EAB). EAB uses injected amendments to promote the breakdown of contaminants into harmless products by the existing bacteria in the soil. The engineering design for the Alcas facility and Parcel B has been completed.
+
+**Cooper Industries, Inc.:** The PRP installed a groundwater pump-and-treat system at the Cooper Industries facility in July 2002.
+
+**Loohn’s Dry Cleaners and Launderers:** In April 2004, EPA finished demolishing and removing the old dry cleaner’s building and over 10,000 tons of contaminated soil for off-site disposal. A groundwater monitoring program is ongoing.
+
+### What Is the Current Site Status?
+
+EPA identified contamination sources and cleanup plans in the September 1996 Record of Decision (ROD) for Cooper Industries, Alcas Corporation, AVX Corporation, and Loohn’s Dry Cleaners.
+
+**Cooper Industries:** The groundwater pump and treatment system installed in July 2002 is operating.
+
+**Alcas:** The cleanup for the facility using In-Situ Chemical Oxidation (ISCO) with activated persulfate cleanup for Parcel B using Enhanced Anaerobic Bioremediation (EAB), are underway.
+
+**AVX:** EPA issued a ROD in 2022 selecting a cleanup plan requiring groundwater treatment and monitoring, as well as natural processes to break down contaminants and placing restrictions on the use of the groundwater. The engineering design for AVX is underway. EPA issued another ROD in 2023 selecting a cleanup plan for the portions that could not be reached at the AVX facility requiring removal of concrete slab and foundation supports, excavation of contaminated soil to be treated off-site and restoration of the area with clean soil.
+
+**Loohn’s Dry Cleaners:** A groundwater monitoring program is ongoing.
+
+### Sampling and Monitoring
+
+EPA conducts groundwater sampling and analysis semi-annually across the entire site and at each specific source area. Between 2009 and 2011, EPA carried out yearly vapor intrusion assessments at various residences and structures near the site. These investigations found no signs of vapor intrusion at the evaluated locations, except for one building where elevated trichloroethylene (TCE) levels were found in the gas beneath the slab. EPA has been monitoring and testing this building annually since 2012.

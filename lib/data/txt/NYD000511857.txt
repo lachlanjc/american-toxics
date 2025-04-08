@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The FMC Corp. (Dublin Road Landfill) site is an inactive waste site in the towns of Ridgeway and Shelby in Orleans County, New York. The 30-acre site includes a 21-acre area that contains two inactive rock quarries and wooded property, and a 9-acre area to the south containing a waste pile, a rectangular pond and a swamp. From 1933 to 1968, about 6 acres of the south parcel were used to dispose of coal ash cinders, laboratory wastes consisting of glass bottles and chemical residues, residues from lime sulfur filtration, building debris and residues from pesticide production areas. The site’s long-term cleanup has been completed, protecting human health and the environment. Long-term groundwater treatment is ongoing.
+
+Since 1933, approximately 4 to 6 acres of the south parcel were used to dispose of coal ash cinders, laboratory wastes consisting of glass bottles and chemical residues, residues from lime sulfur filtration, building debris and residues from pesticide production areas. These materials contained metals in the form of salts and pesticides/insecticides. FMC stopped disposal activity at the site in 1968. This area is fenced and posted with warning signs. The area surrounding the site is sparsely populated. Approximately 100 people live within a 1/2-mile radius of the site. The site is bounded by the New York State Barge Canal and Jeddo Creek, both of which are used for recreational activities. Site Responsibility: This site is being addressed through Federal, State, and potentially responsible parties' actions.
+
+### What Has Been Done to Clean Up the Site?
+
+Long-term Cleanup: Following a remedial investigation to determine the nature and extent of site contamination and to evaluate remedial alternatives, EPA and the New York State Department of Environmental Conservation (NYSDEC) selected the site’s remedy in the site’s March 1993 Record of Decision, or ROD. It included excavation and stabilization of contaminated soils and sediments, construction of an on-site containment cell, groundwater pumping and treatment, and wetlands reconstruction.  
+
+Remedy construction activities began in May 1994. EPA and NYSEC updated the site’s remedy in June 1995 to include additional containment cell space for contaminated soils. Construction of the site’s remedy finished in August 1996. The site’s groundwater pump-and-treat system began operating in November 1996.  
+
+In total, 80,000 cubic yards of contaminated soils were placed in the site’s containment cell. About 46,150 cubic yards of that total were treated via soil stabilization before placement. About 770 cubic yards of contaminated soil were dug up and disposed of at an approved off-site waste disposal facility. About 1.8 million gallons of construction runoff, leachate and surface waters were treated during construction.  
+
+The State issued a Consent Order requiring the PRPs to conduct an investigation into the nature and extent of contamination at the site, to monitor the movement of contaminants, and to take necessary cleanup actions to address the site contamination.
+
+### What Is the Current Site Status?
+
+The site is being addressed in a single long-term remedial phase focused on cleanup of the entire site.
+
+The cleanup actions at the Dublin Road Site have substantially reduced public health risks and further environmental degradation. The actions include: -Construction of an on-site landfill conforming to NYS Part 360 standards (80,000 cubic yards); -Excavation and placement of 70,900 cubic yards (116,950 tons) of contaminated soils and sediments into the landfill. Approximately 46,150 cubic yards (76,150 tons) of that total were treated via soil stabilization before placement; -Excavation and off-site disposal of 770 cubic yards (1270 tons) of contaminated soil; -Construction of an on-site water treatment facility; -Approx 1,841,000 gallons of construction runoff, leachate, and surface waters were treated during construction; -Installation of a groundwater extraction and treatment system
+
+Operation of the groundwater extraction and treatment systems has been completed.
+
+The FMC Dublin Road site has been deleted from the NPL.

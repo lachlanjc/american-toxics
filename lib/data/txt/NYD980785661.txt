@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Haviland Complex site covers 275 acres in Hyde Park, New York. It includes an apartment complex, a junior high school, an elementary school, a shopping center and several homes. Failure of the septic and sewage systems in the area contaminated area groundwater with volatile organic compounds (VOCs), which are potentially harmful contaminants that easily evaporate in the air. Under current conditions at the site, potential or actual human exposures are under control. Long-term groundwater monitoring is ongoing. Contamination in the groundwater has been natually diminishing to levels near or below acceptable drinking water standards.
+
+The Haviland Apartments were constructed in the mid-1960s. The adjacent shopping center and most local residences were already there. The local laundromat and dry cleaner, located in the middle of the shopping center, have been in operation since the late 1960s. Dutchess County Health Department documents note complaints concerning area groundwater quality beginning in October 1981.
+
+In 1981, a local resident became concerned because his well water was foaming. The Dutchess County Health Department found that the septic and sewage systems of a nearby car wash and laundromat had failed, contaminating the groundwater with VOCs. In 1982, the laundromat installed a sand filter and a new tile field to handle the laundry effluent. The State also began an investigation and, in 1983, ordered the laundromat to disconnect the dry cleaning unit from the septic system and to dispose of all spent cleaning fluids off site at a licensed disposal facility. All residents in the area were advised to use bottled water. The wells servicing the Haviland Apartments and the laundromat had water treatment units installed in 1984 and 1985 to remove contaminants.
+
+After additional investigations, EPA placed the site on the Superfund program’s National Priorities List in June 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+**Immediate Actions**: The state originally installed carbon adsorption units in seven homes in the affected area. Once the Dutchess County Department of Health installed a public water supply into the site area, the state connected affected homes to this new system and removed the carbon filters.
+
+**Long-term Cleanup**: EPA selected a cleanup plan in 1987 to provide an alternate water supply, clean up the source of contamination, and extract and treat contaminated groundwater. In 1990, EPA cleaned out contaminated materials from the local septic disposal systems as the source control measure. Levels of contaminants in the aquifer, and therefore the affected residential wells, decreased to levels near or below state and federal drinking water standards and the existing point-of-use treatment systems provide full protection from exposure to the remaining contamination. EPA evaluated the data and presented a plan to the community in September 1996 that proposed that the groundwater treatment and alternate water supply portions of the cleanup plan were no longer needed to protect people's health and the environment.
+
+EPA updated the site cleanup plan in August 1997 to reflect this proposal. EPA continues to monitor the groundwater to make sure the amended plan is protective. EPA installed additional monitoring wells in February 1999 and is conducting the ongoing monitoring plan. The Dutchess County Department of Health installed a public water system in the area as part of a county-wide plan. The New York State Department of Environmental Conservation connected the affected homes to this system in the summer of 2000.
+
+EPA transferred the oversight of the site to the New York State Department of Environmental Conservation (NYSDEC) in April 2011. NYSDEC has completed the groundwater monitoring in the site area.
+
+### What Is the Current Site Status?
+
+EPA addressed the cleanup of this site in two stages: immediate actions and a long-term remedial phase focused on cleanup of the entire site.
+
+EPA selected a cleanup plan in 1987 to provide an alternate water supply, clean up the source of contamination, and to extract and treat contaminated groundwater. This cleanup planwas documented in a Record of Decision (ROD). EPA cleaned out contaminated materials from the local septic disposal systems as the source control measure in 1990. EPA had been working with the Town of Hyde Park to arrive at a suitable plan for providing alternate water to the affected residents. However, the levels of contaminants in the aquifer, and therefore the affected residential wells, decreased to levels that are near or below state and federal drinking water standards (i.e., Maximum Contaminant Levels (MCLs)) and the existing point-of-use treatment systems provide full protection from exposure to the remaining contamination.
+
+All site-related contamination was expected to be below MCLs within the next five years. As a result, EPA evaluated the data and presented a plan to the community in September 1996 which proposed that the groundwater treatment and alternate water supply portions of the remedy were no longer warranted to protect human health and the environment. The ROD was amended in August 1997 to reflect this proposal.
+
+The site was transferred to the NYSDEC in 2011. The groundwater in the site area continues to be monitored by NYSDEC and it is presently observed to be near MCLs. Sampling for "emerging contaminants" was performed in summer 2018 and no detections were observed from the data.
+
+EPA has conducted several five-year reviews at the site. These reviews ensure that the cleanups put in place protect people's health and the environment, and function as intended by site decision documents. Each of the reviews concluded that response actions at the site are in accordance with the cleanup plan selected by EPA and that the plan continues to be protective of people's health and the environment.
+
+Once EPA has deleted the Haviland site from the Natonla Priorirties List (NPL), NYSDEC will be following EPA's lead and removing the Haviland site from its site registry.
+
+### Sampling and Monitoring
+
+NYSDEC has sampled the groundwater at the site and is evaluating site conditions to determine the future site actions.

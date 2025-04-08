@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Old Roosevelt Field Contaminated Groundwater Area site includes an area of groundwater contamination in the Village of Garden City in central Nassau County, New York.
+
+The former Roosevelt Field Airfield is the source of groundwater contamination. The airfield lies east of Clinton Road, south of Old Country Road, north of the Long Island Railroad tracks, and extends beyond the Meadowbrook Parkway to the east.
+
+It is now home to a large retail shopping mall, with office building complexes including the Garden City Plaza on the western perimeter of the shopping mall. Meadowbrook Parkway lies on the eastern perimeter of the shopping mall. Hazelhurst Park serves as a designated parkland and a buffer between a nearby residential community and the mall complex.
+
+Two recharge basins, the Pembrook Basin and Nassau County Storm Water Basin number 124, lie directly east and south, respectively, of the mall complex. Recharge basins temporarily store runoff but release at least a portion of that runoff by infiltrating the water into the ground. Two municipal supply well fields lie downgradient (in the direction of groundwater flow) to the south of the former airfield hangers. The Village of Garden City public drinking water supply wells 10 and 11 are just south of a former airfield hanger area along Clinton Road. The Village of Hempstead Wellfield is about one mile south of Village of Garden City wells 10 and 11.
+
+Prior to World War I, the U.S. military trained pilots at the site. After World War I, the U.S. Air Service maintained control but authorized private aviation companies to operate from the airfield. The federal government sold the buildings and relinquished control of the airfield to commercial aviation companies on July 1, 1920.
+
+During World War II, the U.S. Army trained personnel on airplane and engine mechanics at the airfield. By March 1942, the Airfield accommodated six steel and concrete hangars, 14 wooden hangars, and several other buildings used to receive, refuel, crate, and ship Army aircraft.
+
+The Navy Bureau of Aeronautics established a facility at the airfield in November 1942 to install British equipment in U.S. aircraft for the British Royal Navy under the Lend/Lease Program. The U.S. Navy repaired and maintained aircraft, installed equipment, handled preparation and flight delivery of aircrafts, and conducted metalwork required for the installation of British modifications. The facility also performed salvage work on crashed British Royal Navy planes.
+
+The U.S. Navy vacated all but six hangars shortly after the war ended and vacated the remaining six hangars by 1946. The airfield resumed operations as a commercial airport from August 1946 until it closed in May 1951.
+
+The Village of Garden City installed public supply wells 10 and 11 in 1952 just south of the former hangar area along Clinton Road. The village put the supply wells into service in 1953. Over the following years, several other private entities installed and operated additional wells on the former airfield. EPA constructed the Roosevelt Field Mall, which opened in 1957.
+
+Nassau County investigated in the late 1970s and early 1980s and discovered [tetrachloroethene (PCE)](https://www.atsdr.cdc.gov/sites/toxzine/tetrachloroethylene_toxzine.html) and [trichloroethene (TCE)](https://www.atsdr.cdc.gov/sites/toxzine/trichloroethylene_toxzine.html) contamination in the public drinking water supply Wells 10 and 11. The Village of Garden City installed a treatment system that stripped out the PCE and TCE using air in 1987. The village also found elevated levels of contamination in well water used as colling water as part of an air conditioning systems at the site. Solvents such as PCE and TCE have been widely used for aircraft manufacturing, maintenance, and repair operations since the 1930s.
+
+EPA listed the site on the National Priorities List (NPL) on May 11, 2000.
+
+EPA often approaches cleanup actions at Superfund sites in separate phases, known as Operable Units (OUs). For the Old Roosevelt Field Contaminated Groundwater Area Site, EPA designated two OUs based on location. Operable Unit 1 (OU1) addresses groundwater contamination in the western portion of the site. Operable Unit 2 (OU2) addresses contaminated groundwater in the eastern portion of the site. OU2 is the final planned phase of response activities at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The Village of Garden City installed an air stripping treatment system in 1987 to remove volatile organic compounds from raw water pumped from public drinking water supply wells 10 and 11 Nassau County conducts regular well sampling and analysis of the public supply wells. EPA addresses site cleanup through federal actions.
+
+EPA performs routine groundwater monitoring at the site as part of a long-term monitoring program to verify cleanup effectiveness and to monitor cleanup progress.
+
+The results from the most recent annual groundwater sampling event performed in November 2023 (Year 12) indicate that an estimated 150 pounds of contaminants removed through operation of the treatment system for a total of 2,500 pounds since system start-up in January 2012. The primary contaminants removed were TCE and PCE.
+
+Institutional controls are in place to restrict groundwater use at the site. Institutional controls are administrative or legal controls that restrict activity at a site to minimize potential human exposure to contamination and to protect the integrity of a cleanup action.
+
+The institutional controls that are in place rely on current groundwater use restrictions in the form of state and local laws. Specifically, Article IV of the Nassau County Public Health Ordinance prohibits the use of private wells where public water systems are available. The Site is serviced by public water systems. In addition, New York State Environmental Conservation Law Section 15-1527 prohibits the installation and use of public drinking water wells in Nassau County without a State permit.
+
+### What Is the Current Site Status?
+
+EPA is approaching cleanup of the site in three stages: initial actions and two long-term cleanup phases known as Operable Units (OUs).
+
+**Initial actions**
+
+The Village of Garden City installed an air-stripping treatment system in 1987 in drinking water supply wells 10 and 11 to remove volatile organic compounds. Air stripping is the process of moving air through contaminated groundwater water in an above-ground treatment system with the goal of evaporating and removing the volatile organic compounds. The Village upgraded the treatment system in 1999 to make it more effective in removing contaminants. Nassau County samples the public drinking water supply wells regularly.
+
+**Long-term remedial phases**
+
+***Operable Unit 1 (OU1)***
+
+EPA conducted a comprehensive remedial investigation (RI) from 2001 to 2007 to determine the extent of groundwater contamination and characterize site geology and hydrogeology. The RI identified several site‐related contaminants in the groundwater, including TCE, PCE, [cis-1,2-dichloroethene (DCE)](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=82), [1,1-DCE](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=129), and [carbon tetrachloride (CTC)](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=35). Following the RI, EPA completed a feasibility study (FS) to evaluate the cleanup alternatives to treat groundwater contamination.
+
+EPA issued a [Record of Decision (ROD)](https://semspub.epa.gov/src/document/02/98815) in 2007 to address the groundwater contamination in OU1. The ROD called for extracting the contaminated groundwater, treating the contaminated groundwater above ground using a system that uses air to strip out the contaminants, and then discharging the treated groundwater to a nearby indented area called a recharge basin. Water seeps into the basin and back into the groundwater below. The ROD also required institutional controls, which are administrative or legal controls that restrict activity at a site to minimize potential human exposure to contamination and to protect the integrity of a cleanup action.
+
+EPA completed constructing the treatment plant and three groundwater extraction wells and the treatment system began operating in 2012.
+
+After the startup of the treatment system, EPA detected elevated concentrations of contaminants in a groundwater monitoring well located to the south of the former airfield. This monitoring well was beyond the reach of the groundwater treatment system. To address the contamination, EPA installed three additional groundwater extraction wells to pull contaminated groundwater from this area so it could be piped to the same groundwater treatment plant. To accommodate the additional volume of groundwater requiring treatment, EPA made modifications to components of the treatment system within the plant in 2015.
+
+Work for OU1 is ongoing, and includes operating, maintaining, and monitoring the treatment system and confirming compliance with discharge requirements for treated water. EPA performs routine monitoring of groundwater monitoring wells at the site as part of a long-term monitoring program. This monitoring program verifies the effectiveness of cleanup actions and monitors cleanup progress. Institutional controls are in place to restrict groundwater use at the site.
+
+In addition, EPA analyzed the capture zone, which is the area from which a well is drawing water, for the groundwater extraction well network to verify cleanup effectiveness and to monitor cleanup progress. EPA’s analysis revealed elevated concentration of site related contamination in a cluster of monitoring wells in the eastern area of the site. This contamination lies adjacent to the area addressed by OU1. Its discovery prompted further investigation of groundwater contamination in the eastern area of the former airfield, now identified as OU2.
+
+***Operable Unit 2 (OU2)***
+
+EPA conducted a comprehensive remedial investigation (RI) from 2014 to 2016 to determine the extent of groundwater contamination in the eastern portion of the site. Site related contaminants of concern identified for OU2 include TCE and PCE.
+
+Based on analytical data, EPA identified that PCE and TCE were the most persistent contaminants detected at the highest concentrations. Following the RI, EPA completed a feasibility study (FS) to evaluate the cleanup actions needed to treat the contaminant plume.
+
+EPA issued a [ROD in 2018](https://semspub.epa.gov/src/document/02/533938) to address the identified groundwater contamination of OU2. The ROD calls for extracting the contaminated groundwater, treating the contaminated groundwater above ground using a system that uses air to strip out the contaminants, and discharging the treated groundwater to a nearby indented area called a recharge basin. Water seeps into the basin and back into the groundwater below.
+
+Following the issuance of the ROD, EPA used federal funds to develop the site-specific plans to perform a pre-design investigation (PDI) that included additional data collection and the development of the remedial design for the OU2 cleanup.
+
+As part of the PDI conducted from October 2019 through July 2020, additional information was collected to address data gaps that were relevant for implementation of the RD. The PDI Investigation report was completed in December 2020.
+
+The OU2 design consists of a groundwater extraction and treatment system to treat volatile organic compounds. The 95% Design was submitted to EPA in September 2022. However, due to the presence of 1,4-dioxane detected in groundwater sampling results, the proposed groundwater treatment plant design for OU2 was revised to include additional treatment for emerging contaminants. The revised 100% Design was approved in September 2024. EPA is acquiring the services of a contractor through the US Army Corps of Engineers to construct the groundwater treatment plant and is targeting Summer 2026 for the start of construction activities.

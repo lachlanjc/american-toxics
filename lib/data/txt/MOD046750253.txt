@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Armour Road Superfund Site consists of a source area, a former herbicide mixing facility and a contaminated groundwater plume in the Missouri River alluvial aquifer resulting from the source area. The site property is a 1.8-acres parcel of land located at 2251 Armour Road in North Kansas City, Clay County, Missouri. The site property is bounded to the north by Armour Road; to the east and south by Railroad Avenue (now Diamond Parkway), which runs diagonally; and to the west by Vernon Road.
+
+The facility was in operation from the 1920s to 1986. Ingredients were shipped in by railcars on a rail spur that ran next to the west side of the facility and by trucks through the north entrance. The ingredients were mixed in the facility and loaded onto specialty railcars that would spray the herbicide along railroad tracks throughout the country. One of the primary ingredients of the herbicide was arsenic, and operations at the facility resulted in arsenic contamination in soil and groundwater.
+
+Several cleanup actions have been completed to remove contaminated soil and debris from the site. From August 2004 to October 2004, a Removal Action was conducted to decontaminate and demolish the building and foundation and to dispose of construction debris in a permitted landfill. Another removal action was conducted from March 2005 to April 2006 to excavate contaminated soil from the site property, to dispose of contaminated soil off-site in a permitted landfill and to backfill with clean soil. The most recent soil cleanup was completed in January 2017 to excavate, treat and dispose of contaminated soil in a permitted landfill from beneath Railroad Avenue (now Diamond Parkway) to the east and south of the site property and the adjacent property to the west. The completed cleanup actions allowed for redevelopment of the site property and the surrounding areas. The site property is the location for a new restaurant and serves as the east end of a new mixed used urban center with both retail and residential buildings. A medical building was built to the west of the site property across Vernon Road. The areas further to the west of the site property have historically been commercial and light industrial but are now part of the urban center redevelopment.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was discovered in 1989 when an environmental assessment was conducted for a potential property sale. The environmental assessment found arsenic contamination and reported the contamination to the Missouri Department of Natural Resources (MoDNR).
+
+The MoDNR entered into a consent decree with the owners of the property in 1993 to conduct preliminary soil sampling. The MoDNR confirmed the high levels of arsenic in the soil and referred the site to the EPA in 1996.
+
+In May 1996, the EPA conducted a Time-Critical Removal Action to cover the site property with geofabric and crushed rock and to put a fence around the perimeter of the site property.
+
+In December 1996, the EPA entered into an administrative order on consent with U.S. Borax to prepare an engineering evaluation/cost analysis (EE/CA), that was focused on source area removal. The EE/CA was conducted from 1997 to 2001, and the EE/CA report was completed in February 2002.
+
+The site was listed on the final National Priorities List on May 10, 1999.
+
+From August 2004 to October 2004, U.S. Borax conducted Phase 1 of a removal action to decontaminate and demolish the building and foundation; dispose of fluorescent bulbs, transformers and asbestos containing material and dispose of 1,000 cubic yards of construction debris in a permitted landfill.
+
+From March 2005 to April 2006, U.S. Borax conducted Phase 2 of a Removal Action to remove or relocate utilities; to excavate and treat arsenic contaminated soil on the site property; to dispose of contaminated soil off-site in a permitted landfill; and to backfill with clean soil. After being backfilled, the site property was left as a grassy field.
+
+The most recent soil cleanup was completed in January 2017 to excavate, treat and dispose of contaminated soil in a permitted landfill from beneath Railroad Avenue to the east and south of the site property and the adjacent property to the west. The completed cleanup actions removed contaminated soil from the site property and the surrounding areas, except to the north where residual contamination still exists in soil beneath Armour Road.
+
+### What Is the Current Site Status?
+
+**Interim Record of Decision**
+
+On September 21, 2022, the EPA issued an interim Record of Decision (IROD) for the site. The Selected Remedy is an interim response action for the site and addresses the principal current and potential risks to human health and the environment. Specifically, the Selected Remedy addresses arsenic contamination from the production of herbicides at the site property. The response action for cleaning up the site includes components to prevent exposure to the remaining contaminated soil and groundwater, prevent further contaminant migration and reduce arsenic concentrations to the extent practicable.
+
+The Selected Remedy is In Situ Immobilization Using Permeable Reactive Zones (PRZs). The major components of the Selected Remedy include the following:
+
+- In-situ immobilization using redox manipulation to create PRZs within the aquifer;
+- Long-term groundwater performance monitoring to demonstrate that the rate and capacity for inorganic contaminant attenuation meets regulatory objectives, and, in addition, that arsenic immobilization is sustainable to the extent that future health risks are eliminated;
+- Institutional controls on the site property to restrict groundwater use, restrict excavation or disturbance of contaminated soils that may result in a threat to public health or welfare and ensure engineered controls put into place, as part of a response action, remain in place;
+- Institutional controls to prevent exposure to arsenic in groundwater and to prevent migration of the arsenic contaminated plume; and
+- Institutional controls to prevent exposure to soil beneath Armour Road and to manage soil beneath Armour Road, if the pavement was ever removed and the arsenic-contaminated soil was accessible.
+
+EPA is currently negotiating with the responsible parties on a consent decree to implement the interim remedy.
+
+### Sampling and Monitoring
+
+Groundwater monitoring is conducted annually.

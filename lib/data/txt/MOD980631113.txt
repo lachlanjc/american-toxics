@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Kem-Pest Labs operated a pesticide formulation plant, coveringan area of approximately six acres at Missouri Highway 177 near Cape Girardeau, Missouri, from 1965 to 1977. Wastes from the pesticide operations were disposed in a lagoon at the site. Pesticides, including chlordane, aldrin, endrin and heptachlor, were disposed in the lagoon. An EPA inspection in 1983 revealed that the lagoon cover was eroding and that no vegetation existed on the clay cap. Pesticides were detected in surface soils near the lagoon and in drainage paths leading off-site. In 1984, the EPA detected various pesticides in on-site groundwater monitoring wells. The EPA’s site response actions were divided into two operable units (OUs). OU1 addressed contaminated soils and sediments, and OU2 addressed the formulation building and groundwater. Cape Girardeau, with a population of 60,925, draws its drinking water from the Mississippi River less than 1 mile downstream from the site. Approximately 200 people live within a mile of the site, and 1,284 live within three miles. The site is adjacent to the flood plain of the Mississippi River. A freshwater wetland is located within a mile of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and Potentially Responsible Party actions.
+
+Five Year Reviews are conducted to ensure that the remedies put in place protect public health and the environment, and function as intended. The 1999 FYR concluded that response actions at the site were in accordance with the remedy selected by the EPA and that the remedy was protective of human health and the environment. Since monitoring showed no evidence of contamination, no more Five-Year Reviews of the remedy are required.
+
+### What Is the Current Site Status?
+
+*Soil and sediments:* The long-term remedy for the site was excavation and off-site disposal of contaminated soil and sediment. The EPA excavated about 6,075 cubic yards of soils and sediments during cleanup and filled in excavated areas with clean soil. Cleanup activities were finished in 1993.
+
+*Groundwater and on-site structure:* In 1990, the EPA selected groundwater monitoring as the long-term remedy for groundwater. For the site structure, the selected long-term remedies included decontaminating and demolishing the building and removing debris and contaminated soil beneath the building. The EPA replaced excavated soils with clean soil and graded and seeded the area. Cleanup activities finished in 1996.
+
+After cleanup, the EPA removed the site from the NPL in 2001.
+
+### Sampling and Monitoring
+
+No further sampling or monitoring is required at the site.

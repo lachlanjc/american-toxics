@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site is approximately 21 acres in size and in 10 acres of it the Chem-Dyne Corporation processed and stored chemical wastes including waste oils, plastics, and resins. Site operations resulted in the contamination of soils and groundwater with volatile organic compounds.
+
+Historical information indicates that chemical wastes may have been trucked to the site beginning in 1974. In 1975, Spray-Dyne produced antifreeze onsite from recycled chemical wastes. The operation expanded in 1976, and the Chem-Dyne Corporation formed. Wastes unsuitable for recycling were stored in drums and tanks or shipped to other disposal sites. More than 30,000 drums of waste and 300,000 gallons of bulk waste materials were left on site when operations ended in 1980. Several environmental incidents were reported at the site including fish kills in the Great Miami River and onsite fires from 1976 to 1979.
+
+The site was added to the Superfund National Priorities List, or NPL, in September of 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The cleanup remedy for the site was documented in the Record of Decision, or ROD, in July of 1985. The cleanup field activities began in 1985 and were completed in September of 1992. The EPA's cleanup at the site consisted of demolishing all the buildings on-site, excavating and disposing of contaminated soil in “hot spot areas”, installing a protective cap over remaining contaminated soils, and installing a groundwater extraction-injection system.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions, and is in the Post-Construction Completion phase of the Superfund cleanup process. Site activities during this phase include operating and maintaining long-term cleanup technologies in working order, regularly reviewing the site to be sure that the cleanup continues to be effective and enforcing any necessary restrictions to minimize the potential for human exposure to contamination.
+
+In June 2024, the U.S. EPA modified the 1985 cleanup decision for the site to document several modifications to the groundwater remedy. The changes to the cleanup are outlined in the [Explanation of Significant Differences (pdf)](https://semspub.epa.gov/work/05/2006102.pdf) (15 pp, 1.63 MB), or ESD, and are summarized in the Announcements and Key Topics section of this webpage.
+
+The EPA has conducted several five-year reviews of the site’s cleanup. These reviews ensure that the cleanups put in place protect public health and the environment and function as intended by site decision documents. The EPA completed the [fifth five-year review (pdf)](https://semspub.epa.gov/work/05/968880.pdf) (97 pp, 7.8 MB) of the site in September 2021. The review concluded that the remedy at the site continued to be protective of human health and the environment. However, for the remedy to be effective in the long-term, there were several actions that needed to be performed, including modifying the 1985 cleanup decision document. The cleanup decision was modified in June 2024.
+
+The next scheduled five-year review will be in 2026.
+
+### Emergency Response and Removal
+
+The cleanup at the site also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1980, the EPA stabilized, removed and disposed of 17 potentially explosive drums. Beginning in 1982, the EPA removed another 9,000 drums, and solidified and removed 200,000 gallons of liquid and solid wastes in 33 storage tanks. Spilled materials were cleaned up and wastewater was treated for disposal. The storm drain in the loading dock area was plugged to prevent the discharge of contaminated waste into Ford Canal. The site was also fenced to prevent access.

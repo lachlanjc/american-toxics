@@ -1,2 +1,11 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Northwest Odessa Groundwater site is a chlorinated solvent-contaminated groundwater plume of unknown origin with the site center located at the intersection of 54ᵗʰ Street and Andrews Highway in Odessa, Texas. The plume extends approximately 0.3 mile southeast, 0.6 mile southwest, 0.2 mile north, and 0.75 mile northwest of the site center. The area consists primarily of commercial and light industrial properties, used by various businesses from the mid-1950s along Andrews Highway, with residential areas to the east and west of the site center.
+
+The groundwater contamination at Northwest Odessa Groundwater was first detected in December 2006 in a private well located at a vehicle repair and towing company. The private well was routinely sampled during the investigation of a nearby state superfund site, but the chlorinated solvents detected were not associated with the state superfund site. The source for the widespread chlorinated solvent-contaminated groundwater has not yet been identified.
+
+The state of Texas referred the site to the EPA for a comprehensive investigation and potential cleanup. The source of the chlorinated solvents needs to be identified and controlled to keep the contaminated plume from migrating to other private and public wells. Other federal and state cleanup programs were evaluated but are not viable at this time. The EPA received a letter of support for listing the site on the NPL from the state of Texas.
+
+### What Is the Current Site Status?
+
+The state of Texas facilitated public water hookups or provided filtration systems for the six private wells with contamination levels exceeding MCLs.

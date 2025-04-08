@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Naval Weapons Station (NWS) Concord (also known as Naval Weapons Station Seal Beach Detachment, Concord) is a 12,800-acre area located in north-central Contra Costa County, California. It was originally established in 1942 and is one of the oldest naval ordnance support bases on the Pacific Coast. Historically, activities were linked to those at Mare Island Naval Shipyard and the Port Chicago Naval Ammunition Depot and included the loading and unloading of large quantities of weapons and equipment from ships. By the height of World War II in 1944, the U.S Navy had acquired all the property that would become the NWS Concord. As the base developed, ordnance operations were centralized in the "Tidal Area" and administration and support activities were gradually relocated to the “Inland Area.” NWS Concord is composed of these two geographically separate units, the Inland (5,170 acres) and Tidal (7,630 acres) Areas, plus a 1-acre radiography facility in Pittsburgh, California. The Tidal Area continues to function as a major ammunition trans-shipment port on the West Coast for the Department of Defense (DoD) and is operated by the U.S. Army as Military Ocean Terminal Concord (MOTCO).
+
+### What Has Been Done to Clean Up the Site?
+
+The Navy began environmental investigations at NWS Concord under the Navy Assessment and Control of Installation Pollutants (NACIP) Program in 1982. The NACIP was converted to the Installation Restoration (IR) Program to be more consistent with CERCLA.
+
+In October 1999, the Inland Area was put on reduced operational status and, in 2005, the Defense Base Realignment and Closure (BRAC) Commission recommended NWS Concord for partial closure and realignment under the Base Realignment and Closure (BRAC) process. The final BRAC determination that was made resulted in the Tidal Area being transferred to the Department of the Army in 2008. The remaining area, the Inland Area, was operationally closed, and is being transferred for redevelopment.
+
+The Inland Area is being addressed through federal cleanup actions by the U.S. Navy and the Tidal Area is being addressed by the U.S. Army. Investigations of potential threats to human health and the environment at NWS Concord sites and actions to address risks posed by those sites are ongoing.
+
+### What Is the Current Site Status?
+
+**INLAND AREA ACTIONS**
+
+**Site 22 (Main Magazine Area)** – The site is comprised of 531 acres of land with 14 buildings and 116 munitions storage magazines. Historical application of arsenic-laden herbicides to control grasses/weeds for fire suppression is the main source of arsenic contamination. Additional studies are currently being conducted to evaluate remediation technologies.
+
+**Site 22A (Magazine Groups 1 -5)** – The site is comprised of 504 acres divided into five subareas, known as Groups 1 through 5 Magazine Areas, which include 103 munitions storage magazines. The Navy has implemented Institutional Controls (residential use prohibition) for Groups 3 and 5 to address human health risks from arsenic in soil. No Action was necessary at all other Groups.
+
+**Site 29 (Materials Lab)** – The site consists of 3 buildings used by the Navy for munitions development and reworking and the surrounding land with septic tank and leach field. Chlorinated solvents are present in groundwater and soil gas due to improper disposal at the site. From 2014 to 2017, the Navy treated contaminated groundwater and used vapor extraction to cleanup soil gas. Another groundwater investigation is being conducted.
+
+**SWMUs Sites 2, 5, 7, and 18 (Maintenance Areas)** – A site comprised of 6 buildings that housed industrial operations. Groundwater and soil gas contaminated with chlorinated solvents was treated with air sparging and soil vapor extraction. The Navy will be conducting additional soil gas monitoring to ensure contamination in soil gas does not require additional action.
+
+**Guam Way** – A smaller disposal site where soil has been impacted by munitions and metals. Groundwater and soil gas are impacted with chlorinated solvents. The Navy performed a removal action for lead in soil and is preparing a Feasibility Study (FS) to address metals in soil and VOCs in groundwater and soil gas.
+
+**Site 42** – A site comprised of Buildings 81 and 82 that housed munitions maintenance and painting operations resulting in underlying groundwater and soil gas contaminated with chlorinated solvents. The site also includes sewer lines, a septic tank, and associated leach field. The Navy will be completing an updated Remedial Investigation (RI).
+
+**Former Inland Burn Area** – A 50-acre open burn (OB) site used to destroy ordnance and napalm. The Navy conducted two removal actions at the site; one in October 1997 to excavate napalm residue and contaminated soils from a former burn trench and one from 2012-2013 to remove metals debris from burial pits and hillsides. All known munitions have been removed from the site. The Navy is preparing a Record of Decision (ROD) for the site.
+
+**Bermed Area** – The site is an open area approximately 15.3 acres in size that was used for open detonation (OD) of munitions. The Bermed Area contains an earthen berm used to retain water in support of cattle grazing after the end of OD operations. The berm is approximately 25 wide at the base, 85 feet long and an average of 10 feet high. Munitions detected in shallow soil were removed during the RI, except those that may remain under the earthen berm. The Navy is preparing a ROD for the site.
+
+**Eagle’s Nest** – A 2.4-acre site consisting of 3 pits used for emergency destruction and OB/OD and their associated kickout areas. The Navy successfully addressed munitions related debris from the pits during the RI and a 2013 removal action. The Navy is preparing a Proposed Plan (PP) for the site.
+
+**Site 24A (Pistol Firing Range)** – A 2.5-acre area where small arms and inert 40-mm rifle-launched grenade training was conducted. The original earthen berm backstop behind the firing range target area was replaced by capping the berm with additional soil in the late 1970s or early 1980s. The Navy conducted Phases I and II (July 2012 and October 2013) and Phase III (2015-2016) of a removal action to excavate, screen and dispose of munitions and metals contamination. The Navy is preparing a RI/FS for the site.
+
+**Rocket Practice Area** – An approximately 40-acre site identified in April 2012 by the presence of 3.5-inch practice rockets and munitions debris on the surface of the site. Munitions recovered from the site indicate that the area may have served as a practice range from approximately 1950 to the 1960s. Further investigation for muntions is being conducted.
+
+**Runway Debris Area (RDA) Fuel Pit Area** – The former airfield was constructed in the 1940s with north-south- and east-west-oriented runways. The Northern RDA is approximately 25 acres and the Southern RDA is approximately 37 acres. The combined site also includes taxiways, an abandoned rail bed, airfield buffer areas, and a former aircraft firing range known as the Bore Sighting Range. Based on the discovery of munitions-related items during detector-aided surveys, the Navy is preparing an RI/FS.
+
+**TIDAL AREA ACTIONS** **Litigation Area --** Since 1983, NWS Concord has excavated contaminated soils from the Litigation Area and disposed of them off site. In addition, NWS Concord performed wetlands restoration activities. Replanting of the site finished in the fall of 1995. The Litigation Area Sites Feasibility Study (FS) and Proposed Plan have been issued, proposing additional remedial actions necessary to address contaminated aquatic sediments and wetlands soils.
+
+**Site 1 Landfill --** The 2004 remedy for the Tidal Area Landfill (Site 1) consisted of a California Title 27 municipal solid waste multilayer prescriptive soil cap. Construction of the cap is complete.

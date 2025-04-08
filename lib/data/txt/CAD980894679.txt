@@ -1,29 +1,33 @@
-WESTERN PACIFIC RAILROAD CO.OROVILLE, CA
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 90-acre Western Pacific Railroad Co. site is located near Oroville, California. A rail yard operated on site from 1920 until 1982. Railroad activities discharged waste solvents, oils, grease and wastewaters containing heavy metals into an unlined surface impoundment until 1987. A concrete tank containing an unknown, oil-like substance was located on site as well. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 2001.
+### Background
 
-What Has Been Done to Clean Up the Site?
-The site was addressed through federal, state and PRP actions.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires additional groundwater monitoring.
+The 90-acre Western Pacific Railroad Co. site is located near Oroville, California. A rail yard operated on site from 1920 until 1982. Railroad activities discharged waste solvents, oils, grease and wastewaters containing heavy metals into an unlined surface impoundment until 1987. A concrete tank containing an unknown, oil-like substance was located on site as well. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 2001.  
 
-What Is the Current Site Status?
-EPA and the potentially responsible party (PRP) addressed the site in two stages: immediate actions and a long-term remedial phase focusing on cleanup of the entire site.Initial Actions: Initial actions included the removal and transport of soils and sludges associated with the surface impoundment and an underground storage tanks. These were recycled into asphalt road base. The two 30-gallon concrete sumps closed. Soil samples collected from the surrounding area at the sumps revealed no contamination. The underground oil/waste separator was emptied and backfilled with clean soil. An extraction system is pumping and treating a plume of contaminated groundwater near the former underground storage tank.Entire Site: The long-term remedy includes excavation and off-site disposal of surface soils in a 1-acre area and institutional controls to ensure that future land use remains industrial. The PRP installed a groundwater pump-and-treat system in 1994 to prevent groundwater contamination from spreading. In early 1997, the PRP installed a second groundwater extraction well with a soil vapor extraction (SVE) unit to remove 1,1-DCE from the groundwater and soil. By the fall of 1997, contaminants in the groundwater dropped below cleanup levels. Groundwater treatment activities finished in 1999 and the SVE system finished operating in November 2000.In 1998, the PRP removed contaminated soil from the fueling area and backfilled the area with clean fill. The PRP shipped contaminated soil to a landfill in Utah. In 2001, the PRP filed a deed restriction to restrict future use of the site property to industrial uses only.EPA took the site off the NPL in 2001.
+### What Has Been Done to Clean Up the Site?
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Groundwater on site was contaminated with various volatile organic compounds (VOCs). The surface impoundment was contaminated with heavy metals including arsenic, lead, and chromium.  Surface soil in the Fueling Area is contaminated with low levels of polycyclic aromatic hydrocarbons (PAHs). Access the EPA acronym web site -
-http://iaspub.epa.gov/sor_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do
+The site was addressed through federal, state and PRP actions.
 
-Sampling and Monitoring
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires additional groundwater monitoring.  
+
+### What Is the Current Site Status?
+
+EPA and the potentially responsible party (PRP) addressed the site in two stages: immediate actions and a long-term remedial phase focusing on cleanup of the entire site.
+
+*Initial Actions:* Initial actions included the removal and transport of soils and sludges associated with the surface impoundment and an underground storage tanks. These were recycled into asphalt road base. The two 30-gallon concrete sumps closed. Soil samples collected from the surrounding area at the sumps revealed no contamination. The underground oil/waste separator was emptied and backfilled with clean soil. An extraction system is pumping and treating a plume of contaminated groundwater near the former underground storage tank.
+
+*Entire Site:* The long-term remedy includes excavation and off-site disposal of surface soils in a 1-acre area and institutional controls to ensure that future land use remains industrial. The PRP installed a groundwater pump-and-treat system in 1994 to prevent groundwater contamination from spreading. In early 1997, the PRP installed a second groundwater extraction well with a soil vapor extraction (SVE) unit to remove 1,1-DCE from the groundwater and soil. By the fall of 1997, contaminants in the groundwater dropped below cleanup levels. Groundwater treatment activities finished in 1999 and the SVE system finished operating in November 2000.
+
+In 1998, the PRP removed contaminated soil from the fueling area and backfilled the area with clean fill. The PRP shipped contaminated soil to a landfill in Utah. In 2001, the PRP filed a deed restriction to restrict future use of the site property to industrial uses only.
+
+EPA took the site off the NPL in 2001.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater on site was contaminated with various volatile organic compounds (VOCs). The surface impoundment was contaminated with heavy metals including arsenic, lead, and chromium. Surface soil in the Fueling Area is contaminated with low levels of polycyclic aromatic hydrocarbons (PAHs). Access the EPA acronym web site - http://iaspub.epa.gov/sor\_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do
+
+### Sampling and Monitoring
+
 Groundwater is sampled for each five-year review.

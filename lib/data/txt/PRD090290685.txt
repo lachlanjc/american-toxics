@@ -1,19 +1,21 @@
-PAPELERA PUERTORRIQUENA, INC.UTUADO, PR
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Green Remediation
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Papelera Puertorriqueña Inc. (PPI) site is located in Utuado, Puerto Rico. PPI is an active facility that manufactures paper and plastic bags, using ink-based solvents in the manufacturing process, as well as storing other paper-based products at the site. The facility discharged wastewater containing hazardous chemicals into the Viví River and surrounding areas. EPA placed the site on the Superfund program’s National Priorities List in September 2009. Site investigations are ongoing. For more than 40 years, PPI has manufactured paper bags, including coffee bags, bags for bakery products, rice bags, supermarket bags, cardboard boxes and plastic bags in different sizes and dimensions at its facility in Utuado. Other paper-based products, like greeting cards and paper gift wraps, are stored on site and distributed by PPI. During the manufacturing process, PPI uses water-based and oil-based inks, high-density polyethylene (HDPE) pellets (resin pellets), ethyl acetate and isopropanol. In November 2005, Puerto Rico Environmental Quality Board (PREQB)’s Superfund Preliminary Assessment and Site Inspection Division conducted a site inspection. It identified numerous holes in the facility though which hazardous substances and inks used in the manufacturing process could migrate. Containers and drums in poor condition were leaking onto the facility floor. A follow-up inspection took place in 2008 to determine current conditions at the facility. The drums previously observed by PREQB had been removed. Black, green and dark blue discharges were observed seeping from the facility onto the exterior ground surface and into drainage ditches running to the Viví River. PREQB also observed green discharges from the facility into the Viví River. After additional investigations, EPA placed the site on the Superfund program’s National Priorities List in September 2009.
-What Has Been Done to Clean Up the Site?
-The Papelera Puertorriqueña, Inc. (PPI) Superfund site is located in Utuado, Puerto Rico. Since 1965, on-site PPI operations included the manufacture of paper and plastic bags and cardboard boxes. Investigations found that site activities resulted in the contamination of soil, sediment, surface water and groundwater with volatile organic compounds. In 2009, EPA added the site to the Superfund program’s National Priorities List (NPL). EPA is currently in the process of investigating the full extent of contamination and choosing a final cleanup plan for the site. PPI continues to operate on the property throughout the investigation and cleanup planning phases.
-What Is the Current Site Status?
-Currently, PPI is working stabilizing the structure, after it suffered mayor impacts by Hurricane Fiona in 2022. EPA is planing to conduct addtional firld activites as part of the Remedial Design Investigation.﻿
+### Background
 
-Green Remediation
+The Papelera Puertorriqueña Inc. (PPI) site is located in Utuado, Puerto Rico. PPI is an active facility that manufactures paper and plastic bags, using ink-based solvents in the manufacturing process, as well as storing other paper-based products at the site. The facility discharged wastewater containing hazardous chemicals into the Viví River and surrounding areas. EPA placed the site on the Superfund program’s National Priorities List in September 2009. Site investigations are ongoing.
+
+For more than 40 years, PPI has manufactured paper bags, including coffee bags, bags for bakery products, rice bags, supermarket bags, cardboard boxes and plastic bags in different sizes and dimensions at its facility in Utuado. Other paper-based products, like greeting cards and paper gift wraps, are stored on site and distributed by PPI. During the manufacturing process, PPI uses water-based and oil-based inks, high-density polyethylene (HDPE) pellets (resin pellets), ethyl acetate and isopropanol.
+
+In November 2005, Puerto Rico Environmental Quality Board (PREQB)’s Superfund Preliminary Assessment and Site Inspection Division conducted a site inspection. It identified numerous holes in the facility though which hazardous substances and inks used in the manufacturing process could migrate. Containers and drums in poor condition were leaking onto the facility floor. A follow-up inspection took place in 2008 to determine current conditions at the facility. The drums previously observed by PREQB had been removed. Black, green and dark blue discharges were observed seeping from the facility onto the exterior ground surface and into drainage ditches running to the Viví River. PREQB also observed green discharges from the facility into the Viví River.
+
+After additional investigations, EPA placed the site on the Superfund program’s National Priorities List in September 2009.
+
+### What Has Been Done to Clean Up the Site?
+
+The Papelera Puertorriqueña, Inc. (PPI) Superfund site is located in Utuado, Puerto Rico. Since 1965, on-site PPI operations included the manufacture of paper and plastic bags and cardboard boxes. Investigations found that site activities resulted in the contamination of soil, sediment, surface water and groundwater with volatile organic compounds. In 2009, EPA added the site to the Superfund program’s National Priorities List (NPL). EPA is currently in the process of investigating the full extent of contamination and choosing a final cleanup plan for the site. PPI continues to operate on the property throughout the investigation and cleanup planning phases.
+
+### What Is the Current Site Status?
+
+Currently, PPI is working stabilizing the structure, after it suffered mayor impacts by Hurricane Fiona in 2022. EPA is planing to conduct addtional firld activites as part of the Remedial Design Investigation.
+
+### Green Remediation
+
 Currently, here are no green remediation practices implemented at the site.

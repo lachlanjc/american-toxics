@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4-acre FMC Corp. (Yakima) site is in Yakima, Washington. A pesticide formulation facility operated on site from 1951 until 1986. From 1952 to 1969, FMC disposed of agricultural pesticides in an on-site pit. A 6-foot chain link fence limits access to the pit area. These activities contaminated soil and groundwater with pesticides. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+EPA listed the site on the Superfund Program's National Priorities List (NPL) in 1983 after finding groundwater and soil contaminated with pesticides. Under an EPA order, FMC disposed of about 850 tons of contaminated soil in 1988 and 1989. In 1990, EPA required FMC to remove and incinerate contaminated soils on site. FMC completed cleanup in 1993. Land use controls are in place on a portion of the site to prevent exposure to remaining soil and groundwater contamination.
+
+### What Is the Current Site Status?
+
+Remedy construction took place between 1992 and 1993.
+
+The site’s long-term remedy included excavation and on-site incineration of contaminated soils, removal and disposal of other contaminated materials, groundwater monitoring and institutional controls. An estimated 2,000 pounds of waste consisting of raw material containers, soil contaminated by leaks or spills, and process wastes were dumped into the on-site pit and covered with soil. Use restrictions (institutional controls) addressing groundwater use and excavation approval were put in place in 2011. Groundwater monitoring is ongoing.
+
+The redeveloped site now has a combination of commercial and light industrial businesses.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Use restrictions (institutional controls) were put in place in 2011. The use of the shallow groundwater aquifer as a source for drinking water is not allowed. The contaminated soils were covered as part of the cleanup. Any digging or excavation deep enough to reach the contaminated soils must be approved by EPA and the Washington State Department of Ecology. These restrictions are in place to make sure any activities are consistent with industrial use on the property and will not endanger people or the environment.
+
+### Sampling and Monitoring
+
+Groundwater monitoring is ongoing. Groundwater is sampled in the fall and spring prior to each Five-Year Review. The most recent sampling occured in fall of 2022 and spring of 2023, and the next sampling will occur in fall of 2027 and spring of 2028. This provides a look at different groundwater elevations which seasonally change due to regional recharge through irrigation in the Yakima Valley.
+
+### Emergency Response and Removal
+
+Site cleanup also included a removal action, or short-term cleanup, to address immediate threats to human health and the environment. This removal action, which took place between 1988 and 1999, included excavation and off-site disposal of contaminated soil from the on-site waste pit.

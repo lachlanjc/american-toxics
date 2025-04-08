@@ -1,2 +1,81 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13-acre Bypass 601 Ground Water Contamination [Superfund](http://www.epa.gov/superfund) site is located on the western edge of Concord in south-central North Carolina. U.S. Highway 29/Route 601 borders the site to the west, Irish Buffalo Creek borders the site to the east and an unnamed tributary of Irish Buffalo Creek borders the site to the south. Site surroundings include light industrial and commercial land uses, with several residential areas located south and west of the site.
+
+The MSR facility operated from 1966 to 1986. Operations included recovering scrap metal, mostly lead, from scrap vehicle batteries. MSR collected and disposed of waste in a surface impoundment on site. In 1982, MSR began storing waste in stainless steel holding tanks. It includes the area where Martin Scrap Recycling (MSR) operated a battery salvage and scrap metal recycling facility from 1966 to 1986. The site also includes 10 additional areas where MSR disposed of battery material.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1986 because of contaminated groundwater, sediment, soil and debris resulting from waste disposal operations.
+
+By monitoring groundwater, placing institutional controls on the site properties and undertaking Five-Year Reviews, EPA, the N [orth Carolina Department of Environment Natural Resources (NCDENR)](https://deq.nc.gov/) and the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA led site investigation activities. The site’s PRPs lead cleanup activities, with oversight provided by EPA and NCDENR.
+
+To make work scheduling more effective and efficient, EPA often divides work into [Operable Units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o). At the Bypass 601 site there are three OUs:
+
+- OU 00 a sitewide OU that will summarize all activities
+- OU 01 soil remediation at the MSR facility
+- OU 02 surrounding areas
+
+The site includes the 13-acre MSR battery salvage and scrap metal recycling facility and the following 10 additional areas where MSF disposed of battery material and debris:
+
+- Source Area 1 (located next to an unnamed stream, west of Bypass 601);
+- Source Area 2 (located south of Montford Avenue and west of Bypass 601);
+- Source Area 3 (located at 72 Sumner Avenue);
+- Source Area 4 (commercial property north of and adjacent to the MSR facility occupied by an abandoned flea market);
+- Source Area 5 (located at a private landfill along the eastern boundary of the MSR facility);
+- Source Area 6 (located behind a tire store on the corner of McGill and Bypass 601);
+- Source Area 7 (the radio tower site located approximately one quarter-mile north of the MSR facility);
+- Source Area 8 (the floodplain area south of an unnamed stream);
+- Source Area 9 (area south of Montford Avenue; se of Source Area 2); and
+- Source Area 10 (adjacent to a second unnamed stream in a heavily wooded, hilly area next to Barnhardt Avenue, Groff Street and Montford Avenue).
+
+**1990**  
+EPA issued an interim cleanup plan for OU-1. It included demolishing four on-site structures; disposing of building debris in an off-site landfill; recycling metal materials; and crushing and consolidating building concrete and stone with contaminated surface soils.
+
+EPA did not implement the 1990 cleanup plan for OU-1.
+
+**1992**  
+EPA led a short-term cleanup to remove contaminated soil on four of the site’s source areas.
+
+**1993**  
+In 1993, EPA issued the cleanup plan for OU-2 and revised the final cleanup plan for OU-1. The plans included demolishing and disposing of the abandoned flea market and remaining MSR facility buildings at an off-site municipal landfill; digging up contaminated soil; solidifying and stabilizing contaminated soil; placing clean soil in the dug-up areas and grading and revegetating the areas; using a pump-and-treat system to address groundwater contamination; and discharging treated groundwater to a local water treatment plant.
+
+**1996**  
+Site PRPs did a second cleanup to remove remaining contaminated soils on five areas.
+
+The PRPs conducted cleanup activities for OU-2 in two phases, beginning in September 1996. PRPs completed Phase 1 in November 1996, removing 16,750 cubic yards of soil and debris and transporting the materials to the MSR facility. PRPs completed Phase II between 1998 and 1999, which included the solidification/stabilization of 10,420 cubic yards of materials, demolition of old buildings and construction of a cap over the MSR facility, Source Area 4 and Source Area 5 and placing a fence around the edge of the cap.
+
+**1997**  
+In 1997, EPA modified the cleanup plan for OU-2, including the use of monitored natural attenuation instead of the pump-and-treat system to address groundwater contamination, and treating and placing a cap over dug-up soil from the MSR facility, Source Area 4 and Source Area 5.
+
+**1999**  
+Cleanup of OU-2 was completed in 1999.
+
+**2012**  
+The site’s third Five-Year Review, completed in 2012, found that the cleanup remains protective of human health and the environment for the short term. Continued protectiveness of the remedy requires evaluation of the need for institutional controls on a fourth property parcel at the site.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11067904.pdf) was published by EPA HQs in 2022The remedy at the Site currently protects human health and the environment in the short term because most of the soil contamination was remediated through source removal and on-site capping of the contaminated soils.
+
+Ground water contamination remains under one area of the site. PRPs continue to use monitored natural attenuation to address ground water contamination.
+
+EPA placed institutional controls on the site property to make sure the cleanup continues to protect human health and the environment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA placed institutional controls on the site property to make sure the cleanup continues to protect human health and the environment.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s PRPS to clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

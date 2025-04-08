@@ -1,0 +1,43 @@
+### Background
+
+The Bridgeport Rental and Oil Services (BROS) Superfund site is a 30-acre property in Logan Township, New Jersey. The site was a waste oil storage and recovery facility from 1960 to 1981 that included a 13-acre waste lagoon and a tank farm with approximately 100 tanks and process vessels. Initial estimates indicated that the lagoon contained about 2.5 million gallons of contaminated oil with [polychlorinated biphenyls (PCBs)](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=26), 80,000 cubic yards of PCB-contaminated sediments and sludge, and 70 million gallons of contaminated wastewater. In the early 1970s, the lagoon overflowed its barrier causing widespread vegetative damage to about three acres of the adjacent wetland and impacted approximately ten acres of the wetland. In addition, the waste lagoon contaminated the groundwater with [volatile organic compounds (VOCs)](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds#overview).
+
+The surrounding area is primarily rural and agricultural. Little Timber Creek Swamp lies to the east and leads to Little Timber Creek, a tributary of the Delaware River. Cedar Swamp lies across Route 130 north of the site and collects drainage via Little Timber Creek. The groundwater in the uppermost aquifer flows away from the site and includes a northern flow component toward the Delaware River. At greater depths, the groundwater flows to the southeast. Domestic water supply wells historically existed to the north, northwest, and west of the site. Ten of the domestic water wells are within 50 to 1,000 feet of the BROS site. These wells have been replaced over the years by a public water supply. The Bridgeport area uses the aquifer underneath the site for drinking water.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA is cleaning up the lagoon, tank farm area, groundwater, and wetlands in three stages, which include one emergency action and two long-term plans.
+
+**Emergency Action**: When the waste oil lagoon threatened to overflow, EPA:
+
+(1) reinforced the failing dike or barrier and raised the height of the dike by about five feet in 1982;
+
+(2) pumped the lagoon level down by about two feet and removed the liquids in 1982;
+
+(3) provided homes with filtration units for well water use in 1983;
+
+(4) lowered the lagoon level by an additional two feet in 1983;
+
+(5) addressed lagoon overflows by pumping down the water level by about ten feet in 1984;
+
+(6) cleaned and replaced a failed oil boom spill of 50 gallons of PCB-contaminated oil in late 1984; and,
+
+(7) removed drums with contaminated materials from a warehouse to an EPA-approved facility in 1990.
+
+**Lagoon, Tank Farm, and Wells**: EPA announced a cleanup plan for the site's lagoon, tank farm, and potentially contaminated residential wells in a [1984 Record of Decision (ROD)](https://semspub.epa.gov/work/02/99873.pdf). The decision document explained why and how EPA would use on-site incineration to clean up the sludge, sediment, soil, debris, and lagoon oil at the site. EPA also announced in the ROD that a second phase investigation was necessary to design the appropriate groundwater and wetland cleanup plan. EPA constructed a drinking water line in 1987 that provided clean drinking water to 15 affected homes. In addition, EPA sampled shallow groundwater to evaluate options to address soil on the west side of the property as well as a swale area.
+
+**Groundwater/Wetlands**: EPA’s decision to address contaminated soil, groundwater, and wetlands through extraction, treatment, ex-situ treatment, and in-place chemical and biological treatment was detailed in a second [ROD](https://semspub.epa.gov/work/02/95515.pdf) issued in September 2006.
+
+EPA addressed the wetlands cleanup in a phased approach. The first phase involved excavating or removing contaminated sediment in two main areas designated as Little Timber Creek Wetland I and II. EPA placed a chemically retarding sorptive mat below the backfill and topsoil to strip volatile contaminants, treat the contaminated area and prevent the contaminants from moving into the groundwater. With New Jersey Department of Environmental Protection (NJDEP) approval, EPA completed a five-year vegetation and animal habitat restoration program in July 2018, completing phase two of the cleanup plan. EPA is currently sampling the soil between the former lagoon and the wetlands to determine if any light non-aqueous phase liquid (LNAPL) remain in that area that may pose a risk to the wetlands.
+
+### What Is the Current Site Status?
+
+EPA’s oversight of the PRP-lead groundwater cleanup, which began in 2013, is continuing. EPA's soil and wetland long-term cleanup plans are ongoing and plans to address soil on the west side and make repairs to the swale area are currently under development to ensure they are protective of human health and the environment. EPA has sampled the LNAPL in the soil surrounding the former lagoon for emerging contaminants, per- and polyfluoroalkyl substances (PFAS) and 1,4-dioxane, to evaluate if emerging contaminants will need to be addressed in the remaing LNAPL. EPA completed its second five-year review for the site in June 2023, which is available in the site repository.
+
+### Sampling and Monitoring
+
+Annual groundwater sampling is conducted by the responsible party to monitor the effectiveness of the cleanup plans and to determine if any changes to the type of treatment are neccesary. At the direction of EPA, the responsible party took samples of LNAPL in April 2023 that remained from the lagoon excavation work to allow EPA to determine if further action is neccessary relating to the residual LNAPL. Emerging contaminants, 1,4-Dioxane and PFOS were detected in the LNAPL and corresponding groundwater. EPA is evaluating options presented by the PRPs to address the residual LNAPL.
+
+### Enforcement Information
+
+In 1984, EPA issued a final cleanup plan documented in a Record of Decision (ROD) for Phase 1 or OU1 for the site. The 1984 ROD selected the cleanup plans for the waste lagoon, tank farm, potentially contaminated residential wells, and also included a second phase remedial investigation to determine the appropriate groundwater and wetland cleanup actions. In 1996, through a Consent Decree, the Settling Defendants became responsible for completing the Phase 2 Remedial Investigation and Feasibility Study (RI/FS) under the direction of EPA. An RI/FS is an investigation to examine the nature and extent of contamination and options for addressing it. EPA issued a ROD for the Phase 2 or OU2 for the site in September 2006.

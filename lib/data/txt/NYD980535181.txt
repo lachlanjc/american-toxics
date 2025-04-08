@@ -1,15 +1,29 @@
-SEALAND RESTORATION, INC.LISBON, NY
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 210-acre Sealand Restoration, Inc. site is located in Lisbon, New York. Sealand Restoration, Inc. operated a disposal facility for hazardous materials at the site. As a result, the underlying groundwater was contaminated with heavy metals and volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that can easily evaporate into the air. Soil samples showed low levels of polychlorinated biphenyls (PCBs), pesticides, heavy metals, and phenols (chemicals used to make plastics and detergents). Surface water was also contaminated with metals. After site investigations, a long-term cleanup plan was put in place. Sealand Restoration, Inc. purchased the former dairy farm site in 1977. In 1979, the New York State Department of Environmental Conservation (NYSDEC) issued a permit for the company to accept waste products. Under the terms of this permit, only uncontaminated wastes, petroleum wastes, and mineral oils could be disposed of at the facility. Specific approval was required for stockpiling wastes and disposing of any contaminated wastes. Sealand Restoration, Inc. put the petroleum waste in the ground in a disposal cell near the southern boundary of the site or spread the waste on the ground surface in the central and northern parts of the site. NYSDEC determined that Sealand Restoration was out of compliance with its permit in 1980 and ordered the facility to stop operating. The company filed for bankruptcy in 1981. After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List in October 1999.
-What Has Been Done to Clean Up the Site?
-The site is being addressed through interim and long-term actions as follows: Interim Source Control: St. Lawrence County removed surface wastes from the cell disposal area in 1984 and from the drum storage area in 1986 and 1987. From 1989 to 1990, NYSDEC removed 6,435 tons of contaminated soil, 1,445 buried drums, and 375,000 gallons of contaminated liquids from the cell disposal cell area and then backfilled the disposal cell with clean soil and covered it with a multilayered cap. Long-term Cleanup: A remedial investigation and feasibility study to determine the nature and extent of on-site groundwater, surface water and sediment contamination, and to evaluate cleanup options was completed in 1995. EPA selected a cleanup plan for the contamination in a 1997 Record of Decision (ROD). It called for extracting and treating groundwater and placed restrictions on the installation and use of groundwater wells at the site and set limitations on the future use of the site . EPA modified the cleanup plan in 2001 after testing conducted during the design of the cleanup showed that the groundwater extraction system called for in the ROD would not effectively address the groundwater contamination. Instead, a permeable reactive barrier (PRB), combined with natural attenuation, was installed to restore the groundwater to federal and state groundwater standards. A PRB is a structure containing activated carbon that is built below ground, which allows contaminated groundwater to naturally flow through it, removing contaminants. Construction of the PRB was completed in 2005. All site monitoring wells continue to be sampled on a semiannual basis. By removing the buried drums, contaminated soil and liquid from the disposal cell area, and backfilling the disposal cell with clean soil and covering it with a multilayered cap, the possibility of people being directly exposed to hazardous materials at the site has been greatly reduced. The installation of a PRB is addressing the groundwater contamination.
-What Is the Current Site Status?
-All site monitoring wells continue to be sampled on a semiannual basis. Five-year reviews are performed at sites to ensure that implemented cleanup plans protect public health and the environment and that they function as intended by site decision documents. EPA issued five-year review reports in August 1998, August 2003, August 2008, September 2013, June 2018, and March 2023. They concluded that the cleanup has been protective of human health and the environment. Under current conditions at the site, potential or actual human exposures are under control.
+### Background
+
+The 210-acre Sealand Restoration, Inc. site is located in Lisbon, New York. Sealand Restoration, Inc. operated a disposal facility for hazardous materials at the site. As a result, the underlying groundwater was contaminated with heavy metals and volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that can easily evaporate into the air. Soil samples showed low levels of polychlorinated biphenyls (PCBs), pesticides, heavy metals, and phenols (chemicals used to make plastics and detergents). Surface water was also contaminated with metals. After site investigations, a long-term cleanup plan was put in place.
+
+Sealand Restoration, Inc. purchased the former dairy farm site in 1977. In 1979, the New York State Department of Environmental Conservation (NYSDEC) issued a permit for the company to accept waste products. Under the terms of this permit, only uncontaminated wastes, petroleum wastes, and mineral oils could be disposed of at the facility. Specific approval was required for stockpiling wastes and disposing of any contaminated wastes. Sealand Restoration, Inc. put the petroleum waste in the ground in a disposal cell near the southern boundary of the site or spread the waste on the ground surface in the central and northern parts of the site.
+
+NYSDEC determined that Sealand Restoration was out of compliance with its permit in 1980 and ordered the facility to stop operating. The company filed for bankruptcy in 1981.
+
+After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List in October 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through interim and long-term actions as follows:
+
+Interim Source Control: St. Lawrence County removed surface wastes from the cell disposal area in 1984 and from the drum storage area in 1986 and 1987. From 1989 to 1990, NYSDEC removed 6,435 tons of contaminated soil, 1,445 buried drums, and 375,000 gallons of contaminated liquids from the cell disposal cell area and then backfilled the disposal cell with clean soil and covered it with a multilayered cap.
+
+Long-term Cleanup: A remedial investigation and feasibility study to determine the nature and extent of on-site groundwater, surface water and sediment contamination, and to evaluate cleanup options was completed in 1995. EPA selected a cleanup plan for the contamination in a 1997 Record of Decision (ROD). It called for extracting and treating groundwater and placed restrictions on the installation and use of groundwater wells at the site and set limitations on the future use of the site.
+
+EPA modified the cleanup plan in 2001 after testing conducted during the design of the cleanup showed that the groundwater extraction system called for in the ROD would not effectively address the groundwater contamination. Instead, a permeable reactive barrier (PRB), combined with natural attenuation, was installed to restore the groundwater to federal and state groundwater standards. A PRB is a structure containing activated carbon that is built below ground, which allows contaminated groundwater to naturally flow through it, removing contaminants. Construction of the PRB was completed in 2005.
+
+All site monitoring wells continue to be sampled on a semiannual basis.
+
+By removing the buried drums, contaminated soil and liquid from the disposal cell area, and backfilling the disposal cell with clean soil and covering it with a multilayered cap, the possibility of people being directly exposed to hazardous materials at the site has been greatly reduced. The installation of a PRB is addressing the groundwater contamination.
+
+### What Is the Current Site Status?
+
+All site monitoring wells continue to be sampled on a semiannual basis.
+
+Five-year reviews are performed at sites to ensure that implemented cleanup plans protect public health and the environment and that they function as intended by site decision documents. EPA issued five-year review reports in August 1998, August 2003, August 2008, September 2013, June 2018, and March 2023. They concluded that the cleanup has been protective of human health and the environment. Under current conditions at the site, potential or actual human exposures are under control.

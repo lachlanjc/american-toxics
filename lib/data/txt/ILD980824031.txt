@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Kerr-McGee (Sewage Treatment Plant) site is one of four Superfund National Priorities List (NPL) sites in the West Chicago area contaminated with radioactive thorium wastes. The radioactive waste came from a nearby facility known as the Rare Earths Facility (REF). The REF, operated by Lindsay Light and Chemical Company and its successors from 1932 until 1973, produced non-radioactive elements known as rare earths and radioactive elements such as thorium, radium and uranium along with gas lantern mantles for private entities and federal atomic energy programs. Following cleanup, EPA took the site off the NPL in April 2013.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and potentially responsible party (PRP) actions. In January 2009, Tronox (formerly Kerr-McGee) filed for Chapter 11 bankruptcy. Because of the bankruptcy settlement, a Trust was set up to complete the cleanup and monitoring for the four West Chicago Kerr-McGee Superfund sites. Following maintenance and monitoring activities for the site, EPA documented that all maintenance and monitoring requirements had been successfully achieved.
+
+### What Is the Current Site Status?
+
+Cleanup addressed 25 acres of land as well as 1.2 miles of the West Branch of the DuPage River. To address the land area, a time-critical removal action in December 2004 removed 6,557 cubic yards of contaminated soil from the site. Final restoration work finished in 2006. River cleanup removed contaminated soils and sediments in 2004 and 2005. River restoration work finished in 2008.
+
+Following cleanup, EPA took the site off the NPL in April 2013.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+thorium
+
+http://www.epa.gov/radiation/radionuclides/thorium.html

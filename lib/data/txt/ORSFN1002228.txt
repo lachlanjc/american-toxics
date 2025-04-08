@@ -1,2 +1,38 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Bradford Island is located about three miles west of Cascade Locks, Oregon and 40 miles east of Portland, Oregon. Bradford Island is operated by the United States Army Corps of Engineers (the Corps) and located within the Bonneville Dam complex on the Columbia River. Beginning with the Bonneville Dam's operation in 1938, the Corps used Bradford Island to support a variety of projects within the Bonneville Dam complex such as chemical storage, equipment storage, and waste disposal. Until 1982, the Corps disposed of hazardous waste in a landfill on the eastern side of Bradford Island. The Corps also historically operated a pistol range area upland of the river and disposed of light bulbs and electrical equipment in the uplands (upriver and lands along the river) and the river.
+
+Since 198, the Corps conducted studies to determine the extent of the contamination and explore cleanup options. The Corps also removed electrical equipment and some contaminated sediment from the river.
+
+![](https://www.nwp.usace.army.mil/portals/24/siteimages/locations/CRG/Bonneville%20Orientation%20Map%202018%20WHITE.jpg?ver=2018-11-20-131353-083)
+
+**Map showing the location of Bradford Island** (Source: US Army Corps of Engineers)
+
+### What Has Been Done to Clean Up the Site?
+
+Since 1998, the Corps conducted studies to determine the extent of the contamination and explore cleanup options. The Corps also removed electrical equipment and some contaminated sediment from the river. For more information on the Corps' work at Bradford Island please visit the [US Army Corps of Engineers Portland District Website for Bradford Island](https://www.nwp.usace.army.mil/bonneville/bradford-island/).
+
+Specific plans for additional cleanup do not yet exist. Now that the site is listed on the National Priorities List, EPA has a more formal role of overseeing the Corps’ cleanup work. In addition, NPL listing will require a legally-enforceable agreement, known as a Federal Facility Agreement, between EPA and the Corps that will define work schedules. The agreement also establishes a clear dispute resolution process that the Corps and EPA will follow.
+
+A thorough analysis of cleanup options for both the upland and in-water portions of the area must be completed by the Corps and approved by EPA before proposing a remedy (or Proposed Plan) for public comment.
+
+For more information on the final NPL listing, please review [EPA's Fact Sheet for the Final Listing of Bradford Island on the National Priorities List](https://semspub.epa.gov/src/document/10/100387696) (March 2022).
+
+### What Is the Current Site Status?
+
+#### Bradford Island Federal Facility Agreement signed
+
+In March 2024, the U.S. Environmental Protection Agency signed a Federal Facility Agreement (FFA) with the U.S. Army Corps of Engineers (USACE), Oregon, and Washington that defines investigation and cleanup work at the Bradford Island National Priorities List Site. The FFA also includes an enforceable schedule for USACE to conduct the work.
+
+The Bradford Island FFA states that:  
+● EPA, with Oregon and Washington, will oversee all work.  
+● USACE will remain the federal agency responsible for the cleanup implementation.  
+● If there is a formal dispute, the FFA defines a clear dispute resolution process and specifies that EPA will be the final authority on any cleanup decisions.  
+● EPA concurrence is required on important site decisions and key remedial documents throughout the site investigation and cleanup process.  
+● USACE has committed to requesting any funds needed to perform work necessary to complete the investigation and cleanup process.
+
+The EPA is accepting public comments on this Bradford Island FFA for 45 days, from April 24 to June 10. Information on where to view the FFA documents and provide comments is accessible on this website's homepage and under [Announcements and Key Topics](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.Stayup&id=1002228#Stayup).
+
+#### March 16, 2022 - EPA Officially Listed Bradford Island as a Superfund Site on the National Priorities List
+
+EPA officially listed Bradford Island as a Superfund site on the National Priorities List (NPL) and published its decision in the [Federal Register](https://www.federalregister.gov/documents/2022/03/16/2022-05397/national-priorities-list) on March 16, 2022. The NPL is a list of sites throughout the U.S. that EPA prioritizes for cleanup due to known releases or threatened releases of hazardous substances, pollutants, or contaminants. For more information on this final NPL listing, please review this  [EPA fact sheet](https://semspub.epa.gov/work/10/100387696.pdf), the full [responsiveness summary](https://semspub.epa.gov/work/10/100387947.pdf) that details how EPA considered the public comments submitted by 1,717 commenters, and the "Site Documents and Data" sections of this website.

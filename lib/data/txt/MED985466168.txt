@@ -1,24 +1,45 @@
-WEST SITE/HOWS CORNERSPLYMOUTH, ME
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The West Site/Hows Corners site is located in Plymouth, Maine. The site includes a 17-acre parcel of land owned by George West, as well as surrounding properties with groundwater contamination. Mr. West used a 2-acre area of the site to operate a waste oil facility from 1965 to 1980 in affiliation with the Portland/Bangor Waste Oil Company. The Portland/Bangor Waste Oil Company collected, transported and deposited waste oil from military bases, auto dealerships, municipalities, local garages, bulk transportation companies, industries and utility companies on site. Oil was stored in about eight 1,000- to 20,000-gallon storage tanks located within the source area of the site. The company sold the lighter oil for fuel and the heavier oils for dust control on dirt roads. In 1980, when the company stopped operating, it cut up the tanks and sold them to a scrap metal dealer. No waste oil activities are known to have taken place after the removal of the tanks. A routine site inspection in 1988 found the only waste source remaining was contaminated soil. Groundwater at the site is contaminated with perchloroethylene (PCE) and other contaminants. The small, fenced-off, 2-acre parcel is considered the source area. Following construction of the site’s remedy, long-term operation and maintenance activities and monitoring are ongoing. The site was placed on the National Priorities List (NPL) in ﻿September 1995.
-What Has Been Done to Clean Up the Site?
-The site is being addressed through potentially responsible party (PRP) actions, with oversight provided by EPA and the Maine Department of Environmental Protection. The site’s long-term remedy included containment of highly contaminated groundwater; monitoring natural attenuation of the groundwater in the non-source area; long-term monitoring of the groundwater, surface water and sediments in nearby ponds; and taking measures (“institutional controls”) that would guide the safe use of land around the site. The groundwater containment system was completed in 2012. It includes a bedrock well that pumps contaminated groundwater up through an aboveground treatment system and then pumps the clean water back into the bedrock. In September 2006, after assessing whether it would be practical to restore source area groundwater to drinking water quality, EPA concluded that it was technically not possible. Therefore, in 2006, EPA waived the need to restore the groundwater within a limited area of the site, saying that containment of the highly contaminated groundwater by pumping, while monitoring the natural improvement of groundwater over time, was a viable approach. This 2006 decision also required the investigation and then mitigation, if necessary, of vapors seeping from the source area into indoor air in surrounding homes. Cleanup Progress.
-What Is the Current Site Status?
-EPA is addressing the site in three stages: initial actions, cleaning groundwater away from the source area and cleaning groundwater at the source area. As part of the initial actions, EPA removed about 850 tons of contaminated soil from the source area in 1990 and 1991 and disposed of it at a toxic waste facility. EPA also installed an alternate water line in 1993-94 for residents whose private wells had become or were at risk of becoming contaminated with groundwater beneath the site. Following construction of the site’s remedy, long-term operation and maintenance activities and monitoring are ongoing. Cleanup Progress.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are required for this site.
-This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.
-The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
-Click here for IC Instruments implemented for this site. To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this form. ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
+### Background
+
+The West Site/Hows Corners site is located in Plymouth, Maine. The site includes a 17-acre parcel of land owned by George West, as well as surrounding properties with groundwater contamination. Mr. West used a 2-acre area of the site to operate a waste oil facility from 1965 to 1980 in affiliation with the Portland/Bangor Waste Oil Company. The Portland/Bangor Waste Oil Company collected, transported and deposited waste oil from military bases, auto dealerships, municipalities, local garages, bulk transportation companies, industries and utility companies on site. Oil was stored in about eight 1,000- to 20,000-gallon storage tanks located within the source area of the site. The company sold the lighter oil for fuel and the heavier oils for dust control on dirt roads. In 1980, when the company stopped operating, it cut up the tanks and sold them to a scrap metal dealer. No waste oil activities are known to have taken place after the removal of the tanks. A routine site inspection in 1988 found the only waste source remaining was contaminated soil.
+
+Groundwater at the site is contaminated with perchloroethylene (PCE) and other contaminants. The small, fenced-off, 2-acre parcel is considered the source area. Following construction of the site’s remedy, long-term operation and maintenance activities and monitoring are ongoing.
+
+The site was placed on the National Priorities List (NPL) in September 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through potentially responsible party (PRP) actions, with oversight provided by EPA and the Maine Department of Environmental Protection.
+
+The site’s long-term remedy included containment of highly contaminated groundwater; monitoring natural attenuation of the groundwater in the non-source area; long-term monitoring of the groundwater, surface water and sediments in nearby ponds; and taking measures (“institutional controls”) that would guide the safe use of land around the site. The groundwater containment system was completed in 2012. It includes a bedrock well that pumps contaminated groundwater up through an aboveground treatment system and then pumps the clean water back into the bedrock.
+
+In September 2006, after assessing whether it would be practical to restore source area groundwater to drinking water quality, EPA concluded that it was technically not possible. Therefore, in 2006, EPA waived the need to restore the groundwater within a limited area of the site, saying that containment of the highly contaminated groundwater by pumping, while monitoring the natural improvement of groundwater over time, was a viable approach. This 2006 decision also required the investigation and then mitigation, if necessary, of vapors seeping from the source area into indoor air in surrounding homes.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101800).
+
+### What Is the Current Site Status?
+
+EPA is addressing the site in three stages: initial actions, cleaning groundwater away from the source area and cleaning groundwater at the source area. As part of the initial actions, EPA removed about 850 tons of contaminated soil from the source area in 1990 and 1991 and disposed of it at a toxic waste facility. EPA also installed an alternate water line in 1993-94 for residents whose private wells had become or were at risk of becoming contaminated with groundwater beneath the site.
+
+Following construction of the site’s remedy, long-term operation and maintenance activities and monitoring are ongoing.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101800).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101800&doc=Y&colid=33352&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.

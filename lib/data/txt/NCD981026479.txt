@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 3.5-acre Benfield Industries, Inc., [Superfund](http://www.epa.gov/superfund) Site is located in Waynesville, Haywood County, North Carolina. The Site is part of a larger 6-acre area on Riverbend Street in Waynesville. Residential properties and a commercial business border the site to the north, Riverbend Street borders the Site to the east, a residential area borders the site to the south and the Southern Railway and Browning Branch Creek border the site to the west. The Site's broader surroundings include industrial, commercial and residential areas.
+
+The Site includes the area where Benfield Industries mixed and packaged bulk materials for resale from 1971 to 1983. The company's facility handled and stored paint thinners, solvents, sealants, cleaners, de-icing solutions and wood preservatives. In 1982, a fire destroyed most on-site structures and ended operations.
+
+The U.S. Environmental Protection Agency placed the Site on the Superfund Program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-gloassary#n) in 1989 because of contaminated groundwater and soil resulting from facility operations.
+
+The EPA and the North Carolina Department of Environment and Natural Resources (NCDENR) investigated Site conditions and took steps to clean up the Site in order to protect people and the environment from contamination. By monitoring groundwater and undertaking Five-Year Reviews (FYRs), the EPA and NCDENR continue to protect people and the environment from site contamination. NCDENR is now called [North Carolina Department of Environment Quality (NCDEQ)](https://deq.nc.gov/).
+
+Site contamination does not currently threaten people living and working near the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA led Site investigation and cleanup activities in cooperation with NCDENR.
+
+| When | What |
+| --- | --- |
+| 1982 | After the fire at the Site in 1982, the owner of the facility, at the direction of NCDENR, removed all debris, including usable chemicals, fire debris, recyclable materials and storage tanks, and then covered the site with clean soil. The owner completed these activities before the EPA listed the Site on the NPL. |
+| 1990 - 1992 | The EPA conducted the remedial investigation/feasibility study using Superfund funding as no viable potentially response party was located. |
+| 1992 | The EPA issued the Record of Decision (ROD), the cleanup plan, for the Site. The cleanup included excavating and washing contaminated soil; biotreating contaminated slurries; and placing the cleaned soil and slurry in the excavated areas. |
+| 1995 | The EPA issued a ROD Amendment changing the cleanup approach based on new information generated during a treatability study conducted as part of the remedial design. The EPA implemented the modified cleanup plan for Site soils and groundwater. 18,000 cubic yards of contaminated soils were excavated and treated and the groundwater extraction system was installed. |
+| 1998 | The EPA dug up and treated 13,500 tons of contaminated soil using manure and hay in an on-Site treatment unit. |
+| 1999 - 2000 | The EPA conducted additional treatment of 12,000 tons of soil. An additional 6,000 tons of soil was treated in 2000. Following treatment, soil was replaced in the dug-up areas. The Agency finished grading and seeding the Site in 2000. |
+| 2001 | The EPA completed construction of the Site’s groundwater pump-and-treat system (P&T system). The system included two extraction wells and discharged water into the local wastewater treatment system. From 2001 to 2007, the system extracted and discharged over 22 million gallons of groundwater.  The EPA issued an Explanation of Significant Difference (ESD). The ESD provided restrictive covenant language (i.e., Institutional Controls (ICs)) for the Site. The goal of this covenant is to restrict/control the future development/use of this property. |
+| 2002 | The EPA cleanup plan was again modified to require an institutional control on the Site property to restrict groundwater use at the Site.  Haywood Vocational Opportunities, Inc. (HVO) purchased the 6-acre parcel. |
+| 2004 | HVO redeveloped the property/Site into a vocational training center and a manufacturing facility with multiple parking areas. Fencing around the Site limits access. The Site's cleanup supports commercial and industrial land uses. |
+| 2007 | The EPA reviewed and recommended the shutdown of the P&T system in 2007. The EPA began the use of [monitored natural attenuation (MNA)](https://clu-in.org/techfocus/default.focus/sec/Natural_Attenuation/cat/Overview/) to address groundwater contamination.  A third party conducted a Streamlines Remediation System Evaluation (RSE-Lite) which is an independent, evaluation of remedial operations at a Site. The RSE-Lite concluded that the groundwater extraction system at the Site was no longer an effective groundwater remedy, and that MNA may be a more appropriate groundwater remedy. |
+| 2010 | Between 2010 and 2011, the EPA conducted an MNA evaluation. Due to elevated levels of PAHs, it was concluded it is not appropriate to issue an ESD to change the groundwater alternative to MNA. |
+| 2013 | The 2013 FYR concluded that response actions at the Site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment. This FYR recommended that the EPA complete the investigation/evaluation of technologies to address residual contamination in the soils at the groundwater table interface in the western portion of the Site and implement the technology appropriately. |
+| 2017 | The Agency initiated a pilot scale treatability study using in-situ chemical oxidation in the area where elevated levels of PAHs were detected. |
+
+### What Is the Current Site Status?
+
+The [Fifth Five Year Review](https://semspub.epa.gov/src/document/04/11189812) was published by the EPA HQs in 2023**.** The remedy currently protects human health and the environment because the OUl remedy, source removal and newly implemented groundwater remedy, as specified in the 2015 ROD Amendment consisting of ISCO followed by ISEB (if warranted) to ermanently remediate the residual soil contamination through on-site treatment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+In 2001, the EPA issued an Explanation of Significant Difference (ESD). The ESD provided restrictive covenant language (i.e., Institutional Controls (ICs)) for the Site. The goal of this covenant is to restrict/control the future development/use of this property.
+
+In 2002, the EPA modified the cleanup plan to require an institutional control on the site property to restrict groundwater use at the Site.
+
+Parts of the Site have a deed restriction to prevent digging or excavation. This deed restriction will remain until the concentration of benzo(a)pyrene decreased to the cleanup goal concentration.
+
+### Sampling and Monitoring
+
+Continued soil and groundwater monitoring, are proceeding as intended.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA was unable to identify any viable potentially responsible parties for the site. The EPA is using federal funds for site cleanup activities.

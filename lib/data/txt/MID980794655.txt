@@ -1,2 +1,60 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 234-acre Tar Lake site surrounds a dry 4-acre pond in Mancelona Township, Michigan. From 1882 until 1945, Antrim Iron Company operated an iron works facility that disposed of wastes in the pond, referred to as Tar Lake. Disposal practices resulted in soil and [groundwater](https://www.epa.gov/report-environment/ground-water#importance) contamination with hazardous chemicals. In 1983, EPA added the site the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-2). Following [cleanup](https://www.epa.gov/superfund/superfund-cleanup-process), [operation and maintenance](https://www.epa.gov/superfund/superfund-operation-and-maintenance-and-long-term-response-actions) activities are ongoing. In 2013, EPA determined additional soil excavation and expanded groundwater treatment was required. The design of this cleanup was completed in 2018. However, due to changing site conditions (increased groundwater elevations), the design is being revised and will be completed in 2023. Cleanup activities are scheduled to begin in 2024 and will be supported by Bipartisan Infrastructure Law (BIL) funds.
+
+Since the initial remedy was put in place, EPA removed two areas of the site from the Superfund Program. In 2005 EPA [deleted](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-8) the 45-acre Eastern Tailings Area (ETA), and in 2011 EPA deleted a 75-acre area that had been purchased in 2009 by Mancelona Renewable Resources (MRR) along with the ETA.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. [Several site cleanup milestones have already been achieved.](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0503024#Milestone)
+
+The site’s long-term remedy included excavation and disposal of tar and contaminated soils, groundwater extraction and treatment, and [institutional controls (ICs)](https://www.epa.gov/superfund/superfund-institutional-controls#:~:text=Institutional%20controls%20are%20non%2Dengineered,the%20integrity%20of%20the%20remedy.). In 2013, EPA determined that additional soil excavation and an expansion of the groundwater treatment system was required. The design for this new cleanup was completed in 2018. Operation and maintenance activities for existing parts of the remedy are ongoing.
+
+The [2018 Remedial Design Report (PDF)](http://semspub.epa.gov/src/document/05/951729) (91pp, 12.28MB, [About PDF](https://www.epa.gov/home/pdf-files) ) outlines plans for the additional cleanup work which will include soil excavation and expansion of the onsite biosparge groundwater treatment system. This is anticipated to start pending availability of federal funding. (Biosparging uses microbes to clean up contaminated groundwater.)
+
+[A Citizen's Guide to Bioremediation (PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_bioremediation.pdf) (EPA 542-F-12-003) (2 pp, 939 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+EPA has conducted several [five-year reviews](https://www.epa.gov/superfund/superfund-five-year-reviews) of the site’s remedy. These reviews ensure that the remedies put in place continue to protect public health and the environment and function as intended by site decision documents. The previous review – completed in 2019 – concluded that response actions at the site are in accordance with the remedy selected by EPA, and that the remedy continues to be protective of human health and the environment in the short term, because there are no uses of the site or of the onsite groundwater that are inconsistent with the short-term protectiveness of the remedy or the remedial action objectives. Moreover, the previous five-year review found that none of the tar or soil contaminants detected in the tar lake area, the smoke tunnel area, the creosote area, or the landfill exceed Michigan nonresidential direct contact criteria. Samples collected from the residential area downgradient of the site in 2014 showed no site-related contamination.
+
+However, to be protective in the long-term, the previous five-year review recommended implementing the additional remedies proposed in 2013. These additional actions include:
+
+- Additional soil excavation and expansion of the biosparge groundwater treatment system as required in the 2013 Explanation of Significant Differences (ESD)
+- Finalizing the draft landfill investigation report and determining if additional cleanup options are warranted to address the landfill and associated groundwater contamination
+- Sampling the residential well downgradient of the site, sampling the well on the property to the southwest (if determined to be necessary), and continuing to work with the [Health Department of Northwest Michigan (HDNM)](http://nwhealth.org/) and the to identify any additional remaining well users downgradient of the site
+- Confirming that Peckham and Nelson Lakes are only used for occasional recreational fishing by trespassers, re-evaluating data from 2008, and determining whether a conclusion about unacceptable risk can be made or if additional data is required
+- Continuing work on proposed property-specific Declarations of Restrictive Covenant (DRCs)
+- Completing an Institutional Control Implementation and Assurance Plan (ICIAP) that includes long-term stewardship (LTS) procedures (or two separate plans, an ICIAP and an LTS Plan) to ensure that effective [institutional controls (ICs)](https://www.epa.gov/superfund/superfund-institutional-controls#:~:text=Institutional%20controls%20are%20non%2Dengineered,the%20integrity%20of%20the%20remedy.) are implemented, monitored and maintained.
+
+EPA is currently conducting the [fourth five-year review](https://www.epa.gov/mi/epa-begins-five-year-review-tar-lake-superfund-site) of this site. Please visit the public notice to learn more.
+
+The relevant decision documents are available in the [Site Documents and Data tab](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0503024) of this page. They include: the 2002 ROD Amendment, the 2004 Explanation of Significant Differences (ESD), the 2009 ESD and the 2013 ESD.
+
+### What Is the Current Site Status?
+
+Although portions of the site are in the Operations & Maintenance Phase of the Superfund process, and have reached several cleanup milestones, EPA determined in 2013 that additional soil excavation and an expansion of the onsite groundwater treatment system were required for the remedy to be protective in the long-term. The most recent five-year review, completed in 2019, reiterated this finding. Therefore, portions of the site are now in the Remedial Design stage, to specify a soil excavation plan and an expansion of the biosparge groundwater treatment system. Biosparging uses microbes to clean up contaminated groundwater, facilitating their aerobic respiration by adding oxygen to the groundwater. Additionally, EPA is currently conducting the fourth five-year review of this site. Please visit the [public notice](https://www.epa.gov/mi/epa-begins-five-year-review-tar-lake-superfund-site) to learn more.
+
+Due to the changing site conditions (increased groundwater elevations) and the [2018 Remedial Design Report (PDF)](http://semspub.epa.gov/src/document/05/951729) (91pp, 12.28MB, About PDF) not being consistent with the [2013 Explanation of Significant Differences (PDF)](https://semspub.epa.gov/src/document/05/461404) (23 pp, 18.17 MB) document, the remedial design for the site will require modifications. The design review is expected to take the rest of 2023 pushing the planning process for the cleanup and the cleanup action itself to 2024.
+
+On December 17, 2021 the [U.S. Environmental Protection Agency (EPA) announced a $1 billion investment from the Bipartisan Infrastructure Law](https://www.epa.gov/newsreleases/epa-announces-four-michigan-sites-selected-receive-bipartisan-infrastructure-law-funds) to initiate cleanup and clear the backlog of 49 previously unfunded Superfund sites and accelerate cleanup at dozens of other sites across the country, including Tar Lake site. Until this historic investment, many of these were part of a backlog of hazardous waste sites awaiting funding. The $1 billion investment is the first wave of funding from the $3.5 billion in the Bipartisan Infrastructure Law to help cleanup polluted Superfund sites in communities, including Tar Lake in Mancelona, Michigan. The backlog of previously unfunded sites that will now be receiving funding are in 24 states and territories and all 10 EPA regions.
+
+[Bipartisan Infrastructure Law Fact Sheets](https://www.epa.gov/infrastructure/bipartisan-infrastructure-law-fact-sheets)
+
+[Cleanup, Revitalization and Recycling Investments](https://www.epa.gov/infrastructure/cleanup-revitalization-and-recycling-investments)
+
+Due to the time needed to revise the remedial design, the remedial action for the site is expected to be funded with Fiscal Year 2024 Bipartisan Infrastructure Law funds.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+See Table 2 in the [Third Five Year Review Report (2019) - Tar Lake Superfund Site (PDF)](http://semspub.epa.gov/src/document/05/949350) (140 pp, 19.37MB, [About PDF](https://www.epa.gov/home/pdf-files) ) for a summary of the site’s planned and/or [implemented institutional controls (ICs)](https://www.epa.gov/superfund/superfund-institutional-controls#:~:text=Institutional%20controls%20are%20non%2Dengineered,the%20integrity%20of%20the%20remedy.).
+
+### Sampling and Monitoring
+
+The Michigan Department of Environment, Great Lakes, and Energy (EGLE) continues to operate the groundwater treatment system and conduct groundwater monitoring.
+
+### Enforcement Information
+
+The site is being addressed through state and federal actions. A party considered potentially responsible for the contamination, referred to as a PRP, could not be found, or could not pay for the additional response actions.

@@ -1,16 +1,19 @@
-V&M/ALBALADEJOALMIRANTE NORTE WARD, PR
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The V&M/Albaladejo site, located in the Almirante Norte Ward of Vega Baja, Puerto Rico, consists of as many as five relatively small areas where refuse such as cables, batteries and electrical equipment was burned for metal recovery purposes. The burn areas are scattered around the property boundary separating the privately owned V&M and Albaladejo farms. Open burning of refuse began at an unknown point in time and continued until 1986 on the V&M property and until 1988 on the Albaladejo property. Subsequently, surface soil samples were found to contain elevated levels of antimony, cadmium, copper, silver and lead. EPA placed the site on the Superfund program’s National Priorities List in December 1996 After immediate actions to protect human health and the environment, and groundwater sampling was conducted, EPA determined that no further action was necessary. EPA took the site off the Superfund program’s National Priorities List in October 2001.
+### Background
 
-What Has Been Done to Clean Up the Site?
-A removal action was completed in early 1998 to remove surface soils from five identified burn areas. Long-term Cleanup: An investigation into the nature and extent of groundwater contamination was conducted from 1998 to 1999. Six monitoring wells were installed to determine if surface soil contamination had migrated into the groundwater. Four rounds of groundwater sampling indicated that no site-related contamination is present in the groundwater at the site.
-What Is the Current Site Status?
-The site has been addressed in two stages: immediate actions and a single, long-term remedial phase focused on cleanup of the entire site.Based on the results of the groundwater investigation and EPA’s removal action, a Record of Decision was issued on September 29, 2000 to document the no further action alternative for this Site. A Final Closeout Report was also issued on September 29, 2000 to document all the completed cleanup activities at this Site. The Site was deleted from the NPL on October 22, 2001. No further action is required.
+The V&M/Albaladejo site, located in the Almirante Norte Ward of Vega Baja, Puerto Rico, consists of as many as five relatively small areas where refuse such as cables, batteries and electrical equipment was burned for metal recovery purposes. The burn areas are scattered around the property boundary separating the privately owned V&M and Albaladejo farms. Open burning of refuse began at an unknown point in time and continued until 1986 on the V&M property and until 1988 on the Albaladejo property.
+
+**Subsequently, surface soil samples were found to contain elevated levels of antimony, cadmium, copper, silver and lead. EPA placed the site on the Superfund program’s National Priorities List in December 1996**
+
+After immediate actions to protect human health and the environment, and groundwater sampling was conducted, EPA determined that no further action was necessary. EPA took the site off the Superfund program’s National Priorities List in October 2001.
+
+### What Has Been Done to Clean Up the Site?
+
+A removal action was completed in early 1998 to remove surface soils from five identified burn areas.
+
+Long-term Cleanup: An investigation into the nature and extent of groundwater contamination was conducted from 1998 to 1999. Six monitoring wells were installed to determine if surface soil contamination had migrated into the groundwater. Four rounds of groundwater sampling indicated that no site-related contamination is present in the groundwater at the site.
+
+### What Is the Current Site Status?
+
+The site has been addressed in two stages: immediate actions and a single, long-term remedial phase focused on cleanup of the entire site.  
+
+Based on the results of the groundwater investigation and EPA’s removal action, a Record of Decision was issued on September 29, 2000 to document the no further action alternative for this Site. A Final Closeout Report was also issued on September 29, 2000 to document all the completed cleanup activities at this Site. The Site was deleted from the NPL on October 22, 2001. No further action is required.

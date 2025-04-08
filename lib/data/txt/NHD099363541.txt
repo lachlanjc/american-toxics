@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 28-acre Sylvester Site is located in a rural residential area of Nashua, New Hampshire. A sand borrow pit operated on Site for an undetermined number of years. During the late 1960s, after the owner had removed much of the sand from the property, the owner began an illegal waste disposal operation within a 6-acre area of the Site, apparently intending to fill the excavation, resulting in soil and groundwater contamination.
+
+In November 1978, State personnel observed drums stored at the Site. A court order issued in October 1979 prohibited all further disposal of hazardous wastes at the Site. However, through the 1970s solid and liquid hazardous wastes had been disposed of in a sand and gravel pit located behind the residence at 57 Gilson Road. These wastes consisted of organic solvents and other organic fluids taken from the Cannons Engineering incinerator in Bridgewater, Massachusetts. The liquid hazardous wastes migrated through unsaturated soils and entered the ground water at the Site until EPA and the State of New Hampshire began cleanup operations in 1982. As an indication of the quantity of material disposed at this Site, during the period from January to October 1979 over 800,000 gallons of hazardous wastes are documented as having been disposed onto the ground.
+
+### What Has Been Done to Clean Up the Site?
+
+Following discovery of significant contamination at the Site in the early 1980s, EPA and NHDES implemented short-term actions to protect human health and the environment. The City of Nashua extended municipal water supplies to the area surrounding the Site in 1983.
+
+Initial cleanup activities began after a Court Order allowed EPA and NHDES to enter and work on the property. In May 1980, the City of Nashua enclosed the Site with a security fence. From May to June 1980, EPA removed 1,314 drums from the Site for disposal. Monitoring of ground water, surface water and air, initiated in 1980 showed that the groundwater contaminants posed significant risks. It was determined that if no action were taken at the Site, contaminated ground water discharging to surface water would exceed water quality criteria for arsenic, trichloroethylene, chloroform, 1,2 dichloroethylene, methylene chloride and benzene at the drinking water intakes for Lowell, Lawrence and Methuen, Massachusetts. The study concluded that if no abatement action were taken, Lyle Reed Brook would not be able to support aquatic life and that there would be periodic fish kills in the Nashua River.
+
+EPA issued the first [Record of Decision](https://semspub.epa.gov/src/document/01/273461) for the Site in 1982 (1982 ROD), calling for construction of a slurry wall to surround the 20-acre area of groundwater contamination, a cap to cover that area, and groundwater treatment of the contaminated groundwater within the slurry wall. In November of 1982, EPA and NHDES constructed the slurry wall that spanned the aquifer from the ground surface to the bedrock and a low-permeability synthetic liner over that area to prevent surface infiltration to isolate the 20-acre area of highest contamination.
+
+In 1983, EPA issued a Supplemental [Record of Decision](https://semspub.epa.gov/src/document/01/273460) (the “1983 AROD”) to provide details on the groundwater treatment process and establish cleanup levels for the predominant contaminants at the Site. The 1983 AROD chose to extract the highly contaminated groundwater at a rate of 300 gallons-per-minute, treat that water to remove or destroy contaminants, and then recharge the clean water within the slurry wall and beneath the cap, with a side-stream discharged outside the slurry wall to control the hydraulic gradients. That treatment plant operated from 1985 until 1996 treating over 1.2 billion gallons of water and destroying more than 216 tons of VOCs. When operations ceased in December 1996, EPA found that the facility had removed greater than 90% of the contamination from groundwater and that the few contaminants remaining were declining in concentration. In May 1997, EPA issued a memornadum documenting that the groundwater cleanup objectives described in the 1982 AROD had been met. Since that time, NHDES has maintained and monitored the Site.
+
+EPA has conducted several [five-year reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101115&doc=Y&colid=33081&region=01&type=SC) of the Site’s remedy, most recently in 2024. These reviews ensure that the remedies put in place protect public health and the environment. The most recent review concluded that response actions at the Site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Long-term protectiveness requires consideration of adding PFAS compounds as Site contaminants and updating the Site’s groundwater monitoring plan to better define the nature and extent of PFAS contamination at the Site.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101115).
+
+### What Is the Current Site Status?
+
+All remedial construction at the Site is complete. Removing drums, installing a fence, supplying public drinking water, capping the disposal area and enclosing it with a 100-foot-deep slurry wall, and pumping and treating groundwater for 10 years have reduced the risk of exposure to hazardous materials at the Site. The former treatment plant is now the property of the City of Nashua. The only activities at the Site include environmental monitoring of groundwater, surface water, and sediment, and maintenance of the cap.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0101115).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101115&doc=Y&colid=31763&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of documents, above, and the EPA regional offices may also be contacted.
+
+### Sampling and Monitoring
+
+The State of New Hampshire conducts groundwater, surface water, and sediment sampling on an annual or biennial basis. The State also periodically samples biota in Lyle Reed Brook to ensure an "expanded aquatic population" as set forth in the 1983 Supplemental ROD. EPA periodically assesses the cap and slurry wall to ensure that they are performing as specified.

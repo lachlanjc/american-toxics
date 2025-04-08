@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site covers 88.5 acres and is in Coshocton County, Ohio, approximately 3.5 miles southeast of the city of Coshocton. The area was used for coal strip mining in the mid-1900's. From 1968 to 1979 the city built and operated a landfill at the site. In 1977, a portion of the site caught fire and burned for three days. During its operation, the landfill accepted a variety of industrial waste, including hazardous substances from several local industries. Liquid wastes including alcohols, acetone, resins, xylene, perchloroethylene, mineral spirits, plasticizers and neoprene were kept in drums and disposed of at the site. These materials contaminated groundwater, surface water and soils. The city water supply is not affected by the site.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1980 U.S. EPA and Ohio EPA conducted an initial investigation at the site and determined that the landfill at the site was a potential threat to public health. U.S. EPA placed the Coshocton Landfill on the National Priorities List (NPL) in December 1982.
+
+In 1988 U.S. EPA conducted a Remedial Investigation and Feasibility Study (RI/FS) at the site, sampling leachate, groundwater, surface water, and sediment. The RI/FS showed that the site was contaminated with approximately 30 chemicals of concern, and that it posed a potential threat to the health of people living near the site.
+
+In June of 1988 U.S. EPA issued a Record of Decision delineating the cleanup plan for the site. The cleanup at the site included placing a solid waste cap over 40 acres of the landfill, long-term monitoring, and limiting the use of and access to the site.
+
+### What Is the Current Site Status?
+
+In September 1995 a Preliminary Close Out Report (PCOR) was signed documenting that the response actions were properly constructed at the site. Groundwater monitoring that took place after the PCOR confirmed that contaminants are below clean-up levels. For this reason, U.S. EPA, with concurrence from the State of Ohio, deleted this site from the National Priorities List in October 1998, but continues to perform five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+EPA completed the [sixth five-year review (pdf)](https://semspub.epa.gov/work/05/986249.pdf) (43pp 3.27MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the site in October 2023. The review concluded that the remedy at the site continues to be protective of human health and the environment. However, for the remedy to be effective in the long-term a State of Ohio UECA Environmental Covenant needs to be implemented, and long-term stewardship procedures need to be incorporated into the existing Operations & Maintenance Plan.

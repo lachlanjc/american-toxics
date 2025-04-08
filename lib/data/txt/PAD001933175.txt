@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300530)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300530)
-
----
-
 ### Background
 
 The Sharon Steel Corporation Farrell Works Disposal Area Site is located in the Cities of Hermitage and Farrell, Mercer County, Pennsylvania. The site is between the Ohio border and the Shenango River and covers about 330 acres, including 100 acres of wetlands. Waste, from the Sharon Steel Corporation Farrell Works facility was disposed at the site and it included byproducts from steel manufacturing. Disposal activities resulted in contamination of soil, sediment and groundwater with hazardous chemicals. EPA added the site to the Superfund program’s National Priorities List in 1998.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -42,15 +24,11 @@ In 2015, EPA entered into an agreement with the U.S. Army Corps of Engineers (US
 
 The interim remedial action at OU2 required that all exposed slag and soil, including berms, be covered with clean material to prevent direct contact and wind erosion of slag and soil, and alleviate migration of contaminants to surface water. This interim action, which began in December 2016, was completed in April 2019. In May 2020, EPA accepted the potentially responsible party's remedial action completion report and issued a Certification of Completion of the interim remedial action.
 
----
-
 ### What Is the Current Site Status?
 
 U.S. Army Corps of Engineers [restarted remedial action (PDF)](http://semspub.epa.gov/src/document/03/2265152) work at the site during the summer of 2020. The construction took place north of Ohio Street and includes the relocation of steel-making sludge and slag away from the Shenango River. The sludge and slag are being covered with a biosolids-enhanced cap and will be vegetated. Stream bank and floodplain restoration, revegetation of the floodplain along the Shenango River, and construction of a wetlands channel took place in 2021. The 2021 work primarily involved the plantings needed to revegetate the floodplain, the biosolids-enhanced cover, and the constructed wetlands. A fence will also be constructed to protect the site from trespassers.
 
 EPA competed the [first Five-Year Review (PDF)](http://semspub.epa.gov/src/document/03/2321345) of the remedy at the Sharon Steel Corp. Superfund Site in November 2021. This review ensures that the remedy in place for Operable Unit 1 will be protective of human health and the environment upon completion of the of remedy, and the remedy for Operable Unit 2 is actively protective as intended by site decision documents.
-
----
 
 ### Activity and Use Limitations
 

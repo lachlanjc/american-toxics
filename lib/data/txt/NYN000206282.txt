@@ -1,2 +1,59 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Newtown Creek is a tidal arm of the New York-New Jersey Harbor Estuary, and forms a portion of the northern border of the Borough of Brooklyn (Kings County) and the southern border of the Borough of Queens (Queens County) in New York City. It is a tributary of the East River and it itself includes five branches (or tributaries) along its 3.8-mile reach. Historically, Newtown Creek drained the uplands of western Long Island and flowed through wetlands and marshes. However, due to heavy industrial development and governmental activities dating from the 1800's, formerly wet areas have been filled, Newtown Creek has been channelized, and its banks have been stabilized with bulkheads and rip rap. The historic development has resulted in changes in the nature of Newtown Creek from a natural drainage condition to one that is governed largely by engineered and institutional systems. In the mid-1800s, the area next to the 3.8-mile-long creek was one of the busiest industrial areas in New York City. More than 50 refineries were located along its banks, including oil refineries, petrochemical plants, fertilizer and glue factories, sawmills, and lumber and coal yards. Newtown Creek was crowded with commercial vessels, including large boats bringing in raw materials and fuel and taking out oil, chemicals and metals. In addition to the industrial pollution that resulted from all of this activity, the city began dumping raw sewage directly into the water in 1856. During World War II, the creek was one of the busiest ports in the nation. Currently, factories and other privately owned and municipal facilities still operate along the creek. Various contaminated sites upland of Newtown Creek have contributed to the contamination in the creek.
+
+### What Has Been Done to Clean Up the Site?
+
+The Newtown Creek site is divided into four operable units (OUs):
+
+OU1 includes the entire Study Area, as defined in a 2011 Administrative Settlement Agreement and Order on Consent (CERCLA Docket No. CERCLA 02-2011-2011) (2011 AOC) between EPA and six Respondents including the City of New York (NYC), and a group of five private parties known as the Newtown Creek Group (NCG). The AOC requires the Respondents to perform a Remedial Investigation (RI) and Feasibility Study (FS) for the site under EPA oversight.  Anchor QEA, consultant for the NCG, is currently completing the multi-year, phased RI/FS.
+
+OU2 relates to current and reasonably anticipated future releases of CERCLA hazardous substances from combined sewer overflow (CSO) discharges to the Study Area, as described in a 2018 AOC between EPA and NYC (CERCLA Docket No. CERCLA-02-2018-2020). A focused feasibility study (FFS) for OU2 was conducted by NYC, with EPA oversight, and the FFS report was completed in November 2019. Following completion of the city’s FFS, EPA proposed in November 2019 and finalized in April 2021 a decision that no further action is needed at this time under the Superfund program to address the volume of CSO discharges to Newtown Creek.
+
+OU3 refers to the evaluation of a potential interim, early action for the lower portion of Newtown Creek from creek mile 0 to creek mile 2 (CM 0-2) of the Study Area as described in a 2019 AOC between EPA and the NCG (CERCLA Docket No. CERCLA-02-2019-2011). The NCG conducted an FFS under an AOC to see if an interim early action remedy for OU3 was scientifically and technically appropriate and to develop and evaluate a focused range of cleanup action alternatives for OU3. After EPA's technical review and consultation with stakeholders, EPA determined that the selection of a remedy for this portion of the Creek should be deferred pending completion of the OU1 studies.
+
+OU4 relates to an interim early action for the East Branch portion of the OU1 Study Area. The East Branch has a surface area of approximately 11 acres and is approximately 0.5 miles in length. It represents approximately ten percent of the OU1 Study Area. On January 16, 2025, the EPA selected an inteirm, early action for this portion of the site.
+
+### What Is the Current Site Status?
+
+**OU1**
+
+The OU1 Remedial Investigation (RI) commenced in July 2011 and is focused on a study area defined in the Consent Order as the waters and sediments of Newtown Creek.  Fieldwork for the RI was conducted in two phases under the oversight of EPA to determine the nature and extent of contamination at the site. The Phase 1 work, which included surveys of physical and ecological characteristics of Newtown Creek, as well as sampling of surface water, surface sediments, subsurface sediments and air, began in February 2012 and was completed in March 2013. The Phase 2 work began in May 2014 and was completed in 2017. The Phase 2 RI work includes, but is not limited to, further delineation of surface sediments, subsurface sediments and surface water, as well as the investigation of non-aqueous phase liquid, groundwater and other sampling in support of the human health and ecological risk assessments, such as biota sampling. An additional phase of fieldwork for the Feasibility Study (FS), including ebullition studies and further NAPL delineation, began in Spring 2017 and was completed in Spring 2019. The Respondents are also developing a model that will assist, during the FS phase of the RI/FS, in evaluating remedial alternatives. 
+
+The first version of the Draft RI Report was submitted to EPA for review on November 15, 2016 by the NCG pursuant to the Consent Order. The RI contains all the data that was collected and analyzed during Phase 1 and Phase 2 of the RI, available data from FS fieldwork and also includes drafts of the hydrodynamic and sediment transport models. In addition to the RI/FS, a baseline human health risk assessment was completed and approved in June 2017, and a baseline ecological risk assessment was completed and approved in September 2018. The Remedial Investigation Report was approved by EPA in March 2023.
+
+In late 2024, EPA completed a shallow lateral groundwater study adjacent to Newtown Creek (groundwater below adjacent properties) to evaluate groundwater migration into the creek. The purpose of this study is to measure the role of contaminant migration in shallow groundwater in causing contamination in Newtown Creek. The data collected as part of this study is currently being reviewed and compiled into a final report.
+
+The FS for this portion of the site is currently being developed.
+
+**OU2**
+
+OU2 relates to current and reasonably anticipated future releases of CERCLA hazardous substances from combined sewer overflow discharges to the Study Area, as described in a 2018 AOC between EPA and NYC (CERCLA Docket No. CERCLA-02-2018-2020). For OU2, a focused feasibility study (FFS) was prepared by NYC and a proposed plan for remedial action was released for public comment in November 2019. After two requests for extension, the public comment period for OU2 closed on February 28, 2020. In April 2021 EPA issued a final decision, in a document called a Record of Decision (ROD) addressing OU2. EPA’s final decision for this discrete aspect of the site consists of No Further Action, which for this site means no action to further address the volume of CSO discharges to the creek beyond the anticipated implementation of the Long-Term Control Plan (LTCP) for Newtown Creek. Monitoring will be required to assure the assumptions made in reaching this conclusion remain valid.
+
+A 2022 Administrative Settlement Agreement and Order on Consent (2022 AOC) has been negotiated between EPA and NYC. The AOC requires NYC to conduct CSO monitoring pursuant to the OU2 ROD issued in April 2021. EPA approved a workplan for CSO monitoring in April 2024, allowing sampling events to begin.
+
+**OU3**
+
+OU3 refers to the evaluation of a potential interim, early action for creek mile (CM) 0-2 of the Study Area, as described in a 2019 AOC between EPA and the NCG (CERCLA Docket No. CERCLA-02-2019-2011).
+
+The proposed interim early action remedy would target relatively elevated concentrations in surface sediment of contaminants of concern for the site, including PCBs, PAHs and copper. A draft FFS was submitted in March 2020.
+
+The objectives of the FFS were to confirm the appropriateness of an interim EA remedy for OU3 and to develop and evaluate a focused range of remedial alternatives for this OU. A Sediment Characterization Study (SCS) was completed in Summer 2019 to further characterize surface sediment in the OU3 Study Area. The SCS report was finalized in May 2020. The draft FFS Report was received in March 2020 and has been reviewed by EPA and other Governmental agencies, including NYSDEC. The Contaminated Sediment Technical Assistance Group (CSTAG), a national EPA advisory board and the National Remedy Review Board ( NRRB) held a meeting on April 29 and 30 with EPA and intereseted stakeholders, including the CAG, NYCDEP, NYSDEC, the US Army Corps of Engineers, NOAA and the NCG where the stakeholders presented their comments on the OU3 FFS.
+
+EPA has received CSTAG's recommendations for OU3 and provided responses to CSTAG in December 2020. EPA also provided comments on the OU3 FFS to the NCG in January 2021.
+
+The NCG conducted the FFS promptly and efficiently, in an acknowledgement of the fact that part of the benefit of conducting an early action would be to help inform the development of an OU1 cleanup plan. EPA’s review of the technical positions underlying the OU3 early action, as well as several other technical and stakeholder concerns, did not fully support moving forward with this interim early action. Therefore, EPA determined that the selection of a remedy for this portion of the Creek should be deferred pending completion of the OU1 studies.
+
+**OU4**
+
+OU4 relates to an interim early action for the East Branch portion of the OU1 Study Area. EPA has determined that there is enough information available for the East Branch portion of OU1 to select an interim, early action remedy for this portion of the Site while the full OU1 RI/FS continues. Broadly, EPA is proposing to conduct an interim early action in the East Branch portion of the OU1 Study Area so that remedial action can occur in this tributary while the full OU1 FS is being completed. A focused feasibility study has been prepared to evaluate alternatives to cleanup the East Branch portion of OU1.
+
+On January 16, 2025, EPA released a Record of Decision detailing the cleanup plan for the East Branch portion of OU1, which consists generally of dredging and stabilizing contaminated sediment at the bottom of the East Branch of the Newtown Creek. This decision follows an extended public comment period and a public meeting where the community reviewed the plan and provided feedback. Next, EPA will conduct a comprehensive investigation to help develop the details of the cleanup approach and design the cleanup plan prior to implementing the remedial action.
+
+### Enforcement Information
+
+A number of Potentially Responsible Parties (PRPs) have been named for the site. In July 2011, EPA issued an administrative settlement agreement and order on consent (“2011 Consent Order”) to six PRPs, under which those PRPs agreed to perform the Remedial Investigation and Feasibility Study for the Site. The respondents to the 2011 Consent Order include The City of New York, BP Products North America Inc., The Brooklyn Union Gas Company (d/b/a National Grid), ExxonModbil Oil Corporation, Phelps Dodge Refining Corporation, and Texaco, Inc.
+
+EPA has continued to identify PRPs and has since named fifteen additional PRPs, including the Consolidated Edison Company of New York, National Railroad Passenger Corporation (AMTRAK), American Premier Underwriters, Inc., Connell Limited Partnership, The Long Island Railroad Company, Motiva Enterprises, LLC, Shell Oil Company, Simsmetal East LLC (a subsidiary of Sims Metal Management, Inc.), Darling Ingredients Inc, Sunoco Entities (Sunoco Inc, Energy Transfer L.P.), Harsco Corporation, The Brinks Company, ConocoPhillips, and Howmet Aerospace, Inc.
+
+The search for additional PRPs is ongoing.

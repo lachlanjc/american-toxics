@@ -1,26 +1,8 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300699)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300699)
-
----
-
 ### Background
 
 The 28-acre Avco Lycoming Superfund Site, located in Williamsport, Lycoming County, PA, produced aircraft engines for over 50 years. Since the 1920s when the facility was purchased by AVCO Corporation, operations at the site have primarily been to manufacture and repair aircraft engines. The facility continues these productions today, and beginning in the 1950s, also functions as a waste treatment facility.
 
 Historic operations at the site contaminated the groundwater with volatile organic compounds and metals. Between 1989 and 1991, EPA conducted a Remedial Investigation/Feasibility Study at the site to determine the type and extent of contamination. The results of this study showed that both the shallow and deep aquifers were contaminated with trichloroethylene (TCE), dichloroethane (DCE), and vinyl chloride. However, the results also showed that the surface water quality of Lycoming Creek was not contaminated. EPA identified several contaminants, including TCE, DCE, vinyl chloride, manganese, chromium, and cadmium, in the groundwater as the focus for cleanup at the site. The Avco Lycoming Superfund Site was added to the National Priorities List on February 21, 1990.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -48,8 +30,6 @@ The construction and start of the pump-and-treat remedy to address groundwater b
 
 After the second Five-Year Review in September 2007, EPA added some minor improvements to the groundwater treatment systems and required a vapor intrusion assessment. Vapor intrusion is when there is a migration of vapor-forming chemicals from subsurface sources, in this case groundwater, and moves into an overlying building via cracks in the foundation and openings for utility lines. The vapor intrusion sampling conducted at the site in the fall of 2010 concluded that there was no vapor intrusion issues at the site, but it could become an issue in the future. Additional sampling in the fall of 2011 identified one area of concern and the responsible party submitted a workplan to install vapor mitigation systems approved by EPA. The systems were installed in the affected homes and are continuing to operate properly.
 
----
-
 ### What Is the Current Site Status?
 
 All the construction the Avco Lycoming Superfund Site was completed in September 2002. The groundwater is continuously pumped and treated to remove contamination, and the shallow and deep aquifer is monitored on an annual, semi-annual, or quarterly basis depending on the location of the monitoring well. Following the 2012 Five-Year Review of the site, EPA completed vapor intrusion remediation and sampling to ensure future protectiveness at the site.
@@ -57,8 +37,6 @@ All the construction the Avco Lycoming Superfund Site was completed in September
 EPA issued an [Explanation of Significant Differences (PDF)](https://semspub.epa.gov/src/document/03/2136680) in 2012 to restrict the use of groundwater and the installation of new groundwater wells within and near the plume of contaminated groundwater. This Explanation of Significant Differences also added a risk-based cleanup standard to be evaluated after Maximum Contaminant Levels have been met. Maximum Contaminant Levels are the legal standards that are set by EPA for drinking water quality.
 
 The [Fifth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335648) was completed in September 2022. The findings show that the selected remedy is functioning as intended and remains protective of human health and the environment.
-
----
 
 ### Activity and Use Limitations
 

@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 0.75-acre North Belmont PCE [Superfund](http://www.epa.gov/superfund) site is located at Roper's Shopping Center on Woodland Avenue in North Belmont, Gaston County, North Carolina. Residential neighborhoods border the site to the east and west. A cemetery and a forested area border the site to the north. North Belmont Elementary School borders the site to the south.
+
+The site consists of two closed dry-cleaning businesses that operated from 1960 to 1975. Operations at the site also included the use of a boiler to distill dry cleaning waste materials. Operations disposed of spent materials from the boiler onto the ground surface behind the building and through the on-site septic tank system. Improper disposal of waste dry cleaning solvents resulted in soil and groundwater contamination.
+
+In 1991, Gaston County Health Department sampling efforts found significant PCE contamination in a residential well. This well supplied drinking water to an elementary school and two homes. Further investigation found contamination in 16 residential drinking water wells.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-4) in 1999 because of contaminated groundwater resulting from waste handling practices at the site.
+
+The EPA and the [North Carolina Department of Environmental Quality (NCDEQ)](https://deq.nc.gov/) have investigated site conditions. By treating groundwater and undertaking Five-Year Reviews, EPA and NCDEQ continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects nearby residences and businesses to the public water supply.
+
+The North Belmont PCE site is in continued use. Commercial businesses and residential properties are located on site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site cleanup activities in cooperation with NCDEQ.
+
+**1997**  
+EPA issued a cleanup plan (a [Record of Decision, or ROD](https://semspub.epa.gov/work/04/11126434.pdf) ) for the site. The plan included
+
+- installing an in-well vapor stripping system to address contaminated groundwater;
+- using living organisms to break down contaminants;
+- connecting nearby residences, schools and businesses to the public water supply;
+- offering wellhead treatment for affected private wells; and
+- monitoring groundwater.
+
+**2000**  
+EPA completed connecting the elementary school and 29 neighborhood drinking water wells to the public water supply.
+
+EPA issued an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/work/04/60213.pdf) to remove the use of living organisms to break down contaminants from site cleanup activities.
+
+**2004**  
+EPA completed construction of the in-well circulation and vapor stripping groundwater treatment system.
+
+**2010**  
+EPA issued a [second ESD](https://semspub.epa.gov/work/04/10744245.pdf) to discharge treated groundwater to an on-site tributary.
+
+**2014**  
+EPA constructed a discharge line to the on-site tributary for discharging treated ground water. The treatment system was put back in service and operated intermittently.
+
+**2020**  
+EPA refurbished the groundwater treatment system and it has been in continuous operation since March 2020.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review (FYR)](https://semspub.epa.gov/src/document/04/11133900) was published by the EPA HQ in 2019. The FYR deferred determination regarding the protectiveness of the remedy. The exposure assumptions, toxicity data, cleanup levels and remedial action objectives used at the time of the selected remedy are still valid for the contaminants of concern. During the FYR, a well survey was conducted to locate any private drinking water wells within the vicinity of the site. As a result, six of these private drinking water wells (for properties where homeowners granted access) were sampled and no volatile organic compounds were detected. Most of the area around the site is served by public water.
+
+The following items were identified as issues:
+
+- the groundwater treatment system is not currently functioning as intended;
+- the extent of the plume needs to be further refined;
+- a vapor intrusion assessment is necessary due to new commercial businesses and existing residential homes adjacent to the site;and
+- institutional controls need to be evaluated.
+The FYR included recommendations to address the identified issues Since the completion of the 2019 FYR, EPA has refurbished the treatment system, performed additional groundwater sampling, and has completed the vapor intrusion assessment. Vapor intrusion does not pose a risk at the Site. EPA will issue an Addendum to the FYR setting forth a protectiveness determination.

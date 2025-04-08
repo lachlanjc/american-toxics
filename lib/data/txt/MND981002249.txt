@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Waite Park Wells site is located in the cities of Waite Park and St. Cloud, in Stearns County, Minnesota. It consists of a contaminated groundwater plume that impacted the City of Waite Park’s municipal drinking water wells, and nearby properties thought to be the source of that contamination. The nearby properties are known as the Electric Machinery site, a 45 acre property located in the city of St. Cloud, and the Burlington Northern Car Shop site, a 202 acre property located in the city of Waite Park. The former Burlington Northern property included a railcar maintenance facility, and the former Electric Machinery property included a gas turbine and electric generator manufacturing facility. Facilities at both properties were found to have contaminated soil and groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+On January 28, 1985, following the detection of unacceptable levels of volatile organic compounds (also known as VOCs) in the City’s drinking water the previous month, the Minnesota Department of Health (MDH) informed Minnesota Pollution Control Agency (MPCA) staff that the city was advised to discontinue use of its water supply as soon as possible. On the same day, MPCA issued a Determination of Emergency, allowing access to State Superfund funding to provide city residents with a short-term safe drinking water supply and to undertake an investigation to determine the appropriate long-term drinking water alternative.
+
+Nearby St. Cloud businesses were provided safe drinking water until an emergency connection between the Waite Park and the St. Cloud water systems was completed on February 4, 1985. Safe drinking water was provided until the long-term water supply system was constructed in Waite Park. In September 1986, MPCA approved the installation of a packed tower aeration system (air stripper) to remove the VOC contaminants from the water supply prior to consumption. The Site’s potentially responsible parties jointly funded and implemented the water treatment system.
+
+The city water supply wells were placed back into service in February 1988, and the city took over operation and maintenance of the treatment system after construction. On June 10, 1986, the U.S. EPA placed the Site on the National Priorities List (NPL).
+
+The cleanup implemented at the site addresses the contaminated groundwater plume that impacted Waite Park’s municipal drinking water wells and nearby properties. Cleanup efforts included groundwater pumping and treatment, soil excavation and disposal, soil vapor extraction, and ongoing long-term groundwater monitoring. Currently, Waite Park treats its drinking water, removing the VOC contaminants, at an expanded treatment plant.
+
+EPA and MPCA conduct reviews of the site’s remedy every five years. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, conducted in 2020 with the participation of EPA, concluded that a protectiveness determination could not be made until the vapor intrusion pathway was assessed for buildings near the Electric Machinery site. The most recent five-year review report is available in the [Site Documents & Data section](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0503924), and at the following link:
+
+[Waite Park Wells - Sixth Five Year Review Report (Signed) - 2020(pdf)](https://semspub.epa.gov/src/document/05/958357) (90 pp, 7.97MB)
+
+### What Is the Current Site Status?
+
+Currently the city of Waite Park treats its drinking water, removing the VOC contaminants, at the expanded treatment plant. A responsible party conducts groundwater monitoring at the Electric Machinery site. The on-site containment unit on the Burlington Northern Car Shop site is monitored and maintained by a different responsible party, and the site as a whole is overseen by the MPCA. Many properties formerly part of the Burlington Northern Car Shop site have been redeveloped for recreational and commercial use, under the oversight of the MPCA.
+
+In late 2021, the Minnesota Department of Health started sampling the Waite Park municipal wells for Per- and Polyfluoroalkyl Substances (PFAS), and in February 2022 EPA was notified that PFAS had been detected in the municipal wells. EPA is investigating to determine if the Waite Park Wells Superfund Site is contributing to or is a source of the PFAS contamination found in the municipal wells.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Waite Park municipal wells were contaminated with trichloroethylene (TCE) and tetrachloroethylene (PCE) at levels above the recommended drinking water criteria. Remedial investigations indicated the presence of free petroleum product above the water table; elevated levels of lead and other heavy metals in surface soils; polychlorinated biphenyls (PCBs) in soil and groundwater; and volatile organic compounds (VOCs) in groundwater.
+
+### Enforcement Information
+
+The site is part of the United States Environmental Protection Agency's (EPAs) Enforcement Deferral Pilot Agreement with the state of Minnesota. The Minnesota Pollution Control Agency (MPCA) enforced cleanup of the site under State law and remains the lead agency for Operable Unit 2, managing cleanup at the site. In 2017 EPA became the lead agency for Operable Unit 1.

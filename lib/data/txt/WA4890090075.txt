@@ -1,2 +1,26 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 120-square-mile Hanford 1100 Area (USDOE) site is located about one mile north of Richland, Washington. The site is one of the four areas listed on EPA’s National Priorities List located within the larger U.S. Department of Energy (DOE)-managed Hanford Site. Waste areas at the 1100-Area site include a landfill, drains, underground tanks and a sand pit where as much as 15,000 gallons of waste battery fluids may have been disposed. Past site activities and waste disposal practices contaminated soil and groundwater with hazardous chemicals and heavy metals. Following cleanup, EPA deleted the site off the NPL in 1996.
+
+**Cleanup Areas**
+
+In 1988, Hanford was divided into four National Priorities List (NPL) sites, including the 100, 200, 300, and 1100 Areas.
+
+- [Hanford 100 Area (USDOE)](https://www.epa.gov/superfund/hanford-100)
+- [Hanford 200 Area (USDOE)](https://www.epa.gov/superfund/hanford-200)
+- [Hanford 300 Area (USDOE)](https://www.epa.gov/superfund/hanford-300)
+- Hanford 1100 Area (USDOE) - this page
+
+### What Has Been Done to Clean Up the Site?
+
+A site investigation and risk assessment were completed in 1992 by DOE. A Record of Decision signed on September 30, 1993 authorized the following actions: removing about 130 cubic yards of soil with bis(2-ethylhexyl)phthalate ( [BEHP or DEHP](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=BEHP) ) and sending it to an incineration facility; removing 165 cubic yards of soil contaminated with [PCBs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCB) and disposing of it at a permitted facility; closing the landfill inside the Hanford site; and monitoring groundwater until cleanup goals are met by natural processes over time. In 1995 construction of the remedy was finished. Groundwater now meets the drinking water standard for trichloroethylene ( [TCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=TCE) ). Since the 1100 Area was deleted from the NPL on September 30, 1996, DOE is leasing and/or transferring ownership of several of the 1100 Area facilities. Private enterprises are now operating in the facilities.
+
+Elements of the remedy that protect human health and the environment involve continuing Institutional Controls due to the buried asbestos. The remedial action objectives were met at the landfill by offsite disposal of PCB contaminated soils, capping of the landfill in accordance the Asbestos NESHAP (40 CFR 61.151) and providing adequate institutional controls (ICs) to prevent future exposure to contamination. The continuing ICs include entry restrictions, notice indeed, land use management, and miscellaneous provisions. Fencing, signage and the existing landfill cap are routinely inspected, maintained and upgraded as needed.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+In 1989, DOE, EPA and the state entered into the Hanford Federal Facility Agreement and Consent Order. This agreement established the framework for cleaning up the Hanford Site. DOE then undertook site investigations and cleanup actions at the Hanford 1100 Area site. The site’s long-term remedy included removal and disposal or treatment of contaminated soil, landfill closure, institutional controls and groundwater monitoring until cleanup goals are met by natural processes over time. Remedy construction took place between 1994 and 1996. DOE continues to monitor the site.
+
+Following cleanup, EPA took the site off the NPL in 1996.

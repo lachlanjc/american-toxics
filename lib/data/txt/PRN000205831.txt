@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Maunabo Groundwater Contamination Site is located in the municipality of Maunabo in the southeastern coastal area of Puerto Rico. The area is surrounded by mountains and the Caribbean Sea. The Maunabo Urbano public water system that serves the area consists of four supply wells. The site consists of a groundwater plume contaminated with several chlorinated solvents. EPA is investigated the contamination at the wells. The work includes efforts to locate the source(s) of the contamination.
+
+Chlorinated volatile organic compounds (CVOC) including tetrachloroethene (PCE), trichloroethene (TCE), and cis-1,2-dichloroethene (cis-1,2-DCE) were first detected at one of the four public water supply wells in March 2002, with PCE contamination exceeding the federal Maximum Contaminant Level (MCL) of 5 micrograms per liter (μg/L). The Puerto Rico Aqueduct and Sewer Authority (PRASA) subsequently began treatment of the groundwater from this well using activated carbon filtration tanks to remove the contaminants from water. Another CVOC, 1,1-dichloroethene (1,1-DCE) was detected intermittently in subsequent years at this and another supply well at levels below the MCL. These CVOCs were not detected at the remaining two supply wells.
+
+### What Has Been Done to Clean Up the Site?
+
+The Maunabo Urbana public water supply system consists of four groundwater wells, referred to as Maunabo #1 through Maunabo #4. The system serves about 14,000 people. The Puerto Rico Aqueduct and Sewer Authority (PRASA) manages the system.
+
+In March 2002, the Puerto Rico Department of Health (PRDOH) ordered PRASA to close Maunabo #1 because the PCE concentration exceeded the federal MCL. How-ever, rather than close the well, PRASA opted to treat the groundwater at the wellhead using activated carbon filtra-tion tanks.
+
+EPA investigated the contamination at the wells. The data confirmed the presence of PCE and cis‐1,2‐DCE in Maunabo #1 and in post‐treatment samples along the distribution line at levels below the MCLs. The results also confirmed the presence of 1,1 DCE in Maunabo #4 and a gasoline additive, methyltertbutylether (MTBE), in Maunabo #1 and in the distribution system samples. No detections were above the MCL, except for bis(2‐ethylhexyl) phthalate (6.5 μg/L) in Maunabo #3, which marginally exceeded the MCL of 6 μg/L. PCE, cis‐1,2‐DCE, 1,1‐DCE, and MTBE were not detected in Maunabo #2 and Maunabo #3.
+
+The Maunabo Urbana public water supply system consists of four groundwater wells, referred to as Maunabo #1 through Maunabo #4. The system serves about 14,000 people. The Puerto Rico Aqueduct and Sewer Authority (PRASA) manages the system.
+
+EPA completed the Remedial Investigation (RI) for the site in June 2012. Three separate groundwater plumes were identified:
+
+• Cis-1,2-DCE plume – this constitutes the highest concentration of contamination
+
+• PCE plume – very dilute concentrations
+
+• 1,1-DCE plume – relatively dilute and more dispersed than the other plumes
+
+EPA completed the Feasibility Study (FS) in August 2012, which evaluated remedial alternatives for addressing the site contaminants.
+
+In September 2012, the U.S. Environmental Protection Agency (EPA) issued the Record of Decision (ROD), which selected the cleanup action for the site. The selected remedy addresses the three contaminated groundwater plumes with the objectives of protecting human health and remediating groundwater for continued use as a potable water supply.
+
+The ROD specifies air sparging to treat the cis-1,2-DCE plume. Air sparging is the process of forcing air through contaminated water to removal harmful chemicals. The ROD specifies monitored natural attenuation (MNA) for the dilute PCE and 1,1-DCE plumes. The plumes will be monitored as the low concentrations of contaminants are degraded or diluted in groundwater through various natural means such that an overall reduction in contamination occurs over time
+
+### What Is the Current Site Status?
+
+EPA is currently conducting the Remedial Design (RA) for the site. The air sparging was completed at the Maunabo Groundwater Contamination Superfund Site located in Maunabo, Puerto Rico. The RA Air Sparging Activities were completed during the period from November 12, 2020 through March 24, 2021, to implemented to treat the cis-1,2-DCE groundwater plume. A round of confirmation groundwater sampling coincided with the completion of air sparging activities in each treatment area at the Site. Groundwater analytical data were compared to the EPA Maximum Contaminant Levels (MCLs) for the listed compounds. VOCs were not detected in concentrations exceeding the MCLs in the confirmation groundwater monitoring wells sampled, and continue Quarterly Sampling up to 2023.
+
+PRIDCO was define as a Potential Responsible Party (funded lead) at the Site.

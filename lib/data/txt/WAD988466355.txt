@@ -1,3 +1,100 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The Moses Lake Wellfield Contamination is located within and beyond the northwestern region of the City of Moses Lake, Washington and encompasses approximately 15 square miles. The site includes the Grant County International Airport and surrounding area (formerly the Larson Air Force Base), Port of Moses Lake, commercial facilities, and residences.
+
+Former Air Force base operations and industrial activities associated with the aircraft industry contaminated soil and groundwater with hazardous chemicals. Several locations on the former Larson Air Force Base and around the Grant County International Airport were used as dumps and landfills for waste. Toxic metals including arsenic, lead, and mercury, and other contaminants such as gasoline, diesel, oil, polychlorinated biphenyls (PCBs), asbestos, and trichloroethylene ( [TCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=TCE) ) waste may have been disposed at these locations.
+
+These dumps and landfills are believed to be the sources of the groundwater contamination. Groundwater at the site is contaminated with TCE, which is an industrial solvent historically used at the base and the airport for cleaning and stripping missile and airplane parts. Limited sampling also indicates per- and polyfluoroalkyl substances (PFAS) may be present in some areas. An estimated 1000 acres of groundwater are contaminated. The contamination is in multiple plumes and may impact multiple aquifers within each plume.
+
+The U.S. government established the Larson Air Force Base in 1942 and closed the base in 1965. During this period, the Air Force, Strategic Air Command, Titan Missile program, and various private companies used the base at various points. In 1966, the Port of Moses Lake acquired most of the former base and has since operated the property as the Grant County International Airport. Housing associated with the base also remains in use, now under ownership of the Housing Authority of Grant County. The U.S. Air Force transferred other facilities to Big Bend Community College. In 1968, Boeing purchased 130 acres of land. A variety of activities still take place at the site today including airport operations and manufacturing.
+
+In 1988, the state of Washington found TCE above the safe drinking water standard in three City of Moses Lake water supply wells on the old Larson Air Force Base and in the Skyline Water System supply wells south of the base. In the late 1980s, the City took temporary measures to prevent people’s exposure to TCE by using water from deeper, uncontaminated aquifers, and then the EPA put the Moses Lake Wellfield Superfund site on the National Priorities List of Superfund sites in 1992. From 1992 through 2008, a variety of remedial investigations took place to characterize the extent and impact of contamination at the site. Additionally, a variety of actions took place to protect people’s health and the environment. These included:
+
+- Closing or relocating contaminated municipal wells,
+- Temporarily providing residents with bottled water if their wells were contaminated, and
+- Removing contaminated soil from several soil areas.
+
+EPA issued an interim cleanup plan in 2008 called the Interim Record of Decision. In 2011, the federal government signed a cleanup settlement with Boeing, Lockheed Martin, and the City of Moses Lake. Cleanup construction at the site began later the same year and work under that agreement continues to date.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party actions with EPA serving as the lead agency. EPA is working to protect human health and the environment by concurrently implementing cleanup actions while continuing investigations. EPA has selected interim remedy actions that are described in detail in the site’s Interim Record of Decision and are summarized below.
+
+**Interim Remedies for Soil Contamination**
+
+- Conduct surface and subsurface investigations to determine if soil areas are contributing to groundwater contamination or could harm people’s health.
+- Remove and dispose of contaminated soil
+- Put protections in place to prevent disturbance of or access to contaminated soil areas.
+
+**Interim Remedies for Groundwater Contamination**
+
+- Treat contaminated groundwater
+- Regularly monitor groundwater conditions
+- Provide alternative drinking water sources when necessary
+- Prevent access to contaminated water
+- Put protections in place to prevent contaminated groundwater plumes from being disturbed.
+
+**Cleanup actions completed to date include:**
+
+- Providing clean drinking water to impacted residents,
+- Installing drinking water wells into uncontaminated aquifers,
+- Regularly sampling sitewide groundwater and monitoring changes,
+- Removing and disposing of contaminated soil,
+- Installing and maintaining treatment systems in impacted residences,
+- Building and operating a groundwater treatment plant to remove TCE from the South Plume, and
+- Evaluating four soil contamination areas and completing cleanup work at two of them.
+
+### What Is the Current Site Status?
+
+Planning for future investigations and cleanups are currently ongoing for the remaining contaminated groundwater plumes and soil sites. Following these investigations, EPA will select the final cleanup remedies and publish them in the final Record of Decision.
+
+**Groundwater Cleanup Status**
+
+[TCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=TCE) groundwater plumes (Main Plume and Northeast Plume) begin under the old Larson Air Force Base and spread over a mile to the south. The south border of the Main Plume is not yet defined and is suspected to be the source of contamination in Cascade Valley. The South Groundwater Plume starts 150–250 feet underground at the South Base Dump and goes about 1.3 miles south-southwest. The site cleanup level for TCE in drinking water is 5 parts per billion (ppb). In the past, EPA found TCE levels in this groundwater plume up to 106 ppb beneath the dump, down to 5 ppb at the outer edges further south.
+
+The primary groundwater cleanup actions being taken at this time include regular groundwater sampling, contaminated water treatment, and preventing access to or disturbance of contaminated groundwater.
+
+There are multiple aquifers at multiple depths within the site and not all groundwater is contaminated. Some of this groundwater is accessed by the city, private well owners, community system operators, and industry. The City and community system operators regularly test public wells to ensure they meet safe drinking water standards. EPA regularly tests private residential drinking water wells in the vicinity of the contaminated groundwater plumes to ensure they are safe for consumption.
+
+The long-term cleanup objective is to restore the groundwater as a drinking water source; however, this goal will take time to achieve. In the interim, EPA asks that any party that wants to install a well contact EPA prior to drilling. Installing a well may inadvertently deliver TCE-contaminated groundwater to people or spread the groundwater contamination, making cleanup more costly and time consuming. EPA has established an area surrounding the plumes and this area is called a Groundwater Institutional Control Boundary.
+
+EPA has implemented a private well monitoring and sampling program at the site to ensure that residents who cannot access the City water system have access to clean drinking water. As part of this program, EPA regularly reviews the Department of Ecology’s well log database to determine if any new drinking water wells had been drilled within the TCE plume areas. If so, these residents are contacted to inform them about EPA’s sampling program and about the possibility of a whole house filter system. If a resident chooses to participate, the wells are sampled annually, and the results are provided to them. If a well exceeds EPA’s threshold for TCE, a filtration system can be installed at no cost to the owner. EPA also regularly maintains the filtration systems to ensure that drinking water remains safe for consumption.
+
+In 2019, EPA completed construction of a groundwater treatment plant near the South Plume. This facility extracts contaminated water, removes TCE it by filtering it through carbon material, and then releases the water back to the ground.
+
+**Soil Cleanup Status**
+
+Numerous sites on the former Larson Air Force Base and around the Grant County Airport were investigated as potential sources of contamination. Although an adequate level of information on soil contamination was acquired during the early investigative phase, information on these sites is limited, and additional investigations will be performed as these sites have the highest probability of containing TCE or other contamination.
+
+Toxic metals like arsenic, lead, and mercury, and other contaminants like gasoline, diesel, oil, polychlorinated biphenyls (PCBs), and TCE waste may be present at these sites. The major risk posed by the soil sites is the potential for people and animals to encounter contaminated soil and debris through during site development activities. If contaminants are found above levels which pose unacceptable levels of risk or will continue to contaminate groundwater, they will be removed. Many of soil sites have the potential to be a continuing source of TCE to groundwater. Without removal of the soil source contamination, cleanup of the groundwater could be hard to achieve.
+
+Twelve sites were identified in the Interim Record of Decision that are suspected to have been used as dumps and landfills and are the focus of EPA’s soil cleanup efforts. EPA refers to these sites as Potential Source Areas (PSAs) and a list is provided below.
+
+- PSA 1 - Liquid Waste Disposal Area
+- PSA 3 - Aircraft Wash Rack
+- PSA 6a - Base Closure Landfill
+- PSA 8 - Randolph Road Base Dump
+- PSA 10 - Fire Training Pit A
+- PSA 11 - Fire Training Pit B
+- PSA 19 - Liquid Oxygen Plant
+- PSA 20 - South Base Dump
+- PSA 22 - Paint Hangar Leach Pit
+- PSA 31 – 19th Avenue Base Dump
+- PSA 33 - Dump at End of Runway 32
+- PSA RR – Rocket Research Area
+
+To date, three sites have been evaluated:
+
+- At the Liquid Waste Disposal Area (PSA 1) soil testing at the surface and at depth showed that the site meets EPA’s levels for industrial use. Thus, no further cleanup is planned.
+- At the Paint Hangar Leach Pit (PSA 22) soil testing at the surface and at depth showed that the site meets EPA’s levels for industrial use. Thus, no further cleanup is planned
+- At the South Base Dump (PSA 20) EPA has tested the soils and the groundwater. EPA has begun removing soil and will be studying this area further.
+
+The remaining soil sites will be subject to additional investigation in the future. Planning efforts are ongoing.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These actions included:
+
+- Closing or relocating contaminated municipal wells,
+- Temporarily providing residents with bottled water if their wells are contaminated, and
+- Removing contaminated soil from the liquid oxygen facility.

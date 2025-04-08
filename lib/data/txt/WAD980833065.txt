@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The half-square-mile American Lake Gardens/McChord AFB site is located about seven miles south of downtown Tacoma, Washington. The site includes two separate areas, the American Lake Garden Tract and the Area D site. The site lies in the southwestern portion of McChord Field, where the Air Force operated several disposal areas from the mid-1940s to the early 1970s.
+
+During that time, site operators disposed of unknown amounts of trichloroethylene ( [TCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PAH) ) in Area D. These activities contaminated groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing. McChord AFB merged with Fort Lewis to become Joint Base Lewis McChord (JBLM). The Army is responsible for management of environmental cleanup responsibilities at JBLM.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires that the site meet the remedial goal of restoring the aquifer to its beneficial use and documentation of institutional controls in an enforceable agreement.
+
+The Army conducted the fifth 5-Year Review for Joint Base Lewis McChord, which was signed November 2017. An addendum to the fifth 5-Year Review was produced in 2019 and demonstrated that human health protectiveness at OU3 (American Lake Gardens Tract) and the PFAS result below the EPA lifetime health advisory level of 70 parts per trillion.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included groundwater extraction, treatment and monitoring, and groundwater use restrictions. Remedy construction took place between 1993 and 1994. Groundwater monitoring is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls prohibit the installation of groundwater extraction wells within 1000 feet of the Site.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1985 included providing bottled water to the residents of American Lake Gardens affected by well contamination. The removal actions also included connecting affected residents to a public water supply. The Air Force completed the connection of affected residents to the public water supply in 1993.

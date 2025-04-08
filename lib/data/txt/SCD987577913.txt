@@ -1,2 +1,61 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 1,000-acre Brewer Gold Mine [Superfund](http://www.epa.gov/superfund) site is located on the western border of Chesterfield County, one mile west of Jefferson, South Carolina. The site is located on the western border of Chesterfield County, in a rural area approximately 1-mile west of Jefferson, South Carolina. The property is bordered by Road 265 to the south, unoccupied land to the north and west, and Little Fork Creek to the east. The site is located near a topographic high, sloping to the east toward Little Fork Creek and to the west toward Lynches River. Little Fork Creek enters Lynches River approximately two miles downstream of the site. Most of the population within a 4-mile radius of the site obtains drinking water from the Jefferson Town Water System. However, several residents to the immediate west of the site have private wells.
+
+The disturbed area that supported mining activities covers 230 acres in the eastern portion of the larger property. When the company abandoned the site in 1999, EPA took over site water treatment operations to contain acid rock drainage that could harm Little Fork Creek and the Lynches River.
+
+The Brewer Gold Mine operated from 1828 - 1995. From 1987 through 1995, the Brewer Gold Company mined over 12 million tons of ore and waste rock from several open pits. In 1990, following large rainstorms, a dam broke and allowed over 10 million gallons of cyanide solution to escape and flow into Little Fork Creek. Fish were killed in the creek and in Lynches River for nearly 50 miles downstream. EPA and SCDHEC responded to the emergency. The dam and plastic-lined pond were repaired, and the company resumed mining in 1991.
+
+In 1995, the company notified the State of South Carolina of its intent to stop operations at the site. At that time, there were three open pits (Brewer, B-6, and Northwest Trend pits), six heaps of spent ore, a waste rock pile, a sediment control pond to capture stormwater runoff from the waste rock pile, a large plastic-lined pond to capture and store excess runoff from the heaps, the process plant where ore was prepared and the cyanide solution processed to recover the gold, several buildings, and several miles of unpaved roads.
+
+The State required Brewer to close and reclaim the mine. While the company was completing its closure and reclamation activities, acid rock drainage began to emerge from several seeps a few hundred feet from Little Fork Creek. Brewer Gold constructed a plant to treat the contaminated water and received a permit from South Carolina Department of Health and Environmental Control (SCDHEC) that allowed the treated water to be discharged to Little Fork Creek. Brewer operated the treatment plant from 1995 -1999. The Brewer Gold Mine company and its corporate owner Costain Holdings abandoned the site in 1999 and EPA took over water treatment activities at the site.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2005. By conducting cleanup activities, treating wastewater and undertaking Five-Year Reviews, EPA and the [South Carolina Department of Health and Environmental Control(SCDHEC)](https://www.scdhec.gov/) continue to protect people and the environment.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with SCDHEC.
+
+**2005**  
+EPA issued an interim cleanup plan for the site that included collecting contaminated seepage from several springs downgradient of the backfilled pits; pumping contaminated water out of the on-site pit and the sediment pond; and storing contaminated water in a lined storage pond. The cleanup plan also included monitoring discharge into and surface water in Little Fork Creek.
+
+EPA completed a focused remedial investigation/feasibility (RI/FS) study that recommended continued treatment of contaminated water in the existing wastewater treatment plant as an interim action.
+
+**2006**  
+Interim cleanup activities began at the site in December 2006 and are ongoing.
+
+**2010**  
+EPA completed a sitewide RI in December 2010.
+
+**2011**  
+The site’s [first Five-Year Review](https://sems.epa.gov/work/1548859447349/04-10838632.pdf) was completed in 2011 and found that the cleanup activities at the site was expected to be protective of human health and the environment upon completion.
+
+**2013**  
+January 2013 - EPA completed the Feasibility Study to address surface water protection
+
+February 2013 - The Proposed Plan was presented to the public.
+
+**2014**  
+SCDHEC concurred with the proposed remedy in September 2014. EPA signed the Record of Decision (ROD) September 30, 2014 for the remedy for Operable Unit 01 (OU-01): Surface Water Protection: Capture and Treatment of Mine-Impacted Groundwater.
+
+**2016**  
+EPA completed the [third Five-Year Review](https://sems.epa.gov/work/1548859447349/04-11050335.pdf) in 2021. The FYR found the remedy to be protective of human health and the environment and recommended institutional controls be implemented.
+
+EPA completed the Remedial Design Report in October 2016. EPA plans to start Remedial Actions at the site to build a new updated water treatment plant at the site to continue to pump and treat contaminated water from the site and discharge clean water to Little Fork Creek.
+
+The main components of the selected remedy include:
+
+- Revegetate the former waste rock hill slope to minimize degradation of precipitation runoff from contact with acid producing material;
+- Install a new extraction well (EW) within the former Brewer or B-6 pit;
+- Collect impacted water from the B-6 pit;
+- Capture the upper and lower seeps;
+- Construct a new 56 Mgal annual capacity lime treatment plant;
+- Construct a new passive zero valent iron (ZVI) treatment system and aerobic wetland to polish the lime treatment effluent and lower selenium concentrations in treated water prior to discharge
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](http://sems.epa.gov/work/1548859447349/04-11050335.pdf) was published by EPA HQs in 2021..
+
+The interim cleanup activities are ongoing, with continuing operation and maintenance of the wastewater treatment system and necessary support facilities.

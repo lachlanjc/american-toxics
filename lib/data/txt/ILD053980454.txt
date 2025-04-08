@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Sandoval Zinc Co. site is in Sandoval, Ill. The company operated a smelter on the property for 85 years. Zinc smelting is the process for converting zinc-bearing ores into pure zinc. The company closed the smelter in 1985 and filed for bankruptcy. Air emissions from the plant included metals and wind-blown ash. Large amounts of smelting wastes were used in making secondary roads and for fill material on-site. The company offered excess material to the public and the village of Sandoval for use in surface roadways, driveways, sidewalks, and parking lots. Following short-term cleanups to protect human health and the environment, U.S. EPA will propose a comprehensive long-term remedy to address contaminated materials in the village of Sandoval and the former smelter property.
+
+[Sandoval Zinc Co Superfund Site Map (PDF)](https://semspub.epa.gov/src/document/05/970166) (1 pp, 470.92 KB)
+
+### What Has Been Done to Clean Up the Site?
+
+In 1991, U.S. EPA cleaned up and disposed of a total of 8,600 gallons of liquid released from an above ground storage tank at the former smelter property. U.S. EPA also containerized and temporarily stored on the property about 220 cubic yards of limestone dust and affected soil until disposing of those materials off-site. During this time, the federal Agency installed a fence around the former smelter property to restrict access.
+
+Between October 2011 and April 2012, U.S. EPA conducted cleanups at eight residential properties located within the village where soil lead concentrations had been detected above 1000 mg/kg. Lead-impacted soil and miscellaneous debris were removed from the residential properties and disposed of off-site as special waste.
+
+U.S. EPA conducted another removal action within the village between September and November 2017. Lead-impacted soil was removed from seven residences, a daycare facility, and two schools (Sandoval Community Grade School and Sandoval Community High School). Federal responders stored the excavated soil in a temporary area located on the northwestern corner of the smelter property.
+
+U.S. EPA will address the remaining contaminated material at the former smelter property and the remaining impacted properties within the village with a [comprehensive long-term remedy](https://www.epa.gov/superfund/superfund-cleanup-process). To date, work at the site has been conducted using federal funds.
+
+### What Is the Current Site Status?
+
+The [remedial investigation and feasibility study (RI/FS)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-3) phase of the [Superfund process](https://www.epa.gov/superfund/superfund-cleanup-process) has been completed, and EPA has identified the nature and the extent of the contamination throughout the site. Based on those findings, EPA issued a proposed cleanup plan for the site in January 2022 and held a 30-day comment period. EPA, after considering input from Illinois EPA and the community, issued an interim cleanup decision in September 2022.
+
+[Interim Record of Decision (ROD) - Sandoval Zinc Company Superfund Site](https://semspub.epa.gov/src/document/05/978078) (93 pp, 42.46 MB
+
+EPA's is working on a [remedial design](https://www.epa.gov/superfund/superfund-remedial-design-remedial-action), which includes development of engineering drawings and specifications for the site cleanup in accordance with the Interim ROD. The design process will include the collection and analysis of soil samples from all properties within the Village of Sandoval and from the former smelter property, and adjacent areas.
+
+Learn more about the cleanup technologies and methods:
+
+- [A Citizen's Guide to Excavation of Contaminated Soil (PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_excavation_of_contaminated_soil.pdf) (2 pp, 655 KB)
+- [Superfund Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls)
+
+### Emergency Response and Removal
+
+In 2009 the Illinois EPA collected sediment, residential surface soil, and slag/waste samples from the Sandoval Zinc facility and surrounding area. The 2009 investigation was conducted to help determine the levels of contamination present at the Sandoval Zinc facility. It also helped to determine whether contamination from Sandoval Zinc was utilized in the filling of low residential areas and as base for roads and sidewalks and whether these activities could pose a hazard to the residents. Illinois EPA identified 10 residential properties where the soil contained elevated levels of total lead – defined as greater than 1,200 milligrams per kilogram (mg/kg) – with the most elevated lead concentration being 49,900 mg/kg. Illinois EPA identified the source for the lead as the former Sandoval Zinc Co. smelter facility and suggested that additional residential properties could also be impacted.
+
+Based upon the Illinois EPA results, in March 2010, the Illinois EPA submitted a letter to U.S. EPA requesting assistance from the EPA Region 5 Superfund Division to conduct a potential time-critical removal action at the site.
+
+U.S. EPA conducted sampling in 2010 and results showed that eight residential properties had elevated total lead concentrations. In September 2011, U.S. EPA signed the initial [Action Memorandum (PDF)](http://semspub.epa.gov/src/document/05/409741) (21 pp, 3.0 MB, [About PDF](https://www.epa.gov/home/pdf-files) ) to conduct a time-critical removal action to address known residential properties with elevated lead levels in surface soil. These properties had been identified from Illinois EPA's and U.S. EPA's sampling activities. From October 2011 through April 2012, U.S. EPA conducted removal actions and restoration activities to address lead that had been detected at eight residential properties within the village of Sandoval. However, three property owners refused access. A total of 1,296 tons of low-level lead-impacted soil and miscellaneous debris were removed and disposed of as special waste at the Perry Ridge landfill. A cleanup level of 400 ppm for lead was used for the residential property removal actions.
+
+U.S. EPA collected soil samples from residential yards in early June 2017 as part of its [Remedial Investigation](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-3) to support a lead [bioavailability study](https://www.epa.gov/superfund/soil-bioavailability-superfund-sites-human-health) which will factor into U.S. EPA’s selection of a site-specific residential cleanup number for the site. During this sampling event, U.S. EPA identified sensitive population properties not previously sampled including a preschool, a kinder care, an elementary school, and the high school. Results found lead levels near or above 1,200 mg/kg. As a result, U.S. EPA expanded the scope of the 2011-2012 time-critical removal action to include the preschool, elementary school play field, high school athletic field, and residential properties.
+
+**More information:**  
+[(Redacted) US EPA Action Memorandum RE: Request for an Exemption from the 12-Month Statutory Limit, Change in Scope of the Response and Ceiling Increase for the Time-Critical Removal Action at the Sandoval Zinc Residential Lead Site (PDF)](http://semspub.epa.gov/src/document/05/935881) (22 pp, 9.8 MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Enforcement Information
+
+Under the authority of the [Comprehensive Environmental Response, Compensation, and Liability Act](https://www.epa.gov/superfund/superfund-cercla-overview) of 1980 (CERCLA, commonly known as Superfund), U.S. EPA gets sites cleaned up by negotiating with the companies or people responsible for contamination at a site or ordering them to do the cleanup themselves, or to pay for the cleanup done by another party (i.e., EPA, state, or other responsible parties).
+
+The Sandoval Zinc Company facility was closed in 1985, and the company filed for bankruptcy in 1986. Currently, the property is owned by a private individual with no smelting activities taking place. On April 24, 1991, Illinois EPA sealed the site by court order on the abandoned facility. To date, U.S. EPA work at the site has been conducted using federal funds.

@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+From 1958 to 1983, chrome plating operations at the Site discharged process wastewaters containing hexavalent chromium to an on-site dry well. In 2003, soils contaminated by the operations were excavated and treated through application of a chemical reductant. The reductant caused the hexavalent chromium to change to trivalent chromium, thereby reducing the risks of harmful exposure. Until 2016, groundwater downgradient of the Site was regularly monitored to track the restoration of groundwater. Controls were also in place to limit the use of contaminated groundwater as a drinking water supply. On January 29, 2018, EPA determined the objectives and cleanup levels for the remedial action had been successfully attained and no further CERCLA activity was required. The Site was deleted from the National Priorities List on August 6, 2018.
+
+The half-acre Frontier Hard Chrome (FHC), Inc. site is located in Vancouver, Washington.
+
+### What Has Been Done to Clean Up the Site?
+
+The soil and groundwater at the Site have been cleaned up and this Site has been deleted from the National Priorities List.
+
+On January 29, 2018, EPA determined that the objectives and cleanup levels for the remedial action had been successfully attained and no further CERCLA activity was required. The Site was deleted from the NPL on August 6, 2018.
+
+In 1982, an industrial supply well about 1/4 mile from the Site was found to be contaminated with chromium at more than twice the federal drinking water standard (MCL). Further investigation, indicated there was a plume of groundwater with elevated chromium concentrations downgradient of the the FHC property. In 1983, FHC closed their business without doing anything to address soils and groundwater that had been impacted by releases from their operations.
+
+In December 1982, EPA proposed the Site be included on the national priorities list (NPL). Following consideration of public comments, the listing was finalized by EPA on September 1983.
+
+EPA issued a Record of Decision (ROD) addressing the cleanup of soils in December 1987 and a Groundwater ROD in July 1988. Approximately 160 cubic yards of contaminated soils were removed in 1994 and disposed off-Site. Further testing of the treatment method selected in the 1987 ROD indicated it was not likely to work at the Site, leading to a 2001 ROD Amendment selecting In-Situ Redox Manipulation (ISRM) as treatment for both soils and groundwater at the Site. In 2003, the selected remedy was implemented, reducing hexavalent chromium in soils and groundwater within property boundaries to below cleanup levels. Groundwater downgradient of the Site was monitored through 2016, at which time EPA determined the groundwater cleanup levels had been attained.
+
+### What Is the Current Site Status?
+
+The cleanup is complete. The Site was deleted from the NPL on August 6, 2018.
+
+On January 29, 2018, EPA signed a Final Close-Out Report for the Site. The report documented that all Remedial Action Objectives and cleanup levels had been attained, the remedy successfully implemented, and no further CERCLA actions required at the Site. In addition, since no hazardous substances, pollutants or contaminants remain above levels that could prevent unlimited use and unrestricted exposure, institutional controls and further Five-Year Reviews are no longer required.
+
+The Site's long-term remedy included in-place treatment of soils and groundwater; groundwater monitoring and institutional controls to limit exposure to hexavalent chromium in drinking water. Remedy construction took place in 2003. Groundwater monitoring was conducted through 2016.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+No activity or use limitations are required at the Site.
+
+On January 29, 2018 EPA found that no hazardous substances, pollutants or contaminants remain above levels that could prevent unlimited use and unrestricted exposure at the Site. As such, there are no longer any exposure pathways of potential exposure at the Site and no activity or use limitations are required.
+
+The remedy in the 2001 RODA required that the need for Institutional Controls (ICs) to limit exposure pathways be evaluated and ICs implemented where needed to limit exposure. In 2003, EPA reviewed the potential exposure routes at the Site and determined that existing controls were sufficient to limit access to contaminated soils and groundwater and that no ICs were required.
+
+In 2004, EPA entered into an Agreement and Covenant Not to Sue with a perspective purchaser. The Agreement required compliance with seven institutional controls that would be recorded on the property deeds. Among other things, the use of groundwater as a drinking water supply was prohibited until cleanup levels were attained.
+
+### Sampling and Monitoring
+
+No further sampling or monitoring is required at the Site because the remedy is complete and no hazardous substances, pollutants or contaminants remain above levels that could prevent unlimited use and unrestricted exposure.
+
+In February 2004, a Long-Term Monitoring Plan was developed by EPA to track the size of the chromium plume downgradient of the Site and to ensure the protectiveness of the remedy. In 2007, due to the decreasing size of the plume, the number of wells sampled and the frequency of sampling were reduced. Following review of the 2016 sampling data, EPA determined that further monitoring was no longer needed.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In order to reduce the threat of direct exposure and limit the impact on groundwater, in 1994, approximately 160 cubic yards of chromium-contaminated soil was removed from the eastern part of the site. In 1999, the stormwater drains and catch basins at the Site were reconfigured to allow stormwater to drain away from the Site, thus reducing infiltration and limiting the impact on groundwater.

@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 10-acre Hedblum Industries Superfund site is located in AuSable Township in Michigan. From 1958 to 1985, several industrial firms made automobile parts on the site. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. In 1983, EPA placed the site on the Superfund program’s National Priorities List (NPL). Cleanup initially included soil excavation and installation of a groundwater extraction and treatment system.
+
+### What Has Been Done to Clean Up the Site?
+
+The long-term remedy included extraction, treatment, and monitoring of contaminated groundwater in the AuSable Heights subdivision, abandonment of six older groundwater monitoring wells, collection and analysis of on-site soil samples, and soil vapor extraction. Construction of the remedy took place in 1992 and the remedy has been operating since 1993. Residents do not use private wells and are connected to the AuSable Township water supply. During the first five-year review in 1999, EPA found that the groundwater extraction rates were lower than required by the Record of Decision (ROD) and 1990 Unilateral Administrative Order (UAO), which may have allowed portions of the plume to escape the system. EPA worked with the PRP to improve the effectiveness of the system. EPA and MDEQ collected data in 2004-2005 to better determine the extent of the plume and the adequacy of the groundwater monitoring and treatment system. EPA found that the original remedy would not be sufficient to meet the cleanup objectives and instructed the PRP to further upgrade the extraction and treatment remedy. In the interim, the PRP submitted a workplan to EPA to construct an additional remedy.
+
+In a second UAO in 2009, EPA required the PRP to upgrade the groundwater remedy and to address the potential for soil vapor to enter homes in the AuSable Heights subdivision. The groundwater cleanup system was expanded in 2012. The PRP installed 23 groundwater circulation wells on-site and in the subdivision that treat groundwater. Three soil vapor wells were also installed to remove gas from the soil to mitigate the potential for vapor intrusion into homes. These systems have been operating since 2012.The PRP installed four additional groundwater monitoring wells in March 2019 and is currently sampling groundwater to ensure that the plume is not migrating. Soil gas levels are also being tested.
+
+### What Is the Current Site Status?
+
+Operation and maintenance activities are ongoing. The Agency will continue testing the groundwater until the cleanup is complete. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The latest five-year in 2019 concluded that based on the available information, the remedy is protective of human health and the environment in the short term because the enhanced remediation system is both removing contaminants from the groundwater and is intercepting and removing soil vapor contaminants. Long term protectiveness requires that the groundwater remedy achieve the groundwater cleanup goals. In the meantime, soil gas monitoring will continue in order to determine if a vapor intrusion risk is present.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Enforceable ICs are a necessary component of the remedy at the Hedblum site. Zoning and deed restrictions prevent the Hedblum site property from residential use and the installation or use of groundwater wells on-site. A local ordinance was passed by the AuSable Township Board in April 2012 to prohibit groundwater use, the installation of new wells, and the abandonment of existing private wells for those residents downgradient of the site. In addition, EPA approved an Institutional Controls Implementation and Assurance Plan (ICIAP). The plan ensures that ICs will continue to be tracked and assessed for the site and that additional ICs will be implemented as needed over the long term.
+
+### Sampling and Monitoring
+
+Monitoring is performed on a regular basis at the Hedblum site and includes:
+
+- Quarterly groundwater monitoring to evaluate the effectiveness of the cleanup.
+- Monthly sampling of the treated groundwater discharged from the site to ensure that contaminants are not released into the AuSable River.
+- Monthly monitoring of the air discharged from the treatment systems to ensure that contaminants are not being discharged into the air.
+
+Beginning in August 2022, EPA and EGLE will be overseeing additional sampling of soil gas at the Hedblum Industries site. Gas in the soil at certain levels can indicate the possibility of soil vapor intrusion, and EPA wants to find out if vapor intrusion is happening at the Hedblum site. The sampling that was done in 2019 and 2020 indicated that the contamination levels in the vapors were at safe levels, but EPA needs to be sure. The sampling is being conducted by the PRP contractor under EPA oversight. It will involve:
+
+- One year of quarterly soil gas sampling at 14 locations along the right-of-way of properties within and just outside the area of groundwater contamination.
+- One year of quarterly soil gas sampling on the property where the contamination originated.
+- Collecting shallow groundwater samples at the soil gas sampling locations to evaluate how VOC levels in groundwater influence VOC levels in soil gas.
+
+If soil gas screening levels are exceeded at any sampling locations, then indoor air concentrations will be measured at those buildings and residences near the location of the exceedance.

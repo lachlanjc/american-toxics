@@ -1,2 +1,13 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4,300-acre Fairchild Air Force Base (4 Waste Areas) site is located in Spokane County, Washington. Past base activities included the disposal of solvents, paint wastes, plating sludge and industrial wastes at various locations across the base. The site includes four wastes areas covering 85 acres. Past activities and waste disposal practices contaminated groundwater, soil and sediment with hazardous chemicals. Remedial actions have been completed, or are underway at some site areas, or operable units (OUs.) Remedial design is underway for the remaining OUs.  
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires attainment of remedial action objectives for OU-1, OU-2 and OU-3 and enhancement of off-site LUCs to prevent potential exposure to contaminated groundwater. The remedial action for OU-5 (SS039) to address [TCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=TCE) -impacted groundwater reached construction complete in December 2020. Performance monitoring and optimization of the remedy is ongoing.
+
+### What Is the Current Site Status?
+
+Cleanup activities completed to date have included residential well monitoring; installation of a landfill cap; groundwater containment and treatment; excavation and landfarming to address some soil contamination; land use controls (LUCs); soil vapor extraction; in situ chemical oxidation (ISCO) and enhanced in situ bioremediation (EISB); and groundwater monitoring. Remedy construction began in 1993 and is ongoing.

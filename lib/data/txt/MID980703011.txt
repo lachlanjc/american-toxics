@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Sturgis Municipal Wells site is in Sturgis, Michigan. Contamination at the site was discovered in 1982, and the site was placed on the National Priorities List, or NPL, in 1984. A remedial investigation and feasibility study (RI/FS), financed by a federal grant, and conducted by the State of Michigan from 1987 to 1991, revealed sources of contaminated groundwater and groundwater contaminant plumes beneath the city of Sturgis. The groundwater became contaminated with volatile organic compounds, also known as VOCs, including trichloroethylene (TCE) and tetrachloroethylene (PCE). TCE, PCE, and other VOCs were also found in the soil.
+
+Investigations in the area identified two local industrial properties as potentially for the contamination: the Kirsch Company Plant No. 1 property and the former Wade Electric Property.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1991, EPA issued a Record of Decision, or ROD, with the cleanup plan for the site. The ROD was later modified in 1996. The cleanup included extracting vapors from the soil by applying a vacuum in the Kirsch property, a process known as Soil Vapor Extraction; installing a pump-and-treat system for groundwater; long-term monitoring; and limiting the use of and access to the site.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. The PRPs are conducting long-term monitoring and operation and maintenance of the two-groundwater pump and treat systems at the site. The PRPs are also performing additional source remediation on the Kirsch Company Plant No 1 property using a soil vapor extraction system and an air sparge system. The PRPs investigated vapor intrusion in the area surrounding the Kirsch source area, and mitigation systems, sub-slab depressurization systems (SSDS), were installed at residential properties that showed a risk. In addition, the PRPs are conducting maintenance on the SSDS and monitoring of the residences and buildings where they were installed.
+
+The investigation in the former Wade Electric source area is funded by EPA and being conducted by the Michigan Department of Environment, Great Lakes, and Energy (EGLE). The vapor intrusion investigated at the Wade Electric property show no risk to residential areas surrounding the source property; however, the grocery store located onsite needed mitigation, and an SSDS was installed on the building. EGLE continues performing a groundwater and soil investigation to fully define the area of contamination and will conduct a follow up feasibility study providing options to cleanup this source area.
+
+EGLE has conducted several five-year reviews of the site’s cleanup in accordance with U.S. laws, regulations, and EPA policy. These reviews ensure that the cleanups put in place protect public health and the environment and function as intended by site decision documents.
+
+EGLE is conducting the sixth five-year review of the site to verify the remedy continues to protect people and the environment. The review is scheduled to be completed in June 2025. The five-year review is an opportunity for the public to tell EGLE and EPA about site conditions and any concerns they may have. If you would like to share comments with EGLE, you can contact Project Manager Samantha Belisle [(BelisleS1@michigan.gov)](mailto:BelisleS1@michigan.gov). If you would like to share comments with EPA, please contact the Remedial Project Manager listed on this website.
+
+EGLE completed the [fifth five-year review (PDF)](https://semspub.epa.gov/work/05/958832.pdf) (535 pp, 27.63 MB) of the site in June of 2020. The review concluded that the protectiveness of the remedy at the site could not be made at that time until additional information was obtained through a Supplemental Remedial Investigation at the Wade Electric property. In May of 2023, an [addendum to the fifth five-year review (PDF)](https://semspub.epa.gov/work/05/982004.pdf) (19 pp, 3.78 MB) was issued, and it was determined that site is protective of human health and the environment because the imminent vapor intrusion risks associated at the Wade Electric property have been evaluated and mitigated. Risk to the receptors of the restaurant/grocery store on the former Wade Electric property has been mitigated through an SSDS. However, for the remedy to be protective in the long-term, the actions needed to be performed:
+
+- Completing additional soil, groundwater, and soil vapor sampling at and adjacent to the Wade Electric property to address the source of vapor intrusion.
+- Issuing a decision document to include a remedy addressing the vapor intrusion pathway.
+- Developing an Institutional Control Implementation and Assurance Plan.
+- Working with the Branch-Hillsdale-St. Joseph County Health Department to revise the health code that will ensure the groundwater is protective to EGLE’s standards.
+- Having PRPs implement remedial actions to address the Kirsch source area soil contamination and developing a plan to reduce TCE levels in monitoring well W-44.

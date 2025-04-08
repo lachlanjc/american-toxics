@@ -1,2 +1,142 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Rockwell International [Superfund](http://www.epa.gov/superfund) site is located in Grenada, MS. Rockwell International, followed by Textron Automotive, and later by Grenada Manufacturing, operated a wheel cover manufacturing and chrome plating facility on the property from 1966 to the early 2000’s. Although chrome plating operations ceased in 2001, Grenada Manufacturing continued to make wheel covers and trim at the manufacturing plant. In 2005, portions of the plant were leased to Ice Industries, Inc., which converted the facility to a metal stamping plant and renamed the business Grenada Stamping and Assembly, Inc. The business is currently called Ice Industries Grenada.
+
+Historically, waste generated during wheel cover manufacturing and chrome plating operations included chrome plating sludge, solvent still bottoms, buffing compound, paint sludge, waste oil, corrosive alkaline wash waters, metal shavings, and other wastes. Past operations, spills, and waste handling practices have resulted in groundwater, surface water, soil and indoor air contamination with trichloroethene (TCE) and related compounds. The indoor air contamination is within the manufacturing plant building, however, a treatment system is currently operating to keep contamination below risk thresholds.
+
+Wastes were disposed in a wetland area (known as “old landfill”) which is contaminated with TCE and hexavalent chromium, among other contaminants; a disposal area east of the facility (known as the Moose Lodge Road Disposal Area); a sludge lagoon (which has been closed and capped); and into surface water via the outfall ditch. Spills of TCE and toluene from above and below ground tanks respectively occurred in past decades. Chrome plating operations have resulted in a release of TCE and other solvents into soils below the manufacturing building’s concrete foundation.
+
+The use of TCE ceased in 1992, however, TCE remains present in the subsurface soil and groundwater at the Grenada Manufacturing facility. TCE vapors from below the manufacturing building are entering the building through cracks, joints and other openings in the concrete floor, causing TCE contamination in the indoor air. Indoor air in nearby homes has been tested; TCE is not present in the homes.
+
+In the past the EPA RCRA program had directed the Facility to:
+
+- Make improvements to the Permeable Reactive Barrier (PRB) which is used to treat the groundwater. EPA received the PRB Pilot Study Work Plan in March 2016 and approved it in April 2016. Work began in May 2016 and is ongoing.
+- Install the Sub-Slab Depressurization System.
+
+Due to contamination from operations, EPA placed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2018. EPA is working to identify [potentially responsbile parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p).
+
+### What Has Been Done to Clean Up the Site?
+
+**December 2017**  
+On December 29, 2017, EPA used CERCLA removal action authority to restart the sub-slab depressurization system (SSDS) to reduce elevated levels of trichloroethene (TCE) inside the manufacturing building at the Grenada Stamping facility.
+
+**January 2018**  
+Site was proposed to the NPL. EPA and the Mississippi Department of Environmental Quality (MDEQ) determined it was appropriate to use EPA’s authorities under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA, commonly known as “Superfund”) to address the complex environmental and liability issues at the Rockwell Grenada site. Superfund is the EPA program that addresses complex hazardous waste sites.
+
+**March 2018**  
+EPA initiated the OU-1 Remedial Investigation/ Feasibility Study (RI/FS) prior to the site being final on the NPL to evaluate indoor and outdoor risks to nearby residents from elevated levels of TCE in the indoor air of the neighboring facility or elevated levels of TCE in the groundwater underneath residential homes.
+
+**May 2018**  
+Sampling Events began as part of the OU-1 RI. The purpose of the RI is to collect data necessary to assess any risks to human health and the environment, which will help determine future cleanup activities.
+
+These results will be posted under the Site Documents and Data tab. The list of recent sampling activities can be found under the Sampling and Monitoring section.
+
+**September 2018**  
+Site was finalized on the NPL.
+
+**April 2019**  
+On April 23, 2019, Meritor, one of the Site PRPs, entered into an Administrative Settlement Agreement and Order on Consent (AOC) with EPA to complete an Engineering Evaluation and Cost Analysis report (EE/CA) to look at potential early action alternatives for groundwater at the Rockwell International Wheel & Trim Superfund Facility. Meritor approached the EPA and proposed an early action to address contaminated groundwater at the facility with the likely benefit of addressing contaminated groundwater beyond the facility. The EPA, in consultation with the MDEQ, will oversee work performed under the AOC and any resulting early action performed by Meritor.
+- As part of the EE/CA, Meritor will install a groundwater pilot well at the facility to pump and treat the groundwater, while measuring groundwater flow and contaminant concentrations to inform the EE/CA. Residents may see construction of the pilot well and more frequent monitoring of the wells surrounding the facility.
+- The EE/CA will describe the effectiveness, feasibility and costs of each option to address contaminated groundwater at the facility and identify a preferred option. The EPA will solicit public comments on the EE/CA and hold a public meeting to answer questions. The EPA will evaluate the options and consider all information received during the public comment period before deciding whether to move forward with an early action.
+- Any early action is not considered a final remedy. EPA will continue to investigate the Site. The EPA’s AOC with Meritor complements the ongoing Site work and could expedite the cleanup of contaminated groundwater.
+
+**August 2019**  
+Meritor installed the pilot extraction well to inform the EE/CA, with MDEQ oversight. For the system to be operational the drainage lines for the system, pump house building, pump and treatment system will have to be installed and tested.
+
+**October 2019**  
+The EPA approved the Non-Time Critical Removal Action Work Plan for Meritor to develop the Engineering Evaluation and Cost Analysis report (EE/CA).
+
+**November 2019 - July 2020**  
+Meritor installation of the extraction system including horizontal drilling for the drain lines and construction of the pump house which will house the treatment components of the system. There were several weather and COVID-19 related delays.
+
+EPA continues to work with the Mississippi Department of Environmental Quality and the Facility to identify long-term cleanup measures to address the source of the contamination.
+
+**August 2020**  
+Meritor began the sampling of the groundwater on the facility property and in the local area adjacent to the facility property. This sampling will be used to gauge the groundwater response to the operation of the pilot extraction system.
+
+**September 2020**  
+Meritor completed installation of the pilot extraction system, and it began operation in early September 2020. This system was used to inform the selection of a groundwater action in the Engineering Evaluation/ Cost Analysis (EE/CA) Report.
+
+**August 2021**  
+EPA approved the EE/CA Report.
+
+**September 2021**  
+The EE/CA Report and all EE/CA supporting documentation were added to the Adminstrative Record (AR) for public review and comment. An [EE/CA Fact Sheet](http://semspub.epa.gov/work/04/11166375.pdf) along with a [February 2021 FAQ](http://semspub.epa.gov/src/document/04/11166340) were mailed to the community to aid in understanding the EE/CA and to announce availability of the AR.
+
+**October 2021**  
+The Public Meeting to present the EE/CA was held virtually on Zoom. You can [view the recorded presentation online](http://www.youtube.com/watch?v=XBsS21k0_dc&t=732s). The EE/CA Responsivness Summary, which addresses questions received during the October 19, 2021 public meeting, has been added to the Non-Time Critical Removal Action Administrative Record [here](https://semspub.epa.gov/work/04/11173579.pdf).
+
+**August 2022**  
+The Action Memorandum memorializing the EE/CA recommended alternative for the removal action was signed on August 30, 2022. The Non-Time Critical Removal Action Administrative Order on Consent Agreement (NTCRA Agreement) was signed between Meritor and EPA on August 31, 2022. The NTCRA Agreement tasks Meritor to continue operation of the SSDS and the Pilot System.
+
+EPA signed the Action Memorandum and the Administrative Order on Consent (AOC) to implement the recommended cleanup alternative selected in the Engineering Evaluation and Cost Analysis (EE/CA) Report for a non-time critical cleanup of the Site. The EE/CA recommended cleanup alternative is Pump and Treat (P&T) of impacted groundwater to minimize migration of contaminated groundwater at and surrounding the operating facility at the Site. This alternative will expand the current pilot system from one extraction well to three, increasing the system’s ability to clean up groundwater contamination more quickly without creating any chemical byproducts.
+
+**November 2022**  
+Three additional monitoring locations were installed in the Eastern Heights neighborhood. These three locations each have a set of wells, a deep well and a shallow well. These new monitoring wells will allow EPA to better monitor the effects of the NTCRA in both the shallow and deep zone of the surficial aquifer.
+
+**June 2023**  
+The EPA conducted a door-to-door community engagement event in the community. The EPA met with 18 households to answer questions and listen to concerns with the site or the NTCRA. The monitoring wells in the neighborhood were sampled during this time.
+
+The horizontal piping was installed at the facility properties to support the installation of the the two new locations of extraction wells. This piping will connect the wells to the treatment system once the wells are installed in July 2023.
+
+**March 2024**
+
+The EPA met with residents in the Eastern Heights Neighborhood to answer questions regarding the progress of the GETS and sampling activities in the neighborhood and Site.
+
+### What Is the Current Site Status?
+
+The Action Memorandum memorializing the EE/CA recommended alternative for the removal action was signed on August 30, 2022. The Non-Time Critical Removal Action Administrative Order on Consent Agreement (NTCRA Agreement) was signed between Meritor and EPA on August 31, 2022. The NTCRA Agreement tasks Meritor to continue operation of the SSDS and the Pump and Treat (P&T) Pilot System. The Pilot System has been upgraded to the full scale groundwater system by adding two new extraction wells to capture the groundwater contamination at and around the facility.
+
+The Remedial Investigation Report for OU1 including Eastern Heights, was finalized for release the Summer 2023.
+
+The EPA approved the EE/CA Report in August 2021 and it was released with the Administrative Record for public review. On October 19, 2021, the EPA held a public meeting. The comment period for the EE/CA ran from October through November 2021. EPA considered and responded to comments prior to selecting an action in the Removal Action Memorandum. The EPA addressed all public comments received and concluded that the preferred alternative was the continued operation of the GETS, with its expansion to full-scale groundwater system. The EPA issued a Notice of Completion for the EE/CA Administrative Order on August 13, 2024.
+
+The Sub-Slab Depressurization System continues to operate at the Facility under the Non-Time Critical Removal Action (NTCRA) agreement signed between EPA and Meritor.
+
+Meritor continues to execute work under the State RCRA Post-Closure Permit with and under the Federal RCRA Corrective Action Permit. This work includes but is not limited to the groundwater monitoring on the Facility, sampling of the Former Lagoon closed out under RCRA and the work on the Permeable Reactive Barrier (PRB) along Riverdale Creek. Meritor also continues to monitor the groundwater at the Moose Lodge Road Disposal Area under an Mississippi Department of Environmental Quality voluntary action agreement.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls are in effect for the main Facility Parcels. Institutional controls play an important role in site remedies because they reduce exposure to contamination by restricting access to contaminated areas. They also guide human behavior through legal mechanisms such as deed restrictions and public health warning signs.
+
+### Sampling and Monitoring
+
+Operable Unit 1 (OU1) focuses on the Eastern Heights neighborhood. The purpose of the Remedial Investigation (RI) is to collect data necessary to assess any risks to human health and the environment, which will help determine future cleanup activities. Sample results from each sampling event will be made available to the residents as soon as EPA has reviewed the validated results, under the Site Documents and Data tab. These results will be used to determine where the bulk of the contamination is located and the best locations to add new permanent groundwater monitoring wells for future sampling and response work. The sampling events described below were conducted as part of the RI for OU1 of the Site.
+
+July 26 - August 4, 2019. (third and final using vertical profile testing of the soil and groundwater for OU1 RI) This sampling event focused on the railroad lines to the east and south of the Eastern Heights neighborhood. In order to limit disruptions to the rail operations the event was scheduled to span two consecutive Saturdays to allow the rail authority to close the impacted lines.
+
+March 25- April 5, 2019. (rescheduled from the January 7 thru January 17, 2019 event was cancelled due to the partial government shutdown) This sampling event used vertical profile testing of the soil and groundwater in the Eastern Heights neighborhood.
+
+October 2-12, 2018. (first vertical profile testing) This sampling event used vertical profile testing of the soil and groundwater in the property to the east of the Eastern Heights neighborhood.
+
+August 13-16, 2018. EPA conducted an ambient air (outdoor air) and groundwater sampling in the Eastern Heights community. EPA asked property owners for permission before testing their property for contaminants.
+
+July 8-14, 2018. EPA conducted sampling of the ambient (outdoor) air, indoor air and air under the foundation (sub-slab soil gas) of several homes located over the TCE-contaminated groundwater plume in the Eastern Heights neighborhood. EPA asked property owners for permission before testing their property. EPA met with residents whose homes were sampled to assess their use of common household chemicals and assisted with removing chemical products from the homes prior to indoor testing.
+
+June 18 – 22, 2018. EPA conducted groundwater, soil, soil gas and ambient (outdoor) air sampling in the Eastern Heights neighborhood. The attorneys that represent specific residents of the Eastern Heights neighborhood have agreed to allow EPA to perform testing around and inside the properties owned by their clients. The residents' attorneys are also allowing their technical team to speak with EPA and coordinate efforts in the neighborhood.
+
+May 16- 17, 2018. EPA conducted 24-hour ambient (outside) air sampling in the Eastern Heights neighborhood. With the permission from the residents, nine sample locations were strategically chosen throughout the neighborhood.
+
+### Emergency Response and Removal
+
+**The Time Critical Removal Action that started December 2017 has been incorporated into the 2022 Non-Time Critical Removal Action Administrative Order on Consent and Action Memorandum. This work will continue at the site until the contamination no longer poses a risk to the worked in the facility.**
+
+On December 29, 2017, a treatment system intended to reduce elevated levels of trichloroethene (TCE) inside the manufacturing building at the Grenada Stamping facility was restarted under an EPA removal action. Removal actions are short-term responses under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) intended to protect people from risks or potential risks associated with contaminated sites.
+
+- TCE contamination is present beneath the facility as a result of spills from prior operations. Past sampling indicated TCE vapors from beneath the concrete floor are rising into the building and could pose a risk to workers.
+- The treatment system is operating with EPA oversight and monitoring, and sampling to date shows the system is effective at reducing TCE to below risk levels. EPA will continue to oversee monitoring of the treatment system to ensure it remains effective.
+- The new treatment system replaces interim measures taken since January 2017 to increase ventilation within the Facility. These measures have decreased TCE concentrations within the building. The new treatment system is a more reliable, long-term method to ensure TCE concentrations remain at acceptable levels.
+- An On-Scene Coordinator (OSC) was assigned to conduct a Removal Site Evaluation (RSE). The RSE consisted of a review of recent facility indoor air monitoring results and current status of the treatment system. The OSC determined that site conditions met the criteria for conducting a removal action.
+- The OSC conducted a site visit on January 3, 2018 and verified the treatment system is operational.
+- EPA required the Facility to submit a sampling plan for the system in to ensure the system is performing properly, and that workers and the surrounding community are protected while the system operates.
+- People who work inside the manufacturing facility are being notified about the air contamination and the steps being taken to remove contaminants from the indoor air.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+NPL listing is the first step in the Superfund process. As part of the Superfund process, the EPA will identify potentially responsible parties and notify each such party of their potential liability under CERCLA. In general, the EPA seeks to enter into enforceable agreements with responsible parties to conduct necessary investigation and cleanups.

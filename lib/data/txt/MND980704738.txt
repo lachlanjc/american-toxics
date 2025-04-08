@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Washington County Landfill site is in Lake Elmo, Minnesota. The25-acre site is a mixed waste landfill that accepted waste materials from 1969 to 1975. The landfill contained an estimated 1.9 million cubic yards of mixed residential, commercial and demolition wastes. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. The Minnesota Pollution Control Agency, under their Closed Landfill Program, is responsible for post cleanup operation and maintenance activities at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and county actions. The Minnesota Pollution Control Agency has operated and maintained the site as part of its Closed Landfill Program since 1995
+
+A groundwater treatment system was constructed in 1984 to treat contaminants volatile organic compounds, or VOCs. In 1993, 72 homes were connected to the public water supply system. Since that time, additional groundwater contamination has been discovered in the area from multiple sources, including perfluorochemicals, or PFC’s. MPCA has coordinated with Minnesota Department of Health to ensure that drinking water for additional homes is protected. In 2012, MPCA constructed a new triple-lined landfill on the site and moved remaining landfill waste at the site into it.
+
+### What Is the Current Site Status?
+
+The newly-constructed landfill is operated and maintained by MPCA under its Closed Landfill Program. MPCA and Minnesota Department of Health coordinate to ensure that drinking water affected by the old landfill is protected.  
+  
+EPA has conducted several five-year reviews of the cleanup. The most recent review, conducted in 2014, concluded that the site continues to be protective of human health and the environment. The review included a recommendation to install additional gas probes at the site, which has been done by MPCA.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.  
+  
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).

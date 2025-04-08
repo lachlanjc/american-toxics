@@ -1,0 +1,55 @@
+### Background
+
+The 12-acre Sullivan's Ledge site is located in New Bedford, Massachusetts. A quarry operated on site until about 1932. Between the 1940s and the 1970s, local industries used the quarry pits and adjacent areas for disposal of hazardous material and other wastes, including electrical capacitors, fuel oil, volatile liquids, tires, scrap rubber, demolition materials, brush and trees. After a fire at the site in the 1970s, the City of New Bedford backfilled the only existing open pit and covered all exposed refuse. In 1982, the Massachusetts Department of Public Works drilled test borings as part of a plan to build a commuter parking lot, and electrical capacitors. This drillingmay have caused polychlorinated biphenyl (PCB) contamination to be unearthed. Following short-term actions to protect human health and the environment, the site’s long-term remedy was put in place. Groundwater treatment, operation and maintenance activities, and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires implementation of institutional controls and ongoing monitoring.  
+
+### What Is the Current Site Status?
+
+The site’s long-term [remedy](https://semspub.epa.gov/src/document/01/6463) for the Sullivan's Ledge Disposal Area included:
+
+- excavating and disposing of sediments from the stream and the golf course water hazards
+- capping an 11-acre area to cover the quarry pits and contain contaminated surface soils and sediments that would be placed on site
+- diverting and lining part of the unnamed stream to prevent water from being pulled into extraction wells
+- installing an active pumping system to collect contaminated shallow bedrock groundwater
+- using a passive collection system to collect contaminated seeps and shallow groundwater
+- treating collected groundwater
+- restoring and enhancing wetland areas
+- implementing institutional controls to ensure that the bedrock groundwater will not be used for drinking water since it cannot be cleaned to drinking water standards
+- long-term monitoring
+
+The groundwater treatment plant began operating in late 1999. Construction on the cap began in the spring of 1998 and finished in 2000.
+
+EPA issed a Recod of Decision for operable unit 2 (OU2) to cleanup the site's middle marsh sediments which included:
+
+- excavating and dewatering contaminated sediments from portions of the Middle Marsh and the adjacent wetland, and disposing of the excavated materials beneath the site’s disposal area cap
+- restoring affected wetlands; using institutional controls to prevent future residential use of the area and restrict access
+- long-term environmental monitoring. Initial construction activities began in 1999 and finished during 2000
+
+Groundwater treatment, operation and maintenance activities, and monitoring are ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The information below is a general summary of the restrictions at this site at this time and may change in the future. The information below is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
+
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100744&doc=Y&colid=31762&region=01&type=SC)**.**
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
+
+**Disclaimer:** This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.
+
+### Emergency Response and Removal
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. The City of New Bedford fenced the site from 1984 to 1985 to limit the potential for exposure to hazardous materials at the site.

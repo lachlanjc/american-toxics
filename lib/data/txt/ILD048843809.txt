@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 41-acre Chemetco site is located just south of Hartford in Madison County, Illinois. Chemetco operated a secondary copper smelting facility on site from 1970 to 2001, when the company filed for bankruptcy. The facility produced copper cathodes and anodes. Contaminants of concern include elevated levels of cadmium, copper, lead and zinc oxide. Site cleanup is ongoing. The site is currently fenced and access is restricted.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA will continue to assess site conditions and work with potentially responsible parties to perform and pay for all required cleanup. The continued study of the site will help EPA better understand the nature, level and extent of the contamination. This usually includes taking samples of the soil, waste materials, surface water and groundwater. It is also important to study current and future risks to people and the environment. EPA will continue to assess risks from the release of hazardous substances and make sure a cleanup plan is in place to eliminate or reduce those risks to acceptable levels.
+
+### What Is the Current Site Status?
+
+Site investigations and cleanup are ongoing. Since 2008, under an interim order with the state, the bankruptcy trustee has overseen numerous activities and improvements on the site, including demolishing buildings, salvaging metals, selling three of the facility’s four furnaces and cleaning up solid waste management units. This significantly reduced the presence of more than 11,000 tons and 4,000 gallons of potentially contaminated material.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Currently, the potential contaminants of concern (COCs) are copper, lead, and cadmium. Remedial investigation activities may lead to additional COCs.

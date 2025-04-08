@@ -1,0 +1,54 @@
+### Background
+
+The 10-acre Safety Light Corporation (SLC) Site is located near Bloomsburg, Pennsylvania. Past activities at the site include the manufacturing of self-illuminated watches and instrument dials, smoke detectors, neutron sources, exit signs and other merchandise containing radioactive materials. The site includes buildings or structures and their contents, earthen lagoons, an abandoned canal and former dump areas, contaminated with radioactive materials, such as radium-226, strontium-90, cesium-137, and tritium.
+
+In 2005, EPA added the site to the National Priorities List, making it eligible for investigation and cleanup under the federal Superfund program.
+
+### What Has Been Done to Clean Up the Site?
+
+From the 1940s to the 1960s, product manufacturing at the site involved using several radioactive materials such as radium. The facility was once owned by the U.S. Radium company. After 1980, exit signs were the main products manufactured at the site, which involved using tritium.  
+  
+In 1981, the U.S. Nuclear Regulatory Commission (NRC) conducted an environmental survey of the site property, during which time monitoring wells were found to contain elevated levels of tritium and strontium-90. Elevated levels of radium-226, cesium-137 and strontium-90 were also found in surface and sub-surface soils. The NRC required Safety Light Corp. to begin remediating radiological waste disposed in the two underground silos.  
+  
+In December 2001, EPA received a request from the NRC to begin an assessment of environmental conditions at the Safety Light Corp. property. Several sampling investigations and environmental assessments were conducted at the site, including evaluations conducted by Safety Light Corp. for property characterization. The site includes buildings/structures and their contents, earthen lagoons, an abandoned canal and former dump areas.  
+  
+In 2005, EPA added the site to the National Priorities List, making it eligible for federal cleanup funding. EPA then performed a Remedial Investigation in three separate portions, called operable units (OUs). OU-1 focuses on on-site buildings and debris; OU-2 addresses the groundwater at the site; and OU-3 addresses on-site soils, sediment and surface water.  
+  
+EPA has used both its Removal Program (short-term cleanup) and Remedial Program (long-term cleanup) to address the contamination caused by previous on-site manufacturing and storage of radioactive materials.
+
+### What Is the Current Site Status?
+
+The site cleanup is divided into three separate portions called operable units (OUs). OU-1 addresses on-site buildings and debris; OU-2 addresses groundwater at the site; and OU-3 addresses on-site soils, sediment and surface water.
+
+**On-s** **ite buildings and related debris (OU-1):**  
+Most of the field work for the investigation of buildings at the site was substantially completed in 2006 and the Remedial Investigation/Feasibility Study (RI/FS) report for this OU has been completed. Initial OU-1 work was performed under EPA's Removal Program. The cleanup plan to remove the most highly contaminated structures first is outlined in document called an [Engineering Evaluation / Cost Analysis (EE/CA) (PDF)](http://semspub.epa.gov/src/document/03/2072406).
+
+In 2010, EPA signed the [OU-1 Record of Decision (ROD) (PDF](http://semspub.epa.gov/src/document/03/2117470) ). This cleanup plan involves the demolition of both the radioactive and non-radioactive on-site structures remaining and removal of the debris to a properly licensed disposal facility. Demolition and removal of debris related to OU-1 were completed in 2015 and documented in a Final Remedial Action Completion Report for OU-1.
+
+**On-s** **ite contaminated groundwater (OU-2):**  
+Field work for the environmental investigation of groundwater continues. In 2007, EPA installed three deep bedrock monitoring wells at the site. Throughout the following year, EPA collected groundwater data for analysis. For comparison purposes, additional groundwater samples were collected at remote, off-site locations to help determine regional background concentrations of radionuclides and metals. Additional groundwater samples were collected from monitoring wells in 2019 for site-related contaminants and perfluorinated compounds (PFCs).
+
+**On-s** **ite contaminated soils, sediment and surface water (OU-3):**  
+In 2013, EPA's Removal Program identified and excavated soils from an adjacent property to address the migration of contamination from an on-site area known as the West Dump. Approximately 25 yards of soil were excavated and incorporated back into the West Dump area. Additional cleanup work on the West Dump include re-grading of the soil and installing an engineered cover and drainage controls to prevent further migration off-site.
+
+In 2014, as part of the soils investigation, EPA tested for radiation levels at the "footprint" locations where the demolished structures once stood. Additional on-site soil samples were collected as well as a few off-site soil samples, located on residential properties.  
+  
+In July 2016, EPA finalized an [Early Interim Record of Decision (ROD) ) (PDF)](http://semspub.epa.gov/src/document/03/2231225) for a portion of OU-3, involving former on-site dumping areas, called the East Dump Area, the West Dump Area, the East Lagoon and the West Lagoon. The cleanup plan is considered “interim” because it addresses only these specific areas of OU-3 and not the entire operable unit.
+
+In August 2017, EPA modified the remedy in the 2016 Early Interim ROD with an [Explanation of Significant Differences (ESD) (PDF)](http://semspub.epa.gov/src/document/03/2229934) to excavate an additional 998 cubic yards (total estimated volume) of radionuclide-contaminated soil/debris. Based on a November 2016 removal assessment, additional areas within the abandoned canal and/or 100-year floodplain with radionuclide soil concentrations above soil risk-based screening levels (RSLs) were identified. EPA issued a [2nd Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/src/document/03/2261093) in September 2018 expanding and continuing the excavation of the contaminated soils within and immediately adjacent to the abandoned canal, up to and including the entire length of the canal on the site, as necessary.
+
+All excavation activities associated with the interim ROD and ESDs were completed in April 2019. All excavated areas were backfilled with stone, topsoil, and revegetated. Perimeter air monitoring was conducted throughout the cleanup activities and no radioactivity was detected above applicable action levels. Over the duration of the excavation activities, approximately 25,030 tons of contaminated soil were shipped offSite for proper disposal. The final remedy will be documented in a final ROD.
+
+EPA will use additional groundwater monitoring and soil data collected during the interim soil cleanup to finalize the Remedial Investigation/Feasibility Study reports forOU-2 and OU-3.
+
+EPA has is completed its first five-year review of the remedy at the Safety Light Corporation Superfund Site. The [August 2021 Five-Year Review](https://semspub.epa.gov/src/document/03/2317239) determined the remedy at OU1 to be protective of human health and the environment. Buildings have been demolished, characterized, and disposed of off-site. The remedial action for OU1 is complete. No further action is needed. It also determined the interim remedy at OU3 to be protective of human health and the environment. Contamination from the West Dump, West Lagoon, East Dump, East Lagoon, and the abandoned canal has been excavated to the level of groundwater and disposed off-site, and the excavated areas were covered with geotextile, gravel and 12 inches of soil, and revegetated. The Site is completely fenced, and access is restricted. Signage is present indicating that radioactive material is present on-site. Additional exposure scenarios and RAOs for OU3 will be documented in a future final ROD. The next five-year review is scheduled for 2026.
+
+### Emergency Response and Removal
+
+Beginning in July 2004, EPA has undertaken a number of removal actions at the site throughout the years including the removal of radioactive waste exhumed from two underground silos, the demolition of buildings, and excavation and removal of radionuclide-contaminated soils and radioactive discrete objects among others. These removal actions are documented in several Removal Action Memoranda for the Safety Light Site and may be found in the Administrative Record.
+
+For more information, please visit the [Safety Light Corporation Site Removal website.](http://www.epaosc.org/site/site_profile.aspx?site_id=4071)
+
+### Enforcement Information
+
+In 2007, EPA issued a Unilateral Administrative Order requiring physical security to the site; on-site fire protection systems; utility services; and limited on-site maintenance, such as vegetation control and upkeep.

@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Milford Contaminated Aquifer site is located near Cincinnati in Milford, Ohio. The site consists of groundwater contaminated with volatile organic compounds, or VOCs, in the area of Main Street and Lila Avenue. VOCs were first detected in Milford public wells in 1986. After several investigations by Ohio EPA, the state referred the site to U.S, EPA. The contaminated groundwater has affected three of the city wells. To keep Milford’s drinking water supply safe, the city installed and maintains an air stripper to remove VOCs from the water.
+
+### What Has Been Done to Clean Up the Site?
+
+U.S. EPA added the site to the Superfund program’s National Priorities List (NPL) in March 2011. Sites on the NPL are eligible for financial resources to characterize the extent of contamination and develop a cleanup plan.
+
+U.S. EPA conducted a remedial investigation to determine the nature and extent of contamination at the site from December 2013 through 2019 and published its findings in the [October 2020 remedial investigation report](https://semspub.epa.gov/work/05/967558.pdf) (PDF) (156 pp, 24.16 MB). A [feasibility study](https://semspub.epa.gov/work/05/967557.pdf) (PDF) (148 pp, 6.52 MB) to evaluate potential cleanup alternatives for the site was completed in April of 2021.
+
+In December 8, 2021, EPA released a [proposed cleanup plan (PDF)](https://semspub.epa.gov/work/05/970208.pdf) (33 pp, 4.48MB, [About PDF](https://www.epa.gov/home/pdf-files) ) for the site. The proposed plan plan described the remediation options evaluated by the agency and provided a recommendation to clean up the site. [EPA's proposed cleanup plan factsheet (PDF)](https://semspub.epa.gov/work/05/970207.pdf) (10 pp, 4.86MB, [About PDF](https://www.epa.gov/home/pdf-files) ) summarizes the proposed plan, describes cleanup options and explains EPA’s recommendation.
+
+EPA held a virtual public meeting on December 15, 2021, to explain the proposed cleanup plan and the cleanup options evaluated by the agency. The [presentation slides (PDF)](https://semspub.epa.gov/work/05/971788.pdf) (24 pp, 3.27MB, [About PDF](https://www.epa.gov/home/pdf-files) ) and a [written transcript (PDF)](https://semspub.epa.gov/work/05/971789.pdf) (28 pp, 191KB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the meeting are available on this website.
+
+### What Is the Current Site Status?
+
+EPA, in coordination with Ohio EPA, have completed a [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/work/05/975125.pdf) (98pp, 16.99, [About PDF](https://www.epa.gov/home/pdf-files) ) for the Milford Contaminated Aquifer site. The ROD is a public document that explains the selected cleanup alternative for the site and includes a response to the public comments received during the Proposed Plan public comment period from December 8, 2021 to January 7, 2022.
+
+The selected cleanup alternative for the site includes treating on-site groundwater by injecting one or more substances to break down the contamination, verifying homes and buildings in the area are connected to the municipal water supply, and conducting additional sampling for the design phase of the cleanup. In addition, EPA would install signs and fencing, and reinforce land-use restrictions to protect public health and the environment.
+
+EPA will now begin work on the engineering design, also known as Remedial Design (RD) phase, for the selected cleanup alternative. Once the RD is complete, EPA will begin the Remedial Action (RA) phase and implement the cleanup.
+
+### Sampling and Monitoring
+
+Groundwater is being monitored and treated utilizing an air stripper to remove volatile organic compounds and is meeting water safety standards.

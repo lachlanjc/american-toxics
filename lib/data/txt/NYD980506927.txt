@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Johnstown City Landfill is a former municipally-operated, unlined landfill in the Town of Johnstown, Fulton County, New York.The site is located approximately 1.5 miles northwest of the City of Johnstown and 1.75 miles west of the City of Gloversville. The site is generally bordered by low density residential areas along West Fulton Street Extension to the north and mixed wooded and agricultural lands to the east, south and west.
+
+Thirty-four acres of the 68-acre Johnstown City Landfilll site was operated as an open municipal dump from 1947 to 1960. The landfill consists of two, generally flat terraces. A remnant of a pit once used as a demolition debris and metals disposal area, approximately 30 feet deep, exists on the westward side of the landfill at the base of a steep ridge.
+
+The landfill accepted industrial wastes from local tanneries and textile plants from 1960 until 1977. The landfill also accepted sludge from the City's wastewater treatment plant from 1973 to 1979. The sewage sludge that was disposed of contained high concentrations of chromium, iron, and lead. Groundwater in on-site monitoring wells is contaminated, and seeps of leachate occurred.
+
+Approximately 10 homes are located within 1,000 feet of the site and approximately 95 homes are located within one mile downgradient of the site. All of these homes had private wells before a public water supply was extended to them as part of the selected remedy. The closest of these wells, which is within 150 feet of the site's northern border, was contaminated by the landfill.
+
+The site was placed on the Superfund National Priorities List in 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed in a single long-term remedial phase focusing on the cleanup of the entire site.
+
+The City of Johnstown, pursuant to a Consent Order with the State of New York, conducted a remedial investigation and feasibility study (RI/FS) to determine the nature and extent of contamination at and emanating from the site and to evaluate remedial alternatives. In 1993, based upon the results of the RI/FS, EPA signed a Record of Decision, or ROD, calling for the landfill to be capped and for the expansion of the Johnstown City water-supply system to provide potable water to all private water supplies potentially impacted by the landfill. Remedial construction activities were completed in 1997.
+
+### What Is the Current Site Status?
+
+The site's groundwater continues to be monitored.
+
+Five-year reviews are undertaken at sites to ensure that implemented remedies protect public health and the environment and that they function as intended by site decision documents. EPA complerted five-year reviews at the site in December 2000, December 2005, December 2010, September 2016, and January 2021. The most recent five-year review concluded that the remedy was protective of public health and the environment. It is anticipated that the next five-year review will be completed by early 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).

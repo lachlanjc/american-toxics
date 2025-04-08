@@ -1,2 +1,28 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 53-square-mile Upper Tenmile Creek Mining Area site is located in Lewis and Clark County, just southwest of Helena, Montana. The site includes about 150 active and abandoned mines in the historic Rimini Mining District. Mining for gold, lead, copper and zinc began in the 1870s and continued through the 1930s. Waste rock containing heavy metals filled roads, yards and local waterways as filler material. The waste rock contaminated soil and groundwater with heavy metals. Remedy construction is underway.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and federal actions.  
+
+### What Is the Current Site Status?
+
+The purpose of the five-year review is to evaluate the implementation and performance of the remedy that addresses heavy metal contamination that resulted from historic mining activities. These activities occurred between the 1870s and 1930s and impacted soil and groundwater in the 53-square mile area Superfund site.
+
+In the five-year review report, a site-wide protectiveness determination was made that the remedy at Operable Unit 4 is expected to be protective of human health and the environment upon completion. In the interim, remedial activities completed to date have adequately addressed all exposure pathways that could result in unacceptable risks.
+
+The [second five-year review report (pdf)](http://semspub.epa.gov/src/document/08/100001099) (83 pp, 31MB, [About PDF](https://www.epa.gov/home/pdf-files) ) also provides background about the site and information about future site plans. The report identifies issues, makes recommendations to address those issues, and lists the actions needed to ensure long-term protectiveness at the site.
+
+The site is being cleaned up using a collaborative watershed approach. To date, EPA has been unable to identify a viable potentially responsible party (PRP), so the cleanup on private land is being 90 percent paid for with federal funds and 10 percent with state funds. Cooperating agencies have combined resources to expedite a watershed cleanup. The U.S. Forest Service has taken the lead role in cleaning up wastes on federal property within the Superfund site boundary (the Beatrice, Justice and Armstrong mines). Where individual mines involve both federal and private lands (the Upper Valley Forge mine), cleanup expenses are shared by EPA and the U.S. Forest Service, with the State of Montana paying 10 percent.
+
+The site’s long-term remedy includes construction of a public water system for the town of Rimini; excavation and disposal of contaminated roadway materials; excavation and disposal of contaminated soil from residential properties; and excavation and disposal of waste rock and tailings from 70 high-priority mine sites in the Lutrell Repository. Additional cleanup actions include monitoring surface water and sediment, augmenting stream flow, implementing institutional controls, capping and regrading collapsed mine shafts, and constructing drainage features to prevent or reduce stormwater from entering mine areas. Remedial Design began in 2001 and continues with specific remedy elements. Remedial Action began in 2002 and continues with specific components as they are designed and as federal funding becomes available. The next remedy \[cleanup\] component design was completed in 2015, which is to address mine waste piles along Minnehaha Creek and remaining residential cleanups. Remedial Action for that component is anticipated to commence pending availability of federal funding.
+
+This site is one of many across the country to receive funding from the Bipartisan Infrastructure Law, which invested $3.5 billion in environmental remediation at Superfund sites on the National Priorities List. The Bipartisan Infrastructure Law increased EPA funding for ongoing and planned Superfund cleanup projects across the country.
+
+### Emergency Response and Removal
+
+Site cleanup has also included several removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions included excavation, consolidation and capping of mine wastes; relocation of mine wastes from several mines to the Lutrell Repository; and providing bottled water for residents with contaminated well water.
+
+- [Susie Adit](https://response.epa.gov/site/site_profile.aspx?site_id=15269)
+- [Luttrell Leachate Treatment Plant](https://usepa.sharepoint.com/sites/OSWER_Work/SFCEF/SitePages/Home.aspx)

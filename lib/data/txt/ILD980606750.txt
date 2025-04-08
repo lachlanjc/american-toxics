@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ottawa Radiation Areas site, located in LaSalle County, Illinois, consists of 16 areas contaminated by radioactive materials. The 16 areas are scattered throughout the city of Ottawa as well as locations outside the city. EPA added the areas to the Superfund program’s National Priorities List (NPL) because they are contaminated by the same wastes, involve the same potentially responsible parties (PRPs) and require similar cleanups. The contamination likely originated from the processing of wastes and demolition debris from the Radium Dial Company between 1918 and 1936 and from Luminous Processes, Inc. between 1937 and 1978. These businesses produced luminous dials for clocks and watches, using radium-based paint. Following actions to protect human health and the environment in the short term, EPA developed long-term remedies for the site. To date, EPA completed cleanup at 15 of the 16 contaminated areas.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA completed a sitewide five-year review to determine if the remedy remains protective of human health and the environment in 2021. EPA determined that the remedies at NPL-1, NPL-4, NPL-8 Frontage Property, NPL-9, NPL-11, Illinois Power, and Luminous Processes, Inc. adjacent subareas are protective of human health and the environment. The remedies for NPL-8 landfill have yet to be fully implemented. Once implemented, the remedies are expected to be protective.
+
+### What Is the Current Site Status?
+
+EPA selected the site’s final remedies in 2000 and 2003, recommending complete removal of radium-contaminated soil from five of the areas where future residential use is likely and removal to 10 feet below ground surface at one area where future recreational and commercial/industrial use is planned.
+
+EPA completed cleanup at 15 of 16 contaminated areas. Remedies for NPL-8 landfill have yet been implemented.
+
+Ongoing work consists of securing funding to implement remedies at NPL-8 landfill, Institutional Controls work at NPL-1 and NPL-8 Frontage Property, and implementation of the 2021 Five-year review recommendations.
+
+Conduct inspections and O&M activities of the capped stockpile at NPL-8 landfill.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Surface and subsurface soils in various areas of Ottawa have been contaminated with radioactive wastes. Some buildings in the Ottawa area are contaminated with radon. Soil samples, collected from the landfilled areas, were found to have elevated levels of the radioactive contaminant radium-226. ICs are required for the Illinois Power Building, NPL-1, NPL-8 Frontage Property and NPL-11.
+
+### Emergency Response and Removal
+
+Prior to the site’s long-term remedy, several response actions protected human health and the environment in the short term. In 1986, the Illinois Department of Nuclear Safety (IDNS) removed contaminated soils located near homes in one of the contaminated areas and purchased one home in another area. Radon reduction systems were installed in two homes and a business in 1988 by EPA. In 1990, EPA moved a home to uncontaminated property owned by the resident. Late in 1994, EPA, working with IDNS, began removing radium-contaminated soil from the radiation areas. The material removed was shipped to a low-level radioactive hazardous waste disposal facility in Utah. Removal activities were completed at nine of the areas. About 32,000 cubic yards of radioactive soils and debris were removed.

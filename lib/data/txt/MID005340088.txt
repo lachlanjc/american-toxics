@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 7-acre Roto-Finish site is located in Portage, Michigan. Prior to 1980, Roto-Finish discharged wastewater from manufacturing processes to drywells and three lagoons, resulting in groundwater contamination. Contaminants of concern include amines, phenols, metals and 4,4-methylenebis (2- chloroaniline). The selected remedy includes institutional controls and groundwater monitoring.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires ongoing groundwater monitoring and implementation of restrictive covenants that prohibit the use of groundwater.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy includes institutional controls and monitoring groundwater over the next 50 to 60 years while the contamination dilutes and biodegrades through a process known as natural attenuation. Because the selected remedy does not require physical construction, EPA included the site on the Agency’s Construction Completion List in March 1997. Groundwater monitoring is ongoing.
+
+Cleanup has also included excavation of lagoons and stained soils. Excavated materials were disposed of in an off-site landfill. Roto-Finish backfilled excavated areas with clean material.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The groundwater is contaminated with volatile organic compounds, including trichloroethylene, vinyl chloride, 1,1-dichloroethene, and 1,1,1-trichloroethane.

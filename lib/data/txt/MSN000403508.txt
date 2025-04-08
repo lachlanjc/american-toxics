@@ -1,2 +1,66 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Mississippi Phosphates Corporation (MPC) manufactured Diammonium Phosphate (DAP) fertilizer at its Pascagoula facility from the late 1950’s thru December 2014 when it declared bankruptcy. All fertilizer production at the facility ceased in December of 2014. In general, the fertilizer production process involved reacting phosphate ore with sulfuric acid to produce phosphoric acid. Ammonia was then added to produce a granulated N-P-K fertilizer product. The first step in the process produced a waste known as gypsum that was slurried to the West and East Gypsum Stacks. The gypsum waste has residual acidity and contains high levels of nutrients (phosphorus/nitrogen). The West Gypsum Stack (WGS) was closed out by MPC in the mid-2000s and generates an estimated 20,000 gallons/day of water that must be treated. The East Gypsum Stack (EGS), which has not yet been completely closed out, contains about 15 million cubic yards (CYs) of material.
+
+Pursuant to a July 2015 bankruptcy settlement, two trusts were created: an Environmental Trust and a Liquidation Trust.
+
+The Liquidation Trust consists of the former 106-acre property where fertilizer production and operations were conducted. The Liquidation Trust includes the infrastructure (fertilizer production plants, commercial buildings, waterfront docks) and other valuable real estate. The purpose of the Liquidation Trust is to market and sell these assets of the former MPC facility.
+
+The Environmental Trust was created to manage the liabilities of the MPC facility. This included $12 Million in funding to manage the West Gypsum Stack/East Gypsum Stack, daily water treatment activities and site stability operations. The EGS contained > 750 Million Gallons (MGs) of water with acidic pH (≈2-3) and high levels of nutrients (phosphorus/nitrogen) that was contained in a series of ponds and ditches with very poor structural integrity. Because of the large footprint (350 acres) of acid generating material exposed in the EGS, one inch of rainfall produces about 9 MGs of impacted water that must be stored and subsequently treated before discharge to the bayou. An average of 2 million gallons per day (MGD) of water is treated via lime precipitation to prevent an uncontrolled release of untreated water to the adjacent Grand Bay Estuary Reserve on the east and Bayou Casotte on the west. Water treatment operations and facility maintenance costs are about $1 Million per month.
+
+In January 2017, the State of Mississippi added $500,000 from the State’s Pollution Emergency Fund to the Environmental Trust. These additional funds were exhausted, and the Environmental Trust became insolvent on February 10, 2017. The EPA Region 4 Superfund Division then assumed financial responsibility of daily water treatment activities and site stability operations. As of April 2020, the cost of water treatment and site maintenance are approaching $50 Million (not including the $12 Million Trust).
+
+In April 2018, the EPA Administrator signed an Action Memo that approved a 3 phase, $72 Million closure plan for the EGS that is designed to improve the quality and reduce the quantity of contact water and leachate that requires treatment.
+
+In September 2023, Seven Seas Terminals successfully closed on the 106-acre plant property and entered into an Administrative Settlement Agreement for Removal Action by a Bona Fide Prospective Purchaser with EPA and the Mississippi Department of Environmental Quality (MDEQ). The property will ultimately be redeveloped as a warehouse facility and a tank farm for storage of petroleum products.
+
+The MPC Site has been divided into four operable units (OUs): OU-1 encompasses soil contamination at the former 106-acre manufacturing plant area; OU-2 includes both the WGS and EGS; OU-3 involves long-term leachate collection/treatment from the WGS/EGS; and OU-4 will encompass site-wide groundwater, along with the adjacent Bayou Casotte and Grand Bay Estuary.
+
+### What Has Been Done to Clean Up the Site?
+
+**2014**  
+The MPC facility ceased operations in December 2014 under Chapter 11 bankruptcy protection, leaving more than 700 million gallons of acidic contaminated wastewater stored at the facility.
+
+**2017**  
+EPA assumed control and funding of wastewater treatment operations on February 11, 2017, after the MPC Environmental Trust became insolvent.
+
+Due to excessive rainfall totals during hurricane season, EPA discharged about 400 million gallons of partially treated wastewater during five emergency bypass events. Bypasses are intentional discharges of wastewater that are typically conducted because heavy rain is forecasted to exceed storage capacity of the on-site phosphogypsum stacks and waste water treatment system. Bypasses are closely monitored to prevent eutrophication and algal blooms which take oxygen from the water and can have impacts on fish and mollusks populations. No adverse impacts have been observed, and no further bypasses have been necessary.
+
+**January 2018**  
+EPA formally added the MPC Site to the Superfund National Priorities List and proposed a cleanup plan for portions of the MPC Site.
+
+**April 16, 2018**  
+EPA released an updated Administrator’s Emphasis List of Superfund sites targeted for immediate and intense attention. The Emphasis List is part of the Superfund Task Force recommendations. The MPC site was later removed from the Emphasis List because the various goals and objectives were being achieved.
+
+**April 18, 2018**  
+The EPA Administrator signed an Action Memorandum for $107.6 million to accelerate the cleanup of the former Mississippi Phosphates Corporation (MPC) Site in Pascagoula, Mississippi, including $71.6 million dollars for cleanup that will take place from 2018 through 2022, and $36 million dollars for ongoing wastewater treatment during the three-year cleanup period. EPA continues to treat 2-4 million gallons of contaminated water each day.
+
+**June 2018**  
+A Value Engineering (VE) study was conducted to compare traditional closure methods using liner and two feet of cover soil versus an innovative strategy that employs an engineered geosynthetic turf cover system. EPA selected geosynthetic turf in its final design because it is expected to save an estimated $6 million, including $4.6 million on construction costs and $1.4 million in operations and maintenance costs (since it does not need to be mowed, fertilized, etc.). An estimated 42,700 truck trips for hauling cover soil will be eliminated, thereby reducing the environmental carbon footprint of the closure work. The geosynthetic turf can be installed more quickly, resulting in fewer days of ongoing wastewater treatment at the site (which currently averages $50,000 per day, but will be reduced as each phase of stack closure is completed). Lastly, the turf cover system has proven to be more resilient to extreme weather conditions including drought cycles, UV degradation, heavy rains with concentrated flow, and hurricane force winds.
+
+**November 2018 - Present**
+
+East Gyspsum Stack (EGS) closure work started in November 2018, and thus far, there has been approximately $86.7 million in closure costs associated with the removal action. The EPA initiated closure of the EGS complex in November 2018 with the west slope of the EGS and was completed in April 2020. Closure of the south slope was initiated in November 2019, and work was completed by December 2020. Work on the north and east slope subgrade began in March 2021. The closure system began installation in May 2022, and finished installation by late February 2023. In March 2023, work transitioned to lining and installing leachate collection pipes in Pond 5. Installation of the leachate underdrain system and geomembrane installation was completed in August 2024. Work has now transitioned to closing out the water return ditch (WRD) which currently acts as an open leachate collection ditch. The WRD work is anticipated to be completed by the end of 2025.
+
+**September 2023**
+
+Seven Seas Terminals successfully closed on the 106-acre plant property on September 29, 2023 and entered into a Removal Action by a Bona Fide Prospective Purchaser with EPA and the Mississippi Department of Environmental Quality (MDEQ). Seven Seas began removal activities on February 14, 2024.
+
+### What Is the Current Site Status?
+
+**January 2025**  
+EPA continues to treat acidic wastewater at a rate of about two million gallons per day at a cost of about $800,000 million per month. The cost of water treatment and site stability operations are approaching $100 Million.
+
+Closure of the EGS started on the western slope in Fall 2018 and was completed in the winter of 2020.
+
+Closure of the southern slope started during the fall of 2019, and was completed by the end of 2020.
+
+Closure work on the northeast slope was completed in Summer 2024. Work on the water return ditch is anticipated to continue through 2025. To date, an estimated $87 Million has been expended on EGS closure activities.
+
+A Proposed Plan and Record of Decision for OU3 (leachate treatment) is expected to be completed in 2025. The proposed remedy will allow for continued leachate treatment in the form of a new water treatment plant at the base of the EGS.
+
+Seven Seas Terminals continues to perform removal actions (via Bona Fide Prospoective Purchaser Agreement) in the form of demolition, sampling, and capping of the property. The property will ultimately be redeveloped as a warehouse facility and a tank farm for storage of petroleum products.
+
+The Environmetnal Trust has been actively marketing the gypsum stacks property to buyers with an interest in purchasing the MPC EGS and/or WGS and redeveloping it for future use in accordance with state and federal environmental law. EPA Region 4, the U.S. Department of Justice, and the Mississippi Department of Environmental Quality have worked with multiple parties to help facilitate the sale and beneficial reuse of the property.
+
+EPA continues to develop a cleanup plan for other needed actions at the site.

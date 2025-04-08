@@ -1,0 +1,39 @@
+### Background
+
+The Cinnaminson Groundwater Contamination Superfund site is located in the Townships of Cinnaminson and Delran in Burlington County, New Jersey. The site covers approximately 400 acres and includes properties bounded by Union Landing Road, U.S. Route 130, River Road, and Taylors Lane as well as properties outside these boundaries where contaminants may have migrated or threaten to migrate. The site includes residential properties, light to heavy industrial properties and properties where landfill operations were historically conducted.
+
+Groundwater contamination was discovered by NJDEP through the review of groundwater monitoring data collected as part of the closure plan for the landfills in the early 1980s. Contaminants including vinyl chloride, 1, 2- dichloroethane, PCE, TCE, cis-1, 2-dichloroethene (cis-1, 2-DCE), benzene and arsenic were found in the groundwater, soil and soil vapor.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA is cleaning up the site in four phases or operable units (OU). The first phase (OU1) focuses on cleanup of the groundwater contamination from the landfill at the site and included the construction of a groundwater remediation system. The second phase (OU2) addressed the effectiveness of the landfill’s clay cap in reducing the generation of leachate, the contaminated liquid flowing from the site that contains many of the landfill's pollutants. The third phase (OU3) focuses on other industrial facilities located on the northwestern part of the site that contain soil and groundwater contamination and are the source of vapor intrusion in two nearby residential developments. A Remedial Investigation/Feasibility Study is being completed to assess the nature and extent of contamination associated with the industries that comprise this phase of work. The fourth phase (OU4) addresses contaminated groundwater that is not covered through implementation of the other three phases of work. EPA finalized the OU4 cleanup plan in a document called the Record of Decision in June 2021.
+
+### What Is the Current Site Status?
+
+The first phase focuses on cleanup of the groundwater contamination from the landfill at the site. A groundwater cleanup system operated from 2000 until 2013, at which time EPA approved a proposal for a temporary, two-year shut-down test of the groundwater remediation system to evaluate the need for its continued operation. The temporary shut-down test was completed in 2015 and EPA is currently evaluting the results of the shut-down test.
+
+The second phase addressed the effectiveness of the landfill’s clay cap that was constructed in reducing the generation of leachate, the contaminated liquid flowing from the site that contains many of the landfill's pollutants. An evaluation of the effectiveness of the clay cap was performed and documented in a Record of Decision (ROD) dated July 2014. The ROD concluded that previous response actions at the site, including installation of a clay cap have eliminated existing or potential risks to human health and the environment such that no action is necessary for this phase of work.
+
+The third phase of work focuses on other industrial facilities located on the northwestern part of the site. A Remedial Investigation/Feasibility Study (RI/FS) is being conducted by a private party with EPA oversight to assess soil and groundwater contamination. EPA is reviewing the results of the RI/FS. There is also a component to this phase of work that involves investigating and addressing vapor intrusion in two adjacent residential areas. EPA has conducted a Removal Action that included the installation of vapor mitigation systems in several homes as well as an on-going investigation to assess the nature and extent of vapor intrusion in these residential areas.
+
+A Record of Decision was signed for OU4 on June 30, 2021. The chosen remedial action is pumping and treating of contaminated groundwater, and either release of the treated water to the surface water or reinjection to groundwater.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Regarding the first phase of work related to groundwater remediation, a well restriction area/classification exception area (WRA/CEA) has been established.. For the second phase of work, a deed notice for the landfill was secured. The deed shall provide notice that any future disruption of the closed landfill shall require prior approval from the NJDEP in accordance with N.J.A.C. 7:26-2A.8(j)
+
+### Sampling and Monitoring
+
+A long-term monitoring program is ongoing at the landfills, OU1. This includes annual monitoring for contaminants of concern.
+
+### Emergency Response and Removal
+
+As part of the third phase of work, EPA performed a Removal Action that began in 2010 related to vapor intrusion issues in two residential areas adjacent to the industrial facilities. The Removal Action is on-going and comprised of investigation of residences for the presence of vapor intrusion and installation of vapor mitigation systems in several homes.
+
+### Enforcement Information
+
+For the first and second phases of work involving groundwater remediation and landfill capping, a private party (SC Holdings, a subsidiary of Waste Management, Inc.) is performing work pursuant to an Administrative Order issued by EPA. The third phase of work involving the industrial facilities is also being performed by a private party Messer LLC (previously Linde), under an Administrative Settlement Agreement and Order on Consent for Remedial Investigation/Feasibility Study and Removal Action issued by EPA.

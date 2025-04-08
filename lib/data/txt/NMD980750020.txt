@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 60-acre Lee Acres Landfill (USDOI) site is a closed landfill near Farmington, New Mexico. The Bureau of Land Management (BLM) manages the site, which consists of solid waste trenches and unlined waste lagoons. At least three of the lagoons may have received a mixture of liquid wastes, including produced waters from oil and gas fields, waste oil, spent acids, chlorinated organic solvents and septic tank wastes. Following construction of the site’s remedy, groundwater monitoring is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires the decreasing of manganese by natural attenuation. Manganese is the only chemical of concern that fails to comply with contaminant levels established by EPA.
+
+In May 1962, BLM leased 20 acres to San Juan County to operate a county landfill. The landfill consists of an undetermined number of solid waste trenches and unlined waste lagoons. At least three of the lagoons may have received a mixture of liquid wastes, including produced waters from oil and gas fields, waste oil, spent acids, chlorinated organic solvents and septic tank wastes, according to the New Mexico Environmental Improvement Division (NMEID). In 1985, NMEID detected chlorinated VOCs and benzene in a lagoon and in a residential well in the Lee Acres subdivision.
+
+During a heavy rainstorm in 1985, a dike of one of the lagoons broke. Wastes entered a nearby arroyo, posing a possible threat to the San Juan River. During the same period, releases of toxic vapors from the lagoons caused about 15 people, including on-site cleanup workers, to have trouble breathing, severe headaches, skin rashes or other symptoms. Also during that time, the Governor called in the National Guard to secure the site perimeter. BLM ordered the county to fence the landfill, and NMEID hired a contractor to treat the lagoon contents with ferric chloride to prevent further releases of vapors. San Juan County later filled in the four lagoons. BLM ordered the landfill closed and, when the county abandoned it, contracted for fencing.
+
+In May 1962, BLM leased 20 acres to San Juan County to operate a county landfill. The landfill consists of an undetermined number of solid waste trenches and unlined waste lagoons. At least three of the lagoons may have received a mixture of liquid wastes, including produced waters from oil and gas fields, waste oil, spent acids, chlorinated organic solvents and septic tank wastes, according to the New Mexico Environmental Improvement Division (NMEID). In 1985, NMEID detected chlorinated VOCs and benzene in a lagoon and in a residential well in the Lee Acres subdivision.
+
+During a heavy rainstorm in 1985, a dike of one of the lagoons broke. Wastes entered a nearby arroyo, posing a possible threat to the San Juan River. During the same period, releases of toxic vapors from the lagoons caused about 15 people, including on-site cleanup workers, to have trouble breathing, severe headaches, skin rashes or other symptoms. Also during that time, the Governor called in the National Guard to secure the site perimeter. BLM ordered the county to fence the landfill, and NMEID hired a contractor to treat the lagoon contents with ferric chloride to prevent further releases of vapors. San Juan County later filled in the four lagoons. BLM ordered the landfill closed and, when the county abandoned it, contracted for fencing.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included a cover over the existing landfill and groundwater monitoring. Construction of the landfill cover finished in 2005. BLM continues to monitor the site regularly.
+
+BLM conducted the fourth five-year review of the long-term remedy in 2024.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Additional information about land use restrictions can be found at http://environment.netronline.com/state/NM/county/san\_juan/ic/http://environment.netronline.com/state/NM/county/san\_juan/ic/

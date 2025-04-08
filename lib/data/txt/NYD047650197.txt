@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Stanton Cleaners Area Ground Water Contamination site (Site) is located in North Hempstead, New York. The quarter-acre area includes a former dry cleaning building and an adjacent one-story boiler/storage building. As a result of past disposal practices, tetrachloroethene (PCE), a volatile organic compound (VOC), migrated from the subsurface soils into the indoor air environments of nearby buildings and the groundwater, resulting in a significant threat to human health. Following immediate actions to protect human health and the environment, EPA put the Site’s long-term remedy in place. Groundwater treatment and monitoring are ongoing.
+
+The Site includes a one-story building in which a former dry-cleaning business operated and an adjacent one-story boiler/storage building. At the present time, the Site also includes a two-story operations building in which EPA houses its ongoing soil and groundwater treatment operations. Most of the Site is paved with asphalt except for a narrow strip at the rear f the property. As a result of past disposal practices, PCE migrated from subsurface soils into the indoor air environments of nearby buildings and into the groundwater beneath the Site.
+
+After immediate actions to protect human health and the environment, as well as Site investigations, EPA placed the Site on the Superfund program’s National Priorities List in May 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+**Immediate Actions**: In September 1998, under its removal authority, EPA installed a soil vapor interceptor system to mitigate impacts from PCE vapors to Plaza Tennis, an indoor tennis club. This tennis facility has since been demolished. Additionally, under its removal authority, EPA funded and installed An SVE system on the Site to remediate VOC-contaminated soils, thus reducing the indoor air concentrations in the adjacent affected buildings to safe levels. The VOC-contaminated vapors are being treated by a granular activated carbon (GAC) system.
+
+**Long-term Cleanup**: EPA selected a remedy in the Site’s March 1999 Record of Decision. It called for: 1) an upgrade of the existing groundwater air stripper; 2) construction of a groundwater extraction and treatment system; 3) continued operation of the SVE system; 4) indoor air monitoring of affected buildings next to the site; 5) long-term groundwater monitoring; and 6) groundwater use restrictions.
+
+The P&T system is currently operating and has treated over 200 million gallons of contaminated groundwater. The SVE system continues to operate, in conjunction with the P&T system. In December 2003, the construction of the Site’s remedy was completed. Operation, maintenance and monitoring activities are ongoing.
+
+The ROD also called for an investigation of other potential sources of groundwater contamination. Hence, in September 2003, EPA updated the remedy which indicated that no further federal response actions to address potential off-site sources of groundwater contamination were warranted. NYSDEC manages the response at these sites.
+
+EPA has conducted two five-year reviews at the Ssite. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by Site decision documents. The reviews concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The next five-year review will be conducted in 2019.
+
+### What Is the Current Site Status?
+
+The Site is being addressed in two stages: immediate actions and a long-term remedial phase focused on cleanup of contaminated soils, indoor air and groundwater.
+
+Cleanup activities have included treatment of VOC-contaminated soils through soil vapor extraction (SVE) and treatment, grounwater extraction and treatment (P&T), groundwater monitoring and groundwater use restrictions.
+
+The Site operations are ongoing and are managed by NYSDEC and its contractor, HDR. Presently, the NYSDEC is considering performing some operations optimization of the current SVE system in order to improve its efficiency.

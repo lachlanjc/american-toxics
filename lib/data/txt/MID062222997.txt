@@ -1,34 +1,38 @@
-BUTTERWORTH #2 LANDFILLGRAND RAPIDS, MI
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 120-acre Butterworth #2 Landfill site is located in Grand Rapids, Michigan. The City of Grand Rapids owned and operated the landfill as an open dump from 1950 to 1967. The site operated as a sanitary landfill from 1967 to 1973 when the state closed it due to improper operations. Waste disposal practices contaminated soil and groundwater. Following cleanup, operations and maintenance activities are ongoing.
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. The site’s long-term remedy consisted of an upgraded landfill cover, groundwater monitoring and capping requirements in the Radio Tower and Station Building areas. Construction of the remedy took place between 1999 and 2000. Groundwater monitoring will continue for at least 30 years. The remedy was constructed in two phases. The first phase included the following activities:
-Installation and development of monitoring wells
-Clearing of the Site
-Sampling of monitoring wells where groundwater meets surface water
-Site regrading; and
-Cap placement on the western side of the combined sewer overflow (CSO) ditch.
-The second phase included the following activities:
-Cap placement on the eastern side of the CSO ditch;
-Continued sampling of monitoring wells
-Placement of a compacted soil layer over the Radio Tower and Station Building area, immediately west of the CSO ditch
-Construction of Site access roads
-Installation of Site fencing; and
-Site seeding.
-The Site achieved construction completion status when EPA signed the Preliminary Closeout Report (PCOR) on September 27, 2000.
-What Is the Current Site Status?
-EPA previously approved an extension to an existing bike trail that utilizes the Site access roads for connection to the City bike trail network on the Site’s northwest and southeast sides. The construction of this trail extension was completed in December 2009 and this use is ongoing. As part of the trail approval, EPA requires that the City inspect the trail extension regularly to ensure that the constructed landfill cap is unimpacted. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires additional monitoring in the Grand River and compliance with effective institutional controls.
-The Fourth Five-Year Report (PDF) (23 pp, 1.1MB, About PDF) was released in September 2019. The next Five-Year Review will be conducted in 2024. You can read full reports in the Site Documents & Data section of this website.
+### What Has Been Done to Clean Up the Site?
 
-Emergency Response and Removal
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. The site’s long-term remedy consisted of an upgraded landfill cover, groundwater monitoring and capping requirements in the Radio Tower and Station Building areas. Construction of the remedy took place between 1999 and 2000. Groundwater monitoring will continue for at least 30 years.
+
+The remedy was constructed in two phases. The first phase included the following activities:
+
+- Installation and development of monitoring wells
+- Clearing of the Site
+- Sampling of monitoring wells where groundwater meets surface water
+- Site regrading; and
+- Cap placement on the western side of the combined sewer overflow (CSO) ditch.
+
+The second phase included the following activities:
+
+- Cap placement on the eastern side of the CSO ditch;
+- Continued sampling of monitoring wells
+- Placement of a compacted soil layer over the Radio Tower and Station Building area, immediately west of the CSO ditch
+- Construction of Site access roads
+- Installation of Site fencing; and
+- Site seeding.
+
+The Site achieved construction completion status when EPA signed the Preliminary Closeout Report (PCOR) on September 27, 2000.
+
+### What Is the Current Site Status?
+
+EPA previously approved an extension to an existing bike trail that utilizes the Site access roads for connection to the City bike trail network on the Site’s northwest and southeast sides. The construction of this trail extension was completed in December 2009 and this use is ongoing. As part of the trail approval, EPA requires that the City inspect the trail extension regularly to ensure that the constructed landfill cap is unimpacted.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires additional monitoring in the Grand River and compliance with effective institutional controls.
+
+The [Fourth Five-Year Report (PDF)](https://semspub.epa.gov/work/05/950943.pdf) (23 pp, 1.1MB, [About PDF](https://www.epa.gov/home/pdf-files) ) was released in September 2019. The next Five-Year Review will be conducted in 2024. You can read full reports in the [Site Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0502576) section of this website.
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1990 disposed of a drum and contaminated soil.

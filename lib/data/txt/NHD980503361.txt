@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Mottolo Pig Farm site is located in Raymond, New Hampshire. A pig farm operated on site from 1975 to 1979. During these 4 years over 1,600 drums and pails of wastes, including organic compounds such as toluene, xylene, and methyl ethyl ketone, were disposed of at the site into a quarter-acre fill area located on the property. Wastes from that area contaminated groundwater beneath the site and threatened nearby private wells. Following cleanup, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The cleanup plan selected by EPA in 1991 and later amended in 2010 addressed site risks through the following actions:
+
+- Installation of a groundwater interceptor trench upgradient of the former drum disposal area to lower the shallow water table and reduce groundwater flow into the area targeted for cleanup;
+- Installation of a soil vapor extraction system (VES) to remove VOCs from the contaminated soil in the former drum disposal area and an area identified as the southern boundary area;
+- natural attenuation and environmental monitoring of the groundwater;
+- implementation of institutional controls to ensure that no activities occurred at the Site or in close proximity to the Site which would either affect the implementation of the cleanup or cause exposures to contaminated groundwater until groundwater cleanup levels were attained; and
+- installation of a 2-mile water line extension that would serve as an alternative supply for those whose private wells found to be contaminated.
+
+### What Is the Current Site Status?
+
+EPA addressed the site in two stages: initial actions and a comprehensive sitewide cleanup. As part of the initial actions, EPA removed over 1,600 drums and pails from the site along with 160 tons of contaminated soil to prevent further contamination of the soil and groundwater. This initial action also included limiting site access, sampling and analyzing materials, and removing and disposing of materials.
+
+The site’s long-term remedy included installing a groundwater interceptor trench; sealing the ground surface in both the former drum disposal area and the southern boundary area with temporary caps, and installing and operating a vacuum extraction system to remove volatile organic compounds (VOCs) from the soils. Additional measures included installing a security fence to limit access to contaminated areas, continued monitoring of groundwater and surface water, and institutional controls, which would restrict the use of contaminated groundwater and prevent disturbance of cleanup activities. The interceptor trench and fence were installed in the fall of 1992. Construction of the vacuum extraction system finished in 1993. It operated until December 1996, when soil cleanup levels were attained. In 2001, all cleanup equipment was removed from the site. Monitored natural attenuation is the remedy for groundwater, and sources of contamination have been removed.
+
+EPA updated the site’s remedy in 2010 after monitoring found several private wells affected by site contamination. The updated remedy included the installation of a two-mile water line extension to provide public water for parties with contaminated private wells. Construction of this water line finished in August 2012. The New Hampshire Department of Environmental Services (NHDES) continues to perform groundwater sampling and analysis for both on-site monitoring wells and residential wells near the site. EPA and NHDES are working with the Town of Raymond to put in place the appropriate groundwater use restriction in the area.
+
+From 2022 - 2024, EPA and NHDES performed supplemental remedial investigation to investigate migration of PFAS at the site in order to assess potential off-site migration. The results of the investigation found that PFAS rapidly attenuated downgradient of the historic source area and remained within the bounds of the site. No residential groundwater wells were impacted nor determined to be at risk for future impacts and continue to meet both State and Federal drinking water quality guidelines.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict the use of the site. These ICs are required to help ensure the site is used appropriately and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment, and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101123&doc=Y&colid=31758&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits, and easements. ICs are normally used when waste is left on site and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure), and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this website, there may be other areas on the property that require restrictions on the use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems, and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of the document, above, and the EPA regional offices may also be contacted.

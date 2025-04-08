@@ -1,3 +1,21 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+Vancouver Water Station #1 (WS1) is located in Waterworks Park at East Reserve and Northeast Plain Boulevard, Vancouver, Washington. WS1 is one of several well fields owned and operated by the City of Vancouver. WS1 has 10 production wells, five air stripping towers and a holding reservoir used to provide storage capacity to accommodate daily changes in water demand. Water from WS1 is blended with water from other well fields to provide drinking water to approximately 230,000 people in the Vancouver area.
+
+During routine monitoring in 1988, the City of Vancouver discovered low levels of tetrachloroethylene (PCE) in the water at WS1 and immediately notified the Washington State Department of Health. PCE is a contaminant that may harm the nervous system, liver, kidneys, reproductive system and also may increase the risk of developing cancer. To protect public health, the frequency of monitoring for PCE and other organic compounds was increased and the pumping rates at the individual wells were managed. In 1992, EPA established a Maximum Contaminant Level (MCL), an enforceable drinking water standard, for PCE of 5 parts per billion.
+
+PCE concentrations recorded at WS1 wells increased significantly in 1991 and 1992. In response, the City of Vancouver installed five air stripping towers for use in treating the water prior to delivery to customers. Air stripping moves air through the water to cause evaporation and contaminant removal. However, elevated levels of PCE were still found in untreated groundwater. As a result, on May 31, 1994, EPA listed the Site on the National Priorities List (NPL).
+
+EPA issued a Record of Decision (or final cleanup plan) on September 11, 1998. EPA’s cleanup plan called for the City of Vancouver, in cooperation with the Washington State Department of Health, to continue operation of the air stripping treatment system to remove PCE from drinking water. Continual pumping at a rate consistent with customer demand was expected to eventually flush the PCE out of the groundwater. Monitoring for PCE in the groundwater and treated water was also required.
+
+Data shows that the air stripping treatments have effectively removed PCE from the City of Vancouver’s water supply. Furthermore, sampling data indicate PCE in untreated groundwater has been reduced below federal and state drinking water standards.
+
+On April 27, 2017 EPA signed a Final Close Out Report documenting that all Superfund actions at the Site had been completed and that the Site no longer poses unacceptable risks to human health or the environment. All drinking water provided through the public drinking water system must continue to comply with the Safe Drinking Water Act.
+
+On September 25, 2017, [EPA published a Notice of Intent to Delete the Vancouver Water Station #1 Superfund Site from the National Priorities List](https://www.regulations.gov/document?D=EPA_FRDOC_0001-21317) (NPL; list of Superfund Sites). The comment period was open through October 25, 2017. One non-Site related comment was received and EPA proceeded with the deletion.
+
+On February 6, 2018, [EPA deleted the Vancouver Water Station #1 Superfund Site in Vancouver, Washington from the National Priorities List](https://www.federalregister.gov/documents/2018/02/06/2018-02353/national-oil-and-hazardous-substances-pollution-contingency-plan-national-priorities-list-deletion). All Superfund actions at the Site have been completed and the Site no longer poses unacceptable risks to human health or the environment. For a brief overview of this deletion action, please read [Vancouver Water Station #1 and #4 Superfund Sites – Deleted from National Priorities List (PDF)](https://semspub.epa.gov/src/document/10/100083910) (2pp 630KB).
+
+### What Is the Current Site Status?
+
+[The Site has been deleted from the National Priorities List](https://www.federalregister.gov/documents/2018/02/06/2018-02353/national-oil-and-hazardous-substances-pollution-contingency-plan-national-priorities-list-deletion). All Superfund actions at the Site have been completed and the Site no longer poses unacceptable risks to human health or the environment. No further Five Year Reviews are required since no waste remains at the Site at levels that could prevent unlimited use and unrestricted exposure.

@@ -1,0 +1,45 @@
+### Background
+
+The Jones Industrial Services (JIS) Landfill site is located in South Brunswick Township, New Jersey. The 24-acre area includes a 7.8-acre landfill. From 1956 to 1980, about 50,000 cubic yards of waste were disposed of at the landfill annually. JIS placed a cap over the northern half of the landfill in 1983. The southern half of the landfill was capped in 1985. Groundwater on site is contaminated with metals, pesticides and volatile organic compounds (VOCs), which are potentially harmful contaminants some of which can easily evaporate into the air. Following immediate actions to protect human health and the environment, construction of the site’s long-term remedy was completed in 2009. Ongoing activities include long-term operation and maintenance of the site’s groundwater treatment system, monitored natural attenuation and implementation of institutional controls.
+
+The site property was originally a farm. In 1950, Grandview Construction Corporation bought the property and began soil excavation activities. Material excavated from the site was used as fill material for the New Jersey Turnpike. In 1955, Jones Road Material Company bought the property and began landfilling operations. The JIS Industrial Services Company (JISCO) still owns, and formerly operated, the JIS Landfill. A related company, the JIS Industrial Services Corporation (JIS Corp.), was involved in transporting and disposing wastes, including hazardous substances, at the JIS Landfill. From the 1960s through the early 1970s, the landfill accepted a variety of chemical, municipal and industrial wastes. Based on available evidence, the landfill accepted hazardous substances, including acetone, benzene, ethylene dichloride, toluene, xylene, trichloroethene and methylene chloride. All of these substances have been detected in the groundwater.
+
+In 1970, the New Jersey Department of Environmental Protection (NJDEP) approved the operation of the landfill to accept industrial, agricultural and institutional wastes, tree stumps, dead animals, junk automobiles, chemicals and waste oils. About 50,000 to 65,000 cubic yards of waste were accepted annually at the landfill.
+
+In July 1975, in response to complaints regarding drinking water contamination, EPA sampled the drinking water well of a residence next to the site. Analysis revealed high levels of VOCs. In addition, EPA sampled four on-site monitoring wells and four off-site potable wells. The additional sampling revealed VOC contamination in those wells. NJDEP concluded that the landfill was the source of the groundwater contamination affecting the wells – the landfill accepted industrial waste containing chemicals similar to the contaminants detected.
+
+In December 1975, NJDEP ordered JISCO and JIS Corp. to stop all landfilling operations at the site. In January 1976, NJDEP brought suit in the Superior Court of New Jersey, seeking the closure of the landfill. In August 1976, the court prohibited disposal of additional chemical or hazardous substances at the landfill, but allowed the landfill to accept other specified wastes. In 1980, EPA took another round of groundwater samples from the monitoring wells at the site and from nearby private wells. These samples continued to show significant groundwater contamination. From 1980 to 1985, JIS installed a solid waste cap over the landfill. NJDEP did not approve the closure of the landfill because the cap did not comply with closure requirements as specified in the order. In December 1985, the Appellate Division of the Superior Court of New Jersey issued an order for the landfill to close.
+
+Following further site investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+Immediate Actions: The New Jersey Department of Environmental Protection (NJDEP) took air, soil and groundwater samples in 1986 to determine the nature and extent of the contamination. EPA subsequently provided bottled water to the affected businesses and homes. EPA connected properties with contaminated wells to the public water system in 1992. In 2003, additional homes east of Manalapan Brook were connected to the public water system as a precautionary measure.
+
+  
+Long-term Cleanup: In 1995, investigations for the site’s long-term cleanup began. EPA decided on a remedy that included extraction and on-site treatment of contaminated groundwater, installation of a hazardous waste cap, and an alternative water supply for residents with contaminated drinking water wells. The new cap was installed in 2001. An additional groundwater investigation took place in 2005. EPA and NJDEP implemented an innovative biosparging approach, which consists of using oxygen or air with natural organisms to clean up contaminated groundwater.
+
+  
+The biosparging treatment system has been operating at the site since March 2005. It has significantly reduced the migration of VOCs in site groundwater. Monitored natural attenuation has been reducing contaminant concentrations further downgradient. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater.
+
+### What Is the Current Site Status?
+
+The site is being addressed in two stages: immediate actions and a long-term remedial phase focused on cleanup of the entire site.
+
+The landfill cap remedial action was constructed in 2001 and was certified as complete in January 2005. A groundwater biosparge treatment system has been operating at the ste since March 2005. The system has significantly reduced migration of volatile organic compounds in groundwater from the landfill site. Monitored Natural Attenuation has been reducing concentrations further downgradient.
+
+EPA documented the completion of the construction of the site’s remedy in September 2009. Remaining remedial activities include long-term operation and maintenance of the biosparging system, monitored natural attenuation, and implementation of institutional controls.
+
+The former JIS Landfill property has been redeveloped to include a 291,000 sqft commerical/industrial warehouse.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls for groundwater use, soil vapor intrusion, and restrictions on the use of the landfill property have been implemented, as described in the 1995 Record of Decision (ROD) and 2009 ROD Amendment, since wastes are currently left in place at levels not allowing for unlimited use and unrestricted exposure.
+
+An amended deed notice for the JIS Property was recorded with Middlesex County on March 16, 2017. In addition to the deed notice required by the 1995 ROD for the landfill portion of the JIS site, other required institutional controls include establishing a Classification Exception Area (CEA) and and associated Well Restriction Area (WRA) to regulate new potable well installations in the plume area until New Jersey Groundwater Quality Standards (NJGWQS) are reached for a Class II aquifer. The Potentially Responsible Parties (PRPs) have performed several well searches to ensure that no new wells have been installed in the area over the plume. The initial CEA and WRA was approved in May 2013. The CEA requires a biennial certification, and EPA anticipates that the areal extent of the CEA will decrease over time as the contaminant plume diminishes.
+
+In 2011, a Vapor Intrusion Sampling Plan was submitted to EPA and approved. The plan includes steps to take for investigating the potential for vapor intrusion. The plan stated that results from annual groundwater sampling will be compared to New Jersey Groundwater Screening Levels (NJGWSLs) and EPA standards. If any sampling result exceeds the screening level, then an assessment of the potential for vapor intrusion of any structure within 100 feet of the sampling location will be conducted. The results of that study will determine if any additional sampling and/or a mitigation system is required.

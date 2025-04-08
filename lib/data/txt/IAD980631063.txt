@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The LaBounty Site is located on the western edge of the Cedar River in Charles City, Iowa. The site includes approximately eight acres within or near the 100-year floodplain of the Cedar River.The site is bounded by the Cedar River to the east and south.A veterinary pharmaceuticals company, Salsbury Laboratories, Inc., disposed of over six million cubic feet of sludges on the site from 1953 to 1977, contaminating groundwater and surface water with volatile organic compounds (VOCs) and arsenic. Following cleanup, operation and maintenance activities and monitoring are ongoing. The EPA took the site off the Superfund program’s National Priorities List (NPL) in 1993.
+
+### What Has Been Done to Clean Up the Site?
+
+Salsbury Laboratories, Inc., installed a groundwater monitoring system in 1979 consisting of 24 groundwater monitoring wells, and in 1980 constructed a cover comprised of clay overlain by a gravel or soil/vegetation over the former waste disposal area. Capping of the former waste disposal area reduced the leaching of contaminants from wastes located above the water table. However, the cap was not effective in reducing the leaching from those wastes located below the water table. In 1983, the site was placed on the U.S. Environmental Protection Agency's NPL.
+
+The EPA and the Responsible Party, Salsbury Laboratories, Inc., entered into a Determination and Consent Order in 1985 to supplement the cap system previously installed over the former waste disposal area. Deliberations during the Consent Order process determined the appropriate remedy for the site.
+
+Between 1985 and 1986, under EPA oversight, the Responsible Party installed a subsurface groundwater diversion wall upgradient of the chemical fill. The purpose of the subsurface diversion wall was to reduce groundwater flow through the former waste disposal area by installing a groundwater diversion trench. The groundwater diversion trench would be allow the clean groundwater to flow around the former waste disposal area, instead of through it, and into the Cedar River.
+
+Construction of the remedy was completed in June 1986. The LaBounty Site was removed from the NPL in 1993.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and Responsible Party actions. The Responsible Party continues to sample groundwater monitoring wells onsite and to sample surface water upstream and downstream of the site in the Cedar River.
+
+The EPA has conducted six Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent Five-Year Review completed in May 2020 concluded that the remedy is protective of human health and the environment.
+
+The next Five-Year Review will be completed by May 2025, five years after the signature of the last Five-Year Review report.
+
+In 2022, the Responsible Party requested the permanent decommissioning of the LaBounty Tile Drain System. The LBTD was part of the remedy put in place at the site under the Determination and Consent Order from 1985. The LBTD was intended to reduce groundwater through the former waste dispoal area at the site. The Responsible Party conducted a pilot study in 2021, involving a temporary shutdown of the LBTD, to evaluate the impact the system has on reducing arsenic loading to the Cedar River. Increased surface water sampling and monitoring well gauging efforts during the temporary shutdown demonstrated the LBTD system had limited control (approximately 2-3%) over contaminant loading to the Cedar River. The sampling results were used to determine that the arsenic loading to the Cedar River is not leading to exceedances of the Iowa Water Quality Standard for surface water (based on consumption of fish). The EPA, however, requested additional pore water sampling (where groundwater interacts with the Cedar River) in 2022 to support modeling and surface water flow conclusions made by the PRP. Pore water sampling results show arsenic loading into the Cedar River that are above chronic and acute standards for some aquatic life (macroinvertebrates).In 2023, the EPA requested the Responsible Party conduct additional surface water sampling (increased locations and frequency) and submit an updated targeted risk assessment (with human and ecological components).
+
+In 2023, the Responsible Party conducted the additional surface water sampling of the Cedar River. It was determined that the measured surface water concentrations of arsenic at the site are protective of human health. This determination considered fish consumption and incidental ingestion of, and dermal contact with, surface water. In August 2023, the Responsible Party conducted benthic macroinvertebrate sampling in the Cedar River adjacent to the site to assess the condition of the benthic community. The benthic community present in the Cedar River in areas adjacent to the site was compared to the benthic communities in downstream and upstream reference reaches. Taking into account the differences in in-stream habitat, it was determined that benthic communities were consistent and therfore that there wasn't an excess ecological risk to the benthic community. These results were reported in a targeted risk assessment in early 2024.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A Restrictive Covenant was placed on the property and filed with the Floyd County Recorder in 1980. The RC was renewed in 1982. Covenant restrictions include:
+
+1\. No activity shall be conducted on said premises which is determined to be detrimental to the environment by any interested governmental agency;
+
+2\. There shall be no excavation, building construction or storage of gravel, dirt or like materials on said premises, unless approved in writing by all interested governmental agencies, including but not limited to the EPA, the Iowa Department of Environmental Quality and Iowa Natural Resources Council;
+
+3\. These covenants are to run perpetually with the land and shall be binding on all parties and all persons claiming under them;
+
+4\. Any owner or party in interest may bring enforcement action pursuant to these covenants to include holders of easements upon the above-described property.
+
+5\. These covenants are a renewal of the Restrictive Covenants previously recorded in the Office of the Floyd County Recorder in Book 22 Miscellaneous Records, Pages 436-7 (October 21, 1980), and are being re-executed and re-recorded for the purpose of correcting certain incomplete descriptions contained in original covenants and for the purpose of including Gary Duane LaBounty as an owner of a portion of the above-described property. In all other respects, the covenants as originally recorded are considered in effect from the time of their recording.
+
+### Sampling and Monitoring
+
+The Responsible Party continues to sample groundwater monitoring wells onsite. The Responsible Party also continues to sample surface water in the Cedar River adjacent to the site, as well as upstream and downstream of the site.

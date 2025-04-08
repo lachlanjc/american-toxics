@@ -1,2 +1,72 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Intersil/Siemens Superfund Site includes the following three areas: 1) the former Intersil facility, located at 10900 North Tantau Avenue, Cupertino; 2) the former Siemens facility, located at 10950 North Tantau Avenue, Cupertino; and 3) the Off-Site Study Area, located north of and hydraulically downgradient from the two former facilities in Sunnyvale. Investigations conducted in the 1980s as part of the California Regional Water Quality Control Board's (Regional Board’s) underground storage tank (UST) leak detection program found volatile organic compounds (VOCs) in soil on- and off-site. The primary contaminant of concern at the site is the VOC, trichloroethene (TCE).  
+  
+• Former Intersil Facility - Intersil, Inc. operated at the property from 1968 to 1988 and initiated investigations in 1983. The potential sources of contamination were removed between 1986 and 1988, including waste neutralization systems, a waste solvent tank, and an above-ground chemical and hazardous waste storage area.  
+  
+• Former Siemens Facility - Litronix and its successor, Siemens Microelectronics, Inc., operated at the property from 1970 to the mid-1990s. Until 1982, liquid wastes were stored in five USTs that were removed in 1982. From 1982 until cessation of operations, liquid wastes previously stored in USTs were temporarily placed in the hazardous materials storage area for off-site disposal or recycling. Investigations began in 1982 after the discovery of contaminants during the removal of the USTs.  
+  
+Drinking water for Sunnyvale and Cupertino is not affected by this contamination. Calabazas Creek, an intermittent stream, is located approximately 1,500 feet east of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Investigation and Cleanup Activities
+
+Entire Site: In 1986, the State of California, San Francisco Bay Regional Water Quality Control Board (Regional Board) issued waste discharge requirements under the California Water Code that required Intersil, Inc. and Siemens Components to determine the extent of contamination in groundwater and soil. In 1989, the Regional Board issued site cleanup requirements and approved the work plan and schedule for on- and off-site investigative activities. In 1990, EPA selected a remedy to address soil and groundwater contamination at the site. In 1990, the Regional Board issued Site Cleanup Requirements Order No. 90-119, which requires operation of ongoing remediation systems and groundwater monitoring.
+
+Initial Actions
+
+Initial actions included the removal of underground waste handling and solvent storage systems and surrounding soil, installation and operation of groundwater extraction systems, and installation and operation of soil vapor extraction systems.
+
+Cleanup Ongoing
+
+Ongoing cleanup activities include operation of groundwater extraction systems. Additionally, soil vapor extraction systems were previously operated, as discussed below.
+
+  
+Former Intersil Facility  
+A soil vapor extraction system operated from May 1988 to August 1993. Following the review of soil data collected to confirm that the system had achieved remedial objectives, the Regional Board approved shutdown. The system consisted of seven vapor extraction wells and eight vent wells.  
+  
+A groundwater extraction system has been operating at the former Intersil facility since 1987. The original system consisted of six A4 depth interval extraction wells and one B-zone extraction well. With Regional Board approval, groundwater extraction from three A4 depth interval wells was curtailed in 2002 and 2003 and extraction from the B-zone well was curtailed in 2006 because of very low TCE concentrations. A new shallower extraction well was added in 2010. The current system consists of three wells screened in the A4 depth interval and one well in the A3 depth interval. Groundwater is being treated using granular activated carbon, and the treated groundwater is discharged to Calabazas Creek under a National Pollution Discharge Elimination System (NPDES) permit from the Regional Board.  
+  
+In June 2009, the vapor intrusion pathway was evaluated at the building which was the former Intersil facility. Vapor intrusion refers to a process where vapors from groundwater contamination may rise and accumulate in the indoor air of nearby buildings. Site contaminants were not detected in indoor air samples, showing no evidence of unacceptable vapor intrusion.  
+  
+Former Siemens Facility  
+Soil excavation in 1991 removed approximately 182 cubic yards of soil containing volatile organic compounds (VOCs) and semi-volatile organic compounds. A soil vapor extraction system operated at the former Siemens facility from 1983 to 2005. The system was shut down on December 16, 2005. A VOC rebound study conducted in 2006 showed no significant rebound in the VOC concentrations compared to the baseline samples. With Regional Board approval, the system was permanently shut off in August 2006 following the sampling for the rebound study.  
+  
+Interim remedial actions for groundwater remediation began in 1986 with start-up of a groundwater extraction system, which extracted on-site groundwater from two A-zone extraction wells. The system was expanded in 1988 to include a total of five A-zone wells and three B-zone wells. As part of the final remedy, the system was expanded in 1991 to include ten A-zone extraction wells and three B-zone wells. Based on mass removal rates, the Regional Board has approved modifications to the extraction well network. Currently, the groundwater extraction system at the former Siemens facility includes seven A-zone and one B-zone wells. Groundwater is being treated using granular activated carbon and the treated groundwater is discharged to Calabazas Creek under an NPDES permit from the Regional Board.  
+  
+Bench and pilot studies conducted in 2006 and 2007 evaluated the feasibility and effectiveness of bioremediation (using microbes to clean up contaminants) to clean up shallow groundwater at the former Siemens facility. The studies showed that the bioremediation can effectively reduce TCE concentrations in groundwater, but additional testing is needed to verify complete breakdown of TCE.  
+  
+Vapor intrusion evaluations were completed at the former Siemens facility in August 2000, August 2002, November 2002, March 2007, and February 2014. The sampling results showed no evidence of unacceptable vapor intrusion.  
+  
+Off-Site Study Area  
+Remedial investigations conducted during the 1980s showed impact to the B zone, but no significant impact to the shallow A zone aquifer. Groundwater extraction from two B-zone wells began in 1990. This system was later expanded to include an additional B-zone extraction well. One extraction well was then curtailed in 2004 with Regional Board approval. Extracted groundwater is pumped to the former Siemens facility for treatment. Investigation conducted since the water level rise in the 1990s indicated elevated concentrations of VOCs in the A zone. Additional investigation is ongoing in shallow groundwater.  
+  
+An indoor vapor intrusion evaluation was initiated in 2011 in residences and one commercial building in the Off-Site Study Area. Indoor air samples were collected in 2012, 2013, and 2014 and showed no evidence of unacceptable vapor intrusion.
+
+### What Is the Current Site Status?
+
+Construction of cleanup remedies has been completed and groundwater cleanup continues.
+
+Former Intersil Facility  
+A soil vapor extraction system operated from May 1988 to August 1993. Following the review of soil data collected to confirm that the system had achieved remedial objectives, the Regional Board approved shutdown. Approximately 3,000 pounds of VOCs were removed by the system.  
+  
+Groundwater extraction at the former Intersil facility has resulted in reduction of VOC concentrations in groundwater by over 99% in the A and B zones. As such, VOC influent concentrations to the extraction system have reached asymptotic conditions and the amount of VOCs removed has decreased significantly. Since groundwater extraction began in 1987 through 2013, over 480 million gallons of groundwater have been extracted and over 550 pounds of VOCs have been removed from the groundwater. Approximately 20 million gallons are being pumped per year.  
+  
+Former Siemens Facility  
+Approximately 182 cubic yards of soil were excavated in 1991, removing approximately 1,500 pounds of VOCs and semivolatile organic compounds. A soil vapor extraction system operated at the former Siemens facility from 1983 to 2005; the system removed approximately 17,310 pounds of VOCs from the vadose zone.  
+  
+Groundwater extraction at the former Siemens facility has resulted in reduction of VOC concentrations in groundwater by over 90% in the A zone B zones. Between 1986 and December 2013, the groundwater extraction system removed over 2,600 pounds of VOCs from the groundwater. Approximately 54 million gallons are currently being extracted per year.  
+  
+Off-Site Study Area  
+Groundwater extraction within the Off-Site Study Area has resulted in reduction of VOC concentrations in groundwater by over 87% in the B zone. Since pumping began through 2013, approximately 905 pounds of VOCs have been removed. The system pumps approximately 30 million gallons per year.
+
+### Emergency Response and Removal
+
+Immediate actions included the removal of an underground waste handling and solvent storage system and surrounding soil, installation and operation of groundwater extraction and treatment systems, and installation and operation of soil vapor extraction and treatment systems.  
+
+### Enforcement Information
+
+Potentially responsible parties (PRPs) refers to companies that are potentially responsible for generating, transporting, or disposing of the hazardous waste found at the site.
+
+General Electric Company is the responsible party for the former Intersil facility, SMI Holding LLC is the responsible party for the former Siemens facility, and both companies share responsibility for the Off-Site Study Area. Regional Board Order No. R2-2013-002 (amendment to Order No. 90-119) also named Alecta Real Estate USA, LLC and MOF II Tantau Holdings, Inc as secondarily responsible parties for former Intersil facility and former Siemens facility, respectively, based on their current status as property owners.

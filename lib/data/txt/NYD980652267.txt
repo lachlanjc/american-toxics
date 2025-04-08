@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Vestal Water Supply Well 4-2 site is located in Vestal, New York. The site is a municipal well contaminated by a bulk chemical handling facility. After contamination was discovered in 1980, the well was taken out of service. The well was returned to service in 1988. The well had been contaminated with volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that can easily evaporate into the air. Similar contaminants were detected in Well 1-1, which is located in Water District 1. The two were originally listed as one Superfund site and were later separated into two Superfund sites: Vestal Water Supply Well 1-1 and Vestal Water Supply Well 4-2. After immediate actions to protect public health and the environment, the site’s long-term remedy was put in place. Following the completed construction of the site’s remedy, EPA took the site off the Superfund program’s National Priorities List in September 1999.
+
+The Vestal Water Supply Well 4-2 site is a municipal well contaminated by a bulk chemical handling facility in Vestal, New York. After contamination was discovered in 1980, the well was taken out of service. The well was returned to service in 1988.
+
+After immediate actions to protect human health and the environment, and site investigations, EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+Initial Action: Discovery of contamination in Well 4-2 in 1980 led to its removal from service. In 1988, the Town of Vestal constructed an air stripping system with carbon filtration for backup.
+
+Long-term Cleanup: The State signed a settlement agreement with three potentially responsible parties (PRPs) in 1985 that outlined cleanup actions and groundwater standards that must be achieved. The agreement also required the PRPs to pay the Town of Vestal $633,000 for cleanup at the site. In addition to the installation of the carbon unit and air stripper at Well 4-2, the town removed contaminated soils from the source area. Contaminated soils were in and around a leach pit at Monarch Chemical Corporation, which is about 200 feet south and upgradient of the Well 4-2. About 26 cubic yards were removed.
+
+Levels of contaminants in the influent (untreated groundwater) to Well 4-2 have declined to levels below drinking water standards. Treatment of the water prior to distribution ensures that residents receive a safe supply of drinking water.
+
+### What Is the Current Site Status?
+
+The site has been addressed in two stages: an initial action and a long-term remedial phase focused on cleanup of the entire site.  
+
+The Town has installed a carbon unit and air stripper at the Vestal 4-2 water supply well. The installation of a groundwater treatment system at the wellhead, removal of contaminated soils from the source area (42 tons) and natural attenuation processes have reduced concentrations of contaminants entering Well 4-2.
+
+Following the completed construction of the site’s remedy, EPA took the site off the Superfund program’s National Priorities List in September 1999.

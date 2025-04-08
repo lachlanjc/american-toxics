@@ -1,33 +1,53 @@
-POTTER'S SEPTIC TANK SERVICE PITSMACO, NC
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Potter's Septic Tank Service Pits Superfund site is located in Sandy Creek, North Carolina. It includes an area where a sludge hauling and oil spill cleanup company operated from 1969 to 1976. Between 1980 and 1983, the site and surrounding properties changed ownership and the new owner developed the area into a residential neighborhood. EPA placed the site on the National Priorities List (NPL) in 1989 because of contaminated groundwater and soil resulting from the operations and waste handling practices. EPA and the North Carolina Department of Environment and Natural Resources (NCDENR)Exithave investigated site conditions. By monitoring groundwater contamination, working to place institutional controls on the site property and undertaking Five-Year Reviews, EPA and NCDENR continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site. A water line connects residences to the public water supply.
-What Has Been Done to Clean Up the Site?
-EPA leads site investigation and cleanup activities in cooperation with NCDENR. 1992
+### Background
+
+The Potter's Septic Tank Service Pits [Superfund](http://www.epa.gov/superfund) site is located in Sandy Creek, North Carolina.
+
+It includes an area where a sludge hauling and oil spill cleanup company operated from 1969 to 1976. Between 1980 and 1983, the site and surrounding properties changed ownership and the new owner developed the area into a residential neighborhood.
+
+EPA placed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund-superfund-glossary#n) in 1989 because of contaminated groundwater and soil resulting from the operations and waste handling practices.
+
+EPA and the [North Carolina Department of Environment and Natural Resources (NCDENR)](https://deq.nc.gov/) have investigated site conditions. By monitoring groundwater contamination, working to place institutional controls on the site property and undertaking Five-Year Reviews, EPA and NCDENR continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects residences to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with NCDENR.
+
+**1992**  
 EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included groundwater extraction and treatment using air stripping and chemical treatment
-excavation and treatment of contaminated soil
-treating off-gases created by soil treating activities
-backfilling dug-up areas with clean soil
-stabilizing remaining contaminated soil and disposing of it at an off-site facility.
-1994
-EPA conducted soil cleanup activities in 1994. EPA cleaned up 32,000 cubic yards of contaminated soil. 2000
+
+- excavation and treatment of contaminated soil
+- treating off-gases created by soil treating activities
+- backfilling dug-up areas with clean soil
+- stabilizing remaining contaminated soil and disposing of it at an off-site facility.
+
+**1994**  
+EPA conducted soil cleanup activities in 1994. EPA cleaned up 32,000 cubic yards of contaminated soil.
+
+**2000**  
 EPA updated the remedy for the site. The amended plan included
-using monitored natural attenuation to address groundwater contamination
-sampling and analyzing groundwater; installing additional monitoring wells
-placing institutional controls on the site property to restrict use of groundwater and soil.
-2001
-n 2001, EPA began monitored natural attenuation at the site.  2010
+
+- using monitored natural attenuation to address groundwater contamination
+- sampling and analyzing groundwater; installing additional monitoring wells
+- placing institutional controls on the site property to restrict use of groundwater and soil.
+
+**2001**  
+n 2001, EPA began monitored natural attenuation at the site.
+
+**2010**  
 Brunswick County installed a water and sewer line to connect residences to the public water supply.
-What Is the Current Site Status?
-The most recent Five Year Review was published by EPA HQs in 2022. The remedy at the site currently protects human health and the environment in the short term because most ofthe soil contamination was remediated through source removal ofthe contaminated soils. EPA monitored ground water semi-annually and prepared an amendment to the Record of Decision to place institutional controls on the site property to restrict use of ground water and soil. EPA anticipates that the site will support residential uses. It appears that natural attenuation of groundwater is performing as anticipated and that clean-up levels will eventually be attained. The remedy at the Site currently protects human health and the environment because the main source of contamination was remediated through source removal and no human or ecological exposure pathways exist to contaminated groundwater or soil in the short term. However, in order for the remedy to be protective in the long-term and for the completion of the requirements necessary to close out the remedy, the following action needs to be taken: Implement restrictive covenants or other appropriate institutional controls at the Site.
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11068576.pdf) was published by EPA HQs in 2022. The remedy at the site currently protects human health and the environment in the short term because most ofthe soil contamination was remediated through source removal ofthe contaminated soils.
+
+EPA monitored ground water semi-annually and prepared an amendment to the Record of Decision to place institutional controls on the site property to restrict use of ground water and soil. EPA anticipates that the site will support residential uses.
+
+It appears that natural attenuation of groundwater is performing as anticipated and that clean-up levels will eventually be attained. The remedy at the Site currently protects human health and the environment because the main source of contamination was remediated through source removal and no human or ecological exposure pathways exist to contaminated groundwater or soil in the short term. However, in order for the remedy to be protective in the long-term and for the completion of the requirements necessary to close out the remedy, the following action needs to be taken: Implement restrictive covenants or other appropriate institutional controls at the Site.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA initially used federal funds for site cleanup activities. In 2002, under a legal agreement with the EPA, site potentially responsible parties agreed to pay $5.7 million for past and future cleanup costs, plus an additional amount for interest.

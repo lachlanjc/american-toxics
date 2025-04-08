@@ -1,2 +1,58 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 41-acre Beede Waste Oil site is located in Plaistow, New Hampshire and operated as a diesel fuel and waste oil storage and recycling facility from the 1920s to 1994. Kelley Brook, a tributary of the Little River, flows along the north and northeast edges of the site. Groundwater and soils at the Site are primarily contaminated with petroleum products and waste oil. Lead from leaded gasoline and PCBs from the waste oils are the primary contaminants in Site soils while VOCs are the primary contaminant in groundwater.
+
+The site was the location of several oil-related operations, including waste oil processing and resale, fuel oil sale, contaminated soil processing into cold-mix asphalt, anti-freeze recycling, and other related industries. These activities reportedly took place from the 1920s until August 1994.
+
+Materials which were abandoned when operations at the site ceased in 1994 included: about 100 large aboveground storage tanks containing hazardous and non-hazardous oil products, several large piles of soil containing varying levels of contamination, and about 800 drums of oil product, some containing hazardous materials, which were stored in an open, roofed area. PCBs were found in the oil product of many tanks and drums, at concentrations generally less than 50 parts per million (ppm) but as high as 1,800 ppm.
+
+The oil seeped into the ground from a variety of sources including a one-acre former unlined lagoon, underground storage tanks, and aboveground storage tanks across the site property. Following the cleanup of the residual waste oils and contaminated soils at the Site, groundwater treatment and operation and maintenance activities will continue.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state, federal and PRP actions. The Beede Site Group was formed to represent the potentially responsible parties and manages the remedial action at the Site. Groundwater is being extracted, treated and discharged back into the water table on the site.
+
+Some of the treated groundwater that used to supply steam to address the cleanup of the deeper contaminated soil was treated through steam enhanced extraction and thermal oxidation. This technology was operated over the nearly four acres of significant residual wastes oils at the Site and completed in two phases – phase 1 at the former lagoon and phase 2 at the former landfill and storage area. Both phases were considered successful at removing significant quantities of waste oil from the water table which could act as a continuing source of contamination to the groundwater. This waste oil was shipped off-site for incineration.
+
+Because the thermal operations could not be conducted in close proximity to Kelley Brook, the PRPs completed the excavation of remaining residual waste oils and deeper contaminated soils from the lower landfill as well as sediments from Kelley Brook, where oily discharges had been noted. These soils and sediments were excavated and sent off site to appropriate landfills depending on the concentration of polychlorinated biphenyls (PCBs).
+
+A total of 5,234.09 tons of < 50 ppm PCB Remediation Waste and a total 4,229.45 tons of ≥ 50 ppm PCB Remediation Waste were excavated from the LLF area and removed for offsite disposal, while a total of 3,503,567 gallons of groundwater from the excavation were treated by the pre-treatment system and ultimately recharged back to the subsurface following final treatment from the management of mirgration (MOM) system.
+
+There will also be long-term monitoring of groundwater, surface water, and sediment to determine if cleanup standards have been met. Land use restrictions will be established to ensure future uses will not disturb any of the contaminants in the soil below 10 feet and to prohibit the use of the Site’s groundwater as a drinking water source until cleanup standards have been achieved.
+
+### What Is the Current Site Status?
+
+The Performing Settling Defendants have been conducting pre-design and design activities since they entered into a Consent Decree in 2008. A 30% Remedial Design Report for the entire remedy was submitted to the EPA in December 2010. A 100% Remedial Design Report for the MOM component (groundwater pump and treat) of the remedy was approved in September 2012. Off-site trucking of about 565 truck loads of contaminated soil started in late February 2013 to allow for the construction of the MOM system with the new access road. Construction of the MOM component of the remedy started in December 2012 and operation of the system started in November 2013. In 2018, PFAS was detected in Site groundwater and the MOM operations were modified to begin use of activated carbon to reduce PFAS in the extracted groundwater to acceptable discharge criteria.  
+
+Also in 2013, a waterline was constructed for the affected residential properties near the site in accordance with the [2012 Explanation of Significant Differences](https://semspub.epa.gov/src/document/01/521770) (ESD). While the initial waterline provided connections to 12 residential properties, the PRPs have offered connections to 22 households as a result of the lowering of the NH AGQS for 1,4-dioxane from 3 nanongrams per liter (ug/l) to 0.32 ug/l in 2018. The PRPs have offered waterline connections to residents whose drinking water has exceeded State and/or Federal drinking water standards related to PFAS since 2018..
+
+  
+The MOM system, which currently captures and treats shallow and intermediate overburden groundwater, is expected to continue to operate for many years to reduce groundwater on-site to drinking water standards. It is also expected to be reviewed and optimized in the future to capture and extract all groundwater that may be migrating beyond the former Site properties within the deeper overburden and bedrock. Additional investigations to assess groundwater migration are on-going.
+
+Previously the Phase 1 and Phase 2 thermal operations, completed in 2016 and 2020 respectively, removed over 500,000 pounds of residual waste oils and other contaminants from within the smear zone (area above and below the water table), former lagoon area (Phase 1), and former underground and above ground storage tank and upper landfill area (Phase 2). In 2021, EPA approved a cleanup plan to remove the remaining smear zone impacted soils within the lower landfill and Kelly Brook wetland area. This area could not be treated via thermal (steam injection) remediation due to the proximity to Kelly Brook and excavation and disposal of contaminated soils and sediments. This area was initiated in July 2022 to attain soil cleanup levels established in the [2004 Record of Decision](https://semspub.epa.gov/src/document/01/200643). This action was completed in 2023.
+
+The cleanup of the lower landfill debris, soils and smear zone required the installation of a sheet pile wall, before the excavation and off-site disposal of the contaminated materials. Groundwater was extracted from the excavation and pre-treated before final treatment within the on-site treatment plant and discharged back on-site as part of the on-going management of migration groundwater treatment operations. Temporary backfilling and stabilization and revegetation followed the cleanup.
+
+The PRPs are currently performing pre-design investigations to assess the extent of the excavation of soils required by the remedy. Changes to EPA’s cleanup levels for lead require that the cleanup meet a lower cleanup target of 200 ppm lead rather than the ROD target of 400 ppm. In addition, PFAS, which was noted in groundwater at the site, are also found in soils and consideration for cleanup is on-going.
+
+ollowing a final design for excavation of the surface soils, the PRPs will perform the excavation, site wide grading, and restoration. Currently redevelopment options of the property are in consideration.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict the use of the site. These ICs are required to help ensure the site is used appropriately and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The matrix below is a general summary of the restrictions at this site at the date of this report. The information in this matrix is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment, and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.
+
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0102723&doc=Y&colid=33915).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits, and easements. ICs are normally used when waste is left on site and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this website, there may be other areas on the property that require restrictions on the use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems, and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of documents, above, and the EPA regional offices may also be contacted.

@@ -1,2 +1,13 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Old Hwy 275 and N. 288th Street Superfund site is in Valley, Nebraska. The site is an approximately 3-mile long trichloroethene (TCE) groundwater plume. State and agency actions to investigate contamination and mitigate exposures occurred starting in 2002. The site was listed on the National Priorities List in 2017. A Remedial Investigation is ongoing at this site. The RI serves as the mechanism for collecting data to characterize site conditions, determine the nature of the waste and assess risk to human health and the environment. Extensive groundwater, sediment, surface water and indoor air sampling have been performed at the site. There are no known exposures related to this site at this time.
+
+### What Has Been Done to Clean Up the Site?
+
+The Remedial Investigation for the site began in 2017. Fieldwork occurred between 2019 and 2023 and included sampling of indoor air, private wells, ponds, utility lines and monitoring wells. Fieldwork included several iterative rounds of characterization, which were needed to ensure full lateral and vertical characterization of the plume, and in attempts to locate the source of contamination. Enforcement efforts have occurred in parallel to identify a liable Potentially Responsible Party. The source has not been identified at this time, but progress toward a remedy decision is continuing.
+
+Extensive groundwater, indoor air, sediment, surface water and sewer gas sampling have been performed at the site. Homes with private wells where contaminants were detected above acceptable levels were either placed on the city of Valley public water supply or whole house filtration systems were installed. Sampling of indoor air at properties overlying the plume has been conducted. No vapor intrusion issues have been identified. There are no known exposures related to this site at this time.
+
+### What Is the Current Site Status?
+
+All planned Remedial Investigation fieldwork to characterize the site has been completed, and the RI report is underway. Once the RI is complete, the next step is to complete the feasibility study. The FS is the mechanism for the development, screening and detailed evaluation of alternative remedial actions. A remedy will then be selected and memorialized in the Proposed Plan (planned for 2026) and Record of Decision.

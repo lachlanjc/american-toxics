@@ -1,2 +1,71 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Parris Island Marine Corps Recruit Depot (Depot) is located in Port Royal, South Carolina. It is a United States (U.S.) Marine Corps recruit training facility. The U.S. Navy, U.S. Marine Corps, U.S. EPA and the South Carolina Department of Health and Environmental Control (SCDHEC) have investigated site conditions.
+
+The levels of contamination do not currently threaten people living and working on or near the Depot. By cleaning up and monitoring soils, sediments, and groundwater, enforcing land use controls, and undertaking Five-Year Reviews, the U.S. Navy, U.S. Marine Corps, U.S. EPA and SCDHEC continue to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The U.S. Navy leads the investigation and cleanup of the Depot in consultation with the U.S. Marine Corps. The U.S. EPA and SCDHEC provide oversight. The cleanup and environmental restoration activities are taking place under both the federal Superfund law and the Resource Conservation and Recovery Act. The Navy and Marine Corps are also addressing some areas under the Military Munitions Response Program, with oversight as well.
+
+Since the 1990s, cleanup actions have been completed at several OUs. Additional investigations are ongoing and more cleanup actions will be taken if needed.
+
+**OU-1** (Site 1, 41)
+
+OU-1 is a landfill bordered by salt marshes and tidal creeks. Cleanup actions for OU-1 have been taken. These included consolidating and capping waste materials and use of institutional controls. Monitoring of groundwater leachate and vegetation is ongoing.
+
+**OU-2** (Site 2, 15)
+
+OU-2 is a 10-acre landfill surrounded by salt marshes and tidal creeks. The baseline risk assessment determined that site contamination did not threaten people or the environment and that no further cleanup action was required.
+
+**OU-3** (Site 3)
+
+OU-3 is a landfill surrounded by salt marshes and tidal creeks. Short-term cleanup actions for OU-3 have been completed. These included placing a soil cover over contaminated waste material, soil, and sediment, as well as use of institutional controls. A final cleanup plan (ROD) adopted the short-term cleanup actions as final, established an additional land use control prohibiting fishing in the 3rd Battalion Pond, and added a requirement to maintain the landfill soil and sediment covers. Additional risk assessments determined that no action was needed for remaining sediments or surface water.
+
+**OU-4** (Site 45)
+
+OU-4 addresses a 1994 tetrachloroethylene (also known as PCE or PERC) spill from a dry cleaning facility that caused soil and groundwater contamination. Personnel dug up most of the contaminated soil. Contaminated soil, soil gas, and two separate areas of contaminated groundwater were identified. One area is located seven feet below the ground; the second area is located 14 feet below the ground.
+
+The U.S. Geological Survey (USGS) has assisted in assessing contaminated groundwater and the effect of tides on its movement. The USGS has also helped assess potential vapor intrusion concerns and answer questions about the other identified source of groundwater contamination.
+
+To clean up the groundwater, a pump-and-treat system was piloted in 1998. However, the system was shut down because it did not work well. After additional studies, it was determined that the areas of contaminated groundwater had spread. An additional source area was found to be causing the groundwater contamination. The remedial investigation and feasibility study identified how far the groundwater contamination spread and evaluated other ways to clean it up. A notice to the public presenting the preferred cleanup plan for the site is under development.
+
+**OU-5** (Site 12)
+
+OU-5 includes Jericho Island, a 25-acre barrier island. A private citizen previously owned and used the island as an unofficial residential waste dump. The island was purchased to support rifle range training activities. Cleanup actions were completed in 2006, digging up waste and disposing of it off site. Except for restrictions on upper-level groundwater, land uses on the island are not restricted. Cleaned up areas were restored to match conditions in nearby healthy ecosystems. Monitoring continues in these areas.
+
+**OU-6** (Site 5)
+
+OU-6 is an old paint disposal area. The first phase of investigation is complete. A remedial investigation is needed.
+
+**OU-7** (Site 9), **OU-8** (Site 16), **OU-9** (Site 27) and **OU-10** (Site 55)
+
+OU-7 is a paint waste disposal area. OU-8 is a pesticide storage, mixing and rinse area. OU-9 is a drum and excess material storage area and the location of the new motor transportation facility. OU-10 is a fiber-optic vault found to contain floating fuels and contaminants (benzene, chlorobenzene and pesticides). OU-9 is located downgradient from OU-10.
+
+These OUs are being addressed as part of one remedial investigation. Some of the OUs are next to each other and some have similar types of contamination. Early results from the investigation indicate floating fuels on top of area groundwater; benzene and chlorobenzene as well as high levels of pesticides in the groundwater and soils; and volatile chemicals in areas of potential vapor intrusion concerns.
+
+The remedial investigation and feasibility were complete, hoewever, the Navy has decided to do additional investigation before cleaning up in order to attempt to select a final remedy. How far groundwater contamination has spread, and the sources of contamination in the groundwater and soils, has been determined. A cleanup plan to address these OUs together has been delayed to allow time for the Navy to conduct their additional investigation. Once the investigation is complete, the Navy will provide notice to the public presenting the preferred cleanup plan for the site.
+
+**OUs 11 through 18** \- OU 11 (Site 13C/4 and UXO 2), OU 12 (Site 14, 54, Bldg. 615 and Outfall 555), and OU18 (Site 35) have completed a first phase of investigation but require a second phase to gather additional data for remedial decisions. OU 13 (UXO 8), OU 14 (UXO 7), OU 15 (UXO 5 & 6), OU 16 (UXO 4 and 4a), and OU 17 (UXO 3) are in the middle of remedial investigation. Information for these OUs will be made available when more is known.
+
+A Preliminary Assessment and Site Investigation (PA/SI) has been completed for Site 14 Storm Water System Outfalls, Site 8A and 8B PCB Spills, and UXO 1 Grenade Range. Site conditions were determined not to need further investigation or action at these sites. A path forward has yet to be determined for Sites 7, 21, 39, 46, 47, 48, 49, 50, 52, and 53. A PA/SI has been started for Sites 7, 21, and 53. Sites 39, 46, 47, 48, 49, 50, and 52 are going to have a PA/SI performed at some point in the future. If these sites require no further action, then an OU assignment will not be required.
+
+Conclusion: The Depot’s third Five-Year Review, completed in 2015, evaluated the cleanups for OUs 1, 3 and 5. The review found that the cleanup protects people and the environment in the short-term, however, in order for the remedy to be protective in the long-term, actions pertaining to proper maintenance of the remedies and land use controls need to be taken. Progress has been made in developing plans for better maintainence of the remedies and monitoring of the land use controls for these OUs.
+
+In 2014, a Dispute Resolution Agreement (DRA) for OUs 7/8/9/10 was signed by all agencies. The DRA settles disputes regarding remedy selection in favor of EPA.
+
+### What Is the Current Site Status?
+
+In 1994, EPA placed the Depot on the National Priorities Listing (NPL).
+
+The Depot is located on a barrier island off the South Carolina coast, about 30 miles northeast of Savannah, Georgia. Hilton Head Island (the closest point to the Depot on the mainland) is located across Port Royal Sound, about three miles southwest of the Depot. The Depot includes islands and marshes – about 2,900 acres of dry land and 3,800 acres of salt marshes, tidal ponds and streams. People fish in waters near the Depot. The surrounding area is also a wildlife habitat for many threatened and endangered birds and fish, such as the southern bald eagle, the wood stork, the Eskimo curlew and the short-nosed sturgeon.
+
+The U.S. Marine Corps has used the Depot as a training facility since 1915. The Depot has office buildings, family and recruit housing facilities, building and vehicle maintenance shops, and community facilities. The Depot has 55 sites identified for possible investigation and cleanup. These sites included former spill areas and active landfills containing contaminated ground water, soil, and sediment. The U.S. Navy, U.S. Marine Corps, U.S. EPA, and SCDHEC have worked together on Depot cleanup activities since the 1990s.
+
+The cleanup plan for the Depot is complicated. Initially, 55 sites were identified at the Depot for possible investigation and cleanup. These sites are being addressed under the Superfund program. For management purposes they have been grouped together as operable units (OUs). The Depot has 18 OUs. Since 2000, cleanup plans (Records of Decision, or RODs) have been developed and issued for OUs 1, 2, 3 and 5.
+
+Cleanup activities in the most recent (OU5) cleanup plan included the digging up of surface debris, soil and sediment and off-site disposal. The plan also included sampling of the environment to make sure no contaminated materials remained, and restoring the cleaned up areas. Lastly, the plan included using [Land Use Controls](https://www.epa.gov/fedfac/land-use-controls-lucs). At the remaining OUs more sampling is being done to find out if soils, sediments, or groundwater is contaminated and to find the sources of contamination. The agencies will decide on a cleanup plan after the remedial investigation is complete if it is determined that an action is necessary.
+
+### Enforcement Information
+
+For many years, EPA has been working with its federal and state partners to clean up the Depot. The parties finalized a Federal Facility Agreement (FFA) for the Depot in 2005. The FFA became effective in 2006.

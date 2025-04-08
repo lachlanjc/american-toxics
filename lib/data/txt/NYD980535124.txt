@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Located in the towns of Malta and Stillwater, in Saratoga County, New York, the Malta Rocket Fuel Area site consists of the 165-acre former Malta Test Station, portions of the surrounding undeveloped forest that forms part of the safety easement for the Test Station, and areas located adjacent to the Test Station which have been impacted by site-related contaminants in the groundwater.
+
+The U.S. government established the Test Station in 1945 for rocket engine and fuel testing. Various government agencies performed research and development activities at the Test Station until 1984. Operations at the Test Station used hazardous substances, which contaminated the surface water and groundwater with volatile organic compounds (VOCs), primarily trichloroethylene (TCE) and carbon tetrachloride (carbon tet), and the soil with polychlorinated biphenyls (PCBs).
+
+In 1985 and 1986, sampling was conducted at the site; VOCs and metals were detected in the groundwater. An air stripper was installed on Test Station water supply wells in 1987 to treat groundwater before it was used by Test Station employees. Air stripping is the process of moving air through contaminated water in an aboveground treatment system to remove VOCs.
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1987.
+
+In 2004, the Luther Forest Technology Campus Economic Development Corporation purchased more than 1,400 acres of property, including the site property and surrounding areas, for the development of the Luther Forest Technology Campus (LFTC). In 2009, GlobalFoundries US, Incorporated purchased and developed a portion of the LFTC property; in 2023, it completed the purchase of the entire LFTC property.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed in a single long-term remedial phase that focused on the cleanup of the entire site. The cleanup at the site has been completed. Periodic groundwater and surface water monitoring is performed.
+
+Between 1991 and 1994, a comprehensive remedial investigation (RI) was performed to determine the nature and extent of contamination at the site. During the RI, two buried compressed gas cylinders were found, decommissioned, and removed; hundreds of empty, buried, and crushed drums were excavated and removed; and several septic tanks, catch basins, and dry wells were cleaned out. A feasibility study to identify and evaluate cleanup alternatives followed.
+
+EPA selected a cleanup remedy for the site in 1996, which was documented in a Record of Decision (ROD). The ROD called for continued air stripping of the Test Station water supply, natural attenuation of contaminants in the groundwater at the site (natural attenuation relies on natural processes to decrease or attenuate concentrations of contaminants), excavation and off-site disposal of contaminated soil at the Test Station, continued monitoring of the groundwater and surface water, and institutional controls (ICs) to prevent ingestion of contaminated groundwater and to restrict the Test Station to its current commercial/industrial land use.
+
+Contaminated soil and debris were excavated and disposed of off-site in 1998. The groundwater at the site was treated by air stripping and used as a drinking water supply for the Test Station until 2010, when the air stripper operation was discontinued and the technology campus (including the Test Station) was connected to the Saratoga County water supply, which uses the Hudson River as its source.
+
+In 2011, during pre-construction activities related to the technology campus, buried drums were encountered on the Test Station property. About 60 drums and containers were subsequently removed, along with surrounding soil.
+
+In 2014, again during pre-construction activities associated with the technology campus, an additional area of buried drums and pails was discovered. An investigation was performed in this area in 2016 to determine the extent of the buried materials and the nature of the contamination, if any. During this investigation, 34 small metal cylinders, appearing to be remnants of the U.S. Government’s historical activities at the site, were uncovered. Because their contents were unknown, the cylinders were destroyed by controlled detonation in a remote area of the site. In addition, as part of both the 2011 and 2016 investigations, post-excavation samples were collected from the soil and nearby groundwater wells. EPA concluded that the responses adequately addressed the limited contamination in these two areas and that no further investigation was necessary.
+
+EPA issued an Explanation of Significant Differences (ESD) in 2018 to document changes to the cleanup plan selected in 1996. These changes included incorporating ICs into the cleanup plan that limit occupancy of existing buildings or new construction on or within 200 feet of the Test Station property unless appropriate vapor intrusion investigations are conducted and/or mitigation measures (including periodic monitoring) are implemented (vapor intrusion is a process by which VOCs move from a source below the ground surface, such as contaminated groundwater, into the indoor air of overlying or nearby buildings). The ESD also required that a Subsurface Drum Management Plan be prepared and implemented whenever intrusive activities are planned on the Test Station property. Additionally, the ESD documents EPA's decison to discontinue air stripping of the Test Station groundwater for potable use. The Subsurface Drum Management Plan was finalized in 2021.
+
+### What Is the Current Site Status?
+
+In accordance with the 2018 ESD, any newly constructed or exisiting buildings located on or within 200 feet of the Test Station property that become occupied will undergo vapor intrusion investigations and mitigation measures (including periodic monitoring) will be implemented, if appropriate. In addition, a Subsurface Drum Management Plan will be implemented whenever intrusive activities are planned on the Test Station property.
+
+Groundwater and surface water have been monitored at the site since 1987; the monitoring will continue until groundwater cleanup levels are met.
+
+ICs in the form of environmental easements are in the process of being develped.
+
+EPA reviews Superfund sites every five years to ensure that cleanups conducted remain fully protective of human health and the environment. EPA issued five-year review reports for the Malta Rocket Fuel Area site in September 1999, September 2004, August 2009, July 2014, May 2019, and February 2024. Each of the reviews concluded that the cleanup actions undertaken at the site are in accordance with the remedy selected by EPA and that the cleanup remedy continues to be protective of human health and the environment. The next five-year review will be conducted by February 2029.

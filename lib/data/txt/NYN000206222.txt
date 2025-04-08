@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Gowanus Canal is a 100-foot wide, 1.8-mile-long canal in the New York City borough of Brooklyn, Kings County, New York. Several communities surround the canal, including Park Slope, Cobble Hill, Carroll Gardens and Red Hook. The canal empties into New York Harbor. The adjacent waterfront is primarily commercial and industrial and is home to concrete plants, warehouses, and parking lots.
+
+The Gowanus Canal was built in the mid-1800s and was a major industrial transportation route. Manufactured gas plants (MGPs), paper mills, tanneries, and chemical plants operated along the canal and discharged wastes directly into it.
+
+In addition, during storm events, contamination flows into the canal from combined sewer system overflows (CSOs) that carry sanitary waste and rainwater a from storm drains. As a result, the Gowanus Canal is one of the nation's most seriously contaminated water bodies. Canal sediment contain high levels of more than a dozen contaminants. Contaminants include including [polycyclic aromatic hydrocarbons](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=121&toxid=25), [polychlorinated biphenyls](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=140&toxid=26) and heavy metals such as [mercury](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=113&toxid=24), [lead](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=93&toxid=22) and [copper](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=205&toxid=37).
+
+### What Has Been Done to Clean Up the Site?
+
+EPA has the lead for cleaning up the actual canal. New York State is the lead for cleaning up the three former MGPs along the canal-
+
+the former Fulton MGP site, the former Citizens Gas Works MGP site, and the former Metropolitan Gas Light Company MGP site. The three former MGP facilities are the sources of much of the polycyclic aromatic hydrocarbons contamination in the canal. National Grid is the potentially responsible party (PRP) for the former MGP sites. PRPs are entities EPA determines may be legally responsible for a site’s contamination.
+
+EPA placed the site on the National Priorities List in March 2010. In coordination with New York City and National Grid, EPA identified the nature and extent of contamination in the canal, including finding ongoing sources of contamination, determining the physical and chemical characteristics of the canal that will influence the development, evaluating and selecting cleanup actions, and identifying appropriate cleanup methods for the canal. In addition, the study included an assessment of the risk that the contamination in the canal poses to people’s health and the environment.
+
+This work provided additional information to previous studies by the U.S. Army Corps of Engineers and National Grid. It included a bathymetric study to measure the depth of the canal and map underwater features. Other work included sampling site sediment, groundwater (by installing multiple wells), surface water, air, fish tissue, and the sewer outfalls. EPA also investigated approximately two hundred unpermitted pipes that discharged to the canal.
+
+At the end of the investigation, EPA released a remedial investigation [report](https://semspub.epa.gov/work/02/122475.pdf) to the public in February 2011. In December 2011, EPA publicly released the feasibility study that included cleanup alternatives to minimize risks from the canal.
+
+EPA released a [proposed cleanup plan](https://semspub.epa.gov/work/02/160890.pdf) in December 2012, that described the proposed cleanup plan for the site. In the plan, EPA recommended removing all the accumulated contaminated soft sediment from the bottom of the canal by dredging. These contaminants are the result of industrial and sewer discharges. The dredged areas would then be capped. EPA also recommended controls to prevent combined sewer overflows and other land-based sources of contamination from compromising the cleanup.
+
+EPA finalized its cleanup plan as documented in a [September 2013 Record of Decision](https://semspub.epa.gov/work/02/692106.pdf) (ROD). In the final plan, EPA divides the canal into three segments. The first segment runs from the top of the canal to 3rd Street. The second segment from 3rd Street to just south of the Hamilton Avenue Bridge. The third segment runs from the Hamilton Avenue Bridge to the mouth of the canal.
+
+Under EPA oversight, contractors for the PRPs will dredge approximately 300,000 cubic yards of highly contaminated sediment from the first and second segments. About 281,000 cubic yards of contaminated sediment will be dredged from the third segment. Under the plan, contaminated material will be removed from the 1st Street turning basin and about 475 feet of the former basin will be restored. In addition, a portion of the 5th Street turning basin underneath the 3rd Avenue bridge and extending approximately 25 feet to the east of the bridge will be dredged and restored.
+
+The original sediment in portions of the middle and upper segments of the canal is contaminated with coal tar. A solidifying material, such as cement, will be mixed with the sediment to bind the contaminants and form a five-foot solid layer that will prevent mobile liquid tar from moving upwards into the water. These stabilized areas will then be covered with a multiple layer cap. This multilayer cap will prevent contaminants that are dissolved in the groundwater underneath the solid layer and move through the pores of that layer, from entering the canal water and, therefore, it would reduce the potential for the spread of contamination.
+
+The cap has several layers. The first layer is an “active” layer made of a type of clay that will remove contamination that could move up into the canal from the lower layers of contaminated native sediment. The second layer is another active layer made of granular activated carbon that also acts as a sponge and removes chemicals disolved in the water moving upwards from the native sediment. An “isolation” layer of sand is placed on top of the active layers in order to keep these layers in place. Finally, an “armor” layer of heavy mats of concrete is put on top to prevent erosion of the underlying layers by boat traffic and canal currents. Clean sand will be placed on top of the “armor” layer to fill in the space between stones. The clean sand will create the bottom of the canal and help restore the canal bottom as a habitat.
+
+This cleanup plan relies on the control of upland sources of contamination to the canal. This includes cleaning up the three former MGP sites adjacent to the canal: Carroll Gardens/Public Place (formerly known as “Citizens Gas Works”), former Metropolitan MGP, and former Fulton Municipal Works MGP (Fulton MGP). EPA’s cleanup plan also calls for constructing two combined sewer overflow retention tanks in the upper and middle canal to prevent contaminated solids being discharged during sewer overflows from contaminating the canal.
+
+The cost of the cleanup is currently estimated to be more than a billion dollars.
+
+***Implementing the Dredging Cleanup***
+
+EPA issued an [Unilateral Administrative Order (UAO)](https://semspub.epa.gov/work/02/283917.pdf) in 2014 to National Grid and more than 30 other potentially responsible parties collectively called the “PRP Group.” National Grid is the company that acquired the legal liability for three former manufactured gas plant (MGP) sites that are sources of contamination to the canal. The UAO required the PRP Group to design the cleanup action for the canal.
+
+To prepare for the cleanup work, National Grid conducted test dredging and capping in the 4th Street turning basin to provide information necessary to complete the full-scale dredging and capping design for the upper canal from Butler Street to 3rd Street. National Grid began a marine [debris removal test in October 2016](https://semspub.epa.gov/work/02/351726.pdf). The work was completed in November 2016.   [The test dredging began in October 2017 and was completed in June 2018](https://semspub.epa.gov/work/02/503424.pdf). The test capping which followed, was completed in October 2018.
+
+National Grid finished constructing cutoff wall (to prevent coal tar migration to the canal) at the former Fulton MGP in fall 2020.
+
+New York City completed its design of the Turning Basin 1 excavation and restoration in June 2019. The work will be performed by the PRP Group.
+
+The PRP Group’s dredging and capping design for the upper portion of the canal (RTA1) began in November 2020.
+
+In September 2020, EPA and the PRP Group started the design of RTA2, the middle section of the Gowanus Canal.
+
+***CSO Cleanup***
+
+EPA issued another [UAO in 2014](https://semspub.epa.gov/work/02/255032.pdf) to New York City that required the city to design the combined sewer overflow (CSO) retention tanks and to coordinate with the PRP Group. The UAO also required New York City to identify preferred sites for the two CSO tanks. New York City’s preferred location for the larger CSO is on privately-owned land located on the Fulton MGP across the street from the Thomas Greene Park and immediately adjacent to the canal.
+
+The proposed location for the two CSO tanks generated extensive discussion between New York City, New York State Department of Environmental Conservation (NYSDEC), and EPA. EPA accepted New York City’s preferred location with several conditions. These conditions, including designing the tank, required New York City to enter into a legal agreement, called an Administrative Order on Consent (AOC), in which a violator agrees to pay for and take action to correct violations.
+
+EPA issued an [Administrative Order on Consent (AOC)](https://semspub.epa.gov/work/02/395897.pdf) in 2016 after a public comment period. As a part of the final agreement, New York City waived its ability to challenge EPA's requirements in the [cleanup plan](https://semspub.epa.gov/work/02/692106.pdf) when building the two CSO tanks.
+
+New York City plans to construct a building called a headhouse that will house controls for the larger CSO retention tank. The headhouse will be constructed at the historic Gowanus Station Building. There has been significant public interest in retaining the building. EPA signed a [Memorandum of Agreement](https://semspub.epa.gov/work/02/528397.pdf) in February 2019 with the State Historic Preservation Office (SHPO). The memorandum calls for the deconstruction of the Gowanus Station Building and reuse of these materials in the façade of the new headhouse building. The City acquired private properties at the location of the larger tank and demolished buildings to prepare for the tank construction. This demolition has included the preservation of key architectural elements of the historic Gowanus Station Building, as required by EPA and SHPO.
+
+In March 2021, EPA issued another UAO that requires the city to implement the CSO controls contained in the ROD in order to significantly reduce overall contaminated solid discharges to the canal. This UAO also notes that the CSO cleanup implementation has been delayed due to substantial noncompliance by the city. EPA is seeking to resolve this noncompliance with the city.
+
+***Uplands Cleanup***
+
+EPA entered into an [AOC with National Grid](https://semspub.epa.gov/work/02/538014.pdf) in May 2018, which required National Grid to construct a barrier wall to prevent the spread of coal tar into the canal from the former Fulton MGP site, investigate MGP-related contamination, and design the cleanup of the former Fulton MGP site. It also included designing and constructing a temporary swimming pool that will operate while the Thomas Greene Park (located on the former Fulton MGP) is closed during cleanup.
+
+Carroll Gardens/Public Place, the former Metropolitan MGP, and the former Fulton MGP are being cleanup up under state orders and are not included in the EPA AOC discussed above. EPA and the state have held extensive discussions since 2021 regarding the cleanup at Public Place.
+
+### What Is the Current Site Status?
+
+Under EPA oversight, PRP contractors began the initial phase of dredging in the main channel of the Gowanus Canal north of the 3rd Street Bridge in November 2020. An excavator mounted on a platform barge removed approximately 35,000 cubic yards of contaminated sediment from the bottom of the canal. The dredged material was loaded onto small barges and transported down the canal to a staging area at Smith and Huntington Streets. At the staging area, water was removed from the sediment, treated, and pumped back into the canal. The dewatered sediment was then transferred onto a larger barge and transported to an off-site facility. The sediment was processed so that it can be used beneficially as landfill cover. Portions of the sediment that contained high levels of tar contamination were thermally treated, followed by processing to allow for beneficial use. The initial phase of dredging was completed late spring 2021.
+
+Starting in late October 2021, contractors began solidifying portions of the original bottom (or native soil) of the northern stretch of the canal using a process called in-situ stabilization (ISS). This process involves adding a concrete mix into the native soil using drilling equipment mounted on barges. Most of the contaminated soft sediment (sediment on top of the native sediment) was removed during the initial dredging, but a layer of soft sediment was left in place as a protective layer to prevent tar from moving up into the canal during the ISS operation. ISS was completed in August 2022 and then the remaining layer of soft sediment iwas removed. This was followed by a cap. The solidified portions of the native sediment, along with the protective layer and cap, will prevent contamination from the native sediment and contaminants dissolved in the groundwater from moving into the water of the canal. Following the capping, armor mats were installed.
+
+The detailed engineering and design work for middle section of the canal was performed in parallel with the upper portion work to accelerate its progress.The 100% design for the middle segment of the canal was completed by the PRP Group in June 2024; it is under review by EPA. Initial middle section of the canal work, which began in late June 2024, includes access dredging to facilitate the mobilization and use of equipment needed to conduct work in this portion of the canal, followed by debris removal and bulkhead construction. The full-scale dredging and capping required by an amended order issued in late June 2024 will follow. That work is estimated to cost $369 million and will take several years to complete. The lower segment of the canal, is expected to be implemented after the completion of the middle section.
+
+The construction of the CSO tanks are underway. A slurry wall is being construction along the perimeter of the larger tank footprint. It is anticipated that this work will be completed in late July 2024, with the full tank excavation commencing in October 2024.

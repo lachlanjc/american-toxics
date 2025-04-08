@@ -1,20 +1,33 @@
-Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 Hill Air Force Base (AFB) is in northern Utah, approximately 30 miles north of Salt Lake City and 5 miles south of Ogden. Hill AFB, originally “Hill Field” in 1940, is part of the Air Force Materiel Command. The Ogden Air Logistics Center is also based at Hill AFB. The Ogden Air Logistics Center performs operational and support missions such as engineering and logistics management for many aircraft and intercontinental ballistic missiles. Dating back to World War II, Hill AFB has been the site for maintenance and repair activities for many kinds of aircraft. Activities at Hill AFB generate various wastes including chlorinated and non-chlorinated solvents and degreasers, fuels, other hydrocarbons, acids, bases and metals. Hill AFB began investigating releases in 1976, when a nearby resident reported an orange discharge from a spring on his property near the base boundary. Waste products were historically disposed of at the Industrial Wastewater Treatment Plant (IWTP), in disposal pits and landfills on Hill AFB, or at other Air Force facilities. Waste disposal in disposal pits and landfills ceased in 1980.
 
-What Has Been Done to Clean Up the Site?
-The site consists of 16 areas, referred to by the EPA as operable units (OUs), labeled OU01 through OU16. The OUs include multiple source areas or investigation areas, such as landfills, chemical and waste pits, fire training areas, golf courses, sludge drying beds, dumps, spill areas, and groundwater contaminant plumes. The Air Force and the EPA have selected final remedies for 14 of the 16 OUs. Long-term remedies include landfill caps, pump-and-treat systems for contaminated groundwater, asphalt caps, soil vapor extraction, surface water treatment, institutional controls and various other remedies. Operation and maintenance activities and monitoring are ongoing at sites with remedies already in place. Other operable units are in various stages of the Superfund process, ranging from first assessments through investigations and development of cleanup plans. Operable Units 15 and 16 are still in progress but no remedy has yet been selected. Emerging contaminants such as per-fluoro-alkyl substances (PFAS) and 1,4-dioxane have been found on base and are under investigation. Other OUs may be designated or existing remedies modified depending on the results of the investigations. The schedule for this work is still to be determined. Once it has been determined, the major milestones for the site will be updated.
-What Is the Current Site Status?
-The site is being addressed through federal and state actions.﻿
-The Air Force, with EPA oversight, has conducted five-year reviews at the site. These reviews ensure that the remedies put in place continue to protect public health and the environment and also function as intended by site decision documents. The most recent review, in 2019, concluded that response actions at the site are in accordance with the remedy selected and that the remedy continues to be protective of human health and the environment at OU7, OU9, OU10, OU11, and OU13. The remedy is protective in the short term at OU1, OU5, OU6 and OU12. OU2 is protective in the short term pending further investigation into 1,4-dioxane in the groundwater plume. OU3 is protective in the short term. OU8 is protectiveness-deferred pending an evaluation of the institutional controls. OU4 is protectiveness-deferred due to ongoing investigations to collect more data and further evaluate for continued protectiveness. OU14 did not require evaluation for the 2019 review since it did not yet have a remedy decision at that time. ﻿The remedy for OU15 is pending and it is anticipated that a formal program will be created to address vapor intrusion issues on- and off-base. The remedy at OU16 will address asbestos-containing materials (pipe insulation; roof shingles, etc.) located in the northern part of the base. These OUs will likely be subject to future five-year reviews.
-Enforcement Information
-Federal agencies and their facilities must comply with environmental laws and requirements in the same manner and to the same extent as any other regulated facility. Enforcement at federal facilities is managed through a document similar to a consent decree known as the Federal Facility Agreement (FFA). The FFA is usually a three-party agreement between the federal agency, the EPA, and the state in which the facility resides. The FFA sets up the roles and responsibilities of the parties and the general process on how the investigation, remedy selection, and implementing remedial action will be managed. Dispute resolution provisions are included in the event of a disagreement. The Hill Air Force Base FFA between the Air Force, the EPA, and the Utah Department of Environmental Quality (UDEQ) was completed in 1991. There have been some informal disputes at Hill Air Force Base (AFB). These have been addressed mainly at the staff or supervisory level. There have been no formal disputes at Hill AFB. There have been no major violations of federal environmental laws.
+### What Has Been Done to Clean Up the Site?
+
+The site consists of 16 areas, referred to by the EPA as operable units (OUs), labeled OU01 through OU16. The OUs include multiple source areas or investigation areas, such as landfills, chemical and waste pits, fire training areas, golf courses, sludge drying beds, dumps, spill areas, and groundwater contaminant plumes. The Air Force and the EPA have selected final remedies for 14 of the 16 OUs.
+
+Long-term remedies include landfill caps, pump-and-treat systems for contaminated groundwater, asphalt caps, soil vapor extraction, surface water treatment, institutional controls and various other remedies. Operation and maintenance activities and monitoring are ongoing at sites with remedies already in place. Other operable units are in various stages of the Superfund process, ranging from first assessments through investigations and development of cleanup plans.
+
+Operable Units 15 and 16 are still in progress but no remedy has yet been selected.
+
+Emerging contaminants such as per-fluoro-alkyl substances (PFAS) and 1,4-dioxane have been found on base and are under investigation. Other OUs may be designated or existing remedies modified depending on the results of the investigations. The schedule for this work is still to be determined. Once it has been determined, the major milestones for the site will be updated.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal and state actions.
+
+The Air Force, with EPA oversight, has conducted five-year reviews at the site. These reviews ensure that the remedies put in place continue to protect public health and the environment and also function as intended by site decision documents.
+
+The most recent review, in 2019, concluded that response actions at the site are in accordance with the remedy selected and that the remedy continues to be protective of human health and the environment at OU7, OU9, OU10, OU11, and OU13.
+
+The remedy is protective in the short term at OU1, OU5, OU6 and OU12. OU2 is protective in the short term pending further investigation into 1,4-dioxane in the groundwater plume. OU3 is protective in the short term.
+
+OU8 is protectiveness-deferred pending an evaluation of the institutional controls. OU4 is protectiveness-deferred due to ongoing investigations to collect more data and further evaluate for continued protectiveness. OU14 did not require evaluation for the 2019 review since it did not yet have a remedy decision at that time.
+
+The remedy for OU15 is pending and it is anticipated that a formal program will be created to address vapor intrusion issues on- and off-base. The remedy at OU16 will address asbestos-containing materials (pipe insulation; roof shingles, etc.) located in the northern part of the base. These OUs will likely be subject to future five-year reviews.
+
+### Enforcement Information
+
+Federal agencies and their facilities must comply with environmental laws and requirements in the same manner and to the same extent as any other regulated facility. Enforcement at federal facilities is managed through a document similar to a consent decree known as the Federal Facility Agreement (FFA). The FFA is usually a three-party agreement between the federal agency, the EPA, and the state in which the facility resides. The FFA sets up the roles and responsibilities of the parties and the general process on how the investigation, remedy selection, and implementing remedial action will be managed. Dispute resolution provisions are included in the event of a disagreement.
+
+The Hill Air Force Base FFA between the Air Force, the EPA, and the Utah Department of Environmental Quality (UDEQ) was completed in 1991. There have been some informal disputes at Hill Air Force Base (AFB). These have been addressed mainly at the staff or supervisory level. There have been no formal disputes at Hill AFB. There have been no major violations of federal environmental laws.

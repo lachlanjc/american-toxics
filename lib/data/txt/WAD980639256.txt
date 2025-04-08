@@ -1,2 +1,44 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Site is a former landfill located on North Ebey Island in the Snohomish River delta, between Marysville and Everett, Washington. The Site is located within the boundaries of the Tulalip Indian Reservation. The Site consists of a 147-acre on-source area (the landfill) and a 160-acre off-source area (wetlands). The Seattle Disposal Company operated the landfill from 1964 until 1979. The landfill received an estimated three to four million tons of commercial and industrial waste. In 1979, landfill operators closed the landfill, added a soil cover and constructed a perimeter berm. However, insufficient grading of the soil cover resulted in poor drainage and allowed precipitation to collect and eventually infiltrate the landfill surface. As a result, the landfill contaminated groundwater, surface water and sediment with metals, pesticides, polychlorinated biphenyls and polycyclic aromatic hydrocarbons. EPA added the Site to the Superfund Program's National Priorities List (NPL) in 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA divided the Site into two operable units (OUs) to manage Site cleanup. OU1 addresses the wetlands and OU2 addresses the landfill. In 1996, EPA selected an interim remedy for the landfill. It included capping the landfill, installing a landfill gas collection and treatment system, monitoring, applying restrictions to protect the landfill cap, and maintaining the integrity of the cap. In September 1998, EPA selected the long-term remedy for OU1 and OU2. It continued the interim remedy for the landfill and included institutional controls for the wetlands. Construction of the landfill cover system finished in 2000. Following cleanup, EPA took the site off the NPL in 2002. Operation and maintenance activities and monitoring are ongoing. EPA completed the most recent Five-Year in 2013. It concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+The landfill operated from 1964 until 1979, during which time commercial and industrial wastes were deposited on site. Because contaminated leachate was seeping out into the nearby wetlands, causing concerns for human health and the environment, EPA added the site to the NPL in April 1995.
+
+### What Is the Current Site Status?
+
+EPA divided the site into two areas, referred to as operable units, or OUs. OU-1 addresses the landfill and OU-2 addresses the wetlands. All threats at the site have been addressed through containment of contaminated soil and groundwater with the completion of the cover system and the implementation, monitoring and enforcement of effective Institutional Controls.
+
+The wetland area includes approximately 160 acres of salt marsh and mudflats surrounding and west of the landfill. Institutional Controls included placing and maintaining an adequate number of signs to warn of the potential risk from the harvest and consumption of resident fish and shellfish in the vicinity of the site. The wetlands have been left to recover naturally and sampling has shown a reduction in the concentration of contaminants. The 1994 Tulalip Comprehensive Plan designated the wetlands area of the site as "Conservation" defined as an area that should be left in its natural state with no development allowed.
+
+Construction of the landfill cover was completed in September 2000. Monitoring of the Tulalip Landfill began on February 20, 2001 and will continue for a minimum of 30 years due to contaminants left on-site. In September 2002 the Tulalip Landfill was removed from the National Priorities List. In 2002 the Tulalip Tribes stated the intention to leave the site idle so that the remediation may mature.
+
+The Tulalip Tribes are responsible for maintenance of the remedy and inspections, sampling and enforcement on all portions of the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Institutional Controls for the site include a number of measures.
+
+- Preserving existing access roadways with regular upgrades, maintenance and repair by the Tulalip Tribes.
+- Maintaining an environmental buffer zone. Grazing animals, llamas and goats, have been introduced to the landfill to help maintain the area. They are effective at keeping weeds in control and their presence discourages vandals from entering the site via the buffer zone.
+- Placing and maintaining an adequate number of signs to warn of the potential risk from the harvest and consumption of resident fish and shellfish in the vicinity of the site.
+- Fencing and signage to limit on-site activities.
+
+### Sampling and Monitoring
+
+Monthly site inspections were performed for the first year and then quarterly.
+
+To measure the effectiveness of the final cover system, there is monthly monitoring of the landfill gas emissions and leachate levels, and quarterly monitoring of leachate seeps. In 2001, it was concluded that the remedy had reduced or eliminated the leachate seeps and that there was limited value from continuing seep sampling. In June 2008 and September 2009 leachate seeps were sampled again with similar results to the 2001 sampling and consistent with historical seep sampling trends at the site.
+
+A settlement survey is conducted annually.
+
+Every five years, an aerial survey is flown to measure the slope of the cap.
+
+The Tulalip Tribe conducts operation and maintanance activities.

@@ -1,3 +1,39 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+Located in Tumwater, WA, the Palermo Wellfield Superfund Site has two primary contaminants of concern, trichloroethylene ( [TCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=TCE) ) and tetrachloroethylene ( [PCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCE) ). Several early action and long-term remedies have been taken at the site. Located in a light commercial and residential area, the site is surrounded by single-family dwellings, private businesses and recreation facilities. Currently, EPA is evaluating whether there are additional remedies that should be employed at the site.
+
+In 1993, the City of Tumwater detected TCE in three of the city’s drinking water supply wells. The city initially removed the impacted wells from service. EPA constructed a treatment system that removes these contaminants from the water at the Palermo Wellfield. The source of the TCE was determined to be from industrial operations from former and current Washington Department of Transportation (WSDOT) facilities. In addition, a dry-cleaning facility contaminated groundwater with PCE. EPA installed a subdrain system and conducted source remediation at the dry cleaners.
+
+The EPA issued the Record of Decision Amendment for Operable Unit 2 (OU-2) on November 7, 2024, after considering the public’s comments on the proposed cleanup plan. OU-2 includes contamination in soil and groundwater from the Southgate Dry Cleaners in Tumwater, WA. The final cleanup plan includes soil vapor extraction of the contaminated soil beneath the dry cleaneing business. Additionally, the plan includes in-situ sequestration with in-situ chemical reduction to treat contaminated groundwater. This technology cleanup uses reactive barriers in groundwater to capture contaminants moving through groundwater and reduce contaminant concentrations. Construction of the remedy is anticipated to start in Fall 2025.
+
+If you have questions about the Palermo cleanup, please email Stephen Lukas, Remedial Project Manager at lukas.stephen@epa.gov.
+
+### What Has Been Done to Clean Up the Site?
+
+Even in advance of publishing the Record of Decision (ROD), which establishes the long-term cleanup plan for the Palermo Wellfield Superfund Site in October 1999, EPA had taken several immediate actions to stop people’s exposure to the contaminants at the site. In the Spring of 1998, EPA installed soil vapor extraction system at the Southgate Cleaners to cleanup a major source of [PCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCE), one of the main contaminants at the site. Also in advance of the ROD, EPA completed the installation of two air strippers at the City of Tumwater’s Palermo Wellfield to remove contamination from the drinking water supply.
+
+The ROD expanded the actions at the site to include installation of a sub-drain west of the residences in Palermo neighborhood to lower the groundwater table so that water containing volatile contaminants will not collect in the crawlspaces below residences. This action also included creating a treatment lagoon to clean the water prior to discharge from the site. The ROD also expanded the monitoring program.
+
+The EPA issued the Record of Decision Amendment for Operable Unit 2 (OU-2) on November 7, 2024, after considering the public’s comments on the proposed cleanup plan. OU-2 includes contamination in soil and groundwater from the Southgate Dry Cleaners in Tumwater, WA. The final cleanup plan includes soil vapor extraction of the contaminated soil beneath the dry cleaneing business. Additionally, the plan includes in-situ sequestration with in-situ chemical reduction to treat contaminated groundwater. This technology cleanup uses reactive barriers in groundwater to capture contaminants moving through groundwater and reduce contaminant concentrations. Construction of the remedy is anticipated to start in Fall 2025.
+
+If you have questions about the Palermo cleanup, please email Stephen Lukas, Remedial Project Manager at lukas.stephen@epa.gov.
+
+### What Is the Current Site Status?
+
+Under EPA’s oversight, the Washington State Department of Transportation and the Environmental Protection Agency are conducting additional studies to further delineate and characterize the TCE and PCE plumes. This work will be used to determine if additional remedial action should be proposed for this site. We are currently finalizing the Supplemental Remedial Investigation for the TCE plume.
+
+In early 2023, EPA conducted its [fifth Five-Year Review](http://semspub.epa.gov/src/document/10/100508853) (FYR) of the environmental cleanup at the site. EPA reviews the site every five years to make sure the cleanup continues to be protective of people and the environment. EPA determined in the fifth FYR that the site’s remedy is protective in the short-term. EPA concluded that additional actions are needed to meet cleanup goals and achieve long-term protectiveness at the site. EPA recommended establishing two separate operable units (OUs) at the site specific to the contaminants of concern (PCE and TCE). For each OU, EPA recommended conducting additional studies to evaluate remedial alternatives and revising the current cleanup plan through a Record of Decision Amendment.
+
+The EPA issued the Record of Decision Amendment for Operable Unit 2 (OU-2) on November 7, 2024, after considering the public’s comments on the proposed cleanup plan. OU-2 includes contamination in soil and groundwater from the Southgate Dry Cleaners in Tumwater, WA. The final cleanup plan includes soil vapor extraction of the contaminated soil beneath the dry cleaneing business. Additionally, the plan includes in-situ sequestration with in-situ chemical reduction to treat contaminated groundwater. This technology cleanup uses reactive barriers in groundwater to capture contaminants moving through groundwater and reduce contaminant concentrations. Construction of the remedy is anticipated to start in Fall 2025.
+
+If you have questions about the Palermo cleanup, please email Stephen Lukas, Remedial Project Manager at lukas.stephen@epa.gov.
+
+If you have questions about the site or the [FYR report](http://semspub.epa.gov/src/document/10/100508853), please contact Stephen Lukas, EPA Remedial Project Manager, by phone (206) 553-2111 or email  [lukas.stephen@epa.gov](mailto:lukas.stephen@epa.gov?subject=Palermo%20Superfund%20Site).
+
+### Emergency Response and Removal
+
+Site cleanup has also included short-term cleanups to address immediate threats to human health and the environment. The City of Tumwater removed the impacted municipal supply wells from service in 1993. In 1998, EPA installed a soil vapor extraction (SVE) system under the dry-cleaning facility and operated it until the summer of 2000 to remove [PCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCE) from the soils. In 1999, EPA constructed two air stripping towers at the city wellfield to remove contaminants from the groundwater.
+
+### Enforcement Information
+
+EPA settled with the owners of the Southgate Cleaners property in 2007. In 2006, the EPA and the Washington Department of Transportation contested liability in court. In 2007, the court found WSDOT liable for the [TCE](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=TCE) contamination.

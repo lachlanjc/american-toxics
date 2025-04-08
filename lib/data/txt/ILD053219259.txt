@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 20-acre Acme Solvent Reclaiming (Morristown Plant) site was used as a drum storage and disposal area for wastes. From 1960 to 1970, the site consisted of seven waste disposal lagoons and open storage of 10,000 to 15,000 drums. Testing of groundwater found it to contain volatile organic compounds (VOCs). Soil sampling identified VOCs, phthalates, polychlorinated biphenyls (PCBs), and metals including lead and chromium. The Site is located near 8500 Lindenwood Road, south of New Milford and approximately five miles south of Rockford in unincorporated Winnebago County. This site is being addressed through federal, state, and potentially responsible party (PRP) actions. Groundwater was found to contain volatile organic compounds (VOCs). Soil was found to contain VOCs, phthalates, polychlorinated biphenyls (PCBs) and metals, including lead and chromium. The soil has been remediated or covered with a soil cover. An alternate water supply was provided to affected neighbors so that they were no longer using the contaminated groundwater. Institutional controls are to be implemented to prohibit contact with the groundwater that is contaminated.
+
+The investigation at this site was initiated by the State of Illinois, using federal funds, resulting in a decision document in September 1985. Some of the PRPs for the site implemented an unauthorized soil removal in 1986 during which an estimated 90 percent of the contaminated soil at the site was taken to a land disposal facility.
+
+The final cleanup decision was signed in September 1990 and this was subsequently modified by two Explanations of Significant Differences, one in June 1994 and the other in February 1998. The remedy included installation of on-site fencing, low temperature thermal stripping of excavated soil, operation of a soil vapor extraction system, tank content disposal and tank removal, installation and operation of a groundwater pump-and-treat system, and provision of an alternate water supply to affected homes. Construction has been completed but site monitoring and operation of the groundwater pump-and-treat system have continued.
+
+The third five-year review report was issued in September 2007. The review found that the remedy is protective of human health and the environment in the short term because exposure pathways that could result in unacceptable risks are being controlled and an alternate water supply is available to users within the plume area. Interim groundwater use restrictions are required in the plume area until these cleanup standards are achieved. Long-term protectiveness for the entire remedy requires compliance with effective institutional controls (ICs); additional ICs are to be implemented.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+
+### What Is the Current Site Status?
+
+EPA selected the site’s final remedy in 1990 and updated it twice, in 1994 and 1998. The remedy included installation of on-site fencing, low temperature thermal stripping of excavated soil, operation of a soil vapor extraction system, tank content disposal and tank removal, installation and operation of a ground water pump-and-treat system, and provision of an alternate water supply to affected homes.  
+Site monitoring and operation of the ground water pump-and-treat system are ongoing.
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1982.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[Institutional Controls Report 2008](http://www.epa.gov/ictssw07/public/export/05/ILD053219259/ILD053219259_report.HTM)
+
+At the time of the remedial investigations, volatile organic chemicals (VOCs) and polychlorinated biphenyls (PCBs) exceeded background in the soils. Semivolatile organic compounds (SVOCs) and VOCs were found in the groundwater at unacceptable levels.
+
+### Sampling and Monitoring
+
+Five-Year Reviews
+
+- [Sixth five-year-review (pdf)](https://semspub.epa.gov/work/05/977792.pdf) (4.07 MB)
+- [Fifth five-year review (pdf)](https://semspub.epa.gov/work/05/541518.pdf) (59.65 MB)
+- [Fourth five-year review (pdf)](http://semspub.epa.gov/work/05/442027.pdf) (2.18 MB)
+- [Third five-year review (PDF)](http://www.epa.gov/region5/superfund/fiveyear/reviews_pdf/illinois/acme_solvent_recycling_2007_fyr_il.pdf) ( 26 pp, 1.95MB) September 2007
+- [Second five-year review (PDF)](http://www.epa.gov/region5/superfund/fiveyear/reviews_pdf/illinois/acme_solvent_recycling.pdf) (27 pp, 1MB) September 2002
+- [First five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f97-05001.pdf) (33 pp, 145K) September 1997
+
+### Enforcement Information
+
+On September 29, 1986, twenty-three PRPs entered into an Administrative Order by Consent (AOC) with U.S. EPA and lEPA to further study the remaining soil, bedrock, and groundwater contamination and to provide HCTUs and monitoring to affected residents.

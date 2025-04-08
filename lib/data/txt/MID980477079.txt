@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2-acre Chem Central site is located in Wyoming, Michigan. Since 1957, Chem Central has distributed industrial chemicals from the site. Between 1957 and 1962, hazardous wastes entered the ground at the facility through a construction flaw in a pipe used to transfer liquids between rail cars and bulk storage tanks. The leak resulted in soil and groundwater contamination. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. The site owner has implemented enhanced groundwater treatment methods to speed the cleanup.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires compliance with effective institutional controls.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included collection and off-site disposal of oils, soil vapor extraction and groundwater pumping and treatment. Construction of the remedy finished in 1995. Operation and maintenance activities are ongoing. Additionally, the site owner is has implemented enhanced groundwater treatment methods to speed the cleanup.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater contains various VOCs and semi-VOCs. The soil is contaminated with phthalates, VOCs, and polychlorinated biphenyls. Plaster Creek receives runoff from the site through Cole Drain. Because all residences in the area use the municipal water system, the only threat of exposure is through accidentally ingesting contaminated groundwater or by coming into direct contact with contaminated onsite soils.

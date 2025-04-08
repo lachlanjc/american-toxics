@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ochoa Fertilizer Co. Superfund site is located in Guánica, Puerto Rico and includes the property located along PR Route 333/Carretera Caña Gorda (PR-333) at KM 1.9, which contains parcels to the east of PR-333 consisting of approximately 112 acres referred to collectively by EPA as the “Eastern Lot” and parcels to the west of PR-333 consisting of approximately 13 acres referred to by EPA collectively as the “Western Lot.” The site also includes areas extending west beyond the Eastern Lot boundary into a right-of-way that runs north to south along PR-333, as well as into parts of the residential/commercial area. The Eastern Lot is generally bordered by the Guánica Dry Forest (a.k.a. Bosque Estatal de Guánica), a UNESCO Biosphere Reserve, to the north-northeast, east, and south, and by PR-333 to the west. Approximately 50 people live in 23 residences along PR-333. Guánica Bay is located to the west of the Western Lot and approximately 500 feet to the west of the Eastern Lot.
+
+Fertilizer manufacturing operations began on the Western Lot in 1950; the Eastern Lot at that time was undeveloped. From approximately 1955-1959, González Chemical Industries, Inc. (later named Caribe Nitrogen Corporation (CNC) began manufacturing ammonia, anhydrous ammonium, ammonium sulfate, and sulfuric acid on the Eastern Lot. A pier in Guánica Bay was used to unload cargo, including sulfur that was liquefied (i.e., burned) within a pit on the Western Lot and conveyed via pipelines to the sulfuric acid plant on the Eastern Lot. CNC stopped its operations sometime between 1968 and 1970. The Western Lot continued to be used for manufacturing and storage operations.
+
+In 1989, approximately one acre of land located near the eastern boundary of the Eastern Lot was donated to Puerto Rico Electric Power Authority (PREPA), which is now used by PREPA for access to and operation of an electrical substation. Facility equipment associated with the original manufacturing plants (ammonium and sulfuric acid plants), including a former electrical substation, located on the Eastern Lot were dismantled and discarded in the early 1990s.
+
+During a June 1998 reconnaissance of the Western Lot by the Puerto Rico Environmental Quality Board, now part of the Puerto Rico Department of Natural and Environmental Resources, two granaries were operating on the property, one in the area previously occupied by the former ammonium sulfate warehouse. Information obtained from the current operator of the Western Lot indicates that it was used for the production of animal feedstock and is currently used to mix granular and soluble grains to produce fertilizers..
+
+### What Is the Current Site Status?
+
+EPA added the iste to the National Priorities List (NPL) in September 2022. In March 2023, EPA entered into an administrative settlement agreement with Guanica-Caribe Land Development Corporation (Guanica-Caribe) to conduct removal work at the site. EPA held a community meeting in March 2023 about the status of the site and has continued to engage the community, residents, and property owners regarding the site.
+
+### Sampling and Monitoring
+
+EPA's soil, groundwater, surface water, and sediment sampling indicates that [lead](https://www.atsdr.cdc.gov/toxfaqs/tfacts13.pdf), [Polychlorinated biphenyls (PCBs)](https://www.atsdr.cdc.gov/toxfaqs/tfacts17.pdf), [thallium](https://www.atsdr.cdc.gov/toxfaqs/tfacts54.pdf), [Trichloroethylene (TCE)](https://www.atsdr.cdc.gov/toxfaqs/tfacts19.pdf), and [vanadium](https://www.atsdr.cdc.gov/toxfaqs/tfacts58.pdf) exceed benchmark levels. Other contaminants have also been detected in on-site soil, including [mercury](https://www.atsdr.cdc.gov/toxfaqs/tfacts46.pdf) and [Polycyclic aromatic hydrocarbons (PAHs)](https://www.atsdr.cdc.gov/toxfaqs/tfacts69.pdf).
+
+### Green Remediation
+
+Green remediation approaches have not yet been considered for this site.
+
+### Emergency Response and Removal
+
+EPA has been investigating soil contamination along PR-333. As a part of this investigation, EPA collected surface soil samples from residential properties and along the right-of-way of PR-333. EPA also collected sediment samples from the stormwater collection tanks adjacent to Guánica Bay. EPA conducted the sampling to determine if PCBs are coming from the Eastern Lot and being transported by overland flow of surface water runoff across PR-333 and onto residential properties and possibly into Guánica Bay. The samples collected were analyzed for PCBs.
+
+The analytical results from EPA’s May 2021 and May 2022 soil samples indicate PCBs are present along PR-333 and in 19 residential and commerical properties. Analytical results from the sediment samples collected from the stormwater collection tanks also indicate some concentrations of PCBs. The PCB concentrations detected are above the risk-based criteria established for the site. The concentrations of PCBs may cause an increased risk of adverse health effects from exposure.
+
+On March 27, 2023, EPA reached an agreement with Guanica-Caribe to remove PCB-contaminated soil from the 19 residential and commercial properties identified during EPA’s May 2021 and May 2022 sampling events, investigate other nearby properties for potential contamination and cleanup such contamination if necessary, and further evaluate for and control contaminated stormwater runoff from the Eastern Lot. EPA will monitor and oversee GC’s cleanup and compliance with the agreement.
+
+### Enforcement Information
+
+On March 27, 2023, EPA entered into an Administrative Settlement Agreement and Order on Consent for a Removal Action with Guanica-Caribe Land Development Corporation, a subsidiary of W. R. Grace & Co., to remove PCB-contaminated soil from 19 residential and commercial properties, investigate other nearby properties for potential contamination and cleanup such contamination if necessary, and further evaluate for and control contaminated stormwater runoff from the Eastern Lot. The estimated cost of the work is $10 million.

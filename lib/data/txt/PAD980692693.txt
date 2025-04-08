@@ -1,0 +1,33 @@
+### Background
+
+The North Penn Area 5 Site was added to the Superfund program's National Priority List in March 1989 and is one of twelve Sites with groundwater contamination within the North Penn Water Authority ("NPWA") service district in Montgomery and Bucks Counties. North Penn Area 5 is located in the vicinity of Colmar and Hatfield Township, Pennsylvania in the eastern part of Montgomery County, with a portion of the Site extending into Bucks County. The Site is comprised of three areas of volatile organic compound contaminated groundwater, called operable units, located within approximately five square-miles generally bounded by Richardson Road to the southeast, Bethlehem Pike (Route 309) to the west, Trewigtown Road to the northwest, and Schoolhouse Road to the east. Most of the homes near Site use municipal drinking water and are not at risk from contaminated groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+The North Penn Water Authority (NPWA) in 1979, discovered that water in its supply well NP-21 was contaminated with volatile organic compounds (VOCs), including trichloroethylene (TCE). Subsequently, NPWA, the Pennsylvania Department of Environmental Protection (PADEP), then known as the Pennsylvania Department of Environmental Resources, and EPA identified several potential sources of the contamination in the area of NP-21 that had historically used TCE and other VOCs in their production and manufacturing processes.
+
+In 1981, the Site owners, American Electronics Laboratories, Inc. (AEL), under direction of the PADEP, removed an underground storage tank containing VOCs. Other drums and containers were removed from the property and contaminated soil was treated. AEL also began treating contaminated groundwater by pumping the groundwater and sending it to a nearby sewage treatment plant. In early 1986, an air stripper was installed to remove VOCs from the groundwater onsite so that the water could be discharged into a nearby stream. In 2010, pumping and treating was ceased.
+
+EPA performed a Remedial Investigation (RI) of the groundwater, surface water and soil. EPA installed over 30 monitoring wells, conducted a well inventory for the area, sampled and analyzed water from all the new and existing residential and commercial wells in the vicinity of the Site, and shared these results with individual property owners. EPA also evaluated groundwater remediation strategies during a Feasibility Study (FS) to treat and restore the contaminated groundwater plume. A sitewide Proposed Remedial Action Plan, or cleanup plan, was issued in 2002. Extensive comments were received and additional field activities were conducted in 2002 through 2003.
+
+EPA divided the Site into [three areas](https://semspub.epa.gov/src/document/03/2321391) of groundwater contamination, called operable units (OUs):
+
+- OU1 is located in the vicinity of a facility formerly owned and operated by BAE Systems Information and Electronic Systems Integrations, Inc. (BAE), previously known as AEL. The facility manufactured electronic communications systems and components. This facility is currently owned by Cobham Advanced Electronic Solutions, Inc. (CAES).
+- OU2 is located in the vicinity of a company owned and operated by the former Stabilus Inc. who manufactured gas springs used in the automobile industry and other mechanical equipment. This facility is currently owned by the Constantia Colmar Group.
+- OU3 is located near a number of smaller facilities located near Advance Lane, associated with a variety of products and services.
+
+A [Record of Decision (ROD) for OU1 and OU3](https://semspub.epa.gov/src/document/03/2008146)  was issued in 2004. A [ROD for Interim Action at OU2](https://semspub.epa.gov/src/document/03/2123180) was issued in 2011 for the overburden portion of groundwater contamination. The bedrock portion of groundwater contamination needs more investigation before selecting a final remedy.
+
+In response to data gathered during BAE’s OU1 design efforts, EPA issued a Proposed Remedial Action Plan in August 2014 to make changes to the OU1 selected remedy. Extensive public comments were received and EPA finalized the [ROD Amendment for OU1](https://semspub.epa.gov/src/document/03/2229904) in July 2016. The ROD Amendment selected optimized groundwater extraction and treatment, with contingencies, and institutional controls to address the VOC contamination at OU1.
+
+### What Is the Current Site Status?
+
+**Operable Unit 1 (OU1)**: In 2017, EPA issued an Order to have the potentially responsible parties (PRPs) implement pre-remedial design investigations at OU1 in order to implement the cleanup in the 2016 ROD Amendment. The work, according to the approved plan, is ongoing and expected to be completed in early 2023, after which the design should begin..
+
+**Operable Unit (OU2)**: For potential vapor intrusion concerns, the PRPs are monitoring the facility above the groundwater contamination. Vapor intrusion is the migration of volatile chemicals from contaminated groundwater into the indoor air spaces of buildings through openings or cracks in the building foundation.
+
+In 2017, EPA issued an order to the OU2 PRPs to perform the first phase of the Remedial Investigation (RI) on the bedrock, or deep, groundwater contamination. The work, according to the approved RI workplan, is ongoing.
+
+For the overburden, or shallow groundwater, the PRPs performed the first phase of the cleanup according to the 2011 ROD for Interim Action. The remaining cleanup is pending additional information from the RI on the bedrock.
+
+**Operable Unit (OU3)**: Concentrations of Site contaminants of concern at OU3 are low, but remain above cleanup levels. EPA is currently conducting a treatability study to identify different remedial alternatives at that may be more. Rock coring was conducted in February 2020 in order to obtain samples for the study. Groundwater samples will be collected by EPA in May 2020, and the findings of this part of the study are expected in summer 2020.

@@ -1,2 +1,71 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The former Vieques Naval installation is a 23,000-acre facility located on Vieques Island, Puerto Rico. From the mid-1940s until 2003, significant amounts of munitions items were fired during military training. The Commonwealth of Puerto Rico considered Vieques its highest priority facility for cleanup, and in 2005 large portions of Vieques and the surrounding waters were placed on the National Priorities List (NPL). The site has unique challenges such as unexploded ordnance across thousands of acres of land and sea floor, abundant ecologically and culturally sensitive resources, and the sometimes differing viewpoints and objectives of numerous stakeholders, including the local community, educational and scientific organizations, and various advocacy groups.
+
+### What Has Been Done to Clean Up the Site?
+
+Representatives from Naval Facilities Engineering Command Atlantic, the EPA, Commonwealth of Puerto Rico Department of Natural and Environmental Resources, National Oceanic and Atmospheric Administration, National Marine Fisheries Service, Department of Interior, and United States Fish and Wildlife Service work collaboratively to develop and implement measures that are protective of human health and the environment for the areas of concern on Vieques. The Navy completed an explanded range assessment at the former Vieques Naval Training Range through the Munitions Response Program resulting in a Time Critical Removal Action of munitions and explosives of concern found on the surface at the former Live Impact Area, a Non-Time Critical Removal Action of Munitions and Explosives of Concern on the surface at the Surface Impact Area, and Non-Time Critical and Time Critical Removal Actions of subsurface Munitions and Explosives of Concern at selected roads and beaches within the former Vieques Naval Training Range.
+
+Under the U.S. Navy's Munition Response Program and Environmental Restoration Program, numerous Records of Decisions (RODs) have been issued for various operable unit sites throughout Eastern and Western Vieques. The remedies as required by these RODs are reviewed no less than every five years to ensure they remain protective of human health and the environmental. The navy has drafted their Second Five Year Review document, dated December 2023. The document is under regulatory review.
+
+As noted above activities to investigate and remove munitions continue. The Navy continues to conduct surface clearance within the former Vieques Naval Training Range. In addition, a non-time critical removal action was conducted to open the historic lighthouse at Puerto Ferro to the public. This interim action allowed for accelerated public access to the area around the historic lighthouse and adjacent beach, which was opened in March 2015.
+
+Clearance of 75 acres in the former Live Impact Area to address submunitions started in 2016. This work targets those areas where there is a high density (1,000 / acre) of submunitions hidden by vegetation and includes controlled burning for vegetation removal which is needed to allow safe munitions clearance. Alternatives to burning were explored but these are unsafe or ineffective. The Navy conducted test burns in January 2014 and October 2016. These tests indicated that the submunitions were cleared successfully and safely. Air monitoring showed no effect in residential areas and this data was presented to the Restoration Advisory Board at a meeting held on November 16, 2016. The path forward for this area is to continue to burn small areas (1 to 2 acres) and remove submunitions. The Navy are regularly reporting on these activities to EPA, FWS, and DNER. Community updates are also provided.
+
+UXO 16 – Underwater Areas
+
+The underwater areas adjacent to the range and operational areas on East and West Vieques have a size of approximately 11,500 acres and consist of portions that are known or suspected to have been impacted by MEC. UXO 16 includes former ship anchoring points where munitions may have been loaded, offloaded, or transferred (including three anchorage areas and Mosquito Pier), areas where munitions may have been inadvertently fired into the water from naval gunfire training or ATG bombing (former VNTR), and areas where the explosive safety arc from artillery ranges and adjacent onshore OB/OD activities may have extended into the water (former NASD and VNTR).
+
+In 2013, available bathymetry data within UXO 16 were compiled in order to develop a plan for conducting a side-scan sonar survey. The side-scan sonar survey helped plan the Wide Area Assessment (WAA) of underwater munitions, including avoiding underwater obstacles during the assessment. The side-scan sonar survey began in November 2013 and was completed in January 2014. A WAA to provide a preliminary evaluation of EADAs, in accordance with a WAA Work Plan, began in March 2016 and field work was completed in May 2017. The Final WAA Report was submitted in September 2018. Details on the specific underwater areas that are being investigated are included in the sections that follow.
+
+Explosives Safety Arcs and Artillery Safety Fans adjacent to the Former VNTR
+
+A series of explosives safety arcs and artillery safety fans associated with the historical ranges, gun emplacements, and OB/OD area were developed for the former VNTR as part of the Vieques Land Use Plan and the Preliminary Range Assessment. The safety fans provide an estimate of the lateral extent of the potential munitions impact area extending from the ranges and artillery gun positions.
+
+Anchorage Areas
+
+Navy ships containing munitions used during the training activities at the former AFWTA would temporarily anchor at three anchoring locations in the Vieques Passage and Vieques Sound while waiting to be unloaded. When the anchorage areas were operational, explosives in quantities no greater than 1,625 short tons were handled in any area at one time.
+
+The boundary of each anchorage area was defined by the area in which the ammunition supply ship would rotate around a single anchorage point. Each anchorage area radius was established using the depth of water, the ship horizontal offset from its anchor line, the length of the largest ammunition supply ship, and a distance buffer from the designated anchorage point. The two westernmost anchorage areas were defined with a maximum radius of 440 yards and the other anchorage area with a maximum radius of 500 yards.
+
+Mosquito Pier
+
+Mosquito Pier was used for loading and unloading ordnance from Navy ships. The boundary of this area is defined as a 100-foot radius around the perimeter of the pier to account for any munitions that may have been dropped during loading and unloading. Because of the large amount of general debris located around Mosquito Pier, the area will be investigated separately from the WAA. Mosquito Pier will be included in the nearshore NTCRA (see “Other Offshore Areas”). The results of the NTCRA around Mosquito Pier (i.e., whether munitions are found) will be used to determine if further investigation or action is warranted in this area.
+
+Offshore of SWMU 4 (UXO 16.1)
+
+The UXO 16.1 Proposed Remedial Action Plan, Atlantic Fleet Weapons Training Area-Vieques, Former Naval Ammunition Support Detachment, Vieques, Puerto Rico was issued in November 2022.
+
+The explosives safety arc of the OB/OD operations at SWMU 4 extends approximately 2,000 feet offshore to the west of the former OB/OD area; the offshore area is part of UXO 16 and is referred to as UXO 16.1. Because portions of SWMU 4 are planned for recreational use, the Navy accelerated evaluation of the adjacent underwater area. To that end, an ESI QAPP for UXO 16.1 was finalized in April 2014. ESI field activities began in March 2015 and were completed in May 2015, which determined relatively little MEC is present in the offshore area adjacent to SWMU 4. Based on the findings of the ESI, an RI SAP was prepared to characterize the nature and extent of potential contamination in marine sediment and assess the associated human health and ecological risks. The RI fieldwork was completed in 2016 and a Final RI Report was completed in July 2018. The navy then began a feasibility study to evaluate potential remedies to clean up the underwater area adjacent to SWMU 4. The Final UXO 16.1 Feasibility Study Report, was issued on February 18, 2022.. The Proposed Remedial Action Plan was issued for public comment in October 2022 and the UXO 16.1 ROD, which requires nearshore MEC removal and land use controls, was finalized in September 2023. The Remedial Action Work Plan is anticipated to be finalized in 2024, with remedial action implementation anticipated for 2025.
+
+Offshore of Cayo La Chiva
+
+Cayo La Chiva (UXO 18) is a 12-acre island located south of the EMA. A simulated machine gun nest was located on Cayo La Chiva during Operation Portrex conducted in 1950. No additional training activities are documented to have occurred in the UXO 18 area; however, fired 5-inch rockets were identified both on and offshore of Cayo La Chiva, which indicates the area may have been used for additional training, albeit potentially in a single event. In 2010, the Navy conducted a visual underwater survey within approximately 100 feet offshore of Cayo La Chiva and covered the remainder of Bahía de la Chiva using 200-foot spacing transects. Nine potential munitions were identified just west and south of the island. An EE/CA for an NTCRA of underwater munitions adjacent to Cayo La Chiva (UXO 18) was finalized in November 2014. Based on the EE/CA, an NTCRA work plan was completed in October 2016. The NTCRA fieldwork was conducted in June 2017 and a Final After Action Report was completed in July 2018.
+
+Other Offshore Areas
+
+An NTCRA, in accordance with an EE/CA was conducted for the offshore area adjacent to UXO 15 PI 9 East. The underwater area contained several encrusted munitions and/or MD, whose removal is described in the Final NTCRA Work Plan, which was issued in January 2017. The NTCRA fieldwork was conducted in 2018 and the Final After Action Report was in June 2019.
+
+In addition to this area, an EE/CA was prepared for removal of nearshore (i.e., within approximately 100 meters of the shoreline) munitions around the perimeter of the former VNTR and Mosquito Pier. The EE/CA was issued for public comment on May 15, 2017. Following evaluation of public comments submitted during the EE/CA public comment period, an NTCRA Work Plan was prepared and the Final completed in August 2018. Fieldwork started in April 2019 and will continue for several years.
+
+A Remedial Investigation is currently underway for UXO 16.2 (near shore areas near public beaches), which encompasses approximately 600 non-contiguous acres adjacent to 29 beaches that are currently open to the public or are being considered for public use within the former VNTR.
+
+Mosquito Pier (UXO 16.3) was used for loading and unloading ordnance from Navy ships. The boundary of this area is defined as a 100-foot radius around the perimeter of the pier and associated causeway to account for any munitions that may have been dropped during loading and unloading. A Site Screening Area Quality Assurance Project Plan is anticipated to be finalized in 2024 with the field activities potentially beginning in late 2024; however, the field activities will be adjusted to minimize impacts to tourism.
+
+To date, the Navy has spent approximately $400 million on its activities on Vieques of which approximately $90 million have contributed directly to the local economy.
+
+### What Is the Current Site Status?
+
+The U.S. Navy has divided work at the site between two programs: The Munitions Response Program and the Environmental Restoration Program. All munitions-related work is carried out under the Munitions Response Program. All typical chemical contamination investigations are covered by the Environmental Restoration Program. Within the Munitions Response Program, the site has been divided into multiple Munitions Response Sites in east and west Vieques.
+
+Under its Environmental Restoration Program, the Navy is conducting multiple environmental investigations to determine the nature and extent of contamination at identified Areas of Concern (AOCs) and Solid Waste Management Units (SWMUs). In the Naval Ammunition Support Detachment (NASD), eight of these SWMUs and AOCs have Records of Decision (RODs) selecting final cleanup plans or no further action and eleven were determined not to have been impacted from past practices.
+
+Within the former Vieques Naval Training Range, multiple sites have been investigated or are currently under investigation to assess potential past chemical releases. Remedial Investigations/Feasibility Studies are being prepared or have been submitted for UXOs 2,7,8, UXOs 3,5,6,11, UXOs 9 &10 and UXO 13. The Navy has also completed an expanded range assessment of the former Vieques Naval Training Range and the Eastern Conservation Area (UXO 1) and is also conducting removal actions to address munitions and explosives of concern on the surface of the former Live Impact Area; removal of munitions and explosives of concern on the surface at the Surface Impact Area; and removal of subsurface munitions and explosives of concern from selected roads and beaches within the former Vieques Naval Training Range. RODs were issued for the Former Open Burn Open Detonation site (SWMU 4) in September 2019, the EMA Interior (UXO 12) and EMA South (UXO 14) in January 2021, Puerto Ferro (UXO 15) in April 2023, and UXO 17 Potential Area of Concern (PAOC) EE in September 2024. Remedial Action Completion Reports (RACRs) were issued for UXOs 12 and 14 and UXO 15 in September 2024.
+
+The Navy has completed sampling activities associated with an island-wide perfluoroalkyl substances (PFAS) Site Inspection investigation to determine potential PFAS source/release areas in Vieques.
+
+At the request of the public to address concerns associated with open detonation, two detonation chambers and a water jet have been purchased by the navy which are used to address munitions that can be safely moved and detonated within the chamber. The navy began the use of the chambers in the spring of 2022.
+
+### Emergency Response and Removal
+
+As indicated above the navy has conducted a number of removal actions to address munitions and continues to use their removal authority to address muntions of concern upland and within the water.

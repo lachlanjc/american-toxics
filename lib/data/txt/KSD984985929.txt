@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Wright Ground Water Contamination site is located in Wright, Kansas. The site was initially identified in July 1988 when a private well was tested. Volatile organic compounds and nitrates were detected at elevated levels in the groundwater sample. A number of additional groundwater sampling investigations were conducted at the site between 1988 and 1994. Groundwater sampling investigations during these investigations indicated approximately 45 of 70 water supply wells were contaminated at concentrations exceeding several state and federal drinking water standards. Contaminants identified in groundwater samples included VOCs, herbicides and nitrogen compounds. The site was listed on the National Priorities List in 1996. During this time frame, an Engineering Evaluation/Cost Assessment (EE/CA) was completed in 1995 which evaluated options for provisions of an alternative water supply to the community of Wright. The public water supply system was completed in 1997.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and local actions. The remedy at the site was constructed in accordance with the requirements of the Record of Decision. A system of groundwater monitoring wells is used to track the contaminant levels and Institutional Controls restrict the installation of groundwater wells in areas where the groundwater is contaminated. All groundwater threats at the site have been addressed by providing a municipal water system for the residents of Wright and enforcing the ICs through the Ford County well permit process.
+
+In 1988, sampling from a private well identified contamination at the site. The individual who collected the sample notified the Kansas Department of Health and Environment following the discovery of pesticides, heavy metals and VOCs in the groundwater sample. The KDHE conducted further sampling in wells throughout Wright, confirming area-wide groundwater contamination.
+
+A full investigation into the nature and extent of groundwater contamination has been completed. A final cleanup remedy was selected to address long-term cleanup goals. This remedy includes monitored natural attenuation and a groundwater monitoring program to verify that contaminant levels decrease. Institutional controls are also a key component of the remedy. The ROD for the site was signed September 25, 2007.
+
+The Remedial Design/Remedial Action Monitoring Plan for Wright was approved in 2008.
+
+### What Is the Current Site Status?
+
+The third Five-Year Review was completed in 2023, in which protectiveness was deferred due to a need to conduct additional vapor intrustion sampling. VI sampling was conducted between December 2023 and August 2024 to evaluate potential pathways. This data will support the FYR Addendum, which is planned for completion September 2025. A system of groundwater monitoring wells (MWs) is being used to track the contaminant levels, the location of the plume and the rate at which monitored natural attenuation is occurring.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A groundwater ordinance was put in place for the city of Wright, KS on March 5, 2024.
+
+### Sampling and Monitoring
+
+A system of groundwater monitoring wells is being used to track the contaminant levels, the location of the plume, and the rate at which monitored natural attenuation (MNA) is occurring. Groundwater monitoring is completed annually.
+
+### Emergency Response and Removal
+
+Site cleanup also included a removal action, or short-term cleanup, to address immediate threats to human health and the environment. A 1997 EPA removal action extended a municipal water line for affected residences in Wright.

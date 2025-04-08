@@ -1,2 +1,61 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The FCX, Inc. (Statesville Plant) [Superfund](http://www.epa.gov/superfund) site includes several properties in Statesville, North Carolina, where Burlington Industries, Inc. and Beaunit operated a textile facility, and Farmer’s Cooperative Exchange (FCX) operated a pesticide facility.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1990 because of contaminated groundwater, soil, and surface water resulting from former manufacturing operations.
+
+The EPA, the [North Carolina Department of Environment and Natural Resources (NCDENR)](https://deq.nc.gov/), and El Paso Natural Gas Company (now owned by Kinder Morgan), the Site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated Site conditions. By conducting cleanup activities, monitoring groundwater and surface water and undertaking Five-Year Reviews, the EPA, NCDENR, and Kinder Morgan continue to protect people and the environment from Site contamination. Local residences and businesses are connected to the public water supply.
+
+The remedies at the FCX Statesville Site currently protect human health and the environment. There are no known current exposure routes to contaminated soil or groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+Site investigations and cleanup activities have focused on three areas, which the EPA refers to as [operable units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o).
+
+- OU-1: pesticide groundwater contamination associated with the former FCX property
+- OU-2: pesticide soil contamination associated with the former FCX property
+- OU-3: groundwater contamination associated with the former textile property.
+
+**1993**  
+The long-term remedy for OU-1, selected in 1993, included using a pump-and-treat system to address contaminated groundwater at the FCX property and south of the FCX property, discharging treated groundwater to City of Statesville's wastewater treatment system, monitoring groundwater at the Site for an estimated 30 years, and placing institutional controls on the property to prohibit the use of groundwater for drinking purposes.
+
+**1996**  
+The long-term remedy for OU-3, selected in 1996, involves Kinder Morgan using a soil vapor extraction system to treat soil contaminated with VOCs, and an air sparging system to treat groundwater contaminated with VOCs. Groundwater will be monitored across the Site for 30 years (or until the cleanup levels have been achieved), and monitored natural attenuation (MNA) is used in areas with lower levels of groundwater contamination. Institutional controls have been placed on the Site properties to prohibit the use of groundwater for drinking purposes.
+
+**2001**  
+The EPA completed cleanup activities for OU-2 in 2001. The EPA removed about 15,000 cubic yards of pesticide-contaminated soil, treated the soil on-Site, and backfilled the treated soil on- Site. The EPA treated the liquid wastes from the soil treatment process and disposed of it at an off-Site facility.
+
+El Paso Natural Gas Company (EPNG) began cleanup activities for OU-3 in 2001. EPNG used air sparging to treat groundwater contamination. They also used soil vapor extraction and monitored natural attenuation to address VOC contamination in soil and groundwater at the former textile property. Since 2001, EPNG has removed about 14,000 pounds of VOCs from the soil and groundwater. Kinder Morgan continues to monitor groundwater and perform cleanup activities required by the OU-3 remedy. EPA and NCDENR provide oversight of the OU-3 remedy.
+
+**2006**  
+The EPA updated the long-term remedy for OU-1 in 2006 to change groundwater cleanup activities from a pump-and-treat system to monitored natural attenuation (MNA). The North Carolina Department of Environment and Natural Resources (NCDENR) continues to monitor groundwater at the former FCX property during the OU-1 remedy.
+
+**2009**  
+Kinder Morgan conducted a vapor intrusion assessment in 2009 which determined the risk levels to residents were below EPA's action levels.
+
+**2015**  
+The EPA signed an Explanation of Significant Difference in 2015 to address shallow groundwater and surface water contamination in the northern drainage area using angled injection technology.
+
+### What Is the Current Site Status?
+
+The EPA published the [most recent Five Year Review](https://semspub.epa.gov/src/document/04/11166216) in 2021. The remedies at the FCX Statesville Site currently protect human health and the environment. There are no known current exposure routes to contaminated soil or groundwater.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls are in place on the former FCX property and textile property, as well as the adjacent property parcels Kinder Morgan purchased.
+
+Institutional controls have been placed on the Site properties to prohibit the use of groundwater for drinking purposes.
+
+### Sampling and Monitoring
+
+NCDENR continues to monitor groundwater during the OU-1 remedy. Kinder Morgan continues to monitor groundwater and surface water during the OU-3 remedy.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+In 1992, a Trust Agreement provided FCX bankruptcy proceeding assets to partially fund cleanup activities on the former FCX property. Additionally, the EPA negotiated legal agreements with EPNG to investigate and clean up the contamination associated with the former textile property. Kinder Morgan continues to fund Site cleanup and monitoring activities.

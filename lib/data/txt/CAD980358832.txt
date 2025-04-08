@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Aerojet General Corporation site covers 5,900 acres; its northeastern edge is about a half-mile from the American River. Aerojet and its subsidiaries have manufactured liquid and solid propellant rocket engines for military and commercial applications, and the Cordova Chemical Company has operated chemical manufacturing facilities on the site. Both companies have disposed of unknown quantities of hazardous waste chemicals on the property. Site investigations and cleanup are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+**Cleanup Ongoing**
+
+The final groundwater extraction and treatment system planned for OU-3 (Western Groundwater) began operating in May 2010. At GET H (Area 1), the treatment plant and all extraction wells are operating. At GET J (Area 2), all 10 extraction wells are in service. Combined GET E/F with 21 extraction well locations is fully operational. GET K (Area 3) extraction wells, pipelines and treatment systems in Rancho Cordova were completed and operational in 2009. The GET L (Area 4) Bajamont Way Treatment plant is across the American River from the Aerojet Facility in Carmichael and has been fully operational since 2008. GET L-A is also across the American River in Ancil Hoffman Park, a county park and golf course in the city of Carmichael. Treated water irrigates the county's golf course. Evaluation of the effectiveness of the systems will be conducted by EPA and the state until satisfactory containment of the contamination can be demonstrated. EPA will review the remedy every five years until all cleanup objects are attained. These Five-Year Reviews will examine ongoing work throughout the site.
+
+The groundwater extraction and treatment system for OU-5 (Perimeter Groundwater) is close to full operation in parts of the OU such as Zone 1. In others, additional design and construction of extraction systems will proceed under orders from EPA and the state. The water treatment systems have been constructed, although treatment systems may be modified or expanded as needed in the future. Planning and cleanup for the soil areas is also expected to proceed rapidly with EPA oversight. The OU-5 groundwater containment will be examined in conjunction with the effectiveness evaluation of the OU-3 groundwater remedy.
+
+**Cleanup Progress**
+
+Ten groundwater extraction and treatment systems (GETs) are operating throughout the site: ARGET, GET A, GET B, GET D, GET E/F, GET H-A, GET J, GET K-A, GET L-A and GET L-B. Together, they remove over 20 million gallons of contaminated groundwater each day on average. Through the end of 2010, all groundwater extraction and treatment systems in OU-3 and OU-5 have treated a cumulative total of 107,000 million gallons of groundwater and removed more than 850,000 pounds of chemical contaminants. Western
+
+*Groundwater (OU-3)*: This OU will contain contaminated groundwater on the western side of the site and eventually restore the aquifer. All of the planned extraction wells and treatment systems are operating, with only a few extraction wells awaiting power connection. Aerojet publishes an annual public notice showing the current maximum extent of groundwater contamination in OU-3.  
+
+### Enforcement Information
+
+The operations of the remedy and the annual maintenance and sampling is conducted by the potentially responsible party under a Partial Consent Decree (PCD), and Unilateral Administrative Orders (UAOs) for OU3, OU5 [soil](https://sems.epa.gov/work/1723580894194/09-2243190.pdf) and [groundwater](https://sems.epa.gov/work/1723580894194/09-2243191.pdf), and [OU6](https://sems.epa.gov/work/1723580894194/09-100008834.pdf).

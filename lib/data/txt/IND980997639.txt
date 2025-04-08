@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 80-acre Tippecanoe Sanitary Landfill, Inc. site is located in Lafayette, Indiana. The site is an inactive landfill. It also includes a wetland. The landfill received about 3.4 million cubic yards of solid waste. In the 1970s, wastes included an industrial sludge that contained elevated levels of polychlorinated biphenyls (PCBs). Landfill operations led to soil and groundwater contamination. Following cleanup, operation and maintenance activities and groundwater monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term, and is expected to be protective in the long term. Institutional controls are in place and are effective and enforceable. The site’s next five-year review is expected to be completed in September 2025.
+
+### What Is the Current Site Status?
+
+The site’s final remedy included a landfill cover, fencing, leachate extraction and treatment, landfill gas extraction, groundwater treatment (if necessary), deed restrictions to limit groundwater use and protect the remedy, and operation and maintenance activities.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater contamination, including organic and inorganic compounds typically seen in landfill leachate, has been verified at the site. However, no drinking water wells exist within one mile of the site and municipal water was extended to the area prior to the discovery of any groundwater contamination.

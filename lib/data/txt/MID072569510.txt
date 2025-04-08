@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 19.6-acre Muskegon Chemical Company (MCC) site is located in Whitehall, Michigan. The Muskegon Chemical Company began making specialty chemicals at the Whitehall facility in 1975. A leak in the drainage system inside the facility contaminated soil and groundwater with hazardous chemicals. The leak was later repaired. Contamination associated with the site has migrated a half-mile southwest of the facility to Mill Pond Creek. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review completed in 2023 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation of the vapor intrusion pathway and development of an Institutional Controls Implementation and Assurance Plan.
+
+The site’s long-term remedy included treatment of soil and groundwater. The soil remedy consists of soil vapor extraction (SVE), air sparging and natural attenuation. The groundwater remedy consists of groundwater extraction, treatment and reinjection followed by natural attenuation. Construction of the remedy finished in 1995. Operation and maintenance activities are ongoing.
+
+### What Is the Current Site Status?
+
+In 2023, EPA and Michigan Department of Environment, Great Lakes, and Energy completed a five-year review of the Muskegon Chemical Superfund site in Whitehall, Michigan. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. This was the sixth five-year review of this site.
+
+The review found that the remedy at the site currently protects human health and the environment. There is currently no known exposure pathway to the current site contaminants of concern (COCs) under existing conditions. The remedy is functioning as intended. Effective institutional controls are in place to prevent unacceptable exposures. However, in order for the remedy to be protective in the long-term, several actions are required.
+
+Read [Sixth Five-Year Review Report (2023) - Muskegon Chemical Co.(PDF)](https://semspub.epa.gov/src/document/05/981913) (215pp, 55.44 MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Sampling and Monitoring
+
+T he [Muskegon Chemical Company 2021 Annual Progress Report (PDF)](https://semspub.epa.gov/src/document/05/976697) (221 pp, 36.84 K, [About PDF](https://www.epa.gov/home/pdf-files) ) includes all results of sampling and tests and other data received and summarizes all site work conducted during the 2021 reporting period.

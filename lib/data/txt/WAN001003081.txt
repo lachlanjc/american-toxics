@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Grain Handling Facility at Freeman is an approximately 1-acre property located on the eastern side of State Highway 27 in the town of Freeman, Washington. Freeman is a rural community located about 20 miles southeast of Spokane, Washington. This site is used as a seasonally active grain handling facility. The facility was constructed in 1955 and is believed to have been operated as a grain handling facility since that time.
+
+The grain handling facility consists of 11 steel grain silos, one steel grain elevator, and one subterranean receiving pit. A railway line that parallels State Highway 27 traverses the property from the southeast to the northwest.
+
+Carbon tetrachloride has historically been used at grain handling facilities to control pests. Although there are no records confirming use of carbon tetrachloride at the Grain Handling Facility at Freeman, impacts to soil beneath the site indicate the use and release of this contaminant in the past.
+
+The soil beneath the Grain Handling Facility property is contaminated with low levels of carbon tetrachloride, chloroform, and carbon disulfide. The majority of this contamination has migrated into the local groundwater. This groundwater supplies drinking water to several private residences, as well as the Freeman School District, which serves approximately 900 students, teachers, and workers. Point of use water treatment systems have been installed to remove contaminants from drinking water until the cleanup is completed. An interim action, which will become part of the final remedy, was completed in June 2021. This action included a groundwater extraction well, a treatment system, and four injection wells. Performance monitoring of this interim action will further inform the system sizing necessary for the final groundwater remedy.
+
+The soil and groundwater contamination at this site led to the Grain Handling Facility at Freeman being listed on the National Priorities List in September, 2015.The Washington Department of Ecology is the lead agency for the investigation and cleanup of this site.
+
+[Additional cleanup information about this site is available from the Washington Department of Ecology website](https://fortress.wa.gov/ecy/gsp/Sitepage.aspx?csid=12540).
+
+### What Is the Current Site Status?
+
+In February 2021, the Department of Ecology released their proposed cleanup plan for public review. The Department of Ecology is currently writing a Cleanup Action Plan based on guidelines in the Model Toxics Control Act. Point-of-entry water treatment systems were installed in the school buildings as well as in affected homes where owners accepted them. The grain handling facility continues to operate on site as well as the school district and several homes.

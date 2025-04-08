@@ -1,41 +1,67 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 62-acre Medley Farm Drum Dump Superfund site is located in Gaffney, South Carolina. It includes an area where parties stored drums of chemical wastes from 1973 to 1978. Releases of chemicals from the wastes placed on site contaminated groundwater and soil. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1989. EPA, the South Carolina Department of Health and Environmental Control (SCDHEC), and the site’s potentially responsible parties (the PRP group) have investigated site conditions. By placing institutional controls on the site property to limit digging, groundwater use and well installation; treating and monitoring groundwater; and undertaking Five-Year Reviews, EPA, SCDHEC and the PRP group continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site.
-What Has Been Done to Clean Up the Site?
-The site’s PRP group leads site investigation and cleanup activities, with oversight provided by EPA and SCDHEC. 1983
-In 1983, EPA collected and disposed of contaminated soil and waste, drums and other containers of hazardous wastes, and contaminated water and sludge from the six unlined lagoons. EPA backfilled the lagoons with clean soil. 1989 – 1991
-Between 1989 and 1991, a remedial investigation/feasibility study by the site’s PRP group identified three areas of contaminated subsurface soil at the site. The study determined that parties would need to treat the soil in order to protect groundwater. The study also defined a 10-acre area underlain by contaminated groundwater. 1991
+### Background
+
+The 62-acre Medley Farm Drum Dump Superfund site is located in Gaffney, South Carolina.
+
+It includes an area where parties stored drums of chemical wastes from 1973 to 1978. Releases of chemicals from the wastes placed on site contaminated groundwater and soil.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1989. EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/), and the site’s [potentially responsible parties (the PRP group)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By placing institutional controls on the site property to limit digging, groundwater use and well installation; treating and monitoring groundwater; and undertaking Five-Year Reviews, EPA, SCDHEC and the PRP group continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s PRP group leads site investigation and cleanup activities, with oversight provided by EPA and SCDHEC.
+
+**1983**  
+In 1983, EPA collected and disposed of contaminated soil and waste, drums and other containers of hazardous wastes, and contaminated water and sludge from the six unlined lagoons. EPA backfilled the lagoons with clean soil.
+
+**1989 – 1991**  
+Between 1989 and 1991, a remedial investigation/feasibility study by the site’s PRP group identified three areas of contaminated subsurface soil at the site. The study determined that parties would need to treat the soil in order to protect groundwater. The study also defined a 10-acre area underlain by contaminated groundwater.
+
+**1991**  
 EPA issued the site’s long-term cleanup plan. It included
-using air stripping and a pump-and-treat system to extract and treat contaminated groundwater on site
-discharging treated groundwater off site to Jones Creek under an approved permit
-treating contaminated soil on site using soil vapor extraction (SVE)
-monitoring groundwater using the existing groundwater monitoring system
-if necessary, installing additional monitoring wells
-monitoring soil and surface water.
-1993
-EPA revised the cleanup plan, removing the requirement to treat air emissions from the SVE and groundwater treatment systems. 1995
-The site’s PRP group completed construction of the SVE system and the groundwater treatment system. 2000 - 2004
-The PRPs installed additional recovery wells to capture soil vapor and groundwater for treatment and operated both systems continuously until 2004. The PRPs completed soil cleanup activities in 2004 and ended operation of the SVE system at that time. 2004 - 2010
-The PRP group proposed an interim groundwater measure, using ERD as a groundwater cleanup methodology, which EPA approved in late 2004. With EPA and SCDHEC approval, the PRPs then discontinued the groundwater treatment operations of the pump-and-treat system. Between 2004 and 2010, six groundwater treatments were administered to reduce levels of the contaminants in the groundwater, each followed by a monitoring period and sampling. In early 2009, surface water sampling in Jones Creek found no site contaminants present, continuing the trend from earlier years in the cleanup action. 2010
-EPA issued a second revision to the cleanup plan, requiring placement of institutional controls on the site property in the form of a restrictive covenant to restrict groundwater use. 2012
+
+- using air stripping and a pump-and-treat system to extract and treat contaminated groundwater on site
+- discharging treated groundwater off site to Jones Creek under an approved permit
+- treating contaminated soil on site using soil vapor extraction (SVE)
+- monitoring groundwater using the existing groundwater monitoring system
+- if necessary, installing additional monitoring wells
+- monitoring soil and surface water.
+
+**1993**  
+EPA revised the cleanup plan, removing the requirement to treat air emissions from the SVE and groundwater treatment systems.
+
+**1995**  
+The site’s PRP group completed construction of the SVE system and the groundwater treatment system.
+
+**2000 - 2004**  
+The PRPs installed additional recovery wells to capture soil vapor and groundwater for treatment and operated both systems continuously until 2004. The PRPs completed soil cleanup activities in 2004 and ended operation of the SVE system at that time.
+
+**2004 - 2010**  
+The PRP group proposed an interim groundwater measure, using ERD as a groundwater cleanup methodology, which EPA approved in late 2004. With EPA and SCDHEC approval, the PRPs then discontinued the groundwater treatment operations of the pump-and-treat system.
+
+Between 2004 and 2010, six groundwater treatments were administered to reduce levels of the contaminants in the groundwater, each followed by a monitoring period and sampling. In early 2009, surface water sampling in Jones Creek found no site contaminants present, continuing the trend from earlier years in the cleanup action.
+
+**2010**  
+EPA issued a second revision to the cleanup plan, requiring placement of institutional controls on the site property in the form of a restrictive covenant to restrict groundwater use.
+
+**2012**  
 EPA modified the earlier-issued (1991) final cleanup plan, changing the groundwater remedy to enhanced reductive dechlorination (ERD), an in-place biodegradation treatment process. EPA also included a contingency remedy – monitored natural attenuation (MNA) – in the event that ERD cannot meet cleanup levels sooner than MNA would meet them. The modified cleanup plan also included expanding the existing groundwater injection system infrastructure; continuing periodic monitoring of groundwater and surface water for five years; maintaining existing land use restrictions; and continuing site maintenance activities.
 
-What Is the Current Site Status?
+### What Is the Current Site Status?
+
 The fifth Five-Year Review was published by EPA HQs in 2019. Tlie remedy at the Medley Ftimi Drum Dump Superfund Site cuiTently protects human health and the environment.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 EPA required placement of institutional controls on the site property in the form of a restrictive covenant to restrict groundwater use.
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA negotiated legal agreements with the site’s PRP Group to investigate and clean up the site. The PRP Group continues to fund site cleanup, monitoring and oversight activities.

@@ -1,29 +1,29 @@
-REPUBLIC STEEL CORP. QUARRYELYRIA, OH
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Republic Steel Corp. Quarry (RSQ) site is located near the Black River in Elyria, Ohio. It consists of a 5-acre quarry containing water and 7 acres of fenced land surrounding the quarry. From 1950 to 1975, the Republic Steel Corporation discharged about 200,000 gallons per day of waste pickle liquor and rinse water, consisting of sulfuric acid and dissolved metal oxides, into the quarry via a ditch. Sampling later found groundwater beneath the site was contaminated with heavy metals. In 1977, Republic Steel sold the quarry and surrounding land to the City of Elyria. EPA placed the site on its Superfund program National Priorities List (NPL) of hazardous waste sites in June 1986. 
+### Background
 
-What Has Been Done to Clean Up the Site?
+The Republic Steel Corp. Quarry (RSQ) site is located near the Black River in Elyria, Ohio. It consists of a 5-acre quarry containing water and 7 acres of fenced land surrounding the quarry. From 1950 to 1975, the Republic Steel Corporation discharged about 200,000 gallons per day of waste pickle liquor and rinse water, consisting of sulfuric acid and dissolved metal oxides, into the quarry via a ditch. Sampling later found groundwater beneath the site was contaminated with heavy metals. In 1977, Republic Steel sold the quarry and surrounding land to the City of Elyria. EPA placed the site on its Superfund program National Priorities List (NPL) of hazardous waste sites in June 1986.
+
+### What Has Been Done to Clean Up the Site?
+
 U.S. EPA’s cleanup at the site consisted of removing contaminated soil and sediment (mud), monitoring groundwater and performing a fish study to determine health risks. As a result of a five-year review completed at the site in 1998 to verify the protectiveness of the remedy, the cleanup was expanded to include groundwater monitoring, fixing and inspecting the site fence, posting signs, and limiting the use of and access to the site.
 
-What Is the Current Site Status?
-EPA deleted the site from the NPL on September 12, 2002 but continues to perform five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. EPA completed the sixth five-year review (PDF) (26 pp, 1.28 MB)  of the site on March 20,  2023. The review concluded that the remedy at the site continues to be be protective of human health and the environment. However, for the remedy to be effective in the long-term, the following actions need to be performed:
-Develop and implement an Operation & Maintenance (O&M) Plan.
-Develop long-term stewardship procedures as part of the O&M Plan.
-Maintain the Site access controls and security.
-The City of Elyria should actively pursue enforcement of the Declaration of Restrictions under the City Ordinance as needed.
-EPA should conduct a Five-Year Review on-site inspection and document the results.  
+### What Is the Current Site Status?
+
+EPA deleted the site from the NPL on September 12, 2002 but continues to perform five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+EPA completed the [sixth five-year review (PDF)](https://semspub.epa.gov/work/05/980370.pdf) (26 pp, 1.28 MB) of the site on March 20, 2023. The review concluded that the remedy at the site continues to be be protective of human health and the environment. However, for the remedy to be effective in the long-term, the following actions need to be performed:
+
+- Develop and implement an Operation & Maintenance (O&M) Plan.
+- Develop long-term stewardship procedures as part of the O&M Plan.
+- Maintain the Site access controls and security.
+- The City of Elyria should actively pursue enforcement of the Declaration of Restrictions under the City Ordinance as needed.
+- EPA should conduct a Five-Year Review on-site inspection and document the results.
+
 The next scheduled five-year review will be in 2028.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 The city of Elyria cooperated with EPA's request to incorporate specific and enforceable land-use restrictions for the site into its municipal code. In July 2002, Elyria passed a Declaration of Restrictions, authorized by city ordinance number 2002-119. The restrictions provide greater site security and prohibit the commercial and residential use of the property, use of the groundwater for potable water, and use of the quarry for swimming or fishing. The restrictions also require that the Elyria municipal water supply be the sole drinking water supply.

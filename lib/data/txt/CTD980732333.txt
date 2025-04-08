@@ -1,28 +1,42 @@
-BARKHAMSTED-NEW HARTFORD LANDFILLBARKHAMSTED, CT
-  Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The Barkhamsted-New Hartford Landfill site is located near the Barkhamsted-New Hartford town line in northwest Connecticut. The 98-acre area was an unlined landfill that leaked hazardous solvents and volatile organic compounds (VOCs) into the underlying groundwater. The landfill was capped in 1999. Groundwater is being monitored.
-What Has Been Done to Clean Up the Site?
-The site is being addressed through state and potentially responsible party (PRP) actions. The site’s next five-year review is scheduled to be completed by September 2023. A fourth 5-year review, completed in September 2018, found the cleanup to be protective of human health and the environment. The review concluded remedial activities so far have adequately addressed all exposure pathways that could result in unacceptable risk.  Exposures to contaminated groundwater from the site do not present a threat; the landfill cap continues to prevent direct contact with the waste; a long-term monitoring program is in place; and land use restrictions have been recorded.
-What Is the Current Site Status?
-The site’s long-term remedy is in place. A low-permeability capping system was built in 1999 and new monitoring wells were installed in 2003. Natural attenuation of the groundwater, which is being monitored, will ensure the area downgradient of the landfill will no longer present an unacceptable risk to human health and will be suitable for unrestricted use in the future. The cap is inspected regularly by an independent inspector as required by the Connecticut Department of Energy and Environmental Protection. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are with﻿ theremedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Exposure to contaminated groundwater from the site does not present a threat. The landfill cap continues to prevent direct contact with the waste. A long-term monitoring program is in place. Land use restrictions have been recorded. For the remedy to be protective in the long-term, the following actions need to be taken: fill in animal burrows and repair soft and wet areas on the cap; select analytical methods to ensure laboratory reporting limits meet all COC cleanup goals for groundwater and ecological benchmarkssurface water and sediment; perform quarterly monitoring for one year for metal analysis in drinking water wells to assess if lead and copper are consistently present and their source; and collect groundwater/drinking water samples for 1,4-dioxane, and PFAS to ensure the remedy remains protective.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are required for this site.
-This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict the use of the site. These ICs are required to help ensure the site is used appropriately and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.
-The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment, and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above Click here for IC Instruments implemented for this site. To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this form. ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits, and easements. ICs are normally used when waste is left on site and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure), and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and potentially responsible party (PRP) actions. The site’s next five-year review is scheduled to be completed by September 2028.
+
+A fifth 5-year review, completed in September 2023, found the cleanup to be protective of human health and the environment. The review concluded remedial activities so far have adequately addressed all exposure pathways that could result in unacceptable risk; the landfill cap continues to prevent direct contact with the waste; a long-term monitoring program is in place; and land use restrictions have been recorded. Recent sampling since the 5-year review shows that exposures to contaminated groundwater from the site do not present a threat.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy is in place. A low-permeability capping system was built in 1999 and new monitoring wells were installed in 2003. Natural attenuation of the groundwater, which is being monitored, will ensure the area downgradient of the landfill will no longer present an unacceptable risk to human health and will be suitable for unrestricted use in the future. The cap is inspected regularly by an independent inspector as required by the Connecticut Department of Energy and Environmental Protection.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are with theremedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Exposure to contaminated groundwater from the site does not present a threat. The landfill cap continues to prevent direct contact with the waste. A long-term monitoring program is in place. Land use restrictions have been recorded.
+
+For the remedy to be protective in the long-term, the following actions need to be taken: fill in animal burrows and repair soft and wet areas on the cap; select analytical methods to ensure laboratory reporting limits meet all COC cleanup goals for groundwater and ecological benchmarkssurface water and sediment; perform quarterly monitoring for one year for metal analysis in drinking water wells to assess if lead and copper are consistently present and their source; and collect groundwater/drinking water samples for 1,4-dioxane, and PFAS to ensure the remedy remains protective.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict the use of the site. These ICs are required to help ensure the site is used appropriately and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment, and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above
+
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100255&doc=Y&colid=31704).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits, and easements. ICs are normally used when waste is left on site and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure), and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
 Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this website, there may be other areas on the property that require restrictions on the use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems, and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of the document, above, and the EPA regional offices may also be contacted.
-Sampling and Monitoring
+
+### Sampling and Monitoring
+
 The landfill was capped in 1999. Groundwater is now being cleaned and monitored.

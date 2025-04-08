@@ -1,6 +1,6 @@
 ### Background
 
-The 3.5-acre Hollingsworth Solderless Terminal [Superfund](https://www.epa.gov/superfund) Site includes the area where a solderless terminal manufacturing facility operated from 1968 to 1982.
+The 3.5-acre Hollingsworth Solderless Terminal Superfund Site includes the area where a solderless terminal manufacturing facility operated from 1968 to 1982.
 
 The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater and soil resulting from the manufacturing process.
 
@@ -12,45 +12,45 @@ Site contamination does not currently threaten people living and working near th
 
 The EPA leads site investigation and cleanup activities in cooperation with FDEP. Broward County has also assisted the EPA with the site’s cleanup.
 
-**1982**  
+**1982**
 Hollingsworth pumped out the injection well at the site.
 
-**1986**  
+**1986**
 The EPA issued the site’s cleanup plan in a [Record of Decision (ROD)](https://semspub.epa.gov/work/04/10151711.pdf). It included:
 
 - properly abandoning the old injection well and all other polyvinyl chloride wells on site;
 - treating on-site soil and groundwater contaminated with volatile organic compounds (VOCs); and
 - injecting treated groundwater back into the ground.
 
-**1989**  
+**1989**
 The EPA installed a soil vapor extraction system (SVE) to treat VOC-contaminated soil located above the groundwater table.
 
-**1992**  
+**1992**
 Soil samples showed that the SVE system reduced trichloroethylene (TCE) concentrations to less than one part per million.
 
-**1994**  
+**1994**
 The EPA stopped groundwater recovery and treatment and removed the SVE system from the site.
 
-**2001**  
+**2001**
 The EPA revised the cleanup plan through an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/work/04/92139.pdf). The modifications included:
 
 - excavation of VOC-contaminated soils in the former South Drainfield and the septic tank in the West Drainfield.
 - replacement of the 1986 ROD's pump-and-treat remedy with in-situ enhanced bioremediation in the affected groundwater zone.
 - implementation of institutional controls for groundwater.
 
-**2002**  
+**2002**
 The EPA removed and disposed of contaminated soil in the south drainfield; dug up soil to a depth of two feet below the water table; and removed all contaminated soil at the site. Additionally, the EPA removed and disposed of the septic tank associated with the western drainfield.
 
-**2005-2007**  
+**2005-2007**
 The EPA performed a bioremediation study at the site from April 2005 to September 2007. The results showed a sitewide decrease in contaminant levels.
 
-**2008**  
+**2008**
 The EPA revised the groundwater cleanup approach, through a [ROD Amendment](https://semspub.epa.gov/work/04/10534745.pdf), to include in-place enhanced bioremediation (ISEB) to address remaining groundwater contamination.
 
-**2010**  
+**2010**
 Groundwater monitoring results indicate six of the 24 groundwater wells monitored exceeded the State of Florida’s drinking water standard of one part per billion for vinyl chloride. Vinyl chloride and cis-1,2 dichloroethene are the only remaining groundwater contaminants detected above state or federal standards.
 
-**2011**  
+**2011**
 Between April and September, the EPA injected liquid substrates by direct-push into eight injection wells near the South Drainfield and eight injection wells near the West Drainfield.
 
 ### What Is the Current Site Status?

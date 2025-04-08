@@ -1,2 +1,68 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Charles Macon Lagoon and Drum Storage [Superfund](http://www.epa.gov/superfund) Site is located in Cordova, North Carolina. It includes two separate, independently owned parcels of land: a 40-acre area owned by the Macon family and a 1-acre area owned by the Dockery family. The Site, also known as the Macon Dockery Site, includes the area where a waste oil recycling facility operated from 1979 to 1982.
+
+The EPA placed the Site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1987 because of contaminated groundwater and soil resulting from facility operations. The EPA, the [North Carolina Department of Environmental Quality (NCDEQ)](https://deq.nc.gov/), and two of the Site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p), the Clark Equipment Company and the Crown, Cork and Seal Company, have investigated site conditions. By treating groundwater and undertaking Five-Year Reviews, the EPA, NCDEQ and the PRPs continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the Site. Soil contamination has been cleaned up. Groundwater contamination remains, but is confined to the site, and is being actively treated. Private wells are located upgradient (uphill) of the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site’s PRPs lead site cleanup activities, with oversight provided by the EPA and NCDEQ.
+
+**1983**  
+The EPA conducted short-term cleanup activities at the Macon property. The EPA removed 3,123 tons of waste and 137,000 gallons of oil, including digging up and filling the unlined ponds with clean soil, with the exception of Lagoon 10.
+
+**1984**  
+The EPA conducted removal activities at the Dockery property. The EPA completed cleanup activities on both properties in 1984.
+
+**1991**  
+The EPA issued a long-term cleanup plan ( [a Record of Decision, or ROD](https://semspub.epa.gov/src/document/04/10758100) ) for the Site:
+
+- using a soil vapor extraction (SVE) treatment system to address contaminated soil in Lagoon 7
+- using living organisms to break down contaminants in Lagoon 10
+- constructing a groundwater treatment system
+- dismantling, removing and disposing of site structures off-site.
+
+**1994**  
+The EPA issued an [amendment to the ROD](https://semspub.epa.gov/src/document/04/10520375) to change the cleanup plan for Lagoon 10 to dig up and dispose of contaminated materials off site. The PRPs conducted cleanup activities at Lagoon 10 in 1994.
+
+**1996**  
+The PRPs completed construction of the SVE and pump-and-treat systems in 1996.
+
+**2000**  
+Following soil sampling, the PRPs decommissioned the SVE system in 2000.
+
+**2009**  
+The EPA issued an Explanation of Significant Difference (ESD) to include institutional controls to restrict ground water use at the Site.
+
+**2015**  
+The Site’s fourth Five-Year Review, completed in 2015, found that the cleanup remains protective of human health and the environment. Soil contamination has been cleaned up. GroundSwater contamination remains but is confined to the site and is being actively treated. Private wells are located upgradient (uphill) of the Site. Local residents living and working near the site are not currently threatened by ite contamination.
+
+**2020**
+
+The Site's fifth [Five-Year Review](https://semspub.epa.gov/work/04/11155231.pdf), completed in 2020, found that the cleanup remains protective of human health and the environment. Soil contamination has been cleaned up. Groundwater contamination remains, but is confined to the site and is being actively treated. Private wells are located upgradient (uphill) of the Site. Local residents living and working near the site are not currently threatened by Site contamination.
+
+### What Is the Current Site Status?
+
+The [fifth Five Year Review](https://semspub.epa.gov/src/document/04/11155231) was published by the EPAin 2020. The remedies at the Charles Macon Lagoon and Drum Storage Site are currently protective of human health and the environment in the short-term because soil contamination was remediated through source removal and soil vapor extraction, and groundwater contamination is being remediated by extraction, treatment, and discharge to infiltration galleries.
+
+Operation and maintenance activities as well as ground water treatment are ongoing. The EPA is working to implement institutional controls at the Site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The EPA is working to implement institutional controls at the Site.
+
+### Emergency Response and Removal
+
+In 1983, the EPA conducted short-term cleanup activities at the Macon property. The EPA removed 3,123 tons of waste and 137,000 gallons of oil, including digging up and filling the unlined ponds with clean soil, with the exception of Lagoon 10. In 1984, the EPA conducted removal activities at the Dockery property. The EPA completed cleanup activities on both properties in 1984.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s PRPs to investigate and clean up the Site. The PRPs paid for the site cleanup, and continue to fund monitoring and oversight activities.

@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The E. H. Schilling Landfill is in a rural area of Hamilton Township in Lawrence County, Ohio. From 1969 to 1980 a waste disposal facility operated on site. The facility accepted industrial hazardous and non-hazardous wastes, including styrene, phenol, acetone, alcohol, wastewater treatment sludge, coal tar compounds and foam material. Waste material was deposited behind an earthen dam and under a soil cover. The State of Ohio closed the landfill in 1980 due to numerous permit violations. Landfill operations contaminated soil, sediment and groundwater with volatile organic compounds, or VOCs, and metals.
+
+The contamination found in the area prompted the U.S. EPA to propose that the site on the National Priorities List, also known as NPL, in 1982. The construction of the site’s remedy was completed in 1993. Currently the site is being monitored to ensure the remedy continues to be protective of human health and the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+U.S. EPA and Ohio EPA involvement at the site dates to 1979 when preliminary site studies and limited data collection were conducted. In 1983, an Ohio EPA letter identified several hazardous materials as being present in samples collected at the base of the earthen dam. These samples were taken from soil, leachate, and surface water. At that time, active leachate seeps were noted at several points along the base of the earthen dam. In September 1983, EPA placed the site on the NPL.
+
+In March 1987, an [Administrative Order on Consent (AOC) (PDF)](https://semspub.epa.gov/work/05/437088.pdf) (41pp, 36.16 MB) was signed between EPA, the Ohio EPA, and two potentially responsible parties (PRPs) to investigate the site contamination. The final [Remedial Investigation (RI) (PDF)](https://semspub.epa.gov/work/05/933933.pdf) (448pp, 15.81 MB) and [Feasibility Study (FS) (PDF)](https://semspub.epa.gov/work/05/933932.pdf) (192pp, 6.87 MB) reports were released in August 1989. The investigation showed that the landfill was leaking volatile organic chemicals (VOCs), semi-VOCs and metals into the surrounding soil, sediment, and groundwater. The earthen dam did not meet acceptable safety standards and the soil cover over the waste material did not prevent infiltration of rainwater into the waste material.
+
+In September 1989, EPA delineated a cleanup plan in a [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/work/05/205631.pdf) (73 pp, 2.6 MB)requiring the following actions:
+
+- removing the liquid waste from within the landfill and treating the liquids in an onsite treatment plant
+- preventing water infiltration by capping the landfill and installing a grout curtain/slurry wall
+- improving the structural stability of the earthen dam
+- and treating contaminated groundwater near the landfill.
+
+In July 1991, a Consent Decree was signed between EPA and four PRPs to conduct the design and construction of the remedy, and in February of 1992 the cleanup plan was amended through an [Explanation of Significant Differences (ESD) (PDF)](https://semspub.epa.gov/work/05/373576.pdf) (13 pp, 512.73 K, [About PDF](https://www.epa.gov/home/pdf-files) ) to account for a treatability study completed on landfill leachate. Construction of the site remedy was completed in August 1993.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and PRP actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+EPA is conducting the sixth five-year review of the site to verify the remedy continues to protect people and the environment. The five-year review is an opportunity for the public to tell EPA about site conditions and any concerns they may have. If you would like to share comments, please contact the Remedial Project Manager or Community Involvement Coordinator listed on this website.
+
+The previous five-year review in 2017 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. However, for the remedy to be effective in the long-term, some repairs to the face of the dam were needed due to erosion and burrowing animals, and Institutional Controls needed to be maintained, monitored, and enforced through long-term stewardship procedures.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Long-term protectiveness of the site requires compliance with effective institutional controls, which include groundwater use restrictions and land use restrictions that prohibit interference with the landfill cap and on-site soil.
+
+### Sampling and Monitoring
+
+Monitoring data is included in the completed five-year reviews. Also, the [administrative record](http://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ars&id=0504568) includes monitoring data.
+
+### Enforcement Information
+
+In March 1987, an Administrative Order by Consent, or AOC was signed between EPA, Ohio EPA, and two PRPs to investigate the site contamination. In May 1991, a Consent Decree, or CD for the Remedial Design and Action was signed between EPA and four PRPs to conduct the design and construction of the remedy.

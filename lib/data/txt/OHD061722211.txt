@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 9-acre Laskin/Poplar Oil Co. site is southwest of the intersection of state Route 307 and Poplar Street in Ashtabula County, Ohio. A waste oil storage area and a greenhouse were formerly located on site. The owners used waste oil to heat the greenhouse and for road oiling, a dust control measure for gravel roads. Some of the waste oil was contaminated with polychlorinated biphenyls (PCBs) and other hazardous materials. Later, the owner began collecting, reselling and disposing of waste oils. A court order shut down the operation in 1981. Hazardous liquids stored in tanks and ponds had the potential to overflow or otherwise release contaminants into nearby Cemetery Creek.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983, EPA placed the site on the National Priorities List of uncontrolled hazardous waste sites. Initial Remedial Investigation (RI) activities occurred from December 1983 to November 1984, and included the installation of monitoring wells, and sampling of soils, groundwater, sediment, oiled road surfaces, surface water, boiler and smokestack. Following the RI, EPA issued a Focused Feasibility Study (FS) in April 1984. Also in 1984, the site was divided in two Operable Units or OUs, the Source Removal, known as OU1, and the Final Remedy, known as OU2.
+
+The site’s long-term cleanup focused on source removal, diversion of groundwater and capping. Source removal work included on-site incineration of oils, sludge, tanks, drums, boiler house equipment, the boiler house structure and stack, boiler house soil, pit structures and source soil. In all, 7,500 tons of source material were incinerated. In addition, 164,360 gallons of wastewater were treated and discharged and 49.5 cubic yards of asbestos containing material were removed from the boiler house, with 40 cubic yards of the material disposed of in an off-site landfill and 9.5 cubic yards of the material contained in an on-site vault due to dioxin contamination.
+
+The final cleanup also included construction of a groundwater diversion trench and slurry cutoff walls, which have successfully lowered the water table to below the contaminated soil. A low-permeability cap over the site further isolates the soil; it has successfully eliminated the direct contact threat and reduced infiltration.
+
+After the cleanup was completed, EPA took the site off the Superfund program’s National Priorities List in 2000.
+
+### What Is the Current Site Status?
+
+The site is in the Operation and Maintenance phase (O&M). O&M activities typically include remedy operation, maintenance and monitoring and monitoring impacted media and implemented Institutional Controls.
+
+In early 2024, U.S. EPA oversaw a groundwater sampling investigation at the site and in an area northwest of the site. EPA regularly monitors the site and during a recent groundwater sampling event 1,4-dioxane was found on-site. 1,4-Dioxane is often observed in the groundwater at Superfund sites throughout the country. There is no current evidence that there is dioxane contamination in water wells beyond the site boundary, but out of abundance of caution, sampling was performed in select off-site private water wells on Doyle Road in the direction of groundwater flow. **Samples from the select private wells did not detect 1,4-dioxane.**
+
+Read more about the sampling:
+
+- [site fact sheet (pdf)](https://semspub.epa.gov/work/05/988153.pdf) (462.36 KB)
+- [sixth five-year review (pdf)](http://semspub.epa.gov/work/05/991255.pdf).(41 MB)
+
+  
+U.S. EPA completed the sixth five-year review of the site on May 31, 2024. The review concluded that the remedy at the site currently protects human health and the environment because it eliminates the principal threat posed by the site by preventing direct contact with contaminated materials. However, for the remedy to be protective in the long term, several actions are needed to ensure protectiveness. Additional information regarding these needed actions is available in the Announcements and Key Topics section of this webpage and the published [sixth five-year review (PDF)](https://semspub.epa.gov/work/05/991255.pdf) (41.41 MB) document.
+
+### Emergency Response and Removal
+
+Site cleanup also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1981 and 1982, EPA drained two ponds, diverted surface water runoff to a retention pond, removed and incinerated 302,000 gallons of waste oil, treated and discharged 430,000 gallons of contaminated surface water, and solidified 205,000 gallons of sludge. In 1985 and 1986, private parties also removed 250,000 gallons of oil and wastewater from pits and tanks.

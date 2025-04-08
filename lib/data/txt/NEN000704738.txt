@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The West Highway 6 & Highway 281 site is in Hastings, Nebraska. Soil and groundwater at the Site are contaminated with tetrachloroethylene (PCE), as well as other volatile organic contaminants (VOCs) commonly used to degrease metal parts. The source of the contamination has been identified as the former Dana Corporation manufacturing facility, which operated between 1978 and 2002. PCE, trichloroethylene (TCE) and 1,1,1-trichloroethane (1,1,1-TCA) were used at the facility to clean piston rings between processes and before chrome plating. Leaks and spills in the degreasing pits allowed the degreasing solvents to leach into the soil and down to the water table. A plume of PCE-contaminated groundwater has spread approximately two miles in an east-southeasterly direction from the former facility. The soil beneath the facility is also contaminated with chromium in its hexavalent form, chromium (VI).
+
+### What Has Been Done to Clean Up the Site?
+
+In 1998, the Dana Corporation discovered the soil beneath the largest of the degreasing pits was contaminated with a solvent used in the degreaser, tetrachloroethylene (PCE). At which time, Dana began performing self-directed investigations of the soil and groundwater beneath its facility. In 1999, Dana enrolled in the Nebraska Department of Environmental Quality's voluntary cleanup program and eventually installed a soil vapor extraction (SVE), and groundwater extraction and treatment (GET), systems at the former Dana manufacturing facility. However, Dana was unwilling to identify the nature and extent of contamination of the groundwater in areas off of its property. Testing of several private and two municipal wells (since removed from normal service) east of the facility identified PCE contamination. Dana Corporation declared Chapter 11 bankruptcy in March 2006, shortly before the EPA finalized the site on the National Priorities List in April 2006.
+
+The EPA initiated fund-lead removal actions in July 2006 to assess whether private wells in the area had been impacted by the PCE contamination and to provide alternate water or connection to the municpal water supply when the wells were found to be impacted. The EPA removal actions were also taken to continue the operation and maintenance of the SVE and GET systems that Dana had previously installed, but had left idle since soon after they declared bankruptcy. The EPA has identified and sampled all private and commercial wells in the area of the contaminated groundwater plume. The EPA has connected locations with contaminated private or commercial wells to the municipal water supply. In those cases where the private or commercial well owners were not near a municipal water main, the EPA has extended the water main to reach them. To date, the EPA continues to operate the SVE and GET systems to prevent contaminants from migrating away from the facility.
+
+Shortly following the start of fund-lead removal actions, the EPA began a Remedial Investigation/Feasibility Study, or RI/FS, in September 2006 to characterize the extent of contamination, to assess potential health risks that might be attributable to the contamination, and to evaluate potential remedies.
+
+Concurrent with the EPA's site investigation activities, in September 2006, the EPA filed a claim against the Dana Corporation bankruptcy in U.S. District Court for the Southern District of New York, under authority of CERCLA, commonly referred to as Superfund. Through the bankruptcy process, the EPA was able to recover slightly less than 10% of the estimated costs of completing the cleanup of the site.
+
+Since taking over the site in 2006, the EPA has continued to operate and maintain the SVE and GET systems. Additionally, the EPA implemented upgrades to the systems to reduce operating costs. Until very recently, the system performance data and sampling results had indicated the GET system was effective in capturing contaminated gorundwater and preventing its downgradient migration.
+
+In March 2011, the EPA completed RI activities, which fully characterized the nature and extent of contamination in soil and groundwater for the entire site, OUs 1 and 2. The RI activities included a human health risk assessment and screening level ecological risk assessment. The HHRA identified a number of metals and VOCs as contaminants of potential concern (COPCs), a few of the metals naturally occurring in the environment. In November 2011, the EPA completed an assessment of the role of background concentrations of metals in soil and groundwater to remove background levels from the risk calculations. In May 2012, the EPA developed a draft FS report that presented the development and full evaluation of remedial action alternatives to address the entire site.
+
+Changes in toxicity parameters since the time of the 2011 HHRA and changes in assessing the potential for vapor intrusion led the EPA, in 2016, to update the HHRA for the entire Site.
+
+In July 2017, the EPA completed the FS and issued an FS Report that presented the development and full evaluation of RA alternatives to address OU2 of the Site.
+
+In September 2017, the EPA issued an Interim Record of Decision that identified the EPA's selected remedy to address the OU2 groundwater - groundwater recovery, treatment and discharge at mid-plume and leading edge of plume areas.
+
+The EPA is currently conducting Remedial Design activities to implement the remedy for OU2 selected in the September 2017 Interim Record of Decision.
+
+Additionally, the EPA is in the process of completing a Focussed Feasibility Study for OU1 that will address source soil and groundwater.
+
+### What Is the Current Site Status?
+
+Since July 2006, the Site has been addressed through federal actions. The EPA continues to operate and maintain the SVE system at the former Dana facility in order to remove 1,4-dioxane, benzene, ethylbenzene and tetrachloroethylene (PCE) from the soil. The EPA also continues to operate and maintain the GET system at the former Dana facility in order to remove PCE and other VOCs from the groundwater and to prevent migration of the PCE- and VOC-contaminated groundwater away from the former Dana facility.
+
+There are currently no degreasing pits or chrome plating pits at the former Dana facility. These were the source of the contaminant releases to the environment and were decommissioned by the Dana Corporation prior to the sale of the property in 2003.
+
+The EPA completed field investigations to determine the contaminants present at the site and the horizontal and vertical limits of the contaminants in the soil and groundwater. It has been determined that there is a contaminated groundwater plume, approximately two miles long and 1/3-mile wide, that is migrating from the former Dana facility in an east-southeasterly direction. The primary contaminant is PCE. The original source of the soil and groundwater contamination appears to have been the former pits that housed two of the degreasing units. The soil beneath the facility is contaminated with 1,4-dioxane, benzene, ethylbenzene and PCE. To what appears to be a limited extent, the soil beneath the facility is also contaminated with chromium VI. The groundwater directly beneath the former Dana facility is contaminated primarily with PCE and its degradation compounds, as well as several other volatile organic compounds in lesser amounts. Chromium/chromium VI appears to have impacted groundwater to a localized extent.
+
+The EPA issued an Interim Record of Decision for OU2 in September 2017 to address the risk to human health posed by the contaminated groundwater, to prevent the further spread of the OU2 plume and to restore the aqufier to its beneficial use.
+
+The EPA is planning to conduct further studies of the feasibility of alternatives to address the OU1 source area before selecting a final remedy for the entire site. The EPA's removal program will continue to operate and maintain the existing GET and SVE systems at OU1 until the final remedy is implemented.
+
+### Sampling and Monitoring
+
+Quarterly groundwater and SVE monitoing for site related contaminates are conducted at the site.
+
+### Emergency Response and Removal
+
+Removal actions have addressed all private water supply wells where contamination exceeded an EPA MCL Drinking Water Regulatory Level. The city of Hastings is using other municipal water wells to supply city residents with clean water. The potential for human exposure to contaminated groundwater has been reduced as the city of Hastings has ceased use of the two impacted municipal wells.

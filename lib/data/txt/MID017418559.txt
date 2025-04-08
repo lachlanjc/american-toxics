@@ -1,2 +1,65 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Grand Traverse Overall Supply (GTOS) was a commercial laundering and dry-cleaning facility in Greilickville, Michigan, approximately 1.5 miles north of the city limits of Traverse City. GTOS began commercial laundering operations for industrial clothing in 1953. A dry-cleaning facility was added in 1968.  
+  
+Activities at the site between 1955 and 1968 included construction of a dry well and seepage lagoons to collect waste. Until December 1977, laundry wastes and process waters from dry cleaning operations were discharged to Cedar Creek, to the dry well, or to a series of discharge lagoons. In addition, some dry-cleaning and laundry wastewaters were managed in a series of trenches and sumps in the floor of the on-site building. Dry-cleaning operations were discontinued in 1987.  
+  
+In 1977 the facility began discharging waste to the sanitary sewer. A year later, the Michigan Department of Environmental Quality (MDEQ) discovered groundwater contaminated with volatile organic compounds (VOCs) such as trichloroethylene (TCE) and perchlotoethlyene (PCE), impacting at least 10 wells. One of the wells supplied water to an adjacent elementary school.  
+Contaminated wells were abandoned and new wells were drilled. The waste lagoons were drained and filled with gravel, and the contaminated soils around the dry well and on-site barrels of waste sludge were removed in the 1970s.  
+  
+The Grand Traverse Overall Supply site was placed on the National Priority List in September 1983 because of the groundwater contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The GTOS Site consists of a groundwater contaminant plume from dry cleaning operations at the former facility operated by GTOS. The groundwater contamination exceeded drinking water standards in an aquifer used as a drinking water source by an adjacent school and surrounding residences. In addition, the groundwater plume has been migrating east to Grand Traverse Bay.  
+The contamination from the GTOS Site was also impacting soil vapor, and concentrations of contaminants in soil vapors underneath the adjacent former Norris Elementary School (now GTRAC) were at levels that could result in indoor air contaminant concentrations that could pose a risk to the students and staff.  
+  
+In April 1978, trace amounts of Volatile Organic Compounds, or VOCs, were detected in the drinking water supply well of the former Norris Elementary school east of the GTOS facility. The Michigan Department of Health and Human Services condemned the school well for water consumption and conducted sampling of additional wells in the area. The sampling program confirmed the contamination of 10 drinking water wells in the area. The GTOS facility was considered the likely source of the contamination.  
+  
+From 1978 to 1980, GTOS took actions in response to the groundwater contamination under the supervision of the Michigan Department of Natural Resources. This included replacing contaminated drinking water wells with new wells that extended into a deeper, uncontaminated, semi-confined aquifer and excavating the on-site dry well. In addition, the company closed the wastewater discharge lagoons.  
+  
+In February 1992, EPA issued a No-Action Record of Decision for the site and continued to monitor the groundwater for a period of twelve months. At the conclusion of the twelve-month period, EPA did not see any increase in contaminants associated with the GTOS site.  
+  
+In 2001 and 2002, the Michigan Department of Environmental Quality (MDEQ – the predecessor to EGLE) conducted some additional investigation work at the Site. MDEQ discovered elevated levels of PCE and TCE in monitoring wells along the path that groundwater flows to Grand Traverse Bay. After reviewing this information, EPA concluded that additional sampling work was needed to determine the nature and extent of the newly identified groundwater plume.  
+  
+EPA conducted soil and groundwater sampling in 2004 and 2005 and installed monitoring wells. The findings from this sampling effort indicated that there was a groundwater plume of contamination, including PCE, TCE, and related contaminants, that stretched from under the on-site GTOS building to the Grand Traverse Bay.  
+  
+EPA initiated additional sampling to detect vapor intrusion ( [What is Vapor Intrusion?](http://www.epa.gov/vaporintrusion/what-vapor-intrusion)) at the former Norris Elementary School (now GTRAC). The results of the sampling indicated that there were no vapor issues within the school building; however, elevated levels of contaminant vapors were found under the school building. EPA installed a soil vapor extraction system under and around the school building to extract soil vapors and prevent them from entering the school.  
+  
+In 2008, EPA issued a Record of Decision to address groundwater and soil contamination. The soil remedy selected included the excavation and disposal of contaminated soil. The soil gas remedy was to continue to operate and maintain the SVE system installed in 2005. The groundwater remedy selected by the 2008 ROD was to pump and treat the groundwater using air stripping.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included soil removal, groundwater treatment and continued operation of a vapor extraction system at the former Norris School building. EPA began additional soil excavation activities under the remedial action in 2011. After these activities were completed, confirmation sampling showed that no soil contamination remained above cleanup levels. EPA began construction of the groundwater [pump-and-treat system(](https://semspub.epa.gov/work/HQ/401617.pdf) pdf) (2 pp, 780 K, [About PDF](https://www.epa.gov/home/pdf-files) ) in 2012.  
+  
+In 2017, EPA discontinued the operation of the soil vapor extraction system installed in 2005, after sampling data consistently showed that the vapors extracted by this system had undetectable quantities of contaminants of concern. However, after discontinuing the operation of this system, sub-slab soil vapor samples from under the former school were again found to have potentially concerning concentrations of contaminants. In October 2020, EPA installed a replacement soil vapor extraction system under the western end of the school building.  
+  
+Operation of the groundwater P&T system, including the two air stripper units, was temporarily discontinued in June 2018 after sampling data had shown it was of diminishing effectiveness. In August 2020, EPA determined that the shutdown of the P&T system should be made permanent.  
+  
+In April 2022, EPA completed a five-year review of the cleanup activities at the site. in Greilickville, Michigan. The review concluded that the remedy at the Grand Traverse Overall Supply Superfund site currently protects human health and the environment because all exposures are under control. The groundwater treatment has been effective, and concentrations of contaminants of concern in groundwater continue to decrease.
+
+You may review the full Five-Year Review report at the following link:
+
+- [Second Five-Year Review Report (Signed) - Grand Traverse Overall Supply - 2022(pdf)](https://semspub.epa.gov/src/document/05/974533) (120pp, 13.38MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+The Michigan Department of Environment, Great Lakes and Energy (EGLE) conducts quarterly groundwater sampling at the site to evaluate the effectiveness of remedial actions at the site. The Bi-Annual Groundwater Monitoring Report (linked below) summarizes the groundwater sampling completed in September and December 2021 as well as historical data acquired since the initial October 2005 sampling event:
+
+• [EGLE/Mannik Smith Group - Bi-Annual Groundwater Monitoring Report(pdf)](https://semspub.epa.gov/src/document/05/976126) (477 pp, 9.37MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+The institutional controls selected by the 2008 Record of decision are to restrict groundwater and land use on the site and in areas where site-related contaminants have migrated, until drinking water standards and soil cleanup levels are achieved. Institutional controls may include negotiation of restrictive covenants for property and groundwater contaminated by site-related contaminants, working with local municipalities to draft and implement zoning ordinances, working with the public health department or agencies to draft and implement appropriate health regulations, filing deed notices for property as necessary to inform the public about contamination affecting the use of the property, or similar controls.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+### Emergency Response and Removal
+
+Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Early investigations found contamination in at least 10 wells, including a well used by an elementary school next to the facility. The school and other residences used bottled water until the installation of new wells in a deeper, confined aquifer. In the late 1970s, the lagoons on the site were drained and filled with gravel, and contaminated soils around the dry well and barrels of waste sludge were removed.
+
+Removal actions also dismantled the on-site building and completed a vapor intrusion study at the former Norris Elementary school next door. The study did not detect VOC vapors inside the school but did detect them under the foundation of the school building. A vapor extraction system is currently operating to maintain clean indoor air at the school building.

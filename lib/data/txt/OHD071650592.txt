@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 610-acre South Point Plant site is located in Lawrence County, Ohio. The site is an active industrial area where many potentially responsible parties (PRPs), including Allied-Signal, Ashland Oil and South Point Ethanol (SPE), produced ammonia fertilizer and formaldehyde and operated a coal-water fuel pilot plant, a pitch prilling test plant and an ethanol production plant. The site includes three unlined landfills that contain a variety of wastes, including fly ash, plant refuse, coal cinders and small quantities of chemicals. Industrial activities, landfill operations and spills led to soil and groundwater contamination.
+
+Groundwater became predominantly contaminated with chloride, nitrate, and sulfate, with lesser amounts of the heavy metals iron and manganese. Soils became predominantly contaminated with heavy metals, including arsenic, and lesser amounts of chloride, nitrate, ammonium, and sulfate.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA’s cleanup at the site consisted of digging up and disposing of waste and contaminated soil at a licensed off-site landfill, consolidating remaining waste under a single barrier cover to prevent infiltration of rainwater, pumping out contaminated groundwater, discharging treated groundwater to the Ohio River, long-term monitoring, and limits on land use and access to the site. The construction of the remedy was finished in 2001.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. All cleanup activities have been completed at the site. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+EPA completed the [fourth five-year review (PDF)](https://semspub.epa.gov/work/05/965435.pdf) (57 pp, 25.03MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the site in April 2021 and concluded that the response actions at the site are currently protective of human health and the environment because the site was constructed in accordance with the remedy selected and is functioning as designed. Groundwater monitoring has demonstrated that the concentrations of the contaminants of concern have declined and groundwater quality has improved. However, for the remedy to be protective in the long-term, the Operations & Maintenance Plan needs to be updated with a provision for an annual certification to EPA and Ohio EPA that the Institutional Controls are in place and effective. In addition, property owners need to implement mutually acceptable Environmental Covenants, and a Five-Year Review Site Inspection needs to be performed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+\-

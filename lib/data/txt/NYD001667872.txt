@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Radium Chemical Company (RCC) site is located in Queens, New York. The site consisted of an abandoned building on an approximately 1/3 of an acre of land. From the mid-1950s through 1983, RCC operated at the site, leasing specially packaged radium to hospitals for use in the treatment of cancer. When it was abandoned, the facility contained a large quantity of radium-226 sealed in small metal tubes or rods referred to as "needles," totaling about 120 curies. These metal tubes were repackaged to prevent the release of radioactivity and were removed and shipped to a facility in Nevada dedicated to the disposal of radioactive wastes. After these immediate actions were performed to protect human health and the environment, the site’s long-term cleanup took place focusing on the removal of residual radioactivity at the site. EPA took the site off the Superfund program’s National Priorities List in March 1995.  
+
+### What Has Been Done to Clean Up the Site?
+
+Immediate Actions: During July and August 1989, all needles on site were repackaged to prevent the release of radioactivity and sent to an off-site disposal facility. In August 1989, non-contaminated flammables, poisons and other reactive chemicals were sent off site for incineration and disposal. In September 1989, a shipment of highly contaminated debris, tools and other materials found in the building was also sent off site for disposal. In addition, in September and October 1989, low-activity contaminated debris was sent off site for disposal. Elemental mercury found in the building was recycled. These actions removed the greatest hazards from the site.
+
+Long-term Cleanup: In early 1990, EPA prepared a study that outlined the nature and extent of contamination remaining at the site and described various cleanup alternatives. EPA then selected the final site remedy, which consisted of partial decontamination of the building, followed by the complete dismantling of the building and off-site disposal at appropriate facilities. Cleanup began in November 1990. All work finished in July 1994.  
+
+### What Is the Current Site Status?
+
+The site has been addressed in two stages: immediate actions focused on removal of the radioactive sources, and a long-term remedial action focused on cleanup of residual radioactivity.
+
+The initial emergency response action resulted in the removal of 118.6 curies of high activity waste and 188.9 millicuries of low activity waste from the site. The long-term remediation involved the complete dismantling of the contaminated building, which resulted in the off-site disposal of approximately 812 tons of radioactive soil and debris, 92 tons of radioactively-contaminated hazardous wastes, 862 tons of uncontaminated masonry and concrete building debris, and the recycling of 45 tons of elemental lead and 20 tons of structural steel. The initial removal of radium sources and the subsequent decontamination and dismantling efforts have eliminated the potential for exposure to radioactive materials at the Radium Chemical site.
+
+After cleanup, EPA took the site off the Superfund program’s National Priorities List in March 1995.

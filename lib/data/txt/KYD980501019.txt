@@ -1,0 +1,105 @@
+### Background
+
+The 35-acre Brantley Landfill [Superfund](http://www.epa.gov/superfund) site is in Island, McLean County, Kentucky. The Site is bordered to the north by Kentucky Route 85, to the south by the City of lsland Wastewater Treatment Plant, to the east by the city of Island, and to the west by an ephemeral Unnamed Tributary to Cypress Creek. A strip mine operating on-site in the late 1950s created a depression in the ground. The four-acre landfill area is capped and fenced. The site property outside the fenced landfill area is rural residential consisting of a home and farm structures for livestock. Land uses within a mile radius of the landfill are primarily agricultural and residential.
+
+From 1978 to 1980, the [potentially responsible party (PRP)](https://www.epa.gov/superfund/superfund-glossary#p) Barmet Aluminum Corporation (now Aleris) used the Site as a landfill for the disposal of 250,000 tons of salt cake fines (SCFs). SCFs are byproducts of secondary aluminum recovery. They can react with water, releasing ammonia gas to the air and ammonia, sodium, chloride, sulfate and metals to groundwater, with subsequent discharge to springs and surface water. Disposal activities resulted in the release of ammonia gas to the air and inorganic contaminants to soil and groundwater.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) in 1990 because of air, groundwater, sediment, soil and surface water contamination resulting from landfill operations.
+
+The EPA, [Kentucky Department for Environmental Protection (KDEP)](https://eec.ky.gov/Environmental-Protection/Pages/default.aspx) and PRP have investigated site conditions and taken steps to ensure the site is protective of human health and the environment. A 2012 well survey shows that residents within a mile radius of the site obtain municipal water from the city of Island, which draws water from wells along the Green River three miles north/northeast of the site.
+
+Site contamination does not currently threaten people living and working near the site. By monitoring groundwater and undertaking Five-Year Reviews (FYRs), the EPA, KDEP and the site’s PRP continue to protect human health and the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA, KDEP and PRP, have investigated site conditions and taken steps to clean up the site in order to protect human health and the environment from contamination.
+
+Site groundwater occurs in two zones, the shallow and deep aquifers. West of the landfill, both aquifers flow to the west-southwest. East of the landfill, the aquifers flow to the east-southeast.
+
+**1986**  
+The EPA conducted air monitoring near the site and found contamination in air downwind from the site.
+
+**1987**  
+The EPA identified contamination in soil, groundwater, surface water and sediment samples from the site.
+
+**1990**  
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) because of air, groundwater, sediment, soil and surface water contamination resulting from landfill operations.
+
+**1993**  
+The site’s PRP made repairs to the existing landfill cap to prevent erosion and exposure of waste material.
+
+**1994**  
+The EPA issued a clean-up plan (a [Record of Decision, or ROD](https://semspub.epa.gov/work/04/32182.pdf) ) for the site. The remedy selected in the ROD included two phases.
+
+Phase I addressed surface water infiltration into the landfill and Phase Il addressed groundwater issues at the site. In addition, institutional controls, environmental covenants and control of site access were required.
+
+Specifically, the selected remedy included:
+
+- Restriction of access to the site by fencing and the posting of signs.
+- Incorporation of restrictive covenants to the property deeds to control access to the site and to prevent the installation of drinking water wells onsite.
+- Installation of piezometers and monitoring wells.
+- Construction and maintenance of a new landfill cap which minimizes surface water infiltration.
+- Re-grading areas of the site to improve runoff and minimize erosion.
+- Monitoring groundwater levels and quality in and around the landfill.
+- Modeling the expected restoration of landfill groundwater quality.
+- Estimating the dissolved contaminant mass and its rate of migration out of the landfill.
+- Contingent installation of a short-term leachate collection system.
+- Contingent installation of a long-term leachate collection system.
+- Installation of an alkaline recharge trench to restore the shallow groundwater adjacent to the landfill.
+- Monitoring the natural attenuation of contaminant concentrations in the deep groundwater.
+- Monitoring groundwater in the coal seam adjacent to the abandoned mine works.
+- Monitoring ammonia emissions from the abandoned mine works at the closed mine shafts.
+- Classification of the shallow and the deep aquifers.
+
+**1995**  
+The PRP installed 14 additional monitoring wells and six water measurement devices in and around the landfill.
+
+**1997**  
+The PRP conducted site clean-up activities, including installation of a new cap over the existing landfill cap, construction of three ditches with temporary erosion control matting and installation of an erosion control/turf reinforcement mat on a natural drainage ditch.
+
+Following the clean-up activities, the PRP conducted air monitoring to confirm that the new landfill cap contained landfill emissions. The landfill cap addressed the site’s air, ground water, sediment, soil and surface water contamination.
+
+**2011**  
+Site ownership changed when the original property owner sold the entire site property to her son. He later sold two acres of the property to a relative in 2014.
+
+**2013**  
+EPA made [changes to the remedy](https://semspub.epa.gov/work/04/10783250.pdf) in August.
+
+- Contaminants that were found during the remedial investigation at levels below the ROD remediation levels were removed as contaminants of concern including Aldrin, Arsenic, Barium, Cobalt, Potassium, Silver, Vanadium and Zinc. In addition, as groundwater remediation efforts are focused on those parameters directly related to SCFs and not those related to the coal strip mining activity that predated the SCF disposal, beryllium, cadmium, chromium, iron, manganese, mercury, nickel, and sulfates were eliminated as contaminants of concern.
+- The performance standard for ammonia was corrected to be 34 parts per million.
+- The remedy was modified from capping the entire landfill to capping the northern portion of the landfill and improving drainage around the landfill. Since leachate was absent in the southern section of the landfill, maintaining the existing cap in this area was deemed sufficient.
+- In lieu of grading and eliminating the onsite pond, erosion control measures were implemented. It was concluded that the alkaline recharge trench and contingency remedies of short-term and long-term removal of leachate from the landfill were unnecessary elements of the remedy.
+- The frequency of groundwater monitoring was reduced from quarterly to annually. Annual sampling is sufficient to monitor the remedial action.
+- The PRP was unsuccessful in obtaining offsite access for monitoring the abandoned coal mine shaft. Therefore, groundwater exiting an abandoned borehole in the mine works serves as the mine works monitoring point.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/src/document/04/11096333) was published by EPA HQs in 2018. The remedy at the Brantley Landfill site currently protects human health and the environment.
+
+Routine operation and maintenance (O&M) activities are being conducted. These include:
+
+- Monthly inspection of the landfill cap.
+- Upkeep of landfill vegetative cover (i.e., seeding, sowing, mowing), driveway, fencing and signs.
+- Annual monitoring of leachate as represented by groundwater monitored below the landfill.
+
+Although the 2013 ESD eliminated some analytes as contaminants of concern, the PRP updated the site’s Quality Assurance Project Plan (QAPP) in 2020 to include some of these analytes in the annual monitoring. Annual monitoring of existing groundwater wells is performed for chloride, sulfate, ammonia, select metals, nitrate, nitrite, orthophosphate, silica and carbonate. Select metals include aluminum, beryllium, cadmium, chromium, iron, manganese, nickel, sodium, and zinc.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+In 2005, the PRP filed a Declaration of Restrictions that runs with the land and prohibits ground-water use and prevents disturbance of remedy components across the entire 35-acre site, including the landfill area (Area A) and the residential area (Area B) shown in Figure 2 of the fourth FYR document dated February 21, 2018. The Declaration of Restrictions requires notification of the KDEP, the EPA and the PRP prior to the transfer of any portion of the site property. In addition, it restricts residential use or building construction on Area A.
+
+Site ownership changed in 2011, when the original property owner sold the entire site property to her son. He later sold two acres of the property to a relative in 2014. On January 23, 2018, two Amendments to Declaration of Restrictions were filed to associate the 2005 Declaration of Restrictions to the current site deeds.
+
+### Sampling and Monitoring
+
+Annual monitoring of existing groundwater wells is performed for chloride, sulfate, ammonia, select metals, nitrate, nitrite, orthophosphate, silica and carbonate. Select metals include aluminum, beryllium, cadmium, chromium, iron, manganese, nickel, sodium, and zinc.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA negotiated legal agreements with the site’s [potentially resposible party (PRP)](https://www.epa.gov/superfund/superfund-glossary#p) to investigate and cleanup the site. The PRP continues to fund monitoring and oversight activities.

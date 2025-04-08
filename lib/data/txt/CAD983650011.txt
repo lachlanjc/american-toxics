@@ -1,22 +1,23 @@
-ARGONAUT MINEJACKSON, CA
-  Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Argonaut Mine site (site) is an historic hard rock gold mine that operated from the 1850s to 1942. The Argonaut Mining Company processed ore and disposed of tailings in a portion of the northwest side of present-day Jackson, Calif. As a result of years of mining operations, portions of the site's soil have high levels of arsenic, lead, mercury, and other metals. EPA has been working at the site since 2013 to understand and address the contamination. EPA's primary concern is exposure to mine waste. There are several kinds of mine waste: tailings, waste rock, sediment and seepage. These materials are found in various locations but center on the Main tailings area behind the concrete arch dam, the headframe near the end of Spunn Road, and the Northern tailings area between Highway 49/88 and Stark Lane. In 2015, EPA addressed two general areas to protect people from being exposed to mine waste.  First, EPA removed soil from a vacant lot near the corner of Argonaut Lane and Pioneer Street and several residential yards in the area. Second, EPA removed soil and installed a concrete cover over a slope near the playing field lunch area at Jackson Junior High School.  In 2018 the California Environmental Protection Agency's (CalEPA's) Department of Toxic Substances Control (DTSC) installed a concrete and earthen support at the concrete arch dam at Sutter Street to prevent catastrophic failure. The dam is located within the EPA Superfund site, but DTSC completed the retrofit work. For more information on the concrete arch dam retrofit project, see DTSC's website here.
-What Has Been Done to Clean Up the Site?
-From 2013 to 2023, EPA took several initial actions to prevent people from contacting mine waste at the site. These actions included:
-Removing soil from several residential yards and a vacant lot near the corner of Argonaut Lane and Pioneer Street
-Removing and replacing soil near the playing field lunch area at Jackson Junior High School
-Covering an exposed slope with concrete to prevent dirt from leaving the area
-Removing and replacing soil at the Argonaut Mine headframe and shaft area at the end of Spunn Road. Information for this activity can be found website here.
-Removing 120,000 cubic yards of contaminated tailings, soil, bedrock and processing waste in 2022 and 2023. This material was located on either side of Argonaut Lane and was moved to an existing tailings waste area well behind the courthouse at the intersection of Argonaut Lane and Hoffman Street.
+### Background
 
-What Is the Current Site Status?
-EPA is investigating the nature and extent of the contamination from past activities related to Argonaut Mine. EPA has been sampling groundwater, surface water and soil in the main tailings area between Argonaut Lane and Sutter Street and in the areas on both sides of Highway 49 near the Argonaut mine headframe. 
+The Argonaut Mine site (site) is an historic hard rock gold mine that operated from the 1850s to 1942. The Argonaut Mining Company processed ore and disposed of tailings in a portion of the northwest side of present-day Jackson, Calif. As a result of years of mining operations, portions of the site's soil have high levels of arsenic, lead, mercury, and other metals. EPA has been working at the site since 2013 to understand and address the contamination.
+
+EPA's primary concern is exposure to mine waste. There are several kinds of mine waste: tailings, waste rock, sediment and seepage. These materials are found in various locations but center on the Main tailings area behind the concrete arch dam, the headframe near the end of Spunn Road, and the Northern tailings area between Highway 49/88 and Stark Lane.
+
+In 2015, EPA addressed two general areas to protect people from being exposed to mine waste. First, EPA removed soil from a vacant lot near the corner of Argonaut Lane and Pioneer Street and several residential yards in the area. Second, EPA removed soil and installed a concrete cover over a slope near the playing field lunch area at Jackson Junior High School.
+
+In 2018 the California Environmental Protection Agency's (CalEPA's) Department of Toxic Substances Control (DTSC) installed a concrete and earthen support at the concrete arch dam at Sutter Street to prevent catastrophic failure. The dam is located within the EPA Superfund site, but DTSC completed the retrofit work. For more information on the concrete arch dam retrofit project, see DTSC's website [here.](https://www.envirostor.dtsc.ca.gov/public/profile_report?global_id=03100002.)
+
+### What Has Been Done to Clean Up the Site?
+
+From 2013 to 2023, EPA took several initial actions to prevent people from contacting mine waste at the site. These actions included:
+
+- Removing soil from several residential yards and a vacant lot near the corner of Argonaut Lane and Pioneer Street
+- Removing and replacing soil near the playing field lunch area at Jackson Junior High School
+- Covering an exposed slope with concrete to prevent dirt from leaving the area
+- Removing and replacing soil at the Argonaut Mine headframe and shaft area at the end of Spunn Road. Information for this activity can be found website [here](https://response.epa.gov/site/site_profile.aspx?site_id=14802).
+- Removing 120,000 cubic yards of contaminated tailings, soil, bedrock and processing waste in 2022 and 2023. This material was located on either side of Argonaut Lane and was moved to an existing tailings waste area well behind the courthouse at the intersection of Argonaut Lane and Hoffman Street.
+
+### What Is the Current Site Status?
+
+EPA is investigating the nature and extent of the contamination from past activities related to Argonaut Mine. EPA has been sampling groundwater, surface water and soil in the main tailings area between Argonaut Lane and Sutter Street and in the areas on both sides of Highway 49 near the Argonaut mine headframe.

@@ -1,3 +1,85 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 2.5 square-mile Commencement Bay, South Tacoma Channel Superfund Site is in Tacoma, Washington. The site includes three separate cleanup areas: Well 12A, South Tacoma Field and Tacoma Landfill. Since 1892, site activities have included the operation of an on-site landfill; rail car manufacturing, repair and maintenance; waste oil reprocessing; and operation of two foundries in support of the local railroad. Site activities and improper waste disposal contaminated soil and groundwater with hazardous chemicals.
+
+**Well 12A**
+
+Well 12A is one of 13 wells used by the city of Tacoma to meet peak summer and emergency water demands. The well was taken out of operation when it was found to be contaminated. Groundwater treatment began in 1983.
+
+A 2009 amendment to the cleanup plan recommended additional remedial actions. These included excavating contaminated soils, heating soil and groundwater to remove solvents and petroleum, and using biological treatment to remove solvents in groundwater. EPA’s evaluation of these recent actions was completed in 2018. In the 2019 Interim Remedial Action Completion Report Addendum, it noted that the following activities were completed:
+
+- Limited excavation of shallow soils
+- In situ thermal remediation (ISTR)
+- Enhanced anaerobic bioremediation (EAB)
+- Continued operation of the groundwater extraction treatment system (GETS)
+- Continued wellhead treatment at Well 12A
+
+O&M Plan and Institutional Controls (ICs) Plan are final.
+
+Monitoring the groundwater monitoring natural attenuation (MNA) plume is required by Ecology and will start in fall 2022. Also Ecology is required to put ICs in place for soils and groundwater with elevated cleanup levels. EPA is coordinating with the US Army Corps of Engineers to develop a work plan for sampling properties over the MNA groundwater plume to determine if vapor intrusion is occuring in buildings on parcels above groundwater with concentrations higher than the cleanup levels. This sampling is expected to begin in fall 2022. The work will be conducted in 3 phases – from highest to lower groundwater concentrations above cleanup levels. EPA is developing a vapor intrusion sampling plan and work to determine if volatile organic compounds are entering buildings above the groundwater plume. This work will begin in spring 2023.
+
+**South Tacoma Field**
+
+South Tacoma Field is a 260-acre area historically used by Burlington Northern Railroad for rail car manufacturing, repair and maintenance activities from 1892 to 1974. Two foundries also operated at this site produced various rail car parts in support of the railroad. Tacoma City Light has continuously operated on the north end of South Tacoma Field since 1953. Some additional industrial activity has occurred in the southeast portion of the Site. These activities caused soil contamination throughout the site and localized groundwater contamination.
+
+A Remedial Investigation/Feasibility Study was initiated in 1990. In 1994 EPA issued a Record of Decision (ROD) that selected cleanup actions that included soil removal and soil capping, land use restrictions and monitoring of natural processes to clean up groundwater. In 1999, an Explanation of Significant Differences (ESD) was issued to change the original groundwater remedy to Monitored Natural Attenuation (MNA). A 1999 Preliminary Completion Report documented the completion of all soil remedies at the Site. The majority of on-site monitoring wells have met groundwater cleanup levels. The Soils were partially deleted from the NPL on June 15, 2005.
+
+*All hazardous wastes have been isolated and capped. Regular inspections and monitoring is ongoing. The presence of elevated iron concentrations in shallow groundwater under the southernmost cap is currently under investigation.*
+
+**Tacoma Landfill**
+
+Starting in 1960, the landfill accepted municipal, industrial, construction, demolition, and bulk wastes, including hazardous wastes. In 1983, a groundwater investigation found elevated levels of volatile organic compounds and heavy metals in groundwater and soil near the Site. In 1988, EPA selected a remedy that required closure of the landfill, groundwater extraction and mitigation of landfill gases. The landfill gas system was in place in 1993. The groundwater extraction system was built in 1995 and was removed in September 2022 because groundwater for most of the site meets groundwater cleanup levels. Many monitoring wells and gas probes were also removed. The last section of the landfill closed in 2013. Regular groundwater and gas monitoring are ongoing.
+
+*Landfill gases are not moving beyond the landfill boundary. Monitoring reports from most groundwater wells show compliance with cleanup levels.*
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state, federal and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review (2013) concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. EPA is currently conducting the 2023 Five-Year Review.
+
+The 2013 Five-Year Review found that continued protectiveness of the remedy at Well 12A required the continued implementation of remedial measures to address the source area. Required actions have been implemented. EPA is currently evaluating the success of the remedy and plans to transfer the Site to the State for long-term operation and maintenance.
+
+Continued protectiveness at the South Tacoma Field required evaluation of the monitoring network for the southern capped area. This effort is ongoing.
+
+Continued protectiveness at the Tacoma Landfill required the continued optimization of the gas extraction system at the north end of the landfill, regrading areas of the landfill cap that are prone to ponding or subsidence, and updates to the management plans for the Site. InMay 2018, these actions had been implemented and the attainment of clean-up levels was ongoing.
+
+### What Is the Current Site Status?
+
+**Well 12A**
+
+The Well 12A Site has undergone remediation since 1983 to address soil and groundwater contamination (including DNAPL) that poses unacceptable risk to the City of Tacoma municipal water supply. The original 1983 Record of Decision (ROD) involved wellhead treatment at Well 12A, and a 1985 ROD Amendment involved soil excavation and operation of a groundwater extraction and treatment system, currently in operation.
+
+A review of the existing remedy for the Site concluded that it was inadequate to meet remedial goals of achieving groundwater restoration in a timeframe sufficient for the City of Tacoma future water use. Therefore, a second ROD Amendment (2009) was developed that added excavation of shallow soils, in situ thermal remediation, and enhanced anaerobic bioremediation for source treatment. One of the key compliance metrics for the source treatment is an interim goal of a 90% reduction in contaminant mass discharge from the high-concentration source area to the low-concentration groundwater plume. The ROD Amendment was also designed to allow adaptive application of a suite of technologies and encourage a lifecycle optimization approach to the plume management strategy.
+
+EPA is currently evaluating the success of the remedy and plans to transfer the Site to the State for long term operation and maintenance.
+
+[Well 12A documents are available](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=1000979&doc=Y&colid=31025&region=10&type=SC)
+
+**South Tacoma Field**
+
+All remedial actions at the South Tacoma Field have been implemented, leaving several waste containment areas at the Site and capped to prevent human exposure. The Soils at the Site were partially deleted from the NPL on June 15, 2005.
+
+Cap inspections and monitoring of the shallow groundwater are performed on an annual basis to ensure the continued protectiveness of the remedy. Elevated iron concentrations have recently been measured near the southernmost cap and are currently under investigation.
+
+**Tacoma Landfill**
+
+All remedial actions have been implemented at the Site. All areas of the landfill have been capped and gas, leachate and condensate are operating as intended. Landfill gas is extracted and burnt prior to reaching the landfill boundary. Groundwater in all but the southwestern corner of the Site has attained cleanup levels, and thus, most of the groundwater extraction wells are no longer being used. Regular groundwater and gas monitoring are ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**South Tacoma Field**
+
+Environmental restrictive covenants and access easements were filed in 1997. The use of land for residential purposes, use of groundwater in the vicinity of Pioneer Building Supply for drinking water purposes, disturbance of the contaminated soil containment areas and activities that would compromise the integrity of the capped areas are prohibited.
+
+**Tacoma Landfill**
+
+In 2001, a Restrictive Covenant was filed to record that remedial activities had occurred at the Site and requiring 60-day notice be provided to EPA prior to any sale or lease of the property. Local ordinances are in place to restrict well installations near the Site and require drinking water for new construction to be provided by the public drinking water provider.
+
+### Enforcement Information
+
+Remedial Actions for the Well 12A area are funded using Superfund Trust Funds. Potentially Responsible Parties (PRPs) are conducting remedial activities at the South Tacoma Field and Tacoma Landfill Areas.

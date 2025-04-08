@@ -1,3 +1,45 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+**Site Highlights:**
+
+- The plumes have shrunk considerably for both dissolved chromium and VOCs, the result of continued groundwater extraction and treatment and previous source control actions.
+- Infrastructure is removed once it is no longer needed. This has included decommissioning wells, converting some extraction wells into monitoring wells, and removing vaults and piping. Most of the infrastructure removal has been conducted on Bonneville Power Administration property.
+- Quarterly monitoring well sampling continues each year. Over time, less access to private property to sample monitoring wells will be needed as the contamination shrinks to smaller areas.
+- EPA and Messer continue to work with the owner/developer of the PacTrust Business Park as needed to accommodate property development without adversely affecting the ongoing groundwater cleanup.
+
+The approximately 50-acre Boomsnub/Airco site, is in an urbanizing light industrial and residential area of Vancouver, Washington. The site includes two facilities, the former Boomsnub Corporation (Boomsnub) chrome plating facility and the Messer atmospheric gas fractionation facility. Messer owns and operates an industrial gas production facility next to the former Boomsnub facility which closed in 1994. Between 1967 and 1994, metal plating operations and illegal waste disposal practices contaminated soil and groundwater with volatile organic compounds (VOCs) and chromium. Hexavalent chromium and VOCs mingled in a contamination plume in the groundwater. EPA added the site to its National Priorities List (NPL) in 1995 and issued a Record of Decision (ROD) for soil and groundwater cleanup in 2000.
+
+Most of the contaminated soil and groundwater has been removed since the cleanup started in the mid-1990’s and human health exposure is under control. The pump and treat the groundwater was operational for about 30 years and has been recently augmented by in-situ groundwater treatment. Monitoring wells throughout the plume are sampled quarterly to assess progress toward meeting the remedial action objective (RAO) to meet drinking water standards.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through federal and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews are to assess whether the implemented remedies remain protective of public health and the environment, and function as intended by site decision documents. The most recent review (September 2018) concluded that response actions at the Site are in accordance with the remedy, and progress toward meeting RAOs continues.
+
+The Washington Department of Ecology (Ecology) found chromium in Boomsnub soils and groundwater in 1986. In 1991, Ecology found volatile organic compounds (VOCs) in groundwater attributed to the Messer facility during remedial investigation of the Boomsnub facility. In 1995, EPA listed the Site on the Superfund program's National Priorities List (NPL) because of contaminated groundwater and soil. The area of contaminated groundwater extended from the two properties more than a mile prior to remedial action. The plume is now less than 0.5 mile in length, much less concentrated, and underlies industrial, commercial and municipal facilities.
+
+Efforts to clean up groundwater and soil began in the early 1990s and included the removal of tons of chromium-contaminated soil through two EPA removal actions. In 1990, Ecology required installation of a groundwater extraction and treatment system to hydraulically contain and remediate the plume. EPA assumed regulatory oversight of the groundwater remediation system operated by Messer after the Site came under Superfund jurisdiction.
+
+### What Is the Current Site Status?
+
+The Site’s long-term remedy included removal and off-site disposal of contaminated soil; upgrading the existing groundwater and extraction system; continuing groundwater treatment; and treating contaminated soil. Remedy construction began in 1998 and the groundwater extraction/treatment system operated through 2020. The in-situ treatment of contaminated groundwater began in 2018 and continued through 2020. Monitoring groundwater quality to assess the need additional remedial actions is occurring and scheduled to continue for a few years. Plans to remove the treatment plant and additional chromium-contaminated soil are underway and likely to be implemented in three to five years.
+
+EPA expects the remedy to be protective of human health and the environment upon completion of remedial action. If RAOs are met, then there will be no need for continued institutional controls outside the Boomsnub and Messer properties.
+
+### Sampling and Monitoring
+
+Data collected twice each year from an extensive monitoring system showed that the size and toxicity of the contaminant plume had been significantly reduced by the extraction and treatment system over 30 years of operation. Quarterly groundwater quality monitoring began after the 2018-20 in-situ treatment, and initial results are promising. Continued quarterly monitoring is needed to determine whether additional remedial action will be necessary to meet groundwater quality RAOs.
+
+### Emergency Response and Removal
+
+Data collected quarterly each year from an extensive monitoring system has shown that the size and toxicity of the contaminant plume had been significantly reduced by the extraction and treatment system over 30 years of operation. The groundwater quality monitoring started after the in-situ treatment completed in 2020, indicate further reduction of the remaining contaminant plume is occurring. Continued quarterly monitoring is needed to determine whether additional remedial action will be necessary to meet groundwater quality RAOs.
+
+### Enforcement Information
+
+- Agreed Order between Ecology and BOC Gases (now Messer) - 1993
+- Unilateral Administrative Order (UAO) to obtain property access from Boomsnub - May 1994
+- Administrative Order on Consent (AOC) requiring BOC Gases (now Messer) to conduct a site evaluation – January 1997
+- Administrative Order on Consent (AOC) requiring BOC Gases (now Messer) to operate the groundwater extraction and treatment system – April 2002
+- Administrative Order on Consent (AOC) requiring BOC Gases (now Messer) to conduct a non-time critical removal action – May 2002
+- Consent Decree requiring BOC Gases (now Messer) to implement remedial actions at the Site as outlined in the Record of Decision (ROD) – July 2007

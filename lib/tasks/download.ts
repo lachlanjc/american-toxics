@@ -2,6 +2,7 @@ import { type Site } from "@/lib/data/site";
 import SITES from "@/lib/data/sites.json" assert { type: "json" };
 import { Defuddle } from "defuddle/node";
 import { JSDOM } from "jsdom";
+import { Glob } from "bun";
 
 async function fetchWithRetry(url: string, retries = 3): Promise<Response> {
   try {
@@ -28,11 +29,12 @@ function parseArticle(url: string): Promise<string> {
     if (content.startsWith("Oops!")) {
       return reject("URL invalid");
     }
-    const sections = content.split("\n\n---");
+    const sections = content.replaceAll(/\---/g, "---").split("\n\n---");
     // Remove TOC
     let body = sections.slice(1, sections.length).join("").trim();
     // Remove various lines
     body = body
+      .replaceAll("[Superfund](http://www.epa.gov/superfund)", "Superfund")
       .split("\n\n")
       .filter(
         (line) => !line.startsWith("Disclaimer") && line !== "**Background**",
@@ -42,9 +44,31 @@ function parseArticle(url: string): Promise<string> {
   });
 }
 
-const scopedSites = SITES.filter(
-  (site) => site.id.startsWith("U") || site.id.startsWith("T"),
-);
+const ids = [];
+
+// find sites without txt files
+for (const site of SITES) {
+  const possibility = Bun.file(`./lib/data/txt/${site.id}.txt`);
+  const exists = await possibility.exists();
+  if (!exists) {
+    ids.push(site.id);
+  }
+}
+
+// find empty files
+const txt = new Glob("./lib/data/txt/*.txt");
+for await (const file of txt.scan(".")) {
+  const id = file.split(".").at(-2)?.split("/").pop();
+  const content = await Bun.file(file).text();
+  if (!content || !content.startsWith("##")) {
+    ids.push(id);
+  }
+}
+
+const scopedSites: Array<Site> = ids
+  .map((id) => SITES.find((site) => site.id === id))
+  .filter(Boolean);
+// const scopedSites = SITES.filter((site) => site.id.startsWith("WA"));
 // sort((a, b) => a.id.localeCompare(b.id))
 
 let stats: {
@@ -59,8 +83,11 @@ let stats: {
   failure: [],
 };
 
-async function downloadSite(site: Site): Promise<void> {
-  const url = `https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0${site.semsId}`;
+async function downloadSite(
+  site: Site,
+  leadingZero: boolean = true,
+): Promise<void> {
+  const url = `https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=${leadingZero ? `0${site.semsId}` : site.semsId}`;
   stats.total++;
   console.log(`Downloading ${site.id} ${site.name}... ${url}`);
   let content = "";
@@ -77,10 +104,14 @@ async function downloadSite(site: Site): Promise<void> {
   } else {
     console.error(`No content found for ${site.id} ${site.name}`);
     stats.empty.push(site.id);
+    downloadSite(site, false);
   }
 }
 
 await Promise.all(scopedSites.map(downloadSite));
+// for (const site of scopedSites) {
+//   await downloadSite(site);
+// }
 
 console.log(`REPORT
 ------

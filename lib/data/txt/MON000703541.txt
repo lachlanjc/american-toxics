@@ -1,16 +1,15 @@
-SPORLAN VALVE PLANT #1WASHINGTON, MO
-  Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The property where the former Sporlan Valve Plant #1 facility operated is an unoccupied 4-acre parcel at 611 E. Seventh Street near downtown Washington, Missouri. The site includes a groundwater contamination plume, which has migrated beyond the boundaries of that property. Based on groundwater monitoring results, the resulting contaminant plume is known to extend to the east toward MacArthur Street and to the south toward Eighth Street. The site was first developed as a refrigeration valve manufacturing facility in 1939. Continuous additions were constructed until 1968, when a final addition was added, bringing the total area of the factory to 80,000 square feet. Since first constructed, the facility was operated as a refrigeration valve manufacturing plant with the following operations: plating, degreasing, machining, brazing, assembly and testing. The site operated until approximately 2003 to 2005 (exact dates unknown). In 2011, the brick building and concrete slab were demolished, and the site was cleared. Vapor Intrusion sampling by the Missouri Department of Natural Resources in 2015 identified concentrations of trichloroethylene (TCE) that exceeded indoor air and sub-slab screening levels. Following the MoDNR’s receipt of vapor intrusion sampling results, the site was referred by the MoDNR to the EPA for a removal action on August 20, 2015. The EPA began a removal action to address VI issues, and the site has been added to the National Priorities List.
-What Is the Current Site Status?
-This site has been added to the National Priorities List. This is a crucial step in the Superfund Cleanup Process. A Remedial Investigation has begun with the goal of evaluating the nature and extent of contamination. Vapor mitigation systems have been installed in homes where contaminants have been identified in indoor air. Six new groundwater monitoring wells were installed on the perimeter of the plume in 2024. Two rounds of monitoring will be completed in August and November 2024. To learn more about the cleanup process go to: https://www.epa.gov/superfund/superfund-cleanup-process.
-Sampling and Monitoring
+### Background
+
+The property where the former Sporlan Valve Plant #1 facility operated is an unoccupied 4-acre parcel at 611 E. Seventh Street near downtown Washington, Missouri. The site includes a groundwater contamination plume, which has migrated beyond the boundaries of that property. Based on groundwater monitoring results, the resulting contaminant plume is known to extend to the east toward MacArthur Street and to the south toward Eighth Street.
+
+The site was first developed as a refrigeration valve manufacturing facility in 1939. Continuous additions were constructed until 1968, when a final addition was added, bringing the total area of the factory to 80,000 square feet. Since first constructed, the facility was operated as a refrigeration valve manufacturing plant with the following operations: plating, degreasing, machining, brazing, assembly and testing. The site operated until approximately 2003 to 2005 (exact dates unknown). In 2011, the brick building and concrete slab were demolished, and the site was cleared.
+
+Vapor Intrusion sampling by the Missouri Department of Natural Resources in 2015 identified concentrations of trichloroethylene (TCE) that exceeded indoor air and sub-slab screening levels. Following the MoDNR’s receipt of vapor intrusion sampling results, the site was referred by the MoDNR to the EPA for a removal action on August 20, 2015. The EPA began a removal action to address VI issues, and the site has been added to the National Priorities List.
+
+### What Is the Current Site Status?
+
+This site has been added to the National Priorities List. This is a crucial step in the Superfund Cleanup Process. A Remedial Investigation has begun with the goal of evaluating the nature and extent of contamination. Vapor mitigation systems have been installed in homes where contaminants have been identified in indoor air. Six new groundwater monitoring wells were installed on the perimeter of the plume in 2024. Two rounds of monitoring will be completed in August and November 2024. To learn more about the cleanup process go to: [https://www.epa.gov/superfund/superfund-cleanup-process](https://www.epa.gov/superfund/superfund-cleanup-process).
+
+### Sampling and Monitoring
+
 Sampling for volatile organic compunds in groundwater monitoring wells is occurring quarterly.

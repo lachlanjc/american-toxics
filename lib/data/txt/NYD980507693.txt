@@ -1,2 +1,55 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Batavia Landfill site is located in Genesee County, New York. From the 1960s until 1980, several operations dumped industrial wastes at the 35-acre landfill, contaminating soils, sediment, surface water and groundwater with metals and volatile organic compounds (VOCs). VOCs are potentially harmful contaminants that easily evaporate in the air. Cleanup has included consolidation of contaminated soils and wastes under a multi-layered landfill, collection and off-site disposal of leachate, wetlands restoration and groundwater monitoring. Long-term operation and maintenance activities for the remedy are ongoing. EPA took the site off the Superfund program’s National Priorities List in November 2005.
+
+From the 1960s until 1980, several operations dumped industrial wastes at the 35-acre Batavia Landfill, which is now inactive. Drummed and undrummed wastes disposed of at the site include heavy metal sludges, oils, and organic solvents. The Galloway Swamp, a protected wetland, borders the site on the north and east. Liquids had been seen seeping from the landfill into the swamp, which contained heavy metals. Residential wells to the immediate south of the site were threatened by contaminants emanating from the landfill. The groundwater was the lone source of potable water for these residents. The surrounding area is rural; 200 people live within a 1-mile radius of the site. The underlying aquifer supplies drinking water to approximately 6,500 people living within a 3-mile radius of the site. A total of 1,000 private and public wells serve the population within 3 miles of the site.
+
+Site Responsibility: This site was addressed through Federal and potentially responsible parties' (PRPs) actions
+
+### What Has Been Done to Clean Up the Site?
+
+On September 27, 2000, the Regional Administrator signed a Consent Decree requiring the PRPs to perform the remedial construction for the selected site remedy. The remedial action construction, completed by the PRPs in November 2002, was formally approved by EPA on September 26, 2003.
+
+The removal of 632 drums from the site's surface (some were filled with hazardous wastes) which amounted to 35.3 tons of contaminated solids, 1,700 gallons of decontamination water, 27.1 tons of crushed drums and 55 gallons of cyanide-bearing oils, has reduced the risks of direct exposure to hazardous substances. The extension of the municipal water supply system to nearby residents has eliminated the potential threat posed by the ingestion of the ground water. The first Five Year Review for the site was completed in June 2000, approximately two years prior to completetion of the remedial construction. Three subsequent Five Year Reviews completed in September 2005, September 2010 and September 2015 have determined that the consolidation of contaminated soils and wastes under the multi-layered landfill cap, the collection and offsite disposal of leachate, and the groundwater monitoring of the local aquifer continue to be protective of human health and the environment. A Fifth Five Year Review, scheduled for completion on March 31, 2020, concludes that the site remedy remains protective of human health and the environment..The restored wetlands are supporting a diverse herbaceous plant community that meets the performance standards identified in the 1995 ROD.
+
+EPA and NYSDEC have determined that PRPs have implemented all appropriate response actions required and that the site poses no significant threat to public health or the environment.
+
+A Notice of Intent to delete the site from the NPL was published in the Federal Register on September 30, 2005. The deletion became final on November 29, 2005. The performance and completion of a fifth Five Year Review is scheduled for early next year (2020).
+
+### What Is the Current Site Status?
+
+The site was addressed in two phases: immediate actions and a long-term remedial phase focused on cleanup of the entire site.  
+
+Immediate Actions: The site’s potentially responsible parties (PRPs) removed surface drums and visibly contaminated soils. Residents living next to the site whose drinking water supply was threatened by contaminants from the landfill were connected to the public water supply system.  
+
+Long-term Cleanup: The site’s remedy included consolidation of contaminated soils and wastes under a multi-layered landfill, collection and off-site disposal of leachate, wetlands restoration and groundwater monitoring.  
+
+Currently, there are no exposure pathways that could result in unacceptable risks.
+
+Ongoing long-term operation and maintenance activities at the site include periodic inspections, groundwater quality monitoring, wetlands maintenance and placement of institutional controls to protect public health and the environment.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+On June 10, 2005, Town of Batavia filed a Declaration of Easement and Covenants and Restrictions with the Genesee County Clerk's Office that placed institutional controls on the future use of the site property. These institutional controls prohibit the installation or utilization of wells on the site for potable use and the construction of buildings or structures on site that may impede the effectiveness of the landfill cap and operation systems.
+
+### Sampling and Monitoring
+
+Groundwater and surface water collection and testing are performed at the site on an annual baisis. The PRPs also have to submit an Annual Site Iinspection Report documenting that the landfill cap and all operation and maintenance requirements continue to meet the mandates of the 1995 Record of Decision (ROD) and be protective of human health and the environment.
+
+### Green Remediation
+
+There are no green remediation practices to report.
+
+### Emergency Response and Removal
+
+There are no current or recent emergency or removal responses to report.
+
+### Enforcement Information
+
+On September 29, 2000, the U.S. District Court of Western NY entered a Consent Decree requiring the following six (6) PRPs to implement remedial action activities at the site:
+
+NL Industries; City and Town of Batiavia; Unisys Corporation; Eaton Corporation; and R.E. Chapin Manufacturing.

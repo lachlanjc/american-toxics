@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 650-acre Fort Lewis Logistics Center site is located near Tacoma, Washington, on the southeastern shore of Puget Sound. The site is part of the Joint Base Lewis McChord military installation. Site operations include maintaining aircraft and vehicles, repairing and refurbishing weapons and neutralizing caustic paint stripping waste and battery acids. These site activities contaminated groundwater, soil, sludge and surface water with hazardous chemicals. Remedy construction is complete at the Fort Lewis Logistics Center.
+
+### What Has Been Done to Clean Up the Site?
+
+The former Fort Lewis Army facility, now called Joint Base Lewis McChord, is near Tacoma, Washington on the southeastern shore of Puget Sound. It has been an Army facility since 1917. Operations include maintaining aircraft and vehicles, repairing and refurbishing weapons, and neutralizing caustic paint stripping waste and battery acids. The 650-acre Logistics Center is mainly an industrial facility, with some limited commercial use. Three major contaminated waste units have been identified and are included in the Logistics Center site.
+
+Between 1946 and 1960, the East Gate Disposal Yard was used for disposing waste from equipment cleaning and degreasing. From 1974 to 1981, the Department of Energy ran the Solvent Refined Coal Pilot Project area as a production/research facility for developing petroleum-like products from coal. Landfill No. 4 was used for solid waste disposal from the 1940s to the 1960s. The main water supply wells for the base are about one quarter mile from the landfill. Between January and September 2001, the Army dug up and removed over 1,000 buried drums containing trichloroethylene (TCE) wastes from the Yard. A thermal treatment system was installed to treat TCE and Petroleum in soils and groundwater. It removed over 57,000 kilograms of volatile organic compounds and petroleum contaminants bound to soils both above and below the groundwater table. Another non-time critical removal action was conducted in 2005.
+
+The site is being addressed as follows:
+
+- Project #1 - Solvent Refined Coal Pilot Project: This cleanup consisted of digging up and treating about 80,000 cubic yards of polynuclear aromatic hydrocarbon (PAH)-contaminated soils. Treatment was low-temperature thermal desorption with incineration of desorbed gases. In 1997, the U. S. Army completed the cleanup remedy. Groundwater monitoring after the cleanup found no contaminants above drinking water standards.
+- Project # 2 - Landfill Number 4: From the 1940s through the 1960s, landfilling at this 52-acre site caused groundwater to become contaminated with chlorinated organic compounds. The U.S. Army completed a study at the landfill and selected a cleanup remedy in 1993. They treated soils and shallow groundwater using an air sparging/gas extraction system from 1996 until 2000. Groundwater continues to be monitored.
+- Project # 3 - East Gate Disposal Yard: Disposal activities at the site contaminated a drinking water aquifer with chlorinated organic compounds. The U.S. Army built two groundwater pump-and-treat systems in 1995, and is currently running them. Extraction wells were installed at the head of the contaminated groundwater plume and near the contamination source to stop contaminants from moving off the army base, and to clean up the aquifer. Although the extraction/treatment system is successfully removing chlorinated organics from groundwater, tests show increased contaminant levels in groundwater near the source, and the contaminant plume may be expanding in some areas.
+
+Between January and September 2001, the Army dug up and removed over 1,000 buried drums containing trichloroethylene (TCE) wastes from the Yard. A thermal treatment system was installed to treat TCE and Petroleum in soils and groundwater. It removed over 57,000 kilograms of volatile organic compounds and petroleum contaminants bound to soils both above and below the groundwater table. In 2007 EPA concurred on an Explanation of Significant Differences (ESD) to install a pump and treat system for contamination in the Sea Level Aquifer. The Army began installing the wells in the summer of 2007. In 2007 the Army conducted an indoor air study to evaluate the potential for TCE vapors to migrate into homes at the Madison Family Housing Area.
+
+The results of the Study, which EPA approved in September 2007, are that TCE vapor intrusion does not pose an unacceptable risk to residents. In October of 2009 the Army completed installation of the pump and treat system for the Sea Level Aquifer. All three groundwater pump and treatment systems are operational and the Army continues to monitor the groundwater for assessing the plumes.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+### What Is the Current Site Status?
+
+In 1990, the U.S. Army signed a Federal Facilities Agreement (FFA) with EPA and the state to address site contamination. EPA divided the site into four separate project areas to better address site contamination. These project areas included the Solvent Refined Coal Pilot Project, Landfill #4, Landfill #5 and the East Gate Disposal Yard.
+
+The site’s long-term remedy included excavation and treatment of polynuclear aromatic hydrocarbon (PAH)-contaminated soil; air sparging and gas extraction to treat some contaminated soil and shallow groundwater; institutional controls; and groundwater extraction, treatment and monitoring. Remedy construction began in 1992 and is complete. Groundwater treatment and monitoring continues.

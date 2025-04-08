@@ -1,3 +1,27 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+[The cleanup actions are being overseen by the Washington Department of Ecology.](https://fortress.wa.gov/ecy/gsp/Sitepage.aspx?csid=4428) (exit to Ecology's website)
+
+The 90-acre Seattle Municipal Landfill site is located in Kent, Washington, 14 miles south of Seattle. From 1968 to 1986, the City of Seattle leased the site and disposed of refuse on about 60 acres of a 90-acre ravine on a hillside above the Green River. In addition to municipal wastes, the landfill accepted paint residues, industrial sludge and other industrial wastes. Landfill operations resulted in impacts to groundwater and air. The City of Seattle has closed the landfill; operation and maintenance activities are ongoing.
+
+The Kent Highlands Landfill property is located in the City of Kent, King County, Washington. The 90-acre site is situated on the eastern flank of the Des Moines upland, where it adjoins the Green River valley. The landfill occupies a former natural ravine that extended about 2,500 feet from near the top of the upland down to the valley floor.
+
+The Seattle Solid Waste Utility started landfilling operations at the Site in 1968. The landfill received mostly municipal garbage until 1983. The landfill also took in industrial wastes and construction debris after 1983. Disposal operations ceased on December 31, 1986. The City of Seattle was in the process of completing a closure plan at that time.
+
+Contamination was found in the Sand Aquifer and in the Recent Alluvium Aquifer (RAA). Leachate in the landfill discharges primarily to the Sand Aquifer, then turns to the RAA which in has a hydraulic connection with the Green River. Surface water in Midway Creek was found to be degraded by the landfill; no effects of the landfill on the water quality of the Green River were observed.
+
+Based on the results of the remedial investigation and further work, ground water monitoring at the site is being done for field parameters, conventional chemical parameters, dissolved metals, volatile organic compounds, herbicides, and pesticides. Measures to contain contamination on landfill property were completed in July 1995. Ongoing monitoring is being performed to assess the effectiveness of the containment measures.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and municipal actions.  
+
+### What Is the Current Site Status?
+
+The City of Seattle closed the landfill in 1986. The Washington Department of Ecology (Ecology) selected the site’s long-term remedy in 1993. It included access controls; site grading; a landfill cover; installation of a surface drainage, surface water conveyance; leachate collection; and landfill gas collection. The remedy also included long-term monitoring.
+
+**Cleanup Progress**
+
+[Washington Department of Ecology's website about the landfill.](https://fortress.wa.gov/ecy/gsp/Sitepage.aspx?csid=4428)
+
+The City of Seattle implemented and completed the construction of the landfill closure remedy in 1995. Ecology oversees ongoing monitoring to assess the effectiveness of the containment measures. Ecology conducted the second periodic review of the remedy in 2003, which indicated the remedy is protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluating additional treatment measures to address groundwater and surface water contamination. Ecology is working with the City of Seattle to address these conditions.

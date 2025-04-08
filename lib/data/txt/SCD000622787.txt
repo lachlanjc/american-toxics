@@ -1,2 +1,38 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4-acre SCRDI Bluff Road Superfund Site is located on State Highway 48 (Bluff Road), 10 miles south of Columbia in Richland County, South Carolina. The Site includes a heavily wooded area and a cleared area used for various industrial and commercial purposes. Forested land used for hunting and timber production borders the site to the north, west and south. State Highway 48 (Bluff Road) and the Westinghouse Nuclear Fuels Facility border the site to the east. The Site’s broader surroundings include rural and forested land. The nearest residence is located one mile from the Site.
+
+A manufacturing facility first operated at the Site. Beginning in 1975, the Columbia Organic Chemical Company stored, recycled and disposed of chemical wastes at the Site. From 1976 until 1982, South Carolina Recycling and Disposal, Inc. (SCRDI) continued these operations at the Site. Operations included storing waste chemicals in drums and small containers on Site.
+
+The EPA placed the Site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater and soil resulting from operations at the site.
+
+The EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](http://www.scdhec.gov/), and the Site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions. By treating and sampling groundwater and undertaking Five-Year Reviews, the EPA, SCDHEC and the site’s PRP continue to protect people and the environment from Site contamination.
+
+Site contamination does not currently threaten people living and working near the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site’s PRPs lead site investigation and cleanup activities, with oversight provided by the EPA and SCDHEC.
+
+| When | What |
+| --- | --- |
+| **1982- 1983** | The Site’s PRPs removed all drums and materials from the Site. |
+| **1984** | The SCDHEC began conducting additional site investigations and then transferred the Site to the EPA. |
+| **1990** | EPA issued the cleanup plan (a [Record of Decision, or ROD](http://semspub.epa.gov/src/document/04/10638005) ) for the Site. It included:  - using air stripping to extract and treat groundwater on site - using a soil vapor extraction (SVE) system to address contaminated soil - monitoring the Site - injecting treated water into the ground. |
+| **1992** | The EPA issued an [Explanation of Significant Differences (ESD)](http://semspub.epa.gov/src/document/04/10747795) to require a Five-Year Review for the site because contamination in soil and groundwater would remain on site above health-based risk levels until cleanup activities were fully implemented and deemed successful. |
+| **1994** | The PRPs constructed and began operation of the soil vapor extraction (SVE) system.  The EPA issued a second ESD to make a technical change to the cleanup plan to add the use of a catalytic oxidizer unit as part of the SVE system. |
+| **1996 - 2009** | Soil at the Site met cleanup goals in 1996 and the PRPs removed the SVE system from the site in 1997.  The PRPs began operation of the Site’s groundwater treatment system in 1996. From 1996 to 2009, the system recovered, treated and re-injected 718 million gallons of groundwater. The system also removed and treated 3,889 pounds of VOCs. |
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11189836.pdf) was published by the EPA HQs in 2023. The Sitewide Protectiveness Status is protective in the short term because there is no complete exposure pathway to groundwater, the groundwater recovery and reinjection system has achieved containment of the plume and is reducing contaminant concentrations.
+
+### Sampling and Monitoring
+
+The Site’s PRPs conduct groundwater sampling and report the data to the EPA. Data is used to assess the effectiveness of groundwater treatment activities.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the Site’s PRPs to investigate and clean up the Site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

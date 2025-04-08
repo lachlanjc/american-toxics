@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Marine Corps Base (MCB) Camp Lejeune and Marine Corps Air Station (MCAS) New River, also known as Camp Lejeune or the Base, is a 156,000-acre military installation located in Onslow County, North Carolina, south of the City of Jacksonville. Camp Lejeune was commissioned in 1942 and provides military training operations and maintains combat-ready warfighters for deployment and humanitarian missions abroad. Base operations include industrial, recreational, commercial and residential land uses.
+
+In the past, the Base operations contaminated soil, sediment, surface water and groundwater. Multiple operable units (OUs) are under investigation for all environmental media. Each OU comprises one or more sites that were grouped based on proximity, common waste types, and/or common operational activities.
+
+The EPA placed Camp Lejeune on the Superfund program’s National Priorities List (NPL) on October 4, 1989. EPA, the Navy, and the North Carolina Department of Environmental Quality (NCDEQ) entered into a Federal Facility Agreement (FFA) in February 1991 for site cleanup activities. The FFA parties have investigated site conditions and taken incremental steps to clean up the site in order to protect people and the environment from contamination. By cleaning up and monitoring soils and groundwater, enforcing institutional controls to prevent people from coming into contact with contamination, and undertaking periodic reviews of all cleanup actions (known as Five-Year Reviews), the Navy, Base, EPA and NCDEQ continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The U.S. Navy is the lead agency under CERCLA and has the responsibility for investigating and cleaning up environmental contamination at Camp Lejeune as it is a National Priorities List Superfund Site. Currently, [40 Operable Units](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ous&id=0403185) are being investigated and remediated. For each site that requires environmental remediation, the Navy, Base, EPA, and NCDEQ, and the public must agree on the selected remedial alternative which is memorialized in a Record of Decision (ROD). Many RODs have been finalized at Camp Lejeune, and the selected remedies have been implemented.
+
+**1992-2001**
+
+The Navy removed and disposed of contaminated soils, drums, above ground storage tanks, underground storage tanks, batteries, waste liquids and dense non-aqueous phase liquid (DNAPL) from areas across the site. At several sites, the Navy conducted additional activities to address associated groundwater contamination. The Navy installed a groundwater treatment system and a bio-treatment cell for contaminated soil.
+
+**2001-2009**
+
+The Navy conducted a pilot-scale treatability study using electrical resistance heating to treat areas containing DNAPL and completed a time-critical removal action using low-level heat to extract contamination from soil. An estimated 48,000 pounds of VOCs were removed from soils during the study. The Navy completed cleanup at OU-7 (Sites 1, 28 and 30), OU-4 (Sites 41 and 74), and OU-16 (Site 93). The remedies included institutional controls, groundwater monitoring, and use of oxidants to break down contaminants. The Navy placed institutional controls on portions of the site to prohibit intrusive activities, groundwater use, and non-industrial land uses in these areas.
+
+**2010– 2015**
+
+Activities include three non-time-critical removal actions at Site 6 (OU-2), UXO-01 and UXO-23; installation of treatment systems at Sites 35, 73 and 89; and installation of a treatment system for Site 69. Construction of a multilayer cap with an impermeable layer for Site 69 was complete in 2014. A ROD was issued for Site 49 (OU-23) in April 2014, and for Site UXO-19 (OU-25) in December 2015. The remedy for Site 49 is monitored natural attenuation and institutional controls to limit exposure to groundwater. The remedy for Site UXO-19 is institutional controls to limit exposure to contaminated soils.
+
+**2016 – 2019**
+
+A ROD was issued in 2018 for Site UXO-06 (OU-24) which includes a borrow pit that was once used a target for military practice and three adjacent cantonment areas. The remedy is institutional controls and munition surface clearance. The remedy was implemented in 2019. A ROD was issued in 2019, Site UXO-24 and Site 37 (OU-26). The site is undeveloped property and a former surface dump. The remedy for Site UXO-24 is institutional controls, and for Site 37 no further action is necessary because soil and groundwater data did not indicate that exposure would result in an unacceptable risk to people or the environment. A ROD was issued in 2019 for Site 88 (OU-15) to address groundwater contamination associated with the former Base dry-cleaning facility.
+
+**2020 – 2024**
+
+The remedy for Site 88 was implemented in 2020 and includes three separate groundwater treatment areas with three different treatment technologies including enhanced reductive dechlorination, in-situ chemical oxidation, and the leading edge of the groundwater plume being treated with a biobarrier. Remedy implementation will continue through 2026.
+
+A Base-wide preliminary assessment (PA) was finalized in 2020 to identify potential sources of per- and polyfluoroalkyl substances (PFAS). An archive search, interviews and site investigation were conducted to identify potential and confirmed PFAS release areas at the Base. A 2021 study confirmed PFAS contamination in groundwater has not migrated off-site. The 2022 Site Inspection Report (SI) recommended that 51 areas undergo additional PFAS investigation or have a Remedial Investigation performed.
+
+A ROD was issued in 2022 for Site 96 (OU-22) to address groundwater contamination. The remedy chosen is long-term monitoring with institutional controls and was implemented in 2024.
+
+### What Is the Current Site Status?
+
+Twelve sites are being investigated for PFAS to determine the nature and extent in environmental media. Current data indicate that PFAS contaminated groundwater has not migrated off-site.
+
+Camp Lejeune has multiple pilot studies and treatability studies on-going in order to optimize current groundwater treatment technologies across the Base. The pilot studies include subgrade biodegradation reactors, air sparging, bioaugmentation, enhanced reductive dechlorination, air sparging and in-situ chemical oxidation. The study results provide information that is used to optimize remedies and allow the Base to meet cleanup levels in a shorter timeframe.
+
+Camp Lejeune implements sustainable cleanups where feasible, including installing a treatment system powered entirely by solar power; reusing 70 cubic yards of soil; recycling 7,530 pounds of metal; using passive sampling techniques to reduce remediation-derived waste; and using digital data capture devices in the field to reduce paper waste and increase efficiency. These best management practices have saved over 52 metric tons of carbon dioxide emissions.
+
+Every five years, cleanup actions at the site are reviewed to ensure that people and environmental resources are protected. The site’s most recent Five-Year Review was reported in 2020. The review found that cleanup actions will protect people and the environment over the long-term, once complete. By cleaning up and monitoring soils and groundwater, maintaining institutional controls to prevent people from being exposed to contamination, and undertaking periodic reviews of all cleanup actions, the Navy, Base, EPA and NCDEQ continue to protect people and the environment from site contamination. The next Five-Year Review will be completed in 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At Camp Lejeune, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Activity and use limitations that EPA calls institutional controls are in place at Camp Lejeune.
+
+### Sampling and Monitoring
+
+The Navy employs contractors to conduct sampling and monitoring at Camp Lejeune. All sampling and monitoring at the operable units covered under the FFA are implemented under work plans and sampling and analysis plans which are reviewed and approved by EPA and NCDEQ, as required by the FFA. Monitoring data have identified various contaminants in soil, surface water, sediments, and groundwater on the site. Additional investigations are ongoing at several areas on the Base. The focus is volatile organic compounds (VOCs) and metal contamination in ground water, and the potential for vapor intrusion into on-site buildings. The Navy is conducting several studies to evaluate the effectiveness of potential cleanup alternatives and conducting supplemental investigations to further evaluate and delineate source areas and the extent of contamination.
+
+### Green Remediation
+
+Innovative cleanup at the Camp Lejeune has followed ASTM E2893-16 – Standard Guide for Greener Cleanups. Some of the Best Management Practices (BMPs) Camp Lejeune has implemented to reduce environmental impacts during remediation include:
+
+- A solar-powered subgrade biogeochemical reactor that reduced landfill waste and greenhouse gas emissions, maximized use of renewable energy, reduced contaminant concentrations and accelerated cleanup.
+- An optimized long-term monitoring program that minimized waste management, avoiding 1,500 gallons of waste per year, reduced greenhouse gases related to transportation, and resulted in time and cost savings of 600 hours and $32,000 a year.
+- Remedy optimization was implemented at several sites in the long-term monitoring phase to enhance degradation and accelerate site closure. Meeting remedial action objectives earlier reduced soil and wastewater generated.
+
+Cleanup at the site will continue to rely on the BMPs moving forward, helping to further establish a culture of green and sustainable remediation that can serve as a model for other cleanups nationwide.
+
+### Enforcement Information
+
+In 1991, the EPA, NCDEQ, and the Navy signed a Federal Facilities Agreement (FFA) for the site. The FFA helps make sure that the parties will fully investigate environmental impacts associated with past and present activities and undertake and complete appropriate cleanup actions. The FFA also establishes schedules and enforceable milestones for cleanup activities. The schedule is updated annually by the Navy and approved by EPA and NCDEQ. As lead agency under CERCLA, the Navy retains the responsibility to clean up the site. EPA and NCDEQ are the oversight regulators for the cleanup of Camp Lejeune per CERCLA as detailed in the FFA.

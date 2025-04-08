@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 102-acre North Sanitary Landfill site, also known as the Valleycrest Landfill, is in Dayton, Ohio. More than half of the area was used for disposing industrial and municipal wastes into unlined former gravel pits. Five disposal areas were identified on-site. The site sits atop and within a federally designated, sole-source aquifer. Landfill operations contaminated soil and groundwater with hazardous chemicals. Residents with affected drinking water wells were connected to the [City of Dayton Department of Water](http://www.daytonwater.org/) supply. The site was added to the National Priorities List in 1994.
+
+### What Has Been Done to Clean Up the Site?
+
+U.S. EPA led a Superfund Removal Program cleanup between 1998 and 2003 to address immediate threats to human health and the environment. These efforts removed drums and contaminated soils from “hot spot” areas of the site and installed a landfill gas abatement system. Some soils were also treated using soil vapor treatment.
+
+[Potentially responsible parties (PRPs)](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp) conducted the site’s remedial investigation and completed the [feasibility study (pdf)](https://semspub.epa.gov/work/05/425510.pdf) (918pp, 30.57MB) in 2011, with Ohio EPA as the lead agency providing oversight through a cooperative agreement with EPA. After issuing a proposed cleanup plan and allowing a comment period in 2012, EPA selected its remedy and issued its [Record of Decision (pdf)](https://semspub.epa.gov/work/05/915505.pdf) (172 pp, 6.38MB) in 2013. The remedy included:
+
+- Installing a multi-layer cap over 70 acres,
+- Installing and operating a leachate extraction system to contain contaminated groundwater and prevent it from leaving the site, and
+- Installing and operating a permanent landfill gas collection system to replace the existing system.
+
+In October 2018, the United States District Court for the Southern District of Ohio approved a [consent decree (pdf)](https://semspub.epa.gov/work/05/944485.pdf) (95 pp, 3.4MB) which required PRPs to carry out a $35 million cleanup of the site. Under the consent decree, responsible parties agreed to design, construct, operate and maintain the remedy selected by the EPA.
+
+EPA approved the [Pre-Design Investigation Work Plan for the North Sanitary “Valleycrest” Landfill Superfund site (pdf)](https://semspub.epa.gov/work/05/963438.pdf) (2690 pp, MB, About PDF) in 2019, which included the Field Sampling Plan, Health and Safety Plan, and the Quality Assurance Project Plan. The pre-design rounds of soil and groundwater sampling were conducted in 2019 and 2020 to collect contaminant information.
+
+In February 2021 the PRPs finalized a workplan for the remedial design of the cleanup and in March 2022 EPA approved the [Final Remedial Design (pdf)](https://semspub.epa.gov/work/05/973956.pdf) (1850 pp, 107.14MB) and the [Final Remedial Action Work Plan (pdf)](https://semspub.epa.gov/work/05/973955.pdf) (246 pp, 12.65MB) for the site according to the 2013 Record of Decision (ROD).
+
+### What Is the Current Site Status?
+
+The remedy or cleanup construction at the site began in July 2022 and was completed in October 2023. All physical construction required for the cleanup of the entire site has been completed. The site is now in the Post-Construction Completion phase of the [Superfund process](https://www.epa.gov/superfund/superfund-cleanup-process). This phase of the process ensures that Superfund cleanups provide for the long-term protection of human health and the environment.
+
+On November 29, 2023, U.S. EPA joined Ohio EPA, the city of Dayton and local partners at a press conference at the site, followed by a gathering at a local restaurant to celebrate the completion of the cleanup construction at the site. The [Remedial Action Construction Report (pdf)](https://semspub.epa.gov/work/05/988369.pdf) (5360 pp, 1.04GB, [About PDF](https://www.epa.gov/home/pdf-files) ) for the cleanup was approved on February 23, 2024 (because of the large size of the document in may take longer time to upload).
+
+### Sampling and Monitoring
+
+After the site was listed on the National Priorities List (NPL), a remedial investigation/feasibility study (RI/FS) was performed at the site. The remedial investigation (RI) serves as the mechanism for collecting data to characterize site conditions, determine the nature of the waste, assess risk to human health and the environment, and conduct treatability testing to evaluate the potential performance and cost of the treatment technologies that are being considered.
+
+[Remedial Investigation Report for the North Sanitary (Valleycrest) Landfill 2008 (PDF)](http://semspub.epa.gov/src/document/05/425511) (2301 pp, 220.28 MB)
+
+### Emergency Response and Removal
+
+EPA Emergency Response Website: [Valleycrest Landfill](https://response.epa.gov/site/site_profile.aspx?site_id=829)
+
+[Summary of Completed Removal Activities 1998-2003 - North Sanitary "Valleycrest" Landfill, Dayton, OH (PDF)](http://semspub.epa.gov/src/document/05/943978) (7 pp, 481.63 KB)
+
+### Enforcement Information
+
+In October 2018, the United States District Court for the Southern District of Ohio approved a [consent decree (PDF) (95 pp, 3.4 MB,](http://semspub.epa.gov/src/document/05/944485) [About PDF](https://www.epa.gov/home/pdf-files) )(which requires responsible parties to carry out a $35 million cleanup of the North Sanitary (Valleycrest) Landfill Superfund site. Under the consent decree, responsible parties agree to design, construct, operate and maintain the remedy selected by the EPA in the site [Record of Decision (PDF) (172 pp, 6.38 MB, About PDF)](http://semspub.epa.gov/src/document/05/915505).
+
+The agreement provides for a preliminary investigation to collect updated groundwater contaminant information that will be used in the design of the selected remedy. EPA anticipates the preliminary data collection will be completed by fall 2019, and work on the cleanup design will begin shortly thereafter.
+
+The U.S. Department of Justice had lodged the proposed consent decree with the court earlier in 2018 and gave members of the public 30 days to review and comment on it. [The notice](https://www.federalregister.gov/documents/2018/03/27/2018-06080/revised-notice-of-lodging-of-proposed-consent-decree-under-the-comprehensive-environmental-response) to the public was published in March 2018.

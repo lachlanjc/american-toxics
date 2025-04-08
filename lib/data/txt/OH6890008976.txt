@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The U.S. Department of Energy Feed Materials Production Center, also known as the Feeds Material Superfund site, is located, twenty miles northwest of Cincinnati in the town of Fernald, Ohio. The 1,050-acre facility operated from 1951 to 1989, producing high-purity uranium metals products for the U.S. defense program. Facility operations contaminated soil and groundwater with radionuclides, including uranium, thorium and radium, and resulted in widespread radioactive contamination of soil and groundwater, along with residual sludge and liquid waste.
+
+In 1986, under a Federal Facility Compliance Agreement between DOE and U.S. EPA, the Remedial Investigation/Feasibility Study to address environmental impacts associated with the facility process began. Production operations at the facility were suspended in 1989, and the facility was placed on the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term remedial action and federal funding under the Comprehensive Environmental Response, Compensation, and Liability act, also known as CERCLA or the Superfund law. CERCLA, or the Superfund law, is what gives EPA the authority to clean up releases of hazardous substances.
+
+In 1991 U.S. DOE and U.S. EPA entered into a Consent Agreement requiring cleanup of the site under CERCLA. The site was divided into five operable units, or OUs, to promote a more structured and efficient cleanup. From 1991 to December 2006, DOE completed a $4.4 billion cleanup with EPA and Ohio EPA oversight. An estimated 31 million pounds of uranium products, 2.5 billion pounds of waste, 255 buildings and structures, and 2.75 million cubic yards of contaminated soil and debris were identified as requiring remedial action. In addition, a 223-acre portion of the Great Miami Aquifer, underlying the site, was found to be contaminated at levels above radiological drinking water standards.
+
+Once remediation activities at the site were completed, the site's mission became to serve as an undeveloped park, with an emphasis on wildlife. The DOE’s Office of Environmental Management was responsible for the remediation of the Femald site. In January 2007, post-remediation responsibilities transitioned to the DOE Office of Legacy Management. The site was opened to the public in August 2008 with a series of trails and a visitors’ center The cleanup at the Fernald site is a model of cooperation between U.S. DOE, U.S. EPA, Ohio EPA, the Fernald Citizen's Task Force, and other local stakeholders to reach consensus on cleanup and a future for the site. Groundwater treatment and monitoring at the site are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Long-term protectiveness requires cleanup of contaminated groundwater to meet drinking water standards.
+
+Groundwater treatment is ongoing. Off-site groundwater contamination is contained via an extraction system installed in 1991. An extensive network of extraction and injection wells was installed and began operation in August 1998 to expedite groundwater treatment and contaminant removal. Since that time, over eight billion gallons of groundwater have been pumped from the aquifer, removing more than 5,000 pounds of uranium. The groundwater is being treated to return the aquifer to drinking water standards, which is anticipated to occur in 2025. The site’s next five-year review is scheduled for 2021.
+
+### What Is the Current Site Status?
+
+The Feed Material site is now in reuse as a wildlife park, with DOE maintaining all future site control. Extensive wetlands, trails and a multi-use environmental education facility are located at the site.
+
+The site’s long-term cleanup has focused on five areas, or operable units. The status of each is summarized below.
+
+*Operable Unit 1:* Cleanup of eight waste pits containing 600,000 cubic yards of materials included excavation of the pits and their liners, physical drying of the materials, and shipment via rail for off-site disposal.
+
+*Operable Unit 2:* Cleanup of six waste disposal areas consisted of the excavation of about 350,000 cubic yards of waste material and its disposal in an on-site disposal facility, provided the material met waste acceptance criteria, or off-site disposal for materials exceeding the waste acceptance criteria.
+
+*Operable Unit 3:* Cleanup of 223 production and remediation structures included safe shutdown, removal of piping and building materials, demolition and disposal of the materials on site, provided the debris met waste acceptance criteria, or off-site disposal for debris exceeding the waste acceptance criteria.
+
+*Operable Unit 4:* Cleanup of silos containing 11,000 cubic yards of uranium, thorium and radium waste materials included removal, stabilization and off-site disposal of the material.
+
+*Operable Unit 5:* Site-wide cleanup of soil and groundwater contamination included excavation and on-site disposal of contaminated soils, provided the soils met waste acceptance criteria, or off-site disposal for soils exceeding the waste acceptance criteria, and groundwater treatment.
+
+Site cleanup of contaminated soils and structures finished in October 2006 and only collection and treatment of contaminated groundwater remains ongoing, at a total cost of $4.4 billion. Expedited activities and cooperation between EPA, Ohio EPA, DOE and its contractor Flour Fernald, and local stakeholders reduced cleanup costs by $2 billion. Ohio EPA and EPA working together as joint regulators helped pushed progress forward at this large DOE complex.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The primary contaminants at the site are radionuclides including isotopes of uranium, thorium, and radium.
+
+### Sampling and Monitoring
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Thirty removal actions took place between 1991 and 2006.

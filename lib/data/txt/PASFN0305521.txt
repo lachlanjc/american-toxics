@@ -1,0 +1,96 @@
+### Background
+
+The Lower Darby Creek Area (LDCA) Site is located in Darby Township and Folcroft Borough in Delaware and Philadelphia counties, Pennsylvania. The Site consists of two separate landfills, the [Clearview and Folcroft Landfills](http://semspub.epa.gov/src/document/03/2271366). The Clearview Landfill is on the east side of Darby Creek near the intersection of 84th and Lindbergh Boulevard. The Folcroft Landfill is located two miles downstream on the west side of Darby Creek and within the John Heinz National Wildlife Refuge. Both landfills operated from the 1950s to the 1970s and closed in the mid-1970s. Wastes accepted at both landfills reportedly included municipal, demolition and hospital wastes. Waste disposal practices contaminated soil, groundwater and fish tissue with hazardous chemicals. EPA placed the Site on the Superfund program’s National Priorities List in 2001. Cleanup work at the Clearview Landfill began in 2017. Investigations at the Folcroft Landfill are ongoing. The Site is being cleaned up through federal, state and potentially responsible party actions.
+
+### What Has Been Done to Clean Up the Site?
+
+To facilitate the cleanup, the Site has been separated into four operable units (OUs):
+
+- Clearview Landfill - OU1
+- Folcroft Landfill - OU2
+- Clearview Landfill Groundwater - OU3
+- LDCA Aquatic Environments - OU4
+
+**Clearview Landfill - OU1:**
+
+From November 2011 to September 2012, EPA conducted a Time-Critical Removal Action near the Southern Industrial Area (SIA) portion of the landfill, to remove high levels of polychlorinated biphenyls (PCBs). Almost 4,000 tons of PCB waste were excavated and shipped to another facility for disposal.
+
+In 2014, EPA selected the final [cleanup plan](http://semspub.epa.gov/src/document/03/2189665) for the Clearview Landfill - OU1. OU1 includes the contaminated soil, waste and shallow leachate (liquid coming out of the landfill). The plan calls for constructing an evapotranspiration cover over about 50 acres to contain landfill waste and contaminants; excavating contaminated soils outside the cover and placing them under the evapotranspiration cover; and collecting and treating leachate.
+
+In the Summer of 2015, EPA began designing the cleanup plan for the contaminated waste and soils at the Clearview Landfill. The design was completed in March 2019.
+
+Between September 2016 and June 2017, EPA conducted an additional Time-Critical Removal Action on residential properties to remove soil contaminated with polycyclic aromatic hydrocarbons (PAHs) that posed a health threat. EPA cleaned up 33 residential properties and removed almost 3,000 cubic yards of contaminated soil. After the Time-Critical Removal Action for the residential properties was completed, additional yards remained which required cleanup. These yards did not qualify for the Removal Action.
+
+EPA began a new Superfund cleanup for OU1 in August 2017. This cleanup is referred to as the Remedial Action.
+
+The first step of the OU1 cleanup was to continue addressing residential yards in the Eastwick neighborhood that have contaminated soil related to the Clearview Landfill. The residential yard cleanup project began in August 2017 and was completed in June 2021.
+
+The cleanup work on the Clearview Landfill began in March 2019 and is ongoing. More details on the current status of the cleanup are provided below.
+
+**Folcroft Landfill - OU2:**
+
+The U.S. Fish and Wildlife Service owns the Folcroft Landfill, as it is part of the John Heinz National Wildlife Refuge. EPA has a [legal agreement](https://yosemite.epa.gov/OA/RHC/EPAAdmin.nsf/Filings/B3775FD212F71449852583E00052D1F5/$File/Folcroft%20Landfill%20-%20Lower%20Darby%20Creek%20Area%20Superfund%20Site.%20AOC.%20November%2014%202006.pdf) with a group of potentially responsible parties (PRPs) requiring them to perform the Remedial Investigation and Feasibility Study.
+
+In 2019, EPA approved the PRP [Remedial Investigation Report (PDF)](http://semspub.epa.gov/src/document/03/2265189) of the Folcroft Landfill. The purpose of this investigation was to determine the nature and extent of contamination. The data was also used to evaluate potential risks to the public and the environment. The PRPs, EPA, and the Pennsylvania Department of Environmental Protection (PADEP) are using the results from this investigation to evaluate potential long-term cleanup options as part of the Feasibility Study (FS), which is expected to be approved in 2024. The FS is evaluating cleanup options to address the landfill as well as contaminated groundwater related to the historic landfill operations. The main contaminants of concern for the landfill include several inorganics and pesticides. The groundwater is known to be impacted by trichloroethene (TCE), dichloroetene (DCE), vinyl chloride, and 1,4-dioxane.
+
+**Clearview Landfill Groundwater - OU3:**
+
+The contaminated groundwater (water present beneath the surface in soil) from the Clearview Landfill is considered to be OU3. EPA completed the Remedial Investigation (RI) report for OU3 in March 2019. Several areas of groundwater contamination were identified that extend to the east and south of the landfill as well as to the adjacent creeks.
+
+It's important to note that residents are supplied public drinking water and are not drinking groundwater from this area. The levels of contaminants that seep into the creek bottom and surface water do not present unacceptable health risks. The contaminants of concern for OU3 include per-and poly-fluoroalkyl substances (PFAS), 1,4-dioxane, arsenic, polychlorinated biphenyls, and several pesticides.
+
+**LDCA Aquatic Environments - OU4:**
+
+In 2021, EPA created the new OU4 which encompasses the aquatic environments within the creeks, marsh and larger John Heinz National Wildlife Refuge (JHNWR) that may be impacted from contaminants related to Clearview or Folcroft landfills. OU4 was created as a result of sampling and a baseline risk assessment conducted by EPA for the aquatic portions of the site (sediment, surface water, fish tissue, turtle tissue). The data from these sampling efforts is [available](https://semspub.epa.gov/src/document/03/2181313). The risk assessment identified unacceptable human health risks from exposure to sediment contamination as well as consumption of fish and snapping turtles. Unacceptable ecological risks from exposure to contaminated sediments were identified for numerous plants, invertebrates, fish, mammals and birds.
+
+### What Is the Current Site Status?
+
+**Status of the Clearview Landfill - OU1:**
+
+The following work is being performed at the Clearview Landfill: the permanent relocation of businesses on the landfill, removal of contaminated soil from the City Park, construction of a new forested cover over the landfill waste, and stabilizing the streambanks. This work began in early 2019.
+
+Construction activity for the cleanup of the landfill is ongoing. The [Landfill Cleanup Phases and Progress](https://semspub.epa.gov/src/document/03/2309927) maps provide some additional information on each phase of the cleanup.
+
+**Clearview Landfill Cleanup Phases**
+
+- Phase A – Landfill capping and restoration
+- Phase B – Landfill capping, City Park (southern half) cleanup, restoration
+- Phase C – Landfill capping, City Park (northern half) cleanup, restoration
+- Phase D – Contaminated soil removal and restoration
+- Phase E – Cleanup and long-term stabilization of creek banks
+
+The Residential Yard component of the cleanup was completed in June 2021. As a result of this cleanup, 195 residential properties were remediated and restored. This action removed over 25,000 tons of contaminated soil present in the Eastwick neighborhood, which is being placed under the cap that is being constructed presently to address the landfill.
+
+The cleanup work on the Clearview Landfill began in March 2019 and is ongoing. To date, nearly the entire Eastwick Regional City Park (“City Park”) was remediated by excavating and removing the top 2 to 4 feet of soil which was impacted with OU1 contaminants. The City Park was restored with new grass, trees and a short berm that helps to manager stormwater during precipitation events and may also serve as a future bike path.
+
+The OU1 cleanup has constructed about 50 acres of ET cover, with approximately 1 acre left to be capped in 2023. The ET cover includes over 800 trees and shrubs per acre that absorb precipitation in the ET cover soils to minimize the generation of additional leachate and groundwater contamination. When construction is complete, over 60,000 trees will be planted on OU1, most of which have been provided by two research nurseries that EPA initiated in 2014.
+
+Over 2,400 feet of streambank along Cobbs and Darby creek have been stabilized to prevent future exposure and erosion of landfill contaminants. The streambank stabilization has utilized natural materials, plantings and features such as mudsills, log vanes and crib walls that not only protect the integrity of the remedy, but also provide high quality habitat. The combined features of the OU1 remedy are intended to be resilient to climate change and have been designed in full consideration of preventing negative impacts to the 100- and 500-year flood plains.
+
+All construction on the Clearview Landfill is scheduled for completion in 2023. Work to stabilize the opposite banks of Darby Creek in several locations will be completed in 2024. These opposite banks are not impacted by contamination, but may experience greater erosion as a result of the Clearview bank stabilization and as such, EPA is ensuring that they are properly stabilized and reinforced.
+
+EPA has conducted the first five-year reviews of the site’s remedy for OU1. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335634), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2027.
+
+**Status of the Folcroft Landfill - OU2:**
+
+The Feasibility Study for this landfill is underway and expected to be complete in 2024. The Study will evaluate cleanup options for the Folcroft Landfill and the related contaminated groundwater.
+
+**Status of the Clearview Landfill Groundwater - OU3:**
+
+EPA is currently conducting a Focused Feasibility Study (FFS) to evaluate options to prevent further contamination from leaving the landfill boundary. This action will be taken first as an interim cleanup which seeks to contain all groundwater contamination at the landfill waste boundary. The FFS is scheduled for completion in late 2024.
+
+The final cleanup plan for the larger plume of contamination that is currently outside the waste boundary will be evaluated in another FS that is also underway and slated for completion by the end of 2025.
+
+**Status of the LDCA Aquatic Environments – OU4:**
+
+EPA is in the initial stages of the Feasibility Study (FS) for the LDCA Aquatic Environments – OU4. Current focus is on updating the Conceptual Site Model, identifying additional potential sources of contamination and planning for collecting additional information and data needed to evaluate potential response activities to address unacceptable risks from sediment, fish and turtle tissue. The FS is currently scheduled for completion in 2026.
+
+### Emergency Response and Removal
+
+In September 2011, EPA took an [action to remove](http://semspub.epa.gov/ar/docs/showars.jsf?faces-redirect=true&region=03&epaid=PASFN0305521&collectionid=62234) soils and wastes contaminated with high levels of polychlorinated biphenyls (PCBs) and polycyclic aromatic hydrocarbons (PAHs) from the southern portion of the Clearview Landfill. EPA took this action because the contaminants posed a risk to local workers on the Site as well as Darby Creek. EPA [completed this short-term](http://semspub.epa.gov/ar/docs/showars.jsf?faces-redirect=true&region=03&epaid=PASFN0305521&collectionid=62507) action in September 2012.
+
+Between September 2016 and June 2017, EPA conducted an additional Time-Critical Removal Action on residential properties to remove soil contaminated with PAHs that posed a health threat. EPA cleaned up 33 residential properties and removed almost 3,000 cubic yards of contaminated soil.
+
+### Enforcement Information
+
+[Administrative Enforcement Documents for the Lower Darby Creek Area Superfund Site](https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/5a973e19e081ef9a85257563004d28c3/3087dcd383767b62852583e0004d3c3d!OpenDocument&Highlight=0,folcroft)

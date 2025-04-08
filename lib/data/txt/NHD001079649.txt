@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Fletcher's Paint Works and Storage Facility Superfund Site (the Site) is in Milford, New Hampshire. The Site sits in a densely populated residential and commercial area near downtown Milford. About 11,400 people within three miles of the Site and get drinking water from public and private wells. A school, and a 19-acre recreation field (Keyes Field), are adjacent to the Site. The Site was added to the National Priorities List (NPL) in 1989.
+
+Fletcher's Paint manufactured and sold paints and stains from 1949 until 1991. The former 2-acre Fletcher's Paint operation consisted of two areas: a manufacturing plant/retail outlet on Elm Street; and a storage area 700 feet south on Mill Street. Many years of storage and releases of scrap pyranol, which is a mixture of polychlorinated biphenyls (PCBs) and solvents, contaminated soil, groundwater, and nearby sediments in the Souhegan River.
+
+In 1984, an EPA investigation was prompted by the discovery of VOC contamination in the adjacent Keyes Municipal Water Supply Well. The Keyes well was removed from service. In 1988 drums were removed from the Elm Street facility, and a permeable synthetic liner and clean fill were placed over areas with high levels of polychlorinated biphenyls (PCBs) at both the Elm and Mill Street areas. The Site was added to the NPL in March 1989.
+
+The Site cleanup is being managed in two phases or operable units (OUs). OU1 generally consists of: the Elm Street area; the Mill Street area; a drainage ditch/culvert system from the Mill Street area, through the Elm Street area and to the Souhegan River; and groundwater which extends from the Mill Street area, through the Elm Street area, and to the Souhegan River.
+
+USEPA issued a [Record of Decision (ROD) for OU1 in September 1998](https://semspub.epa.gov/src/document/01/14820) (371 pp, 20 M, About PDF).  The OU1 ROD called for soil excavation and on-site treatment of the excavated soil using thermal desorption technology.  In June 2009, USEPA [amended the ROD](https://semspub.epa.gov/src/document/01/449061) (311 pp, 56 M, About PDF) to replace on-site thermal desorption with off-site disposal of the excavated soil. The soil excavation remedy at the Elm and Mill Street areas was conducted between October 2015 and July 2017.
+
+OU2 f ocuses on those adjacent areas where contamination has migrated from OU1 and includes the nearby portion of the Souhegan River as well as the groundwater under Keyes Field, which drew contamination from the Site during the operation of the Keyes Municipal Supply Well from 1972 through 1984. USEPA issued a [ROD for OU2 in September 2012](https://semspub.epa.gov/src/document/01/522361) (132 pp, 5 K, [About PDF](/home/pdf-files) ). The OU2 ROD selected a no-action remedy for the groundwater under Keyes Field. In the Summer of 2016, sediments were removed from the Souhegan River as part of a non-time-critical removal action.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1984, an EPA investigation was prompted by the discovery of VOC contamination in the adjacent Keyes Municipal Water Supply Well. The Keyes well was removed from service. In 1988 drums were removed from the Elm Street facility, and a permeable synthetic liner and clean fill were placed over areas with high levels of polychlorinated biphenyls (PCBs) at both the Elm and Mill Street areas. The Site was added to the NPL in March 1989.
+
+In 1991, a fence was installed in the Elm Street area. The Mill Street storage shed and its contents were disposed of during the summer of 1993. In 1995, contaminated surface soils were removed from three residential properties near the Mill Street site. Asphalt was placed over Mill Street to direct future runoff away from these properties. In 1996, contaminated soils were removed from a small piece of land next to the Elm Street facility to allow for the construction of a Korean War Memorial. In December 2000, EPA started the demolition of the former Fletcher's Paint Works building on the Elm Street property. This action was completed by July 2001, and the Elm Street area was covered with a temporary liner and sand where the building stood and fencing was placed around the area.
+
+USEPA issued a Record of Decision (ROD) for OU1 in September 1998 (91 pp, 245 K, About PDF). The OU1 ROD called for soil excavation and on-site treatment of the excavated soil using thermal desorption technology. In June 2009, USEPA amended the ROD (311 pp, 56 M, About PDF) to replace on-site thermal desorption with off-site disposal of the excavated soil. The soil excavation remedy at the Elm and Mill Street areas was conducted between October 2015 and July 2017.
+
+OU2 focuses on those adjacent areas where contamination has migrated from OU1 and includes the nearby portion of the Souhegan River as well as the groundwater under Keyes Field, which drew contamination from the Site during the operation of the Keyes Municipal Supply Well from 1972 through 1984. USEPA issued a ROD for OU2 in September 2012. The OU2 ROD selected a no-action remedy for the groundwater under Keyes Field. In the Summer of 2016, sediments were removed from the Souhegan River as part of a non-time-critical removal action.
+
+In July 2001, EPA ordered General Electric, the principal responsible party at the site, to carry out the OU1 cleanup plan selected by EPA in the September 1998, OU1, Record of Decision. The cleanup plan, updated in 2009, includes excavation and off-site disposal of PCB-contaminated soils, a cover, and restoration of the Elm Street property for public recreation and parking. In August 2016, USEPA and General Electric signed an Administrative Order on Consent (AOC) to carry out the Souhegan River sediment excavation plan selected in the June 2016 Non-Time-Critical Removal Action Memorandum.
+
+All the required soil and sediment excavation and off-site disposal have been completed as described under the Current Site Status Section.
+
+### What Is the Current Site Status?
+
+All the required construction activities have been completed as described below.
+
+Operable Unit 1:
+
+Excavation activities at the Elm and Mill Street portions of the Site were performed between October 2015 and November 2016. The remedial activities at the Elm Street area resulted in the excavation and off-site disposal of about 22,210 CY of contaminated soil. The remedial activities at the Mill Street area resulted in the excavation and off-site disposal of approximately 9,945 CY of contaminated soil. Backfilling of the excavated areas was performed throughout the 2016 and 2017 construction seasons. Site restoration activities, including the final cover on the Elm and Mill Street areas, were completed by July 2017. Additional details can be found in the [OU1 Final Remedial Action Report](https://semspub.epa.gov/src/document/01/100008978) (266 pp, 16 MK, [About PDF](/home/pdf-files) ).
+
+Operable Unit 2:
+
+Souhegan River sediment excavation and backfilling activities were accomplished between September 12 and September 30, 2016. Approximately 1,500 CY of PCB-contaminated sediment were excavated and transported off-site for disposal. Additional details of the sediment removal activities are documented in the [Final Removal Action Report, Operable Unit 2 – Souhegan River Sediments, Non-Time-Critical Removal Action](https://semspub.epa.gov/src/document/01/597127) (1505 pp, 128 M, [About PDF](/home/pdf-files) ).

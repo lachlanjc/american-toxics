@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ormet Corp. site is located along the Ohio River in Monroe County, Ohio approximately 3 miles north of the city of Hannibal in the southeastern corner of the state. An aluminum processing plant operated on this site from 1958 to 2013. Plant wastes were historically disposed of on the ground or in unlined lagoons in the northeast portion of the facility. At various times five disposal ponds were used. They were unlined and constructed of natural materials.
+
+The contamination found in the area prompted EPA to propose that the Site be placed on the National Priorities List in September 1985. EPA finalized the listing on July 21, 1987.
+
+In May 1987 the U.S. EPA, Ohio Environmental Protection Agency and Ormet Corporation entered into an Administrative Order on Consent providing for Ormet to conduct a remedial investigation and feasibility study with U.S. EPA oversight. Moderate levels of cyanide and fluoride in the groundwater were identified. Soils in the area were identified as a primary ongoing contributor of cyanide and fluoride contamination to groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1994 the Proposed Plan and Record of Decision describing the remedy for the site were published. In 1998 the cleanup was completed.
+
+The site’s cleanup included excavating soils and sediment contaminated with polychlorinated biphenyls (PCBs) and placing them in an on-site containment cell, building a landfill cap, installing a flushing system on the former spent potliner storage area, performing groundwater extraction and treatment, conducting long-term monitoring and maintenance, and limiting the use of and access to the site.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s cleanup. These reviews ensure that the cleanups put in place protect public health and the environment and function as intended by site decision documents. EPA completed the [Fifth Five-Year Review (PDF)](http://semspub.epa.gov/work/05/974539.pdf) (101 pp, 16.52 MB, [About PDF](https://www.epa.gov/web-policies-and-procedures/pdfs-free-viewers-and-readers-read-and-print-epa-information) ) of the site in April 2022. The review concluded that the remedy at the site continues to be protective of human health and the environment because most of the groundwater contamination remains contained to the historically affected area and there are no known complete exposure pathways, or direct ways, in which a person, species, or environment could come into contact with contamination. However, for the remedy to be effective in the long-term, the following actions need to be performed:
+
+- Site-specific soil standards need to be developed.
+- EPA needs to prepare a decision document to include willow trees.
+- A work plan for the pilot project must be approved.
+- An updated ecological risk assessment must be completed.
+- A Remedial Alternatives report must be submitted after completion of the pilot project, egular groundwater sampling, and O&M monitoring must be conducted.
+- 1,4-dioxane sampling must be conducted, and fencing must be repaired.
+
+The next scheduled five-year review will be in 2027.
+
+### Enforcement Information
+
+Ormet Primary Aluminum Corporation and EPA entered into a CD to clean up the site.
+
+- [Consent Decree filed on September 28, 1995 and entered in December 18, 1995](https://semspub.epa.gov/work/05/305035.pdf)
+- [An Amendment to Consent Decree, entered in March 11, 2009](https://semspub.epa.gov/work/05/305035.pdf)

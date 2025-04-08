@@ -1,32 +1,85 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 1-square-mile South Valley site is located in Albuquerque, New Mexico. The site consists of two properties, the Univar site and the former Air Force Plant 83 site (called the GEA site). Chemical distribution and military activities contaminated groundwater with volatile organic compounds (VOCs). Ground water  cleanup has been on-going since the mid-1990's.
+### Background
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and PRP actions. The most recent review completed in July 2015 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
-Various industrial and commercial operations took place at the Univar site for about 50 years. Several owners used the area to distribute industrial chemicals and sell dry ice, chlorine and ammonia gas. Univar leased the eastern portion of the property for its activities, while other companies occupied the rest of the site. The other portion of the site is the former Air Force Plant 83 (GEA) site. The Plant 83 facility consisted of two facilities: the North Plant 83 Area, located north of Woodward Road, which was demolished in October 1997, and the South Plant 83 Area, located south of Woodward Road, which was closed in September 2010 and demolished in 2011. Both facilities were used for manufacturing purposes since the 1950s. General Electric Aviation (GEA) has owned the facility since 1984. Various industrial and commercial operations took place at the Univar site for about 50 years. Several owners used the area to distribute industrial chemicals and sell dry ice, chlorine and ammonia gas. Univar leased the eastern portion of the property for its activities, while other companies occupied the rest of the site. The other portion of the site is the former Air Force Plant 83 (GEA) site. The Plant 83 facility consisted of two facilities: the North Plant 83 Area, located north of Woodward Road, which was demolished in October 1997, and the South Plant 83 Area, located south of Woodward Road, which was closed in September 2010 and demolished in 2011. Both facilities were used for manufacturing purposes since the 1950s. General Electric Aviation (GEA) has owned the facility since 1984.
-What Is the Current Site Status?
-Currently there are 2 active OUs at the South Valley Site: OU 3 - Univar Site The site has achieved cleanup goals for Volatile Organic Compounds (VOCs), however, off-site cleanup levels have not been achieved for 1,4-dioxane. Univar is continuing to treat groundwater for 1,4-dioxane and characterizing the lateral and vertical extent of contamination that is migrating east of the site. Univar recently submitted a workplan to install additional wells to the east of the site to fully characterize the extent of contamination. EPA has approved the workplan and field work to instal the wells is expected to occur in the spring of 2024. OU 6 - GE Site﻿ GE has been treating groundwater in OU 6 since 1990s and has recently achieved cleanup goals for VOCs. GE has submitted a closure workplan to monitor the wells for eight quarters to demonstrate no rebound in the contamination. EPA and NMED are currently reviewing the workplan. If GE demonstrates that concentrations of VOCs are below the standards for eight quarters then OU 6 is eligible for deletion from the NPL. Site deletion process will require public notification and comments.
-Partial Deletion of OUs 1,2, and 5﻿The U.S. EPA approved the partial deletion of hte South Valley Superfund Site from the National Priorities List (NPL) of contaminated sites in September 2019. Three specific areas or operable units (OUs) of the Albuquerque, New Mexico, site out of six total OUs were removed from the list. EPA determined that all appropriate cleanup actions in these areas have been completed and the New Mexico Environment Department concurred. ﻿Since 1982 when the site was added to the NPL, effective remedies have been put in place for OUs 1,2, and 5, allowing EPA to propose and finalize their deletion from the NPL. ﻿- OU 1, city of Albuquerque San Jose 6 & 3 wells: these wells were contaminated by VOCs, presenting a potential risk to the city's drinking water supply. The wells were replaced in April 1987. ﻿- OU 2, aquifer contamination: to prevent VOC contamination from migrating from shallower to deeper areas of the aquifer, and to restrict use of groundwater under the site, the responsible party plugged the contaminated wells and other shallow wells in the late 1980s. Groundwater monitoring wells were installed and remain in use.
-  OU 5, shallow zone aquifer: Contamination in parts of the shallow aquifer was removed through soil vapor extraction and groundwater treatment starting in the early 1990s. The responsible party also excavated and disposed of contaminated soil in this area. Operable units 3, 4 and 6 remain on the NPL to reach the goals of restoring water quality in the aquifer, treating contaminated soils in other areas, and addressing contamination in deeper areas of the aquifer. Deleted portions of the site remain eligible for future response actions, if necessary.    
-  Remedy Selected Univar Site: The long-term remedy included no further action for the vadose zone (Operable Unit 4). The long term remedy for groundwater (Operable Unit 3) was extraction, treatment and monitoring for groundwater. GEA Site: The long-term remedy includes extraction and treatment of deep groundwater - Operable Unit 6.
-Cleanup Progress Univar Site: The groundwater pumping and treatment system extracted and treated about 850 million gallons of groundwater from 1990 to 2006. The system stopped operating in 2006 when it was thought that cleanup goals were met. A vapor extraction system (not listed in the remedy, but installed to enhance the groundwater cleanup) operated until 2006. Operation and maintenance activities and monitoring are ongoing. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation of 1,4-dioxane in groundwater.  Univar initiated construction of a groundwater recovery system in 2016 to address the 1,4-dioxane in groundwater and this system became operational in February 2018. GEA Site: The pumping and treatment system for shallow groundwater (Operable Unit 5) has been operational since 1994; this portion of the cleanup is now complete. An additional recovery system and treatment plant to address deep groundwater (Operable Unit 6) has operated since 1996; cleanup activities with this system are ongoing. The potentially responsible party (PRP) plugged and abandoned contaminated municipal wells in 1994 and demolished buildings at the site in 2011. Excavation and disposal of chromium-contaminated soils finished in 2012. Operation and maintenance activities and monitoring are ongoing. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation and coordinated action to address increased levels of methyl tertiary butyl ether (MTBE), trichloroethylene (TCE) and 1,1-dichloroethylene (DCE). Entire Site: EPA and the New Mexico Environment Department installed a replacement well in 1988. The PRP plugged and abandoned the VOC-contaminated municipal well in 1994.
-The U.S. Environmental Protection Agency (EPA) approved the partial deletion of the South Valley Superfund site from the National Priorities List (NPL) of contaminated sites in September 2019. Three specific areas, or operable units (OUs) of the Albuquerque, New Mexico, site out of six total OUs will be removed from the list. EPA determined that all appropriate cleanup actions in these areas have been completed, and the New Mexico Environment Department concurred. Since 1982 when the site was added to the National Priorities List,  effective remedies have been put in place for Operable Units 1, 2, and 5, allowing EPA to propose and finalize their deletion from the NPL. - Operable Unit 1, city of Albuquerque San Jose 6 & 3 wells: These wells were contaminated by VOCs, presenting a potential risk to the city’s drinking water supply. The wells were replaced in April 1987. - Operable Unit 2, aquifer contamination: To prevent VOC contamination from migrating from shallower to deeper areas of the aquifer, and to restrict use of groundwater under the site, the responsible party plugged the contaminated wells and other shallow wells in the late 1980s. Groundwater monitoring wells were installed and remain in use. - Operable Unit 5, shallow zone aquifer: Contamination in parts of the shallow aquifer was removed through soil vapor extraction and groundwater treatment starting in the early 1990s. The responsible party also excavated and disposed of contaminated soil in this area. Operable units 3, 4 and 6 remain on the NPL to reach the goals of restoring water quality in the aquifer, treating contaminated soils in other areas, and addressing contamination in deeper areas of the aquifer. Deleted portions of the site remain eligible for future response actions, if necessary. 
+The 1-square-mile South Valley site is located in Albuquerque, New Mexico. The site consists of two properties, the Univar site and the former Air Force Plant 83 site (called the GEA site). Chemical distribution and military activities contaminated groundwater with volatile organic compounds (VOCs). Ground water cleanup has been on-going since the mid-1990's.
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Activities completed on the South Plant 83 area resulted in some contamination left in place which resulted in GEA filing a Declaration of Restrictive Covenants on September 9, 2014, in the Bernalillo County property records.  The deed restriction identified five areas where semi-volatile organic compounds or hexavalent chromium contamination remain about industrial soil screening levels.  The deed restriction also contained the following: identification of the abandoned sanitary sewer lines and existing sewer line locations; restriction that the property use is liminted to commercial and industrial; restriction that groundwater beneath the site cannot be used; and engineered barriers must remain in place on portions of the property where semi-volatile organic compounds and hexavalent chromium remain above industrial soil screening levels.
+### What Has Been Done to Clean Up the Site?
 
-Emergency Response and Removal
+The site is being addressed through federal, state and PRP actions.
+
+The most recent review completed in July 2015 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+Various industrial and commercial operations took place at the Univar site for about 50 years. Several owners used the area to distribute industrial chemicals and sell dry ice, chlorine and ammonia gas. Univar leased the eastern portion of the property for its activities, while other companies occupied the rest of the site.
+
+The other portion of the site is the former Air Force Plant 83 (GEA) site. The Plant 83 facility consisted of two facilities: the North Plant 83 Area, located north of Woodward Road, which was demolished in October 1997, and the South Plant 83 Area, located south of Woodward Road, which was closed in September 2010 and demolished in 2011. Both facilities were used for manufacturing purposes since the 1950s. General Electric Aviation (GEA) has owned the facility since 1984.
+
+Various industrial and commercial operations took place at the Univar site for about 50 years. Several owners used the area to distribute industrial chemicals and sell dry ice, chlorine and ammonia gas. Univar leased the eastern portion of the property for its activities, while other companies occupied the rest of the site.
+
+The other portion of the site is the former Air Force Plant 83 (GEA) site. The Plant 83 facility consisted of two facilities: the North Plant 83 Area, located north of Woodward Road, which was demolished in October 1997, and the South Plant 83 Area, located south of Woodward Road, which was closed in September 2010 and demolished in 2011. Both facilities were used for manufacturing purposes since the 1950s. General Electric Aviation (GEA) has owned the facility since 1984.
+
+### What Is the Current Site Status?
+
+Currently there are 2 active OUs at the South Valley Site:
+
+OU 3 - Univar Site
+
+The site has achieved cleanup goals for Volatile Organic Compounds (VOCs), however, off-site cleanup levels have not been achieved for 1,4-dioxane. Univar is continuing to treat groundwater for 1,4-dioxane and characterizing the lateral and vertical extent of contamination that is migrating east of the site. Univar recently submitted a workplan to install additional wells to the east of the site to fully characterize the extent of contamination. EPA has approved the workplan and field work to instal the wells is expected to occur in the spring of 2024.
+
+OU 6 - GE Site
+
+GE has been treating groundwater in OU 6 since 1990s and has recently achieved cleanup goals for VOCs. GE has submitted a closure workplan to monitor the wells for eight quarters to demonstrate no rebound in the contamination. EPA and NMED are currently reviewing the workplan. If GE demonstrates that concentrations of VOCs are below the standards for eight quarters then OU 6 is eligible for deletion from the NPL. Site deletion process will require public notification and comments.
+
+**Partial Deletion of OUs 1,2, and 5**
+
+The U.S. EPA approved the partial deletion of hte South Valley Superfund Site from the National Priorities List (NPL) of contaminated sites in September 2019. Three specific areas or operable units (OUs) of the Albuquerque, New Mexico, site out of six total OUs were removed from the list. EPA determined that all appropriate cleanup actions in these areas have been completed and the New Mexico Environment Department concurred.
+
+Since 1982 when the site was added to the NPL, effective remedies have been put in place for OUs 1,2, and 5, allowing EPA to propose and finalize their deletion from the NPL.
+
+\- OU 1, city of Albuquerque San Jose 6 & 3 wells: these wells were contaminated by VOCs, presenting a potential risk to the city's drinking water supply. The wells were replaced in April 1987.
+
+\- OU 2, aquifer contamination: to prevent VOC contamination from migrating from shallower to deeper areas of the aquifer, and to restrict use of groundwater under the site, the responsible party plugged the contaminated wells and other shallow wells in the late 1980s. Groundwater monitoring wells were installed and remain in use.
+
+OU 5, shallow zone aquifer: Contamination in parts of the shallow aquifer was removed through soil vapor extraction and groundwater treatment starting in the early 1990s. The responsible party also excavated and disposed of contaminated soil in this area.
+
+Operable units 3, 4 and 6 remain on the NPL to reach the goals of restoring water quality in the aquifer, treating contaminated soils in other areas, and addressing contamination in deeper areas of the aquifer. Deleted portions of the site remain eligible for future response actions, if necessary.
+
+**Remedy Selected**
+
+*Univar Site:* The long-term remedy included no further action for the vadose zone (Operable Unit 4). The long term remedy for groundwater (Operable Unit 3) was extraction, treatment and monitoring for groundwater.
+
+*GEA Site:* The long-term remedy includes extraction and treatment of deep groundwater - Operable Unit 6.
+
+**Cleanup Progress**
+
+*Univar Site:* The groundwater pumping and treatment system extracted and treated about 850 million gallons of groundwater from 1990 to 2006. The system stopped operating in 2006 when it was thought that cleanup goals were met. A vapor extraction system (not listed in the remedy, but installed to enhance the groundwater cleanup) operated until 2006. Operation and maintenance activities and monitoring are ongoing.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation of 1,4-dioxane in groundwater. Univar initiated construction of a groundwater recovery system in 2016 to address the 1,4-dioxane in groundwater and this system became operational in February 2018.
+
+*GEA Site:* The pumping and treatment system for shallow groundwater (Operable Unit 5) has been operational since 1994; this portion of the cleanup is now complete. An additional recovery system and treatment plant to address deep groundwater (Operable Unit 6) has operated since 1996; cleanup activities with this system are ongoing. The potentially responsible party (PRP) plugged and abandoned contaminated municipal wells in 1994 and demolished buildings at the site in 2011. Excavation and disposal of chromium-contaminated soils finished in 2012. Operation and maintenance activities and monitoring are ongoing.
+
+The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation and coordinated action to address increased levels of methyl tertiary butyl ether (MTBE), trichloroethylene (TCE) and 1,1-dichloroethylene (DCE).
+
+*Entire Site:* EPA and the New Mexico Environment Department installed a replacement well in 1988. The PRP plugged and abandoned the VOC-contaminated municipal well in 1994.
+
+The U.S. Environmental Protection Agency (EPA) approved the partial deletion of the South Valley Superfund site from the National Priorities List (NPL) of contaminated sites in September 2019. Three specific areas, or operable units (OUs) of the Albuquerque, New Mexico, site out of six total OUs will be removed from the list. EPA determined that all appropriate cleanup actions in these areas have been completed, and the New Mexico Environment Department concurred.
+
+Since 1982 when the site was added to the National Priorities List, effective remedies have been put in place for Operable Units 1, 2, and 5, allowing EPA to propose and finalize their deletion from the NPL.
+
+\- Operable Unit 1, city of Albuquerque San Jose 6 & 3 wells: These wells were contaminated by VOCs, presenting a potential risk to the city’s drinking water supply. The wells were replaced in April 1987.
+
+\- Operable Unit 2, aquifer contamination: To prevent VOC contamination from migrating from shallower to deeper areas of the aquifer, and to restrict use of groundwater under the site, the responsible party plugged the contaminated wells and other shallow wells in the late 1980s. Groundwater monitoring wells were installed and remain in use.
+
+\- Operable Unit 5, shallow zone aquifer: Contamination in parts of the shallow aquifer was removed through soil vapor extraction and groundwater treatment starting in the early 1990s. The responsible party also excavated and disposed of contaminated soil in this area.
+
+Operable units 3, 4 and 6 remain on the NPL to reach the goals of restoring water quality in the aquifer, treating contaminated soils in other areas, and addressing contamination in deeper areas of the aquifer. Deleted portions of the site remain eligible for future response actions, if necessary.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Activities completed on the South Plant 83 area resulted in some contamination left in place which resulted in GEA filing a Declaration of Restrictive Covenants on September 9, 2014, in the Bernalillo County property records. The deed restriction identified five areas where semi-volatile organic compounds or hexavalent chromium contamination remain about industrial soil screening levels. The deed restriction also contained the following: identification of the abandoned sanitary sewer lines and existing sewer line locations; restriction that the property use is liminted to commercial and industrial; restriction that groundwater beneath the site cannot be used; and engineered barriers must remain in place on portions of the property where semi-volatile organic compounds and hexavalent chromium remain above industrial soil screening levels.
+
+### Emergency Response and Removal
+
 The City of Albuquerque removed VOC-contaminated wells from service in 1981. EPA divided site cleanup activities into three phases to address two areas of contamination and sitewide issues.

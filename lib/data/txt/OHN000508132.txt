@@ -1,2 +1,30 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The West Troy Contaminated Aquifer (WTCA) site is located just north of the City of Troy and adjacent unincorporated portions of Miami County, Ohio. The site consists of a plume of volatile organic compounds (VOCs) that affected underground water. Tetrachloroethene or PCE is the primary VOC detected at the site.
+
+VOCs were detected in a Troy wellfield located east of the Great Miami River since the late 1980s and early 1990s. The first Ohio EPA field investigation began in 1997. From 2001 to 2005 Ohio EPA conducted several site assessments and site inspections to locate a potential source or sources of PCE. These investigations did not identify a source of contamination to the aquifer. In 2010, Ohio EPA conducted a supplemental expanded site inspection (SESI) at the site. The SESI indicated that some properties located on the west side of the Great Miami River could be potential source areas of contamination. However, data was insufficient to positively link groundwater contamination with properties on the west side of the river.
+
+These investigations led to the site being added to the Superfund Program’s National Priorities List (NPL) in 2012.
+
+Groundwater investigations indicate that the WTCA site is not associated with another groundwater plume in the city affecting the city’s East Well Field and designated as the [East Troy Contaminated Aquifer Superfund site](http://www.epa.gov/superfund/east-troy-aquifer).
+
+### What Has Been Done to Clean Up the Site?
+
+In 2014 U.S. EPA began a Remedial Investigation (RI) process to investigate the nature and extent of contamination in the area, and the threat this contamination poses to human health and the environment. In October 2017 U.S. EPA and Ohio EPA approved the [Remedial Investigation (RI) Report (PDF)](https://semspub.epa.gov/work/05/939084.pdf) (2946 pp, 86.06MB, About PDF) for the site. The RI results indicated that areas of residual VOC groundwater contamination affecting the groundwater plume lie between the Great Miami River and County Road 25A, also known as N. Elm Street.
+
+In July 2019 U.S. EPA finished the [Feasibility Study (FS) (PDF)](https://semspub.epa.gov/work/05/949375.pdf) (321pp, 540 K, About PDF) for the site. The FS offered recommended cleanup or remedial alternatives for groundwater, a private well and any potential vapor intrusion at the WTCA site.
+
+In June 2020, U.S. EPA issued a proposed a cleanup plan for the site along with a 30-day public comment period.
+
+The cleanup plan consists of:
+
+- Injecting into the aquifer microorganisms and an organic carbon food source for the organisms (such as the simple sugar compound dextrose) to break down the contaminants.
+- Connecting an affected property to the city of Troy’s water supply and removing the property’s private well.
+- Placing institutional controls on land and groundwater use.
+- Monitoring contaminants in groundwater and the potential vapor intrusion.
+
+### What Is the Current Site Status?
+
+In September 2020, U.S. Environmental Protection Agency (EPA) finalized the [Record of Decision (ROD) (PDF)](https://semspub.epa.gov/work/05/960614.pdf) (84 pp, 3.99MB, [About PDF](https://www.epa.gov/home/pdf-files) ) documenting the selected remedy for the West Troy Contaminated Aquifer (WTCA) Superfund site.
+
+The site is in the remedial design (RD) phase since April 2023. The RD is the phase in Superfund process where the technical specifications and technologies for the cleanup are designed. The actual construction or implementation of the cleanup is performed in the remedial action (RA) phase. The RD is being performed under an interagency agreement with the U.S. Army Corps of Engineers and is expected to be completed in April 2026.

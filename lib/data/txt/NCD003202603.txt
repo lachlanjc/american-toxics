@@ -1,2 +1,70 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ward Transformer [Superfund](http://www.epa.,gov/superfund) Site includes an area where Ward Transformer Company operated a facility that handled transformers, switchgear and other types of electrical equipment from 1964 to 2006.
+
+The EPA placed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2003 because of contaminated fish tissue, sediment and soil caused by facility operations.
+
+The U.S. Environmental Protection Agency, the [North Carolina Department of Environmental Quality (NCDEQ)](https://deq.nc.gov/) and the Site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) are investigating Site conditions. They are taking steps to clean up the site to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site’s PRPs lead site investigation and cleanup activities, with the EPA and NCDEQ providing oversight.
+
+**2006**  
+The EPA authorized short-term cleanup actions to stop immediate threats. The potentially responsiblie parties (PRPs) addressed over 420,000 tons of PCB-contaminated material. The PRPs also completed ecological restoration activities in the western part of the Site where the uppermost reaches of Little Briar Creek leave the facility area.
+
+**2016**  
+The EPA reached a global settlement with the PRPs. This Site is large and complex. Cleanup work at the Ward Transformer Site is expected to be ongoing for several more years.
+
+**2022**  
+A group of PRPs received final approval from the EPA for their cleanup design to remove PCB-contaminated sediments from the impacted water bodies (known as Reach B and Reach C) downstream of the former Ward Transformer Facility. This area of the Site is referred to as Operable Unit 1 (OU1).
+
+**2023**  
+The OU1 PRP group completed removal of the sediment from OU1 that was contaminated with site-related PCBs and began a monitoring program that is anticipated to last for a decade or more. Monitoring will last until the EPA confirms that the fish tissue contamination is below the cleanup level in the EPA's 2008 Record of Decision (ROD).
+
+The EPA issued a [Record of Decsion (ROD) for OU2](https://semspub.epa.gov/src/document/04/11189827) in September 2023.
+
+**2025**
+
+The cleanup plan for groundwater selected in the 2023 ROD is being designed now and that design should be completed in 2026. Construction of the groundwater remedy is scheduled to be completed in 2028.
+
+### What Is the Current Site Status?
+
+Site investigations are typically managed by dividing the Site into Operable Units (OUs). Site investigations and cleanup activities at Ward focus on two areas:
+
+- OU-1: contamination downstream from the former Ward Transformer facility, in Reaches B, C and D, Brier Creek Reservoir, Lake Crabtree, and Lower Crabtree Creek. The remedial action construction in OU-1 was completed in 2023, and OU-1 is now entering a period of monitoring to confirm that the construction phase was effective. The monitoring, expected to continue for a decade or more, includes annual sediment sampling and periodic fish tissue sampling to verify that the PCB levels in the fish tissue get down to below the cleanup level established in the 2008 ROD.
+- OU-2: contamination at the former Ward Transformer facility, surrounding properties and nearby drainage paths upstream of Reach B. The cleanup plan for OU-2 was selected in the [2023 ROD](https://semspub.epa.gov/src/document/04/11189827), is being designed now, and that design should be completed in 2026. Construction of the groundwater remedy is scheduled to be completed in 2028.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Site’s PRPs placed institutional controls on a portion of the Site property to prevent activities that would disturb the Site’s soil without prior approval from the EPA and NCDEQ. The controls also limit future use of the Site to commercial and industrial uses.
+
+The North Carolina Department of Health and Human Services issues and oversees [Fish Consumption Advisories](http://epi.publichealth.nc.gov/oee/fish/advisories.html). There are fish consumption advisories on Little Brier Creek, Brier Creek, Lake Crabtree, and Crabtree Creek, all of which are waters downstream of the Ward Transformer Site. The EPA is working to clean up the PCB-contaminated sediments that led to these fish advisories, which should eventually lead to lower PCB levels in fish.
+
+### Sampling and Monitoring
+
+Sediment sampling done in OU-1, downstream of the former Ward Transformer facility shows an average PCB concentration well below 1 part per billion (ppb) total PCBs, which is encouraging.
+
+Fish consumption advisories are currently in effect for the water bodies related to the Site. The EPA's cleanup goal for OU-1 will be achieved when the PCB levels in fish tissue in Brier Creek Reservoir and Lake Crabtree fall below the cleanup goal (0.05 mg/kg) established in the 2008 ROD, which is estimated to be achieved in approximately 15 years.
+
+### Green Remediation
+
+The remaining cleanup steps to be performed at the Ward Transformer Site will be done considering all environmental effects of remedy implementation and incorporating options to minimize the environmental footprints of cleanup actions.
+
+The Ward Transformer Site has been made far less vulnerable to impacts from climate change through the cleanup efforts performed to date. The PCB-contaminated soils and sediments at or near the surface, and in the downstream waters, have been removed. The only PCB contamination remaining is at depth, protected from surface exposure to flloods, wildfires, hurricanes, etc. The remaining contamination is in groundwater in the deep subsurface, or in fish tissue. The remedial components associated with the remaining cleanup steps yet to be completed at the Site are not vulnerable to climate change impacts.
+
+### Emergency Response and Removal
+
+In 2006, the EPA authorized short-term cleanup actions to stop immediate threats. As part of short-term cleanup actions, the PRPs addressed over 420,000 tons of PCB-contaminated material. This series of responses was completed in 2017.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+In 2004 and 2005, the EPA negotiated legal agreements with the site’s PRPs to conduct the short-term cleanup actions. From 2008 to 2012, the EPA negotiated legal agreements with the site’s PRPs to conduct the remedial design/remedial action for OU-1. The PRPs continue to fund remedial design and cleanup activities.
+
+In 2016, the EPA reached a global settlement with the potentially responsible parties including an agreement to fund the remaining work at the Site, which is now underway.

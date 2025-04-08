@@ -1,18 +1,15 @@
-LUKACHUKAI MOUNTAINS MINING DISTRICTCOVE, AZ
-  Cleanup Activities
-On this page:
-Background
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Lukachukai Mountains Mining District Superfung site is located primarily in the Cove, Round Rock, and Lukachukai Chapters of the Navajo Nation in northeastern Arizona. The site includes a hundred mine waste piles from former mines. Past uranium and vanadium mining in the Lukachukai Mountains created waste piles contaminated with radium-226, uranium, and other heavy metals. Waste from these piles has migrated downstream in washes and may have impacted groundwater and continue to impact surface water. Past ore hauling activities may have spread contamination along miles of mountainous haul roads.
-What Is the Current Site Status?
+### Background
+
+The Lukachukai Mountains Mining District Superfund site is located primarily in the Cove, Round Rock, and Lukachukai Chapters of the Navajo Nation in northeastern Arizona. The site includes a hundred mine waste piles from former mines. Past uranium and vanadium mining in the Lukachukai Mountains created waste piles contaminated with radium-226, uranium, and other heavy metals. Waste from these piles has migrated downstream in washes and may have impacted groundwater and continue to impact surface water. Past ore hauling activities may have spread contamination along miles of mountainous haul roads.
+
+### What Is the Current Site Status?
+
 Now that LMMD is on the NPL, EPA will work through the Superfund process. Once a site is placed on the NPL, further investigation into the problems at the site and the best way to address them is required. This is called a remedial investigation and a feasibility study. The remedial investigation usually involves gathering and analyzing soil, surface water, groundwater, and waste samples from locations throughout the site and near the site borders. The remedial investigation also involves assessing risks posed by the site to people and the environment. The remedial investigation will include evaluating mines, soil, water, and haul and drill roads. This will be combined with existing information and data from other mines within the study area to form a comprehensive assessment of the site.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 Many Navajo families reside on the Lukachukai Mountains. The mountain is used for livestock grazing, recreation, and hunting, and it provides medicinal plants for traditional ceremonial uses. The mountains provide habitat for several sensitive species, including the federally threatened Mexican spotted owl.

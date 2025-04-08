@@ -1,52 +1,41 @@
-SOUTHEAST ROCKFORD GROUND WATER CONTAMINATIONROCKFORD, IL
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-This Superfund site consists of an approximately 7.5-square-mile area in
-southeastern portion of the city of Rockford. Ground water investigations
-performed by the Illinois Environmental Protection Agency between 1981 and 1988
-showed that many private and municipal wells were contaminated at levels higher
-than federal health standards. Further investigations determined that the
-contaminants were used by local industries and were released into the
-environment from storage tanks and improper disposal practices.
-In 1989, residents with high ground water contamination in their drinking
-water wells were given bottled water by the United States Environmental
-Protection Agency as a temporary measure and the site was added to EPA's
-National Priorities List. In order to provide residents with a permanent supply
-of uncontaminated drinking water, EPA hooked up 547 homes to Rockford's
-municipal water system in 1991.
-As the result of a cooperative agreement with the State of Illinois, the
-Illinois EPA is the lead agency for the cleanup of three sources of the
-ground water contamination in southeast Rockford:
-         -- Area 4 (near Harrison Avenue and Marshall Street),
-         -- Area 7 (Ekberg Pine Manor Park at the east end of Balsam
-Lane) and
-         -- Area 11 (northeast corner of Eleventh Street and Harrison
-Avenue).
-The U.S. Environmental Protection Agency is the lead agency for the
-one source of ground water contamination, Area 9/10.
-Most of Area 9/10 is located on the property of the Hamilton Sunstrand Plant
-near the corner of Eleventh Street and Harrison Avenue. Historically, Area 9/10
-has been used for industrial activity since about 1926 when the Rockford Milling
-Machine and Rockford Tool companies merged to become the Sundstrand Machine Tool
-Company.
+### Background
 
-What Has Been Done to Clean Up the Site?
- During 2014, EPA contractors drilled 48 deep borings along side streets in southeast Rockford – south of 21st Avenue, north of Sandy Hollow Road, east of South Alpine Road and west of the Rock River. Soil vapor samples were collected to find out if they pose a possible risk to residents.
-EPA determined that the municipal water provided to homes in 1991 wasprotecting residents’ health and the environment. However, more information needed to be collected regarding the groundwater cleanup. (see Current Site Status) As a followup to a regular site status review, EPA studied the nearby Rock River to see if wildlife is being harmed by the discharge of contaminated groundwater into the river. The results of that study, called the Pore Water Investigation Technical Memorandum showed no impacts to the river.
-Finally, EPA and Illinois EPA (along with the city of Rockford) will continue to evaluate which homes and businesses still use private wells and continue to offer them city water. Both environmental agencies and the city are concerned about the people who previously refused city water hookups because they may be drinking contaminated water. EPA has asked the city to study possible approaches that would notify potential home buyers of the site’s ground water contamination if current property owners continue to decline city water hookups. When these measures are implemented and the cleanup actions are completed, the site will be considered “protective."
+This Superfund site consists of an approximately 7.5-square-mile area in southeastern portion of the city of Rockford. Ground water investigations performed by the Illinois Environmental Protection Agency between 1981 and 1988 showed that many private and municipal wells were contaminated at levels higher than federal health standards. Further investigations determined that the contaminants were used by local industries and were released into the environment from storage tanks and improper disposal practices.
 
-What Is the Current Site Status?
-In December 2022, EPA finalized a groundwater assessment report.
+In 1989, residents with high ground water contamination in their drinking water wells were given bottled water by the United States Environmental Protection Agency as a temporary measure and the site was added to EPA's National Priorities List. In order to provide residents with a permanent supply of uncontaminated drinking water, EPA hooked up 547 homes to Rockford's municipal water system in 1991.
+
+As the result of a cooperative agreement with the State of Illinois, the **Illinois EPA is the lead agency for the cleanup of three sources of the ground water contamination in southeast Rockford:**
+
+**\-- Area 4** (near Harrison Avenue and Marshall Street),
+
+**\-- Area 7** (Ekberg Pine Manor Park at the east end of Balsam Lane) and
+
+**\-- Area 11** (northeast corner of Eleventh Street and Harrison Avenue).
+
+The **U.S. Environmental Protection Agency is the lead agency for the one source of ground water contamination, Area 9/10.**
+
+Most of Area 9/10 is located on the property of the Hamilton Sunstrand Plant near the corner of Eleventh Street and Harrison Avenue. Historically, Area 9/10 has been used for industrial activity since about 1926 when the Rockford Milling Machine and Rockford Tool companies merged to become the Sundstrand Machine Tool Company.
+
+### What Has Been Done to Clean Up the Site?
+
+During 2014, EPA contractors drilled 48 deep borings along side streets in southeast Rockford – south of 21st Avenue, north of Sandy Hollow Road, east of South Alpine Road and west of the Rock River. Soil vapor samples were collected to find out if they pose a possible risk to residents.
+
+EPA determined that the municipal water provided to homes in 1991 wasprotecting residents’ health and the environment. However, more information needed to be collected regarding the groundwater cleanup. ( [see Current Site Status](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0500955#Status) )  
+  
+As a followup to a regular site status review, EPA studied the nearby Rock River to see if wildlife is being harmed by the discharge of contaminated groundwater into the river. The results of that study, called the Pore Water Investigation Technical Memorandum showed no impacts to the river.
+
+Finally, EPA and Illinois EPA (along with the city of Rockford) will continue to evaluate which homes and businesses still use private wells and continue to offer them city water. Both environmental agencies and the city are concerned about the people who previously refused city water hookups because they may be drinking contaminated water. EPA has asked the city to study possible approaches that would notify potential home buyers of the site’s ground water contamination if current property owners continue to decline city water hookups.
+
+When these measures are implemented and the cleanup actions are completed, the site will be considered “protective."
+
+### What Is the Current Site Status?
+
+#### In December 2022, EPA finalized a groundwater assessment report.
+
 The report applied groundwater monitoring data from 1999 through 2021 to develop:
-Precise boundary maps of the contaminant plume
-Expected trends or changes to the plume from actual or proposed changes to use of the supply wells
-An evaluation of plume stability
-An evaluation of groundwater elevation data, including groundwater-level mapping
-a three-dimensional groundwater flow model
+
+- Precise boundary maps of the contaminant plume
+- Expected trends or changes to the plume from actual or proposed changes to use of the supply wells
+- An evaluation of plume stability
+- An evaluation of groundwater elevation data, including groundwater-level mapping
+- a three-dimensional groundwater flow model

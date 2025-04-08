@@ -1,26 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-- [Enforcement Information](#Enforce)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0301442)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0301442)
-
----
-
 ### Background
 
 The Saegertown Industrial Area Site is located in Saegertown, Crawford County, Pennsylvania. Saegertown is located approximately 25 miles south of Erie, Pennsylvania. Four companies previously occupied the 100-acre industrial area site. Due to past operations at the LORD Corporation, an adhesives manufacturer; Saegertown Manufacturing Corporation (SMC), a steel components manufacturer; Spectrum Controls Incorporated (SCI), a ceramic manufacturer; and General American Transportation Company (GATX), a railroad car repair facility; soil, sediment and groundwater were contaminated with hazardous chemicals. The site was added to the National Priorities List (NPL) in February 1990, making it eligible for investigation and cleanup under the federal Superfund program. Following cleanup, operation and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -42,15 +22,11 @@ Significant reductions of VOC's in groundwater have occurred as a result of the 
 
 EPA completed a survey of French Creek in 2012 to address potentially endangered mussels. Mussels were present in downstream areas of the stream, but there was no evidence of groundwater discharge. Based on the results of the field survey, it does not appear that the contaminants in groundwater are negatively impacting mussels in the area surveyed.
 
----
-
 ### What Is the Current Site Status?
 
 In May 2018, based on several consecutive years of groundwater sampling and testing, groundwater in a private well (identified as well PW-7) west of French Creek was found to have attained the cleanup level established in EPA’s 2002 Record of Decision Amendment. The treatment system was removed and monitoring of the well discontinued. Similar monitoring at two other private wells west of French Creek was discontinued in 2017 due to the lack of detections of contamination over time.
 
 EPA conducts five-year reviews of the site’s remedy. This review ensures that the remedy protects public health and the environment and functions as intended by decision documents. The most recent, [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335608), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2027.
-
----
 
 ### Activity and Use Limitations
 
@@ -60,13 +36,9 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 
 Institutional controls are in place to restricts groundwater use. Additional information about the institutional controls are available in the [2022 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2335608) (page 7-8).
 
----
-
 ### Emergency Response and Removal
 
 In 1997, EPA issued a removal action order to LORD Corporation to continue providing bottled water to one residence where well water was impacted (well was identified as PW-7). Subsequently, LORD Corporation installed and operated a water treatment system to treat the well water. Operation of that system continued until May 2018 at which time groundwater in that well had the cleanup level established in EPA’s 2002 Record of Decision. The treatment system was removed and monitoring of the well discontinued.
-
----
 
 ### Enforcement Information
 

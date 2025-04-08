@@ -1,23 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300517)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300517)
-
----
-
 ### Background
 
 The Jackson Ceramix Superfund Site is located in Falls Creek, Pennsylvania. Between 1917 and 1985, a facility on-site manufactured and painted china. Site operations included the discharge of lead-contaminated wastewater into an unlined drainage ditch and lagoon on site. The lagoon drained contaminated sludge and wastewater into a wetland and floodplain next to Sandy Lick Creek. Facility operations also included stockpiling and burying broken and unfinished china debris. These activities contaminated soil, sediment, surface water and groundwater with metals and other organic compounds. In September 2005, the site was added to the Superfund program's National Priorities List, making it eligible for federal funding for cleanup.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -43,8 +26,6 @@ The site has been subdivided into three portions or operable units (OUs).
 	- Former Sludge Settling Lagoon (FL)
 - OU2: Sandy Lick Creek floodplain
 - OU3: shallow and deep groundwater beneath OU1 and OU2
-
----
 
 ### What Is the Current Site Status?
 

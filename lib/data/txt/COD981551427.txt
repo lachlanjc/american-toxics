@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Captain Jack Mill site is located at the headwaters of upper Left Hand Creek, about 1.5 miles south of Ward, in Boulder County, Colorado. The site is in a narrow valley known as California Gulch. Mining for gold and silver in the region began in 1860 and ended in 1992. Historic mining operations contaminated soil and surface water with metals and other hazardous chemicals. Cleanup of the site is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. EPA removed several drums of chemicals and concentrated mine wastes. In 2004, an emergency removal by EPA removed miscellaneous hazardous wastes from the site, including a large amount of household waste, debris, paint containers and chemical wastes discovered during the initial phase of the investigation. In 2007, an EPA emergency removal rehabilitated the tunnel and removed impounded mine water.
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in September 2003.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy, selected in 2008 and updated in 2011, included two components. The first component addressed surface contamination sources. The second addresses subsurface contamination sources.
+
+Surface remedy construction has continued to perform very well. The surface remedy was physically completed in November 2012 and had only very minor impacts from the September 2013 flood event. The remedy consisted of consolidating mine waste materials from various areas of the site into two consolidation cells. One cell is located at the former Captain Jack Mill area and the other is at the Big Five Waste Rock Pile area. Vegetated soil cover systems with surface water diversion structures were established over each consolidation cell to prevent human contact with contaminated materials and to minimize rain and snow melt contact with the waste materials, to prevent leaching of metals into the surface water. Areas from which contaminated materials were excavated were seeded with native grasses and plants. The vegetation was well established by August of 2013, which ensured the remedy was functional in resisting erosion that can be caused by large rain events. The alpine prairie type vegetation continues to grow very well.
+
+The design for the subsurface remedy to address the Big Five adit acid mine drainage discharge was completed in September 2013. Federal funding was made available to start the remedy construction. CDPHE, as the site lead, has acquired a contractor to implement the remedy. Work will start in late September 2015. The above ground monitoring systems will be installed this fall. The in-tunnel treatment system and engineered flow-through bulkhead will be installed in early summer 2016. The remedy construction will be followed by two to three years of monitoring to determine if modifications to the in-tunnel treatment system are needed. The in-tunnel treatment system will be operated and monitored for performance for the foreseeable future, however, this remedy is anticipated to have far lower costs than more common water treatment facilities for treating acid mine drainage water.
+
+This site is one of many across the country to receive funding from the Bipartisan Infrastructure Law, which invested $3.5 billion in environmental remediation at Superfund sites on the National Priorities List. The Bipartisan Infrastructure Law increased EPA funding for ongoing and planned Superfund cleanup projects across the country.
+
+### Emergency Response and Removal
+
+In October 2018 CDPHE and EPA determined that a release of contaminated water originating from a mine tunnel at the Captain Jack Mill Superfund site likely was responsible for a fish kill reported Oct. 22 in the upper portions of Left Hand Creek.
+
+Field monitoring and the results of water samples collected at various locations along Left Hand Creek indicate water discharging from the Big Five tunnel was more acidic and contained higher levels of heavy metals than in previous water samples. The high acidity and heavy metals, coupled with the seasonal low flows in Left Hand Creek, resulted in water quality impacts approximately five miles below the superfund site.
+
+Following reports of the fish kill EPA, in coordination with CDPHE, is conducting an emergency response and has implemented a temporary treatment system to treat acid mine drainage water from the Big Five tunnel prior to discharge to Left Hand Creek. Initially, sodium hydroxide was used to neutralize the water and remove the dissolved metals as solids. In early December 2018 a lime-based treatment system was mobilized to the site and has been treating water since. Temporary treatment conducted under this emergency response will continue to manage the mine pool while additional modifications are made to improve the in-tunnel treatment system.
+
+[Visit the Left Hand Creek Discharge site at response.gov »](https://response.epa.gov/site/site_profile.aspx?site_id=13998)

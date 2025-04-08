@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The New Lyme Landfill is located in New Lyme, Ohio. The landfill, which operated from 1969 to 1978, received household, industrial, commercial and institutional waste, and construction and demolition debris. Waste included coal tar and coal tar distillates, asbestos, resins and resin tar, paint sludge, oils, chlorinated solvents, lacquer thinner, various corrosive liquids, laboratory chemicals, and wastewater. Landfill operations contaminated soil, sediment, leachate, and groundwater with hazardous chemicals.
+
+### What Has Been Done to Clean Up the Site?
+
+The original cleanup plan was detailed in a 1985 document called the record of decision. It included source control actions such as installing a multi-layer protective cap on the landfill and a fence, consolidating contaminated sediment under the cap, controlling landfill gasses, and extracting and treating contaminated leachate and groundwater. It also protected public health and the environment.
+
+The record of decision was amended in 1999 after options were identified that provided the same level of protectiveness in a more cost-effective manner. The revisions included a long-term groundwater monitoring program. The extraction well system and groundwater treatment plant were also shut down. Operation and maintenance of the cap, as well as site security, are ongoing.
+
+### What Is the Current Site Status?
+
+EPA completed a [five-year review (pdf)](https://semspub.epa.gov/work/05/979901.pdf) (77 pp, 10.78MB, [About PDF](https://www.epa.gov/home/pdf-files) ) in February 2023. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. This type of review is required when conditions at the site do not allow for unlimited use and unrestricted exposure.
+
+This was the sixth review which concluded the cleanup is protecting people and the environment.
+
+[Review additional reports and documents online](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0504822).

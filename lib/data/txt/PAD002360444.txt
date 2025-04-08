@@ -1,24 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300602)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300602)
-
----
-
 ### Background
 
 The 19-acre Cryochem, Inc. site is located in Boyertown, Pennsylvania. A metals fabrication facility has operated at the site since 1962. Operators used solvents to clean finished metal parts and disposed of excess solvents in the shop drain system. This drain system discharged into nearby surface waters. These activities contaminated soil, surface water and groundwater with hazardous chemicals. The site was added to the Superfund program's National Priorities List in October 1989. Following cleanup, operation and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -30,15 +12,11 @@ The site’s long-term remedy included installation of point-of-entry drinking w
 - Changes to the groundwater performance standards by changing the groundwater cleanup goals to current drinking water Maximum Contaminant Levels or Medium Specific Concentrations for each contaminant of concern; and
 - Requirement to perform a future cumulative risk assessment for contaminants of concern in groundwater once cleanup goals are achieved.
 
----
-
 ### What Is the Current Site Status?
 
 The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2354070), concluded that the remedy continues to be protective of human health and the environment. EPA’s review found that the cleanup does not currently treat for the 1,4-dioxane and should be modified to treat for it.
 
 EPA continues to monitor residential well water at selected homes near the site. The purpose of this effort is to ensure those homes remain protected from site-related contaminants impacting thier potable water.
-
----
 
 ### Activity and Use Limitations
 

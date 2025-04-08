@@ -1,58 +1,57 @@
-CAROLAWN, INC.FORT LAWN, SC
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 60-acre Carolawn, Incorporated Superfund site located at 5093 Morrison Road in Fort Lawn, South Carolina. The site includes a 3-acre fenced area and an undeveloped woodland area north of the fenced area. The Lancaster & Chester Railroad and County Road 841 border the site to the south. Fishing Creek borders the site to the east. Wooded areas and agricultural land border the site to the west and north. Four residences are located approximately 1,000 yards southwest of the site and approximately 30 single-family residences are located north of the site. The site’s broader surroundings include rural, agricultural and residential land uses. Between 1970 and 1979, property owners operated a solvent waste storage facility and later, a waste storage, treatment and disposal facility at the site. The property owner abandoned the site in 1980.  Operations disposed of approximately 4,500 drums of waste, several bulk storage tanks and sludge in the site’s 3-acre fenced area. Additionally, operations disposed of 660 drums and 11 storage tanks outside the fenced area in the northern portion of the site. Leaking tanks, drums of hazardous waste and lagoons filled with sludge remained on the abandoned site.  The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1983 because of contaminated groundwater resulting from waste handling operations at the site. By conducting pilot studies, treating and monitoring groundwater, maintaining the site, and undertaking Five-Year Reviews, EPA, the South Carolina Department of Health and Environmental Control (SCDHEC), and the Carolawn Steering Committee (CSC), the site’s potentially responsible parties (PRPs) continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the Site. A water line connects residences and businesses near the site as well as businesses at the Site to the public water supply.
-What Has Been Done to Clean Up the Site?
-The CSC, the Site’s PRPs, leads site investigation and cleanup activities, with oversight provided by the EPA and SCDHEC. Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Site investigations and cleanup activities have focused on two areas, which the EPA refers to as operable units (OUs). These areas include:
-OU-1: the 3-acre fenced area and groundwater contamination
-OU-2: soil, surface water and sediment contamination in Fishing Creek, outside the fenced area on site.
-When﻿
-What﻿
-﻿1981 - 1982
-﻿The EPA removed over 1,000 drums of hazardous waste and several tons of contaminated soil. drums of hazardous waste and several tons of contaminated soil from the Site.
-﻿1983
-The EPA added the site to the Superfund program’s National Priorities List (NPL).
-﻿1985
-The EPA also provided all nearby residences with an alternative water source until a water line connected residents to the public water supply. The Site’s PRPs conducted additional cleanup activities to address contaminated soil and contaminated lagoons on site.
-﻿1986
-The PRPs removed an additional 17 storage tanks from the Site.
-﻿1989
-The EPA published a cleanup plan (the Record of Decision – ROD)
-﻿1993 - 1998
-Construction of the long-term remedy for OU-1 took place.
-﻿1996
-Circle S Ranch bought a portion of the Site, as well as a nearby property, and built a large regional turkey feed mill. The mill supplies feed to area farmers.
-﻿2004
-The ﻿EPA, SCDHEC and the PRPs completed the Site’s Remediation System Evaluation and Action Plan, which included shutting down the groundwater treatment system and modifying operation, maintenance and monitoring activities at the Site.
-﻿2005 - 2008
-The EPA, SCDHEC and the PRPs began a pilot study for groundwater contamination. The PRPs completed eight monitoring events from 2005 to 2008 as part of the pilot study.
-﻿2009
-The EPA issued a Modified Unilateral Administrative Order (UAO) to the PRPs which specified the requirement that a Focused Feasibility Study (FFS) be completed to identify a groundwater remedy more favorable than the GWETS.
-﻿2010
-The CSC conducted a limited soil vapor extraction (SVE) study to collect data to evaluate the potential use of SVE as an Interim Remedial Measure (IRM) as part of an overall groundwater remediation strategy. The results of the SVE study indicated SVE as a feasible approach to reduce VOC mass in the subsurface (vadose zone) which resulted in a decrease of VOC concentrations in groundwater.
-﻿2012
-Following discussions with the South Carolina Department of Environmental Health and Control (SCDHEC), the CSC and the Community Advisory Group (CAG), the EPA issued the Notice to Proceed with the remedial design and construction of the SVE system.
+### Background
 
-What Is the Current Site Status?
-The most recent Five Year Review was published by the EPA HQs in 2023.  The remedy at the Carolawn Site is protective in the short term since there is no complete exposure pathway to contaminated groundwater and the groundwater extraction and treatment remedy was functioning as intended by the 1989 ROD Operation of the SVE system has reduced VOC mass from the subsurface and is expected to reduce the flux of VOCs to groundwater which will allow groundwater concentrations to decline over time. SVE system operational data and groundwater plume monitoring suggest VOC conditions are improving, source area mass is reducing, and the VOC groundwater plume is generally stable. Groundwater monitoring is ongoing. The performance data will be used to support completion of the FFS which could lead to modifying the 1989 ROD.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+The 60-acre Carolawn, Incorporated [Superfund](http://www.epa.gov/superfund) site located at 5093 Morrison Road in Fort Lawn, South Carolina. The site includes a 3-acre fenced area and an undeveloped woodland area north of the fenced area. The Lancaster & Chester Railroad and County Road 841 border the site to the south. Fishing Creek borders the site to the east. Wooded areas and agricultural land border the site to the west and north. Four residences are located approximately 1,000 yards southwest of the site and approximately 30 single-family residences are located north of the site. The site’s broader surroundings include rural, agricultural and residential land uses.
+
+Between 1970 and 1979, property owners operated a solvent waste storage facility and later, a waste storage, treatment and disposal facility at the site. The property owner abandoned the site in 1980. Operations disposed of approximately 4,500 drums of waste, several bulk storage tanks and sludge in the site’s 3-acre fenced area. Additionally, operations disposed of 660 drums and 11 storage tanks outside the fenced area in the northern portion of the site. Leaking tanks, drums of hazardous waste and lagoons filled with sludge remained on the abandoned site.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL](http://www.epa.gov/superfund/superfund-glossary#n) ) in 1983 because of contaminated groundwater resulting from waste handling operations at the site. By conducting pilot studies, treating and monitoring groundwater, maintaining the site, and undertaking Five-Year Reviews, EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/), and the Carolawn Steering Committee (CSC), the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the Site. A water line connects residences and businesses near the site as well as businesses at the Site to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+The CSC, the Site’s PRPs, leads site investigation and cleanup activities, with oversight provided by the EPA and SCDHEC. Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment.
+
+Site investigations and cleanup activities have focused on two areas, which the EPA refers to as [operable units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o). These areas include:
+
+- OU-1: the 3-acre fenced area and groundwater contamination
+- OU-2: soil, surface water and sediment contamination in Fishing Creek, outside the fenced area on site.
+
+| When | What |
+| --- | --- |
+| **1981 - 1982** | The EPA removed over 1,000 drums of hazardous waste and several tons of contaminated soil. drums of hazardous waste and several tons of contaminated soil from the Site. |
+| **1983** | The EPA added the site to the Superfund program’s National Priorities List (NPL). |
+| **1985** | The EPA also provided all nearby residences with an alternative water source until a water line connected residents to the public water supply.  The Site’s PRPs conducted additional cleanup activities to address contaminated soil and contaminated lagoons on site. |
+| **1986** | The PRPs removed an additional 17 storage tanks from the Site. |
+| **1989** | The EPA published a cleanup plan (the Record of Decision – ROD) |
+| **1993 - 1998** | Construction of the long-term remedy for OU-1 took place. |
+| **1996** | Circle S Ranch bought a portion of the Site, as well as a nearby property, and built a large regional turkey feed mill. The mill supplies feed to area farmers. |
+| **2004** | The EPA, SCDHEC and the PRPs completed the Site’s Remediation System Evaluation and Action Plan, which included shutting down the groundwater treatment system and modifying operation, maintenance and monitoring activities at the Site. |
+| **2005 - 2008** | The EPA, SCDHEC and the PRPs began a pilot study for groundwater contamination. The PRPs completed eight monitoring events from 2005 to 2008 as part of the pilot study. |
+| **2009** | The EPA issued a Modified Unilateral Administrative Order (UAO) to the PRPs which specified the requirement that a Focused Feasibility Study (FFS) be completed to identify a groundwater remedy more favorable than the GWETS. |
+| **2010** | The CSC conducted a limited soil vapor extraction (SVE) study to collect data to evaluate the potential use of SVE as an Interim Remedial Measure (IRM) as part of an overall groundwater remediation strategy. The results of the SVE study indicated SVE as a feasible approach to reduce VOC mass in the subsurface (vadose zone) which resulted in a decrease of VOC concentrations in groundwater. |
+| **2012** | Following discussions with the South Carolina Department of Environmental Health and Control (SCDHEC), the CSC and the Community Advisory Group (CAG), the EPA issued the Notice to Proceed with the remedial design and construction of the SVE system. |
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11189834.pdf) was published by the EPA HQs in 2023. The remedy at the Carolawn Site is protective in the short term since there is no complete exposure pathway to contaminated groundwater and the groundwater extraction and treatment remedy was functioning as intended by the 1989 ROD
+
+Operation of the SVE system has reduced VOC mass from the subsurface and is expected to reduce the flux of VOCs to groundwater which will allow groundwater concentrations to decline over time. SVE system operational data and groundwater plume monitoring suggest VOC conditions are improving, source area mass is reducing, and the VOC groundwater plume is generally stable. Groundwater monitoring is ongoing. The performance data will be used to support completion of the FFS which could lead to modifying the 1989 ROD.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 The EPA and the PRPs are working to place institutional controls on the site property to restrict groundwater use and construction of certain types of structures.
-Sampling and Monitoring
+
+### Sampling and Monitoring
+
 The Site’s PRPs continue to conduct monitoring of downgradient locations to make sure contaminated ground water does not approach Fishing Creek.
 
-Enforcement Information
-Enforcing environmental laws is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 The EPA negotiated legal agreements with the site’s PRPs to investigate and clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

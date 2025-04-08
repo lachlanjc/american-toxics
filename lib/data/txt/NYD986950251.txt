@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lehigh Valley Railroad Derailment site is located in LeRoy, New York. The area is the location of a chemical spill that resulted from a train derailment in 1970. About 1 ton of cyanide crystals and around 30,000 to 35,000 gallons of trichloroethene (TCE) spilled onto the ground, contaminating soil and groundwater.
+
+The site includes portions of Gulf Road, the former railroad bed and the properties next to the railroad crossing.
+
+The derailment happened around 3:30 a.m. on Sunday, December 6, 1970. About 1 ton of cyanide crystals spilled onto the ground. The cleanup included the removal of the crystals and the overturned train car. After the crystals were removed, neutralizers were spread on the ground to counteract the effects of any remaining cyanide. TCE was also released from two ruptured tank cars. A Genesee County Health Department engineer who was among the first people to respond to the accident and a claims agent for LVRR each reported in February 1971 that about 35,000 gallons of TCE had been spilled. A geologist hired by LVRR to investigate pollution resulting from the spill reported in March 1971 that about 30,000 gallons of TCE were spilled. TCE odors were noticed eight days after the derailment in the basement of the Knickerbocker Hotel, which was located 200 feet north of the crossing.
+
+After immediate actions along with additional investigations to protect human health and the environment were conducted, EPA placed the site on the Superfund program’s National Priorities List in January 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The waterline extension was completed in 2003. In September 2006, EPA signed an Administrative Settlement Agreement and Order on Consent with LVRR requiring them to undertake the investigation and engineering work needed for a soil vapor extraction system, determine the extent of the groundwater contamination, investigate whether vapors from the groundwater were affecting homes, and install systems to vent vapors at the homes if vapor intrusion was found to be of concern.
+
+Since 2006, LVRR has designed and operated a soil vapor extraction system at the site to treat the contaminated soil, completed the groundwater investigation to determine the extent of groundwater contamination during 2014, evaluated residences for vapor intrusion during 2010, and installed vapor mitigation systems in 12 homes affected by TCE vapors.
+
+### What Is the Current Site Status?
+
+The site has been addressed in two stages: 1) immediate actions; and 2) a long-term remedial phase focused on cleanup of the entire site. The design of the waterline extension to provide a safe potable water supply for the affected residents was completed in 2003 and is providing water to about 70 properties.
+
+Since 2008, thirty-five (35) properties have been sampled for vapor intrusion and twelve (12) of the properties were found to need vapor intrusion mitigation systems. The mitigation systems have been installed and have been effective in controlling the indoor TCE vapors. Indoor air samples have been collected since the 2008 and 2009 heating season. The most recent samples collected during the March 2022 sampling event showed the mitigation systems are working as designed and are protective of human health. EPA will continue to monitor structures above the groundwater plume for vapor intrusion issues.
+
+EPA issued an Administrative Order for the remediation of soil on March 21, 2014. LVRR prepared a Remedial Action Work Plan in June 2014, which EPA approved in September 2014. A soil vapor extraction system was installed and became operational during July 2015. The SVE system operated continuously in the spill area for two years until it was shut down in July 2017. The evaluation of the analytical data collected during and following the SVE system operation indicated that the SVE system was not successful in remediating the soil in the spill area down to the cleanup goals.
+
+An additional RI/FS aimed at investigating the TCE contamination at the site was begun in 2008. EPA approved the final RI Report on December 16, 2014. At EPA’s request, LVRR has also prepared a document entitled, “Assessment of Groundwater Restoration Potential and Technical Impracticability” to evaluate subsurface conditions in the affected area and the potential to restore the aquifer as a source of drinking water. In June of 2019 LVRR submitted to EPA a draft Feasibility Study (FS) to evaluate remedial alternatives for the contamination at the site. After several drafts and much discussion between EPA, New York State agencies and LVRR, a final Feasibility Study Report was submitted in July 2023.
+
+EPA issued the Proposed Plan in August 2023.

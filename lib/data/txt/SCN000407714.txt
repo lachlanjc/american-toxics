@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 795-acre Barite Hills [Superfund](http://www.epa.gov/superfund) site is located between U.S. Route 378 and U.S. Route 221 on the northern side of Road 30, approximately three miles south of McCormick in McCormick County, South Carolina. Forested and agricultural land as well as former mining areas and rural residential areas surround the site. Residential areas near the site include low-income and minority residents.
+
+From 1991 until 1995, Nevada Goldfields conducted gold and silver mining operations at the site. Mining operations crushed ore and placed it in large heaps on plastic-lined surfaces called pads. Operations then applied a dilute solution to the surface of the heaps, which dissolved the gold and silver as it trickled through the heaps. Operations used seven processing ponds and one sediment pond to collect and process the solution that contained the gold.
+
+After the mine closed, the 10-acre Main Pit began to fill with water. At its highest, the Main Pit contained about 60 gallons of highly acidic water with high dissolved metals content. Nevada Goldfields conducted mine reclamation activities from 1995 until 1999.
+
+In 2009, EPA listed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n). Currently, the site is not in use.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with SCDHEC.
+
+| WHEN | WHAT |
+| --- | --- |
+| **1995 - 1999** | Nevada Goldfields conducted mine reclamation activities. |
+| **2007 - 2008** | The EPA completed a site evaluation and several interim response cleanup activities. These activities included:  - demolition of an on-site furnace building - neutralization of over 2,000 pounds of acids and base - designing a cap to place over 250,000 cubic yards of acid-producing waste rock adjacent to the Acid Pit Area. - neutralizing and treating wastes in the Acid Pit Area; - completed grading and capping activities of the north and south waste rock piles; and - completed construction of a spillway. |
+| **2009** | The EPA installed an advanced monitoring system to monitor the waste rock cap and the Main Pit.  The EPA listed the site on the National Priorities List (NPL). |
+| **2011** | The EPA began Remedial Investigation/Feasibility Study (RI/FS) activities for the five [Operable Units](http://www.epa.gov/superfund/superfund-glossary#o) that make up the site. |
+| **2019 - 2020** | The EPA completed the Remedial Investigation/Feasibility Study for Operable Unit one (OU-1). In 2020, EPA issued an Interim Record of Decision (IROD) for OU-1 and began RI/FS activites for OU-4. |
+
+### What Is the Current Site Status?
+
+In September 2020, the EPA issued an Interim Record of Decision for OU-1. EPA began completing Remedial Design (RD) activities for OU-1 year. March 2018, EPA's contractor installed additional groundwater wells and collected groundwater and surface water samples. On April 3, 2018, EPA's contractor began a groundwater dye tracer study. The purpose of the study was to better understand the route of groundwater flow into the pit lake. Groundwater moving through the waste rock is thought to be a major contributor of acidity, metals and sulfate to the pit lake. A Feasibility Study outlining an evaluation of technologies applicable to the remedial alternatives was presented.

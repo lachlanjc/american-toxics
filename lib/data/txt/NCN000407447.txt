@@ -1,2 +1,42 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 1.3-square-mile Aberdeen Contaminated Ground Water [Superfund](http://www.epa.gov/superfund) site includes an area of contaminated groundwater east of U.S. Highway 1 in Aberdeen, Moore County, North Carolina. From 1980 to 1995, Powder Metals Products made machine parts at its facility. In 1995, PMP sold the property to Diamond Exhaust & Equipment, which operated the facility as a wholesale automotive exhaust parts distribution center. It is not known whether Diamond Exhaust & Equipment used any chemicals or solvents (substances used to dissolve other substances). Diamond Exhaust & Equipment sold the property to CALCO Enterprises, a company providing mechanical services.
+
+The EPA placed the Site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2008. The EPA and the [North Carolina Department of Environment and Natural Resources (NCDENR)](https://deq.nc.gov/) have investigated site conditions and taken steps to clean up the Site to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near the site. By designing a cleanup plan, the EPA and NCDENR continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The 26.8-acre Powder Metals Products facility is a potential source of the groundwater contamination.
+
+| **When** | **What** |
+| --- | --- |
+| 2008 | The EPA initiated the remedial investigation at the site and leads site investigation and cleanup activities in cooperation with NCDENR. |
+| 2009 | The EPA conducted short-term cleanup activities, including pumping out a septic tank thought to be contributing to groundwater contamination. |
+| 2012 | Using federal money, the EPA completed the remedial investigation and feasibility study for the site and issued an Interim Record of Decision (IROD). |
+| 2014 | The EPA issued a ROD Amendment in September 2014. The ROD split the Site into two operable units:  OU-1 addresses the impacted supply wells for the Town of Aberdeen  OU-2 addresses the groundwater contamination in the aquifers.  The EPA prepared a Proposed Plan in September 2014 that evaluated the potential cleanup alternatives for OU-1. The two alternatives compared in the Proposed Plan were:  - the installation and operation of wellhead treatment systems on Town of Aberdeen public water supply wells #5 and #9 - the installation of new supply wells that will provide equivalent water capacity as supplied by wells #5 and #9. |
+| 2018 | With the EPA's oversite, one of the identified potentially responsible parties (PRPs), North Carolina Department of Transportation (NCDOT), implemented the OU-1 remedy through an agreement with the Town of Aberdeen, where the Town conducts/contracts out the work and NCDOT reimburses the Town for expenditures. |
+
+### What Is the Current Site Status?
+
+The remedy required by 2014 ROD Amendment for OU-1 consisted of the installation of new supply well(s) for the Town of Aberdeen in an area where the quality of the underlying groundwater has not been adversely impacted by past human activities to replace supply wells #5 and #9 (attaining the pumping capacity prior to the shutdown of well #5). This remedial action involved the following activities:
+
+- drilling and testing a test well at each location;
+- purchasing the necessary property and/or easements;
+- drilling/constructing the supply well(s);
+- constructing well head protection enclosure(s);
+- improving well #6 building/treatment to handle the additional flow of water from the new well(s); and
+- installing the necessary piping, electrical connections, and controls.
+
+The Aberdeen Contaminated Ground Water site TCE plume and the pesticide plume associated with the Geigy Chemical Corporation Superfund site have become co-mingled. Therefore, these proposed treatment systems would need to remove both sets of contaminants. OU-2 will address the groundwater contamination in the aquifers.
+
+The EPA will begin the remedial design once the proposed interim site cleanup plan is finalized in a ROD.
+
+In 2026, the EPA plans to initiate the focused remedial investigation following a Proposed Plan for OU-2, the plume at large, which addresses the groundwater contamination in the aquifers.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA has identified several viable potentially responsible parties for the site. Although the EPA used federal funds to conduct the remedial investigation/ feasibility study, the EPA will pursue efforts to get the identified PRPs to help by for site cleanup activities.

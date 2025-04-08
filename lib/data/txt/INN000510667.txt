@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site consists of a groundwater plume of chlorinated solvents that has contaminated four municipal wells that supply drinking water to the city of Goshen. The groundwater contaminants found in the municipal wells are at levels below the Safe Drinking Water Act Maximum Contaminant Level and the groundwater is processed at a treatment plant in Goshen, to ensure its safety before it’s distributed to residents.
+
+### What Has Been Done to Clean Up the Site?
+
+Chlorinated solvents in groundwater were first detected in the city of Goshen’s North well field in 1993. Trace levels have persisted through the most recent sampling event conducted by the state in 2018. An investigation performed by the Indiana Department of Environmental Management, or IDEM, identified more than 67 facilities that used chlorinated solvents within one mile of the Goshen North well field, however the state agency has not been able to identify a definitive source of the groundwater contamination.
+
+In March of 2020 IDEM referred the site to EPA because the site required further investigation and long-term cleanup.
+
+EPA proposed adding this site to the National Priorities List, or NPL, in September 2022 to make it eligible to receive federal money to investigate and clean up the site under EPA’s Superfund program. In March 2022, the site was added to the NPL.
+
+### What Is the Current Site Status?
+
+The site is in the initial phase of the Remedial Investigation, or RI. The RI is the first stage of the Superfund cleanup process after a site is listed in the NPL. This stage involves an evaluation of the nature and extent of contamination and assessing potential threats to human health and the environment. Initial RI field activities may include, but are not limited to; private well investigation, vertical aquifer sampling activities, surface water and sediment investigation, monitor well installation, and groundwater sampling.
+
+Following the RI, a Feasibility Study, or FS, will begin. During the FS, EPA will assess whether certain technologies can treat the contamination and will evaluate the cost and performance of technologies that could be used to clean up the site.
+
+In December 2024 EPA published the [Community Involvement Plan (PDF)](https://semspub.epa.gov/work/05/998199.pdf) (4.76 MB) for the site to help inform, engage, and support residents and stakeholders living and working near the site. This plan was based on community interviews conducted in April 2024 and provides an overview of the environmental and cleanup activities at the site.

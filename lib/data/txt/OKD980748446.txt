@@ -1,2 +1,161 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 235-acre Sand Springs Petrochemical Complex site is located one mile south of Sand Springs in Tulsa County, Oklahoma on the northern bank of the Arkansas River. The site includes former refinery operations from the early 1900s to 1948, followed by various ndustrial activities including solvent and oil recycling facilities through 1983. Facility operations contaminated soil and groundwater with hazardous chemicals including benzene, trichloroethylene, and metals such as arsenic, lead, and chromium.
+
+EPA implemented a comprehensive remedy including off-site thermal destruction of contaminated materials, construction of an 8-acre landfill containing stabilized waste materials, and long-term groundwater monitoring. The site achieved Site-Wide Ready for Anticipated Use status in 2011 and continues to be protective through ongoing operation, maintenance, and monitoring activities. Groundwater contamination remains controlled with no impacts to drinking water sources, as the Arkansas River and local groundwater are not used for drinking water purposes.
+
+The site is divided by an 18-20 foot levee, with the secured landfill located north of the levee and open land sloping to the Arkansas River to the south. Most of the northern portion of the site is now occupied by various businesses, while the landfill area remains restricted and regularly maintained.
+
+### What Has Been Done to Clean Up the Site?
+
+The site cleanup has been addressed through federal, state, and potentially responsible party actions, primarily led by BP/Atlantic Richfield Company (BP/ARCO). The EPA divided the cleanup into two parts: Source Control (OU 01) and Main Site (OU 02).
+
+**Key cleanup actions include:**
+
+- 1992-1995: Completed excavation and off-site thermal destruction of contaminated materials from the Glen Wynn area
+- 1992: Constructed temporary wastewater treatment plant to treat contaminated water and stormwater runoff
+- 1995: Completed construction of an 8-acre RCRA Subtitle C landfill containing approximately 206,500 cubic yards of stabilized contaminated soils and sludges
+- 2004-2006: Removed and disposed of approximately 30,689 cubic yards of contaminated riverbank materials discovered during routine monitoring
+- Established groundwater monitoring program with regular sampling of wells around the landfill
+
+**BP/ARCO continues to maintain the site through:**
+
+- Regular landfill and site inspections
+- Site maintenance including mowing and erosion control
+- Operation of the landfill leachate collection system
+- Maintenance of groundwater monitoring wells
+- Annual groundwater sampling and analysis
+
+The Fifth Five-Year Review (2020) confirmed that the remedy remains protective of human health and the environment. The landfill cap is functioning as designed, groundwater contamination remains controlled, and institutional controls are in place to restrict site access and prevent groundwater use. The site achieved Site-Wide Ready for Anticipated Use status in 2011.
+
+EPA deleted the site from the National Priorities List in 2000 following successful implementation of cleanup actions. Long-term operation, maintenance and monitoring activities continue to ensure the remedy remains effective.
+
+### What Is the Current Site Status?
+
+The site continues to be actively managed through comprehensive operation and maintenance activities overseen by BP/Atlantic Richfield Company, with EPA and Oklahoma DEQ providing oversight. Current activities include:
+
+- Regular landfill inspections to monitor cap integrity, vegetation cover, slope stability, and drainage systems
+- Operation of an improved leachate collection system implemented in 2018, which pumps and treats leachate through the Sand Springs Publicly Owned Treatment Works
+- Annual groundwater monitoring of the well network to ensure contamination remains controlled
+- Periodic landfill surveys (every 5 years) to monitor for potential subsidence
+- Collection and treatment of LNAPL from monitoring well MW-104 through a solar sipper recovery system
+
+**The Fifth Five-Year Review (2020) confirmed the remedy remains protective, with:**
+
+- Landfill cap functioning as designed with no structural issues
+- Groundwater contaminant levels generally stable or declining
+- Institutional controls effectively restricting site access and preventing groundwater use
+- No impacts to drinking water sources
+
+EPA and Oklahoma DEQ are currently conducting the Sixth Five-Year Review, scheduled for completion in March 2025, to ensure continued protectiveness of the remedy. Long-term operation, maintenance, and monitoring activities will continue as required by the site's post-closure plan.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls (ICs) are in place to ensure long-term protection of human health and the environment at the site:
+
+**Land Use Restrictions:**
+
+- The Glen Wynn portion of the site has a Notice of Remediation (filed May 7, 2014) that restricts:
+	- Residential use
+	- Residential daily care facilities
+	- PreK-12 schools
+	- Edible agricultural uses
+
+**Groundwater Use Restrictions:**
+
+- Oklahoma Administrative Code (OAC) Title 785, Chapter 45, Appendix H prohibits:
+	- Installation of water supply wells between 0-37 feet depth in the Arkansas River Alluvium Groundwater due to metals and VOC contamination
+	- Requires special well construction protocols for any wells in the restricted area (W 1/2 of NW 1/4 of Section 13, T19N, R11EIM and NW 1/4 of Section 14, T19N, R11EIM)
+
+**Physical Controls:**
+
+- 6-foot chain-link security fence around the landfill with controlled access gates
+- Warning signs posted at the site
+- Regular site inspections to ensure access restrictions remain effective
+
+The City of Sand Springs' industrial zoning designation provides additional protection by limiting future site development to industrial uses. These controls are reviewed during each Five-Year Review to ensure they remain protective and appropriate for site conditions.
+
+### Sampling and Monitoring
+
+Ongoing environmental monitoring at the Sand Springs Petrochemical Complex includes several components:
+
+**Groundwater Monitoring:**
+
+- Annual sampling of monitoring well network surrounding the landfill
+- Network includes upgradient wells (MW-101, MW-102, MW-103, MW-14R, MW-15) and downgradient wells (MW-104, MW-105, MW-106, MW-107, MW-119)
+- Monitoring includes analysis for:
+	- Volatile Organic Compounds (VOCs)
+	- Semi-volatile Organic Compounds (SVOCs)
+	- Metals
+	- Other parameters including pH, dissolved oxygen, and total dissolved solids
+
+**Leachate Collection System:**
+
+- Regular monitoring and collection of leachate from eight separate collection cells
+- New mobile leachate recovery system implemented in 2018
+- Leachate tested for pH and treated as needed before discharge to Sand Springs POTW
+- System performance tracked through Gallons Per Acre Per Day (GPAD) measurements against 560 GPAD action limit
+
+**LNAPL Monitoring:**
+
+- Regular monitoring of LNAPL presence in wells MW-104 and MW-105
+- Active recovery of LNAPL from MW-104 using solar sipper system
+- Annual documentation of LNAPL thickness and recovery volumes
+
+**Landfill Surveys:**
+
+- Physical surveys conducted every five years
+- Most recent survey completed in November 2018
+- Measurements compared to baseline data to monitor for potential subsidence
+
+Results from all monitoring activities are compiled in annual inspection reports submitted to EPA Region 6 and Oklahoma DEQ. Monitoring data shows the remedy continues to function as designed with contaminant levels generally stable or declining.
+
+### Emergency Response and Removal
+
+**Historical Emergency Response/Removal Actions:**
+
+- 1984: EPA ordered emergency removal of drums and tanks by potentially responsible parties after site was proposed for the National Priorities List
+
+**Major Removal Action:**
+
+- 2001: Black sludge seeps discovered during routine O&M activities along the northern bank of the Arkansas River near former acid sludge disposal pit
+- 2002-2003: Site assessments conducted to characterize contamination
+- 2004-2006: Removal action completed including:
+	- Excavation of approximately 30,689 cubic yards of contaminated riverbank materials from six areas
+	- Transport and disposal of materials at WMI Quarry Landfill
+	- Restoration of disturbed areas with revegetation
+	- Installation of rip rap for erosion protection
+	- Documentation completed in April 2006 Riverbank Sludge Removal Report
+
+**Recent Response Actions:**
+
+- 2018: Security incident response - Repairs made to damaged front gate lock and fencing after break-in
+- No additional emergency response or removal actions have been required since the riverbank removal action, indicating the effectiveness of the implemented remedy
+
+### Enforcement Information
+
+**Primary Responsible Party:**
+
+- BP/Atlantic Richfield Company (BP/ARCO) - Formed through the 1969 merger of Sinclair Oil Corporation with Atlantic Richfield Company (ARCO)
+
+**Enforcement Activities:**
+
+- 1984: EPA ordered potentially responsible parties to conduct emergency removal of drums and tanks
+- BP/ARCO has managed and funded full remediation activities at the site as the primary responsible party
+
+**Current Obligations:**
+
+- BP/ARCO, through their contractor Arcadis Inc., continues to fulfill long-term site obligations including:
+	- Routine site and landfill maintenance
+	- Operation of leachate collection system
+	- Groundwater monitoring well maintenance
+	- Annual groundwater sampling and analysis
+	- Submission of annual inspection reports to EPA Region 6 and Oklahoma DEQ
+
+**Site Access Agreement:**
+
+- Sand Springs Home (property owner) has granted access to the property for maintenance oversight and inspection activities under agreement with BP/ARCO

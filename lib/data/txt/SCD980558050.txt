@@ -1,37 +1,78 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 50-acre Townsend Saw Chain Company Superfund site is located in Pontiac, South Carolina. The site is located approximately two miles south of Pontiac in Richland County, South Carolina. The site includes several buildings and parking lots for the commercial and industrial businesses located on site. Industrial and commercial businesses border the site to the north, south and west. Undeveloped land borders the site to the east. Nearby land is being used for industrial, commercial and residential purposes.  Centerline Development, LLC subdivided the site property into 10 areas of varied sizes for commercial development. Commercial development occupies 35.5 acres of the original 50 acres. Centerline Development, LLC retains ownership of the remaining 14.5 acres. A veterinary hospital, a kennel, a hotel, an auto-body shop, office buildings, an industrial park, two retail stores, a gas station and two restaurants operate on site. AMBAC International (formerly American Bosch), a manufacturer and supplier of fuel injection equipment, currently operates at the former manufacturing facility. It includes the area where two metal products manufacturers operated from 1964 to 1981. Metal products were being manufactured on site. Some items manufactured included office recording equipment by the Dictaphone Corporation, Inc. and the saw chain component of chain saws by Textron, Inc. The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 1990 because of contaminated groundwater and soil resulting from improper wastewater disposal.   EPA, the South Carolina Department of Health and Environmental Control (SCDHEC), and Textron, Inc., the site’s potentially responsible party (PRP), have investigated site conditions. By treating groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRP continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site.
-What Has Been Done to Clean Up the Site?
-Site PRP Textron, Inc. leads site cleanup activities, with oversight provided by EPA and SCDHEC. 1982 – 2002
-The groundwater pump-and-treat system operated from 1982 to 2002 and removed more than 550 pounds of chromium from the groundwater. In 2000, treatment of contaminated groundwater began on site as well as in the off-site area directly next to the site. 1994
-The site’s interim remedy, selected in 1994, included a pre-design-phase investigation of the extent of groundwater contamination; and groundwater pumping and treatment. 1995 – 1996
-The site’s PRP conducted soil cleanup activities in 1995 and 1996, removing about 75 tons of contaminated soil and disposing of it off site. Groundwater contamination is being treated through a series of chemical injections that make the groundwater non-hazardous. 1996
+### Background
+
+The 50-acre Townsend Saw Chain Company Superfund site is located in Pontiac, South Carolina. The site is located approximately two miles south of Pontiac in Richland County, South Carolina. The site includes several buildings and parking lots for the commercial and industrial businesses located on site. Industrial and commercial businesses border the site to the north, south and west. Undeveloped land borders the site to the east. Nearby land is being used for industrial, commercial and residential purposes.
+
+Centerline Development, LLC subdivided the site property into 10 areas of varied sizes for commercial development. Commercial development occupies 35.5 acres of the original 50 acres. Centerline Development, LLC retains ownership of the remaining 14.5 acres. A veterinary hospital, a kennel, a hotel, an auto-body shop, office buildings, an industrial park, two retail stores, a gas station and two restaurants operate on site. AMBAC International (formerly American Bosch), a manufacturer and supplier of fuel injection equipment, currently operates at the former manufacturing facility.
+
+It includes the area where two metal products manufacturers operated from 1964 to 1981. Metal products were being manufactured on site. Some items manufactured included office recording equipment by the Dictaphone Corporation, Inc. and the saw chain component of chain saws by Textron, Inc.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1990 because of contaminated groundwater and soil resulting from improper wastewater disposal.
+
+EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/), and Textron, Inc., the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By treating groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Site PRP Textron, Inc. leads site cleanup activities, with oversight provided by EPA and SCDHEC.
+
+**1982 – 2002**  
+The groundwater pump-and-treat system operated from 1982 to 2002 and removed more than 550 pounds of chromium from the groundwater. In 2000, treatment of contaminated groundwater began on site as well as in the off-site area directly next to the site.
+
+**1994**  
+The site’s interim remedy, selected in 1994, included a pre-design-phase investigation of the extent of groundwater contamination; and groundwater pumping and treatment.
+
+**1995 – 1996**  
+The site’s PRP conducted soil cleanup activities in 1995 and 1996, removing about 75 tons of contaminated soil and disposing of it off site. Groundwater contamination is being treated through a series of chemical injections that make the groundwater non-hazardous.
+
+**1996**  
 The site’s long-term remedy, selected in 1996, included
-digging up and removing contaminated surface soils
-treating the surface soils on site
-sampling treated site soils; digging up and removing contaminated sediments from the off-site seep area
-sampling the surface water of an off-site tributary
-continuing operation of the groundwater pump-and-treat system, on-site treatment of contaminated groundwater and sampling of on-site groundwater.
-2001
-EPA determined that digging up and treatment of contaminated soil on site was no longer necessary. 2007
-A 2007 remedy update added cleanup activities to the cleanup plan. The update called for construction of a permeable reactive barrier to treat groundwater contamination and prevent contaminants from reaching the off-site tributary. It also added institutional controls to restrict use of groundwater as a drinking water source until the completion of the site’s groundwater cleanup, to restrict site land uses to commercial and industrial uses, and to restrict land use in the off-site area to protect the permeable reactive barrier. The remedy update also ended the use of the site’s groundwater pump-and-treat system. 2009
-The PRP did a pilot study to encourage the growth of bacteria that can break down contamination to explore whether this method could achieve the same cleanup objectives projected for the permeable reactive barrier. The experimental technology proved successful and was used along with ferrous sulfate injections to reduce the overall footprint of total chromium-impacted groundwater, which has decreased 73 percent since 2008.  Groundwater contamination has been eliminated in all but three monitoring wells. 2009-2015 Based on the results of the pilot study with a combination of fatty acids and ferrous sulfate injection system (creating a BioBarrier) in 2009, the BioBarrier was installed to clean up contaminated groundwater. In 2015, a different treatment method (Anearobic BioChem) was used to further address the contaminated groundwater. 2016-2020 With Anearobic BioChem subtstrate injecitons in 2015, most of the plumes, except for a limited area near the source area, had been remediated to levels below the MCL by 2017. Additional investigations and monitoring indicated a residual chromium source in the vicinity of the Shops of Veranda, leading to further In-Situ Chemical Reduction (ISCR) injections from April to August 2019. In October 2020, all monitoring wells, except OW-143, had achieved and maintained groundwater cleanup goals. 2021-2024 The PRP carried out polishing ISCR injections near OW-143 and OW-144 in 2021, and both total and hexavalent chromium concentrations at the remainig well, OW-143, at the site showed below detection limits. By March 2023, all groundwater monitoring wells met the closure criteria outlined in the Records of Decision (RODs), meeting the remediation goals. A five-year review will be completed in July 2025 to confirm the long-term effectiveness and the protectiveness of the remedy.
-What Is the Current Site Status?
-The EPA has finalized the partial deletion of the site on September 24, 2019 from the National Priority List (NPL). This partial deletion pertains to the soil, sediment, surface water, surficial aquifer, and the intermediate aquifer of this site. A limited area (5000 – 8000 square feet) of the intermediate aquifer below the 1C clay in the vicinity of monitoring wells 1MW-01B, MW-128, and OW-143 of the Townsend Saw Chain Co. will remain on the NPL. The most recent Five Year Review was published by EPA HQs in 2020. The Site's remedy currently protects human health and the environment because highly contaminated soils have been excavated and removed, in-situ chemical injection treatments continue to effectively reduce contaminant concentrations in groundwater and institutional controls have been implemented to restrict groundwater exposure pathways.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls have been implemented to restrict groundwater exposure pathways. The site now supports commercial land uses. Institutional controls prohibit other land uses at the site.
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+- digging up and removing contaminated surface soils
+- treating the surface soils on site
+- sampling treated site soils; digging up and removing contaminated sediments from the off-site seep area
+- sampling the surface water of an off-site tributary
+- continuing operation of the groundwater pump-and-treat system, on-site treatment of contaminated groundwater and sampling of on-site groundwater.
+
+**2001**  
+EPA determined that digging up and treatment of contaminated soil on site was no longer necessary.
+
+**2007**  
+A 2007 remedy update added cleanup activities to the cleanup plan. The update called for construction of a permeable reactive barrier to treat groundwater contamination and prevent contaminants from reaching the off-site tributary. It also added institutional controls to restrict use of groundwater as a drinking water source until the completion of the site’s groundwater cleanup, to restrict site land uses to commercial and industrial uses, and to restrict land use in the off-site area to protect the permeable reactive barrier. The remedy update also ended the use of the site’s groundwater pump-and-treat system.
+
+**2009**  
+The PRP did a pilot study to encourage the growth of bacteria that can break down contamination to explore whether this method could achieve the same cleanup objectives projected for the permeable reactive barrier. The experimental technology proved successful and was used along with ferrous sulfate injections to reduce the overall footprint of total chromium-impacted groundwater, which has decreased 73 percent since 2008. Groundwater contamination has been eliminated in all but three monitoring wells.
+
+2009-2015
+
+Based on the results of the pilot study with a combination of fatty acids and ferrous sulfate injection system (creating a BioBarrier) in 2009, the BioBarrier was installed to clean up contaminated groundwater. In 2015, a different treatment method (Anearobic BioChem) was used to further address the contaminated groundwater.
+
+2016-2020
+
+With Anearobic BioChem subtstrate injecitons in 2015, most of the plumes, except for a limited area near the source area, had been remediated to levels below the MCL by 2017. Additional investigations and monitoring indicated a residual chromium source in the vicinity of the Shops of Veranda, leading to further In-Situ Chemical Reduction (ISCR) injections from April to August 2019. In October 2020, all monitoring wells, except OW-143, had achieved and maintained groundwater cleanup goals.
+
+2021-2024
+
+The PRP carried out polishing ISCR injections near OW-143 and OW-144 in 2021, and both total and hexavalent chromium concentrations at the remainig well, OW-143, at the site showed below detection limits. By March 2023, all groundwater monitoring wells met the closure criteria outlined in the Records of Decision (RODs), meeting the remediation goals. A five-year review will be completed in July 2025 to confirm the long-term effectiveness and the protectiveness of the remedy.
+
+### What Is the Current Site Status?
+
+**The EPA has finalized the partial deletion of the site on September 24, 2019 from the National Priority List (NPL). This partial deletion pertains to the soil, sediment, surface water, surficial aquifer, and the intermediate aquifer of this site. A limited area (5000 – 8000 square feet) of the intermediate aquifer below the 1C clay in the vicinity of monitoring wells 1MW-01B, MW-128, and OW-143 of the Townsend Saw Chain Co. will remain on the NPL.**
+
+The most recent [Five Year Review](https://semspub.epa.gov/src/document/04/11150708) was published by EPA HQs in 2020. The Site's remedy currently protects human health and the environment because highly contaminated soils have been excavated and removed, in-situ chemical injection treatments continue to effectively reduce contaminant concentrations in groundwater and institutional controls have been implemented to restrict groundwater exposure pathways.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls have been implemented to restrict groundwater exposure pathways.
+
+The site now supports commercial land uses. Institutional controls prohibit other land uses at the site.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with the site PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

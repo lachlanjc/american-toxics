@@ -1,2 +1,64 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 5-acre Stamina Mills, Inc. Site is located in North Smithfield, Rhode Island. A textile mill started operating on-site in the early 1800s. In 1969, a solvent scouring system that used trichloroethylene to remove oil and dirt from newly woven fabric was installed. That same year, an unknown quantity of trichloroethylene was spilled at the site. In 1975, the mill closed down. In 1977, a fire destroyed the manufacturing complex; the Site has been vacant and unused since then.
+
+In 1981, in response to private well contamination, the Rhode Island Water Resources Board and the Town of North Smithfield installed a public water line to area residences; however, not all residences were connected to the service. EPA provided resources to extend the water system and complete connections to those residences. By 1987, all residences impacted by the spill were connected to the public water supply.
+
+Remedial actions at the Site began in the late 1990s and included the removal and off-site disposal of underground tanks, above ground tanks and the landfill. The soil treatment was completed in the 2010s. However, groundwater treatment is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through federal and potentially responsible party actions. Providing a public water supply, eliminating the on-site landfill, the soil vapor treamtent, and fencing the Site have reduced the potential for exposure to the contamination at the Site while treatment of the groundwater is ongoing.
+
+EPA has conducted several [five-year reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101291&doc=Y&colid=33072&region=01&type=SC) of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The [most recent review](https://semspub.epa.gov/src/document/01/647955) concluded that response actions at the Site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+[Institutional controls](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101291&doc=Y&colid=31747&region=01&type=SC) (i.e., a local ordinance) have been established that restrict the use of groundwater at the site and in the neighborhood surrounding the site. In addition, vapor intrusion studies have determined that there are no potential vapor intrusion exposure issues near the site.
+
+The next five-year review is ongoing and scheduled to be completed August 2025.
+
+### What Is the Current Site Status?
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment:
+
+- In 1981, the Rhode Island Water Resources Board and the Town of North Smithfield installed a public water line to residences and provided bottled water to those residences connected to the services.
+- In 1984, EPA provided resources for extending the public water system and connecting additional residences to the system. By 1987, all residences impacted by the spill were connected to the public water supply.
+- In 1986, EPA also installed a fence to prevent entry to the site. In 1988, EPA removed two tanks from the site, pumped the waste from the tanks, and sent it to an approved disposal facility.
+- In 1990, EPA removed the contents of an aboveground storage tank, decontaminated the tank shell, and disposed of the tank contents at an approved disposal facility.
+The site’s [long-term remedy](https://semspub.epa.gov/src/document/01/8394) included:
+- In-place vacuum extraction of soil contaminated with trichloroethylene in the spill area
+- Excavation and off-site disposal of the on-site landfill material and contaminated Branch River sediments
+- Extraction and treatment of contaminated groundwater using multiphase extraction, groundwater extraction, air stripping, and vapor treatment with granulated activated carbon
+- Sealing the mill raceways and demolishing on-site buildings
+- Implementing institutional controls in the form of town ordinances and deed restrictions that prohibit use and installation of groundwater wells, regulate land use, and preserve the integrity of the remedy's components
+- Disposal of the septic tank and its contents
+- Long-term monitoring of groundwater, soil, surface water, and sediments to ensure the effectiveness of the remedy
+
+Construction of the site’s remedies finished in 2000. Operation and maintenance of the groundwater extraction system and groundwater treatments system, as well as long term monitoring, are ongoing. Additionally, although not a part of the Site’s formal remedy, the potentially responsible parties have conducted two rounds of pilot bioremediation trials to further reduce groundwater trichloroethylene concentrations. These trials involve injection of emulsified vegetable oil and zero-valent iron into the groundwater to enhance the growth of bacteria that break down the trichloroethylene.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The matrix below is a general summary of the restrictions at this site at the date of this report. The information in this matrix is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101291&doc=Y&colid=31747).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.
+
+### Emergency Response and Removal
+
+**EPA Announces Completion of Hazardous Waste Cleanup in North Smithfield, RI**
+
+In 2021, the U.S. Environmental Protection Agency (EPA) completed a hazardous material cleanup at the Stamina Mills Removal Site, located on School Street in North Smithfield, Rhode Island. This parcel is one piece of the Stamina Mills Superfund Site, which has undergone a larger ongoing cleanup and redevelopment project.
+
+The focus of the completed clean-up was on the former Mill Office Building, located within the Stamina Mills Superfund Site. The building, which was known to have asbestos containing material, was in a state of disrepair and had been deemed unsafe to enter. After part of the roof collapsed into the structure, there was an increased likelihood that asbestos fibers could be released into the environment. This immediate threat to public health led to EPA’s cleanup of the site which began last fall. To read more click [here](http://semspub.epa.gov/src/document/01/100018926). (2 pp, 683 KB, [About PDF](https://www.epa.gov/home/pdf-files) )

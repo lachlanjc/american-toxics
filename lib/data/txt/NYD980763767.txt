@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Vestal Water Supply Well 1-1 Superfund site is in Vestal, New York and sits on the southern bank of the Susquehanna River. The drinking water well (Well 1-1) was one of three production wells in the Vestal Town Water District 1. This well provided drinking water to several districts in the Vestal area.
+
+An industrial park is immediately southeast of the well. Several marshy areas and drainage ditches encompass and interlace the industrial park. The western part of the site includes a water district well field, a soccer field, and a fire department training center.
+
+New York State Department of Environmental Conservation (NYSDEC) discovered chlorinated solvents in Well 1-1 when testing in response to a 1978 chemical spill at an IBM plant in Endicott, New York. The well was taken out of service in 1980 and the water was diverted to the Susquehanna River minimize the risk of further drinking water contamination. An investigation later determined that the chlorinated solvents in Well 1-1 were not related to the spill at the IBM plant.
+
+EPA placed the site on the Superfund program’s National Priorities List in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+**Immediate Actions:** New York State Department of Environmental Conservation (NYSDEC) removed Well 1-1 from service in 1980.
+
+**Groundwater Cleanup:** EPA investigated the site and collected samples. EPA determined that the best way to address contamination in Well 1-1 was to use an air stripping technology. Air stripping is a technique in which groundwater and air are brought into contact under intense force, causing the [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/what-are-volatile-organic-compounds-vocs) (VOCs) present in water to be removed and released into the air.
+
+The air stripping cleanup technology has been in operation since 1991 and it is:
+
+Protecting people from the district’s water supply;
+
+Treating the groundwater by air stripping the contaminants out of the water, therefore stopping the discharge of contaminated water to the Susquehanna River;
+
+Containing the contaminant area with high water pressure (Hydraulic pressure) by pumping Well 1-1, protecting other District 1 water supply wells; and
+
+Restoring the water supply capacity for Vestal Water District 1 water supply capacity to the level that existed before the loss of Well 1-1.
+
+When Well 1-1's water pressure decreased so that air stripping would not work, EPA replaced Well 1-1 – which was needed for the air stripping operation -- with a newly constructed well (Well 1-1A) in 1993.
+
+Well 1-1A and the associated air stripping facility treat the groundwater plume and discharge the treated wastewater to the Susquehanna River. NYSDEC took over responsibility for operating and maintaining the facility in October 2006.
+
+**Source Cleanup:** EPA identified two specific areas where the contamination began and designated them as Areas 2 and 4 in the industrial park.
+
+EPA installed a soil vapor extraction (SVE) system to treat contaminated soil in Area 2 by vacuuming the harmful chemicals through a carbon filter, removing the contaminants. EPA stopped operating the system in November 2000, when sampling confirmed the system met EPA's cleanup goals. The system removed approximately 1,046 pounds of [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) (VOCs) from Area 2.
+
+EPA constructed an SVE system in 2003 for Area 4. However, after a 2005 evaluation that showed persistently high VOC levels in the deeper portion of the area, along with additional contamination and an additional source area, EPA determined the current SVE system could not meet cleanup goals. EPA shut the SVE system down in 2006. The system had removed approximately 2,300 pounds of VOCs from Area 4.
+
+After reviewing its 2005 evaluation and discussing next steps with NYSDEC, EPA selected an alternative cleanup plan to address the remaining contaminated soil at Area 4 and at another location referred to as Area 3 using thermal treatment technology (treating the contaminated soil with high heat levels).
+
+EPA is monitoring the groundwater to ensure the cleanup remains effective.
+
+### What Is the Current Site Status?
+
+The EPA will treat remaining soil contaminated with volatile organic compounds, remove and dispose of soil contaminated with polychlorinated biphenyls (PCBs), and ensure access restrictions called institutional controls are in place on the Stage Road facility. EPA expects to begin preliminary work on this cleanup action in 2023.

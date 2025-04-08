@@ -1,24 +1,25 @@
-CANNELTON INDUSTRIES, INC.SAULT STE MARIE, MI
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 70-acre Cannelton Industries, Inc. site is located in Sault Sainte Marie, Michigan. A portion of the site is located within the 100-year floodplain of the St. Mary's River. The Northwestern Leather Company operated a tannery and processed animal hides at the site from 1900 to 1958. Waste disposal operations contaminated soils, sediments and surface water in the St. Mary's River with heavy metals, including chromium, lead, cadmium, arsenic and mercury. The site’s long-term remedy included the excavation and disposal of contaminated waste material and soil to off-site landfills, water treatment, surface water and groundwater monitoring, and land use restrictions. Construction of the remedy took place in 1999. In 2006 and 2007, additional dredging operations in Tannery Bay and nearby wetlands removed over 40,000 cubic yards of contaminated sediment, including about one million pounds of chromium and 70 pounds of mercury.
-What Has Been Done to Clean Up the Site?
-The site has been addressed through federal, state and potentially responsible party (PRP) actions. EPA has conducted several five-year reviews (FYRs) of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent FYR was completed in August 2014 and concluded that the remedy continues to be protective of human health and the environment in the short term. Subsequent sediment and surface water sampling in 2014 showed mercury in the southwest corner of Tannery Bay and in one area of the adjacent wetland. Chromium was found in the Tannery Bay sediment too. EPA is now reviewing the current
-monitoring requirements and protocols, as well as the cleanup goals. The monitoring portion of the operations and maintenance plan will be revised based on EPA's findings and more monitoring will be conducted.EPA plans to complete a Final Close-Out Report in late 2016 to document the completed cleanup of the site. The report is required before EPA can take the site off the NPL.
+### Background
 
-What Is the Current Site Status?
+The 70-acre Cannelton Industries, Inc. site is located in Sault Sainte Marie, Michigan. A portion of the site is located within the 100-year floodplain of the St. Mary's River. The Northwestern Leather Company operated a tannery and processed animal hides at the site from 1900 to 1958. Waste disposal operations contaminated soils, sediments and surface water in the St. Mary's River with heavy metals, including chromium, lead, cadmium, arsenic and mercury.
+
+The site’s long-term remedy included the excavation and disposal of contaminated waste material and soil to off-site landfills, water treatment, surface water and groundwater monitoring, and land use restrictions. Construction of the remedy took place in 1999. In 2006 and 2007, additional dredging operations in Tannery Bay and nearby wetlands removed over 40,000 cubic yards of contaminated sediment, including about one million pounds of chromium and 70 pounds of mercury.
+
+### What Has Been Done to Clean Up the Site?
+
+The site has been addressed through federal, state and potentially responsible party (PRP) actions. EPA has conducted several five-year reviews (FYRs) of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent FYR was completed in August 2014 and concluded that the remedy continues to be protective of human health and the environment in the short term.
+
+Subsequent sediment and surface water sampling in 2014 showed mercury in the southwest corner of Tannery Bay and in one area of the adjacent wetland. Chromium was found in the Tannery Bay sediment too. EPA is now reviewing the current monitoring requirements and protocols, as well as the cleanup goals. The monitoring portion of the operations and maintenance plan will be revised based on EPA's findings and more monitoring will be conducted.
+
+EPA plans to complete a Final Close-Out Report in late 2016 to document the completed cleanup of the site. The report is required before EPA can take the site off the NPL.
+
+### What Is the Current Site Status?
+
 Operation and maintenance activities are ongoing and more monitoring will be conducted.
 
-Sampling and Monitoring
- The Tannery Bay sediment and surface water, as well as the adjacent wetlands, will be  monitored on a regular basis until contaminants are below cleanup goals.
-Emergency Response and Removal
+### Sampling and Monitoring
+
+The Tannery Bay sediment and surface water, as well as the adjacent wetlands, will be monitored on a regular basis until contaminants are below cleanup goals.
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions between 1988 and 1994 excavated five trenches, installed fencing and stabilized the shoreline.

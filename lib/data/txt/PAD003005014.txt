@@ -1,20 +1,3 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300643)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300643)
-
----
-
 ### Background
 
 The Whitmoyer Laboratories site, located in Lebanon County, Pennsylvania, occupies 22 acres in a rapidly developing rural residential area. The company manufactured veterinary pharmaceuticals between 1934 and 1984. Arsenic compounds were produced and stored at the site. The site itself featured 17 buildings, 23 storage tanks, a concrete storage vault, 15 lagoons, a waste pit, a petroleum products pipeline and pump station, plus a railroad spur.
@@ -22,8 +5,6 @@ The Whitmoyer Laboratories site, located in Lebanon County, Pennsylvania, occupi
 The laboratory changed ownership from Whitmoyer to Rohm & Haas in 1964, to Smith-Kline Beecham in 1978, and to Stafford Laboratories in 1982. In 1964, Rohm & Haas detected arsenic pollution in the soils, groundwater, and surface water. The cause of this pollution was previous disposal of wastes in the soils and unlined lagoons. Lagoon sludge was put in a concrete vault built to store the sludge and other contaminated materials.
 
 To be eligible for federal cleanup money, a site must be put on the National Priorities List (NPL). This site was proposed for NPL in October 1984, and was added to the list in July 1986. Following cleanup, operation and maintenance activities, as well as groundwater treatment, are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -43,8 +24,6 @@ In September 2012, EPA issued an [Explanation of Significant Differences,](https
 
 Jackson Township replaced the old bridge at Fairlane Avenue adjacent to the site in late 2015. The Township worked closely with EPA, the Pennsylvania Department of Environmental Protection (PADEP) and the PRP Group during this work to ensure workers were protected and the remedy was not impacted.
 
----
-
 ### What Is the Current Site Status?
 
 Operation and maintenance of the site is ongoing. Long-term groundwater treatment and monitoring are continuing on-site. As a part of long-term monitoring of groundwater, the potentially responsible parties (PRPs) are required to submit an annual report for each year of groundwater treatment operation. The report data indicates that the groundwater treatment is functioning as designed and the plume of groundwater contamination is contracting.
@@ -52,8 +31,6 @@ Operation and maintenance of the site is ongoing. Long-term groundwater treatmen
 In April 2020, EPA completed the [sixth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302584) which concluded that the remedy continues to be protective of human health and the environment in the short term. Additional actions need to be taken for the remedy to be protective in the long-term. These actions involve evaluating arsenic levels in Tulpehocken Creek and addressing streambank erosion issues. The next five-year review is scheduled for 2025.
 
 The Whitmoyer Private Study Group will begin construction of a groundwater the interceptor trench along Tulpehocken Creek near Fairlane Avenue in the spring of 2022. EPA and the U.S. Army Corps of Engineers will oversee construction. The purpose of the interceptor trench is to prevent arsenic contaminated groundwater from discharging to Tulpehocken Creek. Contaminated groundwater would be pumped to the treatment plant on Fairlane Avenue for remediation. This work is documented in a [February 2022 Explanation of Significant Differences](https://semspub.epa.gov/src/document/03/2323079) for the site.
-
----
 
 ### Activity and Use Limitations
 
@@ -64,8 +41,6 @@ For more background, see [Institutional Controls](https://www.epa.gov/superfund/
 Institutional controls are in place to restrict groundwater use, digging and future use to recreational use. Additional information about the institutional controls is available in the [2020 Five-Year Review (PDF) (pages 11-13).](https://semspub.epa.gov/src/document/03/2302584)
 
   
-
----
 
 ### Emergency Response and Removal
 

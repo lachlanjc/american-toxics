@@ -1,2 +1,36 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Raytheon formerly operated a semiconductor products manufacturing facility at this 30-acre site in Mountain View, California. Raytheon is one of the Superfund or National Priorities List (NPL) sites that comprise the [Middlefield-Ellis-Whisman (MEW) Superfund Study Area](https://www.epa.gov/superfund/mew-study-area). Other Superfund sites are the  [Fairchild Semiconductor Corp. (Mountain View Plant) site](https://www.epa.gov/superfund/fairchildmountainview)  and the  [Intel Corp. (Mountain View Plant)](https://www.epa.gov/superfund/intelmountainview), and portions of the [Naval Air Station Moffett Field Superfund site](https://www.epa.gov/superfund/moffettfield). The primary contaminants of concern at the site are volatile organic compounds (VOCs) in soil and groundwater. Cleanup, operation and maintenance activities, and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term remedy includes excavation and treatment of contaminated soils using aeration and soil vapor extraction and treatment. The groundwater remedy included slurry walls to contain contaminants and groundwater extraction and treatment using granular activated carbon and/or air-stripping systems. The soil vapor extraction system operated from 1996 to 2000 and removed about 3,000 pounds of VOCs from the soil. EPA removed about 440 tons of contaminated soil discovered after facility demolition activities finished. Construction of the slurry wall finished in 1987. Groundwater extraction wells extracted and treated groundwater using air stripping until 2003, when EPA and the PRP began evaluating new cleanup approaches. EPA modified the treatment compound facility and installed a new oxidation system that could treat 1,4-dioxane in 2003. The groundwater extraction and treatment system has removed over 20,000 pounds of VOCs as of 2023.
+
+Groundwater cleanup will continue to operate for many decades in order to meet the TCE groundwater cleanup standard of 5 ppb. The groundwater remedy has reduced contaminant concentrations throughout the multiple aquifer zones. The groundwater is not being used as a potable water supply, and there are no direct exposure pathways to the contaminated groundwater while groundwater cleanup continues.
+
+EPA selected a vapor intrusion remedy to address potential long-term exposure of TCE, and other Site VOCs at existing and new residential and non-residential / commercial buildings through the vapor intrusion pathway. For more information, please access the 2010 Record of Decision Amendment for the Vapor Intrusion Pathway document either by clicking [here](https://semspub.epa.gov/work/09/1163792.pdf).
+
+### What Is the Current Site Status?
+
+In September 2024, EPA completed the Fifth Five-Year Review for the MEW Superfund Study Area, which includes the Raytheon site. The Five-Year Review concluded that the groundwater and vapor intrusion remedy at the Site is currently protective of human health and the environment in the short-term. The following issues and recommendations were identified in the report:
+
+Issue: Due to declining efficiency and effectiveness, the existing groundwater remedy will not achieve groundwater cleanup levels for many decades and will not meet the vapor intrusion remedial action objective to accelerate the reduction of the source of vapor intrusion (i.e., Site contaminants in shallow groundwater and soil gas) to levels that are protective of current and future building occupants, such that the need for a vapor intrusion remedy would be minimized or no longer be necessary.
+
+Recommendation: Continue to evaluate alternative cleanup technologies that will accelerate TCE contaminant reduction and vapor intrusion source reduction in the Shallow Zone (soil gas and A aquifer zone) to address the vapor intrusion source remedial action objectives and prepare Shallow Zone Focused Feasibility Study, Proposed Plan, and ROD Amendment to support and change the current remedy.
+
+Issue: PFAS (per- and polyfluoroalkyl substances) groundwater concentrations exceeding 2024 EPA Maximum Contaminant Levels (MCLs) were detected in the influent of the MEW Regional Groundwater Remediation Program (RGRP) North of 101 Treatment System, as well as in extraction and groundwater monitoring wells in the Moffett Field area.
+
+Recommendation: Conduct additional influent and effluent sampling at all the groundwater extraction and treatment systems within the MEW Site. Based on sampling results, conduct further assessment.
+
+Other Findings:
+
+- EPA should continue to evaluate potential sewer gas pathways into buildings where Site contamination intersects with the sewer lines and preemptively mitigate them where possible.
+- A review of the operation and maintenance performance from the various groundwater extraction and treatment systems during the review period showed significant periods of downtime for repairs or upgrades. All parties are required to provide notification to EPA within 24 hours of when the party or its representatives first know or should have known that any component of the groundwater remedy fails to operate for 72 hours or more. Additionally, parties must also provide written notification to EPA when the remedy has been restarted.
+
+The Site-wide protectiveness statement is as follows:
+
+The groundwater and vapor intrusion remedy at the MEW Superfund Area is currently protective of human health and the environment because there is no direct exposure to contamination. Governmental controls are in place to prevent access to contaminated groundwater. The vapor intrusion control systems, monitoring program, and institutional controls are in place to minimize exposure risk from vapor intrusion. However, in order for the remedy to be protective in the long-term, alternative groundwater cleanup technologies should be selected to accelerate the reduction of the source of vapor intrusion in the Shallow Zone. Additionally, to ensure long-term protectiveness, sampling for PFAS in groundwater to further assess potential risk is needed.
+
+### Emergency Response and Removal
+
+Potentially responsible parties (PRPs) conducted removal actions, or short-term cleanups, including tank removals, well sealing, soil removal and treatment, slurry wall construction around contaminated soil areas, and local groundwater treatment.

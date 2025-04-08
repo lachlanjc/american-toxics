@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Between 1968 and 1979, Crystal Chemical leased the site property from the owner, Southern Pacific Transportation Company (Southern Pacific), now Union Pacific Railroad Company (UPRR). In 1979, Crystal Chemical purchased the property and began manufacturing arsenic-containing herbicides on site. Operation and maintenance problems at the Crystal Chemical facility during the late 1970s resulted in several violations of state environmental standards. As a result of facility operations, soil and ground water on the site and adjacent properties were impacted by arsenic. In 1981, Crystal Chemical ceased operations, filed for bankruptcy and abandoned the site. The area surrounding the site is primarily used for commercial, light industrial and residential purposes. The property leased by Crystal Chemical was added to the National Priority List (NPL) in 1983. On September 27, 1990, USEPA issued a Record of Decision (ROD) that required remediation of affected soils and ground water. Following cleanup, operation and maintenance activities are ongoing. The site is being addressed through potentially responsible party (PRP) actions.
+
+On June 16, 1992, the soil remedy ROD was amended to include excavating and consolidating soils that had arsenic concentrations greater than 30 parts per million (PPM), and covering the affected soils with an engineered barrier (cap) to control downward migration of rainfall and run-off through the affected soils. The entire system (affected soils and cap) is referred to as the monofill cap; which was completed in September 1995. Currently, activities related to the soil remedy include routine inspections and maintenance of the monofill cap.
+
+On March 19, 1997, the ground water ROD remedy was amended to allow removal and/or containment of contaminated ground water. This was accomplished by pumping ground water from a recovery well located south of the monofill cap. A ground water containment system was installed in the remaining affected zones. The system was completed in 2003 and consists of a slurry wall, a natural subsurface levee, and a pressure relief system. Based on the effective results of a phytohydraulic pilot test in 2008, the PRS was shut down in 2009. The Site’s Groundwater Monitoring Plan (GWMP) was revised in December 2003. The current objectives of the GWMP are to monitor the groundwater within the slurry wall containment for the continued documentation of the slurry walls effectiveness, and to monitor the contaminated groundwater plume outside of the wall to document no-migration. In 2017, new monitoring wells were installed; EPA is currently holding other discussions with the PRP to further define the stability of the groundwater plume.
+
+Currently, activities related to the ground water remedy include routine inspections and maintenance of the containment system and continued monitoring activities. Groundwater monitoring and cap inspections are ongoing. A review of data collected in 2020 indicates that the site is in compliance with the groundwater Remedial Action Objectives in the short term. The Fifth Five Year Review specifies the actions that need to be taken for the remedy to be protective over the long term.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy; the most recent being the Fourth Five Year Review completed on September 25, 2015. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+EPA determined that the remedy for groundwater is protective in the short term. Groundwater in the area is not being used for drinking water purposes. The City of Houston provides drinking water for the area. The remedy for affected soils at the Site is protective of human health and the environment and will remain so provided action items identified in the document are addressed (1. file a deed notice for cap protection in perpetuity; 2 perform routine monofill cap inspections). The soil arsenic levels exceeding human health protective levels are contained in the on-site monofill.
+
+Most of the contaminated groundwater is contained within a slurry wall; a smaller portion is outside of the wall. The groundwater extraction and treatment system for groundwater outside of the wall operated until January 2010, when the evaluation of a phytohydraulic pilot test was started using eucalyptus trees in the southern portion of the Site. The goal of the test was to evaluate if discernable changes would be observed in water levels, flow direction and arsenic migration after extraction of groundwater at the extraction well ceases. As part of the test, the groundwater treatment system operations were suspended in January 2010 and was not restarted.
+
+The Site remedy is being addressed by the PRP. With EPA approval, the PRP has installed additional monitoring wells to monitor affected groundwater outside of the slurry wall containment; wherein, EPA is currently holding discussions with the PRP to further define the stability of the groundwater plume.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included excavation, on-site consolidation and capping of off-site arsenic-contaminated soil; groundwater extraction and treatment; and groundwater containment through use of a slurry wall/pressure release system. Remedy construction took place between 1995 and 2003.
+
+In 2017, new monitoring wells were installed; EPA is currently holding other discussions with the PRP to further define the stability of the groundwater plume. Currently, activities related to the ground water remedy include routine inspections and maintenance of the containment system and continued monitoring activities. Groundwater monitoring and monofill cap inspections are ongoing.
+
+Data review indicates that the Site is in compliance with the groundwater Remedial Action Objectives in the short term. Current status is the annual inspection of the completed monofill, which contains the affected soils, and annual groundwater sampling to define the stability of the groundwater plume. To be protective over the long term, the PRP and the EPA are working to further delineate groundwater contamination across the site, and the PRP is gathering groundwater data for an upcoming feasibility study to address alternative groundwater remedies.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater in the area is not being used for drinking water purposes. The City of Houston provides drinking water for the area. Institutional controls are in place to prevent use of contaminated groundwater within the slurry wall and an environmental covenant is expected to be filed in 2024 to restrict activities on the monofill cap. Additional institutional controls are needed to protect the remedial features on the Levy tract and to prevent use of contaminated groundwater sitewide.
+
+### Sampling and Monitoring
+
+The monofill is inspected each year to document the continued effectiveness of the monofill to contain the affected soils. Annual groundwater elevation studies are conducted to document that the containment of the affected groundwater within the slurry wall is effective. Annual groundwater sampling of the contaminant groundwater plume outside of the slurry wall is conducted to evaluate the plume’s stable (i.e., no migration).
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions included disposal of contaminated pond water; lime treatment of pond surface soil; installation of a temporary cap; and demolition, decontamination, and sale of on-site buildings and process equipment.

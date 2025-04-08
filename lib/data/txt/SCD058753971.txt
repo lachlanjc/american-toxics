@@ -1,2 +1,84 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13.5-acre Helena Chemical Co. Landfill [Superfund](http://www.epa.gov/superfund) site is located in Fairfax, South Carolina. The site includes a 4-acre former landfill in the northeast portion of the site, two warehouse buildings and an office building. An undeveloped wooded area borders the site to the north. An abandoned manufacturing facility borders the site to the south. Railroad tracks and U.S Highway 321 border the site to the east. Agricultural and undeveloped land and several residences border the site to the west. A residential neighborhood and Fairfax Elementary School are located northeast of the site. Homes near the site include low-income and minority residents. A public water supply well is located 200 feet west of the site.
+
+Prior to the mid-1960s, Atlas Chemical Company owned and operated a pesticide formulation facility at the site. Two other companies owned and operated pesticide formulation facilities at the site - Blue Chemical Company from the mid-1960s until 1971 and Helena Chemical Company from 1971 until 1979. Helena Chemical Company’s operations included the formulation of both liquid and dry agricultural insecticides. The company’s formulation operations ended in 1979. Currently, Helena Chemical Co. continues to operate a retail facility on site that sells fertilizers, herbicides, pesticides and seed. A fence surrounds the site.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL) i](http://www.epa.gov/superfund/superfund-glossary#n) n 1990 because of contaminated debris, groundwater, sediment and soil resulting from facility operations. EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/), and Helena Chemical Company, the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site. By monitoring groundwater, sampling groundwater, the public water supply and sediment, and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRP continue to protect people and the environment from site contamination.
+
+As of September 2024, the Helena Chemical Landfill Superfund site is considered Current Human Exposure Not Under Control. The remedy is not protective because toxaphene contaminations are present in surface and subsurface soil at levels that exceed EPAs industrial Removal Management Levels. A warehouse⁄sales business is located at the Site and thereby exposure to on-site workers can be reasonably anticipated. Currently, the planned activities to address this pathway are to delineate surface soil contaminations, prevent worker exposures through engineering and informational controls, and implement the necessary remedial actions to address contaminated surface and subsurface soils to eliminate potential risks to human health. If you are impacted by risks inherent at this site, you can reduce your risk by limiting your exposure to the surface soils. If you have any questions, please contact the Community Involvement Coordinator listed on the website.
+
+### What Has Been Done to Clean Up the Site?
+
+Helena Chemical Company, the site’s PRP, leads site investigation and cleanup activities, with oversight provided by EPA and SCDHEC.
+
+**1980**  
+SCDHEC completed an investigation of the site.
+
+**1993**  
+EPA issued the cleanup plan for the site. It included
+
+- digging and sampling contaminated surface and subsurface soil
+- treating contaminated soils and using living organisms to break down contaminants
+- placing treated soil into dug-up areas
+- regrading the site to prevent uncontrolled stormwater runoff.
+- addressing contaminated groundwater using a pump-and-treat system to extract and treat contaminated groundwater from the shallow surface aquifer
+- discharging treated groundwater to the local water treatment plant
+- sampling groundwater and the public water supply quarterly to monitor contaminant concentrations and movement.
+
+**1995**  
+The site’s PRP completed construction of the groundwater pump-and-treat system, began operating the system and implemented the wetland mitigation system.
+
+EPA revised the cleanup plan to include incineration of contaminated soil at an off-site facility.
+
+**1997 – 1999**  
+The PRP removed 5,172 cubic yards of contaminated soil from the site, incinerated it and disposed of an additional 7,741 cubic yards of contaminated soil at off-site disposal facilities.
+
+EPA revised the cleanup plan again to include the separation of waste into three categories: demolition debris, soils with low concentrations of contamination and soils with high concentrations of contamination. Highly contaminated soils were sent off site for incineration. Less contaminated soils and demolition debris were sent to hazardous waste landfills.
+
+**2014**  
+The site’s third Five-Year Review, completed in 2014, discovered that the cleanup is no longer protective of human health and the environment because of increasing soil contaminant concentrations. Additionally, the migration of contamination offsite in surface water or leaching of contamination to groundwater should be considered as new or expanding exposure pathways. The Five-Year Review recommended additional steps to make sure the cleanup becomes protective.
+
+**2016**
+
+In September 2016, an Explanation of Significant Differences (ESD) was completed to document the final decision to implement institutional controls in the form of restricting the use of groundwater on parcels impacted by contaminated groundwater at the Site.
+
+**2019**
+
+The Fourth Five-Year Review was completed in September 2019. The report concluded that it is currently unknown if the remedy at the Site is protective of ecological receptors because contaminant concentrations in the sediment in the wetland area are increasing, and the source of the contamination and the ecological impacts are unknown. Additional investigations should be conducted to evaluate the potential for previously unidentified source materials and new ecological exposure pathway that may exist at the Site.
+
+**2022**
+
+To address the issues and recommendations from the fourth five-year review, the PRP prepared an Additional Response Action Work Plan which was finalized and approved in March 2022. The PRP started site investigation activities in 2022.
+
+The PRP worked with the EPA and the SCDES and prepared and executed a mutually satisfactory Declaration of Covenants and Restrictions in September 2022 that restricts potable groundwater uses and prohibits non-industrial use of the site property and any activity that would disturb the remedy. It also states that there shall be no digging, excavation, grading, or other disturbance of the Property to a depth exceeding twelve inches without prior approval from EPA and SCDES or their successor agencies.
+
+**2024**
+
+The Fifth Five-Year Review was completed in September 2024. The report concluded the remedy is not protective because supplemental investigative sampling shows that pesticide contamination is present in surface and subsurface soil at levels that exceed EPA’s Industrial Removal Management Levels at the operating facility.
+
+### What Is the Current Site Status?
+
+The fifth [Five Year Review](https://semspub.epa.gov/src/document/04/11208108) was published by EPA HQs in 2024.
+
+The pump-and-treat system continues to operate at the site. Ground water monitoring and sampling of ground water and sediment are ongoing.
+
+Currently, Helena Chemical Co. continues to operate a retail facility on site that sells fertilizers, herbicides, pesticides and seed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Helena Chemical Company Landfill site is currently in continued commercial use. The Helena Chemical Company still owns the property and operates a retail sales outlet for agricultural fertilizers, herbicides, pesticides and seed at the site. A fence surrounds the site.
+
+### Sampling and Monitoring
+
+Soil, groundwater, and sediment investigations are ongoing as part of the Additional Response Action Work Plan. Additionally, annual monitoring of chemicals of concern in groundwater and sediment are ongoing.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

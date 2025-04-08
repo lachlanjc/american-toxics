@@ -1,2 +1,34 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 9-square-mile Mountain Home Air Force Base (MHAFB) site is located on a plateau southwest of Mountain Home, Idaho. The U.S. Department of Defense established the base in 1943 as a training base for several bombardment groups during World War II. Site activities have included the use of hazardous materials for aircraft maintenance and industrial operations; on-site disposal of wastes in landfills and sanitary sewers; and the use of waste oil for fire training exercises and dust suppression. These activities contaminated soil and groundwater with hazardous chemicals.
+
+The base has been under the control of the Tactical Air Command since 1965. In August 1990, MHAFB was listed on the EPA National Priorities List. A Federal Facility Agreement (FFA) was signed on 16 January 1992 among the Air Force, EPA Region 10, and the Idaho Department of Health and Welfare - Division of Environmental Quality (now the DEQ). The FFA established respective roles and responsibilities for the Air Force, EPA, and DEQ.
+
+For site management purposes, MHAFB has been divided into six Operable Units (OUs) to address known and suspected contaminants. Regional groundwater is present at a depth of about 375 feet below ground surface (bgs) and is a valuable resource at MHAFB since it is used as the sole source of potable water for the Base. Hazardous materials have been used by the base for such activities as aircraft maintenance and industrial operations.
+
+As a result, hazardous wastes have been generated from operations at Mountain Home AFB. Base wastes were historically disposed of by several methods, including landfilling of solid wastes, discharge of liquid wastes to sanitary sewers, and the use of waste oil in fire training exercises and road oiling. Approximately 30 areas were investigated at the base, including two abandoned landfills, several abandoned fire training areas, several industrial operation areas, and an entomology shop, where pesticides had been rinsed from application equipment. Wastes disposed of or spilled at these locations included petroleum, waste oils, solvents, and pesticides.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA divided the site into separate areas, or operable units (OU), to better address cleanup. Several sites have no further actions needed. The sites with active remedies and long-term monitoring include the following:
+
+**OU-1 and OU-2:**
+
+- Landfills have been capped, have institutional controls to prevent intrusion, and are in long-term monitoring.
+
+**OU-3:**
+
+- Two sites with active soil vapor extraction that are extracting volatile organic compounds out of the perched groundwater
+- Base-wide groundwater has long-term monitoring
+
+**OU-4:**
+
+- Operating soil vapor extraction system that is extracting VOCs from soil.
+
+The site is being addressed through federal actions.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included institutional controls, soil vapor extraction, excavation of contaminated soil and groundwater monitoring. Remedy construction is complete at OU-1 and 2. OU-3 and OU-4 have remedial actions underway, and OU-8 is in the Remedial Investigation/Feasibility Study process. There is also a Remedial Investigation for PFAS in the soil and groundwater in process at the Site.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires addressing volatile organic compound (VOCs) vapors in the bedrock.

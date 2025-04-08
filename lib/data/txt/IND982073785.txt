@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site is in Elkhart, Indiana and occupies about 870 acres. It consists of an underground mass of contaminated water, known as a groundwater plume. The groundwater is contaminated with volatile organic compounds, or VOCs. VOCs are found in a wide array of products, including paints, lacquers, cleaning supplies, pesticides and fuel.
+
+The site was first identified through a cleanup investigation at the Gemeinhardt manufacturing facility located on State Route 19. Gemeinhardt located groundwater contamination that did not appear to be connected to any of its operations. The Lusher Street Ground Water Contamination was listed on the National Priorities List in March 2008. The source or sources contributing to the Lusher Street groundwater contamination have not been fully identified and EPA’s evaluation of potential sources is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+In May and October 2009, as part of a Remedial Investigation, or RI, EPA conducted an investigation at various potential source facilities within the boundaries of the site. CVOCs were detected in soil or groundwater at 10 of the 14 properties investigated. EPA also performed additional field work between 2010 through 2012. These activities evaluated the extent of the groundwater contamination and the potential for vapor intrusion. Vapor intrusion is when vapors from contaminated groundwater move through soil and seep into basements, foundations and other openings in homes and buildings. The RI concluded that four CVOCs; TCE and PCE, 1,1-DCA and chloroform, had the potential to cause vapor intrusion.
+
+Due to the complexity of the groundwater contamination and the potential of identifying additional source areas for the groundwater contamination, EPA decided to pursue a phased approach to the investigation and cleanup at the site. The first phase is focused on the protecting people from the groundwater and vapor intrusion, and it pertains to work in Operable Unit 1, or OU 1. The investigation for OU 1 was completed in November 2013 and the Record of Decision (ROD) was finished in September 2014. The second phase of the cleanup involves Operable Unit 2, or OU 2, which focuses on controlling contamination sources and addressing groundwater contamination throughout the site.
+
+EPA determined the best way to protect people from the contaminated groundwater in OU1 is to connect properties to municipal water and to install vapor removal systems in area homes and buildings.
+
+### What Is the Current Site Status?
+
+A group of companies considered potentially responsible for the contamination, collectively called the Lusher Site Remediation Group, are performing work in OU1 to protect people from exposure to contaminated groundwater and vapor intrusion. The work involves connecting about 49 properties to city water and installing vapor intrusion mitigation systems in up to 198 area homes and buildings. All homes within the vapor intrusion area of concern are being offered a mitigation system as a precaution. OU2 is in the Remedial Investigation phase and is focusing in fully identifying the source or sources contributing to the Lusher Street groundwater contamination.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA is working with the city of Elkhart to use institutional controls in the area of concern to restrict the use of groundwater for drinking water, to notify construction and utility workers involved in subsurface construction work of the presence of potentially contaminated groundwater, and to require vapor mitigation systems in any new building or significant improvement to existing buildings. Vapors from VOC-contaminated groundwater can move through the soil and into basements and foundations, potentially causing indoor air pollution. Vapor mitigation systems help prevent contaminated vapors from entering the building.

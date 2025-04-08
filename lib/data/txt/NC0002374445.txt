@@ -1,66 +1,69 @@
-Cleanup Activities
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 15-acre Hemphill Road TCE Superfund Site is in South Gastonia, North Carolina. It is in a mixed residential, commercial, and industrial district in the southern part of Gaston County. During the 1950s, a portion of the property was reportedly used by a former owner to recycle chemical drums by emptying their residual contents onto the ground’s surface, and then burning and crushing the drums for scrap metal. In the 1950s, the southeastern portion of the site was reportedly used for storage and disposal of industrial waste materials. This portion was sold in 1955 and was reportedly used by that property owner to recycle chemical drums by emptying their residual contents onto the ground surface, burning, and crushing the drums for scrap metal recycling. The 1956 aerial photograph showed new roads, a fenced-in area, light-toned mounded material, ground scarring, and a shed in the southeastern portion of the site. This is within the same time that the drum recycling activities were reportedly occurring. The northern portion remained agricultural during this time. The EPA used the 1956 aerial photograph to focus the remedial investigation (RI). The previous property owner re-acquired the southeastern portion in 1957 and reportedly planted the property with trees. The current owner purchased the property in 1972. During tree clearing on the southeastern portion to construct a residence, the property owner reportedly encountered buried debris of an unspecified nature and stopped the clearing activities.  In 1988, the hazardous substance trichloroethylene (TCE) was discovered in a private drinking water well on Hemphill Road. TCE was later found in more drinking water wells. In 2013, EPA placed the site on the Superfund program’s National Priorities List (NPL) because of contaminated groundwater that has affected private and community drinking water supplies. On September 27, 2018, EPA issued a cleanup plan for the site in an Interim Action Record of Decision (IAROD). The State of North Carolina concurred with the remedy selection. The $5.8 million remedy includes the following primary components: 
-• Pre-design investigation;  • In-situ chemical oxidation (ISCO) of “source area” subsurface soil and groundwater;  • Connection of affected private wells to the municipal water supply or an unaffected community well;  • Long-term groundwater monitoring; and,  • Placement of institutional controls (ICs) on the Site property to minimize or prevent exposure to contaminated media that may remain at the site. 
-What Has Been Done to Clean Up the Site?
-Below is a Historical Timeline of events at the site, including those actions taken by EPA, the North Carolina Department of Environmental QualityExit (NCDEQ, formerly known as the North Carolina Department of Environment and Natural Resources or NCDENR) and Gaston County towards reducing risks caused by site contamination.
-Historical Timeline
-When
-What
-﻿1950s
-Property owner reportedly dumped drum residues onto the ground, then rinsed, burned and flattened the drums for sale as scrap metal.
-﻿1988
-TCE discovered in private drinking water well on Hemphill Road.
-﻿1989
-TCE discovered in an adjacent residential well and in Gastonia Industrial Truck, Inc.’s (GIT) production well.
-﻿1992
-GIT removes over 80 cubic feet of fuel oil contaminated soil.
-﻿1993-1994
-NCDEQ installed 13 monitoring wells. Investigation detected a dissolved TCE plume.
-﻿1999
-NCDEQ reviewed community well file and discovered that TCE concentrations were above acceptable drinking water standards in Kensington Estates community wells. Kensington Estate wells were taken offline and homes connected to Amy Acres community well.
-2012﻿
-NCDEQ discovers increasing TCE concentrations in Wesley Acres community well #1. Also found TCE concentrations above acceptable levels in three residential wells.
-﻿2012
-EPA replaced previously installed whole-house well filters at two homes and installed a new system in the third home.
-2013﻿
-EPA placed the site on the NPL.
-﻿2014
-EPA installed a well filter at the GIT facility.
-﻿2016
-EPA conducted a vapor intrusion study.﻿
-2018﻿
-EPA completed the Remedial Investigation/Feasibility Study and the Interim Record of Decision.
-2020
-EPA completed the Remedial Design.
-2022
-EPA started the Remedial Action by issuing one contract for municipal water line extension and one contract for groundwater cleanup.
-2023
-EPA conducted the on-site Remedial Action which included well installation and in-situ chemical oxidation (ISCO).
-202
-EPA conducted 6 months of performance monitoring following the ISCO injections, and began quarterly monitoring to measure the remedy progress.
+### Background
 
-What Is the Current Site Status?
+The 15-acre Hemphill Road TCE Superfund Site is in South Gastonia, North Carolina. It is in a mixed residential, commercial, and industrial district in the southern part of Gaston County.
+
+During the 1950s, a portion of the property was reportedly used by a former owner to recycle chemical drums by emptying their residual contents onto the ground’s surface, and then burning and crushing the drums for scrap metal.
+
+In the 1950s, the southeastern portion of the site was reportedly used for storage and disposal of industrial waste materials. This portion was sold in 1955 and was reportedly used by that property owner to recycle chemical drums by emptying their residual contents onto the ground surface, burning, and crushing the drums for scrap metal recycling. The 1956 aerial photograph showed new roads, a fenced-in area, light-toned mounded material, ground scarring, and a shed in the southeastern portion of the site. This is within the same time that the drum recycling activities were reportedly occurring. The northern portion remained agricultural during this time. The EPA used the 1956 aerial photograph to focus the remedial investigation (RI). The previous property owner re-acquired the southeastern portion in 1957 and reportedly planted the property with trees. The current owner purchased the property in 1972. During tree clearing on the southeastern portion to construct a residence, the property owner reportedly encountered buried debris of an unspecified nature and stopped the clearing activities.
+
+In 1988, the hazardous substance [trichloroethylene](http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=172&tid=30) (TCE) was discovered in a private drinking water well on Hemphill Road. TCE was later found in more drinking water wells.
+
+In 2013, EPA placed the site on the Superfund program’s [National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl) (NPL) because of contaminated groundwater that has affected private and community drinking water supplies.
+
+On September 27, 2018, EPA issued a cleanup plan for the site in an Interim Action Record of Decision (IAROD). The State of North Carolina concurred with the remedy selection. The $5.8 million remedy includes the following primary components:
+
+• Pre-design investigation;
+
+• In-situ chemical oxidation (ISCO) of “source area” subsurface soil and groundwater;
+
+• Connection of affected private wells to the municipal water supply or an unaffected community well;
+
+• Long-term groundwater monitoring; and,
+
+• Placement of institutional controls (ICs) on the Site property to minimize or prevent exposure to contaminated media that may remain at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Below is a Historical Timeline of events at the site, including those actions taken by EPA, the [North Carolina Department of Environmental Quality](https://deq.nc.gov/) (NCDEQ, formerly known as the North Carolina Department of Environment and Natural Resources or NCDENR) and Gaston County towards reducing risks caused by site contamination.
+
+|  | **Historical Timeline** |
+| --- | --- |
+| **When** | **What** |
+| 1950s | Property owner reportedly dumped drum residues onto the ground, then rinsed, burned and flattened the drums for sale as scrap metal. |
+| 1988 | TCE discovered in private drinking water well on Hemphill Road. |
+| 1989 | TCE discovered in an adjacent residential well and in Gastonia Industrial Truck, Inc.’s (GIT) production well. |
+| 1992 | GIT removes over 80 cubic feet of fuel oil contaminated soil. |
+| 1993-1994 | NCDEQ installed 13 monitoring wells. Investigation detected a dissolved TCE plume. |
+| 1999 | NCDEQ reviewed community well file and discovered that TCE concentrations were above acceptable drinking water standards in Kensington Estates community wells. Kensington Estate wells were taken offline and homes connected to Amy Acres community well. |
+| 2012 | NCDEQ discovers increasing TCE concentrations in Wesley Acres community well #1. Also found TCE concentrations above acceptable levels in three residential wells. |
+| 2012 | EPA replaced previously installed whole-house well filters at two homes and installed a new system in the third home. |
+| 2013 | EPA placed the site on the NPL. |
+| 2014 | EPA installed a well filter at the GIT facility. |
+| 2016 | EPA conducted a vapor intrusion study. |
+| 2018 | EPA completed the Remedial Investigation/Feasibility Study and the Interim Record of Decision. |
+| 2020 | EPA completed the Remedial Design. |
+| 2022 | EPA started the Remedial Action by issuing one contract for municipal water line extension and one contract for groundwater cleanup. |
+| 2023 | EPA conducted the on-site Remedial Action which included well installation and in-situ chemical oxidation (ISCO). |
+| 202 | EPA conducted 6 months of performance monitoring following the ISCO injections, and began quarterly monitoring to measure the remedy progress. |
+
+### What Is the Current Site Status?
+
 The groundwater remediation implementation (ISCO injections) occurred in the Fall of 2023 and quarterly monitoring is now being conducted to determine progress. EPA is currently working to obtain easements from private property owners in order to proceed with the municipal water line extension.
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional Controls (ICs) are included in EPA’s preferred cleanup plan. ICs are non-engineered instruments, such as administrative and/or legal controls, that help minimize the potential for human exposure to contamination and/or protect the integrity of a remedy by limiting land or resource use. ICs will be needed for this site to prohibit installation of drinking water wells on properties with groundwater contamination. EPA will work with NCDEQ and the Gaston County Department of Health to ensure this occurs.
-Sampling and Monitoring
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls) (ICs) are included in EPA’s preferred cleanup plan. ICs are non-engineered instruments, such as administrative and/or legal controls, that help minimize the potential for human exposure to contamination and/or protect the integrity of a remedy by limiting land or resource use.
+
+ICs will be needed for this site to prohibit installation of drinking water wells on properties with groundwater contamination. EPA will work with NCDEQ and the Gaston County Department of Health to ensure this occurs.
+
+### Sampling and Monitoring
+
 A baseline monitoring event was conducted in Fall 2023 prior to the in-situ chemical oxidation injections. Following the injections, there were 3 sampling events in 6 months (Jan, March and June 2024) to verify injection performance. In September 2024, quarterly groundwater monitoring began to evaluate remedy progress.
 
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws. Cleanup activities at this site are “Fund Lead,” meaning they are paid through taxpayer funding.
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws. Cleanup activities at this site are “Fund Lead,” meaning they are paid through taxpayer funding.

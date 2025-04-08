@@ -1,2 +1,24 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The St. Maries Creosote site lies along the south bank of the St. Joe River, on the edge of St. Maries, Idaho. The site lies within the reservation of the Coeur d’Alene Tribe and encompasses 13 acres of low-lying vacant land, owned by the City of St. Maries, and 3 acres of sediments in the adjacent St. Joe River. Site owners used the area from 1939 through 1964 to store and treat logs and poles with creosote. These operations resulted in creosote contamination in the upland soils, groundwater, riverbank soils and sediments in the St. Joe River, including the shoreline, nearshore and offshore areas.
+
+In November 1998, property owners reported soil staining, a riverbank sheen and an odor consistent with creosote contamination. A removal action in February 1999 dug up and replaced about 200 tons of contaminated soil and debris at the site. Soils, groundwater and river sediments remained contaminated. EPA proposed adding the site to the National Priorities List (NPL) in 2000 but has not finalized the listing. Long-term cleanup began in 2014.
+
+### What Has Been Done to Clean Up the Site?
+
+Remediation of the site was conducted from 2014-2017. The major components of the remediation were:
+
+- Excavated the top 10 feet of contaminated soil
+- In situ stabilization of the soil, using grout, from 10 feet to 60 feet below ground surface
+- Dredged contaminated sediments from the St. Joe River
+- Permanently destroy contamination in soil and sediment using onsite thermal desorption
+
+### What Is the Current Site Status?
+
+The soil cleanup is complete and is inspected quarterly to ensure that the grout, left in place from the in situ stabilization, has not been disturbed and the soil cover remains in place. EPA is working with the cleanup party to finalize institutional controls on the upland portion of the site since some contamination was left in place.
+
+The groundwater at the site is not used for drinking water. It is monitored quarterly for volatile and semivolatile organic compounds. The groundwater generally meets the surface water screening criteria, however more rounds of data are needed to ensure that the groundwater meets the cleanup levels. The sediment concentrations of [PAHs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PAH) in the St Joe River show that the cleanup level has not been achieved. As a result, EPA is developing a plan to address the contaminated sediment.
+
+### Emergency Response and Removal
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1999, EPA removed contaminated soil and debris from the site and replaced with clean soils.

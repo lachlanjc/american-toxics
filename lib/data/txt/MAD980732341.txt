@@ -1,0 +1,41 @@
+### Background
+
+The 23-acre Hocomonco Pond site is located in Westborough, Massachusetts. The area is bordered on the northwest by Hocomonco Pond, a 27-acre freshwater pond long used for recreation. From 1928 to 1946, a wood-treating and preservation facility operated on site. Facility operations contaminated sediments, surface water and groundwater with creosote. Following construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through Federal, State and Potentially Responsible Party (PRP) actions.
+
+### What Is the Current Site Status?
+
+The site is being addressed in long-term remedial phases focused on source removal and control, landfill construction, capping of a former lagoon, sediment removal and placement in the landfill on site, and removal of Dense Non-Aqueous Phase Liquid (DNAPL).
+
+All excavated soil and sediment were placed in the double-lined landfill constructed on site. It was seeded with grass and completed in 1996. Also in 1996, soil from the former tank farm area was excavated (3,660 cubic yards) and placed in the former lagoon area, located just west of the landfill. The former lagoon area was then capped and seeded with grass. A groundwater treatment plant was designed and built on site to recover DNAPL and treat associated groundwater. It began operation in 1994.
+
+The persistence of the DNAPL pool below the groundwater table makes groundwater cleanup technically impracticable. The groundwater treatment plant ceased operations in 2003. Since that time, passive recovery of DNAPL has been performed. Every three months, except winter months, DNAPL is manually removed at a deep depth above from the top of the bedrock and is properly disposed of off-site. On average, approximately 37 gallons of DNAPL are recoverd per month.
+
+Operation and maintenance activities and monitoring are ongoing. EPA continues to conduct Five Year Reviews to ensure that the deed restriction/institutional controls remain in place and to ensure the cleanup actions remain protective. The next Five Year review will be completed in 2029.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The matrix below is a general summary of the restrictions at this site at the date of this report. The information in this matrix is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100751&doc=Y&colid=36538&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.
+
+### Sampling and Monitoring
+
+Groundwater and sediment are sampled and DNAPL recovery continues along with maintaining and mowing the capped landfill and former lagoon areas.

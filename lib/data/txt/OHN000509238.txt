@@ -1,2 +1,44 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 22-acre New Carlisle Landfill site is located near the City of New Carlisle in Clark County, Ohio. The site is in a rural area with mixed agricultural, residential, and industrial use.
+
+From the mid-1950s until the early 1970s, the New Carlisle Landfill Site served as a general solid waste landfill that received industrial, commercial and residential wastes. The landfill was officially closed in 1977 after several years of inactivity. It has remained unused and undeveloped since closure. The landfill is now covered with a vegetated clay cover (ranging between 2 to 4 feet in thickness) but was not designed with a protective liner like modern landfills. No waste or contamination has been found at the surface of the landfill parcel, but additions to the cover are necessary to meet current Federal and State requirements.
+
+Groundwater flows in a southerly direction in the region. New Carlisle’s public water supply production wells are 1.7 miles northeast and upgradient of the Site and are not impacted by site conditions.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2005, the U.S. EPA completed an emergency cleanup after groundwater sampling in the area detected contaminants called volatile organic compounds, or VOCs, including vinyl chloride, in groundwater south of the landfill. During the emergency cleanup, U.S. EPA provided alternate potable water to a nearby tree nursery property and to residences with contaminated private wells.
+
+In 2009, U.S. EPA placed the site on the National Priorities List because the Agency had concerns about the potential migration of the vinyl chloride toward residential wells within one-half mile of the landfill. A remedial investigation to determine the nature and extent of contamination at the site was completed in 2017 and a feasibility study to evaluate potential interim cleanup alternatives was completed in 2019.
+
+The site was divided into two geographical areas, or Operable Units (OUs), one on-site, and one off-site. The on-site area, known as OU1, includes the landfill waste, landfill gas, on-site groundwater as well as vapor intrusion at residential and commercial properties directly adjacent to the eastern side of the landfill. The off-site area, or OU2, includes areas where contaminated groundwater has migrated south of the landfill property.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal and state actions with EPA as the lead agency and Ohio EPA as the support agency. In February 2025 EPA published an updated [Community Involvement Plan (pdf)](https://semspub.epa.gov/work/05/999316.pdf) (6.25 MB) to help inform, engage and support residents living and working near the New Carlisle Landfill site. EPA used several information sources to develop this plan, including research, discussions with community members and information gathered at community interviews in October of 2024.
+
+#### OU1
+
+In August 2020, U.S. EPA released a proposed cleanup plan to address OU1, the landfill and landfill groundwater at the site. The [proposed plan factsheet (pdf)](https://semspub.epa.gov/work/05/959629.pdf) (4.86 MB) summarizes the proposed plan, and describes the cleanup options. In September 2021, the [Record of Decision (ROD) (pdf)](https://semspub.epa.gov/work/05/969603.pdf) (13.86 MB) document delineating the cleanup was finalized.
+
+The Selected Remedy for OU1 consists of:
+
+- Enhancing the existing cap, or cover, over the landfill and installing vents to allow for landfill gas to be released passively.
+- Treating on-site groundwater by injecting microorganisms in combination with vegetable oil or iron powder, known as zero-valent iron, into the groundwater to break down the contamination.
+- Installing systems in buildings to actively prevent the potential for contaminated vapors migrating into the buildings.
+- Placing restrictions on land-use to protect the landfill cap, limit exposure to waste, ensure people do not drink contaminated water, and ensure the protection of human health on future developments on properties with potential for vapor intrusion.
+
+EPA is beginning the Remedial Design (RD) work for OU1. The RD outlines the engineering design for the cleanup at OU1. To conduct the RD, EPA entered into an interagency agreement with the U.S. Army Corps of Engineers (USACE). The USACE will provide project management, technical assistance, and contract acquisition support to assist with the RD. After the RD is completed, the Remedial Action, or construction of the remedy, will start.
+
+#### OU2
+
+EPA is in the process of developing long-term cleanup options for OU2, the off-site contaminated groundwater. Once the cleanups options are finalized, EPA will share them with the public and provide opportunities for discussion.
+
+### Sampling and Monitoring
+
+All wells along the migration path from the landfill have been sampled. The landfill currently poses no public health hazard to nearby residents and workers.
+
+### Emergency Response and Removal
+
+In 2005, the United States Environmental Agency (EPA) completed an emergency cleanup to provide alternate potable water to the Nursery and the residences with affected private wells. The emergency cleanup consisted on extending the water line from the New Carlisle public water system to two homes and a plant nursery business. Following the provision of the alternate water source, a new public well was installed and is utilized for irrigation.

@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Peter Cooper site is located in Gowanda, New York. The site was the location of an animal glue and industrial adhesive manufacturing factory. The site’s remedy includes an immediate response to address the source area (the landfill) and long-term cleanup focused on containment of the source and addressing exposure pathways outside the source area. A retaining wall prevents contaminants from reaching Cattaraugus Creek. Past disposal practices, including piling the sludge waste remaining after the animal glue manufacturing process on the northwest portion of the site led to the contamination of the soil. These wastes, known as “cookhouse sludge” because of a cooking cycle that occurred just prior to extraction of the glue, are derived primarily from chrome-tanned hides obtained from tanneries. The waste material has been shown to contain elevated levels of chromium, arsenic, zinc, and several organic compounds. After initial actions to protect human health and the environment, site investigations and cleanup were completed.
+
+The Peter Cooper site consists of an inactive waste disposal area and some areas of contaminated soil at the former Peter Cooper Corporation (PCC) factory in Gowanda, Cattaraugus County, New York. PCC and its predecessor, Eastern Tanners Glue Company, manufactured animal glue in Gowanda from 1904 until 1972, and industrial adhesives from 1972 until the plant closed in 1985. Between 1925 and October 1970, PCC used the northwest portion of the site property to pile sludges that remained after the animal glue manufacturing process. These wastes, known as cookhouse sludge because of a cooking cycle that occurred just prior to extraction of the glue, are derived from chrome-tanned hides obtained from tanneries.
+
+From 1981 to 1983, the New York State Department of Environmental Conservation (NYSDEC) conducted several investigations at the facility and identified the presence of arsenic, chromium and zinc in soil and sediment samples. In 1996, the EPA Superfund Technical and Assessment Response Team (START) collected and analyzed soil, groundwater and surface water, and sediment samples from the site. Results of the sampling and analysis confirmed contamination, including the presence of arsenic, chromium and other hazardous substances.
+
+During the site assessments, EPA personnel observed that the existing retaining wall at the site, located on the portion of the site owned by New York State Electric & Gas Corporation (NYSEG), was subject to severe erosion. It was determined that the retaining wall and rip-rap needed to be repaired or upgraded to prevent the continued erosion of landfill materials into Cattaraugus Creek. On October 24, 1996, EPA and NYSEG entered into an administrative order on consent (AOC). Pursuant to the AOC, NYSEG installed approximately 150 feet of rip-rap
+
+revetment along the south bank of the Cattaraugus Creek and adjacent to the landfill to prevent further erosion of materials from the landfill into the Creek.
+
+After initial actions to protect human health and the environment, and site investigations, EPA placed the site on the National Priorities List (NPL) on April 6, 1998.
+
+### What Has Been Done to Clean Up the Site?
+
+Studies by EPA and its contractors over the last 25 years showed that buried waste was becoming exposed, a retaining wall holding back waste had collapsed, and harmful contaminants were seeping into Cattaraugus Creek, a popular fishing area bordering the site. Sampling detected high levels of arsenic, chromium and zinc, which can pose health threats, in the site's subsurface soil and groundwater. Continued deterioration of the site could expose local residents to higher levels of these contaminants.
+
+In 1997, to prevent contaminants from reaching Cattaraugus Creek, EPA ordered New York Oil and Gas, the site's owner at the time, to build a retaining wall to hold back additional waste. EPA then issued a Record of Decision, or ROD, in 2005 that laid out a cleanup plan for the site. The plan includes digging up contaminated soil and liquid, managing landfill gas, and possibly installing a system to limit groundwater interaction with waste.
+
+In June 2011, the remedial action for the landfill was completed and approximately 8,260,000 tons of waste were contained.
+
+The Site achieved construction completion status when the Preliminary Close-Out Report was signed on September 17, 2010.
+
+Five-year reviews are being conducted at the site by EPA. The review ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+The most recent review, completed in 2019, found that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. There are no exposure pathways that could result in unacceptable risks, and none are expected as long as site ownership and use do not change and the engineered and institutional controls in place continue to be properly operated, monitored and maintained. The review also found that the landfill cap is well maintained, mowed and operating as designed.
+
+### What Is the Current Site Status?
+
+From 2000 to 2001, a comprehensive RI was performed to define the nature and extent of the contamination at the site. The RI determined site soils to be contaminated with metals, particularly arsenic, and chromium, and volatile organic compounds (VOCs) including carbon tetrachloride, chloroform and tetrachloroethene (PCE). Groundwater was found to be contaminated with arsenic. EPA selected the remedy for the site in September 2005. It included capping the landfill, putting in a gas venting system, controlling and treating the leachate seep, monitoring air and groundwater quality, and institutional controls to restrict future use of the landfill. The ROD was implemented pursuant to a Consent Decree (CD) entered into by EPA and the performing settling defendants (PSDs, a subgroup of the PRPs).
+
+On September 9, 2010, a final inspection was conducted. Based on the results of the inspection, it was determined that the site construction was complete and the remedy was implemented consistent with the ROD. The final inspection of the constructed remedy concluded that the remedy was constructed in accordance with the Remedial Design plans and specifications, and that no further response (other than maintenance of the cap and cover, and long-term groundwater monitoring) is anticipated. EPA approved the remedial action report for the site on June 17, 2011. The Remedial Action Report documented all the remedial activities conducted at the site and included as-built drawings to document site conditions at completion.
+
+Currently, long-term monitoring and maintenance activities are being conducted in accordance with the post-remedial operation monitoring and maintenance plan.

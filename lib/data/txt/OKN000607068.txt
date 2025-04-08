@@ -1,2 +1,74 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+**Description**
+
+The Eagle Industries (Eagle) facility encompasses 2.271 acres at 10901 S.E. 29th Street, Midwest City, Oklahoma County, Oklahoma. The facility is situated within commercial and residential properties. There is one residence located in the southeast corner of the property. Facility access is controlled through the use of chain-linked fencing on the north and south property boundaries and wooden stockade fencing on the east and west boundaries. The residence is fenced separately from the rest of the facility. A paved entrance is located along the western property boundary that transitions to gravel to the north of the main building. A concrete building apron is located along the north side of the main building with the balance of the property vegetated in grass sloping to the north. Structures located at the facility include a 4,560 square feet main office/shop building built in 1989 which lies directly north of the parking lot, a corrugated metal outbuilding in the northwest corner of the property with attached cinderblock shed, a pond located on the east side of the metal building, and a 1,208 square feet residential dwelling built in 1960 accessed via S.E. 29th Street.
+
+Land use north of the facility includes residences and the Midwest City water treatment plant while land use to the south includes residences, a former bank, a business, and agricultural land. Three churches, residences, and a roofing company are located east of the facility, and gas stations, a wrecker company, car repair shop, Parkway Mobile Home Park, Springer Trailers, Metrobrake, agricultural land (horses & llamas), sod farm, Williams & Sons lawn/tree service, church, Dolese Concrete, Sand, and Stone, and Amerigas are located west of the facility.
+
+The site is located in an area of potential recharge for the Garber Wellington Formation which is a major source of ground water in Central Oklahoma. There are ten private water wells within ¼-mile radius of sources at the site and 4 public water supply wells within 1/2-mile radius of sources at the site. There is a potential for vapor intrusion from the contamination into homes and businesses.
+
+**Operations**
+
+From 1990 to 2010s, Eagle was engaged in the business of inspecting and repairing aircraft oxygen and fire extinguisher systems for their customers. During cleaning operations, the solvent trichloroethylene (TCE) was used. On occasion, the tanks and bottles were blasted to clean the outside surface and then painted.
+
+As equipment was disassembled to repair/replace components, the parts were cleaned with TCE in an ultrasonic cleaning system which was located in the cleanup room. Once the TCE in the ultrasonic cleaner became dirty, it was moved to a nearby container where it was used to pre-clean dirtier parts. Occasionally, the tanks were cleaned and any labels removed by wiping with a rag containing TCE.
+
+Additionally, Eagle refilled oxygen bottles, carbon dioxide bottles, and fire extinguishers. The majority of the bottles were filled with oxygen in the oxygen tank filling room while empty ABC fire extinguishers were filled with dry chemical in the fire extinguisher room.
+
+A 2003 Oklahoma Department of Environmental Quality (ODEQ) inspection found the company dumping TCE on the ground which is in violation of Resource Conservation and Recovery Act (RCRA) regulations. ODEQ worked with the facility to stop the practice and assess the environmental damage. In 2009, Eagle entered into a legal consent order with ODEQ pledging to investigate the nature and extent of the ground water pollution. The company did not have the financial resources to fulfill its responsibilities. The facility is inactive at this time.
+
+### What Has Been Done to Clean Up the Site?
+
+**Cleanup History**: The Eagle Industries site has undergone limited cleanup activity. In 2006, following some investigation by Eagle, approximately 40 cubic yards of soil was removed from the site; however, complete removal of contaminated soil was not achieved. Several monitoring wells have been installed in the area to investigate groundwater contamination. Onsite soil is believed to be a continuing source of contaminant release into ground water.  
+  
+**Cleanup Status**:  The Eagle Industries site has not been completely  cleaned up. During the 2006 excavation, contractors noted that the solvent  contamination was still observable in the side-walls of the excavation. Onsite ground water wells have concentrations of contaminants above the maximum contaminant drinking water levels for [trichloroethylene](http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=172&tid=30) and [1,2 dichloroethane](http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=591&tid=110). Future investigation of the soil and ground water will be required to determine the extent of contamination and recommend remedial actions that will mitigate further impacts to ground water.
+
+**Ground Water Testing**: If you live in the Eagle Industries Ground Water Study Area, are within 1/2 mile of the site, and would like to have your groundwater well tested, please contact Steven Gunnels,(405) 702-5173.
+
+**Residential Public Water Supply**: six residential properties have been provided public water
+
+- In 1998/1999, four residential wells were plugged and two new wells were installed. These four residential properties plus one business property were provided public water. These properties are located on the northern side of 29th Street, and the work was completed by the Oklahoma Corporation Commission.
+- In 2000 the Oklahoma Corporation Commission plugged one (1) business well and installed a new well for the business south of 29th Street.
+- In 2003, the Oklahoma Corporation Commission provided public water to an additional resident north of 29th Street.
+- In 2015, the EPA provided public water to a residence south of 29th Street.
+- In 2021, the EPA provided a filtration system for a resident south of the site.
+
+**Oklahoma Corporation Commission -** **Full Scale Six-Phase Heating Remedy at Eagle Industries (OCC, 2005):** A six-phase heating remedy was installed in August 2004 to remove light non-aqueous phase liquid containing benzene, ethylbenzene, toluene, and xylene (BTEX). Approximately 3,300 pound of BTEX and other gasoline-related organics were removed. Full scale operations were conducted on the north side of 29th Street only. Operations were completed in March 2005.
+
+### What Is the Current Site Status?
+
+The site was listed on the National Priorities List (NPL) January 18, 2018.
+
+EPA and ODEQ are working closely to plan and implement investigation activities. In addition, EPA and ODEQ will work closely with residents and the community to provide site updates and share information.
+
+ODEQ is conducting remedial investigation and feasibility studies activities in coordination with EPA.
+
+The [Superfund Process](http://www.epa.gov/superfund/superfund-cleanup-process) is a series of steps taken by the project team that will ultimately provide information on the type of contmaintion, the volume of contamination, the location of contamination, the health risks associated with that contamination, and the most appropriate cleanup options for addressing the contamination.
+
+### Sampling and Monitoring
+
+**Phase 1**
+
+- February through April 2020: soil sampling, surface geophysics, ground water monitoring well installation and sampling, and borehole geophysics.
+
+**Ground Water Testing**: If you live in the Eagle Industries Ground Water Study Area identified as the blue box on the [facility location map](http://www.arcgis.com/home/webmap/viewer.html?webmap=a63ba2e0ace64ebca7c035ec6dfb21d9&extent=-97.3514,35.4264,-97.3262,35.4379) and would like to have your groundwater well tested, please contact Steven Gunnels,(405) 702-5173.
+
+The EPA and the ODEQ have conducted multiple investigations at the site since 1994. The associated historical documents are listed below and can be found under the Site documents and data Tab.
+
+- Preliminary Assessment of Eagle Industries (ODEQ, 2010)
+- Trip Report for soil Borings and Monitoring Wells installation and Sampling at the Eagle Industries Site (EPA, 2011)
+- Site Inspection of Eagle Industries (ODEQ, 2011)
+- Expanded Site Inspection (ESI) Report – Wilcox Oil Company (ODEQ, 2013)
+- Revised Expanded Site Inspection (ESI) of Eagle Industries (ODEQ, 2013)
+- Monitoring and Residential Well Sampling report for February-March 2016 Sampling Event for Eagle Industries Site (ODEQ, 2016)
+- Monitoring and Residential Well Sampling Report for April-May 2016 Sampling Event for Eagle Industries Site (ODEQ, 2016)
+- Hazard Ranking System Documentation (EPA, 2017)
+- Monitoring and Residential Well Sampling Report for 2017 for Eagle Industries Site (ODEQ, 2018)
+- Passive Soil Gas and Vapor Intrusion investigation (ODEQ, 2018)
+- Phase 1 Field Investigation: 2019 - 2020
+- Phase 2 Field Investigation: 2021 - ongoing
+
+### Emergency Response and Removal
+
+EPA's Emergency Response activities include the connection of one resident to a public water system and another to a well filtration system due to the presence of trichloroethylene above levels of concern in the drinking water.

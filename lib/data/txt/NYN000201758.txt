@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Wappinger Creek Superfund site is in the tidal portion of Wappinger Creek. The site begins downstream of Wappingers Falls and extends about two miles downstream to where it merges with the Hudson River. The Wappinger Greenway, which includes the Wappinger Greenway Trail, runs along the west-northwestern bank of Wappinger Creek. An industrial park is located on both the north and south banks of Wappinger Creek, approximately 0.2 miles downstream of the falls, with two bridges connecting the banks.
+
+For over 180 years, many commercial activities occurred at the industrial park, including manufactured gas plants (MGP), textile dyeing, bleachery, and metal plating facility operations. The creek received discharged wastes from these historical industries and from the Three Star Anodizing site, a New York State Superfund site located in the industrial park. A storm water pipe originating in the Village of Wappinger Falls also discharges into the Creek.
+
+EPA added the Wappinger Creek site to the Superfund National Priorities List (NPL) in September 2016.
+
+As part of the NPL listing, EPA sampled the creek water and sediment. Results showed that [mercury](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=24) and benzo(a)pyrene, a [polycyclic aromatic hydrocarbon (PAH)](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=25), was present in sediment at concentrations significantly above background concentrations in the tidal portion of Wappinger Creek.
+
+EPA identified a zone of contamination that extends from the industrial park to about a quarter mile upstream of the County Route 28 Bridge. Surface water samples collected next to and downstream of the industrial park did not detect organic contaminants of concern except for an estimated concentration of cis-1,2-dicholoroethene (DCE) detected in one surface water sample from the mouth of the former Three Star lagoon. Inorganic constituents, like metals, were detected in surface water at levels comparable to upstream concentrations.
+
+The Wappinger Creek Superfund site includes a shallow embayment located along the west-northwestern shore about three quarters of a mile downstream of the industrial park. This embayment is approximately 240,000 square feet (approximately 800 feet by 300 feet) and is fronted by apalustrine freshwater forested/shrub wetland. Embayment sediment is primarily silt and organic matter and supports aquatic emergent and submerged plant growth throughout. The main currents of Wappinger Creek bypass the embayment, which experiences minimal water velocity and is generally dormant.
+
+The New York State Department of Environmental Conservation (NYSDEC) sampled water and sediment from Wappinger Lake and Wappinger Creek downstream of the lake associated with a comprehensive investigation of the extent of contamination called a Remedial Investigation RI). The analytical results for the samples indicated that creek sediments adjacent to and downstream of the industrial park are contaminated with several inorganic constituents, including [mercury](https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=113&toxid=24), [lead](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=22), and [chromium](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=17), as well as [polycyclic aromatic hydrocarbons (PAHs)](https://wwwn.cdc.gov/TSP/substances/ToxSubstance.aspx?toxid=25), at concentrations above those detected in upstream samples. NYSDEC documented sediment contamination in the embayment and throughout the tidal creek, with some of the highest concentrations reported in the embayment.
+
+### What Is the Current Site Status?
+
+EPA has begun a Remedial Investigation/Feasibility Study (RI/FS), an investigation to examine the nature and extent of contamination and options for addressing it. The remedial investigation report is anticipated in Summer 2023.
+
+### Enforcement Information
+
+EPA is currently performing a potentially responsible party (PRP) search to determine if there are viable parties that could be names as responsible and compelled to perform the investigative and clean-up work at the site.

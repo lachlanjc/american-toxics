@@ -1,0 +1,63 @@
+### Background
+
+**[![B.F. Goodrich Superfund Site](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_0401930_bfgoodrichlocthumb01.jpg)](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodrichloc.JPG)**
+
+The B.F. Goodrich site (the Site) is located in western Kentucky, along the south bank of the Tennessee River. Chemical manufacturing began in the mid-1950s and continues today. The primary product is ethylene dichloride (EDC), a feedstock used to produce polyvinyl chloride (PVC). Until the 1980s, chemical wastes were discharged to a series of unlined ponds in the floodplain where contaminants migrated into the soil, groundwater, and the Tennessee River.
+
+### What Has Been Done to Clean Up the Site?
+
+[![B F GOODRICH CIRCA 2000 ](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodrich_circa_2000_small.jpg)](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodricharealwestlake.JPG)
+
+A Remedial Investigation (RI), completed in 2015, documented the presence of about 3,500,000 cubic yards of soil beneath multiple chemical plants and the Tennessee River that are contaminated with [non-aqueous phase liquids](https://clu-in.org/contaminantfocus/default.focus/sec/Dense_Nonaqueous_Phase_Liquids_\(DNAPLs\)/cat/Overview/), contaminants like oil, gasoline and petroleum products that do not dissolve in or easily mix with water.
+
+In the late 1980s, Kentucky Department of Environmental Protection (KDEP) required Goodrich to pump and treat contaminated groundwater to prevent its discharge to the river. Currently, the parties responsible for the cleanup of the site sample the site wells on an annual basis to monitor changes in groundwater quality.
+
+Due to the active operational status of the plants, much of the environmental response for the Site had been managed by the KDEP until 2009, under regulations required by the Resource Conservation and Recovery Act (RCRA). The Superfund response focused on a landfill and burn pit area. However, as EPA and KDEP’s understanding of the magnitude of contamination increased, KDEP requested that the EPA expand the scope of the Superfund response to include areas managed by KDEP, pursuant to RCRA.
+
+From 2010 through 2017, EPA and KDEP worked with the parties responsible for the cleanup of the site to determine the nature and extent of contamination and the potential risks. These results led to the development of the cleanup alternative in the [Proposed Plan published in November 2017](https://semspub.epa.gov/src/document/04/11095220). Based on public comment received on the 2017 Plan, the EPA issued an [amendment to the Proposed Plan in June 2018](https://semspub.epa.gov/src/document/04/11105652). After a period of public comment, EPA issued a [ROD on September 5, 2018](http://semspub.epa.gov/src/document/04/11111662).
+
+Since the release of the ROD in 2018, EPA has entered into agreement with the PRPs to prepare the engineering design for the multiple remedy components in the ROD. A second agreement (Consent Decree) with the PRPs was finalized in January 2021 and allows for the construction of the remedy. An Explanation of Significant Differences was issued in May 2020 to provide clarification of how the selected remedy for groundwater in the 2018 ROD supersedes the groundwater remedy in the 1988 ROD.
+
+### What Is the Current Site Status?
+
+The September 2018 ROD is a major milestone in the cleanup of the B.F. Goodrich Superfund Site. The first ROD was issued in 1988 and addressed a small portion of the B.F. Goodrich facility. The September 2018 ROD now addresses all aspects of the Site, with the exception of a RCRA landfill, that will continue to be overseen by KDEP.
+
+**[![NAPL Plume at B.F. Goodrich Superfund Site](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_0401930_bfgoodrichdnaplthumb01.jpg)](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodrichdnapl.JPG)**
+
+Key elements of the remedy include the installation of a three-mile long sub-surface barrier wall around the perimeter of the onshore contamination; collection and treatment of groundwater within the containment area; recovery of non-aqueous phase liquid (NAPL) from accessible onshore areas; dredging of contaminated sediments from the barge slip; closure of two ponds; recovery of NAPL from beneath the Tennessee River; and treatment of the groundwater plume beneath the river. Since the signing of the ROD in 2018, the EPA has entered into an agreement with the potentially responsible parties (PRPs) to conduct the Remedial Design. An Administrative Settlement Agreement and Order on Consent for Remedial Design was entered into with the PRPs in April 2019. The remedial design and remedial action is expected to be implemented in eight phases that follow the eight Remedial Components (RC) in the ROD, including:
+- RC 1 - Outfall Ditch 004 and Dentention Basin
+- RC 2 - Pond 1A and 2A Closure
+- RC 3 - Barrier Wall
+- RC 4 - Hydraulic Control
+- RC 5 - Onshore NAPL Recovery
+- RC 6 - Barge Slip
+- RC 7 - Offshore NAPL Recovery
+- RC 8 - Offshore Groundwater Recovery
+
+The Remedial Components are under various phases of design and construction. The Outfall 004’s Detention Basin (RC1) was excavated and relined in 2022-2023 with a low-permeability liner system. The Ponds Closure (RC2) is in the remedial design phase. The Barrier Wall (RC3) has been broken down into four sides (East, West, South, and North) providing the containment area for the Hydraulic Control (RC4). The East Barrier Wall started construction in August 2024. Design is underway for both the onshore and offshore NAPL Recovery Remedial Components (RC5 and RC7). Sheet pile walls were installed in 2023 around the perimeter of the Barge Slip (RC6); additional investigation and design are underway to perform the dredging and capping of the barge slip with dredging to tentatively begin in summer 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this Site, activity and use limitations that EPA calls institutional controls are in progress. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup. For more background, see Institutional Controls.
+
+Multiple active chemical plants currently occupy the 200-acre onshore area and the 50-acre offshore area that is referred to as the B.F. Goodrich Superfund site. As a result, access to contaminated areas is controlled by the chemical plant operators. Some areas of contamination could be exposed along the river bank adjacent to the site when river levels are low. However, the properties are owned by the chemical plants and access would need to occur from the river, by boat. Prior to the expansion of the EPA’s role in the management of the site in 2009, the EPA conducted a cleanup on a small landfill and burn pit area on the east site of the BF Goodrich site. As part of this, institutional controls were placed on this area preventing the installation of wells for drinking water or use of the property for residential purposes.
+
+With the issuance of the 2018 ROD, these restrictions were expanded for the entire 250-acre site area. However, these restrictions will not be formalized until after the remedy design is complete and the remedy constructed. An Institutional Control Implementation and Assurance Plan (ICIAP) is under-development; the ICIAP will establish and document the activities associated with implementing and ensuring the long-term stewardship of ICs, as well as specifying the entities responsible for conducting these activities. The ICIAP is anticipated to be submitted to the EPA by March 2028 and the Environments Covenants, which are the primary ICs for the Site, are planned to signed and fully executed by 2030.
+
+### Sampling and Monitoring
+
+[![B F GOODRICH Sampling Barge](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodrich_barge_small.jpg)](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodrichbarge.JPG) [![B F GOODRICH Sampling Jars](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodrichsamplejars_small.jpg)](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R04/0401930_bfgoodrichsamples.JPG)
+
+Groundwater samples are collected on an annual basis to monitor the effectiveness of the RCRA groundwater collection and treatment system. A Barrier Wall Performance Monitoring Plan will be developed to sample the Site’s groundwater monitoring wells to evaluate the performance of the barrier wall.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA has negotiated multiple legal agreements with the site PRPs to investigate and clean up the site.
+
+Most recently, EPA entered into an agreement with the PRPs in April 2019, to conduct the engineering design for the remedy. EPA finalzed an agreement with the PRPs to pay for the remedy required by the 2018 ROD, which at the time the present worth cost of the Selected Remedy was estimated at $107 million.

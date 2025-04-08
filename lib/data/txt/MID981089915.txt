@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2-acre Kent City Mobile Home Park Site is located in Kent City, Michigan. Today, around 75 mobile homes are located on the site. A buried 55-gallon drum contaminated soil and groundwater at the site, resulting in contamination of a well serving the mobile homes. This drum collected floor drainage from a dry cleaning facility that once operated on the property. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and potentially responsible party (PRP) actions.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included replacement of the contaminated well, removal of the drum and surrounding soil, and groundwater monitoring. The drum and soil excavation took place in 1984. Operation and maintenance activities are ongoing. EPA removed the site from the NPL in 1995.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+VOCs found in samples from the contaminated well include carbon tetrachloride, chloroform, methylene chloride, toluene, and trichloroethylene.

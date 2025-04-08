@@ -1,3 +1,24 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 82-acre Pacific Car & Foundry Co. (PACCAR) site is located in the City of Renton, Washington, about 1/2 mile northeast of downtown. Roadways bounding the site include Garden Avenue North on the west, Houser Way North on the east, North 4th Street on the south, and North 8th Street on the north. A Kenworth Truck Plant operates on the north half of the Site.
+
+The Pacific Car & Foundry Company, now PACCAR, Inc., began making rail cars on the Site in 1907. They produced Sherman Tanks during World War II and fabricated the legs of the Space Needle. When the rail car business declined, they started making military vehicles. PACCAR decided to decommission the facility in 1988. Contamination from past industrial activities was cleaned up between 1991 and 1997. The Kenworth Truck Plant began operation in 1993.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state and potentially responsible parties (PRP) actions. The Washington Department of Ecology (Ecology) is responsible for the oversight and management of the site under an agreement with EPA (2000).
+
+Ecology entered a consent decree with the PRPs and completed a Remedial Investigation and Feasibility Study (RI/FS) from 1998 to 1991, then documented selection of a remedy, or cleanup plan, in a Record of Decision (1991). Remediation was completed under a 1991 consent decree.
+
+### What Is the Current Site Status?
+
+The Washington Department of Ecology (Ecology) has completed remedial action in 1996 and is overseeing long-term monitoring.
+
+Ecology has conducted several Five-Year Reviews, reporting groundwater monitoring results and other information about site conditions. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent Five-Year Review (2014) indicates that remediation is completed, institutional controls are in place, long-term monitoring is ongoing and exposure pathways that could result in unacceptable risks are under control.
+
+**Cleanup Progress**
+
+The PACCAR site was added to the National Priorities List in 1990. Between 1979 and 1991, PACCAR completed a number of interim actions at the site. The actions included removal of underground storage tanks, electrical equipment containing PCBs, and soil containing high concentrations of total petroleum hydrocarbons (TPH), arsenic and lead. In addition, PACCAR removed asbestos-containing materials from structures prior to their demolition; steam-cleaned pits and sumps; and removed all sources of hazardous materials and wastes from the manufacturing operations.  
+PACCAR completed construction of the selected long-term remedy in 1996. Remedial activities include bioremediating petroleum-contaminated soil, stabilizing metals in soil, and excavating and removing soils contaminated with polychlorinated biphenyls ( [PCBs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCB) ) and polynuclear aromatic hydrocarbons ( [PAHs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PAH) ).
+
+No further activities are anticipated. Long-term groundwater monitoring is ongoing.

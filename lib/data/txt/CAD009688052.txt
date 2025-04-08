@@ -1,32 +1,58 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-Halaco Engineering Company operated a secondary metal smelter at the site from 1965 to 2004, recovering aluminum, magnesium, and zinc from dross, castings, cans, car parts, and other scrap metal. The Site includes the 11-acre smelter property, a 27-acre waste management area, the underlying groundwater, and contaminated soils and sediments in adjacent properties owned by the city of Oxnard and the Nature Conservancy.  The city and Nature Conservancy-owned properties include a portion of the Ormond Beach wetlands, one of the few remaining coastal wetlands in Southern California and home to several endangered or threatened species. During its 40 years of operation, Halaco produced a large quantity of waste (i.e., slag). Halaco initially discharged its waste into unlined settling ponds in or adjacent to the Ormond Lagoon Waterway (formerly the Oxnard Industrial Drain).  From about 1970 to 2002, Halaco deposited wastes into unlined settling ponds east of the smelter. Most of the waste remains on-site, including an estimated 850,000 cubic yards in the waste management area and 50,000 cubic yards used as fill in the 11-acre property. The waste is high in aluminum, magnesium, and other metals.  Some of the waste contains radioactive thorium and radium. After overseeing several removal actions to stabilize and secure the Site, EPA largely completed its remedial investigation in 2015 and is currently evaluating cleanup options. Testing is underway to evaluate the performance and environmental safety of one option - using the wastes in ready-mix concrete.  EPA installed new fencing around the Perkins Road property in July 2018 and is in the process of repairing the fencing. Future use of the properties remains uncertain.
-What Has Been Done to Clean Up the Site?
-In 2006, 2007, and 2010, EPA directed or completed removal actions to stabilize and secure the Site and limit off-site migration of contaminated wastes, while plans were developed for cleanup of the site. The actions included the removal of drums and other hazardous substances, installation of fencing, silt curtains and straw wattles, re-grading the waste pile to reduce the steepness of its slopes, consolidating waste material in the waste management area, and demolition of two abandoned industrial buildings at risk of collapse. EPA completed an initial testing effort in 2006 as part of its site assessment and stabilization efforts. Results are summarized in the January 2007 "Integrated Assessment" report, available in the "Site Documents & Reports" section. Additional testing was completed from 2009 to about 2015 as part of the remedial investigation (RI) for the site to provide information on the sources, nature, extent, and movement of contamination, to identify human health and ecological risks posed by the contamination, and identify areas needing remediation.  The RI included soil, soil gas, sediment, groundwater, and surface water testing needed to:
-determine if contaminants other than metals were present in Halaco’s wastes;
-determine the extent to which waste materials were in contact with surface or groundwater;
-evaluate whether the wastes were continuing to generate ammonia and other gases;
-delineate the extent of contamination in the City-owned and Nature Conservancy properties, and in the Ormond Beach lagoon;
-identify any other areas adjacent to the Halaco properties contaminated by Halaco’s operations;
-determine the extent of groundwater contamination resulting from Halaco’s waste disposal practices; and
-fully evaluate risks to birds, fish and other wildlife at the site.
+### Background
+
+Halaco Engineering Company operated a secondary metal smelter at the site from 1965 to 2004, recovering aluminum, magnesium, and zinc from dross, castings, cans, car parts, and other scrap metal. The Site includes the 11-acre smelter property, a 27-acre waste management area, the underlying groundwater, and contaminated soils and sediments in adjacent properties owned by the city of Oxnard and the Nature Conservancy. The city and Nature Conservancy-owned properties include a portion of the Ormond Beach wetlands, one of the few remaining coastal wetlands in Southern California and home to several endangered or threatened species.  
+  
+During its 40 years of operation, Halaco produced a large quantity of waste (i.e., slag). Halaco initially discharged its waste into unlined settling ponds in or adjacent to the Ormond Lagoon Waterway (formerly the Oxnard Industrial Drain). From about 1970 to 2002, Halaco deposited wastes into unlined settling ponds east of the smelter. Most of the waste remains on-site, including an estimated 850,000 cubic yards in the waste management area and 50,000 cubic yards used as fill in the 11-acre property.
+
+The waste is high in aluminum, magnesium, and other metals. Some of the waste contains radioactive thorium and radium.
+
+After overseeing several removal actions to stabilize and secure the Site, EPA largely completed its remedial investigation in 2015 and is currently evaluating cleanup options.
+
+Testing is underway to evaluate the performance and environmental safety of one option - using the wastes in ready-mix concrete.
+
+EPA installed new fencing around the Perkins Road property in July 2018 and is in the process of repairing the fencing.
+
+Future use of the properties remains uncertain.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2006, 2007, and 2010, EPA directed or completed removal actions to stabilize and secure the Site and limit off-site migration of contaminated wastes, while plans were developed for cleanup of the site.
+
+The actions included the removal of drums and other hazardous substances, installation of fencing, silt curtains and straw wattles, re-grading the waste pile to reduce the steepness of its slopes, consolidating waste material in the waste management area, and demolition of two abandoned industrial buildings at risk of collapse.
+
+EPA completed an initial testing effort in 2006 as part of its site assessment and stabilization efforts. Results are summarized in the January 2007 "Integrated Assessment" report, available in the "Site Documents & Reports" section.
+
+Additional testing was completed from 2009 to about 2015 as part of the remedial investigation (RI) for the site to provide information on the sources, nature, extent, and movement of contamination, to identify human health and ecological risks posed by the contamination, and identify areas needing remediation. The RI included soil, soil gas, sediment, groundwater, and surface water testing needed to:
+
+- determine if contaminants other than metals were present in Halaco’s wastes;
+- determine the extent to which waste materials were in contact with surface or groundwater;
+- evaluate whether the wastes were continuing to generate ammonia and other gases;
+- delineate the extent of contamination in the City-owned and Nature Conservancy properties, and in the Ormond Beach lagoon;
+- identify any other areas adjacent to the Halaco properties contaminated by Halaco’s operations;
+- determine the extent of groundwater contamination resulting from Halaco’s waste disposal practices; and
+- fully evaluate risks to birds, fish and other wildlife at the site.
+
 Between 2011 and 2015, EPA completed a series of eight reports describing the results of the RI. The reports describe testing of:
- Soil and sediment at the Nature Conservancy (TNC) properties to the east and north of the Halaco waste pile (“Solid Matrix Sampling and Analysis Results for the NCL-East and NCL-North Areas,” February 2011);
-Soil and sediment in the wetlands and beach to the south of the Halaco Properties (“Solid Matrix Sampling and Analysis Results for the Wetlands and Beach Areas,” March 2011, and “Step-out" Solid Matrix Sampling and Analysis Results and Sediment Chromium Speciation,” January 2013);
-Sediment in the Oxnard Industrial Drain (OID) and lagoon (“Solid Matrix Sampling and Analysis Results for the Oxnard Industrial Drain and Lagoon Areas,” June 2011);
-Waste and soil at the 11- and 26-acre Halaco properties (“Solid Matrix and Soil Gas Sampling and Analysis Results for the Smelter Parcel and Waste Management Areas,” August 2011);
-Surface water and groundwater (“Surface Water and Groundwater Sampling and Analysis Results,” March 2012, and “Supplemental Groundwater Sampling and Analysis Report,” June 2014)
-Invertebrates, fish, and co-located soil and sediment samples ("Baseline Ecological Risk Assessment," September 2015).
+
+- Soil and sediment at the Nature Conservancy (TNC) properties to the east and north of the Halaco waste pile (“Solid Matrix Sampling and Analysis Results for the NCL-East and NCL-North Areas,” February 2011);
+- Soil and sediment in the wetlands and beach to the south of the Halaco Properties (“Solid Matrix Sampling and Analysis Results for the Wetlands and Beach Areas,” March 2011, and “Step-out" Solid Matrix Sampling and Analysis Results and Sediment Chromium Speciation,” January 2013);
+- Sediment in the Oxnard Industrial Drain (OID) and lagoon (“Solid Matrix Sampling and Analysis Results for the Oxnard Industrial Drain and Lagoon Areas,” June 2011);
+- Waste and soil at the 11- and 26-acre Halaco properties (“Solid Matrix and Soil Gas Sampling and Analysis Results for the Smelter Parcel and Waste Management Areas,” August 2011);
+- Surface water and groundwater (“Surface Water and Groundwater Sampling and Analysis Results,” March 2012, and “Supplemental Groundwater Sampling and Analysis Report,” June 2014)
+- Invertebrates, fish, and co-located soil and sediment samples ("Baseline Ecological Risk Assessment," September 2015).
+
 Reports are available in the "Site Documents & Reports" section.
-What Is the Current Site Status?
-Cleanup of contaminated soils, sediments, and groundwater is likely to be needed at the smelter property, the waste management area, the Nature Conservancy property, and city-owned property. As part of its evaluation of cleanup options at the site, EPA is evaluating the cost and feasibility of leaving the wastes in place (“capping”); transporting the wastes to a licensed offsite disposal facility; and “beneficially” using the wastes as a partial substitute for Portland cement in ready-mix concrete.  EPA is also working with neighboring landowners to develop cleanup plans for contaminated soils and sediments in less contaminated parts of the site. Research into the potential for beneficial use of the waste began in 2010.  The next phase of specialized testing to evaluate the cost and feasibility of beneficially using the waste as a partial substitute for Portland cement in ready-mix concrete began in early 2018 and will continue into mid 2019. The testing includes the preparing concrete test cylinders made in part with Halaco waste. Materials, leaching and performance testing will be conducted to evaluate whether it would be safe to use concrete made with Halaco waste. EPA expects to release a cleanup proposal for contaminated soils and sediments in 2025.
-Enforcement Information
-EPA has identified the following parties as Potentially Responsible Parties  (PRPs) at the Site: Clarence W. Haack (former owner and operator); the Clarence W. Haack Living Trust (current owner); John M. Haack (current owner); Robert D. Haack (current owner); John David Gable (former operator); and MagPro, Limited Liability Company (successor to Halaco). The U.S. Department of Justice, on behalf of EPA and other Federal agencies, filed a proof of claim in the Halaco bankruptcy that resulted in recovery of a portion of EPA's past environmental response costs at the Site. EPA continues its PRP search activities.
+
+### What Is the Current Site Status?
+
+Cleanup of contaminated soils, sediments, and groundwater is likely to be needed at the smelter property, the waste management area, the Nature Conservancy property, and city-owned property.
+
+As part of its evaluation of cleanup options at the site, EPA is evaluating the cost and feasibility of leaving the wastes in place (“capping”); transporting the wastes to a licensed offsite disposal facility; and “beneficially” using the wastes as a partial substitute for Portland cement in ready-mix concrete. EPA is also working with neighboring landowners to develop cleanup plans for contaminated soils and sediments in less contaminated parts of the site.
+
+Research into the potential for beneficial use of the waste began in 2010. The next phase of specialized testing to evaluate the cost and feasibility of beneficially using the waste as a partial substitute for Portland cement in ready-mix concrete began in early 2018 and will continue into mid 2019. The testing includes the preparing concrete test cylinders made in part with Halaco waste. Materials, leaching and performance testing will be conducted to evaluate whether it would be safe to use concrete made with Halaco waste.
+
+EPA expects to release a cleanup proposal for contaminated soils and sediments in 2025.
+
+### Enforcement Information
+
+EPA has identified the following parties as Potentially Responsible Parties (PRPs) at the Site: Clarence W. Haack (former owner and operator); the Clarence W. Haack Living Trust (current owner); John M. Haack (current owner); Robert D. Haack (current owner); John David Gable (former operator); and MagPro, Limited Liability Company (successor to Halaco). The U.S. Department of Justice, on behalf of EPA and other Federal agencies, filed a proof of claim in the Halaco bankruptcy that resulted in recovery of a portion of EPA's past environmental response costs at the Site. EPA continues its PRP search activities.

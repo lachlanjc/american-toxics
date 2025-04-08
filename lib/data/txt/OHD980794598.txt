@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Site is located on the east and west banks of the Muskingum River in the City of Zanesville, Ohio. The site consists of the southern portion of the water well field for the City of Zanesville and a former United Technologies Automotive, Inc. (UTA) facility, under which lies the source of the contamination. Historical records indicate that a dug well was installed in the property and was filled with rubble from building demolition and drums containing trichloroethylene (TCE). TCE is a chemical commonly used as a solvent for degreasing metal parts and can be toxic to humans. Evidence of TCE contamination was first observed in 1981, during a random spot check for volatile organic compounds (VOCs) by U.S. EPA. In September 1983 the site was added into the National Priorities List (NPL).
+
+### What Has Been Done to Clean Up the Site?
+
+In July 1983, UTA installed a groundwater extraction and treatment system at the Site and removed approximately 120 drums and contaminated debris from the old well and closed it. In 1985 a soil vapor extraction system was installed to supplement the groundwater remediation system.
+
+In September 1991 EPA signed a Record of Decision (ROD) with a selected long-term remedy to address soil and groundwater contamination. The groundwater remedy included containment and capture of contaminated groundwater, restoration of the aquifer and treatment of contaminated groundwater. The soil remedy consisted of digging up and disposing of contaminated soil and using in-place soil vapor extraction. Over 1,880 cubic yards of soil was removed, and 16 soil vapor extraction wells were installed.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal and state oversight of potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. EPA is conducting the fifth five-year review of the site to verify the remedy continues to protect people and the environment. The five-year review is an opportunity for the public to tell EPA about site conditions and any concerns they may have. If you would like to submit any comments, please contact the Community Involvement Coordinator listed on this website.
+
+The previous five-year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### Enforcement Information
+
+In August 1992, EPA and UTA entered into a C [onsent Decree (CD) (PDF)](https://semspub.epa.gov/work/05/269720.pdf) (44 pp, 852.35 K, [About PDF](https://www.epa.gov/home/pdf-files) ). The CD is a legal agreement entered by the United States (through EPA and the Department of Justice) and Potentially Responsible Parties. CDs are a type of settlement that EPA can use for the final cleanup phase, also known as a remedial action, at a Superfund site.

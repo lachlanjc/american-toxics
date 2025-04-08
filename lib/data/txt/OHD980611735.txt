@@ -1,2 +1,32 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Big D Campground site is in Kingsville in Ashtabula County, Ohio. The site is a former sand and gravel quarry pit located approximately 2.5 miles south of Lake Erie, between Creek Road and Conneaut Creek, with residential areas and the former Big D Campground nearby.
+
+The approximately 2.8-acre sand and gravel quarry pit was located on the southern portion of the site and was used as a landfill for the disposal of hazardous and non-hazardous waste between 1964 and 1976. The pit contained drummed hazardous wastes attributed to the Olin Corporation, the site’s potentially responsible party, or PRP. Leachate from the site contaminated Conneaut Creek with chlorobenzene. Groundwater was contaminated with volatile organic compounds (VOCs) and heavy metals.
+
+### What Has Been Done to Clean Up the Site?
+
+The Big D Campground site was added to the National Priorities in September 1983. The National Priorities List, or NPL, is the list of sites of national priority among the known releases or threatened releases of hazardous substances, pollutants, or contaminants throughout the United States and its territories.
+
+EPA conducted an environmental investigation from November 1986 to October 1988. The investigation had three main goals: 1) to determine the nature and extent of contamination at the site; 2) to determine whether substances migrating from the site endangered public health, welfare, or the environment, and; 3) to gather the data necessary to support a study of potential cleanup options. EPA concluded that the waste buried in the former landfill had contaminated soil and groundwater. EPA subsequently completed a study of cleanup alternatives to address the contaminated media.
+
+The Big D site was divided into two parts, also known as operable units, or OUs: groundwater (OU1) and source area material (OU2). The contaminants of concern identified include perchloroethene (PCE), trichloroethene (TCE), trans-1,2-dichloroethene (tDCE), vinyl chloride (VC), diaminotoluene (2,4-DAT), and monochlorobenzene (MCB). These contaminants were found in the water table aquifer that flows northward from the former landfill.
+
+EPA issued a Record of Decision, or ROD, in 1989 to clean up both OUs. The selected cleanup required the following:
+
+- Site fencing.
+- Excavation and on-site incineration of source area material.
+- On-site disposal of treated residuals and backfilling.
+- Groundwater extraction and treatment.
+- Discharge of treated groundwater to Conneaut Creek.
+- Groundwater and surface water monitoring.
+- Deed restrictions.
+The cleanup plan for groundwater extraction and treatment was modified to include an interceptor trench that was installed adjacent to Conneaut Creek. Construction and major cleanup activities were completed in March 1995, but the site remains in the National Priorities List due to some contaminants remaining in place.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included digging up all source material from the landfill and incinerating it on site, covering the former landfill, and pumping and treating groundwater on site. At the request of the site’s potentially responsible party, Olin Corporation, a trial period is underway to see if monitored natural attenuation could be used in place of the pump-and-treat system. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume, or concentration of contaminants in groundwater.
+
+Olin Corporation periodically conducts site operation and maintenance on the landfill cap (e.g., repairing animal holes, maintaining the vegetative cover) and ensures site security by inspecting the site and maintaining the site fence. Additionally, monitoring of groundwater and surface water is currently conducted semi-annually.
+
+The most recent review was finalized in September 2024, and it concluded that the remedy is currently protective of human health and the environment in the short-term because no one is drinking contaminated groundwater and Institutional Controls are in place to prevent groundwater use. Although the exposure pathways, toxicity, and other contaminant characteristics that were determined during the site’s remedy selection remain valid, the extent of vinyl chloride in the groundwater has not been fully defined. There are additional site considerations that were not evaluated at the time of remedy selection that now need to be considered such as Emerging Contaminants of Concern. The next scheduled review of the site’s remedy will take place in 2029.

@@ -1,2 +1,179 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 9,000-acre Carpenter Snow Creek Mining District site is located in the Little Belt Mountains of southern Cascade County, Montana. The site includes mine tailings, waste rock and mine-influenced waters due to many inactive and abandoned mines. EPA has identified about 96 abandoned mines at the site; at least 21 of these are probable sources of contamination. Historic mining operations contaminated soil, groundwater, surface water and sediment with metals and other hazardous chemicals. Investigation and cleanup activities are ongoing.
+
+Mining began in the area in the 1880s when silver deposits were discovered near the future Neihart town site. Mines yielded primarily silver, lead and zinc ores. During the 1920s, lead and zinc were produced in large quantities. The mining district has been largely inactive since the 1940s, although some mines have reported mine development work and some sporadic production. Please visit Montana DEQ’s [Abandoned Mines page](https://deq.mt.gov/cleanupandrec/Programs/aml) for additional information.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. EPA is the lead agency under the Superfund program for site cleanup. EPA works in cooperation with the Montana Department of Environmental Quality, the U.S. Forest Service and other state and federal agencies. Several responsible parties have voluntarily entered into legal agreements to further investigate cleanup options. Any cleanup options considered will reduce human health exposure and environmental impacts from mine influenced waters and mine impacted soils.
+
+Several adits at the site can be used for passive treatment due to space and accessibility throughout the year. EPA has completed several pilot tests on these adits. Continuous monitors have also been in place at several of the worst discharging adits since 2012 to determine seasonal variations in flows and metal concentrations.
+
+- [Big Seven Mine Water; Bench Scale Testing of Anaerobic Bioremediation Using Local Substrates Project Report (pdf)](http://semspub.epa.gov/src/document/08/1817981) (18 pp, 320 K, [About PDF](http://www.epa.gov/home/pdf-files) )
+- [Final Report Lab Scale Treatability Study of Haystack Creek Adit Discharge (pdf)](http://semspub.epa.gov/src/document/08/100008854) (66 pp, 2.8 MB)
+
+In late 2016 and early 2017, EPA, the Montana Department of Environmental Quality and U.S. Forest Service pilot tested a hydrated lime system at the Silver Dyke Mine. The agencies also conducted a bench scale test of the Haystack Creek Mine adit discharge. The data collected will support the upcoming feasibility studies. These feasibility studies help EPA determine the appropriate response actions for addressing contaminated groundwater and surface water.
+
+- [Final Silver Dyke Adit Aquafix Treatment Pilot Test Technical Memorandum (pdf)](https://semspub.epa.gov/src/document/08/100008853) (196 pp, 12.8 MB)
+
+### What Is the Current Site Status?
+
+#### Updated Soil-Lead Guidance Announced
+
+Based on the January [2024 Updated Lead Guidance](https://www.epa.gov/superfund/updated-soil-lead-guidance-cercla-sites-and-rcra-corrective-action-facilities), the EPA is evaluating the risks from lead in soils to sensitive populations. This analysis will include compiling available site data to determine the potential presence and extent of lead-contaminated soils. Lead can pose health risks to sensitive populations, especially children under 7 years old and pregnant or nursing women. The process to implement the Updated Lead Guidance will involve additional planning, data gathering, risk assessment and funding requests. EPA will coordinate with our state partners and request public feedback on our proposed cleanup plans before additional cleanups begin.
+
+While implementing the Updated Lead Guidance may take years to complete, the EPA and Montana DEQ will share information on planned activities and results as they become available. In the meantime, and out of an abundance of caution, if you live near the Carpenter Snow Creek Superfund site, the EPA recommends you have your children tested for lead annually; especially those under 7 and if the soil at your property was not replaced previously. Additionally, you can take some simple actions to limit exposure to potential lead contamination in soils, including:
+
+- Maintaining yards and other soil cover;
+- Washing hands, especially children’s, after handling soil, playing outside, and before meals;
+- Making sure children eat nutritious meals high in iron and calcium;
+- Keeping dust levels down by mopping and damp dusting regularly;
+- Regularly changing out furnace filters;
+- Keeping kids’ toys and play areas clean;
+- Taking shoes off at the door and keeping pets clean;
+- Wearing gloves while gardening; and
+- Cleaning homegrown produce and peeling root vegetables.
+
+The EPA Carpenter Snow Creek Superfund site team will communicate with residents affected by this guidance about the specific next steps the Agency will take in their community. Residents may also contact the site’s Community Involvement Coordinator with questions or concerns at ( [archer.elizabeth@epa.gov](mailto:archer.elizabeth@epa.gov?subject=Carpenter%20Snow%20Creek%20Mining%20District%20site) ) or for OU1 contact ( [meter.mackenzie@epa.gov](mailto:meter.mackenzie@epa.gov?subject=Carpenter%20Snow%20Creek%20Mining%20) ).
+
+The site consists of five areas, known as operable units (OUs).
+
+**Operable Unit 1** - OU1 is the Neihart Community Soils Area and the abandoned mines, mills and associated wastes in that area.
+
+- EPA created a plan to control how contaminated soil is handled in the area. This control is called the Property Owner’s Soils Management (POSM) plan. It details proper handling and disposal of contaminated and potentially contaminated soils from residential properties and the town of Neihart. The plan covers any construction activities that may take place until EPA begins cleaning residential properties, also known as the Remedial Action. EPA, under a cooperative agreement with Cascade County, is working to establish the Institutional Controls plan for all elements of OU1.
+- The long-term remedy, selected in 2009, included excavation and replacement of contaminated residential soils and roadway material, and the excavation of the Belt Creek Tailings pile, followed by transport of the waste materials to a secure repository for disposal.
+- The remedy also includes institutional controls. EPA selected Mackay Gulch as the repository location. The Site received Bipartisan Infrastructure Law (BIL) funding and remedial action will begin in the summer of 2025 and likely last three to five construction seasons.
+- In the summer of 2024, EPA and the U.S. Army Corps of Engineers began work to improve roads and culverts. This was needed to set the stage for residential cleanups, which are expected to begin in the summer of 2025. EPA needs access from each property owner to conduct the cleanup. If you have not provided access, please contact ( [rachel.e.blomberg@usace.army.mil)](mailto:rachel.e.blomberg@usace.army.mil) or (720) 418-9317. You can also download and [email](mailto:rachel.e.blomberg@usace.army.mil?subject=Carpenter%20Snow%20Creek%20OU1%20Access) the [electronic access agreement (pdf)](https://semspub.epa.gov/src/document/08/100014965) (2 pp, 436 KB) to Rachel.
+- Based on the new (January 2024) lead guidance, EPA expects to lower the current lead cleanup level for residential properties. Lowering the cleanup level may result in additional residential properties qualifying for cleanup. EPA will communicate with property owners and keep the community informed as we make progress in implementing the new lead guidance.
+
+**Operable Unit 2** - OU2 includes abandoned mines, mills and associated wastes within the Snow Creek watershed. This area contains approximately 120,000 cubic yards.
+
+- The Big Seven Mine. Lexington Mine and Ripple/Rebellion Mines are the largest mines in OU2. All of these mines have significant discharge of mine influenced waters.
+- The Agencies are currently collecting field data to address data gaps to develop the OU2 feasibility study (FS). This FS will evaluate the most appropriate cleanup method to address the mine related waste in the Snow Creek drainage.
+
+**Operable Unit 3** - OU3 addresses waste associated with the Silver Dyke Mining Complex located in Carpenter Creek. OU3 also includes mine waste in Carpenter Creek below the Silver Dyke tailings impoundment down to the confluence with Snow Creek.
+
+- The Silver Dyke Mining Complex was the largest mine in the district. The complex includes the Silver Dyke Glory Hole, associated underground workings, mill facilities, tailings piles, and eroded tailings in the floodplain areas of Carpenter Creek.
+	- The ore in this complex was mined between 1921 and 1929. The area has a wide body of low-grade ore containing zinc, lead and copper. Large quantities of tailings and refuse from the complex can be found along Carpenter Creek.
+	- In 1925, a tailings dam next to the Silver Dyke Mill was damaged by an earthquake. Tailings flooded the valley below. In 1926, two impoundments were built in Carpenter Creek (upper and lower) to collect mine tailings. These tailings, now known as the Carpenter Creek tailings, were placed into the impoundments by slurry from the upstream Silver Dyke Mill and are thought to have originally spanned the entire valley.
+	- EPA estimates that the Carpenter Creek floodplain contains over 500,000 cubic yards of mine-related waste between the Silver Dyke tailings impoundment and the confluence with Snow Creek.
+- The Agencies are currently developing the OU3 feasibility study. This feasibility study will evaluate the most appropriate cleanup option to address the mine related waste in the drainage. After the feasibility study, EPA will release a plan with the preferred cleanup option and request public comments. After addressing the comments received, EPA will select the final long-term remedy in a document called a Record of Decision. EPA plans to release the proposed plan and record of decision in early 2026.
+
+**Operable Unit 4** - OU4 encompasses the abandoned mines, mills, and associated wastes within Neihart Slope drainages of Broadwater Gulch, Compromise Gulch, the Rock Creek drainage, and the Spring Creek drainage. The locations of 32 mines have been established in the Neihart Slope. The mines are located on steep slopes prone to erosion and at high altitudes. Mining influenced water (MIW) discharge has been observed in varying amounts from 17 adits in OU4.
+
+- The largest Neihart Slope mines are the Evening Star, Queen of the Hills, Moulton, Dacotah, Hartley, and Broadwater.
+- The most significant discharges are from the Broadwater, Dacotah, Compromise, and Evening Star mines on the Neihart Slope.
+- EPA will procure a contractor in the near future to prepare a feasibility study to evaluate the most appropriate cleanup method to address the mine related waste on the Neihart Slope.
+
+**Operable Unit 5** - OU5 encompasses the streamside mine waste along Carpenter Creek below Snow Creek and Belt Creek downstream of Neihart to Monarch. OU5 also includes the town of Monarch.
+
+- The majority of the waste comes from the unsecured tailings impoundments along Carpenter Creek. Since these impoundments are unsecured and do not have erosion controls, tailings continue to erode into the creek during spring runoff and periodic rain events. The creek carries the tailings (also considered mine waste) and deposits them in the floodplain once high water recedes.
+- Multiple residential properties along Belt Creek and several properties in Monarch have streamside mine waste in their yards.
+	- The tailings along Carpenter Creek will need to be addressed before EPA can remediate the impacted residential properties.
+	- Until cleanup is complete, protect yourself from mine waste: keep clean, eat clean and play clean. Waste rock dumps, tailings, adit discharges, streams, and groundwater in the area pose a potential risk to users. To minimize exposure:
+		- Bring water for drinking, cooking, and washing. Do not use water from the stream - even if it is filtered!
+		- Remove dirt from clothes, toys, pets, and equipment before leaving the area and wear masks when riding on off-road trails.
+		- Eat on a table or blanket in grassy areas.
+		- Do not harvest edible plants from floodplain areas.
+		- Reference DEQ state guidelines for safe fish consumption.
+- The next step for OU5 is for EPA to select a contractor to develop a feasibility study. This feasibility study will evaluate the most appropriate cleanup options to address the mine related waste along Carpenter Snow Creek including Monarch.
+
+EPA has also conducted removal actions at the site, which expedite cleanup of the most immediate threats to human health and the environment. More information about these removal actions can be found under [Emergency Response and Removal](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0801507#Emergency).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls for Operable Unit 1 (the Neihart area) are being discussed in collaboration with the Cascade County Health Department. Institutional controls are non-physical controls (ex. legal or educational) which help ensure the remedy continues to protect human health and the environment.
+
+EPA will develop options for specific Institutional Controls (ICs) for this site, as needed, in the OU2 through OU5 feasibility studies. ICs will be documented as a component of the remedy in the appropriate OU-specific Record of Decision.
+
+### Sampling and Monitoring
+
+EPA conducts semi-annual sampling of surface water, groundwater, mine adit discharges and sediment in June and September. These sampling events have been ongoing since 2009 and have allowed EPA to collect baseline data prior to future remedial actions that will address the mine waste. Sampling conducted since 2009 in the Carpenter Creek, Snow Creek and Neihart slope drainages north of Neihart revealed elevated levels of lead, cadmium, copper and zinc in the surface water.
+
+- [Sampling Activities Report 2022 Sampling Event Final (pdf)](https://semspub.epa.gov/src/document/08/100014946) (252 pp, 78.38 MB)
+- [Sampling Activities Report 2023 (pdf)](https://semspub.epa.gov/work/08/100015914.pdf) (530pp, 124MB)
+
+Elevated levels of lead and zinc have also been found in sediments and fluvial (adjacent stream) soils along Carpenter Creek and Belt Creek adjacent and below the various waste rock and tailings piles present in these watersheds.
+
+Sampling in 2012 and 2013 indicates that contaminated soils that were deposited in the floodplain during historic Belt Creek flood events, such as the 1953 and 1981 floods, extend all the way to and include Monarch. This will be addressed under the selected remedy for OU5.
+
+- [Final Streamside Investigation Technical Memorandum for the Carpenter Snow Creek Mining District NPL Site and Supplemental Studies for the Remedial Investigation (pdf)](http://semspub.epa.gov/src/document/08/1228536) (74 pp, 17.8 MB)
+
+Several adits that are discharging from abandoned mines continue to contribute to the degradation of the water quality throughout the mining district. These adits have been monitored continuously since 2011.
+
+- [Final Adit Discharge Monitoring Technical Memo for Carpenter Snow Creek Mining District NPL Site and Supplemental Studies for Remedial Investigation (pdf)](http://semspub.epa.gov/src/document/08/1817706) (2,090 pp, 72 MB)
+
+### Emergency Response and Removal
+
+#### 2023 – OU3 Silver Dyke Removal
+
+EPA stabilized the slope above the Silver Dyke Mine Adit and improved erosion controls. EPA moved waste rock below the adit to the Silver Dyke Glory Hole. EPA also installed containment ponds below the adit. EPA drilled into the adit and surveyed the interior with the goal of opening and stabilizing the adit. EPA was unable to safely open the adit during the field season due to overly steep slopes created during the response action. All disturbed areas were regraded and seeded with native vegetation mix and several hundred lodgepole pines were planted in 2024.
+
+- [Action Memorandum Approval and Funding for a Time Critical Removal Action for Silver Dyke Adit (pdf)](https://semspub.epa.gov/src/document/08/100014920) (20 pp, 11.1 MB)
+
+#### 2022 –OU3 Jig Tailings Removal
+
+The tailings were on a steep slope next to the Silver Dyke Mill. EPA removed ~34,000 cubic yards of tailings and placed them at the Mackay Gulch repository. EPA completed the removal action in September 2022. Several hundred lodgepole pines were planted in 2023 and 2024.
+
+- [Action Memorandum Approval and Funding for a Time Critical Removal Action for Silver Dyke Mill Jig Tailings (pdf)](https://semspub.epa.gov/src/document/08/100014919) (22 pp, 2.25 MB)
+
+#### 2020 - OU3 Silver Dyke Mine Removal
+
+EPA removed waste from one residential yard due to high concentrations of lead in soils. A new culvert was installed under Carpenter Creek road and Sih-Mem Creek was redirected back to its historic channel. This channel redirection eliminated migration and infiltration of mine adit water to a nearby resident. EPA also repaired erosion controls at the Silver Dyke Tailings removal area and at the Mackay Creek repository.
+
+- [Action Memorandum Approval and Funding for a Time Critical Removal Action for Silver Dyke Tailings Impoundment (pdf)](https://semspub.epa.gov/src/document/08/100008856) (12 pp, 2.1 MB)
+- [Action Memorandum Request for Approval of Time Critical Removal Action for Sih-mem Creek Channel and Former Foreman Residential Yard (pdf)](http://semspub.epa.gov/src/document/08/100008855) (15 pp, 751 K)
+
+#### 2019 – OU1 Evening Star and Compromise Mines Removal
+
+The Evening Star Mine removal activities included:
+
+- demolishing two mine process buildings,
+- treating and consolidating contaminated soils to on-site repository,
+- installing catchment basin for mine adit discharge water,
+- channelling mine adit discharge water to Spring Gulch,
+- site stabilization,
+- and site restoration.
+
+The Compromise Mine removal activities included:
+
+- installing a catchment basin and channelizing of shaft discharge water to the wetland area,
+- channelizing clean surface water away from the mine shaft,
+- and installing a security fence around the mine shaft.
+- [Final Removal Completion Report for Evening Star and Compromise Mine RV (pdf)](https://semspub.epa.gov/src/document/08/100008852) (494 pp, 7.5 MB)
+
+#### 2017 – OU2 Big Seven Mine Complex Removal
+
+EPA coordinated this action with Malmstrom Airforce Base Explosive Ordinance Disposal team and Monarch and Neihart Volunteer Fire Department. In 2018, EPA modified the action memorandum to address the demolition of a dynamite magazine and on-site treatment and disposal of degraded dynamite and dynamite contaminated soils. Additional information about the response actions that took place at the Big Seven Mine Complex is available on the [Big Seven Mine Abandoned Chemicals Removal website.](https://response.epa.gov/BigSevenMineAbandonedChemicals)
+
+#### 2014 – OU3 Silver Dyke Tailings Removal
+
+This work prevented continued releases from the estimated 35,000 cubic yards of tailings at the Silver Dyke tailings impoundment within the No Name Creek drainage area.
+
+The action included the following elements:
+
+- removing the tailings from the hillside slopes and staging for disposal;
+- constructing an onsite repository, pending the repository location decision;
+- placing the tailings in an onsite repository;
+- reclaiming/restoring removal area slopes.
+
+In 2020, the action memorandum was amended to address significant erosion damage at the Silver Dyke Tailings Impoundment which was completed in September 2020. Over 2000 trees have been planted since the removal was completed. More information about this removal action is available on the [Carpenter Snow Creek Removal website.](https://response.epa.gov/carpentersnow)
+
+The U.S. Forest Service stabilized Silver Dyke tailings and upper and lower Carpenter Creek tailings impoundments until a permanent remedial action is taken. Activities at various locations within the Carpenter Creek and Silver Dyke tailings impoundments included:
+
+- construction of lined surface run-on and runoff ditches on the upper and lower Carpenter Creek tailings to reduce storm flows and snowmelt from eroding tailings,
+- installation of diversion channels to route clean water around all three tailings impoundments,
+- installation of erosion check dams at all three tailings impoundments in areas where deep rills have formed in past erosion events,
+- installation and maintenance of a certified weed-free straw bale erosion berm at the base of the Silver Dyke tailings,
+- application of wood straw mulch over tailings piles as an erosion control measure,
+- placing of riprap to stabilize the access road to Silver Dyke tailings,
+- and engineering and informational controls, including fencing and signage on the tailings piles in Carpenter Creek, to eliminate trespass with recreational vehicles and to educate the public on potential dangers.
+
+#### 2004 – OU1 Contaminated Soils Removal
+
+About 5,300 cubic yards of contaminated soil were excavated and moved to the Belt Creek Tailings pile for temporary storage. Upon completion, EPA capped the surface of the Belt Creek Tailings with cover soil, re-engineered it for greater stability and better drainage, and revegetated the area. These tailings will be moved to a permanent repository as part of the OU1 remedial action. More information about this removal action is available on the [Neihart Residential Soils Removal website](https://response.epa.gov/NeihartResidential).

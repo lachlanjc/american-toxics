@@ -1,15 +1,19 @@
-SBA SHIPYARDJENNINGS, LA
-  Cleanup Activities
-On this page:
-Background
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-Site Location:
-The SBA site is located at 9040 Castex Landing Road, Jennings, Jefferson Davis Parish, Louisiana. The 98-acre property is located at the end of State Highway 3166 and adjacent to the west bank of the Mermentau River, approximately two miles southwest (downstream) of Mermentau, Louisiana. Site History:
-SBA used the location for construction, repair, retrofitting and cleaning of barges from 1965 to 1999. Barges serviced by SBA typically held diesel, coal tar, creosote, crude oil, gasoline and asphalt. Three barge slips and a dry dock are located off the Mermentau River. The slips were used to dock barges during cleaning or repair. Site Contamination/Contaminants:
-Soil, sediment and ground water are contaminated with waste from barge cleaning activities including diesel, coal tar, creosote, crude oil, petroleum products and asphalt. Wastes were co-mingled in on-site pits. Soil, sediment and ground water at the site contains numerous polycyclic aromatic hydrocarbons (PAHs), volatile organic compounds (VOCs) and metals. Potential Impacts on Surrounding Community/Environment:
-Contamination has migrated from the facility to underlying ground water, adjacent wetlands and nearby surface waters. The Mermentau River borders the SBA property and is fished recreationally. Response Activities (to date):
-Interim removal activities were conducted by SBA contractors from March 2001 to January 2005 under an EPA December 2002 Resource Conservation and Recovery Act (RCRA) Order and Agreement. The site was referred to the EPA by the Louisiana Department of Environmental Quality (LDEQ) in September 2012 due to active releases of hazardous materials from an abandoned barge into the Mermentau River, to which the Coast Guard responded. The EPA is currently conducting an interim removal action to prevent active releases from an on-site buried barge. Need for NPL Listing:
+### Background
+
+**Site Location:**  
+The SBA site is located at 9040 Castex Landing Road, Jennings, Jefferson Davis Parish, Louisiana. The 98-acre property is located at the end of State Highway 3166 and adjacent to the west bank of the Mermentau River, approximately two miles southwest (downstream) of Mermentau, Louisiana.
+
+**Site History:**  
+SBA used the location for construction, repair, retrofitting and cleaning of barges from 1965 to 1999. Barges serviced by SBA typically held diesel, coal tar, creosote, crude oil, gasoline and asphalt. Three barge slips and a dry dock are located off the Mermentau River. The slips were used to dock barges during cleaning or repair.
+
+**Site Contamination/Contaminants:**  
+Soil, sediment and ground water are contaminated with waste from barge cleaning activities including diesel, coal tar, creosote, crude oil, petroleum products and asphalt. Wastes were co-mingled in on-site pits. Soil, sediment and ground water at the site contains numerous polycyclic aromatic hydrocarbons (PAHs), volatile organic compounds (VOCs) and metals.
+
+**Potential Impacts on Surrounding Community/Environment**:  
+Contamination has migrated from the facility to underlying ground water, adjacent wetlands and nearby surface waters. The Mermentau River borders the SBA property and is fished recreationally.
+
+**Response Activities (to date):**  
+Interim removal activities were conducted by SBA contractors from March 2001 to January 2005 under an EPA December 2002 Resource Conservation and Recovery Act (RCRA) Order and Agreement. The site was referred to the EPA by the Louisiana Department of Environmental Quality (LDEQ) in September 2012 due to active releases of hazardous materials from an abandoned barge into the Mermentau River, to which the Coast Guard responded. The EPA is currently conducting an interim removal action to prevent active releases from an on-site buried barge.
+
+**Need for NPL Listing:**  
 The state of Louisiana referred the site to the EPA in October 2012 after a National Response Center notification was investigated by LDEQ and the U.S. Coast Guard. Other federal and state cleanup programs were evaluated, but are not viable at this time because of limited funding. The EPA received a letter of support for placing this site on the NPL from the state of Louisiana.

@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4.5-acre Rock Hill Chemical Co. [Superfund](http://www.epa.gov/superfund) site is located next to U.S. Highway 21 (Cherry Road) and Farlow Street in Rock Hill, York County, South Carolina. The southern portion of the site includes a parking lot and a commercial business. Vegetation and woods cover the northern portion of the site, which includes a campsite area where people live. U.S. Highway 21 (Cherry Road) and the former Rock Hill Mall border the site to the south. Commercial businesses border the site to the west. Residences and an unnamed stream border the site to the north. A shopping plaza borders the site to the east. The site’s broader surroundings include residential and commercial land uses. The Leonard Chemical Company, Inc. Superfund site is located northwest of the site.
+
+From 1960 to 1964, the Rock Hill Chemical Company operated a distilling and recovery facility for paint solvents and textile dye products. Operations stored paint sludges, textile dye products, still bottoms and other wastes generated during the reclamation process and placed these materials directly onto the ground. In 1964, a fire at the facility caused drums of oil and chemicals to explode and release their contents. Following the fire, operations ended at the site. The foundation of the former chemical company building remains on site.
+
+In 1972, First Federal Savings Bank bought a portion of the property. In 1984, the bank began construction of a branch office on the property. The site is vacant and not in use.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) in 1990 because of contaminated groundwater resulting from waste handling practices at the site. EPA, the [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/), and the site’s [potentially responsible parties (PRPs)](https://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects the site and residences and businesses near the site to the public water supply. By conducting pilot studies, treating groundwater and undertaking Five-Year Reviews, EPA, SCDHEC and the site’s PRPs continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s PRPs lead site investigation and cleanup activities, with oversight provided by the EPA and SCDHEC.
+
+| When | What |
+| --- | --- |
+| **1987 - 1989** | First Federal Savings Bank and SCDHEC removed several tanks along with the wastes from the tanks and contaminated soil. The materials were disposed at an off-site landfill. |
+| **1990** | The EPA placed the site on the National Priorities List (NPL) in 1990 because of contaminated ground water resulting from waste handling practices at the site. |
+| 1994 | The EPA issued the cleanup plan (a [Record of Decision](http://semspub.epa.gov/src/document/04/15132), or ROD) for the site. It included:  - extracting contaminated groundwater and discharging it to a local wastewater treatment facility - placing deed restrictions on the site property to prohibit use of groundwater at the site - monitoring groundwater - analyzing private wells and monitoring wells - sampling surface water, sediment and soil. |
+| **1995** | The site’s PRPs began operating the groundwater treatment system. |
+| **2008** | The EPA assessed whether residents or workers might be at risk from harmful groundwater vapors in buildings and found that vapor intrusion did not pose a threat to residents and workers. |
+| **2012** | The EPA issued the results of the PRPs’ pilot studies. |
+| **2021** | The [fifth Five-Year Review](http://semspub.epa.gov/work/04/11166335.pdf) was completed and found the remedy at Operating Unit 1 (OU-1) currently protects human health and the environment because highly contaminated soils above the cleanup level have been excavated and removed. The groundwater extraction and discharge treatments continue to effectively reduce contaminant concentrations in groundwater and institutional controls have been implemented to restrict groundwater exposure pathways. |
+| **2024** | The remaining Institutional Controls were put into place. |
+| **2025** | The site achieved Sitewide Ready for Anticipated Use (SWRAU). SWRAU means:  - all cleanup goals in the ROD or other decision documents have been achieved for materials that may affect current and anticipated future land uses of the site, so that there are no unacceptable risks; and - all institutional or other controls required in the ROD or other decision documents have been put in place. |
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11166335.pdf) was published by EPA HQs in 2021. The site's remedy currently protects human health and the environment because highly contaminated soils above the cleanup level have been excavated and removed, groundwater extraction and discharge treatements continue to effectively reduce contaminant concentrations in groundwater and institutional controls have been implemented to restrict groundwater exposure pathways.
+
+Groundwater contamination remains confined to the site’s boundary. However, a water line connects the site to the public water supply and people do not use groundwater on or near the site for drinking water purposes.
+
+The next Five-Year Review is scheduled to be completed in 2026. The remedy at OU-1 currently protects human health and the environment because highly contaminated soils above the cleanup level was carefully excavated and removed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls have been implemented to restrict groundwater exposure pathways. A water line connects the site to the public water supply and people do not use groundwater on or near the site for drinking water purposes.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s PRPs to investigate and clean up the site. The PRPs continue to fund site cleanup, monitoring and oversight activities.

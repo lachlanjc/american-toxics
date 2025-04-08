@@ -1,36 +1,51 @@
-Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 209-acre Strasburg Landfill Superfund Site is located in Newlin Township, Pennsylvania. Landfilling operations began at the Site in 1978. The landfill accepted industrial waste, including polyvinyl chloride wastes and heavy metal sludge, from 1978 until 1984, when the state required the landfill’s closure. Waste disposal operations contaminated soil and groundwater. The Site was added to the Superfund program's National Priorities List on March 31,1989. Groundwater monitoring and operation and maintenance of the cap and the leachate collection and treatment system are ongoing.
-What Has Been Done to Clean Up the Site?
-The Site’s long-term remedy included construction of a multi-layer cap and subsurface leachate collection system, installation of treatment units at affected residences, construction of a fence around the Site, and a decision of “No Action” for groundwater because contamination was not migrating off Site from under the landfill cap. Construction of the remedy took place in 1999.
-What Is the Current Site Status?
-Current Status The Strasburg Landfill is a Federal Superfund Site that is currently in the Operation and Maintenance phase of the clean-up process managed by the Pennsylvania Department of Environmental Protection (PADEP). PADEP sampled leachate most recently in September 2023 and found elevated levels of PFAS compounds. Leachate is the liquid that comes from the wastes buried in the landfill. Sample results identified the presence of PFAS, which are man-made chemicals, in the leachate at the site. PFAS was not originally identified as a contaminant of concern associated with this Site. However, due to this finding, the EPA sampled the landfill and residential wells occurred in two occasions. The first round of sampling occurred December 2023 – January 2024. The second round of sampling occurred in June 2024. For residents where Per- and polyfluoroalkyl substances (PFAS) compounds were found above the EPA’s Maximum Contaminant Levels (MCLs) for safe drinking water levels in private water supplies, EPA is working with the PADEP to provide alternative sources of drinking water. EPA will continue to work closely with the Township and community when updates are available. The MCL is the maximum level allowed of a contaminant in water which is delivered to any user of a public water system. PFAS are manufactured chemicals that have been used in industry and consumer products. The following website provides background information on what the PFAS compounds are and what measures EPA is taking to address these contaminants:  https://www.epa.gov/pfas For information about potential health risks related to PFAS, please visit: www.atsdr.cdc.gov/pfas/index.html For general information about the Strasburg Landfill Superfund Site, please visit: https://www.epa.gov/superfund/strasburg For information on questions about PFAS in food, please visit U.S. Food and Drug Administration, please visit: https://www.fda.gov/food/process-contaminants-food/questions-and-answers-pfas-food
-  Recent Data (as of October 2023) The data attached here represents leachate samples (liquid that comes from the wastes buried in the landfill). These samples do not represent groundwater data. EPA will be sampling the groundwater associated with the landfill in the near future to determine if PFAS compounds are present.
-DATE
-PFOA (ng/L or ppt)
-PFOS (ng/L or ppt)
-10/4/2022
-Non-detect
-Non-detect
-6/13/2023
-26
-5.6
-9/6/2023﻿
-3100
-96
-   ng/L = nanogram per liter ppt = part per trillion
-For continued protectiveness, the remedy required that institutional controls be identified, selected in a decision document and implemented at the Site to prevent exposure to waste, contaminated groundwater and to preserve the integrity of the remedy. In 2012, EPA updated the Site’s long-term remedy to include implementation of institutional controls. Groundwater monitoring and operation and maintenance of the cap and the leachate collection and treatment system are ongoing. On September 5, 2019, EPA removed the Strasburg Landfill Superfund Site from the Superfund National Priorities List (NPL). Sites are deleted from the NPL by the EPA, with state concurrence, when all Site cleanup goals have been met; no further response is necessary; and the remedy is protective of public health and the environment in the long-term. EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, 2020 Five-Year Review (PDF), concluded that response actions at the Site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is expected to be complete in April 2025. 
+### Background
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in placed to restrict groundwater use, and protect the remedy in place. Additional information about the institutional controls are available in the 2020 Five-Year Review (PDF) (page 6).
+The 209-acre Strasburg Landfill Superfund Site is located in Newlin Township, Pennsylvania. Landfilling operations began at the Site in 1978. The landfill accepted industrial waste, including polyvinyl chloride wastes and heavy metal sludge, from 1978 until 1984, when the state required the landfill’s closure. Waste disposal operations contaminated soil and groundwater. The Site was added to the Superfund program's National Priorities List on March 31,1989. Groundwater monitoring and operation and maintenance of the cap and the leachate collection and treatment system are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site’s long-term remedy included construction of a multi-layer cap and subsurface leachate collection system, installation of treatment units at affected residences, construction of a fence around the Site, and a decision of “No Action” for groundwater because contamination was not migrating off Site from under the landfill cap. Construction of the remedy took place in 1999.
+
+### What Is the Current Site Status?
+
+**Current Status**
+
+The Strasburg Landfill is a Federal Superfund Site that is currently in the Operation and Maintenance phase of the clean-up process managed by the Pennsylvania Department of Environmental Protection (PADEP). PADEP sampled leachate most recently in September 2023 and found elevated levels of PFAS compounds. Leachate is the liquid that comes from the wastes buried in the landfill. Sample results identified the presence of PFAS, which are man-made chemicals, in the leachate at the site. PFAS was not originally identified as a contaminant of concern associated with this Site. However, due to this finding, the EPA sampled the landfill and residential wells occurred in two occasions. The first round of sampling occurred December 2023 – January 2024. The second round of sampling occurred in June 2024.
+
+For residents where Per- and polyfluoroalkyl substances (PFAS) compounds were found above the EPA’s Maximum Contaminant Levels (MCLs) for safe drinking water levels in private water supplies, EPA is working with the PADEP to provide alternative sources of drinking water. EPA will continue to work closely with the Township and community when updates are available. The MCL is the maximum level allowed of a contaminant in water which is delivered to any user of a public water system. PFAS are manufactured chemicals that have been used in industry and consumer products.
+
+The following website provides background information on what the PFAS compounds are and what measures EPA is taking to address these contaminants: [https://www.epa.gov/pfas](https://www.epa.gov/pfas)
+
+For information about potential health risks related to PFAS, please visit: [www.atsdr.cdc.gov/pfas/index.html](http://www.atsdr.cdc.gov/pfas/index.html)
+
+For general information about the Strasburg Landfill Superfund Site, please visit: [https://www.epa.gov/superfund/strasburg](https://www.epa.gov/superfund/strasburg)
+
+For information on questions about PFAS in food, please visit U.S. Food and Drug Administration, please visit: [https://www.fda.gov/food/process-contaminants-food/questions-and-answers-pfas-food](https://www.fda.gov/food/process-contaminants-food/questions-and-answers-pfas-food)
+
+**Recent Data (as of October 2023)**
+
+The data attached here represents leachate samples (liquid that comes from the wastes buried in the landfill). These samples do not represent groundwater data. EPA will be sampling the groundwater associated with the landfill in the near future to determine if PFAS compounds are present.
+
+| DATE | PFOA (ng/L or ppt) | PFOS (ng/L or ppt) |
+| --- | --- | --- |
+| 10/4/2022 | Non-detect | Non-detect |
+| 6/13/2023 | 26 | 5.6 |
+| 9/6/2023 | 3100 | 96 |
+
+ng/L = nanogram per liter
+
+ppt = part per trillion
+
+For continued protectiveness, the remedy required that institutional controls be identified, selected in a decision document and implemented at the Site to prevent exposure to waste, contaminated groundwater and to preserve the integrity of the remedy. In 2012, EPA updated the Site’s long-term remedy to include implementation of institutional controls. Groundwater monitoring and operation and maintenance of the cap and the leachate collection and treatment system are ongoing.
+
+On September 5, 2019, EPA removed the Strasburg Landfill Superfund Site from the Superfund National Priorities List (NPL). Sites are deleted from the NPL by the EPA, with state concurrence, when all Site cleanup goals have been met; no further response is necessary; and the remedy is protective of public health and the environment in the long-term.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent, [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302579), concluded that response actions at the Site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short-term. The next five-year review is expected to be complete in April 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in placed to restrict groundwater use, and protect the remedy in place. Additional information about the institutional controls are available in the [2020 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302579) (page 6).

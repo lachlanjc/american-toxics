@@ -1,2 +1,99 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Protecting Cape Cod's drinking water continues to be a major focus at EPA New England. The Joint Base Cape Cod (JBCC) (formerly known as the Massachusetts Military Reservation (MMR)), a 22,000-acre property that has been used for military training activities since 1911, is located over a sole source aquifer that provides drinking water for 200,000 year-round and 500,000 seasonal residents of Cape Cod. Parts of the aquifer have been contaminated by fuel spills, training, disposal, and other past activities at JBCC’s Camp Edwards and Otis Air National Guard Base.
+
+Two environmental cleanup programs at the JBCC address areas of groundwater contamination, known as plumes, and their sources. The Installation Restoration Program program is [managed by the Air Force](http://www.mmr.org/) under the authority of Superfund and addresses contamination found primarily on **Otis Air National Guard Base** which is on the southern portion of the JBCC. The Impact Area Groundwater Study Program is [managed by the Army](http://jbcc-iagwsp.org/), and addresses contamination in the northern portion of the base, **Camp Edwards/Impact Area**, under the authority of the Safe Drinking Water Act. Both of these program's efforts are being conducted with oversight from the  [U.S. Environmental Protection Agency](http://www.epa.gov) and the [Massachusetts Department of Environmental Protection](http://www.mass.gov/dep/).
+
+**Otis Air National Guard Base**  
+(Otis ANGB) became a Superfund site in 1989 when it was placed on National Priorities List (NPL). The site overlies the Sagamore Lens which was designated by the EPA as a sole source aquifer under the Safe Drinking Water Act. A [Federal Facility Agreement (FFA)](http://semspub.epa.gov/src/document/01/201569) was signed in 1991 (and subsequently amended in Feb 2000) governing the Superfund cleanup. Contaminated areas were the result of chemical/fuel spills, fire training activities, landfills, and drainage structures. Since 1984 when contaminants were first detected in monitoring wells, numerous investigations and cleanups have been undertaken and completed. As of November 2024, there are four groundwater plumes undergoing extraction and treatment with a combined system rate of 6.5 million gallons per day. The Air Force’s land use control program ensures that groundwater remedies are protective until cleanup levels are met.
+
+**Otis Air National Guard – Superfund Documents**  
+[Link to EPA Documents](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0100960)  
+[Link to Air Force Documents](http://www.mmr.org/)
+
+**Camp Edwards/Impact Area**  
+Concerned that military training was causing even more damage to the groundwater, EPA's New England Office in February 1997 ( [AO1](http://semspub.epa.gov/src/document/01/448135) (PDF)) ordered the National Guard to conduct a study of the effects of military training on groundwater. In May 1997 ( [AO2](http://semspub.epa.gov/src/document/01/448100) (PDF)), EPA suspended most military training at Camp Edwards, including all use of live explosives, propellants, flares and lead bullets. It was the first time in our country's history that military training activities had been halted due to environmental and public health concerns. The groundwater study, which is ongoing, has produced evidence of serious groundwater and soil contamination from training with munitions, from unexploded ordnance and from disposal of munitions and other hazardous materials. As of March 2025, there are seven groundwater plumes undergoing extraction and treatment with a combined system rate of 3.9 million gallons per day.
+
+As a result of the evidence of contamination, EPA in January 2000 ( [AO3](http://semspub.epa.gov/src/document/01/448138) (PDF)) ordered the National Guard to begin the process for the removal of unexploded ordnance from the base and to clean up contaminated groundwater and soils. The order was the first of its kind in the country. And in January 2001 ( [AO4](http://semspub.epa.gov/src/document/01/448137) (PDF)), EPA ordered the military to use a detonation chamber at the base to destroy the more than 2,500 rounds of different kinds of ammunition dug out of burial pits on the base during the course of the military's investigation of pollution at the firing ranges.
+
+All [four of EPA's orders](http://semspub.epa.gov/src/collection/01/SC32046) were issued under the agency's emergency powers to prevent imminent and substantial endangerment to public health. (The first three orders were issued under the Safe Drinking Water Act, the fourth under the Resource Conservation and Recovery Act.)
+
+Camp Edwards – Safe Drinking Water Act Documents  
+[Link to EPA Documents](http://semspub.epa.gov/src/collections/01/SC/MA0000100960)  
+[Link to Army Documents](http://jbcc-iagwsp.org/data/)
+
+[**All EPA Available Documents for Joint Base Cape Cod Documents**](http://semspub.epa.gov/src/collections/01/SC/DESC~Joint%20Base%20Cape%20Cod)
+
+Please see the [Information Repositories](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0100960#Fact) maintained by the US Air Force and US Army for additional information.
+
+### What Has Been Done to Clean Up the Site?
+
+**Otis Air National Guard Base**
+
+The site is being addressed through federal actions. Many projects addressing soil and groundwater contamination at the site have been implemented since the mid to late 1990s. Contaminated soil removal cleanups at about 25 separate source areas were completed in 2000-2002. About 100,000 tons of soil have been treated at the site. Installation of water supply lines to residents affected by and/or potentially affected by groundwater contamination has reduced the health threats posed by site contamination. A semi-annual residential well monitoring program is also in place. In addition, municipal water supply wells have been provided with treatment systems. As of November 2024, approximately 6.5 million gallons per day of contaminated groundwater for five groundwater plumes is currently being treated both on and off site. Surface water in Ashumet Pond, Johns Pond, and Snake Pond are tested annually to make sure the pond is safe for the public's recreational use. EPA, in coordination with the Army, Air Force and the National Guard Bureau, has determined that the site does not pose an immediate threat to the environment or public health. Ongoing treatment systems will be operated and maintained until cleanup levels are met.
+
+**Camp Edwards/Impact Area**
+
+The Impact Area Groundwater Study Program (IAGWSP) Office began investigating the Impact Area in 1996. To date, 15,000 acres have been investigated. Fourteen operable units have been identified with installation of 1,200 monitoring wells in over 700 locations, and collection of over 100,000 groundwater and soil samples. Over 120,000 tons of soil has been excavated and treated. Approximately 300 acres have been partially cleared of unexploded ordnance with 600 tons of munitions-related scrap recycled. 18,500 cubic yards (approximately 27,750 tons) of range soil has been removed and disposed. Sixteen treatment systems have been constructed for seven groundwater plumes which are primarily contaminated with RDX and perchlorate. As of March 2025, 3.9 million gallons of groundwater are treated per day. The IAGWSP Office manages the implementation of land use controls to prevent exposures to contaminated groundwater and/or soil hazards.
+
+For IAGWSP’s Administrative Record, visit [http://jbcc-iagwsp.org/data/](http://jbcc-iagwsp.org/data/) for information on requesting documents via CLAMS (inter-library sharing network on Cape Cod).
+
+### What Is the Current Site Status?
+
+**Otis Air National Guard Base**
+
+Otis ANGB was placed on the Superfund program’s National Priorities List (NPL) in 1989; a Federal Facility Agreement (FFA) was signed in 1991 (and subsequently amended in March 2000) governing the Superfund cleanup. Signatories to the FFA include the National Guard Bureau, the Air Force and EPA (the Commonwealth of Massachusetts did not sign the original FFA, and U.S. Coast Guard was recently removed as a signatory).
+
+As of November 2024, four groundwater plumes are being actively treated at a combined treatment system rate of approximately 6.5 million gallons per day. As part of ensuring that groundwater remedies are protective, the Air Force has been verifying that any private well above groundwater plumes, if present, does not pose a human health risk. All treated groundwater is returned to the aquifer or discharged to surface water.
+
+Ongoing treatment systems will be operated and maintained until cleanup levels are met. In 2022, remedial action reports were finalized for three groundwater plumes, Chemical Spill-23, Chemical Spill-20, and Fuel Spill-1, to document completion of cleanup activities. In January 2023, the remedial system for Chemical Spill-4 was shutdown after operating since December 2005. In 2024, the remedial system for Fuel Spill-28 was shutdown after operating since September 1998.
+
+In 2014, based on recommendations from the Five Year Review Report, the Air Force began investigations for the emerging contaminants [PFOA and PFOS](https://www.epa.gov/pfas/basic-information-about-and-polyfluoroalkyl-substances-pfass#tab-1), which are per- and polyfluoroalkyl substances (PFAS), and 1,4-Dioxane. PFAS were ingredients in aqueous film forming foams such as fire fighting foam. 1,4-Dioxane was a stabilizer in fuel.
+
+PFAS was found in two existing groundwater plumes, Ashumet Valley and Landfill-1. The source of the majority of the PFAS in groundwater associated with Ashumet Valley is Fire Training Area-1 (FTA-1). In addition, a flightline investigation, which looked at on-base storage and historical fuel spills where fire fighting foam was applied, found several PFAS sites within the flightline and a small, off-base plume originating from a spill at a rotary on Route 28 near the base's Falmouth gate, later named Tanker Truck Rollover Sites.
+
+The Air Force conducted removal actions at Tanker Truck Rollover Sites and at Ashumet Valley/FTA-1 to eliminate residential exposures to PFAS by providing bottled water where private well samples were found to have concentrations which exceed the PFAS Final Lifetime Health Advisory in Falmouth and Mashpee, and, in some longer-term cases, in-home treatment systems and connections to public water supplies. The Air Force also installed wellhead treatment on public water supply wells in Mashpee and Falmouth due to PFAS contamination associateed with Ashumet Valley/FTA-1.
+
+Supplemental remedial investigations for PFAS and 1,4-Dioxane at Ashumet Valley/FTA-1 and LF-1, and for PFAS at Tanker Truck Rollover Sites have been completed. Periodic private well sampling for PFAS continues to monitor for potential exposures in Bourne, Falmouth and Mashpee. As of March 2025, a Feasibility Study addendum for LF-1 being developed due to the finalization of the PFAS MCLs. Revised draft feasibility studies at Tanker Truck Rollover Sites and Ashumet Valley/FTA-1 are being developed as well to incorporate PFAS MCLs and projected to be submitted to the regulatory agencies in late 2025. The Draft RI Report for the Flight Line Operable Unit is projected to be issued in September 2025.
+
+At Ashumet Valley/FTA-1, an interim action to address higher concentrations of PFAS in groundwater through the installation of extraction wells upgradient of Ashumet Pond and the re-start of existing axial extraction wells from a system formerly used to capture volatile organic compounds is being developed. An Explanation of Significant Difference decision document is projected to be issued by September 2025 to document this interim action which also includes land use controls to prevent residential exposures to contaminated groundwater and to ingestion of fish from Ashumet and Johns Pond.
+
+1,4-Dioxane was detected in four existing groundwater plumes: Ashumet Valley, Chemical Spill-10, Chemical Spill-20, and Landfill-1. An Explanation of Significant Differences decision document for CS-10 was finalized in February 2021 which added 1,4-Dioxane as a contaminant of concern at CS-10. Supplemental remedial investigations at CS-20 and Ashumet Valley/FTA-1 concluded that 1,4-Dioxane was not a contaminant of concern. At LF-1, 1,4-Dioxane was found to be a contaminant of concern.
+
+After a historical records review was conducted in 2008, the Air Force began a Military Munitions Response Program to investigate non-operational sites with past munitions training and storage activities. Otis Gun Club is currently in the feasibiilty study stage. A Record of Decision for Mock Village was finalized in April 2022 and selected limited action with land use controls and monitoring. No Further Action Decision Documents for Otis Target Butt and Former Otis Bomb Storage Magazines were finalized in September 2019 and April 2020. A Record of Decision for Skeet Range was finalized in October 2024 and selected a removal action for lead contaminated soil. A No Further Action Decision Document for Ordnance Area 1 was finalized in July 2024. Records of Decision for Old K Range and DoD Property Old Grenade Courts is projected to be finalized by September 2025. As of March 2025, Former Ammunition Supply Point West and East, remains in the investigation phase.
+
+**Camp Edwards/Impact Area**
+
+Working under the authority of Safe Drinking Water Act Administrative Orders and separate from the Superfund work, the Army as the Impact Area Groundwater Study Program is managing long-term groundwater and any remaining source area cleanups. Decision Documents have been finalized for all IAGWSP sites. As of March 2025, there are seven groundwater plumes undergoing extraction and treatment with a combined system rate of 3.9 million gallons per day. Long-term groundwater and treatment system monitoring are being conducted and, as needed, systems are optimized to ensure remediation goals are met. Long-term groundwater monitoring and operation and maintenance of treatment systems will continue until groundwater cleanup levels are met. The Army also manages a land use control program so that there are no public exposures to contaminated groundwater undergoing treatment.
+
+At the Central Impact Area, removal actions between 2000 and 2024 have removed 3,610 UXO items totalling 11.203 pounds of HE over approximately 139 acres. Additional removal actions are planned for 2025.
+
+In 2019, the IAGWSP began investigations to determine if PFAS is a contaminant in groundwater plumes with suspected releases of PFAS containing materials.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.
+
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
+
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100960&doc=Y&colid=31730).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
+
+### Green Remediation
+
+The Air Force installed a total of three 1.5 megawatt wind turbines – one in 2009 and two more in 2011 – to offset electrical costs for powering numerous ground water cleanup systems at the MMR.
+
+Learn how the Otis ANGB/JBCC site became the first large-scale Department of Defense cleanup program to be completely offset by renewable energy in this video featuring Rose Forbes, Air Force Remediation Program Manager at Joint Base Cape Cod.
+
+**
+![[-o10CyZvTUw]]
+**

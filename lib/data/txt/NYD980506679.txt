@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Warwick Landfill site is a 19-acre unlined landfill in Warwick, New York. The Town of Warwick leased the property from the Penaluna family in the mid-1950s and used the area as a landfill until 1977, at which time the owner leased it to Grace Disposal and Leasing, Ltd. The facility accepted waste from the Town of Warwick, which includes the villages of Florida, Warwick, Greenwood Lake, and other surrounding towns in Orange County. During Grace Disposal's operations, waste and sludge were disposed of in the landfill.
+
+In response to concerns expressed by the local community that suspicious dumping activities were taking place at the landfill, the New York State Department of Environmental Conservation (NYSDEC) and EPA collected and analyzed two contaminated liquid samples at the site in 1979. NYSDEC sampled liquid seeping from the site and detected hazardous materials, including heavy metals, [phenols](https://www.atsdr.cdc.gov/toxfaqs/tfacts115.pdf), and [volatile organic compounds (VOCs)](https://www.epa.gov/indoor-air-quality-iaq/volatile-organic-compounds-impact-indoor-air-quality). NYSDEC ordered the closure of the landfill in September 1979. Following New York State court order, Grace Disposal covered, graded, and closed the landfill in late 1979.
+
+After site investigations, EPA placed the site on the Superfund program’s National Priorities List (NPL) in March 1989. Following cleanup actions, EPA deleted the site from the NPL in July 2001.
+
+### What Has Been Done to Clean Up the Site?
+
+**Source Control**
+
+EPA investigated the site to determine the nature and extent of the contamination and to evaluate cleanup alternatives. Afterwards, EPA finalized a plan memorialized in the site’s June 1991 Record of Decision (ROD) to clean up the source of the contamination by constructing a multi-layer cap for the landfill, which was completed in September 1998. This cap helped prevent rainwater from entering then washing more contamination from the landfill into groundwater and surrounding soil. EPA also installed filters called point-of-use carbon treatment units at four wells on residential properties to ensure that water from these wells meets state and federal drinking water standards for volatile organic compounds (VOCs).
+
+**Migration Control**
+
+EPA investigated in December 1991 to examine the extent of contaminant migration from the site and options to control migration of contaminants. Sampling indicated that low-level contamination found in residential wells were upgradient (not in the direction of groundwater flow) of the landfill and therefore not site related. EPA determined that "No Further Action" was needed to address groundwater contamination at the site.
+
+Source Control: After a remedial investigation and feasibility study (RI/FS) to determine the nature and extent of the contamination, and to evaluate remedial alternatives, EPA selected a source control remedy in the site’s June 1991 Record of Decision (ROD). The remedy called fori capping the landfill and ensuring that area residents have a potable water supply from their private wells. Based on the results of the groundwater sampling, four residential wells with VOC-contamination exceeding state and federal drinking water standards were provided with point-of-use carbon treatment units. Construction of the landfill’s multi-layer cap finished in September 1998.
+
+### What Is the Current Site Status?
+
+EPA completed constructing a 20-acre synthetic liner cap in September 1998 and proposed deleting the site from the Superfund program’s National Priorities List in July 2001.
+
+EPA conducts five-year reviews to ensure that cleanup actions continue to protect public health and the environment and function as intended. EPA issued its [fifth five-year review](http://semspub.epa.gov/src/document/02/609860) for the site in November 2020. The review found that the cleanup remains protective of human health and the environment. The next review is scheduled for 2025.

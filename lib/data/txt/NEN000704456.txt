@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+In October 1999, volatile organic compounds (VOCs) were detected in a Grand Island municipal water supply well during routine monitoring. Subsequent investigations identified two VOC groundwater plumes with different sources. A southern plume emanates from an industrial property near the intersection of Engleman Road South and Husker Highway (34). The northern plume extended from the Case New Holland (CNH) property toward the Parkview Subdivision. Currently, the CNH plume does not exceed Maximum Containment Levels outside of the CNH property boundaries.
+
+The Parkview Well site was listed on the National Priorities List (NPL) in April 2006. The southern site is separated into two operable units: OU1 and OU2. OU1 consists of groundwater contamination within and near the Parkview Subdivision. The OU1 remedy was defined in a September 2006 Interim Record of Decision and consists of groundwater extraction and treatment, as well as alternate water supplies. Additionally, groundwater use restrictions were included to prevent the use of contaminated water for domestic purposes. The OU1 remedy was designed to protect private and municipal wells near the end of the plume. OU2 encompasses all site-wide final remedial actions, including the plume source area and remaining groundwater contamination not addressed in OU1. The OU2 remedy was defined in a September 2007 ROD as in situ chemical oxidation, groundwater monitoring, vapor intrusion monitoring and the implementation of institutional controls.
+
+### What Has Been Done to Clean Up the Site?
+
+An Interim Record of Decision was issued for OU1 in September 2006. The remedy includes extraction wells, a groundwater treatment system, groundwater monitoring and alternate water supplies for domestic users affected by the groundwater contamination. Institutional controls in the form of a groundwater use ordinance are included as part of the remedy.
+
+A final Record of Decision was issued for OU2 in September 2007. OU2 includes the source area and groundwater contamination not addressed by OU1. The remedy includes in situ chemical oxidation, performance monitoring of the remedy, vapor intrusion sampling and source area property institutional controls. A removal action for OU2 was conducted in the source area in September 2007, to remove the most highly contaminated soils along the west side of the 3304 Engleman Road (source area) building. Residual source materials below the water table identified in the OU2 ROD are subsequently being addressed in the remedial design and ongoing remedial action.
+
+The remedial design for OU1 was completed in 2008. The design includes a groundwater treatment plant consisting of aboveground air strippers connected to a series of four groundwater extraction wells. The four groundwater extraction wells are intended to prevent further plume migration into a residential neighborhood and to prevent expansion of the plume in the downgradient direction. Treated water discharged from the system via the local storm sewer system is beneficially reused in a nearby lake to maintain water levels and in the Wood River for enhancement of ecological habitat.
+
+A treatability study and remedial design for OU2 were initiated in 2008, and completed in December 2009 and February 2010, respectively. The selected remedy, in situ chemical oxidation of saturated soils within the source area and associated groundwater, involves the injection of activated sodium persulfate at three treatment areas to remediate site contaminants. Vapor intrusion sampling and remedy performance monitoring continues as part of the remedial design for OU2 and continues into the future remedial action phases of the OU2 project in accordance with the ROD.
+
+The Remedial Action for OU1 started in September 2008. Private domestic well sampling and alternate water supplies continue as part of the Remedial Action for OU1. In 2011, residents in impacted neighborhoods voted to extend city water services into their area. Installation of these water mains was completed by the end of August 2012. Residences equipped by the EPA with whole-house treatment systems were connected to the expanded city water services as the water mains became available for permanent service.
+
+Construction of the groundwater extraction well network and treatment system began on August 31, 2009. It was completed on July 15, 2010. The groundwater extraction and treatment system has been fully operational since August 2, 2010, and continuously treats over two million gallons of groundwater per day. A city ordinance was negotiated by the city of Grand Island in 2010 to restrict the installation of new water wells on site, and following public review/comment was approved by the city council in accordance with local government requirements in 2011.
+
+The Remedial Action for OU2 started in April 2010 with remedy construction complete by August 2010. The ISCO part of the remedy proceeded in the summer and fall of 2010 with multiple rounds of oxidant injections at three treatment areas, located at the source area and central portion of the groundwater plume. In 2011, ISCO was discontinued off-site but continued on-site until 2015. Vapor intrusion and groundwater monitoring is also ongoing in accordance with the Record of Decision. The final component of the remedy, an institutional control, was negotiated with the current landowner and legally placed on the source area property. The institutional control is a restrictive covenant that prohibits the installation of drinking water wells and residential property use until groundwater has been restored in accordance with site cleanup goals. The Institutional Control is enforceable by the Nebraska Department of Environment and Energy and is filed with the property's warranty deed at the Treasurer’s Office in Hall County, Nebraska.
+
+### What Is the Current Site Status?
+
+The long-term remedy for the southern plume includes extraction wells, groundwater treatment, in-place chemical oxidation, vapor intrusion sampling, monitoring, institutional controls to restrict use of groundwater and provision of alternate water supplies for affected residences. Cleanup, Operation & Maintenance activities and monitoring are ongoing.
+
+### Sampling and Monitoring
+
+Groundwater data is collected from site monitoring wells twice a year (March and September). Groundwater samples are also collected from private residential wells that border the impacted area and three city water supply wells.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 2007, the EPA removed highly contaminated soils from the source area. Private well sampling and provision of alternate water supplies to affected residences ended in 2008.
+
+### Enforcement Information
+
+**Northern Plume** - The potentially responsible party, under an administrative order on consent, performed a Remedial Investigation. The remediation is being performed in cooperation with the Nebraska Department of Environment and Energy to address residual soil sources and groundwater contamination.

@@ -1,25 +1,29 @@
-BUCKEYE RECLAMATIONST. CLAIRSVILLE, OH
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Buckeye Reclamation Landfill site covers about 100 acres at a location 4 miles southeast of St. Clairsville and 1.2 miles south of Interstate 70 in Belmont County, Ohio. Coal mine waste disposal activities and landfill operations took place in the area for several decades. Deep underground coal mining occurred near the site until the early 1950s, and a landfill operated on-site from 1971 to 1991. The landfill received solid industrial and municipal wastes, as well as industrial sludge and liquids. U.S. EPA and Ohio EPA began investigating the area in the 1980s and found operations contaminated soil and groundwater (underground water) with hazardous chemicals. In 1983 the site was listed on the National Priorities List (NPL), and in 1991 a cleanup plan was selected in a document called a Record of Decision, or ROD. The 1991 ROD, along with three Explanation of Significant Differences, or ESD documents in 1997, 2003, and 2011, guided the cleanup at the site. The main construction actions of the remedy were finished in 2003. In October 2019 the site was deleted from the NPL.
-What Has Been Done to Clean Up the Site?
-The cleanup onsite included placing a solid waste cap over areas where landfill activities occurred; constructing a collection system for groundwater and the liquid that drains from the landfill, also known as leachate; and establishing a wetland area to treat the leachate. In addition, the cleanup at the site also included the installation of fencing, groundwater monitoring, and establishment of institutional controls to limit future use of the site.
-What Is the Current Site Status?
-In October 2019, U.S. EPA finalized the deletion of the site from the NPL after determining that the required cleanup was complete and no further action was necessary other than continued operation and maintenance, monitoring, and five-year reviews. The agency did not receive any comments from its notice of intent to delete the site published in the Federal Register at the end of July 2019. During the time the site was listed in the NPL, it was addressed through federal, state and potentially responsible party (PRP) actions. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. EPA is conducting the fifth five-year review of the site to verify the remedy continues to protect people and the environment. The review is scheduled to be completed in May of 2025. The five-year review is an opportunity for the public to tell EPA about site conditions and any concerns they may have. If you would like to share comments, please contact the Remedial Project Manager listed on this website. The previous review completed in 2020 found that the response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment because an environmental covenant is in place that restricts parcel use and prohibits drilling, digging, construction on the parcel, and prohibits consumption of groundwater.
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+### Background
+
+The Buckeye Reclamation Landfill site covers about 100 acres at a location 4 miles southeast of St. Clairsville and 1.2 miles south of Interstate 70 in Belmont County, Ohio. Coal mine waste disposal activities and landfill operations took place in the area for several decades. Deep underground coal mining occurred near the site until the early 1950s, and a landfill operated on-site from 1971 to 1991. The landfill received solid industrial and municipal wastes, as well as industrial sludge and liquids. U.S. EPA and Ohio EPA began investigating the area in the 1980s and found operations contaminated soil and groundwater (underground water) with hazardous chemicals. In 1983 the site was listed on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-national-priorities-list-npl), and in 1991 a cleanup plan was selected in a document called a Record of Decision, or ROD. The 1991 ROD, along with three Explanation of Significant Differences, or ESD documents in 1997, 2003, and 2011, guided the cleanup at the site. The main construction actions of the remedy were finished in 2003. In October 2019 the site was deleted from the NPL.
+
+### What Has Been Done to Clean Up the Site?
+
+The cleanup onsite included placing a solid waste cap over areas where landfill activities occurred; constructing a collection system for groundwater and the liquid that drains from the landfill, also known as leachate; and establishing a wetland area to treat the leachate.
+
+In addition, the cleanup at the site also included the installation of fencing, groundwater monitoring, and establishment of institutional controls to limit future use of the site.
+
+### What Is the Current Site Status?
+
+In October 2019, U.S. EPA finalized the deletion of the site from the NPL after determining that the required cleanup was complete and no further action was necessary other than continued operation and maintenance, monitoring, and five-year reviews. The agency did not receive any comments from its notice of intent to delete the site published in the Federal Register at the end of July 2019. During the time the site was listed in the NPL, it was addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. EPA is conducting the fifth five-year review of the site to verify the remedy continues to protect people and the environment. The review is scheduled to be completed in May of 2025. The five-year review is an opportunity for the public to tell EPA about site conditions and any concerns they may have. If you would like to share comments, please contact the Remedial Project Manager listed on this website.
+
+The previous review completed in 2020 found that the response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment because an environmental covenant is in place that restricts parcel use and prohibits drilling, digging, construction on the parcel, and prohibits consumption of groundwater.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 The cleanup at the site included the installation of fencing, groundwater monitoring, and establishment of institutional controls to limit future use of the site.
 
-Enforcement Information
+### Enforcement Information
+
 In February 2013, the property owner recorded an environmental covenant with the Belmont County Recorder’s Office. Four parcels of real property covering 441 acres are subject to the covenant. It prohibits drilling, digging and construction on the parcels, restricts the parcels to commercial and industrial uses, and prohibits consumption of groundwater.

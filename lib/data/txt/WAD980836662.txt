@@ -1,3 +1,37 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The 55-acre Centralia Municipal Landfill site is located in Centralia, Washington. From 1958 until 1994, the on-site landfill accepted both municipal and industrial waste, including soil containing polychlorinated biphenyls ( [PCBs](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=PCB) ), paint waste and pesticide waste. These activities contaminated soil, groundwater and surface water with heavy metals and hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing and are being led by the Washington Department of Ecology.
+
+### What Has Been Done to Clean Up the Site?
+
+The Centralia Landfill is a closed municipal solid waste landfill located in the City of Centralia, Lewis County, Washington. The unlined landfill operated from 1958 until April 1, 1994.
+
+Originally, the landfill encompassed property that is currently owned primarily by the Centralia Christian School (formally owned by the Centralia Holding Corporation), as well as the City of Centralia. Because refuse has been placed on all parcels of land, this area constitutes the site. Approximately 55 acres of the 87-acre Site received solid waste. The Final Cover Area encompasses about 46 acres. The Closed Northend Landfill Area consists of about 12 acres.
+
+When the entire Landfill stopped accepting waste in 1994, the Final Cover Area received final closure with a permanent cover system consisting of a composite geomembrane and low-permeability soil barrier layer, a drainage layer, and a vegetative soil layer. The final cover system nearly eliminates infiltration of precipitation into refuse at the Site, and directs clean surface water runoff into a wetland enhancement and mitigation area south of the Landfill.
+
+In addition to the final cover system, a permanent landfill gas collection system was installed beneath the final cover, and a permanent landfill gas flare system was installed next to the Landfill entrance facilities for gas treatment. Perimeter fencing was placed around the Landfill to enclose all of the Final Cover Area and much of the Closed Northend Landfill Area.
+
+Aside from the Northend Landfill Area, the Landfill was closed according to the State Criteria for Municipal Solid Waste Landfills (Chapter 173-351 WAC). To accommodate waste disposal after closure of the Landfill, the Lewis County Central Transfer Station facility was constructed on the Closed Northend Landfill and began operation in 1994. In addition to the transfer station, the facility includes an administrative office building and a moderate risk waste facility.
+
+The Landfill was capped as an interim remedial action under state law. The selected remedy in the Model Toxic Cleanup Act (MTCA) Cleanup Action Plan that serves as the Record of Decision (ROD) is final landfill closure with post closure requirements outlined in Chapter 173-351 of the WAC, compliance monitoring for surface water and both groundwater Units, and institutional controls including filing deed restrictions approved by Ecology. The remedy is functioning as intended and groundwater conditions are improving, although cleanup goals for groundwater have not yet been achieved at the point of compliance.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included long-term groundwater and surface water monitoring and long-term operation and maintenance of the final landfill cover system. Remedy construction took place in 1999.
+
+The remedy is functioning as intended and groundwater conditions are improving, although cleanup goals for groundwater have not yet been achieved at the point of compliance. Visit Ecology’s website or review the most recent Five-Year Review for more information on the site’s status.
+
+Site monitoring is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+For more infomation of contaminated chemical, please visit [IRIS](https://cfpub.epa.gov/ncea/iris/search/index.cfm?keyword=).
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1991 and 1994 included installation of a temporary protective cover over the landfill; securing the site; and installation of a permanent 46-acre cap over the landfill.

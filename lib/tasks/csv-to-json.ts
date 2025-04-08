@@ -11,6 +11,10 @@ const jsonObj = await csv({
   checkType: true,
 }).fromString(csvString);
 for (const site of jsonObj) {
+  site.id = site.id
+    .trim()
+    .replace(/\.000?/, "")
+    .replace(/[ \s]+/g, "");
   site.stateName = site.state.trim();
   site.stateCode = states.find(
     (state) => state.name === site.stateName,

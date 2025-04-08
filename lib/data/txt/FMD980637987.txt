@@ -1,2 +1,13 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The PCB Wastes site consists of eight separate locations throughout the United States-administered Trust Territory and several independent islands of the Pacific. In 1982, an investigation revealed polychlorinated biphenyls (PCBs) in drums and transformers and improper storage practices at the subsites. After cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal actions.  
+
+### What Is the Current Site Status?
+
+EPA cleaned up the subsites in 1984 by blending and burning the PCB fluids and transporting other PCB and hazardous wastes off site for disposal. After this, EPA sampled soils at each subsite and found that only one subsite had contaminated soil. EPA removed contaminated soils from the subsite and determined that site conditions met the established cleanup goals.
+
+After cleanup, EPA took the site off the NPL in 1986.

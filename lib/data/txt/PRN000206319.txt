@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Cabo Rojo Ground Water Contamination site (“Cabo Rojo site”) consists of three source areas with two groundwater plumes. Cabo Rojo Professional Dry Cleaners (CRPDC) is located in the northern area of Cabo Rojo and is no longer operating. Located approximately 700 feet northeast of CRPDC is another source area, Extasy Q Prints (EQP), which is an active print shop. Approximately 0.7 miles southwest of both CRPDC and EQP is the third source area, Puerto Rico Industrial Development Company (PRIDCO) East Industrial Park\[BA1\], a complex of 10 separate, mostly vacant buildings with a long history of industrial and commercial operations.
+
+Routine groundwater sampling from the Cabo Rojo Urbano public water supply system from 2002 through 2011 revealed chlorinated volatile organic compounds (VOCs), tetrachloroethene (PCE) and trichloroethene (TCE), in several of the wells below federal maximum contaminant levels (MCL).
+
+This sparked additional investigations by EPA at potential source areas (PSAs) throughout Cabo Rojo from 2006 to 2012. Soil, groundwater, and soil vapor sampling at several facilities revealed detections of chlorinated VOCs. Based on the data collected, a hazard ranking system package was prepared and the Site was added to the National Priorities List (NPL) on March 10, 2011.
+
+EPA undertook a thorough Remedial Investigation/Feasibility Study (RI/FS) to determine the magnitude and extent of the contamination and to identify potential responsible parties. The RI/FS field investigation initiated in 2013; The RI/FS was completed in 2018.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2006, EPA collected groundwater samples from active public and private supply wells in and around Cabo Rojo and began investigating 68 PSAs. Data from EPA and PRASA sampling indicated VOCs were detected most frequently in the Ana Maria (PCE, TCE, and cis-1,2-dichloroethene \[cis-1,2-DCE\]) and Club de Leones (1,1-dichloroethene \[1,1-DCE\]) wells.
+
+From 2010 to 2012, EPA continued to investigate PSAs with soil, groundwater, and soil vapor testing and identified the following five facilities where chlorinated solvents were detected.
+
+From 2013 to 2017, EPA conducted the remedial investigation (RI) field activities. Also, to explore potential effects on Site groundwater due to heavy rain and recharge associated with Hurricane Maria, An additional round of groundwater samples was collected in February 2018 to determine the effects on Site groundwater due to heavy rain and recharge associated with Hurricane Maria. The RI/FS Process was completed in 2018.
+
+### What Is the Current Site Status?
+
+On May 9, 2019, EPA signed the Record of Decision (ROD) that identifies the selected remedy to address the soil and groundwater contamination at the Site. The selected remedy includes the following major components: SVE/DPE to the target soil remediation zones and underlying groundwater at the CRPDC and EQP source areas; installation of vapor monitoring points to assess removal of vapor-phase contamination; MNA and long-term monitoring of Plume 2 and the portion of plume 1 outside of the source area; Institutional Controls; and a contingency remedy of in-situ treatment of groundwater in Plume 1 if certain conditions are met (e.g., detection of NAPL, contaminant concentration increases in key monitoring wells, detections in sentinel wells, detections in supply wells).

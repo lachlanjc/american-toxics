@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 76-acre Formosa Mine Site is located on Silver Butte in Douglas County, Oregon. This abandoned mine discharges millions of gallons of acid rock drainage and toxic metals into the upper reaches of the Middle Creek and South Fork Middle Creek watersheds every year. These discharges have contaminated surface water, groundwater, soils, and sediment with heavy metals.
+
+EPA has designed the cleanup remedy for Operable Unit 1 (OU1), which addresses all mine impacted material on the surface at the Site. The OU1 cleanup will include excavating, consolidating, and capping contaminated materials due to their high metal concentrations and low pH (acidic) which results in leaching contaminants that flow downstream during rain and snowmelt events. The OU2 cleanup remedy is currently being investigated and will address risks to surface and groundwater at the Site.
+
+The Site was originally mined for copper and silver from about 1910 to 1937. The mine was reopened in 1990 by Formosa Exploration, Inc. and its parent company Formosa Resources Corporation to produce copper and zinc, with some gold and silver. After mining operations ended in 1993, the mine workings were left filled with high sulfide tailings that water can readily migrate through. Tailings and low-grade ore from the mine were also placed in a lined cell and capped. After some additional reclamation work, the mining company left the Site in 1996.
+
+In March 2000, the Oregon Department of Environmental Quality declared the Site a State Orphan Site, a designation for contaminated sites where the parties responsible for the contamination are either unknown, unable, or unwilling to pay for needed remedial actions. A removal assessment report was prepared in September 2000, and construction of an adit water diversion system was completed the same year. In 2005, citizens petitioned the EPA to consider adding the Site to the National Priorities List, this was accomplished in 2007. By 2010 EPA had completed characterization of the nature and extent of mine materials and soils for the OU1 Remedial Investigation and these results were presented with the Feasibility Study in 2013. In 2016, the Record of Decision for OU1 was published. In 2018 the Formosa #1 Adit bulkhead was constructed by the Bureau of Land Management to control water drainage. From 2018 to 2020 the Remedial Design was prepared and completed for OU1, leaving the Site ready for a Remedial Action.
+
+*What is an adit?* An adit is a horizontal or near-horizontal passage driven from the Earth’s surface into the side of a ridge or mountain for the purpose of working, ventilating, or removing water from a mine.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through state and federal actions. There are no viable responsible parties, so this cleanup is being funded through federal revenues.
+
+In 2018 the Bureau of Land Management opened the main adit and installed a hydraulic plug to control the discharge of contaminated water into Middle Creek.
+
+### What Is the Current Site Status?
+
+EPA completed a remedial investigation of contaminated surface material in January 2012 and completed a feasibility study in January 2013 to evaluate surface cleanup alternatives. A Record of Decision was signed on April 18, 2016 and on October 23, 2020 the 100% Remedial Design was completed for Operable Unit 1. The remedy consists of excavating mine impacted materials adjacent to the Middle Creek and South Fork Middle Creek watersheds and building an on-site containment facility to prevent leaching during rain and snowmelt events. Roads will be paved and select areas will be contoured to direct water away from mine’s wastes. Some areas will receive a cover of clean materials or cap, without excavating wastes.
+
+**Operable Unit 1: Remedial Action**  
+The cleanup at OU1 addresses mine-impacted surface material. EPA is moving forward with Remedial Action at Formosa Mine OU1 because the design for cleanup is complete and Bipartisan Infrastructure Law funds are available to start the cleanup. The OU1 Remedial Action activities will reduce contaminant movement into groundwater, Middle Creek, and South Fork Middle Creek. The OU1 remedial strategy emphasizes site-wide consolidation and containment of contaminant sources to reduce the volume of acid rock drainage that will affect surface water and groundwater.
+
+**Operable Unit 2: Remedial Investigation / Feasibility Study**  
+The second operable unit, OU2, is focused on surface water and groundwater at the Site. At the same time as the cleanup is underway at OU1, EPA will lead Site characterization and treatability study efforts at OU2 to collect information and identify remedial action alternatives for mine-impacted water.
+
+### Sampling and Monitoring
+
+EPA will assess the effects of the OU1 Remedial Action on Middle Creek and South Fork Middle Creek during and after implementation. During the ongoing Remedial Investigation and Feasibility Study in OU2, water, sediment, and precipitate sampling will be performed across the Site, and water quality will be monitored as it passes through a prototype treatment system that will be built at the Formosa #1 Adit.

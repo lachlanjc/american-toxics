@@ -1,22 +1,21 @@
-BURLINGTON NORTHERN (BRAINERD/BAXTER PLANT)BRAINERD/BAXTER, MN
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The Burlington Northern (Brainerd/Baxter Plant) site is located between the cities of Brainerd and Baxter in Minnesota. A railroad-tie treatment facility operated at the site from about 1907 to 1986. Two shallow unlined ponds received wastewater generated from the wood-treating process. This created a sludge, which contaminated underlying soils and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing..
-What Has Been Done to Clean Up the Site?
- The site is being addressed through federal, state and potentially responsible party (PRP) actions. EPA and the Minnesota Pollution Control Agency (MPCA) have conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, completed in 2016, concluded that response actions as implemented at the site are protective of human health and the environment in the short term. However, the review recommended additional investigation and evaluating remedial alternatives for contaminated groundwater and source areas, updating the remedy for the site, and adding institutional controls to ensure that future land use is protective. These actions are underway.
 
-What Is the Current Site Status?
-The site’s long-term remedy included excavation of visibly contaminated soils and sludge, an air injection system to treat groundwater, and on-site treatment and capping of remaining contaminated soils and sludge. Soil treatment took place between 1987 and 1994. The air injection system continues to operate. Operation and maintenance activities are ongoing. In 2012, reevaluation of the extent of soil and groundwater contamination remaining at the site began. Field work was conducted in three phases and was completed in 2014. Currently EPA is overseeing the responsible party perform a treatability study to see if injecting air into the groundwater where high concentrations of contamination remain can speed up cleanup of these areas.  Following the treatability study, EPA plans to update the remedy to better address current conditions at the site.
-Sampling and Monitoring
+### What Has Been Done to Clean Up the Site?
 
-Enforcement Information
-On December 18, 2012, EPA and BNSF Railway Company signed a new agreement for cooperation at the site.  The agreement requires BNSF, with EPA’s oversight, to evaluate the extent of soil and groundwater contamination that remains at the site, and to evaluate alternatives for addressing it.
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA and the Minnesota Pollution Control Agency (MPCA) have conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, completed in 2016, concluded that response actions as implemented at the site are protective of human health and the environment in the short term. However, the review recommended additional investigation and evaluating remedial alternatives for contaminated groundwater and source areas, updating the remedy for the site, and adding institutional controls to ensure that future land use is protective. These actions are underway.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included excavation of visibly contaminated soils and sludge, an air injection system to treat groundwater, and on-site treatment and capping of remaining contaminated soils and sludge. Soil treatment took place between 1987 and 1994. The air injection system continues to operate. Operation and maintenance activities are ongoing.
+
+In 2012, reevaluation of the extent of soil and groundwater contamination remaining at the site began. Field work was conducted in three phases and was completed in 2014. Currently EPA is overseeing the responsible party perform a treatability study to see if injecting air into the groundwater where high concentrations of contamination remain can speed up cleanup of these areas. Following the treatability study, EPA plans to update the remedy to better address current conditions at the site.
+
+### Sampling and Monitoring
+
+### Enforcement Information
+
+On December 18, 2012, EPA and BNSF Railway Company signed a new agreement for cooperation at the site. The agreement requires BNSF, with EPA’s oversight, to evaluate the extent of soil and groundwater contamination that remains at the site, and to evaluate alternatives for addressing it.

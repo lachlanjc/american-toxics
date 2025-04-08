@@ -1,2 +1,213 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Anaconda Copper Mine site covers more than 3,400 acres in the Mason Valley, near the city of Yerington, in Lyon County, central Nevada, about 65 miles southeast of Reno. The Singatse Range and the town of Weed Heights lie to the west, open agricultural fields and homes to the north, U.S. Bureau of Land Management (BLM) managed public land to the south, the Walker River and the city of Yerington to the east. Portions of the site formerly owned by Arimetco were acquired by Singatse Peak Services and portions are BLM managed public lands.
+
+Copper was discovered in the Yerington District in 1865, and operations at this mine site began in 1918 as the Empire Nevada Mine. Anaconda bought the mine in 1941. From approximately 1952 to 1978, Anaconda conducted mining and milling operations at the open-pit, low-grade copper mine. Anaconda processed both copper oxide and copper sulfide ores. They removed overburden and ore from the pit, which required pumping groundwater out of the pit to get to the ore. The processing of the copper oxide ore involved large quantities of sulfuric acid, made in an on-site sulfuric acid manufacturing plant. The ore processing created liquid and solid wastes, such as: tailing piles, waste rock areas, liquid waste ponds, leach vats, heap leach pads, and evaporation ponds. Anaconda mining operations generated approximately 360 million tons of ore and debris from the open pit and 15 million tons of overburden resulting in 400 acres of waste rock placed south of the Pit, 900 acres of contaminated tailings, and 300 acres of disposal ponds.
+
+In 1977, Atlantic Richfield Company (ARC) bought Anaconda. A decrease in copper prices, lower priced foreign imports, and declining grade and amount of ore available forced the closure of Anaconda’s copper mining operations in 1978. All activities were shut down in 1982. Groundwater pumping out of the pit stopped when Anaconda operations ceased, resulting in the 180-acre Pit Lake. It is about one mile long, 800 feet deep with 500 feet of water, and holds around 40,000 acre-feet of water which increases at the rate of 10 acre-feet/year.
+
+In 1982, the property was sold to Don Tibbals, who refurbished Weed Heights, conducted some operations, and leased portions of the site to various companies. Following Anaconda’s sale of the site, portions of the site were used for extracting copper from the tailing and waste rock piles and as a metal salvage and transformer recycling facility. Arimetco bought the property from Tibbals in 1988 and pursued leaching operations on the site, eventually building an electrowinning plant and five heap leach pads to produce copper. They used tailings material left by Anaconda and added some new ore resulting in 250 acres of heap leach piles and 12 acres of heap leach solution collection ponds. Arimetco went bankrupt in 1997, abandoning the site in 2000.
+
+NDEP and EPA have taken several emergency removal actions at the site to address immediate concerns, and have required ARC to conduct remedial investigations and feasibility studies to determine the extent of contamination and potential cleanup options for the site. EPA conducted a remedial investigation and feasibility study of the Arimetco portions of the site. Please see the “ *What Has Been Done to Clean Up the Site?*” section for detailed information about the removal and investigation activities to date.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA established eight Operable Units (OUs) to address the investigation and cleanup of the various components of the site: Site-Wide Groundwater (OU-1), Pit Lake (OU-2), Process Areas (OU-3), Evaporation Ponds/Sulfide Tailings (OU-4), Waste Rock Areas (OU-5), Oxide Tailings (OU-6), Wabuska Drain (OU-7), and Arimetco (OU-8).
+
+Each of these OUs has their own investigation and will have their own cleanup plans. Originally EPA directed the investigations, but EPA transferred responsibility to the State in 2018. The cleanup approaches for the various hazards at the site are determined after these investigations are completed and potential risks have been evaluated. In the interim, EPA determined whether emergency removals or other interim actions were warranted to mitigate immediate hazards.
+
+***Prior to 2000***
+
+Since 1978, evidence has shown that the groundwater beneath the site has been affected by mining activities. In the late 1970s and early 1980s, initial studies by NDEP found that tailing streams contained arsenic, mercury, lead, copper, zinc, and chromium. The studies also discovered that contamination from the mining, milling, and metal salvaging operations had migrated into the groundwater, forming a contaminant plume.
+
+NDEP issued a Finding of Violation to ARC for the groundwater pollution in 1982. A second Violation was issued in 1985 and required the installation and monitoring of an interception “pumpback” well system designed to contain the groundwater contamination plume. ARC initially installed five pumpback wells on the northern end of the site from 1985 to 1986. An additional six pumpback wells were installed in 1998. The eleven wells pumped contaminated water from the plume into three lined evaporation ponds located on the northern portion of the site. The purpose of this system was to prevent shallow groundwater from contaminating private and municipal drinking water wells in Yerington and the local community. The system was meant to also stop contamination from reaching the Walker River via the Wabuska Drain.
+
+In the late 1990s, residents, including the Yerington Paiute Tribe, collected water samples from domestic and tribal wells located away from the site. In two of the locations sampled, they found arsenic at levels higher than the acceptable drinking water standard. The discovery of elevated arsenic levels led NDEP and EPA to conduct an Expanded Site Investigation, which was completed in October 2000. Based on the results of that investigation, EPA and NDEP determined that the extent of contamination and the potential human health risks at the site warranted a more comprehensive investigation and cleanup.
+
+***2000-2005***
+
+NDEP assumed maintenance of the site in 2000 and performed emergency removals from 2001- 2003
+
+EPA considered proposing the site for placement on the NPL in 2001; however, the State of Nevada objected since the State was working on the site under a voluntary agreement with ARC. EPA agreed to defer the process for listing the site to allow the State to continue that approach, while reserving the right to reconsider proposed listing on the NPL in the future if the State's approach did not prove effective.
+
+EPA negotiated a Scope of Work and Memorandum of Understanding with NDEP and BLM to cover further site investigations and cleanup activities. In this agreement, NDEP retained lead responsibility and EPA provided oversight. In late 2004, NDEP asked that EPA take the regulatory lead due to the increased complexity of contaminants at the site, such as radioactive contamination.
+
+***2005-2010***
+
+EPA issued a Unilateral Administrative Order (UAO) for Initial Response Actions to ARC in March 2005. The Order required ARC to: improve site security, update the health and safety plan for site workers, implement air monitoring, conduct a radiation survey on and off the site, continue operating the groundwater pumpback well system and Arimetco heap leach fluids management system, prepare Operations and Maintenance (O&M) Plans, continue ongoing investigations of the Process Areas, sample domestic wells for contaminants, supply bottled water to residents, and implement a groundwater study.
+
+ARC conducted air quality monitoring from January 2005 to April 2008 and submitted an Air Quality Monitoring Program Data Summary Report and a Baseline Human Health Assessment Work Plan for the Inhalation Pathway. ARC completed the Baseline Human Health Risk Assessment for the Inhalation Pathway in 2011. *See Fugitive Dust under the Threats and Contaminants section above.*
+
+In early 2007, ARC modified the ambient air monitoring equipment, and also completed installation of approximately 3.5 miles of new fencing, gates, and signage, and repairs of 10.7 miles of existing fencing to prevent unauthorized access to the site. In summer 2007, ARC collected soil samples off-site to establish background levels of contamination in the area soils and completed a Background Soils Data Summary Report in March 2009.
+
+In 2006, EPA performed emergency response actions to: mitigate dust from blowing off the site, remove PCB containing transformers, and repair and upgrade leaking Arimetco fluid collection ponds. In late 2006, ARC proposed to conduct a removal of radiological contamination from the Process Area to remove access restrictions for site workers in a 30 square ft. area of the 230-acre Process Area. To avoid repeated mobilizations and ensure a more thorough investigation of the radiological conditions at the site prior to removal actions, EPA requested the scope of the removal action be based on a complete assessment of the area. ARC declined; therefore, EPA conducted a radiological removal assessment in the Process Area during the summer of 2007 and completed a report of the survey in August 2008. EPA completed an agreement with ARC in April 2009 for ARC to conduct additional characterization and removal of the radiological materials in the Process Area that pose a threat to on-site workers; ARC removed over 6,000 tons of soil contaminated with radiological materials in late 2010.
+
+In the summer of 2007, EPA conducted assessments of the Arimetco heap leach fluids management system ponds to determine the scope of additional removals that may be needed and an investigation of the Arimetco Heap Leach Pads. The “Arimetco portion” includes several areas at the site where the Arizona Metal Company (Arimetco) operated during 1987-2000. In the fall of 2007, EPA conducted a permanent removal of another leaking Arimetco pond and recommended more removals as funding became available. EPA conducted additional removals of inactive leach ponds and repairs of active ponds in September and October 2008. This included removal of soil contaminated with kerosene at the Arimetco processing facilities and bioremediation treatment of the soil.
+
+Also, in 2007, EPA conducted tests of onions grown next to to the Anaconda site and irrigated from a supply well located just north of the site boundary. Onions were selected from random areas of the field and not washed or trimmed prior to analysis. The onions were analyzed for uranium, a primary site contaminant. The results showed that the uranium levels in the onions were low, and below levels typically found naturally in onions from other areas of the United States. Accordingly, EPA concluded that the test results showed that the Anaconda mine did not elevate uranium levels in local onions.
+
+EPA and ARC signed an agreement in April 2009 requiring an update to the Pumpback Well System and Evaporation Ponds O&M Manual and the completion of the following interim removal projects: evaporation ponds capping, removal of radiological materials in the process areas, removal of transite/asbestos pipe and abatement of electrical hazards. EPA approved work plans for the removal of radiological materials in the process areas, removal of transite/asbestos containing pipe, and abatement of electrical hazards. All three removal actions were completed in 2010. In addition, EPA approved a work plan for capping of the thumb pond and a small area of the Process Area (referred to as Sub-Area A); ARC completed the capping project in 2010. ARC initiated dust suppression activities in 2011 by applying a dust suppressant to a portion of the Process Area and completed the application of the dust suppressant to the lined and unlined evaporation ponds by late 2011. *See Fugitive Dust under the Threats and Contaminants section above.*
+
+In 2010, EPA completed the following short-term response actions: removal of asbestos from the Anaconda Mine office and off-site disposal of the asbestos-containing material; demolition of the mine office and on-site landfilling of the demolition debris; radiological screening and off-site disposal of more than 300 large truck tires; repair of the heap leach fluids management system; and removal of small containers of hazardous waste left on-site. EPA also performed an evaporation pond pilot test to assess enhanced evaporation methods.
+
+***2011-2014***
+
+January 2012, EPA approved ARC’s proposal to raise the operational level of the vat leach tailing (VLT) evaporation pond from 8 to 9 feet. In July 2012, EPA entered into a Bona-Fide Prospective Purchaser Administrative Order on Consent with SPS whereby they agreed to financially participate in the reconstruction of the VLT pond and to identify options to maintain capacity for the next 5-10 years. The VLT pond rebuild was completed in October 2012.
+
+April 2013, SPS finished the FMS capacity study, and in June 2013, EPA and NDEP selected the alternative of design and installation of two additional evaporation ponds adjacent to the VLT pond. With the funding split between EPA and ARC, two new ponds were built in October 2013.
+
+***2015-2020***
+
+December 21, 2015, EPA sent a letter to the Nevada Governor expressing its intent to propose listing the site on the National Priorities List (NPL) and requesting the governor's concurrence.
+
+March 29, 2016, the governor issued a letter providing his concurrence.
+
+September 9, 2016, EPA published in the Federal Register its proposal to list the site on the NPL. However, on July 31, 2017, NDEP requested that EPA defer listing the site on the NPL, and on February 5, 2018, EPA deferred listing.
+
+February 5, 2018, NDEP signed an AOC with ARC to complete all remaining site investigations as well as perform the design and construction of the OU-8 remedy.
+
+In November 2016, EPA and NDEP issued a Proposed Plan for the remediation of the OU-8 Arimetco Operable Unit. A 30-day public comment period was initiated in November 2016, which was followed by a public meeting held on December 12, 2016. EPA, BLM and NDEP then jointly issued a Record of Decision (ROD) specifying the selected remedy to include regrading and capping the Arimetco heap leach pads and rebuilding a fluid management system and evaporation pond system. The ROD was issued July 24, 2017.
+
+August 2019, construction began on the new evaporation ponds selected in the OU-8 remedy. The ponds were completed May 2020.
+
+August 2020, NDEP issued a Proposed Plan for the areas peripheral to OU-8 that are needed to implement the OU-8 remedy.
+
+September 2020, NDEP held a "virtual" public meeting to present the Proposed Plan and obtain public input.
+
+### What Is the Current Site Status?
+
+EPA performed remedial investigations and risk assessments on the Yerington Paiute Tribe’s Campbell Ranch reservation and on the Walker River Paiute Tribe’s reservation. The investigations focused on contamination that potentially migrated from the mine impacts through the Wabuska Drain and into the Walker River. The State of Nevada NDEP is overseeing ARC’s investigation and remedial action work on all Operable Units not found on Tribal Lands. Remedial actions are currently occurring on the OU-8 Arimetco areas. All other operable units are in the investigation phase, specifically the feasibility study stage.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+On September 11, 2019, an Environmental Covenant Agreement was signed by Singatse Peak Services, owner of some of the land that composes the former Anaconda Copper Mine site. Activity and use limitations set-up including prohibition of (unless approved by NDEP):
+
+A. physical disturbance of elements of the remedial action;
+
+B. construction that interferes with the remedial action
+
+C. excavation that interferes with the remedial action
+
+D. grading or land disturbance that interferes with stormwater management, or other actions that cause erosion or deterioration of remedial action elements
+
+E. installation of water supply wells for potable use
+
+F. construction and operation of unlined ponds
+
+G. disposal of waste materials (unless permitted)
+
+H. activities that alter natural or man-made surface water features
+
+### Sampling and Monitoring
+
+EPA issued a second Order to the Atlantic Richfield Company (ARC) in January 2007 requiring remedial investigations and feasibility studies of the Anaconda portions of the site. EPA divided the site into manageable operable units (OUs) that each require their own investigation and cleanup strategy: Site-Wide Groundwater (OU-1), Pit Lake (OU-2), Process Areas (OU-3), Evaporation Ponds/Sulfide Tailings (OU-4), Waste Rock Areas (OU-5), Oxide Tailings (OU-6), and Wabuska Drain (OU-7). EPA concurrently conducted a “fund-lead” remedial investigation and feasibility study for the Arimetco operated portions of the site, designated as OU-8.
+
+Under the 2007 EPA Order, ARC submitted the following documents to EPA: Site-Wide Quality Assurance Project Plan (covering the general sampling and analytical procedures to be used during the investigations), a Site-Wide Health and Safety Plan (addressing the health and safety procedures for on-site workers), a Site-Wide Data Management Plan, a Site-Wide Conceptual Site Model, a Site-Wide Groundwater Work Plan (OU-1), a Process Areas Work Plan (OU-3) and a Pit Lake(OU-2) Work Plan.
+
+**OU-1 Groundwater**
+
+A series of groundwater monitoring wells were installed from 2008 to 2013 and were monitored regularly. Existing domestic wells were routinely monitored as well. Affected households were provided bottled water until the City of Yerington extended the municipal water system to the affected area.
+
+The final OU-1 Groundwater RI report was issued on April 15, 2020. The report identified the constituents of concern to be acidity, Total Dissolved Solids, sulfate, metals and uranium, and it estimated the extent of mine-related impacts to the groundwater aquifer. In the shallow zone of the aquifer, the report shows the area where there is high confidence that the pollutants are from the mine, and it shows the area where there is lower confidence that the pollutants are from the mine. Based on this report, a Feasibility Study will be conducted that examines ways to clean-up the contamination. The Feasibility Study is scheduled to be initially presented in Spring 2022.
+
+As mentioned in the section above entitled, “ *What has been done to clean the site?*”, bottled water had been provided to residents impacted by the groundwater contamination so they would not be drinking contaminated water. The City of Yerington extended its municipal water system to serve the residences affected by the groundwater contamination from the mine. The Yerington Paiute Tribe’s drinking water treatment system is located outside of the area impacted by groundwater contamination from the mine. However, the Tribe’s treatment plant was enhanced to remove naturally occurring contaminants from the water.
+
+**OU-2 Pit Lake**
+
+From September 2018 to August 2019, field sampling was conducted in the pit lake. The draft RI report was issued on October 2, 2020.
+
+**OU-3 Process Area**
+
+In 2005, ARC completed initial soil and groundwater sampling in the Process Areas and installed new monitoring wells at 15 locations. Furthermore, ARC completed an initial radiation survey focusing on on-site worker exposure limited to work areas in 2004 and 2005. EPA conducted an additional radiation survey of the process areas in the summer of 2007. *See Initial Actions section above.*
+
+ARC provided the results of the 2004-2005 soil and groundwater sampling in the Data Summary Report for Process Areas Soils Investigation and the Data Summary Report for Process Areas Groundwater Conditions. Samples were analyzed for metals, radiochemicals, total petroleum hydrocarbons (TPH), volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs), herbicides, and pesticides. ARC summarized the results and identified additional sampling locations in the Draft Process Areas OU-3 Remedial Investigation Work Plan, which was provided to EPA in 2007.
+
+ARC started geophysical investigations of the Process Area in 2010 to identify subsurface utilities (i.e., pipes, dry wells, etc.), which may be ongoing sources of contamination at the site. The geophysical investigations continued through 2011.
+
+On November 28, 2016, the final RI report for the OU-3 Process Areas was issued, and in March 2020 the final risk assessment documents were issued.
+
+**OU-4 Evaporation Ponds/Sulfide Tailings**
+
+EPA and ARC conducted activities to address the wildlife and fugitive dust threats in OU-4 (described above in the contaminants and risks section). ARC implemented a Work Plan for Characterization of the Inactive Evaporation Ponds in September and October 2008 and initiated a Wildlife Mitigation Plan for the pumpback collection ponds at the same time.
+
+The evaporation pond portion of this operable unit was termed "OU-4a" and was sampled from June to August 2016. The final RI report for OU-4a was issued in 2019. The draft risk assessment was issued on November 2, 2020.
+
+The sulfide tailings portion of this operable unit was termed "OU-4b" and was investigated in a joint investigation with OU-5 and OU-6.
+
+**OU-4b Sulfide Tailings, OU-5 Waste Rock, OU-6 Oxide Tailings**
+
+The sulfide tailings, waste rock area and oxide tailings were investigated in a combined effort. In 2019 and 2020 sulfide tailings were sampled. There are three waste rock areas, termed "W-3," "S-23" and "SWRA (South Waste Rock Area)." The W-3 and S-23 areas were investigated as part of the OU-8 "peripheral areas" investigation, for which field sampling was conducted in the fall of 2018 and reported in the OU-8 Peripheral Areas RI report dated April 9, 2020. Sampling within the SWRA area took place in 2019 and 2020. The oxide tailings had been sampled in previous field investigation efforts and no further sampling was conducted therein. The draft RI report for these investigation was issued October 19, 2020.
+
+**OU-7 Wabuska Drain**
+
+In 2016, ARC performed the initial phase of field sampling for OU-7, the Wabuska Drain Operable Unit. Sampling was conducted within the first 1.5 miles of the current and former Drain locations. In 2017, under a grant from EPA, the Yerington Paiute Tribe conducted field sampling within and surrounding the Wabuska Drain within their Reservation boundaries. In 2018, EPA conducted field sampling within the Walker River and Weber Reservoir within the boundaries of the Walker River Paiute Tribe Reservation.
+
+June 2020, ARC issued the final RI report for the initial "Phase 1" investigation area that it had sampled in 2016. In November 2020, EPA issued the RI report for the Walker River and Weber Reservoir investigation. EPA will be conducting sampling of fish, waterfowl and plant tissue during 2021 as a supplement to the Walker River - Weber Reservoir investigation. Also in 2021, EPA will conduct additional soil and/or sediment sampling on the Yerington Paiute Tribe Reservation. If needed, feasibility studies for the two Indian Reservations will then be conducted in 2022.
+
+**OU-8 Arimetco**
+
+EPA completed the Public Review Draft of the Arimetco Remedial Investigation Report in July 2008 and asked for public input on the report. In 2009, EPA conducted supplemental investigations to evaluate groundwater, soils and processing facilities at Arimetco. The final RI report was issued September 1, 2011. EPA started an evaluation of cleanup alternatives in 2010.
+
+In 2011, EPA completed the Draft Feasibility Study for the Arimetco Heap Leach Pads and Drain-Down Fluids accepting pubic comments after its release.
+
+October 2016 the Feasibility Study was completed.
+
+November 16, 2016, the associated Proposed Plan was issued with a 30-day public comment period held through December 21, 2016, and the Record of Decision being issued on July 24, 2017.
+
+**Additional Studies**
+
+EPA conducted a radiation survey of the mine site and surrounding areas in April 2005.
+
+### Emergency Response and Removal
+
+***Prior to 2000***
+
+Nevada Division Environmental Protection (NDEP) issued a Finding of Violation to Atlantic Ritchfield Company (ARC) for the groundwater pollution in 1982. A second Violation was issued in 1985 and required the installation and monitoring of an interception “pumpback” well system designed to contain the groundwater contamination plume. ARC initially installed five pumpback wells on the northern end of the site from 1985 to 1986. An additional six pumpback wells were installed in 1998. The eleven wells pump contaminated water from the plume into three lined evaporation ponds located on the northern portion of the site. The purpose of this system is to prevent shallow groundwater from contaminating private and municipal drinking water wells in Yerington and the local community. The system was meant to also stop contamination from reaching the Walker River via the Wabuska Drain. The system was shut down in 2009 to allow for characterization of groundwater conditions. The wells were subsequently used only for testing and monitoring as part of the groundwater operable unit investigation.
+
+***2000-2005***
+
+NDEP assumed maintenance of the site in 2000 and performed emergency removals at the site from 2001 until 2003.
+
+***2005-2011***
+
+In 2006, EPA performed emergency response actions to: mitigate dust from blowing off the site, remove PCB containing transformers, and repair and upgrade leaking Arimetco fluid collection ponds. In late 2006, EPA conducted a radiological removal assessment in the Process Area during the summer of 2007 and completed a report of the survey in August 2008. EPA completed an agreement with ARC in April 2009 for ARC to conduct additional characterization and removal of the radiological materials in the Process Area that pose a threat to on-site workers; ARC removed over 6,000 tons of soil contaminated with radiological materials in late 2010.
+
+In the summer of 2007, EPA conducted assessments of the Arimetco heap leach fluids management system ponds to determine the scope of additional removals that may be needed, and an investigation of the Arimetco Heap Leach Pads. In the fall of 2007, EPA conducted a permanent removal of another leaking Arimetco pond and recommended additional removals as funding becomes available. EPA conducted additional removals of inactive leach ponds, and repairs of active ponds in September and October 2008. This included removal of soil contaminated with kerosene at the Arimetco processing facilities and bioremediation treatment of the soil.
+
+EPA and ARC signed an agreement in April 2009 requiring completion of the following interim removal projects: evaporation ponds capping, removal of radiological materials in the process areas, removal of transite/asbestos pipe, and abatement of electrical hazards. EPA approved work plans for the removal of radiological materials in the process areas, removal of transite/asbestos containing pipe, and abatement of electrical hazards. All three removal actions were completed in 2010. In addition, EPA approved a work plan for capping of the thumb pond and a small area of the Process Area (referred to as Sub-Area A); ARC completed the capping project in 2010.
+
+In 2010, EPA completed the following short-term response actions: removal of asbestos from the Anaconda Mine office and off-site disposal of the asbestos containing material; demolition of the mine office and on-site landfilling of the demolition debris; radiological screening and off-site disposal of more than 300 large truck tires; repair of the heap leach fluids management system; and removal of small containers of hazardous waste left on-site.
+
+### Enforcement Information
+
+**Potentially Responsible Parties**
+
+Atlantic Richfield Company (ARC): ARC an oil company, was formed by the 1966 merger of East Coast-based Atlantic Refining and California-based Richfield Petroleum. Since 2000, ARC has been a subsidiary of British Petroleum (BP), and is officially known as BP West Coast Products LLC. ARC merged with Anaconda Copper Mining Company (ACM) of Montana in 1977. ACM/ARC owned at the Anaconda Yerington Mine from 1941 to 1982.
+
+Don Tibbals: In 1982, local citizens Don and Joy Tibbals purchased the Mine property from ARC. Mr. Tibbals conducted some mining operations and leased portions of the property until 1988. Mr. Tibbals also developed a series of residential parcels toward the exterior of the site, known as Weed Heights.
+
+Arimetco: Arimetco, also known as Arizona Metals Company, based out of Tucson, AZ, bought the property from Mr. Tibbals in 1988. Arimetco then built additional facilities and operated at the mine until 2000 after filing for bankruptcy in 1997. Assets owned by Arimetco are currently managed by the bankruptcy court.
+
+Unison Transformer Services: Unison Transformers leased a portion of the property from Arimetco and operated for a few years in the 1990s to collect, crack and recycle transformers. Its operation left a discrete area contaminated with polychlorinated biphenyls (PCBs).
+
+**Enforcement Documents**
+
+03/31/05 Unilateral Administrative Order for Initial Response Activities, Doc. ID number: 2005-0011: EPA issued a Unilateral Administrative Order (UAO) for Initial Response Actions to ARC in March 2005. The Order required ARC to: improve site security, update the health and safety plan for on-site workers, implement air monitoring, conduct a radiation survey on and off the site, continue operating the groundwater pumpback well system and Arimetco heap leach fluids management system, prepare Operations and Maintenance (O&M) Plans, continue ongoing investigations of the Process Areas, sample domestic wells for contaminants, supply bottled water to residents, and implement a groundwater study. EPA terminated this Order on February 5, 2018.
+
+01/12/07 Administrative Order for Remedial Investigation and Feasibility Study, Doc. ID number: 2007-0005: EPA issued a second Order to ARC in January 2007 requiring remedial investigations and feasibility studies of the Anaconda portions of the site. EPA terminated this Order on February 5, 2018.
+
+06/12/08 Administrative Settlement Agreement for Response Costs and Technical Assistance Plan, Doc. ID number: 2008-0005. EPA and ARC terminated this agreement on February 5, 2018.
+
+08/05/08 Request for a Time-Critical Removal Action at the Anaconda Yerington Mine Site, Yerington, Lyon County, Nevada. Memorandum from Dunkelman (EPA) to Montgomery (EPA).
+
+04/21/09 Administrative Order on Consent And Settlement Agreement For Removal Action And Past Response Costs, Doc. ID number: 2009-0010: EPA and ARC signed an agreement in April 2009 requiring an update to the Pumpback Well System and Evaporation Ponds O&M Manual, and the completion of the following interim removal projects: evaporation ponds capping, removal of radiological materials in the process areas, removal of transite/asbestos pipe, and abatement of electrical hazards. EPA and ARC terminated this agreement on February 5, 2018.
+
+07/16/12 Settlement Agreement and Order on Consent for Removal Action by Bona Fide Prospective Purchaser Pursuant to the Comprehensive Environmental Response, Compensation, and Liability Act, 42 U.S.C. 9604, 9606, 9607, 9622. Signed by Singatse Peak Services and EPA.
+
+02/05/18 Interim Administrative Order on Consent. NDEP and ARC signed an agreement in February 2018 whereby ARC agreed to complete the remaining RI/FS work at all the operable units, for areas outside of Tribal Lands. EPA remains the lead for performing necessary RI/FS work on Tribal Lands. In the NDEP-ARC agreement, ARC also agreed to conduct all design and construction work specified by the OU-8 Record of Decision.
+
+02/05/18 Administrative Settlement Agreement and Order on Consent. EPA and ARC signed this agreement in February 2018, resolving ARC's outstanding past costs for $3 million.

@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 100-acre Mid-America Tanning Company site is located near Sergeant Bluff, Iowa. The site was operated as a leather tannery from 1970 to 1989.In 1973, the plant began using a chrome tanning process. The process wastewater treatment system produced a sludge that was high in chromium and contained other chemicals.Ultimate disposal of the sludge was by burial in unlined, on-site trenches and land application to on-site soils.When the facility ceased operations in 1989, there was an estimated 5,000 gallons of chromium tanning solution on-site, along with over 500 gallons of sulfuric acid.
+
+The site is located in an industrial park area, while the surrounding land use is primarily agricultural.The Missouri River is approximately 1.5 miles southwest of the site.Groundwater at the site is currently not used for drinking water.
+
+Following cleanup, the U.S. Environmental Protection Agency removed the site from the Superfund National Priorities List (NPL) in 2004.Operation, maintenance and monitoring of the cleanup remedy are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party actions. The Iowa Department of Natural Resources has assumed responsibility for operation and maintenance activities at the site.
+
+The EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews evaluate whether the selected remedies protect human health and the environment and function as intended by site decision documents. The most recent review conducted in 2023 concluded that response actions at the site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health. Ongoing monitoring and inspections will ensure the long-term protectiveness of the remedy.
+
+### What Is the Current Site Status?
+
+The EPA listed the site on the NPL in 1989. Because of imminent health threats, the EPA initiated a Removal Action in 1990 to excavate and stockpile contaminated sludge from the burial trenches and to contain and treat waste chromium tanning solutions and other liquid process wastes. In 1991, the EPA conducted an investigation of the nature and extent of contamination at the site, and in September 1991, decided on a cleanup plan which was documented in a Record of Decision. The cleanup plan included on-site stabilization of contaminated wastes followed by installation of a soil cap and continued groundwater monitoring.
+
+After the EPA discovered the potential for hydrogen sulfide gas on site, an amendment to the 1991 ROD was issued in 1996.The amended ROD included dewatering waste burial areas, excavating contaminated soils and combining them with contaminated sludge, capping the burial areas and decontaminating various structures at the facility.The remedial action was completed in July 2000.The site was deleted from the NPL in 2004. Inspections and maintenance activities verify protectiveness of the remedy.
+
+In 2005, the EPA was notified that a release had occurred at the site.A reported 100,000 gallons of waste was released from on-site burial areas.A second release of approximately 50,000 gallons of a material containing hydrogen sulfide was also noted. The EPA subsequently determined that the release originated from a 10-inch pipe located near the burial area.The pipe was then plugged and capped.
+
+Due to the 2005 release, the EPA took additional actions to reduce the potential for exposure to hazardous substances at the site.The actions included solidifying the contents of the burial area followed by capping with a clay cover.This was completed in June 2007.
+
+The EPA is evaluating cleanup progress at the site. The EPA conducts reviews of site activities at least every five years. The next Five-Year Review is scheduled for 2028.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+There are deed restrictions on this site. The current property owner is using the property for tree debris.
+
+### Sampling and Monitoring
+
+Risks and pathways addressed by the cleanup include health risks from people ingesting or touching contaminants in soil or sludge and water in the lagoons. The EPA’s 2013 Five-Year Review concluded that the remedy was functioning as intended and would protect individuals from direct contact with hexavalent chromium in the soil.There were no potable groundwater wells in the affected area noted in the review; therefore, there were no exposures to groundwater associated with the site.Based on land use at the site, it was determined that future residential groundwater use is highly unlikely. The 2013 Review concluded that an ecological risk assessment should be conducted to evaluate potential risks to ecological receptors.
+
+### Emergency Response and Removal
+
+Cleanup has also included Removal Actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1990, the EPA excavated about 1,300 cubic yards of contaminated soil and sludge from on-site burial pits. In 1995, a potentially responsible party completed the removal of drum wastes, cleaned two buildings and secured other buildings on the site.

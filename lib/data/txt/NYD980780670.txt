@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Byron Barrel & Drum site is located in Genesee County, New York. The site is about 2 acres of an 8-acre property off Transit Road in a rural area..
+
+The site is bordered by heavily wooded areas and farmland. Surface water drains to Oak Orchard Creek, which is about1/2 mile of the site. The property lies within 2 miles of a residential area. Approximately 20 people draw drinking water from wells within 1 mile of the site. Testing of residential wells near the site dhas not shown any site-related contaminants to be present.
+
+This site is being addressed through a combination of federal and potentially responsible party actions.
+
+The site was used as a salvage yard for heavy construction equipment..In 1982, it was revealed that the site had been used for hazardous waste disposal. Approximately 200 drums of solid and liquid chemical wastes were abandoned on the site without any spill control or containment provisions. Over 200 additional drums were ripped open or crushed, mixed with soil, and covered over. Other drums were disposed of in a ravine. Testing by the New York State Department of Environmental Conservation showed hazardous substances, including polychlorinated biphenyls, in many of the drums.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed in two stages: emergency actions and a long-term remedial phase focused on cleanup of the entire site.
+
+Emergency Actions: In 1984, EPA removed approximately 400 drums and 64 tons of contaminated soils and debris from the site and disposed of them at an EPA-approved facility. EPA installed a monitoring well, sampled soils, and tested nearby private wells. In 1990, during an EPA site inspection, 10 additional drums were found and disposed of at an EPA-approved disposal facility.
+
+Cleanup of the contaminated soils finished in 2002.
+
+Long-Term Cleanup: In 1989, following the completion of a remedial investigation and feasibility study to determine the nature and extent of contamination and to evaluate remedial alternatives, EPA selected a remedy in a Record of Decision, or ROD. It included extracting contaminated water by pumping, evaporating volatile groundwater contaminants from the extracted groundwater by air stripping, decontaminating the collected vapors with activated carbon, and reinjecting the treated groundwater into the ground to flush contaminants from the subsurface soil. Because sampling data found that contaminant concentrations in the groundwater in one area of the site were only marginally above cleanup levels and that the levels of inorganic contaminants in the surface soil in another area were consistent with background concentrations, EPA concluded in the ROD that action in those areas was not warranted.
+
+To enhance the cleanup of contaminated soil, EPA modfied the remedy to include an infiltration gallery, consisting of perforated pipe and gravel. It was installed after several feet of contaminated soil were dug up and transported off-site for treatment and disposal. EPA documented this change in a 2000 Explanation of Significant Differences.
+
+The soil flushing remedy started in June 2000.
+
+  
+.
+
+### What Is the Current Site Status?
+
+The ROD called for, among other things, extraction and treatment of the contaminated groundwater to restore it to levels consistent with state and federal standards. Following six years of groundwater extraction and treatment, contaminant concentrations reached asymptotic levels. The extraction and treatment system was then turned off to perform a treatability study to assess the viability of using bioremediation to enhance the removal of the contaminants in the groundwater. As part of the treatability study, conducted from 2007 to 2009, emulsified vegetable oil (EVO) and zero valent iron were injected into the impacted groundwater to evaluate means of facilitating the bioremediation of the contaminants in the groundwater. Unfortunately, the EVO compound used in the injections interfered with the analytical instruments used in the laboratory to assess samples. It, therefore, initially appeared that there was a reduction in groundwater contamination the samples had to be diluted and higher detection limits had to be used. This resulted in the data being reported with detection limits that were above the groundwater quality standards, restricting the evaluation of off-site migration and remedy performance. EVO injections were suspended and groundwater samples were collected in 2012 and 2013 from on- and off-property monitoring wells. A workplan for a pilot study using carbon substrate injections instead of EVO is under preparation.
+
+Five-year reviews are conducted to ensure that remedies that are put in place protect public health and the environment and function as intended by site decision documents. Five-year reviews were condcuted in September 2007, September 2014, June 2017, and March 2022. The most recent five-year review concluded that the remedy at the site protects human health and the environment in the short-term. For the remedy  
+to be protective in the long-term, active administration and evaluation of carbon substrate injections needs to be performed. continue. It is anticipated that the next five-year review will be completed in March 2027.

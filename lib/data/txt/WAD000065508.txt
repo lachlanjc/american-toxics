@@ -1,3 +1,33 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The Kaiser Aluminum Company produced aluminum at the Mead site for more than 50 years. Waste handling practices from the 1940s to the late 1970s led to cyanide and fluoride contamination in part of the Spokane-Rathdrum Prairie Aquifer and the Little Spokane River. The groundwater plume is 145 feet below ground, 800 – 1500 feet wide, and travels approximately 2.5 miles to the Little Spokane River. It then discharges into a series of springs.
+
+A number of activities have already taken place to address the problem.
+
+- In the late 1970s, Kaiser provided alternate water supplies for property owners whose wells were contaminated. The county put restrictions on constructing new wells in the area.
+- Wastes remaining on site were covered with an asphalt cap to keep rain and snow from leaching more contamination into groundwater.
+- Other potential sources of contamination were investigated.
+
+While these steps have helped control the risk posed by the site, groundwater monitoring shows that levels of contamination in the groundwater have not declined as quickly as expected. Even though no one is drinking the groundwater, and there is no immediate risk to people, additional actions are underway.
+
+This a State-Lead NPL site. The work is conducted by the Washington Department of Ecology. Ecology's website for this work:
+
+- [Kaiser Mead National Priorities List (NPL) Site Groundwater Cleanup](https://apps.ecology.wa.gov/gsp/Sitepage.aspx?csid=2901)
+
+### What Has Been Done to Clean Up the Site?
+
+In 1978, sampling detected cyanide and fluoride in several private drinking water wells northwest of the site. Cyanide and fluoride also contaminated an aquifer that supplies water to the Little Spokane River. Kaiser Aluminum went bankrupt in 2004 and a Public Custodial Trust was established through the bankruptcy to take title to the property and manage cleanup activities.
+
+The site is being addressed through state and potentially responsible party (PRP) actions.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy includes consolidation and capping of contaminated soil; repair of stormwater and sanitary sewer lines; groundwater extraction and treatment; institutional controls; and long-term monitoring and cap maintenance. Remedy construction began in 2000 and is ongoing.  
+
+### Sampling and Monitoring
+
+Groundwater monitoring is conducted at this site by the Washington Department of Ecology.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1979 included construction of an alternative water supply to residents with contaminated wells, construction of an asphalt cap to keep precipitation from seeping through the source of contamination (potliner waste piles) and halting the on-site disposal of waste potliners.

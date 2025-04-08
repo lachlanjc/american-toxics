@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Applied Materials site is located in a light industrial and commercial area in Santa Clara, California. A large industrial building occupies most of the site. The facility has manufactured equipment for the fabrication of semiconductor wafers from 1974 to the present. During the 1970s, volatile organic compounds (VOCs) were used as industrial solvents for cleaning and degreasing. Acids, caustics and other chemicals were also in use at the facility. Facility operations led to groundwater contamination. After construction of the site’s remedy, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. Currently, all monitoring data show that contaminant concentrations continue to decrease, with an institutional control in place to restrict the use of groundwater as a drinking water source. EPA recommended continuation of annual monitoring in the four remaining wells.  
+
+### What Is the Current Site Status?
+
+**Initial Actions**
+
+In 1984, Applied Materials installed a system to pump and treat contaminated groundwater. The system consists of three extraction wells, an extraction pit and a dual-column air stripper. In 1985, underground storage tanks and some of the surrounding soil were excavated, and an excavation pit was built. In addition, a downgradient extraction well and a second deep monitoring well were installed to determine the extent of contaminant migration. When the groundwater treatment plant was operating, treated groundwater was discharged to a storm drain system, which flows into San Tomas Aquino Creek and South San Francisco Bay.
+
+**Remedy Selected**
+
+*Soil:* In 1990, under the direction of the San Francisco Regional Water Quality Control Board, the potentially responsible parties (PRPs) began a study of the hazards posed by contaminated soil beneath the manufacturing facility. In 1993, it was determined the surface soils are not contaminated and that the saturated soils under the building would be cleaned through the groundwater remedy.
+
+**Cleanup Ongoing**
+
+*Groundwater:* Under state supervision, Applied Materials completed an investigation into the extent of groundwater and soil contamination at the site. In 1990, EPA chose to continue using the existing pump-and-treat system, installed in 1984, to remove contaminants from the groundwater. Groundwater extraction began in 1985 and continued through 2002. The pump-and-treat system shut down in 2002. Chemical attenuation and plume stability monitoring is ongoing.  
+
+**Cleanup Progress**
+
+Construction of all cleanup remedies is complete. Groundwater extraction began in 1985 and continued through December 2002 when the extraction system was discontinued due to declining contaminant concentrations. Since 2002, monitoring of the plume stability and chemical attenuation processes have continued.

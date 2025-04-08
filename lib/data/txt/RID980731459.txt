@@ -1,2 +1,11 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 58-acre Davis (GSR) Landfill site includes a 21-acre inactive landfill located in the Towns of Glocester and Smithfield, RI. Between 1974 and 1976, the landfill, which was privately owned and licensed by the State to accept municipal wastes, accepted wastes from Glocester, Smithfield, Warwick, and Providence. In 1978, the State declined to renew the landfill's license because the facility had violated numerous rules and regulations for operating solid waste management facilities. Numerous legal actions to close the landfill ensued, and the State Supreme Court ruled in favor of the State in 1982, at which time the landfill became inactive. However, the landfill was never properly capped or stabilized. The State found both surface water and groundwater contamination on-site. Approximately 200 residents who use private water wells live within a 1-mile radius; there are approximately 4,700 people within a 3-mile radius using private wells.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA completed a Remedial Investigation (RI) at this former municipal landfill in the Fall of 1994. EPA's investigations revealed that groundwater had levels of manganese and arsenic that migrated beyond the boundaries of the landfill. There was some indication that future risk to human health could occur if persons were to drink the groundwater beneath the landfill immediately adjacent to the waste boundary, over a 70-year lifetime. After public hearings and receiving public comment in the Fall of 1997, EPA issued a Record of Decision (ROD) recommending that monitoring of residential wells in the nearby vicinity of the site continues on an annual schedule and that no further active remedial action was needed at the site. In September 1997, EPA announced its decision that no further cleanup action was needed at the site. EPA and the State agreed to continue to monitor the site for any potential future risks, and revisit the no-action decision if conditions at the site changed.
+
+### What Is the Current Site Status?
+
+In August 1999, the site was deleted from the National Priorities List (NPL). Since then, EPA and the State have conducted five rounds of residential well testing near the site and found no site-related contamination in private residential wells located down gradient from the site. In September 2002, EPA issued a discretionary Five-Year Review report which determined that the No Action decision in the 1997 ROD remained protective of human health and the environment. No additional Five-Year Reviews are planned for this site in the future, and no future cleanup actions are anticipated.

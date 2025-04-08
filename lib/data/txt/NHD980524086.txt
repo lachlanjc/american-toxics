@@ -1,2 +1,123 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Auburn Road Landfill in Londonderry, New Hampshire, consists of three disposal areas covering approximately 12-acres in total, all of them within a groundwater management zone (GMZ) established by the New Hampshire Department of Environmental Services (NHDES). The Site boundaries can be viewed [here](https://semspub.epa.gov/src/document/01/100024540).
+
+The three former disposal areas include:
+
+- Former Londonderry Town Dump, which operated during the 1960s and was used for the disposal of over 1,000 drums of chemical waste
+- Tire disposal area, where tires and demolition debris and several hundred drums of chemical waste were dumped
+- Solid waste landfill, the largest disposal area
+
+The State ordered the solid waste landfill closed in 1980 after hazardous wastes were identified in the soil, and toxic organic substances were found in surface water and groundwater.
+
+In 1986, EPA determined that contaminated ground water was flowing off-site toward drinking water supply wells at the Whispering Pines Mobile Home Park, and potentially towards other private residential wells in the area. The area surrounding the landfill is residential and commercial; 300 homes and 270 mobile homes within a 1-mile radius primarily used groundwater for drinking water until municipal water was supplied in 1987.
+
+About 1,000 people live within three miles of the Site. Two unnamed streams drain from the Site and flow into Cohas Brook, which empties into the Merrimack River. A former seepage lagoon, northeast of the solid waste landfill, was excavated and disposed of within the solid waste landfill by the town before 1996. Drums of chemical waste were removed from all three disposal areas from 1986 to 1988.
+
+After a preliminary site assessment and hydrogeologic investigation, EPA proposed listing the Site on the Superfund program’s National Priorities List (NPL) in December 1982. EPA finalized the Site’s listing on the NPL in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through federal, municipal, and potentially responsible party actions.
+
+Cleanup was addressed in four stages: initial actions and three long-term remedial phases focusing on providing a municipal water supply, cleaning the groundwater contamination, and capping the site.
+
+The Federal Emergency Management Agency temporarily relocated 17 families in early 1986. At the same time, EPA excavated about 1,900 drums in three locations and then restored two of the excavated areas. Drums were consolidated, covered, sampled, and sent off-site for disposal. Between 1987 and 1988, the owner fenced the four disposal areas and posted warning signs. In 1988, EPA excavated an additional 316 drums from the tire dump area.
+
+In late 1987, the Town of Londonderry extended the current water service provided by the Manchester Water Works to 17 homes along Auburn Road and 260 mobile homes in the Whispering Pines Mobile Home Park. In 1989, EPA called for the collection of contaminated groundwater through a series of extraction wells.
+
+The [cleanup plan formalized in 1989](https://semspub.epa.gov/src/document/01/14706) also specified that a multi-layer cap be placed over the solid waste area, the town dump area, and the tire dump area to reduce the spread of contaminants into groundwater. The Town of Londonderry finished building the multi-layer caps in 1996. The cleanup plan originally called for landfill capping and pumping and treating of groundwater, but because of the decline in volatile organic compound concentrations, a revised plan called for monitored natural attenuation as an interim remedy.
+
+A final settlement was reached in 1999 with potentially responsible parties for payment of past and future response costs and any future remedial actions.
+
+In 2002, EPA issued the third [Five-Year Review](https://semspub.epa.gov/src/document/01/35324) [report](http://semspub.epa.gov/src/document/01/35324) and found the water line and the capping of the disposal areas to be protective of human health and the environment. EPA determined that the monitored natural attenuation groundwater remedy for arsenic was protective of human health and the environment in the short-term. For the groundwater remedy to be protective in long-term, it would be necessary to increase hydraulic and contaminant monitoring in groundwater and surface water, and to increase maintenance of drainage structures near the landfills.
+
+In 2007, the EPA issued the fourth [Five Year Review](https://semspub.epa.gov/src/document/01/278310) [report](http://semspub.epa.gov/src/document/01/278310) and confirmed that both the remedy associated with the water supply line and the capping of disposal areas were protective of human health and the environment. It also determined that the groundwater remedy (natural attenuation of arsenic) was protective of human health and the environment in the short-term. For it to be protective in the long-term and to achieve the new Maximum Contaminant Level for arsenic of 10 parts per billion, the monitoring program (amongst other issues) needed to be modified to better assess water levels and geochemical conditions in the aquifer, and previous modeling efforts needed to be updated to determine a more accurate estimate of cleanup times.
+
+In 2009, an arsenic modeling report was submitted by the Auburn Road Performing Parties Group (ARPPG) to evaluate surface water/groundwater interactions in the vicinity of Whispering Pines Pond and to evaluate the monitored natural attenuation remedy and alternative groundwater response actions to achieve and maintain performance standards. The ARPPG concluded that most of the dissolved arsenic detected at the Site is derived from the reductive dissolution of naturally occurring arsenic that is present in Site soils and that monitored natural attenuation is working at the Site. The model also updated the predicted cleanup times for arsenic at the Site estimating more than 50 years for the overburden wells and under 45 years for bedrock wells to achieve the cleanup goals.
+
+In 2012, the EPA issued the fifth [Five Year Review](https://semspub.epa.gov/src/document/01/522040) [report](http://semspub.epa.gov/src/document/01/522040). It confirmed that the remedy protects human health and the environment in the short-term because:
+
+- Installation of a municipal water supply provides drinking water to residences in the affected area
+- Implementation of institutional controls through establishment of a Groundwater Management Zone provides notice on groundwater use restrictions at and near the Site.
+
+However, it found that arsenic concentrations have not reached the interim cleanup level of 10 parts per billion, for remedy to be protective in the long-term, the following actions needed to be taken:
+
+- Schedule a meeting between EPA., NHDES, ARPPG, and the United States Geological Survey to discuss the required follow-up actions necessary to expedite the time to reach groundwater cleanup levels, and further investigate groundwater interactions with nearby surface waters/sediments
+- Expand the institutional control (GMZ) boundary north of Auburn Road,
+- Gather additional volatile organic compound data from the Site to reassess the potential vapor intrusion pathway, and achievement of interim cleanup levels.
+
+Follow up action (a) was completed in 2013. EPA met with the ARPPG, the USGS and the NHDES to discuss required follow up actions to address the identified data gaps of a USGS study to evaluate arsenic mobility at the Site. Per discussions in that meeting, Weston Solutions, Inc. (WESTON®), on behalf of the ARPPG, developed a Supplemental Investigation Work Plan on 9/4/2014. The Supplemental Hydrogeological Investigation (SI) was implemented to address certain data gaps identified in the USGS study and its results were published in 2017.
+
+Follow up action (b) was completed in 2012. In order to address the issue of the detection of arsenic in groundwater above the NHDES ambient groundwater quality standards of 10 parts ber billion outside of the GMZ boundary at shallow piezometer CB-1, WESTON, on behalf of the ARPPG, submitted an application for expansion of the GMZ and a renewal of the NHDES Groundwater Management Permit (GMP) on 10/29/2012. The renewed GMP was issued on 12/13/2012 and expanded the GMZ to incorporate shallow piezometer CB-1.
+
+Follow up action (c) was completed in 2017. A vapor intrustion study performed as part of the supplemental investigationconfirmed that while certain compounds (e.g., Trichloroethylene in MW-102A) exceed their Target Hazard Quotient for Non-Carcinogens, the vapor intrustion pathway remains incomplete. No inhabited buildings are located within 100 ft of monitoring locations that exceed their Target Hazard Quotient for Carcinogens or Target Hazard Quotient for Non-Carcinogens. If inhabited buildings were to be constructed on-site within 100 ft of monitoring location MW-102A, a further evaluation of risk and appropriate mitigation measures would be warranted. Further, the Town of Londonderry is required to monitor landfill gas, including volatile organic compounds, as part of their Source Control Operations and Maintenance Plan and according to the most recently submitted reports, only low detections of volatile organic compounds have been observed in some of the passive venting monitoring locations.
+
+In 2017, EPA issued the sixth [Five Year Review report](https://semspub.epa.gov/src/document/01/606181). The report concluded that the remedy protects human health and the environment in the short-term because: (a) installation of a municipal water supply currently provides drinking water to residents in the affected area, and (b) implementation of institutional controls through establishment of a Groundwater Management Zone currently provides notice on groundwater use restrictions at the Site. However, for the remedy to be protective in the long-term, the following actions need to be taken to ensure protectiveness:
+
+• Perform an evaluation to estimate the time it will now take to achieve interim cleanup levels at the Site, and if the levels can ever be achieved given these conditions. Opportunities for improving remedy performance through optimization or the implementation of a change to the remedy may need to be considered as anticipated in the Amended Record of Decision and the Consent Decree
+
+• Sample groundwater at the Site and analyze for 1,4-dioxane and perflourinated compounds to determine if these contaminants are present and pose an unacceptable risk
+
+• Collect one round of landfill gas vent monitoring during each monitoring cycle during winter conditions.
+
+The recommended sampling of groundwater was completed on March 1st, 2022. Sampling and analysis for 1,4-dioxane took place in 2017, 2018, 2019, 2020, and 2021, while sampling and analysis for per- and polyfluroalkyl substances (PFAS) took place, in 2018, 2019, 2020 and 2021. Both contaminants were determined to be present at the Site.
+
+All 1,4-dioxane detections were observed within the Groundwater Management Zone with a maximum concentration of 9.22 micrograms per liter (µg/L), which is above the NH Ambient Groundwater Quality Standards, but within EPA’s acceptable risk range (2 x 10-5). Since institutional controls are in place, which restrict use of groundwater and the maximum concentration is within EPA's acceptable risk range, EPA concluded that the remedy remains protective of human health and the environment because there is no completed exposure pathway to this contaminant.
+
+The data for groundwater showed that there were exceedances of PFOA and PFOS, two types of PFAS compounds. Some of these exceedances were observed at monitoring well MW-210B, an overburden well that lies immediately outside and downgradient from the Groundwater Management Zone boundary. Further assessment of PFAS in this area was determined to be needed to fully delineate the extent of the PFAS plume and determine whether the Groundwater Management Zone boundary needs to be modified. However, the remedy was deemed protective because there was no one known to be drinking impacted groundwater, and institutional controls were in place restricting groundwater use.
+
+The recommended collection of one round of landfill gas vent monitoring during each monitoring cycle during winter conditions was completed on April 3, 2020. The Town completed a round of landfill gas vent monitoring in October 2019 (non-frozen conditions) and in February 2020 (frozen conditions).
+
+Soil gas monitoring was conducted in October 2019, February 2020, September 2021, and February 2022. During the October 2019 soil gas monitoring, hydrogen sulfide gases were recorded at all gas vents. However, during the February 2020 soil gas round, hydrogen sulfide was recorded only at one gas vent (GV- 9).
+
+Soil gas parameters were measured during the 2021 inspection period (September 2021 and February 2022 events). During the September 2021 soil gas monitoring, hydrogen sulfide gases were recorded at gas vents GV-6, GV-8, SV-9, and GV-10 ranging from 1.0 part per million to 19.0 parts per million. However, no hydrogen sulfide was detected in any gas vent during the February 2022 soil gas round. The monitoring of soil gas parameters will continue with this frequency to include frozen and non-frozen conditions.
+
+The recommendation to perform an evaluation to estimate the time it will now take to achieve interim cleanup levels at the Site, and if the levels can ever be achieved given these conditions is ongoing. Conversations and additional studies are ongoing to determine how best to improve remedy performance.
+
+In 2022, EPA issued the seventhj [Five-Year Review report](https://semspub.epa.gov/src/document/01/100021892). EPA concluded that the sitewide remedy protects human health and the environment in the short term because the municipal water supply provides drinking water to residences in the affected area, and institutional controls prohibit groundwater and land use. For the remedy to be protective in the long term, the following actions need to be taken:
+
+- Evaluate the need for expanding the boundaries of the GMZ. The permittee should provide recommendations to correct the violation to the Agencies.
+- Conduct inspections to ensure that institutional controls have been complied with.
+- Consider opportunities for improving remedy performance through optimization of the remedy or additional remedial actions.
+- Develop a plan describing the investigatory actions that will be taken to determine if a Site related problem exists and if so, the magnitude of that problem. EPA will use the results of those investigatory actions to determine if additional sampling or remedial action is necessary.
+- Continue to monitor PFAS in site groundwater and other media, as needed. Based on those results, EPA will determine if PFAS should be a site contaminant of concern.
+- Repair the existing fence and add additional fencing to fully enclose the disposal areas. Perform annual groundwater level monitoring during the spring and an evaluation of the groundwater and waste elevations.
+
+### What Is the Current Site Status?
+
+EPA, the Federal Emergency Management Agency, and the Town of Londonderry have acted to protect area residents from site contamination by relocating affected populations, erecting a fence to restrict site access, providing a safe water supply, and removing manyf drums containing contaminants. The existing landfill caps are also reducing the further spread of contamination as natural attenuation processes are slowly working to clean up groundwater at the site.
+
+EPA has conducted seven [five-year reviews](http://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101137&doc=Y&colid=32695&region=01&type=SC) of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+Continued protectiveness of the remedy requires groundwater institutional controls throughout the groundwater plume both on and off-site.
+
+It is anticipated that EPA will start the eighth Five-Year Review report in January 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict the use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment, and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
+
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101137&doc=Y&colid=31703).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits, and easements. ICs are normally used when waste is left on site and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain on site (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
+
+### Sampling and Monitoring
+
+See [Technical Reports and Studies](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101137&doc=Y&colid=32694&region=01&type=SC)
+
+### Enforcement Information
+
+On 8/31/1990, EPA issued an Administrative Order to two groups of potentially responsible parties (PRPs) to implement the remedies. The Administrative Order directed the Town to conduct the source control component of the remedy, which was to cap the landfills and perform drainage improvements to minimize the contact of groundwater with waste materials in the landfills. In 1994, each disposal area was capped with modified RCRA Type C caps. The second half of the Administrative Order directed the Auburn Road Performing Party Group (ARPPG) to conduct the migration mitigation component of the remedy that included the design and building of a groundwater treatment plant. In 1991, the PRPs began the pre-design investigation to support the future construction of the groundwater pump and treat facility; however, subsequent groundwater data led to the suspension of these activities. By 1995 only one well (MW-102A) was still exceeding the cleanup levels set for VOCs and it was noted that arsenic was the only contaminant in groundwater that posed a risk off-site. The revised response action selected by EPA and presented in the 12/19/1996 Amended Record of Decision (1996 AROD) was a monitored natural attenuation remedy.
+
+On 11/22/1999, EPA signed a Consent Decree (1999 CD) for the monitoring of groundwater, surface water, and sediments, but bound the ARPPG to perform a Remedial Action, if necessary.

@@ -1,3 +1,63 @@
-,  
-  Cleanup Activities 
-Superfund Home | Superfund Site Search | Superfund Glossary
+### Background
+
+The Quendall Terminals Superfund site is on the southeastern shore of Lake Washington, near the I-405 exit 7. Creosote was manufactured at the Quendall Terminals site from 1916 through 1969. Coal and oil-gas tar residues (called coal tars) were distilled into three fractions that were shipped off the site or transported to the neighboring J.H. Baxter & Co. for use in wood-treating operations. Between 1969 and 1983, the site was used to store crude oil, waste oil, and diesel. From 1975 to 2009, it was used as a log-sorting and storage yard.
+
+EPA added the site to the Superfund National Priorities List in 2006. The site is currently vacant and fenced to prevent public access.
+
+**Contamination at the Quendall Terminals site**
+
+Quendall Terminals was contaminated by releases of coal tars and distillate products from transport, production, storage, and disposal. Soil in the uplands and sediments on the lake bottom are both contaminated.
+
+The upland portion of the site covers about 22 acres, including nearly 1,500 feet of Lake Washington Shoreline. The upland soils are contaminated with oily creosote and coal tars found in thick liquid form (dense nonaqueous phase liquid or DNAPL). Soil and sediment containing DNAPL have been defined by EPA as principal threat wastes. Contaminants leach out of this thick liquid into the groundwater.
+
+The offshore portion of the site extending into Lake Washington covers about 29 acres. Spills contaminated shallow sediment with oily creosote and coal tars. Creosote and coal tars are present in deeper sediment along the shoreline where it has moved from the uplands. The groundwater from the uplands also spreads the contamination into the nearby lake sediments where people and aquatic life can be exposed to it.
+
+Altino Properties and J. H. Baxter & Company, two of the Responsible Parties for the site, conducted a remedial investigation and feasibility study (RI/FS) to better understand the type and amount of contamination and develop a cleanup plan.
+
+**Proposed cleanup plans were issued in the fall of 2019**
+
+EPA held a 60-day public comment period for the Quendall Terminals Superfund Site Cleanup Proposed Plans. Comments were accepted from September 9, 2019 through November 8, 2019. Final decisions on the cleanups were made only after public comments were considered. Comments were all considered equally. The comments and a summary of EPA’s response to the comments are in the Record of Decision Part 3, Responsiveness Summary.
+
+The Proposed Plans, a fact sheet explaining our preferred cleanup plans, our Community Involvement Plan, and other [documents about our work at the site are available in the link to Site Documents & Data](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=1000875).
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and PRP actions.  
+
+### What Is the Current Site Status?
+
+Creosote is a thick, oily liquid distilled from coal tar containing hundreds of chemicals, including benzene, naphthalene, and carcinogenic polycyclic aromatic hydrocarbons (cPAH), such as benzo(a)pyrene. Creosote was the primary product manufactured at the site.
+
+In 1997, Quendall completed a remedial investigation (RI), a risk assessment and a focused feasibility study (FS) under the oversight of the Washington Department of Ecology (Ecology). No removal actions have taken place to date.
+
+In May 2005, Ecology requested that EPA take the lead for overseeing the cleanup at the site. In 2006, EPA requested that the site’s potentially responsible parties (PRPs) complete a second RI and FS to fill in site data gaps. Quendall completed the remedial investigation in 2012, and the feasibility study was final in 2017.
+
+In July of 2020, after considering all comments received during the comment period for the Proposed Plan for cleanup, EPA issued the final cleanup plan, also known as the Record Of Decision (ROD) for the Quendall Terminals Superfund site.
+
+- Cleanup plan: [Record of Decision: Quendall Terminals Superfund Site (PDF)](https://semspub.epa.gov/src/document/10/100255708) (247 pp, 11.7 MB)
+- Fact sheet: [EPA Issues Cleanup Decision for Quendall Terminals Superfund Site (PDF)](https://semspub.epa.gov/src/document/10/100255278) (4 pp, 1.68 MB)
+
+The cleanup plan for the upland portion of the site will include smoldering combustion, in-situ solidification, and soil capping and will cost approximately $66 million. Cleanup of the contaminated in-water portion of the site includes dredging, an engineered sand cap, and enhanced natural recovery and will cost approximately $40 million. Both estimates include the cost of monitoring the remedy to ensure it is effective for 100 years.
+
+The Pre-Remedial Design Study is on its way to completion, and work at the site will transition into Remedial Design under a [new Administrative Settlement Agreement and Order on Consent (ASAOC)](https://semspub.epa.gov/src/document/10/100572939).
+
+On September 6, 2024, EPA signed an [ASAOC](https://semspub.epa.gov/src/document/10/100572939) for Remedial Design with BNSF Railway Company, Puget Sound Energy, and the State of Washington. The document can be found under the “Site Documents & Data” link of the left side bar.
+
+As a recap, the Pre-Remedial Design Study occurred in a few phases since the [Record of Decision](https://semspub.epa.gov/src/document/10/100255708) was signed in July 2020. Additional groundwater sampling was done in the fall 2020 and additional sampling of soil and sediment was completed in the spring through fall of 2021. The following activities took place in 2021:
+
+- Vegetation was cleared from around areas where samples were collected and testing was performed.
+- Temporary road construction was completed to allow access to the sampling locations.
+- Utility lines were located and cleared in the upland portion of the site.
+- A bathymetry survey (a survey that measures the contours of the bottom of the lake) was completed in the in-water portion of the site along the Lake Washington shoreline.
+- Starting at the end of June 2021, the sampling crews drilled soil cores in the upland portion of the site as part of the Pilot Study phase of the Pre-Remedial Design Study.
+- In July 2021, samples were collected in Lake Washington from a barge and along the shoreline.
+- At the end of July through September 2021, the upland Full-Scale Characterization phase of the Pre-Remedial Design Study was completed. This included more soil borings and data collection.
+- The field work season was then extended from September until mid-November 2021. As data was collected, we realized that we needed to expand the footprint of the sampling locations to ensure that the extent and location of contamination was accurately characterized; hence the need for the extension of the field work season.
+
+Data collected during the 2021 field season was evaluated in the winter of 2021 and the spring of 2022 and used to refine our understanding of the location and extent of the creosote-type contamination at the site. This information was compiled in a draft Pre-Remedial Design Study report that was submitted to EPA for review at the end of June 2022. EPA is using this information to define where each cleanup technology identified in the [Record of Decision](https://semspub.epa.gov/src/document/10/100255708) will be applied within the site.
+
+During EPA’s review of the draft report and in consultation with the Responsible Parties, it was decided that some additional soil core collection would further refine our understanding of the site geology and contaminant distribution. The Responsible Parties completed an additional sampling effort in October-December 2022. EPA reviewed the data from the soil cores collected at the end of 2022. These results were added to the draft Pre-Remedial Design Study report and will be used to develop the engineering cleanup design that is the next step in the process. EPA received the draft Pre-Remedial Design Study report and is working with the Responsible Parties to finalize the report.
+
+The Responsible Parties also chose to use the soil cores collected in 2022 for a treatability study for the In Situ Stabilization technology (one of the two technologies identified in the ROD). They submitted a draft work plan for this study to EPA in the spring of 2023 and presented some preliminary results to EPA in February 2024. EPA received a draft report for this treatability study in May 2024 and received the final report on September 6, 2024. This treatability study will help expedite Remedial Design for the areas of the site where In Situ Stabilization will be used.
+
+The Pre-Remedial Design Study work is being conducted by Geosyntec Consultants, Inc., on behalf of the BNSF Railway Company, Puget Sound Energy, Inc., Altino Properties, Inc., J.H. Baxter & Co, and Lake Washington East, L.L.C. (Quendall Terminals, L.L.C. recently changed its name and is now operating under the name of Lake Washington East, L.L.C.), with oversight by EPA.

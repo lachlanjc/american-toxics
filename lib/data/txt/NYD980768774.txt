@@ -1,2 +1,30 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Preferred Plating Corporation (PPC) site is located in Farmingdale, New York. PPC used the.75-acre property for metal plating operations from 1951 until 1976, when the company filed for bankruptcy. Operations conducted at the facility resulted in the contamination of soil and groundwater with hazardous chemicals. Remediation activities were conducted; long-term groundwater monitoring is ongoing.
+
+PPC used the area for metal plating operations from 1951 until 1976, when the company filed for bankruptcy. Primary activities at the site included chemically treating metal parts to increase their corrosion resistance and to provide them with a more cohesive base for painting. The plating processes included degreasing, cleaning and surface finishing of metal parts. These processes involved the use of various chemicals, including solvents, and resulted in the generation, storage and disposal of hazardous waste. Untreated wastewater, produced by rinsing the metal parts between each process, was discharged to four concrete leaching pits behind the original building. The leaching pits were severely cracked and were leaking, allowing the industrial wastewater to seep into the groundwater. The site property was subsequently sold. In 1982, the new owner backfilled the leaching pits and placed a building over them. An automobile repair shop and other businesses now occupy the site.
+
+After site investigations, EPA placed the site on the Superfund program’s National Priorities List in June 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+On-site Soils: EPA selected the remedy for site soils in the site’s September 1992 Record of Decision, or ROD. It included on-site excavation and off-site treatment and disposal of soils contaminated with heavy metals and low levels of organics. Cleanup started in April 1994 and finished in May 1994. About 1,500 tons of contaminated soils and sediments were removed from the source area.  
+
+Groundwater Contamination: EPA installed eight on-site wells and two off-site wells to determine the nature and extent of groundwater contamination at the site. EPA selected the site’s groundwater remedy in the site’s 1989 ROD. It consisted of pumping up contaminated groundwater for treatment and subsequent recharge into the groundwater. Construction of the remedy was delayed to allow for the removal of the source area underlying the on-site building. Restricted on-site space could not accommodate simultaneous construction activities.  
+After remediation of the source area finished in May 1994, groundwater sampling indicated that contaminant levels had declined significantly. EPA chose to continue monitoring groundwater to evaluate whether the groundwater quality would continue to improve after removal of the source. Sampling in May 1995 and August 1996 indicated a continued decrease in contaminant levels. In September 1997, EPA updated the ROD with a no further action/natural attenuation amendment to address the low levels of cadmium still present in the groundwater. As part of the 1997 ROD amendment, annual groundwater monitoring will be conducted to demonstrate that the amended remedy remains protective.  
+
+Further sampling conducted annually from 1998 to 2005 continued to show a steady decline in cadmium concentrations. Ongoing annual groundwater monitoring continues to show the presence of cadmium at levels above MCLs. In 2007 and 2008, EPA did several things to assess the presence of cadmium in groundwater. Soil sampling took place in September 2007. Additional groundwater monitoring wells were installed at and downgradient of the site. EPA sampled these new wells, along with the pre-existing groundwater monitoring wells associated with the site, in February 2008. An evaluation of this groundwater monitoring data does reflect the presence of cadmium in the groundwater above MCLs, but the higher cadmium concentrations were restricted to a specific area.  
+
+Upgradient Groundwater: A remedial investigation found that levels of contaminants detected in groundwater upgradient of the site did not pose a significant threat to human health or the environment and that remediation of upgradient groundwater was not appropriate. EPA issued a “no action” ROD in September 1993.  
+
+EPA has conducted several five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. Each of the reviews concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.  
+  
+
+### What Is the Current Site Status?
+
+The site has been addressed in two long-term remedial phases focused on on-site soils and on-site groundwater.
+
+The excavation and off-site disposal of approximately 1,500 tons of contaminated soils/sediments from the source area was completed in May 1994. This action significantly reduced the potential for contaminants to leach into the groundwater.  
+Groundwater sampling conducted annually from 1998 - 2005 continued to show a steady decline in cadmium concentrations. In 2007 and 2008, the EPA performed additional investigatory activities including soil sampling, the installation of additional groundwater monitoring wells, and additional groundwater monitoring.
+
+Following cleanup, long-term groundwater monitoring is ongoing.

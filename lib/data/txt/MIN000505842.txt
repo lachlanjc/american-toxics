@@ -1,2 +1,11 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Michner Plating-Mechanic Street site is located in Jackson, Jackson County, Michigan, adjacent to the Grand River. The site consists of four buildings within four-acres in a mixed residential and commercial portion of the city of Jackson. The site is a former metal plating facility which operated from 1938 until 2007. The state issued numerous violation notices to the facility beginning in 1989 and nearly every year until it ceased operations in 2007.
+
+The state of Michigan referred the site to the EPA because of the extensive contamination left in place at the Michner Plating facility. Contamination at the site includes solvents, arsenic, hexavalent chromium, and high concentrations of Volatile Organic Compounds (VOCs) including vinyl chloride. In addition, per- and poly-fluoroalkyl substances (PFAS) have been detected in groundwater beneath the site. EPA has removed approximately 1,100 drums and hundreds of 55-gallon totes, but buried drums remain beneath the building slab. The site is currently owned by Jackson County, which intends to redevelop the property for productive use after cleanup.
+
+On March 17, 2022, EPA announced the addition of the Michner Plating – Mechanic Street site to the NPL. More information about [Superfund and the NPL](http://www.epa.gov/superfund).
+
+### Emergency Response and Removal
+
+As of 2016, EPA’s removal program removed approximately 1,100 drums and hundreds of 55-gallon totes. Buried drums remain beneath the building slab. [Information about the removal](https://response.epa.gov/site/site_profile.aspx?site_id=11146).

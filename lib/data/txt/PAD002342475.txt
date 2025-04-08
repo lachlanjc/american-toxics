@@ -1,25 +1,6 @@
-Superfund Information Systems: Site Profile
-
-#### On this page:
-
-- [Background](#bkground)
-- [What Has Been Done to Clean Up the Site?](#Done)
-- [What Is the Current Site Status?](#Status)
-- [Activity and Use Limitations](#Limits)
-- [Emergency Response and Removal](#Emergency)
-
-#### On related pages:
-
-- [Operable Units](../SiteProfiles/index.cfm?fuseaction=second.ous&id=0300579)
-- [Cleanup Progress](../SiteProfiles/index.cfm?fuseaction=second.schedule&id=0300579)
-
----
-
 ### Background
 
 The 87-acre North Penn – Area 2 site is located in Hatfield in Montgomery County, Pennsylvania. From 1963 to 1986, a former Ametek facility manufactured precision springs, reels and measuring and controlling apparatus, and used up to 4,500 gallons of trichloroethylene (TCE) per week as a degreasing solvent. Historical operations at the former Ametek facility contaminated soil and groundwater with hazardous chemicals. In 1986, the North Penn Water Authority detected TCE and other volatile organic compounds (VOCs) in on-site and downgradient wells. Following cleanup, operation and maintenance activities are ongoing.
-
----
 
 ### What Has Been Done to Clean Up the Site?
 
@@ -33,8 +14,6 @@ At the former Ametek facility, Ametek treated and/or removed contaminated soil i
 
 The Final Design was approved in January 2012 and construction of the remedy took place in the spring and early summer of 2012. The main components of the remedial action were soil and sediment removal, and the continuing operation of a groundwater pump and treat system.
 
----
-
 ### What Is the Current Site Status?
 
 EPA is overseeing the cleanup of the North Penn Area 2 site, which is being carried out by the potentially responsible party (PRP) for the contamination. The PRP, Ametek, agreed to investigate groundwater, soil, and sediment contamination which is summarized in the Remedial Investigation Report (RI). The PRPs also produced a Feasibility Study (FS) which identifies options to remediate the contamination. EPA approved the RI and FS in April 2005 and a proposed cleanup plan was issued for public comment in September 2007. EPA issued a Record of Decision (ROD) selecting the cleanup in May 2009. The final Remedial Design was approved in January 2012 and construction of the remedy took place in the spring and early summer of 2012. The main components of the remedial action were soil and sediment removal, and the continuing operation of a groundwater pump and treat system.
@@ -43,8 +22,6 @@ EPA conducts five-year reviews of the site’s remedy. These reviews ensure that
 
 The next five-year review is scheduled to be completed by May 2027.
 
----
-
 ### Activity and Use Limitations
 
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
@@ -52,8 +29,6 @@ At this site, activity and use limitations that EPA calls institutional controls
 For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
 
 Institutional controls are currently in place to protect the restored wetland, restrict future land use to commercial/industrial uses, and to prohibit any activity that could interfere with the operation of the groundwater recovery or treatment system. Additional information about the institutional controls is available in the [2022 Five-Year Review (pages 10-11)](https://semspub.epa.gov/work/03/2329113.pdf#page=10).
-
----
 
 ### Emergency Response and Removal
 

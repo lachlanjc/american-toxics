@@ -1,2 +1,83 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 15-acre Sigmon's Septic Tank Service [Superfund](http://www.epa.gov/superfund) Site is located on Eufola Road, five miles southwest of Statesville in Iredell County, North Carolina. The Site includes a 1.25-acre pond that served as a former borrow pit, several structures, six above-ground storage tanks containing liquid wastes, and a stockpile. Eufola Road borders the site to the north. Lauren Drive borders the Site to the south. Residential properties border the Site to the east and west. This Site's broader surroundings include residential land uses as well as undeveloped and agricultural land. The Catawba River is 1.5 miles southwest of the Site.
+
+From 1978 until 1992, a septic waste storage facility operations disposed septic waste in unlined lagoons. Currently, the Site is not in use. The Site can support industrial use.
+
+The U.S. Environmental Protection Agency placed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2005 because of contaminated groundwater and soil resulting from facility operations. the EPA and the [North Carolina Department of Environmental Quality (NCDEQ, formerly the North Carolina Department of Environment and Natural Resources or NCDENR)](https://deq.nc.gov/) have investigated site conditions and taken steps to clean up the Site in order to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near this Site. The EPA and NCDEQ continue to protect people and the environment from Site contamination by monitoring groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA leads Site investigation and cleanup activities in cooperation with NCDEQ.
+
+Site investigations and cleanup activities have focused on two areas, which the EPA refers to as operable units, or OUs. These areas include:
+
+- OU-1: contaminated soil
+- OU-2: contaminated groundwater
+
+The Site’s long-term remedy for contaminated soil requires digging it up and disposing of it in an off-site landfill.
+
+The Site’s long-term remedy for groundwater requires monitored natural attenuation.
+
+**1995**  
+The EPA dug up septic wastes and placed them in a stockpile.
+
+**2006**  
+The EPA conducted a non-time-critical removal action at the Site. Activities included installing filters on private drinking water wells and providing bottled water to residents potentially affected by contaminated groundwater.
+
+**2007 – 2008**  
+The EPA conducted the remedial investigation/feasibility study for the Site.
+
+**2009**  
+The EPA removed 2,700 tons of contaminated soil and began the monitored natural attenuation program to address contaminated groundwater.
+
+The EPA also completed cleanup activities and issued a Preliminary Close-Out Report for the Site. The EPA received $902,000 in American Recovery and Reinvestment Act (ARRA) funds to complete site cleanup activities. The use of ARRA funds provided investment in the local community, supplying short-term work to an estimated 125 dump truck operators.
+
+**2010**  
+The EPA recognized the site as the first Superfund SSite with cleanup activities completed using ARRA funds in the nation. The EPA will continue to regularly monitor ite groundwater.
+
+**2018**  
+The first Five-Year Review was completed in 2018.
+
+- OU-1 - The remedy at OU-1 is protective of human health and the environment. All contamination identified in the OU-1 ROD amendment has been removed from the Site.
+- OU-2 - The remedy is protective because construction activities are complete, the remedy is functioning as intended, all human and ecological risks are currently under control and are anticipated to be under control in the future through use of governmental institutional controls. North Carolina’s statutes governing private groundwater use and well construction provide sufficient protections to prevent inadvertent ingestion of and exposure to contaminated groundwater.
+
+**2019**
+
+The sitewide RAU was signed on June 27, 2019.
+
+**2023**
+
+The most recent [Five Year Review report](https://semspub.epa.gov/src/document/04/11189782) was published in 2023. The Sitewide Protectiveness Status is currently protective.
+
+All contamination identified in OU 1 ROD was removed from the Site.
+
+For OU 2, the remedy is protective because:
+
+- construction activities are complete
+- the remedy is functioning as intended
+- all human and ecological risks are currently under control and anticipated to be under control in the future
+
+### What Is the Current Site Status?
+
+The long-term response action period for the groundwater restoration remedy is now complete; and, the NC DEQ is now responsible for implementing the groundwater monitoring program until the cleanup levels have been achieved.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+North Carolina’s statutes governing private groundwater use and well construction provided sufficient protection to prevent inadvertent ingestions and exposure to contaminated groundwater.
+
+### Sampling and Monitoring
+
+Monitored natural attenuation is ongoing and all groundwater sampling activities are being performed by NC DEQ on a biennial schedule.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA is using federal funds for Site cleanup activities.

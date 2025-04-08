@@ -1,2 +1,77 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 10-acre Hewlett-Packard Page Mill Road Site (California’s “HP Page Mill Road Site”), manufactured optical electronics equipment from October 1962 to December 1986. In addition to the former manufacturing facility, the site includes a portion of the nearby residential and commercial neighborhoods located over the groundwater contaminant plume associated with the site\[MB1\].
+
+In 1981, a 1,000-gallon underground tank was found to be leaking volatile organic chemicals (VOCs) into soil and groundwater beneath the site.
+
+In 1990, the site was added to the National Priorities List (known as the “Superfund List”) due to its contaminated soil and groundwater.
+
+In 1992, site redevelopment activities began:
+
+- buildings were demolished;
+- a multi-story office building was constructed with an engineered vapor intrusion barrier; and
+- a ventilated underground parking garage was constructed.
+
+The site is managed by the California’s San Francisco Bay Regional Water Quality Control Board (RWQCB). The RWQCB manages this site along with two other former manufacturing sites that contributed contaminants to the groundwater plume. These are the former Varian facility at 601 California Avenue and the former HP facility at 395 Page Mill Road. A comingled groundwater plume generally extends to the northeast about one-half mile of the combined site.
+
+EPA-identified potentially responsible parties (PRPs) are paying for the cleanup of the combined site.
+
+### What Has Been Done to Clean Up the Site?
+
+1986-1995
+
+Interim actions:
+
+- Excavation and off-site disposal of approximately 10,700 cubic yards of soil.
+- Soil vapor extraction and treatment.
+- Groundwater extraction and treatment.
+
+In 1995, a Record of Decision (ROD) was issued for the site which determined the remedy (comprising several remedial actions). Remedial action objectives specified that the remedy needed to:
+
+- Return groundwater to its beneficial uses (clean it to drinking water standards);
+- Control the movement of contaminated groundwater; and
+- Clean or remove soil so that it is not a continuing source of contaminants to groundwater.
+
+Remedial actions:
+
+- Soil vapor extraction and treatment.
+- An expanded groundwater extraction and treatment system to control movement of VOCs in groundwater and return it to drinking water standards.
+- Groundwater monitoring and annual reporting of monitoring results.
+- Institutional Controls prohibiting use of the groundwater until cleanup standards are met.
+
+At this site, activity and use limitations that EPA calls “institutional controls” are in place. Institutional controls play important roles in site remedies, reducing the potential for contaminant exposure by limiting land or resource use and guiding human behavior. In this case, institutional controls prevent land uses – such as the use of groundwater – that are not consistent with the level of cleanup.
+
+2010-2017
+
+Additional remedial actions:
+
+- Additional characterization of impacted groundwater.
+- (2012-2015) Indoor air testing for intrusion of VOC vapors into residential and commercial buildings.
+- Installation of a ventilation system in one underground electrical service room\[MB1\].
+
+Air testing results from vapor intrusion investigations showed elevated levels of trichloroethylene (TCE) in some sub-grade commercial buildings (specifically, in elevator shafts and underground parking garages). Unhealthy levels of vapors were not detected in homes or regularly occupied workspaces.
+
+### What Is the Current Site Status?
+
+Site cleanup is ongoing and results show:
+
+- remedial actions have limited the movement of VOCs in groundwater;
+- VOC levels in groundwater have decreased;
+- groundwater monitoring is still necessary; and
+- potential for vapor intrusion needs to be monitored.
+
+In addition, a program to address remaining areas with higher levels of VOCs in groundwater was implemented. This process involves in-place bioremediation to break down the VOCs using helpful microscopic organisms (microbes) to reduce groundwater concentrations in source areas at 640 Page Mill Road and 611 California Avenue. The process involves injecting microbes to break down VOCs into less harmful components.
+
+An agreement among the City of Palo Alto, State Lands Division Clearinghouse, and RWQCB established a mechanism for reviewing new building construction within the combined site area managed by the RWQCB. In some cases, new building construction must include provisions to prevent vapors from migrating from soil and groundwater beneath the site into proposed new buildings. This remedy will remain in place to protect site users from potential vapor intrusion hazards until VOC levels are protective of health.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The use of groundwater beneath the site is prohibited without additional cleanup.
+
+### Sampling and Monitoring
+
+Groundwater extracted by the treatment system is sampled on a monthly basis. Groundwater in wells at the site is sampled on an annual basis.

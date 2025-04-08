@@ -1,2 +1,120 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 140-acre Para-Chem Southern, Inc., Superfund site is located at 863 SE Main Street in Simpsonville, Greenville County, South Carolina. Para-Chem began operating the facility in 1965. Groundwater contamination is present at the site but has not migrated (spread) beyond the property boundary. Nearby residential areas are not affected by site contamination.
+
+Para-Chem (now Royal Adhesives & Sealants, a subsidiary of H.B. Fuller Company) produces acrylic polymers, thickeners, latex coatings and adhesives for consumer and industrial applications. In 1985, the company notified the EPA and [South Carolina Department of Health and Environmental Control (SCDHEC)](https://www.scdhec.gov/) about areas where industrial waste burial occurred between 1975 and 1979. Operators also discharged wastewater into two unlined ponds on site. Disposal practices and two 3,000-gallon spills led to the contamination of surface water, soil, sludge and groundwater.
+
+Operations were transferred to Royal Adhesives and Sealants, LLC (Royal) in 2010. In 2017, H.B. Fuller Company acquired Royal and currently operates the facility. H.B. Fuller is responsible for conducting and financing sampling and cleanup activities required under [CERCLA](https://www.epa.gov/superfund/superfund-cercla-overview). EPA and the SCDHEC oversee these activities.
+
+The EPA included the site on the Superfund [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1990 due to contaminated groundwater, soil and surface water resulting from past waste disposal practices at the facility. By removing or treating contaminated soil and sludge, treating and monitoring groundwater, placing institutional controls on the site property, and undertaking Five-Year Reviews, the EPA, SCDHEC and the [responsible party](http://www.epa.gov/superfund/superfund-glossary#p) continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects the on-site facility to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+H.B. Fuller Company is the responsible party and leads site investigation and cleanup activities, with oversight provided by the EPA and SCDHEC.
+
+**1980s**
+In response to groundwater contamination, an initial groundwater extraction treatment system was installed in the late 1980s. The above-ground treatment system treated extracted groundwater in an air stripper to remove volatile organic compounds. Treated water was initially discharged to the local publicly owned treatment works. The treated water is currently discharged to an onsite pond, and from there to an intermittent stream managed under a National Pollution Discharge Elimination System (NPDES) permit.
+
+**1987**
+Prior to the inclusion on the National Priorities List (NPL), approximately 3,000 tons of drums, waste, soil, and debris were removed from four former waste burial areas in 1987.
+
+**1993**
+In 1993, the EPA issued a cleanup plan (a [Record of Decision](https://semspub.epa.gov/work/04/10558152.pdf), or ROD) for the site. The plan required excavation of contaminated sludge and subsurface soil with subsequent biological treatment or transportation to a waste disposal facility of the excavated material; extraction of contaminated groundwater; and treatment of contaminated groundwater using [air stripping](https://semspub.epa.gov/work/HQ/158702.pdf) to remove organic contaminants, with additional treatment as necessary, for discharge to a local publicly owned treatment works.
+
+**1994**
+The groundwater extraction and treatment system was expanded to comply with the ROD.
+
+**1995**
+Additional extraction wells were added from 1995 to 1997 to enhance contaminant extraction and capture.
+
+**1996**
+In 1996, Para-Chem removed an additional 18,607 tons of contaminated waste from the site. Para-Chem completed upgrades to the site’s existing groundwater extraction and treatment system in 1998.
+
+Pursuant to the ROD, removal of additional contaminated sludges/soils from the lagoon and settling basin area was completed in 1996. No biological treatment of the removed sludge was performed. The contaminated materials were disposed at an appropriate offsite facility.
+
+**1999**
+The EPA issued an [amendment to the ROD](https://semspub.epa.gov/work/04/61737.pdf) to address two additional areas of contamination. The amended cleanup plan required a [soil-vapor extraction system](https://semspub.epa.gov/work/HQ/189976.pdf) to address contaminated soils in the H-400 area; modification of the soil performance standards for the H-400 area; and expansion of the groundwater recovery system to include groundwater recovery and treatment surrounding the MW-22 area. The soil-vapor extraction system required under the 1999 ROD Amendment was installed in early 2000 and was started on July 24, 2000. Operation continued for approximately 10 months and terminated on May 18, 2001.
+
+**2000-2001**
+In 2000 and 2001, Para-Chem conducted additional construction and installed additional wells. The soil vapor extraction system operated during 2000 and 2001 until soil met site cleanup goals.
+
+**2006-2007**
+In 2006 and 2007, Para-Chem made operational changes to the groundwater extraction and treatment system.
+
+**2010**
+The site’s second Five-Year Review found that the groundwater extraction and treatment system continues to remove and treat contaminated groundwater. The Five-Year Review also recommended that the responsible party conduct additional investigation work to confirm the system’s effectiveness in reaching groundwater cleanup goals.
+
+Nine issues were identified that may affect the protectiveness of the remedy. The main issues included:
+
+- adding Institutional Controls (ICs) to prevent drinking water wells from being installed in the area of contamination;
+- assessing the vapor intrusion pathway for future construction in the plume area;
+- modifying the existing groundwater extraction system to operate with greater efficiency;
+- addressing remaining source materials (sludge) left in place at Lagoon No.1;
+- calculating the exposure risk for 1,4-dioxane and tetrahydrofuran (THF); and
+- adding 1,4-dioxane, THF, and vinyl chloride to the contaminants of concern (COCs).
+
+All nine issues were addressed and resolved by June 2015.
+
+**2012-2015**
+Several improvements were made to the groundwater extraction and treatment system, including replacing plumbing and pumps, adding an automated monitoring system, sealing an onsite pond, changing the treated water discharge point, and adding a chemical oxidation process to the existing treatment system. Royal also excavated additional potential source material and evaluated options for additional remedy optimization.
+
+**2014**
+In 2014, the pond was lined with a specialty polymer to address potential leakage and hydraulic influence of the pond on the aquifer. Effluent from the pond was then hard-piped to the unnamed tributary of Durbin Creek in order address the potential of reintroduction of treated water into the recovery system.
+
+**2015**
+The site’s third Five-Year Review found that the remedy currently protects human health and the environment. It identified five issues be addressed for the remedy to be protective in the long term. The recommendations included:
+
+- update the remedial goal for 1,1-dichloroethane;
+- add vinyl chloride, 1,1-dioxane and tetrahydrofuran to the list of contaminants of concern through a site decision document;
+- update the remedial goal for arsenic to reflect the current primary drinking water standard;
+- include the isomers of 1,2-dichloroethene in the list of site contaminants of concern; and
+- document modifications to the groundwater treatment remedy in a site decision document.
+
+These recommendations were addressed in the [2019 Explanation of Significant Differences](https://semspub.epa.gov/work/04/11131969.pdf).
+
+**2018**
+Several recent activities have recently been completed or are currently underway:
+
+The groundwater treatment system has been modified to include oxidation treatment to eliminate 1,4-dioxane from treated groundwater.
+
+The on-site pond was sealed and the discharge point for treated groundwater has been changed from the pond to the creek (unnamed tributary to Durbin Creek).
+
+A direct push investigation has been completed and has resulted in the discovery of additional sources of contamination, including near and under the production facility.
+
+Capture of the groundwater plume has be verified.
+
+Several of the extraction wells have been repaired to eliminate air entrainment, and the jet pump system replaced with individual submersible pumps.
+
+Additional sampling has confirmed that no contamination exists east of the creek.
+
+Institutional controls (deed restrictions) are in place to ensure that all contaminated area is subject to groundwater and soil use restrictions. Deed restrictions were removed from areas that are not contaminated.
+
+Additional activities designed to improve the effectiveness of the groundwater remedy, including additional source removal, have been completed.
+
+A pilot study to determine the feasibility of [in-situ chemical oxidation (ISCO)](https://semspub.epa.gov/work/HQ/158711.pdf) to reduce the mass of contaminants in the subsurface was conducted, demonstrating that ISCO may be an effective enhancement to the groundwater remedy.
+
+### What Is the Current Site Status?
+
+The [forth Five-Year Review](https://semspub.epa.gov/src/document/04/11154884) was published by the EPA HQs in 2020. At this time, the remedy at the Para-Chem Southern Inc. site protects human health and the environment because highly contaminated sludge and soil have been excavated and removed, groundwater recovery and treatment continues to effectively reduce contaminant concentrations in groundwater and institutional controls have been implemented to restrict groundwater exposure pathways.
+
+The site’s PRP continues to conduct ground water extraction and treatment system operations, routine sampling and monitoring.
+
+On August 6, 2019, the EPA issued an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/work/04/11131969.pdf) to describe changes being made to the existing cleanup remedy. The EPA prepares an ESD when it determines that changes to the original selected remedy are significant, but do not fundamentally alter the selected remedy with respect to scope, performance, or cost. The following changes to the remedy are documented in the ESD for the Para-Chem Site:
+
+- Adding [In-Situ Chemical Oxidation (ISCO)](https://semspub.epa.gov/work/HQ/158711.pdf) to the remedy. ISCO will speed up the destruction of contaminants in the subsurface and will improve the effectiveness of the ongoing groundwater recovery and treatment system.
+- Update the groundwater cleanup levels (performance standards) to reflect current drinking water standards, as several of the original cleanup goals are out of date.
+- Update the list of Site contaminants of concern (COCs) to include 1,4-dioxane, add a cleanup level for tetrahydrofuran, and replaced total 1,2-dichloroethene with cis-1,2-dichloroethene.
+- Revise the groundwater treatment technology from a specific technology (air stripping) to a performance-based treatment technology. This will allow additional changes to groundwater treatment technologies that may become available in the future.
+- Document that treated water is discharged to an onsite pond and from there to the unnamed tributary of Big Durbin Creek under a National Pollution Discharge Elimination System Permit issued by the South Carolina Department of Environmental Control.
+
+### Sampling and Monitoring
+
+Regular sampling and system monitoring are conducted according the the revised Performance Standards Verification Plan (PSVP), which was approved by the EPA in February 2015. The EPA and SCDHEC provide oversight to H.B. Fuller Company's sampling and monitoring program. The 2018 Performance Monitoring Report and ISCO Pilot Test Completion Report was approved in July 2019.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s responsible party to investigate and clean up the site. The H.B. Fuller Company continues to fund site cleanup, monitoring and oversight activities.

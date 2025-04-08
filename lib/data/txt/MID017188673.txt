@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2.3-acre Barrels, Inc. site, is located in Lansing, Michigan. Barrels, Inc. began operating on the site in 1961 and continued until 1980, at which time the owner abandoned the site. Spills from drum reclamation processes and from a storage tank contaminated surface soils at the site.
+
+In 1986, the Michigan Department of Natural Resources (MDNR) removed approximately 1,000 drums, 1,000 cubic yards of contaminated soil, and nine underground storage tanks (USTs) from the site. MDNR subsequently conducted shallow soil sampling in 1987 and confirmed that soil was impacted by metals, volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs), polychlorinated biphenyls (PCBs), and cyanide.
+
+EPA proposed the site for inclusion on the National Priorities List (NPL) on January 22, 1987 and finalized the site on the NPL on October 4, 1989. The site was later designated as a State-lead enforcement site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. On March 1, 1993, the State of Michigan entered into a Consent Decree (CD) in Ingham County Circuit Court with 15 potentially responsible parties (PRPs) to conduct a Remedial Investigation (RI) and Feasibility Study (FS) and to develop a Remedial Action Plan (RAP) for the site.
+
+The Michigan Department of Environmental Quality (MDEQ) (formerly a part of MDNR) approved the PRPs’ Final RI Report in July 1995 and approved the PRPs’ Final FS Report in January 1996. The State-approved Final FS Report identified the selected remedial alternative for the site, which included hot spot removal of PCBs, tank cleaning, covering the site with an asphalt cover, storm water controls, groundwater monitoring, and institutional controls to ensure that use of the site remains industrial and that groundwater is not utilized.
+
+In April 1996, the PRPs submitted an initial draft RAP. Subsequently, several revisions were made to the draft RAP in response to comments from MDEQ. During the period from 1996 to 2006, MDEQ determined that groundwater contamination was not attributable to the site, but, rather, was due to an upgradient historical source, the former Motor Wheel Plant (MWP) site (MID005380134), and that the PRPs for the Barrels, Inc. site would not be responsible for remediating the contamination migrating onto the site and contaminating the site’s groundwater.
+
+In response, the PRPs submitted a revised version of the draft RAP in October 2006. This version of the RAP modified the original site-capping remedial alternative, which was intended to protect against leaching of contaminants from soil to groundwater, to include excavation and removal of all on-site soil containing contaminants above specified cleanup criteria.
+
+Because MDEQ had not given final approval of the draft RAP, in 2010 the PRPs, with the concurrence of the MDEQ, submitted an Interim Response Work Plan designed to address the soil contamination at the site by requiring removal of all soils to concentrations that would not require capping for contaminant leaching (Part 201 Residential Drinking Water Protection Criteria) and would allow for direct contact by industrial workers (Part 201 Non-Residential Direct Contact Criteria). The PRPs subsequently began an Interim Response Action (IRA) in December 2011 that included additional sampling and removal of soil exceeding specified cleanup criteria; decontamination and demolition of tanks, sumps, and unused structures; and removal and disposal of debris. The IRA was completed by the fall of 2012.
+
+### What Is the Current Site Status?
+
+The U.S. Environmental Protection Agency issued a [“No Further Action” Record of Decision (PDF)](https://semspub.epa.gov/work/05/962488.pdf) (39 pp,2.5MB, [About PDF](https://www.epa.gov/home/pdf-files) ) in December 2020 for the Barrels, Inc. Superfund site. EPA, working with the Michigan Department of Environment, Great Lakes, and Energy, or EGLE, chose no further action because previous cleanup actions have eliminated the need for further cleanup.
+
+The site was cleaned up to meet the limited non-residential cleanup criteria established in accordance with Part 201 of the Natural Resources and Environmental Protection Act (NREPA), Michigan Common Law 324.20120a(l)(d), except for two areas along an active CSXT railroad right-of-way (ROW) where the excavations could not be extended any further toward the railroad tracks because they could compromise the structural integrity of the tracks. To ensure future protectiveness, however, the owners of these parcels have executed restrictive covenants to limit use of their respective properties to non-residential land usage, prohibit the use of groundwater, and identify areas of residual contamination.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+### Emergency Response and Removal
+
+As noted above, cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions led by the State of Michigan in 1986 disposed of drums, contaminated soil, and underground storage tanks.

@@ -1,2 +1,80 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 1,065-acre Chemtronics [Superfund](http://www.epa.gov/superfund) site is located in rural Swannanoa, North Carolina. The Superfund portion encompasses 535 acres of this property. The Site is divided into two distinctly separate geographic areas commonly referred to as the Front Valley (FV) and the Back Valley (BV). The Unnamed Branch drains the FV and Gregg Branch drains the BV, both of these streams drain into Bee Tree Creek.
+
+The primary products manufactured on-Site were explosives, propellants, incapacitating agents, and a variety of specialty chemicals. Manufacturing activities occurred primarily in the FV, and material testing and waste disposal occurred primarily in the BV. Manufacturing, testing, and disposal activities occurred on less than 200 acres of the 535-acre Site and were primarily located in the southern portion of the Site. Most of the manufacturing activities were discontinued by the late 1980’s, and all manufacturing activities ceased in 1994.
+
+EPA placed the site on the Superfund Program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1983 because of contaminated groundwater and soil resulting from waste disposal practices.
+
+By treating and monitoring groundwater, addressing soil contamination, evaluating options for additional cleanup and conducting Five-Year Reviews, EPA, the [North Carolina Department of Natural Resources and Environment (NCDENR)](https://deq.nc.gov/), and the site’s [potentially responsible parties (PRPs](http://www.epa.gov/superfund/superfund-glossary#p) ) continue to protect people and the environment from site contamination. NCDENR is now called North Carolina Department of Environmental Quality (NCDEQ).
+
+The remedy at the Chemtronics Site protects human health and the environment in the short-term because the areas of soil contamination at the Site, where known waste disposal activity occurred, have been capped and fenced, which limits direct contact exposure, and there is no current exposure to contaminated groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s PRPs lead site investigation and cleanup activities, with oversight provided by EPA and NCDENR.
+
+**1980s – 2000s**  
+In the 1980s, investigators identified 23 on-site disposal areas. In the 2000s and working under the RCRA program, a number of RCRA solid waste management units (SWMUs) were identified that had unacceptable future risks to human health associated with them.
+
+**1991 – 1993**  
+Under a Unilateral Administrative Order, the site’s PRPs capped contaminated soil in the disposal areas.
+
+- Installed multi-layer caps on six disposal areas
+- Installed a gas venting system in the Acid Pit Disposal Area
+- Installed groundwater extraction and treatment system below the disposal areas in both valleys.
+
+**1995 – 1998**  
+The PRPs conducted the Superfund-related RI/FS at the site. The original [Record of Decision (ROD)](https://semspub.epa.gov/src/document/04/10451112) issued in 1988 selected the installation of a groundwater treatment system below the disposal areas in both the valleys, capping and stabilizing contaminated soil in the disposal areas, fencing the capped areas with a chain-link fence, and monitoring to make sure site contaminants do not contaminate surface water.
+
+EPA updated the long-term remedy in 1989 to delete the requirement to solidify soils in one of the disposal areas. The requirement resulted from a typing error during the remedial investigation which carried over into the long-term remedy.
+
+**1997**  
+The PRPs undertook corrective actions to improve the operation of both groundwater treatment systems. These corrections significantly reduced the systems’ down time.
+
+**2012**  
+The FYR completed in 2012 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term because the areas of soil contamination at the site, where known waste disposal activity occurred, have been capped and fenced, which limits direct contact exposure, and there is no current exposure to contaminated groundwater.
+
+**2014**  
+Groundwater treatment continued until September 2014 when at the request of the PRPs and with NCDEQ’s concurrence, EPA approved the PRPs’ request to shut-down the two groundwater extraction/treatment systems as part of the site-wide RI/FS.
+
+As of September 2014, over 21.6 million gallons of contaminated groundwater have been successfully treated in the FV and over 100.8 million gallons of contaminated groundwater have been successfully treated in the BV. All treated groundwater is discharged into the Buncombe County Metropolitan Sewerage District.
+
+**2016**  
+The [2016 Site-wide ROD Amendment No.2](https://semspub.epa.gov/src/document/04/11050393) requires the following activities:
+
+- Excavation of contaminated soil with disposal off-Site at an EPA approved landfill of contaminated soil at the following FV areas: Building 109-137 and Building 116
+- Enhanced In Situ Bioremediation (EISB) with long-term groundwater monitoring and monitored natural attenuation (MNA) for contaminated groundwater for the following areas in the FV: Building 104, Building 105 and Building 147, Building 139, and Disposal Area 23/Building 116; and
+- EISB with long-term groundwater monitoring and MNA for contaminated groundwater in the following area in the BV: downgradient of Disposal Area 9 and the Acid Pit Area.
+- Placement of Institutional Controls (ICs) on the Superfund Site portion of the Chemtronics property using the State of North Carolina Declaration of Perpetual Land Use Restrictions (DPLURs). These ICs, at a minimum, will 1) limit the use of the Chemtronics Superfund Site to either commercial or industrial purposes and 2) restrict groundwater use and prevent the use of on-site groundwater for potable purposes. The DPLUR process requires the generation of a plat map which will define the boundaries of the Chemtronics Superfund Site. North Carolina Department of Environmental Quality or its successor will enforce the DPLURs.
+- Maintain the caps and engineering controls for the six Disposal Areas required by the 1988 ROD and its associated documents.
+- Implement performance monitoring and evaluation as outlined in the 2011 Proposed Assessment Monitoring Plan and the 2016 Feasibility Study which is to be finalized as part of a Performance Monitoring Plan in the Remedial Design.
+- Eliminate the requirement for pumping and treating groundwater in both valleys as specified in the 1988 ROD, abandon unnecessary structures associated with these pump and treat systems, and eliminate the trigger described in Section 6.5 – “Future Actions” in the 1988 ROD.
+
+### What Is the Current Site Status?
+
+The [forth Five Year Review](https://semspub.epa.gov/work/04/11070116.pdf) was published by EPA HQs in 2017. The remedy at the Chemtronics Site protects human health and the environment in the short-term because the areas of soil contamination at the Site, where known waste disposal activity occurred, have been capped and fenced, which limits direct contact exposure, and there is no current exposure to contaminated groundwater.The PRPs conduct routine monitoring of the groundwater and surface water.
+
+Although contaminated groundwater is contained within the property boundary, monitoring has identified contaminants in wells along the property’s perimeter. The levels of these contaminants are at or below state drinking water standards. Some nearby residences use private wells. However, sampling to date has not identified any site-related contaminants in these private wells.
+
+The PRPs completed a site-wide remedial investigation/feasibility study (RI/FS) under a 2008 Administrative Order on Consent (AOC). The focus of this sitewide RI/FS is to understand adverse impacts to the environment associated with the identified 14 SWMUs and 31 “operational areas” where there was reasonable potential for soil impacts. Site-related contamination is not affecting nearby residences.
+
+Currently, the PRPs are continuing to operate a number of pilot-scale treatability studies started as part of the RI/FS in both valleys.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Placement of Institutional Controls (ICs) on the Superfund Site portion of the Chemtronics property using the State of North Carolina Declaration of Perpetual Land Use Restrictions (DPLURs). These ICs, at a minimum, will 1) limit the use of the Chemtronics Superfund Site to either commercial or industrial purposes and 2) restrict groundwater use and prevent the use of on-site groundwater for potable purposes. The DPLUR process requires the generation of a plat map which will define the boundaries of the Chemtronics Superfund Site. North Carolina Department of Environmental Quality or its successor will enforce the DPLURs.
+
+### Sampling and Monitoring
+
+All pertinent information associated with the 2016 ROD Amendment No. 2 has been placed Administrative Record/Information Repository located at the Warren Wilson College Library. PRPs continue to monitor groundwater and surface water on an annual basis. The results of these sampling efforts are shared with the SSCAG as well as placed in the Information Repository
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA has identified three viable PRPs at the site: Chemtronics, Northrop Grumman Systems Corporation and CNA Holdings, Inc. In 1989, the EPA ordered the PRPs to carry out Superfund-related cleanup actions. In 2008, EPA and the PRPs successfully negotiated and signed an Administrative Order on Consent to conduct the site-wide RI/FS. This same level of cooperation is expected on the negotiations of a Consent Decree to implement the 2016 ROD Amendment No. 2. EPA anticipates that the Consent Decree will lodge by the Court sometime in 2018. The PRPs continue to fund site cleanup, monitoring and re-imburse EPA for oversight activities.

@@ -1,31 +1,31 @@
-GULFCO MARINE MAINTENANCEFREEPORT, TX
-  Cleanup Activities
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 40-acre Gulfco Marine Maintenance site is located in Freeport, Texas. A barge cleaning and repair facility operated at the site from 1971 to about 1998. Barges brought to the facility were cleaned of waste oils, caustics and organic chemicals. Three surface impoundments in the North Area stored waste oils, caustics, various organic chemicals and waste wash waters generated during barge cleaning activities until 1981. The impoundments were closed in 1982. Facility operations and waste disposal activities contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
 
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and PRP actions. Remediation of the contaminated area reduced human health and ecological risks associated with the contaminants at the site. Further, revitalization of the area will encourage reuse and redevelopment planning. A barge cleaning and repair facility operated on site from 1971 to about 1998. Barges brought to the facility were cleaned of waste oils, caustics and organic chemicals. Three surface impoundments in the North Area stored waste oils, caustics, various organic chemicals and waste wash waters generated during barge cleaning activities until 1981. The impoundments were closed in 1982.A barge cleaning and repair facility operated on site from 1971 to about 1998. Barges brought to the facility were cleaned of waste oils, caustics and organic chemicals. Three surface impoundments in the North Area stored waste oils, caustics, various organic chemicals and waste wash waters generated during barge cleaning activities until 1981. The impoundments were closed in 1982.
-What Is the Current Site Status?
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and PRP actions.
+
+Remediation of the contaminated area reduced human health and ecological risks associated with the contaminants at the site. Further, revitalization of the area will encourage reuse and redevelopment planning.
+
+A barge cleaning and repair facility operated on site from 1971 to about 1998. Barges brought to the facility were cleaned of waste oils, caustics and organic chemicals. Three surface impoundments in the North Area stored waste oils, caustics, various organic chemicals and waste wash waters generated during barge cleaning activities until 1981. The impoundments were closed in 1982.A barge cleaning and repair facility operated on site from 1971 to about 1998. Barges brought to the facility were cleaned of waste oils, caustics and organic chemicals. Three surface impoundments in the North Area stored waste oils, caustics, various organic chemicals and waste wash waters generated during barge cleaning activities until 1981. The impoundments were closed in 1982.
+
+### What Is the Current Site Status?
+
 The site’s long-term remedy, selected in 2011, included institutional controls, groundwater monitoring, and an operation and maintenance program for inspection and repair of the cap over the former impoundments. The site achieved EPA’s construction completion milestone in 2011 because the selected remedy did not require construction of any new facilities. Remaining work for the site (e.g., maintenance, groundwater monitoring) will be performed according to a Consent Decree, which EPA is currently preparing. Additional signs were installed in July 2013 to further identify the site.
 
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-State Contact (TCEQ): Anna Lund, 361-825-3140, Anna.Lund@tceq.texas.gov
+### Activity and Use Limitations
 
-Sampling and Monitoring
-Sampling of sediment, soil, ground water, and fish/crab tissue was done at the Site as a part of the Remedial Investigation.  Additional toxicity testing was done to support the ecological risk assessment.  The results are included in the Remedial Investigation Report and the Risk Assessment Reports available at the Site repository.  The purpose of the sampling was to determine the nature and extent of contamination at the Site, and to provide information to inform the human health and ecological risk assessments.
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
 
-Emergency Response and Removal
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+State Contact (TCEQ): Anna Lund, 361-825-3140, [Anna.Lund@tceq.texas.gov](mailto:Anna.Lund@tceq.texas.gov)
+
+### Sampling and Monitoring
+
+Sampling of sediment, soil, ground water, and fish/crab tissue was done at the Site as a part of the Remedial Investigation. Additional toxicity testing was done to support the ecological risk assessment. The results are included in the Remedial Investigation Report and the Risk Assessment Reports available at the Site repository. The purpose of the sampling was to determine the nature and extent of contamination at the Site, and to provide information to inform the human health and ecological risk assessments.
+
+### Emergency Response and Removal
+
 Cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Between November 2010 and March 2011, the site’s potentially responsible party (PRP) removed storage tanks and roll-off containers from the site.

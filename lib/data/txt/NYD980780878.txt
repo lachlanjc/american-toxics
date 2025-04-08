@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 30-acre Suffern Village Well Field site is located in Suffern, New York. The Village of Suffern operates four production wells that provide water to about 12,000 people at a rate of almost 2 million gallons per day. In 1978, the State detected trichloroethane, a volatile organic compound (VOC), in the public water distribution system. The Tempcon Corporation, a small oil burner reconditioning business, was identified as the source of the contamination. The company is located 2,500 feet uphill of the well field. Until 1979, the company used trichloroethane-based solvents in their process, and discharged waste fluids into a seepage disposal pit.. All residents in the area use municipally supplied water. Site cleanup has been completed. EPA took the site off the Superfund program’s National Priorities List in May 1993.
+
+Sampling performed in September 1978 detected VOC contamination in the Village of Suffern well field. Subsequent monitoring by the Village of Suffern, the Rockland County Health Department (RCHD) and the New York State Department of Environmental Conservation (NYSDEC) confirmed that groundwater was contaminated with trichloroethane, a common industrial chemical compound with several uses. After immediate actions to protect human health and the environment, the site was investigated. EPA placed the site on the Superfund program’s National Priorities List in June 1986. Following cleanup, EPA took the site off the National Priorities List in May 1993.
+
+### What Has Been Done to Clean Up the Site?
+
+Immediate Actions: In 1979, contaminated soil at the Tempcon facility was excavated, aerated and then backfilled. In 1979, the village installed a system to remove pollutants in the public water supply by exposing the water to air to evaporate contaminants. This system was operated intermittently as needed and has been taken out of service.
+
+Long-term Cleanup: Following an investigation of site contamination in 1987, EPA decided that no further cleanup actions were warranted, due to the presence of only low levels of contaminants and predicted lower levels in the future. The State has been monitoring the site to confirm the validity of this decision. EPA took the site off the Superfund program’s National Priorities List in May 1993.
+
+EPA conducted a five-year review at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. There is no remaining source of hazardous waste contamination at the site; no further monitoring is necessary at the site; and, no further five-year reviews are necessary.  
+
+### What Is the Current Site Status?
+
+The site was addressed in two stages: immediate actions and a long-term phase focused cleanup of the entire site.
+
+Prior to listing the site, the contaminated soil at the Tempcon facility was excavated, aerated, and then backfilled; the Village also installed a system to strip the volatiles from the water prior to distribution. Subsequent to the issuance of a No Further Action ROD, the Village installed an activated carbon/manganese filtration system to comply with post-ROD changes to the State drinking water standards.

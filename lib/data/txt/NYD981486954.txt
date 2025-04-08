@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Rowe Industries site is located in Sag Harbor, New York.
+
+From the 1950s through the early 1960s, Rowe Industries, Inc. manufactured small electric motors and transformers on the 8-acre property. During this process, chlorinated solvents were used to degrease oil-coated metals. Waste solvents were discharged from two tanks in the building into cesspools or through a connecting pipe to an open field 75 to 100 feet east of the building. The building was destroyed by fire in 1962 and rebuilt that same year.
+
+Rowe Industries, Inc. was purchased by Aurora Plastics, Inc. in the late 1960s, and by Nabisco, Inc. in the early 1970s. The manufacture of small electric motors and the use of solvents continued during this time. In 1980, the site was sold to Sag Harbor Industries, Inc., which currently uses the facility to manufacture electronic devices.
+
+Groundwater contamination was discovered in the Sag Harbor area in 1983 when water samples collected from a private well by the Suffolk County Department of Health Services (SCDHS) revealed solvent contamination. As a result of these findings, the SCDHS and EPA conducted further investigations. The results of samples collected from 46 private wells and 21 observation wells in 1984 indicated that there was a volatile organic contaminant (VOC) plume in the groundwater that was about 500 feet wide and a half mile in length. Reports from former workers indicated that solvents were stored outside in a wooded area behind the facility; this area was determined to be the main source of the contamination.
+
+After immediate actions to protect human health and the environment, and investigations, EPA placed the site on the Superfund program’s National Priorities List in 1987.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed in two stages: immediate actions and a long-term remedial phase focused on cleanup of the entire site.
+
+Immediate Actions: In response to the contaminated drinking water, EPA extended the public water supply to 25 affected homes in 1985.
+
+Long-term cleanup: After a remedial investigation and feasibility study to determine the nature and extent of site contamination and to evaluate remedial alternatives, EPA selected the remedy for the site in a 1992 Record of Decision, or ROD. The selected remedy included excavation of VOC-contaminated soils in a former solvent storage area, excavation of three on-site dry wells, off-site disposal of the contaminated soils and dry well contents, and the pumping and treatment of contaminated groundwater.
+
+EPA modifiedthe remedy in to include the partial excavation of the former drum storage area, installation of soil vapor extraction (SVE) wells to remediate remaining unsaturated (located above the water table) contaminated soils, and air sparging wells to assist in the remediation of saturated (located below the water table) contaminated soils during extraction and treatment of the groundwater. This change was documented in a July 1997 Explanation of Significant Differences.
+
+In 1997, SVE wells and their associated piping were installed on the site property. In 1998, contaminated soils in adjacent residential yards (the former drum storage area) were excavated to a depth of four feet and placed in a soil impoundment for pre-treatment using ex-situ SVE prior to off-site disposal. Excavated areas were sealed with a vapor barrier and backfilled with clean fill. The disturbed areas were regraded and landscaped.
+
+Three dry wells were pumped out in 1998; the contents were containerized and disposed of off-site. Using the SVE wells, vacuum pumps drew contaminated vapors from the soils. These vapors were piped to the treatment units on site. Confirmatory sampling of the soils and the extracted air was conducted periodically to determine the effectiveness of the system. The SVE system operated from 1998 to 2004,, removing over 900 pounds of VOCs. Unsaturated (above the water table) soils have met site cleanup objectives.
+
+The groundwater remedy includes six off-site and three on-site extraction wells placed strategically within the groundwater contaminant plume, a piping network, and an air stripper treatment system. The system started operating in 2002. The ROD called for the treated groundwater to be discharged in Ligonee Creek/Inner Sag Harbor Cove. In response to public concerns about potential impacts resulting from the discharge of fresh water into a saline environment, the remedy was modified to allow for the discharge of the treated groundwater to a recharge basin. The Town of Southampton granted access to the Town’s property for the construction of a recharge basin. Construction of the groundwater extraction and treatment system and the recharge basin was performed from 2001 to 2002. Following full-scale testing of the system, the system began operating in 2002.
+
+The air sparging wells were used from 2003 to 2004 to enhance the removal of contaminants from the groundwater in the former drum storage area. This was accomplished by bubbling air into the saturated soils, which then volatilized the solvents. The volatilized solvents were captured by the SVE wells and piped to treatment units. In 2000, four small groundwater recovery wells were installed in a portion of the former drum storage area where water samples indicated elevated levels of VOCs. These focused recovery wells pumped contaminated groundwater from 2001 to 2003. The groundwater was treated using activated carbon and disposed of on site.
+
+To address remaining contamination in this area more effectively, alternative groundwater technologies were evaluated; a pilot-scale study evaluated the effectiveness of one of the more promising technologies. This study involved the injection of EHC, a patented mixture of very small iron particles and a food-grade organic carbon source, into the area above the clay lens. This technology combines biological stimulation and chemical reduction to break down VOCs in place. Due to a lack of significant decrease in the concentration of VOCs in the groundwater near the former drum storage area, however, the focused recovery wells were restarted in 2006. They ran intermittently until 2007, when they were shut down due to clogging with mobilized EHC. The focused recovery wells in the former drum storage area were connected to the main extraction and treatment system and restarted in 2008. The focused recovery wells continued to pump groundwater to the treatment system until 2019. In early 2020, chemical reduction and anaerobic bioremediation reagents were injected into the subsurface within a 2,000 square foot area of the former drum storage area to a depth of 16 to 31 feet below the ground surface. The injection area is currently being monitored.
+
+A recovery well located along the groundwater plume was shut down in 2005 because contaminants were no longer detected. Four additional recovery wells were shut down in 2012 and three more were shut down in 2014 because contaminants were either not detected or the levels were well below the clean up levels. One recovery well is currently pumping groundwater to the treatment system.
+
+When all nine recovery wells were operating, it was estimated that 110 million gallons of contaminated groundwater was extracted and treated annually.
+
+### What Is the Current Site Status?
+
+The unsaturated soils have met site cleanup objectives for VOCs in the soil..
+
+The groundwater treatment system started operating in 2002 and treatment and monitoring are ongoing. The plume has been reduced to the extent that only one recovery well needs to operate. To date, over 230 pounds of VOCs have been removed from the groundwater through the air stripper treatment system. Approximately 1 million gallons of contaminated groundwater are extracted from this well and treated annually.
+
+Five-year reviews are conducted at sites to ensure that the remedies that are put into place protect public health and the environment, and function as intended by site decision documents. EPA has conducted five-year reviews at the site in February 2008, February 2013, and May 2018. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The next five-year review is anticipated in May 2023.
