@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 7-acre Cannon Engineering Bridgewater Site (CEC) is located in Bridgewater, Massachusetts. CEC used the area to transport, store and incinerate hazardous wastes. Facility operations contaminated soil, sediments, buildings, groundwater, and surface water with volatile organic compounds (VOC), semi-volatile organic compounds (SVOCs), polychlorinated biphenyls (PCB), polycyclic aromatic hydrocarbons (PAH), pesticides and inorganic/metals. The site is associated with three other Superfund sites: Tinkham Garage, Sylvester, and Cannon Engineering Plymouth Harbor. All four sites are being handled under one enforcement effort. After cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in September 2013.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and potentially responsible party (PRP) actions. In 1982, the Massachusetts Department of Environmental Protection (DEP) removed 155,000 gallons of sludge and liquid wastes and about 700 drums and incinerated these materials off site. In 1988, EPA and the site’s PRPs removed and disposed of hazardous materials abandoned at the site through two cleanup phases: source control for soils and management of migration for groundwater.
+
+About 400 tons of PCB-contaminated soil were excavated, transported, and properly incinerated off site; 11,330 tons of soils containing VOCs were excavated and treated on site using low temperature thermal aeration; 1,200 tons of scrap metal and 1,300 tons of concrete were shipped for recycling; 360 cubic yards of hazardous debris were sent to a federally approved disposal facility; and 480 cubic yards of non-hazardous debris were shipped to a demolition materials landfill. These cleanup activities were completed in 1991 as well as the testing of debris from the demolished incinerator for dioxin and its subsequent removal. The incinerator was dismantled and shipped off site to an approved EPA-regulated disposal facility.
+
+Once the contaminated soil/source was removed, groundwater began to cleanse itself through monitored natural attenuation. Long-term groundwater, sediment and seep sampling and monitoring began in 1991 and finished in 2010.
+
+The results indicate that groundwater leaving the site does not exceed maximum contaminant levels (MCLs, a federal drinking water standard) and that groundwater at the site is not used for drinking water purposes.
+
+The site was redeveloped into a propane storage distribution facility in 1996. In 2013, a cumulative human health and ecological risk assessment were conducted on the remaining residual groundwater contamination. The results indicate that the remaining levels are well within EPA acceptable risk range and are protective of both human health and the environment.
+
+A final close-out report for the site was completed in June 2013 to document that all of the remedial actions were completed and that protective cleanup levels had been achieved. Therefore, the site was unlisted from the NPL in September of 2013.
+
+### What Is the Current Site Status?
+
+EPA used source control and management of migration control remedies to clean up the site. Source control remedies included fencing the area, treating certain contaminated soil on site using thermal treatment to remove contaminants, transporting, and then burning PCB-contaminated soils off site, groundwater monitoring, decontaminating, and removing buildings and associated structures and tanks, sampling and treating other soils as necessary, and restoring wetlands disturbed during cleanup.
+
+Key features of the remedy to minimize contaminant migration included restricting the use of groundwater at the site through a deed restriction/institutional control, and restricting excavation to the water table and installing additional groundwater monitoring wells to evaluate the movement of related contaminants. Following removal of the contaminated soil/source area, groundwater began to cleanse itself through monitored natural attenuation. Long-term groundwater, sediment and seep sampling and monitoring began in 1991 and finished in 2010.
+
+The long term sampling data supported that the cleanup was protective. Therefore, the site was unlisted from the National Priority List (NPL) in September of 2013.
+
+EPA continues to conduct Five Year Reviews to ensure that the deed restriction/institutional controls remain in place and to ensure the cleanup actions remain protective. The next Five Year review will be completed by September 2020.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The matrix below is a general summary of the restrictions at this site at the date of this report. The information in this matrix is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.
+
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.
+
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100585&doc=Y&colid=31709&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
+
+### Sampling and Monitoring
+
+Long-term groundwater, sediment, and seep sampling and monitoring began in 1991 and was completed in 2010. This data supports that the cleanup is protective of human health and the environment.

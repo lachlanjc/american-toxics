@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 56-acre Adams County Quincy Landfills #2 and #3 site is located five miles east of Quincy in Adams County, Illinois. Private operators ran the landfill from 1967 to 1972, when the City of Quincy leased the landfill from the owner. The city operated the landfill from 1972 to 1978. Site closure, including placement of a final cover, finished in mid-1979. The city purchased the site property in 1982. Refuse, domestic waste and industrial waste were disposed of at the site. The materials contaminated ground water with volatile organic compounds (VOCs). Following cleanup, monitoring of the site’s leachate collection system, ground water quality and the integrity of the landfill cap is ongoing.  
+
+### What Has Been Done to Clean Up the Site?
+
+EPA placed the site on the Superfund program’s National Priorities List in 1990. The site is being addressed through potentially responsible party (PRP) actions under State of Illinois and federal oversight. [Several site cleanup milestones have already been achieved](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0500656).
+
+The site’s final remedy is in place. Cleanup included installing a fence around the landfill, connecting area residences with private drinking water wells to the public water supply, recapping and re-grading the landfill, installing a leachate collection system, placing deed restrictions on the site property, and monitoring the ground water for chemical contaminants. Most of the remedy was in place by late 1998. At present, ongoing site activities include site security and monitoring of the leachate collection system and the integrity of the landfill cap.
+
+[The 1993 Record of Decision (PDF)](https://semspub.epa.gov/src/document/05/138047) (94 pp, 4.16 MB, About PDF) did not require the immediate implementation of an active groundwater remedy because the existing groundwater data indicated that relatively few sampling results showed groundwater contamination concentrations at levels of concern. The leachate control remedy, when appropriately implemented, has had a positive impact on groundwater quality, and is an effective source control measure combined with natural attenuation to address the low-level groundwater contamination at the site.
+
+Groundwater monitoring ceased in 2007 when the potentially responsible party, or PRP Group, believed that the groundwater monitoring data met the conditions of the [1996 Consent Order (PDF)](http://semspub.epa.gov/src/document/05/180473) (62 pp, 2.72 MB) they signed with the State of Illinois. Illinois EPA requested one additional round of groundwater sampling, which the PRPs conducted in February 2013.
+
+The [2013 Groundwater Monitoring Report (PDF)](http://semspub.epa.gov/src/document/05/498262) (101 pp, 44.04 MB) concluded that the concentrations of landfill-related contaminants in the site’s groundwater had declined or remained stable since 2007. Illinois EPA concurred that subsequent groundwater monitoring could be eliminated at the site and that the remaining groundwater monitoring wells at the site could be abandoned in a [letter dated May 13, 2013 (PDF)](http://semspub.epa.gov/src/document/05/498257) (2 pp, 98.75 KB). The PRPs abandoned the groundwater monitoring wells in accordance with Illinois Department of Public Health Regulations on July 2, 2013.
+
+### What Is the Current Site Status?
+
+EPA has conducted several [five-year reviews](https://www.epa.gov/superfund/superfund-five-year-reviews) of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review, completed in 2023, deferred a protectiveness determination of the remedy at the site until information is obtained from further actions required of the Quincy Remedial Design / Remedial Action (RD/RA) Group. These actions are expected to be completed by 2026, at which time a protectiveness determination will be made.
+
+See the list of follow-up actions in Section VII Protectiveness Statement of the [Fifth Five-Year Review Report (2023) (PDF)](https://semspub.epa.gov/src/document/05/980258) (133 pp, 27.95MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[Institutional Control Study – 2007 (PDF)](http://semspub.epa.gov/src/document/05/369091) (35 pp, 2.91 MB)
+
+### Enforcement Information
+
+The site is being addressed by a group of potentially responsible parties, including the City of Quincy, under a 1996 Consent Order with the State of Illinois. The Illinois Environmental Protection Agency is the lead oversight agency for the site.
+
+[Consent Order - 1996 (PDF)](https://semspub.epa.gov/src/document/05/180473) (62 pp, 2.72 MB)

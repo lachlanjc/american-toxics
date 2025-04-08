@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 6,240-acre Rocky Flats Plant (USDOE) site is located about 16 miles northwest of Denver and 10 miles south of Boulder, Colorado. The Rocky Flats Plant operated from 1952 until 1989 as part of the United States’ nationwide nuclear weapons complex. The facility manufactured trigger mechanisms for nuclear weapons from various radioactive and hazardous materials. Manufacturing activities, accidental industrial fires and spills, support activities, and waste management practices contaminated soil, sediment, groundwater and surface water with hazardous chemicals and radioactive constituents. The greatest contamination and hazards were located within the 385-acre industrialized area at the center of the property, where the majority of the nearly 800 structures were located.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+In July 2022, EPA reviewed and concurred on the fifth Five-Year Review for the Rocky Flats Plant Site, located approximately 16 miles northwest of Denver, Colorado. Five-year reviews (FYRs) are statutorily required and conducted when hazardous substances remain on site to determine whether the current remedy remains protective of human health and the environment. This Five-Year Review Report concludes that a protectiveness determination of the remedy cannot be made until further information is obtained regarding the potential risk of per- and polyfluoroalkyl substances (commonly known as PFAS) to human and ecological receptors. PFAS are a group of manmade chemicals that have been used worldwide in industry and consumer products since the 1940s. Scientific studies have shown that exposure to some PFAS in the environment may be linked to harmful health effects in human and ecological receptors.
+
+### What Is the Current Site Status?
+
+The U.S. Department of Energy (DOE), EPA, and Colorado Department of Public Health and Environment (CDPHE) determined that the off-site area surrounding the site was not contaminated to levels requiring cleanup. This area consists of about 20,480 acres of open space, residential development and agricultural lands.
+
+EPA divided the site into two separate areas, or operable units (OUs), to better address cleanup. The 1,308-acre Central OU, or OU1, includes 384 acres in the industrial area in the center of the facility. The 4,883-acre Peripheral OU, or OU2, includes a buffer zone area.
+
+Accelerated cleanup actions focused on the industrial area in OU1 where most weapons manufacturing took place and where plutonium, uranium and americium contamination persists. The cleanup included decommissioning, decontamination, demolition and removal of more than 800 structures; removal of more than 500,000 cubic meters of low-level radioactive waste; and remediation of more than 360 potentially contaminated environmental sites.
+
+The long-term remedy for OU1 included institutional controls, physical controls, monitoring and signage. Cleanup at Rocky Flats did not eliminate all contamination in the central part of OU1. Although all buildings were demolished and removed, some residual contamination remained in core production areas, settling ponds and two landfills. Remaining contamination includes low concentrations of radioactive materials, chemical solvents and heavy metal contaminants, generally below regulatory standards. Studies show that this contamination poses no threat to human health and the environment.
+
+In 2006, EPA determined that no further cleanup was required at OU2. Remedy construction took place between 1990 and 2006.
+
+The land that is now the Rocky Flats National Wildlife Refuge previously served as a security buffer to the Rocky Flats Central Operable Unit (COU) and was never used for production activities. Extensive air and soil sampling was conducted on the refuge during the comprehensive risk assessment and the analytical results confirmed that the area could be released for unlimited use and unrestricted exposure (UUUE) for the public with no remediation required. The designation of unlimited use and unrestricted exposure for the Rocky Flats National Wildlife Refuge means that the land is suitable for all uses and there are no restrictions to use or exposure for users of the property. Following the comprehensive risk assessment, it was determined that the peripheral operable unit (POU) would be established as a wildlife refuge in 2007 in order to conserve open space and protect the land from future housing and urban development.
+
+Ongoing monitoring and management by DOE are overseen by EPA and CDPHE.

@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Shiawassee River Superfund Site includes the former Cast Forge Company (CFC) 51-acre property at 2440 West Highland Road in Howell, Michigan, and approximately eight miles of the Shiawassee River, downstream to the Steinacker Road area.
+
+Since 1969, the Cast Forge Company and now Western Wheel have manufactured aluminum cast products at the CFC facility in Howell, Michigan. Until 1973, wastewater contaminated by hydraulic fluids containing polychlorinated biphenyls (PCBs) was discharged by the potentially responsible parties to the South Branch of the Shiawassee River. From 1973 to 1977, wastewater was discharged into a 400,000-gallon on-site lagoon. Discharges from this lagoon, as well as periodic overflows, contaminated nearby wetlands and the Shiawassee River.
+
+In 1978 and 1979, the State of Michigan detected high levels of PCBs in soils around the site and in on-site monitoring wells. Concentrations above one part per million (ppm) were found in Shiawassee River sediments fourteen miles downstream of the plant. U.S. Environmental Protection Agency proposed the site for the National Priorities List (NPL) in December 1982 and finalized adding the site to the NPL in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+Prior to the site’s placement on the Superfund program’s National Priorities List (NPL), a former site operator removed a contaminated lagoon, cleaned up PCB-contaminated soil and sediment from the property, and provided $750,000 for restoration of the Shiawassee River. Dredging of the South Branch of the Shiawassee River began in June 1982. Only the first mile downstream from the plant received treatment, removing about 2,600 pounds of PCBs, before the funding was exhausted. Both the site property and river still contained PCBs following this initial cleanup.
+
+The Site was placed on the National Priorities List in 1983. The Michigan Department of Natural Resources initially undertook the investigation which was taken over by EPA in 1999. A record of decision (ROD) for the site was signed in 2001. The cleanup objective was to protect human health and the environment from imminent and substantial endangerment due to PCBs attributed to the Site. To achieve this goal, the ROD called for remediation of PCB-contaminated soil at the former CFC facility and on the river floodplain, removal of PCB-contaminated sediment, and monitored natural recovery to achieve the long-term sediment cleanup goal. The long-term PCB cleanup goal range for the Shiawassee River sediment was intended to protect wildlife and humans from unacceptable PCB exposure through dietary consumption of fish. Remedial action cleanup work (i.e., excavation and removal of soils and sediments) was undertaken from November 1, 2004 to August 15, 2005.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. In 2024, EPA issued the fourth Five-Year Review of the site. The Five-Year Review report is available at the following link:
+
+[Fourth Five Year Review Report (Signed) - Shiawassee River (pdf)](https://semspub.epa.gov/work/05/992956.pdf) (380pp, 49.66MB)
+
+### What Is the Current Site Status?
+
+The Site consists of two operable units (OUs). OU1 addresses polychlorinated biphenyls (PCBs) in the Shiawassee River sediment, floodplain soil, and the former Cast Forge Company (CFC) soil. OU1's long-term remedy included remediation of the floodplain and contaminated areas near the facility to less than 10 parts per million (ppm) PCBs. The remedy also included remediation of the river to less than 5 ppm PCBs for the first mile downstream of the facility. Excavation and removal of contaminated soil and river sediments was completed in 2005. Post-remediation sampling of OU1 is occurring to ensure that the Shiawassee River meets the long-term cleanup goal specified in the Record of Decision (ROD). In addition, the river now carries a fish consumption advisory to address health risks from eating contaminated fish. OU1 continues to be protective of human health and the environment.
+
+OU2 was created in 2023 due to volatile organic compounds (VOCs) in soil, groundwater, soil gas, and indoor air at the CFC property. As referenced in the 2019 Five-Year Review (FYR) report, a Baseline Environmental Assessment (BEA) report from the Michigan Department of Environment, Great Lakes, and Energy (EGLE) alerted EPA to the presence of volatile organic compounds (VOCs) in soil and groundwater at the CFC property. From 2021 to 2023, EPA lead a vapor intrusion and groundwater investigation that confirmed the BEA report findings. VOCs above EPA Regional Screening Levels (RSLs) were found in soil, groundwater, soil gas, sub-slab soil gas, and indoor air samples.
+
+In 2024, EPA issued the [Fourth Five Year Review Report (Signed) - Shiawassee River (pdf)](https://semspub.epa.gov/work/05/992956.pdf) (380pp, 49.66MB).
+
+OU2 was not addressed in the fourth FYR because OU2 is still in the investigation stage and does not have a ROD. The nature and extent of vapor intrusion and groundwater contamination in OU2 will be further investigated in a Remedial Investigation (RI)/Feasibility Study (FS) for OU2, expected to begin in 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+PCBs have been detected in fish, sediments, and soil.

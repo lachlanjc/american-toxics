@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 10,000-square-foot Union Scrap Iron & Metal Company site is located in Minneapolis, Minnesota. The company operated a battery recycling facility at two locations. Waste disposal operations contaminated soil and air with hazardous chemicals. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1991.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and state actions.
+
+### What Is the Current Site Status?
+
+Site cleanup has included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions in the 1980s disposed of battery debris, contaminated soil, contaminated material in nearby sewers, a cement pad and the waste below it, and buildings on site. Following cleanup, EPA took the site off the NPL in 1991.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The soil and sludge onsite were contaminated with heavy metals including lead, arsenic, cadmium, nickel, and copper as well as polychlorinated biphenyls (PCBs).

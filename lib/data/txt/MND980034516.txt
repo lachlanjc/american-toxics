@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 11-acre Windom Dump site is in Windom, Minnesota. A municipal dump opened at the site in the 1930s. Between 1957 and 1974, the dump accepted municipal and industrial wastes, including paint sludges, solvents, and cleaners. Waste disposal operations contaminated groundwater with hazardous chemicals.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was listed on the National Priorities List, or NPL, and the Minnesota Permanent List of Priorities in 1986, after finding volatile organic compounds (VOCs) and other chemicals in groundwater downgradient from the site.
+
+EPA and the Minnesota Pollution Control Agency (MPCA) selected a cleanup plan for the site in 1989. Under the oversight of MPCA, the landfill was re-graded and capped, and groundwater pump-out wells were constructed to remove and treat contaminants in groundwater near the landfill. Additional treatment was added to the City of Windom municipal water treatment plant to treat water affected by the landfill. Additional pump-out wells were added to the landfill operations in later years, and the city constructed a new water treatment plant in 1997.
+
+Following cleanup, EPA took the site off the Superfund Program’s NPL, in 2000.
+
+### What Is the Current Site Status?
+
+MPCA oversees ongoing operation and maintenance activities at the site. The [City of Windom](https://www.windom-mn.com/utility-services/waterwastewater/) maintains the landfill and groundwater pump-out system. Groundwater quality has improved, and the pump-out wells are only needed periodically. The pump-out wells are restarted when contaminants in groundwater exceed levels set by MPCA. The City of Windom continues to treat its water supply to ensure that it meets all federal, state, and local quality regulations.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. EPA is conducting the seventh five-year review of the site to verify the remedy continues to protect people and the environment. The review is scheduled to be completed in April of 2025. The five-year review is an opportunity for the public to tell EPA about site conditions and any concerns they may have. If you would like to share comments, please contact the Remedial Project Manager listed on this website.
+
+The previous review completed in 2020 found that the response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. However, the review found that in order for the remedy to be protective in the long term several actions needed to be taken to ensure protectiveness, including developing and implementing Long-Term Stewardship (LTS) procedures, installing additional monitoring wells, and sampling for 1,4-dioxane and PFAS.
+
+Currently LTS procedures are being developed for the site and all wells have been sampled for 1,4-dioxane and PFAS. PFAS were not detected above applicable regulatory levels.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Site groundwater was contaminated with volatile organic compounds (VOCs). VOCs were also detected in soil at the site prior to capping of the landfill. The city owns and maintains the site, which is fenced. Use of the land and groundwater are controlled by a restrictive covenant on the property.
+
+### Sampling and Monitoring
+
+The responsible parties conduct quarterly groundwater sampling and analysis for volatile organic compounds, regular site inspections, and operations and maintenance activities. These activities are documented in semiannual reports. Recent operations and maintenance activities have included maintaining the landfill cover/cap system and operating and maintaining the groundwater pump and treat system.
+
+### Enforcement Information
+
+The site is part of EPA’s Enforcement Deferral Pilot Agreement with the Minnesota Pollution Control Agency (MPCA) and MPCA is the lead agency overseeing cleanup and enforcement at the site.

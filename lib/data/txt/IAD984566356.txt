@@ -1,28 +1,43 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Waterloo Coal Gasification Plant site is the location of a former manufactured gas plant that manufactured gas for lighting and heating purposes from 1901 to 1956. The site is situated along the Cedar River about one mile downstream from downtown Waterloo, Iowa. The primary contaminant associated with manufactured gas plants is called "coal tar." It contains compounds called polynuclear aromatic hydrocarbons as well as benzene, toluene, ethylbenzene and xylene. Other contaminants found at manufactured gas plants include cyanide, arsenic, phenols and some metals. These contaminants were found in soil and groundwater at the site. Soil contamination was addressed through a removal action consisting of soil excavation that was completed in 2001. Operation and maintenance activities and monitoring for the site’s long-term remedy are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The EPA began investigation into potential contamination resulting from operation of the former manufactured gas plant on the site in 1988. The EPA proposed the site for listing on the National Priorities List in 1992. In 1991, prior to entering into any enforcement agreement with the EPA, MidAmerican Energy Company conducted investigations to gather information to assist in the planning of subsequent removal and remedial investigation activities. MidAmerican Energy has performed work under several Administrative Orders on Consent with the EPA. MidAmerican Energy completed a three-phased removal action from 1994 through 2001, excavating contaminated soil and incinerating the soil off-site to destroy the contaminants. It is estimated that 93,000 pounds of contaminants were excavated and destroyed during the three-phase removal action. This work was done under the oversight of the EPA. MidAmerican Energy also conducted a remedial investigation and feasibility study which resulted in a remedy being selected by the EPA in a Record of Decision in 2004. The remedy was modified by an Explanation of Significant Differences in 2006. The selected remedy includes institutional controls to prevent exposure to contaminated groundwater and prohibit the use of the property for residences. It was also determined that it was not feasible to clean up all of the groundwater contamination, so part of the site was identified as a "technical impracticability zone" (TI Zone). The groundwater in the TI Zone is expected to remain contaminated for the foreseeable future.  In addition to monitoring for the groundwater, the remedy included monitored natural attenuation for areas outside the TI Zone. This requires monitoring for certain natural attenuation parameters to demonstrate that natural processes are occurring in the subsurface that result in no further migration of the contaminated groundwater. All of the work at the site is being addressed through actions being undertaken by MidAmerican Energy Company under EPA oversight. Top of Page
-What Is the Current Site Status?
-The EPA has conducted a Five-Year Review of the site’s remedy. Five-Year Reviews evaluate and confirm that the remedies put in place protect human health and the environment, and are functioning as intended by site remedy selection decision documents. The most recent review was completed in August 7, 2023. It was concluded that response actions at the site are functioning as intended and continue to be protective of human health and the environment. The next Five-Year Review is due on August 7, 2028. Continued elevated levels of manganese in three wells at the edge of the TI zone may prevent a determination that the RA is complete. The elevated levels of Mn are likely due to MNA, which is maintaining the stability of the plume. No one is exposed to this groundwater. MidAmerican Energy has committed to determine and evalute the extent of the Mn elevation, the work in progress and key points indicated above are curently being implemented. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-An environmental covenant on the MidAmerican Energy property includes the following activity and use limitations: A. Olher than as provided in paragraph nine below, no wells for any purpose may be placed on the Property. B. The property shall not be used for purposes described in the definition of a "residential land-use area." "Residential land-use area" is defined in Iowa Administrative Code Section 567-137.2 (455H). C. Any structures constructed on the Property shall be engineered to address vapor intrusion from volatile organic compounds unless sufficient testing shall be performed prior to construction to satisfy the EPA and the IDNR that vapor intrusion will not present a health risk to building occupants. D. In the event of a change in land use or transfer of the Property, the Property owner shall notify the IDNR and the EPA of the change in land use or transfer of Property within thirty days of such event. Top of Page
-Sampling and Monitoring
-Polynuclear aromatic hydrocarbons, or PAHs, benzene, ethylbenzene, cyanide, arsenic and some metals were identified as contaminants of concern in soil and groundwater at the site. Soil contamination was addressed through a removal action that was completed in 2001. MidAmerican Energy Company conducts groundwater monitoring semiannually, with EPA oversight.
-Top of Page
-Emergency Response and Removal
-Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1994, coal tar, coal tar-impacted soils and coal tar-impacted materials were excavated and taken off site for incineration. In 1997, a thermal desorption unit was located at the site and an additional 14,000 tons of contaminated soil was thermally treated. The thermally treated soil was used as backfill at the site. In 2003, 400 tons of contaminated surface soil were excavated and disposed of off site. Excavation activities reduced the potential for exposure to contaminated soils and reduced the impact of contaminated soils on groundwater. Top of Page
+### Background
+
+The Waterloo Coal Gasification Plant site is the location of a former manufactured gas plant that manufactured gas for lighting and heating purposes from 1901 to 1956. The site is situated along the Cedar River about one mile downstream from downtown Waterloo, Iowa. The primary contaminant associated with manufactured gas plants is called "coal tar." It contains compounds called polynuclear aromatic hydrocarbons as well as benzene, toluene, ethylbenzene and xylene. Other contaminants found at manufactured gas plants include cyanide, arsenic, phenols and some metals. These contaminants were found in soil and groundwater at the site. Soil contamination was addressed through a removal action consisting of soil excavation that was completed in 2001. Operation and maintenance activities and monitoring for the site’s long-term remedy are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA began investigation into potential contamination resulting from operation of the former manufactured gas plant on the site in 1988. The EPA proposed the site for listing on the National Priorities List in 1992.
+
+In 1991, prior to entering into any enforcement agreement with the EPA, MidAmerican Energy Company conducted investigations to gather information to assist in the planning of subsequent removal and remedial investigation activities. MidAmerican Energy has performed work under several Administrative Orders on Consent with the EPA. MidAmerican Energy completed a three-phased removal action from 1994 through 2001, excavating contaminated soil and incinerating the soil off-site to destroy the contaminants. It is estimated that 93,000 pounds of contaminants were excavated and destroyed during the three-phase removal action. This work was done under the oversight of the EPA.
+
+MidAmerican Energy also conducted a remedial investigation and feasibility study which resulted in a remedy being selected by the EPA in a Record of Decision in 2004. The remedy was modified by an Explanation of Significant Differences in 2006. The selected remedy includes institutional controls to prevent exposure to contaminated groundwater and prohibit the use of the property for residences. It was also determined that it was not feasible to clean up all of the groundwater contamination, so part of the site was identified as a "technical impracticability zone" (TI Zone). The groundwater in the TI Zone is expected to remain contaminated for the foreseeable future. In addition to monitoring for the groundwater, the remedy included monitored natural attenuation for areas outside the TI Zone. This requires monitoring for certain natural attenuation parameters to demonstrate that natural processes are occurring in the subsurface that result in no further migration of the contaminated groundwater. All of the work at the site is being addressed through actions being undertaken by MidAmerican Energy Company under EPA oversight.
+
+### What Is the Current Site Status?
+
+The EPA has conducted a Five-Year Review of the site’s remedy. Five-Year Reviews evaluate and confirm that the remedies put in place protect human health and the environment, and are functioning as intended by site remedy selection decision documents. The most recent review was completed in August 7, 2023. It was concluded that response actions at the site are functioning as intended and continue to be protective of human health and the environment. The next Five-Year Review is due on August 7, 2028.
+
+Continued elevated levels of manganese in three wells at the edge of the TI zone may prevent a determination that the RA is complete. The elevated levels of Mn are likely due to MNA, which is maintaining the stability of the plume. No one is exposed to this groundwater. MidAmerican Energy has committed to determine and evalute the extent of the Mn elevation, the work in progress and key points indicated above are curently being implemented.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+An environmental covenant on the MidAmerican Energy property includes the following activity and use limitations:
+
+A. Olher than as provided in paragraph nine below, no wells for any purpose may be placed on the Property.
+
+B. The property shall not be used for purposes described in the definition of a "residential land-use area." "Residential land-use area" is defined in Iowa Administrative Code Section 567-137.2 (455H).
+
+C. Any structures constructed on the Property shall be engineered to address vapor intrusion from volatile organic compounds unless sufficient testing shall be performed prior to construction to satisfy the EPA and the IDNR that vapor intrusion will not present a health risk to building occupants.
+
+D. In the event of a change in land use or transfer of the Property, the Property owner shall notify the IDNR and the EPA of the change in land use or transfer of Property within thirty days of such event.
+
+### Sampling and Monitoring
+
+Polynuclear aromatic hydrocarbons, or PAHs, benzene, ethylbenzene, cyanide, arsenic and some metals were identified as contaminants of concern in soil and groundwater at the site. Soil contamination was addressed through a removal action that was completed in 2001.
+
+MidAmerican Energy Company conducts groundwater monitoring semiannually, with EPA oversight.  
+
+### Emergency Response and Removal
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1994, coal tar, coal tar-impacted soils and coal tar-impacted materials were excavated and taken off site for incineration. In 1997, a thermal desorption unit was located at the site and an additional 14,000 tons of contaminated soil was thermally treated. The thermally treated soil was used as backfill at the site. In 2003, 400 tons of contaminated surface soil were excavated and disposed of off site. Excavation activities reduced the potential for exposure to contaminated soils and reduced the impact of contaminated soils on groundwater.

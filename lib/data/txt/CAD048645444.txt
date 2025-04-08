@@ -1,19 +1,17 @@
-BECKMAN INSTRUMENTS (PORTERVILLE PLANT)PORTERVILLE, CA 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 12-acre former Beckman Instruments plant was located at 167 West Poplar Avenue in Porterville, California. The plant was shut down in 2017. Beckman Instruments, now operating as Beckman Coulter, Inc. (BCI), started manufacturing electronic equipment assemblies and printed circuit boards in Porterville in 1967. Industrial processes used at the plant included electroplating and degreasing. Past processes and materials handling at the Beckman plant were responsible for lead contamination in soil at the plant. From 1975 until early 1983, waste discharged to an on‐site evaporation pond resulted in groundwater becoming contaminated with volatile organic compounds (VOCs), primarily 1,1-dichloroethene. This contaminated groundwater migrated beyond the boundaries of the plant property. Top of Page
-What Has Been Done to Clean Up the Site?
-The soil that was contaminated with lead has been removed. The groundwater that was contaminated from the former electronics plant has been cleaned up and now meets all state and federal drinking water standards. Top of Page
-What Is the Current Site Status?
-The soil that was contaminated with lead has been removed. The groundwater that was contaminated from the former electronics plant has been cleaned up and now meets all state and federal drinking water standards. EPA has deleted the Beckman Instruments site from the list of Superfund sites. Top of Page
-Sampling and Monitoring
-There is no sampling or monitoring at this site because all cleanup goals have been met. Top of Page
+### Background
+
+The 12-acre former Beckman Instruments plant was located at 167 West Poplar Avenue in Porterville, California. The plant was shut down in 2017.
+
+Beckman Instruments, now operating as Beckman Coulter, Inc. (BCI), started manufacturing electronic equipment assemblies and printed circuit boards in Porterville in 1967. Industrial processes used at the plant included electroplating and degreasing. Past processes and materials handling at the Beckman plant were responsible for lead contamination in soil at the plant. From 1975 until early 1983, waste discharged to an on‐site evaporation pond resulted in groundwater becoming contaminated with volatile organic compounds (VOCs), primarily 1,1-dichloroethene. This contaminated groundwater migrated beyond the boundaries of the plant property.
+
+### What Has Been Done to Clean Up the Site?
+
+The soil that was contaminated with lead has been removed. The groundwater that was contaminated from the former electronics plant has been cleaned up and now meets all state and federal drinking water standards.
+
+### What Is the Current Site Status?
+
+The soil that was contaminated with lead has been removed. The groundwater that was contaminated from the former electronics plant has been cleaned up and now meets all state and federal drinking water standards. EPA has deleted the Beckman Instruments site from the list of Superfund sites.
+
+### Sampling and Monitoring
+
+There is no sampling or monitoring at this site because all cleanup goals have been met.

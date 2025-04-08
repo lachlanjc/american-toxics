@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Gabriel Valley Area 2 Superfund site (also known as the Baldwin Park Operable Unit) is one of four Superfund sites cleaning up multiple areas of groundwater contamination in the San Gabriel Basin. The site addresses groundwater contamination underlying portions of the cities of Azusa, Irwindale, Baldwin Park, West Covina, La Puente and Industry.
+
+The San Gabriel Groundwater Basin is the primary source of drinking water for more than one million people. Industrial solvents and other contaminants were first identified in groundwater in the San Gabriel Valley in 1979. The contamination at the site is believed to be the result of decades of improper chemical handling and disposal practices. Although many of the laws regulating the handling and disposal of hazardous chemicals went into effect after 1970, historical documents demonstrate that local officials were concerned about the potential for groundwater contamination by industrial activity in the San Gabriel Valley as early as the 1950s.
+
+EPA's efforts began in the mid-1980s with studies needed to understand the sources, nature, and extent of soil and groundwater contamination. In the 1980s and early 1990s, EPA added the site to the National Priorities List, developed a basin-wide plan to set cleanup priorities, and led state and federal efforts to develop the institutional framework necessary to address the contamination.
+
+![](https://cumulis.epa.gov/supercpad/SiteProfiles/images/sspp/R09/0902092_picture5.png)
+
+As of December 2023, more than $400 million has been spent to construct and operate the water treatment facilities installed as part of the cleanup. More than 223 billion gallons of contaminated groundwater have been treated, more than 122,000 pounds of contamination removed from the ground water, and more than 40,000 pounds of contamination removed from the soil.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1994, EPA adopted a groundwater cleanup plan (also know as the "Record of Decision" or "ROD") for the Baldwin Park area. The ROD was updated by the “Explanation of Significant Differences” in May 1999. The remedy at the site is large-scale groundwater extraction and treatment (i.e., "pump and treat"). In the 1990s, EPA identified Potentially Responsible Parties (PRPs) at the site and, working with local water agencies, began initial design work on the project. After the PRPs reached a detailed agreement with seven local water agencies in March 2002, design work was completed and construction work began. Construction of the planned groundwater extraction and treatment facilities was largely completed in 2006.
+
+Five pump and treat "sub-projects" have been built or expanded, having a combined treatment capacity of more than 30,000 gallons per minute (equivalent to 43.2 million gallons per day \[MGD\]). Each sub-project has multiple groundwater extraction wells and three or more water treatment processes for removal of the contaminants from the groundwater. Ion exchange systems remove perchlorate and nitrate; ultraviolet light and hydrogen peroxide systems remove NDMA and 1,4-dioxane, and air stripping and/or granular activated carbon systems remove VOCs from the groundwater.
+
+| **Subproject** | **Status** | **Design and Construction Cost** | **Approx. Treatment Capacity (gallons per minute)** |
+| --- | --- | --- | --- |
+| **La Puente Valley County Water District** | Operating since 2000 | $ 7 million | 2500 |
+| **SGVWC Plant B6** | Operating since 2005 | $36 million | 7800 |
+| **Valley County Water District** | Operating since 2006 | $58 million | 7800 |
+| **SGVWC Plant B5** | Operation began 2007 | $22 million | 7800 |
+| **California Domestic Water Co** | Operating |  | 5,000 to 15,000 |
+| **TOTAL:** |  | more than $123 million | 25,900 |
+
+### What Is the Current Site Status?
+
+The five groundwater cleanup projects continue to operate, removing more than 5,000 pounds of contaminants from the groundwater per year. The five projects are operated by four local water utilities, which distribute the treated water to over 100,000 local homes and businesses. Improvements made in the last several years include replacement of water treatment systems to improve reliability and efficiency.
+
+The performance of the five projects is evaluated annually. Detailed Annual Performance Evaluation Reports have been prepared since 2007\. The reports include a discussion of the statusofthecleanup andperformancemonitoringactivities,aseries oftablesandfiguressummarizingtechnicalinformationaboutthecleanup, andfiguresshowing theextent of groundwatercontamination. [Click here](https://semspub.epa.gov/src/document/09/100034492) to view the most recent report.
+
+EPA also conducts "Five-Year reviews" to ensure that remedies protect public health and the environment and function as intended by site decision documents. The first review was completed in 2007 with the second "Five-Year Review" completed in 2012 and third review in 2017. The most recent review, completed in September 2022, concluded that the site remedy continues to be protective of human health and the environment. [Click here](https://semspub.epa.gov/src/document/09/100029952) to view the report.
+
+Other agencies participating in the cleanup include the Main San Gabriel Basin Watermaster, a court-appointed entity responsible for administering the water rights agreement in the San Gabriel Basin, and the San Gabriel Basin Water Quality Authority (WQA), a public agency created by the State of California in 1993 to help coordinate the plans and activities of EPA and other Federal and State agencies responsible for cleanup of the San Gabriel Basin. The Watermaster is responsible for a variety of coordination, budgeting, monitoring, and reporting tasks required by the BPOU project agreement. The Water Quality Authority administers Federal funds earmarked for cleanup in the San Gabriel Valley.
+
+### Enforcement Information
+
+In 1989, the California Regional Water Quality Control Board, Los Angeles Region (RWQCB), working in accordance with an EPA-State Cooperative Agreement, began to identify the sources of the groundwater contamination in the Azusa/Baldwin Park area. The RWQCB inspected more than 1,400 commercial and industrial businesses in the area and required testing of soil and/or groundwater where contamination was observed or suspected. Using the test results, historical federal, state and local records, responses to information requests, and other information, EPA ultimately identified 21 parties as significant contributors to the groundwater contamination.
+
+Five of the 21 parties, known as the "Cooperating Respondents," are paying for the cleanup in compliance with an EPA Unilateral Administrative Order ("EPA Order") issued in 2000 and amended in 2002. The other parties entered into cashout settlements with EPA and/or are bankrupt. In 2002, the Cooperating Respondents entered into an agreement with seven water agencies that commits the Cooperating Respondents to fund the design, construction, and operation of the groundwater extraction, treatment, and conveyance facilities needed to satisfy EPA's cleanup goals and meet local water supply needs. In 2017, a new agreement was negotiated, in effect through 2027.
+
+**LARGEST CONTRIBUTORS TO THE GROUNDWATER CONTAMINATION**
+
+*(in alphabetical order)*
+
+| PRP | FACILITY ADDRESS | STATUS |
+| --- | --- | --- |
+| Aerojet Rocketdyne Inc (formerly Aerojet General Corporation) and Gencorp Inc. | 1100 W. Hollyvale Street in Azusa, CA | funding cleanup and EPA oversight costs |
+| Huffy Corporation | 1120 W. Foothill Blvd. in Azusa, CA | funded cleanup and EPA oversight costs until bankruptcy |
+| Oil & Solvent Process Co. | 1704 W. First Street in Azusa, CA | funding cleanup and EPA oversight costs |
+| Winco Enterprises Inc (formerly Wynn Oil Company) | 1151 W. 5th Street in Azusa, CA | funding cleanup and EPA oversight costs |
+
+**LESSER CONTRIBUTORS TO THE GROUNDWATER CONTAMINATION** (in alphabetical order)
+
+| PRP | FACILITY ADDRESS | STATUS |
+| --- | --- | --- |
+| Azusa Gas Systems/Azusa Land Reclamation Co. | 1201 W. Gladstone Street in Azusa, CA | funding cleanup and EPA oversight costs |
+| Azusa Pipe and Tube Bending | 766 N. Todd Ave in Azusa, CA | cashout settlement |
+| Allegiance Healthcare Corporation (formerly Baxter Healthcare) | 4401 Foxdale Avenue in Irwindale, CA | cashout settlement |
+| Fairchild Holding Corporation | 601 S. Vincent Avenue in Azusa, CA | Funded cleanup and EPA oversight costs until bankruptcy |
+| The Hartwell Corporation | 701 W. Foothill Boulevard in Azusa, CA | funding cleanup and EPA oversight costs |
+| J. H. Mitchell and Sons Distributors, Inc. | 14515 Joanbridge Street in Baldwin Park, CA | cashout settlement |
+| Leach International | 717 North Coney Avenue in Azusa, CA | cashout settlement |
+| Lockheed-Martin Corporation | 1004 W. 10th Street in Azusa, CA | cashout settlement |
+| Mobil Oil Corporation | 1004 W. 10th Street in Azusa, CA | cashout settlement |
+| Phaostron Instruments & Electronic Company | 717 North Coney Avenue in Azusa, CA | cashout settlement |
+| Philip Morris USA Inc. | 717 North Coney Avenue in Azusa, CA | cashout settlement |
+| Reichhold Inc. (formerly Reichhold Chemicals) | 237 Motor Ave in Azusa, CA | funded cleanup and EPA oversight costs until bankruptcy |
+| Rubber/ Urethanes Inc. | 968 W. Foothill Blvd. in Azusa, CA | bankrupt |
+| Screwmatic Inc. | 925 W. First Street in Azusa, CA | cashout settlement |
+| U.S. Department of Defense | 1100 W. Hollyvale Street in Azusa, CA | past and future cost settlement |
+| Valspar Corporation | 1004 W. 10th Street in Azusa, CA | cashout settlement |
+| White and White Properties | 145 S. Irwindale Ave and 204 S. Motor Avenue in Azusa, CA | cashout settlement |

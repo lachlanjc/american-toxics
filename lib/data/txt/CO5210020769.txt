@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Rocky Mountain Arsenal (RMA) is nearly 27 square miles, roughly the size of Manhattan. RMA is located at the western edge of the Colorado plains, near the foothills of the Rocky Mountains, ten miles northeast of downtown Denver, Colorado. The U.S. Army established the RMA in 1942 to produce incendiary munitions and chemical warfare agents such as mustard gas used in World War II. Following the war, and through the early 1980s, the Army continued to use these facilities. Private industry was also encouraged to lease facilities at RMA after the war to foster economic growth in the area, offset operational costs and maintain facilities for national security. Under the lease program, Julius Hyman and Company began producing pesticides in 1946. In 1952, Shell Chemical Company acquired Julius Hyman and Company and continued to produce agricultural pesticides onsite until 1982. These activities over time resulted in widespread and significant environmental contamination across the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that the remedies at both the on-post and off-post OUs are expected to be protective upon completion. In the interim, exposure pathways that could result in unacceptable risks are being controlled.
+
+### What Is the Current Site Status?
+
+In the late 1980s, the Army, EPA and Shell signed a Federal Facility Agreement (FFA). It specified the process by which decisions would be made for the cleanup and established cleanup goals. EPA divided the site into two separate areas, or operable units (OUs), to better address cleanup. The on-post OU includes the fenced 27 square miles of RMA proper. The off-post OU includes contamination north and northwest of RMA.  
+
+The site’s long-term remedy to address on-post groundwater contamination included continued operation of three groundwater containment and treatment systems; installing a new groundwater extraction system; maintaining lake water levels; and installing slurry walls around the Complex Army Disposal Trenches and the Lime Basins. The site’s long-term remedy to address off-post groundwater contamination included continued operation of the RMA boundary groundwater containment and treatment systems and off-post intercept and treatment system; long-term surface and groundwater monitoring; alternative water supplies for south Adams County; and institutional controls.  
+
+Overall, the objective of the soil remedy was to eliminate human and wildlife exposure to contaminated soils and chemical agents, prevent migration of contaminants from on-post soils to off-post areas via windblown dust or other means, and to prevent human and wildlife contact with physical hazards such as unexploded ordnance. To contain contaminated soils and debris on site, two landfills and a number of consolidation areas were created with protective caps and covers.  
+
+Remedy construction began in 1987 and is ongoing. Ongoing site activities include annual monitoring of institutional controls, groundwater monitoring and treatment, and landfill cover and wastewater treatment system inspections.

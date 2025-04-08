@@ -1,2 +1,40 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Ninth Avenue Dump is a former chemical and industrial waste disposal site in Gary, Indiana. Waste disposal activities took place at the 17-acre site from the early to mid-1970s. Facility operations contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities and groundwater monitoring are ongoing.
+
+The fourth Five-Year Review (FYR) for the site was signed on June 3, 2015. The purpose of the FYR is to review information to determine if the remedy is and will continue to be protective of human health and the environment. EPA determined that the selected remedy, which consists of the remedies for two operable units (OUs), OU 1 and OU 2, is protective of human health and the environment in the short-term and will be protective in the long-term once a revised monitoring plan has been submitted and all institutional controls are implemented. Data reviewed during the FYR indicated an outward gradient existed along the downgradient side of the slurry wall. The potentially responsible parties (or PRPs) modified the monitoring plan in September 2015, which provides additional monitoring in the upper and deep zone of the aquifer that will be better able to detect the presence of a point source leak through the slurry wall.
+
+### What Has Been Done to Clean Up the Site?
+
+Cleanup actions at the site included extracting oil and groundwater from the site, treating extracted waste and water, installing a small-scale on-site groundwater treatment system, covering the area with a landfill cap, and monitoring the groundwater long-term.
+
+During the five-year review EPA will be inspecting the site, assessing the status of the cleanup, and reviewing current data. The review is expected to be completed in June 2025.
+
+[Comment](https://www.epa.gov/publicnotices/epa-begins-review-lower-ecorse-creek-dump-superfund) and/or share concerns.
+
+### What Is the Current Site Status?
+
+The U.S. Environmental Protection Agency is conducting its sixth five-year review of the Ninth Avenue Dump Superfund Site. The Superfund law requires regular checkups of sites that have been cleaned up - with waste managed on-site - to make sure the cleanup continues to protect people and the environment. A summary of the cleanup activities and an evaluation of the protectiveness of the implemented cleanup remedies will be included in the five-year review report.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+During the Rl, it was found that some of the soils were contaminated with a variety of ketones, chlorinated ethanes, BTEX (benzene, toluene, ethylbenzene, and xylene), PAHs (polycyclic aromafic hydrocarbons), phenols, pesticides, PCBs (polychlorinated biphenyls), plasticizers, and dioxins and furans. On- and off-site surface water bodies and sediments contained only low levels of VOCs (volatile organic compounds), PAHs, pesticides, and metals at low frequencies of detection. A light non-aqueous phase liquid (LNAPL) (an organic phase frequently referred to at this site as an oil) was found floating on the groundwater in the central and south central portions of the site. The groundwater under the site, which flows generally to the northeast at very low velocities, was found to be contaminated with approximately 100 organic and inorganic substances, including many of the compounds found in the LNAPL. However, groundwater contamination was found, for the most part, to have not migrated beyond the boundaries of the original operating area, except on the eastern and northeastern sides of this operating area. The groundwater at the site was also found to be contaminated by high concentrations of dissolved solids, including chlorides, which have migrated from an off-site source south of the site (a formerly uncovered road salt storage pile). Many of these substances are no longer detected.
+
+### Sampling and Monitoring
+
+- [Fourth five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f2010050003465.pdf) June 2015
+- [Third five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f2010050003465.pdf) (31 pp, 1.3 MB) June 2010
+- [Second five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f05-05041.pdf) (20 pp, MB) September 2005
+- [First five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f00-05023.pdf) (10 pp, 37 K) September 2000
+
+### Enforcement Information
+
+Unilateral Administrative Order--Dec. 1988  
+Unilateral Administrative Order--Aug. 1989  
+Administrative Order on Consent (De Minimis Settlement)--Jan. 1991  
+Unilateral Administrative Order--Dec. 1994  
+Administrative Order on Consent

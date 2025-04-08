@@ -1,2 +1,170 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13-acre Montrose Chemical Corporation. site in Los Angeles, California, was the location of a manufacturing plant that made the pesticide dichloro-diphenyl-trichloroethane (DDT) from 1947 to 1982. The Montrose Superfund Site occupies approximately 18-acres within the Harbor Gateway area of the City of Los Angeles, including the 13-acre former Montrose plant property, the adjacent 5-acre Jones Chemicals, Inc. (JCI) property, and other areas impacted by the former plant operations. Various hazardous substances entered the environment through several pathways during this time. EPA is investigating the extent of contamination in certain media and has finished cleanup for others. Cleanup, monitoring, and operation and maintenance activities are ongoing. The contaminants at the Montrose site are currently being addressed through seven smaller portions called Operable Units (OUs) as follows:
+
+**\- OU1: On and Near Property Soils -** includes the soils at the former Montrose plant property at 20201 South Normandie Avenue and some specified nearby “off-property” areas, focusing on shallow soils and soil vapor (less than 10 feet below ground surface (bgs)).
+
+Following the closure of the plant, DDT soil levels were very high on the former plant property, exceeding 710,000 parts per million (ppm) in some areas. Montrose’s actions to grade the land resulted in lower DDT levels in the soil, due to mixing and spreading the soil across larger areas.
+
+In 1985, Montrose built a temporary asphalt cover (or a “cap”) over most of the property. In later years, EPA required that Montrose enlarge this temporary asphalt cap to cover the entire former Montrose plant property. This asphalt cap prevents DDT in shallow soils from being disturbed or carried off-property by wind or stormwater runoff. Montrose currently inspects the asphalt cap monthly and prepares inspection reports for EPA, conducting repairs as needed.
+
+From 1983 to 2008, under EPA oversight, Montrose collected many soil and soil gas samples at different locations to better understand the nature and extent of contamination. Currently, DDT levels in shallow soils at the former plant property (primarily the first 4 to 6 feet below the ground surface) continue to have very high levels of DDT, exceeding 10,000 parts per million (ppm) in some areas. However, these contaminated shallow soils remain covered by the asphalt cap.
+
+**\- OU2: Current Stormwater Pathway -** consists of the study of site-related contamination in the Kenwood Drain (which replaced the Kenwood Ditch in 1973), Torrance Lateral, Dominguez Channel and the Consolidated Slip (within the Port of Los Angeles). The Torrance Lateral is a fenced, concrete-lined open drainage sewer that flows eastward until it merges with the Dominguez Channel.
+
+Historical stormwater runoff from the Montrose operations may have had impacts on fish and the marine environment in these areas. In 2008, EPA completed an ecological risk assessment to study the impacts on the marine environment. In 2007, EPA completed a focused human health risk assessment at the Consolidated Slip to study the impacts on human health. EPA has detected high levels of DDT in the sediments and fish collected in the Consolidated Slip, andhuman health risks are associated with fish consumption. Since 1985, the State of California has maintained a health advisory that recommends limits on the consumption of sport fish caught in the area.
+
+**\- OU 3G: Montrose/Del Amo Dual-Site Groundwater -** consists of the study and cleanup of the groundwater contamination, which includes chlorobenzene, benzene, and various chlorinated solvents originating from both the Montrose and Del Amo Superfund sites, as well as from additional sources. This contamination has commingled (or mixed), and EPA refers to it as “the Dual-Site Groundwater” or the “Dual-Site Operable Unit.” EPA oversees work on the contaminated groundwater (and vapor intrusion pathway) at both Sites at the same time. The groundwater contaminant plume extends more than 1.3 miles from the former Montrose plant property, where it originated, and occurs in up to six interconnected “hydrostratigraphic units,” or water-bearing layers. The extent (or boundary) of the dual-site contamination plume is different in each aquifer.
+
+Currently, the contamination has not been detected in groundwater that is used for drinking water. EPA is focused on protecting the drinking water supply of the cities of Torrance, Carson, Lomita, Gardena and Los Angeles as well as the West Carson neighborhood of unincorporated Los Angeles County.
+
+**\- OU 3D: Montrose/Del Amo Dual-Site Dense Non-Aqueous Phase Liquid (DNAPL) -** consists of the study and cleanup of a highly concentrated mass of chlorobenzene in the form of dense non-aqueous phase liquid (DNAPL) located under the former Montrose plant property. Chlorobenzene is one of the main ingredients used to make DDT. Excess chlorobenzene from the historic DDT manufacturing process has slowly moved down through the soil and is now trapped in spaces between the soil particles in the form of DNAPL. The DNAPL chlorobenzene mass is a current “source” of the chlorobenzene groundwater contamination, meaning the DNAPL continues to slowly contaminate the groundwater every day. It takes only a small amount of dissolved chlorobenzene for the groundwater to be extremely toxic and unsafe for drinking. Removing the chlorobenzene DNAPL from the ground will make the groundwater cleanup successful and more efficient.
+
+**\- OU4: Historic Stormwater Pathway – North (OU4) -** consists of the study and removal of DDT contamination in shallow soil of residential properties along the west side of Kenwood Avenue, north of Torrance Boulevard. In 2000, EPA found that soil in some of the residential yards on the west side of Kenwood Avenue contained DDT at levels that posed an unacceptable health risk to residents. This DDT-contaminated soil is a legacy of Montrose releasing contaminated surface water into the historical Kenwood Ditch. From 2001 to 2002, EPA removed shallow soils contaminated with DDT and restored the yards.
+
+EPA placed the soil and debris from these yards into six aboveground temporary storage cells on the former Montrose plant property *(See OU1: On and Near Property Soils)*. EPA continues to maintain and inspect the storage cells at least once per month, and conducts repairs if needed to ensure that they continue to protect human health and the environment.
+
+**\- OU5: Palos Verdes Shelf -** consists of a large area of DDT and PCB contaminated sediment located in the ocean off the coast of the Palos Verdes peninsula near Los Angeles, California. The offshore site stretches from Point Fermin in the southeast to Palos Verdes Point in the northwest, a distance of about 15 kilometers (km). The shelf varies in width from approximately 1 to 6 km, begins in water depths of 30 meters and gently slopes to water depths of approximately 70 to 100 meters (m), where the shelf breaks. At the shelf break, the slope increases to 13 to 18 degrees, leading to the ocean floor at depths of over 800 meters.
+
+DDT is present in the Palos Verdes sediments largely as a result of wastewater discharges from the former Montrose Chemical Corporation DDT manufacturing plant in Torrance. Wastewater containing significant concentrations of DDT was discharged from the Montrose plant to local sewers and conveyed to the Joint Water Pollution Control Plant (JWPCP) owned and operated by the County Sanitation Districts of Los Angeles County. Wastewater from the JWPCP is discharged to the Pacific Ocean through submarine outfalls located off White Point on the Palos Verdes peninsula. It is estimated that over 1,700 tons of DDT were discharged by the JWPCP from the late 1950s to the early 1970s.
+
+PCBs from several sources in the greater Los Angeles area were also discharged into the sewer system and released through the White Point outfalls. Much of the DDT and PCBs released through the outfalls settled on the ocean floor along with the suspended solids and other contaminants in the JWPCP effluent, forming what is referred to as an effluent-affected sediment layer. The DDT- and PCB-contaminated sediment deposit covers portions of both the continental shelf (the Palos Verdes Shelf) and continental slope off the Palos Verdes peninsula and ranges in thickness from 5 centimeters (cm) to greater than 60 cm. The total volume of the effluent-affected sediment deposit is over 9 million cubic meters, with approximately 70% of this volume on the continental shelf (i.e., in water depths less than 100 m). In its 1994 report, the U.S. Geological Survey characterized an area of 44 km2 (17 square miles) on the Palos Verdes Shelf with elevated levels of DDT and PCBs in surface sediments. Subsequent data showed that the effluent-affected DDT- and PCB-contaminated sediments covered a larger area, and EPA expanded the PVS study area to include sediments from Point Fermin in the southeast to the southern edge of the Redondo canyon, northwest of the Palos Verdes peninsula. EPA's evaluation of potential cleanup actions is focusing on the areas of highest contamination.
+
+**\- OU6: Historic Stormwater Pathway-South -** consists of the study and removal of DDT-contaminated soil along the historical Kenwood Ditch south of Torrance Boulevard. Today, this area includes portions of the industrial property at 20846 Normandie Avenue (formerly ECI). This area also includes deep underground portions of the backyards of seven homes immediately east of the former ECI property. The extent of OU6 south of Torrance Boulevard will be better determined after the remedial investigation (RI) is complete.
+
+In 2005 and 2006, under EPA oversight, Montrose collected soil samples from this area. In the deep soil (12 to 20 feet below ground), EPA found that levels of DDT were above background levels (above naturally occurring concentrations). In 2010, EPA published a focused human health risk assessment for the property at 20846 Normandie Avenue and the backyards of adjacent residential homes.  
+  
+ECI performed two different removal actions over the years. In 2005, ECI removed about 2,000 cubic yards of DDT-contaminated shallow soils from its property and transported the excavated soils for disposal offsite. In 2015, ECI began activities to remove additional DDT-contaminated soils from its property. When EPA received complaints from the community about dust from the soil removal activities, EPA issued an order requiring ECI to adequately cover and control the soils. In September 2016, ECI removed about 8,000 cubic yards of soil from its property for disposal offsite and backfilled the excavated area. In December 2017, the ECI property was purchased by a developer who intends to build a warehouse. Any remaining DDT-contaminated soil is deep underground, and people are not currently being exposed. In late September 2021, the Bridge Point South Bay II Warehouse Project began. EPA continues working with local and State agencies on this redevelopment effort. EPA will remain onsite for the entirety of the earth moving portion of the project, scheduled to finish later this spring.
+
+**\- OU7: Jones Chemical Company -** consists of the study of site-related contamination in soil, soil gas and groundwater on or near the Jones property, located on the former Montrose plant property. Jones owns and operates an industrial chemical supply plant located at 1401 Del Amo Boulevard in Torrance, California, immediately south of the former Montrose plant property. Operations at the Jones property include repackaging, warehousing, and distribution of inorganic chemicals used mostly in the treatment of drinking water as well as waste and wastewater treatment.  
+  
+In the past, Jones released volatile organic compounds (VOCs) and other contaminants to a dry well on the property. These VOCs may have contained trichloroethylene (TCE) and tetrachloroethylene (PCE). In 2010, under EPA oversight, Jones began the RI for contamination at its property. Jones sampled indoor air, soil gas, soil and groundwater. The goal of the sampling is to better define areas where VOCs and other contaminants may have been released by Jones’ historical operations.
+
+In 2016, EPA completed a soil gas investigation in the neighborhoods and commercial areas near the former manufacturing facilities. EPA found high levels of PCE in the soil gas immediately south of the Jones property. Therefore, Jones, under EPA oversight, has done additional sampling and has established a monitoring protocol to make sure the community is not exposed to these contaminants.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions. Remedial Actions have taken place in OU 3G and OU5, respectively. EPA has also conducted various removals, which are summarized below. Additional information can be found in the site data & documents section.
+
+**\- OU 3G: Montrose/Del Amo Dual-Site Groundwater-** Under EPA oversight, Montrose designed, built, tested, and is operating the groundwater extraction and treatment system (groundwater treatment system). In 2013, under EPA oversight, Montrose began constructing the groundwater treatment system, which includes groundwater extraction and injection wells, a water treatment facility located on the former Montrose plant property at 20201 Normandie Avenue and injection wells. Between 2015 and 2018, Montrose conducted a series of functional tests and upgraded the groundwater treatment system.
+
+Starting in February 2019, the groundwater treatment system started operating continuously and successfully removed hazardous substances, including chlorobenzene, TCE and PCE. In addition, the groundwater treatment system successfully reduced the concentration of the chemical para-chlorobenzene sulfonic acid (pCBSA). After treatment, the water has met all applicable standards. EPA expects the groundwater outside the TI Waiver Zone to meet all applicable standards in about 50 years.
+
+**\- OU 5: Palos Verdes Shelf-** Since 2004, EPA and its key stakeholders have been carrying out strategic planning of the Palos Verdes Shelf Institutional Controls (ICs) Program which has demonstrated success in reducing human exposure to contaminated white croaker. The institutional controls program has three major elements: public outreach and education, fish monitoring, and enforcement. The public outreach and education program is being implemented by EPA in collaboration with several federal, state and local agencies, environmental groups and community-based organizations. To facilitate coordination and cooperation among these entities, EPA created the Fish Contamination Education Collaborative, which guides the implementation of EPA's PV Shelf programs. The goal of the program is to conduct education for the most affected populations, so they can make informed decisions about fish contamination issues. The outreach efforts have been conducted in English, Spanish, Cambodian, Chinese, Tagalog, Korean, Vietnamese, Chamorro, Samoan, Marshallese and Tongan. The current program focus is to measure risk reduction through the ICs program implementation. EPA, with assistance from all stakeholders, put together a road map for the Institutional Controls Program which outlines the numeric objectives and associated strategies and tactics for the program.More information on the Fish Contamination Education Collaborative is available at [http://www.pvsfish.org](http://www.pvsfish.org/).
+
+On September 30, 2009, EPA signed an interim Record of Decision (ROD) that selected an initial remedial action for PV Shelf of capping, monitored natural recovery, and institutional controls. However, the results of the 2009 Baseline Sediment Monitoring Report and the First Monitored Natural Recovery Report data from 2013-2016 indicated that the site condition has changed, and the interim remedy may no longer be effective for the site. Therefore, EPA is developing a Feasibility Study in support of the final site remedy selection.
+
+**Additional Removals:**
+
+**\- *Soils in the Neighborhoods near the Former Montrose Plant Property-*** In the 1990s, EPA extensively studied DDT contamination in shallow soils of residential properties within 30 square blocks of the former Montrose plant property. These investigations showed DDT soil levels in the yards of residential properties to be similar to DDT soil levels in the rest of the southern Los Angeles area. There are three exceptions: 1) residential yards on the west side of the Kenwood Stormwater Drainage Pathway; 2) six residential yards along 204th Street; and 3) seven residential properties south of Torrance Boulevard.
+
+***\- Soils in the 204th Street Neighborhood -*** In October 1993, EPA sampled 12 homes located on West 204th Street and New Hampshire Avenue and a nearby vacant area along the Del Amo alley. During that time, EPA found high levels (32 ppm and 11 ppm) of DDT in the shallow surface soils of two residential yards on the north side of West 204th Street. In 1994, EPA further studied these two properties and found DDT at concentrations up to 4,500 ppm, visually finding chunks of DDT. Using aerial photos, EPA concluded that this area was once a ravine where fill material was brought from the former Montrose plant property. In April 1994, EPA removed all the surface soil (down to seven feet deep) of the two backyards where the DDT concentration exceeded 26 ppm, removing over 1,000 tons of material. In July 1994, EPA extensively sampled the soil in the yards of homes between 1117 and 971 West 204th Street for DDT and VOCs, taking core samples up to 25 feet deep. Over 30 households were voluntarily relocated for these removal and sampling efforts. By the end of 1994, EPA completed initial sampling efforts of soil, indoor air, indoor dust and tap water in residential homes along West 204th Street.
+
+In 1995, EPA determined that the DDT-contaminated fill material was contained within six adjacent residential properties on West 204th Street. EPA postponed a cleanup action of the DDT fill in the West 204th Street neighborhood to support residential property purchase negotiations between the community and Shell Oil Company (Shell). In September 1998, (after the Shell buyout of homeowners in this area), EPA completed an emergency cleanup action to excavate (or dig up) the DDT contaminated fill material. This material was incinerated at a permitted offsite incinerator facility. Site-related cleanup in the 204th Street neighborhood is complete.
+
+**\- *Sanitary Sewer System-*** During much of the history of its operations, Montrose discharged wastes containing DDT, chlorobenzene and other contaminants into the sanitary sewers under Normandie Avenue. As a result, sediments in the nearby sanitary sewers contained high levels of DDT.
+
+In September 1992, EPA approved plans to clean up DDT-contaminated sediments in the sanitary sewer within a half-mile of the former Montrose plant property. The cleanup action was delayed until LA County finished installation of a replacement sewer line. Between 1996 and 1998, EPA removed over 100 tons of contaminated sediment from the sanitary sewers near the former Montrose plant property. Should additional DDT contamination in other reaches of the sewers be found, EPA will evaluate whether additional investigation or cleanup is warranted at that time.
+
+### What Is the Current Site Status?
+
+**November 2024 Update:**
+
+EPA will do a [Five-Year Review](https://www.epa.gov/superfund/superfund-five-year-reviews) that looks at groundwater contamination at this site in 2025. It will cover:
+
+- Montrose OU3G: Dual Site Groundwater
+- Montrose OU3D: DNAPL
+
+The purpose of the Five-Year Review is to evaluate the protectiveness of the remedial action ("cleanup"). The Five-Year Review will include a site inspection, extensive review of site data, and interviews with stakeholders and the community to assess protectiveness of the remedial action that was selected in each cleanup plan (Record of Decision). EPA will complete the Five-Year Review report no later than September 30, 2025. When complete, EPA will post a copy on the report on this webpage and send a copy to the information repository.
+
+EPA completed the Third Five-Year Review for OU5: Palos Verdes Shelf, which can be found [here](https://semspub.epa.gov/work/09/100038306.pdf).
+
+EPA is addressing site cleanup in phases that align with the contaminated media:
+
+- Soils on, and at properties next to, the former Montrose plant property
+- Non-aqueous phase liquid (NAPL) at the former Montrose plant property
+- Groundwater contamination
+- Residential soils
+- DDT-contaminated sediment at Palos Verdes Shelf
+
+**Initial Actions**
+
+Initial actions in 1985 included dismantling of the plant and construction of a temporary asphalt cover over contaminated areas. EPA required that the site’s potentially responsible party (PRP) enlarge the asphalt cover twice. The PRP inspects the asphalt cap monthly.
+
+***Soils on*** ***and at*** ***Properties next to the Former Montrose Plant Property:*** A feasibility study to identify remedial alternatives is underway. Other site studies to determine the treatability of contaminants are ongoing. The draft feasibility study identified capping and excavation, treatment and disposal of contaminated soil as possible remedial alternatives.
+
+***NAPL at the Former Montrose Plant Property:*** After the proposed plan was published in 2014, a Record of Decision was signed on September 2020. Currently we are in the remedial design and remedial action phases, and EPA expects full implementation of the remedy in 2023.
+
+***Historic Stormwater Pathway South Operable Unit:*** The Southern Historic Stormwater Pathway begins south of Torrance Boulevard and includes portions of the former ECI Property, as well as the backyards of seven residential homes east of the former ECI Property. Starting in the 1960s, the stormwater pathway began to be developed and replaced by a large underground box drain system. The Southern Historic Stormwater Pathway, stretching east from the now closed Royal Blvd Landfill to Vermont Ave, is being investigated by the Montrose Chemical Corp. under an EPA order and oversight. This Investigation Area will encompass the now buried Southern Historic Stormwater Pathway, which includes 34 residential parcels. Montrose will test the soil in this area and in the residential yards in summer 2022. EPA will use this information to determine if DDT and other chemicals are present in the area and if so, is there a potential risk to human health or the environment.
+
+**Remedy Selected**
+
+***OU 3G: Montrose/Del Amo Dual-Site Groundwater –*** In 1999, EPA selected a remedy for the Site groundwater to protect long-term human health and the environment. The remedy includes isolation of non-aqueous phase liquid (NAPL), referred to as TI Waiver Zone, dissolved phase plume cleanup, monitoring, and governmental controls to prevent exposure. The remedy also included treatment and monitoring of a unique site-related chemical, para-chlorobenzene sulfonic acid (pCBSA).
+
+Once the groundwater treatment system is operating as intended in the Record of Decision, EPA expects the groundwater outside the TI Waiver Zone to meet all applicable standards in about 50 years.
+
+***OU 3D: Montrose/Del Amo Dual-Site Dense Non-Aqueous Phase Liquid (DNAPL) –*** On September 2020, EPA selected Electrical Resistance Heating (ERH) in the 2020 DNAPL Record of Decision. This remedy applies ERH within a focused area of the Site where mobile DNAPL is known to be present.
+
+***OU5: Palos Verdes Shelf -*** On September 30, 2009, the EPA signed an [interim Record of Decision (ROD)](https://semspub.epa.gov/work/09/1118039.pdf) that selected an initial remedial action for PV Shelf of capping, monitored natural recovery, and institutional controls. However, the results of the 2009 Baseline Sediment Monitoring Report and the First Monitored Natural Recovery Report data from 2013-2016 indicated that the site condition has changed, and the interim remedy may no longer be effective for the site. Therefore, EPA is developing a Feasibility Study in support of the final site remedy selection.
+
+**Cleanup Ongoing**
+
+***OU 3G: Montrose/Del Amo Dual-Site Groundwater –*** Full-time operation of the groundwater treatment system started in February 2019 and is operating continuously. As of January 2024, the groundwater treatment system has removed and treated 65,776 lbs of site contaminants from the groundwater.
+
+Five Year Review: EPA completed the second Five-Year Review for OU 3G in September 2020. EPA concluded that there is no exposure to contaminated groundwater, and no evidence that indicates vapor intrusion from the Dual Site groundwater contaminants into indoor air. EPA concluded that *“* *the* *groundwater remedy for the Dual Site Groundwater Operable Unit of the Montrose Chemical and Del Amo Superfund Sites is expected to be protective of human health and the environment upon completion.”* (Note that groundwater treatment system had not been fully tested at the time of the Five-Year Review)
+
+***OU 3D: Montrose/Del Amo Dual-Site Dense Non-Aqueous Phase Liquid (DNAPL) –*** In 2017 Montrose started a first pilot study, which included electrical resistance heating and soil vapor extraction in a specific area, and was able to remove 26,600 pounds of total volatile organic compounds. In 2020, a second pilot study that included a soil vapor barrier has been able to remove 183,561 lbs of VOCs since March 2,/2020.
+
+***OU5: Palos Verdes Shelf -*** Based on the 2009 Baseline Sediment Report results, EPA suspended the capping component of the remedy. EPA continues to implement the Monitored Natural Recovery and the institutional controls components of the remedy.
+
+***Monitored Natural Recovery (MNR):*** EPA collected and analyzed fish tissue, sediment, and water samples between 2013 and 2016 to establish a baseline for the Monitored Natural Recovery program. The results of the MNR effort indicated that the DDTs are dechlorinating and the concentrations of DDTs and PCBs in fish, sediment, and water column are generally decreasing.
+
+***Institutional Controls:*** With the assistance of the local government agencies, universities, non-profit community groups, and California Fish and Wildlife, EPA continues to:  
+1) implement existing public outreach and education efforts to increase awareness and understanding of the existing fish consumption advisories and fishing restriction;  
+2) evaluate and track contaminant concentrations in fish (mainly white croaker) caught at or near the site, as well as those sold in retail fish markets and served in restaurants; and  
+3) enforce the existing commercial and recreational restrictions on white croaker fishing established by the California Department of Fish and wildlife.
+
+**Cleanup Complete**
+
+***Kenwood Stormwater Drainage Pathway:*** Voluntary cleanup by 24 homeowners began in 2001. The removal action excavated and stored about 10,000 cubic yards of contaminated soil. Cleanup finished in 2002. An additional removal action at one property took place in 2008.
+
+***DDT-contaminated Sediments in the Existing Stormwater Pathway:*** Cleanup is complete at this site.
+
+***Sediments in Sanitary Sewers:*** In 1996, EPA removed and incinerated about 106 tons of sediments. Removal of the rest of the contaminated sediments was finished in1998. Cleanup is now complete.
+
+***DDT-Contaminated Fill Material:*** EPA removed contaminated soil at six residences but was unable to remove all of it. EPA temporarily relocated 30 families in 1994. In 1999, EPA removed and incinerated the rest of the DDT-contaminated fill material at the residences.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls.](https://www.epa.gov/superfund/superfund-institutional-controls)
+
+**OU 3G: Montrose/Del Amo Dual-Site Groundwater –**
+
+- **Continue existing regulations:** EPA coordinates with the State Water Resources Control Board’s Division of Drinking Water (DDW) and Los Angeles County regarding the existing legal and regulatory prohibitions and restrictions on groundwater use for the affected groundwater at the Site.
+- **Well surveys:** EPA will conduct wells surveys to monitor groundwater use within the area of groundwater affected by contamination at the Site as part of each Five-Year Review. The 2020 Five-Year Review determined that there were no domestic water supply wells within the contaminated area, and no one was currently drinking the Site groundwater.
+
+**OU5: Palos Verdes Shelf –**
+
+- [**Fish Consumption Advisory:**](https://oehha.ca.gov/advisories/santa-monica-beach-south-santa-monica-pier-seal-beach-pier) California EPA’s Office of Environmental Health Hazard Assessment (OEHHA) has issued health warnings for consumption of certain fish off Palos Verdes and other Southern California sites in 2009.
+- **White Croaker Commercial Fishing Ban:** In 1990, the California Department of Fish and Game closed commercial fishing of white croaker on the Palos Verdes Shelf and nearby areas due to health risks posed by DDT and PCB contamination. Commercial fishing for other species of fish is permitted.
+- **White Croaker Bag Limit:** In 1998, the Department of Fish and Game established a bag limit for white croaker on the Palos Verdes Shelf and nearby areas to address the concern that sport fishermen may be illegally selling their white croaker catch to markets.
+
+### Sampling and Monitoring
+
+**OU 3G: Montrose/Del Amo Dual-Site Groundwater –**
+
+Annual Monitoring for the Monitoring and Aquifer Compliance Report. Comprehensive Groundwater Monitoring is conducted in September every year. Water levels in almost 500 wells are verified and a portion of those wells are sampled. The results of the annual groundwater monitoring event for the Montrose Chemical Corporation of California (Montrose) and Del Amo Superfund Sites, are presented in a combined report the following February. The groundwater monitoring is conducted in accordance with the EPA-approved Monitoring and Aquifer Compliance Plans.
+
+**OU5: Palos Verdes Shelf –**
+
+[Revised Final Data Report for the Fall 2009 Sediment Sampling Program, dated November 2013](https://semspub.epa.gov/work/09/100016664.pdf) (2009 Sediment Study)  
+In support of the capping and monitored natural recovery components, EPA conducted a Baseline Sediment Study in 2009. Surprisingly, these results indicated that an interim sediment cap may be unnecessary since the post-cap installation sediment goals for DDTs and PCBs appear to have been achieved. Therefore, EPA suspended the sediment cap design efforts.  
+
+[First Monitored Natural Recovery Report, Data Collection 2013-2016, dated May 2018](https://semspub.epa.gov/work/09/100008054.pdf) (First MNR Report)  
+Between 2013 and 2016, EPA collected and analyzed fish, sediment, and water samples as a part of the Monitored Natural Recovery (MNR) effort. The results indicate that overall, conditions at PV Shelf regarding chemicals of concern (COC) contamination in sediment appear to be improving – concentrations in the 0-2 centimeters (cm) bed-depth interval continue to decline, and concentrations in the 0-8 cm bed-depth interval were lower than the performance objectives related to the interim cap described in the interim Record of Decision (ROD), even without the cap. However, significant areas of sediment remain highly contaminated, and COC concentrations in samples of water and fish exceeded the associated interim ROD cleanup goals, both for DDT and polychlorinated biphenyl (PCBs). EPA will continue the MNR sampling program to evaluate the effectiveness of MNR and to develop final remediation alternatives for PV Shelf cleanup.

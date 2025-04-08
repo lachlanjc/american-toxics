@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Central City, Clear Creek site consists of a 400-square-mile watershed extending from the Continental Divide east to near Golden, Colorado. The site is located in Gilpin and Clear Creek counties. The discovery of gold near Idaho Springs, Central City and Black Hawk in 1859 played a significant role in Colorado’s gold rush. For the next 20 years, the Black Hawk/Central City area was the leading mining center in Colorado primarily due to the construction of mills to process the gold and silver mined nearby. The silver crash in the 1890s led to a decline in area mining, but mining remained an important industry in Clear Creek and Gilpin Counties until about 1950. Only a limited number of mines are currently in operation.  
+The site consists of multiple mine waste piles, tailings impoundments and draining mine adits. Historic mining and milling activities resulted in the watershed becoming contaminated with heavy metals. Several mine waste piles have been cleaned up, and two water treatment plants are operating in the Site to capture and treat mine impacted water.  
+  
+Site investigations occur within the entire Clear Creek watershed, which was designated as a Study Area. Locations within the Study Area that are impacted by historic mining activities are considered part of the Superfund Site. The Agencies are currently working to define the formal Site boundary.  
+Due to the evolving science on lead and the increased development in areas of the Study Area, the EPA and CDPHE designated OU5 to investigate the nature and extent of contamination that exists in mine waste piles in residential areas of the Study Area.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+EPA has conducted [five-year reviews](https://semspub.epa.gov/src/document/08/2216507) [(pdf)](https://semspub.epa.gov/src/document/08/2216507) (910 pp, 49.64 MB) at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that the remedy at the site remain protective of human health and the environment, but potential risk posed by heavy metals in mine waste piles in residential areas should be investigated. EPA placed the site on the Superfund program’s National Priorities List (NPL) in September 1983.
+
+### What Is the Current Site Status?
+
+Based on the January 2024 Updated Lead Guidance, the EPA is evaluating the risks from lead in soils to sensitive populations. This analysis will include compiling available site data to determine the potential presence and extent of lead-contaminated soils. Lead can pose health risks to sensitive populations, especially children under 7 years old and pregnant or nursing women. The process to implement the Updated Lead Guidance will involve additional planning, data gathering, risk assessment and funding requests. EPA will coordinate with our state partners and request public feedback on our proposed cleanup plans before additional cleanups begin.
+
+While implementing the Updated Lead Guidance may take up to a year to complete, the EPA and CDPHE will share information on planned activities and results as they become available. In the meantime, and out of an abundance of caution, if you live near the Central City/Clear Creek Superfund Site, the EPA recommends you have your children tested for lead annually; especially those under 7 and if the soil at your property was not replaced previously. Additionally, you can take some simple actions to limit exposure to potential lead contamination in soils, including:
+
+- Maintaining yards and other soil cover;
+- Washing hands, especially children’s, after handling soil, playing outside, and before meals;
+- Making sure children eat nutritious meals high in iron and calcium;
+- Keeping dust levels down by mopping and damp dusting regularly;
+- Regularly changing out furnace filters;
+- Keeping kids’ toys and play areas clean;
+- Taking shoes off at the door and keeping pets clean;
+- Wearing gloves while gardening; and
+- Cleaning homegrown produce and peeling root vegetables.
+
+The EPA Central City/Clear Creek Superfund Site team will communicate with residents affected by this guidance about the specific next steps the Agency will take in their community. Residents may also contact the site’s Community Involvement Coordinator, Ashlin Brooks, with questions or concerns at ( [brooks.ashlin@epa.gov](mailto:brooks.ashlin@epa.gov?subject=Central%20City%20Clear%20Creek) ) or (617) 913-9140.
+
+The site consists of five areas, referred to by EPA as operable units (OUs).  
+  
+**OU1** was designated to address acid mine drainage from five mine tunnels using passive treatment. The technology was later found to be infeasible due to acreage requirements for the reactors and the inability of the technology to efficiently remove metals from the waste stream. OU1 was amended by OU3. The amendment included active treatment of two of the five adit discharges. The other three mine discharges were transferred to OU4; OU1 focused on addressing sources of metals contamination within the North Fork of Clear Creek watershed.  
+  
+**OU2** addresses remediation of mill tailings and mine waste rock piles associated with the five discharging tunnels in OU-1. The long-term remedy for the waste rock piles, selected in 1988, included slope stabilization at two of the piles, monitoring of the gabion wall at one of the piles and run-on control at all five piles. A 1999 update to the remedy included a combination of regrading, capping and construction of retaining walls, and runoff controls at two of the five piles. OU-2 remedial actions are complete except for the Quartz Hill tailings impoundment, which was transferred to OU4. Operation and maintenance activities are ongoing at several of the OU2 waste piles.  
+  
+**OU3** was designated for a more comprehensive evaluation of the Clear Creek watershed, including active treatment of two of the five OU1 mine discharges. The long-term remedy for OU3, selected in 1991, included an alternative drinking water supply for residents, where required; passive treatment of the Burleigh discharge; chemical treatment of the Argo Tunnel discharge; reduction in the heavy metals load from Woods Creek; a groundwater collection system in the Idaho Springs area to address non-point source metals loading to surface water and capping or physical barriers; and institutional controls for select mine waste piles. Construction of the remedy is ongoing. The conceptual design for constructing a flow-through bulkhead in the Argo Tunnel is underway. The project will entail construction of a flow control structure to prevent large releases of contaminated water and sediment from overwhelming the Argo Tunnel water treatment plant.  
+  
+**OU4** focuses on sources of metals contamination to the North Fork of Clear Creek, a major tributary to Clear Creek, including waste rock and sediment controls on tributaries to the North Fork; the three remaining OU3 adit discharges that impact the North Fork; and the Quartz Hill tailings impoundment, located on Gregory Gulch, a tributary to the North Fork. The long-term remedy, selected in 2004, included treatment of various discharges, sediment control involving capping or removal of waste piles or other measures, construction of an on-site repository, and improvements to the North Fork of Clear Creek. Remedy construction is ongoing. Work will soon begin on the Quartz Hill tailings pile in Central City. The project will entail re-grading the tailings pile to a manageable slope for runoff from rain or snow melt. The final step will be to place a vegetative cover over the pile to prevent sediment erosion into the stormwater sewer. This project will be the final remedial component for OU4.
+
+#### Operable Unit 5 (OU5)
+
+The Environmental Protection Agency (EPA) and the Colorado Department of Public Health and Environment (CDPHE) established an Operable Unit 5 (OU5) for the Central City/Clear Creek Superfund Site (the Site) in 2022. The purpose of OU5 is to evaluate potential exposures to heavy metals, primarily lead and arsenic, from mine waste piles in residential areas of the Site.
+
+For more information on OU5, including steps to protect your family’s health and potential risks to human health posed by lead and arsenic, see this [OU5 fact sheet (pdf)](https://semspub.epa.gov/src/document/08/100011934) (4 pp, 2 MB)

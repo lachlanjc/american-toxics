@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Robins Air Force Base (Robins AFB), a U.S. Air Force Material Command (AFMC) base, performs aircraft maintenance, repair and other support activities. Part of Robins AFB is a Superfund site listed on the National Priorities List (NPL) of contaminated sites; the site includes a landfill (Landfill Number 4, or LF04), a lagoon (Sludge Lagoon) and groundwater contamination. The U.S. Environmental Protection Agency, the Georgia Environmental Protection Division (Georgia EPD) and the U.S. Department of Defense (DoD) have undertaken cleanup actions at the Robins AFB site, protecting human health and the environment. Physical cleanup activities were completed in 2004. EPA, Georgia EPD and DoD continue to ensure the protectiveness of the site’s remedy through long-term monitoring and cleanup of groundwater, land use controls and required Five-Year Reviews.
+
+### What Has Been Done to Clean Up the Site?
+
+Robins AFB is located in Houston County, Georgia, approximately 18 miles south of the City of Macon. The 8,800-acre Installation includes over 14 million square feet of operational facilities and 1,400 housing units. Robins AFB is bounded to the west by the City of Warner Robins, to the north by a housing subdivision, to the south by the unincorporated area of Bonaire, and to the east by the Ocmulgee River and its floodplain.
+
+Robins AFB performs aircraft maintenance, repair and other support activities for a variety of aircraft. These activities have generated solid and industrial wastes, including hazardous wastes. From 1966 to 1978, these solid and industrial wastes were disposed of in Landfill Number 4, which is part of the NPL site. From 1962 to 1978, industrial waste treatment plant sludge and other miscellaneous industrial wastes (e.g., solvents and oils) were disposed of in the 1.5-acre unlined Sludge Lagoon that is also part of the NPL site. Sludge from the industrial waste treatment plant that was disposed of in the Sludge Lagoon included electroplating sludge containing heavy metals and cyanide. In 1978, Landfill Number 4 and the Sludge Lagoon were both closed and covered with clean fill. After an Installation-wide survey in 1982, it was determined that Landfill Number 4 and the Sludge Lagoon had the highest potential for migration of hazardous substances and were consequently placed on the EPA’s NPL of contaminated sites.
+
+- The U.S. Environmental Protection Agency, Georgia EPD and DoD worked throughout the 1990s and 2000s to clean up the Robins AFB site.Robins AFB (DoD) maintains overall responsibility for the investigation and cleanup of the site with oversight by EPA and Georgia EPD.
+- Between 1991 and 1998, cleanup activities at the site included construction for surface water run-on controls and leachate collection, treatment of the Sludge Lagoon using soil vapor extraction, and installation of an impermeable cap for Landfill Number 4 and the Sludge Lagoon.
+- In 2002, the cleanup of the wetlands and surface waters (OU-2) was transferred to Georgia EPD's RCRA Corrective Action Program after determining that the landfill and lagoon did not contribute to contamination of these areas. Other cleanup actions specific to each OU are discussed in more detail below.
+
+*Landfill Number 4 and the Sludge Lagoon (OU-1)*
+
+- Cleanup activities at Landfill Number 4 and the Sludge Lagoon began in 1991and included the installation of an impermeable cap for both areas. In addition, surface water run-on controls were constructed and leachate collection occurred. The Sludge Lagoon was also treated with soil vapor extraction and solidification. These cleanup activities finished in 1998.
+
+*Neighboring Wetlands and Surface Waters Impacted by Landfill Number 4 and the Sludge Lagoon (OU-2)*
+
+- Cleanup activities for the neighboring wetlands and surface waters impacted by the Sludge Lagoon began in 1994 and finished in 1999. In 2002, it was determined that Landfill Number 4 and the Sludge Lagoon had not contributed to the wetlands contamination; wetlands and surface water cleanup was consequently transferred to Georgia EPD’s RCRA Corrective Action Program.
+
+*Groundwater (OU-3)*
+
+- In 1997, a pump-and-treat system was installed at Landfill Number 4 to restore the groundwater at the site. This system has operated continuously from 1997 and continues to operate today.
+
+*Conclusion*
+
+- Five-Year Reviews were completed for the Robins AFB site in 2001, 2006, 2011 and 2016. The 2016 Five-Year Review found the remedy at the Robins AFB site to be protective of human health and the environment. The next Five-Year Review for the site is scheduled for summer 2021.
+- The Robins AFB site achieved Construction Completion status in 2004 and currently meets EPA’s criteria for Sitewide Ready for Anticipated Use.
+
+### What Is the Current Site Status?
+
+The Robins Air Force Base site is currently in use as an active military facility. EPA selected the remedy for the Robins AFB site in a series of cleanup plans (Records of Decision, or RODs), that addressed contamination across all three OUs.
+
+- EPA approved an interim ROD for OU-1 in 1991. The cleanup approach included the diversion of surface water run-on, renovation of the landfill cap, collection and treatment of groundwater from the Sludge Lagoon, and treatment of lagoon wastes to remove VOCs and solidifying metals.
+- EPA approved the ROD for OU-2 in 1994. The cleanup approach included fencing the site to limit access. The approach also recommended monitoring to identify any changes in site conditions due to the run-on controls and redirection of industrial wastewater discharge from Landfill Number 4 and the Sludge Lagoon.
+- EPA approved an interim ROD for OU-3 in 1995. The cleanup approach included the removal of groundwater beneath Landfill Number 4, treatment of the groundwater using a pump-and-treat system, and discharge of the treated water into the Ocmulgee River under a revised National Pollutant Discharge Elimination System permit.
+- EPA approved the final ROD for OU-1 and OU-3 in 2004. The final ROD continued the remedies from the two interim RODs in 1991 and 1995. In addition, the final ROD’s remedy included maintenance of the landfill cap. To ensure the long-term protection of human health and the environment, the final ROD also selected institutional controls to limit future site uses. The selected institutional controls included groundwater use restrictions as well as access and dig restrictions to protect the landfill and sludge basin caps.
+- All physical remedies are in place. Operation and maintenance (O&M) activities and long-term treatment and monitoring are ongoing.
+- Routine operation and maintenance activities at the site include monthly inspections of the landfill cap, gas vents and surface water drainage system; periodic inspections of the groundwater pumping stations; daily inspections of all groundwater treatment plant equipment; biannual sampling of the groundwater monitoring wells; and quarterly sampling of OU-3 surface water and sediments. DoD submits annual O&M and sitewide progress reports to EPA and Georgia EPD.
+- Ground water cleanup and monitoring are ongoing. The next Five-Year Review for the site is scheduled for 2021.
+
+### Enforcement Information
+
+In 1989, Robins AFB entered into a Federal Facilities Agreement (FFA) with the EPA and Georgia EPD. The FFA outlined the process for investigation and cleanup activities at the Robins AFB site.

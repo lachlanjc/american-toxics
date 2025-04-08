@@ -1,2 +1,66 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The ASARCO site is located in Taylor Springs, Illinois, and includes the 533-acre Custodial Trust property. Within that property is a 96-acre area, called the Facility Area, where former zinc smelting operations were conducted and includes the slag yard and Coal Pocket Lake.
+
+[ASARCO Taylor Springs Superfund site location and map (PDF)](http://semspub.epa.gov/src/document/05/958948) (2 pp, 420.74 KB, About PDF)
+
+The Surrounding Custodial Trust Property Area includes the remaining 437 acres not occupied by the Facility Area. The site also includes several drainage ditches, an adjacent residential area, and an area of shallow [groundwater](https://www.epa.gov/superfund/superfund-groundwater-introduction) under the property. Elevated concentrations of metals associated with historic smelting operations were found in various areas on the ASARCO site, including the residential area.
+
+American Zinc, Lead, and Smelting Company established a metals plant on the facility area of the site in 1912 and conducted zinc smelting, refining and sulfuric acid production operations from 1912 to 1930. Operations at the site included mining and storage of coal, primary slab zinc production, sulfuric acid production, secondary slab zinc production, American Process zinc oxide production, and French Process zinc oxide production. Waste products from plant operations were transported and dumped within the facility area. [Coal ash](https://www.epa.gov/coalash) from the plant’s gas producing operations was also spread on the ground within the facility area. Production waste slag piles were found to contain [lead](https://www.epa.gov/lead), arsenic, cadmium and other metals. Storage of waste materials resulted in contamination of surface water and soil at the site. This contamination extended onto adjacent residential properties. Additionally, some waste materials were used as fill dirt in the neighborhood near the site.
+
+AZ began zinc oxide production in 1917. ASARCO LLC purchased the property from AZ in 1971 and continued zinc smelting and refining activities. ASARCO LLC leased the facility area to Midwest Zinc-Hillsboro, which continued to produce zinc oxide until all operations at the plant ceased in 2004 and all processing equipment was removed. The property is owned by ASARCO Multi-State Environmental Custodial Trust.
+
+The ASARCO site was added to the National Priorities List of Superfund hazardous waste sites in September 2006.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, and [potentially responsible party](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp)  actions. [Several site cleanup milestones have already been achieved](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0508170#Milestone).
+
+EPA completed the remedial investigation and feasibility study phase of the Superfund process in 2021 and issued a proposed cleanup plan for the site for public comment in June 2021. EPA issued its Record of Decision in September 2021, which documents the Agency’s selected remedy to address contaminated soil, sediments, groundwater, and surface water at the site. The selected remedy, estimated to cost $43.7M, includes excavation of lead-contaminated soils and process residues from the former ASARCO property and the adjacent residential area, on-site consolidation of the materials beneath a low-permeability cap in a 45-acre area of the former ASARCO property, and institutional controls to restrict land and groundwater use and protect constructed remedy components. The selected response action for residential properties is considered interim because it relies on a cleanup level in residential soil based on EPA’s current policy for lead contamination in soil, and that policy is currently under evaluation for possible changes.
+
+A [Record of Decision (PDF)](https://semspub.epa.gov/src/document/05/969705) (133 pp, 11.59MB, [About PDF](https://www.epa.gov/home/pdf-files) ) was issued in September 2021.
+
+Learn about the selected cleanup technologies and methods
+
+- [A Citizen's Guide to Excavation of Contaminated Soil (PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_excavation_of_contaminated_soil.pdf) (EPA 542-F-12-007) (2 pp, 655 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [A Citizen's Guide to Monitored Natural Attenuation (PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_monitored_natural_attenuation.pdf) (EPA 542-F-12-014) (2 pp, 878K, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [A Citizen's Guide to Capping (PDF)](https://clu-in.org/download/Citizens/a_citizens_guide_to_capping.pdf) (EPA 542-F-12-004) (2 pp, 840 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [Superfund Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls)
+
+Before U.S. EPA listed the site on the [National Priorities List](https://www.epa.gov/superfund/about-superfund-cleanup-process#npl), Illinois EPA investigated the facility area in 1994 in response to an anonymous complaint that demolition debris was buried there. ASARCO LLC conducted three phases of investigations between 1995 and 2000. IEPA conducted a  [CERCLA](https://www.epa.gov/superfund/superfund-cercla-overview) site investigation in 2001. In 2003, IEPA conducted sampling at 17 residential properties, roads and alleyways in the Village of Taylor Springs and found elevated lead levels in soils.
+
+[What Are the Risks at the Site?](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.Healthenv&id=0508170#Risk)
+
+### What Is the Current Site Status?
+
+U.S. EPA is starting soil sampling for lead in yards near the ASARCO Taylor Springs Superfund site in 2023. The sampling will help the agency prepare a design for the actual cleanup of yards that may need it. Some of the sampling may include properties previously sampled. The Agency is asking owners to sign an access agreement to do the sampling and any possible future cleanup at no cost to property owners or residents.
+
+[Stay updated and get involved](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.Stayup&id=0508170).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The 533-acre Custodial Trust property portion of the ASARCO site is a vacant property owned and managed by the Custodial Trust which is currently zoned industrial. Access is restricted and “no trespassing” signs are posted. The property is currently secured with locked fencing.
+
+### Emergency Response and Removal
+
+EPA is cleaning up properties with the highest lead levels this fall, which are properties with lead concentrations above 1,200 milligrams per kilogram (mg/kg). For residents wondering about their yards that were sampled and received notice of lead concentrations exceeding the interim cleanup level of 400 mg/kg for lead, the Agency will clean those up under the Superfund Remedial Program pending availability of federal funding.
+
+EPA will also continue sampling soil at residential properties surrounding the former ASARCO facility to determine which additional properties may require cleanup. If you are interested in having your property sampled, please contact an EPA representative to request an access agreement form or visit EPA’s webpage to download and print a form. Residents can also visit the Taylor Springs Village Hall at 626 E. Main St. to pick up a form. The next sampling event is scheduled to occur in Spring 2024. Sampling and cleanup is done at NO COST to owners or tenants.
+
+- [Fact Sheet: EPA Conducting Cleanup at Properties, September 2023 (PDF)](https://semspub.epa.gov/work/05/985509.pdf) (2 pp, 654 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [Fact sheet: EPA to begin removal of lead contamination in yards (PDF)](http://semspub.epa.gov/src/document/05/359607) (2 pp, 155.68 KB)
+- [EPA Action Memo - Determination of Need to Conduct Time-Critical Removal Action, 2007 (Redacted) (PDF)](http://semspub.epa.gov/src/document/05/276842) (16 pp, 1.51 MB)
+- [Portal for 2006 ASARCO Taylor Springs site time-critical removal activities](https://response.epa.gov/site/site_profile.aspx?site_id=3625)
+- [Emergency Response portal](https://www.epa.gov/emergency-response/emergency-response-alternatives)
+
+### Enforcement Information
+
+In September 2007, EPA entered into an agreement with Blue Tee Corp. (Blue Tee), the successor company to AZ, to conduct an emergency cleanup action at the residential area, removing soil with elevated soil levels from 31 properties. The responsible parties completed cleanup and restoration of certain residential properties in the Superfund site in 2008. Following that cleanup action, site investigations and cleanup planning continued. Between November 2011 and September 2013, Blue Tee conducted an additional site investigation. Shortly thereafter, Blue Tee stopped performing the work, and in 2016 EPA notified Blue Tee that EPA was taking over the work to complete the investigation and develop a cleanup plan.
+
+More information:
+
+[Administrative Order & Agreement on Consent for Removal, 2007 (Signed) - Blue Tee Corp. (PDF)](http://semspub.epa.gov/src/document/05/278287) (28 pp, 1.7 MB)

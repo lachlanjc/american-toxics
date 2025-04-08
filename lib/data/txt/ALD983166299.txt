@@ -1,2 +1,63 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Triana/Tennessee River [Superfund](http://www.epa.gov/superfund) site is located in in Morgan, Madison and Limestone counties in northern Alabama. The site includes an 11-mile reach of the Huntsville Spring Branch and Indian Creek tributaries of the Tennessee River. The site is located completely within the Wheeler National Wildlife Refuge and the Redstone Arsenal. Created in 1938, the Refuge provides important habitat for migrating birds as well as many other bird species, while the Arsenal is home to the U.S. Army Aviation and Missile Command and other defense-related agencies.
+
+From 1947 to 1970, Olin operated a pesticide manufacturing plant within the U.S. Army's Redstone Arsenal and discharged wastewater into Huntsville Spring Branch. The primary contaminants of concern are dichloro-diphenyl-trichloroethane (DDT) and its breakdown products. Access to the site is highly restricted given its location within the perimeter of the Redstone Arsenal.
+
+In 1983, U.S. Environmental Protection Agency (EPA) listed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) because of contaminated soil, sediment, surface water, and fish in Huntsville Spring Branch and Indian Creek. EPA, the [Alabama Department of Environmental Management (ADEM)](http://www.adem.state.al.us/default.cnt) and the Olin Corporation (Olin), the site’s [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+**1983**  
+In 1983, the State of Alabama, EPA and the site’s PRP, Olin Corporation, entered into a legal agreement, referred to as a Consent Decree (CD), requiring that the PRP carry out a cleanup plan to address contamination in fish tissue. The 1983 Consent Decree also created a Review Panel to provide oversight of site activities.
+
+The Review Panel includes representatives from the U.S. Fish and Wildlife Service, the Tennessee Valley Authority, EPA, the U.S. Army, and the State of Alabama. Remedial actions called for by the 1983 cleanup plan included:
+
+- backfilling and burial of contaminated material in part of the stream channel;
+- digging a new channel to re-route the stream; and,
+- construction of diversion structures to prevent the stream from flowing to the former channel, while also diverting stormwater runoff to prevent flow across the filled channel.
+
+The cleanup plan in the 1983 CD called for annual fish monitoring to be conducted as follows:
+
+- Three reaches of water were defined as A, B, and C;
+- Largemouth bass, channel catfish, and smallmouth buffalo would be sampled in each reach until continued attainment of the DDT performance standard of 5 parts per million (ppm) in fish fillets. Continued attainment was defined as three consecutive years of attaining the 5 ppm performance standard.
+- After all three fish species had achieved continued attainment of the performance standard of 5 ppm in each reach, the 1983 Consent Decree then called for cancellation of annual fish sampling for seven years, after which Olin would demonstrate to the Review Panel that the remedy will continue to provide achievement of the performance standard. each fish species in each reach would be sampled again. Sampling of all three fish species in each reach is planned at the end of this seven year period.
+
+**1987 - 1988**  
+In 1987, the PRP completed the cleanup actions detailed in the 1983 Consent Decree, effectively isolating at least 95 percent of the DDT estimated to be in Reach A.
+
+The PRP stopped groundwater sampling in 1997 because sampling did not detect any significant groundwater impacts.
+
+- In 1988, annual fish monitoring began:
+- In 1994, largemouth bass had achieved continued attainment of the performance standard in all three reaches A, B, and C;
+- In 2003, channel catfish had achieved continued attainment of the performance standard in all three reaches A, B, and C; and,
+- In 2015, smallmouth buffalo had achieved continued attainment of the DDT performance standard in all three reaches A, B, and C.
+
+**2015**  
+In 2015, with the continued attainment of the performance standard for smallmouth buffalo in Reach A, the annual fish monitoring requirements of the 1983 Consent Decree were met.
+
+### What Is the Current Site Status?
+
+The [sixth Five-Year Review](https://semspub.epa.gov/src/document/04/11154381) was published by EPA HQs in 2020. The Site's remedy remains protective of human health and the environment.
+
+The Sixth Five-Year Review will be fjinalized by EPA in 2020.
+
+In 2015, with the continued attainment of the performance standard for smallmouth buffalo in Reach A, the annual fish monitoring requirements were met. Pursuant to the 1983 Consent Decree, annual fish sampling has been discontinued. The Review Panel has yet to formally start the seven-year period but is expected to name October 2019 as the start. If so, fish would be likely be sampled in all three reaches again in April 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Access to the site is highly restricted given its location within the perimeter of the Redstone Arsenal. Only the downstream portion of Reach C is accessible for fishing.
+
+### Sampling and Monitoring
+
+Based on fish sampling conducted in 2018The Alabama Department of Public Health has issued a “no restriction” advisory for all fish species in the accessible portion of Reach C.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+In 1983, the State of Alabama, EPA and the site’s PRP, Olin Corporation, entered into a legal agreement, referred to as a Consent Decree (CD), requiring that the PRP carry out a cleanup plan to address contamination in fish tissue.

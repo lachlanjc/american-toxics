@@ -1,17 +1,11 @@
-SHENANDOAH STABLESMOSCOW MILLS, MO 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Shenandoah Stables Superfund site is a 7-acre property located near Moscow Mills, Missouri. In 1971, a waste oil hauler sprayed the horse arena on site with dioxin-contaminated oil to control dust. Over 40 horses died, and people became ill after the spraying. The same year, the contaminated soil was excavated and used as fill material in a new highway. More soil was removed from the arena and placed in a swampy area on the site in 1972. The EPA first assessed the contaminated soil at the arena in 1982. The site was placed on the National Priority List in 1983. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-Approximately 1,500 gallons of dioxin-contaminated waste oil was sprayed in the horse arena for dust control in 1971. Once the site was placed on the NPL in 1983, the interim remedy involved excavation and on-site storage of dioxin-contaminated soils pending final management. A total of 6,452 tons of dioxin-contaminated materials resulting from soil excavation and arena building decontamination was containerized. This material was then transported to Times Beach for incineration. After removal of dioxin-contaminated materials from interim storage at the site, buildings were decontaminated and sampled. Restoration of the site included backfilling with clean materials to the original grade and revegetation.   Top of Page
-What Is the Current Site Status?
-Remedial action was completed in 1997, and the EPA deleted the site from the NPL in 2001. Today, the site continues use as a horse stable and private residence. 
-Top of Page
+### Background
+
+The Shenandoah Stables Superfund site is a 7-acre property located near Moscow Mills, Missouri. In 1971, a waste oil hauler sprayed the horse arena on site with dioxin-contaminated oil to control dust. Over 40 horses died, and people became ill after the spraying. The same year, the contaminated soil was excavated and used as fill material in a new highway. More soil was removed from the arena and placed in a swampy area on the site in 1972. The EPA first assessed the contaminated soil at the arena in 1982. The site was placed on the National Priority List in 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+Approximately 1,500 gallons of dioxin-contaminated waste oil was sprayed in the horse arena for dust control in 1971. Once the site was placed on the NPL in 1983, the interim remedy involved excavation and on-site storage of dioxin-contaminated soils pending final management. A total of 6,452 tons of dioxin-contaminated materials resulting from soil excavation and arena building decontamination was containerized. This material was then transported to Times Beach for incineration. After removal of dioxin-contaminated materials from interim storage at the site, buildings were decontaminated and sampled. Restoration of the site included backfilling with clean materials to the original grade and revegetation.
+
+### What Is the Current Site Status?
+
+Remedial action was completed in 1997, and the EPA deleted the site from the NPL in 2001. Today, the site continues use as a horse stable and private residence.

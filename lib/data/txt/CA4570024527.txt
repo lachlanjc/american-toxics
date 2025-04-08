@@ -1,2 +1,32 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 7,123-acre March Air Force Base (AFB) has been used for aircraft maintenance and repair, refueling operations, and training activities since 1918. Facility operations contaminated soil and groundwater with hazardous chemicals. Three zones of groundwater contamination beneath the base were identified and wells on base were shut down in the late 1980s and were later properly destroyed. Groundwater contamination has migrated to wells located off base that are no longer in use. However, a groundwater containment system has been installed to prevent off-site groundwater migration and the off-site plume is being monitored. The site’s long-term cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The Air Force is the lead for the site, with EPA and the state providing oversight. The Air Force, EPA and state agencies work together under the terms of a Federal Facilities Agreement (FFA) signed in 1990.
+
+The site participates in the Installation Restoration Program (IRP), a specially funded program established by the Department of Defense (DoD) in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities. Investigations into contaminated sites started in the early 1990s with cleanup starting in the mid-1990s. Over 49 sites have been investigated.
+
+In 1996, March AFB realigned into the smaller March ARB with the excess land Former March AFB land available for reuse under the Base Realignment and Closure (BRAC) program. Cleanup of the excess Former March AFB land was prioritized.
+
+Operation of the Groundwater Extraction and Treatment System (GETS) began in April 1992. In September 1996, the GETS was initially expanded as the Enhanced Groundwater Extraction System (EGETS) to include 14 extraction wells and five injection wells. During December 2019, drilling and well installation for six new extraction wells for the EGETS2 expansion began and it became operational in July 2020.
+
+Most sites have been either cleaned up or have remedies in place. Cleanup remedies include:
+
+- Consolidating material from multiple landfills dating back to the 1940s into a landfill that meets modern standards
+- Removing over 7000 pounds of solvents by soil vapor extraction
+- Removing the equivalent of 50,000 gallons of jet fuel by soil vapor extraction and other techniques
+- Removing approximately 600 lbs of volatile organic compounds by groundwater extraction and treatment.
+
+### What Is the Current Site Status?
+
+The March cleanup is divided, for the most part geographically, into five areas, or operable units (OUs): OU-1, on the east side of the base; OU-2, mostly on the west side; OU-3, for the Panero Aircraft Refueling System; OU-4, for sites not included in the previous OUs; and OU-5, Basewide Groundwater. OU-3 is no longer included in the Superfund process because the contamination is petroleum only, which is exempt from CERCLA. OU-3 is being investigated and remediated with the oversight of the Regional Water Quality Control Board (RWQCB). Records of Decision (RODs) have been signed for the other OUs, two RODs were completed for OU-2, one for the sites on the Former March AFB and one for the sites on March ARB. The Air Force completed the latest base-wide Five-Year Review in 2019.
+
+**Cleanup Progress**
+
+Most of the sites either have been cleaned up or determined that no clean up was needed. One landfill was capped (Site 4) and other landfill material was moved to a properly constructed landfill (Site 6). A groundwater interdiction system at the base boundary (EGETS) is operating. The groundwater plumes are generally shrinking. A Soil Vapor Extraction system is removing contaminants from Site 7. Emerging contaminants, perfluorinated compounds including PFOA/PFOS, are being investigated in soil and groundwater.
+
+### Emergency Response and Removal
+
+Several removal actions have been conducted at the site. A cap has been constructed over the landfill located at IRP Site 4. The landfill at IRP Site 6 was re-engineered to receive non-hazardous wastes from various other sites at the base. Two residential wells were provided alternate water supplies and a municipal well is being provided as an alternate source due to perfluorinated compounds (PFOA/PFOS).

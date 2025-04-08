@@ -1,37 +1,64 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Interstate Lead Company (ILCO) Superfund site is located in Leeds, Alabama. It includes the area where ILCO operated a secondary lead smelter and lead battery recycling facility from 1970 to 1992. The site also includes seven satellite sites located in and around Leeds, Alabama, where the company disposed of contaminated wastes from its main facility. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1986 because of contaminated groundwater, sediment, soil and surface water resulting from facility operations. EPA, the Alabama Department of Environmental Management (ADEM) and the ILCO Site Remediation Group, the site’s potentially responsible parties (PRPs), have investigated site conditions. By conducting cleanup activities, placing institutional controls on site properties, monitoring groundwater and undertaking Five-Year Reviews, EPA, ADEM and the site’s PRPs continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site. A water line connects residents and businesses to the public water supply. Top of Page
-What Has Been Done to Clean Up the Site?
-The ILCO Site Remediation Group, the site’s PRPs, lead site investigation and cleanup activities, with oversight provided by EPA and ADEM. For cleanup, EPA divided the site into three areas, referred to as operable units (OUs). 
-OU-1 addresses soil, sediment and groundwater contamination in the seven satellite sites near the main ILCO facility (ILCO Parking Lot, the Gulf/BP Service Station, J&L Fabricators, Fleming’s Patio, the Connell Property, the New Life Fellowship and the City of Leeds Municipal Landfill).
-OU-2 addresses soil and groundwater contamination at the Main ILCO facility and groundwater contamination at the ILCO Parking Lot satellite site.
-OU-3 addresses contamination of surface water, sediment and fish in the unnamed tributary, Dry Creek and Little Cahaba River. 
-1980s
-In the early 1980s, EPA and ADEM conducted investigations and found the main ILCO facility in violation of hazardous waste storage, disposal and discharge standards. In 1984, EPA conducted short-term cleanup activities at the Acmar Church of God (now the New Life Fellowship) satellite site. EPA removed 5,000 cubic yards of waste material and soil. 1990s
-In 1992, EPA conducted cleanup activities at the main ILCO facility, removing and transporting over 5,000 tons of contaminated material to a permitted hazardous waste landfill and collecting and treating acid stored in several on-site impoundments. 2000 - 2005
-Between 2000 and 2001, PRPs dug up, treated and disposed of 220,243 tons of soil and debris off site. In addition, in 2004 and 2005 the PRPs removed additional contaminated soil. PRPs have completed nearly all cleanup activities. EPA placed institutional controls on the main ILCO facility and the ILCO Parking Lot and Fleming’s Patio satellite sites to restrict land use and the placement of wells on the property. 2012
-EPA issued final revised cleanup plans for OU-1, OU-2 and OU-3 in September 2012 based on the results of ongoing data collection. OU-1 and OU-3 data indicate that the cleanup plans for soil, sediment and groundwater for the City of Leeds Landfill, Gulf/BP Service Station and Dry Creek and unnamed tributary are no longer necessary. EPA revised the cleanup plan to select “no action” for these areas. EPA revised the cleanup plan for OU-2, changing the remedy for groundwater at the ILCO Main Facility and Parking Lot from pumping and treatment to in-place precipitation with groundwater monitoring and using institutional controls to restrict groundwater use and limit site access. 2013
-As directed by EPA, the PRP Group implemented OU-2 groundwater cleanup activities in the summer of 2013, which involved the injection of approximately 72 tons of sodium bicarbonate into the unsaturated soil in the former battery breaker area at the ILCO main facility. The RD/RA Workplan contains recommendations for determining frequency, wells and analytes to be included in the future groundwater monitoring events. Top of Page
-What Is the Current Site Status?
-The most recent Five Year Review was published by EPA HQs in 2016. Because the remedies at 0U1 and 0U2 are protective in the short term, the sitewide remedy is currently protective. EPA is working on the most appropriate way to address ground water contamination. Monitoring of ground water is ongoing.  EPA completed the last Five-Year Review in 2016 and plans to complete the next Five-Year Review in 2021. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-EPA placed institutional controls on the main ILCO facility and the ILCO Parking Lot and Fleming’s Patio satellite sites to restrict land use and the placement of wells on the property. Top of Page
-Sampling and Monitoring
-As indicated in the 2013 RD/RA Work Plan,  the post remediation long-term groundwater monitoring program was designed to monitor the continued decrease of metals, following the completion of the remedial action, which involved the injection of approximately 72 tons of sodium bicarbonate into the unsaturated soil in the former battery breaker area at the ILCO main facility. The RD/RA Workplan contains recommendations for determining frequency, wells and analytes to be included in the  future groundwater monitoring events. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The Interstate Lead Company (ILCO) [Superfund](http://www.epa.gov/superfund) site is located in Leeds, Alabama. It includes the area where ILCO operated a secondary lead smelter and lead battery recycling facility from 1970 to 1992. The site also includes seven satellite sites located in and around Leeds, Alabama, where the company disposed of contaminated wastes from its main facility.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1986 because of contaminated groundwater, sediment, soil and surface water resulting from facility operations.
+
+EPA, the [Alabama Department of Environmental Management (ADEM)](http://www.adem.state.al.us/default.cnt) and the ILCO Site Remediation Group, the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions. By conducting cleanup activities, placing institutional controls on site properties, monitoring groundwater and undertaking Five-Year Reviews, EPA, ADEM and the site’s PRPs continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects residents and businesses to the public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+The ILCO Site Remediation Group, the site’s PRPs, lead site investigation and cleanup activities, with oversight provided by EPA and ADEM.
+
+For cleanup, EPA divided the site into three areas, referred to as [operable units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o).
+
+- OU-1 addresses soil, sediment and groundwater contamination in the seven satellite sites near the main ILCO facility (ILCO Parking Lot, the Gulf/BP Service Station, J&L Fabricators, Fleming’s Patio, the Connell Property, the New Life Fellowship and the City of Leeds Municipal Landfill).
+- OU-2 addresses soil and groundwater contamination at the Main ILCO facility and groundwater contamination at the ILCO Parking Lot satellite site.
+- OU-3 addresses contamination of surface water, sediment and fish in the unnamed tributary, Dry Creek and Little Cahaba River.
+
+**1980s**  
+In the early 1980s, EPA and ADEM conducted investigations and found the main ILCO facility in violation of hazardous waste storage, disposal and discharge standards.
+
+In 1984, EPA conducted short-term cleanup activities at the Acmar Church of God (now the New Life Fellowship) satellite site. EPA removed 5,000 cubic yards of waste material and soil.
+
+**1990s**  
+In 1992, EPA conducted cleanup activities at the main ILCO facility, removing and transporting over 5,000 tons of contaminated material to a permitted hazardous waste landfill and collecting and treating acid stored in several on-site impoundments.
+
+**2000 - 2005**  
+Between 2000 and 2001, PRPs dug up, treated and disposed of 220,243 tons of soil and debris off site. In addition, in 2004 and 2005 the PRPs removed additional contaminated soil. PRPs have completed nearly all cleanup activities. EPA placed institutional controls on the main ILCO facility and the ILCO Parking Lot and Fleming’s Patio satellite sites to restrict land use and the placement of wells on the property.
+
+**2012**  
+EPA issued final revised cleanup plans for OU-1, OU-2 and OU-3 in September 2012 based on the results of ongoing data collection.
+
+OU-1 and OU-3 data indicate that the cleanup plans for soil, sediment and groundwater for the City of Leeds Landfill, Gulf/BP Service Station and Dry Creek and unnamed tributary are no longer necessary. EPA revised the cleanup plan to select “no action” for these areas.
+
+EPA revised the cleanup plan for OU-2, changing the remedy for groundwater at the ILCO Main Facility and Parking Lot from pumping and treatment to in-place precipitation with groundwater monitoring and using institutional controls to restrict groundwater use and limit site access.
+
+**2013**  
+As directed by EPA, the PRP Group implemented OU-2 groundwater cleanup activities in the summer of 2013, which involved the injection of approximately 72 tons of sodium bicarbonate into the unsaturated soil in the former battery breaker area at the ILCO main facility. The RD/RA Workplan contains recommendations for determining frequency, wells and analytes to be included in the future groundwater monitoring events.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11050371.pdf) was published by EPA HQs in 2016. Because the remedies at 0U1 and 0U2 are protective in the short term, the sitewide remedy is currently protective.
+
+EPA is working on the most appropriate way to address ground water contamination. Monitoring of ground water is ongoing. EPA completed the last Five-Year Review in 2016 and plans to complete the next Five-Year Review in 2021.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA placed institutional controls on the main ILCO facility and the ILCO Parking Lot and Fleming’s Patio satellite sites to restrict land use and the placement of wells on the property.
+
+### Sampling and Monitoring
+
+As indicated in the 2013 RD/RA Work Plan, the post remediation long-term groundwater monitoring program was designed to monitor the continued decrease of metals, following the completion of the remedial action, which involved the injection of approximately 72 tons of sodium bicarbonate into the unsaturated soil in the former battery breaker area at the ILCO main facility. The RD/RA Workplan contains recommendations for determining frequency, wells and analytes to be included in the future groundwater monitoring events.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 EPA negotiated legal agreements with the site PRPs to fund site cleanup, monitoring and oversight activities.
-Top of Page

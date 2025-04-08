@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 6,400-acre Naval Air Station Patuxent River (PAX) site is located in Lexington Park, St. Mary’s County, Maryland, at the confluence of the Patuxent River and the Chesapeake Bay on a peninsula known as Cedar Point. PAX operated several landfills and other historical disposal areas which released hazardous chemicals that contaminated soil, sediment, groundwater and surface water. The landfills received solid and hazardous wastes such as sewage treatment plant sludge, cesspool wastes, spent oil absorbents, paints, antifreeze, solvents, thinners, pesticides and photo lab wastes. The Site was added to the Superfund program's National Priorities List (NPL) on May 31, 1994. Cleanups are complete at several areas within PAX. Operation and maintenance activities at these areas are ongoing. Investigations and remedy selection activities continue at the remaining areas.
+
+For detailed information on the current site status, see the [Navy's PAX website.](https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Washington/Patuxent-River-NAS/)
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+The long-term remedy for Site 11 soil, selected in 1996, included installation of a Resource Conservation and Recovery Act (RCRA) Subtitle D landfill cap, landfill gas collection system, treatment and monitoring of landfill gas, groundwater monitoring, and land use controls (LUCs). The long-term remedy for groundwater, surface water and sediment at Site 11, selected in 2008, included LUCs and long-term monitoring. The remedial action finished in 2011.
+
+The long-term remedy for Site 17, Pesticide Shop, selected in 1999 and updated in 2001, included excavation of contaminated soil with off-site treatment or disposal, revegetation with native tree species, regrading for positive drainage, installation of a soil cover, and institutional controls. The long-term remedy for groundwater, surface water and sediment at Site 17, selected in 2006, included removal of contaminated sediments and institutional controls (ICs) to restrict fish consumption. The remedial action was completed in 2012.
+
+The long-term remedy for Site 6 and 6A, Bohneyard, selected in 1999, included installation of soil and asphalt covers, a concrete parking lot for fuel trucks and institutional controls (ICs). A remedy update for Site 6A in 2004 determined that remedial action was no longer necessary due to a change in land use. Remedial action finished in 2012.
+
+The long-term remedy for Site 1, Fishing Point Landfill and Site 12, Rifle Range Landfill, soil, selected in 2000, included installation of a soil cover, excavation and disposal of construction debris, shoreline stabilization, wetland mitigation, LUCs, and long-term monitoring. Construction began in April 2000 and finished in July 2002. The long-term remedy for surface water and sediment at the site, selected in 2005, included removal of lead-contaminated soil and sediment. The remedial action finished in 2011.
+
+The long-term remedy for Site 39 shallow groundwater, selected in 2007, included in-place bioremediation, monitoring and Institutional Controls, also known as ICs. The remedial action finished in 2010. Monitoring of the shallow groundwater continues.
+
+The remedy for Site 31, the Tire Shop, was implemented in July 2017. The remedy consisted of in situ (direct push) shallow groundwater treatment to treat the chlorinated solvents in the shallow groundwater. The remedy is anticipated to continue for approximately 10-12 years until the site is cleaned up.
+
+EPA selected “no remedial action” or “no further remedial action” for Site 5, Site 24, Site 27, Site 29, Site 41, Site 46, Site 4 (Areas 4B, C and D), and Site 4 and Site 5 groundwater. Prior removal actions at many of these sites removed contaminated soil and materials.
+
+### What Is the Current Site Status?
+
+The Navy, with EPA concurrence, has conducted several five-year reviews of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedies selected by the Navy and EPA and that the remedies continue to be protective of human health and the environment. The next five-year review is due in 2024.
+
+For detailed information on the current site status, see the [Navy's PAX website.](https://www.navfac.navy.mil/Business-Lines/Environmental/Products-and-Services/Environmental-Restoration/Washington/Patuxent-River-NAS/)

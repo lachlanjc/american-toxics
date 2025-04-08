@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The H&K Sales site is also known as the "Belding Warehouse" site or as one of the "Michigan Radiological" sites. The site consists of a large warehouse in downtown Belding, Michigan. H&K Sales, Inc. rented space in the building in 1994 to store World War II-era aircraft parts. Some of the parts had originally been painted with small amounts of radium-226, a solid, naturally occurring radioactive isotope. The isotope gives off alpha particle and gamma ray radiation when it decays, which is potentially harmful to human health. Moreover, the radium-226 isotope also decays into radon-222, a gaseous, radioactive isotope and a similar human health threat. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1998.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and state actions.  
+
+### What Is the Current Site Status?
+
+EPA "quick-listed" the site on the NPL in 1996 because of the potential magnitude of the health threats posed by radium-226 levels inside the warehouse building. EPA was able to perform a swift, effective and safe cleanup in 1997 to address the radium-226 levels, returning the building to productive use and taking the site off the NPL in a very short period.
+
+After cleanup, EPA took the site off the NPL in 1998.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The United States Environmental Protection Agency (EPA), in consultation with the state of Michigan, had estimated that H&K Sales, Inc. had stored approximately 160,000 cubic feet of potentially contaminated aircraft gauges, dials, propellers, and other components in the warehouse. EPA estimated that the amount of radium-226 present was in excess of state and federal human health guidelines. EPA also found that the floors and walls of the several large storage areas within the building were contaminated with dust containing radium-226. Additionally, EPA measured some very high radon-222 levels in the atmosphere some parts of the building.
+
+Although EPA found no traces of radium-226 contamination outside of the warehouse, the Agency was concerned that if a fire were to occur at the warehouse before any cleanup actions were completed, the smoke plume from such a fire could have spread radium-226 throughout Belding.
+
+NPL Deletions Superfund U S EPA

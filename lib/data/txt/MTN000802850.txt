@@ -1,2 +1,89 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+3,200-acre Smurfit-Stone Mill site is located three miles southeast of Frenchtown, Montana. A paper and pulp mill operated on site from 1957 to 2010. As part of the Superfund process, EPA divided the Site into three operable units (OUs) based on historical use.
+
+Operable Unit 1 is approximately 1,200 acres. It is used largely for agricultural purposes, including grasslands for cattle grazing and cropland irrigated for alfalfa and grain crop.
+
+Operable Unit 2 covers about 255 acres and is the former core industrial footprint of the former mill site.
+
+Operable Unit 3 spans over 1,700 acres and includes former wastewater treatment facilities consisting of a former clarifier and settling ponds, aeration basins, polishing ponds, treated water holding ponds, and infiltration basins. Apart from occasional daylighting of Clark Fork River, these holding ponds have been dry since operations at the former Mill ceased in 2010.
+
+Various hazardous substances were used or produced on site, including bleaching chemicals from the former Mill’s limited production of bleached linerboard. Site activities and waste disposal practices on site may have caused a release of hazardous substances into the environment. EPA is in the remedial investigation phase of the Superfund process. The Site was proposed to the National Priorities List in 2015 and has been under continuous investigation by EPA since.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is divided into three management areas known as Operable Units (OUs):
+
+**OU1** covers approximately 1,200 acres of the site that are largely agricultural lands.  
+**OU2** is approximately 255 acres and covers the core industrial footprint of the mill.  
+**OU3** includes approximately 1,700 acres that cover the area of the settling ponds and parts of the Clark Fork River floodplain.
+
+#### Site Investigations Timeline:
+
+- 2010: Smurfit-Stone declares bankruptcy and permanently shuts down facility.
+- 2011: EPA conducted a Preliminary Assessment/Site Investigation (PA/SI) which identified potential contamination sources.
+- 2014: Newfields, a technical consultant for the potentially responsible parties (PRPs), performed an extensive site Investigation consisting of groundwater well installation and sampled groundwater, surface water, surface soil and sub-surface soils for contamination.
+- 2015: EPA entered into an Administrative Order on Consent (AOC) with the PRPs to conduct a Remedial Investigation (RI).
+- 2015: EPA directed and provided oversight for the first sampling event as part of the Remedial Action Work Plan (RIWP).
+- To date a total of nine addenda to the RIWP have been drafted, approved and implemented in order to collect data, aid in risk assessments and perform cleanup actions.
+- 2017: Addendum 1: Groundwater sampling of seasonally high groundwater.
+- 2016: Addendum 2: Soil sampling of potential PCB-impacted soils.
+- 2017: Addendum 3: Installation and sampling of three deep groundwater wells.
+- 2017: Addendum 4: Site-wide groundwater monitoring plan for 2017.
+- 2017: Addendum 5: Work plan to remove PCB-impacted soils.
+- 2018: Addendum 6: Investigation of the Clark Fork Berm, including a Geotechnical Evaluation, an overall Berm Assessment and a Berm Overtopping Study.
+- 2017: Addendum 7: Sampling of site surface soils to supplement EPA’s Human Health Risk Assessment.
+- 2017: EPA completed Human Health Risk Assessment (HHRA) and Baseline Ecological Risk Assessments for OU1.
+- 2018: Addendum 8: Site-wide groundwater monitoring plan for 2018-2019.
+- 2018: Addendum 8: Site-wide groundwater monitoring-June 2018.
+- 2018: Addendum 9: Baseline Ecological Risk Assessment (BERA) for OU2 and OU3 included sampling of soil, water, surface water, and biota on-site (macro-invertebrates, small fish in the CFR, and mice).
+- 2018: EPA, with assistance of Montana Fish, Wildlife and Parks, collected game fish (northern pike and rainbow trout) from the Clark Fork River as part of the OU2 and OU3 HHRA and BERA to determine presence or absences of contamination contribution from the site.
+- 2018: Addendum 8: Site-wide groundwater monitoring-December 2018.
+- 2019: Addendum 8: Site-wide groundwater monitoring-June 2019.
+- 2019: HHRA/BERA second collection of game fish (northern pike and rainbow trout) with assistance of Montana Fish, Wildlife and Parks as part of the OU2 and OU3 HHRA and BERA to determine presence or absences of contamination contribution from the site.
+- 2019: Addendum 8: Site-wide groundwater monitoring – September/October 2019
+- 2020: Addendum 10: Site-wide groundwater monitoring - May 2020
+- 2020: Groundwater Conceptual Site Model - June 2020
+- 2021: Addendum 11: Site-wide groundwater monitoring - September 2021
+- 2021: OU2 and OU3 Final Baseline Ecological Risk Assessment - October 2021
+- 2021: OU2 Final Human Health Risk Assessment - December 2021
+- 2022: OU3 Final Human Health Risk Assessment - April 2022
+
+### What Is the Current Site Status?
+
+The site is currently in the Remedial Investigation and Risk Assessment phase of the Superfund remedial process. EPA project teams are in the process of understanding contamination migration within and beyond the site and understanding risks.
+
+Recent items of focus include:
+
+- Groundwater quality
+- Development of a groundwater Conceptual Site Model (CSM)
+- Waste areas source identification
+- Human Health Risk Assessments for OU2 and OU3
+- Baseline Ecological Risk Assessment for OU2 and OU3
+- Air deposition of contaminants
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site, with the exception of the Clark Fork River, is privately owned. The site is still being studied, and EPA has not issued a decision document requiring institutional controls. Past owners imposed use limitations on certain mill parcels, restricting the properties to industrial use. EPA and DEQ do not have any enforcement authorities over these privately imposed use restrictions.
+
+Separate from the CERCLA process, Montana Fish, Wildlife and Parks implemented a fish consumption advisory for the portion of the Clark Fork River upstream, adjacent to, and downstream of the site, from roughly Missoula to the Flathead River.
+
+### Sampling and Monitoring
+
+Groundwater is monitored annually to target high seasonal groundwater. Transducers have been installed in many wells to better understand seasonal fluctuations. EPA and Montana DEQ groundwater teams continue to evaluate trends and spatial patterns of contaminants in groundwater. Groundwater monitoring will continue. Each year, EPA evaluates groundwater results and makes changes to the next year’s groundwater monitoring plan. These changes address data gaps and provide a better understanding of contaminant impact on groundwater.
+
+EPA has required the PRPs to install two additional groundwater wells along the Clark Fork River boundary of holding pond 2 (HP2). These wells were installed in June 2019.
+
+Addendum 9 required sampling of soil, water, porewater, small fish, small mammals, macro-invertebrates and surface water to address data gaps identified in the Baseline Ecological Risk Assessment (BERA).
+
+EPA is working with Missoula County, the Natural Resource Trustees and the Tribes to address ongoing concerns about site characterization. This technical working group, including Montana DEQ and the PRPs, will develop an outline requesting additional sampling to address these concerns.
+
+### Emergency Response and Removal
+
+Spring 2018 flooding in western Montana caused concerns whether contamination at the Smurfit-Stone site was released into the Clark Fork River. The EPA Emergency Response Team deployed to the site on May 24, 2018 to provide support to the EPA Helena office in assessing any immediate risks at the site. Under EPA’s direction, the potentially responsible parties (PRPs) performed a stability analysis of the berm and continue to monitor conditions along the berm. The PRPs took samples to determine if contaminated water on-site was impacting the river. Additionally, during this event EPA directed PRPs to place approximately 3,000 cubic yards of unimpacted fill material on top of several hydraulic boils observed within HP13 to ensure hydraulic stability of the berm.
+
+[Visit the EPA On-Scene Coordinator Response website for more information »](https://response.epa.gov/site/site_profile.aspx?site_id=12758)

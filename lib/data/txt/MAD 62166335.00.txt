@@ -1,49 +1,61 @@
-NUCLEAR METALS, INC.CONCORD, MA 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Nuclear Metals, Inc. site – also known as the Starmet Corporation site – is located on a 46-acre parcel in Concord, Massachusetts. Nuclear Metals made depleted uranium products, primarily for armor-piercing ammunition. It also manufactured metal powders for medical applications, photocopiers, and specialty metal products such as beryllium tubing used in the aerospace industry. From 1958 to 1985, waste was discharged into an unlined holding basin. Facility operations contaminated soil and groundwater with hazardous chemicals. Following immediate actions to protect human health and the environment, the site’s long-term cleanup is ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-Contamination at the site has been addressed through multiple potentially responsible party (PRP) actions, including: 
-Removal of 8,000 cubic yards of soil from the holding basin, under the oversight of the Massachusetts Department of Environmental Protection (MassDEP);
-A time-critical removal action to (1) line the holding basin, reducing potential exposure to contaminated dust and limiting further contamination of groundwater, and (2) to install a fence and cap an on-site landfill to reduce potential exposures to nearby residents;
-A time-critical removal action to remove hazardous and flammable materials from within the facility buildings, with more than 3,800 drums of depleted uranium and other materials removed;
-A non-time-critical removal action to demolish the on-site buildings and to temporarily cap the former building area.
-A non-time-critical removal action to extract and treat groundwater contaminated with volatile organic compounds and 1,4-dioxane migrating off-site. 
-Top of Page
-What Is the Current Site Status?
-The Feasibility Study (which evaluates cleanup alternatives) was completed in October 2014 and the Proposed Plan outlining EPA’s preferred alternative was issued in November 2014. EPA’s cleanup decision document, called the Record of Decision (ROD), was issued on September 28, 2015 and addresses site-wide contamination of groundwater, site soils and sediments.  This comprehensive $125 million remedy includes excavation and off-site disposal of approximately 82,500 cubic yards of contaminated materials, stabilization and capping of materials within the "Holding Basin" area of the site, in-situ and ex-situ treatment of contaminated groundwater.  The ROD also included an Action Memo to accelerate a portion of the groundwater cleanup as a non-time critical removal action while negotiations proceed for implementation of the full remedy. Certain contaminants in groundwater, primarily 1,4-dioxane, were shown to be impacting the Town of Acton's water supply wells. The intent of the accelerated remedy was to cut off the flow of contaminated groundwater to the water supply wells.  This groundwater removal action began in early 2016, and in May 2017, a groundwater extraction well began pumping to a temporary treatment system to capture and prevent site contaminants in groundwater from reaching the Town of Acton water supply well Assabet 1A. As part of this removal action, pilot treatment studies were performed to determine the best demonstrated available treatment (BDAT) technology to utilize for the permanent long term groundwater facility. These studies determined that the best treatment technology option was an Ultraviolet (UV)/oxidation system. Construction of the permanent treatment system was completed in June 2019. The treatment system continues to successfully meet its performance objectives by providing hydraulic capture of the contaminated groundwater and destruction of the contaminants prior to discharge. The final phase of the multi-phase cleanup at the Nuclear metals, Inc. site has now been initiated. This final phase is called "Remedial Design/Remedial Action." In December 2019, the Remedial Design/Remedial Action Consent Decree (494 pp, 39 M About PDF) was entered by the United States District Court for the District of Massachusetts. The Consent Decree and its accompanying Statement of Work describe how the Remedial Design/Remedial Action (as outlined in the 2015 ROD) will be performed. Please see EPA's January 2020 Fact Sheet (4 pp, 1.3 M, About PDF) for additional information. Pre-design investigations (PDI) expand on the work performed during the Remedial Investigation to provide additional information to support the Remedial Design (or site cleanup plan). Between 2020 and 2022, pre-design investigations have been performed in support of the of the Remedial Design for the following areas: 
-Sitewide Soils and Sediment
-Holding Basin
-Off-site groundwater
-In-situ sequestration (ISS)
-Bedrock groundwater 
-As of March 2025, the following Remedial Designs are complete and Remedial Action work is currently underway (or completed) as detailed below: 
-Sitewide Soils and Sediment
-100% Design Site-Wide Soils and Sediment,  AOI 8 and AOI 9 was approved by EPA on 9/28/2022
-Revised Enabling Phase Remedial Activities 100% Design was approved by EPA  on 8/31/2023
-Enabling Phase Remedial Action Report was approved by EPA on 9/18/2024
-100% Design – Site-Wide Sediment and Soils Phase 1 – Courtyard, Landfill, Sphagnum Bog, and Cooling Pond Design was approved by EPA on 9/27/2023
-Site-Wide Sediment and Soils Phase 1 Remedial Action is currently underway
-Holding Basin
-60% Design – Holding Basin was reviewed by EPA on 10/1/2024
-95% Holding Basin Remedial Design is currently in progress
-Off-site groundwater / Knox Trail Groundwater System Expansion
-100% Design Knox Trail Groundwater Extraction System Expansion was approved by EPA on 9/23/2022
-Remedial Action Report: Knox Trail Groundwater Extraction System Expansion was approved by EPA on 8/14/2024
-In-situ sequestration (ISS)
-100% Design – In-Situ Sequestration Overburden Groundwater Within the Holding Basin was approved by EPA on 12/5/24
-In-Situ Sequestration Overburden Groundwater Within the Holding Basin Remedial Action is currently underway
-Bedrock groundwater                               
-Pre-design investigations in progress
-Top of Page
-Emergency Response and Removal
-Two areas containing buried drums and other laboratory equipment were located during a removal assessment to determine if buried drums on site contained hazardous material. Cleanup in 2002 included installation of fencing around the old landfill area where buried drums were located, regrading and capping the old landfill area, and installation of a liner in the holding basin to eliminate fugitive dust and reduce contaminated soils leaching into groundwater. A second time-critical removal action in January 2008 addressed the lab chemicals and other flammable/hazardous materials inside buildings. This action finished in September 2008. A non-time-critical removal action was completed in 2017 to demolish and remove of the (formerly) on-site buildings and their contents and to temporarily cap the former building foundation slabs. A non-time-critical removal action to extract and treat groundwater contaminated with volatile organic compounds and 1,4-dioxane migrating off-site was completed in 2019. Top of Page
+### Background
+
+The Nuclear Metals, Inc. site – also known as the Starmet Corporation site – is located on a 46-acre parcel in Concord, Massachusetts. Nuclear Metals made depleted uranium products, primarily for armor-piercing ammunition. It also manufactured metal powders for medical applications, photocopiers, and specialty metal products such as beryllium tubing used in the aerospace industry. From 1958 to 1985, waste was discharged into an unlined holding basin. Facility operations contaminated soil and groundwater with hazardous chemicals. Following immediate actions to protect human health and the environment, the site’s long-term cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Contamination at the site has been addressed through multiple potentially responsible party (PRP) actions, including:
+
+- Removal of 8,000 cubic yards of soil from the holding basin, under the oversight of the Massachusetts Department of Environmental Protection (MassDEP);
+- A time-critical removal action to (1) line the holding basin, reducing potential exposure to contaminated dust and limiting further contamination of groundwater, and (2) to install a fence and cap an on-site landfill to reduce potential exposures to nearby residents;
+- A time-critical removal action to remove hazardous and flammable materials from within the facility buildings, with more than 3,800 drums of depleted uranium and other materials removed;
+- A non-time-critical removal action to demolish the on-site buildings and to temporarily cap the former building area.
+- A non-time-critical removal action to extract and treat groundwater contaminated with volatile organic compounds and 1,4-dioxane migrating off-site.
+
+### What Is the Current Site Status?
+
+The Feasibility Study (which evaluates cleanup alternatives) was completed in October 2014 and the Proposed Plan outlining EPA’s preferred alternative was issued in November 2014. EPA’s cleanup decision document, called the Record of Decision (ROD), was issued on September 28, 2015 and addresses site-wide contamination of groundwater, site soils and sediments. This comprehensive $125 million remedy includes excavation and off-site disposal of approximately 82,500 cubic yards of contaminated materials, stabilization and capping of materials within the "Holding Basin" area of the site, in-situ and ex-situ treatment of contaminated groundwater.
+
+The ROD also included an Action Memo to accelerate a portion of the groundwater cleanup as a non-time critical removal action while negotiations proceed for implementation of the full remedy. Certain contaminants in groundwater, primarily 1,4-dioxane, were shown to be impacting the Town of Acton's water supply wells. The intent of the accelerated remedy was to cut off the flow of contaminated groundwater to the water supply wells. This groundwater removal action began in early 2016, and in May 2017, a groundwater extraction well began pumping to a temporary treatment system to capture and prevent site contaminants in groundwater from reaching the Town of Acton water supply well Assabet 1A.
+
+As part of this removal action, pilot treatment studies were performed to determine the best demonstrated available treatment (BDAT) technology to utilize for the permanent long term groundwater facility. These studies determined that the best treatment technology option was an Ultraviolet (UV)/oxidation system. Construction of the permanent treatment system was completed in June 2019. The treatment system continues to successfully meet its performance objectives by providing hydraulic capture of the contaminated groundwater and destruction of the contaminants prior to discharge.
+
+The final phase of the multi-phase cleanup at the Nuclear metals, Inc. site has now been initiated. This final phase is called "Remedial Design/Remedial Action." In December 2019, the [Remedial Design/Remedial Action Consent Decree](https://semspub.epa.gov/src/document/01/100012900) (494 pp, 39 M [About PDF](https://www.epa.gov/home/pdf-files) ) was entered by the United States District Court for the District of Massachusetts. The Consent Decree and its accompanying Statement of Work describe how the Remedial Design/Remedial Action (as outlined in the 2015 ROD) will be performed. Please see [EPA's January 2020 Fact Sheet](https://semspub.epa.gov/src/document/01/100012903) (4 pp, 1.3 M, [About PDF](https://www.epa.gov/home/pdf-files) ) for additional information.
+
+Pre-design investigations (PDI) expand on the work performed during the Remedial Investigation to provide additional information to support the Remedial Design (or site cleanup plan). Between 2020 and 2022, pre-design investigations have been performed in support of the of the Remedial Design for the following areas:
+
+- Sitewide Soils and Sediment
+- Holding Basin
+- Off-site groundwater
+- In-situ sequestration (ISS)
+- Bedrock groundwater
+
+As of March 2025, the following Remedial Designs are complete and Remedial Action work is currently underway (or completed) as detailed below:
+
+- Sitewide Soils and Sediment
+	- 100% Design Site-Wide Soils and Sediment, AOI 8 and AOI 9 was approved by EPA on 9/28/2022
+	- Revised Enabling Phase Remedial Activities 100% Design was approved by EPA on 8/31/2023
+	- Enabling Phase Remedial Action Report was approved by EPA on 9/18/2024
+	- 100% Design – Site-Wide Sediment and Soils Phase 1 – Courtyard, Landfill, Sphagnum Bog, and Cooling Pond Design was approved by EPA on 9/27/2023
+	- Site-Wide Sediment and Soils Phase 1 Remedial Action is currently underway
+- Holding Basin
+	- 60% Design – Holding Basin was reviewed by EPA on 10/1/2024
+	- 95% Holding Basin Remedial Design is currently in progress
+- Off-site groundwater / Knox Trail Groundwater System Expansion
+	- 100% Design Knox Trail Groundwater Extraction System Expansion was approved by EPA on 9/23/2022
+	- Remedial Action Report: Knox Trail Groundwater Extraction System Expansion was approved by EPA on 8/14/2024
+- In-situ sequestration (ISS)
+	- 100% Design – In-Situ Sequestration Overburden Groundwater Within the Holding Basin was approved by EPA on 12/5/24
+	- In-Situ Sequestration Overburden Groundwater Within the Holding Basin Remedial Action is currently underway
+- Bedrock groundwater
+	- Pre-design investigations in progress
+
+### Emergency Response and Removal
+
+Two areas containing buried drums and other laboratory equipment were located during a removal assessment to determine if buried drums on site contained hazardous material. Cleanup in 2002 included installation of fencing around the old landfill area where buried drums were located, regrading and capping the old landfill area, and installation of a liner in the holding basin to eliminate fugitive dust and reduce contaminated soils leaching into groundwater.
+
+A second time-critical removal action in January 2008 addressed the lab chemicals and other flammable/hazardous materials inside buildings. This action finished in September 2008.
+
+A non-time-critical removal action was completed in 2017 to demolish and remove of the (formerly) on-site buildings and their contents and to temporarily cap the former building foundation slabs.
+
+A non-time-critical removal action to extract and treat groundwater contaminated with volatile organic compounds and 1,4-dioxane migrating off-site was completed in 2019.

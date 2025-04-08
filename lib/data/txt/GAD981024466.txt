@@ -1,41 +1,85 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 84-acre Brunswick Wood Preserving Superfund site is located in Brunswick, Glynn County, Georgia. Railroads border the site to the east and west, Perry Lane Road borders the site to the north and residences and wooded areas border the site to the south. Burnett Creek, a tidally influenced stream, is located on the western end of the site. From 1958 until 1991, a wood treatment facility operated at the site. Operations included the three major types of wood treating: creosote, pentachlorophenol (PCP) and chromium/copper/arsenic (CCA).  In 1989, a major spill of diesel fuel, contaminated with pentachlorophenol, occurred to Burnett Creek. In 1991, the State of Georgia completed an investigation of the site shortly before the facility caught on fire and ceased operations. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1997 because of contaminated groundwater, soil and sediment resulting from facility operations. By monitoring the site and treating groundwater, EPA and the Georgia Environmental Protection Division (Georgia EPD) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. Site contamination does not currently threaten people living and working near the site. Top of Page
-What Has Been Done to Clean Up the Site?
-EPA continues to lead site investigation and cleanup activities in cooperation with Georgia EPD.  EPA has divided the cleanup at the site into two areas or operable units (OUs). 
-OU-1 addresses contaminated soil, sediment and groundwater.
-OU-2 addressed ecological risks, primarily to Burnett Creek. 
-1991 – 1995
-Between 1991 and 1995, EPA used Superfund's removal authority to address short-term risks at the site. Activities included demolishing and removing several structures from the site; removing water from sludge on site; treating wastewater; disposing of wastes off site; and digging up contaminated soils and storing them in four waste cells on-site. 1996-1997
-During 1996 and 1997, Georgia's Environmental Protection Division also completed several cleanup alternatives, including installation of a new railroad spur to facilitate cleanup activities and transporting for off-site disposal materials from three of the four waste cells that EPA had constructed on-site. 1997
-EPA listed the site on Superfund's National Priorities List. 2002
-EPA issued the cleanup plan for OU-1 (Record of Decision, or ROD).  Two Explanation of Significant Difference (ESDs) were also issued for OU-1 in 2011 and 2015 (ESD 2011; ESD 2015). The OU-1 remedy called for containment cells to contain and isolate contamination at the site. The two containment cells subsequently constructed at the site consist of below ground barrier walls surrounding the former pond areas; solidified and stabilized site soils and sediments from Burnett Creek that were used as subcaps; and engineered caps. The two containment cells are now referred to as the Western Containment Area and Eastern Containment Area. 2007
-EPA began cleanup activities for OU-1. Activities included dewatering pond sediments, digging up the former waste pond areas and backfilling those areas. 2008
-EPA treated contaminated soil and sediment by solidifying it; following treatment, EPA then placed those treated soils and sediment under engineered caps as part of the two containment cells at the Western Containment Area and Eastern Containment Area. 2009
-The OU-1 cleanup work was funded in part with $8.3 million under the American Recovery and Reinvestment Act. 2010
-EPA identified additional contamination outside the WCA and constructed a secondary subsurface barrier wall and cap as part of the WCA.  This work is addressed in the 2011 Explanation of Significant Difference. 2011
-EPA conducted additional sampling of Burnett Creek sediment as part of its OU-2 work. EPA issued the ROD for OU-2 in 2012.  Since natural recovery processes had led to decreased contaminant levels in creek sediments in 2011, the OU-2 ROD selected a remedy of No Action. EPA began operation of the groundwater treatment system on the western end of the site. Using a process called in-situ chemical oxidation, treatment of the groundwater was successful in the dissolved phase portion of the groundwater plume, primarily north of Perry Lane Road, and was discontinued in December 2013.  However, in two areas creosote still remained in the subsurface outside the Western Containment Area.﻿ 2013 -2014
-The groundwater treatment system on the western end of the site was discontinued.  Performance monitoring of water levels at the WCA and ECA had indicated fluctuating water levels inside the two containment cells. From 2014 to 2017, EPA conducted hydraulic studies to investigate the need to control those water levels. EPA investigated additional creosote contamination outside the Western Containment Area and west of the railroad tracks. 2015 
-In 2015, EPA installed a water extraction/treatment system to control the water level inside the Eastern Containment Area.  A water extraction/treatment system is not necessary for the Western Containment Area. 2016 
-As discussed in the 2015 Explanation of Significant Difference, EPA conducted additional remediation of the creosote remaining in the shallow (<25') subsurface. That work included in-situ solidification of contaminated subsurface soils. Deeper creosote contamination outside the WCA, located east of the creek near Perry Lane Road, is not widespread will be monitored as part of the ongoing groundwater monitoring. 2017
-In late 2017, EPA upgraded the ECA water extraction/treatment system to optimize it for long-term use. Top of Page
-What Is the Current Site Status?
-The second Five Year Review was finalized in 2017. The site remedy is considered short-term protective because institutional controls on land and groundwater use have yet to be implemented. In March 2018, the Remedial Action (RA) Phase 4 report was finalized. This report documents the remedial work done in 2016, pursuant to the 2015 ESD.  In February 2018, the updated Operation and Maintenance (O&M) Plan was also finalized.  In March 2018, the State of Georgia assumed its O&M responsibilities for the site. Those responsibilities include site maintenance, operation of the ECA water extraction/treatment system, and performance monitoring of the water levels inside and outside the WCA and ECA. 
-Public and private wells near the site draw water from the deeper aquifer.  EPA has sampled private wells regularly since 1991 and determined that contamination has not affected private wells in the site vicinity.  
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The 2002 Record of Decision calls for institutional controls (ICs) that will restrict both future land use and shallow groundwater at the site.  These ICs have yet to be finalized. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws. Cleanup activities at the site have been conducted using federal funding, including funds provided through the 2009 American Recovery and Reinvestment Act.  The EPA has recovered some past cleanup costs through Administrative Agreements with potentially responsible parties (PRPs). EPA identified other PRPs, but the liability attributable to each was not sufficient to require those parties to fund the cleanup. Top of Page
+### Background
+
+The 84-acre Brunswick Wood Preserving [Superfund](http://www.epa.gov/superfund/superfund-glossary#n) site is located in Brunswick, Glynn County, Georgia. Railroads border the site to the east and west, Perry Lane Road borders the site to the north and residences and wooded areas border the site to the south. Burnett Creek, a tidally influenced stream, is located on the western end of the site. From 1958 until 1991, a wood treatment facility operated at the site. Operations included the three major types of wood treating: creosote, pentachlorophenol (PCP) and chromium/copper/arsenic (CCA).
+
+In 1989, a major spill of diesel fuel, contaminated with pentachlorophenol, occurred to Burnett Creek. In 1991, the State of Georgia completed an investigation of the site shortly before the facility caught on fire and ceased operations.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-gloassary#n) in 1997 because of contaminated groundwater, soil and sediment resulting from facility operations. By monitoring the site and treating groundwater, EPA and the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA continues to lead site investigation and cleanup activities in cooperation with Georgia EPD. EPA has divided the cleanup at the site into two areas or [operable units (OUs)](http://www.epa.gov/superfund/superfund-glossary#o).
+
+- OU-1 addresses contaminated soil, sediment and groundwater.
+- OU-2 addressed ecological risks, primarily to Burnett Creek.
+
+**1991 – 1995**  
+Between 1991 and 1995, EPA used Superfund's removal authority to address short-term risks at the site. Activities included demolishing and removing several structures from the site; removing water from sludge on site; treating wastewater; disposing of wastes off site; and digging up contaminated soils and storing them in four waste cells on-site.
+
+**1996-1997**  
+During 1996 and 1997, Georgia's Environmental Protection Division also completed several cleanup alternatives, including installation of a new railroad spur to facilitate cleanup activities and transporting for off-site disposal materials from three of the four waste cells that EPA had constructed on-site.
+
+**1997**  
+EPA listed the site on Superfund's National Priorities List.
+
+**2002**  
+EPA issued the cleanup plan for [OU-1 (Record of Decision, or ROD)](https://semspub.epa.gov/src/document/04/10027989). Two Explanation of Significant Difference (ESDs) were also issued for OU-1 in 2011 and 2015 ( [ESD 2011](https://semspub.epa.gov/src/document/04/10839367); [ESD 2015](https://semspub.epa.gov/src/document/04/11015184) ). The OU-1 remedy called for containment cells to contain and isolate contamination at the site. The two containment cells subsequently constructed at the site consist of below ground barrier walls surrounding the former pond areas; solidified and stabilized site soils and sediments from Burnett Creek that were used as subcaps; and engineered caps. The two containment cells are now referred to as the Western Containment Area and Eastern Containment Area.
+
+**2007**  
+EPA began cleanup activities for OU-1. Activities included dewatering pond sediments, digging up the former waste pond areas and backfilling those areas.
+
+**2008**  
+EPA treated contaminated soil and sediment by solidifying it; following treatment, EPA then placed those treated soils and sediment under engineered caps as part of the two containment cells at the Western Containment Area and Eastern Containment Area.
+
+**2009**  
+The OU-1 cleanup work was funded in part with $8.3 million under the American Recovery and Reinvestment Act.
+
+**2010**  
+EPA identified additional contamination outside the WCA and constructed a secondary subsurface barrier wall and cap as part of the WCA. This work is addressed in the 2011 Explanation of Significant Difference.
+
+**2011**  
+EPA conducted additional sampling of Burnett Creek sediment as part of its OU-2 work. EPA issued the [ROD for OU-2](https://semspub.epa.gov/src/document/04/10903394) in 2012. Since natural recovery processes had led to decreased contaminant levels in creek sediments in 2011, the OU-2 ROD selected a remedy of No Action.
+
+EPA began operation of the groundwater treatment system on the western end of the site. Using a process called in-situ chemical oxidation, treatment of the groundwater was successful in the dissolved phase portion of the groundwater plume, primarily north of Perry Lane Road, and was discontinued in December 2013. However, in two areas creosote still remained in the subsurface outside the Western Containment Area.
+
+**2013 -2014**  
+The groundwater treatment system on the western end of the site was discontinued. Performance monitoring of water levels at the WCA and ECA had indicated fluctuating water levels inside the two containment cells. From 2014 to 2017, EPA conducted hydraulic studies to investigate the need to control those water levels.
+
+EPA investigated additional creosote contamination outside the Western Containment Area and west of the railroad tracks.
+
+**2015**  
+In 2015, EPA installed a water extraction/treatment system to control the water level inside the Eastern Containment Area. A water extraction/treatment system is not necessary for the Western Containment Area.
+
+**2016**  
+As discussed in the 2015 Explanation of Significant Difference, EPA conducted additional remediation of the creosote remaining in the shallow (<25') subsurface. That work included in-situ solidification of contaminated subsurface soils.
+
+Deeper creosote contamination outside the WCA, located east of the creek near Perry Lane Road, is not widespread will be monitored as part of the ongoing groundwater monitoring.
+
+**2017**  
+In late 2017, EPA upgraded the ECA water extraction/treatment system to optimize it for long-term use.
+
+### What Is the Current Site Status?
+
+The [second Five Year Review](https://semspub.epa.gov/src/document/04/11069893) was finalized in 2017. The site remedy is considered short-term protective because institutional controls on land and groundwater use have yet to be implemented.
+
+In March 2018, the Remedial Action (RA) Phase 4 report was finalized. This report documents the remedial work done in 2016, pursuant to the 2015 ESD. In February 2018, the updated Operation and Maintenance (O&M) Plan was also finalized.
+
+In March 2018, the State of Georgia assumed its O&M responsibilities for the site. Those responsibilities include site maintenance, operation of the ECA water extraction/treatment system, and performance monitoring of the water levels inside and outside the WCA and ECA.
+
+Public and private wells near the site draw water from the deeper aquifer. EPA has sampled private wells regularly since 1991 and determined that contamination has not affected private wells in the site vicinity.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The 2002 Record of Decision calls for institutional controls (ICs) that will restrict both future land use and shallow groundwater at the site. These ICs have yet to be finalized.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+Cleanup activities at the site have been conducted using federal funding, including funds provided through the 2009 American Recovery and Reinvestment Act. The EPA has recovered some past cleanup costs through Administrative Agreements with potentially responsible parties (PRPs). EPA identified other PRPs, but the liability attributable to each was not sufficient to require those parties to fund the cleanup.

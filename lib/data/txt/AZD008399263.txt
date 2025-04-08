@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Apache Powder Company site is located in Cochise County, Arizona. The site was the location of an industrial chemicals and explosives manufacturing facility beginning in 1922. More recently, agricultural and mining products manufacturing took place on site. These operations produced liquid and solid wastes that were disposed on the property, contaminating soils and groundwater at the site. Following construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The State of Arizona has concurred with EPA’s selected remedies. All of the remedial actions required for the site have been implemented. Institutional controls are in place. Apache Nitrogen Products, Inc. (ANP) has implemented an Alternative Domestic Water Supply Plan and a Community Outreach Plan, which are updated annually. Sitewide monitoring is ongoing.  
+
+### What Is the Current Site Status?
+
+EPA selected the site’s long-term remedy in September 1994. The groundwater remedy included pumping and extracting perched groundwater and treating it by forced evaporation (through a brine concentrator); and pumping and treating the shallow aquifer by use of constructed wetlands and recharging the treated water back into the shallow aquifer. The soils remedies included on-site containment and capping of soils in the inactive ponds and excavation and off-site disposal of contaminated soils from the White Waste Material and Drum Storage Area and the Wash 3 Area.
+
+EPA updated the groundwater remedy in 1997, allowing the perched groundwater to be extracted and treated by constructed wetlands (rather than the brine concentrator) in conjunction with the shallow aquifer groundwater in the Southern Area of the site; allowing for two locations (a Northern and Southern Area) for siting the constructed wetlands; allowing for the recharge of treated groundwater by pipe discharge and additional extraction wells; and allowing for characterization, treatment and removal of newly discovered areas of contaminated soils.
+
+Construction of the site’s long-term remedy finished in 2008.

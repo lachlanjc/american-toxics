@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 72-acre Kentwood Landfill site is located in Kentwood, Michigan. In the early 1950s, the area was the town dump. It became a licensed solid waste disposal facility in 1966. The City of Kentwood operated the landfill from 1968 to 1970; Kent County operated it from 1971, to 1975. It was capped and closed in early 1976. Landfill operations contaminated soil, leachate and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities and groundwater monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state oversight of potentially responsible party (PRP) actions.
+
+EPA conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. To ensure long-term protectiveness, site remedy components, including institutional controls, must be maintained, monitored and enforced. The site’s next five-year review is scheduled for completion in October 2024.
+
+### What Is the Current Site Status?
+
+The site’s final remedy included landfill capping, gas venting and leachate collection, groundwater extraction and treatment, and groundwater use restrictions. Construction of the remedy finished in 1995.
+
+The Michigan Department of Environmental Quality (MDEQ) has a different interpretation of how efficiently portions of the remedy are being implemented, the level of protectiveness, and overall compliance with the site’s Record of Decision (ROD). MDEQ's comments are part of the site’s Administrative Record.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Benzene, chloroethane, 1,1-dichloroethane, 1,2-dichloroethane, 1,1-dichloroethene, 1,2-dichloroethene, 1,2-dichloropropane, tetrachloroethene, trichloroethene, vinyl chloride, aluminum, antimony, arsenic, chromium, lead, nickel.

@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site is located in Wichita, Kansas, bounded on the north by East 37th Street, on the south by East 29th Street North, on the west by both North Santa Fe and North Mead Streets, and on the east by railroad tracks. The site is owned by New Coleman Holdings, Inc. and occupies approximately 80 acres.
+
+The U.S. Environmental Protection Agency and the Kansas Department of Health and Environment (KDHE) initiated investigations in 1983 of the area surrounding the Coleman Operable Unit (OU) for groundwater contamination. In 1987 and 1988, investigations specific to the Coleman OU were conducted. These investigations concluded that several potential source areas for volatile organic compounds (VOCs) existed. As a result, a groundwater recovery and treatment program and a soil vapor extraction (SVE) system were constructed and became operational in 1988.
+
+The EPA, in consultation with the KDHE, issued a Record of Decision (ROD) in 1992 for the Coleman OU of the 29th and Mead Superfund Site. The selected remedy was an expansion of the existing SVE system as the final soil remedial action and an interim groundwater remedy consisting of the existing pump and treat system augmented by an additional recovery well along the Coleman OU’s southern border. A 1994 Consent Decree requires that any monitoring program will, at a minimum, analyze for trichloroethene (TCE), 1,1,1-trichloroethane (1,1,1-TCA), tetrachloroethene (PCE), cis-1,2-dichloroethene (cis-1,2-DCE), 1,1-dichloroethene (1,1-DCE), toluene, and vinyl chloride.
+
+The groundwater remediation system continues to operate in modified form. In accordance with the ROD, the existing groundwater remedial system was augmented by the addition of one recovery well (RW-2) which was completed in October 1996, and began operating in April 1997. However, a stagnation zone was later identified and a 2006 study provided recommendations to shut-down both the northern recovery well (RW-1) and its associated air stripper (AS-1) and adjust flow rates of the remaining extraction wells. This recommendation was implemented in 2006.
+
+Monitoring of the remedial actions consists of semiannual groundwater elevation and sample collection (analyzed for the seven required VOCs); monthly air stripper effluent analysis of the required seven VOCs; monthly air stripper influent analysis for TCE; and, photoionization detector (PID) measurements of the SVE emissions. The monitoring network consists of 79 wells, of which 44 are semiannually sampled for VOC analysis.
+
+### What Has Been Done to Clean Up the Site?
+
+Remedial designs were completed for the soil remedy in August 1999 and for the groundwater interim remedy in May 1996. The expanded SVE system was designed to treat all known on-site vadose zone source areas. The groundwater pump and treat system was designed to prevent off-site migration of contaminated groundwater that would exceed respective Maximum Contaminant Levels (MCLs) or Kansas Action Levels (KALs). Soil cleanup levels were established through modeling studies and arrived at allowable VOC soil concentrations specific to soil type and constituent. These concentrations are intended to prevent the leaching of VOCs into groundwater such that MCLs are not exceeded. Additional SVE systems were installed at nine different sump areas and at the South Field and commenced operation on May 15, 2000. The original SVE system was decommissioned and removed in 1996 after it was determined that it had removed all of the VOCs practicable from soil present in the North Field area; an estimated 8,990 to 14,323 pounds of VOCs were removed. The SVE systems addressing the nine additional sump areas were decommissioned during June 2006 after demonstrating compliance with closure standards; an estimated 2,145 lbs of VOCs were removed. The remaining SVE system operates in the South Field.
+
+### What Is the Current Site Status?
+
+The site is being addressed through the EPA, State and PRP actions.
+
+The EPA has conducted four Five-Year Reviews of OU2’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment in the short term as long as contaminated wells are not used. Continued protectiveness of the remedy requires ongoing ground water treatment and soil vapor extraction to remove trichloroethylene (TCE) from contaminated environmental media.
+
+On September 9, 2015, the third Five-Year Review (FYR), for the Site was finalized by the EPA. Because contaminants were present in the subsurface near occupied buildings, a recommendation of that report was to complete a vapor intrusion assessment to determine if TCE levels in indoor air of Buildings 12 and 14 were above the EPA’s Removal Management Level (RML) of six micrograms per cubic meter, or µg/m3. The Indoor Assessment Workplan sampling was conducted in June 2016 and on November 9, 2016, which assessed 31 locations in 16 buildings. The results indicated elevated levels of tetrachloroethylene (PCE), and TCE in 8 of the 16 buildings. Five additional rounds of sampling were conducted which confirmed that a product called CRC Heavy Duty Degreaser was being used in the plant. According to the Safety Data Sheet, the product is primarily PCE. It was being used in aerosol form throughout the plant as a degreaser. The degreaser is no longer used at the facility and the latest results showed that PCE levels were either non-detect or below the EPA’s RMLs in all samples. However, TCE levels remain above the RML within Buildings 12 and 14.
+
+A sub-slab depressurization system was installed beneath Building 14 in July of 2019. Results from two follow-on sampling events show TCE levels of the indoor air are below the RML of 6 ug/cm3. Additional sampling of Building 14 will continue to confirm that TCE concentrations remain below the RML. TCE concentrations in Building 12; however, continue to be an issue. The EPA is currently working with Johnson Controls to inform workers of the potential adverse health effects from TCE. The EPA is also working with New Coleman Holdings to devise a system to eliminate or reduce the indoor air concentrations of TCE in Building 12. That system is proposed to be implemented in the spring of 2020. Quarterly sampling of the indoor air will be established to confirm that TCE concentrations remain below the RML.
+
+In March 2020, a sub-slab depressurization system was implemented in Building 12 which pulled air from existing drains and vented it on the roof. The system is showing promise, but additional drain lines (near the middle and south end of the buidling) need to be included in the mitigation efforts. A workplan to include these additional lines, add additional buildings to the quarterly indoor air sampling, and include sub-slab vapor sampling is was discussed with a final date in the spring of 2021.
+
+Additional mitigation lines were added to Building 14. One year of quarterly sampling has been conducted which shows all indoor air VOCs are below Removal Management Levels.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls were not part of the remedial action. Institutional controls at the Coleman OU site area can be considered to be in place because there is no use of the groundwater for potable purposes, only industrial. All drinking water is supplied by the city of Wichita. All owners and operators at the site are respondents to the Consent Decree or successor owners/operators and are aware of the contaminants at the site. No institutional control is required by the ROD for the Coleman OU.
+
+### Sampling and Monitoring
+
+Annual and semi-annual groundwater sampling continues to occur at the site. Indoor air samples are taken quarterly in Building 12 to determine indoor air levels of trichloroethylene. A sub-slab vapor mitigation system was installed in the spring of 2020 and continues to be operated and monitored.
+
+### Enforcement Information
+
+The PRPs are implementing the remedy with EPA oversight in accordance with the 1994 Consent Decree.

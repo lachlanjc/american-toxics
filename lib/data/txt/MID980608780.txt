@@ -1,21 +1,13 @@
-SOUTHWEST OTTAWA COUNTY LANDFILLPARK TOWNSHIP, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 43-acre Southwest Ottawa County Landfill is located in Park Township, Michigan. Ottawa County built the landfill in 1968. It operated as a state-licensed landfill until its closure in 1981. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. The site’s remedy is currently under construction.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and state actions.
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy included construction of a new landfill cap and extraction well system, prevention of discharge of groundwater containing hazardous substances to Lake Michigan, institutional controls, and abandonment of all existing residential wells. The cleanup also requires continued operation of a previously existing down-gradient groundwater extraction system.As of 2008, Ottowa County continued to operate the old extraction system and conduct annual groundwater monitoring. It had put the new landfill cap in place and was completing the hook-up of residents to the public water supply. The county was also in the process of installing the new extraction well system and developing land and resource use restrictions and ordinances as institutional controls. When cleanup finishes and sufficient groundwater data becomes available, the Michigan Department of Environmental Quality will evaluate the effectiveness of the cleanup.
-Top of Page
-Sampling and Monitoring
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included construction of a new landfill cap and extraction well system, prevention of discharge of groundwater containing hazardous substances to Lake Michigan, institutional controls, and abandonment of all existing residential wells. The cleanup also requires continued operation of a previously existing down-gradient groundwater extraction system.
+
+As of 2008, Ottowa County continued to operate the old extraction system and conduct annual groundwater monitoring. It had put the new landfill cap in place and was completing the hook-up of residents to the public water supply. The county was also in the process of installing the new extraction well system and developing land and resource use restrictions and ordinances as institutional controls. When cleanup finishes and sufficient groundwater data becomes available, the Michigan Department of Environmental Quality will evaluate the effectiveness of the cleanup.

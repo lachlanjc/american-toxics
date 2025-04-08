@@ -1,2 +1,42 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Andersen Air Force Base (AAFB) is an active base located at the northern end of the island of Guam. Operational since 1940, its primary mission is to provide support for Strategic Air Command operations in the Pacific. The 20,000-acre site was placed on the NPL in October 1992 due to the presence of hazardous substances associated with AAFB base operations. Hazardous substances include solvents such as trichloroethane (TCE) and paint thinners; dry cleaning fluids and laundry products; fuels such as JP-4 and gasoline; pesticides; antifreeze; aircraft cleaning compounds; polychlorinated biphenyls (PCBs); metals; and military munitions. These substances were found in unlined landfills, drum storage and disposal areas, chemical storage areas, fire training areas, waste storage areas, laundry facilities, and industrial and flight line operations. AAFB is located in a karst limestone terrain and the Northern Guam Lens Aquifer (NGLA) is a sole source aquifer underlying the site. This aquifer supplies drinking water to at least 70 percent of the island residents as well as AAFB residents. The site’s long-term cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The Air Force is the lead agency conducting site investigations and cleanup under regulatory oversight from US EPA and Guam EPA.
+
+AAFB is participating in the Installation Restoration Program (IRP) and the Munitions Response Program (MRP), specially funded programs established by the Department of Defense (DoD) to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities.
+
+Immediate threats to the health and safety of the nearby population and environment have been reduced by the cleanup of contamination of IRP and MRP sites. Areas with contaminated soil have either been cleaned up or access to those areas has been restricted. Contaminated groundwater is not available for consumption because no drinking water wells exist in areas of contamination.
+
+### What Is the Current Site Status?
+
+A Federal Facilities Agreement (FFA) between the Air Force, US EPA and Guam EPA was signed by all parties in 1993. This agreement provides the legal framework and schedule for the Air Force to perform remedial investigations and cleanup actions. The Air Force has installed dozens of monitoring wells into the aquifer, located several hundred feet below the ground surface. The ground water investigation is complete in terms of identifying contaminant plumes and groundwater monitoring is being conducted to monitor the contaminant plumes.
+
+Most soil contamination problems at Andersen are either the result of nearby industrial activity, or the result of materials being placed into scattered dumpsites. Areas with soil contamination are being investigated with a combination of surface soil sampling, borehole sampling, trenching, geophysical tools and soil gas monitoring. The plan for most of the areas with soil contamination is to excavate and remove the contaminated soils. A few areas that are too big to excavate have or will have remedies proposed that involve capping the areas and imposing land use controls to restrict access.
+
+*Initial Actions:* Closure of the main base landfill in accordance with the requirements of the Resource Conservation and Recovery Act (RCRA) finished in 1994. Landfill closure included the construction of a cover over the landfill.
+
+*Long-Term Cleanup:* The Main Base Operable Unit, Northwest Field Operable Unit and the Site-Wide Operable Unit encompasses the entire Andersen Air Force Base property. The Main Base contains active runways, bulk fuel storage facilities, housing areas, and the majority of the operations and administrative structures and functions. Northwest Field is home to Rapid Engineer Deployable Heavy Operations Repair Squadron Engineer facilities and operations. The three operable units include seventy-one (71) out of the eighty-one (81) IRP sites and 18 MRP sites. Only seven (7) IRP sites and eleven (11) MRP sites remain under investigation and remedial cleanup.
+
+The MARBO Operable Unit is located several miles south-southeast of the Main Base and covers 2,342 acres. The final remedy for soils included removing some hazardous soils off-island and removing other, less hazardous soils to the Main Base landfill. Ground water is contaminated with trichloroethylene, a degreasing solvent. The remedy, selected in 1998, is monitored natural attenuation. Long-term monitoring has shown that the contaminants at the bottom of the aquifer, directly over the saltwater zone, are not decreasing, so the Air Force and EPA re-evaluated the remedy in 2014 and proposed a waiver for technical impracticability. Because cleaning the aquifer directly over the saltwater interface would cause upwelling of salt water into the drinking water portion of the aquifer, there is no practical way to implement a remedy. Thus, the remedy update included institutional controls prohibiting the pumping of ground water in the deep plume area, long-term groundwater monitoring and contingencies for well-head treatment.
+
+The Harmon Operable Unit covers 1,400 acres and is located above Tumon Bay. The site area been cleaned to unrestricted reuse levels.
+
+The Urunao Operable Unit is located over a cliff-line in the northwest portion of the base. Crashed aircraft were pushed off the runways over this cliff throughout World War II, the Korean War and Vietnam War. Portions of the dumpsite are located on private land. The Air Force used cranes and earthmoving equipment to remove parts of the dumpsite that pose a health hazard. Cleanup finished in 2009.
+
+**Cleanup Progress**  
+Immediate threats to the health and safety of the nearby population and environment have been reduced by the construction of the landfill cover. Contaminated ground water is not available for consumption because no drinking water wells exist in areas of contamination. Areas with contaminated soil have either been cleaned up or access to those areas has been restricted. Sites with munitions contamination are currently being investigated and will be addressed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+There are eleven (11) IRP sites that have Land Use Controls (LUCs) which limit access to these sites preventing exposure to contaminants of concern.
+
+### Sampling and Monitoring
+
+Long-term groundwater monitoring is being conducted in the MARBO and Main Base Operable Units to monitor groundwater contaminant plumes.

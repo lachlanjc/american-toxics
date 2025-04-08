@@ -1,2 +1,62 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Oak Ridge Reservation (ORR) site, a U.S. Department of Energy (DOE) facility, covers nearly 35,000 acres and is located within and adjacent to the corporate limits of Oak Ridge, Tennessee. It is approximately 20 miles west of Knoxville, TN. Approximately 30% of the site is forested property that has not been impacted by releases of contamination. EPA placed the site on the [Superfund program’s National Priorities List (NPL) in 1989](https://www.govinfo.gov/content/pkg/FR-1989-07-20/pdf/FR-1989-07-20.pdf).
+
+ORR was established as part of the **[Manhattan Project](https://www.ushistory.org/us/51f.asp)** to process natural material for use in nuclear weapons for the military during World War II. The ORR includes two active industrial areas, Oak Ridge National Laboratory (ORNL) and Y-12 National Nuclear Security Site (Y-12), with ongoing DOE missions; and a third industrial area, East Tennessee Technology Park (ETTP), with no future DOE mission.
+
+Historical site operations at ETTP, ORNL and Y-12 generated a variety of radioactive, non-radioactive and mixed (radioactive and non-radioactive) hazardous wastes. Leakage from buried wastes, stored wastes, and operational activities from these facilities has resulted in hundreds of contaminated areas across the site. Most contamination is located within DOE-controlled property where public access is restricted. Site wastes have also contaminated surface water and sediment outside of ORR’s property boundaries including the Lower East Fork Poplar Creek, the Poplar Creek/Clinch River and the lower Watts Bar Reservoir of the Tennessee River. In total, site contaminants have affected 82 river miles of the Clinch River and the Clinch River arm of the Watts Bar Reservoir. The contaminants are mostly located in river and lake bottom sediments. Dredging is prohibited in these areas unless approved by the EPA and the [Tennessee Department of Environment and Conservation](https://www.tn.gov/environment.html) (TDEC).
+
+- ETTP, formerly known as the K-25 Gaseous Diffusion Plant, is a closed uranium enrichment processing facility that is undergoing cleanup in support of a non-DOE, private industrial park.
+- ORNL is an active federal research facility that includes contaminated areas and structures used during the Manhattan Project.
+- Y-12 is an active federal manufacturing and storage facility that is used to manufacture parts for nuclear weapons and stores the nation’s supply of enriched uranium.
+
+Superfund cleanup of the contamination at this NPL Site is being implemented under a [Federal Facility Agreement (FFA)](https://ucor.com/regulatory-agreements-for-the-oak-ridge-reservation/) between the DOE, EPA and TDEC.
+
+### What Has Been Done to Clean Up the Site?
+
+**1986**  
+DOE began conducting the Remedial Investigation/Feasibility Study on October 25, 1986.
+
+**1991**  
+The EPA places the site on the National Priorities List on November 21, 1991. The first remedy is selected in a Record of Decision on June 28, 1991.
+
+**1991 - Present**  
+Investigations and cleanup actions are on-going. Hundreds of acres have been put into re-use by private parties.
+
+### What Is the Current Site Status?
+
+The ORR site consists of three primary campuses. The East Tennesse Technology Park (ETTP), Oak Ridge National Laboratory (ORNL) and the Y-12 National Security Complex (Y-12).
+
+**ETTP**
+
+The ETTP was where the majority of efforts were taken place to create atomic bombs. It is known formerly as the Gaseous Diffusion Plant. The ETTP was divided into two zones for the purpose of remediation. Remedial actions for contaminted soil in Zone 1 has been completed and a Final Record of Decision has been drafted which will include Land Use Controls.
+
+Zone 2 soil remediation is nearing completion. Groundwater renedial actions are currently in the plannning process. Two groundwater RODs were signed a few years ago.
+
+**ORNL and Y-12**
+
+Dismantling old buildings is currently in progress.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Activity and Land Use Controls vary among the entire site. Most include limitations on digging, groundwater use, zoning for industrial use only, and vapor intrusion.
+
+### Sampling and Monitoring
+
+Sampling and Monitoring is constantly being performed.
+
+### Enforcement Information
+
+For many years, EPA has been working with its federal and state partners to clean up the site. In 1992, DOE, EPA and TDEC signed a Federal Facilities Agreement (FFA). The FFA establishes the terms and conditions for planning and executing the site’s cleanup, including enforceable schedules to ensure timely completion of site cleanup. Under the site’s FFA, the parties also evaluate the entire cleanup program and re-establish priorities annually. Parties conduct cleanup planning and set enforceable schedules in FFA Appendix E. FFA Appendix J includes the program’s entire duration and long-term cleanup strategy. The principles and process for setting enforceable milestones in support of budget requests can be found at the following link: [FFERDC Report](http://nepis.epa.gov/Exe/ZyNET.exe/20012GLI.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1995+Thru+1999&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D:%5czyfiles%5cIndex%20Data%5c95thru99%5cTxt%5c00000018%5c20012GLI.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7c-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL).
+
+Since 2009, EPA and TDEC have undertaken enforcement actions to address cleanup milestones that were not achieved. Stipulated penalties assessed by both EPA and TDEC were in excess of $800,000 for events related to the following projects and milestones:
+
+- Failure to start and complete the response action on schedule for the ETTP Ponds Project.
+- Failure to accomplish three milestones for the K-25/27 Building Demolition Project at the ETTP.
+- Failure to meet a milestone for ground water cleanup at the ETTP
+
+Additionally, several disputes have been raised and resolved through both informal and formal dispute resolution procedures. The resolution of these disputes has improved the cleanup process and its documentation of cleanup activities consistent with the CERCLA, the NCP and the FFA.

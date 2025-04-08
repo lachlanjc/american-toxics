@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Motorola, Inc. 52nd Street Superfund site (herein referred to as “M52”) is an area of contaminated groundwater extending from the former Motorola 52nd Street facility and approximately seven miles downstream to the west. Other facilities have also contributed to the contaminated groundwater, over the extent of the plume. The responsible parties have operated various soil gas and interim groundwater treatment systems that have reduced the levels of contamination and decreased the groundwater plume size. In addition, vapor intrusion mitigation systems have been installed at 16 residential buildings and 1 commercial building in the neighborhoods near the former Motorola 52nd Street facility. EPA and Arizona the Department of Environmental Quality (ADEQ) are working to develop final cleanup actions over the next few years.
+
+The Site is located in Phoenix, Arizona, generally bounded by 52nd Street on the east, Palm Lane on the north, 7th Avenue on the west, and Buckeye Road on the south. Because of the size of the site, it has been divided into three areas called Operable Units (OUs) in order to better manage the cleanup efforts ( [click here](https://semspub.epa.gov/src/document/09/100032620) to see the Site Map).
+
+ADEQ is the lead agency for groundwater activities in OU1 and OU2. EPA is the lead agency for OU1 and OU2 vapor intrusion investigation and mitigation as needed, and the OU3 groundwater and vapor intrusion investigation.
+
+If you would like to be added to the mailing list for the site, please email Travis Wicks at [wicks.travis@epa.gov](mailto:wicks.travis@epa.gov).
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and PRP actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that EPA cannot determine the protectiveness of the remedy until it reviews and investigates approaches to mitigate DNAPL in on-site bedrock, selects an end use for treated groundwater, identifies opportunities for increased groundwater extraction and conducts an engineering review.  
+
+### What Is the Current Site Status?
+
+**Remedy Selected**
+
+The interim remedy for the site included an on-site soil-gas and groundwater recovery and treatment facility. The system has been operational since 1992.
+
+A second interim remedy for the site included extraction and treatment of groundwater using either air stripping by synthetic resin adsorption, or advanced oxidation, and reinjection of treated water into the aquifer. EPA later updated the remedy to include installation of extraction wells, treatment of extracted drinking water using carbon adsorption and ultraviolet oxidation, and discharge of treated water to the Salt River Project Grand Canal and used for irrigation and agricultural livestock. The treatment system began operation in 2001.  
+
+**Cleanup Ongoing**
+
+Several issues have complicated cleanup at the site. In 2012, a potentially responsible party (PRP) discovered a jet fuel plume on the site. The PRP installed a biologically enhanced soil vapor extraction system in 2009. As of 2012, the system had removed over four million pounds of petroleum hydrocarbons. Additionally, dense non-aqueous phase liquids (DNAPLs) have seeped into bedrock. Groundwater and soil vapor monitoring wells installed in 2013 will help identify the nature and extent of contamination.
+
+Monitoring of homes and apartment units equipped with indoor air mitigation systems will continue until 2016. Investigations of potential vapor intrusion pathways are ongoing. Source investigations and soil gas sampling will inform the remedy for groundwater contamination downgradient from site contamination.

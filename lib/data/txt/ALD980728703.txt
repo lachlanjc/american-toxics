@@ -1,2 +1,22 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Perdido Ground Water Contamination Site is located in Perdido, Baldwin County, Alabama, and is the site of a train derailment, which occurred on May 17, 1965. The Site originated as a borrow area which provided sand and fill material to the County for local use. In 1965, a train derailment by the Louisville and Nashville Railroad (a predecessor of CSX Transportation, Inc., CSXT) occurred approximately 200 yards east of the intersection of State Highways 47 and 61. Chemicals from the derailed tank cars spilled into the drainage ditches along State Highway 61 and caught fire.
+
+Later, as a result of the accident, an unknown quantity of benzene that had not been destroyed by the fire eventually penetrated the soil and entered the groundwater aquifer. In 1982, benzene was identified in several residential domestic water supply wells within the community of Perdido. An alternate supply of drinking water was provided by CSXT by constructing a waterline six miles from the nearby town of Atmore. Approximately 150 Perdido homes within a one mile radius of the derailment were connected to the alternate water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+The 110-acre site is located near the intersection of Highways (County Roads) 47 and 61 in Perdido, Alabama, a small town 42 miles northeast of Mobile. Forested areas and residential and commercial development surround the Site. The Perdido Elementary and Middle School is located immediately southeast of the Site.
+
+In 1965, a train derailment spilled benzene into drainage ditches along Highway 61. Benzene is a common industrial chemical. Because of the spill, an unknown amount of benzene soaked into area groundwater. At the time, local residents used groundwater as a source of drinking water.
+
+In 1981, the Alabama Department of Public Health (DPH) documented reports of odor problems in residents’ drinking water wells. DPH sampled wells in 1982 and found benzene contamination. In 1983, Baldwin County’s Health Officer recommended that people within one mile of the derailment stop use of their well water for drinking or bathing. The U.S. National Guard provided two water tanks at a central location and affected residents brought water from the tanks to their homes.
+
+- At the suggestion of the EPA, PRP Seaboard System Railroad (now CSX Transportation) voluntarily provided funds for the construction of a water line extending six miles from the nearby town of Atmore. The water line connected about 150 Perdido homes within one mile of the derailment to the public water system. The PRP completed the water line in 1983. Also in 1983, the EPA listed the site on the National Priorities List (NPL).
+- In 1988, the EPA issued the clean-up plan (a Record of Decision, or ROD) for the Site. It included pumping and treating contaminated groundwater; discharging treated groundwater back into the ground; and monitoring the pump-and-treat system.
+
+In 1993, the EPA issued an Explanation of Significant Differences allowing the discharge of treated groundwater into nearby Perdido Creek, as needed. In 1998 and 1999, the PRP installed biosparge wells, which use oxygen to break down contaminated groundwater.
+
+### What Is the Current Site Status?
+
+The Site was deleted from the NPL effective May 16, 2017 as all monitoring wells had attained the 1988 Record of Decision (ROD) cleanup goal for benzene of 5 µg/L and maintained this goal for five consecutive years, as required in the ROD. Five-year reviews are no longer required as waste no longer remains on-site above levels that allow for unlimited use/unrestricted exposure (UU/UE). Updates will not be required on this site page.

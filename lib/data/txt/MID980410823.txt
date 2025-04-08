@@ -1,33 +1,43 @@
-G&H LANDFILLUTICA, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The G&H Industrial Landfill site is located in Macomb County, Michigan. It consists of a 60-acre landfill and about 10 to 20 acres of adjacent property. The landfill operated as a waste oil recovery facility from 1955 to 1967 and as an industrial and municipal landfill from 1955 to 1974. Disposal of waste solvents, waste oil, paint sludge and municipal refuse contaminated soil, surface water and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that a protectiveness determination for the remedy at the site cannot be made without further evaluation of the groundwater and leachate extraction systems. Continued protectiveness of the remedy requires attainment of the cleanup standards and implementation of institutional controls.
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy included 
-a landfill cover,
-relocation of impacted soils beneath the landfill cover,
-containment of landfill areas,
-groundwater extraction, treatment and monitoring, and
-wetland mitigation and creation. 
-Construction of the remedy took place between 1996 and 1999. Operation and maintenance activities are ongoing. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Naphthalene  Benzene Xylene  Arsenic Ethylbenzene  Trichloroethene  Tetrachloroethene 1,2-Dichloroethene  Vinyl Chloride PCBs Lead 
-Top of Page
-Enforcement Information
-No enforcement activities are currently underway at the G&H Site.
-Top of Page
+### Background
+
+The G&H Industrial Landfill site is located in Macomb County, Michigan. It consists of a 60-acre landfill and about 10 to 20 acres of adjacent property. The landfill operated as a waste oil recovery facility from 1955 to 1967 and as an industrial and municipal landfill from 1955 to 1974. Disposal of waste solvents, waste oil, paint sludge and municipal refuse contaminated soil, surface water and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that a protectiveness determination for the remedy at the site cannot be made without further evaluation of the groundwater and leachate extraction systems. Continued protectiveness of the remedy requires attainment of the cleanup standards and implementation of institutional controls.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included
+
+- a landfill cover,
+- relocation of impacted soils beneath the landfill cover,
+- containment of landfill areas,
+- groundwater extraction, treatment and monitoring, and
+- wetland mitigation and creation.
+
+Construction of the remedy took place between 1996 and 1999. Operation and maintenance activities are ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Naphthalene  
+Benzene  
+Xylene  
+Arsenic  
+Ethylbenzene  
+Trichloroethene  
+Tetrachloroethene  
+1,2-Dichloroethene  
+Vinyl Chloride  
+PCBs  
+Lead
+
+### Enforcement Information
+
+No enforcement activities are currently underway at the G&H Site.

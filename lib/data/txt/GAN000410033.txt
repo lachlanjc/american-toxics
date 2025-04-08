@@ -1,2 +1,79 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 130-acre Armstrong World Industries (Armstrong) [Superfund site](http://www.epa.gov/superfund) is located in Macon, Georgia. The site is bordered on the east by Broadway Street; to the north by Guy Paine Road and the Lynmore Estates residential area; to the east by Allied Industrial Park (the former Macon Naval Ordnance Plant Superfund Site); and to the south by Rocky Creek.
+
+The site contains two separate areas:
+
+The first area, the northern area consists of the manufacturing facility, the wastewater treatment plant (WWTP), the 7.7-acre WWTP Landfill, and the 3.8-acre Woodyard Landfill. The Woodyard Landfill was capped in 2004 by Armstrong under State oversight. The WWTP Landfill was addressed as Operable Unit 1 (OU-1). Construction of the OU-1 remedy was completed in 2016.
+
+Since 1948, Armstrong has operated an acoustic ceiling tile manufacturing plant at the site. The Macon facility may also have recycled materials, including newspaper with older dye formulations, containing polychlorinated biphenyls (PCBs).
+
+The second area is the southern area, designated as OU-2 and includes the AWI Remote Landfill (referred to as the Remote Landfill) the Former Macon Naval Ordnance Landfill (FMNOL), and SU-7, all of which are located nearby to Rocky Creek. Armstrong began disposing of waste materials in the Remote Landfill in the 1960s. The former Macon Naval Ordnance Plant, which operated on property next to the Armstrong facility, also disposed of waste materials in the FMNOL. The AWI Remote Landfill and FMNOL are essentially one landfill that are being addressed as Operable Unit 2 (OU-2), along with SU-7.
+
+EPA placed the site on Superfund's [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2011, because waste disposal operations have impacted groundwater, in addition to fish and sediment in Rocky Creek.
+
+### What Has Been Done to Clean Up the Site?
+
+**2011**  
+With support from the [Georgia Environmental Protection Division (GAEPD)](https://epd.georgia.gov/), EPA listed the site on the National Priorities List (NPL) in 2011. EPA has divided the cleanup at the site into two areas or operable units (OUs).
+
+- OU-1 has addressed the Wastewater Treatment Plant Landfill, with Armstrong as the sole responsible party.
+- OU-2 will address the Remote Landfill and Rocky Creek, with Armstrong as one of several potentially responsible parties.
+
+As part of the OU-1 work, a composite soil sample was collected in 2011 along the site’s northern fence line, along Guy Paine Road, in order to determine if residential areas to the north were potentially impacted. Polychlorinated biphenyls (PCBs) were not found in this soil sample. Surface water runoff is to the south towards Rocky Creek, away from the residential areas to the north.
+
+**2013**  
+Using Superfund's removal authority, EPA issued the cleanup plan (Action Memorandum) for OU-1. The OU-1 removal action called for an engineered cap/liner system on the landfill, a mechanically stabilized earthen barrier wall, and replacement of the drainage swale. This response action was designed to manage surface and subsurface soils while also preventing subsurface water infiltration. The final design of the engineered cap also included a pollinator meadow to provide habitat for butterflies, bees, and other species.
+
+**2015**  
+In September 2015, negotiations began between EPA and the Potentially Responsible Parties (PRPs) for the OU-2 Remedial Investigation/Feasibility Study (RI/FS). The purpose of the RI is to define the nature and extent of contamination at the Site while the purpose of the FS is to identify the cleanup options that will address the risks posed by that contamination, to both human health and the environment.
+
+**2016**  
+Construction work on the WWTP Landfill began in 2015 and was completed in April 2016.
+
+**2018**  
+In September 2018, negotiations were completed with the Potentially Responsible Parties and an agreement finalized for performance of the OU-2 Remedial Investigation/Feasibility Study (RI/FS).
+
+**2019**  
+The draft OU-2 RI/FS Workplan was finalized in September 2019. On November 12, 2019, a public availability session was held to kick off the OU-2 RI field sampling activities.
+
+**2020**  
+All OU-2 RI field sampling activities called for in the September 2019 workplan were completed in 2020.
+
+**2023**  
+The final OU-2 RI Report was approved by the EPA in July 2023, while the final OU-2 FS Report was approved by the EPA in February 2024.
+
+**2024**  
+On August 1, 2024, the United States Environmental Protection issued a Record of Decision (ROD) for Operable Unit 1 (OU-1) and OU-2 of the Armstrong World Industries Site (the Site) located in Macon, Macon-Bibb County, Georgia.
+
+Prior to issuing the ROD, the Proposed Plan for OU-2, which includes the cleanup options, was presented to the community in May 2024.
+
+### What Is the Current Site Status?
+
+The Proposed Plan for OU-2 consists of two preferred remedies: the first is RA-SU7-6, which is the removal and offsite disposal of contaminated soils (Action Area #3 at Sample Unit 7 (SU7), while the second is RA-LF-2, which includes restoring/repairing the historical soil cover. The EPA is the lead agency for the Site, while the State of Georgia's Environmental Protection Division (GAEPD) is the support agency. The cleanup activities (or Remedial Action) proposed at OU-2 will take place following a completion of a Remedial Design.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Since 2011, based on the limited fish data collected in 1996-98, the EPA has advised the public that fish should not be eaten from Rocky Creek downstream of Houston Road. However, during the OU-2 RI, in December 2019 and May 2020 more extensive fish sampling was conducted in Rocky Creek. The results from this updated fish sampling showed that PCBs in Rocky Creek fish have declined significantly. The EPA now advises that the public should avoid only channel catfish and spotted sucker fish from Rocky Creek downgradient of Houston Road, as these two bottom feeder fish had the highest levels of PCBs among all fish sampled in 2019/2020.
+
+The public can also reduce their PCB exposure further by following the fish preparation guidelines found on page 6 of the 2023 " [Guidelines for Eating Fish from Georgia Waters](https://epd.georgia.gov/https%3A/epd.georgia.gov/assessment/fish-consumption-guidelines) ", published by the Georgia Department of Natural Resources.
+
+There are currently no land use limitations or institutional controls (ICs) on the Site. ICs are required per the August 2024 ROD.
+
+Groundwater beneath the OU-2 area is not used for drinking water. Groundwater in the OU-2 area is contaminated with trichloroethylene (TCE) from the MNOP Superfund Site, located adjacent to the AWI Site (and north of the OU-2 area). Groundwater at the AWI site will be addressed as part of OU-3.
+
+### Sampling and Monitoring
+
+Additional sampling activities will be conducted during the cleanup to ensure that the removal was completed using the ROD cleanup standards.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+- The WWTP Landfill was addressed as Operable Unit One (OU-1), with Armstrong as the sole responsible party.
+- Operable Unit Two (OU-2) at the site will address the Remote Landfill and Rocky Creek. EPA has identified seven potentially responsible parties (PRPs) for OU-2 at this site. In September 2015, EPA sent Special Notice Letters to the seven PRPs notifying them of their potential liability for OU-2 costs. The letters also solicited the PRPs to reach an agreement with EPA to begin Superfund’s remedial process for OU-2. In September 2018, EPA finalized an agreement with the potentially responsible parties for performance of the OU-2 Remedial Investigation/Feasibility (RI/FS) Study.
+- OU-2 RI field sampling activities, as called for in the September 2019 OU-2 RI/FS Workplan, began in November 2019 and were completed in 2020. The final RI and FS reports were approved by the EPA in July 2023 and February 2024, respectively.

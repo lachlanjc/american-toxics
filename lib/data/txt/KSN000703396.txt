@@ -1,22 +1,34 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Caney Residential Yards Superfund site, is in the city of Caney, Montgomery County, Kansas. The city of Caney, Kansas, was home to two smelters that refined primarily lead and zinc with ore supplied by the nearby Tri-State Mining District (TSMD). The TSMD was one of the major lead-zinc mining areas of the world between 1885 and 1970. The discovery of large natural gas and oil reserves near Caney as well as an existing rail service spurred the construction of two smelters in the early 1900s. The two smelters, the American Zinc, Lead and Smelting Company (AZLSC) and the Owens Zinc Company (OZC) Smelter, were opened in 1904 and 1915, respectively. Metals from the ores being smelted, such as lead and zinc, were deposited across the town via atmospheric deposition from smokestacks, water runoff from waste piles, the use of smelter wastes as road base and as a base for railroads. The United States Environmental Protection Agency (EPA) and the city have also noted that smelter wastes were used as base or fill to lay brick sidewalks and driveways within the community. The two smelter sites in or near Caney are each considered a source area. A source area is defined as a site where waste was released as part of the manufacturing process. A description of each source area is provided below along with a general description of the investigated parcels. Most smelter site structures in Caney, including buildings, building foundations and a section of the rail system have been removed, graded and leveled. The southern portion of the AZLSC property has been developed into the Caney Valley High School and associated sports facilities. The northern half of the AZLSC property and the OZC property are both rural with few residential structures. The AZLSC property resides on the very northeastern bounds of the city of Caney while the OZC property lies just outside the city limits to the north. The Interim Record of Decision for Operable Unit 01, completed in September 2022, selected a remedy to address contaminated soils at residential properties which includes residential yards, schools, public use areas and child high-use areas (a play and recreational area frequented by children and not part of a residential yard, e.g., park, school playground, etc), inside the city limits with soil contamination above the site-specific cleanup goal of 200 parts per million (ppm) lead. Top of Page
-What Has Been Done to Clean Up the Site?
-In 2014, the PRP, Blue Tee Corporation (Blue Tee), hired a contractor to perform residential sampling at fourteen residential properties south of the former OZC smelter property. The sample results from those residential properties indicated five had lead concentrations exceeding 400 ppm. In 2015, KDHE requested assistance from the EPA in addressing residential properties potentially impacted by the former smelting activities in Caney. Removal Assessment sampling in 2015 at 279 residential properties determined that 73 properties contained soil with lead concentrations greater than 400 ppm lead. The EPA performed a subsurface soil study and sampled from zero - two feet below ground surface (bgs) at nine residential properties. The study results indicated that lead contamination associated with the former smelter sites is primarily present in surficial soil. From 2016-2018, the EPA Removal Program evaluated surface soil lead data at 723 residential properties, which included primary residences but also churches, parks and abandoned rail lines, to
-determine whether remedial action would be deemed necessary in the future. During that time, soil excavation was performed at 335 residential properties where soil concentrations exceeded 400 ppm lead 
-Additional sampling was completed in October 2019 to support the decision-making activities associated with a future RA. The additional sampling focused on lead as the main contaminant, but other
-contaminants of interest associated with historical smelting sites, cadmium and zinc, were also investigated. Access was granted to sample 35 residential properties, a section of abandoned railroad and a subset of the city alleys during that time. 
-Top of Page
-What Is the Current Site Status?
-The Interim Record of Decision for Operable Unit 01, completed in September 2022, selected a remedy to address contaminated soils at residential properties, which includes residential yards, schools, public use areas and child high-use areas (defined as a play and recreational area frequented by children and not part of a residential yard, e.g., park, school playground, etc), inside the city limits with soil contamination above the site-specific cleanup goal of 200 parts per million (ppm) lead. Over 1,000 residential properties in Caney, Kansas, have been sampled, and a Remedial Action contract was awarded March 8th, 2024, to address those properties which qualify for remediation at the site-specific cleanup goal of 200 ppm lead. Top of Page
-Sampling and Monitoring
+### Background
+
+The Caney Residential Yards Superfund site, is in the city of Caney, Montgomery County, Kansas.
+
+The city of Caney, Kansas, was home to two smelters that refined primarily lead and zinc with ore supplied by the nearby Tri-State Mining District (TSMD). The TSMD was one of the major lead-zinc mining areas of the world between 1885 and 1970. The discovery of large natural gas and oil reserves near Caney as well as an existing rail service spurred the construction of two smelters in the early 1900s. The two smelters, the American Zinc, Lead and Smelting Company (AZLSC) and the Owens Zinc Company (OZC) Smelter, were opened in 1904 and 1915, respectively.
+
+Metals from the ores being smelted, such as lead and zinc, were deposited across the town via atmospheric deposition from smokestacks, water runoff from waste piles, the use of smelter wastes as road base and as a base for railroads. The United States Environmental Protection Agency (EPA) and the city have also noted that smelter wastes were used as base or fill to lay brick sidewalks and driveways within the community.
+
+The two smelter sites in or near Caney are each considered a source area. A source area is defined as a site where waste was released as part of the manufacturing process. A description of each source area is provided below along with a general description of the investigated parcels. Most smelter site structures in Caney, including buildings, building foundations and a section of the rail system have been removed, graded and leveled. The southern portion of the AZLSC property has been developed into the Caney Valley High School and associated sports facilities. The northern half of the AZLSC property and the OZC property are both rural with few residential structures. The AZLSC property resides on the very northeastern bounds of the city of Caney while the OZC property lies just outside the city limits to the north.
+
+The Interim Record of Decision for Operable Unit 01, completed in September 2022, selected a remedy to address contaminated soils at residential properties which includes residential yards, schools, public use areas and child high-use areas (a play and recreational area frequented by children and not part of a residential yard, e.g., park, school playground, etc), inside the city limits with soil contamination above the site-specific cleanup goal of 200 parts per million (ppm) lead.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2014, the PRP, Blue Tee Corporation (Blue Tee), hired a contractor to perform residential sampling at fourteen residential properties south of the former OZC smelter property. The sample results from those residential properties indicated five had lead concentrations exceeding 400 ppm.
+
+In 2015, KDHE requested assistance from the EPA in addressing residential properties potentially impacted by the former smelting activities in Caney. Removal Assessment sampling in 2015 at 279 residential properties determined that 73 properties contained soil with lead concentrations greater than 400 ppm lead. The EPA performed a subsurface soil study and sampled from zero - two feet below ground surface (bgs) at nine residential properties. The study results indicated that lead contamination associated with the former smelter sites is primarily present in surficial soil.
+
+From 2016-2018, the EPA Removal Program evaluated surface soil lead data at 723 residential properties, which included primary residences but also churches, parks and abandoned rail lines, to  
+determine whether remedial action would be deemed necessary in the future. During that time, soil excavation was performed at 335 residential properties where soil concentrations exceeded 400 ppm lead
+
+  
+Additional sampling was completed in October 2019 to support the decision-making activities associated with a future RA. The additional sampling focused on lead as the main contaminant, but other  
+contaminants of interest associated with historical smelting sites, cadmium and zinc, were also investigated. Access was granted to sample 35 residential properties, a section of abandoned railroad and a subset of the city alleys during that time.
+
+### What Is the Current Site Status?
+
+The Interim Record of Decision for Operable Unit 01, completed in September 2022, selected a remedy to address contaminated soils at residential properties, which includes residential yards, schools, public use areas and child high-use areas (defined as a play and recreational area frequented by children and not part of a residential yard, e.g., park, school playground, etc), inside the city limits with soil contamination above the site-specific cleanup goal of 200 parts per million (ppm) lead.
+
+Over 1,000 residential properties in Caney, Kansas, have been sampled, and a Remedial Action contract was awarded March 8th, 2024, to address those properties which qualify for remediation at the site-specific cleanup goal of 200 ppm lead.
+
+### Sampling and Monitoring
+
 In the Caney Residential Yards site, nearly all residential properties have been sampled.
-Top of Page

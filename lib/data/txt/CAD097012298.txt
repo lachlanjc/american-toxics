@@ -1,2 +1,68 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Fairchild Semiconductor Corporation South San Jose Plant Superfund site is located at 101 Bernal Road, about nine miles southeast of downtown San Jose, CA. This facility operated from 1977 to 1983 to manufacture electronics and semiconductors. The process used various chemicals, including the solvent 1,1,1-TCA, acids, and other materials.
+
+In 1981, investigations discovered that an underground storage tank containing waste solvents had failed, releasing these chemicals into the ground. A public drinking water supply well located approximately 1,800 feet downgradient from the site, was impacted by 1,1,1-TCA contamination.
+
+In 1989, the site was added to the National Priorities List under the federal Superfund program. The State of California Regional Water Quality Control Board is the lead regulatory agency overseeing the remedial process with support and oversight from the EPA.
+
+### What Has Been Done to Clean Up the Site?
+
+After the release was discovered, several actions were taken to clean up the contamination.
+
+- Removal of the underground storage tank and contaminated soil.
+- Decommission of downgradient private water wells.
+- Installation of a soil vapor extraction system, groundwater extraction and treatment system, and a slurry wall around the perimeter of the property to minimize off-property migration.
+
+The Record of Decision, issued in 1989, included continued use of the soil vapor extraction system and groundwater extraction and treatment system, aquifer flushing, a restrictive covenant, and groundwater monitoring. From 1982 to 1998, approximately 147,000 pounds of volatile organic compounds were removed from the site through soil excavation, groundwater extraction, and soil vapor extraction.
+
+In 1998, the groundwater treatment system was shut down with approval from the Water Board on an interim basis, with conditions to turn back on if off-property migration occurs. Currently, no routine operations and maintenance activities are being conducted other than long-term groundwater monitoring.
+
+### What Is the Current Site Status?
+
+The [Seventh Five-Year Review](https://semspub.epa.gov/work/09/100038400.pdf), released in September 2024, concluded that the remedy is currently "short-term protective". The following issues and recommendations were identified in the report:
+
+- 1,1-DCA, 1,2-DCA, and vinyl chloride exceed CA MCLs at the Site, but are not identified in the ROD as contaminants of concern.
+
+Recommendation - Update the Focused Feasibility Study to include 1,1- DCA, 1,2-DCA, and vinyl chloride as contaminants of concern for groundwater, soil gas, and indoor air. Select a remedy to address these chemicals of concern in a Proposed Plan and an amended ROD.
+
+- The selected remedy of pump and treat has not been operational since 1993, and some contaminant concentrations within the slurry wall exceed cleanup standards and do not show decreasing trends.
+
+Recommendation - Revise the Focused Feasibility Study to support the development of a Proposed Plan, followed by issuing a ROD Amendment to select a new remedial action.
+
+- Variations in groundwater levels can lead to variability in groundwater concentrations due to potential source mass in the vadose zone and/or back diffusion.
+
+Recommendation - Evaluate and implement quarterly monitoring and sampling (instead of the current five-year interval) to optimize the monitoring of groundwater contaminant concentrations fluctuations and more expeditiously identify any impacts on protectiveness.
+
+Other Findings:
+
+- EPA will need to update the draft Optimization Review with 2023 monitoring data and finalize document.
+- EPA and the Regional Water Board will need to evaluate Institutional Controls associated with vapor intrusion for buildings at the Site over the former source area.
+- Site conditions have changed in recent years, including an increase in groundwater elevations. STC should investigate the quality of groundwater and soil vapor in the A zone near the former source area, including collecting grab samples of groundwater and soil vapor to further assess potential impacts to water quality that may be associated with the elevated groundwater levels.
+- 1,4-dioxane is present in groundwater both inside and outside of the slurry wall, but it is not identified in the ROD and does not have an established cleanup level. As of the date of this Five-Year Review there is no CA MCL for 1,4-dioxane. Under current land use, there are no complete human exposure pathways between 1,4-dioxane concentrations in groundwater and human receptors. Institutional Controls are in place to prevent contact with contaminated groundwater. STL should continue monitoring for 1,4- dioxane in groundwater and assess any significant changes in concentrations.
+
+The Five-Year Review further stated the following:
+
+The remedy at the Fairchild Semiconductor Corporation South San Jose Plant Superfund Site is currently protective of human health and the environment because Institutional Controls prevent exposure to contaminated groundwater and concentrations of Site-related contaminants of concern in indoor air do not pose an unacceptable human health risk to existing tenants or occupants under current land use. However, for the remedy to be protective in the long term, the Record of Decision should be amended to include a revised remedy and include 1,1-dichloroethane, 1,2-dichloroethane, and vinyl chloride as contaminants of concern. Remedy optimization should be considered to address residual groundwater contaminants within the source area to ensure that the remedial action objectives are achieved within a reasonable timeframe.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The final cleanup plan includes a deed restriction prohibiting the use of on-site groundwater for drinking water and limiting activities which may disturb the remedial actions and monitoring systems.
+
+### Sampling and Monitoring
+
+Monitoring of groundwater on- and off-property has continued since 1998. In 2017, the Water Board approved revisions to the self-monitoring plan, reducing the number of monitoring wells from 30 to 13 and changing the sampling frequency to once every five years to precede each five-year review.
+
+### Emergency Response and Removal
+
+Over the years, several emergency measures were taken to address immediate risks:
+
+- In 1981, the underground storage tank containing waste solvents was removed.
+- In 1982, 3,400 cubic yards of contaminated soil were excavated from the source area.
+- From 1982 and 1998, groundwater was extracted to control the migration of contaminants and treated using granular activated carbon and aeration towers.
+- Between 1982 and 1986, pre-existing downgradient supply wells were identified as potential pathways for contaminant migration were decommissioned.
+- In 1986, a slurry wall was constructed around the property to prevent potential migration of contaminants off-property.

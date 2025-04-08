@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Sola Optical USA, Inc. produced optical lenses on this 35-acre site from 1978 to 2001. Located in Petaluma, California, the site has groundwater contaminated with volatile organic compounds (VOCs) and solvents. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 2013.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and potentially responsible party (PRP) actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires implementation of well permitting restriction institutional controls and evaluation of the restrictive covenant institutional controls. EPA addressed these issues before recommending removal of the site from the NPL.  
+
+### What Is the Current Site Status?
+
+The long-term remedy included operation of an extraction well, installation of two shallow wells, conversion of two deep monitoring wells into extraction wells, and carbon adsorption to treat contaminated groundwater. Construction of the remedy finished in 1992. The groundwater pump-and-treat system operated from 1988 to 1997, at which point it stopped cleaning the groundwater effectively. In 2007, EPA updated the remedy to replace groundwater pumping and treatment with monitored natural attenuation and institutional controls. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater. The remedy met all established cleanup goals.  
+
+After cleanup, EPA took the site off the NPL in 2013.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Primarily 1,1-DCE and 1,1-DCA U.S. Environmental Protection Agency's Terms and Acronyms web site - http://iaspub.epa.gov/sor\_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do

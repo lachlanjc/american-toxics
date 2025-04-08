@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2,806-acre Alameda Naval Air Station, now known as Alameda Point, is a closed Navy installation located on the western tip of Alameda Island in the City of Alameda. Solid wastes generated at the site were disposed of in two on-base landfills. All liquid industrial wastewaters generated at the site prior to 1974 were discharged untreated into Seaplane Lagoon and the Oakland Inner Harbor. The Navy, with EPA oversight, has conducted investigations to support development of cleanup decisions for the 35 Installation Restoration (IR) sites.
+
+### What Has Been Done to Clean Up the Site?
+
+The Navy is the lead agency responsible for cleanup of the site. EPA is the lead regulatory agency charged with oversight of the Navy, with assistance from the California Department of Toxic Substances Control and the San Francisco Bay Regional Water Quality Control Board.  
+
+### What Is the Current Site Status?
+
+For complete information on the closure of Alameda Naval Air Station, now known as Alameda Point, please visit the Navy's website.  
+A short status update for each site is provided below. When multiple sites are grouped together, it indicates that those sites have been combined into one remedial Investigation/feasibility study and one Record of Decision.
+
+- Site 1 (Navy Operable Unit \[OU\] 3): at remedial action stage
+- Site 2 (Navy OU-4A): undergoing monitored natural attenuation, transferred
+- Sites 3, 4, 11 and 21 (Navy OU-2B): Site 3 cleanup complete, transferred; Sites 4, 11 and 21 at remedial action stage
+- Sites 5, 10 and 12 (Navy OU-2C): at remedial action stage.
+- Sites 6, 7, 8 and 16 (Navy OU-1): Sites 7, 8 and 16 cleanup complete, transferred; Site 6 under going monitorred natural attenuation
+- Sites 9, 13, 19, 22 and 23 (Navy OU-2A): Sites 9, 19, 22, 23 and majority of Site 13 cleanup complete, transferred; Site 13 groundwater undergoing monitored natural attenuation
+- Site 14: undergoing monitored natural attenuation, transferred
+- Site 15: no further action, transferred
+- Site 17 (Navy OU-4B): cleanup complete, transferred
+- Site 18: site closed; realigned
+- Site 20 (Navy OU-4A): no further action, transferred
+- Site 24 (Navy OU-4B): cleanup complete, transferred
+- Site 25: cleanup complete, transferred
+- Site 26 (Navy OU-6): undergoing monitored natural attenuation, transferred
+- Site 27 (Navy OU-6): undergoing monitored natural attenuation, transferred
+- Site 28 (Navy OU-6): undergoing monitored natural attenuation, transferred
+- Site 29 (Navy OU-4A): no further action, transferred
+- Site 30: no further action, transferred
+- Site 31: no further action, transferred
+- Site 32 (Navy OU-4A): at remedial design stage
+- Site 33 (Navy OU-4A): no further action, transferred
+- Site 34 (Navy OU-4A): cleanup complete, transferred
+- Site 35: cleanup complete, transferred
+- OU-5: ground water cleanup discontinued
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1999.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Wastes generated at the Site included industrial solvents, acids, paint strippers, degreasers, caustic cleaners, pesticides, chromium and cyanide wastes, waste oils containing PCBs, radium associated with dial painting and stripping, medical debris, and inert and unexploded ordnance.

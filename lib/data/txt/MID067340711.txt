@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 7-acre Liquid Disposal, Inc. (LDI) site is located in Shelby Township, Michigan. LDI was a commercial liquid waste incineration facility that accepted wastes from major automobile manufacturers, chemical companies and other industries around the state. Site facilities included an ash pit, scrubber and oil lagoons, surface and underground storage tanks, and drums. Poor storage practices and spills contaminated soil and groundwater. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+  
+EPA’s cleanup of PCB contamination at the former landfill consisted of on-site disposal of debris, on-site solidification and fixation of soil and waste, extraction and treatment of groundwater, installation of groundwater monitoring wells, construction of a landfill slurry wall and capping of the soil. Continued protectiveness of the remedy requires taking steps to ensure the effectiveness of the landfill cap, the continued containment of contaminated groundwater, continuing monitoring and maintenance of remedy components, and developing a long-term plan for site stewardship.  
+  
+More information is available in the last five-year review: [Fifth Five Year Review Report - Liquid Disposal Inc - 2019 (PDF)](https://semspub.epa.gov/src/document/05/949609) (111pp, 14.05mb, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included disposal of debris, extraction and treatment of groundwater, groundwater monitoring, and a landfill slurry wall and cap. Construction of the remedy finished in 1997. Operation and maintenance activities are ongoing.
+
+  
+
+EPA is completed its fifth five-year review of the Liquid Disposal Superfund site in 2019. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Read a summary of the institutional controls at the site in the Institutional Controls section of the most recent five-year review: [Fifth five year review report Liquid Disposal 2019 (PDF)](https://semspub.epa.gov/src/document/05/949609) (111pp, 14.05MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Sampling and Monitoring
+
+Contractors for the potentially responsible party (PRPs) routinely inspect operations on site. Routine inspections include observing the condition of the storage tank, valves and associated piping, air compressor and pneumatic wells, cap and adjacent areas for erosion, drainage swales, vegetation, slurry wall monitoring wells, electrical and heating systems, fence, gates, and locks. General preventive maintenance and minor repair work is also performed on remedial components. Routine maintenance has included the removal and cleaning of pumps within the extraction wells to optimize performance. The pumps for selected extraction wells are routinely cleaned and re-installed, and preventative maintenance has been performed on the system's air compressor. Water levels from the hydraulic monitoring wells are obtained monthly in conjunction with the routine site inspections.
+
+Read more about the groundwater quality monitoring program in the Data Review section of the most recent five-year review: [Fifth five year review report Liquid Disposal 2019 (PDF)](https://semspub.epa.gov/src/document/05/949609) (111pp, 14.05MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions between 1982 and 1986 disposed of lagoon wastes, contaminated sediments, liquid waste, heavy metal sludge and 200 drums.

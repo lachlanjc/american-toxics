@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+In 2004, the Minnesota Pollution Control Agency (MPCA) began environmental investigation work in the area when vinyl chloride was detected in an Edina municipal well. Between 2004 and 2013, several multi-phase investigations conducted by MPCA found a large chlorinated [Volatile Organic Compounds (VOCs)](https://www.epa.gov/indoor-air-quality-iaq/what-are-volatile-organic-compounds-vocs) plume in the [groundwater](https://www.epa.gov/superfund/superfund-groundwater-introduction), which includes [trichloroethene (TCE)](https://www.epa.gov/sites/production/files/2016-09/documents/trichloroethylene.pdf), [tetrachloroethene (PCE)](https://www.epa.gov/sites/production/files/2016-09/documents/tetrachloroethylene.pdf), [cis-dicholoroethylene (cis-DCE)](https://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=82) and vinyl chloride. A plume is an area of contamination that spreads from a source or sources into the groundwater.
+
+A source for the plume has not been identified. Although VOC contamination was found in municipal wells in Edina and St Louis Park, all city drinking water is treated to remove VOCs before distribution. The drinking water distributed by both cities follows EPA’s water quality standards established in the Safe Drinking Water Act.
+
+In 2019 MPCA asked the EPA to place the site on the [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-national-priorities-list-npl) to access additional funding needed to investigate and clean up the contaminated area. Funding support from the federal government would assist with additional investigation activities and bring in additional technical expertise and specialized legal counsel to effectively address the complexities of the site in a timely manner.
+
+The Highway 100 and County Road 3 Groundwater Plume site was added in 2020 to [EPA’s Superfund Program](https://www.epa.gov/superfund) which is responsible for cleaning up some of the nation’s most contaminated sites that pose human health and environmental risks.
+
+### What Has Been Done to Clean Up the Site?
+
+Following a referral from the Minnesota Pollution Control Agency, in 2008 and 2009 [EPA’s Emergency Response program](https://www.epa.gov/emergency-response) installed vapor mitigation systems at approximately 40 residential and commercial properties with [vapor intrusion](https://www.epa.gov/vaporintrusion) risks. The city of Edina and the MPCA constructed a centralized water-treatment facility that processes all the water produced from contaminated Edina wells. The MPCA also designed, and the city of St. Louis Park completed, construction of a water treatment system at one of St. Louis Park's contaminated municipal supply wells prior to its return to use in 2018. As a result, drinking water provided by both the cities of Edina and St. Louis Park currently are in compliance with all Maximum Contaminant Levels (MCLs) as established in the Safe Drinking Water Act.
+
+MCLs are standards that are set by the EPA for drinking water quality based on sound science to protect against health risks, considering available technology and costs. These [National Primary Drinking Water Regulations](https://www.epa.gov/ground-water-and-drinking-water/national-primary-drinking-water-regulations) set enforceable MCLs for particular contaminants in drinking water or required ways to treat water to remove contaminants.
+
+The Highway 100 and County Road 3 Groundwater Plume in St. Louis Park and Edina, Minnesota was added in September 2020 to the [Superfund National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-national-priorities-list-npl). The NPL includes the nation’s most serious uncontrolled or abandoned releases of contamination. The list serves as the basis for prioritizing [EPA Superfund](https://www.epa.gov/superfund) cleanup funding and enforcement actions.
+
+### What Is the Current Site Status?
+
+Cleaning up Superfund sites is a complex, multi-phase process. After listing in the National Priorities List, the next step is the [Remedial Investigation / Feasibility Study.](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-3) This stage involves an evaluation of the nature and extent of contamination at a site and assessing potential threats to human health and the environment. This stage of the process also includes evaluation of the potential performance and cost of the treatment options identified for a site. EPA plans to begin the Remedial Investigation / Feasibility Study at the site in 2024.
+
+[Cleanup Schedule](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0506121#Schedule)
+
+### Emergency Response and Removal
+
+In February 2007, the MPCA received the results of an investigation in St. Louis Park that found elevated levels of [trichloroethene (TCE)](https://www.epa.gov/sites/production/files/2016-09/documents/trichloroethylene.pdf) and [tetrachloroethene (PCE)](https://www.epa.gov/sites/production/files/2016-09/documents/tetrachloroethylene.pdf) in the soil vapor. Based on this information, MPCA staff determined that additional testing was needed, and St. Louis Park officials were notified.
+
+Due to the size, complexity and expense of the additional study needed, the MPCA requested assistance from the EPA. The two agencies developed a plan for additional sampling to evaluate the risk to people living and working in the area.
+
+**Additional information:**
+
+[MPCA St. Louis Park solvent plume and vapor intrusion site page](https://www.pca.state.mn.us/waste/st-louis-park-solvent-plume-and-vapor-intrusion-site)
+
+[U.S. EPA Highway 7 and Wooddale Avenue Vapor Intrusion Investigation portal](https://response.epa.gov/highway7andwooddaleavenue)
+
+### Enforcement Information
+
+Under the authority of the [Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA, commonly known as Superfund)](https://www.epa.gov/superfund/superfund-cercla-overview), the [Superfund enforcement program](https://www.epa.gov/enforcement/superfund-enforcement) gets sites cleaned up by finding the companies or people responsible for contamination at a site and negotiating with or ordering them to do the cleanup themselves, or to pay for the cleanup done by another party (i.e., EPA, state, or other responsible parties).
+
+During the Remedial Investigation (RI), EPA will search for [potentially responsible parties (PRPs)](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp). EPA will send several [Section 104(e) information requests](https://www.epa.gov/enforcement/superfund-information-request-letters) regarding the site. Under Section 104(e) of CERCLA, EPA has the authority to require any person to furnish information or documents related to hazardous substances that were generated, treated, stored or disposed of at a site. This includes anyone, including business entities and government agencies, who may have information about a site, not just those who may be potentially responsible parties. Section 104(e) also gives EPA the authority to inquire into the ability of a person to pay for or perform a cleanup.

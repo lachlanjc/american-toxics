@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 87-acre Lake Calumet Cluster site is a group of land and waste storage and disposal facilities in southeastern Chicago. The 87-acre site includes US Drum, Alburn Incinerator, Unnamed Parcel, and a portion of Paxton Lagoons. The site was originally wetlands. In the early 1900’s, nearby steel mills and other industries dumped materials such as slag, dredged spoils, demolition debris and other waste materials. Unauthorized industrial, chemical, and municipal waste disposal took place at the Site from 1940’s to 1980’s.
+
+The Illinois Environmental Protection Agency had the lead on the LCC site from 1998 to 2008. In 2006, the Operating Unit on the site, which divides up the work into individual projects, or OU1 – its Record of Decision for a landfill cap remedy was approved. In 2007 IEPA started cap construction but didn’t have funds to complete it. The landfill cap is partially constructed to cover the waste material: constructed enough to prevent direct contact and the potential for landfill contaminants to become airborne. The U.S. Environmental Protection Agency became the lead agency in 2008. The LCC Site was listed on the National Priorities List (NPL) in 2010.
+
+Facility operations contaminated soil, sediment, and groundwater with chemicals such as volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs), polychlorinated biphenyls (PCBs) and metals. The site’s groundwater has been investigated and the remedy is under development. Remaining activities for completion of the landfill cap construction (OU1) will be coordinated with the groundwater remedy (OU2). Once the groundwater remedy is selected, the potentially responsible parties, known as PRPs, will meet with EPA to discuss completing the landfill cap construction to meet certain specifications for hazardous waste landfills.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2008, U.S. EPA took over the investigation at the site. In 2010, the site was placed on the National Priorities List, a key step in the process of the Superfund program. In 2013, when over 150 of the companies identified as potentially responsible parties for the contamination, referred to as PRPs, signed an Administrative Settlement Agreement and Order on Consent (legal agreement) to perform a remedial investigation (RI) and feasibility study (FS), for the groundwater portion of the site. EPA approved the PRP’s RI/FS Work Plan, Field Sampling Plan, and Quality Assurance Project Plan in September 2015.
+
+Groundwater investigations were conducted in three separate phases between 2015-2017. During Phase 1 of the investigation, monthly water level measurements were collected for one year to determine groundwater flow direction. During the second phase, sampled the zones of highest ability for water to pass through ground around the perimeter of the Site. The data collected from these first two phases were then used to determine the locations for groundwater monitoring wells. During Phase 3, 57 groundwater samples were collected from 13 monitoring wells around the site. In addition, the PRPs conducted two rounds of surface water sampling from 25 locations within the Indian Ridge Marsh. The results of the 3-phased investigation will become available in fall 2025.
+
+### What Is the Current Site Status?
+
+Along with the sampling results from the investigation, in fall 2025, the final, Remedial Investigation (RI) report will become available. Once the RI is complete, the PRPs will evaluate potential cleanup options in a report called the Feasibility Study (FS). The final FS report is expected to be completed in spring 2026.
+
+Once the RI/FS is completed, EPA will then determine the best all-around cleanup option from the FS and issue a document called a Record of Decision which describes the steps to be taken to clean up the site. The ROD is tentatively scheduled for 4/9/2027 or spring 2027.
+
+The current status of the landfill remediation is its feature in the first EPA Five-Year Review (FYR) Report for the Lake Calumet Cluster Superfund Site, completed in September, 2024. The United States Environmental Protection Agency (EPA) prepared this FYR pursuant to the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) Section 121, consistent with the National Contingency Plan (NCP)(40 CFR Section 300.430(f)(4)(ii)), and considering EPA policy. The purpose of a Five-Year Review is to evaluate the implementation and performance of a remedy in order to determine if the remedy is and will continue to be protective of human health and the environment. The methods, findings, and conclusions of reviews are documented in FYR reports for each Superfund Site. In addition, FYR reports identify issues found during the review, if any, and document recommendations to address them.
+
+There is also a Five-Year review for the site completed in September 2024 for the landfill cap, also known as Operating Unit 1 (OU1). Another Record of Decision is being prepared to review the groundwater remedy for the site – known as OU2.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Arsenic, barium, chromium, lead, mercury, polychlorinated biphenyls (PCBs), pesitcides, naphthanene, benzo(a)pyrene. benzo(a)anthrancene, chrysene, and pesticides.

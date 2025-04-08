@@ -1,44 +1,62 @@
-ROSS METALS INC.ROSSVILLE, TN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
- The Ross Metals Inc., Superfund site includes the area where Ross Metals operated a secondary lead smelter facility from 1979 to 1992. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1997 because of contaminated groundwater, soil, sediment and surface water resulting from facility operations. EPA and the Tennessee Department of Environment and Conservation (TDEC) have investigated site conditions. By monitoring groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews, EPA and TDEC continue to protect people and the environment from site contamination. Site contamination does not currently threaten people living and working near the site. Top of Page
-What Has Been Done to Clean Up the Site?
-TDEC leads site cleanup activities in cooperation with EPA. Site investigations and cleanup activities have focused on two areas, which EPA refers to as operable units, or OUs. These areas include 
-OU-1: source areas and soil contamination
-OU-2: groundwater contamination. 
-1994 – 1995
-EPA conducted cleanup activities at the site. EPA removed 4,400 gallons, 170 tons and 1,700 cubic yards of battery chips, tank sludge and debris, sodium hydroxide, hydrochloric acid and other materials. 1998
-EPA conducted additional cleanup activities, including placing a fence around contaminated areas and covering slag located in on-site buildings. 1999
-EPA issued the cleanup plan (a Record of Decision, or ROD) for OU-1. It included decontaminating, demolishing and disposing of pavement and buildings off site 
-digging up contaminated soil, slag and sediment
-backfilling the dug-up areas and landfill with clean soil
-disposing of contaminated soil, slag and sediment at an off-site facility
-maintaining and monitoring the site. 
-2001 - 2002
-EPA began the first phase of OU-1 cleanup activities, which included demolishing most on-site buildings, digging up and stockpiling contaminated soil, and disposing of scrap metal off site. In 2002, EPA began the second phase of OU-1 cleanup activities. EPA demolished remaining on-site buildings; recycled metal debris; dug up, treated and disposed of remaining soil and slag contamination; and revegetated the wetland area. 2002
-EPA issued the cleanup plan (a ROD) for OU-2. It included 
-placing institutional controls on the site property to limit future development and installation of wells at the site
-collecting data to determine whether to use monitored natural attenuation to address groundwater contamination
-developing a monitoring program. 
-Top of Page
-What Is the Current Site Status?
- The most recent Five Year Review was published by EPA HQs in 2019.  Because the remedial actions at all OUs are protective, the Sitewide Protectiveness Status is protective of human health and the environment.  TDEC continues to conduct monitored natural attenuation at the site. EPA continues to conduct monitored natural attenuation at the site. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-A fence surrounds contaminated areas and covers slag located in on-site buildings. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+### Background
+
+The Ross Metals Inc., [Superfund](http://www.epa.gov/superfund) site includes the area where Ross Metals operated a secondary lead smelter facility from 1979 to 1992.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1997 because of contaminated groundwater, soil, sediment and surface water resulting from facility operations.
+
+EPA and the [Tennessee Department of Environment and Conservation (TDEC)](https://www.tn.gov/environment/about‐tdec‐home.html) have investigated site conditions. By monitoring groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews, EPA and TDEC continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+TDEC leads site cleanup activities in cooperation with EPA.
+
+Site investigations and cleanup activities have focused on two areas, which EPA refers to as operable units, or OUs. These areas include
+
+- OU-1: source areas and soil contamination
+- OU-2: groundwater contamination.
+
+**1994 – 1995**  
+EPA conducted cleanup activities at the site. EPA removed 4,400 gallons, 170 tons and 1,700 cubic yards of battery chips, tank sludge and debris, sodium hydroxide, hydrochloric acid and other materials.
+
+**1998**  
+EPA conducted additional cleanup activities, including placing a fence around contaminated areas and covering slag located in on-site buildings.
+
+**1999**  
+EPA issued the cleanup plan (a Record of Decision, or ROD) for OU-1. It included decontaminating, demolishing and disposing of pavement and buildings off site
+
+- digging up contaminated soil, slag and sediment
+- backfilling the dug-up areas and landfill with clean soil
+- disposing of contaminated soil, slag and sediment at an off-site facility
+- maintaining and monitoring the site.
+
+**2001 - 2002**  
+EPA began the first phase of OU-1 cleanup activities, which included demolishing most on-site buildings, digging up and stockpiling contaminated soil, and disposing of scrap metal off site. In 2002, EPA began the second phase of OU-1 cleanup activities. EPA demolished remaining on-site buildings; recycled metal debris; dug up, treated and disposed of remaining soil and slag contamination; and revegetated the wetland area.
+
+**2002**  
+EPA issued the cleanup plan (a ROD) for OU-2. It included
+
+- placing institutional controls on the site property to limit future development and installation of wells at the site
+- collecting data to determine whether to use monitored natural attenuation to address groundwater contamination
+- developing a monitoring program.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/src/document/04/11133578) was published by EPA HQs in 2019. Because the remedial actions at all OUs are protective, the Sitewide Protectiveness Status is protective of human health and the environment.
+
+TDEC continues to conduct monitored natural attenuation at the site. EPA continues to conduct monitored natural attenuation at the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A fence surrounds contaminated areas and covers slag located in on-site buildings.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
 In 1990, the EPA's Resource Conservation and Recovery Act (RCRA) program issued legal orders against parties involved with the site. The EPA and the parties negotiated legal agreements. However, the parties never signed the agreements. In 1992, all RCRA enforcement activities at the site ended. The EPA negotiated legal agreements with some of the site’s PRPs to fund site investigation and cleanup activities. The EPA also used federal funds for site cleanup activities.
-Top of Page

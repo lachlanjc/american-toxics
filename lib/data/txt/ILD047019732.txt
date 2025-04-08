@@ -1,28 +1,26 @@
-WAUCONDA SAND & GRAVELWAUCONDA, IL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 60-acre Wauconda Sand and Gravel site is located in Lake County, Illinois. It includes six acres of licensed and 43 acres of unlicensed landfill areas. From around 1955 until 1978, a municipal waste landfill operated on site. About 3 million cubic yards of waste were placed in the landfill. The entire site was closed and covered with a layer of clay, soil and vegetation in 1978. Sampling later found that groundwater (undergroundwater) was contaminated with heavy metals, volatile organic compounds (VOCs) and pesticides. Following cleanup, the site’s remedy is in place. Additional activities to ensure the remedy’s long-term protectiveness are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The Wauconda Sand and Gravel site is located in Lake County, Illinois. The site operated as two landfills spanning 70 acres (including some land where no waste was deposited). From around 1955 until 1978, a municipal waste landfill operated on site.    About 3.2 million cubic yards of waste were placed in the landfill. The entire site was closed and covered with a layer of clay, soil and vegetation in 1978.  Sampling later found that groundwater was contaminated with heavy metals, volatile organic compounds (VOCs) and pesticides.  The cleanup decisions were embodied in two (2) Records or Decision and a Consent Decree which required the following: 
-The installation of a leachate collection system (LCS) to prevent contaminated leachate from reaching Mutton Creek and off-Site disposal of leachate;
-The installation of a perimeter fence to prevent access to the Site and to prevent human contact with the gas vents and LCS; 
-The installation of landfill cap upgrades consisting of regrading of settled, depressed and eroded areas on the landfill cover with sufficient slope to reduce infiltration and promote rain run-off plus the revegetation of bare and ponded areas to prevent erosion of the soil into Mutton Creek and exposure to landfill materials;
-Restricting groundwater use at the Site and other institutional controls;
-Additional upgrades of the existing cap;
-Landfill gas management;
-Monitoring well network upgrade;
- Groundwater monitoring;
-Surface monitoring in Mutton Creek and leachate monitoring; and
-Municipal water hook-ups and temporary distribution of bottled water 
-Top of Page
-What Is the Current Site Status?
-The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment at least every five years. On September 28, 2022, EPA completed the Sixth Five-Year Review(PDF)(251 pp, 78.2MB, About PDF) for the Site.  Based on that review, EPA finds that the Sitewide remedy currently protects human health and the environment because immediate threats have been addressed.  The landfill cap has been upgraded, the leachate is controlled, off-Site groundwater issues have been resolved, and the remedy is functioning as intended by the ROD. However, in order for the remedy to be protective in the long-term, the following actions needs to be taken to ensure protectiveness: finalize and implement an institutional controls implementation and assurance plan that includes long-term stewardship procedures; resolve access issues for monitoring of several monitoring wells; test groundwater for several emerging contaminants and address several other minor issues. 
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The Wauconda Sand and Gravel site is located in Lake County, Illinois. The site operated as two landfills spanning 70 acres (including some land where no waste was deposited). From around 1955 until 1978, a municipal waste landfill operated on site.  
+  
+About 3.2 million cubic yards of waste were placed in the landfill. The entire site was closed and covered with a layer of clay, soil and vegetation in 1978.  
+  
+Sampling later found that groundwater was contaminated with heavy metals, volatile organic compounds (VOCs) and pesticides. The cleanup decisions were embodied in two (2) Records or Decision and a Consent Decree which required the following:
+
+- The installation of a leachate collection system (LCS) to prevent contaminated leachate from reaching Mutton Creek and off-Site disposal of leachate;
+- The installation of a perimeter fence to prevent access to the Site and to prevent human contact with the gas vents and LCS;
+- The installation of landfill cap upgrades consisting of regrading of settled, depressed and eroded areas on the landfill cover with sufficient slope to reduce infiltration and promote rain run-off plus the revegetation of bare and ponded areas to prevent erosion of the soil into Mutton Creek and exposure to landfill materials;
+- Restricting groundwater use at the Site and other institutional controls;
+- Additional upgrades of the existing cap;
+- Landfill gas management;
+- Monitoring well network upgrade;
+- Groundwater monitoring;
+- Surface monitoring in Mutton Creek and leachate monitoring; and
+- Municipal water hook-ups and temporary distribution of bottled water
+
+### What Is the Current Site Status?
+
+The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment at least every five years. On September 28, 2022, EPA completed the [Sixth Five-Year Review](https://semspub.epa.gov/src/document/05/978026) [(PDF)](https://semspub.epa.gov/src/document/05/978026) (251 pp, 78.2MB, [About PDF](https://www.epa.gov/home/pdf-files) ) for the Site. Based on that review, EPA finds that the Sitewide remedy currently protects human health and the environment because immediate threats have been addressed. The landfill cap has been upgraded, the leachate is controlled, off-Site groundwater issues have been resolved, and the remedy is functioning as intended by the ROD. However, in order for the remedy to be protective in the long-term, the following actions needs to be taken to ensure protectiveness: finalize and implement an institutional controls implementation and assurance plan that includes long-term stewardship procedures; resolve access issues for monitoring of several monitoring wells; test groundwater for several emerging contaminants and address several other minor issues.

@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Walton & Lonsbury Inc. (W&L) Superfund Site is located in Attleboro, Massachusetts. Walton & Lonsbury was the location of a chromium electroplating facility that operated from 1940 to 2007. A number of chemicals and chemical compounds were used and left as waste in the operations process.
+
+From 1940 to 1970, the majority of process wastes were directly discharged into wetlands located on the southern portion of the site property via an underground pipe. After 1970, W&L used a number of different waste disposal practices including a surface impoundment and lagoon used for drying plating sludge and later a closed-loop water treatment system.
+
+Historically, contaminants were distributed through direct discharge, disposal to a dry well, tank spills, and air emissions. Initial EPA involvement (from 2010 to 2013) consisted of stabilizing the site by removing or covering highly contaminated surface soils and sediment and demolishing the facility. A cover system was constructed over contaminated material east of the site to prevent contaminated groundwater from upwelling to the surface. Since its designation as a Superfund Site in 2013, EPA and its contractors have been collecting data to determine how far contaminants have moved and the risks posed by these contaminants.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through federal and state actions.
+
+EPA completed two removal actions starting in 2010 to address Chromium VI contamination in groundwater and soil. Chromium VI and total chromium are present in levels as high as 81,800 parts per million in the wetlands (near the location of the 1940‐1970‐era facility waste discharge outfall); and in 2010 were present as high as 42,000 parts per million in the facility.
+
+The 2010 [Action Memorandum](https://semspub.epa.gov/src/document/01/469253) activities conducted as part of the time-critical removal action included removal of the W&L buildings and residual waste materials, excavation and off-site disposal of contaminated sediment from wetlands south of the former building where the wastewater was historically discharged, and construction of an engineered cover system and permeable reactive barrier behind several residential properties on Paulette Lane and North Avenue and adjacent to Bliss Brook to prevent upwelling of contaminated groundwater and to intercept and treat groundwater prior to discharge into Bliss Brook.
+
+The 2019 [Action Memorandum](https://semspub.epa.gov/src/document/01/637768) activities conducted as part of the time-critical removal action included removing soil from 12 residential properties contaminated with lead.
+
+### What Is the Current Site Status?
+
+EPA issued a [Record of Decision](https://semspub.epa.gov/src/document/01/639773) in 2019 laying out the long-term cleanup plan of the Site including soil excavation, off-site disposal, in-situ (in place) treatment, permeable reactive barriers, land use and access restrictions, and long-term operation, maintenance and monitoring to address unacceptable exposure to these risks posed by the Site.
+
+A permeable reactive barrier is a below-ground trench filled in with a material that can reduce the hexavalent chromium contamination to a non-toxic form of chromium. The permeable reactive barrier remedial action is scheduled to occur concurrently or immediately following the source area remedy. The mid-plume reactive barrier is anticipated to be installed in 2026.
+
+In July 2020, EPA began pre-design investigations to inform the remedial design fo the long-term remedy for the Site. Construction planning to implement the souce area and permeable reactive barrier extension as part of the Site's long-term remedy is complete. Construction began in March 2025.
+
+EPA continues to study the extent of contamination in the bedrock groundwater. Results of recent sampling show that significant contaminant levels have not migrated into the Bungay River Water Resource Protection District.

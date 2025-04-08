@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The U.S. Air Force built Mather Air Force Base (AFB) in 1918 to serve as a flight training school. Up to 1993, when it was decommissioned as an active air base under the Base Realignment and Closure Act (BRAC), Mather AFB's primary mission was training of military personnel. At the time of closure, the base encompassed 5,845 acres, including 129 acres of easements. Most of the base been transferred or leased to various entities, primarily Sacramento County, for reuse. Environmental investigations began at Mather AFB in 1982 and continued for several years. A total of 89 areas with significant contamination were identified. Following immediate actions to protect human health and the environment, the site’s long-term cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions, with the Air Force as the lead agency.
+
+Mather AFB is participating in the Installation Restoration Program (IRP), a specially funded program established by the Department of Defense (DoD) in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities. Mather AFB was approved for closure under the 1988 Defense Base Closure and Realignment Commission and Congressional Action, which established special accounts for funding the environmental cleanup at closing bases.  
+
+### What Is the Current Site Status?
+
+The site is being addressed in five stages: immediate actions and four long-term remedial phases focusing on cleanup of the AC&W Disposal Area, the landfills, groundwater and soils, and basewide soil sites.
+
+Immediate Actions: The Air Force cleaned up three soil areas using soil excavation, bioventing and air sparging. In addition, the Air Force provided alternate sources of drinking water to residents along the western boundary of Mather AFB whose domestic wells had been contaminated by base operations. Initially, the Air Force provided bottled water to residents of Old Placerville Road and Happy Lane. In 1986, the Air Force connected the Citizens Utility District water supply to four residences on Old Placerville Road and the Camelia Mather Mobile Home Park (37 units).
+
+**Entire Site**
+
+AC&W Disposal Area: The remedy, selected in 1993, included extraction and treatment of contaminated groundwater by air stripping, with reinjection of the treated groundwater into the ground. This system became operational in 1995. In 1997, the disposal option changed to discharge of the treated groundwater to Lake Mather. The AC&W plume is contained and contaminant concentrations are declining.
+
+Soil Sites: Of the 82 soil sites identified for cleanup, the vast majority have completed remediation. Most of these sites are relatively small areas such as ditches, motor pool wash areas, paint shops, fire training areas and oil/water separator sites. Some contaminated soils have been excavated and either bioremediated or disposed of off-site. Other areas of contaminated soil have been treated in place with soil vapor extraction (SVE) systems and bioventing. One area was capped.
+
+Cleanup of some soil sites is ongoing. These sites are being treated with SVE systems that extract chlorinated solvents and other volatile organic compounds (VOCs) from soil.
+
+Groundwater: Groundwater plumes in addition to the AC&W groundwater plume are the Site 7 plume, the Northeast plume and the Main Base/SAC Area plume. The Site 7 plume is being remediated through a groundwater extraction and treatment system using air stripping; treated water is reinjected into the groundwater system. The Northeast plume is being monitored to see if contaminant concentrations decline or increase over time. The Main Base/SAC Area plumes have comingled and are being treated as one. Extracted groundwater is treated by air stripping and the treated water is currently reinjected into the groundwater system.
+
+Landfills: In 1996, the Air Force excavated and consolidated contaminated soil from three landfills into another landfill. Two landfills, including the consolidation landfill, received low-permeability caps, which eliminated the potential for human contact with the refuse and reduced infiltration. The capped landfills are monitored for potential releases to groundwater and air.
+
+**Cleanup Progress**
+
+All potential exposure to contaminated soils and groundwater has been eliminated at Mather AFB. SVE will continue to operate at several areas with residual soil contamination until cleanup levels are achieved. Groundwater pumping and treatment systems will continue to operate until all groundwater cleanup levels are achieved. Vapor intrusion at the site remains a concern for human health and the Air Force has not adequately characterized these concerns.

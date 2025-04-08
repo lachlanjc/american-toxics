@@ -1,2 +1,69 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Fernando Valley (Area 4) Pollock Operable Unit (OU) Superfund site is a 5,860-acre area with areas of contaminated groundwater near the Los Angeles Department of Water and Power (LADWP) Pollock Well Field in Los Angeles, California. San Fernando Valley (SFV) Area 4 is within a developed urban area that is primarily residential, with a mix of commercial and industrial land uses.
+
+The San Fernando Valley groundwater basin provides drinking water to residents of the cities of Los Angeles, Burbank and Glendale, and the La Crescenta Water District. In 2022, the Los Angeles Department of Water and Power (LADWP) stated that the San Fernando Basin provides approximately 10% of Los Angeles‘s water supply, but has the potential to provide up to 21% in an average year.
+
+All water provided to LA area residents and businesses meets regulatory drinking water standards.
+
+- The Area 4 Pollock Operable Unit is one of the four San Fernando Valley Superfund Site areas, which are designated as:
+- Area 1 North Hollywood (North Hollywood and Burbank OUs) [https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902251](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902251)
+- Area 2 Glendale (Crystal Springs Wellfield) [https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902252](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902252)
+- Area 3 Glendale (Verdugo Study Area) (Note that Area 3 was removed from the Superfund site list in 2004) [https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902254](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902254)
+- Area 4 Pollock OU (Pollock Wellfield) [(https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902253)](http://\(https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902253\))
+
+Historical manufacturing work in the San Fernando Valley groundwater basin, dating back to World War II, contaminated the groundwater in the region with volatile organic compounds (VOCs), including trichloroethylene (TCE) and tetrachloroethylene (PCE). Investigation and cleanup activities have been ongoing in the San Fernando Valley Basin since 1985. EPA added three areas in the San Fernando Valley Basin to the Superfund program’s National Priorities List (NPL) in 1986.
+
+In 1991, EPA completed a remedial investigation of the San Fernando Valley Basin, which included of the Pollock Well Field. Because the LADWP at that time was building a groundwater treatment facility at their Pollock Well Field to address the VOC contamination (PCE and TCE), EPA determined that cleanup of the groundwater in SFV Area 4 was not immediately necessary. LADWP’s Pollock Treatment Plant became operational in 1999.
+
+Currently, EPA is conducting a remedial investigation of Area 4, which will determine the need for additional cleanup actions at the site and what long-term cleanup is needed to prevent unacceptable risks to human health or the environment. While the remedial investigation to determine the nature and extent of contamination in this area is ongoing, LADWP’s operation of the Pollock Well Field and associated treatment plant continues to treat groundwater to meet drinking water standards and reduce the potential of exposure to contaminated water.
+
+As part of its ongoing remedial investigation, EPA is currently sampling indoor air in the Atwater Village area of Los Angeles to determine if chemicals from groundwater under buildings may be entering homes, businesses and schools. The first round of indoor air sampling in homes took place in Winter 2021-2022. Preliminary results from the first round of sampling show that vapors from contaminated groundwater are not resulting in an unacceptable risk to human health. A second round of indoor air sampling will be conducted in winter 2022-2023.
+
+### What Has Been Done to Clean Up the Site?
+
+**Background**
+
+The San Fernando Valley (Area 4) site is a 5,860-acre area of contaminated groundwater in Los Angeles, California. Area 4 is downgradient of two other San Fernando Valley Basin Superfund Sites (Area 1 and Area 2). Numerous potentially responsible parties (PRPs) contaminated groundwater in the San Fernando Valley Basin with volatile organic compounds (VOCs), including trichloroethylene (TCE) and perchloroethylene (PCE). Cleanup and investigative activities are ongoing.
+
+The Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) process starts with site identification, followed by the Preliminary Assessment (PA) and Site Inspection (SI), followed by the Remedial Investigation (RI) and Feasibility Study (FS) phases. These initial phases pave the way for a Proposed Plan, a Record of Decision (ROD), a Remedial Design, and a Remedial Action depending on site circumstances.
+
+SFV (Area 4) Pollock OU is in the RI phase of the CERCLA process. For more information on the CERCLA process refer to: [https://www.epa.gov/superfund/superfund-cleanup-process](http://www.epa.gov/superfund/superfund-cleanup-process)
+
+**What Has Been Done to Clean Up the Site?**
+
+The San Fernando Valley Area 4 groundwater contamination is being addressed through the coordination of federal, state and municipal agencies including U.S. EPA, California Department of Toxic Substances Control (DTSC), California State Water Resources Control Board, and the Los Angeles Regional Water Quality Control Board (LARWQCB).
+
+EPA completed an interim investigation of the Pollock Well Field in 1994. EPA did not select a remedy for the site because the Los Angeles Department of Water and Power (LADWP) constructed a wellhead treatment project to clean the water in the San Fernando Valley Basin. Since 1999, LADWP’s Granular Activated Carbon (GAC) Treatment Plant at the Pollock Well Field has been treating groundwater to meet drinking water standards and returned to the public water supply system.
+
+Because the Los Angeles Department of Water and Power built a VOC treatment facility, EPA determined that further cleanup was not immediately necessary. EPA is evaluating the effectiveness of the Pollock Well Field project as part of its ongoing basin-wide studies and will determine the need for additional cleanup actions at the site. While the site awaits further investigation on the nature and extent of contamination in this area, the Pollock wellhead treatment operation continues to treat groundwater to meet drinking water standards and reduce the potential of exposure to contaminated water.
+
+EPA Remedial Investigation field activities began in 2017 and have included:
+
+- Groundwater assessment and sampling of existing monitoring wells
+- Soil sampling during the installation of new monitoring wells
+- Installation and sampling of soil gas monitoring probes
+- Indoor air sampling to evaluate vapor intrusion
+
+EPA conducted an initial round of indoor air sampling of homes in the Atwater Village area in February 2022. Sampling results from this first sampling event indicated that indoor air in the homes sampled was not impacted by VOCs migrating from the groundwater into homes.
+
+To verify that VOCs from the contaminated groundwater are not impacting indoor air quality in the area, an additional round of indoor air sampling of homes, businesses and schools in the Atwater Village neighborhood will be conducted in winter 2022-23.
+
+**Site Milestones- Pollock OU**
+
+| Milestone | Dates(s) |
+| --- | --- |
+| Initial Assessment completed | 4/1/1984 |
+| Proposed to the National Priorities list | 10/15/1984 |
+| Finalized on the National Priorities list | 6/10/1986 |
+| SFV Basinwide RI | 1992 |
+| Pollock Study Area Site Assessment | 1994 |
+| Remedial Action (LADWP Pollock wellfield GAC Treatment constructed; water treatment ongoing | 1999-present |
+| POU Remedial Investigation Fieldwork | 2017-2022 |
+| POU Remedial Investigation Report | 2023-2024 |
+| POU Feasibility Study | 2024 (Planned) |
+| Remedy Selected | Schedule Not Set |
+
+### What Is the Current Site Status?
+
+EPA did not select a remedy for the site because the Los Angeles Department of Water and Power (LADWP) planned to conduct a wellhead treatment project in the area. The project began in 1998. The water is treated to meet drinking water standards and returned to the LADWP’s public water supply system. EPA is currently conducting remedial investigation to evaluate the project to determine whether conditions require additional actions.

@@ -1,37 +1,40 @@
-TRACY DEFENSE DEPOT (USARMY)TRACY, CA 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 448-acre Tracy Defense Depot site is located near Tracy, California. Operations at the site included repacking leaking chemical containers, fumigating shipping materials, maintaining vehicles, painting, storing chemicals, preserving metal parts, operating chemical and photographic laboratories, storing and mixing pesticides, and storing and treating liquid and solid wastes. Contaminants of concern included volatile organic compounds (VOCs) and pesticides. Cleanup, operation and maintenance activities, and monitoring are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. The Army and or the Defense Logistics Agency (DLA) installed long term groundwater extraction and soil vapor extraction treatment systems and completed other remedial actions, such as excavation and disposal of contaminated soils and structures. Institutional controls were put in place to restrict uses of areas contamnated to prevent exposures. EPA selected a remedy of “no further action” for 25 subsites. The third five-year review in 2015 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. To ensure long-term protectivenss, DLA conducted additional activities: 
-They optimized and restarted a soil vapor extraction system (Area 3 SVE) in 2015. Additional optimization was conducted in 2021 to address an area that had not yet reached cleanup goals. By the end of 2022, the contaminants in the soil vapor were again below cleanup goals. . The Area 3 SVE system was shut down in early 2023 to confirm that cleanup levels will continue to be met after a period of non-operation.
-To ensure exposure to site contaminants does not occur, additional gravel cover was placed at the Northern Depot Soils Area in 2016 to replace gravel that was eroded due to vehicle traffic . In 2023, a perimieter fence was added to reduce traffic in the area and prevent futher erosion. DLA periodically monitors and adds gravel cover when necessary.
-They conducted Indoor air sampling at Building 237 in 2017 and 2018 and confirmed that there were no unacceptable risks to vapor intrusion.
-They completed an investigation in 2019 of an area potentially contaminated with benzo(a)pyrene in soils. EPA determined that levels were below health concerns and no use restrictions are necessary.
-DLA also completed installation of additional monitoring wells in the TCE plume east of the Banta Road, to verify that the dispersion remedy in that area is effective. . 
-Top of Page
-What Is the Current Site Status?
-The Defenese Logisitcs Agency conducts ongoing cleanup, operation,maintenance and monitoring activities.The pump-and-treat groundwater system and soil vapor extraction system will operate at the site until established groundwater and soil cleanup goals are met. DLA provides routine monitoring reports, including an annual evaluation of the remedy effectiveness. EPA and DLA have also conducted several five-year reviews of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. DLA completed the 4th Five-Year Review in September 2020. The remedies were determined to be protective of human health in the environment in the short-term, however additional activities were needed to ensure long-term protectiveness. The recommendations to ensure protectiveness and their status are as follows: 
-Perform a building survey and collect indoor air samples at Building 247 to re-evaluate vapor intrusion risk. Perform the work in accordance with current EPA and DTSC guidance. Status: DLA conducted the evaluation and completed a report in May 2018. Based on the indoor air sampling results, occupants of Building 237 are
-.﻿not being exposed to PCE or TCE at concentrations that present an unacceptable risk to human health, and accelerated or urgent responses are not needed, based on the TCE analytical results. The site will continue to be evaluated during future five-year reviews.
-Collect samples from each of the three water supply wells at the Tracy Site for analysis of the PFAS chemicals listed in EPA Method 537.1 to assess whether PFAS are present in the Depot’s drinking water supply. Status: DLA conducted PFAS analysis in June 2020. The levels were below California and EPA screening levels at the time. The Secretary of the Department of Defense (DoD) issued a memorandum in July 2023 requiring additional sampling with new methods by the end of 2023, and DoD will make results available on defense.gov/pfas. If DoD owned systems detect levels of the PFAS consituents PFOA, PFOS, or PFOS + PFOA in finished drinking water exceeding 70 parts per trillion, DoD Components will provide alternative drinking water and take actions to lower PFOS/PFOA concentrations to below 70 ppt.
-Evaluate the potential for the Tracy Site to historically have used or
-stored 1,2,3-TCP or chemicals containing 1,2,3-TCP. Collect influent and effluent
-samples from GWTP2 and groundwater samples from select monitoring wells at sites where pesticides and/or solvents may have been stored, used, and/or disposed. Analyze samples for 1,2,3-TCP analysis using EPA Method SW8260B with selective ion monitoring, which can achieve a detection limit less than the California MCL to assess whether 1,2,3-TCP is present at concentrations exceeding the MCL in groundwater beneath the Tracy Site. Status: DLA conducted 1,2,3-TCP in September 2020 and a report was finalized in May 2021. Regulatory Agencies concurred with conclusion that Tracy is not a source of 1,2,3-TCP 
-The 5th Five-Year Review will be completed in September 2025. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+The Army and or the Defense Logistics Agency (DLA) installed long term groundwater extraction and soil vapor extraction treatment systems and completed other remedial actions, such as excavation and disposal of contaminated soils and structures. Institutional controls were put in place to restrict uses of areas contamnated to prevent exposures. EPA selected a remedy of “no further action” for 25 subsites.
+
+The third five-year review in 2015 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. To ensure long-term protectivenss, DLA conducted additional activities:
+
+- They optimized and restarted a soil vapor extraction system (Area 3 SVE) in 2015. Additional optimization was conducted in 2021 to address an area that had not yet reached cleanup goals. By the end of 2022, the contaminants in the soil vapor were again below cleanup goals.. The Area 3 SVE system was shut down in early 2023 to confirm that cleanup levels will continue to be met after a period of non-operation.
+- To ensure exposure to site contaminants does not occur, additional gravel cover was placed at the Northern Depot Soils Area in 2016 to replace gravel that was eroded due to vehicle traffic. In 2023, a perimieter fence was added to reduce traffic in the area and prevent futher erosion. DLA periodically monitors and adds gravel cover when necessary.
+- They conducted Indoor air sampling at Building 237 in 2017 and 2018 and confirmed that there were no unacceptable risks to vapor intrusion.
+- They completed an investigation in 2019 of an area potentially contaminated with benzo(a)pyrene in soils. EPA determined that levels were below health concerns and no use restrictions are necessary.
+- DLA also completed installation of additional monitoring wells in the TCE plume east of the Banta Road, to verify that the dispersion remedy in that area is effective..
+
+### What Is the Current Site Status?
+
+The Defenese Logisitcs Agency conducts ongoing cleanup, operation,maintenance and monitoring activities.The pump-and-treat groundwater system and soil vapor extraction system will operate at the site until established groundwater and soil cleanup goals are met. DLA provides routine monitoring reports, including an annual evaluation of the remedy effectiveness. EPA and DLA have also conducted several five-year reviews of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+DLA completed the 4th Five-Year Review in September 2020. The remedies were determined to be protective of human health in the environment in the short-term, however additional activities were needed to ensure long-term protectiveness. The recommendations to ensure protectiveness and their status are as follows:
+
+- Perform a building survey and collect indoor air samples at Building 247 to re-evaluate vapor intrusion risk. Perform the work in accordance with current EPA and DTSC guidance. Status: DLA conducted the evaluation and completed a report in May 2018. Based on the indoor air sampling results, occupants of Building 237 are  
+	.not being exposed to PCE or TCE at concentrations that present an unacceptable risk to human health, and accelerated or urgent responses are not needed, based on the TCE analytical results. The site will continue to be evaluated during future five-year reviews.
+- Collect samples from each of the three water supply wells at the Tracy Site for analysis of the PFAS chemicals listed in EPA Method 537.1 to assess whether PFAS are present in the Depot’s drinking water supply. Status: DLA conducted PFAS analysis in June 2020. The levels were below California and EPA screening levels at the time. The Secretary of the Department of Defense (DoD) issued a memorandum in July 2023 requiring additional sampling with new methods by the end of 2023, and DoD will make results available on defense.gov/pfas. If DoD owned systems detect levels of the PFAS consituents PFOA, PFOS, or PFOS + PFOA in finished drinking water exceeding 70 parts per trillion, DoD Components will provide alternative drinking water and take actions to lower PFOS/PFOA concentrations to below 70 ppt.
+- Evaluate the potential for the Tracy Site to historically have used or  
+	stored 1,2,3-TCP or chemicals containing 1,2,3-TCP. Collect influent and effluent  
+	samples from GWTP2 and groundwater samples from select monitoring wells at sites where pesticides and/or solvents may have been stored, used, and/or disposed. Analyze samples for 1,2,3-TCP analysis using EPA Method SW8260B with selective ion monitoring, which can achieve a detection limit less than the California MCL to assess whether 1,2,3-TCP is present at concentrations exceeding the MCL in groundwater beneath the Tracy Site. Status: DLA conducted 1,2,3-TCP in September 2020 and a report was finalized in May 2021. Regulatory Agencies concurred with conclusion that Tracy is not a source of 1,2,3-TCP
+
+The 5th Five-Year Review will be completed in September 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 Land Use Controls are in place at several locations to restrict certain activities. Signs and contact information is posted at these areas.
-Top of Page

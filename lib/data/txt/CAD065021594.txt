@@ -1,2 +1,15 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Louisiana-Pacific Corp. site consists of two pieces of property located a half-mile apart: a 100-acre wood processing plant and a 115-acre landfill. Georgia-Pacific Corporation built the plant in 1969 and operated it until 1973, when the Louisiana-Pacific Corp. assumed plant ownership and operation. In 1978, the California Solid Waste Management Board approved a permit for Louisiana-Pacific Corp. to operate the landfill. In 1973, high levels of pentachlorophenol (PCP) were discovered in nearby residential wells. By 1983, a groundwater contaminant plume containing PCP extended one-and-a-half miles south of the neighboring Koppers Company, Inc. wood-treating plant, another Superfund site. Site-related chemicals caused low levels of contamination in the shallow aquifer beneath the plant. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1996.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+
+### What Is the Current Site Status?
+
+The site’s interim remedy, selected in 1990, included site access restrictions, such as a perimeter fence, deed restrictions on future residential use of the site, and additional soil sampling. The groundwater remedy included establishing well permit restrictions and monitoring of on-site wells to obtain additional information about formaldehyde and arsenic levels in the groundwater at the site. Following the soil and groundwater investigations, EPA determined in 1995 that no further cleanup actions were needed at the site.
+
+The requirements for deed and well permit restrictions have been removed, and no further monitoring is required. While the plant was still in operation, air emissions from the hardboard plant were addressed under the Clean Air Act permit program.
+
+After cleanup, EPA took the site off the NPL in 1996.

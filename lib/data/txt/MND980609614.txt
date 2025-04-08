@@ -1,17 +1,31 @@
-SOUTH ANDOVER SITEANDOVER, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The South Andover site is located in Andover, Minnesota. The site consists of several parcels of land that total around 50 acres. From 1954 to 1981, waste disposal and salvage operations took place on most of these properties. In 1980, the state issued notices of violation for improper storage and disposal of chemical wastes. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. Following cleanup, EPA removed part of the site from the Superfund program’s National Priorities List (NPL) in 1998. Operation and maintenance activities are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site’s long-term remedy included monitored natural attenuation of groundwater contamination, soil treatment and off-site soil disposal. Construction finished by 1994. Following cleanup, EPA removed part of the site from the NPL in 1998. EPA has conducted several five-year reviews of the site’s cleanup remedy. These reviews ensure that the remedies in place to protect public health and the environment are functioning as intended. EPA has documented issues and recommendations in the 2021 Five-Year Review report that will need to be addressed within the next five-year review period by both EPA and the PRP group. Fifth Five Year Review Report (Signed) - South Andover Site - 2021(pdf) (45 pp, 6.78MB, About PDF) Top of Page
-What Is the Current Site Status?
-The Superfund law requires regular checkups of sites that have been cleaned up or undergoing cleanup activities – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. Currently, the PRP group is monitoring a vinyl chloride plume in the southwest of the Site which has been shrinking in size since it was discovered in 1998. The maximum detected vinyl chloride concentration in the groundwater during the 2020 sampling event was 18 ug/L. The cleanup criteria or maximum contaminant level (MCL) for vinyl choride is 2 ug/L. The PRP will continue to monitor the plume until it reaches the cleanup criteria of 2 ug/L. The 2021 FYR concluded that the remedy is currently functioning as intended and continues to be protective of human health and environment in the short term. However, in February of 2022, the Minnesota Pollution Control Agency (MPCA) notified EPA of private wells north of the South Andover site impacted with 1,4-dioxane and per- and polyfluoroalkyl substances (PFAS). MPCA has been sampling the private wells and providing bottled water to residents in the Red Oaks Neighborhood with 1,4-dioxane above the Minnesota’s Health Risk Level of 1 micrograms per liter (ug/L). While MPCA was conducting the investigation in the Red Oaks neighborhood it was discovered in 2023 that another neighborhood, Eastbrook Terrace, had private wells impacted with 1,4-dioxane to the southwest of the South Andover Site. The source(s) of the 1,4-dioxane and PFAS in groundwater have not been determined at this time; however, two potential sources in the immediate vicinity of these neighborhoods include the WDE Closed Landfill and the South Andover Superfund sites.
-Red Oaks and Oakbrook Terrace Maps (pdf) (1﻿pp, 41.45 K, About PDF)The groundwater at the South Andover Site has never been analyzed for 1,4-dioxane or PFAS. However, MPCA did collect 15 groundwater samples from five temporary wells along the northern boundary of the Site which showed 1,4-dioxane above Minnesota’s HRL for 1,4-dioxane in four samples. Considering this new information, EPA has requested that the PRP conduct groundwater investigations on the South Andover Superfund Site to determine whether 1,4-dioxane and PFAS are contaminants present on the Site and if the Site could be a potential source of these contaminants. EPA will need this additional information to determine if the current remedy is protective of human health and the environment. The PRP group is currently drafting a Work Plan to conduct the investigations under EPA and MPCA oversight. Sampling and Monitoring The 2021 FYR report contains groundwater monitoring results for the vinyl chloride plume that the PRP group is monitoring southwest of the southwest corner of the South Andover Site. Future sampling efforts regarding the 1,4-dioxane and PFAS sampling will be presented on the website when available. Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term remedy included monitored natural attenuation of groundwater contamination, soil treatment and off-site soil disposal. Construction finished by 1994. Following cleanup, EPA removed part of the site from the NPL in 1998.
+
+EPA has conducted several five-year reviews of the site’s cleanup remedy. These reviews ensure that the remedies in place to protect public health and the environment are functioning as intended.
+
+EPA has documented issues and recommendations in the 2021 Five-Year Review report that will need to be addressed within the next five-year review period by both EPA and the PRP group.
+
+[Fifth Five Year Review Report (Signed) - South Andover Site - 2021(pdf)](https://semspub.epa.gov/src/document/05/969608) (45 pp, 6.78MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### What Is the Current Site Status?
+
+The Superfund law requires regular checkups of sites that have been cleaned up or undergoing cleanup activities – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. Currently, the PRP group is monitoring a vinyl chloride plume in the southwest of the Site which has been shrinking in size since it was discovered in 1998. The maximum detected vinyl chloride concentration in the groundwater during the 2020 sampling event was 18 ug/L. The cleanup criteria or maximum contaminant level (MCL) for vinyl choride is 2 ug/L. The PRP will continue to monitor the plume until it reaches the cleanup criteria of 2 ug/L.
+
+The 2021 FYR concluded that the remedy is currently functioning as intended and continues to be protective of human health and environment in the short term. However, in February of 2022, the Minnesota Pollution Control Agency (MPCA) notified EPA of private wells north of the South Andover site impacted with 1,4-dioxane and per- and polyfluoroalkyl substances (PFAS). MPCA has been sampling the private wells and providing bottled water to residents in the Red Oaks Neighborhood with 1,4-dioxane above the Minnesota’s Health Risk Level of 1 micrograms per liter (ug/L). While MPCA was conducting the investigation in the Red Oaks neighborhood it was discovered in 2023 that another neighborhood, Eastbrook Terrace, had private wells impacted with 1,4-dioxane to the southwest of the South Andover Site.
+
+The source(s) of the 1,4-dioxane and PFAS in groundwater have not been determined at this time; however, two potential sources in the immediate vicinity of these neighborhoods include the [WDE Closed Landfill](http://www.epa.gov/superfund/waste-disposal-engineering) and the South Andover Superfund sites.
+
+[Red Oaks and Oakbrook Terrace Maps (pdf)](https://semspub.epa.gov/src/document/05/984777) (1pp, 41.45 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+The groundwater at the South Andover Site has never been analyzed for 1,4-dioxane or PFAS. However, MPCA did collect 15 groundwater samples from five temporary wells along the northern boundary of the Site which showed 1,4-dioxane above Minnesota’s HRL for 1,4-dioxane in four samples.
+
+Considering this new information, EPA has requested that the PRP conduct groundwater investigations on the South Andover Superfund Site to determine whether 1,4-dioxane and PFAS are contaminants present on the Site and if the Site could be a potential source of these contaminants. EPA will need this additional information to determine if the current remedy is protective of human health and the environment. The PRP group is currently drafting a Work Plan to conduct the investigations under EPA and MPCA oversight.
+
+##### Sampling and Monitoring
+
+The 2021 FYR report contains groundwater monitoring results for the vinyl chloride plume that the PRP group is monitoring southwest of the southwest corner of the South Andover Site. Future sampling efforts regarding the 1,4-dioxane and PFAS sampling will be presented on the website when available.

@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Savanna Army Depot Activity (SVDA) site is a 13,062-acre installation. It is located on the eastern bank of the Mississippi River in Carroll and Jo Daviess counties, seven miles north of Savanna, in Illinois. Between 1917 and 1995, the U.S. Army used the property for artillery weapons and ammunition testing, as well as the storage of ordnance and the loading and renovating of shells and bombs. The Army used several areas for demolition, burning of obsolete ordnance and waste disposal. Facility operations contaminated soils, groundwater, surface water and sediment with hazardous chemicals. Site cleanup is ongoing. Some areas are now part of the Upper Mississippi Valley National Wildlife and Fish Refuge.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA and Illinois EPA oversee, review and approve all work the U.S. Army performs at the site, according to the federal facility agreement among the three parties.
+
+### What Is the Current Site Status?
+
+In September 1989, the U.S. Army, Illinois EPA and EPA signed a three-party federal facility agreement (FFA). The Army, as the lead agency, is conducting the investigation and cleanup of the facility under the oversight of Illinois EPA and EPA. Seventy-three areas of potential concern were identified across the facility. Of these, 41 required additional investigation.
+
+Areas of concern across the facility are in various stages of investigation. Significant environmental progress has been made at the following areas: Sites 1, 21 & 22/TNT Washout Facility, Site 67/Fire Training Area, Sites 13 & 14/Open Burning Grounds, Site 89/Pesticide Disposal Area, Sites 76AD (APE Dock Area), 44 (Nitric Acid Storage Area) and 25 (CF Plant Melt and Pour Facility Sump), and Sites 15 and 33 Removal Action. Cleanup efforts in these areas have included soil excavation, debris removal and disposal of pesticides, solid wastes and ordnance.
+
+Cleanup activities are currently ongoing at Sites 1 (TNT Washout Facility), 90 (H-Area Landfill Cells), 111 (Outdoor Washout Plant) and 192 (Manganese Ore Storage Mounds), and Sites 155 and 186 (CF Plant Buildings 729 and 707). Cleanup efforts in these areas have included time-critical removal actions, lime treatment and soil flushing. There have also been “no further action” cleanup decisions for 22 areas and a “no action” cleanup decision for one area, Site 44 (Nitric Acid Storage).
+
+Other cleanup efforts across the facility have addressed Site 16/Deactivation Furnace APE 1236, Igloo Storage Areas, Site 42/Monazite Sand Storage Tanks, Site 75/Army Reserve Motor Pool, and Site 61/Open Rubble Dump. These cleanups have included removal of surface construction debris and asphalt, excavation and off-site disposal of contaminated soils, and igloo closure.
+
+Multiple remedial investigation activities are either in process or close to completion. Areas of ongoing investigation include the Lower and Upper Posts, explosives-contaminated buildings, and multiple locations with remaining munitions and explosives of concern. Groundwater monitoring well abandonment is ongoing.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+VOCs, PCBs, heavy metals, explosives, PAHs.

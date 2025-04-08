@@ -1,2 +1,59 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Syntex Facility Site covers approximately 180 acres and is located at 299 Extension Street in Verona, Lawrence County, Missouri. The Spring River passes through the site, dividing it into two areas – the approximately 100-acre East Area and the 80-acre West Area. The East Area is within the floodplain of the Spring River and includes buildings and infrastructure associated with former and current manufacturing facilities. The West Area is a mostly wooded, rolling upland terrain. The East Area has been owned and operated by BCP Ingredients Inc since May of 2001.
+
+Before industrial operations, the site was used for agricultural and recreational purposes. In the 1960s, Hoffman-Taff Inc. owned and operated the facility. Hoffman-Taff produced 2,4,5-trichlorophenoxy-acetic acid (also known as 2,4,5-T) for the U.S. Army. 2,4,5-T is one component of the defoliant commonly referred to as Agent Orange.
+
+In 1969, Hoffman-Taff leased a portion of the facility to Northeastern Pharmaceutical and Chemical Company (NEPACCO) for the production of hexachlorophene, which at one time was a widely used antibacterial agent. NEPAACO manufactured pharmaceutical-grade hexachlorophene until 1972, when the U.S. Food and Drug Administration imposed strict limits on its use in over-the-counter products and market demand decreased. In December 1969, Syntex purchased the facility from Hoffman-Taff and allowed NEPACCO’s lease to remain in effect.
+
+The production of 2,4,5-T and hexachlorophene involved the intermediate production of 2,4,5-trichlorophenol (TCP) and the formation of 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD, commonly referred to simply as dioxin) as an unwanted by-product. In the course of purifying the hexachlorophene, still bottom wastes were created with concentrated levels of TCP and dioxin. The still bottoms and other manufacturing waste streams were initially managed in storage tanks and lagoons onsite. Dioxin residues were also identified at the slough area, spill area/irrigation area, burn area, and trench area. Chemical manufacturing waste residues were disposed of in several areas at the facility, contaminating the soil and groundwater with dioxin and volatile organic compounds (VOCs). Fish and sediment in the downstream Spring River were also contaminated.
+
+In 2016, during site investigations being performed by Syntex, 1,4-dioxane was detected in the groundwater downgradient of the BCP Ingredients facility. Further investigations between 2016 and 2021 revealed a 1/2-mile long plume of 1,4-dioxane contaminated groundwater that extended from the BCP Ingredients, Inc. facility to the north.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA added the Syntex facility to the Superfund program’s National Priorities List (NPL) in 1983. Syntex, pursuant to a 1982 Consent Order, began investigating former disposal and spill areas on the Site in 1982. In 1983, Syntex entered into another Consent Order to perform additional investigations of soil, sediment, surface water, and groundwater and to develop and evaluate potential remedial alternatives.
+
+In a 1988 Record of Decision (ROD), the EPA selected the remedy for Operable Unit 1 (OU1), the dioxin-contaminated soils and equipment. The remedy included:
+
+- Excavation and off-site thermal treatment of dioxin-contaminated soil;
+- Maintenance of a vegetative cover over surface soils;
+- Dismantling and decontamination of equipment;
+- Installation of a gravel drainage trench upgradient of the trench area; and
+- Installation of a vegetative clay cap over the trench area.
+
+Between 1988 and 1990, and in accordance with the ROD, as amended, dioxin-contaminated surface soils were excavated and incinerated and certain areas were capped and/or vegetative covers were established.Disposal of the contaminated equipment was completed in 1996. Upon completion of the remedy, it was determined to be protective of human health and the environment.
+
+In a 1993 ROD, the EPA selected a remedy for OU2, the groundwater and surface water. The remedy called for "no further remedial action" since off-site contamination was within the range of relevant EPA standards at the time. The remedy did include additional groundwater monitoring and surface water sampling of the Spring River.
+
+The remedy also included a risk assessment, at the conclusion of the monitoring sampling, to evaluate if the remedy remained protective of human health and the environment.
+
+Syntex collected groundwater samples from East Area monitoring wells twice a year from November 1997 through May 1999 and submitted a risk assessment, which concluded that there was not a complete exposure pathway because the groundwater discharged to the Spring River. Between 2003 and 2012, Syntex continued to collect groundwater samples on an annual basis.
+
+Every five years, the EPA conducts a review to evaluate the implementation and performance of the remedy. Since 1997, the EPA has conducted Six Five-Year Reviews of the site. The fourth and fifth Five-Year Reviews, completed in 2012 and 2017, found that at the time the remedial actions for the OU1 soils and equipment and OU2 groundwater were implemented, they were protective of human health and the environment. However, these Five Year Reviews identified several issues and concluded that additional information was necessary to determine the protectiveness of the remedies. To address these issues, EPA negotiated an Order with Syntex in September 2016. The additional investigations included soil, sediment, and groundwater sampling, installation of additional monitoring wells, and hydrogeological characterization, as well as a human health risk assessment and ecological risk assessment.
+
+The EPA completed the sixth Five-Year Review in 2022. The EPA determined that the additional investigations and assessments, completed by Syntex between 2016 and 2021, provided the necessary information necessary to resolve the issues in the 2012 and 2017 Five-Year Reviews. The EPA found that the work demonstrated that the OU1 and OU2 remedies are currently protective for people and the environment. The 2022 Five-Year Review did identify a few issues that could potentially affect future effectiveness of the remedies. The most signifiant of these issues was that the flood berm surrounding the BCP facility was insufficient to prevent flooding.
+
+During the additional investigations between 2016 and 2021, a plume of 1,4-dioxane-contaminated groundwater was identified in the East Area. Previously, 1,4-dioxane had not been identified as a contaminant of concern at the site. The data suggested that at least some of the 1,4-dioxane was released to the environment after the OU2 ROD in 1993. The source of the 1,4-dioxane and the extent of the 1,4-dioxane-contaminated groundwater plume have not been determined. The EPA has designated the new OU3 to address this contamination.
+
+In June 2023, BCP Ingredients, Inc. and Syntex Agribusiness, Inc. entered into an Administrative Order on Consent on OU3. The AOC requires BCP Ingredients, Inc. to first perform a release/quantity source investigation to help determine the potential source(s) of release(s) or threatened release(s) of 1,4-dioxane and chlorobenzene. The AOC also requires BCP and Syntex Agribusiness Inc. to perform a Focused Remedial Investigation and, if necessary, a Focused Feasibility Study.
+
+### What Is the Current Site Status?
+
+Pursuant to the 2023 AOC, BCP is currently developing work plans for the source area investigation on OU3.
+
+Environmental covenants have been established on all property at the site to prevent unauthorized soil disturbances, to ensure authorized soil disturbances are performed in a safe manner, to prevent access to groundwater, and to prevent certain land uses. For additional information, refer to 'Activity and Use Limitations.'
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+On January 1, 1984, the site was placed on the State of Missouri Registry of Abandoned or Uncontrolled Hazardous Waste Disposal Sites pursuant to the Missouri regulation 10 CSR 25-10.010. The Registry provides a variety of institutional controls that allow for residual contamination to be left on-site while still protecting human health and the environment. The use of a property on the Registry cannot be changed without the written approval of the Director of the Missouri Department of Natural Resources. The Registry categorizes sites on a scale from 1 to 5, with 1 posing the greatest threat to human health and the environment. The western portion of the site was designated a Class 3 site and the eastern portion was designated a Class 4 site.
+
+On Jan. 9, 2019, an Environmental Covenant covering the East Area of the Syntex Facility Site went into effect. The Covenant ensures that any future activities causing the soil to be disturbed or excavated will be conducted in a manner that is protective of human health and the environment. Additionally, the Covenant prevents groundwater use at the site.
+
+On April 13, 2022, an Environmental Covenant covering the West Area of the Syntex Facility Site went into effect. The Covenant ensures that the West Area will not be used for any residential, agricultural, or recreational purpose. The Covenant prevents drilling and use of groundwater, except for collection of environmental samples and related activities. Additionally, the Covenant requires the property owner to maintain the Trench Area cap, fencing, and survey markers.
+
+On April 13, 2022, an Environmental Covenant covering the the 60-acre property immediately to the north of the East Area and West Area, commonly referred to as the North Property, went into effect. The Covenant prevents drilling and use of groundwater, except for collection of environmental samples and related activities.

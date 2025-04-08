@@ -1,22 +1,19 @@
-VELSICOL BURN PITST. LOUIS, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-EPA signed a Record of Decision for the cleanup of the Velsicol Burn Pit on July 28, 2015. The remedy called for using in-place thermal treatment of source contamination, which is primarily in a Non-Aqueous Phase Liquid (NAPL) state. The treatment area is approximately one-acre and is located in the middle of an out-of-bounds area of a public golf course. The cleanup plan also includes excavation and off-site disposal of an ash pile left over from former operations at the site. EPA also will hook-up nine nearby homes to City of St. Louis drinking water as a proactive step. Once the source area cleanup is complete, EPA will conduct a remedial investigation and feasibility study on the surrounding groundwater to determine how to best address the groundwater at the site.  Top of Page
-What Has Been Done to Clean Up the Site?
-All actions including the Remedial Investigation/Feasibility Study and Remedial Designs have been funded by U.S. EPA and the State of Michigan. Velsicol Chemical has filed for bankruptcy and therefore does not have the funding to cleanup the site. Top of Page
-What Is the Current Site Status?
-The designs for the in-place thermal treatment, removal of ash piles, and replacement of drinking water for nine homes are all complete. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The Velsicol Burn Pit is located in an out-of-bounds area of a public golf course and no immediate risk exists for users of the golf course. 
-Top of Page
+### Background
+
+EPA signed a Record of Decision for the cleanup of the Velsicol Burn Pit on July 28, 2015. The remedy called for using in-place thermal treatment of source contamination, which is primarily in a Non-Aqueous Phase Liquid (NAPL) state. The treatment area is approximately one-acre and is located in the middle of an out-of-bounds area of a public golf course. The cleanup plan also includes excavation and off-site disposal of an ash pile left over from former operations at the site. EPA also will hook-up nine nearby homes to City of St. Louis drinking water as a proactive step. Once the source area cleanup is complete, EPA will conduct a remedial investigation and feasibility study on the surrounding groundwater to determine how to best address the groundwater at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+All actions including the Remedial Investigation/Feasibility Study and Remedial Designs have been funded by U.S. EPA and the State of Michigan. Velsicol Chemical has filed for bankruptcy and therefore does not have the funding to cleanup the site.
+
+### What Is the Current Site Status?
+
+The designs for the in-place thermal treatment, removal of ash piles, and replacement of drinking water for nine homes are all complete.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Velsicol Burn Pit is located in an out-of-bounds area of a public golf course and no immediate risk exists for users of the golf course.

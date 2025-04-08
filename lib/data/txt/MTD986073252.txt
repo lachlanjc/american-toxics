@@ -1,2 +1,51 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Billings PCE site consists of a 976-acre contaminant plume in shallow groundwater, extending approximately three miles under a mixed-use area to the northeast of downtown Billings. The plume contains mainly chlorinated solvents spills from historic area laundry and dry-cleaning businesses, mainly tetrachloroethylene (PCE) with isolated pockets of petroleum hydrocarbons from leaking underground storage tank facilities such as gas stations and lies under approximately 4200 residences and businesses. The primary health concern is vapor intrusion. Chlorinated solvents and petroleum hydrocarbons can vaporize from the groundwater, move into air, and accumulate in the indoor air of overlying structures. A person breathing indoor air contaminated with PCE could experience immediate symptoms such as dizziness, headaches, nausea, and poor coordination. A person exposed to lower amounts of PCE and TCE vapors over a longer period of time might experience harmful health effects including neurological symptoms, immune effects, liver or kidney effects, or certain cancers. Although there are no known potable uses of groundwater, a person might also be exposed if they drink contaminated water from irrigation wells or use irrigation water for recreational purposes.
+
+The Site has been divided into three OUs:
+
+- OU1 addresses VI at certain residential and commercial properties within the study area. Over 700 are identified as high priority based on soil gas, indoor air, subslab (below foundation) and groundwater concentrations.
+- OU2 addresses the contaminated soil and groundwater associated with the main source area near 7th and Central Avenue and groundwater immediately downgradient.
+- OU3 addresses the Site-wide remedy including remaining source areas as well as any other sources identified in the course of further investigation, Site-wide groundwater, and final VI remedy.
+
+The shape and size of the Site boundaries may change in the future as new analytical data informs the understanding of the extent groundwater contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1993, the Montana Department of Environmental Quality (MDEQ) completed a Preliminary Assessment of the site to identify any areas of concern and determine if contaminants are or were present on the site at any time. Although subsurface contamination was identified at the time, MDEQ concluded with a “no further action” determination since the affected aquifer was not then being used as a drinking water source. 
+
+From 1999 until 2001, MDEQ completed a site investigation and determined that indoor air contaminant concentrations, within structures overlying the plume, may exceed levels that may cause adverse health effects for building occupants.
+
+In 2007, EPA conducted a removal action that included removing and disposing of contaminated soil; injecting chemicals to help reduce groundwater contamination; and installing a barrier wall around the most highly contaminated groundwater. EPA also installed vapor mitigation systems at seven structures overlying the groundwater plume. Vapor mitigation limits vapor from accumulating in indoor air. The vapor is collected from underneath the structure and discharged into the atmosphere above the structure, much like a radon mitigation system. Since that time, EPA has been documenting plume characteristics and evaluating the effectiveness of the removal action.
+
+In 2019, MDEQ issued a Remedial Investigation report to document the current nature and extent of contamination, if other sources were contributing to contamination, and if vapor intrusion was continuing to occur. Results found multiple sources of contaminated soil, and that subsurface soils at several source locations were continuing to contaminate groundwater. Groundwater contamination did decrease after EPA’s removal work, but the shallow groundwater plume remains contaminated above Montana’s human health standards. Additional site information and related documents can be found on the MDEQ site profile page.
+
+#### Montana State Superfund Unit – Billings PCE
+
+Between 2022 and 2024, EPA and its contractors collected over 400 groundwater and soils samples; subslab soil gas samples from under the foundation at 200 structures and indoor air samples from 190 structures. Air samples were also collected from the sewer system to determine if the sewer lines act as a preferential pathway for vapor intrusion. Another time critical removal action was conducted in 2023 and 2024 and 27 subslab depressurization systems (i.e., vapor intrusion (VI) mitigation systems) were installed at 23 residential and 4 commercial structures because concentrations in the indoor air or below the foundation exceed removal management levels. Another 60 structures had concentrations that exceed site specific indoor air and subslab screening levels. Post installation sampling indicates a significant reduction in chlorinated solvent vapor inside the structure and below the foundation demonstrating that the mitigation systems are effective.
+
+In November 2023, EPA and its contractors conducted over twenty additional soil borings around 7th and Central Avenues to fill data gaps identified in the RI to delineate potential DNAPL source. Continuous soil corings were logged and coring intervals field screened to identify locations where contamination may be present. Approximately 80 soil samples were submitted to a laboratory for analysis to confirm field screening results. Elevated concentrations of PCE and TCE were detected although concentrations were not indicative of a pure liquid phase of contaminants termed Dense Non-Aqueous Phase Liquid. The sample results indicated contamination within narrow intervals near the groundwater surface with not much evidence of deeper contamination at the bedrock. Additional investigations were conducted in 2024 to confirm the initial results and help refine volume estimates and areas needing to be treated as part of the upcoming OU2 Feasibility Study,
+
+### What Is the Current Site Status?
+
+Information to date shows that people may be potentially exposed to contaminated air through vapor intrusion if their homes or businesses are above the groundwater plume area. EPA intends to finalize the OU1 focused feasibility study that considers alternatives to mitigate the indoor air pathway in the near future. A Record of Decision for OU1 is expected in late 2026/early 2027. EPA has also conducted evaluations of the source areas and groundwater and plans to issue a Feasibility Study for OU2 in early 2027.
+
+EPA was able to sample all known Housing and Urban Development (HUD) properties within the Superfund study area, and all data came back below regional screening levels for the contaminants of potential concern. While there likely is not a potential exposure to residents at the HUD properties, EPA plans to issue an OU1 Interim ROD in 2025 and will compare all results against the cleanup levels established in the ROD. Depending on cleanup values, there may be potential exposure to residents at the HUD properties from volatile organic compounds in the indoor air and subslab based on location of the HUD multi-family and public housing properties in relation to known source areas. One of the public housing complexes has an irrigation well which will be sampled in May 2023 and the sample came back below state and federal drinking water standards for PCE and TCE. Given the location of the HUD properties in relation to the known source areas and downgradient groundwater plume it is likely there are only minimal exposures to indoor air contamination for HUD-assisted housing residents. Since all buildings with EPA’s study area are on city water, there is minimal exposure to contaminated groundwater.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At present, there are no activity or use limitations.
+
+### Sampling and Monitoring
+
+EPA intends to collect groundwater semi-annually from the monitoring well network in 2025. Soil, groundwater and soil gas samples will also be collected from several source areas to further EPA’s understanding of the nature and extent of contamination in the subsurface.
+
+### Emergency Response and Removal
+
+A time critical removal action was conducted in 2023 and 2024 and 27 subslab depressurization systems (i.e., VI mitigation systems) were installed at 23 residential and 4 commercial structures because concentrations in the indoor air or below the foundation exceed removal management levels. Post installation sampling indicates a significant reduction in chlorinated solvent vapor inside the structure and below the foundation demonstrating that the mitigation systems are effective.
+
+Additional information on EPA removal action activities conducted to date including related site documents can be found on the [EPA response.gov site](https://response.epa.gov/site/site_profile.aspx?site_id=15883).

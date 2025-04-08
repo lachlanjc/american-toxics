@@ -1,2 +1,73 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 850-acre Fort Hartford Coal Company Stone Quarry [Superfund](https://www.epa.gov/superfund) Site is located 1.25 miles northwest of Olaton, Kentucky. It includes the area where Fort Hartford Coal Company operated a limestone mine and then a storage facility for salt cake fines (SCFs) from the late 1950s to 1991.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/superfund-glossary#n) in 1990 because of contaminated air, groundwater and surface water resulting from storage operations.
+
+The EPA, the [Kentucky Department for Environmental Protection (KDEP)](https://eec.ky.gov/Environmental-Protection/Pages/default.aspx) and Commonwealth Aluminum Concast, Inc., the site’s [potentially responsible party (PRP)](https://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions and taken steps to clean up the site.
+
+Site contamination does not currently threaten people living and working near the site. A water line connects residences and businesses to the public water supply. By treating groundwater, placing institutional controls on the site property and undertaking Five-Year Reviews (FYRs), the EPA, the KDEP and the site’s PRP continue to protect human health and the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s PRP leads site investigation and cleanup activities, with oversight provided by the EPA and the KDEP.
+
+**1990**  
+The site’s PRP began cleanup activities which included:
+
+- grading the site to promote drainage away from SCFs areas;
+- repairing mine roof collapses;
+- permanently closing 26 sinkholes; and
+- installing a pump-and-treat system for mineshaft runoff and obtaining a discharge permit from the State of Kentucky for controlled discharge of site drainage into the Rough River.
+
+**1995**  
+The EPA issued a [Record of Decision (ROD)](https://semspub.epa.gov/work/04/10077022.pdf), which selected a remedy requiring source control, mine water diversion and air containment.
+
+**1998**  
+The PRP completed all physical components of the cleanup approach in July 1998.
+
+**1999**  
+Based on information from the remedial design phase of the 1995 remedy, the EPA issued an [Explanation of Significant Differences (ESD)](https://semspub.epa.gov/work/04/34811.pdf) in June 1999 that no longer required air containment due to declining ammonia concentrations. In addition, the ESD revised the performance standards for groundwater and surface water. The ROD and ESD did not list formal remedial action objectives (RAOs) but identified the following objectives:
+
+- Prevent moisture from contacting SCFs inside the mine;
+- Reduce groundwater contamination through natural attenuation; and
+- Prevent public exposure to contaminants in groundwater and air.
+
+The major components of the remedy as outlined in the ROD and ESD include:
+
+- Engineering controls to prevent exposure to groundwater and ammonia.
+- Relocation of SCFs and continued diversion of intruding mine water/groundwater away from SCFs via pumping with subsequent treatment for ammonia content and discharge to the Rough River.
+- Deed restrictions to prevent accidental exposure to trespassers and prevent future residential well installations.
+- A groundwater and surface water monitoring program to determine the effectiveness of plume containment and contaminant reduction.
+
+The ESD specified performance standards for groundwater. The ESD determined that performance standards are not needed for surface water, other than those associated with the KPDES permit.
+
+**2015 - 2016**  
+The PRP conducted a pilot study from May 2015 to May 2016 to further evaluate the ammonia and chloride levels at the site. As a result of the pilot study, the PRP installed four surface aeration units in the Rough River Basin and to adjust the pH of the basin as needed to meet the Kentucky Pollutant Discharge Elimination System (KPDES) permit requirements.
+
+**2017 - 2018**  
+The PRP completed construction of the sulfuric acid storage building, sodium hydroxide storage building as well as the automated chemical metering and control systems. Control systems remotely manage chemical dosing and adjust the pH of the water in the retention basins to ensure compliance with the KPDES that was updated effective December 1, 2017.
+
+### What Is the Current Site Status?
+
+The [most recent Five-Year Review](https://semspub.epa.gov/work/04/11068663.pdf) was published by EPA HQs in 2017. The remedy at the site currently protects human health and the environment because the site is secured, an environmental covenant restricts land use and prohibits groundwater use, the potential for ground or surface water to react with SCFs has been significantly reduced thus minimizing the generation of ammonia gas, and recovered water is sampled and treated as needed.
+
+Operation and maintenance activities, including groundwater monitoring, are ongoing. The EPA completed the fourth FYR in 2017 and the site remains protective of human health and the environment. Groundwater sampling was conducted January 2017, June 2017, January 2018, June 2018, and June 2019. The next groundwater sampling event is scheduled for June 2020. Routine in-mine inspections occurred in March 2019.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site is secured. An environmental covenant restricts land use and prohibits groundwater use.
+
+### Sampling and Monitoring
+
+Groundwater sampling was conducted January 2017, June 2017, January 2018 June 2018, and June 2019. The next groundwater sampling event is scheduled for June 2020. Routine in-mine inspections occurred in March 2019.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s PRP to investigate and cleanup the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

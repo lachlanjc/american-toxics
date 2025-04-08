@@ -1,2 +1,28 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 19-acre Columbus Old Municipal Landfill #1 site is located in Columbus, Indiana. An unpermitted landfill operated on site from 1938 to 1966. It reportedly accepted municipal and industrial wastes, including solvents, acids, bases, paints and heavy metals. Landfill operations led to soil and groundwater contamination. Following cleanup, EPA is planning to take the site off the Superfund program’s National Priorities List (NPL).
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and PRP actions. EPA is issuing a Notice of Intent to Delete the site from the NPL and requests public comments on this proposed action.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. The remedy is not yet protective in the long term because some institutional controls are not yet in place. EPA is working with the state and the site’s potentially responsible parties (PRPs) to implement the institutional controls.  
+
+### What Is the Current Site Status?
+
+After site investigations, EPA selected a “no-further-action” remedy in 1992. However, because a public road was planned for part of the site, a contingency remedy was put in place. It included fencing, cap maintenance and monitoring, a contingency groundwater recovery system implementation plan, installation of additional groundwater monitoring wells, a groundwater monitoring program, and deed restrictions on land and water use at the site. Construction of the road and these remedies has been completed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Arsenic, Iron, manganese, lead, total organic carbon, and total petroleum hydrocarbons were present in the groundwater at low concentrations.
+
+### Sampling and Monitoring
+
+### Enforcement Information
+
+Administrative Order on Consent for remedial investigation and feasibility study - 9/87  
+Consent Decree for remedial design and remedial action - 4/93

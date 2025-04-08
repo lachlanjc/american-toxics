@@ -1,21 +1,15 @@
-FRIDLEY COMMONS PARK WELL FIELDFRIDLEY, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 50-acre Fridley Commons Park Well Field site is located in Fridley, Minnesota. The City of Fridley’s public water supply comes from 13 wells, eight of which are on site, along with a water treatment plant. The source of the site’s contamination has never been identified. The city regularly monitors well water quality. With contaminant concentrations below cleanup goals (federal maximum contaminant levels, or MCLs), EPA selected a “No Action” remedy for the site in 2005. Groundwater monitoring is ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and state actions. MPCA is the lead regulatory agency, with support provided by EPA.
-Top of Page
-What Is the Current Site Status?
-There was little community interest in the site until 2012 when the Minnesota Department of Health (MDH) reported that cancer rates in Fridley were higher for some cancers than the state-expected rates. The Minnesota Pollution Control Agency (MPCA), MDH, the City of Fridley and EPA have increased activities to inform the public about contamination and exposure from the site.With sampling unable to identify a source of the contamination and contaminant concentrations below health-based levels for an extended period of time, the “No Action” remedy selected by EPA in 2005 recommended that a remedy was not required and that groundwater monitoring continue for at least two years to make sure unacceptable contaminant levels do not return. Recent data show that concentrations remain below the MCL.EPA is currently evaluating the site to determine if it is appropriate to take the site off the Superfund program’s National Priorities List (NPL).
-Top of Page
-Sampling and Monitoring
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. MPCA is the lead regulatory agency, with support provided by EPA.  
+
+### What Is the Current Site Status?
+
+There was little community interest in the site until 2012 when the Minnesota Department of Health (MDH) reported that cancer rates in Fridley were higher for some cancers than the state-expected rates. The Minnesota Pollution Control Agency (MPCA), MDH, the City of Fridley and EPA have increased activities to inform the public about contamination and exposure from the site.
+
+With sampling unable to identify a source of the contamination and contaminant concentrations below health-based levels for an extended period of time, the “No Action” remedy selected by EPA in 2005 recommended that a remedy was not required and that groundwater monitoring continue for at least two years to make sure unacceptable contaminant levels do not return. Recent data show that concentrations remain below the MCL.
+
+EPA is currently evaluating the site to determine if it is appropriate to take the site off the Superfund program’s National Priorities List (NPL).

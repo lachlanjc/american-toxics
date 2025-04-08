@@ -1,23 +1,25 @@
-LIMESTONE ROADCUMBERLAND, MD 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Limestone Road site is located in Cumberland in Allegany County, Maryland and includes two landfills on opposite sides of Limestone Road. During the 1960s through the 1980s, both landfills received commercial, residential, and demolition waste; and waste sludge containing chromium, lead and cadmium. These waste disposal activities contaminated the soil, surface water and groundwater with hazardous chemicals. The site was added to the Superfund program's National Priorities List in September 1983. Construction of the remedy was completed in 1999. Operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site includes two landfills on opposite sides of Limestone Road: a 20-acre former Diggs Sanitation Company property (Diggs) and a 190-acre Cumberland Cement and Supply Company property (CC&SC). In 1986, EPA selected a remedy that included capping of contaminated soils, fencing of the landfill areas of both properties and additional investigations to study groundwater and nearby streams. The remedy also included installation of a public drinking water line to service the residential area potentially impacted by the site. Water line construction began in August 1999 and finished by September 1999. Site inspections conducted by the potentially responsible parties (PRPs) and EPA of the northwest and southeast landfills in 2014 and 2015, revealed erosion of the clay caps and movement of gabions at the toe of each cap. Invasive bushes and trees were also observed on the southeast landfill. In 2015, the PRPs began restoration of the of the landfills, which included removal of invasive plants, stabilization of the gabions, installation of drainage channels to minimize future cap erosion, re-establishment of the upper clay layer and seeding both caps with grass. The landfill restoration work was completed in 2016. 
-Top of Page
-What Is the Current Site Status?
-Operation and maintenance activities are ongoing and consist of inspections of the landfill caps and monitoring of the groundwater. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2021 Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2026. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to restrict groundwater use and protect the integrity of the caps. Additional information about the institutional controls are available in the 2021 Five-Year Review (PDF) (page 8). 
-Top of Page
+### Background
+
+The Limestone Road site is located in Cumberland in Allegany County, Maryland and includes two landfills on opposite sides of Limestone Road. During the 1960s through the 1980s, both landfills received commercial, residential, and demolition waste; and waste sludge containing chromium, lead and cadmium. These waste disposal activities contaminated the soil, surface water and groundwater with hazardous chemicals. The site was added to the Superfund program's National Priorities List in September 1983. Construction of the remedy was completed in 1999. Operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site includes two landfills on opposite sides of Limestone Road: a 20-acre former Diggs Sanitation Company property (Diggs) and a 190-acre Cumberland Cement and Supply Company property (CC&SC).
+
+In 1986, EPA selected a remedy that included capping of contaminated soils, fencing of the landfill areas of both properties and additional investigations to study groundwater and nearby streams. The remedy also included installation of a public drinking water line to service the residential area potentially impacted by the site. Water line construction began in August 1999 and finished by September 1999.
+
+Site inspections conducted by the potentially responsible parties (PRPs) and EPA of the northwest and southeast landfills in 2014 and 2015, revealed erosion of the clay caps and movement of gabions at the toe of each cap. Invasive bushes and trees were also observed on the southeast landfill. In 2015, the PRPs began restoration of the of the landfills, which included removal of invasive plants, stabilization of the gabions, installation of drainage channels to minimize future cap erosion, re-establishment of the upper clay layer and seeding both caps with grass. The landfill restoration work was completed in 2016.
+
+### What Is the Current Site Status?
+
+Operation and maintenance activities are ongoing and consist of inspections of the landfill caps and monitoring of the groundwater.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312290), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2026.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to restrict groundwater use and protect the integrity of the caps. Additional information about the institutional controls are available in the [2021 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312290) (page 8).

@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 6,368-acre Travis Air Force Base site is located in Fairfield, California. Activities at landfills, fire training areas, a radioactive burial site and solvent spill areas contaminated groundwater, soil and Union Creek with volatile organic compounds (VOCs), metals and polycyclic aromatic hydrocarbons (PAHs). This site is being addressed by the Air Force pursuant to a 1990 Federal Facilities Agreement (FFA) with EPA and state regulatory agencies. The Air Force established a Restoration Advisory Board in 1994 to ensure that input from the community is considered in restoration decisions.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term remedy for contaminated soil included excavation and consolidation of contaminated soils and land use and access restrictions. Soil removal and disposal activities identified in the original cleanup plans are completed. Interim remedial actions for contaminated groundwater included pumping and treating groundwater and monitored natural attenuation, which involves letting naturally occurring processes reduce the contamination in groundwater. Since 1996, these treatment approaches have removed over 15,000 pounds of VOCs. The site’s final, long-term groundwater remedy was established in 2014, and optimziation and monitoring of the groundwater remedies are ongoing.
+
+### What Is the Current Site Status?
+
+The majority of soil site cleanups are complete, however additional soil and groundwater contamination was discovered at Site SD031 that requires additional investigation. Implementation, monitoring and optimization for the site’s final groundwater remedies are still ongoing.
+
+Investigation has also been initiated on dozens of new soil and groundwater areas contaminated with per- and poly-fluoroalkyl substances (PFAS).
+
+The Air Force initiated an investigation of the presence of Per- and polyfluoroalkyl substances (PFAS) in 2015, and found results above the EPA's drinking water health advisory. The Air Force expanded the investigation in June 2020 to off-site drinking water supply wells that could potentially be impacted. Based on initial results, some households were provided with drinking water treatment systems. The Air Force has sampled existing monitoring wells, and is currently installing additional monitoring wells, including some off-base wells to determine the current extent of PFAS.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The 4th Five-Year Review in 2018 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. Continued protectiveness of the groundwater remedy required actions to improve capture the off-site groundwater plumes, evaluation of potential vapor intrusion pathways, and evaluation of the extent of per- and poly-fluoroalkyl substances (PFAS). The AF implemented the actions to improve capture of the groundwater plumes and conducted a vapor intrusion investigation. The PFAS remedial investigation to determine the extent of contamination is on-going. The 5th Five-Year Review is in progress. EPA deferred the evaluation of protectiveness until Travis AFB finalizes it's review.
+
+### Green Remediation
+
+The Travis AFB Environmental Restoration Team is a leader in the field of green remediation. They have completed a Self-Declaration using the ASTM International Standard Guide for Greener Cleanups, and won the 2017 Air Force General Thomas D. White Award for Environmental Restoration and 2017 Secretary of Defense Enfvironmental Awards, Environmental Restoration, Installation Category.
+
+[http://www.travis.af.mil/News/Article/1136027/travis-grabs-environmental-award/](http://www.travis.af.mil/News/Article/1136027/travis-grabs-environmental-award/)
+
+[http://www.denix.osd.mil/awards/2017secdef/winners/environmental-restoration-installation/](http://www.denix.osd.mil/awards/2017secdef/winners/environmental-restoration-installation/)
+
+### Emergency Response and Removal
+
+Cleanup at the site also included removal actions, or short-term cleanups. In 1986, the Air Force removed 27 underground storage tanks. Removal actions for lead and PAH contaminated soils at the Old Skeet Range are completed.
+
+In June 2020, the Air Force sampled private drinking water wells off-site for the presence of per- and poly-fluoroalkyl substances (PFAS). Under an emergency response action, t he Air Force started providing bottled water to households who have drinking water supply wells impacted with per- and poly-fluoroalkyl substances (PFAS) above 70 ppt. They completed installation of drinking water treatment systems for impacted residents in early 2021. Please contact enviropa@travis.af.mil for questions regarding this activity.
+
+For more information about PFAS, please visit the [Environmental Protection Agency PFAS Website](https://www.epa.gov/pfas)

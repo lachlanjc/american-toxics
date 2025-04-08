@@ -1,2 +1,48 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+**Current Status**
+
+Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 2009. The latest Five-Year Review was signed final on March 11, 2024 in which it was determined that the remedy remains protective of human health and the environment.
+
+**Site Background**
+
+The 17 acre Central Wood Preserving Site (CWP) is located in an unincorporated area in East Feliciana Parish, Louisiana. The site is approximately 60 miles north of Baton Rouge, Louisiana, and is located near the town of Slaughter, Louisiana. The Site consists of two distinct properties divided by State Highway (SH) 959,. The combined acreage of the North Property (10.03 acres) and South Property (7.05 acres) is approximately 17.08 acres. A creek runs along the east-southeast side of both properties. This creek flows downstream to intersect with Little Sandy Creek approximately 1.5 miles south of SH 959. Wood-treating operations took place on the 10-acre North Property and a saw mill operated on the 7-acre South Property. Operations from the 1950s to 1973 used creosote as the wood preservative. In 1973, use of creosote ended. Wood-treating operations using copper chromated arsenic (CCA) took place until 1991. Following wood-treating operations, lumber was stored on site. Operations and spills of creosote and CCA contaminated soil, sediment and groundwater.
+
+**National Priorities Listing (NPL) History**  
+Proposed Date: 1/19/1999  
+Final Date: 5/10/1999  
+Direct Final Publication Date: 7/20/2009  
+(and start of 30 day comment period)  
+Final Deletion Date: 9/18/2009
+
+**Location:** The 17 acre site is located in an unincorporated area in East Feliciana Parish, Louisiana. The site is near the town of Slaughter, Louisiana. The site is divided by State Hwy 959.
+
+**Population:** The nearby population is sparse; however, a few residents live along the northwest boundary of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+A wood-preserving facility was active on-site from the 1950s to 1991. Contamination at the Site occurred as the result of wood-preserving operations, with a lack of effective containment practices and routine spills of creosote and copper oxide, chromic acid, and arsenic acid. An EPA removal action in 1995 addressed immediate threats. EPA selected the remedy in the Site’s 2001 Record of Decision. The remedy included excavation of surface/near-surface soil/sediment that exceeded remedial goals, thermal desorption of excavated soil/sediment that exceeded land disposal restrictions, disposal of excavated soil/sediment, backfilling, inspection, groundwater monitoring, and institutional controls.
+
+EPA has conducted five Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+East Feliciana Parish (the Parish) currently uses the North Property as a staging area to hold hurricane/storm related debris (tree and limb debris only) and residential brushy debris and cut/downed limbs from residential tree maintenance. The East Feliciana Parish Department of Public Works uses the South Property for materials storage. The area around the Site is predominantly rural and wooded. Two older homes, both occupied, are located within 350 feet of the west property boundary of the Northern Property. These are the remaining two of nine homes that were previously located near the Site; they were originally built to house facility employees. The Site is fenced. Gates are kept locked to prevent illegal or unauthorized disposal of materials on-site.
+
+On March 11, 2024, EPA finalized the Fifth Five Year Review for the Site. LDEQ conducts annual institutional control inspections. The next FYR is planned for completion in March 2029.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The 2001 ROD required institutional controls in the form of easements, covenants running with the land and/or deed notices as appropriate or allowed by law to prevent exposure to contaminants remaining on-site below 5 feet bgs on the North Property; including the drainage pathway located outside the legal boundaries of the property that was originally owned by Central Wood Preserving Company (now East Feliciana Parish). Institutional controls have been implemented on the property to prevent exposure to contamination remaining above levels that allow for UU/UE (areas excavated to 3-5 feet bgs and the area on the North Property that has contamination remaining below 5 feet bgs (Figure 2). On September 30, 2005, in accordance with Louisiana Revised Statute Annals. § 30:2039 (2000) and Louisiana Administrative Code title 33 § 3525 (1999), the East Feliciana Parish Jury filed a conveyance record to notify the public that hazardous subsurface soils remain on the site property and may exceed risk levels.
+
+### Sampling and Monitoring
+
+Monitoring well abandonment began in late February 2004 and finished in March 2004. All monitoring wells (MWs) installed during the RI, with the exception of MW-S2E5. Two former water supply wells on the South Property were plugged and abandoned during site preparation and demolition activities. MW-S2E5 was left in place for future long-term monitoring. The number of new monitoring wells was reduced from eight to one, based on the expectation that two monitoring wells would be sufficient for evaluation of potential migration to groundwater, and based on the limited area of potential groundwater contamination observed during site cleanup. MW-1 was installed in January 2005 to a depth of 65 feet bgs. After one year of groundwater monitoring showing no screening-level exceedances, EPA removed the two remaining monitoring wells (at the request of LDEQ). EPA determined that the limited groundwater contamination is not likely to exceed screening levels and that groundwater monitoring was no longer required.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions in 1995 removed several structures, tank contents, containment basin contents and about 1,250 cubic yards of contaminated soil. Removal actions also sandblasted and backfilled the containment basin with soil.

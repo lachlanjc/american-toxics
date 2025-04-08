@@ -1,2 +1,198 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Stringfellow Superfund site is located about 50 miles east of the City of Los Angeles in Jurupa Valley, California. From 1956 until 1972, the Stringfellow Quarry Company, Inc. operated a hazardous waste facility. More than 34 million gallons of liquid industrial waste were incorrectly stored onsite during this time.
+
+The site’s facility polluted the soil, surface water, and groundwater with different contaminants including the following:
+
+- pesticides, metals, and other chemicals,
+- volatile organic compounds (that give off vapors), and
+- semi-volatile organic compounds (that spread relatively quickly).
+
+The site’s contaminants create health risks at elevated levels. Since 1970, EPA, the State of California, and local government have worked together to clean up the site. This included requiring some responsible companies to pay for part of the cleanup.
+
+In 2002, the State of California Department of Toxic Substances Control (DTSC) became the primary party responsible for the cleanup. EPA supports the cleanup and provides oversight.
+
+**How does the site affect groundwater?**
+
+When the contaminants mix with groundwater, they create a “plume.” A plume is an area or body of contaminated groundwater. EPA and the State have:
+
+- sampled and monitored the groundwater regularly with a system of wells (over 600 wells have been installed),
+- mapped the edges of the contaminated groundwater plume, and
+- defined how much groundwater contamination there is, where it is located, and how it may be moving.
+
+**After defining the edges of the groundwater plume,** **EPA and the** **State continue to:**
+
+- manage a groundwater pump system that has stopped the plume from moving further out,
+- treat water, remove contaminants, dispose of them off-site, and pump the clean water away from the area, and
+- monitor local groundwater regularly to ensure the treatment system remains effective.
+
+**Groundwater treatment is completed at the** **following locations:**
+
+- The Pyrite Canyon Treatment Facility (PCTF), which is currently operating and treating water for pesticides and metals on-site.
+- The Community Wellhead Treatment System (CWTS), which receives groundwater from PCTF and removes perchlorate.
+
+**Groundwater from the site is not used for drinking water**.
+
+Local drinking water is provided by Jurupa Community Services District.
+
+The water quality consistently meets safe drinking water standards.
+
+**The State and EPA continue to work together to:**
+
+- operate and maintain the site,
+- develop additional cleanup options (including a site-wide cleanup decision, and a cleanup plan or “Interim ROD” focusing on the contaminant, perchlorate, in Zone 4), and
+- provide residents with a clear understanding of how all contaminants are being addressed at the site.
+
+*For more information on the site’s cleanup plans, Zones, and perchlorate, please see the sections below.*
+
+### What Has Been Done to Clean Up the Site?
+
+Since 1970, EPA, the State of California, and local government have worked together on the cleanup. The site is in Pyrite Canyon north of California State Route 60 (Pomona Freeway). EPA divided the site into four areas called Zones to focus cleanup efforts according to their location in the canyon and the movement of contamination with water downhill toward and past the freeway. The zones are:
+
+**Zone 1** – Hazardous waste storage area in the uppernorthern part of the canyon
+
+**Zone 2** – Area just downhill in the center of the canyon where contamination starts to concentrate in groundwater
+
+**Zone 3** – Area where groundwater starts moving towards the freeway
+
+**Zone 4** – Lowest part of the groundwater contamination between the freeway and the Santa Ana River
+
+**Site History and Cleanup**
+
+**1956-1972 – Hazardous Waste Storage Began**
+
+- Hazardous waste storage operation
+- As many as 20 waste ponds held about 34 million gallons of liquid industrial waste.
+
+**1969 – Release of Contamination Evaluated**
+
+Due to high levels of rainfall, the waste ponds overflowed and released contaminants into a nearby seasonal creek (Pyrite Creek). In response, the Santa Ana Regional Water Quality Control Board (SARWQCB) did the following:
+
+- instructed the property owner to construct a stormwater management system,
+- sampled groundwater in the area, and
+- determined thatcontamination was leaving the site with groundwater.
+
+**1972 – Facility Closed by the State with actions as follows:**
+
+- removed and disposed of liquid waste. And
+- built or installed stormwater management tools to prevent contamination from leaving the site including:
+	- an underground wall in the lower storage ponds to reduce groundwater movement
+	- a pond cover to stop rainfall from moving through its contamination
+	- groundwater monitoring wells (both onsite and downhill from it).
+
+**1978-1981 – Cleanup Began**
+
+Santa Ana Regional Water Quality Control Board (SARWQCB) removed 6.5 million gallons of contaminated water and additional soils from **Zone 1**. EPA did thefollowing:
+
+- performed initial site inspection,
+- removed ten million gallons of contaminated water, and
+- improved the storm and surface water management system.
+
+**1983** **– Site Added to the Superfund Program**
+
+- The site was added to the Superfund cleanup program’s National Priority List (NPL) as the first site in the Pacific Southwest Region.
+- AA series of legal requirements for the Responsible Parties to clean up the site was issued.
+- Movement of contamination was monitored.
+
+**1983 - Residents Protected from Groundwater**
+
+Due to concerns for public health in the affected groundwater area, the State’s Department of Health and local government:
+
+- installed new drinking water piping,
+- provided a new water supply for residents, and
+- created an area ban on new groundwater wells.
+
+**1983-1984 – Cleanup Planning Performed by EPA**
+
+- Published a temporary cleanup plan called an “Interim Record of Decision” (IROD) for **Zone 1**.
+- Studied the entire site to understand the amount and location of contaminants, and options to clean up the contamination (The reports are called the “ *Remedial Investigation* ” and “ *Feasibility Study* ”).
+- 1984 -Published a second IROD with cleanup plans for **Zones 1 and 2**.
+
+**1985 – Zone 2 Groundwater Pump and Treat System Constructed by EPA**
+
+- Prevented water contamination from continuing to spread (called the “ *groundwater extraction system* ”).
+- Started cleaning or treating groundwater and disposing of contamination offsite (also called **Zone 2’s** “ *On-Site Pretreatment Plan* ”).
+
+**1987-1989 – Cleanup Planning and Actions Completed**
+
+EPA published a third interim cleanup plan (IROD) focused on **Zones 1 and 3**. Then the State, Stringfellow Quarry Company, Inc., and other companies responsible for the contamination did the following:
+
+- reached a legal agreement to perform parts of the cleanup,
+- upgraded the pond’s existing contamination cover.
+- started the long-term cleanup or “ *response action* ” for **Zone 1**, and
+- began construction of **Zone 3** ’s groundwater pump and treat system.
+
+For **Zones 2, 3, and 4,** EPA and the State published cleanup plans that include long-term groundwater pumping and monitoring, also called “ *plume management* ”, and a catchment system to capture any harmful gases from contaminants that may be moving up through the soil, also called “ *soil vapor extraction* ”.
+
+**1990-1995** **– Various Cleanup Actions Completed**
+
+- 1990- EPA published a fourth IROD focused on a cleanup plan for the entire site ( **Zones 1, 2, 3, and 4** ).
+- 1991- The State began operations at **Zone 4** ’s groundwater treatment facility called the Lower Canyon Treatment Facility (LCTF).
+- 1993- EPA published its first review of cleanup actions in its “Five-Year Report” which is required for cleanups that manage contamination in place.
+- 1995- The State completed the construction of **Zone 1’s** groundwater pump system, also called its “ *dewatering system.*
+
+**1998-2001 – Contamination and Cleanup Options Evaluated by State’s Department of Toxic Substances Control's (DTSC)**
+
+- Performed additional evaluation of the contamination in **Zones 1, 2, 3, and 4**.
+- Published an evaluation of cleanup options for **Zones 1, 2, and 3** in their Feasibility Study report.
+- Expanded **Zone 1 and 2’s** groundwater pump and treatment system to capture more volatile organic compound contamination.
+- Found a new contaminant of concern for public health called perchlorate.
+- Started a new evaluation of **Zone 4** contamination focused on perchlorate.
+
+**2002** **–** **2003** **– DTSC Became Responsible for the Cleanup**
+
+- Became the primary responsible party for the cleanup and groundwater monitoring treatment systems,
+- Found perchlorate in **Zone 4** drinking wells,
+- Connected residents to the public water supply to protect their health, and
+- Improved groundwater treatment to include perchlorate removal.
+
+**2009-2010 – Cleanup Planned by DTSC**
+
+- Updated its review of cleanup options for **Zones 1, 2, and 3** in a document called a “ *Supplemental Feasibility Study*.”
+- Completed a full evaluation of perchlorate contamination in its “ *Remedial Investigation Report.*”
+
+**2014** **\-** **2019 – Groundwater Managed by DTSC**
+
+- Constructed and began operating the third groundwater treatment system.
+- Shut down the old Pyrite Canyon Treatment Facility.
+
+**Ongoing**
+
+EPA provides oversight for DTSC’s cleanup including:
+
+- evaluating the cleanup every five years in the site’s Five-Year Reviews reports,
+- ensuring past cleanup or remedies remain protective of human health and the environment, and
+- reviewing the State’s efforts to improve or optimize the groundwater pump and monitoring systems.
+
+DTSC is:
+
+- monitoring, sampling, and analyzing ground and surface water,
+- preparing and publishing technical reports, and
+- developing a site-wide cleanup plan for the entire site.
+
+### What Is the Current Site Status?
+
+For each zone, DTSC and EPA are managing the following cleanup actions to protect human health and the environment. The State (DTSC) continues to pump, treat, and monitor the site groundwater, with EPA oversight, to:
+
+- ensure contamination does not spread,
+- prevent impacts on drinking water supplies or the Santa Ana River; and
+- inform the development of a site-wide cleanup plan that will include ongoing operations and maintenance.
+
+**Zone 1, 2, and 3**
+
+- Site fencing, signage, and security (site perimeter and access controls).
+
+**Zone 1**
+
+- Offsite disposal of impacted soil and waste.
+- Stormwater best management practices for drainage, erosion, and sediment.
+
+**Zone 2, 3, and 4**
+
+- Groundwater pumping and redirection
+- Groundwater cleaning and treatment plant operation
+- Offsite disposal of contamination
+- Stormwater best management practices for drainage, erosion, and sediment
+- Cleanup option evaluations, including treatment options for perchlorate
+
+*For additional information on specific cleanup activities, please see the “What Has Been Done to Clean Up the Site?” section or visit the* [*State's website*](http://dtsc.ca.gov/smrp-projects/stringfellow-acid-pits/).

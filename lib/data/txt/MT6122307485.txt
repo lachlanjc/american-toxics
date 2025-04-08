@@ -1,2 +1,108 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 6,000-acre Barker Hughesville Mining District site is south of Great Falls and about 12 miles east of Monarch.The site spreads across both Judith Basin and Cascade Counties. Miners found rich silver and lead ores in the Barker Hughesville area in 1879. Mining continued through 1893 and again at the beginning of the 20th century through the 1940s.
+
+The site has about 46 known abandoned mines covered with waste rock dumps, tailings and mine openings that water can seep out of and pollute the area. The abandoned mines, soil, sediment, groundwater and surface water are contaminated with:
+
+- arsenic
+- copper
+- zinc
+- cadmium
+- thallium
+- manganese
+- lead
+
+The site is divided into two areas that the EPA defines as operable units (OUs).
+
+**Operable Unit 1** is Galena Creek to Judith Basin County line and contains most of the abandoned mines, discharging adits and associated groundwater, surface water, and soil contamination.
+
+**Operable Unit 2** begins near the Cascade/Judith Basin County line and contains primarily streamside mine waste deposits in lower Galena Creek below Gold Run Creek and Dry Fork Belt Creek and is associated with historic discharges and flood events.
+
+EPA is the lead agency under the Superfund program for site cleanup at OU1 and the U.S. Forest Service is the lead agency for site cleanup at OU2. Both agencies collaborate with Montana Department of Environmental Quality, the lead state agency, and other state and federal agencies.
+
+### What Has Been Done to Clean Up the Site?
+
+There are two main methods for cleanup at this site. In the short term, EPA has completed removal work to address the most immediate threats to human health and the environment. In the long term, the remedial program studies the type and size of contamination and then selects cleanup alternatives.
+
+The initial cleanup plan, as part of the removal program, is described in the [Emergency Response and Removal section](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0801208#Emergency). The remedial program develops a Remedial Investigation/Feasibility Study (RI/FS) and documents cleanup decisions in a Record of Decision (ROD). Both programs allow for public participation at this site.
+
+In fall 2015, a dam (fish barrier) was built on Dry Fork Belt Creek as part of a larger effort to restore native Westslope Cutthroat Trout to the creek. Montana Fish, Wildlife & Parks and U.S. Forest Service helped design and build this fish barrier.
+
+In 2016, EPA finalized the site-wide Remedial Investigation (RI) report that describes the nature and extent of contamination at the site. The report, known as a risk assessment, also discusses the type of threat to human health and the environment (including animals).
+
+- [Final Remedial Investigation Report, Barker Hughesville Mining District Superfund Site (pdf)](http://semspub.epa.gov/src/document/08/1767757) (4,402 pp, 651.9 MB, [About PDF](http://www.epa.gov/home/pdf-files) )
+
+The Doe Run Company (Doe Run) is a mining company that historically mined at the Block P Mine Complex. The U.S. Forest Service and the EPA have placed Doe Run under order to complete cleanup work. To date, Doe Run has addressed over 300,000 cubic yards of mine waste. A summary of those actions follows:
+
+- **Block P Mill waste removal (2004–2005)** – About 100,000 cubic yards of tailings and underlying mine tailings were dug up and combined with existing tailings in an onsite dump(repository). This work was part of a USFS Action Memorandum and a Unilateral Administrative Order between USFS and Doe Run.
+- **Block P Mine waste removal (2010–2012)** – In 2010, work started on a removal action design. This was part of an EPA Action Memorandum and new Administrative Order on Consent between EPA and Doe Run. In 2011 and 2012, approximately 230,000 cubic yards were removed from within and next to the Block P Mine. This was completed, with disposal of that material, in an on-site engineered repository.
+- Doe Run continues to work on controlling the contamination at its source. This is called source control measures. This work has focused on the harm caused by the discharge of contaminated mine water, known as mine impacted water (MIW), from the Block P Mine and Mill Complex. A summary of those measures follows:
+- **Middle Reach Galena Creek Reconstruction (2017)** –In 2017, Doe Run constructed a 1,120-foot-long stream channel. This channel work included:
+	- Installation of a 120 foot long, 6-foot diameter synthetic culvert pipe.
+	- Demolition of pre-existing culverts.
+	- Channel drop structures, cobble stream bed, and bank protection as necessary.
+	- Re-routing of the County Road at the location of the new 120-foot culvert to improve grade, width and surface.
+	- Excavation, investigation and plugging of four primary mine seeps located within the fractured bedrock around Galena Creek.
+- **Block P Mine East Slope Toe/Galena Creek Backfill and Re-contour (2017)** – In 2017, soil that was combined with bentonite was hauled, placed, and compacted at the toe of the east-facing Block P Mine slope. Then, 10,200 cubic yards of clean soil was hauled, placed, and compacted on top.
+- **Closure of Uphill Mine Workings (2018)** – During the summer of 2018, many near-surface underground workings with surface water discharge were dug up and closed using clean dirt and bentonite. These workings were uphill of the former Barker Shaft and 75-foot level adit and were thought to allow movement of surface water run-off into the underground workings.
+- **Block P Mill Repository (2019)** – Doe Run finished reconstruction of a stormwater/seasonal run-off drainage way at the Block P Mill Repository to convey clean water away from the dump.
+
+### What Is the Current Site Status?
+
+EPA’s contractors will be conducting various investigations through 2025 to address data gaps found in the 2016 Remedial Investigation report. This includes:
+
+- Sampling existing surface water and groundwater well monitoring points.
+- Digging test pits and installing monitoring wells at potential borrow areas and repository locations.
+- Evaluating Galena Creek drainages for mine waste.
+- Digging test pits, collecting soil samples, and installing monitoring wells along Galena Creek.
+- Collecting soil samples from residential properties.
+- Collecting background soil and stream water samples from areas above the mining impacted areas.
+- Sampling roads and ATV trails
+
+Once the data has been collected and evaluated, cleanup alternatives will be developed to address the contaminated soil and water. The data collected will be presented in a feasibility study report. EPA plans on publishing the feasibility study (FS) for Operable Unit 1 in 2026. The feasibility study considers various cleanup alternatives of mine waste and mine influenced waters that have the potential to impact human health and the environment in the upper and middle reaches of Galena Creek.
+
+After OU1 Feasibility Study, EPA will share the proposed cleanup plan, request public comments, respond to comments and select the cleanup plan. The cleanup plan will include a final long-term remedy known as a Record of Decision or ROD for the upper and middle portions of Galena Creek. EPA also plans to issue the proposed plan and ROD in 2026. The agencies will then focus on designing a cleanup plan for the mine waste in the upper and middle portions of Galena Creek.
+
+Additionally, the U.S. Forest Service plans to issue an Engineering Evaluation/Cost Analysis (EE/CA) for OU2 in 2026. The EE/CA also looks at various cleanup alternatives of mine waste and is focused on the mine water that resides in the floodplain of lower Galena Creek and Dry Fork Belt Creek. The EE/CA is a more expedited process under the Superfund program. The U.S. Forest Service plans to issue an Action Memorandum in 2026 which lays out their cleanup plan. They anticipate cleanup work will begin in the floodplain shortly after issuing the Action Memorandum.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls for Operable Unit 1 (Galena Creek) are being developed in the feasibility study. Institutional controls are non-physical controls (ex. legal or educational) which help ensure the remedy continues to protect human health and the environment.
+
+### Sampling and Monitoring
+
+Learn more about EPA’s 2024 field activities below or in the [Fact Sheet on 2024 Field Investigation (pdf)](https://semspub.epa.gov/work/08/100015035.pdf) (2 pp, 616 KB, About PDF)
+
+OU1 Activities in 2024 included:
+
+- Sampling existing wells and monitoring points.
+- Digging test pits at potential borrow areas and repository sites.
+- Evaluating Galena Creek drainages for mine waste.
+- Collecting surface water and sediment from select locations along Galena Creek and its tributaries.
+- Collecting background soil and stream water samples from areas above the mining impacted areas.
+- Sampling roads and ATV trails.
+
+OU2 Activities in 2024 included:
+
+- Digging test pits and installing monitoring wells at potential borrow areas and repository sites.
+- Digging test pits and collecting soil samples in streamside tailings deposits and dispersed camping sites.
+
+EPA will continue to sample groundwater, surface water, soil and sediment in OU1 and OU2 in 2025.
+
+### Emergency Response and Removal
+
+In 2004 through 2005, Doe Run combined and capped mill tailings at a part of the mining district known as the Block P Mill Tailings. About 100,000 cubic yards of tailings and mine tailings underground were dug up and combined with other tailings in an onsite dump.
+
+Beginning in July 2011, Doe Run removed about 235,000 cubic yards of waste rock from the Block P Mine waste dump. Work for the removal action finished in the fall of 2012.
+
+Documents supporting the removal actions conducted at this site are available online for public review:
+
+- [Barker Hughesville Publicly Available Documents »](https://semspub.epa.gov/src/collection/08/SC33013)
+
+### Enforcement Information
+
+In 2008, EPA and Doe Run Resources (Doe Run), a potentially responsible party, signed a legal agreement called an [Administrative Order on Consent (AOC) (pdf)](https://semspub.epa.gov/src/document/08/1137144) (36 pp, 2.6 MB, [About PDF](http://www.epa.gov/home/pdf-files) ). This order required Doe Run to investigate the Block P Mine Complex and to complete an [Engineering Evaluation Cost Analysis](https://semspub.epa.gov/src/document/08/1137144) [(pdf)](https://semspub.epa.gov/src/document/08/1137144) (36pp, 2.6MB). The EPA and Doe Run signed another [AOC in 2010 (pdf)](https://semspub.epa.gov/src/document/08/1201476) (90 pp, 6.2 MB, [About pdf](http://www.epa.gov/home/pdf-files) ) for cleanup of the Block P Mine Complex supervised by the EPA and MDEQ. The AOC required Doe Run’s contractors to dig up and combine contaminated mine wastes into a dump located on Doe Run property.

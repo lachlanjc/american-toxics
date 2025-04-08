@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The one-acre Peerless Plating Co. site is located in Muskegon, Michigan. Electroplating operations took place at the plant from 1937 to 1983. Wastewater disposal operations contaminated soil and groundwater with hazardous chemicals. The site owner abandoned the plant in 1983, and plating solutions, raw materials and drummed waste remained throughout the facility. Additionally, hydrocyanic acid gas in the plant’s atmosphere created a public health threat. Following cleanup, operation and maintenance activities are ongoing. The State of Michigan took over operation and maintainace of the pump and treat system in September 2013. USEPA is currently implementing an enhancement to this system via an insitu treatment and barrior wall construction. This should help improve cleanup of the contaminated soil and groundwater that remain on site following remediation activities.  
+
+### What Has Been Done to Clean Up the Site?
+
+EPA injected additives into groundwater at the from 2014 through 2016 to help remove contaminants, and Michigan EGLE has been performing routine groundwater monitoring to assess the effectiveness of the injections. Since the beginning of injection and monitoring, the operation of the groundwater extraction system has been discontinued. Monitoring of groundwater quality has shown a positive benefit from the injections. Michigan is currently responsible for operation and maintenance at the site including groundwater sampling and any additional remedial activities. Michigan has identified the potential for PFAS compounds to be present at the site and plans to collect additional groundwater samples to confirm the amount of PFAS that may be present in site groundwater.
+
+### What Is the Current Site Status?
+
+In 2016, EPA completed the injections and installation of a permeable reactive barrier at the site. After this work was completed, Michigan EGLE assumed responsibility for continued monitoring and remediation at the site. Michigan EGLE is developing a conceptual site model (CSM) for the site that will illustrate and explain the distribution and sources of contamination at the site. The CSM will be used to guide future sampling and remediation activities at the site. Additional action is needed at the site to address the contamination that remains in groundwater.
+
+### Sampling and Monitoring
+
+Michigan EGLE continues collecting groundwater samples at the site twice a year. In 2019, Michigan EGLE sampled selected monitoring wells for PFAS. PFAS was detected at concentrations below 100 parts per trillion. Groundwater samples are routinely analyzed for cadmium, chromium, and cyanide.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to protect human health and the environment. From 1983 to 1990, EPA completed emergency response actions to remove and dispose of hazardous waste materials on site.

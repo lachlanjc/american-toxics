@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Circle Court Ground Water Plume Site is a contaminated groundwater plume in the Paluxy aquifer in Willow Park and Hudson Oaks, Texas. The Site boundaries are not fully defined since the entire nature and extent of contamination has not been fully delineated. Sampling data from private water wells indicates an area at least a half-mile in length. Investigations determined the source of groundwater contamination. The sitewide Remedial Investigation and Feasibility Study (RI/FS) is ongoing.
+
+As of Fall 2024 EPA is pursuing the implementation of the interim Remedy, horizontal SVE wells to teat the source of the plume. The remedial design for the wells wascompleted in September 2024.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site is being addressed through federal and state actions.
+
+The City of Willow Park and the City of Hudson Oaks supply water to most homes near the site, except for some homes in the area of Russell Road. A City of Willow Park pump station first detected groundwater contamination in a public water supply well in 2006. The City of Willow Park installed granular activated carbon filters on the impacted well and put the well back in service.
+
+The TCE contamination is present south of Interstate 20 along a half-mile section of Russell Road. The highest concentration is present at Circle Drive and Russell Road. The plume boundary is estimated by the detection of TCE in water samples collected from private and public water supply wells. The groundwater samples are from the shallow aquifer at about a depth of 100 to 250 feet deep.
+
+The 2010 sampling events by the Texas Commission on Environmental Quality (TCEQ) found contamination in seven wells. Three wells used for drinking water had contamination exceeding the federal standards for drinking water.
+
+The City of Willow Park and the City of Hudson Oaks supply water to most homes near the site, except for some homes in the area of Russell Road. A City of Willow Park pump station first detected groundwater contamination in a public water supply well in 2006. The City of Willow Park installed granular activated carbon filters on the impacted well and put the well back in service.
+
+The TCE contamination is present south of Interstate 20 along a half-mile section of Russell Road. The highest concentration is present at Circle Drive and Russell Road. The plume boundary is estimated by the detection of TCE in water samples collected from private and public water supply wells. The groundwater samples are from the shallow aquifer at about a depth of 100 to 250 feet deep.
+
+The 2010 sampling events by the Texas Commission on Environmental Quality (TCEQ) found contamination in seven wells. Three wells used for drinking water had contamination exceeding the federal standards for drinking water.
+
+### What Is the Current Site Status?
+
+During investigations, a drum labeled with trichloroethene (TCE) as a product and still containing residual concentrations of TCE was located near a private water supply well containing the highest amounts of contamination. Initial field activities finished in 2012. They included logging of selected private water supply wells and collection of passive soil gas data around the site of the TCE drum. The passive soil gas data did not identify a spill or disposal of TCE on the property surrounding the drum location. The logging provided information on the Paluxy aquifer and possible pathways for the migration of contamination in groundwater. All of the residences with private wells that have TCE concentrations exceeding the drinking water standard have been connected to the public water supply system or have installed and maintained their own filtration systems.
+
+Following completion of the RI/FS, EPA will select a long-term remedy for the site. As of Fall 2024 EPA has completed the engineering design to treat the Cource of the plume via horizontal wells.
+
+### Sampling and Monitoring
+
+Intermittent groundwater sampling has occurred in 2023 and 2024 to confirm Site characteristics.

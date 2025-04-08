@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Ionia City Landfill is a closed 20-acre landfill in the city of Ionia, Ionia County, Michigan. The site is in the flood plain of the Grand Rive. The landfill operated from the mid-1930s until it closed in the late 1960s. During operation residential waste and industrial wastes, including drummed liquids and solids were dumped and burned at the site. In 1981, the Michigan Department of Natural Resources confirmed the presence of volatile organic compounds (VOCs) in groundwater. Samples of the wastes in the drums revealed the presence of paint wastes and used solvents. The Remedial Investigation, completed in 1989, identified a one-quarter-acre area in the northern portion of the site containing pproximately 6,000 cubic yards of drummed wastes and contaminated soils.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983, EPA listed Ionia City Landfill on the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term cleanup and federal funding under the Superfund law.
+
+In 1985, exposed drums were excavated and removed from the site. The site was fenced, and a clay cap was installed over contaminated soil. The responsible parties entered into a legal agreement with EPA in January 1986 to investigate the nature and extent of contamination at the site. In 1989, EPA issued a Record of Decision (ROD) which outlined the cleanup plan to address soil contamination. EPA issued a second ROD in 2000 to address groundwater contamination at the site.  
+  
+[Record of Decision (Rod) (Signed) - Ionia City Landfill (PDF)](https://semspub.epa.gov/src/document/05/155688) (86 pp, 3.47 MB)
+
+[Record of Decision (Rod) (Signed) - Ionia City Landfill (PDF)](https://semspub.epa.gov/src/document/05/140185) (221 pp, 9.9 MB)
+
+The site’s long-term remedy included capping, institutional controls, and a groundwater pump–and-treat system that operated until groundwater contamination dropped to levels that could be addressed through monitored natural attenuation, or MNA. MNA is used as a cleanup remedy when the source of contamination has been removed or contained, and only low concentrations of contaminants remain in the groundwater. Natural attenuation relies on natural processes such as evaporation or dilution to decrease or “attenuate” the remaining contaminants in the groundwater. Construction of the groundwater pump-and-treat system finished in 1997. The system shut down in 2008. Operation and maintenance activities are ongoing.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+The most recent five-year review was completed in 2020. The review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+The most recent review in 2020 concluded that remedy selected by EPA continues to be protective of human health and the environment.  
+  
+[Fourth Five-Year Review Report (Signed) - 2020 (PDF)](https://semspub.epa.gov/src/document/05/958920) (78 pp, 9.54MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Contaminants detected included methylene chloride, 1,1,1-trichloroethane, trichloroethene, toluene, styrene, and lead. A plume of contaminated groundwater, containing high concentrations of vinyl chloride, methylene chloride, cis-1,2-dichloroethene, trichloroethene, and other VOCs, has been defined in the vicinity of the drum disposal area. Contaminated groundwater containing lower levels of VOCs extends to the Grand River which is located immediately south of the site and approximately one-third-mile from the area of buried drums. Analyses of surface water and sediment samples from the Grand River have shown no contamination; however, VOC contamination has been detected in a small intermittent stream that abuts the eastern boundary of the site. No drinking water supplies are impacted or threatened by groundwater contamination at the site.
+
+### Sampling and Monitoring
+
+The responsible parties conduct groundwater sampling at the site every 5 years and inspect the general condition of the Site on a quarterly basis, including the landfill cap, fence, and monitoring wells. These activities are documented in annual reports.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1984 disposed of exposed drums. Removal actions between 1994 and 1998 disposed of 7,000 cubic yards of bulk waste, drums and contaminated soil and put in the site’s groundwater pump-and-treat system.

@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 70-acre Charles George Reclamation Trust Landfill in Tyngsborough, Massachusetts, started as a small municipal dump, then expanded to accept household and industrial wastes, chemicals containing volatile organic compounds and metal sludge. The state ordered the site closed in 1983. EPA provided a pipeline supplying residents affected by contaminated groundwater with a permanent alternative water supply. EPA has capped the landfill and is collecting leachate and contaminated groundwater to eliminate immediate potential risks.
+
+### What Has Been Done to Clean Up the Site?
+
+The site has been addressed through federal actions. EPA has addressed site risks by extending the City of Lowell’s water supply system to the Cannongate Condominium complex. In addition, 24 residential well water users along Dunstable Road to Cannongate Road, and Cannongate Road, were included in the waterline extension. EPA also provided a cap for the site consisting of a synthetic membrane and soil cover, a surface water management system, a passive landfill gas venting system, and a leachate collection system.
+
+### What Is the Current Site Status?
+
+The Site’s [long-term remedy](https://semspub.epa.gov/src/document/01/14779) included providing a permanent alternative water supply for areas affected by the contaminated groundwater plume,controlling the source of contamination and the migration of contaminants by capping the landfill and collecting leachate, contaminated groundwater, and landfill gas. The landfill cap, landfill gas collection/destruction system, and groundwater/leachate collection system are now being operated by the Massachusetts Department of Environmental Protection.
+
+This section of Tyngsborough has experienced an increase in residential development in recent years. In addition, a large industrial park has been built on the northern border of the site. Drinking water in the area is supplied by a water main installed during EPA’s early work at the Site, water main extensions constructed by others, and private residential water supply wells. The public water supply is available to the area impacted by the Site, although some residents in the vicinity have chosen to retain private water supply wells. EPA has advised the Board of Health to notify EPA if a property owner in the vicinity applies to install a private water supply well. The public water supply main is connected to the Lowell Regional Water Utility, which gets its water from the Merrimack River.
+
+The installation of a 3.56 MW solar photovoltaic facility on the landfill was completed in 2017. The construction was done with EPA oversite and approval to ensure the remedy remains protective.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict the use of the site. These ICs are required to help ensure the site is used appropriately and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The information below is a general summary of the restrictions at this site at this time and may change in the future. The information below is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment, and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
+
+Click here for IC [Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100464&doc=Y&colid=32979).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits, and easements. ICs are normally used when waste is left on-site and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain on-site (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
+
+### Sampling and Monitoring
+
+The Massachusetts Department of Environmental Protection conducts annual groundwater monitoring at the site. EPA conducts a review of the site remedy every five years (a Five-Year Review) to ensure that the remedy remains protective of human health and the environment, with the last one being conducted in 2015.

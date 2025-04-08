@@ -1,2 +1,66 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Sangamo Electric Dump/Crab Orchard National Wildlife Refuge (the Refuge) is located five miles west of Marion in Williamson County, Illinois. The Refuge includes about 43,500 acres of land. The area is a wildlife refuge and is also in use for recreation, agriculture and industrial purposes. Prior to and during World War II, the U.S. Army and several contractors leased parts of the Refuge from the Department of Defense (DoD) to make bombs, land mines and other explosives as well as metal fabrication, plating, printing inks and electrical components. Several of these industries reportedly landfilled wastes from their manufacturing activities nearby, contaminating soil and groundwater with hazardous chemicals. Areas of the site are in various phases of cleanup: investigation, remediation and long-term monitoring.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions. The U.S. Army is the lead agency for the Explosives/Munitions Manufacturing Areas. The U.S. Department of the Interior/Fish and Wildlife Service is the lead agency for all other areas.
+
+General Dynamics Ordnance and Tactical Systems, Inc. (GDOTS) is currently conducting a remedial investigation and feasibility study of all suspected areas within the Additional and Uncharacterized Sites Operable Unit.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most fourth Five-Year Review Report (signed in 2010) and the most recent five-year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The site’s next five-year review began on June 30, 2020 and is in progress.
+
+### What Is the Current Site Status?
+
+EPA selected the site’s final remedies in several Records of Decision (RODs). The first ROD, in March 1990, addressed three areas at the Refuge. The remedy included the excavation, treatment and on-site disposal of soils and sediments contaminated with lead, cadmium and chromium. About 12,800 cubic yards out of 36,000 cubic yards of contaminated soils excavated needed treatment by solidification/stabilization prior to disposal in an on-site landfill.
+
+The second ROD, in August 1990, addressed four areas at the Refuge. The remedy included the excavation and incineration of soils and sediments contaminated with polychlorinated biphenyls (PCBs). The remedy also included the excavation, treatment and on-site disposal of soils and sediments contaminated with lead and cadmium. About 117,145 tons of PCB-contaminated soils were incinerated in an on-site mobile incinerator. Soil and sediments with low levels of PCB contamination were consolidated and backfilled in an on-site repository. Lead- and cadmium-contaminated soil was rendered non-hazardous and disposed of in an on-site landfill.
+
+In June 2000, EPA signed an Explanation of significant Differences (ESD) to address groundwater contamination at Sites 32/33 of the PCB OU. The ESD selected multi-phase extraction of chlorinated solvent contaminated groundwater, with limited phytoremediation and monitored remediation.
+
+In April 2006, EPA signed a ROD Amendment to the August 1990 ROD for the PCB OU to address two groundwater contaminant plumes. This amendment required the excavation of TCE-contaminated soil, groundwater extraction and treatment, and phytoremediation for one of the plumes selecting the excavation of TCE-contaminated soil, groundwater extraction and treatment, and phytoremediation as the remedy for one of the plumes. For the second plume, EPA selected monitored natural attenuation and phytoremediation. Cleanup activities were completed in 2010.
+
+In August 2014, EPA signed a second Amendment to the August 1990 ROD for the PCB OU to address groundwater contamination for a third plume. This amendment chose Short-Term Soil Mixing with zero Valent Iron as an interim remedy to address groundwater the contamination.
+
+The third ROD, in February 1997, addressed cleanup of two of the 15 sites in the Explosives/Munitions Manufacturing Areas Operable Unit (EMMA OU). Cleanup was completed in September 2001. Work included the excavation and off-site disposal of contaminated soils. Cleanup efforts also removed unexploded ordnance (UXO) from several areas. This work was completed in November 2000. No cleanup action was necessary at the remaining 13 sites within the EMMA OU.
+
+The fourth ROD, signed in October 2001, addressed cleanup of Site 14. It included soil excavation, removal and off-site disposal of soil. Cleanup was completed in September 2007. The fifth ROD, signed in September 2002, addressed cleanup of Site 36. Cleanup was completed in September 2006.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+#### Contaminants of Concern by Operable Unit
+
+##### Metals Areas Operable Unit
+
+Contaminants in soil and sediment - cadmium, and chromium.
+
+##### PCB Operable Unit
+
+Soil and sediment contamination - PCBs, lead, and cadmium; Contaminants in groundwater - TCE and other chlorinated solvents
+
+##### EMMA Operable Unit
+
+Soil contamination - nitroaromatic compounds, RDX, HMX, ordnance and explosives, and lead.
+
+##### Miscellaneous Areas Operable Unit
+
+- Site 14: Soil and groundwater contamination - Benzene, toluene, ethylbenzene, xylene, and methylene chloride.
+- Site 36: Soil contamination - Cadmium, chromium, PCBs, and dioxin; groundwater contamination - antimony and thallium.
+
+##### Water Towers Operable Unit
+
+Soil contamination - Lead
+
+##### AUS Operable Unit:
+
+Soil contamination - Arsenic, cobalt, polyaromatic hydrocarbons, volatile organic compounds; groundwater contamination - TCE and other chlorinated solvents.
+
+### Emergency Response and Removal
+
+Prior to the site’s long-term remedies, cleanup also included immediate actions to protect human health and the environment. Surface debris and surrounding soil at three water towers and the Crab Orchard National Wildlife Refuge Visitors' Center were contaminated with elevated levels of lead. Early action to remove 2,200 cubic yards of lead-contaminated soil took place in May 1993.
+
+In April 2018, and Action Memorandum documenting the selection of a non-time critical removal action (NTCRA) for the Area 7 Pesticides Area was issued. The selected NTCRA will abate regulated asbestos-containing materials from four contaminated warehouses; control pesticide dust in and on those warehouses with stabilizing foam; demolish the four warehouses, including slabs; dispose of demolition debris and materials inside the warehouses in an approved landfill; excavate pesticides-contaminated soil and dispose of those sol sin an approved landfill; restore the site, including revegetation with native plantings; and if necessary, upon completion of the remedy, the U.S. Fish and Wildlife Service will implement Institutional Controls. It is expected that the selected NTCRA will be initiated in spring 2024.

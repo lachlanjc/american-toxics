@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The former JASCO Chemical Corporation repackaged and formulated chemical products from 1976 until 1995 on two acres of land in Mountain View, Calif. The company’s waste disposal practices and leaks from underground storage tanks contaminated the site’s soil and groundwater. In addition, some chemicals (known as volatile organic compounds or VOCs) formed vapors in the soil. Contaminated soil was removed and groundwater was treated to remove the VOCs.
+
+Though JASCO’s cleanup goals were met, one volatile organic compound, perchloroethylene (PCE), remains in groundwater. PCE was determined to be from an unknown source, not JASCO. Further, a study by EPA found the PCE presents no human health risk for future redevelopment at the JASCO site. Because EPA can only clean up contamination from the JASCO Superfund site, EPA referred addressing the PCE to the State of California’s Regional Water Quality Control Board (RWQCB). An environmental deed restriction on the property requires the RWQCB and EPA to oversee the site’s future re-use and to ensure soil or groundwater is managed according to a soil management plan that prevents any human exposure to the chemical.
+
+EPA found no further action is required at the Jasco site to protect human health or the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+By removing contaminated soil, operating a groundwater extraction system and using a soil vapor extraction system, the potential for human exposure to site contaminants bygroundwater and soil contact or ingestion pathways was reduced. Sampling results showed that all cleanup goals were met. As such, EPA shut off the site’s groundwater treatment system in 2002. EPA ensured the site met all cleanup goals by taking confirmation samples of soil and continuing to monitor groundwater until 2010.
+
+EPA completed a Five-Year Review of the site’s cleanup plan, or “remedy” in 2007 and 2012. Both reviews found the remedy was working as intended and that it continued to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The Jasco site cleanup process has ended; all cleanup standards for soil and groundwater have been met. It is removed from the Superfund program and deleted from the National Priorities List, or "Superfund list."
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Although site-related groundwater and soil contamination has been cleaned up, perchloroethylene (PCE) has been detected in groundwater. The PCE was determined to be from an unknown off-site property source, not the Jasco site. A risk assessment study concluded that there is no human health risk for future redevelopment at the Jasco site from the PCE plume. EPA referred this issue to the State of California, Regional Water Quality Control Board (RWQCB) to oversee any future use of the site. On March, 29, 2010, the RWQCB lodged a Covenant and Environmental Restriction on Property to protect against exposure to a PCE plume. The covenant specifies that construction activities are subject to review and approval by the RWQCB and EPA. Residual contaminated soil or groundwater must be managed in accordance with a soil management plan during site redevelopment. Currently, the RWQCB is overseeing the implementation of a Soil Management Plan for construction at the site.
+
+For questions about ongoing site redevelopment, contact the RWQCB via its website at: http://geotracker.waterboards.ca.gov/search.asp. The unique case number for this site is 43S280119. Entering this number in the “Advanced Search” mode will retrieve the site database. Click on “Report” and then click on the “Site Maps/Documents.”
+
+The RWQCB caseworker, Ron Goloubow is available at (510) 622-2442 or email: ron.goloubow@waterboards.ca.gov.
+
+### Emergency Response and Removal
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. All cleanup standards for soil and groundwater have been achieved.

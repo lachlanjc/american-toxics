@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 7.5-acre Whittaker Corp. site is located in Minneapolis, Minnesota. During World War II, motor vehicle supplies such as anti-freeze were manufactured at the site. Later operations at the site included manufacture of industrial coatings.. A large volume of chemicals were stored in above-ground and underground tanks. Operations and waste disposal practices contaminated soil and groundwater with hazardous chemicals. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was cleaned up through State of Minnesota actions. Under the oversight of the Minnesota Pollution Control Agency, the Whittaker Corporation, a potentially responsible party, removed waste drums and tanks, and treated and disposed of contaminated soil, ending in 1997. They also pumped and treated groundwater from 1985 to 1994. EPA and the Minnesota Pollution Control Agency (MPCA) have conducted two five-year review of the site’s remedy during the 1990’s. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site were in accordance with the remedy selected and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy required additional groundwater monitoring. In 1998 report showed that groundwater at the site no longer presented a risk. EPA deleted the site from the NPL in 1999.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included disposal of soil, drums and tanks, and operation of a groundwater extraction and treatment system. Drum removals and soil treatment took place between 1983 and 1985. The groundwater extraction system operated until 1994. EPA took the site off the NPL in 1999.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater and soil were found to be contaminated with heavy metals, including cadmium and lead as well as volatile organic compounds (VOCs).

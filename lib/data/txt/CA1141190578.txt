@@ -1,2 +1,66 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Klau/Buena Vista Mines (KBVM) Superfund site is in San Luis Obispo County, California, about 12 miles west of Paso Robles. The site consists of two abandoned mercury mines (Klau Mine and Buena Vista Mine) located on neighboring properties on a ridge of the Santa Lucia Range in the California coastal mountains.
+
+Mercury mining and ore processing operations took place at the mines between 1868 and 1970. Buena Vista Mines, Inc. owned the Buena Vista Mine since at least 1957 and the Klau Mine since at least 1964. The US Department of Justice determined Buena Vista Mines, Inc. and its owners, Harold Biaggini and Edward Biaggini to be responsible for the contamination found at the site. EPA reached a legal settlement with the responsible parties in 2002.
+
+Mercury and other mine waste pollutants (including thallium, iron, cobalt and arsenic) impacted soils across the site and entered nearby streams, mostly during large storm events. The KBVM site sits between two tributaries of Las Tablas Creek. Polluted water enters these tributaries, travels downstream in Las Tablas Creek for approximately 7 miles and flows into Lake Nacimiento. As waterflows downstream, some of the pollution deposits in the Las Tablas Creek watershed in areas where water slows and pools. For example, a significant amount of pollution accumulated in Las Tablas Creek Ranch Reservoir, just above Lake Nacimiento. The Las Tablas Dam, which is at risk due to its design and construction, contains the small reservoir.
+
+Even though KBVM mercury pollution enters Lake Nacimiento, the waters in the lake are still safe to swim and recreate in. The lake’s water quality remains better than the federal and state drinking water standards for mercury. The mercury does not dissolve into the water. Instead, the mercury binds to sediments in the bottom of the lake. Then bacteria and algae at the bottom of the lake absorb the mercury and are consumed by fish. As a result, mercury pollution concentrates in the fish throughout the lake.
+
+The California Office of Environmental Health Hazard Assessment (OEHHA), issued a health advisory for Lake Nacimiento based on mercury contamination in edible fish tissue collected from the lake. This Fish Advisory is available here:
+
+[oehha.ca.gov/advisories/lake-nacimiento](http://oehha.ca.gov/advisories/lake-nacimiento)
+
+OEHHA is the agency responsible for evaluating public health impacts from chemical contamination of sport fish, and issuing advisories, when needed.
+
+First, EPA cleaned up highly contaminated waste onsite to protect human health and the environment. Now, site investigations and long-term cleanup planning are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA has completed multiple emergency actions, under the Comprehensive Environmental Response, Compensation and Liability Act, at the Klau and Buena Vista Mines Site. Short-term removal work involved immediate threats to human health and the environment. EPA focused on reducing the discharge of acid mine drainage (AMD) or polluted mine water into Las Tablas Creek.
+
+There were five emergency actions between 2000 and 2011 that were meant to:
+
+- Consolidate, cap, and stabilize mine waste,
+	- In 2000, EPA removed 120,000 cubic yards of polluted materials from the channel that drained into Las Tablas Creek. The polluted materials were secured onsite.
+- Remove remnant mine structures,
+	- In 2002, EPA stabilized more mine waste site. In 2006, EPA removed the mercury processing building (retort) and some soils highly polluted with mercury.
+- Reduce contact between mine waste by capturing stormwater,
+- Reduce erosion of mercury rich material,
+- Minimize public access to the mine site
+
+Contaminated materials stored on site are temporarily capped and will be addressed in the site’s long-term cleanup.
+
+The site is currently in the Remedial Investigation and Feasibility Study phases. During these phases the site contamination is investigated, clean up options are developed, and alternatives are compared.
+
+### What Is the Current Site Status?
+
+**Mine Sites**  
+In October 2012, EPA evaluated the mercury in the soil and water at the mine sites.
+
+EPA completed a Feasibility Study in January 2014 to evaluate different cleanup options for the mercury polluted soil and water. The results had gaps in the data because of intense storm water events and therefore the study was inconclusive and could not be used.
+
+As a result, EPA completed a two-year study to evaluate how storm water events affect the site’s contamination. It also tested different treatment technologies to decontaminate the water leaving the mine site. Unfortunately, due to complications related to the severe drought during that time period, the findings of this study were also inconclusive and could not be used.
+
+Specifically, the study was not successful in providing data as to whether a bioreactor could successfully decontaminate water onsite to reduce levels of mercury to meet regulatory standards. A bioreactor treatment is a water treatment technology that uses biological material (including activated sludge – essentially compost and specific bacteria) as a filter to clean water of pollutants.
+
+EPA is continuing to study site-related pollution. There must be more data acquired and studies completed before a site-wide remedy can be selected.
+
+**Las Tablas Watershed and Lake Nacimiento**
+
+EPA completed an investigation of pollution for the portion of the site that includes Las Tablas Creek. EPA is in the process of evaluating clean-up options for the creek and will publish its findings in a Feasibility Study.
+
+At Lake Nacimiento, EPA has collected surface water, sediment, fish tissue and bird tissue data to determine the impact of the site’s mercury pollution on the lake’s ecosystem.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+EPA encourages the public to follow state and local authorities fish consumption guidance. The guidance warns fishers about eating mercury-contaminated fish and recommends that the public, especially children and women who may become pregnant, limit how much fish of certain species they eat from Lake Nacimiento.
+
+### Emergency Response and Removal
+
+Short-term removal work involved site stabilization, which reduced the discharge of acid mine drainage (AMD) and discharge into Las Tablas Creek. In 2000, EPA removed 120,000 cubic yards of contaminated materials from the drainage channel and secured it in an on-site repository to prevent immediate threats to human health and the environment. In 2002, EPA stabilized a sinkhole on site and also stabilized a slope failure on site. In 2006, EPA removed the mercury processing building (retort) and some mercury-laden soils. Contaminated materials stored on site are temporarily capped and will be addressed in the site’s long-term cleanup.

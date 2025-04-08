@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Gabriel Valley (Area 1) site is a 11-square-mile area of contaminated groundwater in Los Angeles, California. It is one of four Superfund sites in the 170-square-mile San Gabriel Valley. Multiple potentially responsible parties (PRPs) contaminated over 30 square miles of groundwater under the Valley with volatile organic compounds (VOCs) and industrial solvents. About 400 facilities in the greater San Gabriel Valley region have soil contamination. Cleanup, operation and maintenance activities, and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and local actions.
+
+EPA conducted two five-year reviews for Area 1 which includes the El Monte, Whittier Narrows and South El Monte OU’s interim remedies. These reviews ensure that the interim remedies put in place protect public health and the environment, and are functioning as intended by site decision documents. The most recent review concluded that response actions for the Whittier Narrows adn South El Monte OUs for groundwater are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires evaluation of the monitoring well and pumping well programs. However, modifications to the El Monte OU westside shallow groudnwater remedy is ncessary to prevent further migration of contaminants in groundwater.
+
+For the vapor intrusion pathway in Area 1, the five-year review concluded that EPA could not make a protectiveness determination until it performed further assessment. EPA is working to characterize the site for vapor intrusion for both the El Monte adn South El Monte OUs and will address the findings in future decision documents.
+
+EPA conducted one five-year review of the remedies at the Richwood and Suburban OUs. Both of these remedies were found to continue to be protective, and work at these OUs is complete.
+
+EPA oversees the operation of four treatment plants that contain and treat contaminated groundwater in the El Monte OU. The shallow groundwater contamination is treated to remove contamination and treated water is reinjected to groundwater for the Eastside remedy or discharged to Eaton Wash under permit for the Westside remedy. The shallow groundwater extraction well network is currently being optimized by the West Side parties in order to prevent further contaminant migration. Deep groundwater is treated to meet all drinking water standards and is supplied within the San Gabriel Valley. Currenly, all drinking water provided meets all Federal and State drinking water standards.
+
+### Enforcement Information
+
+EPA has negotiated multiple consent decrees with potentially responsive parties (PRPs) to help clean up the site. The South El Monte OU has 9 consent decrees worth over $25 million that partially fund the implementation of the interim remedy by EPA through a Cooperative Agreement. The El Monte OU has two PRP groups known as the West Side Performing Settling Defendants (WSPSD) and East Side Perfoaming Settling Defendants (ESPSDs) that are actively implementing the regional groundwater remedy under a 2004 consent decree.The Los Angeles Regional Water Quality Control Board (RWQCB) and the California Department of Toxic Substances Control (DTSC) overrsee property-specific invetigations and remediation for sources within the OUs.

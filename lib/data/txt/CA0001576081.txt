@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The AMCO Chemical site is located at 1414 3rd Street in Oakland, California. It is one block south of the West Oakland Bay Area Rapid Transit (BART) station. AMCO Chemical Corporation owned and operated a chemical distribution facility at the site from the 1960s until 1989. Concern about environmental conditions at and near the site arose in June 1995, when utility workers encountered strong chemical odors while digging in the area. Preliminary sampling at the site and on 3rd Street, south of the site, indicated the presence of vinyl chloride and other chlorinated solvents in soil, soil gas and groundwater. Site investigations and cleanup planning are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Several cleanup actions were taken to reduce contaminants and investigate the extent of contamination. A groundwater and soil vapor extraction and treatment system operated for about one year prior to shut down. This system used an underground pipe matrix to remove and treat contaminants. After some preliminary investigations, electrical resistive heating (ERH) was implemented in areas of high VOC concentrations. ERH is an in-ground system used to heat soil and groundwater to vaporize VOC contaminants that are then treated above-ground.
+
+EPA conducted a study to evaluate the use of in-situ chemical oxidation (ISCO) to treat high VOC concentrations in shallow groundwater. The ISCO study injected sodium permanganate into the ground, but the study ended early due to higher-than-expected groundwater levels and presence of light non-aqueous phase liquid (LNAPL). NAPLs are organic contaminants that do not easily mix with water, like oil, gasoline and petroleum products.
+
+Natural attenuation processes at the site were evaluated after the ISCO study. Natural attenuation involves a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater.
+
+EPA completed a remedial investigation in 2011 and an addendum to the investigation in 2014 to characterize the nature and extent of contamination at the site.
+
+In addition, EPA removed lead-impacted soil in 2007 and installed vapor intrusion mitigation systems in 2009 for adjacent properties. The mitigation systems were installed to prevent potentially contaminated subsurface vapors from entering above-ground buildings.
+
+EPA is currently investigating potentially responsible parties (PRPs). Under the Superfund process, EPA may seek to have any identified PRPs to conduct some or all of the response actions at the site and reimburse EPA for its costs. In some cases where EPA is unable to identify financially viable PRPs, EPA may continue to use federal funds to address contamination at the Site.
+
+### What Is the Current Site Status?
+
+EPA is updating the site’s Human Health Risk Assessment (HHRA) based on current conditions since implementation of ERH and ISCO. The HHRA uses factual, technical information to understand the potential health effects of contaminants at a site and what would be the adverse health effects for now and into the future.
+
+EPA is also reviewing site data, including the results of the ISCO study and natural attenuation evaluation, to develop a long-term cleanup plan. EPA will have to carefully consider different remedial options, given site conditions and cleanup goals. The data will be used to develop a feasibility study and, ultimately, the selection of any remedial actions.
+
+### Emergency Response and Removal
+
+In February 1997, EPA’s Emergency Response Program operated a treatment system to remove vinyl chloride-contaminated groundwater and soil vapors. This treatment system was a dual-phase groundwater and vapor extraction system with a thermal oxidation treatment unit. The system operated until July 1998, when EPA turned it off in response to community concerns over potential exposure to contaminants from the system’s exhaust stack. During the installation and operation of the treatment system, EPA was able to gain additional information about the source and nature of the contamination. Based on this information, EPA determined that the site did not pose an immediate threat to the public but did pose a potential long-term risk.

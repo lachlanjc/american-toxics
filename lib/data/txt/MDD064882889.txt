@@ -1,2 +1,24 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 3.2-acre Mid-Atlantic Wood Preservers, Inc. site is located in Harmans, Anne Arundel County, Maryland, adjacent to the Baltimore-Washington International airport. The community surrounding the site is mixed industrial, commercial, and residential. From 1974 to 1993, Mid-Atlantic Wood Preservers, Inc. operated a facility which pressure-treated wood with chromated copper arsenate (CCA). A spill from a storage tank and drippings from a wood-drying area contaminated soil and groundwater at the site. In 1978 contamination was discovered in the drinking water of a private well adjacent to the site. In 1986, the site was added to EPA's National Priorities List, making it eligible for long-term investigation and cleanup. EPA deleted the site from the Superfund program’s National Priorities List in July 2000. Following cleanup, operation and maintenance activities are ongoing. EPA also continues to conduct Five-Year Reviews at this site because there are still hazardous substances on the site at levels that do not allow for unlimited use and unrestricted exposure. Unlimited use and unrestricted exposure means that there are no restrictions placed on the potential use of land or other natural resources.
+
+### What Has Been Done to Clean Up the Site?
+
+In January 1983, EPA performed an investigation and found that concentrations of arsenic and chromium in groundwater levels still exceeded drinking water standards. The 1990 remedial investigation (RI) identified arsenic and chromium as contaminants of concern (COCs) at the site. The entire site surface was paved with asphalt as part of a response action in 1993. In 1978, contamination was discovered when the drinking water in an adjacent homeowner's private well turned green; the same color as chromated copper arsenate (CCA) solution. Subsequent analyses of water collected from the residential well revealed concentrations of chromium at 19,500 milligrams per liter (i.e.,195 times greater than the federal drinking water standard). Surface and subsurface soil was also contaminated with chromium and arsenic. The contamination was determined to emanate from two sources: overflow from a CCA preservative storage tank and drippings from the wood drying area. The site’s long-term remedy included excavation of contaminated soil and off-site disposal or on-site consolidation under an on-site asphalt cap, construction of an enlarged roof drip pad, monitoring, and institutional controls.
+
+All cleanup construction activities were completed in September 1993.
+
+### What Is the Current Site Status?
+
+After cleanup, EPA deleted the site from the National Prorities List in July 2000. Operation and maintenance activities are ongoing.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2355120), concluded that the remedy continues to be protective of human health and the environment. The next five-year review is scheduled for 2028.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional Controls restricting land use are in placed to prevent damage to the asphalt cap and exposure to contaminants of concern.  
+Additional information about the Institutional Controls are available in the [2023 Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2355120) (pages 8-9).

@@ -1,34 +1,131 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Pester Refinery Site is on a 10-acre tract of land north of the city of El Dorado, in Butler County, Kansas. This Superfund site consists of two operable units: OU1 the soil and sludge operable unit, and OU2 the groundwater operable unit. The OU1 Record of Decision, which was issued in September 1992, included excavation of sludge from the three interconnected ponds; dewatering of the sludge and shipment of the sludge to a permitted Resource Conservation and Recovery Act treatment, storage and disposal facility; processing of sludge into petroleum product at an off-site refinery; and in situ flushing and bioremediation of the contaminated soils in the ponds. The OU2 ROD issued in September 1998 included groundwater monitoring and sediment monitoring.  Both OU1 and OU2 were modified and documented in the June 2005 ROD Amendment. The final remedy for both OU1 and OU2 combined included: - Removal and disposal of freestanding water in the burn pond; - In situ solidification of residual contaminated soils to achieve a bearing capacity sufficient to support the final cover; - Contouring and regrading of surrounding terrain to direct surface water runoff away from the final soil cover; - Placement of a final soil cover over the solidified contaminated soils followed by revegetation of the area; - Periodic inspection and maintenance of the soil cover; - Continued operation of the existing subsurface interceptor trench system, as necessary; - Monitoring of separate phase liquid waste sheen or accumulation at a central collection point within the existing subsurface interceptor trench, if feasible; - Establishment of a compliance groundwater-monitoring network and performance of long-term groundwater monitoring; - Implementation of a limited surface water sampling program in the west branch of the Walnut River; - Periodic inspection and documentation of bank conditions along the west branch of the Walnut River during low water stage; - Establishment of institutional controls within the framework of Kansas Department of Health and Environment’s Environmental Use Control Program. Sitewide Ready for anticipated use was submitted and signed in June 2016.  Top of Page
-What Has Been Done to Clean Up the Site?
-The major activities conducted since the OU1 ROD (1992), the OU2 ROD (1998) and OU1/OU2 ROD amendment (2005) include: • 1998 to 2004 - Bioremediation of soils reduced the hydrocarbons in the soils, minimizing the potential for migration to groundwater.
-• 1998 to 2008 - Operation of the interceptor trench in the pumping mode prevented the migration of free phase hydrocarbons to the river and reduced the level of COCs in the groundwater in the alluvial/top of the eroded Fort Riley unit.
-• 1999 - Consolidation of the south bum pond and the SI pond soils within the bum pond bioremediation treatment area allowed for closure of both the south bum pond and Site Investigation pond.
-• 2000 to 2006 - Quarterly groundwater monitoring established baseline conditions and documented seasonal variations in water levels and COC concentrations.
-• 2001 - Sediment sampling documented that COCs are not present at concentrations requiring continued sampling or additional actions.
-• 2005 to 2006 - Implementation of the Remedial Action, consisting of solidification of ponds and containment cover, minimized the risk associated with underlying soils.
-• 2005 to 2006 - Interim groundwater monitoring confirmed COC concentrations in groundwater remained stable to declining during implementation of the Remedial Action.
-• 2005 to 2007 - Surface water samples were collected to document that COCs in groundwater are not impacting the river.
-• 2006 to present - Annual long-term groundwater monitoring continues to document that sitewide COC concentrations in groundwater are stable or declining over time.
-• 2008 to Present - The interceptor trench achieves the objective of mitigating migration of PSH from the site regardless of whether it is in a pumping or a non-pumping mode.
-• 2009 to present - After installation of the extension trench, the local groundwater level has been lowered allowing for passive accumulation at monitoring well MH-06 and removal of localized PSH, thus preventing the downgradient migration of PSH to the interceptor trench or beyond to the west branch of the Walnut River. Sitewide Ready for anticipated use was submitted and signed in June 2016. Groundwater monitoring and EUC inspections are conducted annually. PSH monitoring is conducted quarterly. Site maintenance, including mowing and brush removal. is conducted as required. Site conditions are documented in the Quarterly Progress Reports and the Annual Groundwater Monitoring Report. Top of Page
-What Is the Current Site Status?
-The EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy required additional monitoring, maintenance activities and installation of an interceptor trench extension to collect and remove contaminated groundwater. Monitoring and sampling and Five-Year Reviews continue as agreed upon and per the required schedule. -The current Five-Year Review was issued on May 6, 2024: Issues/Recommendations OU(s) without Issues/Recommendations Identified in the FYR: OU1 Issues and Recommendations Identified in the FYR: OU2 Issue Category: Monitoring Issue: Continued presence of the sheen and exceedances at the spring and SED-2 locations. Recommendation: More frequent monitoring of this area is recommended to prevent contamination of the WBWR. Issue: Significant increase in benzene groundwater concentrations in P-12. Recommendation: The installation of monitoring wells in the Fort Riley and Florence Limestone aquifers downgradient of P-12 and W-50 is recommended as necessary according to the 2023 approved workplan. Issue: W-37 has a statistically significant increase in benzene groundwater concentrations trend. Recommendation: Collect sediment and surface water samples from a new location downstream of W-37. PROTECTIVENESS STATEMENT  Protectiveness Statement(s) Operable Unit: OU1 (Soil and Sludge) Protectiveness Determination: Protective The remedy at OU1 is protective of human health and the environment.      Operable Unit: OU2 (Groundwater) Protectiveness Determination: Short-term Protective The remedy is protective in the short term. For the remedy to be protective in the long-term, the surface water and sediment must continue to be monitored and sampled to verify these media have not been contaminated.  Sitewide Protectiveness Statement Short-term Protective The entire site is considered to be protective of human health and the environment in the short term. For the site to be protective in the long-term, the surface water and sediment need to continue to be monitored and sampled to verify these media have not been contaminated.  Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+### Background
+
+The Pester Refinery Site is on a 10-acre tract of land north of the city of El Dorado, in Butler County, Kansas. This Superfund site consists of two operable units: OU1 the soil and sludge operable unit, and OU2 the groundwater operable unit.
+
+The OU1 Record of Decision, which was issued in September 1992, included excavation of sludge from the three interconnected ponds; dewatering of the sludge and shipment of the sludge to a permitted Resource Conservation and Recovery Act treatment, storage and disposal facility; processing of sludge into petroleum product at an off-site refinery; and in situ flushing and bioremediation of the contaminated soils in the ponds.
+
+The OU2 ROD issued in September 1998 included groundwater monitoring and sediment monitoring.
+
+Both OU1 and OU2 were modified and documented in the June 2005 ROD Amendment. The final remedy for both OU1 and OU2 combined included:
+
+\- Removal and disposal of freestanding water in the burn pond;
+
+\- In situ solidification of residual contaminated soils to achieve a bearing capacity sufficient to support the final cover;
+
+\- Contouring and regrading of surrounding terrain to direct surface water runoff away from the final soil cover;
+
+\- Placement of a final soil cover over the solidified contaminated soils followed by revegetation of the area;
+
+\- Periodic inspection and maintenance of the soil cover;
+
+\- Continued operation of the existing subsurface interceptor trench system, as necessary;
+
+\- Monitoring of separate phase liquid waste sheen or accumulation at a central collection point within the existing subsurface interceptor trench, if feasible;
+
+\- Establishment of a compliance groundwater-monitoring network and performance of long-term groundwater monitoring;
+
+\- Implementation of a limited surface water sampling program in the west branch of the Walnut River;
+
+\- Periodic inspection and documentation of bank conditions along the west branch of the Walnut River during low water stage;
+
+\- Establishment of institutional controls within the framework of Kansas Department of Health and Environment’s Environmental Use Control Program.
+
+Sitewide Ready for anticipated use was submitted and signed in June 2016.
+
+### What Has Been Done to Clean Up the Site?
+
+The major activities conducted since the OU1 ROD (1992), the OU2 ROD (1998) and OU1/OU2 ROD amendment (2005) include:
+
+• 1998 to 2004 - Bioremediation of soils reduced the hydrocarbons in the soils, minimizing the potential for migration to groundwater.  
+• 1998 to 2008 - Operation of the interceptor trench in the pumping mode prevented the migration of free phase hydrocarbons to the river and reduced the level of COCs in the groundwater in the alluvial/top of the eroded Fort Riley unit.  
+• 1999 - Consolidation of the south bum pond and the SI pond soils within the bum pond bioremediation treatment area allowed for closure of both the south bum pond and Site Investigation pond.  
+• 2000 to 2006 - Quarterly groundwater monitoring established baseline conditions and documented seasonal variations in water levels and COC concentrations.  
+• 2001 - Sediment sampling documented that COCs are not present at concentrations requiring continued sampling or additional actions.  
+• 2005 to 2006 - Implementation of the Remedial Action, consisting of solidification of ponds and containment cover, minimized the risk associated with underlying soils.  
+• 2005 to 2006 - Interim groundwater monitoring confirmed COC concentrations in groundwater remained stable to declining during implementation of the Remedial Action.  
+• 2005 to 2007 - Surface water samples were collected to document that COCs in groundwater are not impacting the river.  
+• 2006 to present - Annual long-term groundwater monitoring continues to document that sitewide COC concentrations in groundwater are stable or declining over time.  
+• 2008 to Present - The interceptor trench achieves the objective of mitigating migration of PSH from the site regardless of whether it is in a pumping or a non-pumping mode.  
+• 2009 to present - After installation of the extension trench, the local groundwater level has been lowered allowing for passive accumulation at monitoring well MH-06 and removal of localized PSH, thus preventing the downgradient migration of PSH to the interceptor trench or beyond to the west branch of the Walnut River.
+
+Sitewide Ready for anticipated use was submitted and signed in June 2016. Groundwater monitoring and EUC inspections are conducted annually. PSH monitoring is conducted quarterly. Site maintenance, including mowing and brush removal. is conducted as required. Site conditions are documented in the Quarterly Progress Reports and the Annual Groundwater Monitoring Report.
+
+### What Is the Current Site Status?
+
+The EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy required additional monitoring, maintenance activities and installation of an interceptor trench extension to collect and remove contaminated groundwater. Monitoring and sampling and Five-Year Reviews continue as agreed upon and per the required schedule.
+
+\-The current Five-Year Review was issued on May 6, 2024:
+
+Issues/Recommendations
+
+OU(s) without Issues/Recommendations Identified in the FYR:
+
+OU1
+
+Issues and Recommendations Identified in the FYR:
+
+OU2
+
+Issue Category: Monitoring
+
+Issue: Continued presence of the sheen and exceedances at the spring and SED-2 locations.
+
+Recommendation: More frequent monitoring of this area is recommended to prevent contamination of the WBWR.
+
+Issue: Significant increase in benzene groundwater concentrations in P-12.
+
+Recommendation: The installation of monitoring wells in the Fort Riley and Florence Limestone aquifers downgradient of P-12 and W-50 is recommended as necessary according to the 2023 approved workplan.
+
+Issue: W-37 has a statistically significant increase in benzene groundwater concentrations trend.
+
+Recommendation: Collect sediment and surface water samples from a new location downstream of W-37.
+
+PROTECTIVENESS STATEMENT
+
+Protectiveness Statement(s)
+
+Operable Unit:
+
+OU1 (Soil and Sludge)
+
+Protectiveness Determination:
+
+Protective
+
+The remedy at OU1 is protective of human health and the environment.
+
+Operable Unit:
+
+OU2 (Groundwater)
+
+Protectiveness Determination:
+
+Short-term Protective
+
+The remedy is protective in the short term. For the remedy to be protective in the long-term, the surface water and sediment must continue to be monitored and sampled to verify these media have not been contaminated.
+
+Sitewide Protectiveness Statement
+
+Short-term Protective
+
+The entire site is considered to be protective of human health and the environment in the short term. For the site to be protective in the long-term, the surface water and sediment need to continue to be monitored and sampled to verify these media have not been contaminated.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 Institutional controls include Environmental Use Control Agreement between the Pester Refining Company and KDHE, and Long-Term Care Agreement between Total and KDHE. The Environmental Use Control Agreement was recorded by the Butler County Register of Deeds on November 30, 2007 and annual inspections are conducted by KDHE.
-Top of Page
-Sampling and Monitoring
-Annual Groundwater Monitoring Reports (Ongoing) The Operation & Maintenance components for the site include groundwater, surface water and sediment monitoring, as well as the maintenance of the site including the soil cover, the interceptor trench, the extension trench, and the groundwater monitoring well network. The responsible parties are conducting the O&M activities for the site per the 2017 LTMP. Revisions in the 2017 LTMP for sediment sampling provided for the one-time sampling of stream sediment in the west branch of the Walnut River (during the 2018 annual monitoring event) to confirm the presence or absence of Contaminants of Concern. Bedrock was encountered at stream sediment sampling locations SW-1, SW-2, SW-3 and the spring (east of MH-02), preventing sediment sample collection. According to the LTMP, requirements for stream sediment sampling beyond the 2018 annual groundwater monitoring event will be addressed in this FYR (RETIA USA, LLC, 2017). The analytical methods and parameters should be consistent with the site COCs evaluated during historical sediment sampling events. Groundwater monitoring and EUC inspections are conducted annually. PSH monitoring is conducted quarterly. Site maintenance, including mowing and brush removal is conducted as required. Site conditions are documented in the Quarterly Progress Reports and the Annual Groundwater Monitoring Report. The groundwater COCs as identified in the OU2 ROD include VOCs, benzene, toluene, ethylbenzene, carbon disulfide, and xylene, SVOCs, 2,4-dimethylphenol, 2-methylnaphalene, and metals, arsenic, chromium, barium and lead. Top of Page
+
+### Sampling and Monitoring
+
+Annual Groundwater Monitoring Reports (Ongoing)
+
+The Operation & Maintenance components for the site include groundwater, surface water and sediment monitoring, as well as the maintenance of the site including the soil cover, the interceptor trench, the extension trench, and the groundwater monitoring well network. The responsible parties are conducting the O&M activities for the site per the 2017 LTMP.
+
+Revisions in the 2017 LTMP for sediment sampling provided for the one-time sampling of stream sediment in the west branch of the Walnut River (during the 2018 annual monitoring event) to confirm the presence or absence of Contaminants of Concern. Bedrock was encountered at stream sediment sampling locations SW-1, SW-2, SW-3 and the spring (east of MH-02), preventing sediment sample collection. According to the LTMP, requirements for stream sediment sampling beyond the 2018 annual groundwater monitoring event will be addressed in this FYR (RETIA USA, LLC, 2017). The analytical methods and parameters should be consistent with the site COCs evaluated during historical sediment sampling events.
+
+Groundwater monitoring and EUC inspections are conducted annually. PSH monitoring is conducted quarterly. Site maintenance, including mowing and brush removal is conducted as required. Site conditions are documented in the Quarterly Progress Reports and the Annual Groundwater Monitoring Report.
+
+The groundwater COCs as identified in the OU2 ROD include VOCs, benzene, toluene, ethylbenzene, carbon disulfide, and xylene, SVOCs, 2,4-dimethylphenol, 2-methylnaphalene, and metals, arsenic, chromium, barium and lead.

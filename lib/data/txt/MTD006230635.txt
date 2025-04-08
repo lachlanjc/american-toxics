@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Montana Pole and Treating Plant site is located on the western edge of Butte, Montana. A wood-treating facility operated on site from 1946 to 1984. During most of this period, a solution of approximately 5 percent pentachlorophenol (PCP) mixed with oil was used to preserve poles, posts and bridge timbers. Wood treating involved the application of the PCP solution to wood products in vats and pressure cylinders. Creosote was used as a wood preservative for a brief period in 1969. Site operators discharged hazardous substances from the pole-treating operations into a ditch next to the plant. The substances then flowed toward Silver Bow Creek. These activities contaminated soil, sediment, surface water and groundwater with hazardous chemicals.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term remedy included constructing the Land Treatment Unit (LTU) and 13 soil staging and pre-treatment piles; building an addition to the existing water treatment plant; constructing two groundwater recovery trenches; and excavating and disposing of contaminated soils in the LTU. Cleanup also included removing and disposing of hazardous and non-hazardous waste debris; installing in-place treatment systems; relocating sewer and potable water lines; groundwater monitoring; institutional controls; and removing treated soil from the LTU and placing it back on site.
+
+- [Record of Decision for the Montana Pole Site (pdf)](http://semspub.epa.gov/src/document/08/1050932) (165 pp, 7.5 MB, [About PDF](http://www.epa.gov/home/pdf-files) )
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### What Is the Current Site Status?
+
+**The Montana Department of Environmental Quality (DEQ) released the final Explanation of Significant Differences (ESD)** for the Montana Pole and Treating site in Butte, Montana. The ESD proposes changes to the original cleanup plan to make the site more protective of human health and the environment. Now that the ESD is complete and approved by EPA, construction can begin on final cleanup for the south side of the site allowing for future redevelopment.
+
+The former wood-treating plant was deemed a federal Superfund site after its closure and has already undergone cleanup of soil, groundwater, solid and hazardous waste. The changes in the ESD establish more protective cleanup levels than what were in the original Record of Decision. While the site reached cleanup levels established in the original Record of Decision for pentachlorophenols (PCP) and polycyclic aromatic hydrocarbons (PAHs), the cleanup level for dioxin was not achieved. Changes in the ESD include making the PCP cleanup level more protective of groundwater than what was in the original decision and a new, more protective, dioxin cleanup level will allow for industrial or commercial redevelopment. All contaminants are the result of the wood-treating process that occurred onsite and are in the soils.
+
+Construction for remediation cleanup will include placing the treated soils in an onsite designated capped area called a Corrective Action Management Unit (CAMU). Construction will begin this summer on the cleanup. The new cleanup levels will allow for commercial and industrial redevelopment for 27 acres of the site. The remaining 9 acres is the site of the CAMU, which will be comprised of the treated soils area and additional soils removed to achieve the new cleanup levels. The operation and maintenance of the CAMU will be overseen by the state to ensure protectiveness and will have regular five-year reviews. Five-year reviews are a standard process required whenever contamination is safely left onsite. The reviews make sure the site remains protective.
+
+EPA and DEQ will presented on the final ESD at Butte’s Citizens Technical Environmental Committee (CTEC) meeting in May 2021.
+
+As the lead agency for the site, DEQ maintains the [Montana Pole and Treating Plant website](https://deq.mt.gov/cleanupandrec/Programs/superfundfed) with site documents and current cleanup status.
+
+Remedy construction took place between 1996 and 2001. Additional cleanup is ongoing to address removal and disposal of the on-site soil treatment facilities.
+
+Final cleanup for the southern portion of the site will be complete and ready for reuse by 2018. To protect people’s health, the property’s uses will be restricted so that the cleanup work is not damaged.
+
+The northern portion, where the water treatment plant sits, will continue to be operated by DEQ. The reuse will not be determined until after the final cleanup design is complete. Water treatment will continue for at least the next 30 years.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Efforts to develop and implement permanent Institutional Controls to restrict residential use for the entire property within the fence line (and anywhere else needed) are underway but are not complete. The Atlantic Richfield Company, as required by the 1996 Consent Decree, caused deed restrictions to be placed on certain properties within the site. The deed restrictions prohibit residential development, drilling of water wells, and other specified uses. Similar deed restrictions will be placed on other properties within the site.
+
+### Emergency Response and Removal
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment.
+
+In July 1985, the EPA Emergency Response Branch conducted a removal action on the site to minimize impacts to Silver Bow Creek and to stabilize the site. EPA excavated approximately 6,000 cubic yards of highly contaminated soils, bagged them and placed them in storage buildings (pole barns) constructed on-site.
+
+In June 1992, EPA conducted an additional removal action to control and recover light non-aqueous phase liquid (LNAPL) (floating oils) identified during the RI.
+
+Removal actions included excavating and storing highly contaminated soil on site; dismantling and storing contaminated tanks, retorts, pipes and other hardware on site; and installing two groundwater interception/oil recovery systems. Additional removal actions included fencing contaminated areas and the groundwater recovery system, and controlling and recovering LNAPLs.

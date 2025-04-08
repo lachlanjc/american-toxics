@@ -1,34 +1,52 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The site is nearly 45 acres in size and is located on the west side of the City of South Bend, approximately two miles west of downtown. It consists of LaSalle Park and a portion of the surrounding residential areas. The boundaries of the site are Kenmore Street to the west, Linden Avenue to the north, Kaley Street to the east, and a line parallel just south of Washington Street (approximately 250 feet) on the south. LaSalle Park includes Beck’s Lake, an 8-acre lake, a community center, and recreational areas. The park was once a dumping area.  Historical aerial photos indicate that dumping occurred at least from the 1930’s to the mid-1950’s.  Asbestos, plating and paint wastes, solvents and oils, and arsenic-contaminated foundry sand may have been disposed of in this area. In the mid-1950’s the area was turned into a park. Top of Page
-What Has Been Done to Clean Up the Site?
-In October 2001, the Indiana Department of Environmental Management (IDEM) conducted an assessment at the site to evaluate whether the site would be suitable for redevelopment. The 2002 assessment report found lead, arsenic and Benzo(a)pyrene in some surface soil samples above the Risk-Based Closure (RISC) levels. Based on these, the site was recommended into the Comprehensive Environmental Response, Compensation, and Liability Information System (CERCLIS) on April 1, 2004. On June 16, 2003, IDEM conducted sampling activities for a Site Reassessment. The final Site Reassessment report submitted in March 2007 identified soil samples with arsenic, lead and chromium above background levels. In October 2009, IDEM collected 40 surface and subsurface soil samples at the site for an Expanded Site Inspection. The December 2009 site inspection report documented the presence of arsenic, lead, and other metals, including zinc, barium, chromium, cadmium, copper, and silver above three times the background levels. In June 2013, EPA took samples from 68 locations within the play area of LaSalle Park, which included four soccer fields, one baseball filed, four playgrounds, and a fishing spot on the edge of Beck’s Lake. The evaluation was conducted to determine if there was any immediate risk to children playing in those specific areas. It was not intended as an evaluation of long-term exposure nor representative of the risk at the site as a whole. The sampling showed that metals, including arsenic found in the soil were within or below the EPA acceptable risk range for residential settings. However, based on the sampling performed by IDEM in 2009, the Beck’s Lake Site was listed on the National Priorities List (NPL) on December 12, 2013. In October 2015, EPA, Honeywell, and the City of South Bend entered into a legal agreement known as an Administrative Settlement and Order on Consent (ASAOC). In the agreement, Honeywell and the City of South Bend agreed to perform a focused remedial investigation and feasibility study (Focused RI/FS) of the LaSalle Park Area (LPA) of the Beck’s Lake Site, with EPA’s oversight. The main objectives of the Focused RI/FS were to determine the nature and extent of any contamination within the boundaries of the LPA of the site, and to identify and evaluate remedial alternatives or remedy any release or threatened release of hazardous substances, pollutants, or contaminants at or within the LPA. In October 2017 and December 2018, EPA collected soil samples from residential properties close to LaSalle Park. The sample results helped EPA: 
-Understand whether the soil in properties near the LPA of the Beck’s Lake Site were contaminated with site-related lead and arsenic; and
-Define the boundary of the western edge of the historical landfill of the Beck’s Lake Site. 
-The soil sampling results indicated that there was no immediate risk from exposure to the soils in the sampled area. All surface soil samples results showed lead and arsenic levels below EPA’s RMLs. RMLs help EPA identify areas, contaminants, and conditions where an immediate response action or immediate clean-up may be appropriate. Top of Page
-What Is the Current Site Status?
-Between November 2018 and May 2019, the potentially responsible parties (PRPs) performed and completed a supplemental investigation north of Linden Avenue.  This investigation included the collection of soil and groundwater samples. The investigation was intended to characterize the northern extent of the landfill, and characterize the northern extent of soil and groundwater contamination from the site.  Visual results indicated that the waste materials found within the Lasalle Park area did not extend beyond the north edge of Linden Avenue.  Some soil and groundwater analytes were detected above screening levels.  In November and December 2019, the PRPs conducted an additional supplemental investigation within the Lasalle Park area. This investigation was performed to: 
-Verify thickness of the surface soils; and
-Better define the area of elevated lead concentrations (above 400 parts per million, or ppm) previously identified in some surface soil samples from the Remedial Investigation performed in 2016.  
-Based upon soil samples collected in the LaSalle Park area and surrounding properties EPA determined that it was appropriate to conduct a short-term cleanup known as a time-critical removal action (TCRA) at the site. The TCRA took place from August to October 2022 in areas where sampling found lead levels in soil exceeding the EPA’s residential soil Removal Management Level (RML) of 400 parts per million. RMLs help identify areas, contaminants, and conditions where cleanup may be needed to protect human health and the environment. At Lasalle Park, cleanup activities included excavating soil from areas with contamination above the RML, backfilling the areas with clean soil, and capping them with one to two feet of additional clean soil.  At two nearby residential properties, sections with contaminated soil above the RML were excavated to a depth of two feet below ground and backfilled with clean soil Top of Page
-Sampling and Monitoring
-The links below are the reports for the historical investigations conducted by EPA or IDEM from 1989-2019 
-Updated Public Release of Validated Data Results for Sampling of the Residential Area of the Beck’s Lake NPL Site (PDF) (7 pp, 1.21 MB, About PDF) February 2019
-EPA Memo – Public Release of Residential Area Sampling Results (PDF) (6 pp, 796K) April 2018
-EPA Memo - Public Release of RI Results of the LaSalle Park Area (PDF)(117 pp, 1.59 MB) August 2017
-Field Sampling Locations Map (PDF)(1 pp, 1.07 MB) July 2016
-Soil Sampling Analytical Results (PDF) (117 pp, 1.59 MB) July 2013
-Hazardous Ranking System (HRS) Record (PDF) (36 pp, 913.25 KB) May 2013
-IDEM Expanded Site Inspection 2 Report (PDF) (289 pp, 14.92 MB) December 2009
-IDEM Reassessment Inspection Report (PDF) (166 pp, 17.58 MB) March 2007
-IDEM Brownfields Report (PDF) (565 pp, 16.3 MB) November 2002
-Screening Site Inspection Report (PDF) (76 pp, 6.13 MB) June 1989 
-Top of Page
+### Background
+
+The site is nearly 45 acres in size and is located on the west side of the City of South Bend, approximately two miles west of downtown. It consists of LaSalle Park and a portion of the surrounding residential areas. The boundaries of the site are Kenmore Street to the west, Linden Avenue to the north, Kaley Street to the east, and a line parallel just south of Washington Street (approximately 250 feet) on the south. LaSalle Park includes Beck’s Lake, an 8-acre lake, a community center, and recreational areas. The park was once a dumping area. Historical aerial photos indicate that dumping occurred at least from the 1930’s to the mid-1950’s. Asbestos, plating and paint wastes, solvents and oils, and arsenic-contaminated foundry sand may have been disposed of in this area. In the mid-1950’s the area was turned into a park.
+
+### What Has Been Done to Clean Up the Site?
+
+In October 2001, the Indiana Department of Environmental Management (IDEM) conducted an assessment at the site to evaluate whether the site would be suitable for redevelopment. The 2002 assessment report found lead, arsenic and Benzo(a)pyrene in some surface soil samples above the Risk-Based Closure (RISC) levels. Based on these, the site was recommended into the Comprehensive Environmental Response, Compensation, and Liability Information System (CERCLIS) on April 1, 2004.
+
+On June 16, 2003, IDEM conducted sampling activities for a Site Reassessment. The final Site Reassessment report submitted in March 2007 identified soil samples with arsenic, lead and chromium above background levels.
+
+In October 2009, IDEM collected 40 surface and subsurface soil samples at the site for an Expanded Site Inspection. The December 2009 site inspection report documented the presence of arsenic, lead, and other metals, including zinc, barium, chromium, cadmium, copper, and silver above three times the background levels.
+
+In June 2013, EPA took samples from 68 locations within the play area of LaSalle Park, which included four soccer fields, one baseball filed, four playgrounds, and a fishing spot on the edge of Beck’s Lake. The evaluation was conducted to determine if there was any immediate risk to children playing in those specific areas. It was not intended as an evaluation of long-term exposure nor representative of the risk at the site as a whole. The sampling showed that metals, including arsenic found in the soil were within or below the EPA acceptable risk range for residential settings. However, based on the sampling performed by IDEM in 2009, the Beck’s Lake Site was listed on the National Priorities List (NPL) on December 12, 2013.
+
+In October 2015, EPA, Honeywell, and the City of South Bend entered into a legal agreement known as an Administrative Settlement and Order on Consent (ASAOC). In the agreement, Honeywell and the City of South Bend agreed to perform a focused remedial investigation and feasibility study (Focused RI/FS) of the LaSalle Park Area (LPA) of the Beck’s Lake Site, with EPA’s oversight. The main objectives of the Focused RI/FS were to determine the nature and extent of any contamination within the boundaries of the LPA of the site, and to identify and evaluate remedial alternatives or remedy any release or threatened release of hazardous substances, pollutants, or contaminants at or within the LPA.
+
+In October 2017 and December 2018, EPA collected soil samples from residential properties close to LaSalle Park. The sample results helped EPA:
+
+1. Understand whether the soil in properties near the LPA of the Beck’s Lake Site were contaminated with site-related lead and arsenic; and
+2. Define the boundary of the western edge of the historical landfill of the Beck’s Lake Site.
+
+The soil sampling results indicated that there was no immediate risk from exposure to the soils in the sampled area. All surface soil samples results showed lead and arsenic levels below EPA’s RMLs. RMLs help EPA identify areas, contaminants, and conditions where an immediate response action or immediate clean-up may be appropriate.
+
+### What Is the Current Site Status?
+
+Between November 2018 and May 2019, the potentially responsible parties (PRPs) performed and completed a supplemental investigation north of Linden Avenue. This investigation included the collection of soil and groundwater samples. The investigation was intended to characterize the northern extent of the landfill, and characterize the northern extent of soil and groundwater contamination from the site. Visual results indicated that the waste materials found within the Lasalle Park area did not extend beyond the north edge of Linden Avenue. Some soil and groundwater analytes were detected above screening levels.
+
+In November and December 2019, the PRPs conducted an additional supplemental investigation within the Lasalle Park area. This investigation was performed to:
+
+1. Verify thickness of the surface soils; and
+2. Better define the area of elevated lead concentrations (above 400 parts per million, or ppm) previously identified in some surface soil samples from the Remedial Investigation performed in 2016.
+
+Based upon soil samples collected in the LaSalle Park area and surrounding properties EPA determined that it was appropriate to conduct a short-term cleanup known as a time-critical removal action (TCRA) at the site.
+
+The TCRA took place from August to October 2022 in areas where sampling found lead levels in soil exceeding the EPA’s residential soil Removal Management Level (RML) of 400 parts per million. RMLs help identify areas, contaminants, and conditions where cleanup may be needed to protect human health and the environment.
+
+At Lasalle Park, cleanup activities included excavating soil from areas with contamination above the RML, backfilling the areas with clean soil, and capping them with one to two feet of additional clean soil. At two nearby residential properties, sections with contaminated soil above the RML were excavated to a depth of two feet below ground and backfilled with clean soil
+
+### Sampling and Monitoring
+
+The links below are the reports for the historical investigations conducted by EPA or IDEM from 1989-2019
+
+- [Updated Public Release of Validated Data Results for Sampling of the Residential Area of the Beck’s Lake NPL Site (PDF)](https://semspub.epa.gov/src/document/05/946327.pdf) (7 pp, 1.21 MB, [About PDF](https://www.epa.gov/home/pdf-files) ) February 2019
+- [EPA Memo – Public Release of Residential Area Sampling Results](https://semspub.epa.gov/src/document/05/940493.pdf) (PDF) (6 pp, 796K) April 2018
+- [EPA Memo - Public Release of RI Results of the LaSalle Park Area](https://semspub.epa.gov/src/document/05/935845.pdf) (PDF)(117 pp, 1.59 MB) August 2017
+- [Field Sampling Locations Map](https://semspub.epa.gov/s/05/928920.pdf/src/document) (PDF)(1 pp, 1.07 MB) July 2016
+- [Soil Sampling Analytical Results](https://semspub.epa.gov/src/document/05/919123.pdf) (PDF) (117 pp, 1.59 MB) July 2013
+- [Hazardous Ranking System (HRS) Record](https://semspub.epa.gov/src/document/05/905171.pdf) (PDF) (36 pp, 913.25 KB) May 2013
+- [IDEM Expanded Site Inspection 2 Report](https://semspub.epa.gov/src/document/05/905143.pdf) (PDF) (289 pp, 14.92 MB) December 2009
+- [IDEM Reassessment Inspection Report](https://semspub.epa.gov/src/document/05/905148.pdf) (PDF) (166 pp, 17.58 MB) March 2007
+- [IDEM Brownfields Report](https://semspub.epa.gov/src/document/05/905147.pdf) (PDF) (565 pp, 16.3 MB) November 2002
+- [Screening Site Inspection Report](https://semspub.epa.gov/src/document/05/905144.pdf) (PDF) (76 pp, 6.13 MB) June 1989

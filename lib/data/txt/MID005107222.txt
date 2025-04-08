@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Bendix Corp./Allied Automotive site is located four miles south of St. Joseph in Berrien County, Michigan. Contamination comes from two source areas at the former Bendix Automotive plant, now owned and operated by Bosch Braking Systems. During the plant’s history, the chlorinated solvents tetrachloroethylene (PCE) and trichloroethylene (TCE) were discharged to unlined lagoons, resulting in soil and groundwater contamination. Following construction of the site’s long-term remedy, soil vapor extraction, groundwater treatment and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Human contact with contaminated soils at the source of the eastern plume is prevented by the presence of an asphalt cover while SVE treatment removes contamination from the vadose zone. Institutional controls are in place to restrict the use of contaminated groundwater from both the eastern and western plumes, and a long-term monitoring program is in place to ensure that threats to human health and the environment remain below regulatory thresholds.
+
+Long-term protectiveness requires reducing contaminant loading from the source of the western plume to augment the effectiveness of natural attenuation through groundwater extraction and treatment; maintaining and strengthening, if necessary, the institutional controls that restrict access to potentially contaminated groundwater; implementing additional contingent remedial actions if compliance criteria are exceeded; and monitoring the site until remedial standards are achieved.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy, selected in 1997, included monitored natural attenuation (MNA) for both the western and eastern plumes of contaminated groundwater, with soil vapor extraction (SVE) added for the eastern plume. The SVE system has been operating since 1999. VOC concentrations in the soils have decreased 98 percent.
+
+EPA updated the remedy in 2009, requiring the installation of a groundwater extraction and treatment system to control the source of the western plume and enhance the effectiveness of natural attenuation. Three extractions wells are located in the parking lot north of the Bosch facility. Extracted groundwater is being run through an air stripper to remove volatile organic compounds (VOCs), and treated water (meeting all applicable state and federal requirements) is then discharged to Hickory Creek. Gases from the treated groundwater are processed by a catalytic oxidation system to meet state air quality standards before they are released into the atmosphere.The evaluation of natural attenuation is continuing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Contaminants of concern at the site include the following:
+
+- vinyl chloride
+- 1,1 –DCE
+- 1,2-DCE
+- TCE
+- cis-1,2-DCE
+- trans-1,2-DCE
+- 1,1,2-TCA
+- benzene
+- aluminum
+- arsenic
+- iron
+- manganese
+- zinc
+
+### Enforcement Information
+
+There are currently no active enforcement activities.

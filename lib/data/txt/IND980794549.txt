@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The half-acre Neal’s Dump (Spencer) site is located near Spencer in Owen County, Indiana. The area was a disposal site for industrial wastes from about 1966 to 1971. Contract waste haulers dumped electrical capacitors containing polychlorinated biphenyls (PCBs), capacitor parts, PCB-contaminated rags and sawdust at the site, leading to groundwater contamination. The PCB-contaminated wastes came from an electrical equipment plant owned by the Westinghouse Electric Corporation (formerly Viacom and now doing business as CBS Corporation). Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1999.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. The site’s institutional control, an environmental restrictive covenant, is in place and effective. It prevents a drinking water well in the former waste area.  
+
+### What Is the Current Site Status?
+
+The site’s final remedy included excavation and off-site disposal of PCB-contaminated materials, incineration of capacitors, backfilling of the excavated area with clean fill, groundwater monitoring and deed restrictions to limit access to groundwater and prevent uses that would damage the remedy. Construction of the remedy finished in 2003.
+
+Earlier site cleanup focused on interim measures to protect human health and the environment. Capacitors containing PCB oils were removed and taken to an off-site disposal facility. Other interim measures put in place in 1983 included a clay cap, locked security fencing and silt fences to control sediment runoff.
+
+Following cleanup, EPA took the site off the NPL in 1999.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+polychlorinated biphenyls (PCBs)

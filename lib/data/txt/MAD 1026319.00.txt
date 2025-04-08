@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Atlas Tack Corp. site is located in Fairhaven, Massachusetts. A manufacturing facility operated on site from 1901 to 1985 producing cut and wire, steel nails, and similar items. Process wastes from past facility operations contaminated soil, groundwater and nearby wetlands. Following cleanup, operation and maintenance activities and monitoring are ongoing.
+
+From the 1940s until the late 1970s or 1980s, wastes containing cyanide and heavy metals were discharged into an unlined acid-neutralizing lagoon about 200 feet east of the manufacturing building and adjacent to a saltwater tidal marsh in Buzzards Bay Estuary. Process wastes containing acids, metals such as copper and nickel and solvents were discharged into drains in the floor of the main building. Some of these chemicals permeated the floors and timbers of the building and migrated to adjacent soils and groundwater. Other contaminated areas at the site include a filled wetland, a former dump, and other chemical spills.
+
+The site was placed on the National Priorities List (NPL) in February 1990.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions.
+
+In 2000, the EPA issued a [Record of Decision](https://semspub.epa.gov/src/document/01/3896) (ROD) and the selected cleanup plan presented by EPA addressed site risks through the following actions:
+
+- excavating and properly disposing of contaminated soil, debris and sediments;
+- performing long-term monitoring of surface water, groundwater, and sediments to measure the progress of natural attenuation toward meeting the clean-up goals;
+- putting in place administrative measures, known as “institutional controls,” to prevent use of groundwater for drinking water and to restrict land use; and
+- performing [five-year reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100376&doc=Y&colid=32692&region=01&type=SC) to assess site conditions and determine whether the cleanup remains protective.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy, selected in 2000, included: (1) demolition of the manufacturing and power plant buildings and excavation and off-site disposal of contaminated soil and sludge beneath the buildings in the commercial area; (2) excavation of contaminated soils and debris in the debris and fill areas; and (3) excavation of marsh soils and creek bed sediments. Cleanup took place between June 2005 and September 2007.
+
+About 108,000 tons of contaminated soil, debris and sediment were excavated and disposed of off site during the entire project. Long-term monitoring will continue until ground water reaches ecologically based cleanup levels. As of 2018, EPA has transferred monitoring and other operation and maintenance activities to the Massachusetts Department of Environmental Protection (DEP).
+
+The EPA conducted a [five-year review](https://semspub.epa.gov/src/document/01/100014277) of the Site in 2020. The next five-year review is ongoing and scheduled to be complete in 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional Controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100376&doc=Y&colid=36783&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.

@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 724-acre Sharpe Army Depot site is a Defense Logistics Agency facility near Lathrop, California approximately 9 miles south of Stockton. Between 1941 and 1975, maintenance of aircraft, vehicles, industrial equipment and medical equipment produced a variety of chemical wastes. The Army later disposed of the chemicals on site, contaminating groundwater and soil with volatile organic compounds (VOCs). The site is being addressed through federal actions. The Army is participating in the Installation Restoration Program, a specially funded program established by the Department of Defense (DoD) in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities.Sharpe was added to the National Priorities List in 1987. In 1989, the Army (as the lead federal agency), United States Environmental Protection Agency (USEPA) Region 9, the California Environmental Protection Agency’s Department of Toxic Substances Control (DTSC), and the Central Valley Regional Water Quality Control Board (CVWB) cosigned a Federal Facilities Agreement (FFA) for the site. In 1990, the Defense Logistics Agency (DLA) became the lead federal agency at Sharpe when the Army and DLA executed a memorandum of agreement to transfer responsibility for Sharpe’s missions and functions from the Army to DLA. In 2013, DLA relinquished its permit with the Army to use and occupy Sharpe, and as of October 1, 2014, the lead federal agency role transitioned back to the Army.
+
+### What Has Been Done to Clean Up the Site?
+
+The long-term remedy for contaminated soil included excavation and disposal of metals-contaminated soils, soil vapor extraction for VOC-contaminated soils and backfill of excavated areas with clean soil. EPA later updated the remedy to add land use controls and monitoring. The Army also completed a removal action for pesticides in soil and soil vapor extraction treated contaminated soil in phases between 1998 and 2001.
+
+The long-term remedy for contaminated groundwater included air stripping, a gas-phase carbon adsorber for treatment of off gas and disposition of treated groundwater. Extraction and treatment of groundwater to remove VOCs began in early 1987. A second interim groundwater treatment system started operating in the North Balloon area in late 1990.
+
+The Army has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+### What Is the Current Site Status?
+
+The Army continues ongoing operation of the groundwater and soil vapor treatment systems. The Army submits routine sampling reports, including an annual report summarizing the cleanup progress. The Army completed the 4th Five-Year Review Report (Report) in August 2020. EPA's evaution of the Army's Report concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires additional monitoring wells to establish the boundaries of some of the groundwater plumes, optimization of the groundwater extraction remedies by installing new extraction wells, and additional evaluation of extent of lead and hexavalent chromium at some of the soil sites. The Army will also evaluate if soil gas action levels should be revised to ensure protection of future indoor occupants to vapor instrusion. The 5th Five-Year Review Report is underway.
+
+Construction of the site’s long-term remedy has finished. Operation and maintenance activities of soil and groundwater remedies and monitoring are ongoing. Additional investigation of metals contamination in soils is on-going.
+
+The Army completed a preliminary assessment and site inspection (PA/SI) in May 2022 that confirmed presence of per- and poly-fluoroalkyl substances (PFAS) in on-site soils and groundwater. The Army is currently (September/October 2022) sampling off-site private wells to determine if PFAS are present. The Army also plans to conduct a Remedial Investigation of the nature and extent of PFAS in 2023. For more information about PFAS, please visit: [https://www.epa.gov/sdwa/drinking-water-health-advisories-pfoa-and-pfos](https://www.epa.gov/sdwa/drinking-water-health-advisories-pfoa-and-pfos)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Sharpe Army Depot is restricted from residential use.

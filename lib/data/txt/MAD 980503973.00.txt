@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Shpack Landfill Site encompasses 9.4 acres of land in Attleboro and Norton, Massachusetts. The landfill, which operated from 1946 until the 1970s, received domestic and industrial wastes, including inorganic and organic chemicals, as well as radioactive waste. Facility operations contaminated soil, sediment, and groundwater with hazardous chemicals.
+
+In 1978, the Nuclear Regulatory Commission (NRC) was contacted by a citizen who detected elevated levels of radiation at the site. The NRC conducted radiological surveys at the Site which identified radioactive materials, primarily radium and uranium, within the landfill. It is not known exactly when these radioactive materials were disposed at the Site, but an NRC investigation determined that the former M&C Nuclear, Inc., of Attleboro (which merged with Texas Instruments, Inc., in 1959) had used the landfill for the disposal of trash and other materials, including zirconium ashes, associated with nuclear fuel operations at the facility from 1957 to 1965. In 1980, the Site was added to the Department of Energy’s (DOE) Formerly Utilized Sites Remedial Action Program (FUSRAP), which dealt with the legacy of the nation’s early atomic energy programs. In 1998, FUSRAP responsibility was transferred from DOE to the United States Army Corps of Engineers (USACE).
+
+The Site was added to the National Priorities List (NPL) in June 1986.
+
+### What Has Been Done to Clean Up the Site?
+
+The Site was addressed through federal and potentially responsible party (PRP) actions. Site PRPs led an investigation into the nature and extent of contamination at the Site in 1990. Results of the first phase of study were released in 1993; a second phase concluded in 2003. The U.S. Army Corps of Engineers (USACE) studied radiological contamination at the Site in 2000 and 2002 to develop a final cleanup plan for radiologically contaminated materials.
+
+The remedy was selected after an extensive comment period during which the public and community leaders weighed heavily in favor of excavating all waste exceeding the cleanup standards. Before issuing its final cleanup decision, EPA solicited public comment between June and August 2004 on a proposal to excavate 10,500 cubic yards of waste exceeding cleanup standards and to cap some of the material and leave it at the Site.
+
+In September 2004, EPA signed a Record of Decision (ROD) identifying the selected remedial action for the Site. The ROD encompasses two response actions: one managed by the USACE under the Formerly Utilized Sites Remedial Action Program (FUSRAP) and the other managed by EPA under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA, or "Superfund"). FUSRAP cleanup operations were completed in October 2011. A total of 57,805 cubic yards of material was excavated, of which 50,908 cubic yards were transported off-site for disposal as Low-Level Radioactive Waste (LLRW).
+
+A Remedial Design/Remedial Action Consent Decree for the remainder of the Site cleanup was signed by 14 parties and was entered on January 27, 2009. The CERCLA Remedial Action included excavation of wastes, placement of clean fill in excavated areas, Site grading, and planting, seeding, and otherwise restoring and/or replicating wetlands and uplands. A total of 27,083 tons of waste material was transported off-site for disposal. CERCLA remedial construction was completed in December 2013. Prior to on-site remedial construction activities, the public water supply line extension along Peckham Street in Attleboro was completed in October 2012.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0100655).
+
+### What Is the Current Site Status?
+
+A Superfund Preliminary Close Out Report (PCOR) for the Site was completed and signed in September 2014. The PCOR documented that the soil cleanup levels were achieved, the remedial actions were completed, and all physical construction of the remedies were also complete. The Final Close Out Report (FCOR) was completed and signed in November 2016, documenting that the Institutional Controls (ICs) in the form of Notice of Activity and Use Limitations (NAULs) were recorded in November 2016 for four parcels of land. The NAULs prohibit certain activities upon and uses of the Site that may present an unacceptable risk to human health. The Performing Defendants were responsbile for the routine monitoring and maintenance of the wetland area for seven years following construction of the remedy in 2013. Monitoring, operation, and maintenance of the remedy is being conducted by the City of Attleboro in accordance with the approved O&M Plan for the Site.
+
+The remedial actions which have been implemented for the FUSRAP and CERCLA operable units achieve the clean-up requirements identified in the 2004 ROD for the Site.
+
+The site was deleted from the National Priorities List (NPL) in September 2017.
+
+[Cleanup Progress](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0100655).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This Site requires institutional controls (ICs) because a decision document, such as a Record of Decision (ROD), has documented some level of contamination and/or remedy component at the Site that would restrict use of the Site. These ICs are required to help ensure the Site is used in an appropriate way and that activities at the Site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on Site. In order to determine the current status of ICs for this Site, the Site contacts should be consulted.
+
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
+
+On November 8, 2016, Notices of Activity and Use Limitation (NAULs) were recorded at the Bristol North Registry of Deeds for three parcels at the Shpack Landfill Superfund Site: the town of Norton parcel, the Attleboro Landfill, Inc., parcel, and the Estate of Harold L. Wetherell parcel. The NAULs have been placed on these parcels to restrict activities or uses that would be inconsistent with the final remedy for the site and to ensure protection of human health and the environment.  
+  
+[Click here for IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100655&doc=Y&colid=35164).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of documents above, and the EPA regional offices may also be contacted.
+
+### Sampling and Monitoring
+
+Routine monitoring and maintenance of the wetland area concluded in 2020. Monitoring, operation, and maintenance of the remedy is being conducted by the City of Attleboro in accordance with the approved O&M Plan for the Site.
+
+EPA is required to conduct Five Year Reviews when hazardous substances are left on-site that prohibit unrestricted future use of the Site. The first Five Year Review of the Site's remedy was completed in August 2018 and will be performed every five years to verify that the remedy remains protective of human health and the environment.

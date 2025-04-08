@@ -1,25 +1,31 @@
-AMERICAN CHEMICAL SERVICE, INC.GRIFFITH, IN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The American Chemical Service, Inc. (ACS) site located in Griffith, Indiana, consists of the 15-acre ACS facility area, 5 acres of surrounding wetlands, the 13-acre Off-site Containment Area and the Kapica Pazmey Area. ACS operated solvent recovery, chemical manufacturing and waste disposal facilities on site from 1955 to 1975, when it voluntarily stopped using two disposal areas on site and covered them. The Kapica Pazmey Area was the site of a separate chemical drum reconditioning operation. Facility operations contaminated soil and groundwater with hazardous chemicals. Site cleanup is ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-EPA’s cleanup at the site included off-site incineration of intact buried drums; excavating parts of nearby wetlands and consolidated the contaminated materials on-site; and installing and engineered barrier wall to contain waste left on-site. EPA’s cleanup also included a pump-and-treat system for ground water. EPA has also placed limits on use and access to the site. Record of Decision (Rod) (Signed) - American Chemical Services(pdf) (127 pp, 5.69 MB) [Redacted] Record of Decision (Rod) Amendment (Signed) - American Chemical Services  (pdf) (47 pp, 3.13 MB) Explanation of Significant Differences (ESD) (Signed) (pdf) (20 pp, 760.36 KB) Top of Page
-What Is the Current Site Status?
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place continue to protect public health and the environment. The most recent review in 2021 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Fifth Five-Year Review Report (Signed) - 2021 (pdf) (286 pp, 10.2 MB) Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The groundwater is contaminated with VOCs including benzene, toluene, chloromethane, xylene and vinyl chloride; creosote pentacholrophenol; and phthalates. The shallow aquifer contains the highest amounts of organic contaminants. Soils are heavily contaminated with numerous substances including PCBs, heavy metals, semi-VOCs, coal tar VOCs ,and some pesticides. Top of Page
-Enforcement Information
-EPA and the potentially responsible parties came to a cleanup agreement, termed a Consent Decree, in January 2001. Under the decree, the PRPs performed investigation, construction, operation, and maintenance of the final cleanup remedy for the Site. Construction completion status was achieved in September 2004 and further remedy enhancements were implemented in 2005. Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+EPA’s cleanup at the site included off-site incineration of intact buried drums; excavating parts of nearby wetlands and consolidated the contaminated materials on-site; and installing and engineered barrier wall to contain waste left on-site. EPA’s cleanup also included a pump-and-treat system for ground water. EPA has also placed limits on use and access to the site.
+
+[Record of Decision (Rod) (Signed) - American Chemical Services(pdf)](https://semspub.epa.gov/src/document/05/144115) (127 pp, 5.69 MB)
+
+[\[Redacted\] Record of Decision (Rod) Amendment (Signed) - American Chemical Services (pdf)](https://semspub.epa.gov/src/document/05/144116) (47 pp, 3.13 MB)
+
+[Explanation of Significant Differences (ESD) (Signed) (pdf)](https://semspub.epa.gov/src/document/05/227595) (20 pp, 760.36 KB)
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place continue to protect public health and the environment. The most recent review in 2021 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+[Fifth Five-Year Review Report (Signed) - 2021 (pdf)](https://semspub.epa.gov/src/document/05/969717) (286 pp, 10.2 MB)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The groundwater is contaminated with VOCs including benzene, toluene, chloromethane, xylene and vinyl chloride; creosote pentacholrophenol; and phthalates. The shallow aquifer contains the highest amounts of organic contaminants. Soils are heavily contaminated with numerous substances including PCBs, heavy metals, semi-VOCs, coal tar VOCs,and some pesticides.
+
+### Enforcement Information
+
+EPA and the potentially responsible parties came to a cleanup agreement, termed a Consent Decree, in January 2001. Under the decree, the PRPs performed investigation, construction, operation, and maintenance of the final cleanup remedy for the Site. Construction completion status was achieved in September 2004 and further remedy enhancements were implemented in 2005.

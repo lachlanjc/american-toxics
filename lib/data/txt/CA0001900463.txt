@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The New Idria Mercury Mine (NIMM) site is oin the Diablo Mountain Range and includes the abandoned town of Idria in San Benito County, California. The mine is located in the New Idria Mining District, which includes over a dozen smaller mercury mines. The NIMM operated from 1854 to the early 1970s, was the second most productive mercury mine in North America, and produced over 38 million pounds of mercury.The abandoned town of Idria was comprised of dozens of dilapidated buildings until a fire in July 2010 destroyed nearly half of the historic structures in the northern portion of the town.
+
+The New Idria mining claim was declared in 1854 by prospectors and investors. In 1857, the first brick furnace to roast cinnabar ore was built at the Site. The mine operations expanded to include San Carlos and Molina mines and miles of tunnels, shafts and drifts were used to access the cinnabar. In the 1920s, the overburden was stripped down to form pits in order to access cinnabar. The mining continued nearly uninterrupted with a few idle and low productivity periods due to low mercury values and land owner disputes. The mine operated until the early 1970s. Several furnaces were built over the years including four large furnaces still located at the site adjacent to the Level 10 adit. Mercury was extracted from the cinnabar ore by crushing the ore and roasting it to release elemental mercury vapor which was cooled and condensed for bottling. The roasting process is called calcination and the roasted ore is known as calcines. Typically, calcines still contain some soluble mercury.
+
+Extensive waste rock and calcine tailings piles (0.5 to 2 million tons) cover over 40 acres at the Site. A large furnace and process area and other mine working features remain at the Site. Over 30 miles of tunnels and 20 levels (levels are inversely synonymous to floors of building) were constructed as part of mining operations at the Site. The Level 10 adit was used as the main haulage level and is connected to other levels by shafts and raises. The extensive mine levels have flooded with water which reacts with the high iron and sulfur content of the bedrock to form an acidic solution, typically known as acid mine drainage (AMD), which drains from the Level 10 adit.
+
+Although regulated by the Regional Water Quality Control Board (RWQCB) starting in the late 1960s, surface water discharges of AMD from the mine remained uncontrolled after the mine shut down in the early 1970s. The EPA, U.S. Geological Survey (USGS), RWQCB, and academic institutions have conducted investigations at the NIMM site and surrounding area to assess mercury contamination in sources at the Site and in creeks downstream of the mine.
+
+Site studies of the contamination are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Removal actions were completed in 2012 and 2015.
+
+The site is being addressed through federal and state actions.
+
+### What Is the Current Site Status?
+
+On December 13, 2018, EPA [announced a settlement](https://archive.epa.gov/epa/newsreleases/us-epa-orders-manufacturing-company-investigate-contamination-san-benito-superfund-site.html) with Buckhorn Inc. to study contamination at the site. The work is ongoing.
+
+### Sampling and Monitoring
+
+An expanded site inspection was completed in 2010. Additional investigations will be conducted to define the full extent of contamination.
+
+### Emergency Response and Removal
+
+A removal action was completed in February 2012. EPA conducted a removal action to reduce the release of contaminants from the Site. These actions included: re-routing the AMD so that it does not run directly through the tailings piles; construction of a settling pool for the AMD to allow some of the metals to settle out prior to its discharge into San Carlos Creek; and construction of surface water diversions to control erosion.
+
+A second removal action was completed in November 2015 to prepare the site for additional rain.

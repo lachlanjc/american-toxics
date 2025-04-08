@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 57th & North Broadway Streets Superfund Site is in the northern portion of the city of Wichita, Kansas, and part of Park City, Kansas. The Site extends approximately 1/2-mile west of North Broadway Avenue between 61st Street on the north and 53rd Street on the south. South of 53rd Street to 47th Street, the Site extends approximately 3/4 mile west of Broadway to include an additional residential area. The eastern portion of the Site is defined by Chisholm Creek between 47th Street and 61st Street.
+
+Contaminants of concern (COCs) were released into soil and impacted groundwater via infiltration and percolation at the Midland Refinery, Wilko Paints, and Allen’s Salvage properties near the intersection of 57th Street and North Broadway Streets. Contaminated media at the site include soil and groundwater. The primary Contaminants of Concern (COCs) at the site are tetrachloroethene (PCE), trichloroethene (TCE), 1,1-dichloroethene (1,1-DCE), cis-1,2-dichloroethene (cis-1,2-l,2-DCE), vinyl chloride (VC), and 1,4-dioxane. Current land use at the Site is a mix of industrial, commercial, agricultural, and residential.
+
+### What Has Been Done to Clean Up the Site?
+
+The initial response at the Site was a removal action by the EPA to provide bottled water to residences and businesses in the northern plume area from 1990 until residences were connected to the Park City public water supply in 1992. The Site was placed on the National Priorities List (NPL) in November 1992. When it was discovered that residences in the Riverview area were also affected by the plume of groundwater contamination, bottled water and whole-house filtration were provided until affected properties were connected to the Wichita public water supply in 2000. Sampling of residential wells has continued and additional properties have been connected to city water as needed.
+
+This site was historically divided in to two Operable Units (OUs), OU1 and OU2. OU3 replaced and superseded OU1 and OU2 with the 2019 Record of Decision (ROD). OU1 included soil and groundwater contamination addressed in the 1999 ROD. OU2 included private residential wells in the Riverview Area addressed in the 1998 ROD.
+
+During the implementation and operation of the OU1 remedy, additional soil and groundwater contamination was identified. OU3 was established to address all site soil and groundwater contamination, both previously and newly identified. A new ROD for OU3 was signed on May 17, 2019.
+
+Components of the OU3 remedy include:
+
+Installation of a groundwater extraction and treatment system in the downgradient portion of the plume to provide a hydraulic barrier preventing further migration of the contaminated groundwater and to actively restore the aquifer to its beneficial reuse as a drinking water source.
+
+Excavation and offsite disposal of approximately 6,400 cubic yards of contaminated soils from the Allen’s Salvage and Former Midland Refinery properties.
+
+Following excavation, activated sodium persulfate will be applied to the base of the excavation to treat the upgradient portion of the groundwater plume.
+
+Groundwater monitoring to evaluate the effectiveness of the remedy.
+
+Institutional controls in the form of restrictive covenants, deed notices, permit requirements, and/or local ordinances, as deemed appropriate, to minimize contact with contaminated media and restrict uses that are inconsistent with the Selected Remedy.
+
+The EPA’s Removal Program conducted an investigation over a 2 year period as to whether vapor intrusion (VI) was occurring in buildings located on or near the Site. The investigation was completed in 2019 and determined that no VI concerns were present at the Site.
+
+### What Is the Current Site Status?
+
+The EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, signed on July 19th, 2024, concluded that the remedy currently protects human health and the environment because there are no known completed exposure pathways. However, for the remedy to be protective in the long-term, the OU3 remedy needs to be implemented. Sampling of private wells and monitoring wells will continue to ensure short-term protectiveness while the OU3 remedy implementation is ongoing.
+
+The Remedial Design, which serves as a basis for implementing the OU3 remedy, is now finalized. EPA will soon begin work on implementation of the OU3 remedy.
+
+### Sampling and Monitoring
+
+Ongoing groundwater monitoring and residential private well sampling is being conducted at the site on a semi annual basis, typically around May and October. Samplng results are shared with residents whose wells were sampled. All samples are analyzed for volatile organic compounds (VOCs) and 1,4-dioxane.

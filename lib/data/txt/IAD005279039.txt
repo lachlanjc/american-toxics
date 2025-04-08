@@ -1,30 +1,37 @@
-ELECTRO-COATINGS, INC.CEDAR RAPIDS, IA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Electro-Coatings, Inc., site is located at 911 Shaver Road Northeast on the north side of Cedar Lake in Cedar Rapids, Iowa. The Electro-Coatings plant in Cedar Rapids has been in operation since 1947. The plant historically performed chromium, cadmium, nickel and zinc plating. In March 1976, a yellow tinge was noted in the cooling water being discharged to Cedar Lake from Hawkeye Rubber Manufacturing Company (Hawkeye Rubber) located immediately west of the Electro-Coatings plant. This water was found to contain high levels of chromium which was tracked to a leaking concrete tank containing chromic acid at the Electro-Coatings plant. Moderate amounts of chlorinated solvents were subsequently detected in the groundwater at the site. Shortly after the chromium contamination was discovered the discharge from Hawkeye Rubber was moved to the sanitary sewer. Electro-Coatings immediately took actions to stop the leak and conducted improvements to prevent additional contaminant releases from their facility. In 1989, the site was placed on the Superfund National Priorities List due to concern that chromium contamination might affect municipal wells of the City of Cedar Rapids, the closest of which is about 2,000 ft. west of the site. No impact to the city wells from the Electro-Coatings, Inc., Site, has ever been found. It wasn't until 1999 that Iowa Department of Natural Resources (IDNR) entered into a consent order with Electro-Coatings for implementation of the cleanup plan. However, the Hawkeye Rubber production well continued to operate in accordance with the Record of Decision during the interim. Operation of the former Hawkeye Rubber production well PW-1 continued until August 2006, except for several months in 2003 due to a fire. Chromium has not been detected above the drinking water maximum contaminant level in water from PW-1 since September 2003.  Top of Page
-What Has Been Done to Clean Up the Site?
-A series of investigations led to the selection of a cleanup plan in the 1994 Record of Decision. The remedy selected was groundwater monitoring with a contingency for pump-and-treat in the event the Hawkeye Rubber Plant production well was shut down, given that it was pulling contamination away from the Electro-Coatings Site. These investigations also revealed solvent contamination of groundwater from Hawkeye Rubber. The Hawkeye Rubber production well was found to substantially prevent further migration of the chromium and solvent-related contamination. The cleanup plan called for continued pumping of the Hawkeye Rubber production well, groundwater monitoring and contingencies for additional action in the event of subsequent discovery of significant off-site migration of contaminants. The last monitoring event conducted at this site was in 2009. No contamination above the maximum contaminant level was detected according to the last Five-Year Review findings, and the remedy was protective of human health and the environment. Top of Page
-What Is the Current Site Status?
-No contamination above the maximum contaminant level was detected according to the last Five-Year Review (FYR), findings, and the remedy was protective of human health and the environment.  The EPA developed the last FYR conducted in 2015, and completed in 2016. The site was protective of human health and the environment in the short term until additional information was obtained with respect to potential ecological threats.  The screening of potential ecological risks was completed in 2017, and it determined that there was no ecological threats at the site.  Based on the last FYR and the screening-level ecological risk assessment results, it was determined that the remedy was protective of human health and the environment. A decision was made and signed in September 2019 to delete the site from the NPL. The EPA has also determined that no further FYRs are necessary at the site.  Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
+### Background
+
+The Electro-Coatings, Inc., site is located at 911 Shaver Road Northeast on the north side of Cedar Lake in Cedar Rapids, Iowa. The Electro-Coatings plant in Cedar Rapids has been in operation since 1947. The plant historically performed chromium, cadmium, nickel and zinc plating. In March 1976, a yellow tinge was noted in the cooling water being discharged to Cedar Lake from Hawkeye Rubber Manufacturing Company (Hawkeye Rubber) located immediately west of the Electro-Coatings plant. This water was found to contain high levels of chromium which was tracked to a leaking concrete tank containing chromic acid at the Electro-Coatings plant. Moderate amounts of chlorinated solvents were subsequently detected in the groundwater at the site. Shortly after the chromium contamination was discovered the discharge from Hawkeye Rubber was moved to the sanitary sewer. Electro-Coatings immediately took actions to stop the leak and conducted improvements to prevent additional contaminant releases from their facility.
+
+In 1989, the site was placed on the Superfund National Priorities List due to concern that chromium contamination might affect municipal wells of the City of Cedar Rapids, the closest of which is about 2,000 ft. west of the site. No impact to the city wells from the Electro-Coatings, Inc., Site, has ever been found.
+
+It wasn't until 1999 that Iowa Department of Natural Resources (IDNR) entered into a consent order with Electro-Coatings for implementation of the cleanup plan. However, the Hawkeye Rubber production well continued to operate in accordance with the Record of Decision during the interim.
+
+Operation of the former Hawkeye Rubber production well PW-1 continued until August 2006, except for several months in 2003 due to a fire. Chromium has not been detected above the drinking water maximum contaminant level in water from PW-1 since September 2003.
+
+### What Has Been Done to Clean Up the Site?
+
+A series of investigations led to the selection of a cleanup plan in the 1994 Record of Decision. The remedy selected was groundwater monitoring with a contingency for pump-and-treat in the event the Hawkeye Rubber Plant production well was shut down, given that it was pulling contamination away from the Electro-Coatings Site. These investigations also revealed solvent contamination of groundwater from Hawkeye Rubber. The Hawkeye Rubber production well was found to substantially prevent further migration of the chromium and solvent-related contamination. The cleanup plan called for continued pumping of the Hawkeye Rubber production well, groundwater monitoring and contingencies for additional action in the event of subsequent discovery of significant off-site migration of contaminants. The last monitoring event conducted at this site was in 2009. No contamination above the maximum contaminant level was detected according to the last Five-Year Review findings, and the remedy was protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+No contamination above the maximum contaminant level was detected according to the last Five-Year Review (FYR), findings, and the remedy was protective of human health and the environment. The EPA developed the last FYR conducted in 2015, and completed in 2016. The site was protective of human health and the environment in the short term until additional information was obtained with respect to potential ecological threats.
+
+The screening of potential ecological risks was completed in 2017, and it determined that there was no ecological threats at the site.
+
+Based on the last FYR and the screening-level ecological risk assessment results, it was determined that the remedy was protective of human health and the environment. A decision was made and signed in September 2019 to delete the site from the NPL. The EPA has also determined that no further FYRs are necessary at the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
 Electro-Coating still occupies and operates the facility at this site.
-Top of Page
-Sampling and Monitoring
+
+### Sampling and Monitoring
+
 No sampling has been conducted at the site since 2009. No further sampling or monitoring is required.
-Top of Page
-Emergency Response and Removal
+
+### Emergency Response and Removal
+
 Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1976, Electro-Coatings, Inc. removed the leaking deep-pit tank and started a plant-wide leak prevention program.
-Top of Page

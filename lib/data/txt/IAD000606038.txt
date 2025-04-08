@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 13-acre Lawrence Todtz Farm Site is located near Camanche, Iowa. An on-site landfill collected municipal and industrial wastes from 1958 to 1975. DuPont disposed of cellophane process waste in a section of the landfill now known as the impoundment. The impoundment portion of the landfill is a National Priorities List (NPL) Site regulated by the EPA and the Iowa Department of Natural Resources (IDNR). The EPA is the lead agency. The impoundment area is believed to be the source of tetrahydrofuran (THF), carbon disulfide, arsenic, and chromium contamination in groundwater. Remedial activities were completed on the site in 1991. A long-term monitoring program is underway to evaluate potential impacts of contamination on groundwater and surface water in the area.
+
+### What Has Been Done to Clean Up the Site?
+
+The Lawrence Todtz Farm Site was proposed for the Superfund NPL in June 1986. The EPA entered into an Administrative Order on Consent (AOC) with DuPont to investigate the site in 1988. Investigation showed that the DuPont impoundment was the likely source of the groundwater contaminants. The chemicals of concern are tetrahydrofuran, carbon disulfide, hexavalent chromium and arsenic. The EPA issued the Record of Decision (ROD) for this site in November 1988. The selected remedy included the following major components:
+
+- Installation of a two-foot-thick soil cover over the DuPont impoundment;
+- Implementation of institutional and engineering controls, including access restrictions, deed limitations and site fencing;
+- Site maintenance including mowing the grass and maintaining the fence;
+- Design and construction of a groundwater monitoring system and routine groundwater monitoring; and
+- Implementation of contingent requirements, including remediation of the impoundment area or remediation of the groundwater, depending on groundwater monitoring results.
+
+The long-term remedy included a soil cap over the impoundment, as well as groundwater, sediment and fish monitoring. Cleanup activities concluded in 1991. Institutional controls prohibit the site from being used for residential or agricultural uses, excavation activities or the use of groundwater.
+
+In 2020, the EPA issued an Explanation of Significant Differences (ESD) for the Lawrence Todtz Farm Superfund site. Under the Superfund law, the EPA issues an ESD for a site cleanup change that differs from the original decision document but does not alter the overall remedy. This ESD memorialized a decision to update the health-based standards at the site, which had changed since the 1988 Record of Decision. The ESD also updated to the contingency remedy action levels to reflect these updated health-based standards.
+
+### What Is the Current Site Status?
+
+DuPont is monitoring the groundwater and surface water to make sure that the contamination is not migrating off-site and is not posing unacceptable risks to human health or the environment.
+
+The EPA has conducted six Five-Year Reviews of the site’s remedy. These reviews evaluate whether the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review in 2020 found that the remedy at the site is currently short-term protective. The remedy at the site currently protects human health and the environment because institutional controls are in place to prevent exposure to groundwater and on-site pond sediments. However, for the remedy to be protective in the long-term, additional groundwater characterization and evaluation are necessary to determine whether additional response actions may be warranted.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+An environmental covenant on the site restricts future development of the area. These restrictions would: 1) preclude use of the impoundment property for any residential or agricultural purposes; 2) preclude use of the municipal landfill property for any residential or food chain agricultural purposes; 3) prohibit the construction, installation, maintenance or use of any wells on the site for the purpose of extracting water for drinking or irrigation purposes and 4) reserve such access as may be necessary to implement other components of the remedy. The environmental covenant was filed with the Clinton County Recorder’s Office on August 13, 2007.
+
+A second institutional control exists on the site in the form of listing on the Iowa Registry of Hazardous Waste Disposal Sites. The site was first listed on the Registry in 1989 and remains on the Registry. The designated use of a property on the Registry may not be substantially changed without prior written approval of the Director of the Iowa Department of Natural Resources (IDNR). Also, such a property may not be sold, conveyed or transferred without prior written approval from the Director of IDNR.
+
+A third institutional control exists on the site in the form of city of Comanche ordinance number 697, adopted in 2009, restricting the use of existing water supply wells and prohibiting construction of new wells within city limits, except for groundwater quality monitoring wells.
+
+### Enforcement Information
+
+In November 1990, a Consent Decree between the EPA and the PRPs was entered in court. Under this Decree, the PRPs agreed to complete the remedial action and perform long-term cleanup of the site.

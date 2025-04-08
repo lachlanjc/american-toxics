@@ -1,18 +1,17 @@
-NAVAL INDUSTRIAL RESERVE ORDNANCE PLANTFRIDLEY, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 83-acre Naval Industrial Reserve Ordnance Plant (NIROP) site is located about 700 feet from the Mississippi River in Fridley, Minnesota. The U.S. Navy and its contractors have produced advanced weapons systems at the facility since 1940. In 1981, trichloroethylene (TCE) was discovered in on-site groundwater wells and in the City of Minneapolis’ drinking water treatment plant intake pipe, located in the Mississippi River about 1,500 feet downstream from the site. Operation and maintenance of the site’s remedy, including groundwater monitoring and treatment, are ongoing. Operable Units (OUs) 2 and 3, which included soil at the site, were deleted from the National Priorities List or NPL. The Superfund law allows for deletion of cleaned up sections even if the site as a whole cannot be delisted from the NPL. OU1 includes the contaminated groundwater within and originating from the NIROP site and remains on the NPL.
+### Background
+
+The 83-acre Naval Industrial Reserve Ordnance Plant (NIROP) site is located about 700 feet from the Mississippi River in Fridley, Minnesota. The U.S. Navy and its contractors have produced advanced weapons systems at the facility since 1940. In 1981, trichloroethylene (TCE) was discovered in on-site groundwater wells and in the City of Minneapolis’ drinking water treatment plant intake pipe, located in the Mississippi River about 1,500 feet downstream from the site. Operation and maintenance of the site’s remedy, including groundwater monitoring and treatment, are ongoing.
+
+Operable Units (OUs) 2 and 3, which included soil at the site, were deleted from the National Priorities List or NPL. The Superfund law allows for deletion of cleaned up sections even if the site as a whole cannot be delisted from the NPL. OU1 includes the contaminated groundwater within and originating from the NIROP site and remains on the NPL.
+
 In the fall of 2019, redevelopment of the former NIROP property was completed. The property now has industrial and commercial space supporting several businesses
-Top of Page
-What Has Been Done to Clean Up the Site?
-The U.S. Navy is conducting the cleanup and groundwater monitoring action at the site under the oversight of EPA and the Minnesota Pollution Control Agency (MPCA). EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. The U.S. Navy is addressing several issues raised in the most recent five-year review concerning the improvement of the long-term effectiveness of the groundwater remedy under EPA and MPCA oversight. The site’s last five-year review was completed in November 2018 and the U.S. Navy is currently preparing another five-year review. Top of Page
-What Is the Current Site Status?
-In 2021, the U.S. Navy completed the installation of new extraction wells and a more efficient groundwater treatment plant. The U.S. Navy is in the process of completing the sixth five-year review. 
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The U.S. Navy is conducting the cleanup and groundwater monitoring action at the site under the oversight of EPA and the Minnesota Pollution Control Agency (MPCA).
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. The U.S. Navy is addressing several issues raised in the most recent five-year review concerning the improvement of the long-term effectiveness of the groundwater remedy under EPA and MPCA oversight. The site’s last five-year review was completed in November 2018 and the U.S. Navy is currently preparing another five-year review.
+
+### What Is the Current Site Status?
+
+In 2021, the U.S. Navy completed the installation of new extraction wells and a more efficient groundwater treatment plant. The U.S. Navy is in the process of completing the sixth five-year review.

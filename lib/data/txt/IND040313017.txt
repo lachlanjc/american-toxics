@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 14-acre Seymour Recycling Corporation site is located southwest of Seymour in Jackson County, Indiana. From 1970 to 1980, a processing center for waste chemicals operated on site. By 1980, when the facility closed, there were about 98 storage tanks and 50,000 drums on site. Surface drums and tanks and their contents were removed in 1981 and 1982. Private water supply wells for the residences within a mile of the site have been disconnected. The homes now connect to the City of Seymour’s public water supply system. Following cleanup including a landfill cap, soil and groundwater treatment systems, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.The most recent five year review in January 2022 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy is in place. Parts of the remedy included groundwater pumping and treatment, soil vapor extraction, land farming bioremediation nutrients into the contaminated source area, and capping the site’s source area. Construction of the remedy took place between 1987 and 1996. The site’s groundwater original pump-and-treat system operated for over 12 years. An updated treatment system began operating in 2011. The five year review in January 2022 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Contaminants of concern are 1-4 dioxane and VOCs. The Site landfill cap contains residual waste material from the Site after removal actions removed hazardous materials from on-site drums, storage tanks and contaminated topsoil from the Site.
+
+[http://www.epa.gov/R5Super/fiveyear/reviews\_pdf/indiana/seymour\_recycling\_429679.pdf](http://www.epa.gov/R5Super/fiveyear/reviews_pdf/indiana/seymour_recycling_429679.pdf)
+
+### Sampling and Monitoring
+
+Technical Documents
+
+- [Record of Decision](http://www.epa.gov/region5/cleanup/genericsite/pdfs/SITENAME-rod-yyyymmdd#) [(PDF)](http://www.epa.gov/region5/cleanup/genericsite/pdfs/SITENAME-report-yyyymmdd#) (9pp, 31K) December 2002
+- [Record of Decision](http://www.epa.gov/region5/cleanup/genericsite/pdfs/SITENAME-rod-yyyymmdd#) [(PDF)](http://www.epa.gov/region5/cleanup/genericsite/pdfs/SITENAME-ciplan-yyyymmdd#) (31pp,66K) September 1987
+- [Record of Decision (PDF)](http://www.epa.gov/superfund/sites/rods/fulltext/r0586046.pdf) (23pp, 43K) September 1986
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Cleanup of the site’s storage tanks and drums took place between December 1982 and January 1984. The top 12 inches of soil were also removed from about 75 percent of the site area and transported to permitted disposal sites. About 100 homes in the nearby Snyde Acres subdivision were connected to the City of Seymour’s public water supply system in 1985.

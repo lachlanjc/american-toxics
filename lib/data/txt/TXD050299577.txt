@@ -1,28 +1,35 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 12-acre Hart Creosoting Company site is located in Jasper in Jasper County, Texas. A former wood treatment facility operated at the site. Historical wood-treating operations used coal tar creosote dissolved in diesel to treat railroad ties and utility poles. The facility managed creosote waste from treatment operations in unlined surface ponds. Waste disposal activities contaminated soil, sediment, surface water and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities and monitoring are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. The cleanup of site contamination ensures the protection of human health and the environment and will encourage reuse of the property. EPA has conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. For the remedy to be protective over the long term, the five-year review recommended additional analysis of cap soils, repair of the cap, implementation of institutional controls, re-evaluation of cleanup goals, evaluation of the vapor intrusion pathway, and evaluation of the groundwater extraction and treatment system. 
-Wood treatment operations, which used a steam preconditioning and pressurized creosote process, began in 1958 and ended in May 1993. Other activities at the site included a sawmill that operated between 1952 and 1958, a pole peeling plant that operated from 1968 to 1978, and a pipe threading shop that operated from 1982 to 1985. Between 1958 and 1977, the wood-treating facility managed creosote waste from treatment operations in six unlined surface ponds. Around 1977, the facility reconfigured these ponds into four ponds and used them until November 1985. In 1988, under state oversight, the facility closed the four ponds. The facility then treated creosote wastes generated following pond closure in an on-site wastewater treatment system prior to discharge to a publicly owned treatment works. Potential contaminant sources at the site following its abandonment in 1993 included a drip pad, deteriorating aboveground storage tanks, contaminated treatment cylinders, wastewater holding tanks, cooling towers, treated wood storage areas, and contaminated soil and groundwater associated with spills and past waste management practices. Wood treatment operations, which used a steam preconditioning and pressurized creosote process, began in 1958 and ended in May 1993. Other activities at the site included a sawmill that operated between 1952 and 1958, a pole peeling plant that operated from 1968 to 1978, and a pipe threading shop that operated from 1982 to 1985. Between 1958 and 1977, the wood-treating facility managed creosote waste from treatment operations in six unlined surface ponds. Around 1977, the facility reconfigured these ponds into four ponds and used them until November 1985. In 1988, under state oversight, the facility closed the four ponds. The facility then treated creosote wastes generated following pond closure in an on-site wastewater treatment system prior to discharge to a publicly owned treatment works. Potential contaminant sources at the site following its abandonment in 1993 included a drip pad, deteriorating aboveground storage tanks, contaminated treatment cylinders, wastewater holding tanks, cooling towers, treated wood storage areas, and contaminated soil and groundwater associated with spills and past waste management practices. Top of Page
-What Is the Current Site Status?
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+The cleanup of site contamination ensures the protection of human health and the environment and will encourage reuse of the property.
+
+EPA has conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. For the remedy to be protective over the long term, the five-year review recommended additional analysis of cap soils, repair of the cap, implementation of institutional controls, re-evaluation of cleanup goals, evaluation of the vapor intrusion pathway, and evaluation of the groundwater extraction and treatment system.
+
+Wood treatment operations, which used a steam preconditioning and pressurized creosote process, began in 1958 and ended in May 1993. Other activities at the site included a sawmill that operated between 1952 and 1958, a pole peeling plant that operated from 1968 to 1978, and a pipe threading shop that operated from 1982 to 1985. Between 1958 and 1977, the wood-treating facility managed creosote waste from treatment operations in six unlined surface ponds. Around 1977, the facility reconfigured these ponds into four ponds and used them until November 1985.
+
+In 1988, under state oversight, the facility closed the four ponds. The facility then treated creosote wastes generated following pond closure in an on-site wastewater treatment system prior to discharge to a publicly owned treatment works. Potential contaminant sources at the site following its abandonment in 1993 included a drip pad, deteriorating aboveground storage tanks, contaminated treatment cylinders, wastewater holding tanks, cooling towers, treated wood storage areas, and contaminated soil and groundwater associated with spills and past waste management practices.
+
+Wood treatment operations, which used a steam preconditioning and pressurized creosote process, began in 1958 and ended in May 1993. Other activities at the site included a sawmill that operated between 1952 and 1958, a pole peeling plant that operated from 1968 to 1978, and a pipe threading shop that operated from 1982 to 1985. Between 1958 and 1977, the wood-treating facility managed creosote waste from treatment operations in six unlined surface ponds. Around 1977, the facility reconfigured these ponds into four ponds and used them until November 1985.
+
+In 1988, under state oversight, the facility closed the four ponds. The facility then treated creosote wastes generated following pond closure in an on-site wastewater treatment system prior to discharge to a publicly owned treatment works. Potential contaminant sources at the site following its abandonment in 1993 included a drip pad, deteriorating aboveground storage tanks, contaminated treatment cylinders, wastewater holding tanks, cooling towers, treated wood storage areas, and contaminated soil and groundwater associated with spills and past waste management practices.
+
+### What Is the Current Site Status?
+
 The site’s long-term remedy, selected in September 2006, included excavation of contaminated soil and sediment with disposal in an on-site Resource Conservation and Recovery Act (RCRA) containment cell. The remedy also included installation of a non-aqueous phase liquid (NAPL) recovery system to remove free phase and residual NAPL from the saturated zone. Construction of the remedy finished in September 2008. The site is now in the long-term remedial action phase of the Superfund process.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-State Contact (TCEQ): Andy Bajwa, 713-422-8926, Andy.Bajwa@tceq.texas.gov
-Top of Page
-Emergency Response and Removal
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+State Contact (TCEQ): Andy Bajwa, 713-422-8926, [Andy.Bajwa@tceq.texas.gov](mailto:Andy.Bajwa@tceq.texas.gov)
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1995, EPA drained four ponds and stabilized sludge. EPA consolidated sludge and visibly contaminated soil and placed the material in a natural clay-lined temporary waste cell on site.
-Top of Page

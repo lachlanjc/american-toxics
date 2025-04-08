@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The E.I. DuPont de Nemours & Company, Inc. (County Road X23) site consists of two subsites, known as the Baier and McCarl subsites, located in rural Lee County, near West Point, Iowa. Between 1949 and 1953, an estimated 48,000 to 72,000 55-gallon drums of waste generated from DuPont’s paint manufacturing facility in Fort Madison, Iowa, were disposed at the site. The wastes contaminated groundwater and soil at the two subsites with metals and organic compounds. Ash and unburned sludges were also present on the subsites. The site was listed on the EPA’s National Priorities List (NPL) in September 1990. Following cleanup, the EPA deleted the site from the NPL in September 1995. Groundwater monitoring and cap maintenance are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The EPA issued a Record of Decision selecting a remedy to address contamination at the site on May 28, 1991. The remedy included stabilization and solidification of contaminated soil from both subsites into a solid “block” which was covered with a soil cap at the Baier subsite. The remedy also included groundwater monitoring and institutional controls restricting the future uses of the subsites. The Record of Decision was modified by an Explanation of Significant Differences document issued by the EPA on May 11, 1992. This change stated that all of the contamination found at the McCarl subsite would be excavated and moved to the Baier subsite so that it could all be stabilized and solidified into one “block” on the Baier subsite. DuPont entered into a Consent Decree to conduct the cleanup at the site on April 23, 1992. DuPont has conducted the cleanup work under the oversight of the EPA. Cleanup activities were completed in 1993, and the EPA removed the site from the NPL in 1995.
+
+2,408 cubic yards of contaminated soil was excavated from the McCarl subsite and transported to the Baier subsite, where it was stockpiled within the area of contamination until it was treated. The McCarl subsite was then backfilled with clean soil and covered with six inches of topsoil. The site was graded, fertilized and seeded.
+
+Excavation at the Baier subsite began with the construction of a disposal trench. 6,795 cubic yards of contaminated soil was excavated from the Baier subsite and placed in the trench. The contaminated soil from the McCarl subsite was also placed in the trench.
+
+Stabilization of the wastes was achieved by mixing the contaminated soil with water and approximately 20% Type 1 Portland cement within the disposal trench. After chemical and physical performance testing of the stabilized material, a three-foot thick layer of compacted clay followed by a one-foot thick layer of topsoil was placed over the treated material. After placement of the topsoil, the disposal trench area was graded, fertilized and seeded.
+
+One year of quarterly groundwater sampling at the Baier subsite began in September 1993 and was then conducted annually through September 1996. Since the first five-year review in 1997, groundwater monitoring has been conducted biennially and sampling for VOCs was discontinued. During the second five-year review, it was determined that it was no longer necessary to continue groundwater monitoring at the McCarl subsite since contaminated soil was removed from that subsite. In December 2011, groundwater at the Baier subsite was sampled for VOCs to confirm that the soil remediation continued to prevent those contaminants from leaching to groundwater. VOCs were not detected in any of the samples collected. Groundwater continues to be sampled biennially at the Baier subsite.
+
+### What Is the Current Site Status?
+
+DuPont continues to maintain the soil cap and the grass at the Baier subsite, repairing any damage to the cap and ensuring the grass is healthy and mowing periodically. The area remains fenced with a locked gate to discourage trespassing. Groundwater is sampled every two years to ensure contamination has not affected the water. An environmental covenant has been placed on the deed of the Baier subsite which imposes limitations on how the property may be used in the future and serves as a notice to any future owner of the property that contaminated materials remain on site. The McCarl subsite does not have any restrictions on the deed as the wastes were removed from that property.
+
+The environmental covenant has been submitted each year since the imposition of the notice, except 2019 and 2020, and continued most recently in a letter dated January 20, 2022. The years when notice was not submitted were when site management was transitioning from DuPont to Corteva. It appears that the transition is now complete.
+
+The EPA has conducted six five-year reviews of the site’s remedy. These reviews evaluate whether the remedies put in place protect human health and the environment and are functioning as intended by site decision documents. The most recent review, completed on April 13, 2022, concluded that the remedy at the site is functioning as intended and continues to be protective of human health and the environment. There were no issues identified that could affect protectiveness of the remedy. The next five-year review is scheduled for 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+As indicated above, an environmental covenant document has been recorded on the Baier subsite with the Lee County Recorder since 2007. The covenant imposes the following activity and use limitations on the property:
+
+a. The Property shall not be used for any residential purpose or for food chain agricultural purposes;
+
+b. The construction, installation, maintenance or use of any wells on the Property (other than groundwater monitoring wells or remediation wells approved by the EPA) shall be prohibited;
+
+c. Unless approved in advance in writing by the EPA or its assigns, soils located on the Property shall not be excavated except for minor excavations necessary to install, maintain or repair fences;
+
+d. Grantor shall maintain in good condition and repair the security fence described in Part IE, Paragraph D of the Statement of Work attached to and made a part of the Consent Decree as Appendix B Grantor shall continuously display the described warning signs in a conspicuous place on said fence, and such signs shall be maintained in a legible condition;
+
+e. Grantor shall not use, nor allow others to use, the fenced area described in subparagraph d above, or any portion thereof for any residential, civic, recreational, or agricultural use except as provided in the Consent Decree; and
+
+f. Grantor may use, and allow others to use, the fenced area described in subparagraph d above, or any portion thereof, for commercial or industrial use provided, however, that under such use access to the fenced area is limited to: (1) workers employed in such use; (2) workers employed in such use by vendors or contractors to the owner of the fenced area; and (3) law enforcement, emergency, or medical workers performing law enforcement or temporary emergency or medical services at the Property; and further provided that access to the Property under such use is prohibited to children and members of the general public that are not business invitees.
+
+### Sampling and Monitoring
+
+Currently, sampling has been conducted every 2 years. Recommendation has been made by the PRP recently to reduce the sampling to coincide with the five-year reviews. This recommendation was submitted and approved in 2022.

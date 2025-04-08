@@ -1,52 +1,41 @@
-BELVIDERE MUNICIPAL LANDFILLBELVIDERE, IL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Belvidere Municipal Landfill site is located near Belvidere, Illinois, just west of the city limits. The City of Belvidere owned and operated a municipal landfill on site from 1939 to 1965. From 1965 to 1973, the city retained ownership while private contractors operated the landfill. The city closed the landfill in 1973. Industrial wastes in the landfill contaminated a drum disposal area and groundwater. In addition, site investigations found the landfill cover was inadequate in some areas and the contaminants posed a threat to surface water and groundwater. Following cleanup, operation and maintenance activities as well as gas vent and groundwater monitoring are ongoing. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-The was deleted from the NPL in February 2015. EPA has conducted several five-year reviews of the remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent five-year review was completed in May 2015. It concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. 
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy is in place. In addition to drum removal, remedial actions included installation of a groundwater pump-and-treat system (a barrier extraction system), excavation and consolidation of contaminated soils with landfill material prior to capping, a new landfill cap, a long-term groundwater monitoring well system, access restrictions, deed restrictions and flood control measures. Construction of the site’s remedy finished in 1992.Since that time, the site’s potentially responsible parties (PRPs) have conducted operation and maintenance activities at the site. The site is mown, for example. Prior to mowing, the site looks like a prairie. After mowing, the site looks like a football field. Gas vents are a reminder that the area is a landfill. Groundwater contaminant concentrations have been generally stable or declining. All current monitoring data indicate that contamination remains contained within the landfill cap and on the deed-restricted site property. There is no usage of the water between the landfill and the Kishwaukee River.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The only Volitile Organic Componds (VOCs) monitored are benzene, ethybenzene, toluene and xylenes.  These VOCs have not been detected in over ten years. The soils under the RCRA cap include low levels of VOCs, PAHs, nitrates and heavy metals including chromium. 
-Top of Page
-Sampling and Monitoring
+### Background
+
+The Belvidere Municipal Landfill site is located near Belvidere, Illinois, just west of the city limits. The City of Belvidere owned and operated a municipal landfill on site from 1939 to 1965. From 1965 to 1973, the city retained ownership while private contractors operated the landfill. The city closed the landfill in 1973. Industrial wastes in the landfill contaminated a drum disposal area and groundwater. In addition, site investigations found the landfill cover was inadequate in some areas and the contaminants posed a threat to surface water and groundwater. Following cleanup, operation and maintenance activities as well as gas vent and groundwater monitoring are ongoing.  
+
+### What Has Been Done to Clean Up the Site?
+
+The was deleted from the NPL in February 2015.  
+
+EPA has conducted several five-year reviews of the remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent five-year review was completed in May 2015. It concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy is in place. In addition to drum removal, remedial actions included installation of a groundwater pump-and-treat system (a barrier extraction system), excavation and consolidation of contaminated soils with landfill material prior to capping, a new landfill cap, a long-term groundwater monitoring well system, access restrictions, deed restrictions and flood control measures. Construction of the site’s remedy finished in 1992.
+
+Since that time, the site’s potentially responsible parties (PRPs) have conducted operation and maintenance activities at the site. The site is mown, for example. Prior to mowing, the site looks like a prairie. After mowing, the site looks like a football field. Gas vents are a reminder that the area is a landfill. Groundwater contaminant concentrations have been generally stable or declining. All current monitoring data indicate that contamination remains contained within the landfill cap and on the deed-restricted site property. There is no usage of the water between the landfill and the Kishwaukee River.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The only Volitile Organic Componds (VOCs) monitored are benzene, ethybenzene, toluene and xylenes. These VOCs have not been detected in over ten years. The soils under the RCRA cap include low levels of VOCs, PAHs, nitrates and heavy metals including chromium.
+
+### Sampling and Monitoring
+
+  
 Five-Year Reviews
-Fourth 
-five-year review (PDF) (50pp, 1.7MB) May 2010 
-Third 
-five-year review (PDF) (67pp, 1.7MB) September 
-2005 
-Second 
-five-year review (PDF) (13pp, 102K) September 
-2000 
-First 
-five-year review (PDF) (5pp, 82K) June 1995
-Top of Page
-Emergency Response and Removal
-A removal action removed drums containing PCBs and industrial sludges. 
-These drums were found in two areas on the western slope of the 
-landfill. In addition, contaminated soils were removed. As part of the 
-removal action, the installation a groundwater pump and treat system and
- the consolidation of PCB contaminated soils occurred. A multilayered 
-RCRA cap was installed at this time.  
-Top of Page
-Enforcement Information
-No enforcement activities have occurred. 
-Top of Page
+
+- [Fourth five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f2010050003461.pdf) (50pp, 1.7MB) May 2010
+- [Third five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f05-05025.pdf) (67pp, 1.7MB) September 2005
+- [Second five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f00-05003.pdf) (13pp, 102K) September 2000
+- [First five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f95-05001.pdf) (5pp, 82K) June 1995
+
+### Emergency Response and Removal
+
+A removal action removed drums containing PCBs and industrial sludges. These drums were found in two areas on the western slope of the landfill. In addition, contaminated soils were removed. As part of the removal action, the installation a groundwater pump and treat system and the consolidation of PCB contaminated soils occurred. A multilayered RCRA cap was installed at this time.  
+
+### Enforcement Information
+
+No enforcement activities have occurred.

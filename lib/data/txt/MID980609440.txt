@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The J & L Landfill, located in Rochester Hills, Michigan, is a 17-acre site one mile west of the Clinton River. The J & L Landfill was mined for sand and gravel for some time until 1951. From 1951 - 1980, slags from steel manufacturing processes, dust form electric arc furnace operations and other wastes were deposited into this gravel pit before it was filled to grade and closed in 1980. The site is bordered on the east, west and north by six other landfills within one-half mile of the site. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and previous potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires implementing enhanced institutional controls; enforcement, compliance, maintenance and monitoring of effective institutional controls; and updating the operation and maintenance activities for site monitoring systems.
+
+### What Is the Current Site Status?
+
+EPA has completed the fifth five-year review of the site. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment.
+
+The five-year review in April 2021 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+[Fifth Five Year Review Report (Signed) - J & L Landfill - 2021(PDF)](https://semspub.epa.gov/src/document/05/965606) (26 pp, 1.1MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Benzene is a contaminant of concern in the groundwater monitoring wells at the Site. Inorganic compounds including metals are found in the groundwater monitoring results. The landfill had historically recieved disposals of steel slag and steel manufacturing watses. Due to the numerous landfills in the area, methane is a contaminant of concern.
+
+[http://www.epa.gov/superfund/sites/fiveyear/f2011050003846.pdf](http://www.epa.gov/superfund/sites/fiveyear/f2011050003846.pdf)

@@ -1,34 +1,51 @@
-CROSS BROTHERS PAIL RECYCLING (PEMBROKE)PEMBROKE TOWNSHIP, IL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-U.S. Environmental Protection Agency is proposing additional work to address remaining contamination at the Cross Brothers Pail Recycling Superfund site in Pembroke Township, Illinois. This 20-acre area was a pail and drum reclamation business from 1961 until 1980. Drums and pails containing dye, ink and paint residue were placed on the ground, allowing the contents to drain. Waste solvents dissolved the remaining residues prior to drum reconditioning. Pail recycling operations lead to soil and groundwater contamination, including polychlorinated biphenyls, or PCBs, volatile organic compounds, or VOCs, and heavy metals. The site was previously addressed through potentially responsible party [HC1] actions. Currently, a wood pallet reclamation facility operates on a 6.5-acre portion of the site. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-EPA selected the site’s long-term remedy or record of decision, ROD, in September 1989, after interim remedial measures were set by Illinois EPA in 1985. These short-term measures cleared the disposal area of vegetation and removed 6,500 tons of contaminated surficial soil, 60 tons of crushed pails, 550 drums of contained wastes, and 580 empty drums. The Final ROD addressed contamination with the installation of a soil flushing system to treat groundwater, and the implementation of institutional controls with the following objectives: 
-Prevent direct contact with contaminated soils;
-Prevent migration of contaminated soils and groundwater; and
-Prevent ingestion of contaminated groundwater. 
-Major parts of the final remedy included excavation of contaminated soil and soil flushing, a groundwater pump-and-treat system, and a vegetative cover. Excavation of contaminated soil finished in November 1995. The groundwater system, which included soil flushing, started operating in May 1996. EPA updated the remedy in 2004 by revising groundwater cleanup endpoints and clarifying institutional control requirements. EPA evaluated follow-up groundwater data and issued the site’s Final Close-Out Report in 2007. Top of Page
-What Is the Current Site Status?
-EPA conducts five-year reviews on Superfund sites to ensure that the remedies put in place protect human health and the environment, and function as intended by site decision documents. Several five-year reviews of the site’s remedy had been conducted, though the review intended to take place in 2020 was deferred due to the pandemic. Once completed, the most recent review discovered that an individual began construction on a parcel of land within the site boundaries. This prompted a removal assessment to analyze the excavated material for contaminants. The removal assessment included 20 soil samples and seven groundwater samples from the site. Soil and groundwater samples were analyzed for inorganic target analyte, or TAL, metals, PCBs, and VOCs. Groundwater samples were also analyzed for semi-volatile organic chemicals. The removal assessment revealed high lead concentrations in the soil. What Is Next? Due to the removal assessment results, U.S. EPA is to conduct further assessments and decide on cleanup alternatives. EPA will then evaluate each option in detail against criteria established by federal law [see box below]. Prior to making a final cleanup decision, EPA will open a public comment period to receive input from the community on the proposed plan. EPA will then review all comments received during the public comment period and based on these comments may modify its recommended alternative. 
-Explanation of Evaluation Criteria U.S. EPA compares each cleanup alternative against the following nine criteria: 1) Overall protection of human health and environment 2) Compliance with applicable or relevant and appropriate requirements, or ARARs 3) Long-term effectiveness and permanence 4) Reduction of toxicity, mobility, or volume through treatment 5) Short-term effectiveness 6) Ability to Implement 7) Cost 8) State acceptance 9) Community acceptance 
-Top of Page
-Sampling and Monitoring
-Five-Year Reviews 
-Third 
-five-year review (PDF) (161pp, 7MB) September 
-2010 
-Second 
-five-year review (PDF) (54pp, 803K) September 
-2005 
-First 
-five-year review (PDF) (19pp, 119K) August 2000  
-Top of Page
+### Background
+
+U.S. Environmental Protection Agency is proposing additional work to address remaining contamination at the Cross Brothers Pail Recycling Superfund site in Pembroke Township, Illinois. This 20-acre area was a pail and drum reclamation business from 1961 until 1980. Drums and pails containing dye, ink and paint residue were placed on the ground, allowing the contents to drain. Waste solvents dissolved the remaining residues prior to drum reconditioning. Pail recycling operations lead to soil and groundwater contamination, including polychlorinated biphenyls, or PCBs, volatile organic compounds, or VOCs, and heavy metals. The site was previously addressed through potentially responsible party \[HC1\] actions. Currently, a wood pallet reclamation facility operates on a 6.5-acre portion of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA selected the site’s long-term remedy or record of decision, ROD, in September 1989, after interim remedial measures were set by Illinois EPA in 1985. These short-term measures cleared the disposal area of vegetation and removed 6,500 tons of contaminated surficial soil, 60 tons of crushed pails, 550 drums of contained wastes, and 580 empty drums. The Final ROD addressed contamination with the installation of a soil flushing system to treat groundwater, and the implementation of institutional controls with the following objectives:
+
+- Prevent direct contact with contaminated soils;
+- Prevent migration of contaminated soils and groundwater; and
+- Prevent ingestion of contaminated groundwater.
+
+Major parts of the final remedy included excavation of contaminated soil and soil flushing, a groundwater pump-and-treat system, and a vegetative cover. Excavation of contaminated soil finished in November 1995. The groundwater system, which included soil flushing, started operating in May 1996. EPA updated the remedy in 2004 by revising groundwater cleanup endpoints and clarifying institutional control requirements. EPA evaluated follow-up groundwater data and issued the site’s Final Close-Out Report in 2007.
+
+### What Is the Current Site Status?
+
+EPA conducts five-year reviews on Superfund sites to ensure that the remedies put in place protect human health and the environment, and function as intended by site decision documents. Several five-year reviews of the site’s remedy had been conducted, though the review intended to take place in 2020 was deferred due to the pandemic. Once completed, the most recent review discovered that an individual began construction on a parcel of land within the site boundaries. This prompted a removal assessment to analyze the excavated material for contaminants. The removal assessment included 20 soil samples and seven groundwater samples from the site. Soil and groundwater samples were analyzed for inorganic target analyte, or TAL, metals, PCBs, and VOCs. Groundwater samples were also analyzed for semi-volatile organic chemicals. The removal assessment revealed high lead concentrations in the soil.
+
+#### What Is Next?
+
+Due to the removal assessment results, U.S. EPA is to conduct further assessments and decide on cleanup alternatives. EPA will then evaluate each option in detail against criteria established by federal law \[see box below\]. Prior to making a final cleanup decision, EPA will open a public comment period to receive input from the community on the proposed plan. EPA will then review all comments received during the public comment period and based on these comments may modify its recommended alternative.
+
+##### Explanation of Evaluation Criteria
+
+U.S. EPA compares each cleanup alternative against the following nine criteria:
+
+1) Overall protection of human health and environment
+
+2) Compliance with applicable or relevant and appropriate requirements, or ARARs
+
+3) Long-term effectiveness and permanence
+
+4) Reduction of toxicity, mobility, or volume through treatment
+
+5) Short-term effectiveness
+
+6) Ability to Implement
+
+7) Cost
+
+8) State acceptance
+
+9) Community acceptance
+
+### Sampling and Monitoring
+
+## Five-Year Reviews
+
+- [Third five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f2010050003527.pdf) (161pp, 7MB) September 2010
+- [Second five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f05-05019.pdf) (54pp, 803K) September 2005
+- [First five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f00-05010.pdf) (19pp, 119K) August 2000

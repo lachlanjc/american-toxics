@@ -1,2 +1,38 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The MIDCO II site is located near Gary in Lake County, Indiana. MIDCO II includes a 7-acre disposal area with contaminated groundwater, plus about 4 acres of contaminated sediments and additional groundwater contamination. From January through August 1977, activities on site included the storage of waste solvents, other wastes and reclaimable materials, neutralization of acids and caustics, and dumping of wastes. In August 1977, a site fire consumed or damaged an estimated 50,000 to 60,000 drums. Facility operations contaminated soil and groundwater with hazardous chemicals. Groundwater monitoring is ongoing. Final Phase of site cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through a combination of federal and state actions and federal and state oversight of potentially responsible party (PRP) actions.
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1981, EPA fenced the site. From 1984 to 1989, EPA removed and disposed of all wastes on the site and excavated and disposed of contaminated soil and wastes from the sludge pit and filter bed.  
+
+### What Is the Current Site Status?
+
+The site’s final remedy included groundwater pumping and treatment, treatment and deep well injection of the treated groundwater into a saline aquifer, treatment of contaminated soil and sediments using soil vapor extraction and solidification/stabilization, and capping the site.
+
+In 2004, EPA updated the remedy to add use of air sparging technology to help clean up source area groundwater and soil below the groundwater. The remedy update also increased the use of soil vapor extraction to treat contaminated soils and reduced the use of solidification/stabilization for site soils. The site’s soil vapor extraction and air sparging system has successfully removed a large mass of volatile organic compounds (VOCs) from the soils and groundwater. Following completion of the air sparging and soil vapor extraction, highly contaminated soil with cynide was treated in place using In Situ Chemical Oxidation and remaing sediment with contamination above health based levels were excavated and consolidated to be capped under the Site final cover. Construction of the site final cover is currently taking place and construction completion is expected by December 2015.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Contaminants affecting the groundwater include VOCs such as methylene chloride, benzene, toluene, trichloroethylene, tetrachloroethylene, and ethyl benzene (these are all liquids that easily evaporate); other organic compounds such as isophorone; metals such as arsenic, barium, chromium, nickel, copper and lead; and cyanide. Sediments and soils are contaminated with similar substances as well as PCBs and polyaromatic hydrocarbons.
+
+1,4-dioxane was recently detected in the groundwater as a result of improved laboratory detection limits. In 2010 it was detected at 880 ug/l in on-site groundwater, and up to 630 ug/l in off-site groundwater.
+
+N/A
+
+### Sampling and Monitoring
+
+[Five-Year Reviews](http://cfpub.epa.gov/fiveyear/index.cfm?fuseaction=fyrsearch.showSitePage&id=0501761)
+
+- [Second five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f0405005.pdf) (97pp, 2.3MB) May 2004
+- [First five-year review (PDF)](http://www.epa.gov/superfund/sites/fiveyear/f99-05007.pdf) (32pp, 460K) October 1998
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1981, EPA fenced the site. From 1984 to 1989, EPA removed and disposed of all wastes on the site and excavated and disposed of contaminated soil and wastes from the sludge pit and filter bed.

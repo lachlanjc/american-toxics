@@ -1,31 +1,35 @@
-BIO-ECOLOGY SYSTEMS, INC.GRAND PRAIRIE, TX 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 11-acre Bio-Ecology Systems, Inc. site is located in Grand Prairie, Texas. Solid waste management activities at the site contaminated soil and groundwater with heavy metals and volatile organic compounds (VOCs). Following cleanup, EPA took the site off the Superfund program’s National Priorities List in 1996.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and state actions. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires groundwater monitoring, cap maintenance, adding monitoring well identification tags and deed controls. The site was a Class I industrial solid waste management facility authorized by the State of Texas in April 1972 to incinerate, chemically treat, biologically oxidate and landfill waste. After numerous permit violations and court orders to improve operations, the site owners went bankrupt in June 1978. The Texas Department of Water Resources (TDWR), now the Texas Natural Resource Conservation Commission (TNRCC), conducted the site’s remedial investigation and feasibility study from April 1982 to June 1984. EPA completed an Interim Remedial Measure (IRM) in August 1985, removing 15 storage tanks and surface contamination, constructing a fence, and posting warning signs to restrict access. EPA finalized the site’s Close-Out Report in April 1993. Top of Page
-What Is the Current Site Status?
-The long-term remedy included raising the elevation of the site above the 100-year floodplain, stabilization and on-site disposal of waste, construction of a fence to limit site access, and groundwater monitoring. Construction of the remedy finished in 1988. Operation and maintenance activities continued until 2007. Following cleanup, EPA took the site off the NPL in 1996. 
-In Janauary 2022TCEQ collected leachate samples and performed inspection activities at the Site.The FY 2022First Semi-Annual Operations and Maintenance (O&M) Report, Bio-Ecology Superfund Site was uploaded to the Site webpage on Friday June 24, 2022. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-State contact (TCEQ): Andy Bajwa, 713-422-8926, Andy.Bajwa@tceq.texas.gov Top of Page
-Sampling and Monitoring
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires groundwater monitoring, cap maintenance, adding monitoring well identification tags and deed controls.
+
+The site was a Class I industrial solid waste management facility authorized by the State of Texas in April 1972 to incinerate, chemically treat, biologically oxidate and landfill waste. After numerous permit violations and court orders to improve operations, the site owners went bankrupt in June 1978. The Texas Department of Water Resources (TDWR), now the Texas Natural Resource Conservation Commission (TNRCC), conducted the site’s remedial investigation and feasibility study from April 1982 to June 1984. EPA completed an Interim Remedial Measure (IRM) in August 1985, removing 15 storage tanks and surface contamination, constructing a fence, and posting warning signs to restrict access. EPA finalized the site’s Close-Out Report in April 1993.
+
+### What Is the Current Site Status?
+
+The long-term remedy included raising the elevation of the site above the 100-year floodplain, stabilization and on-site disposal of waste, construction of a fence to limit site access, and groundwater monitoring. Construction of the remedy finished in 1988. Operation and maintenance activities continued until 2007.
+
+Following cleanup, EPA took the site off the NPL in 1996.
+
+In Janauary 2022TCEQ collected leachate samples and performed inspection activities at the Site.The FY 2022First Semi-Annual Operations and Maintenance (O&M) Report, Bio-Ecology Superfund Site was uploaded to the Site webpage on Friday June 24, 2022.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+State contact (TCEQ): Andy Bajwa, 713-422-8926, Andy.Bajwa@tceq.texas.gov
+
+### Sampling and Monitoring
+
 TCEQ performs semi annaul leachate monitoring events and groundwater sampling annaully every two years to determine if the landfill remedy component is effectively containing the waste at the Site. The next groundwater sampling event will be in Spring 2021. EPA will make the results from the semi annual leachate monitoring events available on the website in Summer 2020.
-Top of Page
-Emergency Response and Removal
+
+### Emergency Response and Removal
+
 Site cleanup also included a removal action, or short-term cleanup, to address immediate threats to human health and the environment. A removal action in 1983 removed and disposed of hazardous liquids, sludge and contaminated soil, decontaminated and removed 15 aboveground storage tanks, and cleaned up surface debris.
-Top of Page

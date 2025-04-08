@@ -1,18 +1,17 @@
-SCHOFIELD BARRACKS (USARMY)SCHOFIELD, HI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 17,725-acre Schofield Barracks site is located in Wahiawa, Oahu, Hawaii. Industrial operations at the site contaminated groundwater with volatile organic compounds (VOCs), including trichloroethene (TCE). Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 2000.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site was addressed through federal actions.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires addition of a new supply well, evaluation of three other new wells and additional coordination between agencies responsible for the site. EPA addressed these issues before taking the site off the NPL.
-Top of Page
-What Is the Current Site Status?
-In 1986, the Army installed a groundwater treatment system on four existing production wells to address TCE contamination in drinking water. A removal action, or short-term cleanup, excavated contaminated soils.The long-term remedy included wellhead treatment at contaminated wells and regrading and vegetation of the landfill cover. EPA selected “no further action” as the remedy for non-TCE-contaminated soils in 1996 after removal actions removed the threat to human health. The remedies are in place and operating properly. Monitoring is ongoing.After cleanup, EPA took the site off the NPL in 2000.
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires addition of a new supply well, evaluation of three other new wells and additional coordination between agencies responsible for the site. EPA addressed these issues before taking the site off the NPL.  
+
+### What Is the Current Site Status?
+
+In 1986, the Army installed a groundwater treatment system on four existing production wells to address TCE contamination in drinking water. A removal action, or short-term cleanup, excavated contaminated soils.
+
+The long-term remedy included wellhead treatment at contaminated wells and regrading and vegetation of the landfill cover. EPA selected “no further action” as the remedy for non-TCE-contaminated soils in 1996 after removal actions removed the threat to human health. The remedies are in place and operating properly. Monitoring is ongoing.  
+
+After cleanup, EPA took the site off the NPL in 2000.

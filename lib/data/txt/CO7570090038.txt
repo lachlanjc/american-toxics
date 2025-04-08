@@ -1,31 +1,53 @@
-AIR FORCE PLANT PJKSLITTLETON, CO 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Air Force Plant Peter J. Kiewit and Sons (PJKS) site is owned and operated by Lockheed Martin Space Systems Company. The plant is located 25 miles southwest of Denver, near Waterton Canyon, Colorado. PJKS covers 464 acres and is surrounded by another 4,700 acres owned by Lockheed Martin.   ​The Air Force used the PJKS facility from 1957 to 1968. They used the facility for:    
-​Testing Titan rockets  
-​Missile assembly 
-​Research and development  
-​This work contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.​  Top of Page
-What Has Been Done to Clean Up the Site?
-​​The site is being addressed through federal and state actions. The Air Force is responsible for the cleanup. The Colorado Department of Public Health and Environment (CDPHE) is the lead regulator of the cleanup, with EPA providing oversight.  ​​The EPA placed the site on the Superfund program’s National Priorities List (NPL) in November 1989.  ​The main hazardous chemicals in the groundwater are trichloroethylene (TCE) and N-nitrosodimethylamine (NDMA). TCE is a cleaning solvent. NDMA is a component in rocket fuel.  ​TCE will be treated with bioremediation. The EPA and the state studied NDMA but did not find a successful way to break down that contamination in the deep groundwater. So, they granted the Air Force a “Technical Impracticability Waiver”, which acknowledges that, currently, cleanup of ground water to the applicable standards is not possible from an engineering perspective because of the limitations in the currently available engineering methods and technologies.  ​The main hazardous chemical in the soil at PJKS was polychlorinated biphenyls (PCBs). In October 2001, the Air Force removed about 6,000 tons of PCB-contaminated soil from two sites, the Upper and Lower areas. In October 2005, the Air Force removed contaminated soil at 16 additional locations. One of these locations required an agreement to restrict site use because some PCBs remain capped in place.  ​Between 1986 and 2009, the Air Force also performed the following actions:  
-​Removed two half-full drums of scrap metal alloy containing low levels of radioactive waste 
-​Abandoned utilities and wells 
-​Excavated contaminated soil from the D-1 landfill.   
-​In August 2013, a long-term remedy plan was chosen. The plan is to use:  
-​Bioremediation of groundwater (using microorganisms to digest contamination) 
-​Notice of restrictions for groundwater 
-​New rules controlling engineering and land use​​  
-Top of Page
-What Is the Current Site Status?
-The cleanup work, called the “remedy,” is complete and operations and maintenance is ongoing.   After a cleanup is complete, the EPA conducts a review every five years to make sure that the work is still protecting human health and the environment.   The latest Five-Year Review in 2023 found some issues with the groundwater cleanup in Operable Units 4 and 5 (OU4 and OU5), with contaminant concentrations not going down as expected. In response, the Air Force will resume injections of vegetable oil into the groundwater. This is called bioremediation. It will help microorganisms in the environment break down contamination.   Additionally, the review found that further studies, call Remedial Investigations, were needed to determine if there are risks to human health and/or the environment from:   
-Vapor Intrusion  
-PFAS 
-1,4 Dioxane  
-Those investigations will begin in the summer of 2025. Results are expected to be presented in the next Five-Year Review.  You can read the 2023 Five-Year Review (pdf) (540pp, 77.5MB). Top of Page
+### Background
+
+The Air Force Plant Peter J. Kiewit and Sons (PJKS) site is owned and operated by Lockheed Martin Space Systems Company. The plant is located 25 miles southwest of Denver, near Waterton Canyon, Colorado. PJKS covers 464 acres and is surrounded by another 4,700 acres owned by Lockheed Martin.
+
+The Air Force used the PJKS facility from 1957 to 1968. They used the facility for:
+
+- Testing Titan rockets
+- Missile assembly
+- Research and development
+
+This work contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. The Air Force is responsible for the cleanup. The Colorado Department of Public Health and Environment (CDPHE) is the lead regulator of the cleanup, with EPA providing oversight.
+
+The EPA placed the site on the Superfund program’s National Priorities List (NPL) in November 1989.
+
+The main hazardous chemicals in the groundwater are trichloroethylene (TCE) and N-nitrosodimethylamine (NDMA). TCE is a cleaning solvent. NDMA is a component in rocket fuel.
+
+TCE will be treated with bioremediation. The EPA and the state studied NDMA but did not find a successful way to break down that contamination in the deep groundwater. So, they granted the Air Force a “Technical Impracticability Waiver”, which acknowledges that, currently, cleanup of ground water to the applicable standards is not possible from an engineering perspective because of the limitations in the currently available engineering methods and technologies.
+
+The main hazardous chemical in the soil at PJKS was polychlorinated biphenyls (PCBs). In October 2001, the Air Force removed about 6,000 tons of PCB-contaminated soil from two sites, the Upper and Lower areas. In October 2005, the Air Force removed contaminated soil at 16 additional locations. One of these locations required an agreement to restrict site use because some PCBs remain capped in place.
+
+Between 1986 and 2009, the Air Force also performed the following actions:
+
+- Removed two half-full drums of scrap metal alloy containing low levels of radioactive waste
+- Abandoned utilities and wells
+- Excavated contaminated soil from the D-1 landfill.
+
+In August 2013, a long-term remedy plan was chosen. The plan is to use:
+
+- Bioremediation of groundwater (using microorganisms to digest contamination)
+- Notice of restrictions for groundwater
+- New rules controlling engineering and land use
+
+### What Is the Current Site Status?
+
+The cleanup work, called the “remedy,” is complete and operations and maintenance is ongoing.
+
+After a cleanup is complete, the EPA conducts a review every five years to make sure that the work is still protecting human health and the environment.
+
+The latest Five-Year Review in 2023 found some issues with the groundwater cleanup in Operable Units 4 and 5 (OU4 and OU5), with contaminant concentrations not going down as expected. In response, the Air Force will resume injections of vegetable oil into the groundwater. This is called bioremediation. It will help microorganisms in the environment break down contamination.
+
+Additionally, the review found that further studies, call Remedial Investigations, were needed to determine if there are risks to human health and/or the environment from:
+
+- Vapor Intrusion
+- PFAS
+- 1,4 Dioxane
+
+Those investigations will begin in the summer of 2025. Results are expected to be presented in the next Five-Year Review.
+
+You can read the [2023 Five-Year Re](https://semspub.epa.gov/work/08/2217312.pdf) [view (pdf)](https://semspub.epa.gov/work/08/2217312.pdf) (540pp, 77.5MB).

@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Advanced Micro Devices, Inc. formerly manufactured semiconductor and microprocessor devices at this 5.5-acre site. Building 915 was built on former agricultural land in 1973. At that time, three underground acid neutralization tanks were installed north of the building. The building's operations also involved underground storage tanks of waste organic solvents. In 1981, the company identified volatile organic compounds (VOCs) in wells near the building. VOCs are compounds used in many applications, such as dry cleaning, paint stripping, metal plating and machinery degreasing. High levels of VOCs present in the on-site soils resulted from leaking tanks and spills during solvent handling. Following construction of the site’s remedy, ground water treatment and monitoring are ongoing.
+
+The Site is located in close proximity to other sites undergoing groundwater remediation and vapor intrusion evaluation and mitigation work: the AMD 901/902 Thompson Site, the TRW Microwave site, and the Philips/Signetics site (collectively referred to as the “Triple Site”). Another source of regional groundwater contamination originating south of the Site is the former Mohawk facility. A plume of contamination from the Mohawk facility has been mapped beneath the eastern portion of the AMD 915 Site. The Site does not impact municipal drinking water supplies.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+Immediate Actions: In 1982, Advanced Micro Devices removed 5,600 cubic yards of contaminated soil and a three-tank underground acid neutralization system with a combined capacity of 4,700 gallons. The soil was taken to a federally approved hazardous waste facility. One of the tanks had a hole in its side. Five additional underground storage tanks were removed between 1982 and 1983. Between 1982 and 1983, five ground water extraction wells and pumps were installed to stop the migration of contaminants off site. Seven more wells installed between 1983 and 1985 provide an additional hydraulic barrier to trap the contaminant plume migrating off site. Water from these wells is being treated by carbon adsorption to remove VOCs. In addition, ground water extracted from 18 other off-site wells, installed as part of the cleanup activities for the other Superfund sites in the area, is being treated by the carbon adsorption at this site. All construction is completed. Ground water treatment will continue until established goals for the site are met.
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1990.
+
+Entire Site: In 1991, Advanced Micro Devices finished investigating the type and extent of contamination at the site. EPA chose to continue operation of the existing ground water extraction and treatment system, which treats the water by carbon adsorption, until established cleanup levels are met.
+
+Removal of contaminated soils and tanks and the continued treatment of contaminated ground water have reduced the potential for exposure to hazardous materials at the site.
+
+To facilitate Site redevelopment, in 2016, the groundwater treatment system was replaced with an upgraded treatment system in the northwest corner of the Site. This replacement system treats groundwater via carbon adsorption. Treated groundwater is discharged to the storm sewer system, and is not reused on-site. Groundwater extraction and treatment are ongoing.
+
+### What Is the Current Site Status?
+
+In September 2024, EPA completed the [Sixth Five-Year Review](https://semspub.epa.gov/work/09/100038406.pdf) for the Site. The Five-Year Review concluded that the remedy at the Site currently protects human health and the environment. The following issues and recommendations were identified in the report:
+
+Issue – The remedy selected for the AMD 915 DeGuigne Drive Site does not address vapor intrusion.
+
+Recommendation – Sample indoor air in areas where exceedances in subslab vapor have been detected and continue to evaluate the need for long-term vapor intrusion monitoring.
+
+Issue – The existing groundwater monitoring well network only includes one downgradient well in the B2 zone. Furthermore, there are no downgradient groundwater monitoring wells in the A or B1 zones to confirm plume containment.
+
+Recommendation – Install additional downgradient groundwater monitoring wels in the A, B1, and B2 zones to monitor capture of the plume and for delineation.
+
+Other Findings:
+
+- Regular inspections of the systems to ensure continued protection from vapor intrusion should be implemented.
+- Consider collecting groundwater elevation data during the wet season, preferably after a significant rain event, to evaluate changing groundwater elevations due to seasonal variations.
+- Achievement of cleanup goals will remain a challenge as long as the migration of chemical contaminants from upgradient sources continues. Further investigation is needed to better define the influence of upgradient migration.
+
+The Five-Year Review further stated the following:
+
+The remedy at the AMD 915 DeGuigne Drive Superfund Site currently protects human health and the environment because the land use covenant prohibits the use of groundwater for drinking water purposes and because exposure pathways for soil are being controlled. The land use covenant also prohibits construction of sensitive uses like daycares, schools, and hospitals. In addition, passive vapor intrusion mitigation systems have been installed at all buildings on the Property and baseline sub-slab vapor monitoring was completed. However, in order for the remedy to be protective in the long-term, vapor intrusion monitoring and response procedures should be implemented to ensure the long-term stewardship of the vapor intrusion mitigation measures that are currently in place.

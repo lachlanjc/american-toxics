@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+National Semiconductor Corporation (National Semiconductor) previously manufactured electronic equipment at this 50-acre site in Santa Clara County, California. Underground storage tanks, sumps, and pipes are the suspected sources for contaminated groundwater and soil underneath the site. Beginning in 1982, National Semiconductor closed and removed its leaking tanks and equipment, instituted a groundwater pump and treat system, and removed contaminated soil from selected areas of the facility. Groundwater extraction and treatment is ongoing while the responsible party explores additional treatment technologies. The contaminants of concern are primarily chlorinated organic solvents, including trichloloethene (TCE), which have contaminated a groundwater area common to the Monolithic Memories Superfund site. Although these sites are listed separately on the NPL, the cleanup activities have been coordinated as part of an area-wide approach.
+
+### What Has Been Done to Clean Up the Site?
+
+Beginning in 1982, contaminated soils, leaking tanks and equipment were removed. Subsequently, National Semiconductor initiated a program of pumping and treating the groundwater to contain the contaminated plume while further site studies were underway.
+
+In 1991, National Semiconductor completed an investigation of the type and extent of contamination at the site. EPA selected the final remedy for the site, and construction of the remedy began in 1991. The final cleanup remedy includedsoil vapor and groundwater extraction and treatment.
+
+The responsible party has modified the groundwater extraction and treatment system to improve operation, implementing additional capabilities and shutting down parts of the system. From 2001 to 2009, an ozone sparging system with soil vapor extraction and treatment was also operated to treat groundwater. Soil vapor extraction and treatment has been conducted to remediate soil in 14 former sources areas, 13 of which have achieved soil cleanup standards. The last known area has been treated through in-situ chemical oxidation after impacted soils were removed.
+
+### What Is the Current Site Status?
+
+Operation of the groundwater extraction and treatment system is ongoing. Air stripping and ozone technologies treat the groundwater prior to discharging to Calabasas Creek under an NPDES permit. The Responsible Party has explored new treatment technologies, such as in-situ chemical oxidation and bioremediation, in certain areas to accelerate the pace of the cleanup.
+
+Efforts to evaluate and, as appropriate, mitigate potential vapor intrusion from contamination beneath the ground into buildings are well underway.
+
+Texas Instruments, Inc. acquired National Semiconductor in 2011 and continues cleanup activities at the site.
+
+### Emergency Response and Removal
+
+Removal actions, or short-term cleanups, included the removal of contaminated soils and leaking tanks and equipment. The potentially responsible party (PRP) also began a pumping and treatment program to treat contaminated groundwater.

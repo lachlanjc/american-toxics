@@ -1,2 +1,80 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 20-acre Southern California Edison Co. (Visalia Poleyard) site in Visalia, California, was a utility pole treatment yard from the 1920s to 1980. Leaking tanks and stored treated poles contaminated groundwater and soil with chemicals, including creosote and pentachlorophenol (PCP). Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 2009.
+
+**History**
+
+Southern California Edison (SCE) and the California Department of Toxic Substances Control (DTSC), under EPA supervision, conducted an investigation into the nature and extent of the contamination at the site. In 1976, the State of California ssued a Cleanup and Abatement Order, requiring Southern California Edison to prevent the discharge of treatment fluids into the soil, to contain contaminated soil and water on the property, to pump shallow groundwater under the site before and during construction of an underground slurry wall around the site, to pump and lower the confined aquifer to remove contamination, and to clean up contaminated shallow groundwater off site.
+
+In 1987, Southern California Edison and the State signed an agreement requiring the utility to perform a study to determine the nature and extent of site contamination and to recommend alternatives for final cleanup action. In 1994, the State approved a Remedial Action Plan, and a Record of Decision was signed on June 10, 1994. The major components of the selected remedy include: in-situ bioremediation, property access restrictions and deed restrictions. A Preliminary Close-out Report (PCOR), dated September 25, 2001, documents that the EPA completed construction activities for the Southern California Edison (SCE), Visalia Pole Yard (VPY).
+
+In mid-1994, DTSC selected a final cleanup remedy for the site and the EPA concurred. Since the immediate actions at the site addressed the principal threats, the final remedy included bioremediation of the remaining contaminated soil, establishing access and deed restrictions, and capping the soil, if necessary. An innovative pilot-scale steam injection/vapor extraction system designed by Lawrence Livermore Laboratories and the University of California at Berkeley to enhance the bioremediation process and remove the pole-treating chemical mass was installed in 1997. This pilot system, Dynamic Underground Stripping (DUS), was used over a 30 month period and removed and destroyed over 150,000 gallons of contaminants from the site. It consisted of 14 steam injection wells surrounding a plume of soil and groundwater contaminants.
+
+Steam was injected into the ground at a depth of 80-100 feet, forcing groundwater, creosote, an emulsion of diesel oil and water, and hydrocarbon vapors towards central extraction wells which were used to recover the contaminants. In addition to contaminants being recovered, some contaminants were also broken down below the ground into carbon dioxide and water, a process called in situ hydrous pyrolysis/oxidation (HPO). HPO takes advantage of the elevated subsurface temperatures to oxidize the residual pole-treating  
+chemicals (PTCs) that were not removed or destroyed by the DUS process. In addition, air is injected into saturated aquifers to enhance dissolved oxygen in the groundwater.
+
+Following the completion of the DUS process, some of the injection wells were converted to air spargers as part of the bioremediation remedy. The bioventing system was designed to inject low volumes of air into unsaturated soil zones to enhance biodegradation by native hydrocarbon-utilizing bacteria. (This process requires temperatures below 70 <sup>o</sup> C for the native soil microbes/bacteria to become active). The project steam  
+injection activities were initiated during May 1997 and concluded in June 2000.
+
+Initially, daily contaminant mass recovery rates were approximately 13,000 pounds of contaminants. By June 2000, the recovery rate dropped from about 160 pounds per day to about 4 pounds per day. The diminishing recovery rate (<4 lbs/day) precipitated the decision to terminate steam injection operations for the monitoring plan to be implemented.
+
+In July 2004, SCE and DTSC agreed on procedures that would demonstrate the successful implementation of remedial measures and achievement of remedial action objectives for both groundwater and soil.
+
+Groundwater treatment plant was in operation from 1984 to 2004. The groundwater treatment plant ceased operation in 2004.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and PRP actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+As noted earlier, cleanup activities were first initiated in 1975, with the installation of extraction wells to remove contaminated groundwater and discharge to POTW. This action was followed by construction of the slurry wall in 1976-77, to prevent further downgradient migration of WTCs in groundwater. Additionally, an on-site water treatment plant (WTP) consisting of filtration and adsorption system was built in 1985 and was successful in removing the chemicals of concern (COC) from the treated groundwater. The WTP was modified with additional filtration and gravity separation in 1987, which optimized plant performance by minimizing hazardous waste generation. The WTP pumped, treated, and discharged an average of 0.36 million gallons per day between 1985 before the construction and operation of the Visalia Steam Remediation Project (VSRP) in March of 1997 when the volume of water treated increased to approximately 0.5 million gallons per day.
+
+The VSRP system consisted of the following elements:
+
+\-A steam injection system including four 50,000 lb/hr steam boilers connected to eleven injection wells placed around the periphery of the WTC plume;
+
+\-A vacuum extraction system consisting of four vapor and liquid extraction wells, with follow-on liquid and vapor separation, liquid cooling, and vapor and liquid treatment; and
+
+\-An ERT and thermocouple-based thermal monitoring array completely surrounding the steam injection-vacuum extraction systems.
+
+The VSRP operated in two phases, between May 1997 and June 2000. Phase 1 operations focused on the intermediate aquifer, with injection and extraction wells screened between 80 and 100 feet bgs. Phase 2 operations began in November 1998 and included steam injection and extraction below the intermediate aquitard, with injection wells screened between 125 and 145 feet bgs. Phase 2 operations continued until June 2000, when a precipitous drop in the rate of removal of WTCs was measured.
+
+Following cessation of the VSRP, the enhanced biological degradation system was installed and operated (SCE, 2001) to augment existing physical processes that were initiated by Dynamic Underground Stripping (DUS) and to encourage natural biological processes to flourish. This system was in operation from June 2000 until March 2004. It included vadose zone bioventing and saturated zone biosparging, coupled with continued groundwater pump-and-treat operation. Construction completion of the enhanced biological degradation system was documented in the 2001 Preliminary Close Out Report (PCOR).
+
+A post-remediation soil investigation of the surface soils was conducted at this site in November 2004. Tetrachlorodibenzo-p-dioxin (TCDD) was detected slightly above the cleanup standards at four locations. As a result of the 2005 Five-Year Review, contaminated surface soil (soil between zero and ten feet below grade) was removed in July 2006 and verified with confirmatory sampling to be below the cleanup standards prescribed in the ROD.
+
+Quarterly groundwater monitoring was conducted from 1985 through June 2007 within, and outside the boundaries of the area subjected to steam remediation operations. Monitoring of extraction wells within and on the edge of the WTC plume was used as a tool to assess the success of WTC removal. Monitoring of offsite wells was conducted to ensure WTCs were not escaping the groundwater extraction system.
+
+Groundwater monitoring data from June 2004 through June 2007 were used to verify that all ROD groundwater cleanup standards had been met. The Remedial Action Completion Report (SCE 2008) documented that the post-remediation groundwater monitoring and soil removal actions performed met the ROD cleanup standards for soil and groundwater. A Remedial Action Report (RA) was signed on May 14, 2009. The final Close Out Report (FCOR) was signed on May 19, 2009.
+
+The Federal Register notice for direct deletion (Direct final deletion notice and Notice of intent to delete) was published on July 27, 2009. A notice was also published in the local newspaper. EPA did not receive any comments. As of August 27, 2009, the Southern California Edison, Visalia Pole Yard Superfund site has been deleted from the National Priorities List (NPL), which is a list of the nation's most hazardous waste sites identified for possible long-term remedial response. The National Contingency Plan (NCP) directs the site deletion process. The NCP states that the deletion of a site from the NPL does not preclude eligibility for future response actions, should future conditions warrant such actions. EPA will conduct subsequent Five-Year Reviews to evaluate the continued protectiveness of remedial actions where hazardous substances, pollutants or contaminants remain at the site above levels that allow for unrestricted use. EPA may initiate further action to ensure continued protectiveness at a deleted site, if necessary.
+
+### What Is the Current Site Status?
+
+The long-term remedy included bioremediation of the remaining contaminated soil, access and deed restrictions, and soil capping, if necessary. Cleanup activities began in 1975 with the installation of extraction wells to remove contaminated groundwater. In 1985, an on-site water treatment plant began operation. EPA later modified the treatment plant with additional filtration and gravity separation. The water treatment plant finished operating in 2004. In 1997, EPA installed a steam injection/vapor extraction system to enhance the bioremediation process and remove the pole-treating chemical mass. This system removed and destroyed over 150,000 gallons of contaminants from soil and groundwater at the site and finished operating in 2000. Following the operation of this system, an enhanced biological degradation system operated from 2000 to 2004 to encourage natural biological breakdown of contaminants. A removal action in 2006 excavated soil with contaminants above established cleanup standards. Groundwater monitoring at the site occurred from 1985 to 2007.
+
+During the VSRP operations, the various forms of WTC removal or destruction were documented through continuous monitoring systems and regular volume measurements. These included:
+
+\-Free Product recovery  
+\-Vapor-phase removal  
+\-Liquid-phase removal
+
+\-Free product was recovered from both dissolved air flotation and oil-water separation and transferred to storage tanks where the volume measurements were made. Vaporphase recovery was measured as both total hydrocarbons and CO2 equivalents of oxidized hydrocarbons via continuous emissions analyzer systems. Liquid phase removal was measured through a total organic carbon analyzer.
+
+Quarterly groundwater monitoring was conducted from 1985 through June 2007 both within, as well as outside, the boundaries of the area subjected to steam remediation operations. Monitoring of extraction wells within and on the edge of the WTC plume was used as a tool to assess the success of WTC removal. Monitoring of offsite wells was conducted to ensure WTCs were not escaping the groundwater extraction system.
+
+Groundwater monitoring data from June 2004 through June 2007 demonstrate that the groundwater cleanup standards have been met.
+
+  
+**Demonstration of Attainment of RAP/ROD Cleanup Standards**
+
+The Remedial Action Completion Report (SCE, 2008) documents the post-remediation monitoring of groundwater and confirmation of soil removal actions performed to meet the RAP/ROD cleanup standards. The report also includes the demonstration of attainment of groundwater cleanup standards. EPA signed the Remedial Action Report on May 14, 2009 and the Final Close Out Report (FCOR) on May 19, 2009. A Direct Final Notice to delete the site from the National Priorities List was published on July 27, 2009 and no comments were received. The Site was deleted from the National Priorities List on August 27, 2009.
+
+The Second, Third, and Fourth Five-Year Review Reports, completed in July 21, 2010, September 22, 2015, and September 11, 2020, respectively, found that the remedy remains protective of human health and the environment.
+
+For more information, please see the reports in the Technical Documents subsection of the Documents and Reports subsection of this web page.
+
+### Emergency Response and Removal
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. A slurry wall built in 1977 slowed contaminant migration in the aquifer. The potentially responsible party (PRP) removed its facilities and, in 1981, excavated 2,300 cubic yards of contaminated soil.

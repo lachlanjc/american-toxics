@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+**NOT AN ACTIVE LANDFILL.** The 160-acre Marshall Landfill site consists of two adjacent 80-acre landfills. The northern landfill is Marshall Landfill, and the southern landfill is Boulder Landfill. Marshall Landfill began operating in 1965 as a solid waste composting and disposal operation. Between 1969 and 1974, Marshall Landfill accepted municipal waste, unstabilized sewage sludge, and many unknown, potentially hazardous, wastes. In 1974, Boulder County discontinued use of Marshall Landfill when Boulder Landfill opened to the immediate south. Boulder Landfill closed in January 1992. Sources of contamination include areas of saturated refuse, waste disposal trenches, small areas where organic solvents were disposed and two unlined leachate lagoons. Landfill operations contaminated surface water and on-site shallow groundwater.
+
+The site’s remedy included a groundwater collection and treatment system, landfill improvements and environmental monitoring programs. The remedy began operating in 1993. EPA placed the collection and treatment system on a stand-by mode in November 2004 after influent to the treatment system consistently met the discharge requirements for the main contaminants of concern. Operation and maintenance activities and groundwater monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded the remedy currently protects human health and the environment. No exposure pathways have been identified for contaminated shallow groundwater in the vicinity of the site. However, for the remedy to be protective over the long term, the following actions need to be taken: Exceedances of performance standards off-site to the east of the site boundary should be evaluated; the dissolved phase plume of 1,4-dioxane to the north of the site should be delineated; alternative analytical methods should be evaluated to determine if a method exists with a method reporting limit at or below the State Groundwater Standard for 1,4-dioxane; current performance standards should be assessed for protectiveness, and updated as needed; point of compliance monitoring locations should be reevaluated; the Monitoring, Operations, and Maintenance Plan should be updated; and institutional controls need to be evaluated for protectiveness and updated as needed.
+
+### What Is the Current Site Status?
+
+The site is currently monitored annually to assess contaminants in groundwater and to ensure the remedy is protective. An investigation to delineate the extent of 1,4-dioxane in groundwater is also underway. Following completion of the 1,4-dioxane investigation, a decision will be made by EPA and the state on how to address contamination that extends off-site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+An intergovernmental agreement is in place for the U.S. 36 interstate corridor that restricts development on the Superfund site and on property immediately surrounding the site.

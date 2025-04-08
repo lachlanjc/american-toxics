@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Matthiessen and Hegeler Zinc Co. site is located in LaSalle, Ill., with a portion of an off-site residential area being investigated in adjacent Peru, Ill. The Matthiessen and Hegeler Zinc Co. operated a zinc smelter on the industrial portion of the site from 1858 until 1961. The company added a rolling mill to its operations in 1866 to produce zinc sheets. The Matthiessen and Hegeler company declared bankruptcy in 1968, and only basic rolling mill operations took place from 1968 until 1978. The industrial portion of the site houses an inactive zinc smelting and rolling facility as well as an active chemical manufacturing plant, which is owned and operated by Carus Chemical Co. The site also includes the Little Vermilion River and a 6-acre slag pile located along the river containing metals such as cadmium, copper, chromium, lead, nickel and zinc.
+
+### What Has Been Done to Clean Up the Site?
+
+In April 2017, EPA signed a Record of Decision that outlines the cleanup plan at the Matthiessen and Hegeler Zinc site. The selected remedy at the site involves placing a soil cover over areas of the Carus plant property to reduce potential exposures to pollutants; placing an engineered soil cover over the large slag pile; and implementing other measures to manage surface water runoff and control erosion into the Little Vermillion River. EPA will also excavate contaminated soil from the former smelter property and from residential properties included in the site. After excavation, EPA will back fill the properties with clean soil. The selected remedy also includes the use of institutional controls and property access restrictions to limit exposure and ensure long-term effectiveness.
+
+EPA signed an Explanation of Differences in August 2019 to change certain parts of the cleanup plan at the Matthiessen and Hegeler Zinc Co. site. EPA’s revised cleanup plan established two sets of cleanup levels for the off-site residential area. The first set of numbers was used for produce-garden areas and includes the cadmium, manganese and zinc cleanup levels selected in the 2017 Record of Decision. The second set of cleanup numbers are applied to property areas that are not used as produce gardens. EPA also removed hexavalent chromium as a contaminant of concern for residential soil since elevated levels were not identified during initial sampling.
+
+EPA has issued a cleanup plan called a Record of Decision Amendment, or ROD Amendment. The selected cleanup plan will implement short-term groundwater monitoring and institutional controls to prohibit access to and use of contaminated groundwater at the M&H site. This temporary plan will give the agency time to evaluate long-term remedies before selecting a final cleanup plan for groundwater contamination at the site.
+
+In 2023, EPA updated the 2017 cleanup decision to define wastes found at industrial portions of the site as low-level threat wastes and not primary hazardous wastes. The update to the 2017 cleanup decision will also clarify state requirements for closure and post-closure care of landfills at the site.
+
+[Amendment to the 2017 Record of Decision (pdf)](https://semspub.epa.gov/src/document/05/985503) (61 pp, 21.58 MB)
+
+### What Is the Current Site Status?
+
+EPA has completed the first five-year review of the Matthiessen and Hegeler Zinc Co. Superfund site. These reviews ensure the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+[FIRST FIVE YEAR REVIEW REPORT (SIGNED)](https://semspub.epa.gov/src/document/05/994990) - 2024 (51 pp, 21.67 MB)
+
+EPA’s cleanup of residential properties with soils contaminated with cadmium, manganese, zinc, and other metals included excavating contaminated soil, replacing with clean backfill, and restoring landscaping. Residential sampling and cleanup at OU2 is ongoing.
+
+This site is one of many across the country to receive funding from the Bipartisan Infrastructure Law, which invested $3.5 billion in environmental remediation at Superfund sites on the National Priorities List.
+
+The Bipartisan Infrastructure Law funding will be used to accelerate sampling and cleanup at residential properties where elevated levels of contamination are identified. EPA will resume work at residential properties this spring. Funding will also be used to address contamination at industrial portions of the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Samples collected from the two large slag piles located along the Little Vermillion River found that the material has elevated concentrations of several metals that include cadmium, copper, chromium, lead, nickel, and zinc. Samples collected from the sediment within the river were also found to contain high levels of the same metals found in the slag piles, indicating that the river has likely been impacted by the site. The surface water pathway was the primary pathway used to score this site for the NPL. Other samples collected on-site show low levels of a variety of contaminants that include pesticides, polychlorinated biphenyls (PCBs), and solvents and chemicals found in oil and coal. In September 1999, the Agency for Toxic Substances and Disease Registry (ATSDR) and the Illinois Department of Public Health issued a public health statement, stating that the site was a public health hazard due to the presence of cadmium and lead found in soil in the adjacent residential area.
+
+### Emergency Response and Removal
+
+In 2003-2004, EPA oversaw a time-critical removal action at the LaSalle rolling mill portion of the site. A time critical removal deals with pollutants that pose an imminent health threat to people. The emergency removal addressed cyanide and asbestos contamination, as well as various other chemicals and storage tanks that remained after the mill ceased metal rolling activity. The removal action was conducted by Fred Carus under a 2003 Administrative Order on Consent with EPA.
+
+In 2006, EPA entered into an Administrative Settlement and Agreement on Order of Consent with Carus to complete the Remedial Investigation/Feasibility Study at the site. The purpose of the remedial investigation is to gather data about site conditions and determine the nature and extent of contamination. The Feasibility Study is used for the development, screening, and evaluation of options for cleanup actions.
+
+In 2008, EPA conducted a time-critical assessment in response to asbestos-containing materials discovered around the rolling mill during the Remedial Investigation. The assessment included investigating unknown chemicals in a former laboratory building, conducting asbestos sampling at multiple buildings, and investigating unknown oil in sewer drains. EPA conducted the time-critical removal action, and the work was completed in 2009.
+
+EPA began a time-critical removal of lead-contaminated soils at residential properties in 2018. EPA removed soil in a small number of yards where very high levels of lead and arsenic were identified.

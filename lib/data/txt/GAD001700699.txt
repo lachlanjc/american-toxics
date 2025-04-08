@@ -1,2 +1,75 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 75-acre Monsanto Corp. (Augusta Plant) [Superfund](http://www.epa.gov/superfund) site is located in an industrial park in Richmond County, Augusta, Georgia. The facility is a phosphate manufacturing plant that has been operating since 1962. Monsanto Corporation (Monsanto) initially operated the site. Prayon, Inc., has owned and operated the plant since 1999.
+
+Phosphoric acid, one of the plant’s raw materials, was previously manufactured at the plant but is now imported from off site. The plant’s manufacturing process generated several waste products, including arsenic trisulfide. Monsanto used two small on-site landfills to dispose of and filter cake sludge containing arsenic trisulfide. Contamination from these landfills eventually spread to the groundwater.
+
+In 1984, the EPA added the site to the Superfund program’s [National Priorities List (NPL).](http://www.epa.gov/superfund/superfund-glossary) the EPA removed the site from the NPL in 1998.
+
+The EPA, the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/) and the site’s [potentially responsible parties (PRP)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated conditions. Contamination does not threaten people living and working near the site. Both residents and businesses use the public water system for drinking water. The cleanup not only protects the health and safety of the public and the environment, but also enables the on-site facility to continue to operate, retaining jobs and income in the community. Prayon continues manufacturing operations at the site.
+
+The EPA, the Georgia Environmental Protection Division (Georgia EPD) and the site’s potentially responsible parties (PRPs) have investigated conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+The PRP has led the site investigations and cleanup activities, with oversight provided by the EPA and Georgia EPD.
+
+**1983-84**  
+Monsanto excavated the on-site landfills and transported the material to a RCRA-permitted landfill.
+
+**1991**  
+The EPA issued the site’s long-term cleanup plan or Record of Decision (ROD). It included:
+
+- extraction of groundwater contaminated with arsenic above the cleanup goal
+- discharge of the extracted groundwater for treatment at a publicly owned treatment works
+- monitoring groundwater for a minimum of two years after arsenic levels in groundwater meet the site’s cleanup goal.
+
+**1993**  
+Monsanto completed construction of the site’s groundwater extraction system and began extracting groundwater from the shallow aquifer and discharging it for treatment at a publicly owned treatment works.
+
+**1998**  
+The site is deleted from the EPA Superfund’s National Priorities List and deferred to the State’s RCRA program.
+
+**2001**  
+The EPA’s arsenic drinking water standard is revised from 50 micrograms per liter (µg/L) to 10 µg/L. Site groundwater must meet this standard for the cleanup to be completed.
+
+**2011**  
+Solutia (formerly Monsanto) shuts down the groundwater extraction system.
+
+**2012**  
+Solutia’s RCRA permit expires.
+
+**2014**  
+The State of Georgia finalized a Consent Order with Solutia and Prayon.
+
+**2015**  
+Solutia submitted groundwater data to the Georgia EPD and claimed that the elevated arsenic levels Site’s remaining elevated arsenic levels in groundwater are due to high-pH groundwater from an adjacent facility, which dissolves naturally occurring arsenic from soils.
+
+An environmental covenant is placed on the site by Solutia and Prayon that restricts the use of the shallow groundwater.
+
+**2016**  
+The State terminates its Consent Order with Solutia and Prayon, concluding that elevated arsenic levels remaining in groundwater are due to high-pH groundwater from an adjacent facility.
+
+### What Is the Current Site Status?
+
+The [fifth Five-Year Review](https://semspub.epa.gov/src/document/04/11154902)  was published in 2020. In the short-term, the remedy at the Site is protective of human health and the environment because there are no current exposure pathways to the contaminated aquifer.
+
+The Sixth Five-Year Review is currently ongoing for 2025 and will be posted here when complete.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+In 2015, an environmental covenant was placed on the site by Solutia and Prayon that restricts the use of the shallow groundwater.
+
+The site is currently in operation, with fencing and access controls in place.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+In 1984, the EPA listed the site on the NPL. In April 1989, the EPA entered into an Administrative Order on Consent with Monsanto to conduct the Remedial Investigation and Feasibility Study for the site. Cleanup activities were implemented under the EPA and Georgia EPD's oversight. The EPA deleted the site from the NPL in 1998. Groundwater cleanup and monitoring activities were included in Prayon Inc.'s Hazardous Waste Facility Permit issued under RCRA authority in 2002, which subsequently expired in 2012.
+
+In 2014, the State of Georgia finalized a Consent Order with Solutia and Prayon. That Consent Order was terminated in 2016.

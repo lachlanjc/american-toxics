@@ -1,78 +1,154 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 580-acre Lockwood Solvent Ground Water Plume site is on the outskirts of Billings in Yellowstone County, Montana. In 1986, Lockwood Water and Sewer District employees found benzene and chlorinated solvents in their water supply wells. Further study found a plume of groundwater contamination. The primary sources of contamination are Beall Trailers of Montana and Soco West (formerly Brenntag West Inc.). The former Beall facility manufactured and repaired tanker truck trailers primarily to transport asphalt. From 1978 to 1990, trailers were cleaned with industrial solvents and steam before maintenance or repair. The wastewater from the steam clean bay went into to a septic system and drain field. Soco West (formerly Brenntag West Inc.) was a chemical repackaging and distribution company. Previous owners developed the property and operations began in 1972. The facility is currently abandoned there are no plans to use it in the future until cleanup is completed. Top of Page
-What Has Been Done to Clean Up the Site?
-You may need Adobe Reader to view files on this page. See EPA’s About PDF page to learn more. EPA proposed to list the site on the Superfund National Priorities List (NPL) in May 2000. It became a Superfund site in December 2000.
-On August 16, 2005, after the EPA did a remedial investigation and feasibility study, a Record of Decision (ROD) (pdf) (241 pp, 46.7 MB)selected the cleanup for the site. All residents with wells impacted with contamination above human health standards were provided public or bottled water until 2016. Now, no wells with contaminant concentrations that exceed human health standards are used for drinking. EPA also sampled indoor air in 2013 and again in 2021 as part of the first five-year review. Sampling did not find that contamination had impacted shallow soils near homes at OU1. This showed that there was not vapor intrusion at the former Beall facility. The air sampling in homes and businesses near the Soco West facility also found contamination was below conservative screening levels for indoor air. In April 2012, additional chemical and geotechnical data were collected at the Beall Source Area. This data was used to design the remedial action components for OU1.[EA1] [RH2]  In October 2012, an aquifer test was done to study the groundwater for cleanup of the contaminated groundwater plume. In late July 2014k, the EPA did an investigation of the source areas located on Soco West’s facility. Soil and groundwater samples were taken. Samples were also collected for a study to evaluate the effectiveness of treating contaminated soil and groundwater. The treatability study looked at the types of treatment, such as chemical oxidation and ozone, that may be injected into the soils and groundwater to treat the source areas.
-​In 2015, the EPA did an Ozone Sparge/Vapor Recovery System pilot scale test. The purpose of the pilot test was to study the treatment of impacted groundwater and soil in the northwest source area at the Soco West facility. The Ozone Sparge/Vapor Recovery System was expanded west and north within the source area in 2017. The system  was temporarily shutdown in 2023 because of the Soco West bankruptcy but is expected to resume once bankruptcy is finalized.  
-2016 Report Revised Former Tank Farm In Situ Chemical Oxidation Work Plan, Sampling and Analysis Plan and Field Sampling Plan (pdf) (730 pp, 15 MB)
-2017 Addendum 1 to Revised Former Tank Farm In Situ Chemical Oxidation Work Plan (pdf) (11 pp, 807 K) 
-In August 2016, the study of fine-grained source soils was completed at OU2. There were over 400 soil samples collected from almost 150 borings. This study was the first step in a multi-step process that also includes excavation and treatment of soils. Additional investigations were also done north of Coulson Ditch in 2018. 
-Final Revised Remedial Design Assessment Delineation and Physical Characterization of Fine Grained Source Soils Report (pdf) (1,998 pp, 49.9 MB)
-Remedial Design Assessment Addendum 1 Additional Delineation and Physical Characterization of Fine Grained Source Soils Report (pdf) (469 pp, 14.7 MB) 
-Top of Page
-What Is the Current Site Status?
-The EPA divided the site into two areas, called operable units (OUs). OU1 addresses the Beall Source Area. OU2 addresses the Soco West Area (former Brenntag area). The site’s long-term cleanup was selected in 2005. This plan included: 
-long-term groundwater monitoring
-institutional controls
-risk mitigation measures
-continued groundwater monitoring
-indoor air monitoring and mitigation measures
-enhanced bioremediation of groundwater at the source area and leading edge of the plume at OU1
-soil vapor extraction (SVE) for OU1 soil 
-The cleanup also considered a permeable reactive barrier, and enhanced bioremediation of groundwater, soil excavation, SVE (vapor recovery), chemical oxidation, and enhanced bioremediation at OU2. Soil Cleanup OU2 Soil Cleanup At OU2, a Land Treatment Cell was built on the northeast corner of the property in October 2017.  The soil cleanup was phased over several construction seasons because there was limited space and concern about large, open, excavated areas. The EPA did several phases of excavation work removing fine-grained source soils: 
-November 2017 - about 2,416 cubic yards from excavation area 1, the former slope pit source area
-September 2018 - about 12,684 cubic yards from excavation area 2, the southern portion of the former tank farm source area
-October 2019 - about 11,467 cubic yards from the northern portion of the former acid tank farm area.
-October 2020 - about 12,325 cubic yards from excavation area 4 on the northern portion of the Keller Transport, Inc. property
-October 2021, - about 11,926 cubic yards from excavation area 5 on the northern portion of the Keller Transport, Inc. property 
-Approximately 6000 cubic yards of soils from excavation area 5 were treated and stockpiled on site before all work stopped in 2023 because of the bankruptcy. ​However, the leftover soils posed a threat to human health and the environment. This was because the remaining excavated untreated soils did not have a cover protecting the soils from the rain, wind, or elements.   ​The EPA completed a time-critical removal in November 2023 to place 6,000 cubic yards of treated soils on top of the remaining untreated soils from excavation area 5. This put a two-foot cap on top of the untreated soils.   ​Before putting treated soils in the Land Treatment Cell, a large barrier was placed on top of the untreated soils to separate the untreated soils from the treated soils. About 8,408 cubic yards of fine-grained soil that was scheduled to be excavated from excavation area 6 in fall 2023 and treated in Land Treatment Cell in 2024 did that not happen due to the bankruptcy.   
-Revised Remedial Action Work Plan for Fine-Grained Source Soils (pdf) (69 pp, 5.3 MB)
-Fine Grained Source Soils Interim Remedial Action Completion Report 1 (pdf) (619 pp, 22.3 MB)
-Fine Grained Source Soils Interim Remedial Action Completion Report 2 (pdf) (659 pp, 19.6﻿ MB)
-Fine-Grained Source Soils Interim Remedial Action Completed Report 3 (pdf) (651pp, 28MB) 
-OU1 Soil Cleanup 
-​At OU1, the EPA built a new steam bay building. The older building was demolished in 2017. This let the EPA access the contaminated soil beneath the building. The EPA excavated the primary source area of contaminated soil under the former steam bay building and treated the soil in a containment area on the ground surface.  ​While the soil was out of the ground, the EPA put in a soil vapor extraction system to treat the residual contaminated soil up to 45 feet below the ground. Clean excavated soil was put back in the excavated area while contaminated soil was disposed of at a certified solid waste facility. The in-place soil vapor extraction system operated for several months 2018. It was found to be successful at treating impacted soils in place.  ​Groundwater Cleanup 
-Cleanup of the groundwater Operable Unit 2 began in September 2017. An ozone sparge and vapor recovery system was pilot tested for several years to treat the groundwater. The EPA expanded this system in 2017. The system included over 30 sparge points that inject air/ozone into the subsurface. It also included 24 vapor recovery trenches designed to capture the contaminants as they volatilize in the subsurface. ​Several components of the sparge system had to be dismantled since 2018 as soils have been excavated in the northwest source area. These components will be reconstructed once the remaining soils in excavation area 6 have been treated and backfilled.  In 2019, EPA started a groundwater bioremediation pilot test at OU2. Bioremediation involves injecting emulsified vegetable oil into to the groundwater to break down the PCE contamination. The purpose of this pilot test was to study how well this technique works. This system would treat chlorinated solvent in the groundwater north of Coulson Ditch. A series of injection wells were installed north of Coulson Ditch. The oil solution was injected into the subsurface from November 2019 through March 2020. Test results after the injections started showed a significant decrease in PCE and TCE concentrations. The DCE concentrations also went up. This indicated that the PCE and TCE were breaking down successfully. By March 2022, PCE concentrations remained lower and DCE concentrations remain higher but there was a stall in the breakdown of DCE to VC and ethene. The EPA, working with the State of Montana, injected more oil to continue the process of breaking down the contamination. There was more oil injected from May through July 2022. This helped fix the DCE stall in the treatment area. Vitamin B12 and bacteria were also injected into each well to increase microbial activity. 
-Enhanced Bioremediation Pilot Test Quarterly Report 12 Oct. Through Dec. 2022 Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed (pdf) (628pp, 13.9MB) 
-​Sampling of the groundwater was temporarily suspended in 2023 because of the Soco West bankruptcy but will begin again in 2025.  ​Five-Year Reviews  ​Since waste has been left on site at levels that restrict use of the site, EPA conducts five-year reviews at the site. These reviews ensure that the cleanup protects public health and the environment and works as intended by site decision documents.   ​The first five-year review of the cleanup at the site was completed in July 2022. The cleanup at part of the site (OU2) is still under construction. Based on the progress so far, the EPA expects that when the construction is finished, the remedy work will protect human health and the environment. So far, the EPA has not found any implementation or performance issues. The EPA did not study the protectiveness of the cleanup of another part of the site (OU1) because it is still in the design phase. Cleanup of OU1 has not begun.  ​First Five-Year Review Report 2022 (pdf) (74 pp, 5.99 MB)  
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-A permanent controlled groundwater area was established by the Montana Department of Natural Resources and Conservation to make sure that new wells are not drilled into contaminated groundwater. The Adoption of New Rule Regarding the Lockwood Solvent Groundwater Plume Site Controlled Groundwater Area (pdf) (3 pp, 1.5 MB)was finalized on September 25, 2018. The adoption document is also available on State’s websiteExit. ​Once the remedy work is done, there will be new rules in the Soco West property and neighboring properties. These rules will restrict activities and land uses that may damage or undo the cleanup and treatment. ​  Top of Page
-Sampling and Monitoring
-Groundwater monitoring at OU2 was discontinued in 2023 because of the bankruptcy.  It is expected to resume in 2025. 
-2019 Annual Groundwater Monitoring Report (pdf) (1005 pp, 28.4 MB)
-2020 Annual Groundwater Monitoring Report Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed (pdf) (197pp, 1.79MB)
-2021 Annual Groundwater Monitoring Report Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed (pdf) (794pp, 16.4MB)
-2022 Annual Groundwater Monitoring Report Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed And Attached Microsoft Access Database Containing All Groundwater Data Collected At Lockwood Solvents OU2 (pdf) (959pp, 26.5MB) 
-Top of Page
-Emergency Response and Removal
- ​​The EPA extended the public water supply system downgradient of the Soco West plume in 2000 in response to danger posed by the contamination. This allowed the residents to stop using  contaminated groundwater. The municipal water supply currently provided to residents is safe. It is regularly sampled to make sure it is within drinking water standards.  
-1999 Action Memo (pdf) (9 pp, 1 MB)
-2000 Action Memo Amendment (pdf) (62 pp, 4.6 MB)
-2000 Second Action Memo Amendment (pdf) (69 pp, 5 MB) 
-​The EPA came to site in November 2023 in response to the Soco West bankruptcy. There were also concerns that the site was unsecured.    
-​The 2023 removal work by the EPA included:   
-​a fence was built on the western boundary of the property to discourage trespassing 
-​a fence was built around the excavation area A to prevent access to open excavation pit 
-​capping and stabilizing contaminated soils, clean soil layer was stabilized with native grass seed 
-​liquid waste from the investigation work that was stored in an unheated shed was treated and disposed on site before it could freeze 
-​the remediation equipment in the ozone sparge shed was drained of fluids and winterized to prevent damage during freezing weather  
-For more information on the removal action, review the Lockwood Solvents Emergency Removal Action webpage. Top of Page
-Enforcement Information
-On October 3, 2011, the consent decree (pdf) (72 pp, 954 K) for the remedial design/remedial action (RD/RA) was entered in Federal District Court for the District of Montana. The court approved the settlement reached by the United States, the State of Montana and Soco West, Inc. On April 26, 2023, Whitaker, Clark & Daniels, Inc., and three related companies, including Soco West, Inc., filed voluntary petitions for relief under Chapter 11 of the United States Bankruptcy Code. Soco West is a settling defendant under a Remedial Design/Remedial Action Consent Decree for Lockwood Solvent Ground Water Plume Operable Unit 2. On September 26, 2023, the EPA referred the matter to the Department of Justice to request the filing of a proof of claim in the bankruptcy proceeding. Soco West’s contractors stopped remedial work on the site following the bankruptcy petition and non-payment. Top of Page
+### Background
+
+The 580-acre Lockwood Solvent Ground Water Plume site is on the outskirts of Billings in Yellowstone County, Montana. In 1986, Lockwood Water and Sewer District employees found benzene and chlorinated solvents in their water supply wells. Further study found a plume of groundwater contamination. The primary sources of contamination are Beall Trailers of Montana and Soco West (formerly Brenntag West Inc.).
+
+The former Beall facility manufactured and repaired tanker truck trailers primarily to transport asphalt. From 1978 to 1990, trailers were cleaned with industrial solvents and steam before maintenance or repair. The wastewater from the steam clean bay went into to a septic system and drain field.
+
+Soco West (formerly Brenntag West Inc.) was a chemical repackaging and distribution company. Previous owners developed the property and operations began in 1972. The facility is currently abandoned there are no plans to use it in the future until cleanup is completed.
+
+### What Has Been Done to Clean Up the Site?
+
+You may need Adobe Reader to view files on this page. See EPA’s [About PDF page](https://www.epa.gov/home/pdf-files) to learn more.
+
+EPA proposed to list the site on the Superfund National Priorities List (NPL) in May 2000. It became a Superfund site in December 2000.
+
+On August 16, 2005, after the EPA did a remedial investigation and feasibility study, a [Record of Decision (ROD) (pdf)](http://semspub.epa.gov/src/document/08/1198638) (241 pp, 46.7 MB)selected the cleanup for the site.
+
+All residents with wells impacted with contamination above human health standards were provided public or bottled water until 2016. Now, no wells with contaminant concentrations that exceed human health standards are used for drinking.
+
+EPA also sampled indoor air in 2013 and again in 2021 as part of the first five-year review. Sampling did not find that contamination had impacted shallow soils near homes at OU1. This showed that there was not vapor intrusion at the former Beall facility. The air sampling in homes and businesses near the Soco West facility also found contamination was below conservative screening levels for indoor air.
+
+In April 2012, additional chemical and geotechnical data were collected at the Beall Source Area. This data was used to design the remedial action components for OU1.\[EA1\] \[RH2\] In October 2012, an aquifer test was done to study the groundwater for cleanup of the contaminated groundwater plume.
+
+In late July 2014k, the EPA did an investigation of the source areas located on Soco West’s facility. Soil and groundwater samples were taken. Samples were also collected for a study to evaluate the effectiveness of treating contaminated soil and groundwater. The treatability study looked at the types of treatment, such as chemical oxidation and ozone, that may be injected into the soils and groundwater to treat the source areas.
+
+In 2015, the EPA did an Ozone Sparge/Vapor Recovery System pilot scale test. The purpose of the pilot test was to study the treatment of impacted groundwater and soil in the northwest source area at the Soco West facility. The Ozone Sparge/Vapor Recovery System was expanded west and north within the source area in 2017. The system was temporarily shutdown in 2023 because of the Soco West bankruptcy but is expected to resume once bankruptcy is finalized.
+- [2016 Report Revised Former Tank Farm In Situ Chemical Oxidation Work Plan, Sampling and Analysis Plan and Field Sampling Plan (pdf)](http://semspub.epa.gov/src/document/08/1817986) (730 pp, 15 MB)
+- [2017 Addendum 1 to Revised Former Tank Farm In Situ Chemical Oxidation Work Plan (pdf)](http://semspub.epa.gov/src/document/08/1817987) (11 pp, 807 K)
+
+In August 2016, the study of fine-grained source soils was completed at OU2. There were over 400 soil samples collected from almost 150 borings. This study was the first step in a multi-step process that also includes excavation and treatment of soils. Additional investigations were also done north of Coulson Ditch in 2018.
+
+- [Final Revised Remedial Design Assessment Delineation and Physical Characterization of Fine Grained Source Soils Report (pdf)](http://semspub.epa.gov/src/document/08/1868783) (1,998 pp, 49.9 MB)
+- [Remedial Design Assessment Addendum 1 Additional Delineation and Physical Characterization of Fine Grained Source Soils Report (pdf)](http://semspub.epa.gov/src/document/08/100008875) (469 pp, 14.7 MB)
+
+### What Is the Current Site Status?
+
+The EPA divided the site into two areas, called operable units (OUs). OU1 addresses the Beall Source Area. OU2 addresses the Soco West Area (former Brenntag area).
+
+The site’s long-term cleanup was selected in 2005. This plan included:
+
+- long-term groundwater monitoring
+- institutional controls
+- risk mitigation measures
+- continued groundwater monitoring
+- indoor air monitoring and mitigation measures
+- enhanced bioremediation of groundwater at the source area and leading edge of the plume at OU1
+- soil vapor extraction (SVE) for OU1 soil
+
+The cleanup also considered a permeable reactive barrier, and enhanced bioremediation of groundwater, soil excavation, SVE (vapor recovery), chemical oxidation, and enhanced bioremediation at OU2.
+
+#### Soil Cleanup
+
+##### OU2 Soil Cleanup
+
+At OU2, a Land Treatment Cell was built on the northeast corner of the property in October 2017. The soil cleanup was phased over several construction seasons because there was limited space and concern about large, open, excavated areas.
+
+The EPA did several phases of excavation work removing fine-grained source soils:
+
+- November 2017 - about 2,416 cubic yards from excavation area 1, the former slope pit source area
+- September 2018 - about 12,684 cubic yards from excavation area 2, the southern portion of the former tank farm source area
+- October 2019 - about 11,467 cubic yards from the northern portion of the former acid tank farm area.
+- October 2020 - about 12,325 cubic yards from excavation area 4 on the northern portion of the Keller Transport, Inc. property
+- October 2021, - about 11,926 cubic yards from excavation area 5 on the northern portion of the Keller Transport, Inc. property
+
+Approximately 6000 cubic yards of soils from excavation area 5 were treated and stockpiled on site before all work stopped in 2023 because of the bankruptcy.
+
+However, the leftover soils posed a threat to human health and the environment. This was because the remaining excavated untreated soils did not have a cover protecting the soils from the rain, wind, or elements.
+
+The EPA completed a time-critical removal in November 2023 to place 6,000 cubic yards of treated soils on top of the remaining untreated soils from excavation area 5. This put a two-foot cap on top of the untreated soils.
+
+Before putting treated soils in the Land Treatment Cell, a large barrier was placed on top of the untreated soils to separate the untreated soils from the treated soils. About 8,408 cubic yards of fine-grained soil that was scheduled to be excavated from excavation area 6 in fall 2023 and treated in Land Treatment Cell in 2024 did that not happen due to the bankruptcy.
+
+- [Revised Remedial Action Work Plan for Fine-Grained Source Soils (pdf)](https://semspub.epa.gov/src/document/08/100004970) (69 pp, 5.3 MB)
+- [Fine Grained Source Soils Interim Remedial Action Completion Report 1 (pdf)](https://semspub.epa.gov/src/document/08/100008874) (619 pp, 22.3 MB)
+- [Fine Grained Source Soils Interim Remedial Action Completion Report 2 (pdf)](https://semspub.epa.gov/src/document/08/100008876) (659 pp, 19.6 MB)
+- [Fine-Grained Source Soils Interim Remedial Action Completed Report 3 (pdf)](https://semspub.epa.gov/work/08/100010318.pdf) (651pp, 28MB)
+
+##### OU1 Soil Cleanup
+
+At OU1, the EPA built a new steam bay building. The older building was demolished in 2017. This let the EPA access the contaminated soil beneath the building. The EPA excavated the primary source area of contaminated soil under the former steam bay building and treated the soil in a containment area on the ground surface.
+
+While the soil was out of the ground, the EPA put in a soil vapor extraction system to treat the residual contaminated soil up to 45 feet below the ground. Clean excavated soil was put back in the excavated area while contaminated soil was disposed of at a certified solid waste facility. The in-place soil vapor extraction system operated for several months 2018. It was found to be successful at treating impacted soils in place.
+
+##### Groundwater Cleanup
+
+Cleanup of the groundwater Operable Unit 2 began in September 2017. An ozone sparge and vapor recovery system was pilot tested for several years to treat the groundwater. The EPA expanded this system in 2017. The system included over 30 sparge points that inject air/ozone into the subsurface. It also included 24 vapor recovery trenches designed to capture the contaminants as they volatilize in the subsurface.
+
+Several components of the sparge system had to be dismantled since 2018 as soils have been excavated in the northwest source area. These components will be reconstructed once the remaining soils in excavation area 6 have been treated and backfilled.
+
+In 2019, EPA started a groundwater bioremediation pilot test at OU2. Bioremediation involves injecting emulsified vegetable oil into to the groundwater to break down the PCE contamination. The purpose of this pilot test was to study how well this technique works. This system would treat chlorinated solvent in the groundwater north of Coulson Ditch. A series of injection wells were installed north of Coulson Ditch. The oil solution was injected into the subsurface from November 2019 through March 2020.
+
+Test results after the injections started showed a significant decrease in PCE and TCE concentrations. The DCE concentrations also went up. This indicated that the PCE and TCE were breaking down successfully.
+
+By March 2022, PCE concentrations remained lower and DCE concentrations remain higher but there was a stall in the breakdown of DCE to VC and ethene. The EPA, working with the State of Montana, injected more oil to continue the process of breaking down the contamination.
+
+There was more oil injected from May through July 2022. This helped fix the DCE stall in the treatment area. Vitamin B12 and bacteria were also injected into each well to increase microbial activity.
+
+- [Enhanced Bioremediation Pilot Test Quarterly Report 12 Oct. Through Dec. 2022 Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed (pdf)](https://semspub.epa.gov/work/08/100013283.pdf) (628pp, 13.9MB)
+
+Sampling of the groundwater was temporarily suspended in 2023 because of the Soco West bankruptcy but will begin again in 2025.
+
+#### Five-Year Reviews
+
+Since waste has been left on site at levels that restrict use of the site, EPA conducts five-year reviews at the site. These reviews ensure that the cleanup protects public health and the environment and works as intended by site decision documents.
+
+The first five-year review of the cleanup at the site was completed in July 2022. The cleanup at part of the site (OU2) is still under construction. Based on the progress so far, the EPA expects that when the construction is finished, the remedy work will protect human health and the environment. So far, the EPA has not found any implementation or performance issues. The EPA did not study the protectiveness of the cleanup of another part of the site (OU1) because it is still in the design phase. Cleanup of OU1 has not begun.
+
+[First Five-Year Review Report 2022 (pdf)](https://semspub.epa.gov/work/08/100011920.pdf) (74 pp, 5.99 MB)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A permanent controlled groundwater area was established by the Montana Department of Natural Resources and Conservation to make sure that new wells are not drilled into contaminated groundwater. The [Adoption of New Rule Regarding the Lockwood Solvent Groundwater Plume Site Controlled Groundwater Area (pdf)](https://semspub.epa.gov/src/document/08/100005586) (3 pp, 1.5 MB)was finalized on September 25, 2018. The adoption document is also available on [State’s website](https://dnrc.mt.gov/Water-Resources/Water-Rights/Basin-Closures-Stream-Depletion-Controlled-Ground-Water-Areas).
+
+Once the remedy work is done, there will be new rules in the Soco West property and neighboring properties. These rules will restrict activities and land uses that may damage or undo the cleanup and treatment.
+
+### Sampling and Monitoring
+
+Groundwater monitoring at OU2 was discontinued in 2023 because of the bankruptcy. It is expected to resume in 2025.
+
+- [2019 Annual Groundwater Monitoring Report (pdf)](https://semspub.epa.gov/src/document/08/100008877) (1005 pp, 28.4 MB)
+- [2020 Annual Groundwater Monitoring Report Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed (pdf)](https://semspub.epa.gov/work/08/100013340.pdf) (197pp, 1.79MB)
+- [2021 Annual Groundwater Monitoring Report Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed (pdf)](https://semspub.epa.gov/work/08/100013341.pdf) (794pp, 16.4MB)
+- [2022 Annual Groundwater Monitoring Report Operable Unit 2 Lockwood Solvent Groundwater Plume Site Billings, Montana; Signed And Attached Microsoft Access Database Containing All Groundwater Data Collected At Lockwood Solvents OU2 (pdf)](https://semspub.epa.gov/work/08/100013284.pdf) (959pp, 26.5MB)
+
+### Emergency Response and Removal
+
+The EPA extended the public water supply system downgradient of the Soco West plume in 2000 in response to danger posed by the contamination. This allowed the residents to stop using contaminated groundwater. The municipal water supply currently provided to residents is safe. It is regularly sampled to make sure it is within drinking water standards.
+
+- [1999 Action Memo (pdf)](http://semspub.epa.gov/src/document/08/197011) (9 pp, 1 MB)
+- [2000 Action Memo Amendment (pdf](http://semspub.epa.gov/src/document/08/231606) ) (62 pp, 4.6 MB)
+- [2000 Second Action Memo Amendment (pdf)](http://semspub.epa.gov/src/document/08/235763) (69 pp, 5 MB)
+
+The EPA came to site in November 2023 in response to the Soco West bankruptcy. There were also concerns that the site was unsecured.
+
+The 2023 removal work by the EPA included:
+
+- a fence was built on the western boundary of the property to discourage trespassing
+- a fence was built around the excavation area A to prevent access to open excavation pit
+- capping and stabilizing contaminated soils, clean soil layer was stabilized with native grass seed
+- liquid waste from the investigation work that was stored in an unheated shed was treated and disposed on site before it could freeze
+- the remediation equipment in the ozone sparge shed was drained of fluids and winterized to prevent damage during freezing weather
+
+For more information on the removal action, review the [Lockwood Solvents Emergency Removal Action webpage](https://response.epa.gov/site/site_profile.aspx?site_id=16226).
+
+### Enforcement Information
+
+On October 3, 2011, the [consent decree (pdf)](http://semspub.epa.gov/src/document/08/1207272) (72 pp, 954 K) for the remedial design/remedial action (RD/RA) was entered in Federal District Court for the District of Montana. The court approved the settlement reached by the United States, the State of Montana and Soco West, Inc.
+
+On April 26, 2023, Whitaker, Clark & Daniels, Inc., and three related companies, including Soco West, Inc., filed voluntary petitions for relief under Chapter 11 of the United States Bankruptcy Code. Soco West is a settling defendant under a Remedial Design/Remedial Action Consent Decree for Lockwood Solvent Ground Water Plume Operable Unit 2.
+
+On September 26, 2023, the EPA referred the matter to the Department of Justice to request the filing of a proof of claim in the bankruptcy proceeding. Soco West’s contractors stopped remedial work on the site following the bankruptcy petition and non-payment.

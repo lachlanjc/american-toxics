@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The US Magnesium Superfund site is located adjacent to the Great Salt Lake in Tooele County, Utah, 33 miles to the north of Grantsville and 40 miles to the west of Salt Lake City. The sparsely populated, 4,525-acre site includes the US Magnesium facility and surrounding areas of waste disposal. The facility has been producing magnesium at the site since 1972. The production process involves isolating magnesium chloride salts from the Great Salt Lake and then extracting the magnesium by electrolysis. Facility operations and waste disposal practices contaminated soil, air, surface water and groundwater with hazardous chemicals. In addition to threatening the health of US Magnesium workers, the contamination poses a threat to birds and wildlife.
+
+### What Has Been Done to Clean Up the Site?
+
+On September 3, 2008, EPA, with support from the Utah Department of Environmental Quality, announced its proposal to add US Magnesium to the National Priorities List. The National Priorities List is a list of some of the nation’s most contaminated sites, commonly referred to as Superfund sites. In 2009, EPA finalized its proposal and added US Magnesium to the National Priorities List. This allowed the US Magnesium site to qualify for Superfund environmental investigation and cleanup resources, processes, and public involvement opportunities.
+
+For best management purposes, EPA divided the US Magnesium Superfund site into two operable units: Operable Unit 1 (OU1) comprises soil, sediment, and water across the site, and Operable Unit 2 (OU2) is air within the 5-mile study area. The site was then further divided into 18 Preliminary Remedial Investigation Areas (PRIs). The Inner PRIs include some of the more highly contaminated areas such as the gypsum pile, ditches, and waste lagoons.
+
+In September 2013, EPA issued the [Phase 1A Remedial Investigation Sampling and Analysis Plan (pdf)](https://semspub.epa.gov/src/document/08/1267420) ( **warning, very large file**: 9,200 pp, 291.9 MB, [About PDF](https://www.epa.gov/home/pdf-files) ) to identify chemicals of potential concern in soils, sediment, solid waste, water and air, and receptor surveys (Phase 1A SAP). The Phase 1A SAP is the first phase in a four-phase approach to the Remedial Investigation. Highlights of site activities to-date, as guided by the Phase 1A SAP, include:
+
+- **All sampling of soils, sediment, solid waste, and water in the Outer PRI areas is complete.** Details are presented in the 2016 [Final Phase 1A Data Report for PRI Areas 2 and 8 through 17 & Surface Water Addendum (pdf)](https://semspub.epa.gov/src/document/08/1866949) (158 pp, 14.6 MB).
+- **All sampling of air is nearly complete.** EPA finalized the Phase 1A Air Sampling and Analysis Plan in 2014 to identify chronic airborne contaminants being released from the facility. Sampling indicated that chlorine and hydrochloric acid were the two chemicals that need to be evaluated in more detail. EPA and US Magnesium, LLC contractors developed a new Air Sampling and Analysis Plan for exposures to these two contaminants at the site; that sampling is slated for completion in 2018. Details are presented in the 2016 [Final Phase 1A Data Report for OU2 (PDF)](https://semspub.epa.gov/src/document/08/1829345) (602 pp, 26.4 MB).
+- **All sampling of soils, sediments, solid waste, and water in the Inner PRIs is complete.** EPA and US Magnesium contractors came to agreement in 2015 on an appropriate sampling approach for the Inner PRIs. Fourteen samples were collected in each Inner PRI. This work required trained crews to take soil, sediment, and surface water samples in sometimes difficult to access and highly contaminated areas. For highly-acid waste lagoons, helicopter-deployed clamshell diggers scooped water and sediment from above to avoid direct contact with the acid-contaminated ponds. Details are presented in the 2016 [Final Phase 1A-B Remedial Investigation Data Report (pdf)](https://semspub.epa.gov/src/document/08/1829348) ( **warning, large file:** 1,316 pp, 57.7 MB).
+
+In 2016, EPA and US Magnesium, LLC contractors expanded the hydrologic sampling at the site. Details are presented in the 2016 [Phase 2B Detailed Site-Wide Hydrologic RI (pdf)](https://semspub.epa.gov/src/document/08/1777042) (3 pp, 2 MB).
+
+### What Is the Current Site Status?
+
+EPA continues to investigate the nature and extent of the environmental contamination at the site as part of the remedial investigation. Actions necessary to protect human health and the environment will be determined later in the Superfund process.
+
+### Enforcement Information
+
+In 2014, the EPA Region 8 RCRA Technical Enforcement Program and US Magnesium voluntarily entered into an Administrative Order on Consent to address a release of acidic liquid waste from the magnesium production acid-waste pond onto its own and adjacent BLM lands. As a result, the spill area was secured on BLM land and the company was required to detail how it would secure the spill area on company land. In addition, the company was required to detail the measures it would take to address the cause of the spill, the spill itself, and any impacted, underlying soils; to post the property boundary between company and BLM land; and to prepare a contingency plan for future releases.

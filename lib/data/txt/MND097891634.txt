@@ -1,25 +1,25 @@
-NL INDUSTRIES/TARACORP/GOLDEN AUTOST. LOUIS PARK, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 A secondary lead smelter operated at the NL Industries/Taracorp /Golden Auto site from 1940 to 1982. The smelting operations recovered lead from lead plates, battery fragments and lead containers. A blast furnace was used until 1960, when it was replaced with a reverberatory smelting furnace. These industrial operations and onsite waste disposal resulted in elevated lead levels in air and in onsite soil and were suspected of causing elevated lead levels in groundwater and in off-site soils.
+
 The site originally consisted of two connecting properties. One property was formerly owned by NL Industries and Taracorp and the second property was owned by Mr. Harry Golden. In the mid-2000s, both properties were purchased, and the site has been redeveloped as an industrial-commercial area know as the Highway 7 Business Center.
-Top of Page
-What Has Been Done to Clean Up the Site?
-In 1983, EPA added the NL Industries/Taracorp /Golden Auto Site to the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term remedial action and federal funding under the Superfund law. The Superfund law is what gives EPA the authority to clean up releases of hazardous substances. In 1985, NL Industries entered into a Consent Order with EPA and the Minnesota Pollution Control Agency. As part of the agreement, NL Industries carried out a remedial investigation and prepared a remedial action plan. The remedial action plan for the site included installing an asphalt cap over most of the site, long-term groundwater monitoring, additional off-site soil assessment. The off-site soil investigation completed by NL Industries and an Endangerment Assessment performed by EPA determined that off-site soil remedial actions were not necessary. In 1998, EPA deleted the site from the NPL and MPCA removed it from the State's Permanent List of Priorities. 
-Top of Page
-What Is the Current Site Status?
- EPA is conducting the seventh five-year review of the NL Industries/TARACORP/Golden Auto Superfund site. These reviews ensure the remedies put in place protect public health and the environment, and function as intended by site decision documents.  Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-As a result of operations at the site, the site soils were contaminated with high concentrations of lead. N/A
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+In 1983, EPA added the NL Industries/Taracorp /Golden Auto Site to the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term remedial action and federal funding under the Superfund law. The Superfund law is what gives EPA the authority to clean up releases of hazardous substances.
+
+In 1985, NL Industries entered into a Consent Order with EPA and the Minnesota Pollution Control Agency. As part of the agreement, NL Industries carried out a remedial investigation and prepared a remedial action plan. The remedial action plan for the site included installing an asphalt cap over most of the site, long-term groundwater monitoring, additional off-site soil assessment. The off-site soil investigation completed by NL Industries and an Endangerment Assessment performed by EPA determined that off-site soil remedial actions were not necessary. In 1998, EPA deleted the site from the NPL and MPCA removed it from the State's Permanent List of Priorities.
+
+### What Is the Current Site Status?
+
+EPA is conducting the seventh five-year review of the NL Industries/TARACORP/Golden Auto Superfund site. These reviews ensure the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+As a result of operations at the site, the site soils were contaminated with high concentrations of lead.
+
+N/A

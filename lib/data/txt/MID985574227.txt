@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lower Ecorse Creek site is located on the south bank of the Ecorse River in Wyandotte, Michigan. The site is a former wetland that was filled in with waste material for development purposes. A city park is located on part of the site. Soils were contaminated with cyanide, arsenic and polyaromatic hydrocarbons (PAHs). EPA placed the site on the Superfund program’s [National Priorities List (NPL)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-2) in May 1994. Following cleanup, EPA took the site off the NPL in 2005. Operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and state actions. [The site cleanup milestones have been achieved](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0506252#Milestone).
+
+After an emergency cleanup in 1993 removed hazardous substances and covered part of the site, EPA selected the site’s long-term remedy. It included digging up about 3,000 cubic yards of soil from about 16 residential lots and disposing of the soil off site. When more cyanide contamination was found in the area of a home where work had already been performed, the contamination was removed, and corrective action taken in October 2002. Land restrictions and maintenance of the soil cover was part of the cleanup too. Following cleanup, EPA took the site off the NPL in 2005.
+
+### What Is the Current Site Status?
+
+The five year review in January 2021 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The City of Wyandotte has implemented all measures required by [EPA’s 2002 Administrative Order](http://semspub.epa.gov/src/document/05/157800) (PDF) (20pp, 969.89 K, [About PDF](https://www.epa.gov/home/pdf-files) ) and the institutional controls are in place and effective.

@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Bautsch-Gray Mine site is located in Jo Daviess County, Illinois. In 1944, the owners of the Gray farm installed a mining shaft on the property, built a 600-ton flotation mill and began mining the Gray ore body and milling the ore. The ore body contained minable concentrations of lead and zinc and was found to extend into the adjoining Bautsch property. In 1946, operations began at the Bautsch mine on the Bautsch property. Ore from both mines was processed at Gray Mill. Gray Mill also processed tailings from other nearby mines.
+
+Since it closed in 1975, tailings from the mine property have continued to erode and move toward residential properties, wetlands and fisheries. Erosion of these materials contaminated soil, groundwater and surface water. Waste piles contain elevated levels of lead, arsenic and other heavy metals, and soil samples from around the site and a nearby residential property contain elevated levels of lead.
+
+### What Has Been Done to Clean Up the Site?
+
+In September 2012, U.S. EPA listed the Bautsch Gray Mine site on the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term remedial action and federal funding under the Superfund law. The Superfund law is what gives EPA the authority to clean up releases of hazardous substances.
+
+U.S. EPA signed an [interim Record of Decision(PDF)](https://semspub.epa.gov/src/document/05/955665) (147pp, 40.74MB, [About PDF](https://www.epa.gov/home/pdf-files) ) in April 2020 that outlines the cleanup plan at Operable Unit, our OU1 of the site. The OU1 cleanup will focus on three main sources of contamination: a 34.2-acre mine tailings pile; a settling pond west of the mine tailings pile; and all other contaminated soil including along the overland flow route from the Settling Pond to Smallpox Creek. All three source areas contain elevated levels of arsenic, cadmium, copper, lead, and zinc.
+
+### What Is the Current Site Status?
+
+EPA continues to conduct site stabilization activities to regrade portions of the site that have experienced significant erosion and manage stormwater runoff with onsite stormwater retention ponds and sediment control practices. In early 2023 EPA will begin the engineering design for the sitewide remedy at Bautsch-Gray Mine which will place a cap over the mine tailings piles to prevent erosion and offsite migration of mine tailings.
+
+EPA will continue evaluating any necessary long-term cleanup options for the remainder of the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The main constituent of concern is lead.
+
+### Emergency Response and Removal
+
+U.S. EPA, along with Illinois EPA, investigated the migration of contaminants from the Bautsch Gray Mine Superfund Site to neighboring properties. Because of the elevated levels of lead found during sampling, U.S. EPA conducted a time-critical removal action from 2010 through 2012 to remove mine tailings and soil from the residential property across Blackjack Road from the Bautsch Gray Mine Site. Mine tailings and soil along Blackjack Road were also removed and placed at the center of the mine tailings pile.
+
+U.S. EPA also designed and constructed stormwater retention ponds on the tailings pile to prevent further migration of contaminated tailings and soils beyond the boundaries of the property. A stormwater drainage ditch was also created to divert runoff from the uphill 50-acre watershed around the east and north sides of the mine tailings area.

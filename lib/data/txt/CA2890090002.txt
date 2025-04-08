@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 11-square-mile Lawrence Livermore National Laboratory (Site 300) was developed in the 1950s as a research facility. It is operated by Lawrence Livermore National Security, LLC (LLNL), for the U.S. Department of Energy (USDOE) primarily as a high-explosives and materials testing site in support of nuclear weapons research. Facility operations contaminated soil and groundwater with hazardous chemicals. The site’s long-term cleanup is ongoing. This rugged site consists of rolling hills ranging in elevation from 500 to 1750 ft above sea level, and is located approximately 6 miles southwest of Tracy and 15 miles east of Livermore – ranches and windfarms (Altamont Pass) and an off-road State park surround it.
+
+In 1981, the Water Quality Resources Control Board began environmental investigations and the site was listed on the NPL in 1990. EPA, the California Department of Toxic Substances Control (DTSC), and the SF Bay Regional Water Quality Control Board (RWQCB) are signatories to the site’s 1992 Federal Facility Agreement (FFA). The FFA outlines DOE's responsibilities and milestones for addressing site contamination.
+
+The Livermore Facility (Main Site or Site 200), a separate NPL Site, was developed in the 1950s as a research facility by the U.S. Atomic Energy Commission, predecessor to DOE, primarily as a research and design laboratory in support of nuclear weapons research, and is located 15 miles west of Site 300.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed as a federal facility with DOE as the lead agency. The site is being addressed in two stages: initial actions and a long-term remedial phase focused on cleanup of the entire site. The site has been divided into nine areas, or operable units (OUs), to administratively track the progress of cleaning up contamination.
+
+Initial Actions: In the spring of 1991, DOE installed a groundwater extraction and treatment system to curtail the migration of a VOC contamination plume near the southern boundary of the site. In the fall of 1992, another plume of VOC-contaminated groundwater was discovered. A second extraction and treatment system was installed to control this plume. DOE also began capping two landfills to prevent rainwater runoff from causing contaminant migration.
+
+*Entire Site*
+
+In general, groundwater is being pumped and treated at several operable unit locations including the General Services Area (GSA), Building 834, Pit 6 Landfill, the High Explosives Process Area (HEPA), Building 832 Canyon, and Building 854. Soil vapor extraction is being conducted to treat volatile organic compounds (VOCs) in the vadose zone is being conducted at GSA, Building 834, Building 832 Canyon and Building 833. Several release areas such as Building 850 and Pit 7 have mixed-waste contaminated groundwater plumes (i.e., tritium, depleted uranium along with VOCs and/or perchlorate). Treatability studies have been conducted for perchlorate and VOCs; perchlorate is treated by ion exchange and/or bioreactors.
+
+DOE/LLNL has made significant progress reducing contaminant concentrations in most groundwater plumes
+
+The Eastern General Services Area (GSA) groundwater plume remediation is complete; no further monitoring is needed
+
+Concentrations in most plumes have decreased by one to two orders of magnitude, but there are significant groundwater VOC concentrations at Building 834 and Building 832 Canyon
+
+Tritium and uranium plumes in the Pit 7/Building 850 area are hydraulically contained, although preventing groundwater from infiltration continues to be an issue.
+
+As of 2019, LLNL has installed 20 treatment systems – 5 soil vapor and 15 groundwater. Since remediation began in 1991, approximately 458 million gallons of groundwater and over 1.2 billion cubic feet of soil vapor have been treated, removing approximately 630 kg of VOCs, 1.7 kg of perchlorate, 20,000 kg of nitrate, 2.7 kg of RDX, 9.5 kg of tetrabutyl orthosilicate (TBOS) and tetrakis (2-ethylbutyl) silane (TKEBS), ad 0.087 kg of uranium.
+
+### What Is the Current Site Status?
+
+EPA deferred concurrence recently on the Five-Year Reviews for the GSA OU, Building 834 OU, the HEPA OU, OUs 3 and 8 and for Building 854 OU, and OUs 5 & 6 pending results of the Vapor Intrusion (VI) screening level evaluation investigation for VOCs in occupied and potentially occupied on-site buildings. The VI field investigation was completed by December 2019 with the report and Five-Year Review Addenda for each site due in 2020.
+
+DOE is currently investigating several areas including the Building 812 Firing Table OU, the Building 850 Perchlorate Firing Table and the Building 865 Linear Accelerator. The Proposed Plan has been moved back to Fiscal Year 2025 due to the additional soil characterization work required to establish background for radioactive and stable metals to evaluate the extent of depleted uranium and other metals contamination.
+
+EPA has reviewed the Remedial Investigation/Feasibility Study (RI/FS) reports for the Building 850 (firing table) for Perchlorate contamination, for the Building 865 (linear accelerator/part 1) and is expecting the draft RI/FS reports for B865/part 2 and Building 812 (firing table) pending completion of the background reference area study for radionuclides and stable metals. The Proposed Plan for all three subareas is expected in 2025 with the Record of Decision in 2026.
+
+At EPA's request, in 2016 DOE produced a list of release sites (historic operations) many of which were apparently labeled 'NFRAP' (No Further Remedial Action Planned) status before the Site was final on the NPL. In follow up, the Lab identified approximately 50 release sites that were never identified (or characterized). In 2019, DOE began to provide information on these sites in the OU 5 & 6 (East/West Firing Tables) Five-Year Review and has committed to doing so with the other release sites.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+This site is a highly controlled facility and is in use for national security purposes.

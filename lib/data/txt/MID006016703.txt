@@ -1,32 +1,29 @@
-KAYDON CORP.MUSKEGON, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 40-acre Kaydon Corporation site is located in Muskegon County, Michigan. Until 1968, Kaydon Corporation disposed of wastewater from plant processes in on-site seepage pits and into the south branch of Ruddiman Creek. Waste disposal operations contaminated soil, the surface water of Ruddiman Creek and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The MDEQ Remedial Action Plan process has been used to investigate and remediate the site, since Kaydon Corporation has voluntarily complied with Michigan's requests. The site is being addressed through state and PRP actions.
-Top of Page
-What Is the Current Site Status?
-The site’s remedy includes removal of contaminated soils and a groundwater purge system. Construction of the remedy took place between 1986 and 2003. Operation and maintenance activities are ongoing.Soil cleanup standards are protective of industrial uses; continued industrial uses are likely on site. Groundwater contaminant concentrations have been declining, and state standards have been met at on-site groundwater monitoring wells. The Michigan Department of Environmental Quality (MDEQ) and Kaydon Corporation, the site’s potentially responsible party (PRP), are evaluating whether to shut down the groundwater extraction system.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Metals and chlorinated organic solvents such as cadmium, chromium, lead, nickel, 1,1-dichloroethane, 1,1-dichloroethene, 1,1,1-trichloroethane, and xylenes  http://www.epa.gov/superfund/sites/npl/nar1086.htm
-Top of Page
-Sampling and Monitoring
-Top of Page
-Enforcement Information
+
+### What Has Been Done to Clean Up the Site?
+
+The MDEQ Remedial Action Plan process has been used to investigate and remediate the site, since Kaydon Corporation has voluntarily complied with Michigan's requests. The site is being addressed through state and PRP actions.  
+
+### What Is the Current Site Status?
+
+The site’s remedy includes removal of contaminated soils and a groundwater purge system. Construction of the remedy took place between 1986 and 2003. Operation and maintenance activities are ongoing.
+
+Soil cleanup standards are protective of industrial uses; continued industrial uses are likely on site. Groundwater contaminant concentrations have been declining, and state standards have been met at on-site groundwater monitoring wells. The Michigan Department of Environmental Quality (MDEQ) and Kaydon Corporation, the site’s potentially responsible party (PRP), are evaluating whether to shut down the groundwater extraction system.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Metals and chlorinated organic solvents such as cadmium, chromium, lead, nickel, 1,1-dichloroethane, 1,1-dichloroethene, 1,1,1-trichloroethane, and xylenes
+
+[http://www.epa.gov/superfund/sites/npl/nar1086.htm](http://www.epa.gov/superfund/sites/npl/nar1086.htm)
+
+### Sampling and Monitoring
+
+### Enforcement Information
+
 The United States Environmental Protection Agency (EPA) proposed the Kaydon site for the National Priorities List (NPL) on June 24, 1988, and finalized the site on the NPL on February 21, 1990.
-Top of Page

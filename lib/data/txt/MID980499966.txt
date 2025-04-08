@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4-acre Springfield Township Dump site is located near Davisburg, Michigan on a 12 acre tract of land. Unauthorized chemical waste disposal took place on the site from about 1966 to 1968. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. Following removal of 12,000 cubic yards of soil, the site’s long-term remedy for groundwater is now in place.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. After 12,000 cubic yards of contaminated soil was cleaned up, soil vapor extraction was performed between 2000 and 2002 to address volatile organic contamination that remained in unsaturated soil. Following the 2009 bankruptcy of Chrysler Corporation, EPA identified other potentially responsible parties (PRPs) who have continued to perform work at the site. The groundwater extraction and treatment system shut down in 2009, and the PRPs resumed system operation in 2011. Groundwater extraction and treatment is ongoing at the site along with periodic sampling and analysis of groundwater from monitoring wells. Michigan’s Health Department collects samples annually from residential wells in the area around the site.
+
+Supplemental investigations of site conditions occurred in 2010, 2014, and 2016. EPA has also conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The 2019 five-year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Additional work is needed to confirm the remedy is protective of human health and the environment in the long term. EPA anticipates that the next five-year review of the site’s remedy will take place in 2024.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included fence repair and extension, excavation and treatment of contaminated surface soils, in-place soil vapor extraction (ISVE) of contaminated subsurface soils, excavation and on-site solidification of metals-laden soils (and incinerator ash, as appropriate), and groundwater extraction and treatment. The estimated amount of time required to reach remedial goals for groundwater was 5 years. Construction of the remedy took place between 1994 and 2000. As of 2021, one extraction well is being used to remove contaminated groundwater. The contaminated groundwater is treated at the site and treated water meeting water quality standards is injected into the subsurface at one injection well to the south of the site. Evaluation of the cause of continued groundwater contamination at the site is ongoing with the objective to optimize the remediation effort so that goals can be achieved as quickly as possible. Soil vapor extraction has been discontinued, but the system remains at the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Soil at the Site was contaminated with polychlorinated biphenyls (PCBs), heavy metals, and volatile organic compounds (VOCs), including toluene and xylene. trichloroethene. Some sludges contained PCBs and dieldrin, a pesticide. Current primary contaminants of concern in groundwater include benzene, trichloroethylene, arsenic, and lead.
+
+### Sampling and Monitoring
+
+Groundwater samples are collected from monitoring wells at the site twice a year, and the results are provided to EPA in semi-annual reports. The Michigan Health Department samples residential wells close to the site on an annual basis.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1979 and 1980, the Michigan Department of Natural Resources (MDNR) disposed of 1,500 drums of waste and 711 tons of contaminated soil. MDNR also fenced the contaminant disposal area.

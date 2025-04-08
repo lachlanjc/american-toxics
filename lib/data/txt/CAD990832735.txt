@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+In 1974, Synertek Inc. (Synertek) leased the building located at 3050 Coronado Drive in Santa Clara, California (Building No. 1) (Site), where it conducted semiconductor manufacturing operations. In 1979, Honeywell acquired Synertek as a wholly owned subsidiary. Synertek manufacturing operations ceased in 1985. Prior to 1985, Synertek constructed and operated two underground tank systems east of the building. One 200-gallon-capacity solvent tank was used for storing solvents between 1976 and 1982, and three former neutralization system tanks were used as holding tanks between 1974 and 1982. These tanks stored a variety of chemicals, including chlorinated solvents. Leaks from the underground storage tanks caused volatile organic compounds (VOCs) to be released to soils beneath the Site. The quantities and dates of the releases are unknown. The tanks, along with the affected soils, were removed in 1985. At that time, it was discovered that on-Site and off-Site groundwater had become contaminated.
+
+### What Has Been Done to Clean Up the Site?
+
+The parties responsible for environmental cleanup at the Site (Potentially Responsible Parties) installed a groundwater extraction and treatment system in 1987 to address groundwater contamination. The system operated through 2000, and was responsible for the extraction and treatment of approximately 72 million gallons of groundwater, resulting in the removal of approximately 84 pounds of VOCs. By 2000, the treatment system had reduced the average groundwater concentration of trichloroethene (TCE) by more than 90 percent, and it was determined that further reduction would not be feasible. The groundwater extraction and treatment system was shut down in 2001.
+
+Groundwater monitoring continued from 2001 to 2011 and showed decreasing VOC concentrations attributed to the natural attenuation process.
+
+From 2011 through 2013, a pilot study was conducted to determine if enhanced in-situ bioremediation would be effective at further reducing VOC concentrations in Site groundwater. This treatment technology stimulates naturally occurring microorganisms below the ground surface to clean up the groundwater contamination. Results of the pilot study have shown that this technology is effective at the Site and has the potential to greatly reduce the time it will take to reach cleanup goals. Pilot study results are being incorporated into a Focused Feasibility Study (FFS) document that will be used to support selection of an appropriate new remedy to replace the groundwater extraction and treatment system.
+
+EPA has conducted several five-year reviews of the Site’s remedy. These reviews ensure that the remedies put in place are protective of public health and the environment and function as intended by the Site decision documents. The Fifth Five-Year Review Report, completed on September 27, 2017, concluded that the remedy is currently protective of human health and the environment; however, in order for the remedy to be protective in the long-term, a new remedy needs to be selected because the groundwater extraction and treatment system is no longer operating.
+
+### What Is the Current Site Status?
+
+An FFS is currently being prepared for the Site to evaluate the available cleanup alternatives. The FFS will be used to support selection of a new remedy to replace the groundwater extraction and treatment system. The proposed cleanup plan will be made available for public comment; upon final approval, the newly selected remedy will be documented in an amended Record of Decision.
+
+Previous five-year reviews have determined that the plume is stable and there is no active pathway for vapor intrusion. Groundwater continues to be monitored semiannually.

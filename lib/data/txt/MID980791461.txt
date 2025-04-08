@@ -1,21 +1,15 @@
-AVENUE "E" GROUND WATER CONTAMINATIONTRAVERSE CITY, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 435-acre Avenue “E” Ground Water Contamination site is located in Grand Traverse County, Michigan. The United States Department of the Navy (Navy) initially operated an Air Station at the site beginning in 1943, until the United States Coast Guard (USCG) assumed control in 1945. In the maintenance and servicing of aircraft, the USCG and the Navy routinely used oils, lubricants, paints, paint stripping solvents, aviation gasoline and dry cleaning solvents. Direct dumping, chemical spills and storage leaks contaminated groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities were completed. EPA took the site off the Superfund program’s National Priorities List (NPL) in 2007.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site was addressed by the USCG under an agreement with the State of Michigan.EPA has conducted one five-year review of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. This review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy included installation of two blocking wells to pump groundwater and prevent further contamination from leaving the property. Once treated, the groundwater discharges to the Traverse City sanitary sewer system. Construction of the remedy took place in 1985. Additionally, residences in the affected area received connections to a public water supply line. Operation and maintenance activities are ongoing. Following cleanup, EPA took the site off the NPL in 2007.
-Top of Page
-Sampling and Monitoring
-Top of Page
+### Background
+
+The 435-acre Avenue “E” Ground Water Contamination site is located in Grand Traverse County, Michigan. The United States Department of the Navy (Navy) initially operated an Air Station at the site beginning in 1943, until the United States Coast Guard (USCG) assumed control in 1945. In the maintenance and servicing of aircraft, the USCG and the Navy routinely used oils, lubricants, paints, paint stripping solvents, aviation gasoline and dry cleaning solvents. Direct dumping, chemical spills and storage leaks contaminated groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities were completed. EPA took the site off the Superfund program’s National Priorities List (NPL) in 2007.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed by the USCG under an agreement with the State of Michigan.
+
+EPA has conducted one five-year review of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. This review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included installation of two blocking wells to pump groundwater and prevent further contamination from leaving the property. Once treated, the groundwater discharges to the Traverse City sanitary sewer system. Construction of the remedy took place in 1985. Additionally, residences in the affected area received connections to a public water supply line. Operation and maintenance activities are ongoing.
+
+Following cleanup, EPA took the site off the NPL in 2007.

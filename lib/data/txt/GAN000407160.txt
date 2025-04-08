@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+In 2018, an Emory University doctoral student shared data with the EPA showing elevated lead levels collected from soil samples in Atlanta’s Westside. Additional research by the EPA led to the discovery of industrial smelting waste (slag) on at least two (2) lots near Elm Street. Though slag may be a possible source of lead contamination, the presence of slag material does not automatically equate to high levels of lead in soil. Sampling is required to determine the specific risk for your property. The EPA is now performing its own sampling in the area to determine the extent of the contamination and appropriate next steps to protect public health and the environment.
+
+On March 16, 2022, the U.S. Environmental Protection Agency added the Westside Lead Site to the National Priorities List (NPL), a list of polluted locations in the United States requiring a long term cleanup of hazardous material contamination. The site, located within a 637-acre study area, consists primarily of residential properties that are impacted by surface soil lead contamination. These properties may pose a risk of child exposures through common activities, such as playing in contaminated yards and vacant lots. Properties that EPA determines to be contaminated with lead are included as part of the site and will be remediated using EPA’s Superfund authority. Although EPA sampling and cleanup activities have been underway since 2019, the NPL listing means the Site is now eligible to receive federal funding for long term cleanup. The EPA will continue to determine which yards are impacted by lead and conduct the necessary soil cleanup at the affected properties. Listing the Site on the NPL will allow EPA to evaluate the risks to public health and the environment associated with foundry waste and take all necessary cleanup actions. Listing the Site on the NPL will also provide increased annual funding, allowing for more resources and a faster cleanup.
+
+On November 16, 2022, the EPA, in consultation with the Georgia Department of Environmental Protection, issued a Record of Decision, or ROD, for the Westside Lead Superfund Site in Atlanta. The ROD is a public document that explains the selected cleanup alternative for the site and includes a response to the public comments received during the Proposed Plan public comment period from August 26, 2022, to September 25, 2022. The site consists of lead contamination in soil on residential properties. The selected cleanup alternative for the site includes removing the contaminated soil, temporary staging, characterization, and transportation to an off-site EPA-approved landfill for disposal. Excavated areas will be backfilled with clean material and graded to provide proper drainage, then revegetated or re-sodded. Impacted and disturbed areas will be restored to their previous condition as much as possible. EPA projects the cleanup to cost $49.13 million and take approximately six years to complete the cleanup.
+
+Since 2018, the EPA has overseen residential soil sampling in a section of English Avenue and Vine City. Since March 3, 2025, residents gave the EPA permission to sample 1,674 properties in the study area and, of those sampled, 606 require cleanup. Sampling is ongoing and additional properties may require cleanup.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2018, an Emory University doctoral student shared data with the EPA showing elevated lead levels collected from soil samples in Atlanta’s Westside. Additional research by EPA led to the discovery of industrial smelting waste (slag) on at least two (2) lots near Elm Street. Though slag may be a possible source of lead contamination, the presence of slag material does not automatically equate to high levels of lead in soil. Sampling is required to determine the specific risk for your property.
+
+The EPA is currently conducting sampling and cleanup activities in the Westside Lead study area.
+
+### What Is the Current Site Status?
+
+Based on the data gathered, EPA expanded the Westside Lead Study Area to include properties north to Wheeler St. NW, west to Joseph E. Lowery Blvd. NW, south to Martin Luther King Jr Dr. NW, and east to Northside Dr. NW.
+
+The samples are being taken from outside the home. Residents or property owners do not have to be present while samples are being collected. Individual results will be kept confidential and shared directly with residents and property owners. The results will determine what, if any, additional response actions are necessary to protect human health and the environment.
+
+Below are the current sampling, remediation and disposal metrics as of March 3, 2025:
+
+| **SAMPLING METRICS** |
+| --- |
+| - Total Properties (estimated): 2,097 - Access Granted: 1,674 - Properties Sampled: 1,468 - Properties Requiring Remediation (>400ppm): 606 |
+| **REMEDIATION METRICS** |
+| - Properties Requiring Remediation: 606 - Properties in Progress: 10 - Properties Completed: 342 - Properties Remaining: 264 |
+| **DISPOSAL METRICS** |
+| - Non-Hazardous Soil (In Tons): 82,270 |
+
+### Sampling and Monitoring
+
+Sampling is ongoing and additional properties may require cleanup.

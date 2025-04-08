@@ -1,21 +1,15 @@
-ANDERSON DEVELOPMENT CO.ADRIAN, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The Anderson Development Company (ADC) manufactures specialty organic chemicals on a 12-acre facility in Adrian, Michigan, and sells the products to other manufacturers. ADC produced the chemical 4,4'-methylene-bis-2-chloroaniline (MBOCA) from 1970 to 1979 under the trade name of Curine 442. MBOCA is used as a curing agent for polyurethanes and epoxy resins. It is a highly toxic compound that can be absorbed through the skin. MBOCA contamination was found in high concentrations in sludges in a pretreatment lagoon and lower concentrations in sediments and soil within a two-mile radius of the ADC facility in 1979. In 1980 and 1981, the Michigan Department of Natural Resources (MDNR), ADC and Lenawee County Health Department conducted an extensive cleanup and monitoring program that included sampling of nearby surface soil and home carpet vacuum dust testing. Following construction of the site’s long-term remedy, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1996.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site was addressed through federal, state, local and potentially responsible party (PRP) actions. 
-Top of Page
-What Is the Current Site Status?
-Surface soil, lagoon sludge, and clay underlying the lagoon were contaminated with MBOCA, a known carcinogen that can be absorbed through the skin. A 1990 investigation of the soil beyond the immediate lagoon area indicated that the MBOCA concentration level no longer presented a threat to public health. In 1981, Lenawee County Health Department and MDNR started a cleanup effort to aid local homeowners whose residences were contaminated with MBOCA. This included cleaning up the interior and exterior of homes in the Sunnyside area. Homes with private wells near ADC were connected to the city's water supply system.EPA selected the site’s long-term remedy in 1990. It recommended the use of in-place vitrification technologies to decontaminate soils at the site. EPA updated the remedy in 1991, to test the effectiveness of low-temperature thermal desorption to clean up the soil. It was determined that this technology was effective, and treatment began in January 1992. Cleanup finished in the fall of 1993.The cleanup of residences, the provision of an alternate water supply and the final cleanup of contaminated lagoons, soils and sludges have eliminated the exposure to MBOCA-contaminated materials at the site. All cleanup goals have been met. EPA took the site off the NPL in 1996.
-Top of Page
-Sampling and Monitoring
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state, local and potentially responsible party (PRP) actions.  
+
+### What Is the Current Site Status?
+
+Surface soil, lagoon sludge, and clay underlying the lagoon were contaminated with MBOCA, a known carcinogen that can be absorbed through the skin. A 1990 investigation of the soil beyond the immediate lagoon area indicated that the MBOCA concentration level no longer presented a threat to public health. In 1981, Lenawee County Health Department and MDNR started a cleanup effort to aid local homeowners whose residences were contaminated with MBOCA. This included cleaning up the interior and exterior of homes in the Sunnyside area. Homes with private wells near ADC were connected to the city's water supply system.
+
+EPA selected the site’s long-term remedy in 1990. It recommended the use of in-place vitrification technologies to decontaminate soils at the site. EPA updated the remedy in 1991, to test the effectiveness of low-temperature thermal desorption to clean up the soil. It was determined that this technology was effective, and treatment began in January 1992. Cleanup finished in the fall of 1993.
+
+The cleanup of residences, the provision of an alternate water supply and the final cleanup of contaminated lagoons, soils and sludges have eliminated the exposure to MBOCA-contaminated materials at the site. All cleanup goals have been met. EPA took the site off the NPL in 1996.

@@ -1,32 +1,27 @@
-PACKAGING CORP. OF AMERICAFILER CITY, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 50-acre Packaging Corporation of America site is located in Manistee County, Michigan. A pulping mill produced materials for corrugated boxes on site. Site features include a waste disposal area with eight lagoons. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. Affected groundwater discharges to nearby Manistee Lake. Following cleanup, operation and maintenance activities are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
+
+### What Has Been Done to Clean Up the Site?
+
 The site is being addressed through federal, state and potentially responsible party (PRP) actions.
-Top of Page
-What Is the Current Site Status?
+
+### What Is the Current Site Status?
+
 The site’s long-term remedy included lagoon caps and monitoring of the groundwater and Manistee Lake. Calculations of current and potential risks indicate that the contamination does not pose an unacceptable risk to human health or the environment. If future monitoring results indicate that the site is causing unacceptable environmental risks, then further cleanup will be required. Operation and maintenance activities are ongoing.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Arsenic; 2-Butanone; Butanoic Acid; Barium; Benzoic Acid; Hexanoic Acid; Chromium; 2-Methylphenol; Copper; 4-Methylphenol; Lead; Phenol; Manganese; Nickel; Vanadium. www.epa.gov/IRIS/
-Top of Page
-Sampling and Monitoring
-Top of Page
-Enforcement Information
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Arsenic; 2-Butanone; Butanoic Acid; Barium; Benzoic Acid; Hexanoic Acid; Chromium; 2-Methylphenol; Copper; 4-Methylphenol; Lead; Phenol; Manganese; Nickel; Vanadium.
+
+[www.epa.gov/IRIS/](http://www.epa.gov/IRIS/)
+
+### Sampling and Monitoring
+
+### Enforcement Information
+
 A potentially responsible party search was completed on January 25, 1983 and PCA was identified as the only potentially responsible party. On May 14, 1985, an Administrative Order on Consent for a Remedial Investigation and Feasibility Study (RI/FS), w
-Top of Page

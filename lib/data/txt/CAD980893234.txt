@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The plant on the 3-acre Watkins-Johnson Company (Stewart Division) site in Scotts Valley, California, began to manufacture industrial furnaces and electrical parts in 1963. Contamination probably resulted from improper handling of hazardous waste generated during plant operations. Following construction of the remedy, operation and maintenance activities continued until about 2014. Since then, active remediation has ceased and the site relies on a passive remedy to control vapor intrusion hazards to acceptable risk levels.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions. The PRP has substantially completed cleanup of groundwater and soil. A remedy remains in place that is protective of commercial/industrial site users from vapor intrusion hazards.
+
+### What Is the Current Site Status?
+
+Construction of all remedies is complete. Pumping and treating contaminated groundwater reduced the size of the plume and the threats posed to the nearby population. The soil vapor extraction and treatment system reduced concentrations of volatile organic compounds (VOCs) in the soil so that they no longer present a threat to the groundwater. Both are now discontinued.
+
+Interim Actions: In response to a Cleanup and Abatement Order from the California Regional Water Quality Control Board, the potentially responsible party (PRP) began an interim program to pump and treat contaminated groundwater in 1986. Current groundwater monitoring data show that the extraction network has successfully stopped the migration of the VOC plume.
+
+Entire Site: The site cleanup is substantially complete. A remedy remains in place to protect site users from vapor intrusion hazards. The remedy is protective of users in a commercial or industrial exposure scenario. The PRP is currently decommissioning all site wells in preparation for sitewide ready for anticipated use (SWRAU) designation.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Site remedy allows for commercial/industrial use scenarios. Vapor intrusion hazards are controlled; testing conducted in 2017 showed the remedy protects from both human health and environmental hazards.
+
+### Sampling and Monitoring
+
+Indoor air sampling in 2017-2018 identified one vapor intrusion issue that was immediately fixed. Resampling confirmed the remedy is protective from vapor intrusion hazards.

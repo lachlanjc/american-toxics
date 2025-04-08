@@ -1,2 +1,60 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 135-acre Carrier Air Conditioning Company [Superfund](http://www.epa.gov/superfund) site is located in Collierville, Tennessee, 21-miles east of downtown Memphis. The site is near the intersection of U.S. Highway 72 and Byhalia Road.
+
+The Carrier Corporation has operated a manufacturing plant at the site since the 1960s. manufacturing residential heating and air conditioning units at the site. During assembly of air conditioning units, the plant stamps aluminum sheeting and assembles it with copper tubing to form air heat exchangers. Carrier removes stamping and forming oils and dirt from these parts prior to final assembly. Until about 1986, trichloroethylene (TCE) was the primary solvent, or substance used to dissolve other substances, used to degrease and clean these parts.
+
+In 1979 and 1985, solvent storage systems released trichloroethylene (TCE) into an area just south of the main manufacturing building. In addition, behind the facility, a wastewater lagoon operated by the plant from 1972 to 1979 received TCE- and zinc-contaminated wastewater that contaminated lagoon sediment.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program's [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1989 because of contaminated groundwater, sludge, and soil due to plant operations. Through ongoing groundwater and soil treatment, groundwater monitoring and the required Five-Year Review, EPA, the [Tennessee Department of Environment and Conservation (TDEC),](http://www.tn.gov/environment/about) and the site's [potentially responsible party (PRP)](http://www.epa.gov/superfund/superfund-glossary#p) continue to protect people and the environment.
+
+### What Has Been Done to Clean Up the Site?
+
+Carrier Corporation (Carrier), the site’s PRP, leads site investigation and cleanup activities, with oversight provided by EPA and TDEC.
+
+**1989**  
+The site’s PRP installed a Soil Vapor Extraction (SVE) system in the former wastewater lagoon area.
+
+**1990**  
+The PRP installed the groundwater treatment system at Water Plant #2 in 1990 to remove TCE from groundwater.
+
+**1994 – 1995**  
+The PRP installed a SVE system for the main plant area. The system continues to operate.
+
+**1996**  
+Carrier and the Town of Collierville finalized operation and maintenance responsibilities for Water Plant #2 and the groundwater treatment system.
+
+**2004 – 2005**  
+Carrier expanded its facility in 2004 to 2005, excavating soil impacted by TCE during the expansion process.
+
+The soil and groundwater treatment systems continue to operate. Water Plant #2 is used only for the groundwater cleanup and does not supply water to the Town of Collierville.
+
+Zoning of the site property is for industrial land uses.
+
+The Town of Collierville has indicated that long-range plans for the area anticipate that land use at the site will remain industrial.
+
+**2015 – 2016**  
+EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, completed in 2015, concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+Continued protectiveness of the remedy requires ongoing treatment of soil and groundwater contamination. The 2015 Five-Year Review also recommended the installation of additional groundwater monitoring wells at the Site; these wells were installed during 2016.
+
+### What Is the Current Site Status?
+
+The [fifth Five-Year Review](https://semspub.epa.gov/src/document/04/11155249) was published by EPA HQs in 2020. The selected remedy at the Site is protective of human health and environment in the short term.
+
+The site’s long-term remedy continues to operate. The selected remedy includes:
+
+- soil vapor extraction (SVE) in the main plant area and the former wastewater lagoon area;
+- containment of the groundwater plume using Water Plant #2 wells, with ongoing treatment of extracted groundwater;
+- land use controls to limit future uses at the site to industrial uses;
+- limiting water well construction in the area; and
+- groundwater monitoring.
+- The Carrier air conditioning manufacturing plant remains in active operation at the site.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Land use controls are in place to limit future uses at the site to industrial uses.

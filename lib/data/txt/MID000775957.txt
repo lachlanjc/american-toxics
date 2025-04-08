@@ -1,19 +1,17 @@
-MICHIGAN DISPOSAL SERVICE (CORK STREET LANDFILL)KALAMAZOO, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Michigan Disposal Service (Cork Street Landfill) site is a closed landfill located in Kalamazoo, Kalamazoo County, Michigan. From 1925 to 1961, a waste disposal facility operated at the 68-acre area. In 1961, the City of Kalamazoo purchased the property and used it for municipal waste disposal until 1968. Prior to 1968, waste was burned in an on-site incinerator, and the ash was buried in the landfill. The city continued to use the site until 1981 when Dispose-O-Waste, now Michigan Disposal Service, Inc., purchased the facility. Michigan Disposal Service received a permit from the State of Michigan to operate the site as a Type III landfill. In 1992, the facility was shut down by state order. Facility operations contaminated groundwater with volatile organic compounds (VOCs) and heavy metals. Following construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site’s long-term remedy, selected in 1991, included re-compacting the existing landfill’s clay layer, adding a 24-inch protection layer and 6-inch vegetation layer, and installing gas vents over a 22-acre portion of the landfill. The remedy also included constructing a new cap over the remaining 30 acres of the landfill consisting of a 6-inch vegetation layer, 24-inch frost protection layer, geosynthetic clay layer (GCL), and a gas-venting layer.  The remedy also included installing fencing and signage around the site; and institutional controls such as notice to future property owners and deed restrictions to regulate development and groundwater use. Construction of the remedy started in 2000 and finished in 2002.  In September 2002, EPA amended the 1991 ROD. The ROD Amendment modified the leachate collection system, required the installation of monitoring wells for periodic monitoring in accordance with the Groundwater/Surface Water Interface Monitoring Plan, and the implementation of institutional controls. 
-Top of Page
-What Is the Current Site Status?
-The site is being addressed by the sole Potentially Responsible Party (PRP), the City of Kalamazoo, under a Consent Decree (CD) with EPA. A PRP is a party that may be legally responsible for the site's contamination. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. Long-term protectiveness requires ongoing monitoring, evaluation of the site’s institutional controls, and delineation of the lateral extent of methane gas migration to determine if a more aggressive landfill gas system is required. The next five-year review for the site will be completed by September 2020. Top of Page
-Sampling and Monitoring
-Top of Page
+### Background
+
+The Michigan Disposal Service (Cork Street Landfill) site is a closed landfill located in Kalamazoo, Kalamazoo County, Michigan. From 1925 to 1961, a waste disposal facility operated at the 68-acre area. In 1961, the City of Kalamazoo purchased the property and used it for municipal waste disposal until 1968. Prior to 1968, waste was burned in an on-site incinerator, and the ash was buried in the landfill. The city continued to use the site until 1981 when Dispose-O-Waste, now Michigan Disposal Service, Inc., purchased the facility. Michigan Disposal Service received a permit from the State of Michigan to operate the site as a Type III landfill. In 1992, the facility was shut down by state order. Facility operations contaminated groundwater with volatile organic compounds (VOCs) and heavy metals. Following construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term remedy, selected in 1991, included re-compacting the existing landfill’s clay layer, adding a 24-inch protection layer and 6-inch vegetation layer, and installing gas vents over a 22-acre portion of the landfill. The remedy also included constructing a new cap over the remaining 30 acres of the landfill consisting of a 6-inch vegetation layer, 24-inch frost protection layer, geosynthetic clay layer (GCL), and a gas-venting layer.  
+  
+The remedy also included installing fencing and signage around the site; and institutional controls such as notice to future property owners and deed restrictions to regulate development and groundwater use. Construction of the remedy started in 2000 and finished in 2002.  
+  
+In September 2002, EPA amended the 1991 ROD. The ROD Amendment modified the leachate collection system, required the installation of monitoring wells for periodic monitoring in accordance with the Groundwater/Surface Water Interface Monitoring Plan, and the implementation of institutional controls.
+
+### What Is the Current Site Status?
+
+The site is being addressed by the sole Potentially Responsible Party (PRP), the City of Kalamazoo, under a Consent Decree (CD) with EPA. A PRP is a party that may be legally responsible for the site's contamination.  
+  
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. Long-term protectiveness requires ongoing monitoring, evaluation of the site’s institutional controls, and delineation of the lateral extent of methane gas migration to determine if a more aggressive landfill gas system is required. The next five-year review for the site will be completed by September 2020.

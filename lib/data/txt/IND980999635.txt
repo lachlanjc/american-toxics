@@ -1,2 +1,66 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 5-acre Galen Myers Dump/Drum Salvage site is located in Osceola, Indiana. Drum reclamation activities at the site from about 1970 to 1983 led to soil and groundwater contamination. Inspections by EPA in 1984 found many leaking and deteriorating drums. Following cleanup, groundwater monitoring is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site has been addressed through state and federal actions. See [the list of milestones that have been achieved at the site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0501967#Milestone) and [the cleanup schedule for the site’s operable units.](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0501967#Schedule)
+
+In 1995, EPA selected a site remedy documented in a [Record of Decision (ROD) (PDF) (82 pp, 4.6MB,](http://semspub.epa.gov/src/document/05/922077) [About PDF](https://www.epa.gov/home/pdf-files) ). EPA’s cleanup of contamination at the site included excavation and off-site disposal of contaminated soil and drums, connection of affected residences with contaminated wells to the public water supply, monitored natural attenuation of the [groundwater](https://www.epa.gov/superfund/superfund-groundwater-introduction), long-term monitoring, and limits on use of groundwater – known as [institutional controls](https://www.epa.gov/superfund/superfund-institutional-controls). Natural attenuation involves a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater. Groundwater is expected to achieve cleanup to drinking water standards in 140 years. The St. Joseph County Health Department issued a groundwater protection ordinance effective as of January 1999 to prevent drilling of wells within the contaminated groundwater.
+
+More information:
+
+- [A Citizen’s Guide to Excavation of Contaminated Soil (PDF)](http://semspub.epa.gov/src/document/05/953560) (2 pp, 721 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [A Citizen’s Guide to Monitored Natural Attenuation (PDF)](http://semspub.epa.gov/src/document/05/953559) (2pp, 1.05MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+In September 1998, EPA issued an [Explanation of Significant Differences (ESD) (PDF)](http://semspub.epa.gov/src/document/05/209513) (10pp, 437.51 K, [About PDF](https://www.epa.gov/home/pdf-files) ) to delete the soil remedy from the cleanup plan because no [volatile organic compounds](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds), or VOCs, (contaminants that evaporate into the air) were found above cleanup levels during the [remedial design](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-5).
+
+EPA connected a total of 183 homes to the public water system in 1996 through a [short-term removal response.](https://www.epa.gov/emergency-response/emergency-response-alternatives) Residents of another 20 properties declined the connection, 12 have since connected on their own, and eight continue to use their private wells. Annual groundwater monitoring is ongoing. Additional monitoring wells were installed in November 2013 to determine if the plume of contaminated groundwater has spread beyond the county water ordinance plume boundary. Sampling of groundwater from 2013 to the present time has shown that the plume of contaminants in groundwater is stable and is not moving past the county water ordinance boundary.
+
+The [2015 Five-Year Review Report (PDF)](http://semspub.epa.gov/src/document/05/485613) (69 pp, 26.18MB, [About PDF](https://www.epa.gov/home/pdf-files) ) concluded that groundwater running under the soil and homes may be turning into a gas (volatilizing) and entering the homes through a process called [vapor intrusion](https://www.epa.gov/vaporintrusion). In April and November 2015, EPA sampled soil gas to determine if the groundwater was volatilizing. Results showed elevated soil gas concentrations, and EPA gained access to perform indoor air and sub-slab samples beneath homes' slabs in April 2016 to determine if contaminants were present and if residents could get exposed. The indoor air and sub slab samples indicated that seven out of 11 homes tested had elevated presence of contaminants in their indoor air and beneath their homes, and that they required [emergency removal action](https://www.epa.gov/emergency-response/emergency-response-alternatives) to install vapor intrusion mitigation systems to vent the harmful gasses outside, where they mix with air and are harmless.
+
+From August 2015 through May 2017, EPA completed vapor intrusion mitigation system installation at homes that needed these systems. The homes were sampled in 2016 and 2017 to check whether these systems were functioning, and those results confirmed that the installed systems are indeed protective. As of 2017 there were enough data and documentation to conclude that all human and ecological exposure pathways were identified and investigated, and that they are currently under control with no unacceptable exposures occurring.
+
+**More information:**
+
+[Overview of Vapor Intrusion](https://www.atsdr.cdc.gov/docs/atsdr_vapor_intrusion.pdf) ( [PDF)](https://www.atsdr.cdc.gov/docs/atsdr_vapor_intrusion.pdf) (2 pp, 114K, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+The Indiana Department of Environmental Management and EPA have conducted [five five-year reviews](https://www.epa.gov/superfund/superfund-five-year-reviews) of the site’s remedy since 2000. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+### What Is the Current Site Status?
+
+The [2020 Five-Year Review Report (PDF)](https://semspub.epa.gov/src/document/05/960515) (29 pp, 1.62MB, [About PDF](https://www.epa.gov/home/pdf-files) ) concluded that the remedy at the Galen Myers Dump/Drum Salvage Superfund site currently protects human health and the environment. Exposure pathways that could result in unacceptable risks are being controlled, have been eliminated, or have otherwise been shown not to be present. The removal of soils to eliminate the source of contamination has achieved the remedial objective to minimize the migration of contaminants to groundwater and surface water and prevent direct contact with (or ingestion of) contaminants in soils which were remediated. Except for homeowners who declined connection to municipal water supply, there is no current use of groundwater for potable purposes. Groundwater elevations at and near the site suggest no unacceptable expansion or unforeseen migration of the contaminant plume in groundwater. Thus, contaminants in site groundwater do not migrate unacceptably. [Institutional controls](https://www.epa.gov/superfund/superfund-institutional-controls) have been implemented and should be effective in preventing unacceptable future use or exposures in the near term. However, in order for the remedy to be protective in the long-term, the following action needs to be taken to ensure protectiveness:
+
+- develop and implement an operation and maintenance plan for the vapor intrusion mitigation systems so that they are timely repaired or replaced when necessary.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The St. Joseph County Health Department issued a groundwater protection ordinance that became effective in January 1999. The ordinance is designed to prevent people from installing new drinking water wells in the plume area where VOC-contaminated groundwater is found without prior county approval. The plume area is known as the Galen Myers Administrative Control Area (ACA). The ordinance was revised and updated in 2005 and again in 2007. EPA has reviewed and evaluated the site’s institutional controls and has confirmed that they are protective and effective, consistent with 1995 ROD requirements. The institutional controls in place at the site are summarized in Table 3 of the [2020 Five-Year Review Report (PDF)](https://semspub.epa.gov/src/document/05/960515) (29 pp, 1.62MB [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Sampling and Monitoring
+
+From August 2015 through May 2017 EPA installed vapor intrusion mitigation systems at homes that needed them and then sampled these and other homes in 2016 and 2017. These systems were confirmed to be working effectively. IDEM samples groundwater each year at wells located from Edison Road south to the St. Joseph River to make sure contamination is not traveling east or west. This sampling also measures the continuing decrease of concentrations of contaminants in groundwater.
+
+[Map showing the site boundary, the area of investigation, and the Administrative Control Area (PDF) (1pp, 177K,](http://semspub.epa.gov/src/document/05/953563) [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Emergency Response and Removal
+
+Cleanup at this site also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 1985, EPA disposed of 1,800 pounds of flammable solids, crushed drums and non-hazardous soils in off-site facilities.
+
+EPA completed another removal action in 1996 to connect a total of 183 residences to the public water supply after investigations showed that a long and narrow volatile organic compound (VOC) groundwater contaminant plume (about 200 feet wide and 5,700 feet long) was present beneath a mostly residential area in Osceola and slowly migrating toward the St. Joseph River. As an interim measure, EPA had provided bottled water or home filtration units to some residents with private wells.
+
+The [2015 Five-Year Review Report (PDF)](http://semspub.epa.gov/src/document/05/485613) (69pp, 26.18MB, [About PDF](https://www.epa.gov/home/pdf-files) ) concluded that groundwater running under the soil and homes may be turning into a gas (volatilizing) and entering the homes through a process called [vapor intrusion](https://www.epa.gov/vaporintrusion). In April and November 2015, EPA sampled soil gas to determine if the groundwater was volatilizing. Results showed elevated soil gas concentrations in an area above the VOC-contaminated groundwater plume, and EPA gained access to perform indoor air and sub-slab samples (beneath homes' slabs) in April 2016 to determine if contaminants were present and if residents could get exposed. The indoor air and sub slab samples indicated that seven out of 11 homes tested had elevated presence of contaminants in their indoor air and beneath their homes, and that they required emergency removal action to install vapor intrusion mitigation systems to vent the harmful gasses outside, where they mix with air and are harmless. The [2020 Five-Year Review Report (PDF)](https://semspub.epa.gov/src/document/05/960515) (29 pp, 1.62MB, [About PDF](https://www.epa.gov/home/pdf-files) ) concluded that the 2017 installation of vapor intrusion mitigation systems adequately addressed all these issues.
+
+[Map showing the site boundary, the area of investigation, and the Administrative Control Area (PDF) (1 pp, 177K,](http://semspub.epa.gov/src/document/05/953563) [About PDF](https://www.epa.gov/home/pdf-files) )
+
+[U.S. EPA Action Memorandum RE: Request for Emergency Removal Actions at the Galen Myers Site (Redacted Version) (PDF) (](http://semspub.epa.gov/src/document/05/930088) 2 7 pp, 5.26MB[,](http://semspub.epa.gov/src/document/05/930088) [About PDF](https://www.epa.gov/home/pdf-files) )
+
+[2016 Galen Myers Dump site emergency response portal](https://response.epa.gov/galenmyers)
+
+### Enforcement Information
+
+Since the owner/operator of the site passed away in the early 1980s, no legal action was completed, and this cleanup is being performed by EPA and IDEM.

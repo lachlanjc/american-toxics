@@ -1,27 +1,42 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Green Remediation
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Bush Valley Landfill site is located in Harford County, Maryland, one mile from the town of Abingdon. The site is located on a 29-acre parcel of land, and approximately 16 acres of that parcel consists of the Bush Valley Landfill. In 1975, the Maryland Department of Health and Mental Hygiene allowed the site to be used as a municipal solid waste landfill. The landfill operators soon began accepting hazardous waste and drums, although accepting these wastes were against the operation procedures found in the landfill permit. As the hazardous wastes began to mix with rainwater, a toxic leachate formed and contaminated the groundwater, surface soils, and subsurface soils at the site. The landfill closed in 1983, and in March 1989, EPA added the site to the Superfund program's National Priorities List. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state, and potentially responsible party actions. EPA conducted a Remedial investigation in 1995 and found that the most prevalent contaminants at the site were volatile organic compounds, semi-volatile organic compounds, toxic landfill gases, metals, and Aroclor 1254, a commercial polychlorinated biphenyl (PCB) mixture. EPA finalized the cleanup and issued the Record of Decision in September 1995. The two main remedial action objectives identified include: 
-Elimination of the potential for direct contact of human or environmental receptors with landfill contents, on-site soils, leachate and landfill gas, and
-Elimination of the potential for exposure of human receptors to contaminated groundwater via ingestion or inhalation. 
-In September 1997, the County and the potentially responsible party group signed a Consent Decree with EPA to conduct the remedial design and remedial action at the site. The County agreed to act as the project coordinator for the remedial actions. The contractor for the potentially responsible parties began work in late July 2000 and installed gas monitoring probes and perimeter subsurface vent walls, a gas transmission layer, cover soil, a drainage system, stormwater diversion berms, and erosion prevention controls. In June 2001, the County then completed construction of the landfill cover, stormwater controls, and the landfill gas management system. EPA issued a Preliminary Close-out Report in August 2001. During early operation and maintenance of the landfill cover, EPA found that the landfill gas was continuing to migrate beyond the landfill perimeter. The potentially responsible parties were tasked with modifying the gas management system, and EPA approved the updated remedial design in May 2004. The work was for the landfill gas management system was completed and certified in March 2005. Top of Page
-What Is the Current Site Status?
-Construction at the site is complete, and the long-term remedy in place includes a landfill cover, fencing, and post-construction monitoring. Additionally, institutional controls prevent exposure to contaminated groundwater, and the landfill gas management system keeps landfill gases from escaping into the environment. EPA is also using monitored natural attenuation to treat the groundwater contamination. The County continues to perform all required operations and maintenance and has sampled the groundwater at the site since the fall of 2001. EPA and the County continue to monitor groundwater samples for contamination, as well as the gas probes on-site to monitor for landfill gases. The landfill cover has been seeded with warm-season grasses and native wildflowers, and this area will remain a green space and wildlife habitat. The landfill will also serve as a buffer between developed areas and the neighboring Bush Declaration Natural Resources Management Area. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies are protective of public health and the environment, and function as intended by  decision documents. The most recent, 2020 Fourth Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment by preventing direct contact with the landfill contents and ensuring that contaminated groundwater is being cleaned up and not being used. The landfill gas management system is controlling the methane being produced by the landfill, and surface water and sediment are being monitored to ensure that site-related contamination does not pose an ecological risk. The next five-year review is scheduled for July 2025. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to prohibit the use of groundwater and to protect the landfill cover and additional protective remedies. Additional information about the institutional controls are available in the 2020 Five Year Review (PDF) (pages 8-10). Top of Page
-Green Remediation
-Combined with environmental monitoring and land-use restrictions, the landfill cover and landfill gas management system are protective of human health and the environment. The cover was seeded with warm-season grasses and native wildflowers and this area will remain a green space and wildlife habitat. The landfill will also serve as a buffer between developed areas and the neighboring Bush Declaration Natural Resources Management Area. 
-Top of Page
+### Background
+
+The Bush Valley Landfill site is located in Harford County, Maryland, one mile from the town of Abingdon. The site is located on a 29-acre parcel of land, and approximately 16 acres of that parcel consists of the Bush Valley Landfill.
+
+In 1975, the Maryland Department of Health and Mental Hygiene allowed the site to be used as a municipal solid waste landfill. The landfill operators soon began accepting hazardous waste and drums, although accepting these wastes were against the operation procedures found in the landfill permit. As the hazardous wastes began to mix with rainwater, a toxic leachate formed and contaminated the groundwater, surface soils, and subsurface soils at the site. The landfill closed in 1983, and in March 1989, EPA added the site to the Superfund program's National Priorities List.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, and potentially responsible party actions.
+
+EPA conducted a Remedial investigation in 1995 and found that the most prevalent contaminants at the site were volatile organic compounds, semi-volatile organic compounds, toxic landfill gases, metals, and Aroclor 1254, a commercial polychlorinated biphenyl (PCB) mixture.
+
+EPA finalized the cleanup and issued the Record of Decision in September 1995. The two main remedial action objectives identified include:
+
+- Elimination of the potential for direct contact of human or environmental receptors with landfill contents, on-site soils, leachate and landfill gas, and
+- Elimination of the potential for exposure of human receptors to contaminated groundwater via ingestion or inhalation.
+
+In September 1997, the County and the potentially responsible party group signed a Consent Decree with EPA to conduct the remedial design and remedial action at the site. The County agreed to act as the project coordinator for the remedial actions. The contractor for the potentially responsible parties began work in late July 2000 and installed gas monitoring probes and perimeter subsurface vent walls, a gas transmission layer, cover soil, a drainage system, stormwater diversion berms, and erosion prevention controls. In June 2001, the County then completed construction of the landfill cover, stormwater controls, and the landfill gas management system.
+
+EPA issued a Preliminary Close-out Report in August 2001. During early operation and maintenance of the landfill cover, EPA found that the landfill gas was continuing to migrate beyond the landfill perimeter. The potentially responsible parties were tasked with modifying the gas management system, and EPA approved the updated remedial design in May 2004. The work was for the landfill gas management system was completed and certified in March 2005.
+
+### What Is the Current Site Status?
+
+Construction at the site is complete, and the long-term remedy in place includes a landfill cover, fencing, and post-construction monitoring. Additionally, institutional controls prevent exposure to contaminated groundwater, and the landfill gas management system keeps landfill gases from escaping into the environment. EPA is also using monitored natural attenuation to treat the groundwater contamination.
+
+The County continues to perform all required operations and maintenance and has sampled the groundwater at the site since the fall of 2001. EPA and the County continue to monitor groundwater samples for contamination, as well as the gas probes on-site to monitor for landfill gases.
+
+The landfill cover has been seeded with warm-season grasses and native wildflowers, and this area will remain a green space and wildlife habitat. The landfill will also serve as a buffer between developed areas and the neighboring Bush Declaration Natural Resources Management Area.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies are protective of public health and the environment, and function as intended by decision documents. The most recent, [2020 Fourth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302593)[,](http://semspub.epa.gov/src/document/03/2214620) concluded that the remedy continues to be protective of human health and the environment by preventing direct contact with the landfill contents and ensuring that contaminated groundwater is being cleaned up and not being used. The landfill gas management system is controlling the methane being produced by the landfill, and surface water and sediment are being monitored to ensure that site-related contamination does not pose an ecological risk. The next five-year review is scheduled for July 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prohibit the use of groundwater and to protect the landfill cover and additional protective remedies. Additional information about the institutional controls are available in the [2020 Five Year Review (PDF)](https://semspub.epa.gov/src/document/03/2302593) (pages 8-10).
+
+### Green Remediation
+
+Combined with environmental monitoring and land-use restrictions, the landfill cover and landfill gas management system are protective of human health and the environment. The cover was seeded with warm-season grasses and native wildflowers and this area will remain a green space and wildlife habitat. The landfill will also serve as a buffer between developed areas and the neighboring Bush Declaration Natural Resources Management Area.

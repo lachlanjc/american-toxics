@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Air Force Plant #4 (AFP4) site is located in Tarrant County near Fort Worth Texas. AFP4 is a 760-acre facility that has manufactured military aircraft since 1942. The U.S. Air Force (USAF) currently owns the facility; Lockheed Martin Corporation operates it. Previous operations contaminated sediments, surface water and ground water with hazardous chemicals.
+
+The AFP4 Superfund Site is generally defined by the base wide trichloroethene (TCE) ground water plume. TCE and its degradation compounds have been detected beneath AFP4 in the shallow Terrace Alluvium Aquifer, the Upper Sand ground water of the Paluxy Aquifer, and in the upper Paluxy Aquifer above safe drinking water levels. The lower Paluxy Aquifer is used for drinking water and is not contaminated. The nearest drinking water well is located approximately 1/4 of a mile up-gradient from the site. Contaminants have not been detected in this well.
+
+The communities of White Settlement, Lake Worth, Westworth, River Oaks, and Samson Park lie within a 3-mile radius of AFP4. Naval Air Station Fort Worth (formerly Carswell Air Force Base) is located adjacent to AFP4 to the east. Approximately 18,000 people reside in White Settlement, Texas. Approximately 15,000 people are employed at AFP4.
+
+Six schools are within a 2-mile radius of AFP4 and the closest school is located 1/2 mile south of the facility. The areas south and west of AFP4 are mainly residential. Lake Worth, bordering AFP4 to the north, provides recreational boating and fishing. This lake also supplies municipal water to the city of Fort Worth, Texas and is a recharge source to the underlying Paluxy Aquifer. The city of White Settlement, Texas, receives municipal water supply from wells completed in the lower Paluxy aquifer.
+
+### What Has Been Done to Clean Up the Site?
+
+Completion of the Record of Decision Amendment in Spring of 2023 provides new remedial actions for the site. Moving forward monitored natural attenuation (MNA) and dense non-aqueous liquid (DNPL) recovery will be used to address the contamination at the site. On-going and continued groundwater sampling events will ensure that the contamination levels are decreasing and are not migrating off-site.
+
+The site is being addressed through federal, state, and potentially responsible party (PRP) actions. EPA anticipates the completion of the next five-year review by the end of 2024.
+
+The remediation of ground water contamination from AFP4 will protect the drinking water resource for about 18,000 people living within a mile of the site, as well as an important recreation area used by Tarrant County residents.
+
+### What Is the Current Site Status?
+
+The Fourth Five Year Review Report for the Site was completed in September 2019 and the Fifth FYR is expected to be complete in December 2024 by the United States Air Force (USAF). AFP4 is currently in the remedial action (RA) phase of the Superfund process following the completion of a Record of Decision Amendment (RODA) that removed the full-scale ground water pump and treat system as the remedy of choice and instilled Monitored Natural Attenuation (MNA) as the new selected remedy. The current RA phase will establish a long-term monitoring plan to ensure degradation of contamination within a reasonable timeframe.
+
+The USAF installed a 1,170 foot long, 2 foot wide, 35-foot-deep Permeable Reactive Barrier (PRB) wall across the leading edge of the southern lobe of the TCE plume in 2002. The leading edge of this plume, as defined by the TCE maximum concentration limit of 5.0 μg/L, has since retracted approximately 1,500 feet across the Base Realignment and Closure (BRAC) property. AFP4 achieved Construction Completion on September 15, 2006.
+
+In July of 2024 the USAF started a remedial investigation (RI) for the contaminant(s) known as per-fluor-alkyl substances (PFAS). This RI will sample groundwater, soils, and sediments for PFAS and determine if the contamination is present at the site, the extent of the contamination, and if there is a risk to human health or the environment. If necessary, the RI will be followed by a feasibility study (FS) to determine what remedial actions might be necessary to address any risk.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+State Contact – Texas Commission on Environmental Quality (TCEQ): Midori Campbell, 512-239-2077 Midori Campbell Midori.Campbell@tceq.texas.gov Recommendation Spell out Texas Commission on Environmental Quality.
+
+US Air Force Contact: Bradley Bashore, 937-938-4779 bradley.bashore.1@us.af.mil
+
+### Sampling and Monitoring
+
+Long-term monitoring will be performed at selected groundwater monitoring wells and surface water/seep locations. Groundwater and surface water samples will be analyzed for TCE, cDCE, tDCE, VC, chromium, and other parameters that are useful in assessing the groundwater conditions for continued natural attenuation.

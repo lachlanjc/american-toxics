@@ -1,5 +1,5 @@
-MOUND PLANT (USDOE)MIAMISBURG, OH 
-  Cleanup Activities 
+MOUND PLANT (USDOE)MIAMISBURG, OH
+  Cleanup Activities
 On this page:
 Background
 What Has Been Done to Clean Up the Site?
@@ -12,21 +12,20 @@ Operable Units
 Cleanup Progress
 Background
 The U.S. Department of Energy’s (DOE’s) Mound Plant is located in Miamisburg, Ohio. Since 1948, the plant has operated as a research, development and production facility in support of DOE’s weapons and energy programs. The plant’s current mission is to support DOE’s efforts in environmental management and to transition the site, in cooperation with the City of Miamisburg, into a commercial/industrial park. Cleanup finished in 2010. Groundwater treatment and monitoring are ongoing.
-Top of Page
+
 What Has Been Done to Clean Up the Site?
 The site is being addressed by DOE, with EPA and Ohio EPA oversight and support.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
-Top of Page
+
 What Is the Current Site Status?
 DOE and EPA signed a Federal Facilities Agreement (FFA) for the site’s cleanup in 1990. The site’s long-term remedy for contaminated groundwater included pumping and treatment with an air stripper and soil vapor extraction.Landfill materials were excavated and disposed of off site to facilitate future reuse of the site property, after congressional legislation and economic stimulus funding provided $50 million to DOE for the work. The Miamisburg Mound Community Improvement Corporation (MMCIC) petitioned Congress for funding to remove the landfill materials from the site. Groundwater treatment is ongoing. Institutional controls prohibit future residential use of the area and restrict installation of drinking water wells. Institutional controls were also required for other parts of the site – Release Block D, Release Block H, Parcel 3, Parcel 4, Phase 1 and Parcels 6-8 – which DOE then transferred to MMCIC for economic development.The $1 billion DOE cleanup finished in 2010. Parts of the site have been deleted from the NPL following cleanup.
-Top of Page
+
 Activity and Use Limitations
 At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
 They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
  For more background, see Institutional Controls.
-plutonium-238, thorium-232, polonium-210, cesium-137, tritium and volatile organic compounds. http://www.epa.gov/radiation/radionuclides/plutonium.html http://www.epa.gov/radiation/radionuclides/thorium.html http://www.epa.gov/radiation/radionuclides/cesium.html http://www.epa.gov/radiation/radionuclides/tritium.html 
-Top of Page
+plutonium-238, thorium-232, polonium-210, cesium-137, tritium and volatile organic compounds. http://www.epa.gov/radiation/radionuclides/plutonium.html http://www.epa.gov/radiation/radionuclides/thorium.html http://www.epa.gov/radiation/radionuclides/cesium.html http://www.epa.gov/radiation/radionuclides/tritium.html
+
 Sampling and Monitoring
-Top of Page
+
 Emergency Response and Removal
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These efforts include the removal of actinium and thorium-contaminated soils; Fuel Oil Storage Area removal of petroleum-contaminated soils; the Miami-Erie Canal sediment removal; the Drainage Control interim response action; the SM East Asphalt removal of plutonium-contaminated soil; the Waste Transfer Line removal of plutonium-contaminated soils; the B-Building Solvent Storage Shed removal of organics from soil; and the PRS 99 removal of phetonium-contaminated material.
-Top of Page

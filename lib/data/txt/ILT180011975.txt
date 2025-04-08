@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2.8-acre Interstate Pollution Control (IPC) site is located in an industrial area in Rockford, Illinois. Site operations included a sand and gravel quarry, waste disposal, an auto salvage yard and a hazardous waste storage facility operated by IPC. Poor waste management practices from 1974 to 1982 led to soil and groundwater contamination. Following cleanup, groundwater monitoring is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through PRP actions under state and federal oversight. The site’s next five-year review is scheduled for the spring of 2016.
+
+### What Is the Current Site Status?
+
+Illinois selected the site’s long-term remedy in 1999. It included an impermeable barrier cover over remaining surface contamination and monitored natural attenuation of groundwater contamination. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater. Cleanup finished in 2006. Groundwater monitoring is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Seventy-three chemicals of potential concern (COPC) detected in the site soil were selected for analysis in the risk assessment. These include 11 volatile organic compounds (VOCs), 29 semivolatile organic compounds (SVOCs), 14 pesticide/PCB compounds and 18 trace metals and cyanide. A total of 33 chemicals detected in on-site groundwater (shallow and deep) were selected as COPCs. These include 11 VOCs, 10 SVOCs, one pesticide/PCB compound, 11 trace metals, and cyanide.
+
+### Sampling and Monitoring
+
+### Emergency Response and Removal
+
+There were also a series of short-term cleanups prior to the site’s final remedy. IPC's incinerator was removed between 1976 and 1979. IPC also removed several bulk tankers containing wastes, 180 cubic yards of material from a surface impoundment and 120 cubic yards of cyanide contamination. Twenty-one hundred 55-gallon drums of contaminated materials were also removed. The surface impoundment was backfilled and graded. Finally, in 1992, the site’s potentially responsible parties (PRPs) fenced the site, removed over 1,400 tons of solid and hazardous waste, demolished and removed all aboveground and underground tanks and significant physical structures, installed a clay cover over the former impoundment, and substantially cleared the site. These removal actions addressed more than 2.9 million pounds of solid and hazardous waste.

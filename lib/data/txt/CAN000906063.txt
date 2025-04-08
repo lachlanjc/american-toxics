@@ -1,33 +1,29 @@
-BLUE LEDGE MINEROGUE RIVER-SISKIYOU NF, CA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Blue Ledge Mine site is an abandoned copper, zinc, gold and silver mine operated from approximately 1904 to 1930.  It is located on private land within the Rogue River - Siskiyou National Forest approximately 3 miles south of the Oregon-California border.  There are contaminated sediments and surface water at levels that are toxic to aquatic organisms.  Impacts include the absence of fish for more than 3 miles downstream and potential negative impacts to fisheries all the way to the Applegate Reservoir, nearly 8 miles downstream.
-Top of Page
-What Has Been Done to Clean Up the Site?
+### Background
+
+The Blue Ledge Mine site is an abandoned copper, zinc, gold and silver mine operated from approximately 1904 to 1930. It is located on private land within the Rogue River - Siskiyou National Forest approximately 3 miles south of the Oregon-California border. There are contaminated sediments and surface water at levels that are toxic to aquatic organisms. Impacts include the absence of fish for more than 3 miles downstream and potential negative impacts to fisheries all the way to the Applegate Reservoir, nearly 8 miles downstream.
+
+### What Has Been Done to Clean Up the Site?
+
 The site is being addressed through federal actions by EPA and the USFS.
-Top of Page
-What Is the Current Site Status?
-In 2010, the United States Forest Service (USFS) received $9.7 million in American Reinvestment and Recovery Act (ARRA) funds plus an additional $1.3 million from the ASARCO Environmental Trust for work on the site that began during the summer of 2010. USFS work includes removal of two of the four waste rock piles at the site to a constructed repository, and reclamation through erosion control measures, topsoil replacement and restoration of native vegetation. However, USFS work will not address contaminated sediment in the surface water downgradient from the site, discharge from mine adits or long-term operation and maintenance activities.Despite previous actions undertaken by both EPA and the USFS, areas of contamination still need to be addressed to ensure there are no further negative environmental or possible human health risks associated with the site. EPA has fish, adit and stream sampling efforts underway as part of the site’s remedial investigation and feasibility study (RI/FS). EPA started treatability studies to evaluate treatment of adit discharge in 2012.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-copper, cadmium, zinc http://iaspub.epa.gov/sor_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do
-Top of Page
-Sampling and Monitoring
-http://yosemite.epa.gov/r9/sfund/r9sfdocw.nsf/3dc283e6c5d6056f88257426007417a2/f5251672ddeae17c8825785400781f9e!OpenDocument;  http://yosemite.epa.gov/r9/sfund/r9sfdocw.nsf/3dc283e6c5d6056f88257426007417a2/38603b52f8f81fa18825784f008347ab!OpenDocument
-Top of Page
-Emergency Response and Removal
+
+### What Is the Current Site Status?
+
+In 2010, the United States Forest Service (USFS) received $9.7 million in American Reinvestment and Recovery Act (ARRA) funds plus an additional $1.3 million from the ASARCO Environmental Trust for work on the site that began during the summer of 2010. USFS work includes removal of two of the four waste rock piles at the site to a constructed repository, and reclamation through erosion control measures, topsoil replacement and restoration of native vegetation. However, USFS work will not address contaminated sediment in the surface water downgradient from the site, discharge from mine adits or long-term operation and maintenance activities.
+
+Despite previous actions undertaken by both EPA and the USFS, areas of contamination still need to be addressed to ensure there are no further negative environmental or possible human health risks associated with the site. EPA has fish, adit and stream sampling efforts underway as part of the site’s remedial investigation and feasibility study (RI/FS). EPA started treatability studies to evaluate treatment of adit discharge in 2012.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+copper, cadmium, zinc http://iaspub.epa.gov/sor\_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do
+
+### Sampling and Monitoring
+
+http://yosemite.epa.gov/r9/sfund/r9sfdocw.nsf/3dc283e6c5d6056f88257426007417a2/f5251672ddeae17c8825785400781f9e!OpenDocument; http://yosemite.epa.gov/r9/sfund/r9sfdocw.nsf/3dc283e6c5d6056f88257426007417a2/38603b52f8f81fa18825784f008347ab!OpenDocument
+
+### Emergency Response and Removal
+
 In May 2006, EPA conducted an initial removal action. Removal efforts included stabilizing waste rock to prevent further erosion into water courses; providing soil cover to reduce the likelihood of direct human contact with contaminants from the waste rock; and creating a system of barriers and drainage systems to reduce the localized acid mine drainage (AMD) and heavy metal impacts on Joe Creek.
-Top of Page

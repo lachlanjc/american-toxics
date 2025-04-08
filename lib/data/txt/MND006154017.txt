@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 8.6-acre Nutting Truck and Caster site is located in Faribault, Minnesota. Between 1891 and 1984, Nutting manufactured and distributed casters, wheels, hand trucks and towline trucks on site. From 1959 to 1979, Nutting's Faribault facility used a seepage pit in the west-central area of the site to deposit waste and sludge, including waste solvents. These operations contaminated soil and groundwater with hazardous chemicals. Following cleanup, groundwater monitoring activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA and the Minnesota Pollution Control Agency (MPCA) have conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected and that the remedy continues to be protective of human health and the environment in the short term.
+
+In the late 1970s, soil sampling was performed at the site under MPCA direction to determine whether non-foundry wastes were disposed of in the former surface depression on the site. The samples showed that the contamination was limited to surface soils and was likely the result of spillage during drum handling. This threat was removed by clean-up prior to listing the site on the NPL. EPA placed the site on the NPL in 1983 due to the remaining groundwater contamination.  
+  
+In 1984, the MPCA and the potentially responsible party signed a Consent Order to conduct a remedial investigation (RI) at the site and in 1987 these parties signed a second Consent Order for performance of the remedial action (RA). This Consent Order and associated Remedial Action Plan required the responsible party to extract groundwater until a concentration of 50 ppb of TCE was consistently achieved in the shallow aquifer at the property boundary. The responsible party constructed a groundwater extraction system which began operating in 1987. Two extraction wells were installed: one in the glacial outwash and one in the St. Peter Sandstone. The extracted groundwater was treated on-site using a gravity cascade to remove TCE and other volatile organic compounds and was discharged to the municipal stormwater sewer.
+
+In 2003, the Remedial Action Plan was amended to lower the cleanup level for TCE to five ppb. This is also the federal Maximum Contaminant Level (MCL) for TCE, used in the regulation of public water supplies. In 2004, sampling demonstrated that the system had achieved the standard in the off-site compliance wells and the extraction wells were shut down with the approval of the MPCA.
+
+### What Is the Current Site Status?
+
+After nearly 40 years of investigation, cleanup and monitoring of the Nutting Truck & Caster Co. site in Faribault, Minn., U.S. Environmental Protection Agency proposed deleting the site from the federal National Priorities List, or NPL. The NPL is a roster of contaminated areas that are eligible for cleanup under EPA’s Superfund program. The deletion will be effective November 24, 2017.
+
+The full proposal and a link to other information about the site is in the September 25, 2017, issue of the Federal Register, at [www.epa.gov/fedrgstr](http://www.epa.gov/fedrgstr).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Trichloroethylene (TCE) in groundwater was the main contaminant of concern at the Site at the time it was listed on the National Priorities List (NPL) and is currently the only contaminant of concern. During the early and mid-1980s, investigations detected TCE and other contaminants in the shallow groundwater of the glacial outwash formation and the St. Peter Sandstone. This contamination was down-gradient of the former seepage pit. TCE was present at concentrations up to 570 parts-per-billion (ppb).
+
+### Sampling and Monitoring
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions addressed contaminated surface soil prior to the site’s placement on the NPL.

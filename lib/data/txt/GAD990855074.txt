@@ -1,2 +1,64 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 329-acre Firestone Tire & Rubber Co. (Albany Plant) [Superfund](http://www.epa.gov/superfund) Site is located at 3300 Sylvester Road, approximately one mile east of Albany in Dougherty County, Georgia. The Site includes a 1.84-million-square-foot facility and a forested wetlands area. Sylvester Highway, residences and commercial businesses border the Site to the north. North Shaw Road and Seaboard Coastline railroad tracks border the Site to the south. A landfill borders the Site to the east. A church and a vacant property border the Site to the west.
+
+In 1986, Cooper Tire purchased the site and began tire manufacturing and storage operations at the facility.
+
+The U.S. Environmental Protection Agency placed the Site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1989 because of contaminated groundwater and soil resulting from facility operations.
+
+The EPA, the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/) and Bridgestone/Firestone Inc., the Site’s [potentially responsible party (PRP](http://www.epa.gov/superfund/superfund-glossary#p) ), have investigated site conditions. By treating and monitoring groundwater and undertaking Five-Year Reviews, The EPA, Georgia EPD and the site’s PRP continue to protect people and the environment from site contamination.
+
+Site contamination does not currently threaten people living and working near the Site.
+
+### What Has Been Done to Clean Up the Site?
+
+Bridgestone/Firestone Inc., the Site’s PRP, leads site investigation and cleanup activities, with oversight provided by the EPA and Georgia EPD.
+
+Cooper Tire’s operations at the Site are ongoing. Fencing surrounds the site and limits access. The Site supports industrial and commercial land uses.
+
+**1985**  
+The Site’s PRP performed initial assessments at the Site prior to ending operations and conducted several interim cleanup activities. The PRP removed and disposed of 441 cubic yards of debris, 105 cubic yards of contaminated soil, transformers and underground storage tanks, and 160 drums containing a material similar to rubber cement. The PRP also installed an interim groundwater collection and treatment system and began operating the system.
+
+**1988**  
+In 1988, the EPA and Georgia EPD completed a site inspection and identified groundwater contamination at the Site.
+
+**1993**  
+The Site’s long-term remedy, ( [Record of Decision or ROD](https://semspub.epa.gov/src/document/04/10190593) ) selected in 1993, included digging up contaminated soil, disposing of contaminated soil at an off-site landfill, placing clean soil in the dug-up areas, and using a pump-and-treat system to address groundwater contamination. It also included using air stripping to address contaminated groundwater, discharging treated groundwater to the local water treatment plant, monitoring groundwater, and placing institutional controls to restrict the construction of wells and groundwater use at the Site.
+
+**1994**  
+The PRP completed cleanup of 25 cubic yards of contaminated soil.
+
+**1996**  
+The EPA updated the long-term remedy to remove groundwater treatment from site cleanup activities as long as contaminant levels in the groundwater do not exceed permit discharge limits for the local water treatment plant.
+
+**1997**  
+The PRP completed modifications of the groundwater pump-and-treat system.
+
+**2010 – 2011**  
+A system modification study was performed for the former Firestone site to determine whether the groundwater contaminants of concern would continue to decrease naturally if recovery system was turned off. The natural reduction of the concentrations of contaminants of concern occurred during the study.
+
+After reviewing the study, the Georgia Department of Natural Resources and the Environmental Protection Agony required the PRPs to conduct quarterly monitoring for the first year the system was turned off. An additional condition for turning the system off was for the PRPs to be able to reactivate the recovery system if contaminants of concern are detected at increasing concentrations in any of the groundwater samples for two consecutive monitoring events.
+
+In accordance with the study, over the years sampling frequency has been reduced from quarterly, to semi-annually to annually because the concentrations generally continue to decrease. However, when the frequency is reduced, the samples will be collected during season that have historically demonstrated the highest concentrations.
+
+The groundwater pump-and-treat system is currently turned off but continues to be available to be put back into operation within a reasonable time-frame to ensure that the goals and requirements of the System Modification Study Report are achieved.
+
+### What Is the Current Site Status?
+
+The most recent [Five Year Review](https://semspub.epa.gov/work/04/11166402.pdf) was published by the EPA HQs in 2021. The remedy is functioning as designed by decision documents.
+
+Soil remediation is complete. Ongoing monitoring continues following the 2012 groundwater recovery system shutdown. Available groundwater monitoring data indicate that remaining groundwater contaminatino is contained effectively.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Fencing surrounds the site and limits access.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, The EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.

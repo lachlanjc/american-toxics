@@ -1,32 +1,31 @@
-ROCKWELL INTERNATIONAL CORP. (ALLEGAN PLANT)ALLEGAN, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 30.4-acre Rockwell International Corp site is located in Allegan, Michigan. Wastewater disposal operations at the site contaminated soil and groundwater with hazardous chemicals. Contaminants in the groundwater included lead, arsenic, cyanide and 4-methyl-2-pentanone. Cleanup at the site is has been completed and long term groundwater monitoring is being conducted twice a year.  Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions.EPA has conducted a five-year review of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. This review concluded that the remedy for the site is expected to be protective of human health and the environment upon completion of construction, attainment of soil and groundwater cleanup objectives, and implementation of effective institutional controls that are well maintained, monitored and enforced.
-Top of Page
-What Is the Current Site Status?
+### Background
+
+The 30.4-acre Rockwell International Corp site is located in Allegan, Michigan. Wastewater disposal operations at the site contaminated soil and groundwater with hazardous chemicals. Contaminants in the groundwater included lead, arsenic, cyanide and 4-methyl-2-pentanone. Cleanup at the site is has been completed and long term groundwater monitoring is being conducted twice a year.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted a five-year review of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. This review concluded that the remedy for the site is expected to be protective of human health and the environment upon completion of construction, attainment of soil and groundwater cleanup objectives, and implementation of effective institutional controls that are well maintained, monitored and enforced.  
+
+### What Is the Current Site Status?
+
 The site’s long-term remedy addressed source materials and contaminated soil and groundwater. Actions addressing source materials and contaminated soil included excavation and off-site disposal of contaminated soil, removal of contaminated underground infrastructure, demolition of parts of the former manufacturing building, restoration of the site to current grades, and institutional controls to limit future use of the site. Actions addressing groundwater contamination included construction of a slurry wall to restrict groundwater flow, in-place treatment of groundwater, monitoring, use restrictions and a contingency plan for groundwater extraction and treatment. Cleanup to address soils and other source materials took place in 2006; actions to address groundwater concerns are ongoing.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Surface and subsurface soils, groundwater, and sediments in the lagoons and Kalamazoo River were contaminated with VOCs, semi-VOCs, pesticides, PCBs, and metals. VOCs, semi-VOCs, pesticides, PCBs, and metals were also detected in the landfill. Oil, containing semi-VOCs and PCBs, was present in the waste disposal areas.  Oil is present at various areas on the site. No digital content
-Top of Page
-Emergency Response and Removal
-Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 2001 and 2002 addressed contamination in a residential yard across from the site and soils along a sewer line in the residential neighborhood next to the site.
-Top of Page
-Enforcement Information
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Surface and subsurface soils, groundwater, and sediments in the lagoons and Kalamazoo River were contaminated with VOCs, semi-VOCs, pesticides, PCBs, and metals. VOCs, semi-VOCs, pesticides, PCBs, and metals were also detected in the landfill. Oil, containing semi-VOCs and PCBs, was present in the waste disposal areas. Oil is present at various areas on the site.
+
+No digital content
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 2001 and 2002 addressed contamination in a residential yard across from the site and soils along a sewer line in the residential neighborhood next to the site.  
+
+### Enforcement Information
+
 The ongoing Remedial Design and Remedial Action are being addressed under a Unilateral Administrative Order on Consent (UAO) with the Potentially Responsible Party.
-Top of Page

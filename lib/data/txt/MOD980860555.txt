@@ -1,32 +1,44 @@
-QUALITY PLATINGSIKESTON, MO 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The five-acre Quality Plating site is located in Sikeston, Missouri. From 1978 until the facility was destroyed by fire in early 1983, Quality Plating was engaged in contract electroplating of common and precious metals. Improper disposal practices contaminated groundwater and soil with hexavalent chromium and lead. The U.S. Environmental Protection Agency (EPA) conducted a Time-Critical Removal Action in 1992 that addressed soil contamination at the site. Following this, MoDNR conducted an investigation of the groundwater. The groundwater investigation delineated the extent of groundwater contamination and revealed that hexavalent chromium was the primary contaminant of concern (COC). The record of decision (ROD) selecting the groundwater remedy was signed by the EPA on January 24, 1995. The remedy selected was to extract contaminated groundwater through two extraction wells, treat the groundwater by reduction/precipitation and discharge the treated groundwater to ditch number 4, approximately 4,000 feet east of the site. Soils risk from metals contamination was assumed to be protective based on the action levels utilized at the time of the removal action. Groundwater sampling conducted during the remedial design revealed a significant decrease in hexavalent chromium concentration. Based on the new information, it was concluded that the selected remedy might not be the most appropriate and cost-effective alternative to address groundwater contamination at the site. As a result, a determination was made to re-evaluate the remedial action in light of the new information. The re-evaluation resulted in a ROD amendment that addressed groundwater contamination at the site. The ROD amendment was drafted by the MoDNR and signed by the EPA on September 28, 1999. The ROD amendment selected a new remedy, monitored natural attenuation (MNA). The MNA remedy required annual groundwater monitoring over a five-year period to demonstrate that: 
- Natural attenuation is occurring
-The plume is not expanding
-There are no significant impacts to down gradient receptors
-Institutional controls (ICs) are effective 
-Top of Page
-What Has Been Done to Clean Up the Site?
-The long-term remedy, selected in 1995, included groundwater pumping and treatment. The EPA later revised the remedy to include monitored natural attenuation and institutional controls to prevent installation of drinking wells above the contaminated plume. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater. The EPA conducted a time-critical removal action at the site that addressed the immediate health threats posed by the contents of the sludge pit. Approximately 900 cubic yards of contaminated sludge pit waste were excavated and transported off-site for final treatment and disposal. Confirmation sampling and analysis was conducted which verified that soil cleanup levels were achieved. A Further Investigation of Groundwater (FIG) report was completed in October 1993. The FIG revealed that hexavalent chromium was the primary contaminant of concern at the site because of its toxicity, solubility and highly mobile nature. Concentrations of hexavalent chromium were detected on-site at levels up to 1,206 µg/L, which exceeded the 18 µg/L health-based site level. A feasibility study was completed in June 1994 in order to identify the most cost effective and appropriate remediation activities at the site. A Record of Decision, selecting the remedy, was signed by the EPA on January 24, 1995. The ROD amendment selected a new remedy, monitored natural attenuation (MNA). The MNA remedy required annual groundwater monitoring over a five-year period to demonstrate that: 
-Natural attenuation is occurring 
-The plume is not expanding 
-There are no significant impacts to down gradient receptors 
-Institutional controls are effective 
-The remedy is functioning as expected and intended. The response action selected in the ROD amendment involves reducing hexavalent chromium concentration in the groundwater to below the preliminary remediation goal of 18 µg/L by MNA. Top of Page
-What Is the Current Site Status?
-The site is being addressed through federal and state actions. Site groundwater sampling results indicate that hexavalent chromium concentrations in groundwater are progressively decreasing but remain above the remediation goal in some monitoring wells. The EPA has conducted five Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment in the short term. The following actions are required in order for the site to remain protective: 
-Natural attenuation processes that act without human intervention to transform hexavalent chromium to the less toxic trivalent form. Trivalent chromium is less soluble, and thus less mobile, than hexavalent chromium. Under alkaline to slightly acidic conditions, trivalent chromium precipitates as a fairly insoluble hydroxide. 
-Annual groundwater monitoring to demonstrate that: natural attenuation is occurring; the plume is not expanding; there are no significant impacts to down gradient receptors; and institutional controls are effective. If future site data indicate the need for a change in monitoring frequency or the addition of new monitoring wells, then such measures should be taken to ensure the achievement of the monitoring goals. Furthermore, monitoring should continue for a minimum of three years after the remedial objectives for groundwater concentrations of hexavalent chromium has been achieved to ensure that concentration levels are stable. 
-Institutional controls have been implemented to ensure that no drinking water wells will be installed in the contaminated plume. This has been achieved through monitoring and by executing an agreement with the current property owners. In the event that groundwater monitoring reveals no significant decrease in hexavalent chromium concentration after five years of monitoring and the plume appears to be expanding and threatening down gradient receptors, a contingency remedy will be implemented. The contingency remedy is the original remedy selected in the January 1995 ROD. This remedy was to extract contaminated groundwater through two extraction wells, treat the groundwater by reduction/precipitation, and discharge the treated groundwater to ditch number four approximately 4,000 feet east of the site. Three additional groundwater monitoring were installed on the property to the west of the Quality Plating site to confirm whether groundwater contamination was moving in that direction. Four quarters of sampling have shown no detections of hexavalent chromium, chlorinated solvents, or per and polyfluro alkyl substances (PFAS). Annual groundwater sampling for hexavalent and total chromium occurs every year with the next event in fall 2025. Top of Page
-Emergency Response and Removal
+### Background
+
+The five-acre Quality Plating site is located in Sikeston, Missouri. From 1978 until the facility was destroyed by fire in early 1983, Quality Plating was engaged in contract electroplating of common and precious metals. Improper disposal practices contaminated groundwater and soil with hexavalent chromium and lead. The U.S. Environmental Protection Agency (EPA) conducted a Time-Critical Removal Action in 1992 that addressed soil contamination at the site. Following this, MoDNR conducted an investigation of the groundwater. The groundwater investigation delineated the extent of groundwater contamination and revealed that hexavalent chromium was the primary contaminant of concern (COC). The record of decision (ROD) selecting the groundwater remedy was signed by the EPA on January 24, 1995. The remedy selected was to extract contaminated groundwater through two extraction wells, treat the groundwater by reduction/precipitation and discharge the treated groundwater to ditch number 4, approximately 4,000 feet east of the site. Soils risk from metals contamination was assumed to be protective based on the action levels utilized at the time of the removal action.
+
+Groundwater sampling conducted during the remedial design revealed a significant decrease in hexavalent chromium concentration. Based on the new information, it was concluded that the selected remedy might not be the most appropriate and cost-effective alternative to address groundwater contamination at the site. As a result, a determination was made to re-evaluate the remedial action in light of the new information. The re-evaluation resulted in a ROD amendment that addressed groundwater contamination at the site. The ROD amendment was drafted by the MoDNR and signed by the EPA on September 28, 1999. The ROD amendment selected a new remedy, monitored natural attenuation (MNA). The MNA remedy required annual groundwater monitoring over a five-year period to demonstrate that:
+
+- Natural attenuation is occurring
+- The plume is not expanding
+- There are no significant impacts to down gradient receptors
+- Institutional controls (ICs) are effective
+
+### What Has Been Done to Clean Up the Site?
+
+The long-term remedy, selected in 1995, included groundwater pumping and treatment. The EPA later revised the remedy to include monitored natural attenuation and institutional controls to prevent installation of drinking wells above the contaminated plume. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater. The EPA conducted a time-critical removal action at the site that addressed the immediate health threats posed by the contents of the sludge pit. Approximately 900 cubic yards of contaminated sludge pit waste were excavated and transported off-site for final treatment and disposal. Confirmation sampling and analysis was conducted which verified that soil cleanup levels were achieved.
+
+A Further Investigation of Groundwater (FIG) report was completed in October 1993. The FIG revealed that hexavalent chromium was the primary contaminant of concern at the site because of its toxicity, solubility and highly mobile nature. Concentrations of hexavalent chromium were detected on-site at levels up to 1,206 µg/L, which exceeded the 18 µg/L health-based site level. A feasibility study was completed in June 1994 in order to identify the most cost effective and appropriate remediation activities at the site. A Record of Decision, selecting the remedy, was signed by the EPA on January 24, 1995.
+
+The ROD amendment selected a new remedy, monitored natural attenuation (MNA). The MNA remedy required annual groundwater monitoring over a five-year period to demonstrate that:
+
+- Natural attenuation is occurring
+- The plume is not expanding
+- There are no significant impacts to down gradient receptors
+- Institutional controls are effective
+
+The remedy is functioning as expected and intended. The response action selected in the ROD amendment involves reducing hexavalent chromium concentration in the groundwater to below the preliminary remediation goal of 18 µg/L by MNA.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal and state actions. Site groundwater sampling results indicate that hexavalent chromium concentrations in groundwater are progressively decreasing but remain above the remediation goal in some monitoring wells.
+
+The EPA has conducted five Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by the EPA and that the remedy continues to be protective of human health and the environment in the short term. The following actions are required in order for the site to remain protective:
+
+- Natural attenuation processes that act without human intervention to transform hexavalent chromium to the less toxic trivalent form. Trivalent chromium is less soluble, and thus less mobile, than hexavalent chromium. Under alkaline to slightly acidic conditions, trivalent chromium precipitates as a fairly insoluble hydroxide.
+- Annual groundwater monitoring to demonstrate that: natural attenuation is occurring; the plume is not expanding; there are no significant impacts to down gradient receptors; and institutional controls are effective. If future site data indicate the need for a change in monitoring frequency or the addition of new monitoring wells, then such measures should be taken to ensure the achievement of the monitoring goals. Furthermore, monitoring should continue for a minimum of three years after the remedial objectives for groundwater concentrations of hexavalent chromium has been achieved to ensure that concentration levels are stable.
+
+Institutional controls have been implemented to ensure that no drinking water wells will be installed in the contaminated plume. This has been achieved through monitoring and by executing an agreement with the current property owners. In the event that groundwater monitoring reveals no significant decrease in hexavalent chromium concentration after five years of monitoring and the plume appears to be expanding and threatening down gradient receptors, a contingency remedy will be implemented. The contingency remedy is the original remedy selected in the January 1995 ROD. This remedy was to extract contaminated groundwater through two extraction wells, treat the groundwater by reduction/precipitation, and discharge the treated groundwater to ditch number four approximately 4,000 feet east of the site.
+
+Three additional groundwater monitoring were installed on the property to the west of the Quality Plating site to confirm whether groundwater contamination was moving in that direction. Four quarters of sampling have shown no detections of hexavalent chromium, chlorinated solvents, or per and polyfluro alkyl substances (PFAS).
+
+Annual groundwater sampling for hexavalent and total chromium occurs every year with the next event in fall 2025.
+
+### Emergency Response and Removal
+
 In 1992, the EPA completed a removal action at the site to remove contaminated soil.
-Top of Page

@@ -1,2 +1,61 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The ACM Smelter and Refinery site is located next to the community of Black Eagle. The site is along the Missouri River in Cascade County, Montana. The city of Great Falls is located across the Missouri River from the site.
+
+The Boston & Montana Consolidated Copper and Silver Mining Company began construction of the first smelter at the site in 1892. Products included copper, zinc, arsenic and cadmium. Operations began in 1893, when ore from mines in Butte, Montana, was concentrated, smelted and refined. Electrolytic and furnace refineries also operated at the site. Anaconda Copper Mining Company bought the property in 1910. Zinc smelting and refining activities continued at the facility until the early 1970s. The property again changed hands in 1977, when Atlantic Richfield Company (ARCO) purchased the site. Copper refining continued until the plant closed in 1980.
+
+Eighty years of refinery operations contaminated soil, groundwater and surface water resources around the site. The refinery’s smokestacks ejected lead, arsenic and other metals in wastes from the refinery processes. This likely contaminated nearby residential yards. Tailings, smelter wastes, slag and flue dust were dumped into the Missouri River until 1915. After that, most wastes were deposited on site. The State of Montana estimated 27.5 to 31 million tons of slag and tailings were dumped directly into the river. The Missouri River was found to be contaminated from dumping. On-site runoff and wastes have been found more than 30 miles downstream.
+
+After the smelter and refinery closed, ARCO initiated reclamation and maintenance activities throughout the 1980s and 1990s. In 2002, at the request of the State of Montana, EPA conducted a site investigation of the facility. An expanded site investigation was conducted in 2007/2008 in the Black Eagle community. EPA placed the ACM Smelter and Refinery on the Superfund program’s National Priority List in March 2011.
+
+In 2021, a [Record of Decision (pdf)](https://semspub.epa.gov/work/08/100010810.pdf) (120 pp, 9.6MB, [About PDF](https://www.epa.gov/home/pdf-files) ) detailing cleanup plans for community soils in Black Eagle was signed, and in August 2023, Atlantic Richfield agreed to a multi-million-dollar cleanup in the community. Yard cleanups began in May 2024 in the southwestern edge of Black Eagle and are expected to take two summers to complete.
+
+### What Has Been Done to Clean Up the Site?
+
+In May 2024, yard cleanups to address lead and arsenic contamination in Operable Unit (OU) 1 of the ACM Smelter and Refinery site began. OU1, which includes residential yards and yards areas of Black Eagle, spans the areas immediately north and west of the former smelter. Yards and yard areas in this OU will be cleaned up by Atlantic Richfield contractors in consultation with property owners.
+
+Since the 1980s and 1990s, ARCO has conducted reclamation of the former smelter facility and continues maintenance activities including access control.
+
+To address immediate threats to human health and the environment, EPA removed approximately 1,200 cubic yards of contaminated soil from the Moose Lodge property in Black Eagle in November 2011. The soil was disposed of at the High Plains landfill.
+
+From September through November of 2020, EPA conducted second time-critical cleanup. EPA removed approximately 3,200 cubic yards of soil contaminated with lead and arsenic. This was done before Black Eagle Water and Sewer District’s construction project to replace old water and sewer lines. The soil was placed in the former smelter site area of OU2.
+
+The Administrative Record contains the action memo, which documents the decision-making process leading to this environmental response, including the selection of the response action.
+
+[View the Time-Critical Removal Action Administrative Record »](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ars&id=0800402&doc=Y&colid=66579&region=08&type=AR)
+
+The Cascade County Health Department developed and distributed fact sheets advising residents on how to reduce exposure with potential contaminants in the community. This fact sheet was created in collaboration with the Montana Department of Environmental Quality, the Agency for Toxic Substances and Disease Registry (ATSDR), and EPA. In addition, BNSF conducted minor cleanup activities in Art Higgins Community Park to provide a safe place for children to play while investigations continue.
+
+### What Is the Current Site Status?
+
+Based on the January 2024 [Updated Lead Guidance](https://www.epa.gov/superfund/updated-soil-lead-guidance-cercla-sites-and-rcra-corrective-action-facilities), the EPA is evaluating the risks from lead in soils to sensitive populations. This analysis will include compiling available site data to determine the potential presence and extent of lead-contaminated soils. Lead can pose health risks to sensitive populations, especially children under 7 years old and pregnant or nursing women. The process to implement the Updated Lead Guidance will involve additional planning, data gathering, risk assessment and funding requests. EPA will coordinate with our state partners and request public feedback on our proposed cleanup plans before additional cleanups begin.
+
+While implementing the Updated Lead Guidance may take several years to complete, the EPA and MT DEQ will share information on planned activities and results as they become available. In the meantime, and out of an abundance of caution, if you live near the ACM Smelter and Refinery Site, the EPA recommends you have your children tested for lead annually; especially those under 7 and if the soil at your property was not replaced previously. Additionally, you can take some simple actions to limit exposure to potential lead contamination in soils, including:
+
+- Maintaining yards and other soil cover;
+- Washing hands, especially children’s, after handling soil, playing outside, and before meals;
+- Making sure children eat nutritious meals high in iron and calcium;
+- Keeping dust levels down by mopping and damp dusting regularly;
+- Regularly changing out furnace filters;
+- Keeping kids’ toys and play areas clean;
+- Taking shoes off at the door and keeping pets clean;
+- Wearing gloves while gardening; and
+- Cleaning homegrown produce and peeling root vegetables.
+
+The EPA ACM Smelter and Refinery site team will communicate with residents affected by this guidance about the specific next steps the Agency will take in their community. Residents may also contact the site’s Community Involvement Coordinator with questions or concerns at ( [meter.mackenzie@epa.gov](mailto:meter.mackenzie@epa.gov?subject=ACM%20Smelter) ).
+
+Cleanup is underway in Black Eagle. The selected remedy, or cleanup plan, in the Record of Decision requires that soil contaminated with lead and arsenic above a certain level be removed and replaced. Cleanups began in May 2024 and are expected to take approximately two summers to complete.
+
+The OU1 Railroad corridor cleanup is currently under negotiation with BNSF and AR.The remedial investigation (RI) for Operable Unit 2, which includes the former smelter area, is currently underway.
+
+EPA studied the soil in residential yards in Black Eagle in 2007 and 2008. The results showed that about 45 percent of the yards sampled had elevated levels of lead, arsenic or both. ARCO, a potentially responsible party (PRP), agreed to lead an investigation of soils in and near the community of Black Eagle from September 2011 to 2013. This determined the nature and extent of the contamination.
+
+In December 2011, EPA ordered another PRP, BNSF Railway, to investigate conditions along the abandoned railroad through Black Eagle. Sampling was conducted in 2012/2013. Physical and biological investigations were also done in the Missouri River to determine risks to aquatic life.
+
+In August 2021, EPA finalized a Record of Decision, or cleanup plan, for the cleanup of community soils. Community soils refers toresidential areas, non-residential soil north of Black Eagle, and the railroad corridor. This cleanup plan will allow EPA to remove soil contaminated with lead and arsenic above a site-specific cleanup level. In August 2023, Atlantic Richfield agreed to a multi-million-dollar cleanup in the community of Black Eagle. Cleanup began in May 2024.
+
+### Emergency Response and Removal
+
+In September 2020, EPA began a time-critical cleanup in Black Eagle to support the replacement of old water and sewer lines. The cleanup removed soil contaminated with lead and arsenic. The removal action began in September and ended in November 2020. The Administrative Record contains the action memo, which documents the decision-making process leading to this environmental response. This includes the selection of the response, or cleanup, action. Other documents, including the comments received on the Administrative Record and EPA’s response to significant comments, may be added later.
+
+[View the Time-Critical Removal Action Administrative Record »](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ars&id=0800402&doc=Y&colid=66579&region=08&type=AR)

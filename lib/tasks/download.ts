@@ -29,12 +29,22 @@ function parseArticle(url: string): Promise<string> {
       return reject("URL invalid");
     }
     const sections = content.split("\n\n---");
-    const body = sections.slice(1, sections.length).join("").trim();
+    // Remove TOC
+    let body = sections.slice(1, sections.length).join("").trim();
+    // Remove various lines
+    body = body
+      .split("\n\n")
+      .filter(
+        (line) => !line.startsWith("Disclaimer") && line !== "**Background**",
+      )
+      .join("\n\n");
     resolve(body);
   });
 }
 
-const scopedSites = SITES.filter((site) => site.id.startsWith("NJ"));
+const scopedSites = SITES.filter(
+  (site) => site.id.startsWith("U") || site.id.startsWith("T"),
+);
 // sort((a, b) => a.id.localeCompare(b.id))
 
 let stats: {

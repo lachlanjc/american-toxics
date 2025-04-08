@@ -1,2 +1,15 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lot 46 Valley Gardens Trichloroethylene (TCE) Superfund site is a TCE-contaminated groundwater plume in Des Moines, Iowa. On March 5, 2024, the Lot 46 Valley Gardens TCE site was added to the Superfund National Priorities List following its proposal and 60-day public comment period in the fall of 2023. The site's NPL designation will provide federal resources to support long-term cleanup efforts, impede further plume migration and prevent exposure to site contamination.
+
+Investigations at the site led by the Iowa Department of Natural Resources (IDNR) began in 2004, and the IDNR referred the site to EPA in 2020 for federal assistance. Since assuming the role as lead agency, the EPA has continued to regularly monitor the groundwater contamination, further define the extent of the contaminated groundwater plume and investigate the potential vapor intrusion pathway.
+
+### What Is the Current Site Status?
+
+The Lot 46 Valley Gardens TCE site was added to the Superfund National Prioirities List on March 5, 2024. The next step for the the site will be to complete a remedial investigation and feasibility study, or RI/FS. The focus of the remedial investigation is to define the nature and extent of the contamination and to develop the site's conceptual site model. Information gathered in the remedial investigation is used in the feasibility study to determine the best remedial clean up methods and technologies specific to the site.
+
+Between now and the start of the RI/FS, the EPA will continue to conduct semi-annual groundwater sampling of the Des Moines Water Works infiltration gallery and the on site monitoring well network. Addtionally, the EPA continues its investigations regarding a potential vapor intrusion pathway.
+
+### Sampling and Monitoring
+
+The site groundwater contamination plume is southeast of the city of Des Moines Water Works (DMWW) Fleur Drive Treatment Plant infiltration gallery, a series of underground water collection pipes adjacent to the Raccoon River. The infiltration gallery draws its water supply from a combination of both local groundwater and the Raccoon River. The EPA works with DMWW to sample water from along the infiltration gallery and the site groundwater monitoring well network on a semi-annual basis to ensure that source water is of the highest quality. Addtionally, the EPA continues its investigations regarding a potential vapor intrusion pathway.

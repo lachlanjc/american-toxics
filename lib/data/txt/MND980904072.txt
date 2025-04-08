@@ -1,2 +1,32 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Long Prairie Ground Water Contamination site is located in Long Prairie, Minnesota. The site consists of a 7,000-square-foot source area underlain by a half-mile-long groundwater plume. About 350 homes supplied by private wells were affected by the groundwater contamination until public water supply extensions and service connections were provided. Cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. In March 2007, MPCA injected a mineral oil mixture into the groundwater to increase the biodegradation rate of the groundwater contaminants. After soil contamination was found to be more extensive than previously thought near the former dry  
+cleaner, an SVE system was installed in 2010 to reduce vapor Intrusion risk to nearby receptors.
+
+Long-term protectiveness requires evaluation of existing and potential institutional controls and long-term stewardship programs, ongoing operation and maintenance of the selected remedy until cleanup goals are met, and evaluation of cleanup goals for vapor intrusion and cleanup objectives of the new SVE system.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included soil treatment using soil vapor extraction (SVE) and groundwater extraction and treatment using a granular-activated carbon (GAC) system and an air stripper.
+
+The groundwater pump-and-treat system is expected to run for about 15 more years. Groundwater data show that the plume is shrinking in size. The SVE system operated for four years, until soil cleanup goals were achieved. Two additional extraction wells were installed in 1999 to fill breaches in the plume capture area.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Site is contaminated with VOCs, specifically PCE, TCE, DCE and VC.
+
+### Sampling and Monitoring
+
+### Enforcement Information
+
+This NPL Superfund Site is being addressed through federal and state actions. This is a State-Lead Superfund Site under a multi-site cooperative agreement with U.S. EPA.

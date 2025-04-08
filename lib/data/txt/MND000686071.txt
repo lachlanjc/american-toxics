@@ -1,24 +1,19 @@
-KOCH REFINING CO./N-REN CORP.ROSEMOUNT, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Koch Refining Co./N-Ren Corp. site is located in Rosemount, Minnesota. Spills from refining and transport operations at the Site contaminated soil and groundwater with hazardous chemicals. An active oil refinery, the Pine Bend Refinery, owned by Flint Hills Resources Pine Bend, LLC, currently operates at the Site. The Minnesota Pollution Control Agency oversees cleanup at the site.. The Minnesota Pollution Control Agency oversees EPA took the site off the Superfund program’s National Priorities List (NPL) in 1995. Top of Page
-What Has Been Done to Clean Up the Site?
-Cleanup at the Site has been addressed under Federal and State law. In 1985, Koch Refining, a Potentially Responsible Party, signed a Consent Agreement with the State of Minnesota for cleanup of the facility under Resource Conservation and Recovery Act (RCRA) authority, managed by the MPCA. Soil and groundwater was contaminated by a spill from a barge dock pipeline.  In 1991, MPCA selected a remedy for the site that included recovering spilled materials, controlling flow of contaminated groundwater, and soil treatment. Much of this cleanup has been completed. In 1994, MPCA transferred oversight of the cleanup to their Tanks and Spills section. EPA deleted the site from the National Priorities List in 1995, and determined that no further action under the Superfund law was needed. Top of Page
-What Is the Current Site Status?
-MPCA has combined cleanup of the Superfund site with a wider cleanup project at the former Koch facility. Several million gallons of petroleum-related contaminants have been removed and soil treatment is nearing completion. Contaminated groundwater is being captured and treated.  Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Groundwater contaminants included VOCs, polycyclic aromatic hydrocarbons (PAHs), phenols, and lead.  Soil was also contaminated with VOCs that included benzene, toluene, and xylenes as well as PAHs.  Production areas at the site are regulated under a variety of environmental statutes.  Spill protection, RCRA waste management, effluent limitations for surface water discharge, and air emission controls are all environmental management matters which the operating plant continues to address under State oversight. Top of Page
-Sampling and Monitoring
-Top of Page
+### Background
+
+The Koch Refining Co./N-Ren Corp. site is located in Rosemount, Minnesota. Spills from refining and transport operations at the Site contaminated soil and groundwater with hazardous chemicals. An active oil refinery, the Pine Bend Refinery, owned by Flint Hills Resources Pine Bend, LLC, currently operates at the Site. The Minnesota Pollution Control Agency oversees cleanup at the site.. The Minnesota Pollution Control Agency oversees EPA took the site off the Superfund program’s National Priorities List (NPL) in 1995.
+
+### What Has Been Done to Clean Up the Site?
+
+Cleanup at the Site has been addressed under Federal and State law. In 1985, Koch Refining, a Potentially Responsible Party, signed a Consent Agreement with the State of Minnesota for cleanup of the facility under Resource Conservation and Recovery Act (RCRA) authority, managed by the MPCA. Soil and groundwater was contaminated by a spill from a barge dock pipeline. In 1991, MPCA selected a remedy for the site that included recovering spilled materials, controlling flow of contaminated groundwater, and soil treatment. Much of this cleanup has been completed. In 1994, MPCA transferred oversight of the cleanup to their Tanks and Spills section. EPA deleted the site from the National Priorities List in 1995, and determined that no further action under the Superfund law was needed.
+
+### What Is the Current Site Status?
+
+MPCA has combined cleanup of the Superfund site with a wider cleanup project at the former Koch facility. Several million gallons of petroleum-related contaminants have been removed and soil treatment is nearing completion. Contaminated groundwater is being captured and treated.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater contaminants included VOCs, polycyclic aromatic hydrocarbons (PAHs), phenols, and lead. Soil was also contaminated with VOCs that included benzene, toluene, and xylenes as well as PAHs. Production areas at the site are regulated under a variety of environmental statutes. Spill protection, RCRA waste management, effluent limitations for surface water discharge, and air emission controls are all environmental management matters which the operating plant continues to address under State oversight.

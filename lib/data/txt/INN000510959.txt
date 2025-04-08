@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Franklin Street Groundwater Contamination site is located in Spencer, Owen County, Indiana. Tetrachloroethene (PCE) was detected in finished water samples collected from a local water treatment plant as part of regularly scheduled required testing for the Indiana Department of Environmental Management. In 2014, IDEM conducted additional sampling and detected PCE in raw water at all three active drinking wells. Monthly raw water samples collected since 2014 continued to show detections of PCE. Groundwater samples collected at various locations down and upgradient to possible sources was also contaminated with PCE. Despite several investigations in the area, the origin of the contamination is unknown.
+
+### What Has Been Done to Clean Up the Site?
+
+In September 2018, EPA listed the Franklin Street Groundwater site on the National Priorities List. The NPL is the list of hazardous waste sites in the United States that are eligible for long-term remedial action and federal funding under the Superfund law. The Superfund law is what gives EPA the authority to clean up releases of hazardous substances. A site inspection report [IDEM - Site Inspection Report (pdf)](https://semspub.epa.gov/src/document/05/932225) (40.52 MB) was completed to further evaluate the site for potential NPL listing.
+
+The screening information EPA used to evaluate the site for NPL listing is described in the [EPA - Revised Hazard Ranking System (HRS) Documentation Record (pdf)](https://semspub.epa.gov/src/document/05/940974) (4.81 MB)
+
+### What Is the Current Site Status?
+
+EPA is conducting the remedial investigation (RI) at the Franklin Street site. The RI is the first phase of the Superfund process and helps the agency determine the nature of the contamination at the site and how widespread it is. EPA is conducting soil, groundwater, and vapor intrusion sampling at commercial and residential areas throughout Spencer. EPA will also evaluate the human health and ecological risks posed by site contamination. Learn more [health related information about site contaminants](https://wwwn.cdc.gov/TSP/index.aspx).
+
+EPA has also completed the Community Involvement Plan (CIP) for the Franklin Street Groundwater site. Residents and officials of the town or Spencer and Owen County spoke with EPA about their concerns and communication needs. The CIP is a communication strategy guide the Agency uses to enable meaningful community involvement throughout the Superfund cleanup process.
+
+[EPA Community Involvement Plan (pdf)](https://semspub.epa.gov/work/05/987870.pdf) (5.33 MB)

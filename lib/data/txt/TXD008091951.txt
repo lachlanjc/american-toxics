@@ -1,2 +1,44 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Conroe Creosoting Company site is located in Conroe, Texas, about 30 miles north of Houston. Wood-treating operations took place at the site from 1946 to 1997. Facility activities and waste management practices contaminated soil, sediment and groundwater with hazardous chemicals. Following construction of the site’s remedy, operation and maintenance activities are ongoing.
+
+The Conroe Site is a former wood-treating facility located at 1776 E. Davis Street, Conroe, Montgomery County, Texas. The former wood-treating facility occupies approximately 147 acres and operated from 1946 until March 1997. The Site is fenced and borders residential property to the east, State Highway 105 to the south, and forested land to the west and north. The facility consisted of two process areas, one tank area, two kilns, a re-work area, a vehicle maintenance shop, boiler, lumber shed, a pole machine, two fuel pumps, an office, a sales office, and a retail office along with several storage sheds and storage areas prior to a removal action conducted by the.
+
+Three wood preserving processes were used at the facility, including pentachlorophenol (PCP), creosote, and copper chromated arsenate (CCA). The PCP and creosote wood preserving processes used pressure to force a solution of PCP or creosote dissolved in diesel into the wood. The CCA treatment process is water based and occurs at ambient pressures. The treated wood was then allowed to dry on a drip pad. Treatment residues from these processes were scraped from the drying pad for shipment off-site. The facility was closed down by the Montgomery County Tax Assessor/Collector in March 1997, due to delinquent taxes.
+
+In September 2002, the EPA started a time-critical removal action of on-site structures and soils. All the contaminated material, soils, sediments, and solidified wastes were placed inside an on-site Resource Conservation Recovery Act (RCRA) vault. A total of 252,000 cubic yards of contaminated material was placed inside the vault.
+
+The Record of Decision (ROD), signed on September 29, 2003, set forth the selected remedy for the site, which includes monitored natural attenuation of the contaminants in the ground water, no further action for the on-site soils and offsite sediments, long-term maintenance of the RCRA vault, and placement of institutional controls.
+
+EPA completed the Third Five-Year Review for the Site on July 10, 2018. The Third Five-Year Review determined that the remedy for on-site soils and off-site sediment is protective of human health and the environment because the waste has been removed and contained. The remedy for ground water is protective of human health and the environment in the short term because there is no evidence that there is current exposure, and the remedy is being implemented as planned to reduce the volume of contamination and to control migration. The Five-Year Review did require that additional data be collected as part of the re-evaluation of the dioxin soil cleanup.
+
+**National Priorities Listing (NPL) History**
+
+NPL Inclusion Proposal Date: April 30, 2003  
+NPL Inclusion Final Date: September 22, 2003
+
+Location: The Site is located in Conroe, Montgomery County, approximately 30 miles north of Houston, Texas.
+
+Population: Aproximately 15,000 people live within two miles of the site.
+
+Setting: The site consists of 147 acres and is a former wood treating facility. There is a residential community to the east, a wooded area to the north, and commercial activities to the west and south. The shallow water-bearing zone is 60 feet deep and is currently not being used. The first water-bearing zone used for domestic supply is 125 feet deep. The City of Conroe water supply is 400 to 1000 feet below the surface.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA began long-term groundwater monitoring in November 2005 to assess the natural attenuation of PCP in groundwater. The landfill is marked with signs, locked gates and security fencing. In 2010, an environmental easement and declaration of restrictive covenants was executed for the property that provides for continuation of the groundwater monitoring program, long-term maintenance of the RCRA vault and placement of institutional controls. The institutional controls notify future property owners of the site’s status, restrict future water well installation at the site and restrict future development to non-residential uses. The site is being addressed through federal actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires continued groundwater monitoring and operation and maintenance activities for the RCRA vault.
+
+Three wood-preserving chemicals were used at the facility, including PCP, creosote and copper chromated arsenate (CCA). The PCP and creosote wood-preserving processes used pressure to force a solution of PCP or creosote dissolved in diesel into the wood. The treated wood was then allowed to dry on a drip pad. Treatment residues from these processes were scraped from the drying pad for shipment off site. The facility was closed down by the Montgomery County Tax Assessor/Collector in March 1997 due to delinquent taxes.Three wood-preserving chemicals were used at the facility, including PCP, creosote and copper chromated arsenate (CCA). The PCP and creosote wood-preserving processes used pressure to force a solution of PCP or creosote dissolved in diesel into the wood. The treated wood was then allowed to dry on a drip pad. Treatment residues from these processes were scraped from the drying pad for shipment off site. The facility was closed down by the Montgomery County Tax Assessor/Collector in March 1997 due to delinquent taxes.
+
+### What Is the Current Site Status?
+
+The long-term remedy included monitored natural attenuation of groundwater contaminants, no further action for on-site soils and off-site sediments, long-term maintenance of an on-site Resource Conservation and Recovery Act (RCRA) vault, and institutional controls. Remedy construction took place in 2003.
+
+The most recent groundwater sampling event was conducted by TCEQ in November 2018.
+
+The TCEQ is responsible for all operation and maintenance (O&M) activities at the Site.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Time-critical removal actions by EPA in 2002 included consolidation and placement of 252,000 cubic yards of contaminated material, soil, sediment and solidified wastes inside the on-site RCRA vault.

@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The approximately 13.5-acres Geneva Industries is located at 9334 Canniff Road in Houston,Texas, less than one mile east of Interstate Highway-45 and approximately two miles east of Hobby Airport. The site was historically used for petroleum exploration and petrochemical production and is currently inactive. The site is drained by the Harris County Flood Control District Channel, which runs along the eastern boundary of the site.
+
+The Geneva industries site is an abandoned refinery which manufactured a variety of organic compounds, including polychlorinated biphenyls (PCBs) from 1967 to 1973. Geneva industries requested a permit application for the discharge of industrial wastewater from the Texas Water Quality Board (TWQB) on July 8, 1970. An inspection by the TWQB in April 1971 showed that Geneva industries was manufacturing diphenyl and custom processing other organic compounds. The company had been discharging wastewater with a pH of 10.5 without a permit to the flood control ditch east of the site. An inspection of the facility on March 17, 1972, noted that Geneva Industries distilled dealkylation still bottoms to recover diphenyl, with toulene and heavy fuel oil as byproducts. The inspection also noted frequent spills, particularly of biphenyl and xylene.
+
+In June 1972, Geneva Industries added a new unit to chlorinate biphenyls, combine them with caustic soda, and produced phenoxy phenol; numerous leaks were observed at that time. The TWQB issued a waste control order to Geneva Industries on August 23, 1972 and Geneva Industries filled for bankruptcy on November 26, 1973. From 1974 until the facility was closed in 1980, several corporations continued recovery operations for biphenyls and napthalene at the Geneva Industries facility including: Pilot Industries, February 1974 – December 1976; Intercoastal Refining, December 1976 – December 1980; Lonestar Fuel Co., December 1980 – May 1982; and Fuhrmann Energy, May 1982 – Present. The current owner, Fuhrmann Energy, purchased the property in May 1982 to salvage the equipment from the site for resale.
+
+### What Has Been Done to Clean Up the Site?
+
+Preliminary investigations conducted in the 1980s by the EPA found significant PCB and other organics contamination in site soils, groundwater and sediment in the adjacent flood control channel.
+
+From October 1983 to February 1984, the EPA performed several emergency actions. Removal actions included: closure of all three lagoons; excavation and transportations of 550 drums containing contaminated materials and 30 tons of asbestos to an approved facility; excavation and transportation of 3,400 cubic yards of contaminated soil and sludge to an approved facility; installation of a temporary cap over onsite soils containing greater than 50 mg/kg PCBs; improvement of site drainage; plugging abandoned oil/gas wells; and removing storage tank materials.
+
+The EPA issued the site’s record of decision (ROD) on September 18, 1986, and subsequent modifications in 1993 and 2007. The EPA selected remedy included: excavation and off-site disposal polychlorinated biphenyls contaminated soils; capping of residual waste on-site with perimeter slurry wall; recovery and treatment of trichloroethylene contaminated ground water; and institutional controls
+
+The EPA split the remedial action into two distinct portions: contaminated soils referred to as OU1 and contaminated groundwater, referred to as OU2.
+
+OU1 remedial activities began in May 1988 and completed in September 1990 by TCEQ. Completed remedial activities included: removal and disposal of all surface facilities; plugging all unnecessary monitoring wells; excavation and off-site disposal of about 38,900 cubic yards of contaminated soil; excavation and off-site disposal of most buried drums; remaining buried drums were relocated under the protective cap; construction of a slurry wall barrier inside the perimeter of the Site to a depth of 30 feet keyed into the aquitard underlying the shallow zone, with a pressure relief well system and construction of a permanent protective cap across the site surface consisting of clay and a synthetic high density polyethylene liner. After the completion of remedial activities, the EPA deleted OU1 from the NPL in April 1997. Institutional controls for OU1 were implemented in August 2015.
+
+OU2 remedial activities began in December 1992. TCEQ completed the construction of the groundwater pump and treat (P&T)system in April 1993. System construction included 10 recovery wells and three monitoring wells, 1,878 linear feet of aboveground supported piping, a treatment building containing an activated carbon filtration system, six 30,000-gallon storage tanks, related foundation facilities, service utilities, monitoring controls, asphalt paving and fencing. Modifications to the system were completed in September 1994, these included addition of a heavy-oil/water separator, related piping changes, charcoal filter material replacement and system cleaning. The P&T systems continue to operate today.
+
+### What Is the Current Site Status?
+
+In 2019, the EPA conducted an optimization review on the groundwater P&T systems issues and effectiveness, effluent storage practices, an updated conceptual site model (CSM), groundwater monitoring, property use and institutional controls, annual remedy costs and resource use and efficiency. Currently, the EPA and the United States Geological Survey (USGS) are in the process of completing an updated CSM. These activities include proving hydraulic control and investigating the 100-foot sand unit. The CSM updates will be completed in five phases.
+
+A Conceptual Site Model is a written and/or illustrative representation of the conditions and the physical, chemical, and biological processes that control the transport, migration and potential impacts of contamination (in soil, air, ground water, surface water and/or sediments) to human and/or ecological receptors.
+
+Phase 1 of the CSM consisted of collecting geophysical data on monitoring wells 101 – 104 and other selected wells. Phase 2 utilized the collected geophysical data from phase 1 to determine hydraulics after rain events and general flow through the system. Phase 3 of the CSM consisted of installing passive samplers in selected wells to determine where in the screened intervals contamination exists. The information from phase 3 will be used to determine the estimated PCB contamination left in the formation. Phase 4 will utilize the information collected from the previous phases to create a mass balance and determine how well the slurry wall is working and Phase 5 will be the final CSM.
+
+To date, Phase 1 through 3 of the CSM are completed. Phases 4 and 5 are planned for completion in September 2024 and October 2025, respectively.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls in the form of 28 deed notices on nine affected parcels on and closed to site were implemented in August 2015. The deed notices restrict the following activities: digging on the cap area; any activities that will cause erosion or disrupt the integrity of the cap or landfill; any residential use of the affected properties, groundwater use in the 30 ft and 100 ft sand units; activities that could disturb components of the groundwater recovery and monitoring system; and drilling of water wells within the cap or landfill area.
+
+### Emergency Response and Removal
+
+A removal was performed by EPA from October 1983 to February 1984 to close out all three lagoons, remove all drummed waste on the surface, remove all off-property soils containing greater than 50 ppm PCBs, install a cap over all on-property soils containing greater than 50 ppm PCBs, and improve site drainage.

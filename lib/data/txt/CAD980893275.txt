@@ -1,2 +1,191 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 160-acre Sulphur Bank Mercury Mine site is an abandoned open pit mercury mine on the shoreline of Clear Lake in Lake County, Calif. The site is divided into three parts to focus cleanup efforts. EPA calls these parts Operable Units (OUs):
+
+- **Operable Unit 1** - The mine site and residential soils to the north and south;
+- **Operable Unit 2** - Clear Lake (and its sediment); and
+- **Operable Unit 4** - North Wetlands and the surrounding land.
+
+\*Note: Operable Unit 3 was divided amongst the other OUs.
+
+**History**
+
+The site:
+
+- was mined intermittently for sulphur and mercury between 1865 and 1957;
+- contains about 2.5 million cubic yards of mine waste; and
+- stretches along 1,300 feet of shoreline in the Oaks Arm area of Clear Lake.
+
+On site there is a flooded open pit mine that covers 23 acres, is 90 feet deep and is located 750 feet from the lake. The pit is referred to as Herman Impoundment. This pit can be seen in the site map in this [fact sheet](https://semspub.epa.gov/work/09/100018197.pdf). It is filled with mine waste, contaminated water, and geothermal groundwater (water affected by the heat of the earth) that naturally contains mercury and arsenic. Mining the site caused mine waste to be distributed across the site and dumped into Clear Lake. This:
+
+- contaminated soils, surface water and groundwater;
+- released contaminants into the environment (including arsenic, mercury and antimony) that are risky to human health; and
+- left mercury in sediments at the bottom of Clear Lake that have built up in fish.
+
+**How Does the Site Affect the Public’s Use of Clear Lake?**
+
+- Levels of mercury in the lake water are consistently below government standards and therefore safe for swimming and recreating.
+- Fish Advisory - Due to high mercury levels in fish, the California Office of Environmental Health and Hazard Assessment (OEHHA) issued a fish consumption advisory in 1987. The advisory is available [here](https://oehha.ca.gov/advisories/clear-lake). (OEHHA is the agency responsible for studying public health effects from chemicals in fish. It also issues health advisories, when needed.)
+- Clear Lake may experience occasional and naturally occuring algal and cyanobacteria blooms that can make the water unsafe for swimming. These usually occur in mid to late summer. The public is advised to watch for information and signage regarding the timing and severity of such cyanobacteria blooms. This [fact sheet](https://www.epa.gov/sites/production/files/2017-07/faqs-rec-water.docx)  provides more information. EPA advises the community to follow the [Lake County Cyanobacteria Guidance](http://www.lakecountyca.gov/Page13111.aspx).
+
+*Clear Lake is the source of water for the Clear Lake Oaks County Water District. The district treats and provides for municipal drinking water for 4,700 people. Additional information on the district can be found [here](https://www.clocwd.org/).*
+
+### What Has Been Done to Clean Up the Site?
+
+**1992 – Erosion control**
+
+- Cut slope of the mine waste pile located along the shore of Clear Lake. Planted new vegetation in this area. The vegetation prevents mine waste, mercury and arsenic from entering Clear Lake.
+
+**1996 – Erosion control**
+
+- Created a small dam from soil in the area between Herman Impoundment and Clear Lake. The dam was a temporary measure to prevent contaminated water from flooding into Clear Lake when there was a heavy rain.
+
+**1997 – Removed soil from residential yards**
+
+- Removed up to 18 inches of the mercury and arsenic-contaminated mine wastes from 17 residential yards at the Elem Indian Colony, which is the tribal nation north of the mine. EPA then replaced yards with clean soil to make sure the yards were safe to use.
+
+**1999-2000 – Surface water diversion**
+
+- Built surface water diversions on the mine site to prevent contamination from flowing into Clear Lake.
+- Constructed a 4,000-foot pipeline which captures clean storm water from surrounding hills and directs it around the site. The pipeline prevents the water from contacting mine waste onsite and becoming contaminated. It also aims to prevent Herman Impoundment’s water from overflowing into Clear Lake.
+
+**Late 2000, Early 2001 – Well closure**
+
+- EPA closed three geothermal wells that had been abandoned. EPA was concerned that the wells were not properly abandoned and that they might unexpectedly release dangerous geothermal gases. The wells were drilled in the 1970s when mine company owners explored geothermal activity near Herman Impoundment.
+
+**2006-2008 – Removed contaminated soil from Elem Indian Colony**
+
+- Removed 28,000 cubic yards of mine waste from the Elem Indian Colony residential area.
+- The cleanup included 14 residential yards, home foundations, several gravel roadways and from beneath the entire paved road system.
+- EPA also:
+	- replaced clean dirt in all areas cleaned up;
+	- installed five new homes and two trailers;
+	- refurbished seven existing homes;
+	- repaved the roadway;
+	- installed new curbs, sidewalks, water system and storm drains; and
+	- improved the sewer system.
+- All Elem Indian Colony residents participated in the Temporary Transitional Housing Program providing alternate housing during the cleanup.
+- **December 2006 -** Fifteen of 17 households returned to their permanent homes at the Elem Indian Colony.
+- **June 2007 -** Remaining two households returned to their permanent homes.
+
+**2008 – Mine Waste Removed from Sulphur Bank Mine Road**
+
+- From January to April, EPA cleaned up a residential area south of the mine, along Sulphur Bank Mine Road. EPA removed mercury and arsenic from the gravel roadways and nearby areas.
+
+**2010 – Mine Waste Capping on BIA Route 120/ Pomo Road**
+
+- EPA completed a cleanup for Route 120, which is the main road to the Elem Indian Colony residential area. EPA rebuilt the road to:
+	- contain the mine waste used to build it the road; and
+	- prevent community members from contacting the mine waste.
+
+**2014-2016 – Clear Lake Sediment Capping Study**
+
+- EPA tested two “caps” (sediment covers) to cover contaminated sediment in the lake close to the mine.
+	- The caps were made of a layer of sand and gravel that was put over the sediment.
+	- The test showed capping worked and EPA decided to further evaluate sediment capping as a potential cleanup option for the lake.
+
+### What Is the Current Site Status?
+
+**Operable Unit 1 Status (Mine Site Area and Residential Soils North and South of the Mine)**
+
+*Formalized Cleanup Plan*
+
+EPA recommended a cleanup plan called a [Proposed Plan](https://semspub.epa.gov/work/09/100031865.pdf) on January 11th, 2023 for an extended public comment period that ended on April 10th, 2023. On Thursday, November 9, 2023, EPA issued our final plan to clean up the Sulphur Bank Superfund site’s mine and residential soils (also called Operable Unit One). Before finalizing the cleanup plan, EPA held a 90-day public comment period and hosted online question and answer sessions, in-person open houses, and hybrid (online and in-person) formal public hearings for both the whole community and a tribal-focused audience. The agency captured both written and verbal comments, considered them in cleanup planning, and responded to them in the final decision documents called a Record of Decision and Responsiveness Summary.
+
+EPA’s cleanup plan will:
+
+- combine and cover mine waste piles,
+- remove and/ or cover contaminated residential soils,
+- minimize impacts on nearby tribes, and
+- reduce mercury in sediment and fish over time.
+
+Detailed documents on how EPA made its decision are found in the site’s Administrative Record. This record will be:
+
+- posted in the Site Document and Data tab (to the left),
+- is available upon request, and
+- paper copies will also be made available at community locations listed in the Announcements section.
+
+*Cleanup Options*
+
+Since 2017, EPA has studied long-term options to clean up the mine site area (Operable Unit-1) and the residential soils to the north and south of the mine. This evaluation is detailed in EPA’s [Focused Feasibility Study](https://semspub.epa.gov/work/09/1247730.pdf). EPA finished this study in 2021 and used it to recommended a cleanup plan for the area. EPA’s cleanup recommendation (and other cleanup options considered) are found in the site’s [Proposed Plan](https://semspub.epa.gov/work/09/100031865.pdf) document.
+
+*Operable Unit 1 Monitoring*
+
+EPA does annual activities to asses and limit the site’s affect on the community. To see a site map, please see [Fact Sheet](https://semspub.epa.gov/work/09/100022959.pdf). EPA:
+
+- monitors the site fencing and signs to prevent the public from contacting the contamination;
+- collects and tests groundwater and surface water throughout the year (these samples show EPA where contamination is and guides work to prevent it from being released);
+- monitors Herman Impoundment’s water level to prevent water from overflowing into Clear Lake; and
+- plans for especially wet winters and other natural disasters (such as using emergency water treatment).
+
+**Involving Communities in the Process**
+
+In 2021/ 2022, EPA expanded its outreach and collaboration with those communities most affected by the site to improve understanding of human health risks. The communities included:
+
+- affected tribal nations, including:
+	- the Elem Colony of Pomo Indians (the tribe located next to the site)
+	- Scotts Valley Band of Pomo Indians
+	- Habematolel Pomo of Upper Lake
+	- Big Valley Band of Pomo Indians
+	- Middletown Rancheria of Pomo Indians
+	- Robinson Rancheria
+- Clear Lake residents;
+- agency partners; and
+- other stakeholders in the Clear Lake community (local government leaders, community health organizations, etc.)
+
+**Sitewide Status**
+
+*Impacts to Community’s Health*
+
+EPA finalized a [Human Health Risk Assessment](https://semspub.epa.gov/work/09/100022958.pdf) to study the site contamination’s impact on human health. It includes an evaluation of tribal-specific practices that may lead to exposures unique to tribal members. EPA funded a technical advisor to support the Elem Indian Colony and engage tribal leadership in the assessment process. EPA will continue to study the site and update the assessment of human health risk as needed.
+
+*Mercury Studies*
+
+With the United States Geological Survey (USGS), EPA is distinguishing natural sources of mercury in Clear Lake from mine mercury. This will help EPA find the location and volume of mine waste and plan for long-term cleanup. For more information, please visit the [USGS](https://www.usgs.gov/centers/california-water-science-center/science/mercury-studies-sulphur-bank-mercury-mine-and-clear#:~:text=Background,yards%20of%20contaminated%20mine%20waste.) webpage.
+
+**Operable Unit 2 Status (Clear Lake and its Sediment)**
+
+Local conditions and how mercury moves through the food chain makes site pollution difficult to clean up. Before cleaning up the lake, EPA must:
+
+- see how each cleanup option affects mercury levels in fish; and
+- understand how mercury from the mine in the lake differs from naturally-occurring mercury.
+
+EPA anticipates proposing a plan to cleanup Operable Unit 2 in several years.
+
+**Operable Unit 4 (North Wetlands) Status**
+
+EPA split a part of the North Wetlands area into a new operable unit. To see a site map, please see [Fact Sheet](https://semspub.epa.gov/work/09/100018197.pdf). The area may become tribal land once the cleanup is complete.
+
+In 2022-2023, EPA will prepare to test soil, sediment, groundwater and organisms (plants, fish, and birds) for mercury and arsenic. EPA will work closely with the Elem Indian Colony to do this testing. Results will be used in a “Remedial Investigation” for Operable Unit 4. Cleanup options for the area will be based on results from this investigation.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Restrictions on activities and limitations on how the site can be used are part of EPA’s plan for protecting the community. These controls prevent the community from contacting toxic site contamination. EPA calls these restrictions "Institutional Controls." As part of the controls for how Sulphur Bank can be used, EPA installed fences and put up warning signs.
+
+To learn more, please see the following [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls) guidance.
+
+### Emergency Response and Removal
+
+EPA has done more than 10 short-term actions (called "removals") over the years to protect the community from site contamination. See the [Cleanup Activities](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0902228) section for more detail. These include:
+
+- **1992** - Erosion control emergency response
+- **1997-1998** - Soil removal from residential yards and Elem Colony Lands
+- **1999-2000** - Surface water diversion
+- **2000-2001** - Well closure
+- **2006-2007** - Soil removal from Elem Indian Colony
+- **2008** \- Mine waste removal from Sulphur Bank Mine Road
+- **2010** \- Mine waste capped (covered) on BIA Route 120 / Pomo Road
+
+### Enforcement Information
+
+On April 18, 2012, the U.S. Department of Justice, on behalf of EPA, signed a legal agreement (called a Consent Decree) with:
+
+- the Bradley Mining Company,
+- Frederick Bradley (trustee for the Worethen Bradley Family Trust); and
+- the Elem Indian Colony of Pomo Indians.
+
+[The agreement](https://semspub.epa.gov/work/09/1133544.pdf) describes the roles, liabilities and requirements of those part of the agreement to clean the site up.

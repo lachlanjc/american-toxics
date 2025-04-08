@@ -1,2 +1,69 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The one-square-mile Lawrence Livermore National Laboratory (LLNL) site is an active multi-program research laboratory operated by Lawrence Livermore National Security, LLC, for the U.S. Department of Energy (DOE). Research and support operations at LLNL handle, generate or manage hazardous materials that include radioactive wastes. Facility operations contaminated soil and groundwater with hazardous chemicals. Following initial actions to protect human health and the environment, and construction of the site’s long-term remedy, additional site investigations, operation and maintenance activities, and monitoring are ongoing.
+
+The Site was converted from agricultural use when the U.S. Navy began operating the Livermore Naval Air Station in 1942. The Navy used the Site until 1946 as a flight training base and for aircraft assembly, repair, and overhaul. Solvents, paints, and degreasers were routinely used during this period. Between 1946 and 1950, the Navy housed the Reserve Training Command at the Site. In 1950, the Navy allowed occupation of the Site by the Atomic Energy Commission (AEC), which formally received transfer of the Site in 1951. Under the AEC, the Site became a weapons design and basic physics research laboratory. In 1952, the Site was established as a separate part of the University of California Radiation Laboratory. Responsibility for the Site was transferred to the Energy, Research, and Development Administration in 1975 and then to the U.S. Department of Energy in 1977. There is evidence that localized spills, unlined disposal pits and landfills, and leaking tanks and impoundments contributed to the release of volatile organic compounds, fuel hydrocarbons, metals, and tritium during the laboratory operations that occurred after the Navy left the Site. The Lab began environmental assessments in the 1970s. The Regional Water Quality Control Board discovered on- and off-site groundwater contamination in 1983 and the Site was listed on the NPL in 1987.
+
+Site 300, a separate NPL Site, was developed in the 1950s as a research facility by the U.S. Atomic Energy Commission, predecessor to DOE, primarily as a high-explosives and materials testing site in support of nuclear weapons research, and is located 15 miles east of LLNL.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed as a federal facility with DOE as the lead agency. EPA, the California Department of Toxic Substances Control (DTSC) and the San Francisco Bay Central Valley Regional Water Quality Control Board (RWQCB) are signatories to the Federal Facility Agreement (FFA).The site is being addressed in two stages: initial actions and a long-term remedial phase focused on cleanup of the entire site.
+
+**Initial Actions:**
+
+Efforts included the excavation and removal of 4,000 cubic yards of contaminated soil from several waste disposal pits to certified off-site disposal sites and closure of an inactive landfill, with subsequent removal of about 14,000 cubic yards of contaminated soil. LLNL also provided alternative water supplies to residents with wells affected by contamination.
+
+**Entire Site:**
+
+Over the past several years, LLNL constructed several treatment plants for groundwater pumping and treatment and for soil vapor extraction (SVE). These systems will continue to operate until cleanup standards are achieved.
+
+Innovative technologies have played an important role in the remediation of soil and groundwater at the LLNL site. A large part of a 10,000-gallon gasoline spill was remediated within two years using a dynamic underground steam stripping system. Three-dimensional characterization of the subsurface and the use of Portable Treatment Units (PTUs) have allowed engineers to address water bearing units for easier plume capture through targeted pumping and treatment. Advanced vadose zone modeling has helped improve mass removal rates of soil contamination by increasing the effectiveness of the SVE system. Catalytic reductive dehalogenation (CRD) units are used in a closed loop system to treat volatile organic compounds (VOCs) in groundwater that is also contaminated with tritium. The tritiated groundwater remains in the subsurface and undergoes natural radioactive decay.
+
+In 2007, LLNL began an optimization phase for groundwater cleanup. Technologies are being evaluated to speed the cleanup of VOCs and augment the existing extraction and treatment facilities in place. They include in-situ bioremediationethyl lactate, hydro fracking and zero valent iron, as well as technologies to isolate the tritium.
+
+In 2014, DOE signed an Explanation of Significant Differences adding and implementing institutional controls (coordination and reporting to Zone 7 Water Company) to the remedy to address the off-site groundwater plumes.
+
+In the 2017 Five Year Review, EPA deferred short- and long-term protectiveness at the site due to inadequate characterization of the Vapor Intrusion pathway. DOE has since undertaken a large prioritization sampling effort to address this issue.
+
+**Soil/Waste Cleanup:**
+
+1983 – Excavation of radioactive wastes and solvent-contaminated soil near Bldg 5475
+
+1985, 1999 – Excavation of East Traffic Circle Landfill – including PCB capacitors
+
+1997 – Removed capacitors found at the site where the National Ignition Facility was being built
+
+2008 – Removal of free mercury and mercury-contaminated soil during RCRA closure of Building 212
+
+2011/2012 – Soil removal during RCRA closure of Building 419
+
+**Groundwater Cleanup:**
+
+The site continues operation and/or maintenance of 27 groundwater treatment facilities and 8 soil vapor treatment facilities as well as operation and/or maintenance of a network of 96 groundwater extraction wells, 2 groundwater injection wells, 13 dual extraction wells, and 34 soil vapor extraction wells.
+
+### What Is the Current Site Status?
+
+In 2018, at the regulatory agencys' insistence, the Lab began screening indoor air in the facility's buildings for potential Vapor Intrusion (VI) by volatile organic compounds (VOCs) in the groundwater and soil gas. By the end of 2019, the Lab will have addressed approximately 20 of the top tier buildings.
+
+**Cleanup Progress**
+
+The removal of contaminated soil, provision of alternate drinking water supplies and use of groundwater and soil vapor treatment systems have reduced the potential of exposure to contaminated materials at the site while studies continue and cleanup activities are being conducted. Construction of the site’s remedy finished in 2007. The remedy will continue to operate until cleanup standards are achieved.
+
+Operations and Maintenance phase. Treatability Studies have been underway to evaluate in-situ bioaugmentation, impermeable barrier comprised of zero-valent iron, hydro-fracking and soil heating.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+This is a highly controlled facility, with restricted access. The site is used for industrial activities.
+
+### Sampling and Monitoring
+
+The site has several hundred monitoring wells and groundwater extraction wells that are monitored on a regular basis. The site is currently implementing two direct-push Cone Penetrometer Testing (CPT) and sampling surveys: one in the Building 551 East and East Traffic Circle South source areas, and one in the Former Building 419 source area. There is also regular reevaluation of the inhalation risk for VOCs migrating from subsurface soil into indoor ambient air, including the sampling of a prioritized list of buildings.
+
+### Enforcement Information
+
+In 2008, DOE shut down or failed to repair 28 groundwater and soil vapor treatment facilities due to budget cuts. On Jan. 6, 2009 EPA took an enforcement action against DOE which was settled in March 2009. During 2009, DOE brought the shuttered facilities back into operational status.

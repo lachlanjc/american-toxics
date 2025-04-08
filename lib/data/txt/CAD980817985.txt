@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Gabriel Valley (Area 4) site is a five-square-mile area of contaminated groundwater in eastern Los Angeles County, California. It is one of four Superfund sites in the 170-square-mile San Gabriel Valley. Multiple potentially responsible parties (PRPs) contaminated over 30 square miles of groundwater under the Valley with volatile organic compounds (VOCs). About 400 facilities in the region have soil contamination. Remedial design and remedy construction activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and PRP actions.
+
+EPA has conducted two five-year reviews, in 2011 and 2016, of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent five-year review in 2016 concluded that EPA expects the remedy to be protective of human health and the environment upon completion. In the interim, remedial activities completed to date control exposure pathways that could result in unacceptable risks. Continued protectiveness of the remedy requires completion of the remedial design and remedial activities.
+
+### What Is the Current Site Status?
+
+To address groudwater contamination in the shallow and intermediate water-bearing zones within the "mouth-of-the-valley" area, EPA is using three separate but combined groundwater extraction and treatment systems.
+
+**Remedy Selected**
+
+*Shallow Zone:* The interim remedy or cleanup plan is being carried out by two work parties required to capture and reduce contaminated groundwater both north and south of Puente Creek. The Shallow Zone North cleanup plan, remedial design and remedial action is being carried out by Carrier Corporation under a federal consent decree and is curently under design to include extraction wells, water piplelines, a groundwater treatment facility, and disposal of treated water into either a local flood control channel or reinjection back into the groundwater. EPA plans to modify the cleanup plan in 2021 to include reinjection as an alternative end use option which could save $10M in overall costs of the interim remedy.
+
+The Shallow Zone South cleanup plan rand remedial action is being carried out by the Northrop Grumman Systems Corporation under a Unilateral Administrative Order and will include extraction wells, a treatment facility, and disposal of the treated water into a local flood control channel.
+
+*The Intermediate Zone* cleanup plan is also being carried out by Northrop Grumman and includes seven extraction wells, about 4 miles of pipeline, and groundwater treatment. A local water supplier will operate the state-of-the-art treatment facility capable of treating over 2 million gallons of water per day and distribute treated water to local users.
+
+Cleanup Progress
+
+*Shallow Zone:* PRPs have installed extraction wells and conducted additional investigation field activities. For the Shallow Zone South, pipeline and extraction well installation was completed in early 2021 and construction of the treatment plant system began in March 2021. For the Shallow Zone North, Carrier is conducting a pre-design investigation and installing additional groundwater monitoring wells to assess the current nature and extent of groundwater contamination north of Puente Creek. The design will begin after EPA selects reinjection as an alternative discharge option for treated water in 2021.
+
+*Intermediate Zone:* Northrop Grumman has completed installation of extraction wells and pipelines and is finishing construction on a water treatment plant.
+
+EPA expects construction activities for the Shallow Zone South and Intermediate Zone groundwater systems to be complete in 2022 and the Shallow Zone North in 2024. Once constructed, the three groundwater cleanup systems will operate for about 15 to 30 years.
+
+### Sampling and Monitoring
+
+Routine groundwater sampling is conducted annually in September. Comprehensive Groundwater Monitoring Reports are submitted in January of each year and are available for public review. Once the systems are operating, groundwater sampling and monitoring will increase to quarterly.

@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2,777-acre former Castle Air Force Base (CAFB) was originally the location of an aircrew training facility. Wastes generated were disposed of on site from 1941 until 1977, and the base was officially closed in 1995. Facility operations contaminated soil and groundwater with hazardous chemicals. Construction of the site’s long-term remedy finished in 2006, and the property was transferred to other governmental agencies, including Merced County. Currently, a commercial airport and a federal prison are located on the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The Air Force is the lead agency at the site; EPA and the State of California provide oversight. The Federal Facilities Agreement (FFA) for the site was signed in 1990.
+
+EPA and the Air Force have conducted several five-year reviews of the site’s remedies. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, completed in March 2019, concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. In order for the remedy to continue to be protective in the future, the Air Force is conducting additional investigations into the extent of [Per- and Polyfluoroalkyl Substances (PFAS)](https://www.epa.gov/pfas), https://www.epa.gov/pfas, a class of contaminants released into the enviroment from the historic use of Aqueous Film Forming Foam (AFFF). The Air Force is providing water supply to residences that have been impacted by PFAS, specifically perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA), that EPA has established health advisories for.
+
+### What Is the Current Site Status?
+
+The site was originally divided in to three operable units (OUs), two groundwater OUs (OU-1 and OU-2) and one soil OU. The soil OU is referred to as the Source Control Operable Unit (SCOU). The two groundwater OUs were later combined into one groundwater OU.
+
+**Cleanup Progress**
+
+Current remedial actions at CAFB include two groundwater pump-and-treat systems that treat water from multiple extraction wells, onesmaller point-source pump and treat system, which treats water from one extraction well, and two permanent landfill caps. A third impermeable cap at the former Fire Training Area (FTA) 1 site was also put in place to prevent exposure to soil contaminants and to maximize effectiveness of a soil vapor extraction system at that location. The landfills and FTA 1 site is monitored and maintained to ensure cap integrity.
+
+*Landfills:* The Air Force completed remediation of the Base's seven landfills under removal action authority. Landfill 2 and Castle Vista Landfills A and B were excavated during the fall of 1997 through the summer of 1998; Landfills 1 and 3 were excavated during the summer and fall of 1999. The excavated wastes were determined to be non-hazardous and disposed in on-site consolidation Landfills 4 and 5. Landfills 4 and 5 have been capped and will be monitored by the Air Force for a minimum of 30 years.
+
+*Removal Actions:* Cleanups have taken place on about 16 sites with soil contamination to expedite cleanup and property reuse. At three of those sites, the Firing Range, Skeet Shooting Range (ETC-10) and PCB sites, the Air Force excavated lead-contaminated soils from the former firing range in 1999; lead-contaminated soils from the former skeet shooting range in 1997; and polychlorinated biphenyl (PCB)-contaminated soils from PCB site 9 in 1998. Wastes containing lead at concentrations exceeding cleanup levels were transported for off-site disposal at an approved facility. All other wastes were disposed of on site at Landfills 4 and 5.
+
+*Groundwater Plumes:* Well abandonment and sealing for the East Base Plume iscomplete. Also, the monitoring of the plume at Landfill 1 is complete (the plume is no longer present in excess of cleanup levels), and the off-base Castle Vista groundwater remediation system has been completed and decommissioned. The AF is planning to discontinue and decommission the one remaining off-base wellhead treatment system. The two additional groundwater treatment systems are on-going, and groundwater is monitored on and off-the former CAFB on a semi-annual or annual basis by monitoring wells at various locations and depths to evaluate treatment progress. The AF is providing alternative water supply to residences that are impacted by perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA) and will complete additional investigations associated with the extent of these contaminants in groundwater.
+
+*Soil Vapor Extraction (SVE):* All SVE remedies have been completed.

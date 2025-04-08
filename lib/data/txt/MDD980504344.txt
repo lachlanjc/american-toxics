@@ -1,28 +1,44 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 38-acre Woodlawn County Landfill Superfund Site is located in Colora, Maryland near the intersection of Firetower Road and Waibel Road. A sand and gravel quarry operated on the site before it was purchased by Cecil County in 1960. The county operated a municipal landfill at the site from 1960 to 1978. Waste disposal operations filled the two quarry pits with agricultural, municipal, and industrial wastes. Between 1978 and 1981, after the landfill was closed to municipal waste, Firestone Tire & Rubber Company (now Bridgestone/Firestone, Inc.) disposed of polyvinyl chloride sludge in three segregated disposal cells. Waste disposal at the site contaminated soil, sediment, surface water, and groundwater. EPA added the site to the Superfund program's National Priorities List in July 1987. Following cleanup, long-term monitoring of the groundwater, surface water, landfill gas and the vegetative soil cover is ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party actions. The site’s long-term remedy included landfill capping, removing contaminated soils, monitoring groundwater and surface water, and placing restrictions on groundwater and the site property. Construction of the remedy finished in 2001 and is routinely monitored and maintained to ensure effectiveness. On December 28, 1988, two of the potentially responsible parties for the site, Bridgestone Americas Tire Operations, LLC (BATO) and Cecil County, entered into an Administrative Order of Consent with EPA to conduct a Remedial Investigation and Feasibility Study of the site. This Remedial Investigation looked at the types and extent of contamination at the site, and found that the groundwater was contaminated with vinyl chloride, 1,2-dichloroethane, pesticides, metals, and other volatile organic compounds above the Maximum Contaminant Levels, the limit for contaminants found in public drinking water supplies. The investigation also found mercury the soil at a level that was deemed to be a risk for the environment. EPA issued a Record of Decision in 1993 that selected a remedy to remove the soils contaminated with mercury, cap the landfill, and treat the groundwater to prevent migration of contaminants. EPA then issued an amendment to the Record of Decision in September 1999 to modify the original design of the selected remedy. This amendment addressed the fact that the groundwater was naturally reducing the concentration of contaminants. The modified remedy removed the extraction and treatment element of the original design, and instead required monitoring of the groundwater as it naturally becomes less contaminated. The main aspects of the remedy design from the 1993 Record of Decision, including the 1999 amendment, are to: 
-Construct a vegetated soil cover over the landfilled wastes
-Remove surface soils contaminated with mercury
-Continue to monitor the groundwater as it naturally becomes less contaminated
-Provide residents with an alternate water supply, if necessary
-Continue long-term monitoring and maintenance of the soil cover
-Implement institutional controls to prevent the installation of new drinking water wells at the site. 
-BATO constructed the remedy, including the removal of contaminated soil, constructing a cover system, sediment and erosion controls, etc., at the site beginning in March 2000 and completed work in June 2001. BATO compiles an annual report with details regarding monitoring and maintenance activity of the wetland and vegetated soil cover. EPA conducted quarterly landfill gas monitoring through September 2009. Based on a February 2010 report titled “Vapor Intrusion Evaluation, Woodlawn Landfill,” the landfill gas monitoring was adjusted to occur on an annual basis instead. In August 2016, EPA issued an Explanation of Significant Differences that would revise the required cleanup levels in the remedy for the groundwater. In the original 1993 Record of Decision, EPA chose cleanup levels that were more conservative when looking at the Maximum Contaminant Levels. This 2016 Explanation of Significant Differences acknowledges that there is a potential for multiple contaminants to become more toxic when they are found together. Therefore, the cleanup levels for six contaminants were adjusted to ensure long-term protection of human health and the environment. Top of Page
-What Is the Current Site Status?
-Following the construction of the cleanup remedy, long-term monitoring of the groundwater, surface water, landfill gas and the vegetative soil cover is ongoing. Eighteen of the original 20 groundwater contaminants of concern have achieved cleanup goals and EPA has discontinued routine sampling for these contaminants. The site is currently owned by Cecil County and is used as a grassy wildlife habitat. The 38-acre site and an adjacent 58-acre property are used as an environmental education center for local schools and is considered by EPA to be a reuse success story. This habitat area is called "New Beginnings, the Woodlawn Wildlife Habitat Area." Local schools, the Boy Scouts and Girl Scouts of America, and the local community use the area for nature and science projects, environmental education, and recreation. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, 2020 Fourth Five-Year Review (PDF), concluded that the remedy continues to be protective of human health and the environment. The monitoring data shows that the remedy is meeting cleanup objectives and with the help of institutional controls, construction at the site is being maintained well. The next five-year review is scheduled for 2025. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are in place to prevent drilling for installation of new drinking water wells on the site and prevent exposure to landfilled and capped waste. Additional information about the institutional controls are available in the 2020 FIve-Year Review (PDF) (pages 7-9). 
-Top of Page
+### Background
+
+The 38-acre Woodlawn County Landfill Superfund Site is located in Colora, Maryland near the intersection of Firetower Road and Waibel Road. A sand and gravel quarry operated on the site before it was purchased by Cecil County in 1960. The county operated a municipal landfill at the site from 1960 to 1978. Waste disposal operations filled the two quarry pits with agricultural, municipal, and industrial wastes. Between 1978 and 1981, after the landfill was closed to municipal waste, Firestone Tire & Rubber Company (now Bridgestone/Firestone, Inc.) disposed of polyvinyl chloride sludge in three segregated disposal cells. Waste disposal at the site contaminated soil, sediment, surface water, and groundwater. EPA added the site to the Superfund program's National Priorities List in July 1987. Following cleanup, long-term monitoring of the groundwater, surface water, landfill gas and the vegetative soil cover is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party actions.
+
+The site’s long-term remedy included landfill capping, removing contaminated soils, monitoring groundwater and surface water, and placing restrictions on groundwater and the site property. Construction of the remedy finished in 2001 and is routinely monitored and maintained to ensure effectiveness.
+
+On December 28, 1988, two of the potentially responsible parties for the site, Bridgestone Americas Tire Operations, LLC (BATO) and Cecil County, entered into an Administrative Order of Consent with EPA to conduct a Remedial Investigation and Feasibility Study of the site. This Remedial Investigation looked at the types and extent of contamination at the site, and found that the groundwater was contaminated with vinyl chloride, 1,2-dichloroethane, pesticides, metals, and other volatile organic compounds above the Maximum Contaminant Levels, the limit for contaminants found in public drinking water supplies. The investigation also found mercury the soil at a level that was deemed to be a risk for the environment.
+
+EPA issued a Record of Decision in 1993 that selected a remedy to remove the soils contaminated with mercury, cap the landfill, and treat the groundwater to prevent migration of contaminants. EPA then issued an amendment to the Record of Decision in September 1999 to modify the original design of the selected remedy. This amendment addressed the fact that the groundwater was naturally reducing the concentration of contaminants. The modified remedy removed the extraction and treatment element of the original design, and instead required monitoring of the groundwater as it naturally becomes less contaminated.
+
+The main aspects of the remedy design from the 1993 Record of Decision, including the 1999 amendment, are to:
+
+- Construct a vegetated soil cover over the landfilled wastes
+- Remove surface soils contaminated with mercury
+- Continue to monitor the groundwater as it naturally becomes less contaminated
+- Provide residents with an alternate water supply, if necessary
+- Continue long-term monitoring and maintenance of the soil cover
+- Implement institutional controls to prevent the installation of new drinking water wells at the site.
+
+BATO constructed the remedy, including the removal of contaminated soil, constructing a cover system, sediment and erosion controls, etc., at the site beginning in March 2000 and completed work in June 2001. BATO compiles an annual report with details regarding monitoring and maintenance activity of the wetland and vegetated soil cover.
+
+EPA conducted quarterly landfill gas monitoring through September 2009. Based on a February 2010 report titled “Vapor Intrusion Evaluation, Woodlawn Landfill,” the landfill gas monitoring was adjusted to occur on an annual basis instead.
+
+In August 2016, EPA issued an Explanation of Significant Differences that would revise the required cleanup levels in the remedy for the groundwater. In the original 1993 Record of Decision, EPA chose cleanup levels that were more conservative when looking at the Maximum Contaminant Levels. This [2016 Explanation of Significant Differences](http://semspub.epa.gov/src/document/03/2229907) acknowledges that there is a potential for multiple contaminants to become more toxic when they are found together. Therefore, the cleanup levels for six contaminants were adjusted to ensure long-term protection of human health and the environment.
+
+### What Is the Current Site Status?
+
+Following the construction of the cleanup remedy, long-term monitoring of the groundwater, surface water, landfill gas and the vegetative soil cover is ongoing. Eighteen of the original 20 groundwater contaminants of concern have achieved cleanup goals and EPA has discontinued routine sampling for these contaminants.
+
+The site is currently owned by Cecil County and is used as a grassy wildlife habitat. The 38-acre site and an adjacent 58-acre property are used as an environmental education center for local schools and is considered by EPA to be a reuse success story. This habitat area is called "New Beginnings, the Woodlawn Wildlife Habitat Area." Local schools, the Boy Scouts and Girl Scouts of America, and the local community use the area for nature and science projects, environmental education, and recreation.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent, [2020 Fourth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312265), concluded that the remedy continues to be protective of human health and the environment. The monitoring data shows that the remedy is meeting cleanup objectives and with the help of institutional controls, construction at the site is being maintained well. The next five-year review is scheduled for 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Institutional controls are in place to prevent drilling for installation of new drinking water wells on the site and prevent exposure to landfilled and capped waste. Additional information about the institutional controls are available in the [2020 FIve-Year Review (PDF)](https://semspub.epa.gov/src/document/03/2312265) (pages 7-9).

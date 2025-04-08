@@ -1,24 +1,27 @@
-BAY CITY MIDDLEGROUNDSBAY CITY, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 43-acre Bay City Middlegrounds Landfill site is located on Middleground Island in Bay City, Michigan. Bay City operated the landfill from 1956 to 1984. Waste disposal operations contaminated soil and groundwater with hazardous chemicals.  Michigan Department of the Environment, Great Lakes, and Energy (EGLE) is the lead agency currently conducting operation and maintenance activities at the site.  Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. To learn more, visit EGLE’s website.Exit Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy included containment of contaminated soil, treatment of contaminated groundwater, installation of a clay cap and leachate collection system, and ongoing groundwater monitoring. Construction of the remedy finished in 2004. Operation and maintenance activities are ongoing, updates can be found at EGLE’s websiteExit. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup. For more background, see Institutional Controls. Hazardous substances from the site have contaminated the groundwater and surface water. Contaminants found at the site at elevated concentrations include solvents, benzene, toluene, ethylbenzene, xylenes, polynucleic aromatics, phthalates, PCBs, pesticides, and heavy metals. Top of Page
-Sampling and Monitoring
-Current sampling activities can be found at EGLE’s website.Exit Top of Page
+### Background
+
+The 43-acre Bay City Middlegrounds Landfill site is located on Middleground Island in Bay City, Michigan. Bay City operated the landfill from 1956 to 1984. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. Michigan Department of the Environment, Great Lakes, and Energy (EGLE) is the lead agency currently conducting operation and maintenance activities at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. To learn more, visit [EGLE’s website.](https://www.michigan.gov/pfasresponse/0,9038,7-365-86511_95645-517781--,00.html)
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included containment of contaminated soil, treatment of contaminated groundwater, installation of a clay cap and leachate collection system, and ongoing groundwater monitoring. Construction of the remedy finished in 2004. Operation and maintenance activities are ongoing, updates can be found at [EGLE’s website](https://www.michigan.gov/pfasresponse/0,9038,7-365-86511_95645-517781--,00.html).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls.](https://www.epa.gov/superfund/superfund-institutional-controls)
+
+Hazardous substances from the site have contaminated the groundwater and surface water. Contaminants found at the site at elevated concentrations include solvents, benzene, toluene, ethylbenzene, xylenes, polynucleic aromatics, phthalates, PCBs, pesticides, and heavy metals.
+
+### Sampling and Monitoring
+
+Current sampling activities can be found at [EGLE’s website.](https://www.michigan.gov/pfasresponse/0,9038,7-365-86511_95645-517781--,00.html)

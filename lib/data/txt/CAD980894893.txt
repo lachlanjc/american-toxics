@@ -1,2 +1,29 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Fernando Valley (Area 1) site is a twenty-square-mile area of contaminated groundwater located primarily in North Hollywood and Burbank, California. The site is one of four Superfund sites in the San Fernando Valley. The Area 1 site has been further divided into operable units: the Burbank Operable Unit (BOU) located primarily in Burbank and south of the Burbank airport; and, the North Hollywood Operable Unit (NHOU) located to the west of the BOU.
+
+Numerous potentially responsible parties (PRPs) contaminated groundwater in the region with volatile organic compounds (VOCs), including trichloroethylene (TCE) and perchloroethylene (PCE). Cleanup, operation and maintenance activities, and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, municipal and PRP actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires modifications to the North Hollywood Area treatment system and addressing of chromium and dioxane effects on the remedy.  
+
+### What Is the Current Site Status?
+
+EPA separated the site into two areas to help manage and prioritize cleanup activities.
+
+*North Hollywood Area:* The interim remedy included groundwater pumping and treatment using aeration and granular activated carbon air filtering units, with discharge of the treated water to the Los Angeles Department of Water and Power’s pumping station. Construction of the remedy began in 1989 and operation is ongoing. As of 2008, the system had extracted and treated about eight billion gallons of VOC-contaminated groundwater.
+
+EPA later selected a second interim remedy to include well-head treatment for hexavalent chromium and 1,4-dioxane, expanded combined treatment operations and additional monitoring wells. EPA is currently proposing to update the remedy by allowing reinjection of treated groundwater into source areas.
+
+*Burbank Area:* The interim remedy included extraction and treatment of groundwater. The City of Burbank’s Public Service Department receives groundwater from the site blended with treated groundwater to reduce nitrate levels and distributes it to the public water supply system. Operation of the remedy began in 1996. Groundwater treatment has removed about 36 billion gallons of VOCs-contaminated groundwater and is ongoing.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Contaminants of concern are TCE, PCE, 1,4 dioxane, hexavalent chromium, and 1,2,3-TCP.

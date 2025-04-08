@@ -1,2 +1,13 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Monticello Mill Tailings (USDOE) site is located in Monticello, Utah. A vanadium mill operated on the property from 1942 until 1960. The mill produced uranium and vanadium for the U.S. nuclear weapons program. Milling activities generated thousands of cubic yards of ore tailings containing trace amounts of uranium. Milling activities and waste disposal practices contaminated soil, surface water and groundwater with heavy metals and radioactive constituents. Following cleanup, operation and maintenance activities are ongoing.  
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.  
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.  
+
+### What Is the Current Site Status?
+
+The U.S. Department of Energy (DOE) owns the site and leads cleanup activities under a Federal Facilities Agreement (FFA) with EPA and the state. The FFA specified the process by which decisions would be made for the cleanup and established cleanup goals. The long-term soil, tailings and debris remedy included construction of an on-site waste repository; excavation and placement of contaminated soil, sediment and materials in the repository; and institutional controls. The long-term groundwater and surface water remedy included construction of a permeable reactive-treatment wall for groundwater at the mill-site boundary; construction of two ex-situ treatment cells; bio-monitoring; institutional controls; groundwater monitoring; and extraction and treatment of contaminated groundwater. Remedy construction took place between 1991 and 2004. Groundwater treatment and monitoring are ongoing.

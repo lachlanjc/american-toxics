@@ -1,34 +1,51 @@
-WALKER MACHINE PRODUCTS, INC.COLLIERVILLE, TN 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Walker Machine Products, Inc. Superfund Site is in Collierville, Tennessee. Walker Machine manufactured precision fabricated metal products from the mid-1960s until about 2002. Cutting oils and chlorinated solvents (including tetrachloroethene (PCE), trichloroethene (TCE), and mineral spirits) were used in the operations. The used solvent was filtered to remove oil and metal shavings and stored in an above ground storage tank (AST) southeast of the manufacturing building after use. An oil/water separator (below ground tank) was also used by Walker and likely received the solvent waste. Spills and leaks of these solvents resulted in contamination of subsurface soil and groundwater in some areas beneath the site.
-The Site was listed on the National Priorities List (NPL) in 2014.
-Top of Page
-What Has Been Done to Clean Up the Site?
-2014
-EPA began the Remedial Investigation in 2014 to determine the nature and extent of the contamination. EPA and the Tennessee Department of Environment and Conservation (TDEC) performed the initial sampling at the Site to determine if contamination posed a potential threat. Soil, groundwater, vapor intrusion, surface water and sediment samples were collected as part of the Remedial Investigation. Contaminants of concern (COCs) were found in soil, groundwater, and indoor air; no COCs were identified in surface water and sediment. 2015-2018
-EPA installed a subslab vent system under the main building onsite to address indoor air issues in the short term. EPA installed a slab vent system under the main building in 2015 to address vapor intrusion. The vapor intrusion resulted from the presence of VOCs in soil under the building. EPA plans to perform the cleanup in three phases, starting with the remedy for the UZ. In 2018, EPA issued the cleanup plan (Record of Decision, or ROD). The remedy addresses volatile organic compounds (including trichloroethene and tetrachloroethene) that are present in soil, groundwater, and indoor air. The major components of the selected remedy for each of the three contaminated media zones (CMZs) are presented below. Unsaturated Soil Zone (UZ): Thermally Enhanced Soil Vapor Extraction (TE-SVE) with Limited Air Sparging 
-SVE extraction wells to address contaminated soil under the building and south of the building at depths between 5 to 55 feet below land surface (bls).
-Thermal enhancement (as needed) with heater wells spaced about 25-ft apart to heat unsaturated soil from 5 to 55 feet bls.
-Air sparging wells to address the highest levels of shallow groundwater contamination (about 70 feet bls) which is found just south of the building.
-A trailer-mounted SVE system (with blower, air/fluid separation, and vapor phase carbon), and a trailer-mounted air sparge system with air compressor.
-Targeted soil excavation (about 900 cubic yards) near the oil/water separator, the drum area, and near SE comer of building. 
-Saturated Soil Zone (SSZ): Biogeochemical Reductive Dehalogenation (BiRD) 
-Installation of injection wells and groundwater recovery wells with screen intervals from about 50 to 75 ft bls.
-Injection/recirculation using carbon substrate and iron sulfate during the initial injection period. Subsequent injections would be performed as needed.
-An equipment trailer with air stripping, bag filtration, granulated active carbon (GAC for water treatment prior to reinjection. 
-Dilute Plume (DP): Enhanced in-situ Bioremediation (EISB) via Passive Barrier Wells and a Horizontal Well. 
-Installation of injection wells about 60 to 85 ft bls along the west boundary of the Site and a horizontal (directionally drilled) well under the adjacent downgradient property about 73 ft bls.
-Injection emulsified oil (or similar carbon substrate) and other amendments including pH adjustments, if necessary. 
-2019-2020
-EPA worked on the design for the first phase of the remedy. Top of Page
-What Is the Current Site Status?
-EPA plans to perform the cleanup in three phases, starting with the remedy for the unsaturated soil zone (UZ). The effectiveness of the first phase will determine if the subsequent phases are necessary. EPA's contractors mobilized to the Site in late March for site preparation. The approximate schedule for this work is shown below:          April 2024: Limited excavation of soil          May thru August 2024: Installation of Soil Vapor Extraction (SVE) and air sparging equipment          August 2024 thru September 2026: Operation of SVE and air sparging systems Top of Page
+### Background
+
+The Walker Machine Products, Inc. [Superfund](http://www.epa.gov/superfund) Site is in Collierville, Tennessee.
+
+Walker Machine manufactured precision fabricated metal products from the mid-1960s until about 2002. Cutting oils and chlorinated solvents (including tetrachloroethene (PCE), trichloroethene (TCE), and mineral spirits) were used in the operations. The used solvent was filtered to remove oil and metal shavings and stored in an above ground storage tank (AST) southeast of the manufacturing building after use. An oil/water separator (below ground tank) was also used by Walker and likely received the solvent waste. Spills and leaks of these solvents resulted in contamination of subsurface soil and groundwater in some areas beneath the site.
+
+The Site was listed on the [National Priorities List (NPL)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-4) in 2014.
+
+### What Has Been Done to Clean Up the Site?
+
+**2014**  
+EPA began the Remedial Investigation in 2014 to determine the nature and extent of the contamination. EPA and the Tennessee Department of Environment and Conservation (TDEC) performed the initial sampling at the Site to determine if contamination posed a potential threat.
+
+Soil, groundwater, vapor intrusion, surface water and sediment samples were collected as part of the Remedial Investigation. Contaminants of concern (COCs) were found in soil, groundwater, and indoor air; no COCs were identified in surface water and sediment.
+
+**2015-2018**  
+EPA installed a subslab vent system under the main building onsite to address indoor air issues in the short term. EPA installed a slab vent system under the main building in 2015 to address vapor intrusion. The vapor intrusion resulted from the presence of VOCs in soil under the building.
+
+EPA plans to perform the cleanup in three phases, starting with the remedy for the UZ. In 2018, EPA issued the cleanup plan ( [Record of Decision](https://semspub.epa.gov/work/04/11111837.pdf), or ROD). The remedy addresses volatile organic compounds (including trichloroethene and tetrachloroethene) that are present in soil, groundwater, and indoor air. The major components of the selected remedy for each of the three contaminated media zones (CMZs) are presented below.
+
+*Unsaturated Soil Zone (UZ)*: Thermally Enhanced Soil Vapor Extraction (TE-SVE) with Limited Air Sparging
+
+- SVE extraction wells to address contaminated soil under the building and south of the building at depths between 5 to 55 feet below land surface (bls).
+- Thermal enhancement (as needed) with heater wells spaced about 25-ft apart to heat unsaturated soil from 5 to 55 feet bls.
+- Air sparging wells to address the highest levels of shallow groundwater contamination (about 70 feet bls) which is found just south of the building.
+- A trailer-mounted SVE system (with blower, air/fluid separation, and vapor phase carbon), and a trailer-mounted air sparge system with air compressor.
+- Targeted soil excavation (about 900 cubic yards) near the oil/water separator, the drum area, and near SE comer of building.
+
+*Saturated Soil Zone (SSZ)*: Biogeochemical Reductive Dehalogenation (BiRD)
+
+- Installation of injection wells and groundwater recovery wells with screen intervals from about 50 to 75 ft bls.
+- Injection/recirculation using carbon substrate and iron sulfate during the initial injection period. Subsequent injections would be performed as needed.
+- An equipment trailer with air stripping, bag filtration, granulated active carbon (GAC for water treatment prior to reinjection.
+
+*Dilute Plume (DP)*: Enhanced in-situ Bioremediation (EISB) via Passive Barrier Wells and a Horizontal Well.
+
+- Installation of injection wells about 60 to 85 ft bls along the west boundary of the Site and a horizontal (directionally drilled) well under the adjacent downgradient property about 73 ft bls.
+- Injection emulsified oil (or similar carbon substrate) and other amendments including pH adjustments, if necessary.
+
+**2019-2020**  
+EPA worked on the design for the first phase of the remedy.
+
+### What Is the Current Site Status?
+
+EPA plans to perform the cleanup in three phases, starting with the remedy for the unsaturated soil zone (UZ). The effectiveness of the first phase will determine if the subsequent phases are necessary. EPA's contractors mobilized to the Site in late March for site preparation. The approximate schedule for this work is shown below:
+
+April 2024: Limited excavation of soil
+
+May thru August 2024: Installation of Soil Vapor Extraction (SVE) and air sparging equipment
+
+August 2024 thru September 2026: Operation of SVE and air sparging systems

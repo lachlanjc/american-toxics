@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Rasmussen's Dump, 9040 Spicer Road, Brighton, Michigan was an unlicensed dump that accepted domestic and industrial wastes for disposal during the 1960s and early 1970s. The dump was never properly capped and "closed" prior to termination of operations. Sand and gravel mining, which began after closure in 1972, undermined the landfill and resulted in the redistribution of fill and drummed wastes. Improper approaches to disposal and storage of hazardous materials contaminated soil and groundwater.
+
+### What Has Been Done to Clean Up the Site?
+
+The site’s long-term cleanup included a solid waste landfill cap, in-place groundwater treatment, ozone treatment system, long-term monitoring, and limits on use of the site and site access. Operation and maintenance are ongoing.
+
+### What Is the Current Site Status?
+
+EPA completed a [review(PDF)](https://semspub.epa.gov/work/05/955432.pdf) (85pp,13.7MB, [About PDF](https://www.epa.gov/home/pdf-files) ) of the site's cleanup in March 2020. This type of review is required at least every five years where the cleanup is complete but hazardous waste remains managed on-site. These reviews are done to ensure that the cleanup continues to protect people and the environment. It was this site’s fifth five-year review.
+
+The review included an evaluation of:
+
+- Background information
+- Cleanup requirements
+- Effectiveness of the cleanup and any anticipated future actions
+- Maintenance and monitoring efforts
+- Possible ways of operating the site more efficiently
+
+The review found the cleanup continues to protect people and the environment. The next scheduled review will be in 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The primary site contaminants are trichloroethene and vinyl chloride in the groundwater.
+
+### Emergency Response and Removal
+
+Short-term cleanups between 1984 and 1990 addressed immediate threats to human health and the environment. Drums, waste and contaminated soil were removed. The state of Michigan installed a fence around the site to reduce the potential for people to come into contact with contaminated soil.

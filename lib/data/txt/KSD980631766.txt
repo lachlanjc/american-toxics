@@ -1,35 +1,115 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Obee Road Site consists of two OUs, The Landfill OU1 and the Airport Road OU2. The Record of Decision (ROD) for the Landfill Subsite was issued on June 30, 1994 by the EPA. The selected remedy for OU1 includes: ground water monitoring, landfill access restrictions, landfill deed restrictions, and a contingency for further action in the event that groundwater contamination increases in the future and is found to be migrating off-site at concentrations above the current Maximum Contaminant Levels (MCLs) under the Safe Drinking Water Act (SDWA) for aquifers which may be used for drinking water purposes. The ROD for the Airport Road Subsite was executed on September 27, 2007. The selected remedy for OU2 includes: multi-phase extraction (MPE) to remediate contaminated soil beneath the west wing of the manufacturing building at the East 4th Street Facility, hydraulic containment and active remediation of contaminated groundwater by air stripping and reverse osmosis technologies, disposal of wastewater to Class I disposal wells, beneficial use of the treated groundwater, groundwater monitoring, and institutional controls to prevent human exposure to contaminants (KDHE and EPA, 2007). Landfill Subsite: The landfill was operated from 1953 to 1968. The landfill was the only public disposal site in the Hutchinson area during that time period. During operation, the landfill received domestic wastes and unknown quantities and types of industrial wastes. Disposal practices at the landfill reportedly consisted of placing liquid and solid wastes into trenches excavated to a depth of 14 to 15 feet below ground surface. No records have been located that document the construction, operation, or closure of the landfill. Airport Road Subsite  The primary sources of contamination for the Airport Road Subsite are the East 4th Street Facility and the Farmland-Obee Road Site. Only low levels of contamination were detected at the Hutchinson Municipal Airport property. East 4th Street Facility - Cessna Aircraft Company operated as the Cessna Fluid Power Division at 3401 East 4th Avenue in Hutchinson between 1942 and 1988. The facility was used to manufacture military gliders, furniture, and industrial hydraulic components. Chlorinated solvents were used to manufacture hydraulic components. The primary solvent used at the facility was trichloroethene (TCE); however, smaller amounts of 1,1,1-trichloroethane (1,1,1-TCA) and tetrachloroethene (PCE) were also used. Solvents were stored in aboveground storage tanks (ASTs) and used in vapor degreasing pits. Cessna sold the manufacturing plant to Eaton Corporation in July 1988. Eaton manufactures hydraulic parts at the facility, including pumps, valves, and cylinders. Farmland-Obee Road Site – Big Chief Manufacturing Company manufactured metal trusses for buildings at 3501 East 4th Avenue in Hutchinson between 1949 and 1959. Farmland Industries, Inc., purchased the facility in 1959. Between 1959 and 1986, Farmland used the facility to manufacture steel buildings, grain bins, hog feeders, bulk feed tanks, calf feeders, stock tanks, farm gates, and other miscellaneous farm supplies. Chemicals used at the Farmland Steel Fabricating Plant included paint, paint thinners, motor oil, and degreasers. The degreaser used at the facility was a caustic-based surfactant called Oakite 5. In 1986, Farmland sold all of the machinery used at the plant and leased the building to Jackson Ice Cream and Republic Paperboard. In 2000, Farmland sold the property to Go Investments LLC. Farmland declared bankruptcy in 2002. The warehouse was used as a storage facility between 2000 and 2006. Currently, the property is leased by Superior Boiler Works, Inc., and is used to manufacture industrial boilers. Airport Road Subsite of the Obee Road Superfund Site – The portion of the Airport Road Subsite located north of 4th Avenue is occupied by the Hutchinson Municipal Airport and commercial buildings. The airport began operating in 1928. In 1943, the United States Navy made improvements to the airport infrastructure and used the airport as a naval air station until the 1950s. Wells Aircraft, Inc., an aircraft maintenance and storage company, occupies a portion of the western part of the airport property along Airport Road.  Top of Page
-What Has Been Done to Clean Up the Site?
-Landfill (OU1) The ROD for the Landfill Subsite was issued on June 30, 1994 by the EPA. The remedial action objectives (RAOs) are: Monitor so as to detect future groundwater contamination, if it occurs, before it migrates off the Landfill Subsite. If contamination is detected, a remedial response action will be implemented to contain and treat the groundwater contamination as well as minimize public access and prevent future development of the Landfill Subsite, thereby minimizing disturbance of both the surface soils and landfilled materials. Airport Road (OU 02) The ROD for the Airport Road Subsite was executed on September 27, 2007. RAOs for the Airport Road Subsite are: Reduce the mass of contaminants in soil beneath the west wing of the manufacturing building at the East 4th Street Facility to reduce the timeframe for groundwater remediation, minimize the potential exposure to soil vapors, prevent or minimize exposure to contaminants in groundwater by ingestion, dermal contact, and inhalation of contaminated vapors (through showering), prevent migration of contaminants to un-impacted areas and prevent further degradation of the aquifer, permanently and significantly reduce mobility, toxicity, or volume of contaminants through treatment to restore the aquifer to its most beneficial use, and minimize the potential exposure to contaminated vapors through vapor intrusion into residences above the contaminant plume. The city of Hutchison connected affected residents to the public water supply. EPA provided an alternate water supply to a property next to the landfill. An interim groundwater pump-and-treat system controlled and treated contaminated groundwater at the landfill subsite. Top of Page
-What Is the Current Site Status?
-Obee Road, Airport Road Subsite: KDHE (BER and BOW) and City of Hutchinson recently discussed options for extraction well RW-4 due to filter fouling issues it is causing at the reverse osmosis treatment plant.  The City decided to explore the option of piping the water from RW-4 directly to the Class I disposal wells.  Indoor air sampling continues at the west wing of the former Cessna manufacturing plant. Annual groundwater monitoring reports continues as scheduled. Obee Road Landfill Subsite Received the annual groundwater monitoring report. Sent letters to residents for the private well results. Annual arsenic sampling event was conducted in June. Farmland-Obee Road: KDHE awarded the PFAS sampling work to GSI Engineering. GSI submitted a draft work plan for testing existing wells for PFAS by Method 1633. Semiannual groundwater monitoring events for VOCs have been conducted as scheduled. The fifth Five-Year Review was finalized and signed on 12/8/2020. Issues & Recommendations for fifth FYR: OU1: Issue: Arsenic is present in wells and there is inadequate data to determine whether it is attributed to the landfill. Recommendation: Conduct additional characterization to determine landfill attribution to arsenic monitoring well exceedances and determine whether CERCLA response actions are warranted. Milestone:9/30/23 - Work is in progress OU2: Issue: Subs-lab soil gas levels are above screening levels for TCE at the industrial buildings at 3401 and 3405 East 4th Avenue. Recommendation: The O&M plan was updated October 1, 2018, to ensure the property owners are contacted on a semiannual basis to determine whether the buildings will become occupied. If the vacant manufacturing buildings at the East 4th Street Facility are to become occupied in the future, indoor air testing would be conducted to verify mitigation is not necessary to protect human health. In addition, periodic inspection of the concrete floor or other aspects of the building construction or air handling systems will be conducted to identify conditions that could increase the potential for vapor intrusion to occur. Milestone:4/30/21 - Work has been completed. OU2: Issue: Modify EUCAs for industrial properties at 3401 and 3405 East 4th Avenue. Recommendation: Due to the potential for vapor intrusion, modify the EUCAs to require notifications to KDHE of changes to the building foundations, structures, or air handling systems to identify the need for additional testing for the vapor intrusion pathway. Milestone: 9/30/21 - Work has been completed. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-The remedial action objectives (RAOs) for the Landfill are to: - monitor so as to detect future groundwater contamination, if it occurs, before it migrates off the Landfill Subsite. If contamination is detected, a remedial response action will be implemented to contain and treat the groundwater contamination.
-- minimize public access and prevent future development of the Landfill Subsite, thereby minimizing disturbance of both the surface soils and landfilled materials. The remedial action at the Landfill Subsite consists of institutional controls, access controls, and annual groundwater monitoring for VOCs (EPA 1994). Modifications to the existing soil cover were not required as part of the selected remedy. Deed restrictions were put in place to prevent the following actions: excavation at the landfill without proper notification to KDHE and implementation of proper safety controls; rezoning of the landfill property; and consumptive use of groundwater. Access to the Landfill Subsite is controlled by the presence of a security fence. The RAOs for the Airport Road Subsite are to:
-- reduce the mass of contaminants in soil beneath the west wing of the manufacturing building at the East 4th Street Facility to reduce the timeframe for groundwater remediation;
-- minimize the potential exposure to soil vapors;
-- prevent or minimize exposure to contaminants in groundwater by ingestion, dermal contact, and inhalation of contaminated vapors (through showering);
-- prevent migration of contaminants to unimpacted areas and prevent further degradation
-of the aquifer;
-- permanently and significantly reduce mobility, toxicity, or volume of contaminants through treatment to restore the aquifer to its most beneficial use; and
-- minimize the potential exposure to contaminated vapors through vapor intrusion into residences above the contaminant plume. Institutional controls included the following:
-- restriction on installing new consumptive-use wells in contaminated areas. Groundwater use restrictions were already in effect through the Reno County Sanitation Code’s prohibition on installing new consumptive-use wells in areas where groundwater
-contamination exists.
-- provision of groundwater treatment or an alternate source of drinking water to current or future residents that are determined to be using groundwater for consumptive use in the area.
-- an annual inspection program to identify changes in land use and zoning in impacted areas and evaluate the need for supplemental measures to protect human health and the environment. Top of Page
-Sampling and Monitoring
-Monitoring at the site continues annually for the landfill and semiannually for the Airport Rd. The city has been very active and cooperative with the state and EPA to ensure all measures are taken to protect human health and the environment. The most recent Five-Year Review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment. Operations and maintenance (O&M) at the Landfill Subsite consists of groundwater monitoring, and maintenance and upkeep of the closed landfill, monitoring wells, and security fence. The city has not reported any significant problems with the O&M phase of the project; however, growth of trees and brush within the landfill has become a problem which the city is trying to address as funds become available. The U.S. Department of Agriculture (USDA) Wildlife Service is working with the city to help to address wildlife that could interfere with airport operations. A component of the plans to address the wildlife problem includes removal of trees and brush that provide habitat for wildlife. For the Airport Road, the city operates and maintains the groundwater extraction wells. The water from the extraction wells is piped to the municipal water treatment plant located at 23rd and Severance, and wastewater from the treatment plant is piped to Class I disposal wells near the intersection of Halstead Road and Highway 50. During the five-year review period, the city replaced extraction well RW-3 after discovering casing corrosion of the casing was discovered. The new well, RW-4, was installed and became operational in 2012. The water pumped from RW-2 and RW-3/RW-4 makes up approximately 22 percent of the city water supply. The city staff report that more maintenance on the extraction wells has been needed due to fouling of the well screens with iron bacteria. Electrical problems were experienced with the pump for extraction well RW-2 due to wiring problems and lightning damage but these problems have been resolved. The city has also reported two instances where excavation contractors damaged portions of the remediation system pipeline and the extraction wells had to be shut down temporarily until repairs were completed. Top of Page
+### Background
+
+The Obee Road Site consists of two OUs, The Landfill OU1 and the Airport Road OU2.
+
+The Record of Decision (ROD) for the Landfill Subsite was issued on June 30, 1994 by the EPA. The selected remedy for OU1 includes: ground water monitoring, landfill access restrictions, landfill deed restrictions, and a contingency for further action in the event that groundwater contamination increases in the future and is found to be migrating off-site at concentrations above the current Maximum Contaminant Levels (MCLs) under the Safe Drinking Water Act (SDWA) for aquifers which may be used for drinking water purposes.
+
+The ROD for the Airport Road Subsite was executed on September 27, 2007. The selected remedy for OU2 includes: multi-phase extraction (MPE) to remediate contaminated soil beneath the west wing of the manufacturing building at the East 4th Street Facility, hydraulic containment and active remediation of contaminated groundwater by air stripping and reverse osmosis technologies, disposal of wastewater to Class I disposal wells, beneficial use of the treated groundwater, groundwater monitoring, and institutional controls to prevent human exposure to contaminants (KDHE and EPA, 2007).
+
+Landfill Subsite:
+
+The landfill was operated from 1953 to 1968. The landfill was the only public disposal site in the Hutchinson area during that time period. During operation, the landfill received domestic wastes and unknown quantities and types of industrial wastes. Disposal practices at the landfill reportedly consisted of placing liquid and solid wastes into trenches excavated to a depth of 14 to 15 feet below ground surface. No records have been located that document the construction, operation, or closure of the landfill.
+
+Airport Road Subsite
+
+The primary sources of contamination for the Airport Road Subsite are the East 4th Street Facility and the Farmland-Obee Road Site. Only low levels of contamination were detected at the Hutchinson Municipal Airport property. East 4th Street Facility - Cessna Aircraft Company operated as the Cessna Fluid Power Division at 3401 East 4th Avenue in Hutchinson between 1942 and 1988. The facility was used to manufacture military gliders, furniture, and industrial hydraulic components. Chlorinated solvents were used to manufacture hydraulic components. The primary solvent used at the facility was trichloroethene (TCE); however, smaller amounts of 1,1,1-trichloroethane (1,1,1-TCA) and tetrachloroethene (PCE) were also used. Solvents were stored in aboveground storage tanks (ASTs) and used in vapor degreasing pits. Cessna sold the manufacturing plant to Eaton Corporation in July 1988. Eaton manufactures hydraulic parts at the facility, including pumps, valves, and cylinders.
+
+Farmland-Obee Road Site – Big Chief Manufacturing Company manufactured metal trusses for buildings at 3501 East 4th Avenue in Hutchinson between 1949 and 1959. Farmland Industries, Inc., purchased the facility in 1959. Between 1959 and 1986, Farmland used the facility to manufacture steel buildings, grain bins, hog feeders, bulk feed tanks, calf feeders, stock tanks, farm gates, and other miscellaneous farm supplies. Chemicals used at the Farmland Steel Fabricating Plant included paint, paint thinners, motor oil, and degreasers. The degreaser used at the facility was a caustic-based surfactant called Oakite 5. In 1986, Farmland sold all of the machinery used at the plant and leased the building to Jackson Ice Cream and Republic Paperboard. In 2000, Farmland sold the property to Go Investments LLC. Farmland declared bankruptcy in 2002. The warehouse was used as a storage facility between 2000 and 2006. Currently, the property is leased by Superior Boiler Works, Inc., and is used to manufacture industrial boilers.
+
+Airport Road Subsite of the Obee Road Superfund Site – The portion of the Airport Road Subsite located north of 4th Avenue is occupied by the Hutchinson Municipal Airport and commercial buildings. The airport began operating in 1928. In 1943, the United States Navy made improvements to the airport infrastructure and used the airport as a naval air station until the 1950s. Wells Aircraft, Inc., an aircraft maintenance and storage company, occupies a portion of the western part of the airport property along Airport Road.
+
+### What Has Been Done to Clean Up the Site?
+
+Landfill (OU1)
+
+The ROD for the Landfill Subsite was issued on June 30, 1994 by the EPA. The remedial action objectives (RAOs) are: Monitor so as to detect future groundwater contamination, if it occurs, before it migrates off the Landfill Subsite. If contamination is detected, a remedial response action will be implemented to contain and treat the groundwater contamination as well as minimize public access and prevent future development of the Landfill Subsite, thereby minimizing disturbance of both the surface soils and landfilled materials.
+
+Airport Road (OU 02)
+
+The ROD for the Airport Road Subsite was executed on September 27, 2007. RAOs for the Airport Road Subsite are: Reduce the mass of contaminants in soil beneath the west wing of the manufacturing building at the East 4th Street Facility to reduce the timeframe for groundwater remediation, minimize the potential exposure to soil vapors, prevent or minimize exposure to contaminants in groundwater by ingestion, dermal contact, and inhalation of contaminated vapors (through showering), prevent migration of contaminants to un-impacted areas and prevent further degradation of the aquifer, permanently and significantly reduce mobility, toxicity, or volume of contaminants through treatment to restore the aquifer to its most beneficial use, and minimize the potential exposure to contaminated vapors through vapor intrusion into residences above the contaminant plume.
+
+The city of Hutchison connected affected residents to the public water supply. EPA provided an alternate water supply to a property next to the landfill. An interim groundwater pump-and-treat system controlled and treated contaminated groundwater at the landfill subsite.
+
+### What Is the Current Site Status?
+
+Obee Road, Airport Road Subsite:
+
+KDHE (BER and BOW) and City of Hutchinson recently discussed options for extraction well RW-4 due to filter fouling issues it is causing at the reverse osmosis treatment plant. The City decided to explore the option of piping the water from RW-4 directly to the Class I disposal wells.
+
+Indoor air sampling continues at the west wing of the former Cessna manufacturing plant.
+
+Annual groundwater monitoring reports continues as scheduled.
+
+Obee Road Landfill Subsite
+
+Received the annual groundwater monitoring report.
+
+Sent letters to residents for the private well results.
+
+Annual arsenic sampling event was conducted in June.
+
+Farmland-Obee Road:
+
+KDHE awarded the PFAS sampling work to GSI Engineering.
+
+GSI submitted a draft work plan for testing existing wells for PFAS by Method 1633.
+
+Semiannual groundwater monitoring events for VOCs have been conducted as scheduled.
+
+The fifth Five-Year Review was finalized and signed on 12/8/2020.
+
+Issues & Recommendations for fifth FYR:
+
+OU1: Issue: Arsenic is present in wells and there is inadequate data to determine whether it is attributed to the landfill.
+
+Recommendation: Conduct additional characterization to determine landfill attribution to arsenic monitoring well exceedances and determine whether CERCLA response actions are warranted.
+
+Milestone:9/30/23 - Work is in progress
+
+OU2: Issue: Subs-lab soil gas levels are above screening levels for TCE at the industrial buildings at 3401 and 3405 East 4th Avenue.
+
+Recommendation: The O&M plan was updated October 1, 2018, to ensure the property owners are contacted on a semiannual basis to determine whether the buildings will become occupied. If the vacant manufacturing buildings at the East 4th Street Facility are to become occupied in the future, indoor air testing would be conducted to verify mitigation is not necessary to protect human health. In addition, periodic inspection of the concrete floor or other aspects of the building construction or air handling systems will be conducted to identify conditions that could increase the potential for vapor intrusion to occur.
+
+Milestone:4/30/21 - Work has been completed.
+
+OU2: Issue: Modify EUCAs for industrial properties at 3401 and 3405 East 4th Avenue.
+
+Recommendation: Due to the potential for vapor intrusion, modify the EUCAs to require notifications to KDHE of changes to the building foundations, structures, or air handling systems to identify the need for additional testing for the vapor intrusion pathway.
+
+Milestone: 9/30/21 - Work has been completed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The remedial action objectives (RAOs) for the Landfill are to:
+
+\- monitor so as to detect future groundwater contamination, if it occurs, before it migrates off the Landfill Subsite. If contamination is detected, a remedial response action will be implemented to contain and treat the groundwater contamination.  
+\- minimize public access and prevent future development of the Landfill Subsite, thereby minimizing disturbance of both the surface soils and landfilled materials.
+
+The remedial action at the Landfill Subsite consists of institutional controls, access controls, and annual groundwater monitoring for VOCs (EPA 1994). Modifications to the existing soil cover were not required as part of the selected remedy. Deed restrictions were put in place to prevent the following actions: excavation at the landfill without proper notification to KDHE and implementation of proper safety controls; rezoning of the landfill property; and consumptive use of groundwater. Access to the Landfill Subsite is controlled by the presence of a security fence.
+
+The RAOs for the Airport Road Subsite are to:  
+\- reduce the mass of contaminants in soil beneath the west wing of the manufacturing building at the East 4th Street Facility to reduce the timeframe for groundwater remediation;  
+\- minimize the potential exposure to soil vapors;  
+\- prevent or minimize exposure to contaminants in groundwater by ingestion, dermal contact, and inhalation of contaminated vapors (through showering);  
+\- prevent migration of contaminants to unimpacted areas and prevent further degradation  
+of the aquifer;  
+\- permanently and significantly reduce mobility, toxicity, or volume of contaminants through treatment to restore the aquifer to its most beneficial use; and  
+\- minimize the potential exposure to contaminated vapors through vapor intrusion into residences above the contaminant plume.
+
+Institutional controls included the following:  
+\- restriction on installing new consumptive-use wells in contaminated areas. Groundwater use restrictions were already in effect through the Reno County Sanitation Code’s prohibition on installing new consumptive-use wells in areas where groundwater  
+contamination exists.  
+\- provision of groundwater treatment or an alternate source of drinking water to current or future residents that are determined to be using groundwater for consumptive use in the area.  
+\- an annual inspection program to identify changes in land use and zoning in impacted areas and evaluate the need for supplemental measures to protect human health and the environment.
+
+### Sampling and Monitoring
+
+Monitoring at the site continues annually for the landfill and semiannually for the Airport Rd. The city has been very active and cooperative with the state and EPA to ensure all measures are taken to protect human health and the environment. The most recent Five-Year Review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+Operations and maintenance (O&M) at the Landfill Subsite consists of groundwater monitoring, and maintenance and upkeep of the closed landfill, monitoring wells, and security fence. The city has not reported any significant problems with the O&M phase of the project; however, growth of trees and brush within the landfill has become a problem which the city is trying to address as funds become available. The U.S. Department of Agriculture (USDA) Wildlife Service is working with the city to help to address wildlife that could interfere with airport operations. A component of the plans to address the wildlife problem includes removal of trees and brush that provide habitat for wildlife.
+
+For the Airport Road, the city operates and maintains the groundwater extraction wells. The water from the extraction wells is piped to the municipal water treatment plant located at 23rd and Severance, and wastewater from the treatment plant is piped to Class I disposal wells near the intersection of Halstead Road and Highway 50. During the five-year review period, the city replaced extraction well RW-3 after discovering casing corrosion of the casing was discovered. The new well, RW-4, was installed and became operational in 2012. The water pumped from RW-2 and RW-3/RW-4 makes up approximately 22 percent of the city water supply. The city staff report that more maintenance on the extraction wells has been needed due to fouling of the well screens with iron bacteria. Electrical problems were experienced with the pump for extraction well RW-2 due to wiring problems and lightning damage but these problems have been resolved. The city has also reported two instances where excavation contractors damaged portions of the remediation system pipeline and the extraction wells had to be shut down temporarily until repairs were completed.

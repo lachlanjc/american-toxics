@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The former Advanced Micro Devices, Inc. 901/902 Thompson Place Superfund Site (Site) covers 6 acres in Sunnyvale, California. AMD designed and fabricated semiconductor devices at two adjoined low-rise buildings at the Site between 1969 and 1992. Groundwater beneath the site is contaminated by volatile organic compounds (VOCs), including trichloroethene (TCE). Two below-ground acid neutralization system (ANS) tank vaults were located at the northern and southern ends of the 901 and 902 Thompson Place buildings, respectively. Leaks from these ANS tanks appears to be the primary on-site source of VOCs to groundwater in this area. The two tanks were removed in 1983 and 1984 and the impacted soil was excavated and transported to a disposal facility. The property was sold and redeveloped in 2007 as a self-storage facility.  
+  
+The Site neighbors multiple other sites, including: the TRW Microwave Superfund Site (TRW Site); the AMD 915 DeGuigne Drive Superfund Site (AMD 915 Site); and the Philips Semiconductor Site (Philips Site; formerly Signetics Inc.), which includes the properties at 811 Arques Avenue, 440 North Wolfe Road, and facilities along Stewart Drive. The Mohawk Laboratories Site (a State-lead site) is located to the south of the Site.  
+  
+The Site is part of the “Triple Site,” which also includes the TRW Site, the Philips Site, and an “Off-site Operable Unit” (OOU), where a commingled plume of contaminants from the other three sites is located. This plume consists of VOCs, including TCE, and extends from these sites more than a mile north in Sunnyvale to past Highway 101. Four schools and more than 1,000 homes are located in the OOU, where vapor intrusion sampling and mitigation is ongoing.  
+  
+The Site is listed on the National Priorities List (NPL) and covered by a 1991 Record of Decision (ROD) for the Triple Site. The four OUs for the Triple Site are as follows:  
+(1) The AMD 901/902 Site OU;  
+(2) The Philips Site OU;  
+(3) The TRW Microwave Site OU; and  
+(4) The Companies Offsite Operable Unit (OOU), a commingled plume of contaminants which originated from the other three operable units (and has contributions from other sites in the area).  
+  
+At the time of adoption of the 1991 ROD, the OOU was defined as a 100-acre area, downgradient and north of the Triple Site in an area bounded by the Sunnyvale East Drainage Channel on the west and Santa Paula Avenue on the east, and as the area inside a 5 micrograms per liter (µg/L) isopleth for trichloroethene (TCE) in groundwater. Over 1,200 residences and 4 schools are present within the OOU. The closest residence is approximately 2,000 feet north of the Site.  
+  
+Drinking water in this area is not affected by the groundwater contamination. In this part of Sunnyvale, drinking water comes from the Hetch Hetchy Reservoir in the Sierra Nevada Mountains, and is tested regularly to ensure that it meets all applicable state and federal drinking water standards.
+
+### What Has Been Done to Clean Up the Site?
+
+**Initial Actions**
+
+Immediate Actions: After the two acid neutralization tanks were removed, AMD excavated and disposed of soil impacted with VOCs, and installed a groundwater extraction and treatment system. Extracted groundwater was treated with air stripping technology followed by carbon adsorption.
+
+**Cleanup Ongoing**
+
+Under State supervision, AMD completed an investigation determining the nature and extent of contamination at the Site. EPA selected a cleanup remedy in late 1991, which called for excavating contaminated soil, continuing the operation of the existing groundwater extraction and treatment system, and installing new wells at the leading edge of the off-Site commingled plume. Excavation of the soil and well installation were completed in late 1992.  
+  
+The groundwater extraction and treatment system began operating in 1983 and continued through 2002, when it was discontinued with State approval to allow for an in-situ bioremediation (ISB) pilot test. The full-scale ISB system, which was initially pilot-tested from 2002 through 2004, and then expanded in 2005, includes groundwater treatment by carbon filtration and injection of an organic carbon source to stimulate the growth of naturally-occurring microbes that break down target VOCs into environmentally-benign end products.
+
+### What Is the Current Site Status?
+
+Construction of all cleanup remedies selected in the original cleanup plan for the Site have been completed. The removal of underground tanks and contaminated soil, the previous operation of the groundwater treatment system, and the ongoing operation of the in-situ bioremediation (ISB) system are helping to keep contaminant levels within acceptable limits and preventing the spread of contaminants.
+
+The Sixth Five-Year Review was completed in September 2024, and concluded that the remedy at the AMD Site currently protects human health and the environment because exposure pathways for soil and groundwater are controlled and there is no evidence of unacceptable vapor intrusion risk for the current commercial land use. However, in order for the remedy to be protective in the long-term, soil gas and sewer gas investigations are needed to further evaluate site conditions, update the conceptual site model, and update the focused feasibility study. Additionally, based on Triple Site outdoor air study findings, further investigation is needed to evaluate if potential volatilization to outdoor air from the AMD subsurface source is influencing the outdoor air TCE concentrations onsite. Finally, EPA should select a revised groundwater remedy for the AMD Site, as the groundwater extraction and treatment system, a key element of the remedy selected in the 1991 Record of Decision, is no longer operating. The revised remedy should also address vapor intrusion in the event of future land use changes, as vapor intrusion evaluation was limited in the 1991 Record of Decision. Also a new environmental covenant should be recorded.
+
+A copy of the Sixth Five-Year Review can be found [here](https://semspub.epa.gov/work/09/100038437.pdf).
+
+### Sampling and Monitoring
+
+Vapor intrusion sampling and mitigation work is ongoing in the nearby neighborhood overlying the trichloroethene (TCE) groundwater plume.
+
+### Enforcement Information
+
+The Responsible Party for the AMD 901-902 Thompson Place Site is Advanced Micro Devices, Inc. Vapor intrusion sampling and mitigation work in nearby homes and schools is being conducted under an Administrative Order on Consent between EPA and Philips Semiconductors, Inc., one of the other Responsible Parties for the Triple Site.

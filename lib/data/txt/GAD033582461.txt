@@ -1,23 +1,37 @@
-ALTERNATE ENERGY RESOURCES INCAUGUSTA, GA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 2.6-acre Alternate Energy Resources Inc., Superfund site is located at 2736 Walden Drive, Augusta, Richmond County, Georgia. Alternate Energy Resources (AER) operated a commercial hazardous waste storage and treatment facility at the site from 1975 to 2000. Operations included blending materials for use as fuel, treating and recycling wastes. Operations did not recycle all wastes and released some wastes into the ground, storm sewer and basins on site.  AER declared bankruptcy in 2000. The Site includes the area where a commercial hazardous waste storage and treatment facility operated from 1975 to 2000.  The site also includes an area of contaminated groundwater south of the site property boundary. Abbott Oil Company borders the site to the north, a CSX rail line borders the site to the south, and industrial and commercial land uses border the site to the east and west. The U.S. Environmental Protection Agency placed the site on the Superfund program’s National Priorities List (NPL) in 2006 because of contaminated soil and groundwater resulting from facility operations. EPA, the Georgia Environmental Protection Division (Georgia EPD)Exit and the Alternate Energy Resources (AER) PRP Group, the site’s potentially responsible parties (PRPs), have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. By conducting cleanup activities, EPA, Georgia EPD and the site’s PRPs continue to protect people and the environment from contamination. Top of Page
-What Has Been Done to Clean Up the Site?
-AER PRP Group, the site’s PRPs, lead investigation and cleanup activities, with oversight provided by EPA and Georgia EPD. 2000
-Georgia EPD led initial cleanup activities in 2000. Georgia EPD ordered the removal of 499 drums, residual waste from tanks, accumulated precipitation from the containment systems, tanks and piping, an abandoned tanker truck and chemicals from an on-site laboratory. Georgia EPD disposed of contaminated materials off site. 2010
-EPA issued the Record of Decision (ROD) for the site. It included using low-level heat to pull contamination from soil; using chemicals on site to break down soil contamination; mixing soil with a solidifying reagent; adding hydrogen to groundwater on site to help break down groundwater contamination; monitoring groundwater and the site property; and placing institutional controls on the site property. 2011
-Site PRPs began cleanup plan design. 2013
-The design and remedial action work plan for soil were approved in August 2013. Soil cleanup began in September 2013 and finished in December 2013. Top of Page
-What Is the Current Site Status?
-The most recent Five Year Review was published by EPA HQs in 2017. The remedy currently protects human health and the environment because contaminated soil has been excavated, treated, replaced with clean fill and vegetated, and site access is restricted with a fence. Groundwater treatment has reduced contaminant concentrations and is ongoing. In addition, the surrounding community is connected to a public water supply. The remedial action for the soil is complete. All groundwater injections have been completed. 
-Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws. EPA successfully negotiated financial obligations with the PRPs.  As a result, the PRPs will provide financing investigation and cleanup costs. Top of Page
+### Background
+
+The 2.6-acre Alternate Energy Resources Inc., [Superfund](http://www.epa.gov/superfund) site is located at 2736 Walden Drive, Augusta, Richmond County, Georgia. Alternate Energy Resources (AER) operated a commercial hazardous waste storage and treatment facility at the site from 1975 to 2000. Operations included blending materials for use as fuel, treating and recycling wastes. Operations did not recycle all wastes and released some wastes into the ground, storm sewer and basins on site. AER declared bankruptcy in 2000.
+
+The Site includes the area where a commercial hazardous waste storage and treatment facility operated from 1975 to 2000. The site also includes an area of contaminated groundwater south of the site property boundary. Abbott Oil Company borders the site to the north, a CSX rail line borders the site to the south, and industrial and commercial land uses border the site to the east and west.
+
+The U.S. Environmental Protection Agency placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2006 because of contaminated soil and groundwater resulting from facility operations.
+
+EPA, the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/) and the Alternate Energy Resources (AER) PRP Group, the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination. By conducting cleanup activities, EPA, Georgia EPD and the site’s PRPs continue to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+AER PRP Group, the site’s PRPs, lead investigation and cleanup activities, with oversight provided by EPA and Georgia EPD.
+
+**2000**  
+Georgia EPD led initial cleanup activities in 2000. Georgia EPD ordered the removal of 499 drums, residual waste from tanks, accumulated precipitation from the containment systems, tanks and piping, an abandoned tanker truck and chemicals from an on-site laboratory. Georgia EPD disposed of contaminated materials off site.
+
+**2010**  
+EPA issued the [Record of Decision (ROD)](https://semspub.epa.gov/src/document/04/10746297) for the site. It included using low-level heat to pull contamination from soil; using chemicals on site to break down soil contamination; mixing soil with a solidifying reagent; adding hydrogen to groundwater on site to help break down groundwater contamination; monitoring groundwater and the site property; and placing institutional controls on the site property.
+
+**2011**  
+Site PRPs began cleanup plan design.
+
+**2013**  
+The design and remedial action work plan for soil were approved in August 2013. Soil cleanup began in September 2013 and finished in December 2013.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11095147.pdf) was published by EPA HQs in 2017. The remedy currently protects human health and the environment because contaminated soil has been excavated, treated, replaced with clean fill and vegetated, and site access is restricted with a fence. Groundwater treatment has reduced contaminant concentrations and is ongoing. In addition, the surrounding community is connected to a public water supply.
+
+The remedial action for the soil is complete. All groundwater injections have been completed.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA successfully negotiated financial obligations with the PRPs. As a result, the PRPs will provide financing investigation and cleanup costs.

@@ -1,2 +1,63 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Libby Ground Water Contamination site (also called the Libby Groundwater site) is in Libby in Lincoln County, Montana. A lumber and plywood mill operated at the site between 1946 and 1969. Mill operations included treating wood with creosote, pentachlorophenol (commonly referred to as PCP) and other chemicals. Spills and disposal practices at the site contaminated soil and groundwater, with hazardous chemicals. In 1979, EPA discovered PCP contamination in well water at a nearby home. Cleanup, operation and maintenance activities and groundwater monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, and potentially responsible party actions.
+
+The EPA has done six five-year reviews at the site. These reviews make sure that the remedies put in place protect human health and the environment, and work as intended by site decision documents.
+
+The [recent review, finished in July 2020 (pdf)](https://semspub.epa.gov/src/document/08/100008206) (65 pgs, 9 MB), found that the remedy for OU1, components to reduce or eliminated human exposure to contaminated groundwater as an interim remedy, is short-term protective. However, for the remedy to be protective in the long term, it must include additional institutional controls to stop use of contaminated groundwater outside of the city limits.
+
+The review also found that the remedy for OU2, contaminated soil and groundwater aquifers, is short-term protective. However, for the remedy to be protective in the long term, it must include these additional actions:
+
+- Put in additional institutional controls to control land use and activities that may interfere with remedial activities in all areas with waste left in it.
+- Change groundwater [ARARs](https://www.epa.gov/superfund/applicable-or-relevant-and-appropriate-requirements-arars) in a decision document.
+- Assess risk-based cleanup levels and left over dirt contamination.
+- Appropriately change the remedy to make sure it is meeting its goals (Remedial Action Objectives).
+
+### What Is the Current Site Status?
+
+EPA divided the site into two sections, called operable units (OUs).
+
+- OU1 includes components to reduce or eliminated human exposure to contaminated groundwater as an interim remedy.
+- OU2 is the affected environment, including contaminated soil and groundwater.
+	- The upper aquifer of the groundwater plume is ~15 – 70 feet below the surface (shown in purple).
+	- The lower aquifer is ~105 - 160 feet below the surface (shown in teal).
+	- The upper and lower aquifers are separated by a silt and clay layer.
+
+[![Site Map](https://usepa.sharepoint.com/sites/OSWER_Work/SFCEF/SuperfundImages/0800412_site_map_for_spp.jpg)](https://semspub.epa.gov/src/document/08/100015372)
+
+Operable Unit 1 – Remediation Complete
+
+EPA chose an [interim remedy for OU1 in 1986 (pdf)](https://semspub.epa.gov/src/document/08/1050944) (84 pgs, 3.62). The interim remedy included Champion’s Buy Water Plan, in which Libby residents were given money for using the municipal water supply for irrigation and drinking water in place of contaminated private water wells. It also included an ordinance preventing the installation of new water wells for drinking water or irrigation in the upper and lower aquifer within Libby’s city limits. This remedial action concluded in November 1986.
+
+#### Operable Unit 2 – Remediation Ongoing in Upper Aquifer
+
+EPA selected a [long-term remedy for OU2 in 1988 (pdf)](https://semspub.epa.gov/src/document/08/1050945) (129 pgs, 7 MB). It included:
+
+- Digging up contaminated dirt and moving it to be treated in a land treatment unit (LTU)
+- Institutional controls
+- In-place bioremediation of contaminants (using microorganisms to cleanup contamination) in the saturated zone of the waste pit area
+- Extraction and treatment of groundwater and oils
+- In-place enhanced bioremediation (using microorganisms to cleanup contamination) of upper aquifer groundwater
+- Long-term monitoring
+
+The OU2 remedy also included an interim remedy for the lower aquifer. It required a pilot test to determine if enhanced bioremediation of the lower aquifer, both alone and along with oil recovery and dispersion techniques, is an effective method of cleanup. A [1993 update to the remedy (pdf)](https://semspub.epa.gov/src/document/08/1050938) (11 pgs, 133 KB) includes a “technical impracticability waiver” and selected institutional controls and groundwater monitoring as the final remedy for lower aquifer groundwater. The technical impracticability waiver means that EPA determined that remediation of the lower aquifer was technically infeasible, that remediation of the lower aquifer may result in greater risk to human health and the environment, and that the lower aquifer plume was stable. Construction of the OU2 remedy, including excavation and treatment of soils as well as contaminated groundwater extration and treatment began in October 1989 and finished in September 1993. Operation and maintenance activities and groundwater monitoring are ongoing.
+
+Following the rejection of a technical impracticability request for the upper aquifer in 2009, International Paper (IP), the current potentially responsible party, did further investigations at the site to see if there was new technology to better clean up contamination in the upper aquifer. IP completed the [focused feasibility study (FFS) in 2018 (pdf)](https://semspub.epa.gov/src/document/08/100006158) (402 pgs, 52 MB). The FFS gathered new data and evaluated appropriate technologies. Once the EPA and Montana DEQ got the FFS, they chose the most appropriate remedy to continue cleanup of the upper aquifer. The remedy was a more aggressive application of In-Situ Bioremediation (ISB) (on-site use of microorganisms to cleanup contamination). The remedy was proposed to the public in a [2019 proposed plan (pdf)](https://semspub.epa.gov/src/document/08/100006685) (13 pgs, 2 MB) and presented in a public meeting in 2019. During this public meeting, people commented on the proposed plan. After considering public comments, the EPA released an [amended Record of Decision in 2020 (pdf)](https://semspub.epa.gov/src/document/08/100007576) (59 pgs, 4 MB) that selected and explained the new remedial path forward for the upper aquifer.
+
+EPA expects all elements of the new remedy for the upper aquifer to be in place by the fall of 2025. EPA will begin detailed monitoring once the remedy is running to see how well it removes contamination in the source area.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Several institutional controls are currently in place to stop people from drinking the contaminated groundwater and stop people from touching, breathing, or eating the contaminated dirt.
+
+A city ordinance is currently in place that stops the digging of new wells and the use of groundwater inside city limits.
+
+A restrictive covenant is in place on the former International Paper property deed that stops people from doing things that would disturb contaminated source areas or areas where treatment is happening.

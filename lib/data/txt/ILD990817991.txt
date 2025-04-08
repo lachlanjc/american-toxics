@@ -1,19 +1,19 @@
-GALESBURG/KOPPERS CO.GALESBURG, IL 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 105-acre Galesburg/Koppers Co. site is located in a rural area along Illinois Route 41 two miles south of Galesburg, Illinois. An active wood-treating facility on site treats "green" railroad ties with heat, pressure, creosote and coal tar. Past operations have also included pentachlorophenol (PCP) and fuel oil in the mix. The facility has been in operation since 1907. Past waste disposal practices contaminated soil and groundwater at and around the site. Following cleanup, operation and maintenance activities (O&M) are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions. Illinois EPA, with EPA concurrence, selected the site’s long-term remedy in 1989. It included biological treatment to address contaminated soil and pumping and treatment for contaminated groundwater. Contaminated soil was excavated and successfully treated. The agencies updated the remedy in 2001 to change the groundwater remedy to an in-place treatment approach. Illinois EPA and EPA have conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, completed in September 2020, concluded that response actions at the site are in accordance with the selected remedy and that the remedy continues to be protective of human health and the environment. 
-Top of Page
-What Is the Current Site Status?
-Illinois EPA and EPA recently completed the fifth five-year review of the selected cleanup action at site. The report was completed on September 14, 2020. A final copy of the report was placed in the site’s local document repository, located at the Galesburg Public Library, and is also available online, Fifth Five-Year Review (PDF) (54 pp, 3.73MB, About PDF). The review concluded that the site remedy is currently protective of human health and the environment. Top of Page
-Sampling and Monitoring
-As part of its O&M responsibilities, the PRP submits to EPA a summary of results from site-wide groundwater sampling that it conducts annually. The most recent completed summary can be found in the AECOM - 2019 Annual Report (PDF) (07/27/2020) (114 pp, 7.59MB, About PDF). Top of Page
+### Background
+
+The 105-acre Galesburg/Koppers Co. site is located in a rural area along Illinois Route 41 two miles south of Galesburg, Illinois. An active wood-treating facility on site treats "green" railroad ties with heat, pressure, creosote and coal tar. Past operations have also included pentachlorophenol (PCP) and fuel oil in the mix. The facility has been in operation since 1907. Past waste disposal practices contaminated soil and groundwater at and around the site. Following cleanup, operation and maintenance activities (O&M) are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+Illinois EPA, with EPA concurrence, selected the site’s long-term remedy in 1989. It included biological treatment to address contaminated soil and pumping and treatment for contaminated groundwater. Contaminated soil was excavated and successfully treated. The agencies updated the remedy in 2001 to change the groundwater remedy to an in-place treatment approach.
+
+Illinois EPA and EPA have conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review, completed in September 2020, concluded that response actions at the site are in accordance with the selected remedy and that the remedy continues to be protective of human health and the environment.
+
+### What Is the Current Site Status?
+
+Illinois EPA and EPA recently completed the fifth five-year review of the selected cleanup action at site. The report was completed on September 14, 2020. A final copy of the report was placed in the site’s local document repository, located at the Galesburg Public Library, and is also available online, [Fifth Five-Year Review (PDF)](https://semspub.epa.gov/src/document/05/960743) (54 pp, 3.73MB, [About PDF](https://www.epa.gov/home/pdf-files) ). The review concluded that the site remedy is currently protective of human health and the environment.
+
+### Sampling and Monitoring
+
+As part of its O&M responsibilities, the PRP submits to EPA a summary of results from site-wide groundwater sampling that it conducts annually. The most recent completed summary can be found in the [AECOM - 2019 Annual Report (PDF)](https://semspub.epa.gov/src/document/05/2003017) (07/27/2020) (114 pp, 7.59MB, [About PDF](https://www.epa.gov/home/pdf-files) ).

@@ -1,2 +1,97 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Luke Air Force Base (LAFB) is an active military installation located west of Phoenix. The base covers approximately 4,000 acres west of Glendale, Arizona. Its primary mission is to provide advanced flight training to fighter pilots. The current and future land use for LAFB is expected to remain an active Air Force Base.
+
+LAFB was listed on the National Priorities List (NPL) in 1990. On September 27, 1990, the EPA, Arizona Department of Environmental Quality (ADEQ), Arizona Department of Water Resources (ADWR), and the Air Force signed a Federal Facility Agreement (FFA) to establish the framework for conducting the required environmental investigations at LAFB. The FFA identified potential sources of contamination, which were divided into two operable units, OU-1 and OU-2. OU-1 investigated soil, air, surface water, and groundwater. OU-2 investigated areas where petroleum-related wastes impacted soil. Discharges and waste disposal practices at LAFB resulted in soil and possible groundwater contamination. Following cleanup, EPA took the site off the Superfund program’s NPL in 2002. Though LAFB was delisted from the NPL, hazardous substances, pollutants, and/or contaminants remain at the site above levels for unlimited use and unrestricted exposure. Five-Year Reviews are conducted to evaluate the performance of remedies at LAFB and whether they continue to protect human health and the environment.
+
+In 2015, Air Force conducted a preliminary assessment of Fire Training Areas (FTA) and non-FTA sites at LAFB to identify areas of potential environmental releases of per-and polyfluoroalkyl substances (PFAS) from AFFF storage and usage areas. From the areas identified in the preliminary assessment, 20 were recommended for a site investigation, which was initiated in 2017. From the 2017 site investigation, the Air Force identified four areas to be advanced to the Remedial Investigation (RI). The RI is investigating soil, sediment, surface water, and groundwater at LAFB and offsite. The analytes currently being investigated include perfluorooctanoic acid (PFOA), perfluorooctane sulfonic acid (PFOS) and perfluorobutanesulfonic acid (PFBS).
+
+The Air Force also conducted an expanded site investigation in 2019, which identified drinking water wells within a 4-mile distance downgradient of Luke AFB and the Wastewater Treatment Plant.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+The site participated in the Installation Restoration Program, a specially funded program established by the Department of Defense (DoD) in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities. A Federal Facilities Agreement to conduct the site cleanup was signed in September 1990.
+
+Though the site was deleted from the National Priorities List (NPL) in 2002, some remedies left waste in place to be monitored and/or placed restrictions on future use and development on the site. These sites are included in Five-Year Reviews to evaluate whether the selected remedy remains protective of human health and the environment. These reviews are repeated every five years as long as future users remain restricted. Sites included in the last Five-Year Review include: Site-DP-23, Old Surface Impoundment West of Facility 993; Site ST-18, Former Liquid Waste Storage Facility (Facility 993); Site DP-13, Drainage Ditch Disposal Area; Site FT-07E, North Fire Training Area – East; Site LF-03, Outboard Runway Landfill; Site LF-14, Old Salvage Yard Burial Site; Site LF-25, Northwest Landfill; Site RW-02, Wastewater Treatment Plant Annex Landfill; Site SD-20, Oil/Water Separator Canal and Earth Fissure; Site SD-38, Oil/Water Separator at the Old Auto Body Shop; and Site SS-42, Bulk Fuels Storage Area.
+
+In the last few years, the Air Force has submitted several Explanation of Significant Difference reports to document changes in the remedy. The sites and Explanation of Significant Difference reports are summarized below.
+
+**Site DP-13, Drainage Ditch Disposal Area**
+
+Site DP-13 was the location of a drainage ditch which was used for general refuse disposal. It was then filled and covered when the base was deactivated in 1946.
+
+In 1991, test pits were excavated to characterize the extent and contents of anomalies identified in a geophysical survey. Samples collected from TP-12 at 5 feet below ground surface contacted chromium at 15,900 milligrams per kilogram (mg/kg) and lead at 36,000 mg/kg, which exceeded residential screening levels.
+
+The OU-1 Record of Decision outlined that the remedy for DP-13 included: land use controls to restrict the site to non-residential purposes and prevent future residential development of the site; regulation of work practices that require the use of personal protective equipment when performing excavation at the site; and development and maintenance of an Institutional Control Plan that would provide guidance to personnel responsible for implementing the remedy.
+
+In 2015, LAFB collected additional soil samples and developed a RACR in 2016 concluding the site was eligible for unlimited use and unrestricted exposure. However, EPA requested that additional contaminants needed to be sampled prior to making this determination.
+
+In 2022, an Explanation of Significant Difference report modifying the contaminant of concern list was submitted and approved.
+
+**Site FT-07E, North Fire Training Area – East**
+
+Site FT-07E was used as a former fire training area between 1973 and 1989. The fire training area had three bermed pits where fire training exercises were conducted and aqueous film forming foam was used.
+
+The 1999 OU-1 Record of Decision identified total recoverable petroleum hydrocarbons and arsenic in soil and lead in groundwater. The selected remedy included constraints on future residential development of the site, a land use control measure to restrict land usage to non-residential and the development of an Institutional Control Plan.
+
+In 2015, LAFB identified that historic arsenic levels in soil did not exceed the current Arizona Residential Soil Remediation Level (R-SRL) and the historic lead in groundwater did not exceed the current AWQS. Polyaromatic hydrocarbons (PAHs) were identified as a data gap and additional sampling was conducted in 2015. PAH detections were identified below Arizona R-SRLs. In 2017, EPA requested additional VOC sampling and these results were also below Arizona R-SRLs.
+
+In 2020, an Explanation of Significant Differences report was submitted and approved, stating that VOCs and petroleum-related contaminants associated with total recoverable petroleum hydrocarbons (TRPH) did not pose an unacceptable risk to human health and the environment at FT-07E.
+
+**Site RW-02, Wastewater Treatment Plan Annex Landfill**
+
+Site RW-02 is located at a former 28-acre landfill at the LAFB wastewater treatment plant annex, 2 miles east of the main base. Site RW-02 served as the main landfill for disposal of refuse from 1953-1970. A small unknown quantity of low-level radioactive electron tubes and dials were buried at the site in 1956 based on a historic drawing. The estimated area of suspected buried waste was 400 square feet. The suspected buried waste was believed to have been encased in concrete and disposed in a pit 12 feet deep with 4 feet of concrete cover and 6 feet of earth cover.
+
+The OU-1 remedial investigation and risk assessment indicated that contaminant concentrations were not high enough to cause unacceptable risks to human health and the environment under current land use scenarios; however, the presence of low-level radiological waste limits potential future land use. The 1999 OU-1 Record of Decision selected institutional controls as the remedy. The institutional controls included a land use restriction of the site to non-residential purposes; constraints on future residential development of the site; design/implementation of a radiological monitoring program; installation of perimeter fencing to provide a barrier that prevents direct exposure and inadvertent disturbance of the area; and development and maintenance of a plan to document the institutional controls.
+
+In 2019, LAFB conducted characterization excavation activities. Soil and landfill refuse were found during the excavation, but the concrete encased buried radiological waste was not identified. Radiation surveys were consistent with background levels. EPA expressed concern that though the 400 square foot area of suspected buried radiological waste did not contain radiological waste, it could be located elsewhere within the 28 acres.
+
+In 2020, LAFB wrote an Explanation of Significant Differences report to describe the difference between the selected remedy in the Record of Decision and the revised remedy. Annual radiological monitoring was removed, and land use controls were extended across the entire 28-acre area rather than the 400 square foot area.
+
+**Site SD-20, Oil/Water Separator Canal and Earth Fissure**
+
+SD-20 is located at the southern portion of LAFB. The site includes an unlined canal that originated at an oil/water separator and is part of the main storm sewer drainage system for the industrial portion of the base. Sampling in the late 1980s and early 1990s identified benzo(pyrene), TRPH, arsenic, and beryllium as contaminants of concern. The 1997 Basewide Risk Assessment indicated that other contaminants of concern were not present at concentrations high enough to cause unacceptable risk to human health and the environment under current land use scenarios (military/industrial) or in the unlikely event the site is converted to residential use. The 1999 OU-1 Record of Decision did not select a remedy but did identify benzo(a)pyrene, TRPH, arsenic, and beryllium in surficial and subsurface soil. Lead and arsenic were identified as contaminants of concern in groundwater.
+
+Contaminants of concern were re-evaluated in 2018. Benzo(a)pyrene and volatile organic compounds (measured instead of TRPH) were below the established Arizona R-SRLs. Beryllium and arsenic were identified to be within background levels. Lead and arsenic did not exceed the current AWQS and were below the minimum Groundwater Protection Level, which demonstrated that there was no potential to impact groundwater. A 2020 Explanation of Significant Differences was developed stating that the historic contaminants of concern were no longer of concern and stated that the site was suitable for no further action and unlimited use and unrestricted exposure.
+
+**Site SD-38, Oil/Water Separator at the Old Auto Body Shop**
+
+Site SD-38 is in the northeast part of LAFB. This area includes two oil/water separators, one with walls and floor constructed of concrete and another constructed of concrete with no floor installed. The contaminants of concern included arsenic, beryllium, lead, and TRPH in soil. Institutional controls were selected as the remedy in the 1999 OU-1 Record of Decision. The institutional controls included a land use restriction to non-residential purposes, constraints on future residential development of the site, and development and maintenance of a plan to document the institutional controls.
+
+The contaminants of concern were re-evaluated. Arsenic and beryllium were identified to be within the range of naturally occuring background concentrations. LAFB calculated the 95% Chebyshev Upper Confidence Limit for soil samples collected from 0-10 feet below ground surface as there was no conclusive information of the depth of excavation. This depth represents the soils most likely to come into human contact. The result calculated was less than the Arizona R-SRL and led to the determination that lead does not pose an unacceptable risk in soils. LAFB also collected additional soil samples to test for VOCs, which were below the Arizona R-SRL. A 2020 Explanation of Significant Differences was developed and approved stating that the historic contaminants of concern were no longer of concern and that no further action was needed.
+
+**Site SS-42, Bulk Fuels Storage Area**
+
+Site SS-42 was used as a bulk fuel terminal from prior to 1954-present. It is located northeast of LAFB and consists of a former leaking underground storage tank that was part of an oil/water separator system. A documented release from the oil/water separator prompted an environmental investigation. The OU-1 Record of Decision remedy included installation and operation of a soil vapor extraction (SVE) system to remediate fuel-impacted soils and required monitoring of soil and groundwater to confirm the effectiveness of SVE remediation and potential migration of contaminants of concern from soil to groundwater.
+
+Though the risk assessment determined that contaminants detected were not high enough to cause adverse health effects under current land use scenarios or residential land use scenarios, results of the vadose zone transport modeling indicated that TRPH and BTEX could migrate to groundwater. Groundwater monitoring was conducted annually until 2020. There were no exceedances of AWQS for six years and LAFB requested to terminate groundwater sampling. A 2022 Explanation of Significant Differences was developed stating that analytical data demonstrates that there is no impact to groundwater and the site can be closed with unlimited use and unrestricted exposure.
+
+### What Is the Current Site Status?
+
+This site was addressed in three stages: initial actions and two long-term remedial phases focused on cleanup of the site. The Air Force completed all activities necessary to achieve site cleanup completion at LAFB. Following cleanup, EPA took the site off the NPL in 2002. Despite deleting LAFB from the NPL in 2002, sites deleted from the NPL remain eligible for remedial actions if conditions warrant such action.
+
+As mentioned in the Background, in 2015, the Air Force began investigating the potential of PFAS contamination from AFFF use and storage at LAFB. Since then, the Air Force has identified one release area and three secondary release areas that are being investigated in a Remedial Investigation (RI). The RI is investigating soil, sediment, surface water, and groundwater at LAFB and offsite. The analytes currently being investigated include PFOA, PFOS and PFBS. Non-AFFF sources and an expanded PFAS analyte list will be investigated in the future.
+
+While sampling private drinking water wells between 2019 and 2021, the Air Force identified three properties with PFOS/PFOA concentrations higher than the 2016 USEPA Lifetime Health Advisory (LHA) level, which has since been retracted. In response to the concentrations exceeding the now retracted-2016 USEPA LHA, the Air Force conducted emergency removal and time-critical removal actions. The Air Force provided bottled water as an alternate source of water until the Air Force could connect the three affected properties to the public water system.
+
+In 2021, the Air Force collected samples from Valley Utilities Water Company (VUWCO) and Liberty Utilities wells located within one mile southwest (downgradient) of AFFF Release Area 4. Upon identification of PFOS/PFOA concentrations in three of five VUWCO wells above the now retracted-2016 USEPA LHA, the Air Force implemented an emergency response action by providing bottled water to affected customers. The time-critical removal action includes the installation of a temporary treatment system for the affected wells. This action is still underway.
+
+On March 14, 2023, EPA released proposed National Primary Drinking Water Regulations for six PFAS (PFOA, PFOS, PFHxS, PFBS, PFNA, GenX) to establish legally enforceable Maximum Contaminant Levels (MCLs). EPA is currently considering public comments on the National Primary Drinking Water Regulation. Additional information about the Proposed PFAS national Primary Drinking Water Regulation can be found here: https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas
+
+**Fifth-Five Year Review Protectiveness Determination**
+
+The Fifth Five-Year Review stated that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be long-term protective of human health and the environment. In 2022, EPA initially deferred making a protectiveness determination because additional time was needed for review. In 2023, EPA issued a letter stating that the EPA disagrees with the Air Force’s conclusion that the remedy is long-term protective as the Air Force is still investigating PFAS at LAFB and offsite. EPA ‘s independent protectiveness determination concluded that the remedies at LAFB are protective in the short-term. For the remedy to be protective in the long-term, PFAS exposure pathways that could result in unacceptable risks need to be identified and controlled by future selected remedies. EPA also expects the Air Force to investigate non-AFFF sources. The site’s Sixth Five-Year Review will be conducted in 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses, such as residential usess, that are not consistent with the level of cleanup. The institutional controls at Luke Air Force Base are designed to eliminate, to the extent possible, exposure pathways representing unacceptable risk to human health.
+
+For more background on insitutional controls, please see: [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The current and future land use for Luke Air Force Base is expected to remain an active Air Force Base.

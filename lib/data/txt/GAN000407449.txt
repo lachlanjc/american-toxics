@@ -1,55 +1,82 @@
-PEACH ORCHARD RD PCE GROUNDWATER PLUME SITEAUGUSTA, GA 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 350-acre Peach Orchard Road PCE Groundwater Plume Superfund site is located in Augusta, Georgia. It includes an area of groundwater contamination in a City of Augusta Utilities Department well field in the southern part of Augusta. The site is located in an area with multiple industries, including strip malls, dry cleaners, gas stations, auto salvage yards and automotive repair shops. Local neighborhoods include low-income and minority residents. Several schools are located above the contaminated ground water but have not been affected by the contamination. Residential and commercial land uses at the site are ongoing. EPA determined that four of nine area dry cleaners contributed to contamination in groundwater. EPA placed the site on the National Priorities List (NPL) in 2005 because of contaminated groundwater and soil. EPA and the Georgia Environmental Protection Division (Georgia EPD)Exit have investigated site conditions. By investigating and cleaning up the site, EPA and Georgia EPD continue to protect people and the environment from site contamination. The remedy currently protects human health and the environment because contaminated soil has been excavated or treated and the surrounding community is connected to a public water supply. Top of Page
-What Has Been Done to Clean Up the Site?
-2007
-The EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. It included: 
-treating groundwater on site through injecting chemicals called oxidants into groundwater and subsurface soil to break down contaminants,
-installing chemical injection points or temporary wells in the source area,
-sampling and analyzing groundwater collected from existing public drinking water wells and monitoring wells,
-using monitored natural attenuation to address groundwater contamination outside of the source area, and
-institutional controls. 
-The fund-lead remedial investigation and feasibility study (RI/FS) finished in September 2007. The RI found that four of the nine identified dry cleaners contributed to PCE contamination in the groundwater. 2013
-The EPA updated the remedy in March 2013 to address soil contamination discovered during the remedial design of the groundwater remedy. Major cleanup elements include: 
-soil vapor extraction (SVE) of the contaminated soil at One-Hour Cleanerizing, former Palmer’s Cleaners and K&D Dry Cleaners,
-treatment of the extracted vapor using a vapor-phase GAC treatment system,
-excavation of about 422 cubic yards of contaminated soil in the vacant lot located southeast of the former Palmer’s Cleaners, and
-transport and disposal of excavated material in a suitable landfill. 
-2017 The EPA completed in-situ chemical oxidation (ISCO) and/or in-situ enhanced anaerobic biodegradation (ISEB) injections at the former K&D, One-Hour, and Palmer's areas. The EPA identified an area of subsurface methane gas at the former Palmer's area in October 2017. 
-T﻿emporary soil gas probes were installed as close as possible to occupied buildings at the three properties where ISEB injections took place.
-Temporary vent wells were also installed at former Palmer's and One-Hour to evacuate methane from the subsurface.
-Indoor air was measured at nearby occuppied buildings.
-EPA continues to conduct methane monitoring at the site. 
-2021 The EPA published an Explanation of Significant Differences in August 2021 address changes to the 2007 ROD and 2013 AROD. Significant differences in the remedy include: 
-An explanation of why the implementation of ISCO at Former Taylor's Dry Cleaning is no longer necessary and
-Clarification to the maintain capture of plume remedial action objective (RAO) no longer being needed. 
-2023 A Vapor Intrusion Assessment was completed at K&D Cleaners, Former Palmer's, One Hour Cleanerizing, and surrounding businesses and residences. 
-Two soil gas samples presented a potentially unacceptable Vapor Intrusion Risk and are being further investigated.
-One duplicate crawl space sample at a residence showed exceedance of the Permissable Action Limit but is believed to have been a contaminated sampling canister due to the low result of the primary sample. This anomaly could not be confirmed due to EPA being unable to gain access at a later date.
-None of the indoor air or ambient air samples exceeded EPA's action levels. 
-2024 A Vapor Intrusion Mitigation System was installed under the former K&D Cleaners building out of an abundance of caution due to the building undergoing renovations. Top of Page
-What Is the Current Site Status?
-The most recent Five Year Review was published in 2023. The protectiveness determination was deferred due to Vapor Intrusion risk needing further investigation. A FYR Addendum will be published by August 2025. Groundwater treatment has reduced contaminant concentrations and remediation is ongoing. In addition, the surrounding community is connected to a public water supply and a local ordinance prohibits installing or using private wells. The EPA plans to conduct additional Vapor Intrusion sampling, installation of monitoring wells, and injection of a solution into the groundwater to aid in remaining contaminant breakdown in early 2025. 
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-A local ordinance prohibits installing or using private wells. Top of Page
-Sampling and Monitoring
+### Background
+
+The 350-acre Peach Orchard Road PCE Groundwater Plume [Superfund](http://www.epa.gov/superfund) site is located in Augusta, Georgia. It includes an area of groundwater contamination in a City of Augusta Utilities Department well field in the southern part of Augusta. The site is located in an area with multiple industries, including strip malls, dry cleaners, gas stations, auto salvage yards and automotive repair shops. Local neighborhoods include low-income and minority residents. Several schools are located above the contaminated ground water but have not been affected by the contamination. Residential and commercial land uses at the site are ongoing.
+
+EPA determined that four of nine area dry cleaners contributed to contamination in groundwater. EPA placed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2005 because of contaminated groundwater and soil. EPA and the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/) have investigated site conditions. By investigating and cleaning up the site, EPA and Georgia EPD continue to protect people and the environment from site contamination.
+
+The remedy currently protects human health and the environment because contaminated soil has been excavated or treated and the surrounding community is connected to a public water supply.
+
+### What Has Been Done to Clean Up the Site?
+
+**2007**  
+The EPA issued the cleanup plan (a [Record of Decision, or ROD](https://semspub.epa.gov/src/document/04/10451372) ) for the site. It included:
+
+- treating groundwater on site through injecting chemicals called oxidants into groundwater and subsurface soil to break down contaminants,
+- installing chemical injection points or temporary wells in the source area,
+- sampling and analyzing groundwater collected from existing public drinking water wells and monitoring wells,
+- using monitored natural attenuation to address groundwater contamination outside of the source area, and
+- institutional controls.
+
+The fund-lead remedial investigation and feasibility study (RI/FS) finished in September 2007. The RI found that four of the nine identified dry cleaners contributed to PCE contamination in the groundwater.
+
+**2013**  
+The EPA updated the remedy in March 2013 to address soil contamination discovered during the remedial design of the groundwater remedy. Major cleanup elements include:
+
+- soil vapor extraction (SVE) of the contaminated soil at One-Hour Cleanerizing, former Palmer’s Cleaners and K&D Dry Cleaners,
+- treatment of the extracted vapor using a vapor-phase GAC treatment system,
+- excavation of about 422 cubic yards of contaminated soil in the vacant lot located southeast of the former Palmer’s Cleaners, and
+- transport and disposal of excavated material in a suitable landfill.
+
+**2017**
+
+The EPA completed in-situ chemical oxidation (ISCO) and/or in-situ enhanced anaerobic biodegradation (ISEB) injections at the former K&D, One-Hour, and Palmer's areas.
+
+The EPA identified an area of subsurface methane gas at the former Palmer's area in October 2017.
+
+- Temporary soil gas probes were installed as close as possible to occupied buildings at the three properties where ISEB injections took place.
+- Temporary vent wells were also installed at former Palmer's and One-Hour to evacuate methane from the subsurface.
+- Indoor air was measured at nearby occuppied buildings.
+- EPA continues to conduct methane monitoring at the site.
+
+**2021**
+
+The EPA published an Explanation of Significant Differences in August 2021 address changes to the 2007 ROD and 2013 AROD. Significant differences in the remedy include:
+
+- An explanation of why the implementation of ISCO at Former Taylor's Dry Cleaning is no longer necessary and
+- Clarification to the maintain capture of plume remedial action objective (RAO) no longer being needed.
+
+**2023**
+
+A Vapor Intrusion Assessment was completed at K&D Cleaners, Former Palmer's, One Hour Cleanerizing, and surrounding businesses and residences.
+
+- Two soil gas samples presented a potentially unacceptable Vapor Intrusion Risk and are being further investigated.
+- One duplicate crawl space sample at a residence showed exceedance of the Permissable Action Limit but is believed to have been a contaminated sampling canister due to the low result of the primary sample. This anomaly could not be confirmed due to EPA being unable to gain access at a later date.
+- None of the indoor air or ambient air samples exceeded EPA's action levels.
+
+**2024**
+
+A Vapor Intrusion Mitigation System was installed under the former K&D Cleaners building out of an abundance of caution due to the building undergoing renovations.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/src/document/04/11189898) was published in 2023. The protectiveness determination was deferred due to Vapor Intrusion risk needing further investigation. A FYR Addendum will be published by August 2025. Groundwater treatment has reduced contaminant concentrations and remediation is ongoing. In addition, the surrounding community is connected to a public water supply and a local ordinance prohibits installing or using private wells.
+
+The EPA plans to conduct additional Vapor Intrusion sampling, installation of monitoring wells, and injection of a solution into the groundwater to aid in remaining contaminant breakdown in early 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A local ordinance prohibits installing or using private wells.
+
+### Sampling and Monitoring
+
 EPA conducts Annual Groundwater Monitoring across all 4 dry cleaner locations at the site.
-Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws. EPA was unsuccessful in locating and negotiating financial obligations with any viable PRPs. Cleanup activities at this site are “Fund Lead,” meaning they are paid through taxpayer funding. Top of Page
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA was unsuccessful in locating and negotiating financial obligations with any viable PRPs. Cleanup activities at this site are “Fund Lead,” meaning they are paid through taxpayer funding.

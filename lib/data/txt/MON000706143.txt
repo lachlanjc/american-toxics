@@ -1,2 +1,21 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Compass Plaza Well TCE Site is a contaminated groundwater plume affecting a cluster of wells in Rogersville, Missouri. An unidentified source contaminated a groundwater plume (an underground mass of contaminated water) underneath the Compass Plaza retail strip mall with trichloroethylene (TCE). Further sampling revealed TCE contamination in several private wells and two non-community public wells. Investigation and monitoring activities continue.
+
+### What Has Been Done to Clean Up the Site?
+
+In March 2010, the Missouri Department of Natural Resources investigated and found TCE in two non-community public wells and an irrigation well. In response to these detections, the MoDNR initiated a combined Preliminary Assessment/Site Investigation and started coordination with the EPA and Greene County Resource Management. Ongoing sampling by all three agencies revealed detectable concentrations of TCE in 13 of the 350 wells sampled. Of 13 wells with detections, five drinking water wells had TCE levels above the Maximum Contaminant Level (MCL) of 5 parts per billion (ppb).
+
+In August 2010, the EPA installed five water supply treatment systems at the private residences that had TCE contamination above the MCL of 5 parts per billion 5 ppb.
+
+In December 2010, the EPA, in cooperation with the MoDNR, Greene County Resources Management and the Natural Resources Service, plugged a well with high concentrations of TCE. These same agencies also oversaw the construction of a new drinking water well at the same location.
+
+Currently, the EPA has completed a Remedial Investigation at the site to determine the full extent of TCE contamination. A Potential Responsible Party has been identified and the EPA is currently working with them to complete a Feasibility Study to determine site cleanup measures. The evaluation of proposed remedies will take place before the proposed remedy is published for public comment and a decision is made.
+
+### What Is the Current Site Status?
+
+Currently, the EPA has completed a Remedial Investigation at the site to determine the full extent of TCE contamination. A Potential Responsible Party has been identified, and the EPA is currently working with them to complete a Feasability Study to determine site cleanup measures. The evaluation of proposed remedies will take place before the proposed remedy is published for public comment and a decision is made.
+
+### Sampling and Monitoring
+
+Sixteen groundwater monitoring wells have been installed in the Springfield and Ozark aquifers from 2014 - 2018 to supplement data collected from private and public well sampling to help define the extent of VOCs in the groundwater. Underlying the site is extensive karst topography. Most regional private and public water wells obtain their water from the underlying Ozark aquifer with the Springfield aquifer being the uppermost water bearing unit. The Springfield and Ozark acquifers are interconnected through faults in the confining unit. The intent of monitoring well installation in the Springfield is to evaluate the degree and extent of VOC contamination in this water-bearing unit that may also impact the underlying Ozark aquifer.

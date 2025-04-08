@@ -1,2 +1,40 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4.5-acre Hi-Mill Manufacturing Company site is located in Highland Township, Michigan.
+
+Hi-Mill Manufacturing Company began manufacturing tubular aluminum, brass fittings, copper tubing, and other parts in 1946. Manufacturing processes included the use of nitric and sulfuric acid for brightening solutions; chromic acid for parts washing; caustic soda for neutralizing non-recycled process waters; and, chlorinated solvents for degreasing. Before shipping completed tubing components, the parts were degreased by placing them in mesh containers and immersing the containers into trichloroethylene (TCE) degreasing units. Contaminants of concern include volatile organic compounds (VOCs) \[TCE, cis-1,2-dichloroethylene, trans-1,2-dichloroethylene, and vinyl chloride\].
+
+The Hi-Mill Manufacturing Company site was placed on the National Priorities List (NPL) on February 21, 1990 (55 Federal Registry 6160). The owners completed a Remedial Investigation (RI) and Feasibility Study (FS) under an administrative order by consent (Docket IV-W-88-C-127) and remedial design and remedial actions (RD/RA) under a consent decree (CD). By 2009, the owners had passed away. In 2014, the Hi-Mill Manufacturing Company property was auctioned off and is currently leased.
+
+With no other viable potentially responsible parties (PRPs) identified, EPA has assumed the Site lead.
+
+### What Has Been Done to Clean Up the Site?
+
+From 1946 to 1979, wastewater tanks from acid brightening baths were regularly emptied into a lagoon east of the Hi-Mill Manufacturing Company building. In 1983, the Michigan Department of Natural Resources (MDNR) ordered Hi-Mill Manufacturing Company to begin excavation and cleanup of the lagoon area. Under MDNR oversight, 142 cubic yards of contaminated soil; 34,400 gallons of contaminated sludge; and 63,300 gallons of contaminated wastewater were removed and disposed. Following this action, samples taken by the MDNR showed that removal of the water and sludge significantly reduced the levels of metals in soils.
+
+- Construction of a new well occurred in 1989 to provide Hi-Mill Manufacturing Company employees with safe drinking water.
+- A Record of Decision (ROD) for the Hi-Mill Manufacturing Company was signed by EPA on September 28, 1993. The remedy selected in the ROD called for “No Action with Groundwater Monitoring and Institutional Controls” and consisted of the following main components:
+- Long-term (30 years) groundwater monitoring of the shallow groundwater unit and intermediate aquifer for VOCs \[TCE, cis-1,2-dichloroethylene, trans-1,2-dichloroethylene, and vinyl chloride\];
+- Long-term (30 years) monitoring near nearby surface water bodies for the same constituents which are monitored in the groundwater;
+- Quarterly monitoring of the groundwater for the first three (3) years, after which consideration will be given to reducing the sampling frequency to annually; and,
+- Implementation of institutional controls (ICs) to restrict development of the Hi-Mill Manufacturing Company property for residential use.
+
+In 2000, in-situ chemical oxidation (ISCO) was conducted on shallow groundwater to reduce the TCE concentrations in the source area. The monitoring results obtained immediately before, during, and immediately after the ISCO injections indicated that the ISCO solution did not effectively treat the TCE in the peripheral area. As such, further implementation was discontinued.
+
+In 2014, the property owner conducted a vapor intrusion assessment and subsurface soil investigation at the Hi-Mill Manufacturing Company site. Based on the results from the 2014 assessment and investigation, the current property owner installed a VI mitigation system within the office and a portion of the warehouse area.
+
+In 2020, EPA abandoned five monitoring wells and installed two replacement wells.
+
+### What Is the Current Site Status?
+
+EPA is in the process of conducting an RI/FS investigation of the Hi-Mill Manufacturing Company site to determine the nature and extent of contamination and to select a final remedy.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).

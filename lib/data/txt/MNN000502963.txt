@@ -1,13 +1,9 @@
-SPRING PARK MUNICIPAL WELL FIELDSPRING PARK, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-Volatile organic compounds (VOCs) in a groundwater plume have contaminated two of Spring Park’s three municipal wells. The city and the state removed the immediate threat to the drinking water with a new, interim treatment system. The third well draws water from a deep aquifer but is not sustainable to supply Spring Park with enough water on a long-term basis. The Minnesota Department of Health first identified VOCs, primarily trichloroethylene (TCE) from the Spring Park Treatment Plant in 2004. In addition to TCE, cis-1,2-dichloroethylene (DCE) and vinyl chloride are also present. 
-Top of Page
-What Has Been Done to Clean Up the Site?
-The Minnesota Pollution Control Agency (MPCA) recently capped a two-year effort to design and build an addition to Spring Park’s drinking water plant that includes state-of-the-art equipment to remove trichloroethylene (TCE) from two of the town’s municipal drinking water wells. MPCA's Spring Park: Municipal Wells site Top of Page
+### Background
+
+Volatile organic compounds (VOCs) in a groundwater plume have contaminated two of Spring Park’s three municipal wells. The city and the state removed the immediate threat to the drinking water with a new, interim treatment system. The third well draws water from a deep aquifer but is not sustainable to supply Spring Park with enough water on a long-term basis. The Minnesota Department of Health first identified VOCs, primarily trichloroethylene (TCE) from the Spring Park Treatment Plant in 2004. In addition to TCE, cis-1,2-dichloroethylene (DCE) and vinyl chloride are also present.
+
+### What Has Been Done to Clean Up the Site?
+
+The Minnesota Pollution Control Agency (MPCA) recently capped a two-year effort to design and build an addition to Spring Park’s drinking water plant that includes state-of-the-art equipment to remove trichloroethylene (TCE) from two of the town’s municipal drinking water wells.
+
+[MPCA's Spring Park: Municipal Wells site](https://www.pca.state.mn.us/featured/spring-park-municipal-wells-site)

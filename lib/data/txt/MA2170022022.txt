@@ -1,2 +1,273 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+Former Naval Air Station (NAS) South Weymouth is located approximately 15 miles southeast of Boston, Massachusetts, in Norfolk and Plymouth counties in the Towns of Weymouth, Abington, and Rockland. The former Base (1942-1997) encompasses approximately 1,444 acres and is located in a partially developed urban area with some remaining wetlands and forest. The topography, while having been altered and regraded throughout its operational history by the Navy during construction of the runways, taxiways, and related facilities is characteristically flat with some bedrock outcrops, wetland areas, and small stream channels.
+
+Commissioned on March 1, 1942, the base was constructed to support 48 non-rigid airships (blimps) used for coastal anti-submarine patrols. With the end of World War II the strategic need for NAS South Weymouth disappeared. On August 8, 1945, the station was reduced to the status of a naval aviation facility and designated as an aircraft storage site. In June 1949, the station was deactivated and remained idle until early 1951. In 1951, Congress appropriated more than $5 million for the construction of runways, hangars, buildings, fuel storage areas, and other facilities at the station. In July 1953, a naval air development unit moved to the station. This unit developed and tested anti-submarine and air defense equipment.
+
+In December 1953, the station regained its status as a Naval Air Station when training facilities from Squantum NAS (Quincy, MA) were transferred to South Weymouth. In 1954, NAS South Weymouth became the home base for the blimps of Airship Early Warning Squadron One. The Navy withdrew blimps from active service in 1961, and NAS South Weymouth became solely a Naval Air Reserve facility. The buildings and structures that had supported the airship operations were demolished during the mid- 1960s and replaced with facilities designed to accommodate fixed-wing aircraft.
+
+In September 1996, when operational closure of the airfield under the Defense Base Realignment and Closure Act of 1990 (BRAC) occurred, the aircraft were moved to NAS Brunswick in Brunswick, Maine. Between 1996 and 1997, NAS South Weymouth provided facilities, ground training, and limited surface training to Marine and Naval reserve units. Administrative closure was completed in September 1997.
+
+Since the Base was closed in 1997, over 1000 acres have been transferred by the Navy for redevelopment.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA placed former Naval Air Station South Weymouth on the National Priorities List (NPL) in 1994. The Navy and EPA entered into a Federal Facility Agreement (FFA) effective April 7, 2000. The FFA establishes the roles and responsibilities of the Navy and the EPA in the performance of investigations and completion of necessary remedial actions at former NAS South Weymouth. The Massachusetts Department of Environmental Protection (MassDEP) is not a signatory to the FFA but participates in reviews of all environmental documents and offers concurrence on the remedy selected in the ROD for each CERCLA site.
+
+Remedial Investigations (RI) began in 1995 and have since focused on 10 areas of concern (also known as Operable Units (OUs)). These OUs include:
+
+**OU1 Westgate Landfill (WGL)**
+
+WGL was an active landfill for approximately 30 years, from 1940s through 1972. The landfill was used primarily for domestic wastes, and occasionally other wastes generated onsite. Material observed within the landfill includes metal scraps, asphalt, bricks, concrete, plastic sheeting, wires, bottles, cans, metal wheel rims, rubber pieces, tubing, hoses, glass, and other general debris.
+
+Contaminantion being investigated in soils and groundwater includes polychlorinated biphenyl (PCBs), arsenic, dioxins, polycyclic aromatic hydrocarbon (PAHs), dieldrin, and lead.
+
+A Record of Decision (ROD) outlining the remedy was issued by EPA in September 2007. The major components of the remedy included:
+
+- Conducting compaction and related testing within the landfill area to properly design and construct a soil cover (i.e. as part of the design and implementation process);
+- Removing debris from the adjacent wetlands and placing on the landfill;
+- Clearing the landfill area of trees, brush, and exposed rubble, removing tree stumps, and grading the site;
+- Constructing a soil cover on the site meeting Commonwealth of Massachusetts solid waste regulations and federal PCB regulations. The design goal for the soil cover is to eliminate direct contact with landfill materials;
+- Restoring the wetland area that was disturbed during the removal of debris from the site;
+- Implementing an institutional control to restrict invasive activities (e.g. digging) on the surface of the site;
+- Implementing an institutional control to prevent the use of groundwater for any purpose at the site u ntil groundwater cleanup objectives are met as determined by the post-remedial groundwater monitoring program;
+- Conducting long-term groundwater monitoring and site maintenance; and
+- Conducting a review of the site every 5 years.
+
+**OU2 Rubble Disposal Area (RDA)**
+
+Between 1959 and 1962, RDA was a 4-acre landfill located in the northeast portion of the base that received large natural debris, such as boulders and tree stumps, unsuitable as base-material for construction of the nearby Old Swamp River bridge. In 1978, building debris from a fire at Building 21 was placed in the RDA. In addition, there have been unofficial reports that transformers, transformer components, or transformer fluids were disposed of at the RDA. Materials observed at the Site during environmental investigations included glass, insulation material, concrete, scrap metal, wire, asphalt, rubber, fabric, boulders, wood, arresting gear strapping, and metal drum fragments. Wetlands abutting RDA ultimately discharge into the Old Swamp River.
+
+The ROD for RDA was finalized in 2003 and consisted of the following elements:
+
+- Conducting, as necessary, further data evaluation or collection to support the design of the soil cover e.g., compaction and related testing);
+- Excavating PCB-impacted material from the adjacent wetland area, and disposing of the material in an offsite landfill;
+- Conducting confirmatory PCB sampling and analysis within the excavated wetland area, as well as the immediately abutting upland soil, as part of the remedial action process prior to landfill capping;
+- Removing physical debris from the wetland area for either placement on the upland portion of the disposal area or for offsite disposal;
+- Restoring the wetland area that was disturbed during the removal of the PCB-impacted material and debris;
+- Clearing, grubbing, and grading the Site;
+- Constructing a soil cover on the Site in accordance with Massachusetts Solid Waste Landfill Closure requirements;
+- Constructing a fence around the Site and posting warning signs (note: this component was optional, to be implemented if consistent with future site use plans);
+- Institutional controls to achieve the land use control performance objectives;
+- Conducting long-term monitoring and site maintenance; and
+- Conducting a review of the Site every 5 years.
+
+In 2010 and 2012, Navy finalized two Explanation of Significant Differences (ESDs) documents that provided administrative changes to the original 2003 ROD. Essentially, the ESDs allowed for the consruction of the Bill Delahunt Parkway and added a Monitored Natural Attenuation (MNA) component to the remedy for groundwater. As a result, an interim LUC boundary was established in a 2010 amendment to the 2009 Land Use Control Implimentation Plan (LUCIP) for RDA.
+
+**OU4 Fire Fighting Training Area (FFTA)**
+
+The FFTA was the location of fire-fighting training excercises from 1950 - 1990. FFTA comprises approximately 3.8 acres located south of Runway 8-26 and east of Taxiway C. Topographically, FFTA is relatively flat consisting mostly of a cracked asphalt pad. As observed during test pitting and drilling activities, there are multiple layers of asphalt underlying FFTA, each exhibiting various stages of wear. The eastern branch of French Stream flows from north to south through the Site. Previously the stream was culverted under the asphalt paving but is currently open.
+
+Aqueous film forming foam (AFFF) was used at FFTA. AFFF is not, itself, a CERCLA hazardous substance, however, chemical constituents to AFFF known as Per- and Polyfluoroalkyl Substances (PFAS) are considered “emerging contaminants” by EPA and have come under scrutiny in recent years. Due to historic usage, spills, and releases of AFFF in or around these locations, a PFAS investigation was initiated in 2010 and remains ongoing.
+
+Based on the results of the Remedial Investigation (RI), in 2004 EPA and Navy issued a ROD concluding no action under CERCLA was warranted. In 2010, due to historical site use, FFTA was investigated to determine the nature and extent of PFAS contamination in soils, groundwater, surface water, and sediments. Subsequently, in 2013 Navy finalized an ESD to the 2004 ROD to establish LUCs restricting access to groundwater within the boundary of FFTA.
+
+As further discussed below, in June 2018 EPA issued a new ‘Basewide PFAS’ Operable Unit (OU 27) to investigate PFAS across the base. Within that same year, LUCs were established for OU27. Since OU27 encompassed the OU4 FFTA, a second ESD was issued for OU4 to remove the requirement for LUCs established in the 2013 ESD for the FFTA site and allow the LUCs defined in the Basewide PFOS and PFOA LUCIP, which are no less restrictive, to prevail. PFAS continue to be investigated under OU27.
+
+**OU7 Sewage Treatment Plant (STP)**
+
+The STP comprises approximately 3.3 acres and is located in the northern portion of the former Base. Forested and wetland areas border the upland area to the north and west, respectively, and an access road borders STP to the east. Remaining above-ground structures within the upland area include concrete walls surrounding the former sludge drying beds, an inactive transformer (that does not contain PCBs), and groundwater monitoring wells installed in support of previous investigations performed at the Site. Remaining below-ground structures include former trickling filters, digesters, building foundations, pipelines, a sump, a sludge pumping station, and other plant structures, some of which have been backfilled. A temporary security fence surrounds excavated areas north and northwest of the former sludge drying beds. Several constructed drainage ditches are located at the Site, along the northwestern and southern borders of the STP area, and surrounding the Tile Bed Area. The drainage ditches bordering the northwest and southern sides of the STP area converge west of the Site, merging into a drainage ditch that continues west through the wetlands toward French Stream. The drainage ditches on the north and northwest sides of the Tile Bed Area drain to the ditch that runs along the southern border of the STP area. The drainage ditches on the south and southwest sides of the Tile Bed Area discharge into the adjacent wetland near the southwestern corner of the Tile Bed Area.
+
+The STP was active for approximately 25 years, from 1953 until 1978, at which time the plant was decommissioned and the wastewater system for the Base was connected to the Town of Weymouth municipal sanitary sewer system. The STP initially consisted of a settling tank for primary (physical) treatment with a trickling filter and secondary settling tanks for secondary (biological) treatment of wastewater. The treated wastewater was discharged through an outfall to a drainage ditch leading west. During the plant’s 25 years of operation, Navy completed several upgrades, including expansion of the secondary treatment system and construction of covered sludge drying beds for aerobic digestion (composting) of the wastewater sludge. In 1978, Navy decommissioned the STP and the Base wastewater was discharged to the municipal sanitary sewer system. From 1980s until 2005, the covered sludge drying bed area was used for storage of road salt and sand.
+
+The ROD for STP was finalized in 2008 and consisted of the following elements:
+
+- Conducting a pre-design investigation (PDI) to further delineate the types and extents of COCs requiring remediation in soil and sediment. Additional sampling for methyl mercury in sediment and PCBs in surface water to verify conclusions of the risk assessments. Conducting a comprehensive water level round to help evaluate groundwater flow at the Site as well as determine whether there are potential migration pathways that have not been adequately investigated. Use the PDI results to support the planning of the excavation activities;
+- Excavation of soil and sediment containing COCs at concentrations exceeding PRGs;
+- Off-site disposal or recycling (asphalt batching) of excavated soil/sediment;
+- Conducting post-remediation sediment monitoring; and
+- Conducting pre- and post-remediation groundwater monitoring.
+
+In August 2010, the Navy finalized an ESD to the ROD to allow use of the excavated materials from the Site as subgrade fill in the construction of the WGL cover system.
+
+The excavation depth for the soil remedy specified in the ROD targeted the top foot of soil. Additional soil was excavated during the cleanup to a depth of 2-4 feet bgs. However, the unsaturated subsurface soil PRG exceedances were at depths ranging from 4 and 7 feet bgs while saturated subsurface soil PRG exceedances were at depths ranging from 11 to 14 feet bgs. Wetland restoration was completed in 2016.
+
+A ROD Amendment was issued in March 2019 that included LUCs, and annual inspections and monitoring of the soil cover.
+
+In November 2017 the Aquifer Protection District was removed by the Southfield Redevelopment Authority (SRA) resulting in a revised Groundwater Use and Value Determination (GUVD) from MADEP.
+
+**OU9 Building 81**
+
+The Building 81 Site is a former vehicle maintenance garage located in the central portion of the Base, approximately 4,500 ft southeast of the main entrance to the Base on Route 18. A part of the Site where the release occurred is fenced and is bounded by Shea Memorial Drive to the west, Redfield Road to the north, an overgrown, heavily vegetated area to the east, and Building 140 to the south. A dissolved VOC contaminant plume extends west-southwest, across Shea Memorial Drive toward Building 15 (the Transportation Building). The fenced area of the Site is comprised of approximately 1 acre of level land occupied by the former Building 81 foundation (a concrete slab) and paved areas to the east and south. A large excavated area that has been backfilled but not repaved is located on the Site, east of the building slab.
+
+Only the slab foundation of Building 81 remains at this time. Prior to being demolished in 1997, the building had been a one-story structure measuring 80 ft by 100 ft, and constructed on a concrete slab foundation. The building had two floor drains: one in the western part of the large open bay, which was connected into the sanitary sewer; and the other in the service room in the southwest corner of the building, which was connected to the storm drain system.
+
+Contamination at Building 81was initially identified during the removal of a waste oil underground storage tank (UST) in 1991, when the Base was converting from underground waste oil storage to above-ground storage in 55-gallon drums. A voluntary Phase I Limited Site Investigation was conducted under the Massachusetts Contingency Plan (MCP) in June 1993 to determine if waste oil from the tank had contaminated the soil below. The Navy performed several soil removals and additional investigations under the MCP regulatory program between 1993 and 1998. During these investigations CVOCs were detected in soil and groundwater.
+
+The ROD for Building 81 was finalized in 2014 and consisted of the following elements:
+
+- Enhanced In-Situ Bioremediation to reduce contaminant concentrations in the overburden and bedrock source zones;
+- Bio-barriers in the overburden and bedrock to intercept and treat the contaminant plume at its leading edge;
+- Monitored natural attenuation (MNA) in the area between the source zone target treatment zones (TTZ) and the bio-barriers, to further reduce any residual CVOCs remaining after active treatment with enhanced bioremediation;
+- Permanent LUCs to: (1) prohibit installation of groundwater production, supply, and irrigation wells at the Site; and (2) prohibit future residential uses within the Recreation District zoning district at the Site;
+- Interim LUCs to: (1) restrict the type and nature of construction permitted in the source area of the plume where the highest volatile organic compound (VOC) concentrations have been detected and where active remediation might be conducted (as a contingency) until cleanup levels are achieved; (2) restrict construction in the vicinity of the bio-barriers, to prevent disturbance of and damage to the injection wells and allow future injections; (3) require prior Navy, EPA, and MassDEP approval of (a) construction dewatering plans before excavation activities could be conducted; (b) health and safety procedures to be used by construction workers to prevent unacceptable exposure risks, until cleanup levels are achieved; and (c) passive ventilation design and building construction methods, such as a sub-slab vapor mitigation system, to prevent exposure of building occupants to vapor intrusion from VOCs in groundwater at levels that pose an unacceptable risk, until cleanup levels are achieved;
+- Inspections to confirm compliance with the LUCs objectives;
+- Monitoring of groundwater to evaluate the progress of remediation;
+- Completion of five-year reviews as long as chemical of concern (COCs) are present at concentrations that prevent unlimited exposure and unrestricted use.
+
+Remedial Action was completed in 2017. PFAS at the Building 81 site are being investigated under OU27.
+
+**OU10 US Coast Guard Buoy Depot (IPDSW)**
+
+OU10 is a US Coast Guard owned and operated facility knows as the USCG Industrial Production Detachment South Weymouth (IPDSW). While located adjacent to NAS South Weymouth, its operation is historically unrelated. IPDSW is the USCG’s principal facility in the Northeast for storing, cleaning, repairing, and painting navigational buoys. The IPDSW is located on the USCG’s property and is approximately 5 acres in size. There is a two-story, steel and concrete block building occupying approximately 20,000 square feet on the northwestern portion of the property. Asphalt and concrete paved driveways surround the building. Most of the property is a crushed stone covered buoy storage area to the south and east of the building. The property is relatively flat with topographic relief gently sloping toward a wetland area to the southeast. A drainage swale abuts the southern fence line of the site and receives intermittent stormwater runoff from the buoy storage area. The drainage swale runs from west to east and discharges stormwater to a forested wetland.
+
+Since facility construction was completed in 1973, IPDSW operations have included buoy rehabilitation (e.g., “shot blasting” to remove old paint, welding, painting, and electrical wiring), minor vehicle and equipment maintenance, waste generation (steel shot blast residue, waste oils, paint-related waste) and fuel storage, warehousing, outdoor scrap metal storage, and administrative use. Most of the buoys are constructed of steel and range in size from 3 feet (ft) to greater than 30 ft in length and can weigh up to 20,000 pounds. Old or damaged buoys that are beyond repair are stored at the IPDSW pending sale as scrap metal. As a result of facility operations (i.e., buoy storage, refurbishment, and scrapping), lead and paint chips were present in the surface soil of the buoy storage area. Due to stormwater runoff, surface soil of an adjacent drainage swale and wetland were impacted with metals, primarily lead, from the buoy storage area.
+
+In 2003, a Non-Time-Critical Removal Action (NTCRA) was conducted consisting of soil excavation within the swale and wetland, removal of the building’s floor drain system, and installation of the stormwater management system. While surface soils were remediated and protective, contaminated soils remained in the subsurface.
+
+A ROD for IPDSW was finalized in 2006 and consisted of the following elements:
+
+- No Further Action for AOC 1 (i.e., building and adjacent areas to the south);
+- No Action for AOC 2 (i.e., septic system tank, piping, and leach field);
+- LUCs (institutional and engineering controls), long-term monitoring;
+- Five-Year Reviews for AOC 3 (i.e., buoy, equipment, and scrap metal storage area).
+
+This selected remedy, combined with the completed removal actions, comprised the comprehensive remedy.
+
+In 2017, USCG performed a Removal Action in order to excavate remaining subsurface soils from with the IPDSW fence line, drainage swale, and wetland. Over 750 cubic yards (7224 tons) of soil was excavated and disposed of at a licensed facility. No contaminated soils remain on the IPDSW following this removal effort.
+
+On August 30, 2019, partial deletion of this site was finalized with publication in the Federal Register (Federal Register, Volume 84, Number 169, 45658).
+
+**OU11 Building 82**
+
+Building 82 was constructed in 1956 as an aircraft hangar (maintenance facility) for fixed wing aircraft. It was continuously used by the U.S. Marine Corps for that purpose until1996, when operations at the Base ceased. During that time, oils, lubricants, and solvents necessary for aircraft maintenance were used and stored in the building. The network of floor drains and associated structures (i.e. gas trap manholes and an oil/water separator \[OWS\]) at Building 82 collected and conveyed spilled waste fluids from inside the building to the drainage ditch south of the building. Building 82 has an 8-inch thick concrete slab floor and any spills or leaks that occurred inside the building were likely collected in the floor drain system where residual waste materials may have remained for some time – particularly in catch basins, gas-trap manholes, OWS, and hydraulic lifts.
+
+Following NAS South Weymouth closure, Building 82 was used for the storage of miscellaneous Navy-owned vehicles (i.e., plows, backhoes, and buses) until 2000. The western portion of Building 82 is currently vacant but may be occasionally occupied by personnel during routine building maintenance inspections or potential re-use evaluations. The eastern portion of Building 82 is currently being used by LStar (the property developer) for commercial/industrial activities.
+
+Buildings 15 and 41A are the former Transportation Garage for the NAS South Weymouth Public Works Department. Originally, the eastern end of Building 15 was utilized as the NAS South Weymouth Fire Department before being utilized by the Public Works Department. Under the Public Works Department, Buildings 15 and 41A were used primarily for vehicle maintenance, garage space, and storage. Building 15 contained an aboveground storage tank, a battery storage room, floor drains and associated piping (some of which originally connected to the NAS South Weymouth storm sewer system), gas trap manhole, and hydraulic lifts. Building 41 is the former Family Service Center and did not have any identified areas of interest or potential source areas.
+
+The primary contaminant release and transport mechanisms include releases to the subsurface via the floor drain systems and the catch basins outside Building 15.
+
+The ROD for Building 82 was finalized in 2012 and consisted of the following elements:
+
+- In-situ chemical oxidation (ISCO) of volatile organic compounds (VOCs) in shallow and deep groundwater;
+- Implementation of land use controls (LUCs) on an interim basis to prohibit the installation of groundwater extraction wells for production, supply, or irrigation at Building 82 and require that EPA and MassDEP approval of construction dewatering plans is obtained prior to conducting any construction dewatering activities at Building 82;
+- Performance monitoring to evaluate the progress of remediation and long-term monitoring for other nalytes of interest.
+
+In November 2017 the Aquifer Protection District was removed by the Southfield Redevelopment Authority (SRA) resulting in a revised GUVD from MADEP. An ESD was issued in February 2018 to modify the remedy based on the revised groundwater classification and revised risk evaluation, which showed no further CERCLA action was required to address chemicals of concern identified in the Building 82 ROD. The Building 82 area falls within the basewide PFAS OU (OU27) which is currently undergoing a Remedial Investigation..
+
+**OU14 Solvent Release Area (SRA)**
+
+The SRA Site is located in the eastern portion of the Base on an approximately 14 acre undeveloped parcel of land: 11 acres are located north of the East Mat Ditch (EMD) and 3 acres are located south of the EMD on the East Mat. The portion of SRA located north of the EMD is vegetated by white pine and red maple trees, has densely vegetated undergrowth, and was previously delineated as a predominantly forested wetland system with a saturated water regime. The SRA Site is bounded to the north by Pidgeon Road. The Eastern Drainage Ditch to the east and EMD to the south lie within the SRA boundary. This boundary is based on the established limits of contamination. The boundary isapproximately 300 feet west of the access road to the former Pistol Range to the west, and about 200 feet south of theEMDto the south.
+
+A portion of the Site (approximately 2 acres) immediately north of the EMD was formerly used as a Pistol Range and was designated as Area of Concern (AOC) 35. AOC 35 was closed with a determination of No Further Action for soils and a decision to address groundwater as part of SRA. The area is largely undeveloped and was used for recreation. The EMD provided drainage from the East Mat and the surrounding areas. The primary use of the East Mat was as a mooring area for lighter-than-air aircraft, aircraft fuel discharge area, aircraft de-arming area, and as a taxiway and parking area for aircraft. The former Hobby Shop (Building 95) is located on the north side of Pidgeon Road and upgradient of the Site. The Hobby Shop is a one-story, corrugated steel building that was constructed in the 1960s and used for vehicle maintenance and repairs. It is currently vacant.
+
+Contamination at SRA was initially identified during the Phase II Environmental Baseline Survey (EBS). The results of an assumed EBS background soil boring led to other investigations that identified CVOCs in both soil and groundwater.
+
+The ROD for SRA was finalized in 2013 and consisted of the following elements:
+
+- In-situ enhanced bioremediation to reduce contaminant concentrations in the overburden and bedrock source zones;
+- Installation of two overburden mulch permeable reactive barriers (PRBs) to intercept and treat the overburden groundwater contaminant plume;
+- Implementation of a permanent LUC to prohibit the installation of groundwater extraction wells for production, supply, and irrigation uses at the Site;
+- Implementation of a permanent LUC to prohibit residential uses at SRA;
+- Implementation of interim LUCs to: (1) require that EPA and MassDEP approval of construction dewatering plans is obtained prior to conducting any construction dewatering activities at the Site; and (2) specify building design and construction methods, such as foundation venting, to prevent unacceptable exposure to volatile organic compounds (VOCs) through vapor intrusion for any future structures that might be built in the upland area;
+- Implementation of engineering controls to restrict access to surface water in the EMD;
+- Maintenance and inspections of the LUCs and engineering controls;
+- Monitoring of groundwater to evaluate the progress of remediation;
+- Monitoring of surface water to evaluate potential impacts of groundwater discharges to surface water;
+- Monitoring of sediment to evaluate trends in concentrations of inorganic compounds;
+- Completion of five-year reviews as long as COCs are present at concentrations that prevent unrestricted use.
+
+Phase I enhanced bioremediation injection via enhanced reductive dechlorination (ERD) was performed in 2015 (sodium lactate) and 2016 (emulsified vegetable oil). A Phase II Permeable reactive Barrier (PRB) has been implemented with final injections in 2017. Phase III enhanced bioremediation injections and additional monitoring wells were completed in September 2021. Post-injection performance monitoring is ongoing.
+
+Groundwater monitoring for PFAS at SRA is being conducted under OU27.
+
+**OU23 Industrial Operations Area (IOA)**
+
+IOA covers approximately 20 acres and is located in the central part of the Base. IOA was an area where predominantly industrial operations occurred, including, but not limited to: storage of industrial materials, equipment and coal for the power plant, movement of materials by truck and railroad spur, and power plant operations. In 2009, the boundary for IOA was established to investigate the concern for the potential of low-level dispersed contamination in surface soil. In 2011, a soil sampling program identified contaminants at multiple locations attributable to historical industrial operations. IOA contains 13 inactive buildings including: the former power plant (Building 8), the former AIMD facility (Building 117), supply warehouse (Building 2), a former water tower, remnants of a railroad spur, and a former hazardous waste accumulation area. The Site is generally flat and mostly covered by asphalt or buildings; there are a few small grassy areas located around buildings and sidewalks. Shea Memorial Drive bisects the approximate center of the IOA.
+
+In 2009, the U.S. EPA and MassDEP raised concerns about the potential presence of low-level dispersed contamination in soil across the IOA due to historical site use for industrial operations. The IOA boundary was established at that time and was defined as the outer perimeter of the area where industrial operations took place, based on information from aerial photographs and previous investigations. The 2009 establishment of the IOA boundary also combined numerous environmental sites, and the decision was made to consolidate future investigation activities at those sites with investigation of the potential low-level dispersed contamination in soil across the IOA. These sites include:
+
+- The Hazardous Waste Storage Area (AOC 83) - a former RCRA 90-day hazardous waste accumulation area located on Shea Memorial Drive between Building Nos. 131 and 2. The 90-day hazardous waste accumulation area consists of an approximately 2,400 square foot concrete pad that is covered by a supported roof (which overhangs the concrete pad by more than 2 feet) and a fire suppression system.
+- Drum Storage Area (AOC 14) - encompasses the area along two railroad spurs that brought supplies to the Base beginning in the 1940s. The site includes an area where drums had been stored along the railroad spurs.
+
+The ROD for IOA was finalized in 2015 and consisted of the following elements:
+
+• Pre-excavation soil sampling to further define areas to be excavated;  
+• Soil excavation and offsite disposal of soils with contaminants of concern (COC) concentrations exceeding cleanup goals;  
+• Post-excavation soil sampling to confirm achievement of the Remedial Action Objective (RAO).
+
+Excavation activities at the IOA were completed in December 2020. An ESD to document the increased volume of soils excavated and cost of the remedy, as well as updated Remedial Goals was issued in November 2020. A Remedial Action Completion Report to document the site cleanup was finalized in September 2021.
+
+The IOA is included under the Basewide PFAS OU (OU27), which is currently undergoing a Remedial Investigation.
+
+**OU25 Hangar 1**
+
+Hangar 1 is a 33-acre area located in the center of the Base, with the new Delahunt Parkway running through the southern portion of the site. The original hangar building was demolished in 2012 leaving a flat concrete pad and dirt area. Hangar 1 was originally constructed in 1942 (subsequently re-constructed in 1966) for the storage and maintenance of aircraft, including activities such as metal working, engine work, painting, arming, washing, hydraulic system repair, welding, parachute packing, photo development, training, and plating and anodizing. The concrete apron surrounding Hangar 1 was used for storage and fueling of aircraft.
+
+Floor drains beneath the hangar were identified as potential sources of contamination to subsurface soil and groundwater. AFFF for fire suppression was distributed through piping in the floor to distribution stations within the Hangar site. AFFF was stored in Hangar 1 in two 10,000 gallon above ground storage tanks (ASTs) and in 55-gallon drums elsewhere on the site. Releases of contamination include a spill of up to 10,000 gallons of AFFF in 1987, an oil-water separator connected to the sanitary sewer, and several inadvertent releases of AFFF from two AFFF ASTs in the pump room.
+
+In 1999, Navy removed two oil water separators from the site, cleaned and tested the floor drain systems, and collected soil samples near the separators. Between 2000 and 2001, the floor drain system was removed, and soil samples were collected along the former pipelines and at other locations based on visual, field screening, and olfactory evidence. Based on the analytical results, soil was excavated and removed in areas where elevated chemical concentrations were detected. A total of 104.58 tons of contaminated soil was removed and shipped off site for disposal. The excavations were backfilled with clean soil. A no action ROD was signed in 2010. In 2010, due to historical site use, Hangar 1 was investigated to determine the nature and extent of PFAS contamination in soils, groundwater, surface water, and sediments. Based on the results of this PFAS investigation, the ROD decision was modified in a December 2011 ESD to include an LUCs restricting the use of groundwater for drinking water purposes within in the boundary of the site.
+
+A second ESD was issued for OU25 to remove the requirement for LUCs established in the 2011 ESD for the Hangar 1 site since OU27 encompasses OU25, and allow the LUCs defined in the Basewide PFOS and PFOA LUCIP, which are no less restrictive, to prevail. PFAS continue to be investigated under OU27.
+
+**OU27 Basewide Per- and Polyfluoroalkyl Substances (PFAS)**
+
+In July 2016, EPA requested that Navy complete assessment activities for per- and polyfluoralkyl substances (PFAS) at the former NAS South Weymouth. Following the Navy's completion of sampling groundwater at existing OUs and a Preliminary Assessment (PA) to determine other areas of the base at which PFAS may have been stored, used, or released, EPA designated designated a new OU (OU27) to investigate PFAS across the base in June 2018. The Navy subsequently conducted sampling at the potential PFAS areas under a Site Inspection (SI). An SI Report, incorporating both PFAS data both from existing OUs and those areas identified in the PA was completed in November 2020.
+
+The Navy has completed Phase I of the Remedial Investigation for PFAS across the base. Field activities included vertical profiling and collection of groundwater samples, the installation and sampling of new monitoring wells, both on and off-base surface water and sediment sampling, and the collection of soil samples. The Navy also has also sampled nearby private wells. Remedial investigations for PFAS continue.
+
+In January 2025, the Navy completed a Time Critical Removal Action (TCRA) for the removal of PFAS contaminated soils near the former Building 96 Fire Station and Hangar 1. This area will continue to be investigated under OU27.
+
+### What Is the Current Site Status?
+
+**OU1 West Gate Landfill**
+
+A 4.7-acre landfill cap was constructed over the WGL in 2011. WGL is currently (and will remain) in long-term monitoring which consists of:
+
+- Groundwater, surface water, and sediment monitoring (quarterly for the first two years, semi-annually (pring and fall\] for each year thereafter);
+- Landfill gas monitoring (quarterly);
+- Water level measurements (quarterly for the first two years, semi-annually \[spring and fall\] for eachyear thereafter);
+- Operationa and maintentance (O&M) inspections (including quarterly facility inspections, annual settlement monitoring, and an annual land use control (LUC) compliance inspection);
+- Semi-annual (spring and late summer) wetland inspections for the first 3 years of long ter monitoring.
+
+Long-term Monitoring (LTM) continues. Annual LUC compliance inspections are performed every fall in accordance with the ROD and LUCIP to verify that LUCs remain in place and LUC objectives are being met. Investigation of PFAS is ongoing under OU27.
+
+**OU2 Rubble Disposal Area**
+
+Construction of the 4-acre landfill cap and PCB removal activities occurred concurrently. A PCB hotspot was located at the toe of the slope on the northwestern edge of the RDA. Excavation of the PCB soils  
+occurred in 2004 and 2005. Approximately 230 tons of upland and hydric soils were removed during three PCB excavations. RDA is currently (and will remain) in long-term monitoring which consists of:
+
+- Monitoring and inspection of the landfill cap quarterly for the first 2 years of the post-closure car period and semiannually thereafter (early spring and late fall);
+- Visual inspection of the landfill cap with regard to vegetative cover, settlement, erosion, evidence ofburrowing animals, and need for corrective action;
+- Inspection of the access road, security fence, gate, and signage;
+- Visual inspection of the eastern margin of the landfill to monitor the areas of leachate breakout, oil seepage, and iron-staining flocculent;
+- Inspection and maintenance of the stormwater drainage system for erosion, vegetative growth, ponding, and obstructions;
+- Inspection of the condition of the gas vents, gas probes, monitoring wells, piezometers, and stream gages; and
+- Monitoring for settlement of the landfill cap once per year during the 30-year post-closure period as required by MassDEP landfill closure regulations
+
+LTM continues. Annual LUC compliance inspections are performed every fall in accordance with the ROD and LUCIP to verify that LUCs remain in place and LUC objectives are being met. Investigation of PFAS is ongoing under OU27.
+
+**OU4 Fire Fighting Training Area**
+
+Annual LUC compliance inspections are performed every fall in accordance with the ROD, ESD, and the LUCIP to verify that LUCs remain in place and LUC objectives are being met. Investigation of PFAS is ongoing under OU27.
+
+**OU7 Sewage Treatment Plant**
+
+LTM continues. Annual LUC compliance inspections are performed every fall in accordance with the ROD and LUCIP to verify that LUCs remain in place and LUC objectives are being met. Investigation of PFAS is ongoing under OU27.
+
+**OU9 Building 81**
+
+Post-injection performance monitoring for the cleanup of contaminants of concern continues.. Annual LUC compliance inspections are performed every fall in accordance with the ROD, ESD, and the LUCIP to verify that LUCs remain in place and LUC objectives are being met. Investigation of PFAS is ongoing under OU27.
+
+**OU10 US Coast Guard Buoy Depot**
+
+IPDSW site has been fully remediated.
+
+On August 30, 2019, partial deletion of this site was finalized with publication in the Federal Register (Federal Register, Volume 84, Number 169, 45658).
+
+**OU11 Building 82**
+
+Investigation of PFAS is ongoing under OU27.
+
+**OU14 Solvent Release Area**
+
+Post-injection remedy performance monitoring is currently ongoing. A LUCIP will be prepared to describe LUCs that will be implemented on the site prior to transfer. Investigation of PFAS is ongoing under OU27.
+
+**OU23 Industrial Operations Area**
+
+Investigation of PFAS is ongoing under OU27.
+
+**OU25 Hangar 1**
+
+Investigation of PFAS is ongoing under OU27.

@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 183-acre Continental Steel Corp. Superfund site is located in Kokomo, Indiana. From 1914 to 1986, the Continental Steel Corp. facility produced nails, wire and wire fence from scrap steel on site. Manufacturing operations included the use, handling, storage and disposal of hazardous materials. Steel-making operations included reheating, casting, rolling, drawing, pickling, galvanizing, tinning and tempering. Facility operations resulted in contaminated soil, sediments, surface water and groundwater with volatile organic compounds (VOCs), polychlorinated biphenyls (PCBs) and several metals, including lead. Sampling also detected lead contamination in some nearby residential soils. Cleanup finished in 2011. Groundwater treatment and monitoring is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. For the remedy to be protective in the long term, groundwater extraction and monitoring must continue. The fequired Institutional controls (ICs) are in place, and effective.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy is in place.
+
+In April 2009, EPA received almost $6 million in American Recovery and Reinvestment Act funding to finish cleanup of two areas: the former slag processing area and the site's contaminated groundwater. The funding helped accelerate the cleanup of hazardous waste on the site and created at least 45 temporary jobs. About 86,000 tons of slag were moved to the site's acid lagoon area for use as fill. The former slag processing area was then capped with two feet of clean soil. Groundwater work included extensive sampling to identify the contaminated plume area, installation of groundwater extraction and monitoring wells, and use of a soil vapor extraction system. Three wind turbines generate some of the power needed to operate the groundwater extraction system.
+
+Other parts of the remedy included removal of underground storage tanks, associated wastes and buried asbestos-containing material, soil consolidation and covering, and sediment dewatering and dredging.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Volatile organic compounds (VOCs), polychlorinated biphenyls (PCBs), polynuclear aromatic hydrocarbons (PAHs), and metals associated with site activities were found (groundwater, soil, sludges and sediments) at the site.
+
+### Sampling and Monitoring
+
+- [Second Five Year Review](http://www.epa.gov/region5/superfund/fiveyear/reviews_pdf/indiana/continental_steel_2007_fyr_in_279231.pdf) (PDF) (173pp, 30.5MB) September 2007
+- [First Five Year Review](http://www.epa.gov/region5/superfund/fiveyear/reviews_pdf/indiana/continental_steel.pdf) (PDF) (116pp, 4.5MB) July 2002
+- [ESD (Explanation of Significant Differences) for OU 1](http://www.epa.gov/superfund/sites/rods/fulltext/e0505037.pdf) (PDF) (37pp, 1.9MB) September 2005
+- [Record of Decision](http://www.epa.gov/superfund/sites/rods/fulltext/r0598091.pdf) (PDF) (186pp, 319K) September 1998
+- [Interim Record of Decision for OU 5](http://www.epa.gov/superfund/sites/rods/fulltext/r0596310.pdf) (PDF) (63pp, 113KB) August 1996
+
+### Green Remediation
+
+ARRA funded wind turbines produce electricity to offset the long-term costs of operating the groundwater extraction and treatment system.

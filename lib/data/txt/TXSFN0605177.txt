@@ -1,17 +1,15 @@
-STATE ROAD 114 GROUNDWATER PLUMELEVELLAND, TX 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
- The State Road 114 Groundwater Plume site is located about 1 mile west of the city of Levelland in Hockley County, Texas. From 1939 to 1954, a refinery operated at the Site, which likely contaminated the Ogallala aquifer with benzene, 1,2-dichloroethane (1,2-DCA) and metals. There is a layer of light non-aqueous phase liquid (LNAPL) acting as source material under the location of the former refinery. The current groundwater contaminant plume is about 1.2 miles long from west to east and 0.6 miles from north to south. The Site consists of the groundwater plume, a groundwater extraction and treatment system and a soil vapor extraction (SVE) system, both of which are housed in the Treatment System building. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and state actions. 
-The site consists of groundwater plumes in the Ogallala Aquifer extending for about 1.2 miles along State Road 114. The Ogallala Aquifer is the only source of high-quality drinking water in the site area. The Texas Department of Health first discovered contamination in 1990. Later investigations discovered contamination in 28 groundwater wells. EPA and the Texas Natural Resources Conservation Commission were not able to identify the source of the contamination. 
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy included groundwater extraction and treatment, soil vapor extraction and treatment, connections to the municipal water supply for affected residents, and excavation and on-site burial of contaminated soils and spent catalyst material. Construction of the remedy finished in September 2009. Since it began operating, the soil vapor extraction and treatment system has recovered over 3.3 million pounds of of refined condensate that was contributing to groundwater contamination. The groundwater treatment system has recovered and treated over 300 million gallons of water. Groundwater treatment and operation and maintenance activities are ongoing. Top of Page
+### Background
+
+The State Road 114 Groundwater Plume site is located about 1 mile west of the city of Levelland in Hockley County, Texas. From 1939 to 1954, a refinery operated at the Site, which likely contaminated the Ogallala aquifer with benzene, 1,2-dichloroethane (1,2-DCA) and metals. There is a layer of light non-aqueous phase liquid (LNAPL) acting as source material under the location of the former refinery. The current groundwater contaminant plume is about 1.2 miles long from west to east and 0.6 miles from north to south. The Site consists of the groundwater plume, a groundwater extraction and treatment system and a soil vapor extraction (SVE) system, both of which are housed in the Treatment System building.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+The site consists of groundwater plumes in the Ogallala Aquifer extending for about 1.2 miles along State Road 114. The Ogallala Aquifer is the only source of high-quality drinking water in the site area.
+
+The Texas Department of Health first discovered contamination in 1990. Later investigations discovered contamination in 28 groundwater wells. EPA and the Texas Natural Resources Conservation Commission were not able to identify the source of the contamination.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included groundwater extraction and treatment, soil vapor extraction and treatment, connections to the municipal water supply for affected residents, and excavation and on-site burial of contaminated soils and spent catalyst material. Construction of the remedy finished in September 2009. Since it began operating, the soil vapor extraction and treatment system has recovered over 3.3 million pounds of of refined condensate that was contributing to groundwater contamination. The groundwater treatment system has recovered and treated over 300 million gallons of water. Groundwater treatment and operation and maintenance activities are ongoing.

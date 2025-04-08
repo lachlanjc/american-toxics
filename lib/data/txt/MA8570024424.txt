@@ -1,58 +1,107 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Hanscom Field/Hanscom Air Force Base (AFB) site covers about 1,120 acres in a light industrial area of eastern Massachusetts. The site occupies land in the towns of Bedford, Concord, Lexington, and Lincoln. A civilian airport operated by the Massachusetts Port Authority (Massport) is located on part of the site. The primary mission of Hanscom AFB, on the 396 site acres owned by the Air Force, is to support the Electronic Systems Center of the Air Force Material Command. A total of 22 possible sources of contamination have been identified on the land the Air Force has owned or leased. These sources include: 
-former fire training activities
-disposal of waste oils, solvents, paint thinners, and degreasers
-landfills
-sludge disposal
-petroleum releases and dispensing of jet fuel and aviation gasoline
-former filter beds
-an underground storage tank
-other spill sites 
-The U.S. Air Force began implementing cleanup through its Installation Restoration Program (IRP) at Hanscom AFB during the early 1980s with records reviews, interviews and field investigations to identify potentially contaminated sites. Following the investigations, The U.S. Environmental Protection Agency (EPA) listed Hanscom AFB, including Hanscom Field, on the National Priorities List (NPL) in 1994. EPA and the U.S. Air Force signed a Federal Facility Agreement (FFA) in September 2009, whereby Air Force performs cleanup investigations and work with oversight by EPA, in cooperation with the Massachusetts Department of Environmental Protection (MassDEP).  Of the 22 individual Hanscom AFB IRP sites with known or suspected contamination, six with on-going remedial actions have been designated as Superfund Operable Units (OUs). Decision documents outlining cleanup remedies have been finalized for all areas, and the Air Force implemented various remedial actions for these sites including:  
-installation and operation of a groundwater remediation system
-excavation of contaminated soils and sediments
-landfill capping
-wetland mitigation and restoration
-long-term monitoring of groundwater and surface water
-in-situ (in place) treatments to optimize contaminant clean-up, land use controls
-institutional controls. 
-Groundwater beneath Hanscom Field/Hanscom AFB is not currently used as a drinking water supply, and it is not expected to be used for drinking water in the future. Top of Page
-What Has Been Done to Clean Up the Site?
-Operable Unit 1 (OU-1)/IRP Sites 1, 2 & 3; AFFF Sites 1, 2, and 3 The remedy for these sites included: 
-removal of drums and/or visibly contaminated soil
-construction of a groundwater collection, treatment, and recharge system
-long-term groundwater and surface water monitoring program 
-Four Boundary Interceptor Wells were also installed along the boundary between the Hanscom AFB/Massport northern property and the Town of Bedford’s property. The purpose of these wells is to intercept any groundwater contamination migrating off the airfield complex. In December 2022, Air Force proposed to modify the existing OU-1 to include two sites related to releases of aqueous film-forming foam (AFFF), including Site CG024P (Taxiway Echo Release) and Site FT001P-SUB (Fire Training Area II and Outfall 001). A Remedial Investigation to determine the nature and extent of PFAS contamination associated with these sites is in progress. OU-2/IRP Site 4 The remedy for this former municipal landfill included a low permeability cap, drainage measures, and a compensatory wetland and long-term monitoring. In 1988, the Air Force, with the Massachusetts Department of Environmental Protection (MassDEP) as the lead regulatory agency, constructed an impervious cap on Site 4. The landfill was also bermed with drainage ditches to channel runoff from the capped area to the surrounding wetlands. OU-3/IRP Site 6 The selected remedy for OU-3/IRP Site 6 included: 
-containment of three landfill areas
-removal of contaminated sediments and landfill debris and placing of this material within the capped landfill area
-long-term monitoring
-institutional controls 
-In addition, the remedy included establishment of a groundwater compliance boundary and a contingency groundwater remedy in the event monitoring results show that the remedy is not effective in maintaining groundwater quality outside the compliance boundary. The contingency groundwater remedy calls for extending the compliance boundary. The EPA does not believe that the contingency for OU-3/IRP Site 6 requires further construction. This is consistent with Close-Out Procedures for National Priorities List Sites, Section 3.5.4. Rather, an administrative extension of the compliance boundary would be necessary. Construction of the remedy finished in September 2001. OU-3/IRP Site 21 The remedy included: 
-removal of petroleum-contaminated soils from various hotspot locations
-construction of four trenches with passive recovery wells
-application of a chemical oxidant in each trench to enhance the biodegradation of dissolved-phased contaminants (VOCs - volatile organic compounds - and fuel compounds)
-installation of a network of 10 active recovery wells in non-hotspot areas within LNAPL (light non-aqueous phase liquid) Pool C connected to a retrofitted LNAPL recovery and treatment system used at the site for previous removal actions
-installation of provisions to implement groundwater containment/treatment and/or enhanced vapor recovery contingencies in the future
-surveying and as-built drawings
-six-month startup and prove-out period for the LNAPL/groundwater recovery and treatment system 
-OU4/AFFF Site 4 In December 2022, Air Force proposed the creation of a new Operable Unit related to releases of aqueous film-forming foam (AFFF) for Site SS025P (Motor Pool Release), to be designated as OU-4. A Remedial Investigation to determine the nature and extent of PFAS contamination associated with this site is in progress. Top of Page
-What Is the Current Site Status?
- At the request of EPA and MassDEP, the Air Force has suspended the operation of the existing dynamic groundwater remediation system due to the presence of per- and polyfluoroalkyl substances (PFAS) in the effluent discharged to the Shawsheen River. A plume stability study is currently in progress to determine if alternative remedial actions are required. Upon completion, the Air Force will evaluate the treatment plant and proceed with any recommended actions or optimizations. The Air Force also conducts long-term monitoring of groundwater and surface water at the OU-1 and OU-3 sites. The groundwater remedy is expected to remove/destroy the sources of groundwater contamination, effectively contain the migration of groundwater contaminants, and is expected to reduce the overall extent of the groundwater plume via a reduction in contaminant mass. The Air Force is also performing supplemental remedial activities for groundwater, including injections of a chemical oxidant to treat chlorinated volatile organic compounds and installation of filter socks containing a concentrated oxygen release compound for treating petroleum hydrocarbons. The Air Force conducted a Site Investigation for per- and polyfluoroalkyl substances (PFAS), specifically the emerging contaminants perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA) and determined that a Remedial Investigation for PFAS is needed. Investigation﻿ begain in 2022 and is ongoing.The Air Force has also sampled for the emerging contaminant 1,4-dioxane and has added 1,4-dioxane to its long-term monitoring program. Remedy implementation, operational maintenance and monitoring are ongoing. Institutional controls, maintained and enforced by the Air Force, limit land uses to passive and/or active recreation uses and prevent drinking water use. Access controls are in place and inspections are conducted regularly. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Institutional controls are required for this site. This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.
-The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
-Click here for IC Instruments implemented for this site. To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this form. ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.
-Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of documents above, and the EPA regional offices may also be contacted.  Top of Page
+### Background
+
+The Hanscom Field/Hanscom Air Force Base (AFB) site covers about 1,120 acres in a light industrial area of eastern Massachusetts. The site occupies land in the towns of Bedford, Concord, Lexington, and Lincoln. A civilian airport operated by the Massachusetts Port Authority (Massport) is located on part of the site. The primary mission of Hanscom AFB, on the 396 site acres owned by the Air Force, is to support the Electronic Systems Center of the Air Force Material Command.
+
+A total of 22 possible sources of contamination have been identified on the land the Air Force has owned or leased. These sources include:
+
+- former fire training activities
+- disposal of waste oils, solvents, paint thinners, and degreasers
+- landfills
+- sludge disposal
+- petroleum releases and dispensing of jet fuel and aviation gasoline
+- former filter beds
+- an underground storage tank
+- other spill sites
+
+The U.S. Air Force began implementing cleanup through its Installation Restoration Program (IRP) at Hanscom AFB during the early 1980s with records reviews, interviews and field investigations to identify potentially contaminated sites.
+
+Following the investigations, The U.S. Environmental Protection Agency (EPA) listed Hanscom AFB, including Hanscom Field, on the National Priorities List (NPL) in 1994. EPA and the U.S. Air Force signed a Federal Facility Agreement (FFA) in September 2009, whereby Air Force performs cleanup investigations and work with oversight by EPA, in cooperation with the Massachusetts Department of Environmental Protection (MassDEP).
+
+Of the 22 individual Hanscom AFB IRP sites with known or suspected contamination, six with on-going remedial actions have been designated as Superfund Operable Units (OUs). [Decision documents](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100967&doc=Y&colid=32811&region=01&type=SC) outlining cleanup remedies have been finalized for all areas, and the Air Force implemented various remedial actions for these sites including:
+
+- installation and operation of a groundwater remediation system
+- excavation of contaminated soils and sediments
+- landfill capping
+- wetland mitigation and restoration
+- long-term monitoring of groundwater and surface water
+- in-situ (in place) treatments to optimize contaminant clean-up, land use controls
+- institutional controls.
+
+Groundwater beneath Hanscom Field/Hanscom AFB is not currently used as a drinking water supply, and it is not expected to be used for drinking water in the future.
+
+### What Has Been Done to Clean Up the Site?
+
+**Operable Unit 1 (OU-1)/IRP Sites 1, 2 & 3; AFFF Sites 1, 2, and 3**
+
+The remedy for these sites included:
+
+- removal of drums and/or visibly contaminated soil
+- construction of a groundwater collection, treatment, and recharge system
+- long-term groundwater and surface water monitoring program
+
+Four Boundary Interceptor Wells were also installed along the boundary between the Hanscom AFB/Massport northern property and the Town of Bedford’s property. The purpose of these wells is to intercept any groundwater contamination migrating off the airfield complex.
+
+In December 2022, [Air Force proposed to modify the existing OU-1](https://ar.cce.af.mil/ViewPdf?id=621921&token=2CGSPggguGI1HUdxrEbRPRsinXguEBrmy7gobR5SvZo%3D [L\(1]) to include two sites related to releases of aqueous film-forming foam (AFFF), including Site CG024P (Taxiway Echo Release) and Site FT001P-SUB (Fire Training Area II and Outfall 001). A Remedial Investigation to determine the nature and extent of PFAS contamination associated with these sites is in progress.
+
+**OU-2/IRP Site 4**
+
+The remedy for this former municipal landfill included a low permeability cap, drainage measures, and a compensatory wetland and long-term monitoring. In 1988, the Air Force, with the Massachusetts Department of Environmental Protection (MassDEP) as the lead regulatory agency, constructed an impervious cap on Site 4. The landfill was also bermed with drainage ditches to channel runoff from the capped area to the surrounding wetlands.
+
+**OU-3/IRP Site 6**
+
+The selected remedy for OU-3/IRP Site 6 included:
+
+- containment of three landfill areas
+- removal of contaminated sediments and landfill debris and placing of this material within the capped landfill area
+- long-term monitoring
+- institutional controls
+
+In addition, the remedy included establishment of a groundwater compliance boundary and a contingency groundwater remedy in the event monitoring results show that the remedy is not effective in maintaining groundwater quality outside the compliance boundary. The contingency groundwater remedy calls for extending the compliance boundary. The EPA does not believe that the contingency for OU-3/IRP Site 6 requires further construction. This is consistent with Close-Out Procedures for National Priorities List Sites, Section 3.5.4. Rather, an administrative extension of the compliance boundary would be necessary. Construction of the remedy finished in September 2001.
+
+**OU-3/IRP Site 21**
+
+The remedy included:
+
+- removal of petroleum-contaminated soils from various hotspot locations
+- construction of four trenches with passive recovery wells
+- application of a chemical oxidant in each trench to enhance the biodegradation of dissolved-phased contaminants (VOCs - volatile organic compounds - and fuel compounds)
+- installation of a network of 10 active recovery wells in non-hotspot areas within LNAPL (light non-aqueous phase liquid) Pool C connected to a retrofitted LNAPL recovery and treatment system used at the site for previous removal actions
+- installation of provisions to implement groundwater containment/treatment and/or enhanced vapor recovery contingencies in the future
+- surveying and as-built drawings
+- six-month startup and prove-out period for the LNAPL/groundwater recovery and treatment system
+
+**OU4/AFFF Site 4**
+
+In December 2022, [Air Force proposed the creation of a new Operable Unit](https://ar.cce.af.mil/ViewPdf?id=621921&token=2CGSPggguGI1HUdxrEbRPRsinXguEBrmy7gobR5SvZo%3D [L\(1]) related to releases of aqueous film-forming foam (AFFF) for Site SS025P (Motor Pool Release), to be designated as OU-4. A Remedial Investigation to determine the nature and extent of PFAS contamination associated with this site is in progress.
+
+### What Is the Current Site Status?
+
+At the request of EPA and MassDEP, the Air Force has suspended the operation of the existing dynamic groundwater remediation system due to the presence of per- and polyfluoroalkyl substances (PFAS) in the effluent discharged to the Shawsheen River. A plume stability study is currently in progress to determine if alternative remedial actions are required. Upon completion, the Air Force will evaluate the treatment plant and proceed with any recommended actions or optimizations.
+
+The Air Force also conducts long-term monitoring of groundwater and surface water at the OU-1 and OU-3 sites. The groundwater remedy is expected to remove/destroy the sources of groundwater contamination, effectively contain the migration of groundwater contaminants, and is expected to reduce the overall extent of the groundwater plume via a reduction in contaminant mass. The Air Force is also performing supplemental remedial activities for groundwater, including injections of a chemical oxidant to treat chlorinated volatile organic compounds and installation of filter socks containing a concentrated oxygen release compound for treating petroleum hydrocarbons.
+
+The Air Force conducted a Site Investigation for per- and polyfluoroalkyl substances (PFAS), specifically the emerging contaminants perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA) and determined that a Remedial Investigation for PFAS is needed. Investigation begain in 2022 and is ongoing.The Air Force has also sampled for the emerging contaminant 1,4-dioxane and has added 1,4-dioxane to its long-term monitoring program.
+
+Remedy implementation, operational maintenance and monitoring are ongoing.
+
+Institutional controls, maintained and enforced by the Air Force, limit land uses to passive and/or active recreation uses and prevent drinking water use. Access controls are in place and inspections are conducted regularly.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**
+
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100967&doc=Y&colid=31714&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remain onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of documents above, and the EPA regional offices may also be contacted.

@@ -1,21 +1,19 @@
-SOL LYNN/INDUSTRIAL TRANSFORMERSHOUSTON, TX 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 0.75-acre Sol Lynn/Industrial Transformers site is located in Houston, Texas. An electrical transformer salvage and recycling company operated on site from 1965 to 1975. A chemical recycling and supply company operated at the site from 1979 to 1980. Site activities contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities and monitoring are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal and state actions. EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires performing the planned remedial action, institutional controls, proper disposal of drums, replacement of locks on monitoring wells, and interviewing the owner of the on-site building. The site is the former location of an electrical transformer salvage and recycling company that operated between 1965 and 1975. A chemical recycling and supply company later operated at the same location from 1979 to 1980. In 1971, the City of Houston’s Water Pollution Control Division investigated and concluded that workers at the site poured oil out of electrical transformers as they dismantled them. Oil and grease were in the soil and floating on ponded water as well as in ditches on the site. In 1980, an inspection by the Texas Water Commission (TWC), predecessor to the Texas Commission on Environmental Quality (TCEQ), discovered old drums stored at the site. An oily discharge was leaking from a drum storage area behind the warehouses. In 1981, a site inspection by TWC and the Houston Department of Health identified about 75 drums scattered on the site. Most of the drums were labeled “trichloroethene" and were empty and punctured.The site is the former location of an electrical transformer salvage and recycling company that operated between 1965 and 1975. A chemical recycling and supply company later operated at the same location from 1979 to 1980. In 1971, the City of Houston’s Water Pollution Control Division investigated and concluded that workers at the site poured oil out of electrical transformers as they dismantled them. Oil and grease were in the soil and floating on ponded water as well as in ditches on the site. In 1980, an inspection by the Texas Water Commission (TWC), predecessor to the Texas Commission on Environmental Quality (TCEQ), discovered old drums stored at the site. An oily discharge was leaking from a drum storage area behind the warehouses. In 1981, a site inspection by TWC and the Houston Department of Health identified about 75 drums scattered on the site. Most of the drums were labeled “trichloroethene" and were empty and punctured. Top of Page
-What Is the Current Site Status?
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires performing the planned remedial action, institutional controls, proper disposal of drums, replacement of locks on monitoring wells, and interviewing the owner of the on-site building.
+
+The site is the former location of an electrical transformer salvage and recycling company that operated between 1965 and 1975. A chemical recycling and supply company later operated at the same location from 1979 to 1980. In 1971, the City of Houston’s Water Pollution Control Division investigated and concluded that workers at the site poured oil out of electrical transformers as they dismantled them. Oil and grease were in the soil and floating on ponded water as well as in ditches on the site. In 1980, an inspection by the Texas Water Commission (TWC), predecessor to the Texas Commission on Environmental Quality (TCEQ), discovered old drums stored at the site. An oily discharge was leaking from a drum storage area behind the warehouses. In 1981, a site inspection by TWC and the Houston Department of Health identified about 75 drums scattered on the site. Most of the drums were labeled “trichloroethene" and were empty and punctured.
+
+### What Is the Current Site Status?
+
 The site’s long-term remedy included excavation and treatment of polychlorinated biphenyl (PCB)-contaminated soil, and extraction and treatment of contaminated groundwater. EPA later updated the remedy, changing the soil treatment technology and changing the groundwater remedy to monitored natural attenuation and institutional controls to control residential land use. Construction of the remedy finished in 1993. Operation and maintenance activities and monitoring are ongoing.
-Top of Page
-Sampling and Monitoring
-A supplemental remedial investigation was completed in 2002 which identified nine water zones to a depth of 200 feet.  Trichloroethene was found at concentrations exceeding 1 percent of Its solubility in water, indicating that dense non-aqueous phase liquids (DNAPL) may exist.  However, DNAPL was never directly observed. 
-Top of Page
+
+### Sampling and Monitoring
+
+A supplemental remedial investigation was completed in 2002 which identified nine water zones to a depth of 200 feet. Trichloroethene was found at concentrations exceeding 1 percent of Its solubility in water, indicating that dense non-aqueous phase liquids (DNAPL) may exist. However, DNAPL was never directly observed.

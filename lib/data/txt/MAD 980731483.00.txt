@@ -1,2 +1,41 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 3-acre PSC Resources site is located in Palmer, Massachusetts. A waste oil refinery and solvent recovery plant operated on site in the 1970s. The facility reclaimed drained oils and solvents from Massachusetts collection points, treated them with heat, and sold them as lube oil base stock, road spray and heavy fuel mixes. Millions of gallons of waste were left behind in tanks and lagoons when the current owner abandoned the plant in 1978. In 1982, the Massachusetts Department of Environmental Protection (MassDEP) requested assistance from EPA's Superfund program. EPA discovered several leaking tanks and containment dikes, as well as saturated soils. Surface waters, wetlands, property soils and groundwater were found to be threatened by residual waste materials from past leaking tanks and containment dikes. Following immediate actions to protect human health and the environment and construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. The removal of hazardous wastes, installation of a fence, decontamination and demolition of site structures and building, and treatment of contaminated soils have reduced the potential of exposure to hazardous substance at the site.
+
+EPA has conducted several [five-year reviews](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100747&doc=Y&colid=33018&region=01&type=SC) of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+The next five-year review will be completed in 2025.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included the stabilization of contaminated soils and sediments, followed by capping. Cleanup activities took place in 1997. Wetland restoration activities were also completed in 1997. Maintenance of the cap, monitoring of groundwater and surface water and the restored wetlands started in 1998.
+
+Operations and maintenance activities are ongoing. Since the last monitoring event, concentrations for the contaminants of concern have steadily decreased and most are below their respective cleanup levels. Monitoring activities have been modified to reflect improvements at the site. Sediment monitoring has been suspended as sediment performance standards have been met. Groundwater is being monitored every five years (e.g., 2014, 2019). Restored wetlands have been monitored and maintained as required in the site’s O&M Plan. All 10 restoration areas have achieved their required performance criteria and are no longer being inspected.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The matrix below is a general summary of the restrictions at this site at the date of this report. The information in this matrix is a general description of the restrictions at the site only. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above. Note that where multiple entries occur, it will impact more than one pathway.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100747&doc=Y&colid=31740&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.
+
+### Emergency Response and Removal
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. The tanks were emptied of over one million gallons of hazardous wastes between 1979 and 1984. In 1986, MassDEP cleaned and removed the tanks. MassDEP also fenced the site in 1986. EPA completed the repair and reinforcement of the fence in the fall of 1991. The repair was necessary to limit unauthorized access and to extend the fence to include the debris pile and spill area on the western and southern sides of the site. Warning signs were also posted along the fence and on facility buildings. In addition, the decontamination and demolition of site structures and buildings was completed in late 1995.

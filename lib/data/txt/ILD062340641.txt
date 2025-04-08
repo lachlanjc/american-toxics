@@ -1,2 +1,98 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The DePue/New Jersey Zinc/Mobil Chemical site is located in the Village of DePue, Bureau County, Illinois. This 950-acre area had at one time contained a zinc smelting facility and a phosphate fertilizer plant. The site is contaminated with elevated levels of metals that includes zinc, lead, arsenic, cadmium, chromium and copper.
+
+Illinois EPA oversaw cleanup of the DePue until 2019, when the state agency requested that U.S. EPA assume the role as lead agency because negotiations with responsible parties had reached an impasse. Under federal Superfund law, U.S. EPA has additional authorities to help leverage completion of the cleanup.
+
+U.S. EPA will seek to negotiate a cleanup agreement with the potentially responsible parties, CBS and ExxonMobil. U.S. EPA and Illinois EPA have a shared goal to expedite the cleanup of residential properties. U.S. EPA will continue to work closely with Illinois EPA throughout the various investigation and cleanup activities.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through potentially responsible party actions with agency oversight. Due to the site’s size and complexity, the area is divided into six operable units (OUs) for investigation and cleanup.
+
+[More information about each operable unit](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0500396#Status).
+
+#### Cleanup Actions to Date
+
+**Operable Unit 1 – The South Ditch**
+
+The South Ditch conveyed surface water and groundwater from the plant area to Lake DePue for discharge. An interim remedial action conducted in 2005 removed grossly contaminated sediment from the ditch. A more permanent remedy for the South Ditch will be incorporated into the remedial action for Operable Unit 5, Lake DePue.
+
+**Operable Unit 2 – The Phosphogypsum Stack Area**
+
+Cleanup of the phosphogypsum stack is being addressed under Illinois State Landfill Closure regulations. The stack has been covered with 2 feet of soil and is covered by vegetation. Upper and lower swale ponds and a clearwater pond collect surface water and groundwater from the stack area, which is then routed to a wetlands area for treatment and discharge to the Illinois River. Operation and maintenance activities are ongoing. A solar panel field is currently being built on top of the landfill. U.S. EPA is beginning the Superfund process at Operable Unit 2 and is reviewing existing data to determine if additional investigative work needs to be done. A Superfund decision document will be written for Operable Unit 2 once this process is complete.
+
+**Operable Unit 3 – Former Plant Site Area**
+
+Operable Unit 3 includes a partially vegetated zinc slag pile that covers approximately 14 acres and extends to about 50 feet above grade. Adjacent areas where slag has been placed at and below grade include approximately another 10 acres. Ridges of lithopone left over from paint pigment production cover about 10 acres and rise to approximately 10 feet above grade. An interim water treatment plant installed in the 1990s collects groundwater from the site, treats it to remove metals, and discharges treated water to the Illinois River via the River Water Line.
+
+The Remedial Investigation is ongoing at Operable Unit 3. A Baseline Ecological Risk Assessment, also known as BERA is part of the Remedial Investigation and is currently under review. The next step after the BERA is the feasibility study, which develops, screens, and evaluates alternative remedial actions.
+
+**Operable Unit 4 – Off-Site Soils**
+
+The Record of Decision for Operable Unit 4 was signed in 2017. The selected remedy includes the excavation of contaminated soils from residential areas and restoration of properties.
+
+Sampling and remediation work continues at residential properties in DePue. Please contact the Remedial Project Manager, Rose Guardino ( [guardino.rose@epa.gov](mailto:guardino.rose@epa.gov?subject=DePue%3A%20Sampling%20and%20remediation%20work) ) to sign up to have your soil tested.
+
+**Operable Unit 5 - Lake DePue Sediment and Floodplain**
+
+The Remedial Investigation is ongoing at Operable Unit 5. A Baseline Ecological Risk Assessment, or BERA, is part of the remedial investigation and is currently under review. U.S. EPA is working on aligning technical contractor support and other resources necessary for completing the review of the BERA.
+
+**Operable Unit 6 - Former OPERABLE UNIT 4 Ecological and Agricultural Areas**
+
+This is a new operable unit that was previously part of Operable Unit 4. EPA determined that it is more efficient to separate non-residential areas (such as farmlands and wilderness areas) and place them into their own operable unit because the cleanup standards and approach for these areas are different from those of residential areas. The next step for Operable Unit 6 is to conduct the Remedial Investigation, which will begin once the remedial design sampling at Operable Unit 4 is close to completion.
+
+### What Is the Current Site Status?
+
+The site was divided into six areas, or operable units, for investigation and cleanup. The general status of each operable unit is described below.
+
+#### Operable Unit 1 – The South Ditch
+
+The south ditch drained surface water and groundwater from the plant area into Lake DePue. Heavily contaminated sediments were removed from the ditch in 2005 as an interim measure. The cleanup decision for OU5 will include a permanent cleanup of the ditch. EPA is conducting a Five-Year Review of OU1 to make sure the cleanup continues to protect people and the environment.
+
+#### Operable Unit 2 – The Phosphogypsum Stack Area
+
+Phosphogypsum is a common by-product in fertilizer manufacturing, often stored in large piles called “stacks.” This stack is capped with 2 feet of soil and vegetation, on which a solar panel field is installed. An engineered treatment wetland is next to the stack. EPA is reviewing existing data to determine if additional investigative work needs to be done.
+
+#### Operable Unit 3 – Former Plant Site Area
+
+This part of the site includes a slag pile that covers about 14 acres, as well as contaminated groundwater. An interim water treatment plant collects groundwater from the site, treats it to remove metals, and discharges treated water to the Illinois River. An investigation documenting the nature and extent of contamination and assessing risk to human health and the environment was completed in February 2024. The next step is the Feasibility Study which will evaluate cleanup options for the site.
+
+EPA has finalized the Remedial Investigation at Operable Unit 3, which includes a Baseline Ecological Risk Assessment, or BERA. The next step after the BERA is the feasibility study, which develops, screens, and evaluates alternative remedial actions.
+
+- [Environ - Remedial Investigation Report Out - May 2006 (PDF)](https://semspub.epa.gov/src/document/05/988343) (1,361 PP 286.61 MB)
+- [Environ - Screening Level Human Health Risk Evaluation for Ou3 - December 2014 (PDF)](https://semspub.epa.gov/src/document/05/988344) (453 Pp, 27.07 MB)
+- [Ramboll - Baseline Ecological Risk Assessment Ou3 On-Site Soils and Groundwater - November 2023 (PDF)](https://semspub.epa.gov/src/document/05/988341) (8,427 PP 317.04 MB)
+- [Ramboll - Groundwater Flow Model Report Ou3 - November 2023 (PDF)](https://semspub.epa.gov/src/document/05/988342) (303 PP 97.47 MB)
+
+#### Operable Unit 4 – Off-Site Soils
+
+Residential soil sampling and cleanup activities are ongoing. Please contact EPA staff with any questions regarding soil sampling and cleanup. EPA is conducting a Five-Year Review of OU4 to make sure the cleanup continues to protect people and the environment.
+
+[Soil Sampling Webviewer - Operational Unit 4](https://storymaps.arcgis.com/stories/2b6e9399200c48a2bab5a62ceb98b97b)
+
+#### Operable Unit 5 – DePue Lake Sediments and Floodplain
+
+A Baseline Ecological Risk Assessment is being conducted in preparation for the development of a permanent cleanup for this portion of the site.
+
+#### Operable Unit 6 - Ecological and Agricultural Areas
+
+This part of the site was previously part of OU4. EPA determined that it is more efficient to separate nonresidential areas (farmlands, forests, etc.) and place them into their own operable unit because the cleanup standards and approach for these areas are different from those of residential areas. The next step is to conduct a Remedial Investigation.
+
+#### Soil Sampling to Continue in 2025
+
+Soil sampling will continue at residential properties in DePue this year at no cost to property owners. 657 residential properties and public areas have been sampled. Of the sampled properties, 513 had contaminant concentrations that required cleanup.
+
+If EPA has not sampled your property yet, we encourage you to sign up for the upcoming soil sampling season.
+
+EPA has cleaned 481 residential properties in DePue since the cleanup began in 2020! EPA is working to obtain access to cleanup 29 remaining properties where sampling results show that contaminant concentrations exceed the health-based cleanup standards.
+
+Learn more about free property sampling or clean-up: Rose Guardino Remedial Project Manager, [guardino.rose@epa.gov](http://guardino.rose@epa.gov), 312-886-2407
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Several sources for the contaminants have been identified: a residue pile, a zinc slag pile, lithopone waste material ridges, a cinder fill area, contaminated soils, cooling ponds, a discharge ditch, and the gypsum stack. All sources were found to contain elevated levels of metals including zinc, lead, arsenic, cadmium, chromium, and copper. Contamination of a fishery, state wildlife refuge, and wetlands has been documented in Lake DePue.

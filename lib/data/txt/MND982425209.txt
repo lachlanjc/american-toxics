@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Baytown Township Ground Water Plume site is located in Washington County, Minnesota. It includes parts of Baytown Township, West Lakeland Township, the City of Bayport, and the City of Lake Elmo. The site consists of a predominantly trichloroethene (TCE) contaminated groundwater plume located in the Prairie du Chien Aquifer, the Jordan Sandstone Aquifer and, in certain areas, the Tunnel City Aquifer. The contaminated plume covers about seven square miles. A former metal working facility in Lake Elmo is the primary source of the site’s contamination. Treatment of private and public drinking water, groundwater monitoring, and a source area remedial investigation are ongoing.
+
+The Minnesota Department of Health (MDH) first detected TCE in private wells in 1987 and created a Special Well Construction Area to protect residents. There are over 900 residential water supply wells in this area that supply drinking water to the individual residents. These water supply wells are one of the primary means of defining the extent of the plum e and monitoring changes within the plume.
+
+The site was listed on the state's Permanent List of Priorities in 1988 and added to the National Priorities List (NPL) in 1994. Minnesota Pollution Control Agency (MPCA) assumed responsibility for regulatory oversight of the Site in 1995 In 2000, MPCA and EPA selected a remedy for the groundwater plume and private wells which requires plume monitoring and installation and maintenance of granular activated carbon (GAC) treatment units for private wells, and maintenance off the Special Well Construction Area. In 2007, MPCA and EPA amended the remedy to add drinking water treatment for the City of Bayport Municipal Well #2 and treatment for the area that was the source of the contamination. These remedies have been operating since 2008. The ROD Amendment separated the Site into three operable units (OU) 1) OU1: private wells and groundwater plume, 2) OU2: City of Bayport municipal wells, 3) OU3: Source area. In 2015, MPCA and EPA amended the remedy to add an additional City of Bayport municipal well to the treatment system.
+
+MPCA was the lead agency for all three operable units until September 2023. The funding under the State Superfund Contract expired in September 2022. EPA extended the grant for the State Superfund Contract to MPCA until September 2023, at which time EPA became the lead agency for activities associated with OU3.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA and MPCA review the site’s remedy every five years to make sure it remains protective of human health and the environment. The most recent review, conducted in 2022, concluded that the remedy is protective in the short term because residential and municipal water supplies are being treated. However, to be protective in the long term, it is important that the source area is further investigated and groundwater monitoring be continued. These activities are currently ongoing at the site.
+
+### What Is the Current Site Status?
+
+EPA and MPCA review the site’s remedy every five years to make sure it remains protective of human health and the environment. The most recent review, conducted in 2022, concluded that the remedy is protective in the short term because residential and municipal water supplies are being treated, and prohibitions against drilling new wells in contaminated areas are in place. The review made several recommendations, including a source area investigation to identify contaminated mass and alternative remedies that may accelerate the remediation and ensure long-term protectiveness.. EPA is currently leading a remedial investigation of the source area. To support the development of the remedial investigation, additional hydrological, groundwater, and subsurface soil data will be collected to help identify and delineate the source ares and the lateral and vertical extent of contamination. MPCA continues to monitor private drinking water wells and install GAC filters for eligible wells as needed.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).

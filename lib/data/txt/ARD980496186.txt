@@ -1,22 +1,21 @@
-CECIL LINDSEYNEWPORT, AR 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-BackgroundThe 5.2-acre Cecil Lindsey site is located in Newport, Arkansas. A salvage and waste disposal facility operated on site from the early 1970s to 1980. Later, the community of Diaz used part of the site as a municipal dump. Disposal of industrial waste reportedly also took place. Several companies may have used the site; the extent of industrial waste disposal is not well documented. Waste disposal activities contaminated soil, sediment, groundwater and surface water. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL).Current StatusThe long-term remedy included removal and disposal of drums, site access restrictions, installation of monitoring wells and one year of groundwater monitoring. Construction of the remedy took place from 1987 to 1989. EPA took the site off the NPL in 1989.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site was addressed through federal and state actions.
-Top of Page
-What Is the Current Site Status?
+### Background
+
+**Background**
+
+The 5.2-acre Cecil Lindsey site is located in Newport, Arkansas. A salvage and waste disposal facility operated on site from the early 1970s to 1980. Later, the community of Diaz used part of the site as a municipal dump. Disposal of industrial waste reportedly also took place. Several companies may have used the site; the extent of industrial waste disposal is not well documented. Waste disposal activities contaminated soil, sediment, groundwater and surface water. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL).
+
+**Current Status**
+
 The long-term remedy included removal and disposal of drums, site access restrictions, installation of monitoring wells and one year of groundwater monitoring. Construction of the remedy took place from 1987 to 1989. EPA took the site off the NPL in 1989.
-Top of Page
-Sampling and Monitoring
-The results of the Field Investigation indicate the presence of very limited onsite soil and groundwater contamination and offsite surface water (Village Creek) and sediment contamination.  Onsite soil samples showed low inorganic concentrations which exceed background levels scattered throughout the site and also isolated volatile organic contamination. 
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and state actions.  
+
+### What Is the Current Site Status?
+
+The long-term remedy included removal and disposal of drums, site access restrictions, installation of monitoring wells and one year of groundwater monitoring. Construction of the remedy took place from 1987 to 1989. EPA took the site off the NPL in 1989.
+
+### Sampling and Monitoring
+
+The results of the Field Investigation indicate the presence of very limited onsite soil and groundwater contamination and offsite surface water (Village Creek) and sediment contamination. Onsite soil samples showed low inorganic concentrations which exceed background levels scattered throughout the site and also isolated volatile organic contamination.

@@ -1,20 +1,35 @@
-BELTSVILLE AGRICULTURAL RESEARCH CENTER (USDA)BELTSVILLE, MD 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
- The 6,500-acre Beltsville Agricultural Research Center site is located in Prince George’s County, Maryland. The U.S. Department of Agriculture (USDA) has owned and operated the area as a research park for soil, water, air, plant and animal sciences since 1910. Waste disposal activities at several former landfills and other disposal areas contaminated soil, groundwater and surface water with hazardous chemicals. Cleanup of some site areas is complete; remedial investigations and feasibility studies are underway at several other site areas. Top of Page
-What Has Been Done to Clean Up the Site?
- The BARC site is being addressed through federal actions. A March 1998 Federal Facilities Agreement (FFA) between EPA USDA identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are seven operable units being addressed under the Superfund program.    EPA has signed Records of Decision (RODs) selecting remedies for one operable unit:  
-OU5 – Beaverdam Road Landfill 
-The remedy implemented at OU5 is a reactive mulch biowall and monitoring wells, with ongoing land use controls (LUCs).  A full list of operable units can be viewed under the Operable Units section. 
-Top of Page
-What Is the Current Site Status?
-There are currently 6 OUs under investigation which may require a remedy at the site.  The USDA has the lead role for cleaning up the Beltsville Agricultural Research Center. Per the Federal Facilities Agreement between EPA and the USDA, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see the USDA's site webpage or the most recent Site Management Plan. 
-A full list of activities per each operable unit can be found under the Cleanup Progress section.   
-The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent can be found here, 2023 Five-Year Review. The next five-year review is scheduled for 2028.   [JL1]Include SMP to upload.   [SE2]The FFA info is redundant to one of the paragraphs above.  [JL3]This part is from the template to use the SMP to explain current status at the OUs without RODs yet.  [JL4]Upload 2023 FYR Top of Page
+### Background
+
+The 6,500-acre Beltsville Agricultural Research Center site is located in Prince George’s County, Maryland. The U.S. Department of Agriculture (USDA) has owned and operated the area as a research park for soil, water, air, plant and animal sciences since 1910. Waste disposal activities at several former landfills and other disposal areas contaminated soil, groundwater and surface water with hazardous chemicals. Cleanup of some site areas is complete; remedial investigations and feasibility studies are underway at several other site areas.
+
+### What Has Been Done to Clean Up the Site?
+
+The BARC site is being addressed through federal actions. A March 1998 Federal Facilities Agreement (FFA) between EPA USDA identified areas for investigation and possible cleanup. The FFA provided the framework and a schedule to accomplish this work. Currently, there are seven operable units being addressed under the Superfund program.
+
+EPA has signed Records of Decision (RODs) selecting remedies for one operable unit:
+
+- OU5 – Beaverdam Road Landfill
+
+The remedy implemented at OU5 is a reactive mulch biowall and monitoring wells, with ongoing land use controls (LUCs).
+
+A full list of operable units can be viewed under the Operable Units section.
+
+### What Is the Current Site Status?
+
+There are currently 6 OUs under investigation which may require a remedy at the site.
+
+The USDA has the lead role for cleaning up the Beltsville Agricultural Research Center.
+
+Per the Federal Facilities Agreement between EPA and the USDA, a Site Management Plan (SMP) is annually updated with activities at each operable unit and area of concern. For detailed information on the current cleanup status, see the [USDA's site webpage](https://cercla.ba.ars.usda.gov/barc) or the most recent [Site Management Plan](https://semspub.epa.gov/src/document/03/2375107).
+
+A full list of activities per each operable unit can be found under the Cleanup Progress section.
+
+The lead agency conducts five-year reviews for remedies implemented. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent can be found here, 2023 Five-Year Review. The next five-year review is scheduled for 2028.
+
+\[JL1\]Include SMP to upload.
+
+\[SE2\]The FFA info is redundant to one of the paragraphs above.
+
+\[JL3\]This part is from the template to use the SMP to explain current status at the OUs without RODs yet.
+
+\[JL4\]Upload 2023 FYR

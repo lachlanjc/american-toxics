@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 50-acre Thermo-Chem, Inc. site is located in Egelston Township, Michigan. Thermo-Chem, Inc. and the Thomas Solvent Company owned and operated waste solvent reprocessing and storage facilities at the site. These operations resulted in high concentrations of volatile, semi-volatile and inorganic contamination of soils and groundwater. Following cleanup, operations and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. Cleanup has included:
+
+- Excavating contaminated soil.
+- Removing site structures and debris.
+- Treating contaminated groundwater using filtration, air stripping, metal additives and pH adjustment.
+- In-situ vapor extraction to enhance breakdown of contaminants in soil.
+
+The PRPs implemented this cleanup plan between 1995 and 2002. In 2012, they also installed a dechlorination system to accelerate the breakdown of volatile organic compounds in the soil into safer chemicals.
+
+EPA staff continue to monitor the site to ensure that the remedies put in place protect human health and the environment. While recent reviews of the site conclude that the remedy is protective in the short term, a long-term protective measure for this site includes restricting future site access, zoning, as well as land and groundwater use, using a legal mechanism termed Institutional Controls, or ICs.
+
+### What Is the Current Site Status?
+
+The site is in the Operations & Maintenance phase of the Superfund process. EPA completed the fourth Five-Year Review of the site in 2020. The Superfund law requires regular checkups of sites that have been cleaned up - with waste managed on-site - to make sure the cleanup continues to protect people and the environment. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+This Five-Year Review found that the remedy is currently protective of human health and the environment in the short term, since the remedies in place prevent exposure to contaminants in site soil and water. However, to be protective in the long term, the 2020 Five-Year Review recommends that the PRP:
+
+- Review current groundwater monitoring plan to ensure that the contaminant plume is not expanding.
+- Sample for PFAS and PFOA, since the site’s history and background suggest that these chemicals may be present on site.
+- Sample for 1,4-dioxane, since Michigan’s Department of Environment, Great Lakes, and Energy has detected this chemical in groundwater at and near the site.
+- Implement ICs for all land parcels at the site.
+
+The fifth Five-Year Review for the site is currently underway. This review is an opportunity for the community to tell EPA about site conditions and any concerns they may have. If you would like to share comments, please visit the [public notice](https://www.epa.gov/publicnotices/epa-begins-fifth-review-thermo-chem-inc-superfund-site) page.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+1,1-Dichloroethene, Toluene, Napthalene, 1,2-Dichloroethene, xylenes, Arsenic, Chloroform, bis (2-Ethylhexyl) phthalate, Chromium, 1,2-Dichloroethane, Trichloroethene, 4,4-DDT, 1,1,1-Trichloroethane, Benzene, Tetrachloroethene.
+
+[www.epa.gov/IRIS/](http://www.epa.gov/IRIS/)
+
+### Emergency Response and Removal
+
+From September to December 1988, concurrent with investigation activities at the Thermo Chem, Inc. and Thomas Solvent Co. properties, an emergency removal of drums and materials containing hazardous waste was conducted by U.S. EPA at the Thermo Chem, Inc. property. Additional emergency removal activities were conducted by U.S. EPA from April to September 1991. Sixteen underground storage tanks (and their contents) that were on the Thomas Solvent Co. property were removed and taken off-site by U.S. EPA for proper disposal.

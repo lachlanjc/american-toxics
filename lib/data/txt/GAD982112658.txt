@@ -1,2 +1,70 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Terry Creek Dredge Spoil Areas/Hercules Outfall is located on the Atlantic coast directly east of the city of Brunswick, Glynn County, Georgia. The site is located, near the confluence of Terry Creek, Dupree Creek, and the Back River, north of the Torras Causeway and east of U.S. Highway 17. The site consists of a salt water tidal creek and marsh system. The Hercules outfall ditch extends from Highway 17 to Dupree Creek. A residential neighborhood borders the area of the site referred to as the Riverside Dredge Spoil Area, next to Back River. Goodyear Elementary School is also located nearby but has not been affected by the site’s contamination.
+
+The site consists of four source areas – three disposal areas and the outfall ditch – in between the Hercules Brunswick facility and the Back River. These areas are contaminated with toxaphene, a chlorinated pesticide, caused by discharges by Hercules LLC (formerly known as Hercules Incorporated) during the manufacturing of toxaphene from the former pesticide plant. Between 1948 and 1980, Hercules, Inc. operated a pesticide production facility and discharged wastewater from the facility through an outfall ditch. The U.S. Army Corps of Engineers periodically dredged areas of the site, including Dupree Creek and Terry Creek., and placed the dredged sediment in several areas near the merging point of Dupree Creek and Terry Creek.
+
+The site was proposed to the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1997. However, the site was never finalized on the NPL. EPA plans to utilize the [Superfund Alternative Approach (SAA)](http://www.epa.gov/superfund/superfund-glossary#s) at the site in cleanup settlement agreements with [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) for remedial action work. The SAA is an alternative to listing a site on the NPL before securing a cleanup agreement. The SAA uses the same process and standards for investigation, cleanup, and community involvement as sites on the NPL.
+
+EPA, the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/) and Hercules, Inc., the site’s potentially responsible party (PRP), have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+Hercules, Inc., the site’s PRP, leads site investigation and cleanup activities, with oversight provided by EPA and Georgia EPD.
+
+EPA divided the site into three Operable Units (OUs).
+
+- OU-1: Outfall Ditch
+- OU-2: upland soils around the Outfall Ditch and three areas where sediment was placed from dredging of Terry and Dupree Creeks (dredge spoils areas);
+- OU-3: portions of Terry and Dupree Creeks.
+
+**1999 – 2000**  
+During 1999-2000 a dredging removal action was conducted which removed approximately 35,000 cubic yards of contaminated sediment from the Outfall ditch and portions of Terry and Dupree Creeks.
+
+Following cleanup actions, the PRP began a seafood monitoring program and found that contaminant levels in fish had declined significantly. However, a fish consumption advisory remains in place for parts of Dupree Creek and Terry Creek.
+
+**2017**  
+EPA issued an Interim Record of Decision (IROD) that specifies the interim remedy for Operable Unit 1: Outfall Ditch (OU-1) at the Site. The Georgia EPD concurred with the interim remedy decision.
+
+The major components of the interim remedy (interim [Record of Decision - ROD](http://semspub.epa.gov/work/04/11067733.pdf) ) address sediment contamination in OU-1 include:
+
+- Re-routing the existing stormwater ditch into a newly constructed concrete-lined ditch;
+- Excavation and offsite disposal of impacted sediment near Glynn Avenue to construct the new concrete-lined ditch;
+- Removal of the existing weir across the Outfall Ditch;
+- Placement of geo-textile fabric over existing sediment in the Outfall Ditch;
+- Backfilling the Outfall Ditch with compacted clean soil;
+- Armoring the backfill slope at the confluence with Dupree Creek;
+- Development of a long term monitoring plan to ensure effectiveness of the interim remedy; and
+- Implementation of institutional controls such as an environmental covenant prescribing land use and activity restrictions to prevent unauthorized disturbance of the soil cover and other interim remedy components.
+
+**2022**
+
+Remedial action to implement the interim remedy for OU1: Outfall Ditch commenced. Remedial action construction continues and is anticipated to conclude in 2025.
+
+### What Is the Current Site Status?
+
+On September 29,2017, EPA sent Hercules, Inc. a Special Notice Letter regarding the consent decree for remedial design/remedial action at Operable Unit 1:Outfall Ditch. Hercules, Inc. responded to EPA on January 3, 2018 with a good faith offer. EPA and Hercules have both signed the consent decree and the Department of Justice has filed the consent decree with the Federal Court for its review.
+
+The PRP continues to conduct fish tissue sampling every two years. Fish sampling has been conducted in 2005, 2007, 2009, 2011, 2013, 2015, 2017, 2020, and 2022. The next sampling event was scheduled to be conducted in 2024, but will be conducted after the remedial action for OU1: Outfall Ditch is completed.
+
+Following cleanup actions, the PRP began a seafood monitoring program and found that contaminant levels in fish had declined significantly. However, a fish consumption advisory remains in place for parts of Dupree Creek and Terry Creek.
+
+Implementation of institutional controls such as an environmental covenant prescribing land use and activity restrictions to prevent unauthorized disturbance of the soil cover and other interim remedy components.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Following cleanup actions, the PRP began a seafood monitoring program and found that contaminant levels in fish had declined significantly. However, a fish consumption advisory remains in place for parts of Dupree Creek and Terry Creek.
+
+Implementation of institutional controls such as an environmental covenant prescribing land use and activity restrictions to prevent unauthorized disturbance of the soil cover and other interim remedy components.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA negotiated legal agreements with the site’s PRP to investigate and clean up the site. The PRP continues to fund site cleanup, monitoring and oversight activities.
+
+On September 29,2017, EPA sent Hercules, Inc. a Special Notice Letter regarding the consent decree for remedial design/remedial action at Operable Unit 1:Outfall Ditch. Hercules, Inc. responded to EPA on January 3, 2018 with a good faith offer. EPA and Hercules have both signed the consent decree and the Department of Justice has filed the consent decree with the Federal Court for its review. The final [consent decree](https://semspub.epa.gov/work/04/11141062.pdf) was approved in 2018.

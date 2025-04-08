@@ -1,2 +1,53 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Petoskey Manufacturing Co., or PMC, was located at 200 W. Lake St. in Petoskey and contained a die casting plant from the 1940s and a painting operation from the mid- to late-1960s. Disposal of spent solvents and paint sludge onto the ground outside the PMC building contaminated soil and groundwater in the vicinity of the site. “Groundwater” is an environmental term for underground supplies of fresh water. A mass of contaminated groundwater – called a “plume” – moved to a nearby well called the Ingalls Shore Municipal Well. The Ingalls well provided drinking water to city residents. Water from the well contained volatile organic compounds, or VOCs. The primary VOC was a chemical called trichloroethylene, or TCE.
+
+The Petoskey Municipal Well Field provided drinking water until late 1997. PMC stopped operating its facility in 2001, and in 2006 the city of Petoskey removed the Ingalls Well. The city has replaced the contaminated well with a new groundwater source, so Petoskey residents no longer consume drinking water affected by PMC pollutants.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. [Several site cleanup milestones have already been achieved](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0502332).
+
+EPA has conducted four five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by the site decision documents.
+
+In the [2014 Five-Year Review (PDF)](http://semspub.epa.gov/src/document/05/483167) 105 pp, 19.5MB, [About pdf](https://www.epa.gov/home/pdf-files) ), vapor intrusion was identified as a potential issue at the former PMC source area. Beginning in January 2017, EPA conducted sampling under the slab of about two-thirds of the Water Street Condominium residences. The sampling looked for contamination in the soil gas, which is vapors trapped between soil particles. After preliminary results showed high levels of trichloroethylene, or TCE, under some units, EPA scheduled indoor air sampling in March 2017 to determine if TCE could also be detected in the air inside the condominium residences. Results showed that some units did have levels of TCE that could pose a health risk. EPA and the local health department notified affected residents of the results and provided temporary air purifications systems. Additional sampling was conducted to help EPA complete engineering design of a permanent vapor mitigation system. Vapor mitigation systems were installed for each condominium unit as well as one building to the west.
+
+### What Is the Current Site Status?
+
+EPA, working with the Michigan Department of Environment, Great Lakes, and Energy signed an Interim Record of Decision, or ROD, to address the contaminated groundwater, soil, and soil vapors at the site. EPA will gather additional data and fully design the AS/SVE system to address the contamination at the source area. EPA will request access to residential properties in the site area to sample private properties to determine if a mitigation system is needed.
+
+[\[Redacted\] Interim Record Of Decision (Rod) (Signed) - Pmc Groundwater Superfund Site (pdf)](https://semspub.epa.gov/src/document/05/978021) (21.48MB) ( [About pdf](https://www.epa.gov/home/pdf-files) )
+
+EPA has completed the fifth five-year review of the PMC Groundwater site. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment.  
+[FIFTH FIVE YEAR REVIEW REPORT (SIGNED) - PMC GROUNDWATER](https://semspub.epa.gov/src/document/05/999657) (12.97 MB)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+[Institutional controls (ICs)](https://www.epa.gov/superfund/superfund-institutional-controls) are non-engineered instruments, such as administrative and/or legal controls, that help minimize the potential for exposure to contamination and protect the integrity of the remedy. Compliance with ICs is required to assure long-term protectiveness for any areas which do not allow for unrestricted use.
+
+Based on inspections and interviews, EPA is not aware of site or media uses which are inconsistent with the stated objectives of the ICs. No site uses which are inconsistent with the implemented ICs or remedy IC objectives have been noted during the site inspection. The restrictive covenants for the former PMC Property, including a map showing areas to which the covenants apply, are presented in Appendix B of the [2020 Five-Year Review](https://semspub.epa.gov/src/document/05/955047) of the site.
+
+Although sufficiently protective in regard to Superfund Law requirements, the 2020 five-year review report recommends that restrictive covenants for properties overlying the groundwater plume provide a more specific prohibition on drinking water well installation by supplementing the existing City of Petoskey code. This would maintain consistency with Michigan EGLE regulations and guidance.
+
+### Sampling and Monitoring
+
+The 1998 [Record of Decision (pdf)](https://semspub.epa.gov/work/05/205549.pdf) (109pp, 20.6MB, [About PDF](https://www.epa.gov/home/pdf-files) ) called for groundwater monitoring as an integral part of the Monitored Natural Attenuation Remedy. Extensive repairs on monitoring wells were done along with a single round of groundwater monitoring in July 2011 using EPA funding. EPA conducted another round of investigatory groundwater sampling in October 2016. (See groundwater monitoring report listed below). The response-related maintenance work has been sporadic over the years because the EPA and Michigan EGLE have not reached an agreement on a longer-term funding approach for the site.
+
+The 2014 five-year review report identified a new pathway to investigate, the vapor intrusion pathway. That supplemental remedial investigation began in late 2016 and included groundwater monitoring conducted in 2018 and the installation of additional wells at the site. The results of these investigations are provided in the 2019 remedial investigation report (listed below).
+
+The 2020 five-year review report for the site indicated that the remedy is not functioning as intended because natural attenuation of the groundwater TCE plume is not occurring at a rapid enough rate and vapor intrusion has been found to be an exposure pathway of concern. EPA is proposing to address the vapor intrusion pathway through an interim remedial action. Learn about the proposed plan: [EPA Proposes Cleanup Plan for Groundwater, Soil & Vapors – June 2022 (PDF)](https://semspub.epa.gov/src/document/05/976052) (8 pp, 3.62MB, [About PDF](https://www.epa.gov/home/pdf-files) ).
+
+After implementation of the interim remedial action, the groundwater plume will be assessed, and additional clean-up actions will be proposed in a final record of decision for the site.
+
+#### Detailed analysis of the most recent groundwater monitoring data is presented in two documents:
+
+- [Long-Term Groundwater Monitoring Activities – October 2016, PMC Groundwater Site, Emmet County, Michigan (pdf)](http://semspub.epa.gov/src/document/05/939570) (161 pp, 10.4MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [Remedial Investigation Report – Operable Unit 2, PMC Groundwater Site, July 2019 (PDF)](https://semspub.epa.gov/src/document/05/2003329) (6464 pp, 214.6MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Enforcement Information
+
+The potentially-responsible party, the former Petoskey Manufacturing Company, is no longer in business. The cleanup is currently funded by the federal [Superfund Program](https://www.epa.gov/superfund "Superfund Program").

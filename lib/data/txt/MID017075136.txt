@@ -1,16 +1,21 @@
-H. BROWN CO., INC.GRAND RAPIDS, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 3.5-acre H. Brown, Co., Inc. site is located at 2200 Turner Avenue, N. W., in the City of Walker, Michigan. The 16-acre site was a battery recycling facility with about 200,000 cubic yards of soil contaminated by lead and other battery-related metals. The site and surrounding area may have been used as a municipal waste disposal landfill before the H. Brown Company began operating on site in 1961. Waste disposal and lead reclamation processes contaminated air, groundwater and soil with lead and volatile organic compounds (VOCs). Following cleanup, operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-Before 1961, the site operated as an uncontrolled dump. A portion of the property was used for the disposal of municipal waste. Between 1961 and approximately 1982, the property owner reclaimed lead from wet-cell batteries. During that period, up until 1978, the battery acid was reportedly drained directly to the ground before shredding the batteries. The total volume of battery acid disposed of at the site has been estimated to be between 170,000 and 460,000 gallons. After 1978, battery acid was not drained onto the ground but instead routed to a stainless-steel catch pan and tank. Some of the hazardous substances that were released and/or detected at the Site in the soil and groundwater included: antimony, arsenic, benzene, beryllium, bis(2-ethylhexyl) phthalate, cadmium, chromium, lead, nickel, vanadium, and zinc. The Michigan Department of Natural Resources (now Michigan Department of Environment, Great Lakes and Energy) inspected the H. Brown site several times during the 1970s. In 1970, the state agency noted acidic waters draining into a ditch that drained into the Grand River. In 1978, MDNR sampled wastewater ponded at the site and found elevated levels of lead, chromium, copper, and nickel. U.S. EPA became involved with the site in the early 1980s, after a site inspection in 1984 found elevated levels of chromium and lead, and an acidic pH in a ditch leading from the site to the Grand River. The site was placed on the National Priorities List (NPL) in June 1986, making it eligible for further study and cleanup under the EPA Superfund program. In 1991, under an administrative order from EPA, the potentially responsible parties (PRPs) constructed a fence around the area to the north of the H. Brown property to minimize contact with the contaminated soil by the public. The site’s long-term remedy included the construction of a cover system, comprising three warehouse building foundations, asphalt parking areas and landscaped areas. The remedy also included groundwater monitoring, land use restrictions and long-term maintenance of the cover system. Construction of the remedy took place between 1998 and 2000. Operation and maintenance activities are ongoing. 
-Top of Page
-What Is the Current Site Status?
-Following cleanup, EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that cleanup actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires implementation of institutional controls at the site. The next five-year review will be completed in 2024. Current and previous Five-Year Review Reports are available in the Site Documents & Data section of this website. Top of Page
+### Background
+
+The 3.5-acre H. Brown, Co., Inc. site is located at 2200 Turner Avenue, N. W., in the City of Walker, Michigan. The 16-acre site was a battery recycling facility with about 200,000 cubic yards of soil contaminated by lead and other battery-related metals. The site and surrounding area may have been used as a municipal waste disposal landfill before the H. Brown Company began operating on site in 1961. Waste disposal and lead reclamation processes contaminated air, groundwater and soil with lead and volatile organic compounds (VOCs). Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+Before 1961, the site operated as an uncontrolled dump. A portion of the property was used for the disposal of municipal waste. Between 1961 and approximately 1982, the property owner reclaimed lead from wet-cell batteries. During that period, up until 1978, the battery acid was reportedly drained directly to the ground before shredding the batteries. The total volume of battery acid disposed of at the site has been estimated to be between 170,000 and 460,000 gallons. After 1978, battery acid was not drained onto the ground but instead routed to a stainless-steel catch pan and tank.
+
+Some of the hazardous substances that were released and/or detected at the Site in the soil and groundwater included: antimony, arsenic, benzene, beryllium, bis(2-ethylhexyl) phthalate, cadmium, chromium, lead, nickel, vanadium, and zinc.
+
+The Michigan Department of Natural Resources (now Michigan Department of Environment, Great Lakes and Energy) inspected the H. Brown site several times during the 1970s. In 1970, the state agency noted acidic waters draining into a ditch that drained into the Grand River. In 1978, MDNR sampled wastewater ponded at the site and found elevated levels of lead, chromium, copper, and nickel.
+
+U.S. EPA became involved with the site in the early 1980s, after a site inspection in 1984 found elevated levels of chromium and lead, and an acidic pH in a ditch leading from the site to the Grand River. The site was placed on the National Priorities List (NPL) in June 1986, making it eligible for further study and cleanup under the EPA Superfund program. In 1991, under an administrative order from EPA, the potentially responsible parties (PRPs) constructed a fence around the area to the north of the H. Brown property to minimize contact with the contaminated soil by the public.
+
+The site’s long-term remedy included the construction of a cover system, comprising three warehouse building foundations, asphalt parking areas and landscaped areas. The remedy also included groundwater monitoring, land use restrictions and long-term maintenance of the cover system. Construction of the remedy took place between 1998 and 2000. Operation and maintenance activities are ongoing.
+
+### What Is the Current Site Status?
+
+Following cleanup, EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that cleanup actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires implementation of institutional controls at the site.
+
+The next five-year review will be completed in 2024. Current and previous Five-Year Review Reports are available in the Site Documents & Data section of this website.

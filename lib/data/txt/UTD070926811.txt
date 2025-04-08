@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Kennecott North Zone is an industrial area at the north end of the Oquirrh Mountains and the south shore of the Great Salt Lake. It is next to the community of Magna. Interstate Highway 80, state highways, and rail lines pass through the Site.
+
+Since 1906, the North Zone has been used to process copper, lead, zinc, molybdenum, arsenic, gold, and silver-bearing ores. The wastes produced contain contaminants that can be hazardous. These wastes can include heavy metals such as arsenic, cadmium, lead, and selenium. Soils, sediment, surface water, groundwater, and the nearby wetlands have been impacted.
+
+On January 18, 1994, the EPA proposed the Kennecott North Zone to the National Priorities List. In September 1995, Rio Tinto Kennecott (the current owner and operator of the site), the EPA, and Utah Department of Environmental Quality signed a Memorandum of Understanding. Rio Tinto Kennecott agreed to do several cleanup projects. In return, the EPA agreed to delay finalizing the listing of the North Zone on the National Priorities List. The State of Utah also agreed to use its groundwater authorities to regulate discharges from active operations and waste management operations.
+
+The overall site cleanup strategy was written in the 2002 Record of Decision. The plan was to do removal work on surface materials. These materials were a potential threat to industrial workers and wildlife resources.
+
+This work was to be followed by addressing long-term potential threats to workers and wildlife through:
+
+- treatment of groundwater,
+- cleanup of currently inaccessible mining wastes following facility closure, and
+- mapping of buried wastes for use by future land use planners and developers.
+
+There are detailed descriptions of the remedy work and operations and maintenance below. The descriptions are broken out by parts of the site, also called Operable Units or OUs.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed under the Superfund law (CERCLA). Rio Tinto Kennecott is leading the work as the Potentially Responsible Party. The EPA and the State of Utah provide oversight.
+
+The overall site cleanup strategy was adopted in the 2002 Record of Decision. The plan was to address surface materials like soil and waste that posed a threat to industrial workers and wildlife resources. After this, the cleanup would address long-term threats to workers and wildlife through:
+
+- treatment of groundwater,
+- cleanup of inaccessible mining wastes following facility closure, and
+- mapping buried wastes for use by future land use planners and developers.
+
+There was a previous emergency response action which removed and/or capped wastes contributing to groundwater contamination.
+
+The cleanup work includes:
+
+- Treatment in-place of selenium-tainted groundwater coupled with the collection of contaminated spring and well water for industrial use;
+- Demolition of unneeded facilities, studying of underlying soils, and removal of contaminated soils to a safe dump;
+- Continued use of the Arthur Step-Back Repository (dump) to store contaminated soils following demolition activities and/or following facility closure;
+- Development of a monitoring plan to evaluate progress toward ecological improvement; and
+- Mapping of locations of buried wastes and locations where future unrestricted land use is not appropriate.
+
+### What Is the Current Site Status?
+
+Based on the January 2024 [Updated Lead Guidance](https://www.epa.gov/superfund/updated-soil-lead-guidance-cercla-sites-and-rcra-corrective-action-facilities), the EPA is evaluating the risks from lead in soils to sensitive populations. This analysis will include compiling available site data to determine the potential presence and extent of lead-contaminated soils. Lead can pose health risks to sensitive populations, especially children under 7 years old and pregnant or nursing women. The process to implement the Updated Lead Guidance will involve additional planning, data gathering, risk assessment and funding requests. The EPA will coordinate with our state partners and request public feedback on our proposed cleanup plans before additional cleanups begin.
+
+While implementing the Updated Lead Guidance may take up to five years to complete, the EPA and Utah Department of Environmental Quality will share information on planned activities and results as they become available. In the meantime, and out of an abundance of caution, if you live near the Kennecott North Zone Site, the EPA recommends you have your children tested for lead annually; especially those under 7 and if the soil at your property was not replaced previously. Additionally, you can take some simple actions to limit exposure to potential lead contamination in soils, including:
+
+- Maintaining yards and other soil cover;
+- Washing hands, especially children’s, after handling soil, playing outside, and before meals;
+- Making sure children eat nutritious meals high in iron and calcium;
+- Keeping dust levels down by mopping and damp dusting regularly;
+- Regularly changing out furnace filters;
+- Keeping kids’ toys and play areas clean;
+- Taking shoes off at the door and keeping pets clean;
+- Wearing gloves while gardening; and
+- Cleaning homegrown produce and peeling root vegetables.
+
+The EPA Kennecott North Zone Site team will communicate with residents affected by this guidance about the specific next steps the Agency will take in their community. Residents may also contact the site’s Community Involvement Coordinator with questions or concerns at ( [haniewicz.missy@epa.gov](mailto:haniewicz.missy@epa.gov?subject=%20Kennecott%20\(North%20Zone\)%20Superfund%20Site) ) or 720-415-4609.
+
+The Third Five-Year Review also found that there was concern about arsenic and selenium in the groundwater system. The cleanup for OU22 and OU23 is not currently fully protecting the environment. To make the cleanup fully protective, the EPA needs to further study the potential for arsenic and selenium to affect the birds using the wetlands.

@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 15-acre Laboratory for Energy Related Health Research/Old Campus Landfill site (LEHR) consists of two areas – the Department of Energy area and the University of California-Davis area, DOE and UCD, respectively. From the 1950s to the mid-1980s, DOE conducted low-level radiation studies on animals. The primary radioactive materials used were radium-226, strontium-90, and carbon-14.
+
+From the early 1940s until 1967 UCD campus waste disposed of in three landfill units, resulting in groundwater contamination. The primary contaminants are chloroform, hexavalent chromium, nitrate, 1,2,3-trichloropropane and its breakdown product 1,2-dichloropropane, and 1,4-dioxane.
+
+### What Is the Current Site Status?
+
+The DOE Area: DOE issued a cleanup plan called a Record of Decision (ROD) in 2009 that identifies the cleanup for which it is responsible. Because DOE cleaned up contaminated soil from 1996-2002 before the ROD was issues, the ROD remedy calls for groundwater monitoring and restrictions on the future use of the property. DOE will conduct review every five years to ensure that the cleanup remains protective.
+
+The UCD Area:  
+Soil: EPA issued a ROD that identifies the cleanup remedy for the three historic landfills and adjacent soils. The remedy includes leaving waste in place and the construction of a cap over each landfill. The cap will prevent water from permeating the landfill and will minimize the spread of contamination into the underlying groundwater. The design for the landfill caps has been completed and construction is expected to start in 2024. The ROD for the soil includes the following components:
+
+- Installation of multi-layer caps where contaminated soil and solid waste remains in place in order to reduce leaching of contaminants into groundwater and to limit human exposure;
+- Creation of drainage swales, ditches, and storm water retention ponds;
+- Expansion of the current storm water drainage system;
+- Institutional controls to restrict future land use (no residences, schools, hospitals); and
+- Long-term groundwater monitoring to confirm the landfill caps are working as expected.
+Groundwater: EPA and UCD are continuing to evaluate the groundwater at the site. UCD has been conducting a small-scale pilot study to evaluate if injection of compounds can help speed up the biodegradation of chloroform and 1,2,3-Trichloropropane. In addition, there is an ongoing groundwater extraction and treatment system pilot study to address hexavalent chromium and chromium concentrations in the shallowest groundwater beneath the site to evaluate whether groundwater extraction can be used to address hexavalent chromium. The interim removal action system pumps groundwater to contain and minimize off-site migration of chloroform from deeper groundwater.
+
+### Emergency Response and Removal
+
+DOE conducted six removal actions between 1996 and 2002. These removal actions were carried out at the DOE Disposal Box, Southwest Trenches Area, Radium/Strontium Treatment System area, the Western Dog Pens, and Domestic Septic Systems 3 and 6. Approximately 8,500 cubic yards of contaminated soil and debris were excavated and disposed off-site. About 8,200 cy of this soil and debris were disposed as low-level radioactive waste in Hanford, Washington and Clive, Utah, and 300 cy were disposed as hazardous waste at the Kettleman Hills Landfill in California.

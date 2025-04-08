@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 2-acre Intermountain Waste Oil Refinery site is located in Bountiful, Utah. Past operations at the site include brick manufacturing, waste oil refining, petroleum trucking and oil blending. In the 1950s, an asphalt business also operated on the site. At the start of the oil blending business, green bottoms (a fraction of crude oil) were blended with diesel fuel and sold for dust control at coal mines. Over subsequent years, used oil replaced the green bottoms and the end product was sold to cement kilns for use as fuel. The used oil was collected from facilities in Utah, Nevada, Idaho and Wyoming. Waste sludge was reportedly disposed of in an off-site landfill and wastewater that may have remained after the treatment process was boiled off at the site. Aboveground tanks used by Intermountain Oil Company were located in an unpaved area surrounded by a soil berm. These operations contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities and groundwater monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that the remedy at OU1 and OU2 is expected to be protective upon completion of the OU2 long-term remedial action or is protective of human health and the environment. In the interim, exposure pathways that could result in unacceptable risk are being controlled.
+
+### What Is the Current Site Status?
+
+(Sept. 20, 2019) EPA announces the deletion of the Intermountain Waste Oil Refinery Superfund site from the National Priorities List. EPA and the State of Utah, through the Utah Department of Environmental Quality, have determined that all appropriate response actions under CERCLA, other than operation and maintenance, and five-year reviews, have been completed.
+
+[View the Federal Register notice »](https://www.federalregister.gov/documents/2019/09/20/2019-19998/national-oil-and-hazardous-substances-pollution-contingency-plan-national-priorities-list-deletion)
+
+The site consists of two areas, referred to by EPA as operable units (OUs). OU1 addresses soils, subsurface soils and potential contaminant sources on site, including tanks, drums and containers. OU2 addresses groundwater.
+
+The long-term remedy for OU1, selected in 2002, addressed risk from indoor vapors due to soil contamination. The selected remedy required any buildings constructed on the site to have a mitigation system that would prevent soil vapors from entering the buildings. The specifications of this requirement were formalized in a property notice filed with the Davis County Clerk and Recorder's Office.
+
+The long-term remedy for OU2, selected in 2004, addressed groundwater contamination using a pump-and-treat system and dual phase extraction (DPE). Using DPE, both groundwater and soil vapors are extracted and treated from the same well. The remedy combines the two technologies to optimize the effectiveness of the groundwater extraction and treatment of probable contaminant source areas. Remedy construction finished in October 2006. In February 2006, the groundwater pumping and treatment system was shut down after sampling showed trichloroethylene (TCE) remains below the cleanup goal. Groundwater monitoring is ongoing.
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In 2001, EPA removed and disposed of numerous containers and their contents. The removal included all chemicals in the laboratory building, 55-gallon drums and 5-gallon containers holding various chemical or oily mixtures, two trailer tanks and their contents, the contents of an underground storage tank discovered during the investigation, and contents of the sump stored aboveground in the southeast portion of the site. In addition, EPA removed debris from various portions of the site.

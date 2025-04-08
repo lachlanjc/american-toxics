@@ -1,2 +1,52 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Valley Wood Preserving, Inc. site is a former wood preserving facility in Turlock, California. Former wood preserving operations at the site contaminated soil and groundwater with hexavalent chromium and arsenic. Cleanup, operation and maintenance activities, and monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and PRP actions.
+
+Immediate Actions: Emergency actions included the excavation and disposal of about 1,500 cubic yards of contaminated soil. From 1979 to 1983, 70 million gallons of chromium-contaminated groundwater were extracted. An electrochemical process treated contaminated groundwater and discharged it. This prevented plume movement and protect domestic wells downgradient from the site. Additionally, the site’s potentially responsible party (PRP) removed sludge from a water holding tank, drilled wells used for groundwater monitoring and extraction, removed underground storage tanks, and drilled three deep wells as an alternate source of drinking water for three homes.
+
+Entire Site: The long-term remedy for groundwater included extracting and treating contaminated groundwater with an electrochemical process. EPA later updated the remedy to include in-place groundwater treatment, an active underground treatment to reduce concentrations of remaining contamination. The in-place treatment of hexavalent chromium effectively reduced concentrations in groundwater, causing EPA to shut down the groundwater extraction system. The PRP dismantled and removed the groundwater treatment system from the site. Currently, low levels of hexavalent chromium and arsenic remain in groundwater at levels above cleanup goals. EPA updated the remedy again in 2007 to include monitored natural attenuation and modified cleanup goals. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility, volume or concentration of contaminants in groundwater.
+
+The selected long-term remedy for soil included excavation of contaminated soil, stabilization of hazardous substances and backfilling of fixed soils into the excavated areas. EPA later updated the remedy to revise cleanup standards and require excavation and off-site disposal of contaminated soils that exceeded revised cleanup standards. The updated remedy also required a deed restriction to restrict site land uses to industrial. All soil cleanup actions at the site are finished.
+
+In 2020, a Site Investigation was performed to help further define the extent of contamination and to determine if additional groundwater remediation is appropriate. This investigation indicated there were areas of groundwater contamination present that had not yet been addressed by the remedy. Subsequent investigations were completed in 2022 and 2023 to further delineate the area of impacted groundwater requiring further remediation. A pilot test was conducted in 2024 to collect design parameters necessary for full-scale remediation of the remaining groundwater contamination. The results of the pilot test are currently being evaluated, and additional investigation of possible remaining soil contamination is planned. Remediation of the remaining groundwater contamination and any discovered remaining soil contamination will be completed following collection of this information.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents.
+
+### What Is the Current Site Status?
+
+In September 2024, EPA completed the [Fourth Five-Year Review](https://semspub.epa.gov/work/09/100038316.pdf) for the Site. The Five-Year Review concluded that the remedy is currently protective. The following issues and recommendations were identified in the report:
+
+Issue #1: The chromium groundwater remedy of in-situ treatment and MNA is also not functioning as intended. A chromium plume has been recently characterized and partially delineated in the southwest portion of the Site.
+
+Recommendation #1: Expand the monitoring well network in order to collect groundwater data to fully delineate chromium plume boundaries within the Shallow and Deep zones of the Upper aquifer. Install a minimum of three pairs (in A/B zones) of monitoring wells to the north (of GW-39D), east (between MW-6 and MW-9 A/B pairs), and south (of MW-3A/B) to fully delineate the 10 µg/L hexavalent chromium isoconcentration contour. Potentially step-out with a monitoring well pair west of recently installed MW-10A/B pair if needed to define 10 µg/L concentration of hexavalent chromium. Conduct remedy optimization to address contamination above cleanup standards based on the expanded well network.
+
+Issue #2: Recent groundwater data suggests a change in groundwater flow direction and possible seasonal variations in contaminant concentrations. Understanding these patterns would be important for successful remedy optimization.
+
+Recommendation#2: Increase groundwater monitoring and sampling frequency to quarterly for a minimum of one water year to understand groundwater flow and seasonal variations in concentrations.
+
+Issue #3: Residual contamination in soils may be a continuing source to groundwater as evidenced by increasing arsenic concentrations at GW-1 and increasing chromium concentrations at GW-15A and GW-15C.
+
+Recommendation #3: Conduct further source investigation, collect soil samples on-site from multiple depths, reevaluate how soil contaminants are affecting groundwater, and determine if additional soil remedy is needed, including possible regrading and installing an impermeable cap to prevent stormwater infiltration through vadose zone soils at the site.
+
+Issue #4: At the Encomio property located south of the Site, arsenic was detected in surface soil at concentrations above background and equal to the Site cleanup standard of 25 mg/kg.
+
+Recommendation #4: Conduct additional sampling to confirm arsenic concentrations on the Encomio property, and if an exceedance of the cleanup standard is confirmed, initiate an investigation to identify whether or not the exceedances can be tied to Valley Wood discharges or an agricultural land use origin.
+
+Issue #5: The new landowners have not been in full compliance and/or understanding of the land use covenant, which is an important part of the remedy that limits exposure to contamination remaining at the Site.
+
+Recommendation #5: Conduct more frequent inspections to ensure the landowner complies with the land use covenant.
+
+Other Findings:
+
+- On April 4, 2024, the California State Water Resources Control Board adopted the proposed regulations for a hexavalent chromium MCL of 10 µg/L (State Water Board Resolution 2024-0015). When the new hexavalent chromium MCL goes into effect, EPA should analyze whether it should be incorporated into remedy optimization. In addition, any future risk assessment should be based on hexavalent chromium.
+- There is potential for groundwater in-situ treatments to counteract each other. The current remedy optimization plan calls for in-situ chemical reduction to treat the chromium plume. The 2008 Final Remedial design for MNA notes that strongly reducing conditions could reduce arsenate to arsenite and thereby weaken adsorption of arsenic to the Virobind agent that is currently stabilizing it in place. Also, manganese and sulfate concentrations did increase after injections. Care should be taken to ensure future injections also do not modify reduction-oxidation conditions that are stabilizing arsenic contamination in soil.
+- Annual groundwater monitoring should occur at the same time each year in January. The annual sampling is used for assessing status and trends over time and the month of January was selected because it usually has the highest precipitation and highest groundwater levels. Annual monitoring has occurred every year in January between 2010 and 2022, but did not occur in January of 2023 or January of 2024 due to groundwater plume investigation sampling occurring during other times of the year. The difference in sampling season potentially confounds the trend analysis results. For example, during the latest June 2023 groundwater sampling event, arsenic concentrations were detected at relatively lower arsenic levels, and the 5-year trend analysis indicated a decreasing trend for arsenic at GW-1. At the same time, GW-1 has concentrations that currently exceed cleanup standards and has an increasing long-term trend, so having comparable recent data would increase confidence in current trends. Recommend continuing to collect annual January samples.
+- During the November 2023 land use covenant inspection, it was speculated that the onSite domestic well VWP-4 was being used. Per the land use covenant, the well can only be used if it meets federal and state drinking water standards. During a Site inspection, the landowner stated to EPA that the industrial workers are not drinking well water from VWP-4 at the Site. The well has not been sampled from total chromium and arsenic since 2014 when it was well below the CA MCL. The land use covenant does not specify a frequency for how often to sample the well, but the National Ground Water Association and Stanislaus County recommend that owners test wells annually for at 54 Fourth Five-Year Review for Valley Wood Preserving, Inc. Superfund Site bacteria, nitrate and any other contaminants suspected. Recommend following up with the landowner about the well at the next site inspection. EPA also recommends that the land use covenant be updated to restrict any use of shallow groundwater in the off-site farming areas.
+
+The Five-Year Review further stated the following:
+
+The remedy at Valley Wood Preserving Superfund Site currently protects human health and the environment because surface soils above the cleanup standards were excavated, there are no exposure pathways to the groundwater contamination, and land use controls are in place that prohibit residential use at the Site. In order for the remedy to be protective in the long-term, the following should be carried out: Expand the groundwater monitoring well network, increase groundwater monitoring and sampling frequency, conduct additional source investigation, investigate potential migration into adjacent properties, and conduct more frequent inspections to ensure compliance with the land use covenant.

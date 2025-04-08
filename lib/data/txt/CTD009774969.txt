@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Yaworski Waste Lagoon site is located in Canterbury Township, Connecticut. The area is a de-watered and back-filled lagoon, about 800 feet by 300 feet and 12 feet deep. From about 1948 to 1973, drummed material and bulk wastes, including textile dyes, solvents, resins, acids, caustics, still-bottom sludges and solvent-soaked rags, were disposed of in the lagoon. Periodically, flammable liquid waste was burned in several pits in the lagoon area until 1965, when the Connecticut Department of Health ordered a halt to on-site burning of waste. The combined efforts of local residents and state and local officials concerned about adverse human health and environmental effects from disposal operations at the site led to the end of all dumping at the site in 1973.In 1976, CTDEP directed the site owner to assess the environmental hazard posed by the site. The owner was required to install monitoring wells adjacent to the lagoon. Sampling of these wells detected contaminated groundwater. In 1980, CTDEP ordered the site owner to employ a professional engineering firm to conduct an environmental study of the property. The firm recommended closing the lagoon by covering the waste and, in 1982, CTDEP ordered that the lagoon be closed in accordance with the engineering firm's report. After a fire in 1982, EPA decided that additional information was needed about the site to better assess the potential threats to human health and the environment. The nearest residence that uses groundwater is located 1,600 feet up-gradient from the site and across the Quinebaug River. The site is surrounded by agricultural land and bordered by the Quinebaug River. It lies within the 100-year floodplain.
+
+The site was placed on the National Priorities List (NPL) in September 1983.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. In September 2011, EPA transferred the responsibility for all operation and maintenance activities at the site, including site-wide monitoring, to the Connecticut Department of Environmental Protection (CTDEP).
+
+The first part of the remedy, a multi-layer cap and improvement of the dike surrounding the lagoon, was completed in late 1990s. The second part of the remedy consists of setting Alternate Concentration Limits (ACLs) as the groundwater protection standard, monitoring and institutional controls as well as taking corrective action, such as pumping and treating of groundwater, as necessary. EPA set final ACLs for the site in September 2000. Groundwater contaminants were also discovered across the river from the lagoon; EPA field investigations in 1998 determined that an engineered remedy was unwarranted given the expected decrease in contamination by natural attenuation. Ongoing monitoring of groundwater includes measurements to evaluate the effectiveness of natural attenuation and determine any changes in the configuration of the lagoon plume; recent monitoring results indicate that natural attenuation was effective in reducing the levels of contaminants in groundwater across the river.
+
+### What Is the Current Site Status?
+
+After placing the site on the Superfund program’s National Priorities List (NPL) in 1983, EPA assessed site conditions and determined that contamination did not pose an immediate threat to area residents and the surrounding environment while waiting for long-term cleanup actions. The construction of an impermeable cover and improvements to the dike have eliminated the threat of residents coming in direct contact with contaminants from the lagoon. Site-wide monitoring began in 1993 and is ongoing.
+
+In 2009, EPA performed extensive sediment sampling and developed "trigger" values for various constituents to determine whether contaminant concentrations in groundwater may impact sediment and surface water. The 2018 Five Year Review found that exceedance of trigger values were exceeded for lead in all well intervals (shallow, intermediate, and deep) at two Point of Compliance (POC) wells (clusters B and C) and also in the shallow and intermediate intervals in another POC well (cluster G). Trigger values were also exceeded for aluminum and lead in 2015 and November 2016, however, no trigger values were exceeded during March 2016 or August 2017. Although, concentrations below trigger values for all constituents were observed in the last two consecutive sampling rounds, a further evaluation is needed to confirm that the remedy remains protective of ecological receptors.
+
+In March 2011, EPA eliminated surface water sampling from the monitoring program based on 2009 data. EPA also revised the sediment sampling program; the need for future sediment sampling will be assessed by evaluating the levels of certain contaminants of concern in groundwater at the point-of-compliance wells. Long-term groundwater monitoring is ongoing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.
+**
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.
+
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.
+
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100125&doc=Y&colid=31755).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.

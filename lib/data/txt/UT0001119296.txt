@@ -1,2 +1,33 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 450-acre Bountiful/Woods Cross 5th S. PCE Plume site is in southern Davis County, Utah, about 10 miles north of Salt Lake City.
+
+Operations took place at two areas of the site. From 1936 to 1986, Hatchco operated on 13 acres of the site as a specialized carrier of bulk petroleum, asphalt, and petroleum products and solvents. Hatch Service Company, a wholly owned subsidiary of Hatchco, also operated at this location. The company occasionally used Hatchco facilities to service, clean and park tractor trailers and tank trucks.
+
+Bountiful Cleaners, Inc. (BCI) also operated at the site. Prior to the property’s connection to public sewer, wastewater from the dry-cleaning facility likely discharged to a septic system. This occurred prior to BCI’s purchase of the property in 1967.
+
+All these historical operations contaminated groundwater with hazardous chemicals. EPA selected remedies for the site in 2006 and 2007. Cleanup activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+### What Is the Current Site Status?
+
+In September 2023, EPA completed the [third five-year review (FYR)(pdf)](https://semspub.epa.gov/work/08/100013908.pdf) (77 pp, 11.15 MB) for the Bountiful/Woods Cross 5th S. PCE Plume Superfund site. The purpose of a FYR is to evaluate the implementation and performance of a remedy to determine if the remedy is and will continue to be protective of human health and the environment.
+
+The methods, findings and conclusions of reviews are documented in FYR reports such as this one. In addition, FYR reports show issues found during the review, if any, and document recommendations to address them.
+
+The EPA has determined in the Five-Year Review that the cleanup at the Bountiful/Woods Cross 5th S. PCE Plume Superfund Site is currently protective of human health and the environment. With the exception of one domestic well, groundwater beneath the site is not used for drinking water purposes and the installation of new groundwater wells is restricted by the Groundwater Management Plan for the Bountiful Sub-Area. Groundwater sampling is performed to evaluate contaminant levels and inform the owner of the domestic well of any exceedances. A soil vapor extraction system is currently being installed at the source area to address vapor intrusion concerns.
+
+This site is one of many across the country to receive funding from the Bipartisan Infrastructure Law, which invested $3.5 billion in environmental remediation at Superfund sites on the National Priorities List. The Bipartisan Infrastructure Law funding was used to construct a soil vapor extraction system (SVE) at the source area. Construction of the system is expected to begin in the summer of 2023.
+
+In 2019, the Utah Department of Environmental Quality assumed lead responsibility for the site. The site consists of two areas, referred to by EPA as operable units (OUs). OU1 addresses the trichloroethene (TCE) groundwater plume at the W.S. Hatch Company (Hatchco) property. OU1 includes contaminated subsurface soil and groundwater. OU2 addresses a tetrachloroethene (PCE) plume emanating from the BCI property and the former David Early property.
+
+OU1: The long-term remedy, selected in 2006, included institutional controls, enhanced in-place biological/chemical remediation and monitored natural attenuation. Remedy construction began in 2008. Cleanup is ongoing.
+
+OU2: The long-term remedy, selected in 2007, included institutional controls, excavation and disposal of shallow contaminated soil and soil vapor extraction for deeper contaminated soil, installation of an extraction and injection groundwater-treatment system, groundwater monitoring, and provision of an alternate drinking water supply to impacted residents. EPA began remedial construction in September 2009. A remedial action has started for the BCI property (source area) using soil vapor extraction. For the rest of the site, cleanup is ongoing.
+
+EPA has conducted five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.
+
+EPA placed the site on the Superfund program’s National Priorities List (NPL) in September 2001.

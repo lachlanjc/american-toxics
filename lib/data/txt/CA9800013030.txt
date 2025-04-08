@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The NASA Jet Propulsion Laboratory (JPL) site is a 176-acre area in Pasadena, California. Past Research and Development activities by NASA contaminated local groundwater with perchlorate. Following initial actions to protect human health and the environment, the site’s long-term cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and local actions.  
+
+NASA completed the first Five-Year Review in January 2012 of the groundwater cleanup remedies undertaken at the site to determine if they continue to be protective. These remedies include three groundwater extraction and aboveground treatment systems to remove VOCs and perchlorate from the groundwater. The Five-Year Review Report concluded that the interim remedies for on- and off-site groundwater are protective of human health and the environment in the short term. Potential exposure pathways that could result in unacceptable risk (i.e., ingestion and contact with chemicals in groundwater) are being controlled through groundwater extraction and treatment. Both systems have routine monitoring programs in place to ensure chemicals are effectively removed. Treated water is in compliance with all water quality requirements specified by federal and state regulations, with concentrations below federal and California maximum contaminant levels (MCLs).
+
+For the remedy to be protective in the long term, final remedies for on- and off-site groundwater must be incorporated into a final decision document and implemented. It is anticipated that a final remedy for groundwater will be issued prior to the next Five-Year Review and will include any active remedial actions and institutional controls necessary to provide long-term protection of human health and the environment. EPA concurred with NASA's Five-Year Review in February 2012.  
+
+### What Is the Current Site Status?
+
+EPA and NASA have negotiated a Federal Facilities Agreement (FFA) that requires NASA to conduct the cleanup efforts at the site. The site is being addressed in four stages: initial actions and three long-term remedial phases focused on groundwater on site, source control and off-site contamination.
+
+*Initial Actions:* Four municipal wells were shut down between 1989 and 1990 and two Lincoln Avenue Water Company wells were shut down in 1987. NASA installed treatment systems, and municipal wells began operating again in October 1990. The Lincoln Avenue Water Company also has installed a treatment system on its wells, which are again operational.
+
+**Entire Site**
+
+*On-Facility Groundwater*
+
+Perchlorate and volatile organic compounds (VOCs) in the groundwater are being treated using a fluidized bed reactor to remove perchlorate and liquid phase granulated activated carbon (GAC) to remove VOCs. As of the summer of 2012, about 1,700 pounds of perchlorate and 40 pounds of VOCs have been removed.  
+
+*On-Facility Soil (Source Area)*
+
+Remedial action is complete. VOCs were removed from subsurface soils using soil vapor extraction (SVE).
+
+*OU 3 Off-Facility Groundwater*
+
+Perchlorate and VOCs in the groundwater are being removed by two treatment systems (Lincoln Avenue and Monk Hill) using ion-exchange technology to remove perchlorate and GAC to remove VOCs. As of the summer of 2012, about 1,280 pounds of perchlorate and 218 pounds of VOCs had been removed by the two treatment systems.  
+
+**Cleanup Progress**
+
+The treatment systems installed on the Lincoln Avenue and Pasadena drinking water wells have reduced potential risks to human health and the environment while further investigations of site contamination are being completed at the site.

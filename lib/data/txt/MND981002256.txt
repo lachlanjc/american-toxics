@@ -1,28 +1,19 @@
-ST. AUGUSTA SANITARY LANDFILL/ENGEN DUMPST. AUGUSTA TOWNSHIP, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 48-acre St. Augusta Sanitary Landfill/Engen Dump site is located in St. Augusta Township, Minnesota. The site originally consisted of three landfill areas: the St. Augusta Landfill (16 acres) and two fill areas of the Engen Dump (11 acres and 8 acres). St. Augusta Landfill was in operation between 1966 and 1982. Engen Dump received municipal, commercial and industrial wastes from 1966 to 1972. Landfill operations contaminated soil and groundwater with hazardous chemicals. Cleanup included consolidating the three fill areas onto the St. Augusta Landfill. Following cleanup, the Minnesota Pollution Control Agency (MPCA) continues to oversee operation and maintenance of the site. EPA took the site off the Superfund program’s National Priorities List (NPL) in 1996.
-Top of Page
-What Has Been Done to Clean Up the Site?
+
+### What Has Been Done to Clean Up the Site?
+
 The site was addressed through state actions. MPCA managed the cleanup and continues to oversee the site, including maintenance of the landfill cap and operation of the landfill gas extraction system.
-Top of Page
-What Is the Current Site Status?
+
+### What Is the Current Site Status?
+
 MPCA managed the cleanup, which included a final landfill cover and installation of an active gas extraction system. No further action for groundwater was required. Following cleanup, EPA took the site off the NPL in 1996. MPCA continues to oversee operation and maintenance of the site.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Industrial wastes in the landfills presented a potential threat if a proper cover and gas controls were not maintained.  Groundwater was contaminated with heavy metals that included arsenic, barium, and lead; volatile organic compounds (VOCs); atrazine; and phthalates.  
-Top of Page
-Sampling and Monitoring
-Top of Page
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Industrial wastes in the landfills presented a potential threat if a proper cover and gas controls were not maintained. Groundwater was contaminated with heavy metals that included arsenic, barium, and lead; volatile organic compounds (VOCs); atrazine; and phthalates.

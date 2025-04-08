@@ -1,111 +1,77 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Southside Chattanooga Lead Site is located in downtown Chattanooga, Tennessee. The site consists of residential neighborhoods and non-residential communal areas (parks, schools, playgrounds, child care centers), where soils have been impacted by lead-bearing foundry material. Past foundry operations generated large quantities of waste byproduct, consisting of spent foundry sand, dust from collection systems, slag, coal, spent casting refractory material, off-spec products, and other miscellaneous wastes. Anecdotal information indicates that it was common practice, in the early twentieth-century, for foundries in Chattanooga to give residents their excess spent foundry sand and other byproducts to use as fill and top soil.  In 2011, the U.S. Environmental Protection Agency was contacted by the Tennessee Department of Environment and Conservation (TDEC) regarding a Chattanooga resident reported to have an elevated blood lead level. Subsequently, EPA and TDEC initiated a soil study to determine whether further evaluation and cleanup are necessary. As a result of contamination detected from extensive soil sampling, EPA added the site to the National Priorities List on September 13, 2018. EPA and TDEC continue to sample and remediate soils associated with the site. Community updates will be held regularly to keep citizens informed and involved in cleanup plans and activities. Top of Page
-What Has Been Done to Clean Up the Site?
-In 2011, a Chattanooga resident became ill due to lead exposure. Investigations revealed that the likely source of lead was the soil around the resident's home. It was determined that the lead was not naturally present in the soil but was introduced when foundries transported their waste material—consisting of sand, dust, slag, coal, and spent casting materials—to residents to use as fill material and topsoil. Since this foundry material has been known to contain high levels of lead, several neighborhoods in the South Chattanooga area—where most of the former foundries were located—are now being assessed for lead contamination. The EPA is currently testing the soil at properties to determine if elevated lead concentrations are present and are providing cleanups for properties that have been affected. Top of Page
-What Is the Current Site Status?
-The information below is current as of August 1, 2024. Properties Sampled: 3462 of ~5490 (55% complete)
-*Yards Cleaned Up & Restored: 920 of 1452 (60% complete)
-Soil Removal: 177,715 Tons of Contaminated Soil Removed *The number of properties requiring restoration is updated as properties are sampled and results determine whether or not a property qualifies to be cleaned up. EPA continues to sample and cleanup properties within the eight residential neighborhoods that currently make up the Site: Alton Park, Cowart Place, East Lake, Highland Park, Jefferson Heights, Oak Grove, Southside Gardens and Richmond. Residents can request for their yard to be sampled by submitting a Sampling Access Authorization Form to Jasmin Jefferies at Jefferies.Jasmin@epa.gov or Donnica Wiley at Wiley.Donnica@epa.gov. A sampling results letter will be mailed to the homeowner (and tenant, if applicable) within 90 days of the sample collection. EPA recommends a cleanup for all yards with a lead concentration greater than the site-specific cleanup level. The Interim Record of Decision (ROD), which was issued in 2019 to address the contaminated soil at residential properties, specifies the components of the remedy as follows: 
-Excavating the lead contaminated soil/foundry sand from residential yards to a maximum depth of two feet below land surface (bls);
-Transporting and disposing of excavated soil to an off-site EPA approved facility;
-Backfilling the excavated areas with clean material and grading to provide positive drainage;
-Restoring the impacted and disturbed areas; and
-Installing an additional demarcation layer if lead-bearing material is present greater than two feet bls. 
-The total cost to implement the remedy and the total volume of non-hazardous lead-contaminated soil to be addressed were originally estimated in the Interim ROD to be $25.87 million and 203,000 cubic yards respectively. However, these estimates were based on sampling a small fraction of properties within the eight residential neighborhoods. The estimated total cost to implement the remedy and the volume of lead-contaminated soil to be excavated has been revised to reflect current sampling results as well as the actual costs incurred during cleanup. On August 31, 2021, EPA issued an Explanation of Significant Differences (ESD) to document an increased cost of the remedy and the increased volume of lead-contaminated soil to be removed. The ESD estimates that the cost to remediate the Site has increased to $113.5 million, and the volume of lead-contaminated soil being removed has increased to 433,300 cubic yards. 
-Properties are prioritized for cleanup based on the Regional Tiered Approach: 
-First priority is given to properties with a lead concentration greater than or equal to 1,200 mg/kg in the surface soil.
-Second priority is given to properties with a lead concentration greater than the site specific cleanup level in the surface soil and with young children (ages 0-6) present in the household.
-Third priority is given to all other properties with a lead concentration greater than the site-specific cleanup level in the surface soil.  Neighborhood Status Updates
-Neighborhoods
-﻿Total # of  Properties 
-﻿Total # of Properties Sampled ﻿
-﻿Total # of  Properties > 360 PPM﻿
-﻿Removal/Remedial  Action Completed﻿
-﻿Alton Park 
-﻿563
-﻿401
-﻿125
-﻿68
-﻿Cowart Park 
-﻿161
-﻿123
-﻿47
-﻿26
-﻿East Lake 
-﻿2254
-﻿1089
-﻿306
-﻿134
-﻿Highland Park 
-﻿1554
-﻿1221
-﻿757
-﻿622
-﻿Jefferson Heights
-﻿118
-﻿154
-﻿31
-﻿6
-﻿Oak Grove 
-﻿620
-﻿386
-﻿179
-﻿98
-﻿Richmond
-﻿56
-﻿45
-﻿23
-﻿18
-﻿Southside Gardens
-﻿99
-﻿86
-﻿53
-﻿35
-﻿Total
-﻿5,425
-﻿3,035
-﻿1,521
-﻿1,007
-Top of Page
-Sampling and Monitoring
- By the Numbers 
-﻿Fiscal Year (FY) (Oct. 1 thru Sept. 30)
-﻿Number of Properties Sampled
-﻿Number of Properties Cleaned Up
-Contaminated Soil Disposed (Tons)
-﻿FY19
-﻿1,135
-23﻿
-4,731﻿
-﻿FY20
-392
-97﻿
-18,630
-﻿FY21
-456﻿
-161﻿
-28,375﻿
-﻿FY22
-﻿ 254
-208﻿
-40,945﻿
-﻿FY23
-﻿ 618
-263﻿
-46,85
-Totals
-3,178 
-762 
-139,538 
- Cleaned Prior to FY19 323 10
-Top of Page
+### Background
+
+The Southside Chattanooga Lead Site is located in downtown Chattanooga, Tennessee. The site consists of residential neighborhoods and non-residential communal areas (parks, schools, playgrounds, child care centers), where soils have been impacted by lead-bearing foundry material.
+
+Past foundry operations generated large quantities of waste byproduct, consisting of spent foundry sand, dust from collection systems, slag, coal, spent casting refractory material, off-spec products, and other miscellaneous wastes. Anecdotal information indicates that it was common practice, in the early twentieth-century, for foundries in Chattanooga to give residents their excess spent foundry sand and other byproducts to use as fill and top soil.
+
+In 2011, the U.S. Environmental Protection Agency was contacted by the [Tennessee Department of Environment and Conservation (TDEC)](https://www.tn.gov/environment/about‐tdec‐home.html) regarding a Chattanooga resident reported to have an elevated blood lead level. Subsequently, EPA and TDEC initiated a soil study to determine whether further evaluation and cleanup are necessary.
+
+As a result of contamination detected from extensive soil sampling, EPA added the site to the [National Priorities List](http://www.epa.gov/superfund/superfund-glossary#n) on September 13, 2018. EPA and TDEC continue to sample and remediate soils associated with the site. Community updates will be held regularly to keep citizens informed and involved in cleanup plans and activities.
+
+### What Has Been Done to Clean Up the Site?
+
+In 2011, a Chattanooga resident became ill due to lead exposure. Investigations revealed that the likely source of lead was the soil around the resident's home. It was determined that the lead was not naturally present in the soil but was introduced when foundries transported their waste material—consisting of sand, dust, slag, coal, and spent casting materials—to residents to use as fill material and topsoil. Since this foundry material has been known to contain high levels of lead, several neighborhoods in the South Chattanooga area—where most of the former foundries were located—are now being assessed for lead contamination. The EPA is currently testing the soil at properties to determine if elevated lead concentrations are present and are providing cleanups for properties that have been affected.
+
+### What Is the Current Site Status?
+
+The information below is current as of August 1, 2024.
+
+***Properties Sampled: 3462 of ~5490 (55% complete)**  
+**\*Yards Cleaned Up & Restored: 920 of 1452 (60% complete)**  
+**Soil Removal: 177,715 Tons of Contaminated Soil Removed***
+
+\*The number of properties requiring restoration is updated as properties are sampled and results determine whether or not a property qualifies to be cleaned up.
+
+EPA continues to sample and cleanup properties within the eight residential neighborhoods that currently make up the Site: Alton Park, Cowart Place, East Lake, Highland Park, Jefferson Heights, Oak Grove, Southside Gardens and Richmond.
+
+Residents can request for their yard to be sampled by submitting a Sampling Access Authorization Form to Jasmin Jefferies at [Jefferies.Jasmin@epa.gov](mailto:Jefferies.Jasmin@epa.gov) or Donnica Wiley at [Wiley.Donnica@epa.gov](mailto:wiley.donnica@epa.gov). A sampling results letter will be mailed to the homeowner (and tenant, if applicable) within 90 days of the sample collection.
+
+EPA recommends a cleanup for all yards with a lead concentration greater than the site-specific cleanup level.
+
+The Interim Record of Decision (ROD), which was issued in 2019 to address the contaminated soil at residential properties, specifies the components of the remedy as follows:
+
+- **Excavating the lead contaminated soil/foundry sand from residential yards to a maximum depth of two feet below land surface (bls);**
+- **Transporting and disposing of excavated soil to an off-site EPA approved facility;**
+- **Backfilling the excavated areas with clean material and grading to provide positive drainage;**
+- **Restoring the impacted and disturbed areas; and**
+- **Installing an additional demarcation layer if lead-bearing material is present greater than two feet bls.**
+
+The total cost to implement the remedy and the total volume of non-hazardous lead-contaminated soil to be addressed were originally estimated in the Interim ROD to be $25.87 million and 203,000 cubic yards respectively. However, these estimates were based on sampling a small fraction of properties within the eight residential neighborhoods. The estimated total cost to implement the remedy and the volume of lead-contaminated soil to be excavated has been revised to reflect current sampling results as well as the actual costs incurred during cleanup. On August 31, 2021, EPA issued an Explanation of Significant Differences (ESD) to document an increased cost of the remedy and the increased volume of lead-contaminated soil to be removed. The ESD estimates that the cost to remediate the Site has increased to $113.5 million, and the volume of lead-contaminated soil being removed has increased to 433,300 cubic yards.
+
+  
+
+Properties are prioritized for cleanup based on the **Regional Tiered Approach:**
+
+- **First priority is given to properties with a lead concentration greater than or equal to 1,200 mg/kg in the surface soil.**
+- **Second priority is given to properties with a lead concentration greater than the site specific cleanup level in the surface soil and with young children (ages 0-6) present in the household.**
+- **Third priority is given to all other properties with a lead concentration greater than the site-specific cleanup level in the surface soil.**
+***Neighborhood Status Updates***  
+
+| Neighborhoods | Total # of  Properties | Total # of  Properties Sampled | Total # of  Properties > 360 PPM | Removal/Remedial  Action Completed |
+| --- | --- | --- | --- | --- |
+| Alton Park | 563 | 401 | 125 | 68 |
+| Cowart Park | 161 | 123 | 47 | 26 |
+| East Lake | 2254 | 1089 | 306 | 134 |
+| Highland Park | 1554 | 1221 | 757 | 622 |
+| Jefferson Heights | 118 | 154 | 31 | 6 |
+| Oak Grove | 620 | 386 | 179 | 98 |
+| Richmond | 56 | 45 | 23 | 18 |
+| Southside Gardens | 99 | 86 | 53 | 35 |
+| **Total** | **5,425** | **3,035** | **1,521** | **1,007** |
+
+### Sampling and Monitoring
+
+#### By the Numbers
+
+| ~~**Fiscal Year (FY) (Oct. 1 thru Sept. 30** )~~ | ~~Number of Properties Sampled~~ | ~~Number of Properties Cleaned Up~~ | ~~Contaminated Soil Disposed (Tons)~~ |
+| --- | --- | --- | --- |
+| ~~FY19~~ | ~~1,135~~ | ~~23~~ | ~~4,731~~ |
+| ~~FY20~~ | ~~392~~ | ~~97~~ | ~~18,630~~ |
+| ~~FY21~~ | ~~456~~ | ~~161~~ | ~~28,375~~ |
+| ~~FY22~~ | ~~254~~ | ~~208~~ | ~~40,945~~ |
+| ~~FY23~~ | ~~618~~ | ~~263~~ | ~~46,85~~ |
+
+| #### Totals | #### 3,178 | #### 762 | #### 139,538 |
+| --- | --- | --- | --- |
+
+~~~~Cleaned Prior to FY19 323 10~~~~

@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Beacon Heights Landfill site is a 34-acre area in Beacon Falls, Connecticut. Until 1979, it was used for disposal of industrial and municipal waste. Landfill operations included open burning, along with burial of non-combustibles. Solvents were detected in two private wells on Skokorat Road at levels that exceeded drinking water standards set by the state.
+
+From the 1920s until 1970, the site was not regulated by the state. Activities consisted of active dumping and open burning, which led to complaints about fumes, smoke, and blowing litter. In 1970, Beacon Heights, Inc. bought the site property and expanded the landfill area. The state began regulating the site in 1970, ordering Beacon Heights to develop cleanup plans. The site was closed in 1979. A 1982 inspection determined this was a high-priority site. During a 1984 EPA investigation, sampling detected benzene and several other solvents in two private wells on Skokorat Road at levels exceeding state drinking water standards. The site was placed on the National Priorities List in September 1983. Physical cleanup work finished in September 1998.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and potentially responsible party (PRP) actions. Two long-term remedial phases are focused on control of contamination sources and cleanup of leachate. Actions to address source control included consolidating wastes, building a multi-layered protective landfill cap, installing gas vents, and installing a leachate and seep collection system. Land use restrictions are being pursued to prevent the use of contaminated groundwater and to protect past cleanup work.
+
+Additionally, the leachate collected by a collection system is sent through a leachate transportation line to the local sewer system, which was rehabilitated for this purpose. The sewer line discharges for treatment to the Beacon Falls Treatment Plant, which was also upgraded for this purpose.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included landfill capping and leachate collection. Long-term operations and maintenance activities are currently ongoing. These efforts include a program to monitor the effectiveness of the cap and of the system put in place to divert clean groundwater and surface water away from the landfill.
+
+[Reviews are conduted every five years](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100180&doc=Y&colid=32716&region=01&type=SC).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.  
+**  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0100180&doc=Y&colid=33347).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found on the site profile page and EPA the regional offices may also be contacted.

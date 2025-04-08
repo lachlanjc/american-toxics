@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The St. Louis River site is located at the west end of Duluth, Minnesota, and includes several areas of land next to the St. Louis River and a wide section of the river. The site includes two state-managed Superfund sites known as the St. Louis River/ Interlake/ Duluth Tar (SLRIDT) site and the U.S. Steel site. The SLRIDT site includes 255 acres of land, boat slips and bays of the St. Louis River. The site included former pig iron, coking, and coal gasification plants that operated from the 1890’s until 1962. The U.S. Steel site includes approximately 500 acres of land and a 200 acre part of the St. Louis River that is known as Spirit Lake. U. S. Steel operated a steel mill at the site between 1916 and 1981 known as the Duluth Works. Operations at both sites contaminated soil and underwater sediments with hazardous chemicals.
+
+### What Has Been Done to Clean Up the Site?
+
+The Minnesota Pollution Control Agency (MPCA) is the lead agency overseeing the Superfund cleanup and enforcement for both sites. At the SLRIDT site, MPCA oversaw work by companies responsible for the contamination. The companies removed hazardous tar and transported it to be burned offsite for energy recovery, treated shallow contaminated soil on-site, and left deeper contaminated soil covered with clean soil. Most of the tar and soil work was completed by 2001. For contaminated underwater sediments, the companies dredged sediment and created an underwater repository, and capped some sediment in place. The sediment cleanup was completed in 2010.
+
+For the U.S. Steel site, MPCA oversaw work by U.S. Steel to demolish the coke plant and wire mill, and created two on-site demolition landfills. U.S. Steel also removed 6,487 tons of waste from a settling basin and disposed of it off-site, and solidified 10,000 cubic yards of coal tar and contaminated soil for on-site disposal.
+
+### What Is the Current Site Status?
+
+Cleanup of the St. Louis River/Interlake/Duluth Tar site is substantially complete. Currently MPCA is working with responsible parties to clean up small areas of remaining contamination and working with the City and property owners to assist redevelopment of unused property.
+
+Cleanup of the U.S. Steel site is ongoing. In 2017, MPCA asked EPA to oversee cleanup of sediments. Currently, EPA’s Great Lakes National Program Office is partnering with U.S. Steel and the State to perform the cleanup of Spirit Lake and other contaminated sediments at the site. Completion of these activities is expected in summer 2023.
+
+Information on this phase of cleanup can be found at the [St. Louis River Area of Concern page](https://www.epa.gov/great-lakes-aocs/st-louis-river-aoc) on this website. Cleanup of remaining land areas of the site remains under the oversight of MPCA.

@@ -1,2 +1,51 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The [Paducah Gaseous Diffusion Plant (PGDP)](https://www.energy.gov/pppo/paducah-site) [Superfund site](http://www.epa.gov./superfund) is located in Paducah, Kentucky. The site is the location of a former uranium enrichment plant owned by the U.S. Department of Energy (DOE). The plant began supplying enriched uranium for national defense purposes in 1952 and later provided nuclear fuel rods for power plants. Uranium enrichment activities ceased in 2013. Current site missions include environmental cleanup, waste disposition, depleted uranium conversion, deactivation and decommissioning of the former uranium enrichment facilities, and long-term stewardship.
+
+The PGDP is located on about 3500 acres of land. The former plant operations area occupies 750 acres of land that is fenced and secured. The West Kentucky Wildlife Management Area surrounds the site on the north, east and west and includes Bayou Creek and Little Bayou Creek. A coal-fired power plant owned by the Tennessee Valley Authority is also located north of the site. Rural residential and agricultural areas surround the site, the wildlife management area and the power plant.
+
+More than five decades of plant operations resulted in generation of hazardous wastes, radioactive wastes, mixed (hazardous and radioactive) wastes, and other wastes. Releases of these wastes contaminated soil, groundwater, surface water and sediment at the plant and beyond the plant boundary. The U.S. Environmental Protection Agency listed the PGDP as a Superfund site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1994.
+
+The DOE, EPA and the [Kentucky Department for Environmental Protection (KDEP)](http://dep.ky.gov/Pages/default.aspx) entered into a Federal Facility Agreement (FFA) in 1998 for site cleanup activities.
+
+The FFA parties have investigated site conditions and taken incremental steps to clean up the site in order to protect people and the environment from contamination. By cleaning up and monitoring soils, and groundwater, surface water and sediments, enforcing institutional controls to prevent people from coming into contact with contamination, and undertaking periodic reviews of all cleanup actions (known as Five-Year Reviews), the DOE, EPA and KDEP continue to protect people and the environment from site contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+Since 1988, DOE has taken steps to clean up site contamination. These steps include removing contaminated soils and sediments and treating contaminated groundwater. DOE continues to search for contamination and plans more cleanup activities in the future.
+
+**Five Year Reviews**  
+The Public Notice for the 2023 Five Year Review is available at [https://eic.pad.pppo.gov/Search.aspx?accession=INF-RECMGMT-PUBLIC NOTICE 2023 FIVE YEAR REVIEW-2024-04-20](https://eic.pad.pppo.gov/Search.aspx?accession=INF-RECMGMT-PUBLIC NOTICE 2023 FIVE YEAR REVIEW-2024-04-20)
+
+Every five years, cleanup actions at the site are reviewed to ensure that people and environmental resources are protected. The site’s most recent Five-Year Review was reported in 2023. The Paducah Site’s Five-Year Review included an evaluation of thirteen response actions. DOE determined that all evaluated response actions as implemented are protective of human health and the environment. EPA concured with DOE's protectiveness statements and associated protectiveness determinations therein.
+
+### What Is the Current Site Status?
+
+DOE is the lead agency responsible for cleanup of the PGDP with oversight by EPA and the Commonwealth of Kentucky Department for Environmental Protection (KDEP). The 1998 Federal Facility Agreement (FFA) describes how the DOE, EPA and KDEP work together to ensure that the cleanup plan implemented at the PGDP protects people and environmental resources and prepares land for potential future reuse. The Site Management Plan (SMP) is the cleanup plan that is negotiated each year by the three parties. The SMP outlines site cleanup schedules, work priorities and enforceable milestones for the DOE cleanup.
+
+The Annual Update to the Site Management Plan is available.
+
+To date, site investigations and environmental cleanup activities have focused on five (5) areas the EPA refers to as operable units, or OUs:
+1. The Groundwater OU includes contaminated groundwater affected by PGDP.
+2. The Surface Water OU includes contaminated surface water bodies, outfall ditches, impoundment ponds, and Big Bayou and Little Bayou Creeks.
+3. The Soils OU includes contaminated soils associated with PGDP that are not located in a waterway, outfall, ditch or burial ground.
+4. The Burial Grounds OU covers more than 100 acres and includes contamination associated with site landfills and burial grounds.
+5. The Decontamination and Decommissioning (D&D) OU, addresses decontamination, demolition, and disposal of inactive buildings associated with the former uranium enrichment plant.
+
+The DOE plans to undertake additional site investigation and more cleanup actions to address environmental contamination through 2065. Due to the large amount of Superfund-related waste that will be generated from decontamination and decommissioning of plant buildings and other cleanup activities, DOE plans to evaluate disposal options for site wastes, including the potential construction and operation of an on-site waste disposal facility in the 2030-2060 timeframe.
+
+### Sampling and Monitoring
+
+Sampling and periodic monitoring by DOE have identified various contaminants in soil, surface water, sediments, and groundwater on the site and beyond the site boundary. Contaminants of concern include trichloroethylene (TCE), polychlorinated biphenyls (PCBs), technetium-99, uranium, thorium, and transuranic elements (e.g., plutonium and neptunium).
+
+The U.S. Department of Energy provides access to Paducah Site information via their environmental data display tool known as PEGASIS. PEGASIS provides dynamic mapping and environmental monitoring data display capabilities: [https://pegasis.pad.pppo.gov](https://pegasis.pad.pppo.gov)
+
+**Chemical Fact Sheets**
+
+[Volatile organic compounds (VOCs)](http://www.atsdr.cdc.gov/substances/toxchemicallisting.asp?sysid=7)
+
+[Technetium-99, Uranium, Thorium and Plutonium](https://www.epa.gov/radiation/radionuclides)
+
+[Trichloroethylene](http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=172&tid=30)
+
+[Polychlorinated biphenyls (PCBs)](http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=140&tid=26)

@@ -1,28 +1,24 @@
-SCA INDEPENDENT LANDFILLMUSKEGON HEIGHTS, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 100-acre SCA Independent Landfill site is located in Muskegon County, Michigan. The landfill, which occupies about one-third of the site, stopped accepting refuse in 1986 and closed in 1987. The landfill accepted domestic and industrial waste, primarily in the 1960s and 1970s. Landfill operations contaminated groundwater, surface water and wetlands with ammonia and manganese, with isolated detections of other inorganic and organic contaminants. Following construction of the site’s long-term remedy, operation and maintenance activities and monitoring are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed by the site’s PRP under enforcement activity by the State of Michigan.The May 2005 Five-Year Review Report issued by MDEQ, with EPA concurrence, showed that exposure pathways that could result in unacceptable human health risks are being controlled. The remedy will be fully protective of human health and the environment when construction enhancements to the leachate extraction system and land use restrictions are implemented, and when groundwater cleanup goals are attained. MDEQ continues to work with the PRP to implement the recommendations of the Five-Year Review Report.Although EPA will continue to obtain updates from MDEQ on site activities, EPA will no longer require Five-Year Reviews, because EPA was not involved in the remedy selection decision. However, EPA continues to work with MDEQ to have the PRP implement the remaining, outstanding recommendations from the 2005 Five-Year Review Report.
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy, completed in 2001, included improvements to the waste cover and surface water drainage; leachate management system modifications, including installation of a larger leachate collection tank and improved piping; and excavation of areas of highly contaminated surface soil.The site’s potentially responsible party (PRP) began long-term groundwater and surface water monitoring in 2001. The Michigan Department of Environmental Quality (MDEQ) will be working with the PRP to apply Notices of Aesthetic Impact to deeds of downgradient residents. Enhanced leachate extraction may be needed to address any remaining groundwater/surface water criteria exceedances, since surface water biota cannot be protected with use restrictions.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Groundwater, surface water, and wetlands are primarily contaminated with ammonia and manganese; with isolated detections of other inorganic and organic contaminants.    
-Top of Page
-Sampling and Monitoring
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed by the site’s PRP under enforcement activity by the State of Michigan.  
+
+The May 2005 Five-Year Review Report issued by MDEQ, with EPA concurrence, showed that exposure pathways that could result in unacceptable human health risks are being controlled. The remedy will be fully protective of human health and the environment when construction enhancements to the leachate extraction system and land use restrictions are implemented, and when groundwater cleanup goals are attained. MDEQ continues to work with the PRP to implement the recommendations of the Five-Year Review Report.  
+Although EPA will continue to obtain updates from MDEQ on site activities, EPA will no longer require Five-Year Reviews, because EPA was not involved in the remedy selection decision. However, EPA continues to work with MDEQ to have the PRP implement the remaining, outstanding recommendations from the 2005 Five-Year Review Report.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy, completed in 2001, included improvements to the waste cover and surface water drainage; leachate management system modifications, including installation of a larger leachate collection tank and improved piping; and excavation of areas of highly contaminated surface soil.
+
+The site’s potentially responsible party (PRP) began long-term groundwater and surface water monitoring in 2001. The Michigan Department of Environmental Quality (MDEQ) will be working with the PRP to apply Notices of Aesthetic Impact to deeds of downgradient residents. Enhanced leachate extraction may be needed to address any remaining groundwater/surface water criteria exceedances, since surface water biota cannot be protected with use restrictions.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater, surface water, and wetlands are primarily contaminated with ammonia and manganese; with isolated detections of other inorganic and organic contaminants.

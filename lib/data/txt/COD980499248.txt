@@ -1,2 +1,70 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lowry Landfill Superfund site is approximately 500 acres in western unincorporated Arapahoe County, Colorado, 15 miles southeast of the City and County of Denver and one-half mile east of the City of Aurora. The site is near the intersection of East Quincy Avenue and Gun Club Road.
+
+From the mid-1960s until 1980, the City and County of Denver operated co-disposal landfill at the site, accepting liquid and solid municipal and industrial wastes, including sewage sludge disposed of in unlined pits or land application. Prior to 1980 the landfill accepted liquid and solid municipal and industrial wastes. These materials included hazardous substances such as volatile organic compounds (VOCs) and heavy metals. The liquids were placed into 78 unlined trenches over about 200 acres. Solids such as soil, old tires and household refuse were then added to the trenches to absorb the liquids. In 1980, Waste Management of Colorado, Inc. (WMC) took over operation of the landfill. At that time, waste disposal on-site was restricted to municipal waste and later asbestos waste. Municipal solid waste disposal activities ceased in 1990 and a four-foot soil cover was installed over the landfill unit. Landfilling operations contaminated soil, groundwater, surface water and sediment with hazardous chemicals. Additionally, gases from buried wastes contaminated the air space in subsurface soils. EPA estimates about 138 million gallons of industrial wastes were disposed of at the landfill.
+
+Contaminants of concern (COCs) at the site include volatile organic compounds, semi volatile organic compounds, metals, pesticides, polychlorinated biphenyls, methane, and other landfill gases.
+
+The site was added to the National Priorities List (Superfund) in 1984. The City and County of Denver, WMC and Chemical Waste Management, Inc. (collectively the Work Settling Defendants (WSDs)) entered into an agreement with the EPA and five other parties to implement the cleanup or remedy. All components of the remedy have been completed and an extensive monitoring network is in place to continuously monitor their effectiveness.
+
+Remedies at the site have been constructed to contain contamination. Remedial components include a landfill cover; groundwater extraction, containment, and treatment systems; a barrier to prevent surface water contamination; landfill gas removal and treatment; removal of waste pits; and institutional controls. Institutional controls are administrative or legal controls such as zoning restrictions that prevent land or groundwater use. The WSDs operate, maintain, and monitor the remedy with oversight by the EPA and the Colorado Department of Public Health and the Environment.
+
+The Denver Arapahoe Disposal Site (DADS), an operating municipal solid waste landfill, which is not part of the Superfund site, forms the northern and eastern boundaries of the site. Off-site, solid waste disposal operations are expected to continue at DADS for the next several decades.
+
+### What Has Been Done to Clean Up the Site?
+
+You may need Adobe Reader to view files on this page. See EPA’s [About PDF page](https://www.epa.gov/home/pdf-files) to learn more.
+
+Various investigations were conducted from the mid-1970s to 1984. The EPA listed the site on the National Priorities List (Superfund) in 1984. From 1984 to 1993, remedial investigations and feasibility studies evaluated the nature and extent of contamination, assessed potential risks to human and ecological receptors, and evaluated remedial alternatives.
+
+In addition, the EPA identified the primary threats to human health and the environment as exposure to and contamination from landfill gas, waste-pit liquids, drums, groundwater, and contaminated seepage in the Unnamed Creek drainage. Other threats included contaminated landfill solids, soils and sediments and non-aqueous phase liquids. The contaminants of concern (COCs) at the site include volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs), metals, pesticides, polychlorinated biphenyls (PCBs), methane and other gases.
+
+In 1994, the EPA issued the Unilateral Administrative Order for Remedial Design/Remedial Action (RD/RA) to 34 potentially responsible parties. Respondents City and County of Denver, WMC and Chemical Waste Management, Inc. (CWM) agreed to perform the RD/RA on behalf of all the Potentially Responsible Parties. Institutional controls were implemented as part of the site wide remedy to limit access and restrict land use at the site and prohibit use of water beneath and in the immediate vicinity of the site. In 2005, the EPA entered into a consent decree with the responsible parties (the Work Settling Defendants or WSDs). The WSDs agreed to perform the remaining remedial work at the site under federal oversight. In 2006, the EPA certified construction completion at the site, beginning the operations and maintenance phase.
+
+On an annual basis, the two private residential wells closest to the site, located about one mile north, are sampled on an annual basis. To date, no site-related contaminants have been observed in either of the residential monitoring wells.
+
+### What Is the Current Site Status?
+
+You may need Adobe Reader to view files on this page. See EPA’s [About PDF page](https://www.epa.gov/home/pdf-files) to learn more.
+
+The EPA has conducted five-year reviews of the site’s remedy since 2001. These reviews ensure that the remedies put in place not only protect public health and the environment, but also function as intended by site decision documents. The EPA completed the   [fifth five-year review (pdf)](https://semspub.epa.gov/src/document/08/100011323) (169 pp, 34 MB, [About PDF](http://www.epa.gov/home/pdf-files) ) in January 2022. The review concluded that the remedies at all operable units are currently protective of human health and the environment. The next five-year review is scheduled to be completed by 2027.
+
+All remedial components are construction complete, and the site is currently in the long-term operations and maintenance stages of the Superfund process. In the operations and maintenance stage, the EPA completes twice yearly site status reports. The most recent report can be found in the Announcements Section.
+
+The site's long-term remedy uses containment, collection, treatment and monitoring to address site contamination. It includes a slurry wall, a landfill cover, a groundwater extraction trench with treatment (called the North Toe Extraction), a subsurface clay barrier (called the North Boundary Barrier Wall, or NBBW), surface water remediation, landfill gas extraction with conversion to usable energy, excavation of waste pits, long-term monitoring, and institutional controls.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that the EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see  [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Land use controls are the most common type of institutional control (IC). ICs are administrative or legal controls that help reduce the likelihood for human exposure to contamination. ICs can also help protect the integrity of the remedy. Examples of ICs are:
+
+- Zoning ordinances
+- Environmental covenants
+- Deed notices
+- Well-drilling restrictions
+- Building permits
+- Informational advisories
+
+As an extra measure of protection from exposure to the wastes remaining at the site, the City and County of Denver, Arapahoe County and the City of Aurora enacted controls of land and groundwater usage. These controls work to prevent people from coming into contact with the contaminated soil, water or landfill gas that remains on the site. In addition to the city and county of Denver, the EPA, and CDPHE have the authority to enforce the on-site controls.
+
+Site land use is restricted by institutional controls, which include restrictive covenants that run with the land, zoning, and an executive order of the mayor of Denver. Within the site boundaries, the restrictive covenants limit land use to landfilling, monitoring or remediation activities and other uses not inconsistent with the selected remediation.
+
+A detailed description of ICs at the site and immediate vicinity of the site can be viewed in the  [2005 Final Institutional Controls Plan (pdf)](https://semspub.epa.gov/src/document/08/100008992)  (73 pp, 3.9 MB,  [About PDF](https://www.epa.gov/home/pdf-files) ).
+
+### Sampling and Monitoring
+
+You may need Adobe Reader to view files on this page. See EPA’s About PDF page to learn more.
+
+As part of the continued monitoring, operations and maintenance of the site, the Work Settling Defendants conduct ongoing groundwater monitoring to demonstrate that the remedy achieves the remedial action objectives. For more information, see the  [Updated Groundwater Monitoring Plan Revision 2 (pdf)](https://semspub.epa.gov/src/document/08/100007654)  (457 pp, 27.6 MB). The compliance monitoring network consists of 60 monitoring wells, most of which are located along the point of compliance surrounding the site except for five interior wells. These compliance monitoring wells are sampled for twenty-nine COCs. In addition, four wells are sampled to assess the potential for vertical migration. The effectiveness monitoring program consists of another 400+ wells. These wells are used to assess the direction of groundwater movement in groundwater beneath the site and the effectiveness of the remedy components, including the perimeter slurry wall, North Toe Extraction System, the North Boundary Barrier Wall, and the MW38 sand channel extraction systems.
+
+Two private domestic wells along East Jewel Avenue are sampled annually in the spring for 1,4-dioxane. An analytical result of 0.9 µg/L is considered “non-detect” because that is as low as the test method can detect with confidence.
+
+The 1,4-dioxane plume north of the site has been delineated based on the investigations conducted to date. The shallow plume (<50’ below ground surface generally follows Murphy Creek in the golf course. The trace concentrations (average of 1 ppb or below) do not pose a risk to residents or golfers. More information about the plume can be found in the September 2020  [North End Investigation Report (pdf)](https://semspub.epa.gov/src/document/08/100008576)  (243 pp, 14.4 MB) and  [Risk Assessment Summary (pdf)](https://semspub.epa.gov/src/document/08/100008571)  (12 pp, 5.1 MB). The plume is sampled and monitored in accordance with the  [North End Monitoring Plan Update 2 (pdf)](https://semspub.epa.gov/src/document/08/100008836)  (4 pp, 2.9 MB).

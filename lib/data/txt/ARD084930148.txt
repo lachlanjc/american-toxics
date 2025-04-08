@@ -1,2 +1,51 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 18-acres site is located in a valley on Cricket Creek Road, bounded by ridges covered with native trees, approximately one-half mile southwest of Omaha, Arkansas, and west of the old U.S. Highway 65. The site operated as a wood treater from 1962 to 1984 and is presently inactive. New Cricket Spring is located down valley immediately west of the site
+
+  
+The Arkwood, Inc, site operated as a wood treater from 1962 to 1984 and is presently inactive. The site is approximately one-half mile southwest of Omaha, Arkansas, and lies to the west of the old U.S. Highway 65. The site consists of an approximately 18-acres parcel that slopes gently toward the northwest. It is located in a valley on Cricket Creek Road, bounded by ridges covered with native trees. The site is generally sparsely vegetated and covered with gravel and rocks mixed with native, clayey soils. The site is in an area of karst geology that is characterized by subsurface fractures and channels. New Cricket Spring is located down valley immediately west of the site.
+
+**National Priorities Listing History**  
+National Priorities List (NPL) Proposal Date: September 4, 1985  
+NPL Final Date: March 31, 1989
+
+**Soil Remedy:**  
+The 1990 ROD specified that all site soil containing greater than: 300 mg/kg pentachlorophenol, 20 mg/kg dioxin as 2,3,7,8-tetrachlorodibenzo-p-dioxin, and 6.0 mg/kg carcinogenic polynuclear aromatic hydrocarbons as benzo(a)pyrene equivalents, were to be incinerated onsite. An Explanation of Significant Difference (ESD) was issued on June 14, 1995. The ESD changed the onsite incineration remedy component to incineration at an offsite facility.
+
+**Ground Water Remedy:**  
+The 1990 ROD specified that treatment at New Cricket Spring was required, if after two years following completion of the soil remedy, the water quality at the spring did not meet Arkansas Water Quality Standards. Since the spring continued to exceed standards after the ROD specified two year period, installation of a water treatment system was initiated. The EPA determined that this remedy was protective of human health and the environment, attained federal and state requirements that are applicable or relevant and appropriate, was cost effective compared to equally environmentally protective alternatives, and utilized permanent solutions and alternative treatment technologies to the maximum extent practicable.
+
+### What Has Been Done to Clean Up the Site?
+
+**Health Considerations**  
+The Agency for Toxic Substances and Disease Registry (ATSDR) is working with the Arkansas Department of Health to update the Public Health Assessment (PHA) for the site. The original PHA was completed on August 1, 1988, and the anticipated completion for the update is by September 2015.
+
+The Arkansas Department of Pollution Control and Ecology (ADPCE) received a complaint about the site in 1981. Preliminary investigations revealed detectable levels of pentachlorophenol (PCP) in area ground water. In 1985, EPA proposed the Site for inclusion on the National Priorities List (NPL). The site was formally added to the NPL on March 31, 1989.
+
+With EPA oversight, the responsible parties conducted a Remedial Investigation and Feasibility Study (RI/FS) to determine the nature and extent of contamination and to investigate possible remedies for the site. The RI/FS was conducted between 1987 and 1990, and resulted in a Record of Decision (ROD) for the site. The Regional Administrator for EPA Region 6 approved the Record of Decision (ROD) for the site on September 28, 1990.
+
+The 1990 ROD documented that site soils were contaminated with PCP, polynuclear aromatic hydrocarbons (PAHs), and dioxin above health-based levels. In addition, it stated that these soils posed a long-term threat to ground water. The site remedy in the ROD included: excavation and incineration of site soils with elevated levels of pentachlorophenol, dioxin, and polynuclear aromatic hydrocarbons, capping of residual waste on-site, fencing, and institutional controls. In addition, the ROD specified that treatment at New Cricket Spring was required, if after two years following completion of the soil remedy, the water quality at the spring did not meet Arkansas Water Quality Standards.
+
+In September 1992, EPA approved the Remedial Design Work Plan (RDWP) for the site. The remediation cleanup was to be conducted in two phases. For the first phase, excavation of affected soil, pretreatment of this soil, and storage of the pretreated soil for final treatment was completed from August 1994 to August 1995. For the second phase, an Explanation of Significant Difference (ESD) had to be prepared to document that the remedy changed from on-site incineration to off-site incineration for the affected materials at the site. This ESD was signed by the Regional Administrator on June 14, 1995. Subsequently, off-site incineration of the stored soils was completed in December 1995.
+
+### What Is the Current Site Status?
+
+The EPA is conducting a dioxin re-evaluation for the site. In addition, the EPA continues to conduct Five Year Reviews (FYRs) of the site remedy. These FYRs ensure that the site soil and groundwater remedies remains protective of human health and the environment. The latest FYR was completed on September 28, 2021.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Use of the Site by any and all persons is subject to the following land use restrictions:
+
+- No digging in the capped area unless prior written approval is obtained from the U.S.EPA, in consultation with ADEQ, based on the submittal of a proposed excavation plan.
+- No activities that cause soil erosion and/or disrupt the integrity of the capped area. Surface construction over the top soil and grass, including covering it with concrete, asphalt or other surface materials, may be acceptable to EPA and/or ADEQ as long as the integrity of the soils remedy is not impacted. Any surface construction activities over the top soil and grass will be conducted in close cooperation with McKesson Corporation.
+- No extraction or use, for any purpose, of the ground water underlying the Site, except as authorized by the U.S. EPA and/or ADEQ for investigation, monitoring or remediation, or should a variance be granted for ground water use in a deep well on the Site. A variance for ground water use in a deep water well shall be granted only if the integrity of the well is intact and no migration of contaminants between the contaminated shallow zone and deep water can be demonstrated.
+- No activities that will affect the integrity of any current or future remedial or monitoring system such as ground water monitoring wells and/or impermeable reactive barriers.
+- No development of the Site for residential or commercial use or any other non-industrial use.
+
+### Enforcement Information
+
+The EPA is working with McKesson Corporation on the Arkwood site. Please contact EPA site attorney: Elizabeth Pletan at 214.665.8525 for additional information.

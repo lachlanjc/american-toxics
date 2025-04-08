@@ -1,32 +1,72 @@
-Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 433-acre Macon Naval Ordnance Plant Superfund site is located in Macon, Georgia. Guy Paine Road borders the site to the north, while the Armstrong World Industries facility borders the site to the west. To the south are located the Macon Water Authority’s Water Reclamation Facility, Rocky Creek, and the Remote Landfill, while Mead Road and Norfolk Southern railroad tracks borders the site to the east. To the south are located the Macon Water Authority’s Water Reclamation Facility, Rocky Creek, and the Remote Landfill, while Mead Road and Norfolk Southern railroad tracks borders the site to the east. From 1941 to 1965, the U.S. Navy conducted ordnance manufacturing and metal plating at the site. In 1965, Maxson Electronics Corporation (Maxson) purchased the property and continued ordnance manufacturing. Maxson sold the property to Allied Chemical Corporation in 1973. Allied Chemical Corporation manufactured seat belts at the site from 1973 until 1981. The county purchased much of the site in 1980. Since 1980, the Macon-Bibb County Industrial Authority (MBCIA) has operated Allied Industrial Park at the site. The MBCIA has sold or currently leases several old Navy buildings for commercial use, while other businesses have built new facilities at the site. The U.S. Army Corps of Engineers (USACE) conducted several investigations in the 1990s. These investigations included groundwater, surface water, soil, and sediment sampling. Further work by the USACE stopped when it became apparent that other parties, in addition to the U.S. Navy, were potentially responsible parties (PRPs) for the contamination found at the site. The U.S. Environmental Protection Agency placed the site on Superfund’s National Priorities List (NPL) in 2013, because waste disposal operations have impacted groundwater and Rocky Creek.  Top of Page
-What Has Been Done to Clean Up the Site?
-With support from the Georgia Environmental Protection Division (GAEPD), the U.S. Environmental Protection Agency listed the Macon Naval Ordnance Plant site on its National Priorities List in 2013. 1990s
-During the 1990s, the USACE’s investigations found trichloroethylene (TCE) in the ground water beneath the site. It is one of the more common contaminants found at Superfund sites across the country. TCE is a volatile organic compound. It can volatize from contaminated groundwater and seep through foundations to contaminate indoor air in a process called vapor intrusion (VI). 2015
-In February 2015, EPA conducted VI air sampling at a business located down gradient of the Navy's old waste water treatment plant. EPA found one location at this business that had unacceptable levels of TCE in indoor air. The business took immediate steps to mitigate the TCE in indoor air at that location, thereby reducing worker exposures. Mitigation steps included increasing air circulation and sealing cracks in the building foundation. In April 2015, EPA resampled this location and found that TCE had been mitigated to acceptable levels in indoor air. In June 2015, EPA finalized its Vapor Intrusion guidance. Titled Assessing and Mitigating the Vapor Intrusion Pathway from Subsurface Vapor Sources to Indoor Air, the document can be found at EPA’s vapor intrusion website at https://www.epa.gov/vaporintrusion. In August 2015, EPA conducted extensive air sampling at the site using its Trace Atmospheric Gas Analyzer (TAGA) mobile laboratory. In all, twenty-three buildings at the site were sampled. The business cited above was re-sampled, while a second second business was found to have unacceptable levels of TCE in its indoor air. This second business also took immediate mitigation steps to reduce worker exposures. The business also installed an air filter to further reduce TCE in indoor air. 2016
-EPA conducted additional air sampling at this second business in December 2015, March 2016, and May 2016. The May 2016 results did not show TCE at unacceptable levels in indoor air at this location. 2018
-In September 2018, negotiations were completed with the Potentially Responsible Parties and an agreement finalized for performance of the Remedial Investigation/Feasibility Study (RI/FS). 2019
-The draft OU-2 RI/FS Workplan was finalized in September 2019. On November 12, 2019, a public availability session was held to kick off the RI field sampling activities. In December 2019 and May 2020 an extensive fish sampling was conducted in Rocky Creek. The results from this updated fish sampling showed that PCBs in Rocky Creek fish have declined significantly since the 1996 - 1998 limited fish sampling event. The EPA now advises that the public should avoid only channel catfish and spotted sucker fish from Rocky Creek, downgradient of Houston Road, as these two bottom feeder fish had the highest levels of PCBs among all fish sampled in 2019/2020. The public can also reduce their PCB exposure further by following the fish preparation guidelines found on Page 6 of the 2023 Guidelines for Eating Fish from Georgia Waters, published by the Georgia Department of Natural Resources. 2020
-In March 2020, sampling results showed that unacceptable levels of TCE in indoor air were again found at the second business discussed above. Additional steps have been taken to reduce TCE to acceptable levels of indoor air at four locations at this business. These steps include increased air circulation, installation of additional air filters, and sealing of cracks in the building foundation. These TCE results and the steps taken to address them are discussed in a fact sheet that EPA prepared to keep workers at this location informed of site activities. 2020 - 2024
-Ongoing RI activities, including soil and groundwater sampling, as the EPA continues to determine the extent of the groundwater plume and contamination. 
-Top of Page
-What Is the Current Site Status?
-As part of Superfund’s remedial process, a Remedial Investigation/Feasibility Study (RI/FS) is required. The RI identifies the contamination and risks remaining at the site while the FS identifies the cleanup options for addressing those risks. In September 2018, EPA finalized an agreement with the potentially responsible parties for performance of the Remedial Investigation/Feasibility (RI/FS) Study. The draft RI/FS Workplan was finalized in September 2019. On November 12, 2019, EPA held a public availability session to kick off the RI field sampling activities. RI activities are ongoing, and include soil and groundwater sampling to determine the extent of the groundwater plume and contamination. A Feasibility Study (FS) is anticipated to be completed in 2025. The FS will propose options for cleaning up the contamination. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-There are currently no use limitations, or institutional controls (ICs) on the site. ICs will be included as part of the cleanup plan for the Site after the RI/FS is completed.  The EPA now advises that the public should avoid only channel catfish and spotted sucker fish from Rocky Creek downgradient of Houston Road; as these two bottom feeder fish had the highest levels of PCBs among all fish sampled in 2019/2020. The public can also reduce their PCB exposure further by following the fish preparation guidelines found on Page 6 of the 2023 Guidelines for Eating Fish from Georgia Waters, published by the Georgia Department of Natural Resources.
-Rocky Creek sediment and biota are being addressed as part of Armstrong World Industries (AWI) Operable Unit Two (OU-2). Groundwater beneath the site is not used for drinking water. Top of Page
-Enforcement Information
-Enforcing environmental laws is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws. EPA has identified eleven potentially responsible parties (PRPs) at this site. In September 2015, EPA sent letters to the eleven PRPs notifying them of their potential liability for site costs. The letters also solicited the PRPs to negotiate an agreement with EPA to begin Superfund’s remedial process. In September 2018, EPA finalized an agreement with the potentially responsible parties for performance of the Remedial Investigation/Feasibility (RI/FS) Study. RI field sampling activities, as called for in the September 2019 RI/FS Workplan, began in November 2019. RI activities, including groundwater and soil sampling are ongoing.  Top of Page
+### Background
+
+The 433-acre Macon Naval Ordnance Plant [Superfund site](http://www.epa.gov/superfund) is located in Macon, Georgia. Guy Paine Road borders the site to the north, while the Armstrong World Industries facility borders the site to the west. To the south are located the Macon Water Authority’s Water Reclamation Facility, Rocky Creek, and the Remote Landfill, while Mead Road and Norfolk Southern railroad tracks borders the site to the east. To the south are located the Macon Water Authority’s Water Reclamation Facility, Rocky Creek, and the Remote Landfill, while Mead Road and Norfolk Southern railroad tracks borders the site to the east.
+
+From 1941 to 1965, the U.S. Navy conducted ordnance manufacturing and metal plating at the site. In 1965, Maxson Electronics Corporation (Maxson) purchased the property and continued ordnance manufacturing. Maxson sold the property to Allied Chemical Corporation in 1973. Allied Chemical Corporation manufactured seat belts at the site from 1973 until 1981.
+
+The county purchased much of the site in 1980. Since 1980, the Macon-Bibb County Industrial Authority (MBCIA) has operated Allied Industrial Park at the site. The MBCIA has sold or currently leases several old Navy buildings for commercial use, while other businesses have built new facilities at the site.
+
+The U.S. Army Corps of Engineers (USACE) conducted several investigations in the 1990s. These investigations included groundwater, surface water, soil, and sediment sampling. Further work by the USACE stopped when it became apparent that other parties, in addition to the U.S. Navy, were [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) for the contamination found at the site.
+
+The U.S. Environmental Protection Agency placed the site on Superfund’s [National Priorities List (NPL)](http://www.epa.govsuperfund/supserfund-glossary) in 2013, because waste disposal operations have impacted groundwater and Rocky Creek.
+
+### What Has Been Done to Clean Up the Site?
+
+With support from the Georgia Environmental Protection Division (GAEPD), the U.S. Environmental Protection Agency listed the Macon Naval Ordnance Plant site on its National Priorities List in 2013.
+
+**1990s**  
+During the 1990s, the USACE’s investigations found trichloroethylene (TCE) in the ground water beneath the site. It is one of the more common contaminants found at Superfund sites across the country. TCE is a volatile organic compound. It can volatize from contaminated groundwater and seep through foundations to contaminate indoor air in a process called vapor intrusion (VI).
+
+**2015**  
+In February 2015, EPA conducted VI air sampling at a business located down gradient of the Navy's old waste water treatment plant. EPA found one location at this business that had unacceptable levels of TCE in indoor air. The business took immediate steps to mitigate the TCE in indoor air at that location, thereby reducing worker exposures. Mitigation steps included increasing air circulation and sealing cracks in the building foundation. In April 2015, EPA resampled this location and found that TCE had been mitigated to acceptable levels in indoor air.
+
+In June 2015, EPA finalized its Vapor Intrusion guidance. Titled Assessing and Mitigating the Vapor Intrusion Pathway from Subsurface Vapor Sources to Indoor Air, the document can be found at EPA’s vapor intrusion website at https://www.epa.gov/vaporintrusion.
+
+In August 2015, EPA conducted extensive air sampling at the site using its Trace Atmospheric Gas Analyzer (TAGA) mobile laboratory. In all, twenty-three buildings at the site were sampled. The business cited above was re-sampled, while a second second business was found to have unacceptable levels of TCE in its indoor air. This second business also took immediate mitigation steps to reduce worker exposures. The business also installed an air filter to further reduce TCE in indoor air.
+
+**2016**  
+EPA conducted additional air sampling at this second business in December 2015, March 2016, and May 2016. The May 2016 results did not show TCE at unacceptable levels in indoor air at this location.
+
+**2018**  
+In September 2018, negotiations were completed with the Potentially Responsible Parties and an agreement finalized for performance of the Remedial Investigation/Feasibility Study (RI/FS).
+
+**2019**  
+The draft OU-2 RI/FS Workplan was finalized in September 2019. On November 12, 2019, a public availability session was held to kick off the RI field sampling activities.
+
+In December 2019 and May 2020 an extensive fish sampling was conducted in Rocky Creek. The results from this updated fish sampling showed that PCBs in Rocky Creek fish have declined significantly since the 1996 - 1998 limited fish sampling event. The EPA now advises that the public should avoid only channel catfish and spotted sucker fish from Rocky Creek, downgradient of Houston Road, as these two bottom feeder fish had the highest levels of PCBs among all fish sampled in 2019/2020.
+
+The public can also reduce their PCB exposure further by following the fish preparation guidelines found on Page 6 of the 2023 *Guidelines for Eating Fish from Georgia Waters*, published by the Georgia Department of Natural Resources.
+
+**2020**  
+In March 2020, sampling results showed that unacceptable levels of TCE in indoor air were again found at the second business discussed above. Additional steps have been taken to reduce TCE to acceptable levels of indoor air at four locations at this business. These steps include increased air circulation, installation of additional air filters, and sealing of cracks in the building foundation. These TCE results and the steps taken to address them are discussed in a fact sheet that EPA prepared to keep workers at this location informed of site activities.
+
+**2020 - 2024**  
+Ongoing RI activities, including soil and groundwater sampling, as the EPA continues to determine the extent of the groundwater plume and contamination.
+
+### What Is the Current Site Status?
+
+As part of Superfund’s remedial process, a Remedial Investigation/Feasibility Study (RI/FS) is required. The RI identifies the contamination and risks remaining at the site while the FS identifies the cleanup options for addressing those risks.
+
+In September 2018, EPA finalized an agreement with the potentially responsible parties for performance of the Remedial Investigation/Feasibility (RI/FS) Study. The draft RI/FS Workplan was finalized in September 2019. On November 12, 2019, EPA held a public availability session to kick off the RI field sampling activities. RI activities are ongoing, and include soil and groundwater sampling to determine the extent of the groundwater plume and contamination. A Feasibility Study (FS) is anticipated to be completed in 2025. The FS will propose options for cleaning up the contamination.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+There are currently no use limitations, or institutional controls (ICs) on the site. ICs will be included as part of the cleanup plan for the Site after the RI/FS is completed.
+
+The EPA now advises that the public should avoid only channel catfish and spotted sucker fish from Rocky Creek downgradient of Houston Road; as these two bottom feeder fish had the highest levels of PCBs among all fish sampled in 2019/2020.
+
+The public can also reduce their PCB exposure further by following the fish preparation guidelines found on Page 6 of the 2023 *Guidelines for Eating Fish from Georgia Waters*, published by the Georgia Department of Natural Resources.
+
+Rocky Creek sediment and biota are being addressed as part of Armstrong World Industries (AWI) Operable Unit Two (OU-2).
+
+Groundwater beneath the site is not used for drinking water.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+EPA has identified eleven potentially responsible parties (PRPs) at this site. In September 2015, EPA sent letters to the eleven PRPs notifying them of their potential liability for site costs. The letters also solicited the PRPs to negotiate an agreement with EPA to begin Superfund’s remedial process. In September 2018, EPA finalized an agreement with the potentially responsible parties for performance of the Remedial Investigation/Feasibility (RI/FS) Study. RI field sampling activities, as called for in the September 2019 RI/FS Workplan, began in November 2019. RI activities, including groundwater and soil sampling are ongoing.

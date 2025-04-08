@@ -1,2 +1,35 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Flat Creek Iron Mountain Mine and Mill (IMM) site is located in and around the Town of Superior in Mineral County, Montana. The mine operated from 1909 to 1930 and again from 1947 to 1953, producing silver, gold, lead, copper and zinc ores. Mining operations contaminated soil, groundwater and surface water with metals and other hazardous chemicals.
+
+In 1993, an abandoned mine investigation conducted by the Montana Department of State Lands found significant concentrations of mine waste contamination around the IMM site. In August 2000, a forest fire burned 9,000 acres and subsequent high rain fall resulted in a debris flow containing mine tailings that swept into Flat Creek. Concerned that contamination at the site would be further mobilized, the Montana Department of Environmental Quality (DEQ) requested EPA investigate the site. In the investigation, EPA found elevated concentrations of lead, arsenic, antimony, cadmium, and manganese. EPA also sampled the Superior High School track field and residential properties and found elevated levels of various metals including lead and arsenic.
+
+EPA placed the site on the Superfund Program’s National Priorities List (NPL) in September 2009. The Agency retains the authority to make decision concerning remedial actions at the site. EPA, in cooperation with the United States Forest Services (USFS) and the DEQ, conducts and oversees cleanup of the site.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA prioritized its focus to address contamination in the town of Superior to protect human health. In 2002, 2010 and 2011 EPA removed contaminated soil from 33 properties, the school track, and the fairgrounds. In 2012, EPA issued a [Record of Decision (ROD)(pdf)](https://semspub.epa.gov/src/document/08/1239303) (146 pp, 8 MB, [About PDF](http://www.epa.gov/home/pdf-files) ) for OU1, Community Soils, to address the remaining contaminated yards. Cleanup began in September 2013 and finished in November 2013.
+
+### What Is the Current Site Status?
+
+The site consists of three areas, referred to by EPA as operable units (OUs). OU1 addresses the town of Superior. OU2 addresses the Flat Creek watershed, including the original mine site, the stream corridor down gradient of the mine, and site groundwater and surface water. OU3 addresses the Wood Gulch Mine Waste Repository. The mine waste repository was constructed to accept wastes from OU1 and OU2. A [memorandum of understanding (MOU) (pdf)](https://semspub.epa.gov/src/document/08/1275052) (18 pp, 7.7 MB, [About PDF](http://www.epa.gov/home/pdf-files) ) was signed in 2014 by EPA, DEQ, and the US Forest Service. The purpose of the MOU is to coordinate the agencies’ response actions under Superfund for the Wood Gulch Mine Waste Repository. The MOU sets out the agencies’ framework for coordinating use of the common joint repository located in OU3.
+
+The cleanup for OU1 has been completed and an Institutional Control Program developed by Mineral County is in place to address mine wastes that may be encountered in the future.
+
+Cleanup efforts in the Flat Creek watershed, OU2, are underway including removal of Flat Creek streamside tailings. Afterward, EPA will investigate any remaining contamination in OU2 and develop a Record of Decision to address risks to human health and the environment posed by that contamination.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+An Institutional Control (IC) program for waste left in place has been developed by Mineral County to address excavation of soil within the town. The IC program has two components:
+
+Soil Excavation Permit program: A permit is required for people who are planning to displace soil in the Town of Superior OU1. This does not include tilling when no soil is removed from the lot or parcel. The permit program ensures that contaminated soils exposed during an excavation are properly handled and disposed. An application for a soil excavation permit is available from the IC Program, Superior Town Hall, 105 Cedar Street.
+
+GIS Database: Mineral County is developing a geographic information system (GIS) database to document all cleanup activities within OU1 and provide data linking ownership, locations, contact information, and cleanup action levels. The database will serve as a public reference of tested properties and will allow for tracking of future contaminated soil removal and disposal.
+
+### Emergency Response and Removal
+
+EPA conducted several time-critical removal actions, in 2002, 2010 and 2011 to remove contaminated soil from 33 properties, the school track, and the fairgrounds.

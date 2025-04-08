@@ -1,2 +1,65 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 1,500-acre Naval Air Station Moffett Field site is located in Moffett Field, California. Moffett Field was commissioned in 1933 as a naval air station to support a “lighter-than-air” (LTA) program. The LTA program involved training pilots to fly blimps and servicing the aircraft. Two years later, the LTA program ended and the station was transferred to the Army Air Corps, who used the facilities to train air cadets. During the Army’s tenure, the National Advisory Committee for Aeronautics, the predecessor to the National Aeronautics and Space Administration (NASA), established Ames Aeronautical Laboratory on land northwest of Moffett Field, which later became NASA Ames Research Center. In 1942, the station was transferred back to the Navy and was officially named Naval Air Station Moffett Field. To support World War II, the LTA program was reactivated, and a “heavier-than-air” program was begun to support fighter planes. Hangars 2 and 3 were built to support the increase in activity. After World War II, Moffett Field continued to support major Navy aeronautical activities. The station became the largest naval air transport base on the west coast.
+
+In 1991, Moffett Field was recommended for closure under the Base Realignment and Closure (BRAC) process. In July 1994, the airfield was closed and Moffett Field was transferred to NASA Ames Research Center.
+
+Military activities at the site contaminated groundwater, soil and wetlands with volatile organic compounds (VOCs), polychlorinated biphenyls (PCBs) and pesticides. Cleanup activities are in various phases of completion. Operation and maintenance activities and monitoring are also ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. EPA is the lead regulatory agency overseeing the Navy and NASA’s environmental investigation and cleanup work. The Regional Water Quality Control Board (Water Board) is the state support agency.
+
+The Navy participated in the Installation Restoration Program, a specially funded program established by the Department of Defense (DoD) to identify, investigate and control the migration of hazardous contamination at military and other DoD facilities.
+
+As the operator and property owner, NASA is also performing cleanup actions for areas of Naval Air Station Moffett Field where NASA was responsible for contamination. In addition, NASA is responsible for implementing Land Use Controls at the site.
+
+### What Is the Current Site Status?
+
+The Navy and NASA have identified over 30 hazardous waste sites at the site. The long-term remedies included sediment and soil excavation, treatment and off-site disposal.
+
+**Initial Actions**
+
+Initial actions included closure of abandoned wells, source control measures, bioremediation of contaminated soil and carbon adsorption treatment of groundwater. These activities finished in 1996. A groundwater extraction and treatment system operated at the site until 1997, when it closed down to allow for operation of a regional system. At Site 29-Hanger 1, the Navy applied a specialized coating to the exterior surface of Hangar 1 to seal building materials in 2003.
+
+**Final Site Remedies**
+
+*Operable Unit 1 - Landfill Sites 1 and 2:* Site 1 was a 12-acre landfill that operated from the mid-1960s to late 1970s. Site 2 was a 1-acre landfill used between the 1940s and 1952. The long-term remedy included consolidation of Site 1 and Site 2 refuse and a multi-layer cap to contain the wastes.
+
+*Site 22 - Golf Course Landfill:* The Navy operated this 11-acre landfill from 1950 to 1967. The long-term remedy included a biotic barrier made of gravel and cobblestone. The biotic barrier allows for future use as a golf course.
+
+*Site 25 - Eastern Diked Marsh and Stormwater Retention Pond:* This site includes NASA’s 175-acre stormwater retention pond and the Eastern Diked Marsh, as well as about 52 acres owned by the Midpeninsula Regional Open Space District. The long-term remedy included restoring part of the area to a tidal marsh by excavating sediments, treating certain areas with lead and zinc contamination, and disposing of the sediments off site.
+
+*Site 26 - East-Side Aquifer Treatment System (EATS) Area:* The EATS area is near Hangar 3, where activities contaminated groundwater with VOCs. The long-term remedy included a groundwater extraction and treatment system of five extraction wells and an air stripper with carbon treatment. The Moffett Field storm drain system would receive the treated water. In 2014, the long-term remedy was changed to include enhanced treatment of contaminated groundwater in three areas and monitored natural attenuation for the rest of the plume area.
+
+*Site 27 - Northern Channel:* The site consists of the Northern Channel and ditches that drain into the channel. The long-term remedy included the removal of contaminated sediment in the channel and ditches to protect the site’s ecosystem.
+
+*Site 28 - West-Side Aquifers Treatment System (WATS) Area:* This site consists of groundwater contamination on the east side of the runways, possibly contaminated by a former dry cleaning facility, former fuel storage and wash rack facilities, and former manufacturing facilities. In 1994, the Navy removed soil contaminants by demolishing a building and removing a tank and sumps.
+
+The long-term remedy included a groundwater extraction and treatment system. This site is part of the Middlefield/Ellis/Whisman (MEW) Study Area. The MEW Study Area Record of Decision addresses this area. The remedy included in-place vapor extraction and treatment to treat contaminated soils, extraction and treatment to treat contaminated groundwater, identification and sealing of potentially contaminated wells, maintaining inward and upward hydraulic gradients through pumping and treatment inside slurry walls, and regular monitoring of the slurry wall system. The most recent five-year review completed in September 2024 for the MEW Superfund Study Area, concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+*Site 29 - Hangar 1:* The Navy constructed Hangar 1 in 1932 to house the giant airship U.S.S. Macon. Building materials at the hangar are contaminated with PCBs, asbestos, lead and zinc. The Navy recommended removing the siding and coating the structural steel frame of Hangar 1 in 2007. The Navy signed an action memorandum confirming the action in 2009.
+
+*Area of Investigation (AOI) 14 - Former Soil Fill Area:* The interim remedy consisted of the construction of silt fencing around the perimeter of the 8-acre area to prevent the erosion of contaminated soils into nearby Site 25. The final remedy requires the excavation and disposal of contaminated soils.
+
+*No Further Action Sites:* EPA selected “no further action” as the remedy for six sites because they did not present a potential threat to human health and the environment.
+
+*Petroleum Sites:* The California Leaking Underground Storage Tank Program is addressing the petroleum sites.
+
+**Cleanup Progress**
+
+*OU1 - Landfill Sites 1 and 2:* At Site 1, construction of the multi-layer landfill cap finished in 1998. Long-term maintenance of the cap and monitoring of landfill gas and groundwater began in 1999. EPA and the Water Board approved the closure of Site 2 in 2003 because site conditions qualified the area for unrestricted use. The most recent five-year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires incorporation of institutional controls in NASA’s master plan and evaluation of the effectiveness of the burrowing mammal abatement plan.
+
+*Site 22 - Golf Course Landfill:* Construction of the biotic barrier finished in 2003. Regular maintenance and long-term monitoring of groundwater and landfill gas is ongoing. The most recent five-year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires incorporation of institutional controls in NASA’s master plan.
+
+*Site 25 - Eastern Dike Marsh and Stormwater Retention Pond:* Restoration activities and cleanup finished in 2013.
+
+*Site 26 - EATS Area:* The groundwater extraction and treatment system in the original remedy began operating in 1999. In 2019, consistent with the new remedy, treatment mixtures were injected into contaminated groundwater in three areas. Monitoring will determine the performance of the treatment and the natural degradation process in decreasing levels of contamination in groundwater.
+
+*Site 27 - Northern Channel:* Active excavation of contaminated soils and sediments finished in 2007. Site restoration activities finished in 2012.
+
+*Site 28 - West-Side Aquifers Treatment System (WATS) Area:* The WATS began operating in 1998. The most recent five-year review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires incorporating results of the vapor intrusion pathway study into site construction permit requirements, continuation of the pilot test and evaluation of need for institutional controls.
+
+*Site 29 - Hangar 1:* The Navy completed removal of the siding and coated the structural steel frame in 2012. In 2015, NASA assumed responsibility for long-term monitoring and maintenance of Hangar 1. NASA has evaluated options for removing the coating and contaminated paints on the steel frame and is planning to proceed with this work.
+
+*Area of Investigation (AOI) 14 - Former Soil Fill Area:* Construction of the silt fencing around the site was completed in 2014. The excavation and disposal of contaminated soils and removal of the silt fence was completed in 2019.

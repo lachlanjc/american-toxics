@@ -1,2 +1,57 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 4,043-acre Williams Air Force Base site located in Mesa, Arizona was commissioned as a flight training school in 1941 and operated until it closed in 1993. Discharges and disposal at the site have resulted in soil and groundwater contamination, as documented through the Installation Restoration Program (IRP). The IRP was established by the Department of Defense (DoD) in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities. As a result of identified contamination Williams AFB was placed on the National Priorities list in 1989. Contaminants from base activities include organic solvents and paint strippers, petroleum spills, metal plating wastes, hydraulic fluids, pesticides and radiological wastes. Thirteen potentially contaminated sub-sites were initially identified, including two fire training areas, skeet ranges, a fuel storage area including above and underground storage tanks, surface storm drainage areas, hazardous material storage areas, a landfill, a pesticide disposal area, a radiological disposal area. Over time, new sub-sites discovered at the base were added to the investigation.
+
+Most of the sites initially identified during the installation restoration program have already been addressed through Records of Decision (RODs) which document the selected cleanup remedies. Copies of the RODs for the six Operable Units (OUs) for Williams AFB are posted in the documents section of this page. The main sites continuing to be addressed include the ST12 Fuels Storage Area in Operable Unit 2, the LF004 Landfill in Operable Unit 1; The SS017 Old Pesticide Paint Shop (Operable Unit 6), the FT002 Fire Training Area in Operable Unit 3, and the more recently discovered Parcel N Debris Area under investigation for munitions and waste disposal.
+
+### What Has Been Done to Clean Up the Site?
+
+*Early Actions*: Part of the Southwest Drainage System was stabilized in 1988 by installing a soil, cement and concrete cap on the ditch. In 1991, a small pesticide drum burial site was excavated and disposed of off site. Radiological materials were removed from another burial site and disposed of in late 1992. The removal of 20 underground storage tanks at the ST12 liquid fuels storage area took place during late 1990 and early 1991, removing the source of fuel leaks.
+
+For the site’s long-term cleanup over time, the Air Force split the site into six operable units (OUs) to manage and prioritize cleanup actions. An OU is a focused study area that allows EPA to take discrete actions as part of an overall cleanup. Remedies have been selected for all Six Operable Units. An additional study area, known as Parcel N, located adjacent to and contiguous with the LF004 landfill is currently under investigation for munitions and CERCLA contaminants. Site ST35, the former gas station, attained closure separately through the State's Underground Storage Tank Program.
+
+***Remedies Selected***:
+
+*OU1: LF004 Landfill*: The 1994 Record of Decision (ROD) remedy included installation of a permeable river rock cap over the main landfill of the former base and long-term groundwater monitoring. Several years later, monitoring of groundwater at the site revealed increasing concentrations of trichlorethylene (TCE) and perchlorethylene (PCE), along with a rising water table, which lead to a subsequent groundwater remedy including Soil Vapor Extraction In Well Air Stripping and In-Situ Chemical Oxidation, documented in a 2014 Record of Decision Amendment.
+
+*OU2: Liquid Fuels Storage Area ST012:* The original 1991 ROD included pumping and treating the groundwater contamination with reinjection of the treated groundwater, however that remedy proved ineffective. In a 2013 Record of Decision Amendment (RODA) Steam Enhanced Extraction(SEE) followed by Enhanced Bioremediation (EBR) was selected to address light non-aqueous phase liquids (LNAPLs) and dissolved phase contamination.
+
+*OU3: FT002 Fire Training Area and miscellaneous sites*: The 1996 ROD selected bioventing as the long-term remedy, which was halted due to inefficiency of the the system. Soil Vapor Extraction was recently implemented to complete the cleanup.
+
+*OU4: SS020 Firing Range, SS019 Skeet Range at South Desert Village, and other facilities:* The 2000 ROD selected long-term remedies including a 6-inch soil cap for the South Desert village housing area affected by lead from the former skeet range, along with land use restrictions and long-term maintenance and monitoring. The remedy also specified removal of lead-contaminated soils from the SS020 Firing Range berm as well as, institutional controls for some sub-sites and “no further action” for other sub-sites.
+
+*OU5: Multiple sites:* The 1997 ROD selected No Further Action following removal actions at seven sites, and No Further Action for Sewage Treatment Plant Stockpile and Trenches which were already under the OU1 LF004 Landfill Cap.
+
+*OU6 Site SS-17 former Pesticide/ Paint Shop, investigative waste facility, decontamination pad: Th* e 2018 ROD documents the 2001 removal action to excavate dieldrin contaminated soils and requires Institutional Controls, continued monitoring of the groundwater, and Five--Year Reviews.
+
+### What Is the Current Site Status?
+
+***Cleanup Status of Operable Units***
+
+*OU1- LF004 Landfill* The permeable river rock cap over the main landfill and sewage sludge disposal area is inspected and maintained on an annual basis, while long-term groundwater monitoring continues to evaluate remedy protectiveness. After a decade, as the water table rose, monitoring of groundwater at the site revealed increasing concentrations of trichlorethylene (TCE) and perchlorethylene (PCE), which were beginning to move off site. The May 2014 Amendment to the Record of Decision (RODA) required soil vapor extraction in one area of the landfill to treat soils above the water table, and In-well Air Stripping, and in-situ chemical oxidation in two other locations to address groundwater contamination. The OU1 groundwater cleanup is approaching attainment of cleanup objective specified in the 2014 RODA, and EPA granted a determination of Operating Properly and Successfully in January 2018. In April 2018, however, Perfluoroalkyl Substances (PFAS) commonly used in fire fighting foams have recently been identified as a new issue in groundwater in the landfill vicinity.
+
+*OU2 (ST12 Liquid Fuels Storage Area):* Over time, leaking fuel storage tanks released several million gallons of jet fuel to the subsurface. The original remedy specified in the 1991 ROD for OU2 included pumping and treating the groundwater contamination with re-injection of the treated groundwater. After installing 2 horizontal wells in an attempt to remove fuel from the groundwater, it was determined that pump-and-treat technology was ineffective at removing Light Non-Aqueous Phase Liquids (LNAPL), meaning the mass of jet fuel free product not dissolved in the groundwater. After a successful pilot test, Air Force agreed to implement steam enhanced extraction (SEE) as documented in a 2013 Record of Decision Amendment (RODA). SEE employs the injection of steam to heat the subsurface and vaporize and mobilize light LNAPL and dissolved phase contaminants which are then removed by vapor and groundwater extraction wells and recovered for recycling or treatment on site. SEE operated at the site from October 2014 through March 2016, and removed over 2.5 million lbs of hydrocarbons from the subsurface before the system was terminated and dismantled. However, Air Force estimates 3-6 million lbs of hydrocarbons, including LNAPL still remain in the groundwater. EPA and ADEQ invoked informal dispute on the grounds that the cleanup objectives for SEE specified in the Remedial Design/Remedial Action Work Plan were not satisfied. Air Force is now proceeding with a 3 year pilot study to determine if Enhanced Bioremediation (EBR) using injection of sodium sulfate can still remediate the remaining mass and meet cleanup standards within the 20 year timeframe specified in the 2013 RODA. Additional alternatives and remedy enhancements, including additional SEE will continue to be considered. EPA continues to be concerned that the sulfate injections could displace and mobilize contaminants and create a more extensive groundwater plume, and is working with AF to hydrologically contain the contamination as the water table continues to rise.
+
+OU3: FT002 Fire Training Area: The Air Force selected bioventing as the long-term remedy specified in the 1996 ROD. The original implementation of the bioventing remedy failed to achieve cleanup objectives. AF recently completed additional soil vapor extraction at the site and is continuing to monitor the site for rebounding concentrations. Groundwater was sampled in 2018 for per and poly-fluoroalkyl substances (PFAS) used in fire fighting foams as well as for volatile and semi volatile organic compounds related to the former fire training activities to verify the completeness of the cleanup.
+
+OU4: Skeet range at South Desert Village, other facilities: Institutional Controls required by the 2000 ROD are now in place. The 6 inch soil cap over the former skeet range at ASU's South Desert Village student housing area is inspected and maintained by ASU on an annual basis.
+
+OU5: Institutional Controls are in place at all sites where required.
+
+OU6 (Site SS-17 the former Pesticide Paint shop, investigative waste facility, decontamination pad): The long-term remedy recommended excavation of dieldrin contaminated soils, which was completed as a removal action in 2002. The remedy was finalized in a record of Decision January 2018. The final remedy includes Institutional Controls, continued groundwater monitoring and Five-Year Reviews.
+
+Parcel N Debris Area: Parcel N Debris Area is a vacant lot remaining to be transferred for reuse. The area may have waste disposal and munitions issues related to training exercises. The Air Force is investigating this site for evidence of possible releases.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Air Force has transferred over 3,800 acres of former Williams Air Force Base for reuse. Institutional Controls have been included as part of the remedies for most of the operable units, in the form of Voluntary Environmental Use Restrictions (VEMURs) or Declaration of Environmental Use Restrictions (DEURs) filed with the Arizona Department of Environmental Quality.
+
+### Enforcement Information
+
+The site is being addressed by the United States Air Force through a Federal Facilities Agreement with EPA, the Arizona Department of Environmental Quality and the Arizona Department of Water Resources.
+
+The next Five Year Review of the selected remedies is due in September 2021.

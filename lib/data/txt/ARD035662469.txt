@@ -1,2 +1,39 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Gurley Pit site is located in Edmondson, Arkansas, in the floodplain of the Fifteen Mile Bayou. From 1970 to 1975, the Gurley Refining Company, Inc. (GRC) leased the area from W.A. Caldwell and disposed of secondary oil refining wastes, including polychlorinated biphenyls (PCBs), lead and zinc, in three pits at the site. GRC abandoned the site in 1976. Disposal practices contaminated soil, sediment, and surface water with hazardous chemicals. Following construction of the site’s remedy, EPA took the site off the Superfund program’s National Priorities List (NPL) in November 2003. Operation and maintenance activities and monitoring are ongoing.  
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and PRP actions. EPA has conducted Five Year Reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. The five-year review included several recommendations concerning site conditions and general upkeep of the site to be implemented to ensure long-term protectiveness.
+
+About 20,000 cubic yards of sludge were treated, stabilized and placed in a RCRA-type vault. The prior site discharges of contaminants into Fifteen Mile Bayou and the prior light oil slick that posed a threat to migratory waterfowl and residents have been eliminated.
+
+GRC leased the site property for use as a disposal area in 1970. Three disposal pits received sludges from the refining of used oil. Major contaminants included lead, barium, zinc and PCBs. Waste disposal operations were permitted by the ADE&E (previously known as Arkansas Department of Pollution Control and Ecology (ADPC&E) from 1970 until 1975. In May 1975, an inspection by ADE&E revealed that GRC was discharging contaminated stormwater from the pit into Fifteen Mile Bayou without treatment. ADE&E notified GRC it had a year to implement cleanup and remedial measures. In October 1975, GRC said that it had closed the part of its refining operation that generated the wastes disposed of at the site. In December 1975, GRC notified ADE&E that waste disposal at the site had ceased and that the area was secured. Releases to the bayou from the pit were documented in 1978 and 1979.GRC leased the site property for use as a disposal area in 1970. Three disposal pits received sludges from the refining of used oil. Major contaminants included lead, barium, zinc and PCBs. Waste disposal operations were permitted by the ADE&E from 1970 until 1975. In May 1975, an inspection by ADE&E revealed that GRC was discharging contaminated stormwater from the pit into Fifteen Mile Bayou without treatment. ADE&E notified GRC it had a year to implement cleanup and remedial measures. In October 1975, GRC said that it had closed the part of its refining operation that generated the wastes disposed of at the site. In December 1975, GRC notified ADE&E that waste disposal at the site had ceased and that the area was secured. Releases to the bayou from the pit were documented in 1978 and 1979.
+
+### What Is the Current Site Status?
+
+In 1986, EPA selected a source control remedy for the site. It consisted of the treatment of contaminated surface waters, solidification of contaminated sludge, sediments and soil, placement of this material in a Resource Conservation and Recovery Act (RCRA) compliant landfill, installation of a monitoring well network, and implementation of a long-term operation and maintenance plan. Construction of the RCRA landfill began in November 1992 and finished in September 1994. In June 2006, institutional controls were implemented to protect the integrity of the remedy. Operation and maintenance activities and monitoring are ongoing.  
+  
+In 1988, EPA selected a “no further action” remedy for groundwater. Investigations found no site-related contaminants in groundwater. The potential for future contamination would be prevented by the source control remedy.  
+  
+EPA took the site off the NPL in November 2003.
+
+On September 19, 2022 EPA completed the FY 2022 Five Year Review for the Gurley Pits Superfund Site. The Five Year Review is a document that determines if a Site is protective of both human and environmental health. The final document was made avaialble on the Site Profile Page and to the public at the local repositories on Monday September 26, 2022.
+
+ADE&E is in the process of completing the follow-up actions from the FY 2022 Five Year Review. In July 2023 the ADE&E repaired on site well MW-D prior and replaced labeling for off site wells. Currently ADE&E is working towards updating the 2003 Operations and Maintenance Plan and the 1998 Sampling and Analysis Plan accordingly. ADE&E will remove beryllium and Total Organic Carbon as monitoring constituents. Include Semi-volatile organic compounds to the list of monitoring constituents. Update the Operations and Maintenance Plan to account for these maintenance needs and adjust the frequency of operation and maintenance activities to ensure it happens in an appropriate timeframe. Another follow-up action from the FY 2022 Five Year Review consisted of continuing to collect depth measurements of the sumps in accordance with the current ADE&Es Operations and Maintenance Plan. ADE&Es plans to have these follow-up actions completed by in Fall 2024. The next FYR is planned for completion in September 2027.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+While no Institutional Controls were called for in the Record of Decision, it was determined that one was needed as a provision of long-term maintenance of the Site. A deed notice (Appendix E) was filed in Crittenden County by the EPA on June 2, 2006. The Deed Notice declares the presence of a capped facility and requires prior approval by ADE&E and EPA for any reuse or redevelopment involving subsurface utilities, trenching, excavation, or well installation.
+
+### Sampling and Monitoring
+
+ADE&E performs groundwater sampling at the site once every five years prior to the Five Year Review. The August 2021 groundwater sampling event included sampling the monitoring wells, sampling the sumps, and removing leachate from the sumps. The samples were analyzed for total and dissolved metals (barium, lead, zinc, manganese, arsenic, and beryllium), total organic carbon, and semi-volatile organic compounds (SVOCs). Barium, lead, and zinc are considered contaminants of concern (COC) due to pit contaminants. No COCs were detected above the screening levels. ADE&E also performs annual site inspections to make sure that the integrity of the remedy is being maintained.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In July 1978, EPA cleaned up a spill around the pit that resulted from overflow during a flood event. In April 1979, EPA cleaned up the site after another flood event. Periodic pumping of stormwater from the pit continued during the summer and fall of 1979. In May 1984, a potentially responsible party (PRP) installed fence and repaired dikes. In August 1989, the PRPs lowered the water level in the pits and reinforced berms.

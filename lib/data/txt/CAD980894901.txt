@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Fernando Valley (Area 2) site is a 6,680-acre area of contaminated groundwater in Glendale, California. The site is one of four Superfund sites in the San Fernando Valley. Numerous potentially responsible parties (PRPs) contaminated groundwater in the region with volatile organic compounds (VOCs), including trichloroethylene (TCE) and perchloroethylene (PCE).
+
+In 1980, sampling discovered levels of VOCs above federal and state drinking water standards in a number of production wells in the San Fernando Valley. In response to the public health threat, the cities either shut down their wells and provided alternate sources of drinking water or blended contaminated well water with water from clean sources. Groundwater monitoring from 1981 to 1987 revealed contamination in more than half the water supply wells in the eastern portion of the San Fernando Valley Groundwater Basin. The shutdown of these wells meant that cities in the region had to use more expensive sources of drinking water and the loss of a substantial drinking water source in an area where this resource is already scarce. Prior to the discovery of contamination, the aquifer had provided drinking water to over 800,000 residents.
+
+In 2000, a 5000 gallon-per-minute treatment plant began operating and provides drinking water to the City of Glendale.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, municipal and responsible partyactions.
+
+EPA has conducted two five-year reviews of the site’s remedy, and is currently preparing a third review for completion in September 2018. The most recent review concluded that EPA could not make a protectiveness determination for the site until it evaluates the regional groundwater vapor intrusion pathway and establishes the hydraulic capture of the groundwater plume.
+
+The San Fernando Valley (Area 2) Superfund site (SFV Area 2) is one of four Superfund sites located in California’s San Fernando Valley. EPA added the site to the Superfund program’s National Priorities List (NPL) in 1986. The San Fernando Valley groundwater basin provides drinking water to residents within the Cities of Los Angeles, Burbank and Glendale, and the La Crescenta Water District. Contamination resulted from a range of industrial operations. The site consists of contaminated groundwater covering about 6,680 acres near the Crystal Springs Well Field in the Cities of Los Angeles and Glendale. The site supports industrial, residential, recreational and commercial land uses. A groundwater pump-and-treat system to address volatile organic compound (VOC) contamination began operating under EPA oversight in 2000. Remedial designs for enhancements to the VOC remedy to improve capture are in progress. An evaluation of the potential for vapor intrusion across Area 2, which will be performed under EPA oversight, is in the planning phase. In 2004, EPA began investigating chromium contamination at the site. EPA created the Glendale Chromium Operable Unit in 2007 to characterize chromium contamination in groundwater and to evaluate potential remedial alternatives. EPA is in the process of finalizing the Remedial Investigation.
+
+### What Is the Current Site Status?
+
+For the site’s long-term cleanup, EPA split the site into two operable units (OUs) to manage and prioritize cleanup actions. An OU is a focused study area that allows EPA to take discrete actions as part of an overall cleanup.
+
+*Glendale North and South OU:* The interim remedy includes groundwater pumping and treatment, with the City of Glendale or another municipality receiving the treated water. The Glendale Area treatment facility began operating in 2000 and continues to provide drinking water to the city. So far, the plant has removed more than 60,000pounds of VOCs from groundwater at the site.
+
+*Glendale Chromium OU:* In 2007, EPA established the Glendale Chromium Operable Unit (GCOU) to characterize emerging chromium contamination in ground water within SFV Area 2 and determine an appropriate remedial action. EPA completed a removal action, or short-term cleanup, in 2007 to excavate contaminated soils and cap and fence the site. EPA began investigating chromium contamination in the groundwater in 2008. EPA and PRPs have since installed 29 new groundwater monitoring wells to help identify the extent of chromium contamination. Investigation activities are ongoing. EPA will use the results of these studies to identify cleanup options for the site.

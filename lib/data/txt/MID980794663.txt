@@ -1,28 +1,21 @@
-CEMETERY DUMPROSE CENTER, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 4-acre Cemetery Dump site is located in Rose Township, Michigan. In the late 1960s or early 1970s, illegal dumping resulted in 300 to 600 barrels containing unknown industrial wastes being dumped or buried on site. Drum fragments, soil and groundwater contained hazardous chemicals. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1995.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site was addressed through federal, state and potentially responsible party (PRP) actions.EPA has conducted one five-year review of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site are in accordance with the remedy and that the remedy continues to be protective of human health and the environment. Because the site has been deleted from the NPL, EPA will not conduct additional five-year reviews.
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy included fencing and excavation of around 250 drums and drum fragments and 10,000 cubic yards of contaminated soils. Construction of the remedy finished in 1989, and the state determined that the removal of the source of contamination had addressed soil and groundwater contamination. EPA took the site off the NPL in 1995.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-NPL Deletions Superfund US EPA.  
-Top of Page
-Sampling and Monitoring
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and potentially responsible party (PRP) actions.  
+
+EPA has conducted one five-year review of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site are in accordance with the remedy and that the remedy continues to be protective of human health and the environment. Because the site has been deleted from the NPL, EPA will not conduct additional five-year reviews.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included fencing and excavation of around 250 drums and drum fragments and 10,000 cubic yards of contaminated soils. Construction of the remedy finished in 1989, and the state determined that the removal of the source of contamination had addressed soil and groundwater contamination. EPA took the site off the NPL in 1995.  
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+NPL Deletions Superfund US EPA.

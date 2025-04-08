@@ -1,34 +1,27 @@
-ALBION-SHERIDAN TOWNSHIP LANDFILLALBION, MI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Albion-Sheridan Township Landfill site is located near Albion, Michigan.  The landfill accepted municipal refuse and
-industrial wastes from households and industries in the City of Albion and nearby
-townships.  In the early 1970s, the
-Michigan Department of Natural Resources (MDNR) approved the landfill to accept
-an estimated 6,000 cubic yards of metal plating sludges.  Other materials such as paint wastes and
-thinners, oil and grease, casting sand and dust, and sand and dirt containing
-fly ash were also disposed of at the Albion-Sheridan Landfill.  The sludges remained buried at the Site.  The landfill ceased operation in 1981. Following remedial cleanup actions, operation and maintenance are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires implementing additional institutional controls to ensure site property and groundwater protectiveness, compliance with effective institutional controls, and ongoing implementation of the operations and maintenance program.
-Top of Page
-What Is the Current Site Status?
-The five year review in April 2022 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Arsenic in groundwater is the primary contaminnat of concern at the Site.  The groundwater and soil contain levels of arsenic, iron, and manganese. Various municipal and industrial wastes including organic chemicals and heavy metals are contained in the landfill. http://www.epa.gov/R5Super/fiveyear/reviews_pdf/michigan/albion_sherdian_twp_landfill_410972.pdf
-Top of Page
-Emergency Response and Removal
+### Background
+
+The Albion-Sheridan Township Landfill site is located near Albion, Michigan. The landfill accepted municipal refuse and industrial wastes from households and industries in the City of Albion and nearby townships.In the early 1970s, the Michigan Department of Natural Resources (MDNR) approved the landfill to accept an estimated 6,000 cubic yards of metal plating sludges.Other materials such as paint wastes and thinners, oil and grease, casting sand and dust, and sand and dirt containing fly ash were also disposed of at the Albion-Sheridan Landfill.The sludges remained buried at the Site.The landfill ceased operation in 1981. Following remedial cleanup actions, operation and maintenance are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires implementing additional institutional controls to ensure site property and groundwater protectiveness, compliance with effective institutional controls, and ongoing implementation of the operations and maintenance program.  
+
+### What Is the Current Site Status?
+
+The five year review in April 2022 concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Arsenic in groundwater is the primary contaminnat of concern at the Site. The groundwater and soil contain levels of arsenic, iron, and manganese. Various municipal and industrial wastes including organic chemicals and heavy metals are contained in the landfill.
+
+[http://www.epa.gov/R5Super/fiveyear/reviews\_pdf/michigan/albion\_sherdian\_twp\_landfill\_410972.pdf](http://www.epa.gov/R5Super/fiveyear/reviews_pdf/michigan/albion_sherdian_twp_landfill_410972.pdf)
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1990 disposed of about 46 drums from the surface of the landfill.
-Top of Page

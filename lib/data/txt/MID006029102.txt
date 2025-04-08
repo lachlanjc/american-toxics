@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 8-acre American Anodco, Inc. Site is in Ionia, Michigan. Since 1962, American Anodco has cleaned or treated aluminum parts manufactured for the automotive industry at this facility. Operations at the site involved disposing wastewater to the on-site seepage lagoon directly east of the plant, which contaminated soil and groundwater with hazardous chemicals. This led to various approaches to cleanup such as wastewater treatment and groundwater sampling between 1978 and 1986. The site was proposed for inclusion on EPA’s National Priorities List in 1986 and listed in 1989.
+
+Following cleanup, groundwater monitoring occurred for several years and then was discontinued. Operations at the Site have continued under various names such as American Anodco, American Bumper and Manufacturing, Meridian Automotive, Ventra, and now FlexNGate.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and Potentially Responsible Party (PRP) actions. In 1987, the PRP (American Anodco) entered an Administrative Order on Consent with the EPA to perform a Remedial Investigation/Feasibility Study (RI/FS) to assess the environmental impact of the former lagoon being used for waste. During the RI, soil, groundwater, surface water, and sediments were investigated. Site cleanup included sludge removal, dewatering of lagoons and disposal. In 1993, after the site was added to EPA’s National Priorities List, EPA issued a Record of Decision (ROD) which documented that no unacceptable risk was identified, so no further actions were required at the Site, besides temporary groundwater monitoring to ensure that contaminant levels continue to decrease.
+
+Based on new information, further investigations are required to determine the source of the Per-and Polyfluoroalkyl substances (PFAS) in residential wells and whether any other constituents of concern may be present in groundwater from the Site.
+
+### What Is the Current Site Status?
+
+Groundwater monitoring after the Post-Record of Decision (ROD) took place from 1995-1999, 2002, 2004 and 2011. Then, several years after groundwater monitoring was terminated, the wells were removed in 2018. EPA decided that the ROD was an action equivalent to a Preliminary Close Out Report (PCOR) to begin deleting the site from the National Priorities List.
+
+In 2019, after the Final Close Out Report (FCOR) was completed, EPA and the State of Michigan became aware that the facility at the Site, which is still operating, has been using PFAS compounds for some time. This came to light when the facility was found to be the primary contributor of Per-and Polyfluoroalkyl substances (PFAS) to the Ionia wastewater treatment plant (WWTP) in 2019. State cleanups associated with the discharge permits have included tank cleaning and pre-discharge PFAS treatment. A Stormwater Characterization Study was conducted in spring 2020 to continue sampling and observing the stormwater outfalls on site which are being sampled for PFAS.
+
+The EPA has been working with the State of Michigan through the Michigan Department of Environment, Great Lakes, and Energy and the Michigan PFAS Action Response Team (MPART) and the local and state Health Departments to ensure private wells near the Site are not impacted by per- and polyfluoroalkyl substances (PFAS) contamination. An amendment to the Record of Decision is estimated to occur between August and October 2026.
+
+### Sampling and Monitoring
+
+EPA and the State of Michigan will work with the PRPs to determine how additional investigation of the area hydrogeology and additional sampling for Site-related contamination include emerging contaminants will be conducted.

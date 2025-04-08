@@ -1,2 +1,25 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Garden City Ground Water Plume site is located beneath the town of Garden City, with the highest concentrations of contamination located at the intersection of 900 Jonesville Road and County Road 100, Garden City, Bartholomew County, Indiana 47201. The contaminated ground water covers an estimated 3.4 acres. The town includes a mobile home park and businesses that are served by private ground water wells with approximately 50 residents. Currently several homes and businesses in Garden City rely on filtered water for drinking water purposes.
+
+Since 1990, trichloroethylene (TCE) has been detected at the site occasionally, which the levels are sometimes higher than the drinking water standards. TCE is a chlorinated solvent once widely used as a metal degreaser. Exposure to TCE can cause cancer and potentially poses hazards to human health. The source of the contamination is currently unknown.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions.  
+
+### What Is the Current Site Status?
+
+EPA signed a document called the [record of decision](https://semspub.epa.gov/work/05/516375.pdf) (PDF) (73pp, 39mb, [About PDF](https://www.epa.gov/home/pdf-files) ) in September 2018 that details a final cleanup plan for contaminated groundwater.
+
+The cleanup plan includes:
+
+- continuing existing wellhead treatment.
+- monitoring groundwater to track trichloroethene, or TCE, and plume migration levels.
+- implementing institutional controls such as deed restrictions and notices and protective easements, as needed.
+
+The estimated cost is $320,000.
+
+This plan is based on the findings of several technical and financial studies that helped identify the type and extent of contamination and evaluate several cleanup options.
+
+The record of decision and other site-related documents are available in the administrative record on this web page and at the Cleo Rogers Memorial Library, 536 Fifth St., Columbus.

@@ -1,26 +1,41 @@
-POWERSVILLE SITEBYRON, GA 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 15-acre Powersville Superfund Site is located north of the intersection of Georgia Highway 49 and Newell Road in Powersville, Peach County, Georgia. A residential property borders the site to the north, Newell Road border the site to the west, Georgia Highway 49 and Lizzie Chapel Church border the site to the south, and Peach County properties border the site to the east. The site’s broader surroundings include several residences, agricultural land and forested areas. The site includes the area used by Peach County as a borrow area, which provided sand and fill material from the 1940s to 1969. From 1969 to 1979, Peach County operated a sanitary landfill that received municipal and industrial wastes at the site. EPA placed the site on the Superfund program’s National Priorities List (NPL) in 1984 because of contaminated groundwater and soil resulting from operations at the site. The U.S. Environmental Protection Agency, the Georgia Environmental Protection Division (Georgia EPD), Canadyne-Georgia Corporation and Peach County, the site’s potentially responsible parties (PRPs), have investigated site conditions and taken steps to clean up the site to protect people and the environment from contamination. Site contamination does not currently threaten people living and working near the site. Top of Page
-What Has Been Done to Clean Up the Site?
-Canadyne-Georgia Corporation and Peach County, the site’s PRPs, led site investigation and cleanup activities, with oversight provided by EPA and Georgia EPD. 1987
-EPA issued the cleanup plan (a Record of Decision, or ROD) for the site.  The plan included 
-installing a landfill cover, including a gas venting system designed to prevent landfill gas buildup
-installing additional groundwater monitoring wells
-connecting nearby residences to the public water supply
-placing institutional controls on the site property and surrounding properties
-designing and implementing an operation and maintenance plan. 
-1991
-The site’s PRPs began cleanup activities. 1993
-The PRPs completed site cleanup activities. 2010
-Following the completion of cleanup activities, EPA took the site off the NPL in 2010. Top of Page
-What Is the Current Site Status?
-The most recent Five Year Review was published by EPA HQs in 2018. The remedy currently protects human health and the environment because exposure to contaminated soils and groundwater is being prevented as intended by the remedy. 
-Peach County continues to maintain the site, including mowing and clearing of the landfill cover. Groundwater will be monitored every five years to ensure that no new releases have occurred and that the landfill cover systems continue to provide adequate source control. Top of Page
+### Background
+
+The 15-acre Powersville [Superfund](http://www.epa.gov/superfund) Site is located north of the intersection of Georgia Highway 49 and Newell Road in Powersville, Peach County, Georgia. A residential property borders the site to the north, Newell Road border the site to the west, Georgia Highway 49 and Lizzie Chapel Church border the site to the south, and Peach County properties border the site to the east. The site’s broader surroundings include several residences, agricultural land and forested areas.
+
+The site includes the area used by Peach County as a borrow area, which provided sand and fill material from the 1940s to 1969. From 1969 to 1979, Peach County operated a sanitary landfill that received municipal and industrial wastes at the site.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1984 because of contaminated groundwater and soil resulting from operations at the site.
+
+The U.S. Environmental Protection Agency, the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/), Canadyne-Georgia Corporation and Peach County, the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p), have investigated site conditions and taken steps to clean up the site to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near the site.
+
+### What Has Been Done to Clean Up the Site?
+
+Canadyne-Georgia Corporation and Peach County, the site’s PRPs, led site investigation and cleanup activities, with oversight provided by EPA and Georgia EPD.
+
+**1987**  
+EPA issued the cleanup plan (a Record of Decision, or ROD) for the site. The plan included
+
+- installing a landfill cover, including a gas venting system designed to prevent landfill gas buildup
+- installing additional groundwater monitoring wells
+- connecting nearby residences to the public water supply
+- placing institutional controls on the site property and surrounding properties
+- designing and implementing an operation and maintenance plan.
+
+**1991**  
+The site’s PRPs began cleanup activities.
+
+**1993**  
+The PRPs completed site cleanup activities.
+
+**2010**  
+Following the completion of cleanup activities, EPA took the site off the NPL in 2010.
+
+### What Is the Current Site Status?
+
+The [most recent Five Year Review](https://semspub.epa.gov/work/04/11111482.pdf) was published by EPA HQs in 2018. The remedy currently protects human health and the environment because exposure to contaminated soils and groundwater is being prevented as intended by the remedy.
+
+Peach County continues to maintain the site, including mowing and clearing of the landfill cover.
+
+Groundwater will be monitored every five years to ensure that no new releases have occurred and that the landfill cover systems continue to provide adequate source control.

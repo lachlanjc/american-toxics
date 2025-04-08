@@ -1,2 +1,45 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Monolithic Memories Superfund site was used for semiconductor manufacturing from 1970 until 1989. Leaks from underground chemical storage tanks, acid neutralization systems, and chemical handling areas are suspected sources of volatile organic compounds (VOCs) found in soil and groundwater at the site. The tanks and acid neutralization systems were removed, along with impacted soil. Soil vapor and groundwater extraction systems were installed and operated to remove VOCs from soil and groundwater.  
+  
+In 2005, a tetrachloroethylene (PCE) spill occurred at the site on property that had been purchased by TWC Storage LLC (TWC). TWC implemented soil and groundwater cleanup operations under oversight of the Regional Water Board.  
+  
+VOCs from the site are believed to have contaminated a groundwater area common to the [National Semiconductor](https://www.epa.gov/superfund/nationalsemiconductor) Superfund site. Although these sites are listed separately on the NPL, the investigation and cleanup activities have been coordinated as part of an area-wide approach.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions. The State of California, San Francisco Bay Water Quality Control Board, is the lead agency for the site.
+
+Initial Actions
+
+Immediate Actions: Under State oversight, immediate actions included excavating impacted soils beginning in 1984, installation and operation of a groundwater extraction and treatment system (GETS) beginning in 1986, and installation and operation of a soil vapor extraction system between 1993 and 1997. The GETS was expanded in 1988 and 1992, and operated until 2005, when it was shut down with Regional Water Board approval to accommodate Site redevelopment. In addition, several localized soil excavations were completed in 2006 and 2008.  
+  
+In response to a spill of perchloroethene (PCE) in 2005, TWC excavated approximately 2,000 cubic yards of impacted soils. In 2006, a soil vapor extraction system was installed, and two chemical oxidation injection events were conducted. In 2007, a multi-phase extraction system was installed, and it operated through 2008. In 2009 and 2010, TWC injected a carbon-based substrate to stimulate growth of naturally-occurring microbes that break down target VOCs into environmentally benign end-products.
+
+Cleanup Ongoing
+
+AMD completed an investigation determining the type and extent of contamination at the Site. Based on the results of the investigation, EPA selected soil vapor extraction and groundwater extraction and treatment for the Remedial Action. Soil vapor extraction was conducted between 1993 and 1997, and groundwater extraction and treatment was conducted between 1986 and 2005. The groundwater extraction and treatment system (GETS) has not been operated since the Site was redeveloped in 2005. Concentrations of VOCs in groundwater related to former Site operations are at or approaching established cleanup levels, so further operation of the GETS is not anticipated.  
+  
+Vapor intrusion evaluation and mitigation efforts were completed at the on-site building, where evidence of vapor intrusion was found from a floor drain in a restroom. Mitigation activities were completed and follow-up sampling showed that no unacceptable vapor intrusion risk remains. A vapor intrusion investigation was completed at the one on-site building, showing evidence of trichloroethene (TCE) vapor intrusion above EPA's protective levels. Mitigation activities were completed in this building to prevent harmful vapors from accumulating indoors, and sampling showed that these activities were effective.
+
+### What Is the Current Site Status?
+
+Construction of all cleanup remedies is complete. Chemicals in groundwater related to former Site operations are at or approaching cleanup levels, indicating the success of the past remedial actions. Regional groundwater impacts related to off-Site, upgradient source(s) are still present, including the National Semiconductor Superfund Site; continued operation of the GETS is not likely to remediate these upgradient source(s). Vapor intrusion mitigation at the fitness center and Building 3 is complete, and confirmation sampling shows that no unacceptable vapor intrusion risk remains.
+
+Significant progress has been made to address the impact of the 2005 PCE spill, and TWC has requested No Further Action status related to groundwater impacts.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review - the Fourth Five Year Review - was completed in September 2014 and concluded the following:  
+  
+The remedy at the Monolithic Memories Site is currently protective of human health and the environment. Exposure pathways that could result in unacceptable risks are being controlled. Institutional Controls restrict the use of groundwater as a drinking water source.
+
+In order to be protective in the long-term, the following actions need to be taken:
+
+1. Continue the preferential pathway investigation, mitigation and indoor air monitoring at 1160 Kern Avenue \[completed in 2015\];
+2. Evaluate the need for restarting the pump and treat system; or
+3. Determine an alternate remedy.
+
+### Emergency Response and Removal
+
+Removal actions in 2006 and 2007 removed about 260 additional cubic yards of soils contaminated with VOCs and semi-volatile organic compounds (SVOCs). Another removal action removed about 2,300 cubic yards of contaminated soil and backfilled excavated areas with clean soils. Removal actions in 2014 and 2015 included vapor intrusion mitigation activities, to address elevated levels of trichloroethene (TCE) vapors that were detected in the on-site building.
+
+### Enforcement Information
+
+The Site cleanup is being conducted under an order from the California Regional Water Quality Control Board (Regional Water Board). The Responsible Party for the Site is Advanced Micro Devices, Inc.

@@ -1,28 +1,29 @@
-EDWARDS AIR FORCE BASEEDWARDS AFB, CA 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-Edwards Air Force Base's (AFB) primary mission is aircraft research and development and it covers approximately 301,000 acres in Kern, Los Angeles, and San Bernardino Counties, California. Spills and poor disposal practices have resulted in the release of volatile organic compounds (VOCs), metals and other chemicals to the surface, subsurface, and groundwater. Following immediate actions to protect human health and the environment, investigations, cleanup, and long-term monitoring are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The removal of drums, tanks and contaminated soils reduced the potential of exposure to hazardous substances and limited the sources of contamination at the base while investigations were taking place and cleanup activities were being planned. Some operable units (OUs) currently have groundwater and/or soil vapor extraction and treatment, with ongoing monitoring and reporting. Top of Page
-What Is the Current Site Status?
-The Base's OUs are at different stages of the investigation and/or cleanup process. The Air Force and Regulatory Agencies are working together to efficiently implement all aspects of the process. The OU-6, NASA Armstrong, groundwater cleanup action is underway and the OU-2 South Base groundwater cleanup is partially underway. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Edwards AFB is an active military installation and public access is strictly controlled for the entire Base. Certain OUs have institutional controls limiting use to industrial purposes, which is compliant with Base's primary mission of aircraft research and development. Top of Page
-Sampling and Monitoring
-Edwards AFB has a large on-going groundwater monitoring program. The frequency of sampling varies depending on the site or OU. Top of Page
-Enforcement Information
-The Air Force, EPA, Deparment of Toxic Substances Control (DTSC), and the Lahontan Water Board signed a Federal Facilities Agreement (FFA) in 1990 which established the procedural framework and schedule for developing, implementing, and monitoring at the Base in accordance with CERCLA, the NCP, Superfund guidance and policy, and applicable State of California laws. Top of Page
+### Background
+
+Edwards Air Force Base's (AFB) primary mission is aircraft research and development and it covers approximately 301,000 acres in Kern, Los Angeles, and San Bernardino Counties, California. Spills and poor disposal practices have resulted in the release of volatile organic compounds (VOCs), metals and other chemicals to the surface, subsurface, and groundwater. Following immediate actions to protect human health and the environment, investigations, cleanup, and long-term monitoring are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The removal of drums, tanks and contaminated soils reduced the potential of exposure to hazardous substances and limited the sources of contamination at the base while investigations were taking place and cleanup activities were being planned. Some operable units (OUs) currently have groundwater and/or soil vapor extraction and treatment, with ongoing monitoring and reporting.
+
+### What Is the Current Site Status?
+
+The Base's OUs are at different stages of the investigation and/or cleanup process. The Air Force and Regulatory Agencies are working together to efficiently implement all aspects of the process.
+
+The OU-6, NASA Armstrong, groundwater cleanup action is underway and the OU-2 South Base groundwater cleanup is partially underway.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Edwards AFB is an active military installation and public access is strictly controlled for the entire Base. Certain OUs have institutional controls limiting use to industrial purposes, which is compliant with Base's primary mission of aircraft research and development.
+
+### Sampling and Monitoring
+
+Edwards AFB has a large on-going groundwater monitoring program. The frequency of sampling varies depending on the site or OU.
+
+### Enforcement Information
+
+The Air Force, EPA, Deparment of Toxic Substances Control (DTSC), and the Lahontan Water Board signed a Federal Facilities Agreement (FFA) in 1990 which established the procedural framework and schedule for developing, implementing, and monitoring at the Base in accordance with CERCLA, the NCP, Superfund guidance and policy, and applicable State of California laws.

@@ -1,18 +1,23 @@
-YUMA MARINE CORPS AIR STATIONYUMA, AZ 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The Yuma Marine Corps Air Station site covers about 3,000 acres in Yuma County, Arizona. In 1990, EPA placed the site on the Superfund program’s National Priorities List (NPL) after chlorinated solvents were detected in a groundwater monitoring well on the station. Following implementation of the remedy, operation and maintenance activities and monitoring are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions.Yuma Marine Corps Air Station is participating in the Installation Restoration Program, a specially funded program established by the Department of Defense (DoD) in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities.The site’s most recent Five-Year Review concluded that remedies are expected to be protective upon completion. In the interim, exposure pathways that could result in unacceptable risks are being managed. Remediation systems at OU1 have reduced contaminants of concern in the groundwater. Institutional controls are in place to restrict exposure to contaminated groundwater at OU1 and contaminated soils at OU2.
-Top of Page
-What Is the Current Site Status?
-Soil remediation activities are complete. Groundwater treatment systems have performed as designed. Both systems stopped operating during the rebound studies. The systems are now operating again.EPA is addressing the site in long-term remedial phases focusing on cleanup. There are two operable units (OUs); OU1 includes soils deeper than 10 feet and underlying groundwater aquifers. OU2 includes 18 areas of soils less than 10 feet below the surface. An OU is a focused study area that allows EPA to take discrete actions as part of an overall site cleanup.Groundwater (OU1): The long-term remedy for OU1 included a groundwater treatment system and monitored natural attenuation, which involves letting naturally occurring processes reduce the contamination in groundwater. In addition, institutional controls to restrict groundwater use, groundwater monitoring, and discharge of treated groundwater to the storm drain are parts of the remedy.As part of a pilot study, the Navy, with oversight from EPA under the site’s Federal Facility Agreement (FFA), operated a groundwater treatment system to contain the chlorinated solvent plume. The treatment system intercepted the plume and prevented it from migrating off the station. The treatment system, an innovative in-well air stripping technology, ran from January to June 1997. The system was successful at lowering VOC levels, but siltation problems affected pumping rates. The wells were modified to work as vertical recirculation wells as part of the study. The design was part of the final cleanup action for the groundwater. Air sparging and soil vapor extraction treated the source area of the plume and a pump-and-treat system (extraction and air stripping) treated the rest of the plume. The system has been extremely effective in removing contaminants; the Marines are considering additional cleanup approaches to maximize effectiveness.Soil (OU2): The long-term remedy for OU1 includes no action at 12 subsites, institutional controls at three subsites and removal of asbestos-containing materials (ACM) at three subsites. In 2001, all of the soil sites were cleaned and removed from the facility except the large construction debris site. The contractor made a sweep through the debris and removed all visible ACM. The base has placed a fence around the site and listed land use controls in the base master plan. Two treatment systems have significantly lowered contaminant levels in affected soil. The main base system is an air-sparging/pump-and-treat system that attacks the main plume and a Leading Edge Plume Area system (LEPA) that remediates contaminants beyond the main base system.
-Top of Page
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions.
+
+Yuma Marine Corps Air Station is participating in the Installation Restoration Program, a specially funded program established by the Department of Defense (DoD) in 1978 to identify, investigate and control the migration of hazardous contaminants at military and other DoD facilities.  
+
+The site’s most recent Five-Year Review concluded that remedies are expected to be protective upon completion. In the interim, exposure pathways that could result in unacceptable risks are being managed. Remediation systems at OU1 have reduced contaminants of concern in the groundwater. Institutional controls are in place to restrict exposure to contaminated groundwater at OU1 and contaminated soils at OU2.  
+
+### What Is the Current Site Status?
+
+Soil remediation activities are complete. Groundwater treatment systems have performed as designed. Both systems stopped operating during the rebound studies. The systems are now operating again.
+
+EPA is addressing the site in long-term remedial phases focusing on cleanup. There are two operable units (OUs); OU1 includes soils deeper than 10 feet and underlying groundwater aquifers. OU2 includes 18 areas of soils less than 10 feet below the surface. An OU is a focused study area that allows EPA to take discrete actions as part of an overall site cleanup.
+
+*Groundwater (OU1):* The long-term remedy for OU1 included a groundwater treatment system and monitored natural attenuation, which involves letting naturally occurring processes reduce the contamination in groundwater. In addition, institutional controls to restrict groundwater use, groundwater monitoring, and discharge of treated groundwater to the storm drain are parts of the remedy.
+
+As part of a pilot study, the Navy, with oversight from EPA under the site’s Federal Facility Agreement (FFA), operated a groundwater treatment system to contain the chlorinated solvent plume. The treatment system intercepted the plume and prevented it from migrating off the station. The treatment system, an innovative in-well air stripping technology, ran from January to June 1997. The system was successful at lowering VOC levels, but siltation problems affected pumping rates. The wells were modified to work as vertical recirculation wells as part of the study. The design was part of the final cleanup action for the groundwater. Air sparging and soil vapor extraction treated the source area of the plume and a pump-and-treat system (extraction and air stripping) treated the rest of the plume. The system has been extremely effective in removing contaminants; the Marines are considering additional cleanup approaches to maximize effectiveness.  
+
+*Soil (OU2):* The long-term remedy for OU1 includes no action at 12 subsites, institutional controls at three subsites and removal of asbestos-containing materials (ACM) at three subsites. In 2001, all of the soil sites were cleaned and removed from the facility except the large construction debris site. The contractor made a sweep through the debris and removed all visible ACM. The base has placed a fence around the site and listed land use controls in the base master plan. Two treatment systems have significantly lowered contaminant levels in affected soil. The main base system is an air-sparging/pump-and-treat system that attacks the main plume and a Leading Edge Plume Area system (LEPA) that remediates contaminants beyond the main base system.

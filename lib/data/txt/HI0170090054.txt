@@ -1,22 +1,17 @@
-NAVAL COMPUTER AND TELECOMMUNICATIONS AREA MASTER STATION EASTERN PACIFICWAHIAWA, HI 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Naval Computer and Telecommunications Area Master Station Eastern Pacific site consists of operating facilities throughout Oahu, Hawaii. Most of the sites are land disposal areas that are no longer in use and polychlorinated biphenyl (PCB) transformer sites. Site activities contaminated soil with PCBs, volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs) and metals. The Navy selected remedies for several sites and has begun cleanup activities.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. The Navy is the lead agency conducting the investigations and cleanup, with oversight provided by EPA and the Hawaii Department of Health.The Navy's Installation Restoration Program (IRP) is addressing the sites.
-Top of Page
-What Is the Current Site Status?
-EPA has selected several remedies for subsites. EPA selected a “no further action” remedy for the dump site near Building 293 and seven transformer sties because contaminants did not pose a threat to human health and the environment. The long-term remedy for five other transformer sites included land use controls.
-Top of Page
-Emergency Response and Removal
+### Background
+
+The Naval Computer and Telecommunications Area Master Station Eastern Pacific site consists of operating facilities throughout Oahu, Hawaii. Most of the sites are land disposal areas that are no longer in use and polychlorinated biphenyl (PCB) transformer sites. Site activities contaminated soil with PCBs, volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs) and metals. The Navy selected remedies for several sites and has begun cleanup activities.  
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. The Navy is the lead agency conducting the investigations and cleanup, with oversight provided by EPA and the Hawaii Department of Health.
+
+The Navy's Installation Restoration Program (IRP) is addressing the sites.  
+
+### What Is the Current Site Status?
+
+EPA has selected several remedies for subsites. EPA selected a “no further action” remedy for the dump site near Building 293 and seven transformer sties because contaminants did not pose a threat to human health and the environment. The long-term remedy for five other transformer sites included land use controls.  
+
+### Emergency Response and Removal
+
 Removal actions include excavation and thermal desorption treatment of PCB-contaminated soil. The Navy backfilled excavated areas with clean soil.
-Top of Page

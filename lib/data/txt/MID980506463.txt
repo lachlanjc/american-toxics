@@ -1,2 +1,23 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 87-acre K & L Avenue Landfill is located in Oshtemo Township, Michigan. The site served as a local garbage dump for the township from the 1960s until 1968 when it became the county sanitary landfill. The landfill closed in 1979, after contaminants appeared in residential wells. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state, county and potentially responsible party (PRP) actions.  
+
+EPA has conducted one five-year review of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires establishment of a countywide groundwater use ordinance. This ordinance will require residents to abandon potable use of existing private drinking water wells and connect to the public water supply.  
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included continued monitoring of groundwater, surface water and air, installation of a landfill cap and gas vents, fencing, and institutional controls. Construction of the landfill cap took place in 2005 and 2006. In March 2008, the passive gas vents at the landfill were converted to an active gas extraction system to address methane gas generation at the landfill and assist in the overall remedy performance. Operation and maintenance activities are ongoing.
+
+Prior to the cleanup, in 1980 and 1981, the County of Kalamazoo either installed new wells or provided connections to a public water supply for residences affected by contaminants from the landfill. In 1999 and 2004, additional homes received access to the public water supply.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Groundwater is contaminated with volatile organic compounds, phenols, and heavy metals. Soil in isolated areas shows low levels of polychlorinated biphenyl contamination.

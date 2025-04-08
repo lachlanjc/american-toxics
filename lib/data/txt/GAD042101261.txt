@@ -1,2 +1,90 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The T. H. Agriculture & Nutrition Co. (Albany Plant) [Superfund](http://www.epa.gov/superfund) site includes an area where two former pesticide formulation facilities operated from the 1950s and 1960s until the 1980s.
+
+EPA placed the site on the [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1989 because of contaminated ground water, sediment and soil resulting from facility operations. EPA, the [Georgia Environmental Protection Division (Georgia EPD)](https://epd.georgia.gov/) and the site’s [potentially responsible parties (PRPs)](http://www.epa.gov/superfund/superfund-glossary#p) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+Site contamination does not currently threaten people living and working near the site. Cleanup actions have addressed the primary threats associated with soil. Contaminated groundwater does not extend beyond the site’s boundary. The business currently operating on site does not use groundwater for drinking water purposes.
+
+Groundwater contamination has an increasing vertical trend within the site's boundary. Currently, investigations are underway on a new form of action to implement at the site.
+
+### What Has Been Done to Clean Up the Site?
+
+The site investigation and cleanup activities are considered to be led by the Potentially Responsible Party (PRP), with oversight provided by EPA and the Georgia Environmental Protection Division (EPD).
+
+Site investigations and cleanup activities have focused on two areas, which EPA refers to as operable units, or OUs. These areas include
+
+- OU-1: soil contamination on the western property and ground water across the entire site,
+- OU-2: soils on the eastern property.
+
+**1984**  
+The site’s PRP for the western property conducted a short-term cleanup action under the oversight of Georgia EPD. Major cleanup activities include
+
+- Demolishing several buildings,
+- digging up selected surface soils and below ground disposal areas,
+- installing a perimeter fence,
+- establishing a vegetative cover.
+
+**1992**  
+The PRP for the western property undertook another short-term cleanup action, required by EPA. The PRP removed and disposed of 24,700 tons of soil and debris and treated 4,300 tons of soil on-site using low-temperature heating.
+
+**1997**  
+The PRP for the western property completed construction of the ground water pump-and-treat system in 1997 and operated the system until 2003. EPA shut the system down after determining the system was not efficiently removing contaminants from ground water.
+
+**1999**  
+The PRP for the eastern property completed the soil cleanup. Follow-up soil sampling indicated that contamination above site cleanup goals remains on the property.
+
+**2003**  
+EPA authorized a study examining the use of biological processes to break down toxaphene and other pesticides that had accumulated near the water table. EPA concluded that this approach would not work. EPA is now evaluating other cleanup alternatives to the pump-and-treat system.
+
+**2017**
+
+EPA authorized a study examining Thermal Conductive Heating (TCH). Although the bench-scale treatability study showed TCH as a promising technology for treating LNAPL-impacted zones in the subsurface, the high costs of the technology, and the additional dewatering and/or barrier wall requirements did not warrant the partial benefits because MCL would still not be attained even after full implementation.
+
+**2018**
+
+The EPA gave approval to implement a field-scale pilot test for the evaluation of the ability of EHC® ISCR Reagent and GeoForm™ Soluble injections to degrade both OCPs and VOCs. Results indicated toxaphene and other OCPs were reduced below their groundwater cleanup level in several wells. Chloride concentrations also increased within the wells where OCP decreases were observed suggesting that reductive dichlorination had occurred. However, xylene and ethylbenzene groundwater concentrations appeared to decrease only slightly and emained above the Federal MCL of 10,000 μg/L in several pilot study wells as of November 2020.
+
+**2020**
+
+Locations that received Geoform <sup>TM </sup> Soluble injections (from the 2018 study) revealed a greater degradation of xylenes; therefore, EPA approved AECOM and Philips requested to extend performance monitoring for another year to allow for adequate duration to monitor GeoForm™ Extended Release. The results showed little to no xylene degradation and it was determined that xylene reductions observed in the 2018 study were likely attributable to partitioning to soil instead of degradation.
+
+**2021**
+
+An AS/SVE field pilot study was performed in February 2021 to evaluate this treatment technology to address potential residual LNAPL and elevated dissolved concentrations of total xylene and ethylbenzene at the site. AS is a well-established treatment technology for VOCs with the ability to reduce LNAPL mass and significantly reduce dissolved concentrations. Soil vapor extraction (SVE) would be utilized to contain vapors generated by AS operations. Results indicated AS/SVE could be an effective remedial technology to address petroleum hydrocarbon impacts in groundwater at the site.
+
+**2023**
+
+EPA, in consultation with the Georgia Department of Environmental Protection, issued an Amended Record of Decision, or AROD, for the T.H Agriculture & Nutrition Superfund Site. The AROD is a public document that explains the selected cleanup alternative for the site and includes a response to the public comments received during the Proposed Plan public comment period that closed July 10, 2023.
+
+The remedy selected to address the contaminants of concern (COCs) at the site will include two phases: 1) aggressive remediation of source areas which include the light non-aqueous phase liquid (LNAPL) plume and residual volatile organic compounds (VOC), followed by 2) *in-situ* remediation of residual pesticides in the dissolved phase groundwater. The selected remedy consists of installation of air sparge (AS) and soil vapor extraction (SVE) wells followed by direct push injection of zero-valent-iron (ZVI), carbon substrate, and nutrients to chemically degrade dissolved and adsorbed COCs outside of the LNAPL area.
+
+### What Is the Current Site Status?
+
+The most recent [Five Year Review](https://semspub.epa.gov/work/04/11189078.pdf) was published in 2023, as was the [Amended Record of Decision](https://semspub.epa.gov/work/04/11189443.pdf) (AROD).
+
+The AROD identifies the selected treatment from alternatives presented to the community, and with community input, during the [Proposed Plan](https://semspub.epa.gov/work/04/11188867.pdf). This treatment addresses contaminated groundwater and remaining pesticides to provide long-term effectiveness.
+
+The AROD documents EPA’s modifications to the original cleanup plan, which was selected in 2003 for Operable Unit 1 (OU1). The amended cleanup includes measures to address remaining contaminated groundwater at OU1. EPA intends to conduct the remedial action in two phases for OU1. The first phase aims to eliminate a mass of solvents on top of the groundwater and minimize any pesticide migration, and the second phase will address the pesticide contaminants in the groundwater.
+
+OU-1: The remedy currently protects human health and the environment because contaminated surface soils have been removed and groundwater is not currently used at the Site. Institutional controls have been implemented restricting future groundwater use on the THAN Parcel as well as prohibiting residential use of the Site.
+
+OU-2: The remedy currently protects human health and the environment because there are no complete exposure pathways at this time.
+
+View this [pre-recorded presentation](https://www.youtube.com/watch?v=D76rrQkOfys) that provides details of the Proposed Plan, which presented the EPA’s preferred cleanup actions to address contamination at the Site. This [Fact Sheet](https://semspub.epa.gov/work/04/11188869.pdf) was presented to the community for details about the proposed cleanup activities and associated public comment period.
+
+The PRP for the western property periodically conducts groundwater monitoring and maintains the vegetative cover over OU-1 soils.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+OU 1 has applied institutional controls to restrict future groundwater use and prohibiting residential use of the Site.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.
+
+The site’s PRPs lead site investigation and cleanup activities, with oversight provided by EPA and Georgia EPD.

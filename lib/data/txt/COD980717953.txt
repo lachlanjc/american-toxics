@@ -1,2 +1,17 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 550-acre Sand Creek Industrial site is located in Denver and Commerce City, Colorado, in a heavily industrial area. Since the 1940s, several different types of businesses have operated at the site. They include an oil refinery, a pesticide manufacturing facility, an herbicide chemical plant and a landfill. Site operations, waste management practices, spills and explosions at the site contaminated soil, air, groundwater and surface water with hazardous chemicals. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1996. Operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA divided the site into six separate areas, or operable units (OUs), to better address cleanup. The site’s long-term remedy at OU1 included demolition and disposal of contaminated buildings and tanks; excavation, incineration and disposal of soil contaminated with halogenated organic compounds (HOCs); treatment of soil contaminated with volatile organic compounds (VOCs); and backfilling excavated areas with clean soil. Early cleanup actions at OU2 addressed area contamination. Therefore, EPA required no further action for OU2.
+
+The long-term remedy at OUs 3 and 6 included extraction and treatment of landfill gas; maintenance of the landfill cover, perimeter fence and warning signs; institutional controls; and groundwater and landfill gas monitoring. The site’s long-term remedy at OU4 included removal of the recoverable portion of light non-aqueous phase liquid (LNAPL) plume, groundwater and surface water monitoring, and institutional controls. The site’s long-term remedy at OU5 included excavation and treatment of contaminated soil, revegetation of excavated areas, and backfilling excavated areas with treated soil. Remedy construction took place between 1990 and 1994. Operation and maintenance activities are ongoing.
+
+Site cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. These actions included installation and operation of a landfill gas-collection system; installation and maintenance of a security fence; installation of vegetative cover over the landfill; neutralization of acid pits; landfill improvements; and excavation and disposal of drums and contaminated soil and debris.
+
+### What Is the Current Site Status?
+
+The site is being addressed through state and federal actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment.

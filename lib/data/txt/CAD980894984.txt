@@ -1,2 +1,11 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Fernando Valley (Area 3) site is a 4,400-acre area of contaminated groundwater in Glendale, California. The site is one of four Superfund sites in the San Fernando Valley. Numerous potentially responsible parties (PRPs) contaminated groundwater in the region with volatile organic compounds (VOCs), including trichloroethylene (TCE) and perchloroethylene (PCE). After EPA determined that no action was needed to address site contaminants, it took the site off the Superfund program’s National Priorities List (NPL) in 2004.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal and state actions.  
+
+### What Is the Current Site Status?
+
+EPA selected “no further action” as the long-term remedy in 2004 because VOC contamination was not harmful to human and environmental health. After EPA and the State of California found that contamination did not pose a threat to public health and the environment, EPA took the site off the NPL in 2004.

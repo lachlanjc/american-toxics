@@ -1,2 +1,46 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The site is located on a 185-acre site approximately 2 miles southwest of Crosby, Harris County, Texas. The site is bordered by U. S. Highway 90 on the south, the San Jacinto River on the west, and Jackson Bayou on the north.
+
+From about 1961 until 1967, the Site was operated as an illegal open dump. As a result, a wide variety of wastes, including drums and bulk wastes, were disposed on-site. The wastes were primarily chemical wastes, such as benzene, phenols, olefinic compounds, and other organic solvents, that most likely originated from petrochemical companies operating in the surrounding area. Approximately 2,000, 55 gallon drums of waste and an indeterminable amount of bulk loads were discovered to have been disposed at the Site. The drums were dumped along the sides of roads and bulldozed into pits and low mounds, while the bulk loads were dumped and/or pumped into pits and low-lying areas. Hydrocarbon odors from the Site became such a nuisance that local residents at the time complained to both President Lyndon Johnson and Congress. Much of the wastes were deposited into what was known as the main waste pit, which was surrounded by a dike. This dike was breached by flooding, which resulted in the transporting of wastes across a large low-lying area east of the main waste pit known as the overflow area.
+
+The site is frequently inundated by floodwaters from the San Jacinto River. Surface water at the site ultimately drains to either the San Jacinto River or Jackson Bayou. A shallow aquifer, located within alluvial sand deposits ranging from 17 to 34 feet thick, underlies the site. Groundwater in the shallow aquifer flows from the east and northeast towards the southwest across the site. The shallow aquifer discharges into several ponds located at the marina at the southwest portion of the site. A deeper aquifer is located approximately 65 feet below the shallow aquifer. Separated from these two aquifers by several hundred feet of clay are the deeper Chicot and Evangeline aquifers. These two aquifers supply much of the water supply for metropolitan Houston.
+
+Both Jackson Bayou and the San Jacinto River have designated beneficial uses for contact recreation and high aquatic life. In the past, the eastern portion of the Site was used by a honey farm to raise bees and harvest honey. The Riverdale Subdivision is located approximately 500 feet southwest of the Site. The only features remaining that are related to the remedy include groundwater monitoring wells and access roads. Individual security fencing with a locked gate secures each monitoring well. Current site uses include recreational businesses, including the Twisted River Ranch off-roading area and the XTREME Marina and Camping Park (formerly Love’s Marina). Its facilities include fishing ponds, a campground, and a boat launch on the San Jacinto River.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires maintenance of site access controls, disposal of drum wastes, well sampling, pond water monitoring, a vapor intrusion screening evaluation and deed notices.  
+
+### What Is the Current Site Status?
+
+The Texas Commission on Environmental Quality (TCEQ) is responsible for operation and maintenance activities at the Site. These activities include semi-annual monitoring of shallow monitoring wells and annual monitoring of the deep monitoring wells.
+
+The fifth five-year review was completed in September 2016. The five-year review identified the following actions that must be taken for the remedy to be protective over the long term:
+
+- Conduct an assessment of the Maximum Contaminant Levels (MCLs) and the Human Health Criteria (HHC), and update the action levels as appropriate. Ensure that the laboratory detection limits are lower than updated cleanup levels.
+- Perform the five-year sampling event to reassess indicator parameters per the O&M Plan (Shaw 2012b).
+- Between each sampling event conducted at the Site, perform the data evaluation as described in the O&M Plan (Shaw 2012b), and include results of the evaluation in the annual reports. Evaluate data trends to adjust sampling frequency as appropriate, upon discussion and approval of the EPA and reevaluate attenuation timeframes.
+- Conduct an assessment of detections of Site contaminants above the Texas surface water quality standards for the protection of human health and aquatic life.
+- Assess the need for sediment sampling, and if appropriate establish data quality objectives for sediment at the Site.
+- Remove the fallen tree from the fenced enclosure for well GW-31 and repair the fence.
+
+The EPA conducted a removal at the site in June 1983. This removal action resulted in the removal of approximately 440 cubic yards of buried phenolic tars. A Record of Decision (ROD) for the site was issued on September 18, 1986, to address the threats posed by the site. The remedy selected in the ROD included excavation of contaminated soil and sludge, onsite incineration of excavated soil and sludge, onsite disposal of residue ash from incineration, backfilling of pits and excavated areas, treatment of contaminated surface water, institutional controls to prevent used of contaminated groundwater, and monitoring of the upper and lower aquifers. The site’s long-term remedy included excavation of contaminated soil and sludge, on-site incineration of excavated soil and sludge, on-site disposal of residue ash from incineration, backfilling of pits and excavated areas, treatment of contaminated surface water, institutional controls to prevent used of contaminated groundwater, and monitoring of the upper and lower aquifers. Construction of the remedy finished in 1995. Operation and maintenance activities are ongoing.
+
+The cleanup actions completed reduced the threats from the Site. These former threats included direct contact with contaminated soils, sludges, and surface water; consumption of contaminated ground water; and inhalation of toxic organic compounds. A total of 496,253 tons of contaminated soil and sludge, and 350 million gallons of contaminated water were treated through the incineration remedy.
+
+### Sampling and Monitoring
+
+TCEQ conducts annual sampling of the monitoring wells at the Site. • The conclusions from the 2020 Annual Groundwater Monitoring Report are as follows:
+
+- The direction of shallow groundwater movement appears to flow away from the former waste pits, and generally toward the San Jacinto River to the west. The deeper groundwater zone flow direction appeared to be generally east during the previous gauging events, but due to insufficient data, an updated gradient could not be generated.
+- The distribution of low-concentration VOCs and metals appears to be situated south of the site near the current pond locations. The concentrations of these chemicals in groundwater have not increased or decreased significantly since tested in 2016.
+- A trend analysis was performed on select wells to evaluate concentrations trends and plume stability and the results indicate that contaminant concentrations are either stable or show a decreasing trend.
+
+The recommendation is for TCEQ to continue groundwater monitoring according to the Field Sampling Plan, O&M Plan, and in accordance with the ROD, and to pursue additional well plugging and abandonment of wells that have not shown contamination for several years.
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. A removal action in 1983 removed about 440 cubic yards of buried phenolic tars.

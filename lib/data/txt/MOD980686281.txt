@@ -1,2 +1,63 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Oronogo-Duenweg Mining Belt Superfund site is part of the Tri‐State Mining District where mining, milling, and smelting of lead and zinc ore began in the mid‐1800s and continued for more than 100 years. The site consists of numerous mine waste areas spread across thousands of acres in western Jasper County, and part of northwest Newton County, Missouri. Former mining and smelting operations contaminated soil, groundwater, and surface water sediments with lead, zinc, and cadmium. Million tons of surface mining wastes contaminated thousands of acres of the site.  
+
+After initially detecting elevated heavy‐metal levels in mine waste, soil, groundwater, and sediment, the EPA has been collaborating with the state and the local community to clean up lead‐contaminated areas for over three decades.  
+
+### What Has Been Done to Clean Up the Site?
+
+Site-wide, nearly 25 million cubic yards of mining wastes have been remediated on over thousands of acres, over 2,000 residential yards have been remediated, and over 500 homes have been supplied with a clean, permanent source of drinking water. Approximately 14 miles of intermittent stream tributary have been remediated across the Site in recent years.
+
+In 1991, the Missouri Department of Health (MDoH), now the Missouri Department of Health and Senior Services, conducted a large-scale health study to determine how local residents had been affected by mine-related contamination. The results of that study revealed increased blood lead levels in residents due to exposure to contaminated soils at the site and approximately 14 percent of children younger than seven years of age at the site had blood lead levels exceeding 10 micrograms per deciliter (µg/dL).
+
+In 2000, the Agency for Toxic Substances and Disease Registry and MDoH initiated a follow-up lead exposure study to determine whether intervention efforts initiated in Jasper County since the 1995 study had been effective in reducing blood lead levels of children residing in the area. By June 2000, the EPA had remediated 2,288 residential yards and implemented major intervention efforts including an aggressive community education campaign. The final follow-up study report, published in 2002, found that blood lead levels declined between 1991 and 2000. These results indicated that educational and environmental interventions were effective in reducing children's blood lead levels within the site. An effort is currently underway to conduct a new follow-up lead exposure study.
+
+A significant evaluation of the ecological impacts from mining was also conducted as a part of the Remedial Investigation. A detailed ecological risk assessment was performed by the EPA and the Potentially Responsible Parties. The U.S. Fish and Wildlife Service identified a federally listed endangered species and critical species habitat in the site's streams. The Ecological Risk Assessment was completed in May 1998 and identified significant risk to both aquatic and terrestrial life.
+
+To address these concerns, **EPA designated five operable units for cleanup activities**:
+
+**Operable Unit 0** – Sitewide activities 
+
+**Operable Unit 1** – Mine and mill waste 
+
+**Operable Unit 2** – Residential yard soil (located in former smelter areas)
+
+**Operable Unit 3** – Mine waste residential yards (located in the vicinity of mining and milling wastes)
+
+**Operable Unit 4** – Groundwater  
+
+**Operable Unit 5** – Spring River Basin
+
+**Operable Unit 1 – Mine and Mill Waste:** This operable unit was established to address human health and ecological risks resulting from exposure to mining, milling, and smelting wastes at the site. More than 24 million cubic yards of mine and mill waste and contaminated soil has been cleaned up over thousands of acres. 
+
+**Operable Unit 2 – Residential Yard Soils / Operable Unit 3 – Mine Waste Residential Yards:** These operable units were established after completion of the 1991 exposure study that documented elevated blood lead concentrations in children within Jasper County.. Response actions were identical and were conducted simultaneously for both operable units. Through several phases of remedial actions, approximately 3,070 residential yards contaminated with smelter and mining related waste have been cleaned up.  Assessment of residential properties remains ongoing under OUs 2 & 3 and could include previously sampled or remediated properties in consideration of the new Lead Guidance.
+
+**Operable Unit 4 – Groundwater:** This operable unit addresses contaminated groundwater within the site boundary. The response action for contaminated groundwater is necessary to mitigate the risk of human consumption of contaminated groundwater. The groundwater remedy includes institutional controls to ensure that new and existing wells exceeding safe drinking water acceptable levels are not used for drinking water without prior treatment. Institutional controls are also in place for this operable unit to prevent future human health risks due to possible downward migration of contaminants from the shallow aquifer to the deep aquifer.
+
+Early testing of private drinking water supply wells during the remedial investigation indicated that many wells were contaminated with lead, cadmium, and zinc attributable to historical mining activities. In response, 520 residences were connected to public water lines and new private drinking water supply wells were constructed in the deep aquifer for two residences. Remediation of the upper aquifer has not been feasible due to the way the groundwater flows through an extensive network of abandoned underground mines. The EPA continues to work with the state of Missouri to regulate the construction of new private drinking water supply wells; this work is part of the institutional controls at the site.  
+
+**Operable Unit 5 – Spring River Basin:**
+
+This OU addresses contaminated surface water and sediments in perennial (always flowing) streams in the Spring River Basin as a part of the Tri-State Mining District Watersheds that connect three states and two EPA Regions 6 and 7. The EPA has completed a Remedial Investigation report for the Upper Spring River Basin which includes OU5. This report analyzed contamination from unconsolidated mine waste that has been released or is being released into the watersheds creeks, streams, and adjacent floodplains. Currently, the EPA is developing Non-Time Critical Removal Actions to support the ongoing Feasibility Study to evaluate cleanup technologies.
+
+Technical documents for the ongoing investigations are available on the Site Documents & Data section of this site profile page, under Reports and Documents, under the link for Oronogo-Duenweg Mining Belt OU5 – Spring River RI/FS Technical Documents.
+
+### What Is the Current Site Status?
+
+In 2024, the EPA expanded the site's boundary to allow the EPA and its partners to conduct the ongoing, long-term cleanup actions necessary to protect human health and the environment from risks posed by mine waste found throughout the county. The Site boundary expansion was conducted in partnership with the Missouri Department of Natural Resources (MoDNR), the Jasper County Commission, the Jasper County Health Department, and local city governments, and included extensive outreach efforts to solicit feedback from the impacted community and key stakeholders regarding their inclusion within the Site boundary. The site boundary now encompasses the entire county boundary of Jasper County, including but not limited to the cities of Carthage, Avilla, La Russel, Reeds, Sarcoxie, Fidelity, Carytown, and Jasper.
+
+Operable Unit 1 – Mine and Mill Waste, Operable Unit 2 and 3 – Residential Yards, Operable Unit 4 – Groundwater, and Operable Unit 5 –Spring River Basin are currently active. Ongoing activities include sampling and remediation of mining and milling waste, residential yards, and private drinking water wells.
+
+The EPA also funds health education through the Missouri Department of Health and Senior Services to provide education and resources for residents on ways to prevent exposure to lead. The EPA also provides funding to the Jasper County Health Department to support the Jasper County Environmental Contamination Ordinance, which that requires that soil is tested prior to construction of new homes to ensure the homes are not constructed on property contaminated with mine waste. The ordinance also requires wells to be tested when a property transfers ownership.
+
+The EPA and Jasper County have also developed a GIS mapping database that allows updated tracking of cleanup locations and progress at the site. Please visit Jasper County's Beacon Database.
+
+Over the last several years, EPA Region 7 has been consulting through EPA Office of Research and Development with U.S. Department of Agriculture (USDA) and Natural Resources Conservation Service (NRCS) to assist with revegetation at the site. Additionally, EPA Region 7 is working with Webb City's Public Works Department to bolster the amount of compost available to improve revegetation on remediated areas.
+
+### Sampling and Monitoring
+
+The EPA continues to sample private drinking water wells, residential, and non-residential properties throughout the county. For the Spring River investigation, the EPA continues to sample and monitor surface water and sediment in site streams. For more information, please contact the [EPA Site Contacts](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.contacts&id=0701290)
+
+### Emergency Response and Removal
+
+Cleanup activities at the site include removal actions, or short-term cleanups, to address immediate threats to human health and the environment. In the past, removal actions included cleanup of soils at six child-care centers and 300 residences and provision of bottled water to affected residences. New time-critical removal actions are currently underway to address newly identified residential yards with site-related contamination. For additional information about the recent removal action, please visit: [https://response.epa.gov/site/site\_profile.aspx?site\_id=15638](https://response.epa.gov/site/site_profile.aspx?site_id=15638)

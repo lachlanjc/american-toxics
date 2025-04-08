@@ -1,2 +1,176 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Olin Corp. (McIntosh Plant) [Superfund](http://www.epa.gov/superfund) Site is located one mile east-southeast of McIntosh at 1638 Industrial Road, Washington County, Alabama. The Olin property is bounded on the east by the Tombigbee River; on the west by land not owned by Olin; on the north by the Ciba-Geigy Superfund Site; and on the south by River Road, which contains both residential and commercial properties. The EPA is the lead regulatory agency for the remedial activities taking place at the Site.
+
+From 1952 until 1982, Olin operated a mercury-cell chlor-alkali plant and a crop protection chemicals (CPC) plant which produced chlorinated organic pesticides, including hexochlorobenzene (HCB). In 1978, Olin began operating a diaphragm cell caustic soda/chlorine plant, which is still in operation. In 1982, Olin replaced the mercury-cell facility with a diaphragm and membrane cell system that eliminated mercury from the manufacturing process. HCB was no longer produced when Olin discontinued operation of the CPC facility in 1982. Presently, Olin produces chlorine, caustic soda and sodium hypochlorite and blends and stores hydrazide compounds at the Site.
+
+The EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 1984 due to contaminated groundwater from facility operations. In 1987, Olin Corporation started treating contaminated groundwater under the Resource Conservation and Recovery Act (RCRA) corrective action program. The plant is both a RCRA facility and an NPL site, meaning multiple EPA programs are working on the cleanup. Historical on-site waste management practices contaminated groundwater, surface water, soil, sediment and biota.
+
+### What Has Been Done to Clean Up the Site?
+
+[Potentially Responsible Parties](https://www.epa.gov/superfund/superfund-glossary#p) (PRPs) lead Site investigation and cleanup activities with oversight provided by the EPA and the [Alabama Department of Environmental Management](https://adem.alabama.gov/default.cnt) (ADEM).
+
+Site investigations and cleanup activities are separated into two geographical areas, which the EPA refers to as [operable units or OUs](http://www.epa.gov/superfund/superfund-glossary#o):
+
+- OU-1: The active production facility, solid waste management units (SWMUs) and the upland area of the Olin property,
+- OU-2: The Olin Basin located next to the Tombigbee River, a floodplain and a wastewater ditch leading to the basin.
+
+Below is a timeline of activities since the initial assessment of the Site:
+
+**1979**  
+Initial site assessment conducted and notification of potential environmental threats.
+
+**1983**  
+Site is proposed for listing on the National Priorities List (NPL).
+
+**1984**  
+Site is finalized to the NPL.
+
+**1984 – 1985**  
+Olin closed 10 designated Solid Waste Management Units (SWMUs) on the site.
+
+**1987**  
+Start of contaminated groundwater treatment under the RCRA corrective action program (CAP).
+
+**1990**  
+The EPA enters into an Administrative Order on Consent (AOC) with Olin Corporation to conduct a remedial investigation/feasibility study (RI/FS) for the Site. Under an EPA Removal Action AOC, Olin Corporation removed 11,407 tons of hexochlorobenzene (HCB)-contaminated soil from the Site.
+
+**1993**  
+The Remedial Investigation report is complete and presents data and evaluates/assesses the nature and extent of contamination, and the risks from contamination at the Site.
+
+**1994**  
+OU-1: The EPA writes the Record of Decision (ROD) to select the remedy for OU-1. The selected remedy includes extraction of groundwater from wells and onsite treatment, upgrading and extending the cap over the old CPC plant landfill with groundwater monitoring, quarterly monitoring and maintenance of existing clay caps, groundwater monitoring around sanitary landfills, and calls for [institutional controls](https://www.epa.gov/superfund/superfund-glossary#i) (ICs) for land and groundwater use.
+
+OU-2: Remedial Investigation and Feasibility study (RI/FS) begins.
+
+**1995**  
+OU-1: The EPA enters into a Consent Decree (CD) with Olin Corporation to conduct response actions for OU-1.
+
+OU-2: The ecological risk assessment is completed to determine risk from contaminants of concern (COCs) to biological receptors. Benthic invertebrates, fish communities, and piscivorous birds are potentially at risk from exposure to DDT, DDD, DDE (DDTR), HCB and mercury contamination at the Site.
+
+**1996**  
+OU-1: Olin Corporation begins Remedial Design.
+
+OU-2: The Feasibility Study evaluates and analyzes potential remedial alternatives to prevent or mitigate the migration, release, or threatened release of contaminants from the Site
+
+**1998**  
+OU-1: Olin Corp. completes the Remedial Design and begins construction with EPA oversight.
+
+**2001**  
+OU-1: Construction of the groundwater treatment system is completed and commences operation. Two additional corrective action (CA) wells are installed. Quarterly reports, as specified in the ROD, submitted to the EPA to evaluate effectiveness of the selected remedy.
+
+**2002**  
+OU-2: Olin Corporation submits report indicating sedimentation is occurring in the Olin OU-2 Basin, but it is not effective at reducing contaminant concentrations.
+
+**2004**  
+OU-1: Remedial Action construction activities complete including installation of additional groundwater monitoring wells and recovery wells, installation of a centralized groundwater treatment system, upgrading the existing cover over the closed Crop Protection Chemical (CPC) landfill, and extending the cover over the area of the former CPC manufacturing facility. Olin Corporation begins long-term groundwater monitoring as well as operation and maintenance activities (O&M).
+
+OU-2: The Alabama Department of Public Health (ADPH), under a cooperative agreement with the Agency for Toxic Substances and Disease Registry (ATSDR), conducts a public health consultation concluding that although the Olin OU-2 Site does not a pose public health hazard because it lacked a completed exposure pathway, it did recommend anglers and fisherman should adhere to the no consumption advisory and should not eat fish caught from the Tombigbee River at mile 60.5.
+
+**2006**  
+OU-1: The EPA conducts its first Five-Year Review (FYR) of OU-1 to determine if the selected remedy is protective of human health and the environment. Upon completion of this review, the remedy was deemed protective and all potential exposure pathways resulting in unacceptable risk were being controlled. Institutional controls were still being implemented to restrict land and groundwater use. Semi-annual effectiveness reports were still being conducted.
+
+**2006-2009**  
+OU-2: Olin Corporation independently built a berm around the Olin Basin. The berm was designed and constructed around the basin for the purposes of flood control. A sampling program was designed to evaluate whether sediment-laden floodwater could be held which would potentially allow for sediment to deposit in the basin.
+
+Additional Remedial Investigation activities were performed, which include a bathymetric survey and installation of piezometers and micro wells for collection of groundwater, sediment, biotic tissue and surface water. Sampling is conducted in the basin to determine the fate and transport of contaminants with emphasis on methylmercury formation.
+
+Remedial technologies are screened to develop additional remedial alternatives for a Feasibility Study.
+
+**2010**  
+OU-1: RCRA Post-Closure Permit is issued.
+
+OU-2: An updated risk assessment and groundwater investigation report are conducted.
+
+**2011**  
+OU-1: The EPA conducts its second FYR and determines that the selected remedy protects human health and the environment in the short term. The groundwater treatment system continues to extract and treat contaminated groundwater at the Site and groundwater monitoring is continued. For the remedy to be protective in the long term, issues concerning the operation and efficiency of the groundwater treatment system, preliminary evaluation of the potential for vapor intrusion, and cooperation in Ciba-Geigy's (owner/operator of the adjacent Superfund Site contributing DDTR to Olin OU-2 Site) characterization of potential contamination in the Miocene (deep) aquifer should be addressed.
+
+OU-2: Revisions are made to the risk assessment and groundwater investigation reports following EPA review and comment. The risk assessment concluded that there is an unacceptable risk from HCB, DDTR and mercury-contaminated biotic tissue (e.g., fish), sediment, soil and surface water.
+
+**2012-2013**  
+OU-2: The Feasibility Study is complete and proposes to the public the preferred alternative for cleanup - an engineered sediment cap with institutional controls and monitoring to protect human health and the environment.
+
+**2014**  
+OU-1: With ADEM's approval, Olin Corporation begins a phased shutdown (completed phase 1) and removal of RCRA corrective action wells.
+
+OU-2: The EPA issues the Record of Decision (ROD) for OU-2 and selects an engineered sediment cap with institutional controls and monitoring. This remedy addresses the contamination in the Olin Basin and floodplain located next to the Tombigbee River.
+
+**2015**  
+OU-1: ADEM approves modification to the 2010 RCRA Permit allowing removal of RCRA corrective action wells CA6 and CA7 and phased shutdown of remaining corrective action wells.
+
+**2016**  
+OU-1: Under RCRA, Phase 2 of the corrective action well shutdown is initiated (CA1 and CA2). The third FYR is completed by the EPA.
+
+**2017**  
+OU-1: Phase 3 of CA well shutdown is initiated. ADEM requests further investigation into the delineation of both chlorobenzene and carbon tetrachloride east of the former sanitary landfill area. Olin Corporation submits work plan for this investigation.
+
+**2018**  
+OU-1: The EPA completes a FYR addendum and determines the remedy at the Site protects human health and the environment because the pump and treat system stabilized groundwater concentrations and institutional controls are in place to prevent human exposure to site groundwater. A vapor intrusion evaluation is also conducted and demonstrates that the vapor intrusion pathway does not pose industrial risks above the EPA’s risk management range or above the noncancer threshold. Olin stopped the pumping of wells by 2017. Semi-annual groundwater monitoring is performed. If monitoring indicates releases from this area, additional corrective action measurements are required.
+
+**2020**  
+OU-1: The EPA completed an Optimization Study for OU-1 to identify opportunities to improve remedy effectiveness. The EPA concluded that groundwater under the Site has not attained federal cleanup levels under Superfund or RCRA.
+
+**2021**  
+OU-1: The EPA completed the fourth FYR for OU-1 which found the current remedy to be protective in the short term and provided the following recommendations: 1) Evaluate the remedial strategies proposed by the EPA in 2020 and determine which strategy will be most effective and efficient to achieve groundwater cleanup goals for remaining groundwater contamination; 2) revise the 1994 ROD groundwater COCs and cleanup goals to reflect the current hazardous constituent list and Groundwater Protection Standards (GWPSs) included in the most current RCRA permit.
+
+OU-2: The EPA entered into a CD with Settling Defendants (Olin Corporation and BASF Corporation) to develop the Olin OU-2 Remedial Design and perform the Remedial Action. The Settling Defendants began fieldwork in 2021 to provide the data needed to design an engineered sediment.
+
+**2023**  
+OU-1: The EPA and ADEM notified Olin Corporation that not enough progress is being made under the Superfund remedial action and the RCRA corrective action. Groundwater monitoring wells have contaminants that are statistically stable or increasing over time that exceed MCLs/GWPSs due to continuing active sources. The EPA and ADEM instructed the Olin Corporation to develop and implement characterization plans for potential source areas.
+
+OU-2: The Settling Defendants submit the preliminary remedial design for the Olin Basin and Round Pond (features within OU-2). The Settling Defendants also submit a Focused Feasibility Study for the wastewater ditch and floodplain (features within OU-2) surrounding the Olin Basin and Round Pond.
+
+**2024**  
+The EPA, with consultation from ADEM and the community, selected the following remedy for the wastewater ditch (WWD) and floodplains:
+
+The selected remedy for the WWD is treatment of soils and sediments by in-situ (i.e., in place) stabilization and places a protective cover over the stabilized soils and sediments to prevent erosion and weathering. Soils and sediments with chemicals of concern (COCs) concentrations greater than our cleanup levels would be mixed in place with an admixture (such as portland cement, bentonite, fly ash, etc.) to keep the COCs from moving. The estimated cost is $12.4 million. If in-situ stabilization is determined by the EPA not to meet cleanup requirements, then a different remedy, such as removal with off-site disposal, may be implemented at a cost of $33 million. The selected remedy for the floodplains is an in-situ, engineered, multi-layer cap over a larger floodplain area. The estimated cost is $26.3 million.
+
+### What Is the Current Site Status?
+
+OU-1: Under the EPA's oversight, Olin Corporation performed cleanup activities and operated a groundwater recovery and treatment system until 2017. Olin currently conducts groundwater monitoring at OU-1 under the EPA Superfund program and the Alabama Department of Environmental Management (ADEM) RCRA program. In 2020, the EPA completed an Optimization Study and identified that the Site has not attained groundwater cleanup standards, but it is unlikely that the plume will migrate beyond the Site property boundary. The EPA competed an assessment of groundwater cleanup progress and has determined additional actions are warranted. Olin Corporation, under EPA direction, is anticipated to conduct further characterization of potential source areas that are causing groundwater contamination at the Site.
+
+OU-2: The EPA is providing oversight of remedial design activities performed by Olin Corporation and BASF Corporation. The Site is scheduled for cleanup activity completion by 2026-2027.
+
+Some of the activities at OU-2 (2021-2024) include:
+
+- Collection of sediment, surface water, porewater and groundwater samples throughout the floodplain, wastewater ditch and basin.
+- Collection of LiDAR and Bathymetry data and ecological surveys, i.e., wetland, terrestrial habitat and species, benthic macroinvertebrate and mussel surveys.
+- Performance of laboratory tests to better understand how easily contamination moves through the sediment into surface water and what amendments perform best to immobilize contaminants.
+- Construction of a new boat ramp to allow for large watercraft and the ability to load materials onto barges for the cleanup.
+- Construction of a 20’ x 90’ bridge crossing to facilitate access to the basin and floodplain areas.
+- Field evaluation of capping operations in the basin.
+- Development of a Focused Feasibility Study for the wastewater ditch and floodplains.
+- Issuance of a Proposed Plan for public comment showcasing the EPA's preferred alternative for the WWD and floodplains.
+- Publication of an AROD for the WWD and floodplains after consideration of public comments.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+OU-1: By monitoring groundwater, complying with RCRA requirements, enforcing institutional controls and conducting required Five-Year Reviews, the EPA, ADEM and the Site’s PRP continue to protect people from OU-1 Site contamination.
+
+OU-2: A [ROD](https://www.epa.gov/superfund/superfund-glossary#r) for OU-2 was completed in April 2014.The selected remedy is an engineered sediment cap over the Basin and round pond with institutional controls and monitoring. This remedy and the EPA selected remedy in the 2024 AROD will address the remaining contamination in the Olin Basin, wastewater ditch and floodplains located next to the Tombigbee River.
+
+A fish consumption advisory is in effect for the Tombigbee River near the Site.
+
+[Institutional controls](https://www.epa.gov/superfund/superfund-glossary#i) (ICs) and Engineering controls (ECs) called for:
+
+- OU-1: Groundwater: Prohibit the use of water from the alluvial aquifer as a source of potable water (Declaration of Restrictive Covenants, October 2001).
+- OU-1: Soil: Prohibit the use of the remediated surface areas for any purpose other than industrial use (Declaration of Restrictive Covenants, October 2001).
+- OU1: Plant Area: Prohibit digging or disturbance of caps (Olin’s Plant Excavation Permit System).
+- OU-2: ICs include revision to the existing recorded environmental-restrictive covenant to include land use and activity restrictions in the remediated OU-2 areas. ADEM has posted fish advisory signs along the Tombigbee River to inform the public of contamination in fish.
+- Site-Wide: These ICs help prevent unacceptable exposures to humans. ECs consist of warning signs, fencing (some of which are already present at OU-1 and OU-2), and continuation of security measures. OU-2 is currently fenced along the west, north, and southwest boundaries. Existing ECs on the Olin property deter unauthorized access and prevent disturbance of the OU-2 remediation areas.
+
+### Sampling and Monitoring
+
+By monitoring groundwater, complying with RCRA requirements, enforcing institutional controls and conducting required Five-Year Reviews, the EPA, ADEM and the site’s PRP continue to protect people and the environment from OU-1 Site contamination.
+
+The Settling Defendants began fieldwork in the fall of 2021 to provide the data needed to design an engineered cap. Design activities are anticipated to continue through 2026.
+
+The Alabama Department of Public Health issued a [fish consumption advisory](http://www.alabamapublichealth.gov/tox/assets/2024_fishadvisory.pdf) for the area of Tombigbee River near the Site that states that people, including children and pregnant women, should limit meals of largemouth bass to two meals per month.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of the EPA’s mission to protect human health and the environment. When warranted, the EPA will take civil or criminal enforcement action against violators of environmental laws.

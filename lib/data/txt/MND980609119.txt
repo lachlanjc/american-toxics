@@ -1,27 +1,34 @@
-WASTE DISPOSAL ENGINEERINGANDOVER, MN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 114-acre Waste Disposal Engineering site is in Andover, Minnesota. The site includes a 76-acre landfill that operated from 1968 to 1983, accepting around 2.4 million cubic yards of municipal, commercial and industrial wastes. Additionally, from 1972 to 1974, waste with higher concentrations of hazardous waste was disposed into a pit in the landfill. These harmful materials contaminated the groundwater. Although area residents rely on groundwater for their drinking water source, the water supply wells were not impacted by the landfill. Following cleanup, EPA took the site off the National Priorities List in 1996. Operation and maintenance activities are ongoing under the Minnesota Pollution Control Agency’s Closed Landfill Program. Top of Page
-What Has Been Done to Clean Up the Site?
- The site was addressed through federal, state and potentially responsible party actions. To address contamination at the site, MPCA constructed a groundwater pump and treat system to capture contaminated groundwater; installed a clay wall around the hazardous waste pit; added a landfill gas collection system; and improved the landfill cap. Construction was completed in 1995. EPA removed the site from the NPL in 1996. MPCA subsequently added an active gas collection and treatment system, updated the groundwater treatment system, and added a treatment system for vapors in the hazardous waste pit. MPCA then removed the hazardous waste pit and underlying contaminated soils in 2019. MPCA currently manages the site as part of its Closed Landfill Program which continues to maintain the landfill cap and operate the landfill gas and groundwater capture and treatment systems. 
-Top of Page
-What Is the Current Site Status?
-EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment. EPA completed the sixth five-year review of the site. The 2023 report concluded that the remedy is currently functioning as intended and continues to be protective of human health and environment in the short term.
-Sixth Five-Year Review Report (Signed) - Waste Disposal Engineering - 2023 (pdf) (58 pp, 7.74MB, About PDF) In 2021, the MPCA found private wells south of the WDE Landfill site impacted with 1,4-dioxane and per- and polyfluoroalkyl substances (PFAS). MPCA has been sampling the private wells and providing bottled water to residents in the Red Oaks Neighborhood with 1,4-dioxane above the Minnesota’s Health Risk Level of 1 micrograms per liter (ug/L). While MPCA was securing funding to extend municipal water to the affected area in the Red Oaks neighborhood, it was discovered that another neighborhood, Eastbrook Terrace, had private wells impacted with 1,4-dioxane. The source(s) of the 1,4-dioxane and PFAS in groundwater have not been determined at this time; however, two potential sources in the immediate vicinity of these neighborhoods include the WDE Closed Landfill and the South Andover Superfund sites. MPCA is the lead agency conducting investigations in and surrounding the WDE Close Landfill Site. Information regarding the investigations at the WDE Landfill can be found at the MPCA’s Groundwater Atlas website. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup. For more background, see Institutional Controls. Top of Page
-Enforcement Information
-Landfill Cleanup Agreement (PDF) (25pp, 980KB) October 1995 
-Top of Page
+### Background
+
+The 114-acre Waste Disposal Engineering site is in Andover, Minnesota. The site includes a 76-acre landfill that operated from 1968 to 1983, accepting around 2.4 million cubic yards of municipal, commercial and industrial wastes. Additionally, from 1972 to 1974, waste with higher concentrations of hazardous waste was disposed into a pit in the landfill. These harmful materials contaminated the groundwater. Although area residents rely on groundwater for their drinking water source, the water supply wells were not impacted by the landfill. Following cleanup, EPA took the site off the National Priorities List in 1996. Operation and maintenance activities are ongoing under the Minnesota Pollution Control Agency’s Closed Landfill Program.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed through federal, state and potentially responsible party actions.
+
+To address contamination at the site, MPCA constructed a groundwater pump and treat system to capture contaminated groundwater; installed a clay wall around the hazardous waste pit; added a landfill gas collection system; and improved the landfill cap. Construction was completed in 1995. EPA removed the site from the NPL in 1996. MPCA subsequently added an active gas collection and treatment system, updated the groundwater treatment system, and added a treatment system for vapors in the hazardous waste pit. MPCA then removed the hazardous waste pit and underlying contaminated soils in 2019.
+
+MPCA currently manages the site as part of its Closed Landfill Program which continues to maintain the landfill cap and operate the landfill gas and groundwater capture and treatment systems.
+
+### What Is the Current Site Status?
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment. EPA completed the sixth five-year review of the site. The 2023 report concluded that the remedy is currently functioning as intended and continues to be protective of human health and environment in the short term.  
+[Sixth Five-Year Review Report (Signed) - Waste Disposal Engineering - 2023 (pdf)](https://semspub.epa.gov/src/document/05/981578) (58 pp, 7.74MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+In 2021, the MPCA found private wells south of the WDE Landfill site impacted with 1,4-dioxane and per- and polyfluoroalkyl substances (PFAS). MPCA has been sampling the private wells and providing bottled water to residents in the Red Oaks Neighborhood with 1,4-dioxane above the Minnesota’s Health Risk Level of 1 micrograms per liter (ug/L). While MPCA was securing funding to extend municipal water to the affected area in the Red Oaks neighborhood, it was discovered that another neighborhood, Eastbrook Terrace, had private wells impacted with 1,4-dioxane. The source(s) of the 1,4-dioxane and PFAS in groundwater have not been determined at this time; however, two potential sources in the immediate vicinity of these neighborhoods include the WDE Closed Landfill and the [South Andover](http://www.epa.gov/superfund/south-andover) Superfund sites.
+
+MPCA is the lead agency conducting investigations in and surrounding the WDE Close Landfill Site. Information regarding the investigations at the WDE Landfill can be found at the [MPCA’s Groundwater Atlas website](https://webapp.pca.state.mn.us/cleanup/search/superfund?siteId=1458-AREA0000000004).
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.  
+  
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+### Enforcement Information
+
+- [Landfill Cleanup Agreement](http://www.epa.gov/Region5/cleanup/wde/pdfs/wde-cleanup-1995.pdf) (PDF) (25pp, 980KB) October 1995

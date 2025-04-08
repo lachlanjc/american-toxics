@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 50-acre MIG/DeWane Landfill site is located near Belvidere in Boone County, Illinois. It consists of a 47-acre landfill and leachate impoundment system operated from 1969 until its abandonment in 1988. The landfill received household and municipal wastes as well as industrial wastes, including paint sludge, volatile organic chemicals (VOCs), asbestos and liquids containing heavy metals. In 1984, EPA inspected the site and determined that landfill waste and leachate were contaminating site soil, groundwater and sediment, and that the potential existed for surface water contamination and direct exposure of humans to contaminants. Site cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through PRP actions under state and federal oversight.  
+
+### What Is the Current Site Status?
+
+EPA selected the site’s long-term remedy in March 2000. It included a multilayer landfill cap, active and passive management of landfill gas, a localized leachate collection system, removal of leachate and sediments from the leachate surface impoundment, and monitored natural attenuation of groundwater. EPA updated the remedy in August 2013, allowing improvements to the existing landfill cover rather than installing a new cover system. The improvements included placing additional compacted clay cover on the landfill’s side slopes. The improved and graded areas would receive a minimum of six inches of topsoil and be seeded to establish and sustain vegetative growth. The site’s potentially responsible parties (PRPs) are waiting for comments from Illinois EPA before continuing with design work for the rest of the remedy. The PRPs also installed gas wells and vents at the landfill, and monitor groundwater periodically.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Soil, groundwater, sediment, leachate, and landfill gas are contaminated by VOCs and semi-VOCs, pesticides, polychlorinated biphenyl (PCBs), and inorganic (metal) compounds.
+
+### Sampling and Monitoring
+
+### Emergency Response and Removal
+
+Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Actions in 1989 and 1990 by Illinois EPA and EPA removed 155,000 gallons of leachate from the site. Interim response actions from June 1991 to February 1993 included fencing the entire site, removing 50,000 gallons of leachate-contaminated ponded water from the top of the landfill and 240,000 additional gallons of leachate from the surface impoundment, excavating 3,500 cubic yards of off-site leachate-contaminated soil, an interim cap, placement of topsoil and seeding, and temporary erosion controls.
+
+In 1999, landfill gas monitoring wells detected landfill gas (methane) in the soil borrow pit. Elevated levels of landfill gas were also detected in a few homes in the Wycliffe Estates subdivision west of the landfill. In April and May 1999, gas extraction wells, an interceptor trench and a flare system were put in to address landfill gas that was moving off site. The system significantly reduced landfill gas levels within a month's time. No landfill gas has been detected in the subdivision since.

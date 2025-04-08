@@ -1,19 +1,23 @@
-BEE CEE MANUFACTURING CO.MALDEN, MO 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Bee Cee Manufacturing Company occupied the site from 1964 until 1983 and manufactured aluminum moldings for storm windows and doors. The window and door moldings were cleaned and etched in preparation for application of a finishing coat of paint. A series of five open vats were used to hold cleaning, etching and rinsing fluids that included an acid. Waste liquid from the process was allowed to flow through a series of pipes directly onto the surface soil directly north of the east end of the facility. After cleanup was completed, Operations & Maintenance and monitoring activities are on-going.   Top of Page
-What Has Been Done to Clean Up the Site?
-In 1992, the EPA removed contaminated soil from the site. The remedy selected included monitored natural attenuation, institutional controls to limit future land uses to industrial uses, and constructing several monitoring wells. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility and volume or concentration of contaminants in groundwater. Cleanup took place from 1999 to 2010. Annual sampling of the monitoring wells is ongoing. The Missouri Department of Natural Resources (MoDNR) is the lead agency for the site, and the EPA is the support agency. The remedy at the site currently protects human health and the environment because the groundwater plume is not migrating and institutional controls are in place that prevent groundwater use and limit industrial and commercial. Top of Page
-What Is the Current Site Status?
-The site is being addressed through state and potentially responsible party (PRP) actions. The regulatory lead for the site is the Missouri Department of Natural Resources. The state is responsible for operation and maintenance activities, the EPA acts in an advisory role. The EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by the EPA and that remedy protectiveness cannot be determined at the site until further information about soil contamination is obtained. In 2010, it was determined that there was no evidence of groundwater contamination migration. Surface soil testing showed no threat to human health and the environment. While contamination still remains at depths in the soil, monitoring continues for the natural attenuation remedy. The remedy at the site currently protects human health and the environment because the groundwater plume is not migrating and institutional controls are in place that prevent groundwater use and limit industrial and commercial use. The MoDNR will still conduct groundwater sampling annually.   Top of Page
-Sampling and Monitoring
+### Background
+
+The Bee Cee Manufacturing Company occupied the site from 1964 until 1983 and manufactured aluminum moldings for storm windows and doors. The window and door moldings were cleaned and etched in preparation for application of a finishing coat of paint. A series of five open vats were used to hold cleaning, etching and rinsing fluids that included an acid. Waste liquid from the process was allowed to flow through a series of pipes directly onto the surface soil directly north of the east end of the facility. After cleanup was completed, Operations & Maintenance and monitoring activities are on-going.
+
+### What Has Been Done to Clean Up the Site?
+
+In 1992, the EPA removed contaminated soil from the site. The remedy selected included monitored natural attenuation, institutional controls to limit future land uses to industrial uses, and constructing several monitoring wells. Natural attenuation describes a variety of in-place processes that, under favorable conditions, act without human intervention to reduce the mass, toxicity, mobility and volume or concentration of contaminants in groundwater. Cleanup took place from 1999 to 2010. Annual sampling of the monitoring wells is ongoing. The Missouri Department of Natural Resources (MoDNR) is the lead agency for the site, and the EPA is the support agency.
+
+The remedy at the site currently protects human health and the environment because the groundwater plume is not migrating and institutional controls are in place that prevent groundwater use and limit industrial and commercial.
+
+### What Is the Current Site Status?
+
+The site is being addressed through state and potentially responsible party (PRP) actions. The regulatory lead for the site is the Missouri Department of Natural Resources. The state is responsible for operation and maintenance activities, the EPA acts in an advisory role.
+
+The EPA has conducted several Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by the EPA and that remedy protectiveness cannot be determined at the site until further information about soil contamination is obtained.
+
+In 2010, it was determined that there was no evidence of groundwater contamination migration. Surface soil testing showed no threat to human health and the environment. While contamination still remains at depths in the soil, monitoring continues for the natural attenuation remedy.
+
+The remedy at the site currently protects human health and the environment because the groundwater plume is not migrating and institutional controls are in place that prevent groundwater use and limit industrial and commercial use. The MoDNR will still conduct groundwater sampling annually.
+
+### Sampling and Monitoring
+
 The MoDNR will continue to sample groundwater monitoring wells annually.
-Top of Page

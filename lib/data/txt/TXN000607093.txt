@@ -1,2 +1,38 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The U.S. Oil Recovery (USOR) Superfund Site (Site) is comprised of two properties which are located in Pasadena, Texas, north of Highway 225. The property located at 400 N. Richey St, is an inactive used oil processor and wastewater treatment facility that began operations in 2002. The MCC property, located at 200 N. Richey Street, was a former wastewater treatment plant owned by the City of Pasadena from approximately from 1945 until it was acquired by USOR in January 2009.
+
+**National Priorities Listing (NPL) History**  
+NPL Inclusion Proposal Date: September 16, 2011  
+NPL Inclusion Final Date: September 18, 2012  
+HRS Score: 50.00
+
+For more information onthe EPA Removal Actions please visit the website: [www.epaosc.org/USOR-PRP](http://www.epaosc.org/USOR-PRP)
+
+### What Has Been Done to Clean Up the Site?
+
+**Completed Site-Stabilization and Removal Activities**
+
+Due to a threat of uncontrolled releases of hazardous substances into Vince Bayou, EPA began response actions in 2010 to stabilize the site. EPA removed large quantities of benzene contaminated sludge and approximately 833,500 gallons of contaminated storm water. EPA identified PRPs who previously sent wastes to the site for disposal or treatment. On August 25, 2011, the PRP Group entered into an AOC with the EPA to take over stabilization activities. The completed activities include: removal and disposal of solid and liquid waste from two frac tanks and more than 230 roll-off containers; removal/disposal and safe demolition of the bioreactor, a large, contaminated aboveground concrete structure on the property; removal/disposal of more than 1,150 containers from within the USOR warehouse; characterization and removal of liquids and solids from over 30 aboveground storage tanks; inventory and characterization of residual liquids and solids in former processing equipment; and final removal of remaining residual wastes from the aboveground storage tanks and former process equipment. Other additional activities included site security and video monitoring, regular site inspections and pump down/removal of liquids as necessary to prevent releases from containment areas and other structures.
+
+A Removal Action AOC for the 400 N. Richey Street Property was initiated in July 2016. The removal activities at 400 N. Richey included removal of sludge/solids (mostly hazardous) and liquid wash water from the above ground storage tanks and process equipment. The storage tanks and process equipment were also removed. The Removal Action AOC was amended in August 2018 to include a Hurricane Preparedness effort at the 200 N. Richey Street Property. Removal activities under the Hurricane Preparedness effort included removal of liquids and solids from four low lying wastewater units to prevent potential impact due to a hurricane, emptying and pressure washing the four subsurface containment units, filling and sealing one of the units with concrete and allowing the other three to fill with stormwater. Post removal storm water sampling from the units in 2018 and 2019 showed accumulated storm water would not impact the environment.
+
+### What Is the Current Site Status?
+
+**Current Stabilization and Removal Activities**
+
+U.S. Oil Recovery (USOR) site is located at 400 N. Richey Street and at 200 N. Richey Street, Pasadena, TX. In accordance with the U.S. Environmental Protection Agency (EPA)-approved work plans, remediation contractors hired by several Potentially Responsible Parties (known as the “PRP Group”) have conducted stabilization activities and completed a series of removal actions at the site. As part of the stabilization efforts and removal action activities, approximately 6.7 million gallons of liquid and approximately 1.29 million gallons of sludge have been removed and transported off-site.
+
+The PRP Group continues stabilization efforts as needed at the Site, under EPA oversight, to protect the public and Vince Bayou. In preparation for Tropical Storm Marco and Hurricane Laura, the PRP Group conducted pump-downs from wastewater treatment plant units to minimize or mitigate potential impact from significant weather. Due to minimal wind and rainfall, no site impact from the storms was observed.
+
+In July-August 2020, EPA began discussions with the PRP Group to address the remaining above ground waste at the 200 N. Richey property.
+
+**Current Investigation Activities**
+
+An administrative settlement between the EPA, the PRP Group and Bayer Crop Science, Inc. was signed on May 14, 2015. This Administrative Order on Consent (AOC) is for the preparation and performance of a Remedial Investigation and Feasibility Study (RI/FS) for the 400 N. Richey Street property, within the USOR Superfund Site. The RI/FS field work began in May 2016 and is ongoing. It is currently planned for completion in December 2022.
+
+EPA initiated preparations for an RI/FS at the 200 N. Richey Street property, known as Operable Unit 2 (OU-2), in August 2020. EPA will continue the RI/FS for OU-2 unless and until a new AOC is signed with the PRP Group to take over such activities.
+
+### Enforcement Information
+
+[Administrative Settlement Agreement and Order on Consent for Remedial Investigation May 2015](https://semspub.epa.gov/src/document/06/500005243)

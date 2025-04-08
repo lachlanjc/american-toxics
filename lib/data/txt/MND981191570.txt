@@ -1,2 +1,27 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Dakhue Sanitary Landfill covers 28 acres of an 80-acre property in Dakota County, Minnesota. From 1971 to 1988, a privately owned and state-permitted sanitary landfill operated on site. The landfill was used for the disposal of mixed municipal and commercial waste and small amounts of industrial waste. Facility operations contaminated groundwater with hazardous chemicals. Following cleanup, EPA took the site off the Superfund program’s National Priorities List (NPL) in 1995. The Minnesota Pollution Control Agency (MPCA) currently oversees operation and maintenance of the site’s remedy under its Closed Landfill Program.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was listed on the National Priorities List in 1990. Shortly thereafter, responsible parties completed interim erosion control measures, filled in areas where garbage was exposed, and re-directed surface water runoff into catch basins. Under the supervision of the MPCA, responsible parties also conducted a remedial investigation and feasibility study (RI/FS).
+
+In 1991, the MPCA and EPA signed a cleanup decision for the landfill. Required actions included fencing and capping the landfill, installing a passive gas control system, and monitoring air and groundwater. In 1992, the agencies modified the decision to make a change to the cover design. In 1993, MPCA signed, and EPA concurred with, a remedy decision for groundwater which required ongoing monitoring of natural attenuation, and additional actions if that was not sufficient. Construction for the site was completed in 1994. In 1995, the site was entered into MPCA’s Closed Landfill Program and deleted from the National Priorities List.
+
+### What Is the Current Site Status?
+
+The cleanup of the Dakhue Sanitary Landfill consisted of construction of a cap over the site, an active gas collection and treatment system, and groundwater monitoring. EPA removed the site from the National Priorities List in 1995. In 2003, the Minnesota Pollution Control Agency (MPCA) made a major landfill upgrade, adding active collection of landfill gas with combustion in an enclosed flare. Under its Closed Landfill Program, MPCA continues to operate the gas control system, to maintain the landfill cap, and to monitor groundwater.
+
+The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment. In 2019, EPA conducted the fifth Five-Year Review of the Dakhue Sanitary Landfill. The 2019 Five-Year Review report concluded that the remedy for the site currently protects human health and the environment because the landfill cap is intact, landfill gas is under control, and the groundwater plume is under control and continuing to attenuate. Exposure pathways that could result in unacceptable risks are being controlled. Existing site uses are consistent with the objectives of the land, and groundwater-use restrictions and institutional controls remain in place and are effective.
+
+You can review the most recent Five-Year Review report at the following link:
+
+[Fifth Five Year Review Report - Dakhue Sanitary Landfill - 2019 (PDF)](https://semspub.epa.gov/src/document/05/945558) (46 pp, 1.55MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+MPCA has developed a Landfill Management Plan for the site. In 2004, at MPCA's recommendation, the Hampton Township Board change the zoning of the site property to Closed Landfill Restricted and amended local ordinances to increased setback zones for additional protection.

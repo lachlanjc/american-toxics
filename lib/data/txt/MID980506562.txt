@@ -1,2 +1,49 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Metamora Landfill site is a closed landfill located in Metamora Township, Michigan. It occupies about 25 acres of land on a 160-acre parcel. The landfill began operations in 1955 as a privately owned, unregulated open dump. In 1969, the area was upgraded to meet then-existing standards and to receive general refuse. The landfill received industrial municipal waste until it closed in 1980. Waste disposal operations contaminated soil and groundwater with hazardous chemicals. “Groundwater” is an environmental term for underground supplies of fresh water.
+
+Groundwater flowing from the landfill is contaminated. Those contaminants include .
+
+### What Has Been Done to Clean Up the Site?
+
+EPA completed a [seventh five-year review (pdf)](https://semspub.epa.gov/work/05/995159.pdf) (7.37MB) of the Metamora Landfill in September 2024. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed onsite – to make sure the cleanup continues to protect people and the environment.
+
+In September 2021, EPA issued an [Explanation of Significant Differences(PDF)](https://semspub.epa.gov/src/document/05/968793) (4.31 MB) to document the addition of 1,4-dioxane as a groundwater contaminant of concern for Operable Unit 2 of the Metamora Landfill Superfund site. The ESD was issued because of the discovery of 1,4-dioxane in site groundwater during a January 2006 sampling event and a subsequent change in the state of Michigan's cleanup criterion for 1,4-dioxane.The Metamora site cleanup construction was completed in 2001 and included excavation and off-site incineration of PCB-contaminated material from portions of the site referred to as Drum Area 1 and Drum Area 4. It also included consolidating marginally contaminated soil, capping, and relying on natural processes to decrease levels of contaminants in soil and groundwater. Operation and maintenance are ongoing. Read the [Records of Decision (RODs)](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0502819#FeatDocs) for the different operable units. You can read hard copies of the documents at [the site’s public information repository](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.docdata&id=0502819#Fact).
+
+More information:
+
+- [Milestones that have been achieved at the site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0502819#Milestone)
+- [Cleanup schedule for each of the site’s operable units](http://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0502819#Schedule)
+- [A Citizen's Guide to Excavation of Contaminated Soil (PDF) (EPA 542-F-12-007)](https://clu-in.org/download/Citizens/a_citizens_guide_to_excavation_of_contaminated_soil.pdf) (2 pp, 655 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [A Citizen’s Guide to Capping (PDF) (EPA 542-F-12-004)](https://clu-in.org/download/Citizens/a_citizens_guide_to_capping.pdf) (2pp, 840 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+- [A Citizen's Guide to Monitored Natural Attenuation (PDF) (EPA 542-F-12-014)](https://clu-in.org/download/Citizens/a_citizens_guide_to_monitored_natural_attenuation.pdf) (2 pp, 878K, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### What Is the Current Site Status?
+
+The potentially responsible parties (PRPs) for the site, Metamora Landfill Settling PRP Group (MLSPG), are conducting a groundwater investigation focused on the extent of 1,4-dioxane contamination. In 2020, studies included the potential presence of [polyfluoroalkyl substances (PFAS)](https://www.epa.gov/pfas) chemicals, but all of the sample results were below applicable criteria. More information on this study is available on the [Metamora Landfill Portal of the Michigan PFAS Action Response Team](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michigan.gov%2Fpfasresponse%2F0%2C9038%2C7-365-86511_95645-535339--%2C00.html&data=04%7C01%7CR5WebSupport%40epa.gov%7Cb1034138c6e542a58c4408d97464afc8%7C88b378b367484867acf976aacbeca6a7%7C0%7C0%7C637668798054024528%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=YFmETVSlZxGktvEUbOpizC4kGmadFmedQiF9HqFxvXA%3D&reserved=0).
+
+In September 2024, EPA completed a review of past cleanup actions at the Metamora Landfill site as is required by law every five years. The review concluded that response actions at the site are overall in accordance with the remedy selected by EPA and that in the short-term the remedy continues to be protective of human health and the environment. As a result of the review, one recommendation is to further evaluate the site groundwater contamination, particularly , to determine if monitored natural attenuation of the contaminated groundwater is still an effective remedy for the site. The 2019 five-year review also stated the need to evaluate whether local restrictions are in place to effectively prevent access to contaminated groundwater. While EPA oversees the current additional groundwater investigation, alternate water supplies are being offered to all residential properties with affected groundwater.
+
+[Seventh Five Year Review Report – Metamora Landfill, 2024 (pdf)](https://semspub.epa.gov/src/document/05/949620) (7.37MB)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Environmental Covenants (ECs) at the landfill portion of the site prohibit development, restrict access, and prohibit installation and use of groundwater wells. Currently, La Peer County Health restricts the installation of new residential wells at properties downgradient of the landfill with impacted groundwater. EPA will be working with La Peer County to put permanent restrictions in place.
+
+For a summary of planned and/or implemented institutional controls, see Table 2 of the [Seventh Five Year Review Report – Metamora Landfill, 2024 (pdf)](https://semspub.epa.gov/src/document/05/949620) (7.37MB)
+
+### Sampling and Monitoring
+
+The Metamora Landfill PRP Settling Group (MLSPG) conducts groundwater sampling and monitoring annually as a part of EPA’s evaluation of the site's groundwater remedy, Monitored Natural Attenuation. Since 2016, the groundwater investigation has expanded to more accurately assess a groundwater plume with 1,4-dioxane contamination. In 2020, the Michigan Department of Environment, Great Lakes, and Energy began overseeing MLSPG's investigation into the potential presence of polyfluoroalkyl substances (PFAS) chemicals in the groundwater.
+
+Find annual monitoring reports in the Metamora Landfill - [Web Collection](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0502819&doc=Y&colid=39018&region=05&type=SC)
+
+### Enforcement Information
+
+The Metamora Landfill PRP Settling Group (MLSPG) is implementing the remedy at the site and conducting the current groundwater investigation.
+
+Legal and Decision documents are available in the site [Administrative Record collection](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.ars&id=0502819&doc=Y&colid=4954&region=05&type=AR).

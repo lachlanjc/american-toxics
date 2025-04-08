@@ -1,2 +1,47 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The 3,452-acre McClellan Air Force Base (Ground Water Contamination) site was established in 1936 and operated as an Air Force Logistics Command Base until 2001. Its primary mission included management, maintenance and repair of aircraft, electronics and communication equipment. The operation and maintenance of aircraft have involved the use, storage and disposal of hazardous materials, including industrial solvents, caustic cleansers, paints, metal plating wastes, low-level radioactive wastes and a variety of fuel oils and lubricants. The Air Force has identified 326 waste areas of known and suspected contamination. The site’s long-term cleanup is ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+This site is being addressed primarily through federal actions directed by the Air Force Real Property Agency (formerly known as the Air Force Base Conversion Agency) and overseen by EPA Region 9, the California State Department of Toxic Substances Control (DTSC), and the California Regional Water Quality Control Board (RWQCB). The Air Force, EPA and state agencies work together under the terms of a Federal Facilities Agreement (FFA) signed in 1990.
+
+As part of the privatized cleanup approach, the 1990 FFA has been amended three times (in 2007, 2009 and 2011) to allow McClellan Business Park (MBP) to assume responsibility for cleanup of 1,190 acres of the site through Findings of Suitability for Early Transfer (FOSET). The FFA Amendments further provide that EPA, in consultation with state regulators, will select response actions for the privatized parcels while MBP conducts cleanup actions under the oversight of EPA, DTSC and RWQCB. If MBP should fail to fulfill its cleanup responsibilities, the Air Force will resume its responsibilities under the original 1990 FFA.
+
+The environmental restoration program at McClellan is one of the largest efforts in the Air Force with some $533 million spent so far and another $94 million anticipated to be spent before the cleanup is complete. In total, the Air Force identified 325 Installation Restoration Program sites at McClellan. The majority of restoration work is complete with remedies in place tailored by site, contaminant type, and intended use. They include:
+
+•Groundwater pump and treat
+
+•Soil vapor extraction
+
+•Dig and haul (of contaminated soil)
+
+•Protective capping
+
+•Institutional controls (land use restrictions)
+
+Critical to this success has been the close working relationships between the U.S. EPA, Air Force, the California Department of Toxic Substances Control, the Central Valley Regional Water Quality Control Board, Sacramento County, and McClellan Business Park.
+
+### What Is the Current Site Status?
+
+Two different approaches address site contamination: the traditional CERCLA approach and the privatized cleanup approach. The traditional CERCLA approach at McClellan Air Force Base (AFB) involves the Air Force investigating areas, determining the nature and extent of contamination in soil and groundwater, evaluating the risk, preparing a Record of Decision (ROD) to document the selected remedial action, and then designing and conducting the remedial actions. Most areas follow this approach.
+
+The initial strategy at McClellan AFB was to investigate and clean up soil sites by geographic areas. The Air Force divided McClellan AFB into operable units (OUs) – OUs A through H and a groundwater OU – to facilitate geographically organized cleanup but this process has been abandoned. Currently, site cleanup is organized according to similar cleanup approaches or type of contamination.
+
+Initial Actions: A number of remedial actions have been taken at the facility. Early actions addressed some soil and landfill sites with removals and caps, while other early actions addressed groundwater plumes with a gradually expanding groundwater extraction and treatment system enhanced by numerous soil vapor extraction (SVE) systems.
+
+Entire Site: A total of 16 Records of Decision (RODs) have been signed to date with the latest, FOSET 1 Group 4, signed in September 2019.
+
+Cleanup Progress
+
+Today, McClellan’s restoration program is in the final stages of completion. The groundwater cleanup program includes a network of 85 extraction wells across the base. These wells send approximately 1,450 gallons per minute of contaminated water to the groundwater treatment plant, which cleans and discharges it into Magpie Creek. There are also some 537 monitoring wells on and off the former base.
+
+More than 61,000 pounds of contaminants have been removed from the groundwater at McClellan. This includes VOCs, as well as non-volatile organic compounds, such as hexavalent chromium. Groundwater contamination at McClellan Park is contained, and the treatment system is steadily reducing the size and concentration of the plumes. While the majority of contaminants have been removed, it is anticipated that the pump and treat system will run for about another 30 years at McClellan. Groundwater above drinking water standards.
+
+The groundwater restoration program received a big boost with the implementation of soil vapor extraction systems (SVE) in 1993. These systems remove VOCs in the soil above the groundwater in the layer called the vadose zone. SVE systems vacuum vaporized contaminants from the soil and pump them to a treatment plant for capture/destruction. Removing VOCs prior to migration to groundwater is quicker and less costly than groundwater restoration. To date, approximately 1.7 million pounds of contaminants have been removed using SVE at McClellan. At the height of the SVE program, 14 of these treatment plants were in operation.
+
+The Air Force, in consultation with the USEPA, selected the construction of a Consolidation Unit (CU) as an integral element in the overall cleanup strategy at the former McClellan AFB. The consolidation of waste materials at an on-base location provided acceptable risk reduction at costs nearly an order of magnitude less that off-site disposal.
+
+This CU was constructed in accordance with RCRA Subtitle C and CCR Title 22 standards. It will be the final repository of up to 360,000 cubic yards of waste materials and contaminated soil excavated from all contaminated sites on the former Air Force Base. The CU offers the best balance of protection of human health and the environment and cost. By consolidating the waste into a common location on the facility, parcels with long-term land use restrictions are now available for reuse. The CU concept reduces the amount of land subject to future land use controls, at minimal cost to the taxpayer.
+
+Once the consolidation unit is full of soil it will be covered with an engineered cap with protective layers, creating a completely contained area where the soil will be safely stored in perpetuity. The state-of-the-art unit is the size of seven football fields--five stories deep. The combination of onsite disposal in the consolidation unit and capping saves taxpayers approximately $383 million dollars as compared to the cost of excavation and offsite disposal.

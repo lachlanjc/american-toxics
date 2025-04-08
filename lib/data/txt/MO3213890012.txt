@@ -1,2 +1,31 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Lake City Army Ammunition Plant (LCAAP) is a 3,935-acre government owned-contractor operated small arms manufacturing facility located between Independence and Blue Springs, Missouri, approximately 20 miles east of Kansas City, Missouri. Operations at the LCAAP include manufacturing, storing, assembling, and test firing of small caliber ammunition. Prior to facility construction in 1941, the property was utilized for agricultural purposes. LCAAP has operated continuously since 1941 except for one five-year period from 1946 to 1950 when it was placed on standby status between World War II and the Korean War.
+
+Historical Army operations at LCAAP have resulted in the release of hazardous substances to groundwater, surface waste, and soils. Contaminants at the site include chlorinated volatile organic compounds (CVOC), polycyclic aromatic hydrocarbons (PAH), explosives, perchlorate, heavy metals, and depleted uranium. LCAAP was proposed for addition to the National Priority List on October 15, 1984. The listing became final on July 22,1987. An Interagency Agreement, also known as a Federal Facility Agreement, between the U.S. Army, the Missouri Department of Natural Resources and the U.S. Environmental Protection Agency was finalized on November 28, 1989.
+
+### What Has Been Done to Clean Up the Site?
+
+Remedial activities have been divided into four operable units (OUs)—the Installation-wide OU (OU-1), Area 18 OU (OU-2), the Northeast Corner OU (OU-3), and Area 10 (OU-4). Building 83 was previously referenced as an additional OU, OU-5, but is now included in the scope of OU-1. The four OUs encompass 35 Areas of Concern (AOC). A brief description of activities conducted within each OU follows.
+
+OU-1 (Installation-wide OU): This OU encompasses 30 AOCs with contaminants of concern (COC) including chlorinated volatile organic compounds (CVOC), semivolatile organic compounds (SVOC), metals, asbestos, and petroleum tar. A Record of Decision (ROD) was signed on March 12, 2008. The selected remedies included Land Use Controls (LUC), vegetative covers, excavation and off-site disposal, monitored natural attenuation, operation of production well 17-AA, and enhanced reductive dechlorination. A Remedial Action Completion Report (RACR) was approved in 2010. Current activities include annual LUC inspections and continued groundwater sampling. The inspection and groundwater sampling activities are summarized in the Annual Operation, Maintenance, and Groundwater Monitoring reports.
+
+OU-2 (Area 18): This OU encompasses 167 acres in the north-central portion of the site where waste grease and oil, chlorinated solvents, and Resource Conservation and Recovery Act (RCRA) solid wastes (some of which were hazardous wastes) were disposed into shallow pits adjacent to Ditch B between the early 1950s and mid-1970s. COCs include CVOCs, benzene, aroclor 1254, and metals (antimony, arsenic, barium, and lead). A ROD was signed on April 22, 1999, that selected remedies for soil and groundwater contamination. Subsequent investigations found the extent of groundwater contamination to be much greater than previously thought. For this reason, the remedy was re-evaluated and a ROD Amendment was issued and signed on September 26, 2007.Current activites include periodic groundwater sampling, annual LUC inspections, and continued remedy optimization.
+
+OU-3 (Northeast Corner OU): This OU encompasses three main areas (Areas 11, 16 and 17) and 14 subareas.The primary COCs for this OU include metals and CVOCs. An interim ROD was signed September 29, 1998. The purpose of the interim ROD was to begin remediating groundwater contamination while additional investigations were undertaken to support a final remedy. The final ROD, which selected individual remedies for each AOC, was signed September 27, 2007. A Remedial Action Completion Report was finalized on December 4, 2018, for AOCs 16A, 16C, 16D, 17C, and the Former RCRA Areas. Current activities include periodic groundwater sampling, annual LUC inspections, and continued remedy optimization.
+
+OU-4 (Area 10 OU): This OU encompasses three acres with an active firing range in the east-central portion of LCAAP. The area was previously used to dispose of waste materials from firing ranges, including depleted uranium rounds from the Area 27 bullet catchers. A partial source removal was conducted in 1998 and 1999 and a non-time crticial removal action was undertaken in 2008 to address risk from lead and depleted uranium. A ROD was signed December 28, 2009, that selected the remedial alternative of LUCs. Current activities include annual LUC inspections.
+
+### What Is the Current Site Status?
+
+Current activities include operation of in-place remedy systems and continued optimization. Semiannual inspections are held to ensure Land Use Controls remain in place and are effective. Periodic groundwater monitoring continues for remedies encompassing groundwater media.
+
+The Fourth Five-Year Review was completed on September 4, 2020. The purpose of the Five-Year Review was to evaluate the implementation and performance of site remedies in order to determine if they are or will be protective of human health and the environment. Five-Year Reviews are required for any remedy that results in any hazardous substance, pollutant, or contaminant remaining at the site above levels that allow for unlimited use and unrestricted exposure. The fourth Five-Year Review identified several remedy issues, which are being addressed by the Army. The Army has submitted a Explanation of Significant Differences (ESD), Site-Wide Cleanup Goals in November 2022 (OU1-OU3) to document revision of Cleanup Goals to address the issues and recommendations of the Fourth Five-Year Review.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The Army restricts land use at LCAAP through multiple mechanisms. Semiannual site inspections ensure that Land Use Controls remain in place and are effective.

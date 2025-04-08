@@ -1,2 +1,13 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The San Gabriel Valley (Area 3) site is a 19-square-mile area with isolated areas of contaminated groundwater in Los Angeles County, California. It is one of four Superfund sites in the 170-square-mile San Gabriel Valley. Multiple potentially responsible parties (PRPs) contaminated over 30 square miles of groundwater under the Valley with volatile organic compounds (VOCs) and industrial solvents. About 400 facilities in the region have soil contamination. EPA is currently working on a supplemental Remedial Investigation and Feasibility Study of regional groundwater contamination in Area 3 to identify and evaluate cleanup options.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. EPA believes more than 100 facilities contributed to contamination throughout the site.
+
+### What Is the Current Site Status?
+
+Since 2008, the City of Alhambra has operated a water treatment plant to remove VOCs and industrial solvents from the drinking supply. To identify the sources of groundwater contamination and determine cleanup actions, the State of California has investigated over 20 current and former industrial facilities. The State of California oversees the cleanup of soil and soil gas contamination at a number of former industrial facilities. EPA continues to characterize the extent of groundwater contamination at the site and will use these findings to identify and evaluate groundwater cleanup options.
+
+EPA expects complete the identification and characterization of the contaminated groundwater in 2019.

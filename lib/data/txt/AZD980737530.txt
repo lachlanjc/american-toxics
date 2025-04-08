@@ -1,41 +1,82 @@
-TUCSON INTERNATIONAL AIRPORT AREATUCSON, AZ 
-  Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The ten square-mile Tucson International Airport Area site (TIAA) is in southeastern Arizona. It covers sections of southwest Tucson and adjoining lands south of the city. The site includes: 
-Tucson International Airport
-Sections of the Tohono O'odham Nation (San Xavier District)
-Tucson and South Tucson residential areas
-Air Force Plant #44 Raytheon Missile Systems Company (AFP44) (see map) 
-The site has contaminated groundwater and soil from: 
-Former aircraft and electronics manufacturing and aircraft maintenance
-Fire drill trainings
-Leaking of chemicals from unlined landfills 
-Groundwater in this area is the primary source of water for domestic, industrial and irrigation activities. During the initial site investigation, many production and private wells contained groundwater with TCE levels greater than EPA’s maximum contaminant level (MCL) of 5 micrograms per liter. Production wells were either shut down or taken out of service by the City of Tucson. Some private wells remain in use. However, no use of groundwater containing volatile organic compounds (VOCs) above drinking water standards is known to occur at this time. The Potentially Responsible Parties (PRPs) continue operation, maintenance and site monitoring. These activities play an important role in ongoing cleanup efforts. Top of Page
-What Has Been Done to Clean Up the Site?
-Potentially Responsible Parties work together with federal, state and local agencies to clean up the site. In 2018, EPA conducted a second Five-Year Review of the site’s cleanup actions. 
-In OU1 Area A, the TCE plume has decreased. A plume is an area in soil or water that contains pollutants.
-Studies to treat chromium in soil are ongoing at AFP44. Based on the results of the studies, the Air Force may revise the Record of Decision for the site to include alternate cleanup actions.
-EPA continues to monitor vapor intrusion. Vapor intrusion is the movement of hazardous substances from contaminated soil and groundwater. 
-In OU2, PCB clean up has been completed and was certified by EPA in July 2017. 
-The TARP groundwater treatment system removed over 5,000 pounds of TCE from the aquifer.
-TARP is monitoring for polyfluorinated compounds (PFCs), also called PFAS.
-Treated water from AFP44 and TARP meets federal drinking water standards and regional screening levels.
-Tucson Water will continue replacing outdated wells. 
-In 2019, the TARP treatment system added granulated carbon to remove PFAS. If PFAS levels continue to rise, EPA will investigate the extent of contamination in the water.
-In Operable Unit 3, EPA is researching technology options to address chromium contamination.
-EPA is continuing to investigate the extent of PFAS in groundwater. 
-Top of Page
-What Is the Current Site Status?
-In 2018, EPA did its second Five-Year Review of Operational Units (OUs) 1, 2 and 3. EPA divides sites into OUs to better manage cleanup activities. • OU1 Area A (western half) represents groundwater at the Tucson Airport Remediation Project (TARP) area (“Area A”). • OU1 Area B (eastern half) represents groundwater at the following locations: Former Texas Instruments property (formerly Burr-Brown Corporation), the 162nd Arizona Air National Guard (AANG) Base, the former Western Capacitor property (West Cap), and the West Plume B area. (“Area B”). • OU2 represents soil and shallow groundwater at the Airport Property (including the Three Hangars Building), and soil at the AANG Base, Texas Instruments Property, and West Cap Area. • OU3 represents soil and groundwater at U.S. Air Force (Air Force) Plant #44/Raytheon (AFP44). The site team is investigating if polyfluorinated compounds (PFCs), also called PFAS, have contaminated groundwater and soil in OU1, OU2, and OU3. PFOA and PFOS are the most common PFAS compounds. Firefighting foam and other materials contain PFAS.   Remedy or Cleanup Plan Selected: Pumping and air stripping contaminated groundwater are long-term cleanup actions for AFP44, Tucson Airport Property, Tucson Airport Remediation Project, Texas Instruments and the Arizona National Guard. Air stripping removes volatile organic compounds (VOCs). VOCs easily evaporate which means they can change from a liquid to a vapor or gas. In May 2008: The Air Force and the site team added an advanced oxidation process (AOP) facility to the treatment system for AFP44. Advanced oxidation treats 1,4-dioxane and volatile organic compounds (VOCs) in groundwater. In July 2011: The site team capped Tucson Airport Area landfill. In April 2012: The site team finalized a Record of Decision (ROD) Amendment for Area B. EPA’s ROD is the legal cleanup actions for a Superfund site. At times, new information and advanced technology call for amendments to a ROD. The ROD Amendment changed the cleanup action from pumping and air stripping to in-place chemical oxidation.  In-place chemical oxidation destroys volatile organic compounds (VOCs) in groundwater at former Texas Instruments, Arizona Air National Guard and West Cap. The ROD Amendment also changed the cleanup action for West Plume B to natural attenuation. Natural attenuation uses natural processes to help reduce groundwater and soil contamination. In July 2012: The site team excavated (dug up) and removed contaminated pipeline sludges and soils. These sludges and soils had PCB levels above EPA’s health advisory limit of 0.76 mg/kg. In February 2014: Tucson Water and the site team put in an advanced oxidation process (AOP) facility at TARP. This facility treats 1,4-dioxane and volatile organic compounds (VOCs) in groundwater. The agencies use Natural Attenuation and Institutional Controls to address contamination. Natural Attenuation relies on natural processes to clean up groundwater and soil contamination. This occurs when microorganisms, such as algae and bacteria naturally break down chemicals. Institutional Controls restrict people’s access to the site and educate the public about health risks from exposure to certain chemicals. Institutional Controls at TIAA to reduce people’s exposure to contamination include enforcing groundwater restrictions in AP44 that prevent: 
-using existing wells with groundwater contamination
-installing  new wells in the contaminated portion of the aquifer
-drilling wells in the contaminated area 
-Top of Page
+### Background
+
+The ten square-mile Tucson International Airport Area site (TIAA) is in southeastern Arizona. It covers sections of southwest Tucson and adjoining lands south of the city. The site includes:
+
+- Tucson International Airport
+- Sections of the Tohono O'odham Nation (San Xavier District)
+- Tucson and South Tucson residential areas
+- Air Force Plant #44 Raytheon Missile Systems Company (AFP44) (see map)
+
+The site has contaminated groundwater and soil from:
+
+- Former aircraft and electronics manufacturing and aircraft maintenance
+- Fire drill trainings
+- Leaking of chemicals from unlined landfills
+
+Groundwater in this area is the primary source of water for domestic, industrial and irrigation activities. During the initial site investigation, many production and private wells contained groundwater with TCE levels greater than EPA’s maximum contaminant level (MCL) of 5 micrograms per liter. Production wells were either shut down or taken out of service by the City of Tucson. Some private wells remain in use. However, no use of groundwater containing volatile organic compounds (VOCs) above drinking water standards is known to occur at this time. The Potentially Responsible Parties (PRPs) continue operation, maintenance and site monitoring. These activities play an important role in ongoing cleanup efforts.
+
+### What Has Been Done to Clean Up the Site?
+
+Potentially Responsible Parties work together with federal, state and local agencies to clean up the site. In 2018, EPA conducted a second Five-Year Review of the site’s cleanup actions.
+
+- In OU1 Area A, the TCE plume has decreased. A plume is an area in soil or water that contains pollutants.
+- Studies to treat chromium in soil are ongoing at AFP44. Based on the results of the studies, the Air Force may revise the Record of Decision for the site to include alternate cleanup actions.
+- EPA continues to monitor vapor intrusion. Vapor intrusion is the movement of hazardous substances from contaminated soil and groundwater.
+
+In OU2, PCB clean up has been completed and was certified by EPA in July 2017.
+
+- The TARP groundwater treatment system removed over 5,000 pounds of TCE from the aquifer.
+- TARP is monitoring for polyfluorinated compounds (PFCs), also called PFAS.
+- Treated water from AFP44 and TARP meets federal drinking water standards and regional screening levels.
+- Tucson Water will continue replacing outdated wells.
+- In 2019, the TARP treatment system added granulated carbon to remove PFAS. If PFAS levels continue to rise, EPA will investigate the extent of contamination in the water.
+- In Operable Unit 3, EPA is researching technology options to address chromium contamination.
+- EPA is continuing to investigate the extent of PFAS in groundwater.
+
+### What Is the Current Site Status?
+
+**In 2018**, EPA did its second Five-Year Review of Operational Units (OUs) 1, 2 and 3. EPA divides sites into OUs to better manage cleanup activities.
+
+• OU1 Area A (western half) represents groundwater at the Tucson Airport Remediation Project (TARP) area (“Area A”).
+
+• OU1 Area B (eastern half) represents groundwater at the following locations: Former Texas Instruments property (formerly Burr-Brown Corporation), the 162nd Arizona Air National Guard (AANG) Base, the former Western Capacitor property (West Cap), and the West Plume B area. (“Area B”).
+
+• OU2 represents soil and shallow groundwater at the Airport Property (including the Three Hangars Building), and soil at the AANG Base, Texas Instruments Property, and West Cap Area.
+
+• OU3 represents soil and groundwater at U.S. Air Force (Air Force) Plant #44/Raytheon (AFP44).
+
+The site team is investigating if polyfluorinated compounds (PFCs), also called PFAS, have contaminated groundwater and soil in OU1, OU2, and OU3. PFOA and PFOS are the most common PFAS compounds. Firefighting foam and other materials contain PFAS.
+
+**Remedy or Cleanup Plan Selected:**
+
+Pumping and air stripping contaminated groundwater are long-term cleanup actions for AFP44, Tucson Airport Property, Tucson Airport Remediation Project, Texas Instruments and the Arizona National Guard. Air stripping removes volatile organic compounds (VOCs). VOCs easily evaporate which means they can change from a liquid to a vapor or gas.
+
+**In May 2008:**
+
+The Air Force and the site team added an advanced oxidation process (AOP) facility to the treatment system for AFP44. Advanced oxidation treats 1,4-dioxane and volatile organic compounds (VOCs) in groundwater.
+
+**In July 2011:**
+
+The site team capped Tucson Airport Area landfill.
+
+**In April 2012:**
+
+The site team finalized a Record of Decision (ROD) Amendment for Area B. EPA’s ROD is the legal cleanup actions for a Superfund site. At times, new information and advanced technology call for amendments to a ROD. The ROD Amendment changed the cleanup action from pumping and air stripping to in-place chemical oxidation.
+
+In-place chemical oxidation destroys volatile organic compounds (VOCs) in groundwater at former Texas Instruments, Arizona Air National Guard and West Cap.
+
+The ROD Amendment also changed the cleanup action for West Plume B to natural attenuation. Natural attenuation uses natural processes to help reduce groundwater and soil contamination.
+
+**In July 2012:**
+
+The site team excavated (dug up) and removed contaminated pipeline sludges and soils. These sludges and soils had PCB levels above EPA’s health advisory limit of 0.76 mg/kg.
+
+**In February 2014:**
+
+Tucson Water and the site team put in an advanced oxidation process (AOP) facility at TARP. This facility treats 1,4-dioxane and volatile organic compounds (VOCs) in groundwater.
+
+The agencies use Natural Attenuation and Institutional Controls to address contamination. Natural Attenuation relies on natural processes to clean up groundwater and soil contamination. This occurs when microorganisms, such as algae and bacteria naturally break down chemicals. Institutional Controls restrict people’s access to the site and educate the public about health risks from exposure to certain chemicals. Institutional Controls at TIAA to reduce people’s exposure to contamination include enforcing groundwater restrictions in AP44 that prevent:
+
+- using existing wells with groundwater contamination
+- installing new wells in the contaminated portion of the aquifer
+- drilling wells in the contaminated area

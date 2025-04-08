@@ -1,39 +1,47 @@
-FRENCH, LTD.CROSBY, TX 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Sampling and Monitoring
-Emergency Response and Removal
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The 55-acre French Limited site is located in Crosby, Harris County, Texas. Site uses between 1950 and 1973 included sand mining and operation of an industrial waste storage and disposal facility. Between 1966 and 1971, 90 million gallons of industrial wastes from petrochemical companies were disposed of on the property. Site activities and waste disposal practices contaminated groundwater, surface water, soil and sludge with hazardous chemicals and heavy metals. Following cleanup, operation and maintenance activities are ongoing. Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through potentially responsible party (PRP) actions. The site was used for sand mining operations between 1950 and 1965. From 1962 until 1973, an industrial waste facility operated at the site under a permit issued by the Texas Water Quality Board for petrochemical waste disposal. The facility's permit was revoked and the facility closed down in 1973. EPA identified 90 companies potentially responsible for the contamination. These parties formed the French Limited Task Group (FLTG) and agreed to work with EPA, the Texas Water Commission and the community to clean up the site. 
-Top of Page
-What Is the Current Site Status?
-The site’s long-term remedy included extraction and treatment of contaminated groundwater; excavation and treatment of contaminated soil and sludge; stabilization of treatment residues; and groundwater monitoring. Remedy construction took place between 1989 and 1994. Groundwater monitoring is ongoing. The groundwater in-place bioremediation and conventional pump-and-treat system were operational from February 1992 to December 1995. Monitored natural attenuation (MNA) of groundwater began in January 1996. On August 4, 2014, the EPA conducted a Public Meeting from 6:30 p.m. until 8:00 p.m. at the Crosby Branch Library, Harris County Library, 135 Hare Road, Crosby, TX 77532, to present the information contained in the July 2014, Proposed Plan. The Proposed Plan presents the EPA and the Texas Commission on Environmental Quality’s (TCEQ) re-evaluation of the ground water remedy selected in the 1988 Record of Decision (ROD) and considers information derived through additional investigation and performance of the previously selected remedy. This Plan addresses the changes to the ground water remedy only and does not address any changes to the lagoon sludges and/or soil remedy selected in the 1988 ROD because the lagoon sludges and/or soil remedy were previously implemented. This Proposed Plan recommended the following preferred remedial alternative for the Site ground water and identified steps to be taken for continual protection of human health and the environment. 
-Contain the ground water contaminant plumes in two shallow ground water zones.
-Ground water cleanup levels for selected chemicals within a Defined Boundary cannot be achieved.
-Prevent exposure to contaminated ground water above acceptable risk levels by implementing Institutional Controls (ICs) to restrict access to, or use of, contaminated water within the Defined Boundary.
-Install additional monitoring wells and conduct short-term monitoring to verify the proposed Defined Boundary; conduct long-term monitoring to ensure that the plume is not expanding and evaluate data periodically. 
-The EPA, in coordination with the state of Texas, selected a remedy for the Site after reviewing and considering all information and comments submitted during the 30-day public comment period, which began on July 17, 2014, and was to end on August 15, 2014. During the public comment period the EPA received numerous form letters (approximately 40) dated August 7, 2014, requesting that EPA extend the public comment period an additional 60 days. The EPA extended the public comment period, an additional 21 days, until midnight on September 5, 2014. Comments were received during the public meeting that was held on August 4, 2014. A summary of the major comments received during the public meeting and the public comment period are include in the Responsiveness Summary. The EPA has determined that a significant change to the remedy amendment, as originally identified in the Proposed Plan, is not necessary. Significant issues or objections were not raised during the public comment period. The EPA approved and signed the ROD Amendment on September 30, 2014. EPA is in the process of amending the Consent Decree in order to implement the remedy selected in the 2014 ROD Amendment. ﻿EPA conducted a Five Year Review of the Site and the report was issued in September 2017. The Five Year Review found that the remedy at OU1 currently protects human health and the environment because there are currently no exposures to human health and the environment. However, in order for the remedy to be protective in the long term, the following actions need to be taken to ensure protectiveness: 
-Amend the 1990 Consent Decree in order to implement the remedy selected in the 2014 ROD Amendment. 
-Revise the Institutional Controls Plan once the Defined Boundary is established. 
-The lack of inward groundwater gradient and the fluctuating contaminant concentrations in wells near the sheet pile wall need to be evaluated and statistical analysis may need to be conducted as appropriate. The wells need to be closely monitored. If contaminants are found to be migrating, contingency measures need to be planned and implemented to mitigate contaminant migration, maintain plume stability, and control exposure outside the Defined Boundary.   
-Top of Page
-Sampling and Monitoring
-The French Limited Task Group conduct annual ground water monitoring of the Site. The monitoring network continues to provide useful information regarding the extent and trends of affected ground water. Overall, the data collected are consistent with the remedial objectives of providing containment while natural processes work to reduce constituent concentrations over time. Conclusions from the 2020 Annual Ground Water Monitoring Report include: 
-The ground water flow direction in the shallow unit was generally inward toward the South Pond under a slight gradient, with a localized ground water flow divide along the topographic high in the area of the Former Harris County Landfill;
-The ground water flow direction in the intermediate unit was generally toward the southwest under a slight gradient from the Central Plume Area toward the Former Harris County Landfill where a steeper southwesterly gradient is apparent;
-The extent of affected ground water was noticeably reduced for contaminants in the shallow unit in the East Plume Area and in the intermediate unit in the West Plume Area,suggesting that concentrations are approaching and dropping below the target levels, in some instances for the first time;
-Upward concentration trends were limited to a few areas including 4 out of 17 wells in the intermediate unit of the Central Plume Area - these trends were within the historical range of fluctuation;
-No migration away from the monitor well network was apparent for the sixth straight year since the approval of the remedy selected in 2014, consistent with the lower mobility of contaminants in the upper clay and intermediate unit;
-The highest concentrations of contaminants are generally near the sheet pile wall and decrease with distance away from the sheet pile wall. 
-Top of Page
-Emergency Response and Removal
+### Background
+
+The 55-acre French Limited site is located in Crosby, Harris County, Texas. Site uses between 1950 and 1973 included sand mining and operation of an industrial waste storage and disposal facility. Between 1966 and 1971, 90 million gallons of industrial wastes from petrochemical companies were disposed of on the property. Site activities and waste disposal practices contaminated groundwater, surface water, soil and sludge with hazardous chemicals and heavy metals. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through potentially responsible party (PRP) actions.
+
+The site was used for sand mining operations between 1950 and 1965. From 1962 until 1973, an industrial waste facility operated at the site under a permit issued by the Texas Water Quality Board for petrochemical waste disposal. The facility's permit was revoked and the facility closed down in 1973.
+
+EPA identified 90 companies potentially responsible for the contamination. These parties formed the French Limited Task Group (FLTG) and agreed to work with EPA, the Texas Water Commission and the community to clean up the site.
+
+### What Is the Current Site Status?
+
+The site’s long-term remedy included extraction and treatment of contaminated groundwater; excavation and treatment of contaminated soil and sludge; stabilization of treatment residues; and groundwater monitoring. Remedy construction took place between 1989 and 1994. Groundwater monitoring is ongoing. The groundwater in-place bioremediation and conventional pump-and-treat system were operational from February 1992 to December 1995. Monitored natural attenuation (MNA) of groundwater began in January 1996.
+
+On August 4, 2014, the EPA conducted a Public Meeting from 6:30 p.m. until 8:00 p.m. at the Crosby Branch Library, Harris County Library, 135 Hare Road, Crosby, TX 77532, to present the information contained in the July 2014, Proposed Plan. The Proposed Plan presents the EPA and the Texas Commission on Environmental Quality’s (TCEQ) re-evaluation of the ground water remedy selected in the 1988 Record of Decision (ROD) and considers information derived through additional investigation and performance of the previously selected remedy. This Plan addresses the changes to the ground water remedy only and does not address any changes to the lagoon sludges and/or soil remedy selected in the 1988 ROD because the lagoon sludges and/or soil remedy were previously implemented. This Proposed Plan recommended the following preferred remedial alternative for the Site ground water and identified steps to be taken for continual protection of human health and the environment.
+
+- Contain the ground water contaminant plumes in two shallow ground water zones.
+- Ground water cleanup levels for selected chemicals within a Defined Boundary cannot be achieved.
+- Prevent exposure to contaminated ground water above acceptable risk levels by implementing Institutional Controls (ICs) to restrict access to, or use of, contaminated water within the Defined Boundary.
+- Install additional monitoring wells and conduct short-term monitoring to verify the proposed Defined Boundary; conduct long-term monitoring to ensure that the plume is not expanding and evaluate data periodically.
+
+The EPA, in coordination with the state of Texas, selected a remedy for the Site after reviewing and considering all information and comments submitted during the 30-day public comment period, which began on July 17, 2014, and was to end on August 15, 2014. During the public comment period the EPA received numerous form letters (approximately 40) dated August 7, 2014, requesting that EPA extend the public comment period an additional 60 days. The EPA extended the public comment period, an additional 21 days, until midnight on September 5, 2014. Comments were received during the public meeting that was held on August 4, 2014. A summary of the major comments received during the public meeting and the public comment period are include in the Responsiveness Summary. The EPA has determined that a significant change to the remedy amendment, as originally identified in the Proposed Plan, is not necessary. Significant issues or objections were not raised during the public comment period. The EPA approved and signed the ROD Amendment on September 30, 2014. EPA is in the process of amending the Consent Decree in order to implement the remedy selected in the 2014 ROD Amendment.
+
+EPA conducted a Five Year Review of the Site and the report was issued in September 2017. The Five Year Review found that t he remedy at OU1 currently protects human health and the environment because there are currently no exposures to human health and the environment. However, in order for the remedy to be protective in the long term, the following actions need to be taken to ensure protectiveness:
+
+- Amend the 1990 Consent Decree in order to implement the remedy selected in the 2014 ROD Amendment.
+- Revise the Institutional Controls Plan once the Defined Boundary is established.
+- The lack of inward groundwater gradient and the fluctuating contaminant concentrations in wells near the sheet pile wall need to be evaluated and statistical analysis may need to be conducted as appropriate. The wells need to be closely monitored. If contaminants are found to be migrating, contingency measures need to be planned and implemented to mitigate contaminant migration, maintain plume stability, and control exposure outside the Defined Boundary.
+
+### Sampling and Monitoring
+
+The French Limited Task Group conduct annual ground water monitoring of the Site. The monitoring network continues to provide useful information regarding the extent and trends of affected ground water. Overall, the data collected are consistent with the remedial objectives of providing containment while natural processes work to reduce constituent concentrations over time.
+
+Conclusions from the [2020 Annual Ground Water Monitoring Report i](https://semspub.epa.gov/work/06/100022858.pdf) nclude:
+
+- The ground water flow direction in the shallow unit was generally inward toward the South Pond under a slight gradient, with a localized ground water flow divide along the topographic high in the area of the Former Harris County Landfill;
+- The ground water flow direction in the intermediate unit was generally toward the southwest under a slight gradient from the Central Plume Area toward the Former Harris County Landfill where a steeper southwesterly gradient is apparent;
+- The extent of affected ground water was noticeably reduced for contaminants in the shallow unit in the East Plume Area and in the intermediate unit in the West Plume Area,suggesting that concentrations are approaching and dropping below the target levels, in some instances for the first time;
+- Upward concentration trends were limited to a few areas including 4 out of 17 wells in the intermediate unit of the Central Plume Area - these trends were within the historical range of fluctuation;
+- No migration away from the monitor well network was apparent for the sixth straight year since the approval of the remedy selected in 2014, consistent with the lower mobility of contaminants in the upper clay and intermediate unit;
+- The highest concentrations of contaminants are generally near the sheet pile wall and decrease with distance away from the sheet pile wall.
+
+### Emergency Response and Removal
+
 Cleanup has also included removal actions, or short-term cleanups, to address immediate threats to human health and the environment. Removal actions included repairing a breached dike; pumping and containment of contaminated sludge; maintaining site security; sampling and analysis; and providing bottled water to affected residents.
-Top of Page

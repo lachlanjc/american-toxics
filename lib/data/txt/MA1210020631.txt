@@ -1,2 +1,100 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Natick Laboratory Army Research, Development, and Engineering Center (Natick Laboratory) is a 78-acre facility in Natick, Massachusetts occupying a peninsula on the eastern shore of the Lake Cochituate State Park and Recreation Area. The site is bordered on the north and west by residential areas.
+
+The Army purchased the site property in 1949 from the Metropolitan District Commission. At the time of purchase, the area was primarily used as a forested recreation area; it also included a gravel pit in what is now the Building T-25 Area. The Army built the Natick Laboratory in 1954 and has since used the area for industrial, laboratory and storage activities for research and development in the areas of food science, aero-mechanical, clothing, material and equipment engineering.
+
+During its operation, the Army used a variety of substances including: the volatile organic compounds (VOCs) tetrachloroethene, trichloroethene, carbon disulfide, benzene, chloroform and acetone; "standard laboratory chemicals;" mineral spirits/turpentine; paints; inks; lubricants; gasoline; tetraethyl lead, a gasoline additive; pesticides; and metal dusts. In addition, radioactive materials and chemical agents were used for food irradiation, tracer studies and clothing absorption tests.
+
+In 1989, personnel at the facility noticed a sheen on site runoff water generated during rainstorms. Construction workers also noticed a benzene-like odor in soil near a boring drilled for the construction of a gymnasium on site. The Army conducted soil gas surveys in the Building T-25 and Gymnasium Areas and detected several types of VOCs. In addition, soil, groundwater and surface water samples revealed elevated levels of VOCs and a variety of heavy metals such as barium, arsenic, copper, chromium, lead and zinc. Other potential sources of contamination have been identified near the laboratory. Petroleum, organic compounds and chlorinated solvents have been discovered in soil and groundwater on a property previously used as a laundromat, which is located about 3,600 feet from the Army's facility. Several other potential sources of groundwater contamination, including automotive garages and other laundromats, have been identified.
+
+### What Has Been Done to Clean Up the Site?
+
+The Natick Laboratory site has been divided into four Operable Units (OUs) for environmental investigation and cleanup.  
+• OU1 – Groundwater (Facility-wide and T-25 Area)  
+• OU2 – Sediment  
+• OU3 – Soil Removal Actions (Former Proposed Gym Site and Buildings 62/68 Area)  
+• OU4 – Soil Removal Actions (Former Buildings 13/14 Area, Boiler Plant Area, and T-25 Area)
+
+  
+**OU1 – Groundwater (Facility-wide and T-25 Area)**
+
+The Army completed construction of the groundwater extraction and treatment system (GWETS) in 1997, as a pre-Record of Decision (ROD) response action. This system treated groundwater pumped from the T-25 area, contaminated with chlorinated solvents (trichloroethylene \[TCE\] and tetrachloroethylene \[PCE\]), and was installed in Building 94 (located in the T-25 Area). Contaminated groundwater is present within the locally semi-confined, deeper overburden aquifer (deeper groundwater), but is not present in the unconfined water table aquifer (shallow groundwater). The OU1 ROD was signed in September 2001, formally documenting the selected remedy for T-25 Area groundwater (the GWETS and other components discussed below).
+
+Treated water from the GWETS is pumped to a storage tank behind Building 10 that supplies the installation’s nonpotable water distribution system. The water is used for lawn sprinklers, cooling tower make up, and restroom flushing water. Overflow from the system is discharged to a storm sewer that outfalls to Lake Cochituate. Treated effluent samples are collected monthly.
+
+An Explanation of Significant Differences (ESD) for OU1 was prepared in 2013 to document changes to the remedy. The 2013 ESD expanded the groundwater remedy to additional areas at site, and included:  
+• Extraction of contaminated groundwater from the Buildings 22 and 36 Area and from an  
+area near Buildings 63, 2 and 45, with piping through a buried force main for treatment at the T-25 Area.  
+• Slug volume removal of contaminated groundwater from two localized areas outside of  
+the extraction system capture zone. The areas included the ARIEM Building Area (Building 42) and a parking lot east of Building 1 referred to as the MW-114B-2 Area (also the Former Proposed Gym Site). At each area, vacuum-enhanced pulse pumping is used to periodically remove contaminated groundwater. Extracted groundwater is then transported to and treated by the T-25 Area treatment system.
+
+Long-term monitoring (LTM) has been performed since 1993. It is used to characterize and evaluate contaminated groundwater at the site and the surrounding area, trends in contaminant concentrations over time, local and regional groundwater flow, and GWETS effectiveness. The current LTM program consists of semi-annual groundwater sampling and synoptic water level measurements.
+
+Monitored natural attenuation (MNA) is a component of the groundwater remedy that addresses on- and off-site contamination not captured by the GWETS. MNA will also be used as a final remedy when asymptotic conditions associated with COC removal rates are reached.
+
+The remedy also includes institutional controls (ICs) to restrict usage of groundwater. ICs implemented at the site include a Town of Natick Board of Health ordinance (1999), as well as U.S. Army restrictions (2012). The ordinance prohibits installation of new private drinking water wells and the use of existing private drinking water wells in an area bounded by North Main Street (Route 27), Lake Cochituate, West Central Street (Route 135), and the Massachusetts Turnpike (Route 90). It also requires a permit for other uses such as industrial or irrigation. A U.S. Army Master Plan for the site restricts the use of on-site groundwater. If the site property is transferred out of Federal ownership, the U.S. Army will impose appropriate enforceable land use restrictions (e.g., restrictive covenants and/or easements) in all deeds or other transfer documents relating to the property. Annual IC certification is performed by the U.S. Army and the town of Natick Department of Public Works.  
+The 2001 ROD also included U.S. Army financial support of a portion of the operation and maintenance (O&M) of an air stripping system at the town of Natick’s Springvale Treatment Plant.
+
+**OU2 – Sediment**
+
+Likely due to a polychlorinated biphenyl (PCB) release in the mid-1980s from a transformer leak near Building 5 and migration within the storm water drainage system and discharge to Lake Cochituate, sediments within Pegan Cove became contaminated with PCBs. Following investigations, the OU2 ROD was signed in September 2009 and called for dredging of three sediment hotspots in Pegan Cove. The sediment cleanup goal was defined as the concentration of PCBs in sediment at the Fisk Pond background location which is 1 ppm.
+
+The remedial action objectives (RAO) for the OU2 ROD were based on protection of human health since acceptable risk was determined for the environment, and were stated as:  
+Reduce the potential for sediment-associated human health risks due to PCBs in native fish caught near the site shoreline currently and in the future by reducing average PCB concentrations in sediment within Pegan Cove to less than 1 ppm.
+
+Dredging of contaminated sediment was conducted in 2010, with approximately 4,395 cubic yards of in-situ sediment removed, dewatered and disposed offsite. Since dredging reduced the average cove-wide PCB concentration to 1.03 mg/kg, subsequent backfilling of each hot spot area with clean washed sand was done, reducing the average concentration to below the 1 mg/kg cleanup goal.  
+  
+Sediment investigations and risk analyses were conducted for other outfall areas, resulting in a determination that sediment within those areas posed no unacceptable human health or ecological risk and therefore, a “No Action” determination was made for sediments other than those in Pegan Cove in the 2009 ROD.
+
+Following the 2009 dredging of Pegan Cove, there are no known remaining areas associated with the site with concentrations of contaminants in sediment or soil that pose a risk to human health or the environment.
+
+**OU3 - the Former Proposed Gym Site and Buildings 62/68 Area**
+
+The former Proposed Gym Site is located on the eastern boundary of the site near the installation's main gate. The site is named for a historically proposed location for a NSSC gymnasium; however, the site was never developed, and the gymnasium was never constructed. Excavation of contaminated soils was conducted through a Time Critical Removal Action in 2002. As part of the removal action, approximately 1,233 tons of contaminated soil were excavated from a 40- by 40- by 10-foot deep area to remove soils that were leaching contaminants, especially benzene, to groundwater. Follow-up removal actions were conducted in 2012 and 2014 to remove additional laboratory debris and contaminated soil. Confirmation sampling demonstrated remedial goals (the State residential standards) were met and no restrictions were necessary on soils in this area. The removal action complete was documented in a close out report that EPA approved on June 24, 2003.
+
+Buildings 62 and 68 were used for hazardous materials and chemical storage until the summer of 1991. In September 2005, a removal action was conducted by the Army to remediate PAH- and EPH-contaminated soil. Excavation activities proceeded in two stages with the initial stage completed to 2 feet below ground surface, and further excavation in two locations that exceeded cleanup goals in confirmation samples. During the removal action, approximately 172 tons of contaminated soil were excavated and approximately 4 tons of asphalt pavement were removed from the drainage ditch. Final confirmation samples demonstrated the remedial goals were met for unrestricted use. The removal action closeout report was approved by EPA on December 8, 2014.
+
+**OU4 - Former Building 13/14 Area, the Boiler Plant Area, and the soil at the T-25 Area**
+
+*Former Building 13 and 14 Area*: Building 14 has been used both currently and historically for vehicle and equipment maintenance, administrative space, and storage. Building 13 was used as an incinerator for destroying classified paperwork from its installation until its closure in 1985 and the area was also used to decontaminate pesticide equipment and clean garbage cans. A removal action was conducted by the Army in 2007 to address contaminated soil. At the Building 14 area, soils were excavated over a 1,260 square foot area at depths ranging up to 15 feet. At former Building 13, a portion of the concrete incinerator foundation and its associated piping were demolished, and surface soils surrounding the foundation were excavated to a depth of one foot. A total of 257 tons of soil was removed from the Building 13 excavation and 635 tons of soil was removed from the Building 14 excavation. Confirmation samples indicated that State residential standards (the cleanup goals) were met. The removal action completion report was approved by EPA in November 2007.
+
+*Boiler Plant Area*: The site includes the Former Boiler Plant (Building 19), the former Building 23 area, and a former piggery. In a 2001 Removal Action, the Army removed soils with PAH, PCB, and lead contamination. A total of approximately 768 cubic yards of contaminated soil was shipped off-site for treatment. The confirmatory soil samples that were collected indicated that contaminant concentrations of soils remaining in place were below State residential standards. Other activities performed during the removal action include infrastructure (retaining wall, piping/fittings/accessories, leach field) removal. This removal action was performed under the State regulations prior to the EPA FFA signature date. The removal was approved by EPA when the OU4 ROD was signed in September 2008.
+
+*T-25 Area*: In 1997, a Time Critical Soil Removal Action was performed by the Army. The action resulted in the removal of approximately 1,380 tons of contaminated soil from the T-25 Area and the east side of the tennis courts, excavated to depths between 1 and 10 feet below ground surface. Confirmatory soil samples were collected after additional excavation, revealing pesticide concentrations below action levels. After contaminated soils were removed, the area was backfilled with clean soil, compacted, and paved. During site restoration and cleanup, an additional 3,000 pounds of soil that was assumed to be contaminated was drummed and transported offsite. The removal action eliminated contaminant sources (including the Pit Waste Oil Storage Tank residual contamination) at the T-25 Area of Concern. These actions were performed under MassDEP jurisdiction prior to FFA signature. All removal responses for the T-25 Area were approved by EPA in the OU 4 "No Further Action" ROD signed in September 2008
+
+  
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal actions. EPA added the site to the National Priorities List (NPL) in 1994. The U.S. Army is leading site investigations and cleanup, with oversight by EPA and the Massachusetts Department of Environmental Protection (MassDEP).
+
+Cleanup activities conducted at the site included ground water containment, treatment and monitoring; soil excavation and removal; and sediment removal. Groundwater treatment and monitoring is ongoing, and system optimization and upgrades are currently underway. Although groundwater concentrations have generally declined, cleanup goals have not yet been met. Soil and sediment areas requiring remediation have been cleaned up. More details are provided in the Cleanup Activities section.
+
+A Five Year Review in 2022 concluded that the groundwater remedy (OU1)
+
+was short-term protective of human health and the environment, as institutional controls prevent any potential exposure to contaminated groundwater beneath the facility and off-facility. However, in order for the remedy to be protective in the long-term, upgrades and maintenance of the existing groundwater and extraction treatment system (GWETS) must be completed to optimize the system, effectively capture the contaminant plume from migrating off-site, improve treatment efficiency, and reduce the time required to restore the aquifer. The Army completed the upgrades and maintenance to the system in July 2022. Modeling results to verify that the plume is effectively being captured are pending. Long-term monitoring to monitor plume capture and verify that contaminant concentrations decrease over time are continuing.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+**Institutional controls are required for this site.**  
+  
+This site requires ICs because a decision document, such as a Record of Decision, has documented some level of contamination and/or remedy component at the site that would restrict use of the site. These ICs are required to help ensure the site is used in an appropriate way and that activities at the site do not damage the cleanup components. These ICs will remain in place for as long as the contamination and/or cleanup components stay on site. The site contacts should be consulted if there are questions on the ICs for this site.  
+  
+The following IC Instruments provide media-specific use restrictions that have been implemented by EPA for protecting human health, the environment and remedial engineering on this site. Instruments are documents used by EPA or other organizations to implement the use restrictions at a site. To know about other media-specific use restrictions that are planned but not implemented at this site, please contact the Regional Office using the Site Contact listed above.  
+  
+Click here for [IC Instruments implemented for this site](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0101831&doc=Y&colid=33350&region=01&type=SC).
+
+To contact EPA regarding Institutional Controls and/or activity and use limitations, please complete this [form](https://www.epa.gov/superfund/forms/region-1-institutional-controls-information-form).
+
+ICs are generally defined as administrative and legal tools that do not involve construction or physically changing the site. Common examples of ICs include site use and excavation restrictions put in place through State and local authorities like zoning, permits and easements. ICs are normally used when waste is left onsite and when there is a limit to the activities that can safely take place at the site (i.e., the site cannot support unlimited use and unrestricted exposure) and/or when cleanup components of the remedy remains onsite (e.g., landfill caps, pumping equipment or pipelines). Effective ICs help ensure that these sites can be returned to safe and beneficial use.  
+  
+Disclaimer: This information is being provided by EPA as an informational tool to further assist the public in determining the types of restrictions that may be in place at National Priorities List sites being addressed by EPA under the Superfund program. In addition to the areas addressed by the institutional controls identified on this web site there may be other areas on the property that require restrictions on use of the property that are not captured in this EPA database. States and other entities may have implemented laws or restrictions applicable to this site. The information provided herein does not replace a title search or meet "All Appropriate Inquiry" requirements. U.S. EPA encourages users to review the Site files to obtain information regarding remedy components, containment systems and the land use for which cleanup standards were selected for these sites. More information and links can be found in the Institutional Control instrument collection of document, above, and the EPA regional offices may also be contacted.
+
+### Sampling and Monitoring
+
+Army monitors the institutional controls annually and the groundwater semi-annually.

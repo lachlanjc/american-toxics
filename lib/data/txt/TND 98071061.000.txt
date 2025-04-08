@@ -1,2 +1,79 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Smokey Mountain Smelters [Superfund](http://www.epa.gov/superfund) site is located in Knox County, Tennessee. The site is located at 1508 Maryville Pike in Knoxville, Tennessee, four miles south of downtown Knoxville in a mixed industrial, commercial and residential area. A low-income apartment complex (Montgomery Village) is located to the south, within 75 feet of the site. The complex houses about 560 residents. Some single-family homes are also located nearby. The apartment complex includes recreational and playground areas and a daycare facility. Undeveloped property is located west of the site. Additional single-family homes are located to the east of the site and commercial and industrial properties are located to the north. The site is fenced and graded.
+
+A series of fertilizer and agricultural chemical companies operated at the site from the 1920s to the 1960s. Smokey Mountain Smelters, also known as Rotary Furnace, Inc., operated at the site from 1979 to 1994. The facility was a secondary aluminum smelting operation. The process involved the melting of scrap aluminum and aluminum dross, a smelting waste byproduct, and casting the molten aluminum metal bars. Raw materials at the facility primarily consisted of scrap aluminum and aluminum dross. Waste material from the operation was primarily saltcake, a residue with high salt and low metal content from dross smelting. Other waste materials included baghouse dust and discarded aluminum dross.
+
+EPA placed the site on the Superfund program’s [National Priorities List (NPL)](http://www.epa.gov/superfund/superfund-glossary#n) in 2010 because of contaminated soils, sediment and surface water resulting from past industrial operations at the site.
+
+EPA and the [Tennessee Department of Environment and Conservation (TDEC)](https://www.tn.gov/content/tn/environment.html) have investigated site conditions and taken steps to clean up the site in order to protect people and the environment from contamination.
+
+### What Has Been Done to Clean Up the Site?
+
+EPA leads site investigation and cleanup activities in cooperation with the [Tennessee Department of Environment and Conservation](https://www.tn.gov/content/tn/environment.html) (TDEC).
+
+**1983**  
+The State of Tennessee’s Division of Solid Waste Management issued a notice to Smokey Mountain Smelters after concluding that the site was “unsuitable for use as an industrial landfill.” However, landfilling continued to occur on site for several years. In addition, the Knox County Department for Air Pollution Control documented numerous citizen complaints regarding excessive air emissions from the site and cited Smokey Mountain Smelters for several air quality violations in the 1980s.
+
+EPA and TDEC executed a removal action removing materials and capping landfill materials in place with an interim cap.
+
+EPA has taken short-term cleanup actions to stop immediate threats. These actions include repairing the fence, removing a portion of the on-site waste, capping the remaining on-site waste piles with one foot of compacted clay and six inches of topsoil, and planting the capped areas with grass.
+
+**2008 – 2011**  
+In 2008, EPA repaired the fence surrounding the site.
+
+In 2010, EPA demolished vacant on-site buildings.
+
+In 2011, EPA removed a portion of on-site waste and capped the rest.
+
+**2015**  
+EPA issued a cleanup plan (a [Record of Decision, or ROD](https://semspub.epa.gov/src/document/04/11014918) ) in 2015 to address all remaining contamination.
+
+**2018**  
+EPA completed a [remedial design](http://semspub.epa.gov/work/04/11103477.pdf) in April 2018 and is now negotiating with Site responsible parties to conduct the cleanup.
+
+**2022**  
+The potentially responsible parties investigation and negotiations by the Department of Justice have been completed, and the Smokey Mountain Smelters is a Fund Lead site, meaning that the funds required for cleanup come from the federal government through EPA. The [Record of Decision](http://semspub.epa.gov/src/document/04/11014918) and the [Remedial Design](https://semspub.epa.gov/work/04/11103477.pdf) have been completed. Cleanup activities will begin once funding is available.
+
+**2023**  
+Bipartisan Infrastructure Law funding allowed for cleanup of the Site, which was conducted in phases:
+
+- Phase 1: Consolidation. Soil was consolidated from two waste piles into one waste pile.
+- Phase 2: Cap Construction and Site Restoration. An engineered cap was constructed atop the consolidated waste pile. The purpose of the cap is to prevent storm water from contacting waste under the cap, prohibiting migration of the contaminants to ground and/or surface waters.
+- Phase 3: Onsite Groundwater Injections. A fungicide was injected into the groundwater at identified locations. This process uses bacteria to reduce contaminants and immobilize metals.
+
+**2024**
+
+After some of the vegetation atop the capped area had died during the Fall/Winter drought of 2023, additional topsoil was added to repair minor areas of erosion and was then reseeded to ensure the capped area is fully established with vegetation. The capped area is now fully covered in vegetation.
+
+### What Is the Current Site Status?
+
+The final walk-through/Site inspection was completed in August 2023. The details about the remedy selected for the Site are on the Cleanup Activities tab. Cleanup and associated activities were conducted from February - September 2023.
+
+The [Record of Decision](https://semspub.epa.gov/src/document/04/11014918) and the [Remedial Design](https://semspub.epa.gov/work/04/11103477.pdf) were completed prior to the RA start.
+
+A public meeting to discuss the RA for the site was held February 13, 2023, at the South Knoxville Community Center in Knoxville, TN.
+
+There have been several fact sheets in 2023 to update the community:
+
+- [February 2023 Remedial Action Fact Sheet](http://semspub.epa.gov/work/04/11175235.pdf)
+- [March 2023 Community Update](https://semspub.epa.gov/work/04/11185250.pdf)
+- [April 2023 Community Update](http://semspub.epa.gov/work/04/11188801.pdf)
+- [May 2023 Community Update](http://semspub.epa.gov/work/04/11185530.pdf)
+- [August 2023 Community Update](https://semspub.epa.gov/work/04/11189351.pdf)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+The site is fenced and graded.
+
+### Sampling and Monitoring
+
+Groundwater sampling is proposed for February 2025. Results will be used to determine the effectiveness of the 2023 groundwater treatments as well gauging the extent and any remaining contamination in the groundwater.
+
+### Enforcement Information
+
+[Enforcing environmental laws](https://www.epa.gov/enforcement) is a central part of EPA’s mission to protect human health and the environment. When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws.

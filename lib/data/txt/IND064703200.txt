@@ -1,33 +1,33 @@
-LAKELAND DISPOSAL SERVICE, INC.CLAYPOOL, IN 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
-Enforcement Information
- On related pages:
-Operable Units
-Cleanup Progress
-Background
+### Background
+
 The 39-acre Lakeland Disposal Service, Inc. site is located near Claypool in Kosciusko County, Indiana. Lakeland Disposal Service operated the landfill. Beginning in 1974, general refuse and hazardous wastes, including cyanide and sludges containing paint, hydroxides of aluminum and heavy metals, were disposed of at the site. In 1978, Kosciusko County Circuit Court ordered the landfill closed due to improper operations. Following cleanup, operation and maintenance activities are ongoing.
-Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal, state and potentially responsible party (PRP) actions.EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires ongoing operation and maintenance activities.
-Top of Page
-What Is the Current Site Status?
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal, state and potentially responsible party (PRP) actions.
+
+EPA has conducted several five-year reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires ongoing operation and maintenance activities.  
+
+### What Is the Current Site Status?
+
 The site’s long-term remedy includes fencing and security to prevent unauthorized access, deed restrictions, removal and proper disposal of buried waste in a "hot spot" area, a landfill cap and gas collection system, a subsurface slurry wall to prevent groundwater migration from the site, groundwater treatment and monitoring, and a wetlands assessment. EPA updated the remedy in 1998 to specify the use of low temperature thermal desorption to treat the "hot spot" area. Remedy construction finished in 2004. Operation and maintenance activities are ongoing.
-Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-Wastes disposed at the site included at least 18,000 drums of paint sludge, 8,900 tons of plating sludge, and two million gallons of plating sludge containing various hydroxide sludges of aluminum, cadmium, chromium, copper, lead, nickel, tin, selenium, and zinc.  Drummed wastes include VOCs and SVOCs.  Additionally, VOCs and metals were found at levels exceeding primary drinking water standards.  On-site soils are contaminated with heavy metals. 
-Top of Page
-Sampling and Monitoring
-The monitoring data is included in the two five year reviews and documents in the AR. The landfill cap includes passive gas vents.  The monitoring data is included in the two five year reviews and documents in the AR.
-Top of Page
-Enforcement Information
-In 1989, PRPs signed a consent order with EPA and conducted the investigation of site contamination and evaluation of cleanup alternatives.  In 1994, EPA issued a UAO to the PRPs to design and implement the selected cleanup remedy. 
-Top of Page
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Wastes disposed at the site included at least 18,000 drums of paint sludge, 8,900 tons of plating sludge, and two million gallons of plating sludge containing various hydroxide sludges of aluminum, cadmium, chromium, copper, lead, nickel, tin, selenium, and zinc. Drummed wastes include VOCs and SVOCs. Additionally, VOCs and metals were found at levels exceeding primary drinking water standards. On-site soils are contaminated with heavy metals.
+
+### Sampling and Monitoring
+
+The monitoring data is included in the two five year reviews and documents in the AR.
+
+The landfill cap includes passive gas vents.
+
+The monitoring data is included in the two five year reviews and documents in the AR.
+
+### Enforcement Information
+
+In 1989, PRPs signed a consent order with EPA and conducted the investigation of site contamination and evaluation of cleanup alternatives. In 1994, EPA issued a UAO to the PRPs to design and implement the selected cleanup remedy.

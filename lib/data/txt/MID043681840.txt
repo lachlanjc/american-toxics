@@ -1,2 +1,43 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Kysor Industrial Corporation site is in Cadillac, Michigan. Kysor Industrial Corporation, an active automotive parts manufacturing plant, began operations in 1959. The Kysor site is located in the Cadillac Industrial Park, which contains the Kysor Corporation facility and several other facilities that contributed to six commingled [groundwater](https://www.epa.gov/superfund/superfund-groundwater-introduction) contaminant plumes containing [volatile organic compounds (VOCs)](https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds) found under the site. The Kysor site has long been closely associated with the adjacent [Northernaire Plating Superfund site](http://www.epa.gov/superfund/northernaire-plating) because the Northernaire facility contaminated groundwater with [hexavalent chromium](https://www3.epa.gov/region1/eco/uep/chromium6.html) and that plume is commingling with the others at the Kysor site. Past waste disposal practices [contaminated](https://www.epa.gov/superfund/superfund-groundwater-introduction#how) the ground and groundwater beneath the site. Affected groundwater has migrated northward to a residential area in Haring Township. EPA placed the Kysor site on the [National Priorities List (NPL)](https://www.epa.gov/superfund/about-superfund-cleanup-process#tab-2) in October 1989.
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal and state actions. [Several site cleanup milestones have already been achieved.](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.schedule&id=0502480#Milestone)
+
+The site’s long-term remedy included [groundwater extraction and treatment](https://www.epa.gov/superfund/how-superfund-addresses-groundwater-contamination), [soil vapor extraction (SVE)](https://clu-in.org/techfocus/default.focus/sec/Soil_Vapor_Extraction/cat/Overview/), soil removal at another property in the industrial park, and [institutional controls](https://www.epa.gov/superfund/superfund-institutional-controls) that must be maintained, monitored and enforced.. All construction and soil removal work were finished by September 1996. The SVE was shut down in 2010. [Operations and maintenance](https://www.epa.gov/superfund/superfund-operation-and-maintenance-and-long-term-response-actions) activities are ongoing for the groundwater remediation system.
+
+EPA has conducted several [five-year reviews](https://www.epa.gov/superfund/superfund-five-year-reviews) of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The most recent review concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. Continued protectiveness of the remedy requires achievement of groundwater cleanup goals. Under the recommendations of the last five-year review, the City of Cadillac adopted a new local ordinance in September 2018, to strengthen its existing restrictions on groundwater use as well as enforcement. The Haring Township groundwater use restrictions have also been strengthened since the last five-year review. EPA recommended several actions in order for the remedy to be protective in the long term.
+
+More information:
+
+[Pump and Treat (pdf)](https://semspub.epa.gov/src/document/HQ/401617) (779 K, [About PDF](https://www.epa.gov/home/pdf-files) ) (EPA-542-F-21-021)
+
+[Fifth Five-Year Review Report - Kysor Industrial Inc - 2020](https://semspub.epa.gov/src/document/05/960573) (19.01 MB)
+
+[A Citizen's Guide to Soil Vapor Extraction and Air Sparging (pdf)](https://clu-in.org/download/Citizens/a_citizens_guide_to_soil_vapor_extraction_and_air_sparging.pdf) (EPA 542-F-12-018) (1.63MB, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+[Citizen's Guide to Excavation of Contaminated Soil (pdf)](https://clu-in.org/download/Citizens/a_citizens_guide_to_excavation_of_contaminated_soil.pdf) (EPA 542-F-12-007) (655 K, [About PDF](https://www.epa.gov/home/pdf-files) )
+
+### What Is the Current Site Status?
+
+EPA conducted a five-year review of the Kysor Industrial Corp. Superfund site in 2020. The next five-year review report for the site is planned for 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+See the Institutional Controls section of the [Fifth Five-Year Review Report - Kysor Industrial Inc - 2020](https://semspub.epa.gov/src/document/05/960573) for a summary of the site’s planned and/or implemented institutional controls (ICs).
+
+### Sampling and Monitoring
+
+As part of the [operations and maintenance](https://www.epa.gov/superfund/superfund-operation-and-maintenance-and-long-term-response-actions) plan, the city of Cadillac monitors its municipal wells annually for regulated contaminants required under the [Safe Drinking Water Act](https://www.epa.gov/sdwa). The city monitors the older industrial park municipal wells on a quarterly basis for VOCs. The city has not detected any VOCs aside from the historical low-level detections in its CW-7 well.
+
+In order to track the comingled VOC contaminant plumes, the city monitors 21 shallow and 21 intermediate monitoring and extraction wells each year for VOCs. The shallow wells are screened between 35 and 70 feet below ground level (bgl) and intermediate wells are screened between 120 to 200 feet bgl. Since the last five-year review, VOC levels have been declining in the wells.
+
+### Enforcement Information
+
+Decision documents and legal settlements are available in the [Administrative Record Collection](https://semspub.epa.gov/src/collection/05/AR4901).

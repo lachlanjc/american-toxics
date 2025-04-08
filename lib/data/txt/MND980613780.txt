@@ -1,2 +1,24 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The University of Minnesota Rosemount Research Center (UMRRC) site is located in Rosemount, Minnesota. UMRRC is an agricultural research station. The site includes groundwater contamination related to a former burn pit area operated by the university. The site also includes contaminated soils related to three disposal areas resulting from activities of three tenants, including George's Used Equipment, Porter Electric and Machine Company, and U.S. Transformer. These areas are located within a larger area known as UMore Park. Following cleanup, operation and maintenance activities are ongoing.
+
+### What Has Been Done to Clean Up the Site?
+
+The site was addressed by the University of Minnesota under state oversight. The site is part of EPA's Enforcement Deferral Pilot Agreement with the Minnesota Pollution Control Agency (MPCA). MPCA continues to be the lead agency for the site as well as the lead agency for investigation and future cleanup of other areas of the UMRRC, including the area known as UMore Park.
+
+  
+The site’s long-term remedy included groundwater extraction and treatment, off-site disposal of some contaminated soil, and on-site treatment of additional contaminated soil. The university also voluntarily chose to extend the public water supply to 27 residences. Construction of the remedy finished in 1996. Operation and maintenance activities are ongoing.
+
+### What Is the Current Site Status?
+
+EPA has completed the sixth five-year review of the site. The Superfund law requires regular checkups of sites that have been cleaned up – with waste managed on-site – to make sure the cleanup continues to protect people and the environment.
+
+[Sixth Five Year Review Report (Signed) - University Of Minnesota Rosemount Research Center - 2022 (pdf)](https://semspub.epa.gov/src/document/05/976163) (34 pp, 754.59 KB)
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+Soils were contaminated with polychlorinated biphenyls (PCBs), lead, and copper. Groundwater was contaminated with volatile organic compounds (VOCs), primarily chloroform.

@@ -1,2 +1,19 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Milltown Reservoir Sediments site is located in Milltown, Montana. The site is part of a larger Superfund site, known as the Milltown Reservoir Sediments/Clark Fork River site. The site includes about 120 miles of the Clark Fork River upstream of the Milltown Dam and Reservoir. The Milltown Dam and Reservoir are located at the confluence of the Clark Fork and Blackfoot Rivers, a few miles upstream of Missoula. From the 1860s until well into the twentieth century, mineral- and arsenic-laden waste from mining activities in the region flowed into the headwaters of the Clark Fork River. As contaminated sediments and mine-mill wastes moved downstream, about 6.6 million cubic yards of these sediments accumulated behind the Milltown Dam over time. These mining activities and the downstream transport of mining-related wastes contaminated sediment, surface water and groundwater with heavy metals. Much of the site has been cleaned up, and remedy construction is underway to address remaining contamination.  
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through state, federal and potentially responsible party (PRP) actions.
+
+EPA has completed the third five-year review of the site’s remedy. Five-year reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. The 2021 five year review found that the remedy at OU2 is currently protective of human health and the environment, and OU3 is expected to be protective of human health and the environment upon completion of the remedial action. For OU3, exposure pathways that could result in unacceptable risks are being controlled in the interim.
+
+- [Third five-year review report for Milltown Reservoir Sediments Site (pdf)](https://semspub.epa.gov/src/document/08/100010818) (160 pp, 24 MB, [About PDF](http://www.epa.gov/home/pdf-files) )
+
+Continued protectiveness of the remedy requires identification and documentation of long-term institutional controls; finalization of a long-term operation and maintenance plan to address management of contaminated sediment and long-term surface water and groundwater monitoring; and collection of additional groundwater data to provide information on whether contaminants of concern other than arsenic are meeting or will meet cleanup goals.
+
+### What Is the Current Site Status?
+
+The site is managed in operable units (OUs). The former OU1 (the Milltown Drinking Water Supply OU) is now a part of OU2; OU2 is the Milltown Reservoir Sediments OU and includes the area encompassed by the former Milltown dam and reservoir. OU3 is the Clark Fork River area upstream of OU2 and downstream of the Silver Bow Creek/Butte Area and Anaconda Smelter site. The Montana Department of Environmental Quality is the lead agency for the Clark Fork River Operable Unit also known as CFROU or Operable Unit 3. For site updates on the CFROU, visit [Montana DEQ's Clark Fork River Operable Unit page](https://deq.mt.gov/cleanupandrec/Programs/superfundfed)
+
+The site’s long-term remedy includes construction of a bypass channel at the reservoir; removal of contaminated reservoir sediment; off-site disposal and use of contaminated sediment as vegetative cap material; removal of the Milltown Dam; continuation of a replacement water supply program and implementation of temporary groundwater controls until the Milltown aquifer recovers; and long-term monitoring of surface water and groundwater. Remedy construction began in 2006 and is ongoing.

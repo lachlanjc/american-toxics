@@ -1,27 +1,39 @@
-Cleanup Activities 
-Sign up for this Superfund site’s mailing list
- On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
-Activity and Use Limitations
-Sampling and Monitoring
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-The Shaw Avenue Dump site is located on the southeastern edge of Charles City, Iowa, east of the Cedar River, near the intersection of Shaw Avenue and Clark Avenue. The site is owned by the city of Charles City and occupies approximately 24 acres, which is within or near the area of the 100-year floodplain of the Cedar River.   Prior to 1949, the site was used as a landfill/dump for an unknown amount of time and continued to be used as such through 1964. From 1949 to 1953, a veterinary pharmaceuticals company disposed of an estimated 14,000 to 28,000 cubic feet of arsenic-contaminated solid waste in two areas in the northern half of the site and an estimated 10,000 tons of sludges between 1949 and 1964 in the northern waste cells and also in an undefined area of the southern portion of the site. Characterization of the disposal cells containing wastes indicated the presence of significant concentrations of arsenic, cadmium, chromium, lead and volatile and semi-volatile organic compounds (VOCs and SVOCs). Following cleanup, operation and maintenance activities and monitoring are ongoing with the responsible parties.  Top of Page
-What Has Been Done to Clean Up the Site?
-Salsbury Laboratories, Inc., a producer of veterinary pharmaceuticals, disposed of waste sludges directly at the site from 1949 to 1953. Salsbury Laboratories also discharged waste to the municipal wastewater treatment plant which subsequently disposed of its sludge at the site through 1964. Salsbury Laboratory waste contained high concentrations of arsenic and organic compounds including nitrophenol, 2-nitroaniline, nitrobenzene, and 1,1,2-trichloroethane. The site was identified as a potential hazardous waste site by the Iowa Department of Environmental Quality in 1977 and was placed on the National Priorities List in July 1987. The EPA, in consultation with the Iowa Department of Natural Resources, issued an Operable Unit 1 (OU1) Record of Decision in September 1991 that presented the remedy of in-situ fixation/stabilization of soil and chemical fill containing greater than 50 parts per million (ppm) arsenic or 20 ppm cadmium, installation of a low permeability cap, groundwater monitoring and institutional controls. The EPA issued an Explanation of Significant Differences in March 1992 which modified the remedy to excavation and off-site disposal of the chemical fill and contaminated soil. In 1992, the EPA entered into a Consent Decree with the city of Charles City, Iowa and Solvay Animal Health, Inc. (the successor to Salsbury Laboratories, Inc.) which required the remedy be implemented. Remedial action field work was completed on May 15, 1992. An estimated total 2,220 cubic yards of chemical fill and contaminated soil was excavated and disposed off-site. The EPA issued an OU2 ROD in September 2000 which selected no further action for groundwater but stipulated that groundwater monitoring and institutional controls required by the 1992 Consent Decree were to be continued. The intent of the groundwater monitoring is to allow for an evaluation of the effectiveness of the contaminated soil and chemical fill Remedial Action in preventing or reducing the leaching of contaminants to groundwater, as well as to assess the need for additional Remedial Actions at the site. 
-The EPA Preliminary Close Out Report, documenting construction completion for the site, was signed on March 30, 2001. The PCOR states that all physical construction associated with the remedy has been completed in accordance with the RODs dated September 28, 2000, and September 26, 1991, the ESD dated March 20, 1992, and the Consent Decree dated May 26, 1992. Additionally, in 2001 IDNR reclassified the site on its registry of confirmed abandoned or uncontrolled disposal sites as a class “d” site which is a site that has been properly closed but requires continued management. The EPA completed a partial deletion of OU1 in August 2019.
-Top of Page
-What Is the Current Site Status?
-The site is being addressed through federal, state and responsible party actions. Groundwater monitoring and site maintenance are the remaining actions being conducted at the site.  The EPA has conducted five Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The 2020 Five-Year Review concluded that response actions at the site are in accordance with the remedy selected by ﻿the EPA and are protective of human health and the environment. The next Five-Year Review is planned for 2025. Top of Page
-Activity and Use Limitations
-At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use.
-They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
- For more background, see Institutional Controls.
-A Declaration of Restrictive Covenants and Easements (dated February 21, 2001) is associated with the site and documentation of the restrictions and easements are filed with the Floyd County Recorder. Restrictions on use and access easements: The following covenants, conditions and restrictions apply to the use of the property, run with the land and are binding on the grantors, their successors, transferees and assigns for the benefit of the grantee and its successors, transferees and assigns: a. Unless approved in writing by the EPA or its assigns pursuant to Paragraph 10, the construction, installation, maintenance or use of any wells on the property for the purposes of extracting water for human drinking, bathing or swimming purposes or for the irrigation of food or feed crops as well as any construction or intrusive activities on this property is prohibited; and b. Unless approved in writing by the EPA or its assigns pursuant to Paragraph 10 herein, a perpetual and permanent easement to enter upon the property is granted and conveyed for the purpose of conducting tests, performing remedial measures and performing operation and maintenance activities. Top of Page
-Sampling and Monitoring
-Groundwater monitoring and site maintenance are the remaining actions being conducted at the site. 
-Top of Page
+### Background
+
+The Shaw Avenue Dump site is located on the southeastern edge of Charles City, Iowa, east of the Cedar River, near the intersection of Shaw Avenue and Clark Avenue. The site is owned by the city of Charles City and occupies approximately 24 acres, which is within or near the area of the 100-year floodplain of the Cedar River.
+
+Prior to 1949, the site was used as a landfill/dump for an unknown amount of time and continued to be used as such through 1964. From 1949 to 1953, a veterinary pharmaceuticals company disposed of an estimated 14,000 to 28,000 cubic feet of arsenic-contaminated solid waste in two areas in the northern half of the site and an estimated 10,000 tons of sludges between 1949 and 1964 in the northern waste cells and also in an undefined area of the southern portion of the site. Characterization of the disposal cells containing wastes indicated the presence of significant concentrations of arsenic, cadmium, chromium, lead and volatile and semi-volatile organic compounds (VOCs and SVOCs). Following cleanup, operation and maintenance activities and monitoring are ongoing with the responsible parties.
+
+### What Has Been Done to Clean Up the Site?
+
+Salsbury Laboratories, Inc., a producer of veterinary pharmaceuticals, disposed of waste sludges directly at the site from 1949 to 1953. Salsbury Laboratories also discharged waste to the municipal wastewater treatment plant which subsequently disposed of its sludge at the site through 1964. Salsbury Laboratory waste contained high concentrations of arsenic and organic compounds including nitrophenol, 2-nitroaniline, nitrobenzene, and 1,1,2-trichloroethane. The site was identified as a potential hazardous waste site by the Iowa Department of Environmental Quality in 1977 and was placed on the National Priorities List in July 1987.
+
+The EPA, in consultation with the Iowa Department of Natural Resources, issued an Operable Unit 1 (OU1) Record of Decision in September 1991 that presented the remedy of in-situ fixation/stabilization of soil and chemical fill containing greater than 50 parts per million (ppm) arsenic or 20 ppm cadmium, installation of a low permeability cap, groundwater monitoring and institutional controls. The EPA issued an Explanation of Significant Differences in March 1992 which modified the remedy to excavation and off-site disposal of the chemical fill and contaminated soil. In 1992, the EPA entered into a Consent Decree with the city of Charles City, Iowa and Solvay Animal Health, Inc. (the successor to Salsbury Laboratories, Inc.) which required the remedy be implemented. Remedial action field work was completed on May 15, 1992. An estimated total 2,220 cubic yards of chemical fill and contaminated soil was excavated and disposed off-site.
+
+The EPA issued an OU2 ROD in September 2000 which selected no further action for groundwater but stipulated that groundwater monitoring and institutional controls required by the 1992 Consent Decree were to be continued. The intent of the groundwater monitoring is to allow for an evaluation of the effectiveness of the contaminated soil and chemical fill Remedial Action in preventing or reducing the leaching of contaminants to groundwater, as well as to assess the need for additional Remedial Actions at the site.
+
+The EPA Preliminary Close Out Report, documenting construction completion for the site, was signed on March 30, 2001. The PCOR states that all physical construction associated with the remedy has been completed in accordance with the RODs dated September 28, 2000, and September 26, 1991, the ESD dated March 20, 1992, and the Consent Decree dated May 26, 1992. Additionally, in 2001 IDNR reclassified the site on its registry of confirmed abandoned or uncontrolled disposal sites as a class “d” site which is a site that has been properly closed but requires continued management. The EPA completed a partial deletion of OU1 in August 2019.
+
+### What Is the Current Site Status?
+
+The site is being addressed through federal, state and responsible party actions. Groundwater monitoring and site maintenance are the remaining actions being conducted at the site.
+
+The EPA has conducted five Five-Year Reviews of the site’s remedy. These reviews ensure that the remedies put in place protect public health and the environment and function as intended by site decision documents. The 2020 Five-Year Review concluded that response actions at the site are in accordance with the remedy selected by the EPA and are protective of human health and the environment. The next Five-Year Review is planned for 2025.
+
+### Activity and Use Limitations
+
+At this site, activity and use limitations that EPA calls institutional controls are in place. Institutional controls play an important role in site remedies because they reduce exposure to contamination by limiting land or resource use. They also guide human behavior. For instance, zoning restrictions prevent land uses – such as residential uses – that are not consistent with the level of cleanup.
+
+For more background, see [Institutional Controls](https://www.epa.gov/superfund/superfund-institutional-controls).
+
+A Declaration of Restrictive Covenants and Easements (dated February 21, 2001) is associated with the site and documentation of the restrictions and easements are filed with the Floyd County Recorder.
+
+Restrictions on use and access easements: The following covenants, conditions and restrictions apply to the use of the property, run with the land and are binding on the grantors, their successors, transferees and assigns for the benefit of the grantee and its successors, transferees and assigns:
+
+a. Unless approved in writing by the EPA or its assigns pursuant to Paragraph 10, the construction, installation, maintenance or use of any wells on the property for the purposes of extracting water for human drinking, bathing or swimming purposes or for the irrigation of food or feed crops as well as any construction or intrusive activities on this property is prohibited; and
+
+b. Unless approved in writing by the EPA or its assigns pursuant to Paragraph 10 herein, a perpetual and permanent easement to enter upon the property is granted and conveyed for the purpose of conducting tests, performing remedial measures and performing operation and maintenance activities.
+
+### Sampling and Monitoring
+
+Groundwater monitoring and site maintenance are the remaining actions being conducted at the site.

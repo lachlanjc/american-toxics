@@ -1,17 +1,31 @@
-CEDAR CHEMICAL CORPORATIONWEST HELENA, AR 
-  Cleanup Activities 
-On this page:
-Background
-What Has Been Done to Clean Up the Site?
-What Is the Current Site Status?
- On related pages:
-Operable Units
-Cleanup Progress
-Background
-Background The 48-acre Cedar Chemical Corporation site is located in West Helena, Arkansas. The site is within Helena-West Helena Industrial Park and includes six former production units, support facilities and an office. Operations began at the site in 1970 and included dinoseb production. From 1971 to 2002, manufacturing of agricultural and organic chemicals under various owners and operators took place. Operations contaminated soil, sediment, surface water and groundwater. EPA is working to identify potentially responsible parties (PRPs) for the site. Site investigations are ongoing. Current Status In March of 2016, Environmental Protection Agency (EPA) entered into an Administrative Order on Consent (AOC) with Potentially Responsible Parties (PRPs) to conduct a Remedial Investigation / Feasibility Study (RI/FS).  EPA is in the process of conducting an initial round of surface water, groundwater, sediment, and soil sampling in early February 2017 to gather current information to update a 2008 conceptual site model (CSM) for the site.  Creating an accurate CSM for the site is a first step in understanding the nature and extent of contamination for the site.  Once EPA has a thorough understanding of all contaminates  a detailed analysis will be conducted to best prepare a plan for remediating the site. Review of preliminary data results from the February 2017 sampling event has resulted in the need to collect additional ground water monitoring data to the South and South East of the site.  EPA along with Arkansas Department of Environmental Quality are working closely with the PRPs to full characterize the nature and extent of contamination. As of 2020, the Remedial Investigation is ongoing to determine the extent of groundwater contamination beneath the surrounding agricultural property. The primary contaminant in the off-site groundwater is 1,2-dichlorethane (1,2-DCA). The main concern in the groundwater investigation is the migration pathway of the plume from the former facility propertyto off-site areas. The site activities that contribute to the understanding of plume movement are the installation of groundwater monitoring wells. The objective of new groundwater monitoring wells will be to provide data on contaminant concentrations and water level data in the aquifer. When the new wells are installed a better understanding of the plume migration can be presented. These new monitoring wells will be installed in the Spring/Summer of 2020. In the future, the EPA will document in a Record of Decision (ROD) the cleanup strategy selected to address the site contamination present in all media National Priorities Listing (NPL) History
-NPL Proposal Date: April 13, 2012
-NPL Final Date: September 14, 2012 Top of Page
-What Has Been Done to Clean Up the Site?
-The site is being addressed through federal actions. The long-term remedy will address any unacceptable risks posed by contamination and eliminate any unacceptable threat to people and the environment. Cedar Chemical Corporation last owned the site. In 2002, Cedar Chemical Corporation filed for bankruptcy and manufacturing and plant operations shut down. The Arkansas Department of Environmental Quality (ADEQ) assumed control of the facility in 2002. Top of Page
-What Is the Current Site Status?
-Investigations have identified contaminants in soil, sediment, surface water and groundwater. As of 2020, the Remedial Investigation is ongoing to determine the extent of groundwater contamination beneath the surrounding agricultural property. In the future, the EPA will document in a Record of Decision (ROD) the cleanup strategy  selected to address the site contamination present in all media. Top of Page
+### Background
+
+**Background**
+
+The 48-acre Cedar Chemical Corporation site is located in West Helena, Arkansas. The site is within Helena-West Helena Industrial Park and includes six former production units, support facilities and an office. Operations began at the site in 1970 and included dinoseb production. From 1971 to 2002, manufacturing of agricultural and organic chemicals under various owners and operators took place. Operations contaminated soil, sediment, surface water and groundwater. EPA is working to identify potentially responsible parties (PRPs) for the site. Site investigations are ongoing.
+
+**Current Status**
+
+In March of 2016, Environmental Protection Agency (EPA) entered into an Administrative Order on Consent (AOC) with Potentially Responsible Parties (PRPs) to conduct a Remedial Investigation / Feasibility Study (RI/FS). EPA is in the process of conducting an initial round of surface water, groundwater, sediment, and soil sampling in early February 2017 to gather current information to update a 2008 conceptual site model (CSM) for the site. Creating an accurate CSM for the site is a first step in understanding the nature and extent of contamination for the site. Once EPA has a thorough understanding of all contaminates a detailed analysis will be conducted to best prepare a plan for remediating the site.
+
+Review of preliminary data results from the February 2017 sampling event has resulted in the need to collect additional ground water monitoring data to the South and South East of the site. EPA along with Arkansas Department of Environmental Quality are working closely with the PRPs to full characterize the nature and extent of contamination.
+
+As of 2020, the Remedial Investigation is ongoing to determine the extent of groundwater contamination beneath the surrounding agricultural property. The primary contaminant in the off-site groundwater is 1,2-dichlorethane (1,2-DCA). The main concern in the groundwater investigation is the migration pathway of the plume from the former facility propertyto off-site areas.
+
+The site activities that contribute to the understanding of plume movement are the installation of groundwater monitoring wells. The objective of new groundwater monitoring wells will be to provide data on contaminant concentrations and water level data in the aquifer. When the new wells are installed a better understanding of the plume migration can be presented. These new monitoring wells will be installed in the Spring/Summer of 2020.
+
+In the future, the EPA will document in a Record of Decision (ROD) the cleanup strategy selected to address the site contamination present in all media
+
+**National Priorities Listing (NPL) History**  
+NPL Proposal Date: April 13, 2012  
+NPL Final Date: September 14, 2012
+
+### What Has Been Done to Clean Up the Site?
+
+The site is being addressed through federal actions. The long-term remedy will address any unacceptable risks posed by contamination and eliminate any unacceptable threat to people and the environment.
+
+Cedar Chemical Corporation last owned the site. In 2002, Cedar Chemical Corporation filed for bankruptcy and manufacturing and plant operations shut down. The Arkansas Department of Environmental Quality (ADEQ) assumed control of the facility in 2002.
+
+### What Is the Current Site Status?
+
+Investigations have identified contaminants in soil, sediment, surface water and groundwater. As of 2020, the Remedial Investigation is ongoing to determine the extent of groundwater contamination beneath the surrounding agricultural property. In the future, the EPA will document in a Record of Decision (ROD) the cleanup strategy selected to address the site contamination present in all media.
