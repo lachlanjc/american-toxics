@@ -14,6 +14,7 @@ for (const site of jsonObj) {
   site.stateCode = states.find(
     (state) => state.name === site.stateName,
   )?.abbrev;
+  delete site.state;
 }
 
 Bun.write("./lib/data/sites.json", JSON.stringify(jsonObj));

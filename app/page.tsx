@@ -1,22 +1,15 @@
 "use client";
 
-import {
-  PropsWithChildren,
-  startTransition,
-  useEffect,
-  useRef,
-  useState,
-  useTransition,
-} from "react";
+import { PropsWithChildren, useEffect, useRef, useState } from "react";
 import { Drawer } from "vaul";
 import { SiteCard } from "@/app/sites/[site]/site";
+import { Search } from "@/app/sites/search";
 import SITES from "@/lib/data/sites.json" assert { type: "json" };
 import { hasPlainSiteImage, Site } from "@/lib/data/site";
 
 import "mapbox-gl/dist/mapbox-gl.css";
 
 import Map, { MapRef, Marker } from "react-map-gl/mapbox";
-import { useFuse } from "@/lib/util/use-fuse";
 
 const MAPBOX_TOKEN =
   "pk.eyJ1IjoiaGFja2NsdWIiLCJhIjoiY2pscGI1eGdhMGRyNzN3bnZvbGY5NDBvZSJ9.Zm4Zduj94TrgU8h890M7gA";
@@ -50,48 +43,6 @@ const initialViewState = {
   bearing: 0,
   pitch: 20,
 };
-
-const searchOptions = {
-  keys: ["name", "state", "city", "county"],
-};
-
-function Search({ onSelect }: { onSelect: (site: Site) => void }) {
-  const { results, handleSearch, query, isPending } = useFuse({
-    data: SITES,
-    options: searchOptions,
-  });
-
-  return (
-    <section>
-      <search className="w-full action-button my-4">
-        <input
-          type="search"
-          className="p-2 w-full outline-0"
-          value={query}
-          placeholder="Search by county, city, state, or site name"
-          onChange={handleSearch}
-        />
-      </search>
-      {results.length > 0 && (
-        <ul className={`${isPending ? "opacity-50" : ""} transition-opacity`}>
-          {results.map((result) => (
-            <li key={result.id}>
-              <button
-                className="border-b border-zinc-300 last:border-b-0 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer w-full"
-                onClick={() => onSelect(result)}
-              >
-                {result.name}
-                <small className="text-zinc-500 block mt-1">
-                  {result.city}, {result.state}
-                </small>
-              </button>
-            </li>
-          ))}
-        </ul>
-      )}
-    </section>
-  );
-}
 
 export default function Page() {
   const mapRef = useRef<MapRef | null>(null);
@@ -172,7 +123,7 @@ export default function Page() {
           </>
         ) : (
           <>
-            <Search onSelect={setActiveSite} />
+            <Search sites={SITES} onSelect={setActiveSite} />
           </>
         )}
       </MainCard>

@@ -1,7 +1,8 @@
+"use client";
 import { useEffect } from "react";
 import { useChat } from "@ai-sdk/react";
 import { type Site } from "@/lib/data/site";
-import { SP } from "next/dist/shared/lib/utils";
+import Link from "next/link";
 
 const questions = [
   "What caused contamination here?",
@@ -31,7 +32,9 @@ export function SiteCard({ site }: { site: Site }) {
     <>
       <header>
         <p className="opacity-70">
-          {site.city}, {site.state} ({site.county} County)
+          {site.city},{" "}
+          <Link href={`/states/${site.stateCode}`}>{site.stateCode}</Link> (
+          {site.county} County)
         </p>
       </header>
       {messages.map((message) => (
