@@ -69,6 +69,9 @@ export async function Nearby({ site }: { site: Site }) {
   );
   // console.log(url, mapbox.features);
   const nearbySites = getNearbySites(site);
+  if (nearbyFeatures.length === 0 && nearbySites.length === 0) {
+    return null;
+  }
 
   return (
     <WellRoot className="mt-4">
