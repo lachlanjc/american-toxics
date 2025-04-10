@@ -1,10 +1,12 @@
 import { SiteList } from "@/app/(map)/sites/list";
+import STATES from "@/lib/data/states.json" assert { type: "json" };
 import { allSites } from "@/lib/data/api";
 import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
 // import { MapZoom } from "../../zoom";
 import { nplStatuses } from "@/lib/data/site";
 import { notFound } from "next/navigation";
 import { Count } from "@/lib/ui/count";
+import { Heading } from "@/lib/ui/typography";
 
 export async function generateStaticParams() {
   return Object.keys(nplStatuses).map((status) => ({ status }));
@@ -50,7 +52,20 @@ export default async function Page({
           {status.label} <Count value={sites.length} />
         </HeaderTitle>
       </HeaderRoot>
-      <SiteList sites={sites} className="-mt-2" />
+      {STATES.map((state) => {
+        const sectionSites = sites
+          .filter((site) => site.stateCode === state.abbrev)
+          .sort((a, b) => {
+            return a.name.localeCompare(b.name);
+          });
+        if (!sectionSites.length) return null;
+        return (
+          <section id={state.abbrev} key={state.abbrev}>
+            <Heading>{state.name}</Heading>
+            <SiteList className="mb-4" sites={sectionSites} />
+          </section>
+        );
+      })}
     </>
   );
 }
