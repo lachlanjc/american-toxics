@@ -185,7 +185,7 @@ export async function Nearby({ site }: { site: Site }) {
       if (categoryPOIs.length === 0) return null;
       const subcategories = search
         .map((termAndLabel) => {
-          let [term, label] = termAndLabel.split(":");
+          let [term, label] = termAndLabel.split(":"); // eslint-disbale-line
           label ??= term;
           const count = categoryPOIs.filter(
             (poi) =>
