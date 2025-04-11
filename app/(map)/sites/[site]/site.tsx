@@ -8,8 +8,7 @@ import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Root as Portal } from "@radix-ui/react-portal";
 import { WellRoot } from "@/lib/ui/well";
 import reactStringReplace from "react-string-replace";
-import { TextUIPart, UIMessage } from "@ai-sdk/ui-utils";
-import clsx from "clsx";
+import { UIMessage } from "@ai-sdk/ui-utils";
 
 const questions = [
   "What types of contaminants are present?",
@@ -92,13 +91,11 @@ function AITextHighlight({
   text: string;
   onQuery: (query: string) => void;
 }) {
-  const bold = text.startsWith("*");
   return (
     <u
-      className={clsx(
-        "decoration-dotted decoration-primary underline-offset-3 cursor-zoom-in",
-        bold ? "font-bold" : null,
-      )}
+      className={
+        "decoration-dotted decoration-primary underline-offset-3 cursor-zoom-in"
+      }
       onClick={() => {
         const is =
           text.includes("and") || text.endsWith("s") || text.endsWith("s)")
@@ -108,7 +105,7 @@ function AITextHighlight({
         onQuery(`What ${is} ${topic}?`);
       }}
     >
-      {text}
+      {deasterisk(text)}
     </u>
   );
 }
@@ -231,9 +228,11 @@ export function SiteCard({
           {site.city},{" "}
           <Link
             href={`/states/${site.stateCode}`}
-            className="underline underline-offset-2"
+            className="underline underline-offset-3 hover:text-primary transition-colors"
           >
-            <abbr title={site.stateName}>{site.stateCode}</abbr>
+            <abbr title={site.stateName} className="no-underline">
+              {site.stateCode}
+            </abbr>
           </Link>{" "}
           ({site.county} County)
         </HeaderSubtitle>
@@ -265,27 +264,27 @@ export function SiteCard({
         ))}
       </section>
 
+      {suggestions.length > 0 && (
+        <div className="flex flex-col w-full mt-8">
+          <strong>Suggested questions</strong>
+          {suggestions.map((q) => (
+            <button
+              className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
+              type="button"
+              key={q}
+              onClick={() => {
+                append({ role: "user", content: q });
+              }}
+            >
+              {q}
+            </button>
+          ))}
+        </div>
+      )}
       <form
         onSubmit={handleSubmit}
-        className="mt-auto w-full pt-8 sticky bottom-0"
+        className="mt-auto w-full pt-6 sticky bottom-0"
       >
-        {suggestions.length < 0 && (
-          <div className="flex flex-col w-full mb-4">
-            <strong>Suggested questions</strong>
-            {suggestions.map((q) => (
-              <button
-                className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
-                type="button"
-                key={q}
-                onClick={() => {
-                  append({ role: "user", content: q });
-                }}
-              >
-                {q}
-              </button>
-            ))}
-          </div>
-        )}
         <input
           className="w-full action-button p-2 !bg-white"
           value={input}
