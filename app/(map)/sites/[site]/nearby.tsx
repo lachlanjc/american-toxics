@@ -87,8 +87,9 @@ const highlightedCategories: Record<
     name: "school",
     icon: "college",
     search: [
-      "preschool",
       "daycare",
+      "preschool",
+      "kinder:kindergarten",
       "elementary",
       "middle",
       "high",
@@ -96,27 +97,31 @@ const highlightedCategories: Record<
       "university",
     ],
   },
-  outdoor: { name: "park", icon: "natural", search: ["park", "trail"] },
-  church: {
-    name: "church",
-    icon: "place-of-worship",
-    namePlural: "churches",
-    search: [],
-  },
-  prison: { name: "prison", icon: "prison", search: ["state", "federal"] },
-  fitness_centre: { name: "gym", icon: "fitness-centre", search: [] },
-  assisted_living_facility: {
-    name: "assisted living facility",
-    namePlural: "assisted living facilities",
-    icon: "wheelchair",
-    search: [],
-  },
   library: {
     name: "library",
     namePlural: "libraries",
     icon: "library",
     search: ["public", "university"],
   },
+  outdoors: {
+    name: "park",
+    icon: "park",
+    search: ["park", "trail", "campground"],
+  },
+  church: {
+    name: "church",
+    icon: "place-of-worship",
+    namePlural: "churches",
+    search: [],
+  },
+  assisted_living_facility: {
+    name: "assisted living facility",
+    namePlural: "assisted living facilities",
+    icon: "wheelchair",
+    search: [],
+  },
+  fitness_centre: { name: "gym", icon: "fitness-centre", search: [] },
+  prison: { name: "prison", icon: "prison", search: ["state", "federal"] },
 } as const;
 
 function MakiIcon({
@@ -138,6 +143,7 @@ const listFormatter = new Intl.ListFormat("en-US", {
 
 export async function Nearby({ site }: { site: Site }) {
   const url = `https://api.mapbox.com/search/searchbox/v1/category/${categoriesString}?proximity=${site.lng},${site.lat}&language=en&poi_category_exclusions=medical_laboratory&access_token=${MAPBOX_TOKEN}`;
+  // console.log(url);
   const mapbox = await fetch(url).then((res) => res.json());
   let nearbyFeatures: Array<MapboxFeature> = mapbox.features ?? [];
   // .filter((feat: MapboxFeature) => feat.properties?.distance <= 1609);
@@ -153,6 +159,7 @@ export async function Nearby({ site }: { site: Site }) {
         (f) => f.properties.name === feat.properties.name,
       ),
   );
+
   // console.log(url, mapbox.features);
   const nearbySites = getNearbySites(site);
   if (nearbyFeatures.length === 0 && nearbySites.length === 0) {
@@ -170,21 +177,26 @@ export async function Nearby({ site }: { site: Site }) {
       );
       if (category === "education") {
         categoryPOIs = categoryPOIs.filter(
-          (feat) => !feat.properties.poi_category_ids.includes("library"),
+          (feat) =>
+            !feat.properties.poi_category_ids.includes("library") &&
+            !feat.properties.name.toLowerCase().includes("parking"),
         );
       }
       if (categoryPOIs.length === 0) return null;
       const subcategories = search
-        .map((term) => {
+        .map((termAndLabel) => {
+          let [term, label] = termAndLabel.split(":");
+          label ??= term;
           const count = categoryPOIs.filter(
             (poi) =>
               poi.properties.name.toLowerCase().includes(term) ||
               poi.properties.poi_category.includes(term) ||
               poi.properties.poi_category_ids.includes(term),
           ).length;
-          return [count, term] as [number, string];
+          return [count, label] as [number, string];
         })
-        .filter((value) => value[0] > 0);
+        .filter((value) => value[0] > 0)
+        .sort(([a], [b]) => b - a);
       return {
         category,
         // icon: categoryPOIs[0].properties.maki,
@@ -223,7 +235,9 @@ export async function Nearby({ site }: { site: Site }) {
                       (
                       {listFormatter.format(
                         group.subcategories.map(([count, name]) =>
-                          count === 1 ? name : `${count} ${name}s`,
+                          count === 1
+                            ? name
+                            : `${count} ${name.replace("ty", "ti")}s`,
                         ),
                       )}
                       )
