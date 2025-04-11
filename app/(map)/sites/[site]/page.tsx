@@ -20,7 +20,7 @@ export async function generateMetadata({
     return notFound();
   }
   return {
-    title: site.name,
+    title: `${site.name} Superfund Site`,
     // description: ,
   };
 }

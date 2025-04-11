@@ -7,6 +7,7 @@ import { Link } from "next-view-transitions";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Root as Portal } from "@radix-ui/react-portal";
 import { WellRoot } from "@/lib/ui/well";
+import reactStringReplace from "react-string-replace";
 
 const questions = [
   "What happened here?",
@@ -103,7 +104,6 @@ export function SiteCard({
           m.parts.some((p) => p.type === "text" && p.text === q),
       ),
   );
-  console.log(messages);
   return (
     <>
       {hasPlainSiteImage(site.id) && (
@@ -146,7 +146,13 @@ export function SiteCard({
                 case "text":
                   return (
                     <div key={`${message.id}-${i}`} className="text-pretty">
-                      {part.text.replaceAll("**", "")}
+                      {reactStringReplace(
+                        part.text,
+                        /\*\*(.+)\*\*/,
+                        (bold: string, i: number) => (
+                          <strong key={i}>{bold}</strong>
+                        ),
+                      )}
                     </div>
                   );
               }
@@ -174,7 +180,7 @@ export function SiteCard({
           </div>
         )}
         <input
-          className="w-full action-button p-2"
+          className="w-full action-button p-2 sticky bottom-0"
           value={input}
           placeholder="Ask something..."
           onChange={handleInputChange}
