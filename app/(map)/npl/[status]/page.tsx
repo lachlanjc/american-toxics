@@ -1,7 +1,12 @@
 import { SiteList } from "@/app/(map)/sites/list";
 import STATES from "@/lib/data/states.json" assert { type: "json" };
 import { allSites } from "@/lib/data/api";
-import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
+import {
+  HeaderRoot,
+  HeaderBreadcrumb,
+  HeaderTitle,
+  HeaderSubtitle,
+} from "@/lib/ui/header";
 // import { MapZoom } from "../../zoom";
 import { nplStatuses } from "@/lib/data/site";
 import { notFound } from "next/navigation";
@@ -51,6 +56,7 @@ export default async function Page({
         <HeaderTitle style={{ viewTransitionName: statusKey }}>
           {status.label} <Count value={sites.length} />
         </HeaderTitle>
+        <HeaderSubtitle>{status.desc}</HeaderSubtitle>
       </HeaderRoot>
       {STATES.map((state) => {
         const sectionSites = sites
@@ -62,7 +68,7 @@ export default async function Page({
         return (
           <section id={state.abbrev} key={state.abbrev}>
             <Heading>{state.name}</Heading>
-            <SiteList className="mb-4" sites={sectionSites} />
+            <SiteList className="mb-4 -mt-2" sites={sectionSites} />
           </section>
         );
       })}

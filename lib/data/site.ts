@@ -21,24 +21,37 @@ export type SiteNPLStatus = keyof typeof nplStatuses;
 
 export const nplStatuses: Record<
   string,
-  { label: string; field: keyof Site; color: string }
+  { label: string; field: keyof Site; color: string; desc: string }
 > = {
   proposed: {
     label: "Proposed",
     field: "dateProposed",
     color: "text-amber-500",
+    desc: "Contaminated sites flagged as potentially requiring federal cleanup.",
   },
-  listed: { label: "Listed", field: "dateListed", color: "text-primary" },
+  listed: {
+    label: "Hazardous",
+    field: "dateListed",
+    color: "text-primary",
+    desc: "Toxic sites requiring federal cleanup that is not yet underway.",
+  },
   cleaning: {
     label: "Cleaning",
     field: "dateCompleted",
     color: "text-fuchsia-500",
+    desc: "The major cleanup equipment is constructed, but the site is still being treated or monitored.",
   },
-  cleaned: { label: "Cleaned", field: "dateNOID", color: "text-violet-500" },
+  cleaned: {
+    label: "Cleaned",
+    field: "dateNOID",
+    color: "text-violet-500",
+    desc: "Successfully cleaned up and in the final paperwork stage.",
+  },
   completed: {
     label: "Completed",
     field: "dateDeleted",
     color: "text-indigo-500",
+    desc: "Cleanup is completely finished and the site can be reused.",
   },
 };
 

@@ -30,21 +30,24 @@ export default function Page() {
             <li
               key={key}
               role="listitem"
-              className="flex w-full gap-3 group items-center even:justify-end md:max-w-md py-4"
+              className="flex w-full gap-6 group items-center md:max-w-md py-2"
             >
               <Link href={`/npl/${key}`} className="contents">
                 <span
-                  className={`${status.color} origin-left bg-current w-4 h-4 rounded-full inline-block`}
-                  style={{ scale: Math.max(1, count / 70) }}
+                  className={`${status.color} aspect-square bg-current w-4 rounded-full inline-block`}
+                  style={{ width: Math.max(16, count / 1.5) }}
                 />
-                <div className="flex flex-col items-start relative z-1">
-                  <span
-                    className="font-sans text-lg md:text-2xl font-medium text-black transition-colors group-hover:text-neutral-600 ml-2"
-                    style={{ viewTransitionName: key }}
-                  >
-                    {status.label}
-                  </span>
-                  <Count value={count} />
+                <div className="flex flex-col gap-1 items-start">
+                  <div className="flex items-center gap-2">
+                    <span
+                      className="font-sans text-lg md:text-2xl font-medium text-black transition-colors group-hover:text-neutral-600"
+                      style={{ viewTransitionName: key }}
+                    >
+                      {status.label}
+                    </span>
+                    <Count value={count} />
+                  </div>
+                  <p className="text-balance">{status.desc}</p>
                 </div>
               </Link>
             </li>
