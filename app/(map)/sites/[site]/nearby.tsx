@@ -18,7 +18,7 @@ import {
 import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
 import { getNearbySites, Site } from "@/lib/data/api";
 import { SiteList } from "../list";
-import { WellRoot, WellTitle, WellDivider } from "@/lib/ui/well";
+import { WellRoot, WellTitle } from "@/lib/ui/well";
 
 export const icons = {
   school: School,

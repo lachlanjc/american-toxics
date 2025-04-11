@@ -23,7 +23,7 @@ export default function Page() {
         </HeaderSubtitle>
       </HeaderRoot>
       <ul className="-mb-1 text-neutral-500 gap-8 flex flex-col" role="list">
-        {Object.keys(nplStatuses).map((key, i) => {
+        {Object.keys(nplStatuses).map((key) => {
           const status = nplStatuses[key];
           const count = allSites.filter((site) => site.npl === key).length;
           return (

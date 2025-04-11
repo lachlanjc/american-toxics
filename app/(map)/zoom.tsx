@@ -12,7 +12,6 @@ export function MapZoom({
   duration?: number;
 }) {
   useEffect(() => {
-    let timeout: NodeJS.Timer | undefined;
     const fly = () =>
       // @ts-expect-error global
       window.mapRef.current?.flyTo({
@@ -24,11 +23,8 @@ export function MapZoom({
     if (window.mapRef.current) {
       fly();
     } else {
-      timeout = setTimeout(fly, 2000);
+      setTimeout(fly, 2000);
     }
-    // return () => {
-    //   if (timeout) clearTimeout(timeout);
-    // };
   }, [center, zoom, duration]);
   return null;
 }
