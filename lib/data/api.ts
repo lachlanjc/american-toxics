@@ -17,7 +17,7 @@ export function getNearbySites(site: Site) {
       otherSite.lat,
       otherSite.lng,
     );
-    return distance <= 7.5; // Adjust the distance threshold as needed
+    return distance <= 2; // How many miles
   });
   return nearbySites;
 }

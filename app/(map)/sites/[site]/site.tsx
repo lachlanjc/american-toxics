@@ -104,6 +104,7 @@ export function SiteCard({
           m.parts.some((p) => p.type === "text" && p.text === q),
       ),
   );
+  // console.log(messages);
   return (
     <>
       {hasPlainSiteImage(site.id) && (
@@ -144,6 +145,7 @@ export function SiteCard({
             {message.parts.map((part, i) => {
               switch (part.type) {
                 case "text":
+                  console.log(part.text);
                   return (
                     <div key={`${message.id}-${i}`} className="text-pretty">
                       {reactStringReplace(

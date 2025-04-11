@@ -2,6 +2,7 @@ function toRadians(degrees: number): number {
   return degrees * (Math.PI / 180);
 }
 
+/** Returns distance in miles between coordinate pairs */
 export function haversineDistance(
   lat1: number,
   lon1: number,
