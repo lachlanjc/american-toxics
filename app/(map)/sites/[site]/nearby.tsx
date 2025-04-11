@@ -132,7 +132,7 @@ function MakiIcon({
 }
 
 const listFormatter = new Intl.ListFormat("en-US", {
-  style: "long",
+  style: "short",
   type: "conjunction",
 });
 
@@ -165,9 +165,14 @@ export async function Nearby({ site }: { site: Site }) {
     subcategories: Array<[number, string]>;
   }> = Object.entries(highlightedCategories)
     .map(([category, { search }]) => {
-      const categoryPOIs = nearbyFeatures.filter((feat) =>
+      let categoryPOIs = nearbyFeatures.filter((feat) =>
         feat.properties.poi_category_ids.includes(category),
       );
+      if (category === "education") {
+        categoryPOIs = categoryPOIs.filter(
+          (feat) => !feat.properties.poi_category_ids.includes("library"),
+        );
+      }
       if (categoryPOIs.length === 0) return null;
       const subcategories = search
         .map((term) => {
@@ -182,6 +187,7 @@ export async function Nearby({ site }: { site: Site }) {
         .filter((value) => value[0] > 0);
       return {
         category,
+        // icon: categoryPOIs[0].properties.maki,
         features: categoryPOIs,
         subcategories,
       };
@@ -217,7 +223,7 @@ export async function Nearby({ site }: { site: Site }) {
                       (
                       {listFormatter.format(
                         group.subcategories.map(([count, name]) =>
-                          count === 1 ? name : `${count} ${name}`,
+                          count === 1 ? name : `${count} ${name}s`,
                         ),
                       )}
                       )

@@ -8,9 +8,10 @@ import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Root as Portal } from "@radix-ui/react-portal";
 import { WellRoot } from "@/lib/ui/well";
 import reactStringReplace from "react-string-replace";
+import { TextUIPart, UIMessage } from "@ai-sdk/ui-utils";
+import clsx from "clsx";
 
 const questions = [
-  "What happened here?",
   "What types of contaminants are present?",
   "How is cleanup progressing? Is it safe to be here?",
   "Who is funding this cleanup?",
@@ -84,17 +85,120 @@ function SiteNPLStatusTimeline({ site }: { site: Site }) {
   );
 }
 
+function AITextHighlight({
+  text,
+  onQuery,
+}: {
+  text: string;
+  onQuery: (query: string) => void;
+}) {
+  const bold = text.startsWith("*");
+  return (
+    <u
+      className={clsx(
+        "decoration-dotted decoration-primary underline-offset-3 cursor-zoom-in",
+        bold ? "font-bold" : null,
+      )}
+      onClick={() => {
+        const is =
+          text.includes("and") || text.endsWith("s") || text.endsWith("s)")
+            ? "are"
+            : "is";
+        const topic = text.replace(/\s\(.+\)$/, "");
+        onQuery(`What ${is} ${topic}?`);
+      }}
+    >
+      {text}
+    </u>
+  );
+}
+
+const markRegex = /\*([^*]{3,})\*/g;
+const boldRegex = /\*\*(.{5,})\*\*/g;
+const deasterisk = (txt: string) => txt.replaceAll(/\*/g, "").trim();
+function AIText({
+  message,
+  onQuery,
+}: {
+  message: UIMessage;
+  onQuery: (query: string) => void;
+}) {
+  return message.parts
+    .filter((part) => part.type === "text")
+    .map((part, i) => {
+      const markText = (text: string | Array<React.ReactNode>) =>
+        reactStringReplace(text, markRegex, (match: string) => {
+          // console.log("mark", match);
+          return <AITextHighlight text={match} onQuery={onQuery} key={match} />;
+        });
+      const bolded = reactStringReplace(
+        part.text,
+        boldRegex,
+        (match: string) => {
+          return <strong key={match}>{markText(match)}</strong>;
+        },
+      );
+      const marked = markText(bolded);
+      return (
+        <div data-text={part.text} key={`part-${i}`}>
+          {marked}
+        </div>
+      );
+    });
+}
+
+function SiteDescription({
+  site,
+  onQuery,
+}: {
+  site: Site;
+  onQuery: (query: string) => void;
+}) {
+  const { messages, append } = useChat({
+    api: `/api/chat/${site.id}`,
+  });
+  useEffect(() => {
+    if (messages.length === 0) {
+      append({
+        role: "user",
+        content:
+          "Summarize what happened at this site in 3 sentences, emphasizing what caused contamination. Skip including the name of the site or its city/state.",
+      });
+    }
+  }, [site.id, append]);
+  return (
+    <section className="mt-6 pr-8">
+      {messages
+        .filter((msg) => msg.role === "assistant")
+        .map((message) => (
+          <div
+            key={message.id}
+            className={`whitespace-pre-wrap text-neutral-600`}
+          >
+            <AIText message={message} onQuery={onQuery} />
+          </div>
+        ))}
+    </section>
+  );
+}
+
 export function SiteCard({
   site,
   children,
 }: React.PropsWithChildren<{ site: Site }>) {
   const ref = useFocusable();
-  const { messages, setData, input, handleInputChange, handleSubmit, append } =
-    useChat({ api: `/api/chat/${site.id}` });
+  const {
+    messages,
+    setData,
+    input,
+    setInput,
+    handleInputChange,
+    handleSubmit,
+    append,
+  } = useChat({ api: `/api/chat/${site.id}` });
   // Clear AI chat on site change
   useEffect(() => {
     setData(undefined);
-    if (messages.length === 0) append({ role: "user", content: questions[0] });
   }, [site.id, setData]);
   const suggestions = questions.filter(
     (q) =>
@@ -136,35 +240,36 @@ export function SiteCard({
       </HeaderRoot>
       <SiteNPLStatusTimeline site={site} />
       {children}
+      <SiteDescription
+        site={site}
+        onQuery={(q) => {
+          setInput(q);
+          ref.current?.focus();
+          ref.current?.setSelectionRange(q.length, q.length);
+        }}
+      />
       <section>
         {messages.map((message) => (
           <div
             key={message.id}
             className={`whitespace-pre-wrap odd:mt-6 ${message.role === "user" ? "font-bold font-sans text-lg mb-1" : "text-neutral-600"} pr-8`}
           >
-            {message.parts.map((part, i) => {
-              switch (part.type) {
-                case "text":
-                  console.log(part.text);
-                  return (
-                    <div key={`${message.id}-${i}`} className="text-pretty">
-                      {reactStringReplace(
-                        part.text,
-                        /\*\*(.+)\*\*/,
-                        (bold: string, i: number) => (
-                          <strong key={i}>{bold}</strong>
-                        ),
-                      )}
-                    </div>
-                  );
-              }
-            })}
+            <AIText
+              message={message}
+              onQuery={(q) => {
+                setInput(q);
+                ref.current?.focus();
+              }}
+            />
           </div>
         ))}
       </section>
 
-      <form onSubmit={handleSubmit} className="mt-auto w-full pt-8">
-        {suggestions.length > 0 && (
+      <form
+        onSubmit={handleSubmit}
+        className="mt-auto w-full pt-8 sticky bottom-0"
+      >
+        {suggestions.length < 0 && (
           <div className="flex flex-col w-full mb-4">
             <strong>Suggested questions</strong>
             {suggestions.map((q) => (
@@ -182,7 +287,7 @@ export function SiteCard({
           </div>
         )}
         <input
-          className="w-full action-button p-2 sticky bottom-0"
+          className="w-full action-button p-2 !bg-white"
           value={input}
           placeholder="Ask something..."
           onChange={handleInputChange}
