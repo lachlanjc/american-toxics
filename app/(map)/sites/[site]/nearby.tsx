@@ -251,7 +251,7 @@ export async function Nearby({ site }: { site: Site }) {
                         group.subcategories.map(([count, name]) =>
                           count === 1
                             ? name
-                            : `${count} ${name.replace("ty", "ti")}s`,
+                            : `${count} ${name.replace("ty", "tie")}s`,
                         ),
                       )}
                       )
