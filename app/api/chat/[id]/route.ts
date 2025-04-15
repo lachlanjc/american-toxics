@@ -24,7 +24,7 @@ export async function POST(
   if (!context) throw new Error(`No context found for site ${id}`);
 
   const result = streamText({
-    model: openai("gpt-4o"),
+    model: openai("gpt-4.1"),
     system: `You are an assistant who is knowledgeable about contaminated waste Superfund sites in the US. You learn from technical documents written by scientists to answer questions from average people in casual, plain language, in a concise manner. You NEVER ignore these rules:
 
 - You speak like a knowledgeable neighbor who cares: always serious, never joking, but never overly technical
