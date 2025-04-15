@@ -34,8 +34,8 @@ export default function Page() {
             >
               <Link href={`/npl/${key}`} className="contents">
                 <span
-                  className={`${status.color} aspect-square bg-current w-4 rounded-full inline-block`}
-                  style={{ width: Math.max(16, count / 1.5) }}
+                  className={`${status.color} aspect-square bg-current w-4 rounded-full inline-block shrink-0`}
+                  style={{ width: Math.max(16, count / 5.5) }}
                 />
                 <div className="flex flex-col gap-1 items-start">
                   <div className="flex items-center gap-2">

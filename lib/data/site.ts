@@ -39,7 +39,7 @@ export const nplStatuses: Record<
     label: "Cleaning",
     field: "dateCompleted",
     color: "text-fuchsia-500",
-    desc: "The major cleanup equipment is constructed, but the site is still being treated or monitored.",
+    desc: "Cleanup equipment is constructed, but the site remains hazardous while treated.",
   },
   cleaned: {
     label: "Cleaned",
