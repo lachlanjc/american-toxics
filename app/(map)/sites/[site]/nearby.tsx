@@ -14,6 +14,7 @@ import {
   Wheelchair,
   Marker,
   Library,
+  Doctor,
 } from "@alpaca-travel/react-maki-icons";
 import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
 import { getNearbySites, Site } from "@/lib/data/api";
@@ -32,6 +33,7 @@ export const icons = {
   natural: Natural,
   "fitness-centre": FitnessCentre,
   prison: Prison,
+  doctor: Doctor,
   marker: Marker,
   wheelchair: Wheelchair,
   danger: Danger,
@@ -63,12 +65,15 @@ const categories = [
   "education",
   "church",
   "assisted_living_facility",
-  "park",
-  "field",
-  "waterfall",
-  "campground",
   "outdoors",
-  "place_of_worship",
+  // "place_of_worship",
+  // "health_services",
+  "hospital",
+  "medical_practice",
+  "doctors_office",
+  // "medical_clinic",
+  "care_services",
+  "childcare",
   "prison",
   "fitness_centre",
 ] as const;
@@ -89,12 +94,15 @@ const highlightedCategories: Record<
     search: [
       "daycare",
       "preschool",
+      "montessori",
       "kinder:kindergarten",
       "elementary",
+      "kumon:tutor",
       "middle",
       "high",
       "college",
       "university",
+      "music",
     ],
   },
   library: {
@@ -103,16 +111,22 @@ const highlightedCategories: Record<
     icon: "library",
     search: ["public", "university"],
   },
+  health_services: {
+    name: "doctor",
+    namePlural: "doctors",
+    icon: "doctor",
+    search: ["pediatric", "va:veterans", "senior:senior care", "hospital"],
+  },
   outdoors: {
     name: "park",
     icon: "park",
-    search: ["park", "trail", "campground"],
+    search: ["playground", "basketball", "soccer", "trail", "campground"],
   },
   church: {
     name: "church",
     icon: "place-of-worship",
     namePlural: "churches",
-    search: [],
+    search: ["synagogue"],
   },
   assisted_living_facility: {
     name: "assisted living facility",
@@ -142,7 +156,7 @@ const listFormatter = new Intl.ListFormat("en-US", {
 });
 
 export async function Nearby({ site }: { site: Site }) {
-  const url = `https://api.mapbox.com/search/searchbox/v1/category/${categoriesString}?proximity=${site.lng},${site.lat}&language=en&poi_category_exclusions=medical_laboratory&access_token=${MAPBOX_TOKEN}`;
+  const url = `https://api.mapbox.com/search/searchbox/v1/category/${categoriesString}?proximity=${site.lng},${site.lat}&language=en&poi_category_exclusions=medical_laboratory,alternative_healthcare&limit=12&access_token=${MAPBOX_TOKEN}`;
   // console.log(url);
   const mapbox = await fetch(url).then((res) => res.json());
   let nearbyFeatures: Array<MapboxFeature> = mapbox.features ?? [];
@@ -281,7 +295,7 @@ function PlaceGroup({
 }>) {
   return (
     <details>
-      <summary className="flex gap-2 items-center">
+      <summary className="flex gap-2 items-center cursor-pointer">
         <MakiIcon
           icon={icon}
           className="w-4 h-4 fill-neutral-400 self-center"
