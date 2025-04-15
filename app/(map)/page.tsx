@@ -71,6 +71,8 @@ export default function Page() {
         </Link>
         <Link href="/about" className="action-button flex items-end p-4">
           About
+          <br />
+          Superfund
         </Link>
       </div>
       <hr className="border-black/20 -mx-6 my-6" />
