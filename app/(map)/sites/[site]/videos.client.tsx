@@ -1,8 +1,14 @@
 "use client";
+import {
+  TikTokEmbed,
+  InstagramEmbed,
+  FacebookEmbed,
+} from "react-social-media-embed";
 
 import { WellRoot, WellTitle } from "@/lib/ui/well";
 import * as Collapsible from "@radix-ui/react-collapsible";
 import React from "react";
+import clsx from "clsx";
 
 export interface Video {
   title: string;
@@ -19,9 +25,9 @@ interface VideosClientProps {
 export function VideosClient({ videos }: VideosClientProps) {
   return (
     <Collapsible.Root asChild>
-      <WellRoot className="mt-4 pb-4">
-        <Collapsible.Trigger className="flex items-center gap-2 justify-between group w-full">
-          <WellTitle>Videos</WellTitle>
+      <WellRoot className="pb-0">
+        <Collapsible.Trigger className="flex items-center gap-2 justify-between group w-[calc(100%_+_2rem)] px-4 -mx-4 py-3 -mt-3">
+          <WellTitle>Videos around the web</WellTitle>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="w-4 h-4 transition-transform duration-200 group-data-[state=open]:rotate-180 stroke-neutral-600"
@@ -37,21 +43,58 @@ export function VideosClient({ videos }: VideosClientProps) {
             />
           </svg>
         </Collapsible.Trigger>
-        <Collapsible.Content className="overflow-x-auto snap-x snap-mandatory data-[state=open]:animate-slideDown data-[state=closed]:animate-slideUp pt-2 -mr-4 pr-4">
-          <div className="w-fit flex gap-4">
+        <Collapsible.Content className="overflow-x-auto snap-x snap-mandatory data-[state=open]:animate-slideDown data-[state=closed]:animate-slideUp -mr-4 pr-4 pb-4">
+          <div
+            className={clsx(
+              "w-fit grid grid-flow-col items-center gap-4",
+              videos.length > 2 && "grid-rows-2",
+            )}
+          >
             {videos.map((video) => {
-              const videoId = extractYouTubeID(video.link);
+              const { link, title } = video;
+              if (link.includes("facebook.com")) {
+                return (
+                  <div
+                    key={link}
+                    className="snap-start row-start-1 row-span-2 rounded-xl relative"
+                  >
+                    <FacebookEmbed url={link} width={320} />
+                  </div>
+                );
+              }
+              if (link.includes("tiktok.com")) {
+                return (
+                  <div
+                    key={link}
+                    className="snap-start row-start-1 row-span-2 relative"
+                  >
+                    <TikTokEmbed url={link} width={320} />
+                  </div>
+                );
+              }
+              if (link.includes("instagram.com")) {
+                return (
+                  <div
+                    key={link}
+                    className="snap-start row-start-1 row-span-2 relative"
+                  >
+                    <InstagramEmbed url={link} width={320} />
+                  </div>
+                );
+              }
+              // Fallback to YouTube or generic iframe
+              const videoId = extractYouTubeID(link);
               const embedUrl = videoId
                 ? `https://www.youtube.com/embed/${videoId}`
-                : video.link;
+                : link;
               return (
                 <div
-                  key={video.link}
-                  className="relative aspect-video rounded-lg snap-start h-40 overflow-hidden"
+                  key={link}
+                  className="relative aspect-video rounded-lg snap-start w-xs overflow-hidden"
                 >
                   <iframe
                     src={embedUrl}
-                    title={video.title}
+                    title={title}
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen

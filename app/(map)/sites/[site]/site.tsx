@@ -9,6 +9,7 @@ import { Root as Portal } from "@radix-ui/react-portal";
 import { WellRoot } from "@/lib/ui/well";
 import reactStringReplace from "react-string-replace";
 import { UIMessage } from "@ai-sdk/ui-utils";
+import { Heading } from "@/lib/ui/typography";
 
 const questions = [
   "What types of contaminants are present?",
@@ -164,7 +165,7 @@ function SiteDescription({
     }
   }, [site.id, append]);
   return (
-    <section className="mt-6 pr-8">
+    <section className="pr-8 -mt-4">
       {messages
         .filter((msg) => msg.role === "assistant")
         .map((message) => (
@@ -206,20 +207,20 @@ export function SiteCard({
       ),
   );
   // console.log(messages);
-  return (
-    <>
-      {hasPlainSiteImage(site.id) && (
-        <Portal>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={`/plainsite/${site.id}.jpg`}
-            width={1097 / 4}
-            height={1080 / 4}
-            className="floating-image"
-            alt={`Plain Site of ${site.name}`}
-          />
-        </Portal>
-      )}
+  return [
+    hasPlainSiteImage(site.id) && (
+      <Portal key="canvas">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={`/plainsite/${site.id}.jpg`}
+          width={1097 / 4}
+          height={1080 / 4}
+          className="floating-image"
+          alt={`Plain Site of ${site.name}`}
+        />
+      </Portal>
+    ),
+    <div key="article" className="flex flex-col gap-4">
       <HeaderRoot showClose>
         <HeaderTitle style={{ viewTransitionName: site.id }}>
           {site.name} Superfund Site
@@ -237,8 +238,6 @@ export function SiteCard({
           ({site.county} County)
         </HeaderSubtitle>
       </HeaderRoot>
-      <SiteNPLStatusTimeline site={site} />
-      {children}
       <SiteDescription
         site={site}
         onQuery={(q) => {
@@ -247,11 +246,13 @@ export function SiteCard({
           ref.current?.setSelectionRange(q.length, q.length);
         }}
       />
+      <SiteNPLStatusTimeline site={site} />
+      {children}
       <section>
         {messages.map((message) => (
           <div
             key={message.id}
-            className={`whitespace-pre-wrap odd:mt-6 ${message.role === "user" ? "font-bold font-sans text-lg mb-1" : "text-neutral-600"} pr-8`}
+            className={`whitespace-pre-wrap not-first:odd:mt-6 ${message.role === "user" ? "font-bold font-sans text-lg mb-1" : "text-neutral-600"} pr-8`}
           >
             <AIText
               message={message}
@@ -265,8 +266,8 @@ export function SiteCard({
       </section>
 
       {suggestions.length > 0 && (
-        <div className="flex flex-col w-full mt-8">
-          <strong>Suggested questions</strong>
+        <div className="flex flex-col w-full">
+          <Heading>Suggested questions</Heading>
           {suggestions.map((q) => (
             <button
               className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
@@ -293,6 +294,6 @@ export function SiteCard({
           ref={ref}
         />
       </form>
-    </>
-  );
+    </div>,
+  ];
 }

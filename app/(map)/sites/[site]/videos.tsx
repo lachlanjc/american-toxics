@@ -24,5 +24,9 @@ export async function Videos({ site }: { site: Site }) {
   const query = `${site.name} Superfund Site`;
   const videos = await fetchVideos(query);
   if (!videos || videos.length === 0) return null;
-  return <VideosClient videos={videos} />;
+  return (
+    <VideosClient
+      videos={videos.sort((a, b) => b.link.localeCompare(a.link))}
+    />
+  );
 }

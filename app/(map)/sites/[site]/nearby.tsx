@@ -221,7 +221,7 @@ export async function Nearby({ site }: { site: Site }) {
     .filter((group) => group !== null);
 
   return (
-    <WellRoot className="mt-4 flex flex-col gap-y-2">
+    <WellRoot className="flex flex-col gap-y-2">
       <WellTitle>Within 1 mile</WellTitle>
       {nearbyFeatures.length > 0 &&
         nearbyFeatureGroups.map((group) => {
