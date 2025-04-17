@@ -2,11 +2,25 @@ import csv from "csvtojson";
 import states from "@/lib/data/states-raw.json" assert { type: "json" };
 import { nplStatuses } from "@/lib/data/site";
 
-const input = Bun.file("./lib/data/sites.csv");
+// Convert MM/DD/YYYY string to ISO (YYYY-MM-DD)
+function toISO(dateStr: string): string {
+  if (dateStr.length === 0) return "";
+  const [m, d, y] = dateStr.split("/");
+  const mm = m.padStart(2, "0");
+  const dd = d.padStart(2, "0");
+  return `${y}-${mm}-${dd}`;
+}
+
+const input = Bun.file("./lib/data/sites-raw.csv");
 const csvString = await input.text();
 const jsonObj = await csv({
   colParser: {
     semsId: "string",
+    dateProposed: toISO,
+    dateDeleted: toISO,
+    dateCompleted: toISO,
+    dateListed: toISO,
+    dateNOID: toISO,
   },
   checkType: true,
 }).fromString(csvString);
