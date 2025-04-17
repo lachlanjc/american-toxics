@@ -181,21 +181,3 @@ input {
     display: none;
   }
 }
-
-@font-face {
-  font-family: ABCPelikanExtendedVariable;
-  src: url("https://cloud-qst6y917o-lachlan-jc.vercel.app/ABCPelikanExtendedVariableVF-Trial.woff2")
-    format("woff2");
-}
-
-@font-face {
-  font-family: ABCPelikanPlusVariable;
-  src: url("https://cloud-qst6y917o-lachlan-jc.vercel.app/ABCPelikanPlusVariableVF-Trial.woff2")
-    format("woff2");
-}
-
-@font-face {
-  font-family: ABCPelikanVariable;
-  src: url("https://cloud-qst6y917o-lachlan-jc.vercel.app/ABCPelikanVariableVF-Trial.woff2")
-    format("woff2");
-}
