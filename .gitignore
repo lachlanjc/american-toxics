@@ -41,3 +41,5 @@ yarn-error.log*
 next-env.d.ts
 
 # lib/data/txt
+lib/data/timeline.md
+lib/data/timeline-listed.md
