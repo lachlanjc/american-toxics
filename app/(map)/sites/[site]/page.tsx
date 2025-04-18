@@ -2,8 +2,9 @@ import { notFound } from "next/navigation";
 import { SiteCard } from "./site";
 import { allSites, findSiteById } from "@/lib/data/api";
 import { MapZoom } from "../../zoom";
-import { Nearby } from "./nearby";
 import { Suspense } from "react";
+import { Nearby } from "./nearby";
+import { Videos } from "./videos";
 
 export const generateStaticParams = async () => {
   return allSites.map(({ id }) => ({ site: id }));
@@ -49,9 +50,14 @@ export default async function Page({
             </h2>
           </section>
         ) : (
-          <Suspense>
-            <Nearby site={site} />
-          </Suspense>
+          <>
+            <Suspense fallback={null}>
+              <Nearby site={site} />
+            </Suspense>
+            <Suspense fallback={null}>
+              <Videos site={site} />
+            </Suspense>
+          </>
         )}
       </SiteCard>
     </>
