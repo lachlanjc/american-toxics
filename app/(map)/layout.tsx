@@ -1,14 +1,14 @@
 "use client";
 
-import { PropsWithChildren, useEffect, useRef } from "react";
+import { PropsWithChildren, useEffect, useMemo, useRef } from "react";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import SITES from "@/lib/data/sites-mini.json" assert { type: "json" };
-
 import Map, { MapRef, Marker } from "react-map-gl/mapbox";
 import { useParams, useRouter } from "next/navigation";
 import { SiteNPLStatus } from "@/lib/data/site";
 import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
+import clsx from "clsx";
 
 function MainCard({
   title,
@@ -63,6 +63,39 @@ export default function Layout({ children }: PropsWithChildren<object>) {
     window.mapRef = mapRef;
   }, []);
 
+  const markers = useMemo(() => {
+    return SITES.map((marker) => (
+      <Marker
+        anchor="bottom"
+        longitude={marker.lng}
+        latitude={marker.lat}
+        onClick={() => {
+          router.push(`/sites/${marker.id}`);
+        }}
+        key={marker.id}
+        className={`relative ${nplStatus && nplStatus !== marker.npl ? "relative -z-1" : ""}`}
+      >
+        <svg
+          className={clsx(
+            "pin",
+            "transition-transform duration-500 origin-bottom",
+            siteId && siteId === marker.id ? "scale-200 !opacity-100" : null,
+            statuses[marker.npl as SiteNPLStatus],
+          )}
+          width={24}
+          height={24}
+          viewBox="0 0 24 24"
+        >
+          {/* <title>{marker.name}</title> */}
+          <path
+            d={`M20.2,15.7L20.2,15.7c1.1-1.6,1.8-3.6,1.8-5.7c0-5.6-4.5-10-10-10S2,4.5,2,10c0,2,0.6,3.9,1.6,5.4c0,0.1,0.1,0.2,0.2,0.3 c0,0,0.1,0.1,0.1,0.2c0.2,0.3,0.4,0.6,0.7,0.9c2.6,3.1,7.4,7.6,7.4,7.6s4.8-4.5,7.4-7.5c0.2-0.3,0.5-0.6,0.7-0.9 C20.1,15.8,20.2,15.8,20.2,15.7z`}
+          />
+        </svg>
+      </Marker>
+    ));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [nplStatus, siteId]);
+
   return (
     <div className="w-full h-full" ref={rootRef}>
       <style>{`.mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }`}</style>
@@ -78,35 +111,7 @@ export default function Layout({ children }: PropsWithChildren<object>) {
           inset: 0,
         }}
       >
-        {SITES.map((marker) => (
-          <Marker
-            anchor="bottom"
-            longitude={marker.lng}
-            latitude={marker.lat}
-            onClick={() => {
-              router.push(`/sites/${marker.id}`);
-            }}
-            key={marker.id}
-            className={`relative ${nplStatus && nplStatus !== marker.npl ? "relative -z-1" : ""}`}
-          >
-            <svg
-              className={[
-                "pin",
-                "transition-transform duration-500 origin-bottom",
-                siteId && siteId === marker.id ? "scale-200 !opacity-100" : "",
-                statuses[marker.npl as SiteNPLStatus],
-              ].join(" ")}
-              width={24}
-              height={24}
-              viewBox="0 0 24 24"
-            >
-              {/* <title>{marker.name}</title> */}
-              <path
-                d={`M20.2,15.7L20.2,15.7c1.1-1.6,1.8-3.6,1.8-5.7c0-5.6-4.5-10-10-10S2,4.5,2,10c0,2,0.6,3.9,1.6,5.4c0,0.1,0.1,0.2,0.2,0.3 c0,0,0.1,0.1,0.1,0.2c0.2,0.3,0.4,0.6,0.7,0.9c2.6,3.1,7.4,7.6,7.4,7.6s4.8-4.5,7.4-7.5c0.2-0.3,0.5-0.6,0.7-0.9 C20.1,15.8,20.2,15.8,20.2,15.7z`}
-              />
-            </svg>
-          </Marker>
-        ))}
+        {markers}
       </Map>
       <MainCard>{children}</MainCard>
     </div>
