@@ -58,7 +58,7 @@ export default async function Page({
   return (
     <>
       <MapZoom center={[site.lat, site.lng]} />
-      <SiteCard site={site} acres={acres === "1" ? "1 acre" : `${acres} acres`}>
+      <SiteCard site={site} acres={acres}>
         {site.id === "NYD000606947" ? (
           <section className="border border-black/10 rounded-lg bg-black/2 p-4 mt-4">
             <h2 className="text-lg text-center text-neutral-600 font-bold font-sans tracking-tight">

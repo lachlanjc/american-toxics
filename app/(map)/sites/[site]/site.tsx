@@ -108,7 +108,7 @@ function SiteDescription({
             <AIText message={message} onQuery={onQuery} />
           </div>
         ))}
-      <div className="flex items-center gap-2 mt-2 text-neutral-600 text-xs">
+      <div className="flex items-center gap-2.5 mt-2 text-neutral-500 text-xs">
         <OpenAIIcon className="w-5 h-5" />
         EPA information summarized by GPT-4.1
       </div>
@@ -163,7 +163,9 @@ export function SiteCard({
           {site.name} Superfund Site
         </HeaderTitle>
         <HeaderSubtitle>
-          {acres ? `${acres} in ` : ""}
+          {acres
+            ? `${["0", "1"].includes(acres) ? `${acres === "0" ? "<" : ""}1 acre` : `${acres} acres`} in `
+            : ""}
           {site.city},{" "}
           <Link
             href={`/states/${site.stateCode}`}
