@@ -2,7 +2,7 @@
 import { useEffect } from "react";
 import { useChat } from "@ai-sdk/react";
 import { useFocusable } from "@/lib/util/use-focusable";
-import { hasPlainSiteImage, Site } from "@/lib/data/site";
+import { hasPlainSiteImage, Site, SupabaseSite } from "@/lib/data/site";
 import { Link } from "next-view-transitions";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Root as Portal } from "@radix-ui/react-portal";
@@ -120,7 +120,7 @@ export function SiteCard({
   site,
   acres,
   children,
-}: React.PropsWithChildren<{ site: Site; acres?: string }>) {
+}: React.PropsWithChildren<{ site: SupabaseSite; acres?: string }>) {
   const ref = useFocusable();
   const {
     messages,
@@ -171,7 +171,7 @@ export function SiteCard({
             href={`/states/${site.stateCode}`}
             className="underline underline-offset-3 hover:text-primary transition-colors"
           >
-            <abbr title={site.stateName} className="no-underline">
+            <abbr title={site.stateName.toString()} className="no-underline">
               {site.stateCode}
             </abbr>
           </Link>{" "}

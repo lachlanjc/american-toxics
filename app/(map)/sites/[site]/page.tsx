@@ -35,30 +35,20 @@ export default async function Page({
   params: Promise<{ site: string }>;
 }) {
   const { site: siteId } = await params;
-  const site = findSiteById(siteId);
-  if (!site) {
+  const { data: site, error } = await supabase
+    .from("sites")
+    .select("*")
+    .eq("id", siteId)
+    .maybeSingle();
+  if (error || !site) {
+    console.error("Error fetching Supabase site data:", error);
     return notFound();
   }
-  const { data, error } = await supabase
-    .from("sites")
-    .select(
-      "mapboxNearby,acres,epaUrl,contactName,contactEmail,contactPhone,geometry",
-    )
-    .eq("id", site.id)
-    .maybeSingle();
-  if (error) {
-    console.error("Error fetching Supabase site data:", error);
-  }
-  const acres = data?.acres
-    ? data.acres.toLocaleString("en-US", {
-        maximumFractionDigits: 0,
-      })
-    : null;
 
   return (
     <>
       <MapZoom center={[site.lat, site.lng]} />
-      <SiteCard site={site} acres={acres}>
+      <SiteCard site={site}>
         {site.id === "NYD000606947" ? (
           <section className="border border-black/10 rounded-lg bg-black/2 p-4 mt-4">
             <h2 className="text-lg text-center text-neutral-600 font-bold font-sans tracking-tight">
@@ -67,9 +57,9 @@ export default async function Page({
           </section>
         ) : null}
         <SiteNPLStatusTimeline site={site} />
-        {data?.mapboxNearby && (
+        {site.mapboxNearby && (
           <Suspense>
-            <Nearby site={site} nearbyFeatures={data.mapboxNearby} />
+            <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
           </Suspense>
         )}
       </SiteCard>
