@@ -1,3 +1,5 @@
+import { Database } from "@/supabase/types";
+
 export interface Site {
   id: string;
   name: string;
@@ -16,6 +18,8 @@ export interface Site {
   lng: number;
   lat: number;
 }
+
+export type SupabaseSite = Database["public"]["Tables"]["sites"]["Row"];
 
 export type SiteNPLStatus = keyof typeof nplStatuses;
 

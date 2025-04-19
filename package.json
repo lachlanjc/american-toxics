@@ -6,12 +6,14 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "supabase:types": "bun x supabase gen types typescript > supabase/types.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.3.12",
     "@ai-sdk/react": "^1.2.9",
     "@alpaca-travel/react-maki-icons": "^3.0.0",
+    "@supabase/supabase-js": "^2.34.0",
     "@tailwindcss/typography": "^0.5.16",
     "ai": "^4.3.6",
     "clsx": "^2.1.1",
@@ -23,6 +25,7 @@
     "react-dom": "^19.1.0",
     "react-map-gl": "^8.0.3",
     "react-string-replace": "^1.1.1",
+    "supabase": "^2.20.12",
     "title": "^4.0.1",
     "vaul": "^1.1.2"
   },

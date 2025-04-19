@@ -16,8 +16,8 @@ import {
   Library,
   Doctor,
 } from "@alpaca-travel/react-maki-icons";
-import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
 import { getNearbySites, Site } from "@/lib/data/api";
+import { supabase } from "@/lib/supabaseClient";
 import { SiteList } from "../list";
 import { WellRoot, WellTitle } from "@/lib/ui/well";
 
@@ -77,7 +77,7 @@ const categories = [
   "prison",
   "fitness_centre",
 ] as const;
-const categoriesString = categories.join(",");
+
 const highlightedCategories: Record<
   keyof typeof categories,
   {
@@ -155,16 +155,13 @@ const listFormatter = new Intl.ListFormat("en-US", {
   type: "conjunction",
 });
 
-export async function Nearby({ site }: { site: Site }) {
-  const url = `https://api.mapbox.com/search/searchbox/v1/category/${categoriesString}?proximity=${site.lng},${site.lat}&language=en&poi_category_exclusions=medical_laboratory,alternative_healthcare&limit=12&access_token=${MAPBOX_TOKEN}`;
-  // console.log(url);
-  const mapbox = await fetch(url).then((res) => res.json());
-  let nearbyFeatures: Array<MapboxFeature> = mapbox.features ?? [];
-  // .filter((feat: MapboxFeature) => feat.properties?.distance <= 1609);
-  // Everything is over a mile away
-  if (nearbyFeatures.every((feat) => feat.properties?.distance > 1609)) {
-    nearbyFeatures = [];
-  }
+export async function Nearby({
+  site,
+  nearbyFeatures = [],
+}: {
+  site: Site;
+  nearbyFeatures: Array<MapboxFeature>;
+}) {
   // Dedupe by name
   nearbyFeatures = nearbyFeatures.filter(
     (feat, index) =>
@@ -199,7 +196,7 @@ export async function Nearby({ site }: { site: Site }) {
       if (categoryPOIs.length === 0) return null;
       const subcategories = search
         .map((termAndLabel) => {
-          let [term, label] = termAndLabel.split(":"); // eslint-disbale-line
+          let [term, label] = termAndLabel.split(":"); // eslint-disable-line
           label ??= term;
           const count = categoryPOIs.filter(
             (poi) =>
@@ -221,7 +218,7 @@ export async function Nearby({ site }: { site: Site }) {
     .filter((group) => group !== null);
 
   return (
-    <WellRoot className="mt-4 flex flex-col gap-y-2">
+    <WellRoot className="flex flex-col gap-y-2">
       <WellTitle>Within 1 mile</WellTitle>
       {nearbyFeatures.length > 0 &&
         nearbyFeatureGroups.map((group) => {

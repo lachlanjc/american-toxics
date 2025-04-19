@@ -4,6 +4,8 @@ import { allSites, findSiteById } from "@/lib/data/api";
 import { MapZoom } from "../../zoom";
 import { Nearby } from "./nearby";
 import { Suspense } from "react";
+import { supabase } from "@/lib/supabaseClient";
+import { SiteNPLStatusTimeline } from "./timeline";
 
 export const generateStaticParams = async () => {
   return allSites.map(({ id }) => ({ site: id }));
@@ -33,8 +35,13 @@ export default async function Page({
   params: Promise<{ site: string }>;
 }) {
   const { site: siteId } = await params;
-  const site = findSiteById(siteId);
-  if (!site) {
+  const { data: site, error } = await supabase
+    .from("sites")
+    .select("*")
+    .eq("id", siteId)
+    .maybeSingle();
+  if (error || !site) {
+    console.error("Error fetching Supabase site data:", error);
     return notFound();
   }
 
@@ -48,9 +55,11 @@ export default async function Page({
               This was the very first Superfund site!
             </h2>
           </section>
-        ) : (
+        ) : null}
+        <SiteNPLStatusTimeline site={site} />
+        {site.mapboxNearby && (
           <Suspense>
-            <Nearby site={site} />
+            <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
           </Suspense>
         )}
       </SiteCard>

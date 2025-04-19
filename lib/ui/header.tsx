@@ -80,7 +80,7 @@ export function HeaderTitle(props: ComponentProps<typeof Title>) {
 export function HeaderSubtitle({ children }: React.PropsWithChildren<object>) {
   return (
     <p
-      className="text-sm text-gray-600 text-pretty mt-2"
+      className="text-sm text-neutral-600 text-pretty mt-2"
       style={{ viewTransitionName: "header-subtitle" }}
     >
       {children}
