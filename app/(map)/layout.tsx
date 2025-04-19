@@ -7,7 +7,6 @@ import SITES from "@/lib/data/sites-mini.json" assert { type: "json" };
 import Map, { MapRef, Marker } from "react-map-gl/mapbox";
 import { useParams, useRouter } from "next/navigation";
 import { SiteNPLStatus } from "@/lib/data/site";
-import { MAPBOX_TOKEN } from "@/lib/util/mapbox";
 import clsx from "clsx";
 
 function MainCard({
@@ -103,7 +102,7 @@ export default function Layout({ children }: PropsWithChildren<object>) {
         ref={mapRef}
         initialViewState={initialViewState}
         mapStyle="mapbox://styles/mapbox/satellite-streets-v12"
-        mapboxAccessToken={MAPBOX_TOKEN}
+        mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN}
         style={{
           width: "100%",
           height: "100vh",
