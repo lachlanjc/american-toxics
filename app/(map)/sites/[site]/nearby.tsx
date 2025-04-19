@@ -155,19 +155,13 @@ const listFormatter = new Intl.ListFormat("en-US", {
   type: "conjunction",
 });
 
-export async function Nearby({ site }: { site: Site }) {
-  // Fetch predownloaded Mapbox nearby features from Supabase
-  const { data, error } = await supabase
-    .from("sites")
-    .select("")
-    .eq("id", site.id)
-    .maybeSingle();
-  if (error) {
-    console.error("Error fetching nearby features:", error);
-    return null;
-  }
-  console.log("mapboxNearby", data, site.id);
-  let nearbyFeatures: Array<MapboxFeature> = data?.mapboxNearby ?? [];
+export async function Nearby({
+  site,
+  nearbyFeatures = [],
+}: {
+  site: Site;
+  nearbyFeatures: Array<MapboxFeature>;
+}) {
   // Dedupe by name
   nearbyFeatures = nearbyFeatures.filter(
     (feat, index) =>
@@ -224,7 +218,7 @@ export async function Nearby({ site }: { site: Site }) {
     .filter((group) => group !== null);
 
   return (
-    <WellRoot className="mt-4 flex flex-col gap-y-2">
+    <WellRoot className="flex flex-col gap-y-2">
       <WellTitle>Within 1 mile</WellTitle>
       {nearbyFeatures.length > 0 &&
         nearbyFeatureGroups.map((group) => {
