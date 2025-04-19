@@ -81,7 +81,7 @@ function SiteDescription({
   site,
   onQuery,
 }: {
-  site: Site;
+  site: SupabaseSite;
   onQuery: (query: string) => void;
 }) {
   const { messages, append } = useChat({
@@ -118,9 +118,8 @@ function SiteDescription({
 
 export function SiteCard({
   site,
-  acres,
   children,
-}: React.PropsWithChildren<{ site: SupabaseSite; acres?: string }>) {
+}: React.PropsWithChildren<{ site: SupabaseSite }>) {
   const ref = useFocusable();
   const {
     messages,
@@ -143,7 +142,14 @@ export function SiteCard({
           m.parts.some((p) => p.type === "text" && p.text === q),
       ),
   );
-  // console.log(messages);
+  const acres = site.acres
+    ? Number(
+        site.acres.toLocaleString("en-US", {
+          maximumFractionDigits: 0,
+        }),
+      )
+    : null;
+
   return (
     <>
       {hasPlainSiteImage(site.id) && (
@@ -164,14 +170,14 @@ export function SiteCard({
         </HeaderTitle>
         <HeaderSubtitle>
           {acres
-            ? `${["0", "1"].includes(acres) ? `${acres === "0" ? "<" : ""}1 acre` : `${acres} acres`} in `
+            ? `${[0, 1].includes(acres) ? `${acres === 0 ? "<" : ""}1 acre` : `${acres} acres`} in `
             : ""}
           {site.city},{" "}
           <Link
             href={`/states/${site.stateCode}`}
             className="underline underline-offset-3 hover:text-primary transition-colors"
           >
-            <abbr title={site.stateName.toString()} className="no-underline">
+            <abbr title={site.stateName ?? ""} className="no-underline">
               {site.stateCode}
             </abbr>
           </Link>{" "}
