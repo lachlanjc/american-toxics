@@ -40,6 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+supabase/.temp
 lib/data/sites.geojson
 # lib/data/txt
-/supabase/.temp
+lib/data/timeline.md
+lib/data/timeline-listed.md
