@@ -9,6 +9,7 @@ import { Root as Portal } from "@radix-ui/react-portal";
 import { WellRoot } from "@/lib/ui/well";
 import reactStringReplace from "react-string-replace";
 import { UIMessage } from "@ai-sdk/ui-utils";
+import { OpenAIIcon } from "@/lib/ui/icons";
 
 const questions = [
   "What types of contaminants are present?",
@@ -175,6 +176,10 @@ function SiteDescription({
             <AIText message={message} onQuery={onQuery} />
           </div>
         ))}
+      <div className="flex items-center gap-2 mt-2 text-neutral-600 text-xs">
+        <OpenAIIcon className="w-5 h-5" />
+        EPA information summarized by GPT-4.1
+      </div>
     </section>
   );
 }
