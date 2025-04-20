@@ -7,6 +7,7 @@ const SvgFactory = (props: SVGProps<SVGSVGElement>) => (
     height={32}
     fill="currentColor"
     role="img"
+    viewBox="0 0 32 32"
     {...props}
   >
     <path

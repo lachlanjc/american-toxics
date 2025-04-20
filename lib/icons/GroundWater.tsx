@@ -1,12 +1,13 @@
 import * as React from "react";
 import type { SVGProps } from "react";
-const SvgGroundWater = (props: SVGProps<SVGSVGElement>) => (
+const SvgGroundwater = (props: SVGProps<SVGSVGElement>) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width={32}
     height={32}
     fill="currentColor"
     role="img"
+    viewBox="0 0 32 32"
     {...props}
   >
     <path
@@ -21,4 +22,4 @@ const SvgGroundWater = (props: SVGProps<SVGSVGElement>) => (
     />
   </svg>
 );
-export default SvgGroundWater;
+export default SvgGroundwater;

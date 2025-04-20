@@ -7,6 +7,7 @@ const SvgSoil = (props: SVGProps<SVGSVGElement>) => (
     height={32}
     fill="currentColor"
     role="img"
+    viewBox="0 0 32 32"
     {...props}
   >
     <path
@@ -17,7 +18,7 @@ const SvgSoil = (props: SVGProps<SVGSVGElement>) => (
     />
     <path
       fill=""
-      d="M17.5 9a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0M12 11a2 2 0 1 0 4 0 2 2 0 0 0-4 0m7.5 8.5a2 2 0 1 0 4 0 2 2 0 0 0-4 0M18 13a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0m-2.5 4a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0"
+      d="M17.5 9a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0M12 11a2 2 0 1 0 4 0 2 2 0 0 0-4 0M19.5 19.5a2 2 0 1 0 4 0 2 2 0 0 0-4 0M18 13a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0M15.5 17a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0"
     />
     <path
       fill=""
