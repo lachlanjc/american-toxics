@@ -1,0 +1,24 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const SvgSurfaceWater = (props: SVGProps<SVGSVGElement>) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={32}
+    height={32}
+    fill="currentColor"
+    role="img"
+    {...props}
+  >
+    <path
+      fill=""
+      fillRule="evenodd"
+      d="M16.01 28.012c-6.627 0-12-5.373-12-12 0-6.628 5.373-12 12-12 6.628 0 12 5.372 12 12 0 6.627-5.372 12-12 12m0-22c-5.522 0-10 4.477-10 10s4.478 10 10 10 10-4.477 10-10-4.477-10-10-10"
+      clipRule="evenodd"
+    />
+    <path
+      fill=""
+      d="M22.458 16.395a3.25 3.25 0 0 1 3.105 0q.43.237.895.384V11.5L19.5 5H14L6.458 9.5l-.895 7.279q.465-.147.895-.384a2.9 2.9 0 0 1 1.552-.394 2.9 2.9 0 0 1 1.553.394 4.86 4.86 0 0 0 2.447.606 4.86 4.86 0 0 0 2.448-.606 2.9 2.9 0 0 1 1.552-.394 2.9 2.9 0 0 1 1.553.394 5.25 5.25 0 0 0 4.895 0"
+    />
+  </svg>
+);
+export default SvgSurfaceWater;
