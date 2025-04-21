@@ -7,7 +7,7 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "next lint",
-    "icons": "bun x @svgr/cli --no-index --typescript --replace-attr-values #000= --svg-props fill=currentColor,role=img --out-dir lib/icons/ lib/svg/",
+    "icons": "bun x @svgr/cli --no-index --typescript --replace-attr-values #000=,black= --svg-props fill=currentColor,role=img,viewBox=\"0 0 32 32\" --out-dir lib/icons/ lib/svg/",
     "supabase:types": "bun x supabase gen types typescript --project-id wvuqhyuqzznhoiznaaub > supabase/types.ts"
   },
   "dependencies": {

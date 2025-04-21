@@ -9,10 +9,10 @@ const { data: allSites } = await supabase
   .from("sites")
   .select("id, semsId")
   .is("contaminants", null)
-  .limit(50);
+  .limit(250);
 
 for (const site of allSites || []) {
-  const url = `https://data.epa.gov/dmapservice/sems.envirofacts_contaminants/fk_site_id/equals/0${site.semsId}/1:10000/json`;
+  const url = `https://data.epa.gov/dmapservice/sems.envirofacts_contaminants/fk_site_id/equals/0${site.semsId}/1:1000/json`;
   const contaminants = await fetch(url)
     .then((res) => res.json())
     .then((data: Array<Record<string, string>> = []) => {
@@ -22,15 +22,12 @@ for (const site of allSites || []) {
       }));
     })
     .catch((err) => {
-      console.error(`Error fetching contaminants for ${site.id}: ${err}`);
+      console.error(`Error fetching contaminants for ${site.id}: ${err}`, url);
       return [];
     });
   if (contaminants.length === 0) {
-    console.error(
-      `No contaminants found for ${[site.id, site.semsId].join(" ")}`,
-      site.semsId.length,
-    );
-    continue;
+    console.log(`No contaminants found for`, site.id, url);
+    // continue;
   }
   const { error } = await supabase
     .from("sites")
@@ -39,12 +36,6 @@ for (const site of allSites || []) {
   if (error) {
     console.error("Error fetching site:", site.id, error);
   } else {
-    console.log(
-      "Updated site:",
-      site.id,
-      site.semsId,
-      site.semsId.length,
-      contaminants.length,
-    );
+    console.log("Updated site:", site.id, site.semsId, contaminants.length);
   }
 }
