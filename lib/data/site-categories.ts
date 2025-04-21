@@ -1,4 +1,3 @@
-import { JSX } from "react";
 import { SupabaseSite } from "./site";
 
 import SvgChemicals from "../icons/Chemicals";
@@ -13,12 +12,13 @@ import SvgWar from "../icons/War";
 import SvgWaste from "../icons/Waste";
 import SvgDryCleaning from "../icons/DryCleaning";
 import SvgMetal from "../icons/Metal";
+import { IconComponent } from "../util/types";
 
 export const categories: Record<
   Exclude<SupabaseSite["category"], null>,
   {
     color: string;
-    icon: (props: { className?: string }) => JSX.Element;
+    icon: IconComponent;
     name: string;
     desc?: string;
   }

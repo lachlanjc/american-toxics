@@ -1,44 +1,17 @@
-import {
-  School,
-  College,
-  PlaceOfWorship,
-  Park,
-  Soccer,
-  Baseball,
-  Basketball,
-  Waterfall,
-  FitnessCentre,
-  Natural,
-  Danger,
-  Prison,
-  Wheelchair,
-  Marker,
-  Library,
-  Doctor,
-} from "@alpaca-travel/react-maki-icons";
 import { getNearbySites, Site } from "@/lib/data/api";
-import { supabase } from "@/lib/supabaseClient";
 import { SiteList } from "../list";
 import { WellRoot, WellTitle } from "@/lib/ui/well";
-
-export const icons = {
-  school: School,
-  college: College,
-  "place-of-worship": PlaceOfWorship,
-  park: Park,
-  soccer: Soccer,
-  baseball: Baseball,
-  basketball: Basketball,
-  waterfall: Waterfall,
-  natural: Natural,
-  "fitness-centre": FitnessCentre,
-  prison: Prison,
-  doctor: Doctor,
-  marker: Marker,
-  wheelchair: Wheelchair,
-  danger: Danger,
-  library: Library,
-};
+import SvgSchool from "@/lib/icons/School";
+import SvgLibrary from "@/lib/icons/Library";
+import SvgDoctor from "@/lib/icons/Doctor";
+import SvgTree from "@/lib/icons/Tree";
+import SvgChurch from "@/lib/icons/Church";
+import SvgWheelchair from "@/lib/icons/Wheelchair";
+import SvgGym from "@/lib/icons/Gym";
+import SvgPrison from "@/lib/icons/Prison";
+import SvgChevronDown from "@/lib/icons/ChevronDown";
+import SvgWarning from "@/lib/icons/Warning";
+import { IconComponent } from "@/lib/util/types";
 
 function metersToMiles(meters: number) {
   const miles = meters * 0.000621371;
@@ -83,14 +56,14 @@ const highlightedCategories: Record<
   {
     name: string;
     namePlural?: string;
-    icon: keyof typeof icons;
+    icon: IconComponent;
     search: Array<string>;
   }
 > = {
   // @ts-expect-error it literally is
   education: {
     name: "school",
-    icon: "college",
+    icon: SvgSchool,
     search: [
       "daycare",
       "preschool",
@@ -108,47 +81,35 @@ const highlightedCategories: Record<
   library: {
     name: "library",
     namePlural: "libraries",
-    icon: "library",
+    icon: SvgLibrary,
     search: ["public", "university"],
   },
   health_services: {
     name: "doctor",
     namePlural: "doctors",
-    icon: "doctor",
+    icon: SvgDoctor,
     search: ["pediatric", "va:veterans", "senior:senior care", "hospital"],
   },
   outdoors: {
     name: "park",
-    icon: "park",
+    icon: SvgTree,
     search: ["playground", "basketball", "soccer", "trail", "campground"],
   },
   church: {
     name: "church",
-    icon: "place-of-worship",
     namePlural: "churches",
+    icon: SvgChurch,
     search: ["synagogue"],
   },
   assisted_living_facility: {
     name: "assisted living facility",
     namePlural: "assisted living facilities",
-    icon: "wheelchair",
+    icon: SvgWheelchair,
     search: [],
   },
-  fitness_centre: { name: "gym", icon: "fitness-centre", search: [] },
-  prison: { name: "prison", icon: "prison", search: ["state", "federal"] },
+  fitness_centre: { name: "gym", icon: SvgGym, search: [] },
+  prison: { name: "prison", icon: SvgPrison, search: ["state", "federal"] },
 } as const;
-
-function MakiIcon({
-  icon,
-  className,
-}: {
-  icon: string | keyof typeof icons;
-  className?: string;
-}) {
-  // @ts-expect-error icon might be generic string
-  const Icon = icons[icon] ?? Marker;
-  return <Icon className={className} />;
-}
 
 const listFormatter = new Intl.ListFormat("en-US", {
   style: "short",
@@ -263,7 +224,7 @@ export async function Nearby({
         })}
       {nearbySites.length > 0 && (
         <PlaceGroup
-          icon="danger"
+          icon={SvgWarning}
           title={
             <span className="font-sans text-base">
               {nearbySites.length === 1 ? "Another" : nearbySites.length}{" "}
@@ -287,23 +248,19 @@ function PlaceGroup({
   title,
   children,
 }: React.PropsWithChildren<{
-  icon: keyof typeof icons;
+  icon: IconComponent;
   title: React.ReactNode;
 }>) {
+  const Icon = icon;
   return (
     <details>
       <summary className="flex gap-2 items-center cursor-pointer">
-        <MakiIcon
-          icon={icon}
-          className="w-4 h-4 fill-neutral-400 self-center"
-        />
+        <Icon className="w-4 h-4 fill-neutral-400 self-center" aria-hidden />
         <div>{title}</div>
-        <small
-          className="font-mono text-neutral-500 text-sm ml-auto select-none in-open:-rotate-45 transition-transform"
+        <SvgChevronDown
+          className="w-4 h-4 -mr-1 ml-auto text-neutral-600 transition-transform in-open:rotate-180"
           aria-hidden
-        >
-          +
-        </small>
+        />
       </summary>
       {children}
     </details>

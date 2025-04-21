@@ -59,9 +59,7 @@ export default async function Page({
         ) : null}
         <SiteNPLStatusTimeline site={site} />
         {site.mapboxNearby && (
-          <Suspense>
-            <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
-          </Suspense>
+          <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
         )}
         {Array.isArray(site.contaminants) && site.contaminants.length > 0 && (
           <Contaminants contaminants={site.contaminants} />

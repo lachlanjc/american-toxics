@@ -192,7 +192,7 @@ export function SiteCard({
             {category ? (
               <Link
                 href={`/categories/${site.category}`}
-                className="flex items-center gap-1 w-fit font-sans rounded-full border border-black/10 px-2 py-0.5 text-base font-medium bg-black/5 tracking-normal text-neutral-800 transition-colors"
+                className="flex items-start gap-1 w-fit font-sans rounded-full border border-black/10 px-2 py-1 text-base font-medium bg-black/5 tracking-normal leading-none text-neutral-800 transition-colors"
                 style={{ viewTransitionName: site.category || undefined }}
               >
                 {CategoryIcon && (
