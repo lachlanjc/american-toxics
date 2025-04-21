@@ -1,4 +1,7 @@
 import { WellRoot, WellTitle } from "@/lib/ui/well";
+import { ContaminantList, processContaminants } from "@/lib/util/contaminants";
+import clsx from "clsx";
+
 import SvgAir from "@/lib/icons/Air";
 import SvgBuildings from "@/lib/icons/Buildings";
 import SvgFish from "@/lib/icons/Fish";
@@ -17,8 +20,6 @@ import SvgSolidWaste from "@/lib/icons/SolidWaste";
 import SvgSurfaceWater from "@/lib/icons/SurfaceWater";
 import SvgDebris from "@/lib/icons/Debris";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
-import { prettifyContaminantArray } from "@/lib/util/contaminants";
-import clsx from "clsx";
 
 const colors: Record<string, string> = {
   water: "text-blue-700/60",
@@ -27,10 +28,13 @@ const colors: Record<string, string> = {
   neutral: "text-neutral-900/50",
 };
 
-export const groupings: Record<
-  string,
-  { color: string; icon: unknown; alias?: string }
-> = {
+interface Grouping {
+  color: string;
+  icon: unknown;
+  alias?: string;
+}
+
+export const groupings: Record<string, Grouping> = {
   "Landfill Gas": {
     color: colors.air,
     icon: SvgLandfillGas,
@@ -92,8 +96,8 @@ function ContaminantGroup({
   title: string;
   contaminants: Array<string>;
 }>) {
-  const grouping = groupings[title];
-  const Icon = grouping.icon as React.FC<React.SVGProps<SVGSVGElement>>;
+  const grouping: Grouping | undefined = groupings[title];
+  const Icon = grouping?.icon as React.FC<React.SVGProps<SVGSVGElement>>;
   return (
     <details className="mt-1">
       <summary className="flex gap-2 items-center cursor-pointer">
@@ -106,7 +110,7 @@ function ContaminantGroup({
           />
         )}
         <span className="font-sans text-base">
-          {grouping.alias || title}
+          {grouping?.alias || title}
           <small className="font-mono text-xs text-neutral-600 ml-1">
             ({contaminants.length} contaminant
             {contaminants.length === 1 ? "" : "s"})
@@ -129,10 +133,6 @@ function ContaminantGroup({
   );
 }
 
-type ContaminantList = Array<{
-  name: string;
-  media: string;
-}>;
 export function Contaminants({
   contaminants,
 }: {
@@ -154,21 +154,4 @@ export function Contaminants({
       ))}
     </WellRoot>
   );
-}
-
-function processContaminants(contaminants: ContaminantList) {
-  let list = contaminants.map((c) => c.name);
-  list = list.filter((c, i) => list.indexOf(c) === i);
-  list = prettifyContaminantArray(list);
-  // sort but put formulas starting with numbers at the end
-  list = list.sort((a, b) => {
-    if (a.match(/^\d+/) && !b.match(/^\d+/)) {
-      return 1;
-    }
-    if (!a.match(/^\d+/) && b.match(/^\d+/)) {
-      return -1;
-    }
-    return a.localeCompare(b);
-  });
-  return list;
 }

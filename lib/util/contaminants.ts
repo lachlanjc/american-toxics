@@ -53,10 +53,23 @@ export function prettifyChemicalName(raw: string): string {
   return s;
 }
 
-/* ------------------------------------------------------------------ */
-/*  Convenience helpers for your data structures                      */
-/* ------------------------------------------------------------------ */
-
-// For simple string arrays
-export const prettifyContaminantArray = (arr: string[]) =>
-  arr.map(prettifyChemicalName);
+export type ContaminantList = Array<{
+  name: string;
+  media: string;
+}>;
+export function processContaminants(contaminants: ContaminantList) {
+  let list = contaminants.map((c) => c.name);
+  list = list.filter((c, i) => list.indexOf(c) === i);
+  list = list.map(prettifyChemicalName);
+  // sort but put formulas starting with numbers at the end
+  list = list.sort((a, b) => {
+    if (a.match(/^\d+/) && !b.match(/^\d+/)) {
+      return 1;
+    }
+    if (!a.match(/^\d+/) && b.match(/^\d+/)) {
+      return -1;
+    }
+    return a.localeCompare(b);
+  });
+  return list;
+}
