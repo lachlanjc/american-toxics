@@ -158,8 +158,17 @@ export function Contaminants({
 
 function processContaminants(contaminants: ContaminantList) {
   let list = contaminants.map((c) => c.name);
-  list = list.filter((c, i) => list.indexOf(c) === i).sort();
+  list = list.filter((c, i) => list.indexOf(c) === i);
   list = prettifyContaminantArray(list);
-  console.log(list);
+  // sort but put formulas starting with numbers at the end
+  list = list.sort((a, b) => {
+    if (a.match(/^\d+/) && !b.match(/^\d+/)) {
+      return 1;
+    }
+    if (!a.match(/^\d+/) && b.match(/^\d+/)) {
+      return -1;
+    }
+    return a.localeCompare(b);
+  });
   return list;
 }
