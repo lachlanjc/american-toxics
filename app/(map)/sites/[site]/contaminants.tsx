@@ -20,77 +20,139 @@ import SvgSolidWaste from "@/lib/icons/SolidWaste";
 import SvgSurfaceWater from "@/lib/icons/SurfaceWater";
 import SvgDebris from "@/lib/icons/Debris";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
+import { IconComponent } from "@/lib/util/types";
 
 const colors: Record<string, string> = {
-  water: "text-sky-700/60",
-  air: "text-teal-700/60",
-  ground: "text-yellow-900/60",
-  neutral: "text-neutral-900/50",
+  water: "text-sky-700",
+  air: "text-teal-700",
+  ground: "text-yellow-900",
+  neutral: "text-neutral-500",
 };
 
 interface Grouping {
+  category: "air" | "water" | "ground" | "neutral";
   color: string;
-  icon: unknown;
-  alias?: string;
+  icon: IconComponent;
+  label?: string;
+  desc?: string;
 }
 
 export const groupings: Record<string, Grouping> = {
-  "Landfill Gas": {
+  Air: {
+    category: "air",
     color: colors.air,
-    icon: SvgLandfillGas,
-    alias: "Gases from landfill",
+    icon: SvgAir,
+    desc: "Burning, evaporating, or spraying toxics can all pollute air. Contamination can also rise as dust or vapors from soil or groundwater.",
   },
   "Soil Gas": {
+    category: "air",
     color: colors.air,
     icon: SvgSoilGas,
-    alias: "Vapors from soil",
+    label: "Vapors from soil",
+    desc: "Invisible vapors trapped between soil particles can rise into buildings’ air, causing chronic health issues. This is called “vapor intrusion.”",
   },
-  Air: { color: "text-teal-900/60", icon: SvgAir },
+  "Landfill Gas": {
+    category: "air",
+    color: colors.air,
+    icon: SvgLandfillGas,
+    label: "Gases from landfill",
+    desc: "Dangerous gases can seep out of buried waste into buildings above, causing explosions and health issues.",
+  },
 
   "Liquid Waste": {
+    category: "water",
     color: colors.water,
     icon: SvgLiquidWaste,
-    alias: "Liquid waste",
+    label: "Liquid waste",
+    desc: "Liquid industrial chemicals and toxic byproducts can easily flow into water if not properly contained.",
   },
-  Groundwater: { color: colors.water, icon: SvgGroundwater },
   "Surface Water": {
+    category: "water",
     color: colors.water,
     icon: SvgSurfaceWater,
-    alias: "Surface water",
+    label: "Surface water",
+    desc: "Runoff, spills, or direct discharge can pollute water. Carried by streams, rivers, & lakes downstream, it can affect drinking water & wildlife.",
   },
-  Sediment: { color: colors.water, icon: SvgSediment },
-  "Fish Tissue": { color: colors.water, icon: SvgFish },
+  Groundwater: {
+    category: "water",
+    color: colors.water,
+    icon: SvgGroundwater,
+    desc: "Underground water supplies feed wells and springs, often contaminated by chemicals seeping or spilling down.",
+  },
+  "Fish Tissue": {
+    category: "water",
+    color: colors.water,
+    icon: SvgFish,
+    label: "Fish",
+    desc: "Contaminants can accumulate in the bodies of fish from water & sediment, potentially exposing humans & wildlife.",
+  },
   Leachate: {
+    category: "water",
     color: colors.water,
     icon: SvgLeachate,
-    alias: "Rainwater runoff",
+    label: "Rainwater runoff",
+    desc: "As rainwater flows through contamination, it forms toxic, odorous leachate or “garbage juice” that leaks downstream.",
   },
-  NAPL: { color: colors.water, icon: SvgNapl, alias: "Non-soluble liquids" },
+  NAPL: {
+    category: "water",
+    color: colors.water,
+    icon: SvgNapl,
+    label: "Non-soluble liquids",
+    desc: "Oil-like substances that do not mix with water, such as gasoline & motor oil, can form persistent underground plumes.",
+  },
 
   "Solid Waste": {
+    category: "ground",
     color: colors.ground,
     icon: SvgSolidWaste,
-    alias: "Solid waste",
+    label: "Solid waste",
+    desc: "Discarded municipal garbage, industrial byproducts, & manufacturing waste can release harmful substances as it breaks down.",
   },
-  Debris: { color: colors.ground, icon: SvgDebris },
+  Debris: {
+    category: "ground",
+    color: colors.ground,
+    icon: SvgDebris,
+    desc: "Scattered waste materials, discarded equipment, & building rubble can contain asbestos, lead paint, PCBs, or other hazards.",
+  },
+  Sediment: {
+    category: "ground",
+    color: colors.ground,
+    icon: SvgSediment,
+    desc: "Mud, sand, & debris settles to the bottom of rivers, lakes, & oceans. It can trap heavy metals & pollutants for years.",
+  },
   Sludge: {
+    category: "ground",
     color: colors.ground,
     icon: SvgSludge,
-    alias: "Wastewater treatment solids",
+    // label: "Wastewater treatment solids",
+    desc: "Semi-solid sludge from wastewater treatment can contain heavy metals & PFAS and be stored in pits/lagoons.",
   },
-  Soil: { color: colors.ground, icon: SvgSoil },
+  Soil: {
+    category: "ground",
+    color: colors.ground,
+    icon: SvgSoil,
+    desc: "Soil can absorb and hold onto pollutants for decades.",
+  },
 
   "Buildings/Structures": {
-    color: colors.neutral,
+    category: "ground",
+    color: colors.ground,
     icon: SvgBuildings,
-    alias: "Buildings/structures",
+    label: "Buildings/structures",
+    desc: "Homes, factories, & other constructions may contain lead paint, asbestos, or absorbed chemicals in their materials.",
   },
   Residuals: {
+    category: "air",
     color: colors.neutral,
     icon: SvgResiduals,
-    alias: "Cleanup byproducts",
+    label: "Residuals",
+    desc: "After cleanup efforts, contaminants can remain in the soil, sediment, or groundwater.",
   },
-  Other: { color: colors.neutral, icon: SvgOther },
+  Other: {
+    category: "air",
+    color: colors.neutral,
+    icon: SvgOther,
+  },
 };
 
 function ContaminantGroup({
@@ -115,7 +177,7 @@ function ContaminantGroup({
         )}
         <span>
           <strong className="font-sans text-base font-medium">
-            {grouping?.alias || title}
+            {grouping?.label || title}
           </strong>
           <small className="font-mono text-xs text-neutral-600 ml-1">
             ({contaminants.length} contaminant

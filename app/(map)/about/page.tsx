@@ -1,6 +1,8 @@
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
-import { Title } from "@/lib/ui/typography";
+import { Heading, Title } from "@/lib/ui/typography";
 import Link from "next/link";
+import { groupings } from "../sites/[site]/contaminants";
+import clsx from "clsx";
 
 export default function About() {
   return [
@@ -83,5 +85,40 @@ export default function About() {
         Source: <a href="https://www.epa.gov/superfund/what-superfund">EPA</a>.
       </p>
     </article>,
+    <hr key="hr1" className="border-black/20 -mx-6 my-6" />,
+    <section key="media">
+      <Heading>Types of contamination</Heading>
+      <ul className="flex flex-col gap-4" role="list">
+        {Object.keys(groupings)
+          .filter((key) => key !== "other")
+          .map((key) => {
+            const media = groupings[key as keyof typeof groupings];
+            const Icon = media.icon;
+            return (
+              <li
+                key={key}
+                className="grid grid-cols-[auto_1fr] w-full gap-x-4 items-start md:max-w-md py-2"
+              >
+                <Icon
+                  width={48}
+                  height={48}
+                  className={clsx(media.color, "-ml-2")}
+                  aria-hidden
+                />
+                <div>
+                  <strong className="font-sans text-lg md:text-2xl font-medium text-black">
+                    {media.label || key}
+                  </strong>
+                  {media.desc && (
+                    <p className="mt-1 text-pretty text-neutral-600">
+                      {media.desc}
+                    </p>
+                  )}
+                </div>
+              </li>
+            );
+          })}
+      </ul>
+    </section>,
   ];
 }

@@ -46,9 +46,10 @@ export function prettifyChemicalName(raw: string): string {
   s = s.replace(/(^|[\s(])([a-z])/, (_, pre, c) => pre + c.toUpperCase());
 
   // ⬤ 7. restore the true uppercase abbreviations
-  s = s.replace(/§([A-Z]+)§/g, (_, abbr) => abbr);
+  s = s.replace(/§([a-z]+)§/g, (_, abbr) =>
+    abbr.toUpperCase().replace(/S\)?$/, "s"),
+  );
   s = s.replace("(Cis and", "(cis &");
-  s = s.replaceAll("§", "");
 
   return s;
 }
