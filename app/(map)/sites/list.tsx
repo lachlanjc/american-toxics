@@ -19,11 +19,9 @@ function SiteNPLStatusIcon({
 
 export function SiteList({
   sites,
-  // onSelect,
   ...props
 }: {
-  sites: Array<Site>;
-  // onSelect?: (site: Site) => void;
+  sites: Array<Pick<Site, "id" | "name" | "npl" | "city" | "stateCode">>;
 } & React.ComponentPropsWithoutRef<"ul">) {
   return (
     <ul {...props}>

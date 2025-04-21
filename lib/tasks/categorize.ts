@@ -1,5 +1,5 @@
 import { Site } from "../data/site";
-import { allSites } from "../data/api";
+// import { allSites } from "../data/api";
 import { supabase } from "../supabaseClient";
 
 const siteTypes: Record<string, Array<string>> = {
@@ -159,6 +159,7 @@ for (const site of allSites || []) {
 }
 
 // FOR DEVELOPMENT
+/*
 export const classifySites = (sites: Site[]): Record<string, Array<string>> => {
   const classifiedSites: Record<string, Array<string>> = {};
   sites.forEach((site) => {
@@ -211,4 +212,5 @@ export const classifyAllSitesToFile = () => {
   console.log("Wrote classified sites file");
 };
 
-// classifyAllSitesToFile();
+classifyAllSitesToFile();
+*/
