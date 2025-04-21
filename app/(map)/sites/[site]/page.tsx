@@ -7,6 +7,7 @@ import { Suspense } from "react";
 import { supabase } from "@/lib/supabaseClient";
 import { SiteNPLStatusTimeline } from "./timeline";
 import { Contaminants } from "./contaminants";
+import { Contact } from "./contact";
 
 export const generateStaticParams = async () => {
   return allSites.map(({ id }) => ({ site: id }));
@@ -64,6 +65,7 @@ export default async function Page({
         {Array.isArray(site.contaminants) && site.contaminants.length > 0 && (
           <Contaminants contaminants={site.contaminants} />
         )}
+        {site.contactName && <Contact site={site} />}
       </SiteCard>
     </>
   );
