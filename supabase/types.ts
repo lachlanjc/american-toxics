@@ -16,6 +16,7 @@ export type Database = {
           contactEmail: string | null
           contactName: string | null
           contactPhone: string | null
+          contaminants: Json | null
           county: string | null
           dateCompleted: string | null
           dateDeleted: string | null
@@ -40,6 +41,7 @@ export type Database = {
           contactEmail?: string | null
           contactName?: string | null
           contactPhone?: string | null
+          contaminants?: Json | null
           county?: string | null
           dateCompleted?: string | null
           dateDeleted?: string | null
@@ -64,6 +66,7 @@ export type Database = {
           contactEmail?: string | null
           contactName?: string | null
           contactPhone?: string | null
+          contaminants?: Json | null
           county?: string | null
           dateCompleted?: string | null
           dateDeleted?: string | null

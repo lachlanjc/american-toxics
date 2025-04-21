@@ -6,6 +6,7 @@ import { Nearby } from "./nearby";
 import { Suspense } from "react";
 import { supabase } from "@/lib/supabaseClient";
 import { SiteNPLStatusTimeline } from "./timeline";
+import { Contaminants } from "./contaminants";
 
 export const generateStaticParams = async () => {
   return allSites.map(({ id }) => ({ site: id }));
@@ -61,6 +62,9 @@ export default async function Page({
           <Suspense>
             <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
           </Suspense>
+        )}
+        {Array.isArray(site.contaminants) && site.contaminants.length > 0 && (
+          <Contaminants contaminants={site.contaminants} />
         )}
       </SiteCard>
     </>

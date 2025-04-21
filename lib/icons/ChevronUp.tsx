@@ -11,7 +11,6 @@ const SvgChevronUp = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <path
-      fill=""
       fillRule="evenodd"
       d="m22.809 19.227-6.795-6.798-6.795 6.798a1 1 0 0 1-1.415-1.415l7.502-7.506a1 1 0 0 1 1.415 0l7.502 7.506a1 1 0 0 1-1.414 1.415"
       clipRule="evenodd"
