@@ -12,6 +12,7 @@ export type Database = {
       sites: {
         Row: {
           acres: number | null
+          category: Database["public"]["Enums"]["Category"] | null
           city: string | null
           contactEmail: string | null
           contactName: string | null
@@ -37,6 +38,7 @@ export type Database = {
         }
         Insert: {
           acres?: number | null
+          category?: Database["public"]["Enums"]["Category"] | null
           city?: string | null
           contactEmail?: string | null
           contactName?: string | null
@@ -62,6 +64,7 @@ export type Database = {
         }
         Update: {
           acres?: number | null
+          category?: Database["public"]["Enums"]["Category"] | null
           city?: string | null
           contactEmail?: string | null
           contactName?: string | null
@@ -95,7 +98,20 @@ export type Database = {
       [_ in never]: never
     }
     Enums: {
-      [_ in never]: never
+      Category:
+        | "military"
+        | "mining"
+        | "fuel"
+        | "dryclean"
+        | "chemical"
+        | "manufacturing"
+        | "metal"
+        | "wood"
+        | "tech"
+        | "water"
+        | "waste"
+        | "other"
+        | "unknown"
     }
     CompositeTypes: {
       [_ in never]: never
@@ -210,6 +226,22 @@ export type CompositeTypes<
 
 export const Constants = {
   public: {
-    Enums: {},
+    Enums: {
+      Category: [
+        "military",
+        "mining",
+        "fuel",
+        "dryclean",
+        "chemical",
+        "manufacturing",
+        "metal",
+        "wood",
+        "tech",
+        "water",
+        "waste",
+        "other",
+        "unknown",
+      ],
+    },
   },
 } as const

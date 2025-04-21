@@ -59,7 +59,7 @@ export const groupings: Record<string, Grouping> = {
     alias: "Surface water",
   },
   Sediment: { color: colors.water, icon: SvgSediment },
-  Fish: { color: colors.water, icon: SvgFish },
+  "Fish Tissue": { color: colors.water, icon: SvgFish },
   Leachate: {
     color: colors.water,
     icon: SvgLeachate,
@@ -100,7 +100,7 @@ function ContaminantGroup({
   const Icon = grouping?.icon as React.FC<React.SVGProps<SVGSVGElement>>;
   return (
     <details className="mt-1">
-      <summary className="flex gap-2 items-center cursor-pointer">
+      <summary className="flex gap-2 items-center cursor-pointer overflow-clip">
         {Icon && (
           <Icon
             width={16}

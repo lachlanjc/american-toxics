@@ -9,6 +9,8 @@ import { Root as Portal } from "@radix-ui/react-portal";
 import reactStringReplace from "react-string-replace";
 import { UIMessage } from "@ai-sdk/ui-utils";
 import { OpenAIIcon } from "@/lib/ui/icons";
+import { categories } from "@/lib/data/site-categories";
+import clsx from "clsx";
 
 const questions = [
   "What types of contaminants are present?",
@@ -142,6 +144,8 @@ export function SiteCard({
           m.parts.some((p) => p.type === "text" && p.text === q),
       ),
   );
+  const category = site.category ? categories[site.category] : null;
+  const CategoryIcon = category?.icon;
   const acres = site.acres
     ? Number(
         site.acres.toLocaleString("en-US", {
@@ -169,9 +173,6 @@ export function SiteCard({
           {site.name} Superfund Site
         </HeaderTitle>
         <HeaderSubtitle>
-          {acres
-            ? `${[0, 1].includes(acres) ? `${acres === 0 ? "<" : ""}1 acre` : `${acres} acres`} in `
-            : ""}
           {site.city},{" "}
           <Link
             href={`/states/${site.stateCode}`}
@@ -184,6 +185,37 @@ export function SiteCard({
           ({site.county} County)
         </HeaderSubtitle>
       </HeaderRoot>
+      <dl className="grid grid-cols-2 mb-4">
+        <div>
+          <dt className="text-neutral-600 text-xs uppercase mb-1">Category</dt>
+          <dd>
+            {category ? (
+              <Link
+                href={`/categories/${site.category}`}
+                className="flex items-center gap-1 w-fit font-sans rounded-full border border-black/10 px-2 py-0.5 text-base font-medium bg-black/5 tracking-normal text-neutral-800 transition-colors"
+                style={{ viewTransitionName: site.category || undefined }}
+              >
+                {CategoryIcon && (
+                  <CategoryIcon className={clsx(category.color, "w-4 h-4")} />
+                )}
+                {category.name}
+              </Link>
+            ) : (
+              "—"
+            )}
+          </dd>
+        </div>
+        <div>
+          <dt className="text-neutral-600 text-xs uppercase mb-1">Size</dt>
+          <dd className="font-sans text-base">
+            {acres
+              ? [0, 1].includes(acres)
+                ? `${acres === 0 ? "<" : ""}1 acre`
+                : `${acres} acres`
+              : "—"}
+          </dd>
+        </div>
+      </dl>
       {children}
       <SiteDescription
         site={site}

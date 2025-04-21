@@ -1,5 +1,6 @@
 import { Search } from "@/app/(map)/sites/search";
 import { nplStatuses } from "@/lib/data/site";
+import { categories } from "@/lib/data/site-categories";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { GitHubIcon } from "@/lib/ui/icons";
 import { Link } from "next-view-transitions";
@@ -8,7 +9,7 @@ export default function Page() {
   return (
     <>
       <HeaderRoot showClose={false}>
-        <HeaderTitle>Superfund Sites</HeaderTitle>
+        <HeaderTitle>American Toxics</HeaderTitle>
         <a
           href="https://github.com/lachlanjc/superfund"
           className="opacity-40 transition-opacity hover:opacity-50 absolute top-0 right-0"
@@ -77,11 +78,33 @@ export default function Page() {
           <br />
           Cleanup Progress
         </Link>
-        <Link href="/about" className="action-button flex items-end p-4">
+        <Link
+          href="/categories"
+          className="action-button flex flex-col items-start gap-2 p-4 py-3.5"
+        >
+          <div className="flex -gap-2 -ml-1">
+            {[
+              "chemical",
+              "military",
+              "manufacturing",
+              "water",
+              "mining",
+              "fuel",
+            ]
+              .map((cat) => categories[cat as keyof typeof categories])
+              .map(({ color, icon: Icon }) => (
+                <Icon key={color} className={`w-5 h-5 ${color}`} />
+              ))}
+          </div>
+          Explore
+          <br />
+          by Category
+        </Link>
+        {/* <Link href="/about" className="action-button flex items-end p-4">
           About
           <br />
           Superfund
-        </Link>
+        </Link> */}
       </div>
       <hr className="border-black/20 -mx-6 my-6" />
       <Search>

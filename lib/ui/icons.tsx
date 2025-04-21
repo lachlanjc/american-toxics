@@ -29,7 +29,7 @@ export function GitHubIcon() {
     <svg
       width="24"
       height="24"
-      stroke-linejoin="round"
+      strokeLinejoin="round"
       viewBox="0 0 16 16"
       aria-hidden
     >
