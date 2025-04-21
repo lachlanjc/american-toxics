@@ -8,7 +8,9 @@ const geojson = (await geojsonFile.json()) as unknown as {
 
 const { data: allSites, error: sitesError } = await supabase
   .from("sites")
-  .select("id");
+  .select("id")
+  .is("acres", null);
+// .limit(250);
 
 for (const site of allSites || []) {
   const feature = geojson.features.find(

@@ -179,7 +179,7 @@ export async function Nearby({
     .filter((group) => group !== null);
 
   return (
-    <WellRoot className="flex flex-col gap-y-2">
+    <WellRoot className="flex flex-col gap-y-1.5">
       <WellTitle>Within 1 mile</WellTitle>
       {nearbyFeatures.length > 0 &&
         nearbyFeatureGroups.map((group) => {
@@ -236,7 +236,7 @@ export async function Nearby({
             </span>
           }
         >
-          <SiteList sites={nearbySites} className="ml-1" />
+          <SiteList sites={nearbySites} className="ml-2" />
         </PlaceGroup>
       )}
     </WellRoot>
@@ -255,10 +255,17 @@ function PlaceGroup({
   return (
     <details>
       <summary className="flex gap-2 items-center cursor-pointer">
-        <Icon className="w-4 h-4 fill-neutral-400 self-center" aria-hidden />
+        <Icon
+          width={20}
+          height={20}
+          className="fill-neutral-400 self-center"
+          aria-hidden
+        />
         <div>{title}</div>
         <SvgChevronDown
-          className="w-4 h-4 -mr-1 ml-auto text-neutral-600 transition-transform in-open:rotate-180"
+          width={20}
+          height={20}
+          className="-mr-1 ml-auto text-neutral-400 transition-transform in-open:rotate-180"
           aria-hidden
         />
       </summary>
@@ -269,7 +276,10 @@ function PlaceGroup({
 
 function MapboxFeatureList({ features }: { features: Array<MapboxFeature> }) {
   return (
-    <ol className="grid grid-cols-[1fr_auto] gap-x-2 gap-y-1 pl-6 items-baseline">
+    <ol
+      className="grid grid-cols-[1fr_auto] gap-x-2 gap-y-1 pl-7 items-baseline"
+      role="list"
+    >
       {features.map((feature) => {
         const dist = metersToMiles(feature.properties.distance);
         return (
@@ -278,7 +288,7 @@ function MapboxFeatureList({ features }: { features: Array<MapboxFeature> }) {
             role="listitem"
             key={feature.properties.mapbox_id}
           >
-            <span className="w-full font-sans text-base truncate">
+            <span className="w-full font-sans text-base truncate text-neutral-600">
               {feature.properties.name}
             </span>
             <small

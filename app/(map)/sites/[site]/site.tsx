@@ -99,13 +99,13 @@ function SiteDescription({
     }
   }, [site.id, append]);
   return (
-    <section className="mt-6 pr-8">
+    <section className="mb-6 pr-8">
       {messages
         .filter((msg) => msg.role === "assistant")
         .map((message) => (
           <div
             key={message.id}
-            className={`whitespace-pre-wrap text-neutral-600`}
+            className={`whitespace-pre-wrap text-neutral-600 min-h-16`}
           >
             <AIText message={message} onQuery={onQuery} />
           </div>
@@ -216,7 +216,6 @@ export function SiteCard({
           </dd>
         </div>
       </dl>
-      {children}
       <SiteDescription
         site={site}
         onQuery={(q) => {
@@ -225,6 +224,7 @@ export function SiteCard({
           ref.current?.setSelectionRange(q.length, q.length);
         }}
       />
+      {children}
       <section>
         {messages.map((message) => (
           <div

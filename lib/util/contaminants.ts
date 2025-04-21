@@ -25,7 +25,7 @@ export function prettifyChemicalName(raw: string): string {
   const GREEK = [
     "ALPHA","BETA","GAMMA","DELTA","EPSILON","ZETA","ETA","THETA","IOTA",
     "KAPPA","LAMBDA","MU","NU","XI","OMICRON","PI","RHO","SIGMA","TAU",
-    "UPSILON","PHI","CHI","PSI","OMEGA"
+    "UPSILON","PHI","CHI","PSI","OMEGA",
   ];
   const greekRE = new RegExp(`\\b(${GREEK.join("|")})(?=[-\\s])`, "g");
   s = s.replace(greekRE, (m) => m.toLowerCase());
@@ -47,7 +47,7 @@ export function prettifyChemicalName(raw: string): string {
 
   // ⬤ 7. restore the true uppercase abbreviations
   s = s.replace(/§([A-Z]+)§/g, (_, abbr) => abbr);
-
+  s = s.replace("(Cis and", "(cis &");
   s = s.replaceAll("§", "");
 
   return s;

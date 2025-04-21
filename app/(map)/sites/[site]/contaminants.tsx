@@ -22,7 +22,7 @@ import SvgDebris from "@/lib/icons/Debris";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
 
 const colors: Record<string, string> = {
-  water: "text-blue-700/60",
+  water: "text-sky-700/60",
   air: "text-teal-700/60",
   ground: "text-yellow-900/60",
   neutral: "text-neutral-900/50",
@@ -45,7 +45,7 @@ export const groupings: Record<string, Grouping> = {
     icon: SvgSoilGas,
     alias: "Vapors from soil",
   },
-  Air: { color: colors.air, icon: SvgAir },
+  Air: { color: "text-teal-900/60", icon: SvgAir },
 
   "Liquid Waste": {
     color: colors.water,
@@ -80,7 +80,11 @@ export const groupings: Record<string, Grouping> = {
   },
   Soil: { color: colors.ground, icon: SvgSoil },
 
-  Buildings: { color: colors.neutral, icon: SvgBuildings },
+  "Buildings/Structures": {
+    color: colors.neutral,
+    icon: SvgBuildings,
+    alias: "Buildings/structures",
+  },
   Residuals: {
     color: colors.neutral,
     icon: SvgResiduals,
@@ -103,26 +107,30 @@ function ContaminantGroup({
       <summary className="flex gap-2 items-center cursor-pointer overflow-clip">
         {Icon && (
           <Icon
-            width={16}
-            height={16}
-            className={clsx(grouping.color)}
+            width={20}
+            height={20}
+            className={clsx(grouping.color, "-ml-px")}
             aria-hidden
           />
         )}
-        <span className="font-sans text-base">
-          {grouping?.alias || title}
+        <span>
+          <strong className="font-sans text-base font-medium">
+            {grouping?.alias || title}
+          </strong>
           <small className="font-mono text-xs text-neutral-600 ml-1">
             ({contaminants.length} contaminant
             {contaminants.length === 1 ? "" : "s"})
           </small>
         </span>
         <SvgChevronDown
-          className="w-4 h-4 -mr-1 ml-auto text-neutral-600 transition-transform in-open:rotate-180"
+          width={20}
+          height={20}
+          className="-mr-1 ml-auto text-neutral-400 transition-transform in-open:rotate-180"
           aria-hidden
         />
       </summary>
       <ul
-        className="pl-6 pt-2 text-neutral-600 text-xs flex flex-col gap-2"
+        className="pl-7 -ml-px pt-1 text-neutral-600 text-xs flex flex-col gap-2"
         role="list"
       >
         {contaminants.map((contaminant) => (

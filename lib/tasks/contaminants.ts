@@ -8,25 +8,38 @@ type Contaminants = Array<{
 const { data: allSites } = await supabase
   .from("sites")
   .select("id, semsId")
-  .is("contaminants", null)
-  .limit(250);
+  .is("contaminants", null);
+// .eq("contaminants", "[]");
+// .limit(250);
 
+const getUrl = (id: string) =>
+  `https://data.epa.gov/dmapservice/sems.envirofacts_contaminants/fk_site_id/equals/${id}/1:1000/json`;
 for (const site of allSites || []) {
-  const url = `https://data.epa.gov/dmapservice/sems.envirofacts_contaminants/fk_site_id/equals/0${site.semsId}/1:1000/json`;
-  const contaminants = await fetch(url)
-    .then((res) => res.json())
-    .then((data: Array<Record<string, string>> = []) => {
-      return data.map((cont) => ({
-        name: cont.preferred_contaminant_name,
-        media: cont.media_name,
-      }));
+  // Try zero-padded and not, use whichever has more results
+  let contaminantsRaw = await Promise.all([
+    fetch(getUrl(site.semsId)).then((res) => res.json()),
+    fetch(getUrl(`0${site.semsId}`)).then((res) => res.json()),
+  ])
+    .then((data) => {
+      if (data[0].length > data[1].length) {
+        return data[0];
+      }
+      return data[1];
     })
     .catch((err) => {
-      console.error(`Error fetching contaminants for ${site.id}: ${err}`, url);
-      return [];
+      console.error(
+        `Error fetching contaminants for ${site.id}: ${err}`,
+        getUrl(site.semsId),
+      );
     });
+
+  // .then((data: Array<Record<string, string>> = []) => {
+  const contaminants = contaminantsRaw.map((cont: Record<string, string>) => ({
+    name: cont.preferred_contaminant_name,
+    media: cont.media_name,
+  }));
   if (contaminants.length === 0) {
-    console.log(`No contaminants found for`, site.id, url);
+    console.log(`No contaminants found for`, site.id, getUrl(site.semsId));
     // continue;
   }
   const { error } = await supabase

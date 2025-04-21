@@ -20,10 +20,48 @@ export default function Page() {
       </HeaderRoot>
       <div className="grid grid-cols-3 gap-4 w-full font-sans text-lg font-semibold tracking-tight text-neutral-800 leading-[1.125]">
         <Link
+          href="/npl"
+          className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
+        >
+          <div className="flex -gap-3">
+            {Object.values(nplStatuses).map(({ color }) => (
+              <div
+                key={color}
+                className={`w-4 h-4 ${color} bg-current rounded-full outline-2 outline-[#efeef0]`}
+              />
+            ))}
+          </div>
+          Explore
+          <br />
+          Cleanup Progress
+        </Link>
+        <Link
+          href="/categories"
+          className="action-button flex flex-col items-start gap-2 p-4 py-3.5"
+        >
+          <div className="flex -gap-2 -ml-1">
+            {[
+              "chemical",
+              "military",
+              "manufacturing",
+              "water",
+              "mining",
+              "fuel",
+            ]
+              .map((cat) => categories[cat as keyof typeof categories])
+              .map(({ color, icon: Icon }) => (
+                <Icon key={color} className={`w-5 h-5 ${color}`} />
+              ))}
+          </div>
+          Explore
+          <br />
+          by Category
+        </Link>
+        <Link
           href="/states"
           className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
         >
-          <div className="flex -gap-3 h-4 fill-neutral-400">
+          <div className="flex -gap-3 h-4 fill-neutral-400" aria-hidden>
             {/* via https://github.com/coryetzkorn/state-svg-defs */}
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -61,44 +99,6 @@ export default function Page() {
           Explore
           <br />
           by State
-        </Link>
-        <Link
-          href="/npl"
-          className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
-        >
-          <div className="flex -gap-3">
-            {Object.values(nplStatuses).map(({ color }) => (
-              <div
-                key={color}
-                className={`w-4 h-4 ${color} bg-current rounded-full outline-2 outline-[#efeef0]`}
-              />
-            ))}
-          </div>
-          Explore
-          <br />
-          Cleanup Progress
-        </Link>
-        <Link
-          href="/categories"
-          className="action-button flex flex-col items-start gap-2 p-4 py-3.5"
-        >
-          <div className="flex -gap-2 -ml-1">
-            {[
-              "chemical",
-              "military",
-              "manufacturing",
-              "water",
-              "mining",
-              "fuel",
-            ]
-              .map((cat) => categories[cat as keyof typeof categories])
-              .map(({ color, icon: Icon }) => (
-                <Icon key={color} className={`w-5 h-5 ${color}`} />
-              ))}
-          </div>
-          Explore
-          <br />
-          by Category
         </Link>
         {/* <Link href="/about" className="action-button flex items-end p-4">
           About
