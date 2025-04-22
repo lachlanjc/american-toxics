@@ -4,7 +4,13 @@ import { PropsWithChildren, useEffect, useMemo, useRef } from "react";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import SITES from "@/lib/data/sites-mini.json" assert { type: "json" };
-import Map, { MapRef, Marker } from "react-map-gl/mapbox";
+import Map, {
+  GeolocateControl,
+  MapProvider,
+  MapRef,
+  Marker,
+  NavigationControl,
+} from "react-map-gl/mapbox";
 import { useParams, useRouter } from "next/navigation";
 import { SiteNPLStatus } from "@/lib/data/site";
 import clsx from "clsx";
@@ -97,22 +103,30 @@ export default function Layout({ children }: PropsWithChildren<object>) {
 
   return (
     <div className="w-full h-full" ref={rootRef}>
-      <style>{`.mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }`}</style>
-      <Map
-        ref={mapRef}
-        initialViewState={initialViewState}
-        mapStyle="mapbox://styles/mapbox/satellite-streets-v12"
-        mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN}
-        style={{
-          width: "100%",
-          height: "100vh",
-          position: "absolute",
-          inset: 0,
-        }}
-      >
-        {markers}
-      </Map>
-      <MainCard>{children}</MainCard>
+      <MapProvider>
+        <style>{`.mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }`}</style>
+        <Map
+          ref={mapRef}
+          initialViewState={initialViewState}
+          mapStyle="mapbox://styles/mapbox/satellite-streets-v12"
+          mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN}
+          style={{
+            width: "100%",
+            height: "100vh",
+            position: "absolute",
+            inset: 0,
+          }}
+        >
+          <GeolocateControl />
+          <NavigationControl
+            position="top-right"
+            showCompass={false}
+            visualizePitch={false}
+          />
+          {markers}
+        </Map>
+        <MainCard>{children}</MainCard>
+      </MapProvider>
     </div>
   );
 }
