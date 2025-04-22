@@ -4,6 +4,7 @@ import { categories } from "@/lib/data/site-categories";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { GitHubIcon } from "@/lib/ui/icons";
 import { Link } from "next-view-transitions";
+import SearchTabs from "./SearchTabs";
 
 export default function Page() {
   return (
@@ -107,16 +108,7 @@ export default function Page() {
         </Link> */}
       </div>
       <hr className="border-black/20 -mx-6 my-6" />
-      <Search>
-        <p className="text-neutral-700 text-balance mb-3">
-          This is a map of places with significant amounts of dangerous
-          toxic&nbsp;waste in the U.S.
-        </p>
-        <p className="text-neutral-700 text-balance">
-          The Environment Protection Agency (EPA) designates them “Superfund
-          sites,” and manages cleaning them up.
-        </p>
-      </Search>
+      <SearchTabs />
     </>
   );
 }
