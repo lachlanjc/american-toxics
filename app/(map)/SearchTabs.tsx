@@ -8,7 +8,9 @@ const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN;
 
 function AddressAutocomplete() {
   const [query, setQuery] = useState("");
-  const [results, setResults] = useState<any[]>([]);
+  const [results, setResults] = useState<
+    Array<{ id: string; place_name: string }>
+  >([]);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
@@ -37,7 +39,7 @@ function AddressAutocomplete() {
     return () => controller.abort();
   }, [query]);
 
-  const handleSelect = (feature: any) => {
+  const handleSelect = (feature: { place_name: string }) => {
     setQuery(feature.place_name);
     setResults([]);
     inputRef.current?.focus();
