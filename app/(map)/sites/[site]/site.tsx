@@ -9,8 +9,8 @@ import { Root as Portal } from "@radix-ui/react-portal";
 import reactStringReplace from "react-string-replace";
 import { UIMessage } from "@ai-sdk/ui-utils";
 import { OpenAIIcon } from "@/lib/ui/icons";
-import { categories } from "@/lib/data/site-categories";
-import clsx from "clsx";
+import { CategoryChip } from "./category";
+import { formatAcres } from "@/lib/util/distance";
 
 const questions = [
   "What types of contaminants are present?",
@@ -144,15 +144,6 @@ export function SiteCard({
           m.parts.some((p) => p.type === "text" && p.text === q),
       ),
   );
-  const category = site.category ? categories[site.category] : null;
-  const CategoryIcon = category?.icon;
-  const acres = site.acres
-    ? Number(
-        site.acres.toLocaleString("en-US", {
-          maximumFractionDigits: 0,
-        }),
-      )
-    : null;
 
   return (
     <>
@@ -189,31 +180,12 @@ export function SiteCard({
         <div>
           <dt className="text-neutral-600 text-xs uppercase mb-1">Category</dt>
           <dd>
-            {category ? (
-              <Link
-                href={`/categories/${site.category}`}
-                className="flex items-start gap-1 w-fit font-sans rounded-full border border-black/10 px-2 py-1 text-base font-medium bg-black/5 tracking-normal leading-none text-neutral-800 transition-colors"
-                style={{ viewTransitionName: site.category || undefined }}
-              >
-                {CategoryIcon && (
-                  <CategoryIcon className={clsx(category.color, "w-4 h-4")} />
-                )}
-                {category.name}
-              </Link>
-            ) : (
-              "—"
-            )}
+            {site.category ? <CategoryChip category={site.category} /> : "—"}
           </dd>
         </div>
         <div>
           <dt className="text-neutral-600 text-xs uppercase mb-1">Size</dt>
-          <dd className="font-sans text-base">
-            {acres
-              ? [0, 1].includes(acres)
-                ? `${acres === 0 ? "<" : ""}1 acre`
-                : `${acres} acres`
-              : "—"}
-          </dd>
+          <dd className="font-sans text-base">{formatAcres(site.acres)}</dd>
         </div>
       </dl>
       <SiteDescription

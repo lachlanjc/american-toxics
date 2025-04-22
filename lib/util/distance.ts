@@ -25,3 +25,18 @@ export function haversineDistance(
 
   return R * c; // Distance in miles
 }
+
+export function formatAcres(acres: number | null) {
+  let round = acres
+    ? Number(
+        acres.toLocaleString("en-US", {
+          maximumFractionDigits: 0,
+        }),
+      )
+    : null;
+  return round
+    ? [0, 1].includes(round)
+      ? `${acres === 0 ? "<" : ""}1 acre`
+      : `${round} acres`
+    : "—";
+}

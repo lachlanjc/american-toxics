@@ -1,7 +1,7 @@
 import { nplStatuses, Site, SiteNPLStatus } from "@/lib/data/site";
 import { Link } from "next-view-transitions";
 
-function SiteNPLStatusIcon({
+export function SiteNPLStatusIcon({
   status,
   className,
 }: {

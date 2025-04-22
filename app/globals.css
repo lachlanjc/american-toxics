@@ -181,3 +181,7 @@ input {
     display: none;
   }
 }
+
+.text-trim-both {
+  text-box: trim-both cap alphabetic;
+}
