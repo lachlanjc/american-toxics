@@ -34,7 +34,10 @@ function AITextHighlight({
       }
       onClick={() => {
         const is =
-          text.includes("and") || text.endsWith("s") || text.endsWith("s)")
+          text.includes("and") ||
+          text.includes("&") ||
+          text.endsWith("s") ||
+          text.endsWith("s)")
             ? "are"
             : "is";
         const topic = text.replace(/\s\(.+\)$/, "");
@@ -92,30 +95,26 @@ function SiteDescription({
   site: SupabaseSite;
   onQuery: (query: string) => void;
 }) {
-  const { messages, append } = useChat({
-    api: `/api/chat/${site.id}`,
+  const text = site.summary ?? "";
+  const markText = (text: string | Array<React.ReactNode>) =>
+    reactStringReplace(text, markRegex, (match: string, i: number) => {
+      return (
+        <AITextHighlight
+          text={match}
+          onQuery={onQuery}
+          key={[match, i].join("")}
+        />
+      );
+    });
+  const bolded = reactStringReplace(text, boldRegex, (match: string) => {
+    return <strong key={match}>{markText(match)}</strong>;
   });
-  useEffect(() => {
-    if (messages.length === 0) {
-      append({
-        role: "user",
-        content:
-          "Summarize what happened at this site in 3 sentences, emphasizing what caused contamination. Skip including the name of the site or its city/state.",
-      });
-    }
-  }, [site.id, append]);
+  const marked = markText(bolded);
   return (
     <section className="pb-1">
-      {messages
-        .filter((msg) => msg.role === "assistant")
-        .map((message) => (
-          <div
-            key={message.id}
-            className={`whitespace-pre-wrap text-neutral-600 min-h-16`}
-          >
-            <AIText message={message} onQuery={onQuery} />
-          </div>
-        ))}
+      <p className={`whitespace-pre-wrap text-neutral-600 text-pretty`}>
+        {marked}
+      </p>
       <div className="flex items-center gap-2.5 mt-2 text-neutral-500 text-xs">
         <OpenAIIcon className="w-5 h-5" />
         EPA information summarized by GPT-4.1

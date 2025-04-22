@@ -89,6 +89,7 @@ export type Database = {
           semsId: string | null
           stateCode: string | null
           stateName: string | null
+          summary: string | null
         }
         Insert: {
           acres?: number | null
@@ -115,6 +116,7 @@ export type Database = {
           semsId?: string | null
           stateCode?: string | null
           stateName?: string | null
+          summary?: string | null
         }
         Update: {
           acres?: number | null
@@ -141,6 +143,7 @@ export type Database = {
           semsId?: string | null
           stateCode?: string | null
           stateName?: string | null
+          summary?: string | null
         }
         Relationships: []
       }
