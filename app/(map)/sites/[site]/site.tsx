@@ -59,9 +59,14 @@ function AIText({
     .filter((part) => part.type === "text")
     .map((part, i) => {
       const markText = (text: string | Array<React.ReactNode>) =>
-        reactStringReplace(text, markRegex, (match: string) => {
-          // console.log("mark", match);
-          return <AITextHighlight text={match} onQuery={onQuery} key={match} />;
+        reactStringReplace(text, markRegex, (match: string, i: number) => {
+          return (
+            <AITextHighlight
+              text={match}
+              onQuery={onQuery}
+              key={[match, i].join("")}
+            />
+          );
         });
       const bolded = reactStringReplace(
         part.text,
