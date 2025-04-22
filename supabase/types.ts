@@ -9,6 +9,60 @@ export type Json =
 export type Database = {
   public: {
     Tables: {
+      scores: {
+        Row: {
+          addressCity: string | null
+          addressFormatted: string | null
+          addressRaw: string | null
+          addressStateCode: string | null
+          createdAt: string
+          id: string
+          lat: number | null
+          lng: number | null
+          siteNearest: string | null
+          siteNearestMiles: number | null
+          sites1: string[] | null
+          sites10: string[] | null
+          sites20: string[] | null
+          sites5: string[] | null
+          sites50: string[] | null
+        }
+        Insert: {
+          addressCity?: string | null
+          addressFormatted?: string | null
+          addressRaw?: string | null
+          addressStateCode?: string | null
+          createdAt?: string
+          id?: string
+          lat?: number | null
+          lng?: number | null
+          siteNearest?: string | null
+          siteNearestMiles?: number | null
+          sites1?: string[] | null
+          sites10?: string[] | null
+          sites20?: string[] | null
+          sites5?: string[] | null
+          sites50?: string[] | null
+        }
+        Update: {
+          addressCity?: string | null
+          addressFormatted?: string | null
+          addressRaw?: string | null
+          addressStateCode?: string | null
+          createdAt?: string
+          id?: string
+          lat?: number | null
+          lng?: number | null
+          siteNearest?: string | null
+          siteNearestMiles?: number | null
+          sites1?: string[] | null
+          sites10?: string[] | null
+          sites20?: string[] | null
+          sites5?: string[] | null
+          sites50?: string[] | null
+        }
+        Relationships: []
+      }
       sites: {
         Row: {
           acres: number | null

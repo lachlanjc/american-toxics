@@ -5,7 +5,7 @@ import { Link } from "next-view-transitions";
 import { Drawer } from "vaul";
 import { Title } from "./typography";
 // import { usePathname } from "next/navigation";
-import { ComponentProps } from "react";
+import { ComponentProps, ReactNode } from "react";
 
 export const Header = {
   Root: HeaderRoot,
@@ -15,15 +15,22 @@ export const Header = {
 
 export function HeaderRoot({
   showClose,
+  closeLink = "/",
+  actions,
   children,
-}: React.PropsWithChildren<{ showClose?: boolean }>) {
+}: React.PropsWithChildren<{
+  showClose?: boolean;
+  closeLink?: string;
+  actions?: ReactNode;
+}>) {
   // const pathname = usePathname();
   return (
     <header className="mb-4 flex gap-2 md:gap-4 relative">
       <div className="flex flex-col">{children}</div>
+      {actions}
       {showClose && (
         <Link
-          href="/"
+          href={closeLink}
           className="ml-auto flex h-8 w-8 shrink-0 leading-0 items-center justify-center rounded-full bg-black/10 transition-transform focus:scale-95 focus-visible:shadow-focus-ring-button active:scale-75"
           onClick={() => {
             // @ts-expect-error global
