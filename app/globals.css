@@ -130,8 +130,6 @@ input {
 }
 
 .main-card {
-  z-index: 0;
-  /* inline-size: 360px; */
   box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
   background-color: #fbfbfd;
 }

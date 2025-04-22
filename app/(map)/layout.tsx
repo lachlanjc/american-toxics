@@ -25,7 +25,14 @@ function MainCard({
       <Drawer.Portal>
         <Drawer.Content
           {...props}
-          className="main-card backdrop-blur-lg backdrop-saturate-150 flex flex-col w-full md:max-w-xl p-4 md:p-6 mx-auto font-mono !overflow-y-auto z-10 max-h-[90vh] fixed bottom-0 max-md:left-0 max-md:right-0 outline-none md:absolute md:top-8 md:left-8 md:bottom-auto rounded-t-xl md:rounded-2xl @container text-sm leading-relaxed !select-auto"
+          className={clsx(
+            "main-card backdrop-blur-lg backdrop-saturate-150 rounded-t-xl md:rounded-2xl",
+            "fixed max-h-[67vh] bottom-0 max-md:left-0 max-md:right-0",
+            "md:absolute md:max-h-[90vh] md:top-8 md:left-8 md:bottom-auto",
+            "z-10 outline-none !overflow-y-auto !touch-auto",
+            "flex flex-col w-full md:max-w-xl p-4 md:p-6 @container",
+            "text-sm font-mono leading-relaxed !select-auto",
+          )}
           data-vaul-custom-container
         >
           {title && (
