@@ -46,7 +46,7 @@ function AITextHighlight({
 }
 
 const markRegex = /\*([^*]{3,})\*/g;
-const boldRegex = /\*\*(.{5,})\*\*/g;
+const boldRegex = /\*\*(.{3,})\*\*/g;
 const deasterisk = (txt: string) => txt.replaceAll(/\*/g, "").trim();
 function AIText({
   message,
@@ -77,7 +77,7 @@ function AIText({
       );
       const marked = markText(bolded);
       return (
-        <div data-text={part.text} key={`part-${i}`}>
+        <div data-text={part.text} key={`part-${i}-${part.text}`}>
           {marked}
         </div>
       );
@@ -104,7 +104,7 @@ function SiteDescription({
     }
   }, [site.id, append]);
   return (
-    <section className="mb-6 pr-8">
+    <section className="mb-6">
       {messages
         .filter((msg) => msg.role === "assistant")
         .map((message) => (
