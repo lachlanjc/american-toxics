@@ -28,7 +28,7 @@ export const WellRoot = React.forwardRef<
 export const WellTitle = React.forwardRef<
   HTMLHeadingElement,
   React.ComponentPropsWithoutRef<"h2">
->(function WellTitle({ children, className, ...props }, ref) {
+>(function WellTitle({ children, className = "mb-2", ...props }, ref) {
   return (
     <h2
       {...props}

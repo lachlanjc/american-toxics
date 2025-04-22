@@ -2,7 +2,7 @@ import { Site } from "../data/site";
 // import { allSites } from "../data/api";
 import { supabase } from "../supabaseClient";
 
-const siteTypes: Record<string, Array<string>> = {
+export const siteTypes: Record<string, Array<string>> = {
   military: [
     "air force",
     "army",

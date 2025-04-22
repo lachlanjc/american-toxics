@@ -19,7 +19,7 @@ export default async function CategoriesPage() {
     .select("category, total:count()")
     .not("category", "is", null);
   const categoryKeys = Object.keys(categories)
-    .filter((key) => !["other", "unknown"].includes(key))
+    .filter((key) => !["other"].includes(key))
     .sort((a, b) => {
       const aCount = data?.find((record) => record.category === a)?.total ?? 0;
       const bCount = data?.find((record) => record.category === b)?.total ?? 0;
