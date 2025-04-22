@@ -65,7 +65,12 @@ for await (const file of txt.scan(".")) {
   }
 }
 
-const scopedSites: Array<Site> = ids
+const issuesFile = Bun.file("lib/data/sites-missing.txt");
+const issuesText = await issuesFile.text();
+const scopedSites = issuesText
+  .split("\n")
+  .map((line) => line.trim())
+  .filter(Boolean)
   .map((id) => SITES.find((site) => site.id === id))
   .filter(Boolean) as unknown as Array<Site>;
 // const scopedSites = SITES.filter((site) => site.id.startsWith("WA"));

@@ -38,7 +38,7 @@ export default async function CategoriesPage() {
           categorization.
         </HeaderSubtitle>
       </HeaderRoot>
-      <ul className="-mb-1 text-neutral-500 gap-4 flex flex-col" role="list">
+      <ul className="-mb-1 text-neutral-500 flex flex-col" role="list">
         {categoryKeys.map((key) => {
           const category = categories[key as keyof typeof categories];
           const count =

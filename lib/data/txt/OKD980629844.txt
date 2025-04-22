@@ -1,2 +1,202 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The following summary on the mine history in Ottawa County is adapted from the Hydrogeologic Characterization Study Report – Tar Creek Superfund Site Operable Unit 4 (CH2M, 2010).
+
+**Mining History in Ottawa County**
+
+The first ore discoveries and earliest mining operations in Ottawa County, Oklahoma, occurred in the vicinity of Peoria (6 miles east and 1 mile south of Lincolnville) in 1891. The next major ore discoveries occurred 1.5 miles northeast of Lincolnville near Quapaw in 1902, followed by discoveries in 1905 near Commerce. The real expansion of zinc and lead mining at the Site occurred after a major ore discovery in 1914 near the current location of Picher, Oklahoma. Following this discovery, there was a major expansion of mining in what became known as the Picher Field of Oklahoma and Kansas. By 1918, the Oklahoma section of the Picher Field was well defined with 230 mills built or under construction.
+
+Rapid expansion of mining activities occurred during the 1920s, and mining activities reached their peak around 1925. During the early mining period, most mining was conducted by small operators on 20- to 40-acre tracts. Each operator conducted his or her own mining, drilling, and milling activities. By the 1930s, central mills were established, the largest being the Eagle-Picher Central Mill located between Cardin and Commerce, Oklahoma. Many miners ceased their own milling operations in favor of selling their ore production to one of the central mills or having their ore custom milled by these mills. This movement of ore between mines and the central mills resulted in an extensive network of haul roads and rail lines in the district.
+
+With few exceptions, the crude ore produced at the Site was mined using underground mining methods using room and pillar techniques. Pillars were left within the rooms to support the ceilings. To remove the ore, large rooms, some with ceilings as high as 100 feet, were connected by horizontal tunnels known as drifts. Mining activities occurred primarily within a 50- to 150-foot-thick ore-bearing zone within the Boone Formation. The maximum depth of mining was approximately 385 feet below ground surface (bgs). During the peak of mining activities, 130,410 tons of lead and 749,254 tons of zinc were produced annually. Based on production records maintained by the U.S. Department of Interior, Bureau of Mines, a total of 181,048,872 tons of crude ore was produced from the Oklahoma portion of the district. Milling of this ore produced 8,884,898 tons of zinc concentrates and 1,686,713 tons of lead concentrates. With the exception of a limited amount of lead concentrates treated at the Ontario Smelter from 1918 until the early 1930s, all of the concentrates produced from the Site were transported offsite for the conversion of the concentrates to metal by smelting (EPA, 2008).
+
+Depletion of high-grade ores caused a marked decline in annual production after 1946, and depressed metal-market prices and decreased demand for lead and zinc metals forced a cessation of most mining activities in 1958. Smaller mining operations continued in the Picher Field through the 1960s. The last record of significant production from Ottawa County occurred in 1970.
+
+**Mining Related Impacts**
+
+- The mill tailings are locally known as chat and primarily consists of fine gravel-sized and coarse sand-sized rock fragments. After the excavated rock was processed and the metal ore extracted, the mining tailings that remained were deposited into piles that were up to 200 feet in height. An inventory conducted in 2005, as part of the remedial investigation (RI) for Operable Unit (OU4), identified 83 chat piles occupying 767 acres, with an estimated volume of 31 million cubic yards (CY), and 243 chat bases (or former piles) occupying 2,079 acres, with an estimated volume of 6.7 million CY (EPA, 2008).
+- In addition to chat, fine tailings ponds containing wastes from the flotation milling process and chat reprocessing operations were produced. Most of the flotation ponds have since evaporated, leaving behind a very fine mining waste sediment that remains on the Site. Fine tailings are either flotation tailings generated during the extraction or milling process or are washed fine tailings generated as a byproduct of washing chat for commercial aggregate sale and from chat reprocessing through the mills. Fine tailings generated from milling and washing chat are currently found in 63 ponds, occupying 820 acres, and total approximately 9.1 million CY, with a makeup of approximately 7.2 million CY (78.7 percent) washed fine tailings and 1.9 million CY (21.3 percent) of flotation tailings (EPA, 2008).
+- When mining operations ceased, it is estimated that underground cavities with a volume of 100,000 acre-feet (161,000,000 CY) had been created. In addition, approximately 100,000 exploratory boreholes were located within the Picher Field, mostly in Oklahoma. Within the Oklahoma portion of the mining district, 1,064 mine shafts existed. In addition, numerous water wells, used for milling operations, were abandoned (EPA, 2005). During the active mining period, groundwater infiltration into the mine workings was a continual problem. Large-scale pumping was required to remove groundwater and maintain dry conditions within the mine workings. When mining activities ceased, pumping from the mine workings ceased as well. The abandoned mine workings began to fill with infiltrating groundwater and surface water inflow through abandoned shafts, open boreholes, and collapse/subsidence features. As the mine workings filled with water, the oxidized minerals began to dissolve, generating a weak acidic solution. The acidic water then reacted with the surrounding rock, further dissolving minerals still contained in the mine workings. This resulted in increases in the concentrations of heavy metals, particularly iron, cadmium, lead, nickel, and zinc, in the water contained within the mine workings. The water also contained high concentrations of sulfate and total dissolved solids, high levels of hardness, and low pH.
+
+**Site Background**
+
+The Tar Creek Superfund Site is located in Ottawa County, Oklahoma. The Site itself has no clearly defined boundaries, but consists of areas within Ottawa County impacted by historical mining wastes. The Site is part of the larger Tri-State Mining District (TSMD) that consists of historical lead and zinc mining areas in northeast Oklahoma, southeast Kansas, and southwest Missouri. The TSMD is composed of a total of four National Priority List (NPL) Superfund Sites: the Cherokee County Site, Cherokee County, Kansas; the Orongo-Duenweg Site, Jasper County, Missouri; the Newton County Mine Tailings Site, Newton County, Missouri; and the Tar Creek Site, Ottawa County, Oklahoma (MacDonald Environmental Sciences, Ltd.\[MESL\], 2010).
+
+The Site first came to the attention of the State of Oklahoma and EPA in 1979, when water began flowing to the surface near Commerce, Oklahoma from the underground mine workings, through abandoned mine shafts and boreholes. This surface discharge flowed into Tar Creek, and soon other discharge locations were observed near Tar Creek and the abandoned mining town of Douthat. As a result, most of the downstream biota in Tar Creek were killed. The bottom of the creek became stained red as a result of ferric hydroxide deposition, and red stains appeared on downstream bridge abutments and cliffs in the Neosho River downstream of its confluence with Tar Creek (EPA, 2005).
+
+In 1980, the Governor of Oklahoma established the Tar Creek Task Force, composed of various local, state, and federal agencies, to investigate the effects of mine drainage on the area’s surface water. Based on the information discovered by the Tar Creek Task Force, EPA proposed to add the Site to the NPL (40 CFR Part 300, Appendix B) in July 1981. The Site was added to the NPL on September 8, 1983 (EPA, 2008).
+
+**Site Operable Units**
+
+Under the National Contingency Plan, an Operable Units (OU) is defined as a discrete action that composes an incremental step toward comprehensively addressing Site problems. This discrete portion of a remedial response manages migration or eliminates or mitigates a release, threat of release, or pathway of exposure. A Site can be divided into a number of OUs, depending on the complexity of problems at the Site. OUs typically address a discrete geographical portion of a Site, specific-Site problems, contaminated media, and the initial phase or phases of action at a Site Because of the complex nature of contamination associated with the Tar Creek Site, Site assessment and remediation has been handled through various investigations and response actions.
+
+The following five OUs have been designated at the Site (EPA, 2008).
+
+**OU1 – Surface water/groundwater Record of Decision - 1984**
+
+OU1 addresses the surface water degradation by the discharge of acid mine water and the threat of contamination of the Roubidoux Aquifer, the regional water supply, from downward migration of acid mine water from the overlying Boone Aquifer through abandoned wells connecting the two. The final remedy for OU1, selected in 1984, included the use of diking and diversion structures to reduce the inflow of surface water to three mine shafts at the Site toreduce the outflow of acid mine water from the subsurface to Tar Creek. Construction activities finished in December 1986.
+
+Approximately, 83 abandoned wells that went through the Boone aquifer to the deeper Roubidoux aquifer were plugged to prevent contamination from the Boone aquifer and mine workings from migrating downwardthrough failed well casings and poorly sealed wells to the Roubidoux aquifer. Abandoned wells that could threaten the Roubidoux are still being discovered and plugged as part of the Roubidoux Groundwater Monitoring Program for OU1. Groundwater quality within the Roubidoux aquifer continues to be monitored under the Roubidoux Groundwater Monitoring Program (EPA, 2005).
+
+**OU2 – Residential areas Record of Decision - 1997**
+
+OU2 was established to address contaminated soil in residential areas. In 1994, Indian Health Service test results concerning the blood lead levels of Indian children living on the Site indicated that approximately 35 percent of the children tested had concentrations of lead in their blood exceeding 10 micrograms per deciliter, the level of lead in the blood the Centers for Disease Control considers to be a health concern. In August 1994, to address the threat of lead exposure to children, EPA began sampling soils at high-access areas (HAA), such as day cares, schoolyards, and other areas where children congregate. The sampling detected significant concentrations of lead, cadmium, and other heavy metals in surface soils. In March 1995, EPA expanded its sampling activity to include all residences on the Site (EPA, 2005).
+
+In 1995, EPA began to excavate contaminated soil at HAAs and at Site residences, and issued the record of decision in 1997 (EPA, 1997) addressing contaminated soil in the residential areas of OU2. Through 2015, 2,940 residential properties and HAAs have been remediated. New properties that require sampling assessment and remediation are being addressed by ODEQ through a cooperative agreement with EPA Region 6 (EPA, 2015a). The remediation of the yards and the public areas, and the education and outreach programs implemented by the Ottawa County Health Department, are helping to protect the children’s health.
+
+**OU3 – Eagle-Picher Office Complex – Abandoned Mining Chemicals Removal Action - 2000**
+
+OU3 was a former office and laboratory complex located in Cardin and operated by one of the former mining companies. Numerous containers of chemicals were found at the Site during 1998 and 1999. One hundred and twenty containers of chemicals were removed as part of a removal response action in 2000. No further action is necessary.
+
+**OU4 – Chat Piles, other Mine and Mill Waste, and Smelter Waste Record of Decision - 2008**
+
+OU4 addresses the undeveloped rural and urban areas of the Site where mine and mill residues and smelter wastes have been placed, deposited, stored, disposed of, or otherwise have come to be located as a result of mining, milling, smelting, or related operations. The OU4 ROD was signed in February 2008 and called for a phased approach to address the mining waste over a period of approximately 30 years. The ROD included a residential buyout that was managed by The Lead Impacted Communities Relocation Assistance Trust. The buyout was initiated in 2009 and included residents of Picher and Cardin, Oklahoma, and Treece, Kansas (EPA, 2015a). The decision to relocate the residents of Treece, Kansas, was documented in an explanation of significant differences to the OU4 ROD issued in April 2010, and the Lead Impacted Communities Relocation Assistance Trust buyout was complete in 2011 (EPA, 2015a).
+
+The OU4 remedial action activities began in 2009 and are ongoing. These activities include the remediation of rural residential yards not included under OU2; remediation of source materials including a former lead smelter, chat piles and chat bases; the construction of the Central Mill Repository; the completion of a fine injection pilot study; remediation of transition zone soil contamination; and the elimination of exposures to contamination in water from rural residential wells through city water hook-up. Currently, OU4 remedial actions cleaned up approximately 100 chat piles and chat bases; supported the sale of approximately 600,000 tons of chat; provided city water to three residences after unsafe drinking water wells were plugged and abandoned; cleaned up over 4 million tons of mining waste and affected soil; injected approximately 43,600 tons of chat into underground mine caverns during three chat disposal pilot projects; contained40,000 tons of mine waste in an innovative trench/road system; and injected approximately 58,065 tons of washed chat fines directly into mine caverns eliminating sediment/holding ponds during two additional pilot projects (EPA, 2019).
+
+Of significant note is the remedaition of the area called the Catholic 40. The area is a 40-acre tract of land owned by the Quapaw Nation and holds cultural and historical significance. Historical structures include remnants of a Catholic church and school built in 1893. Cleanup was conducted by the Quapaw Nation and included the excavation, hauling, and disposal of 107,000 tons of source material or chat.
+
+The University of Oklahoma (OU) continues to operate a passive treatment system (completed in 2008) to treat mine discharges at the Mayer Ranch in Commerce. The Mayer Ranch passive treatment system improved surface water quality in Tar Creek downstream of the treatment system by addressing approximately 20% of the contaminant mass loading from the mine water discharges (Nairn, 2012). Given the success, feasibility, and cost effectiveness of treating acid mine water discharge with passive treatment, OU and ODEQ partnered to construct an additional passive treatment system in Commerce. The new passive treatment system is located in southeast Commerce where two distinct mining related ponds existed. In 2006, the Oklahoma Conservation Commission filled these two ponds with chat and related debris without installing any sort of water control. Shortly after closure of the features, mine drainage started appearing in several areas as seepage surfaces. The Southeast Commerce passive treatment system (SCPTS) project is planned to addresses the contaminated mine drainage that discharges from upwelling caused by the filling of the subsidence features (Nairn et al. 2014). Construction of the SCPTS was complete in 2016 and is currently operating as designed.
+
+**OU5 – Surface Water and Sediments Record of Decision – future date to be determined**
+
+OU5 addresses sediment and surface water. Under OU5, efforts to characterize sediment and surface water throughout the lower Spring and Neosho River basins as well as understand the potential risks associated with exposures to surface water and sediment through a Human Health Risk Assessment (HHRA) are being conducted. This effort is being coordinated with Region 7, 3 states (Oklahoma, Missouri, Kansas), nineTribes (Quapaw Nation, Peoria Tribe, Ottawa Tribe, Miami Tribe, Eastern Shawnee Tribe, Wyandotte Nation, Seneca-Cayuga Nation, Modoc Tribe, and Cherokee Nation), and the community. OU5 includes 7 watersheds covering approximately 437 square miles and 119 river miles within Oklahoma, Kansas, Missouri, and 8 tribal areas.
+
+Historically, EPA Regions 6 and 7 worked together as part of a multi-state effort to characterize sediment and surface water throughout the Spring and Neosho River basins focusing on ecological risk assessment. Sediment data were collected to evaluate the toxicity of the sediments and develop an advanced screening-level ecological risk assessment (SLERA) of the Tri-State Mining District (MESL, 2010). The advanced SLERA evaluated risks to aquatic organisms associated with exposure to contaminated environmental media. The results indicate that concentrations of metals in sediments commonly exceed conservative toxicity thresholds.
+
+The Draft Remedial Investigation Report was released on July 1, 2019 for public review and comment. The comment period ended October 18, 2019. The team is working to review and revise the document based on comments recieved.
+
+### What Has Been Done to Clean Up the Site?
+
+**Remedial action protects human health** **and the environment, especially the health of young children.**
+
+**OU1 – Surface Water/Groundwater Record of Decision - 1984**
+
+Plugging abandoned wells has reduced the potential for contaminants in the shallow Boone Aquifer to migrate to the Roubideax drinking water aquifer. Approximately, 83 abandoned wells that went through the Boone aquifer to the deeper Roubidoux aquifer were plugged to prevent contamination from the Boone aquifer and mine workings from seeping through failed well casings and poorly sealed wells and migrating downward to the Roubidoux aquifer. Abandoned wells that could threaten the Roubidoux are still being discovered and plugged as part of the Roubidoux Groundwater Monitoring Program for OU1. Groundwater quality within the Roubidoux aquifer also continues to be monitored under the Roubidoux Groundwater Monitoring Program (EPA, 2005).
+
+**OU2 – Residential Areas Record of Decision - 1997**
+
+In 1995, EPA began to excavate contaminated soil at public areas and residences in Miami, Afton, Commerce, Fairland, Narcissa, North Miami, Peoria, Quapaw, and Wyandotte (OU2). Through 2015, 2,940 residential properties and public areas have been remediated. New properties that require sampling assessment and remediation are being addressed by ODEQ through a cooperative agreement with EPA Region 6 (EPA, 2015a). The remediation of the yards and the public areas, and the education and outreach programs implemented by the Ottawa County Health Department, are helping to protect the children’s health. As a result, a healthier environment exists for families to enjoy now and in the years to come.
+
+**OU3 – Eagle-Picher Office Complex – Abandoned Mining Chemicals Removal Action - 2000**
+
+OU3 was a former office and laboratory complex located in Cardin and operated by one of the former mining companies. Approximately, 120 containers of chemicals were removed as part of a removal response action in 2000.
+
+**OU4 – Chat Piles, other Mine and Mill Waste, and Smelter Waste Record of Decision - 2008**
+
+Risks and pathways addressed by the cleanup activities include health risks associated with people ingesting, touching or inhaling contaminants in mine waste and soil. As of Asdpril 1, 2020, OU4 remedial actions
+
+- cleaned up approximately 170 chat piles and chat bases and supported the sale of >857,000 tons of chat;
+- provided city water to three residences after unsafe drinking water wells were plugged and abandoned;
+- injected approximately 43,600 tons of chat into underground mine caverns during three chat disposal pilot projects and approximately 58,065 tons of washed chat fines directly into mine caverns eliminating sediment/holding ponds during two additional pilot projects;
+- contained 40,000 tons of mine waste in an innovative trench/road system;
+- cleaned up more than 7 million tons of mine and mill wastes and contaminated soil from properties;
+- constructioned an onsite repository to consolidate and manage contamined mine and soil waste;
+- cleaned up over 4800 acres of land and made these lands available for future reuse;
+- supported the sale of 16 percent of the source materials directly from property owners to local processors (with transport provided by EPA);
+- supported voluntary relocation offered to residents in Pitcher and Cardin, Oklahoma, and Treece, Kanasas, to protect those living in areas with concentrated sources of potential exposure. A total of 628 residences, 74 businesses, and 125 renters were relocated.
+
+**Quapaw Nation performs the Remedial Action at the Catholic 40**  
+On October 1, 2012, a Cooperative Agreement was signed between EPA and the Quapaw Nation of Oklahoma to perform remedial action work at the "Catholic 40". The Catholic 40 is a 40-acre tract of land owned by the Quapaw Nation that has cultural and historical significance. Historical structures include remnants of a Catholic Church and school constructed in 1893. The remedial action involved the excavation, hauling, and disposal of approximately 107,000 tons of source material or chat. The Quapaw Nation Environmental Office began hauling chat at the Site in mid-December 2013. Extra precautions were taken during these activities in the areas near the historical structures to prevent damage. The remedial action included restoration ( e.g., contouring, seeding) of the Site and bank stabilization of Beaver Creek to ensure the integrity of the remedy. Beaver Creek also has cultural and historical significance to the Quapaw Nation. This remedial action performed by the Quapaw Nation is significant because it was the first-ever remedial action in the nation performed by a tribe on property that they own.
+
+**ODEQ performs Passive Treatment**
+
+The University of Oklahoma (OU) continues to operate a passive treatment system (completed in 2008) to treat mine discharges at the Mayer Ranch in Commerce. The Mayer Ranch passive treatment system has improved surface water quality in Tar Creek downstream of the treatment system by addressing approximately 20% of the contaminant mass loading from the mine water discharges (Nairn, 2012). Given the success, feasibility, and cost effectiveness of treating acid mine water discharge with passive treatment, OU and ODEQ partnered to construct an additional passive treatment system in Commerce. The new passive treatment system is located in southeast Commerce where two distinct mining related ponds existed. In 2006, the Oklahoma Conservation Commission filled these two ponds with chat and related debris without installing any sort of water control. Shortly after closure of the features, mine drainage started appearing in several areas as seepage surfaces. The Southeast Commerce passive treatment system (SCPTS) project addresses the contaminated mine drainage that discharges from upwelling caused by the filling of the subsidence features (Nairn et al. 2014). Construction of the SCPTS was complete in 2016 and is currently operating as designed.
+
+**OU5 – Surface Water and Sediments Record of Decision – future date to be determined**
+
+As this time, there is insufficient information to determine the potential human health risks related to surface water and sediment exposure. EPA Regions 6 and 7 are working closely with the 3 states (Oklahoma, Missouri, Kansas), nine Tribes (Quapaw Nation, Peoria Tribe, OttawaTribe, Miami Tribe, Eastern Shawnee Tribe, Modoc Tribe, Wyandotte Nation, Seneca-Cayuga Nation, and Cherokee Nation), and the community to develop and complete a human health risk assessment, characterization report, and feasibility study. This OU5 effort includes 7 watersheds covering approximately 437 square miles and 119 river miles within Oklahoma, Kansas, Missouri, and 9 tribal areas.
+
+**Superfund Job Training Initiative, local labor utilization benefits regional economy**  
+Job creation is just one component of this project's impact on the local economy. EPA continues to work with project contractors to implement the Superfund Job Training Initiative (Super JTI) in Northeast Oklahoma. Super JTI provides job-readiness training and employment opportunities for underserved citizens living in communities affected by Superfund Sites. The Tar Creek program generated 250 interested candidates of which 26 were selected for training. A number of graduates were hired by project contractors and others are awaiting the award of new contracts with hopes of being hired. A success story we have related to this program involves a graduate that has worked on OU4 Site projects since 2010. As a result of his outstanding performance, he was hired as a full time employee by EPA's contractor CH2M HILL in July 2010.
+
+The OU4 and OU2 remedial actions have also provided economic benefits to the local community beyond the sales and marketing of chat. For example, from July 2013 through April 2014, local staff utilization on the Distal 7 North portion of the QU4 remedial action was over 80% of the construction labor, and over 45% of the construction subcontract awards have been made to small disadvantaged businesses, including veteran-owned and woman-owned businesses. For OU2, 40% of construction subcontract awards have gone to small disadvantaged businesses, including woman-owned businesses. These workers have been helping the local economy by spending funds with local vendors.
+
+**Five-Year Reviews**
+
+EPA has conducted five-year reviews at the Site to ensure that the remedies put in place protect public health and the environment, and function as intended by Site decision documents. The most recent review completed in 2020 concluded that response actions at the Site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. These reviews will continue throughout the remediation process and in perpetuity.
+
+The next scheduled Five-Year Review is due in 2025.
+
+### What Is the Current Site Status?
+
+**ONGOING: Operable Unit 2 – Residential Areas**
+
+The ODEQ continues to work with property owners concerned about potential contamination in their yards. Anyone within Ottawa County is eligible for ODEQ’s Residential Yard Cleanup Program. If you are unsure whether your yard has been cleaned up and would like to get on the list to have your yard or driveway sampled, please contact ODEQ’s Tar Creek Residential Cleanup Project Manager Brian Stanila at (405) 702-5138 or via ODEQ’s toll-free hotline number at 1-800-522-0206.
+
+**ONGOING: Operable Unit 4 – Source Material**
+
+The EPA continues to work closely with the Quapaw Nation and the ODEQ on the implementation of the Tar Creek Superfund Site’s (Site) remedy. The EPA continues to award Cooperative Agreements (CAs) to both the Quapaw Nation and the ODEQ to carry out remedial actions at the Site, and as of March 2022 the Quapaw Nation has completed 7 projects with 3 ongoing while ODEQ has completed 2 projects with 2 ongoing..
+
+As of March 2022, approximately 7 million tons of mine source material has been addressed. As a result, nearly 5,000 acres are remediated and available for future use.
+
+**ONGOING: Operable Unit 5 – Surface Water and Sediment**
+
+EPA Regions 6 and 7 are working with 3 states (Oklahoma, Missouri, Kansas), nine Tribes (Quapaw Nation, Peoria Tribe, Ottawa Tribe, Miami Tribe, Eastern Shawnee Tribe, Modoc Tribe, Wyandotte Nation, Seneca-Cayuga Nation, and Cherokee Nation ), and the community to characterize sediment and surface water throughout the Spring and Neosho River basins.
+
+Progress includes:
+
+- Ongoing: Feasibility Study phase started November 2018 and will include the implementation of pilot studies, development of PRGs, developement of potential remediation technologies.
+	- Pilot studies include Short Creek Dredge and Sediment Trap Pilot; Turkey Creek Bank Stabilization Pilot; Elm Creek/Central Repository Seep Biochar Pilot; and Wilson Lake Biochar/Mine Shaft Pilot.
+- Ongoing: Revised Preliminary Remediation Goals (PRGs) Memorandum, Version 1.3, August 20, 2021
+- Ongoing: Revised Preliminary Remediation Goals Memorandum draft released June 10, 2021, with the comment period open through July 9, 2021
+- Preliminary Remediation Goals Memorandum draft released February 1, 2021, with the comment period open through April 16, 2021. Suspended until the document is revised.
+- Human Health Risk Assessment Report released on March 1, 2021.
+- RI Characterization Report released on April 8, 2020.
+- Field Sampling: Sampling activities to collect data to fill gaps identified in the Data Gap Report. Sampling completed in October 2017.
+- Field Sample Plan and Quality Assuurance Plan: final plans detailing the field sampling that will be completed to fill the data gaps idetnified inthe Data Gap Report. Completed 2017.
+- Data Gap Report: final report summarizing the memos below as well as the data gaps that need to filled to complete a characterization and risk assessment for surface water and sediment. Completed 2017.
+	- Human Health Conceptual Exposure Model: a list of the exosure pathways, media, and routes that may result in human exposure.
+	- Data Review and Evaluation Criteria: a review and evaluation porcess to determine the applicabilibty of the data resources to project objectives.
+	- Data Reference List: list of resources related to surface water and sediment to be used to support project objectives.
+- July 2015: Remedial Investigation and Human Health Risk Assessment Start: The process includes three parts: Data Gap Analysis, Human Health Risk Assessment, and the RI Characterization Report
+
+Additional Information on the Region 7 Sites within the Tri-State area can be found at the following web addresses.
+
+Cherokee County, KS site profile page: https://www.epa.gov/superfund/cherokeecounty
+
+Newton County Mine Tailings, MO site profile page: https://www.epa.gov/superfund/newtoncountymine
+
+Oronogo Duenweg Mining Belt (Jasper County), MO site profile page: https://www.epa.gov/superfund/oronogoduenwegmining
+
+### Sampling and Monitoring
+
+**Operable Unit 2 – Residential Areas**
+
+The ODEQ is the lead for cleaning up residential yards for citizens, making the community a cleaner and safer place to live and play. Contaminated mine waste, commonly referred to as chat was used to build roads, parking lots, alleyways, driveways, and used as general fill material. The ODEQ encourages you to ask about having your yard sampled for lead. The ODEQ will be able to tell you whether your property has been sampled, cleaned up, or work with you to find out if sampling and cleanup is necessary. Anyone within Ottawa County is eligible for ODEQ’s Residential Yard Cleanup Program. If you are unsure whether your yard has been cleaned up and would like to get on the list to have your yard or driveway sampled, please contact ODEQ’s Tar Creek Residential Cleanup Project Manager Brian Stanila at (405) 702-5138 or via ODEQ’s toll-free hotline number 1-800-522-0206.
+
+**Operable Unit 4 – Source Material**
+
+During each remediation project, soils are sampled to ensure the remediation goals of the ROD are being met. All data results are provided in remediation reports that document the work completed for each remediation project.
+
+**Operable Unit 5 - Surface Water and Sediment**
+
+The Data Gap Report identified data gaps that need to be filled in order to complete the nature and extent investigation and the human health risk assessment. Field sampling activities began July 10, 2017, and were completed in October 2017. All data are presented in the draft RI characterization Report which was released for review and comment from July 1, 2019 through October 18, 2019.
+
+Watershed Sampling Program - began in 2019 in coordination with US Geological Survey, EPA Office of Research and Devlopment, and Region 7, and continues.
+
+The fate, transport, and loading of metals in the aqueous phase and their presence in contaminated sediment in the Neosho and Spring River watersheds in the Tri-State Mining District is being studied to assist remediation and restoration reveiws. The program includes measuring streamflow and collection of water and sediment samples from seven identified sites in Oklahoma (Table 1), 8 idetndified sites in Kansas, and 10 identified sites in MO, for measuring metal concentrations in streambed sediment and water column. The specific objectives for this effort comprise:
+
+- Measure streamflow at the identified sampling stations.
+- Collect surface-water samples for metal concentration (dissolved and total).
+- Collect stream-bed sediment samples for total metal concentration.
+- Measure suspended sediment concentration (SSC) at the identified sampling stations.
+- Collect high-flow surface-water samples for metal concentration (dissolved and total)
+
+Table 1. Sampling locations in Oklahoma and their coordinates.
+
+Site ID Location
+
+Neosho-1 USGS Gage 07185000: Neosho River near Commerce, OK
+
+Neosho-2 USGS Gage 07185080: Neosho River at Miami, OK
+
+Tar Creek-1 USGS Gage 07185090: Tar Creek near Commerce, OK
+
+Tar Creek-2 USGS Gage 07185095: Tar Creek at 22nd St Bridge at Miami, OK
+
+Elm Creek USGS Gage 07185030: Elm Creek near Commerce, OK
+
+Beaver Creek USGS Gage 07188005: Beaver Creek near Quapaw, OK
+
+Spring River -1 USGS Gage 07188000: Spring River Near Quapaw, OK

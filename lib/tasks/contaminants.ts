@@ -10,6 +10,7 @@ const { data: allSites } = await supabase
   .select("id, semsId")
   .is("contaminants", null);
 // .eq("contaminants", "[]");
+// .eq("id", "PAD000436261");
 // .limit(250);
 
 const getUrl = (id: string) =>

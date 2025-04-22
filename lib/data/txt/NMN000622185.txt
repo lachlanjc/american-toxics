@@ -1,2 +1,156 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+The Carlisle Village Cleaners site (Site) is comprised of an area of regularly occupied structures (ROS) with
+documented indoor air contamination overlying soil contaminated by historical releases of tetrachloroethene
+(PCE) from two former dry cleaners, including Carlisle Village Cleaners and L&M Laundry and Cleaners, that
+operated from the South Carlisle Shopping Village strip mall. The area of observed exposure (AOE) covers an
+estimated area of 18 acres of a predominately residential neighborhood with some light commercial activity (Ref.
+59). The AOE includes 16 single-family residential structures, 70 multi-family residential subunits, 16
+commercial subunits, and two religious institutions; for HRS scoring purposes this involves approximately 190
+residents and 85 workers. There are three unoccupied commercial structures (given ROS numbers 398, 711, and
+802 for tracking purposes) and five multi-family residential subunits located above the ground floor (subunits of
+ROS 118, 202, and 808) which were not included in HRS calculations (for HRS purposes, only regularly
+occupied structures are eligible for scoring; in multi-story, multi-subunit, regularly occupied structures, only
+subunits on a level with observed exposure samples and levels below are considered to be within an AOE; also,
+for multi-subunit structures inferred to be in an AOE, only regularly occupied subunits on the lowest level of the
+structure are counted as part of the AOE. [Ref. 1, Section 5.2.0]). Additionally, although subsurface soil vapor
+contamination is discussed in this HRS documentation record, an area of subsurface contamination is not scored
+for HRS purposes. (See Table 1 and Figure 2 of this HRS documentation record.)
+As shown by Site investigation history below and discussed in the Attribution section of this HRS documentation
+record, the origin of contamination at the Site is a release, or releases, from past operations at Carlisle Village
+Cleaners and L&M Laundry and Cleaners located at 3611 and 3607 Simms Avenue SE in Albuquerque,
+Bernalillo County, New Mexico (Figure 1 of this HRS documentation record, Ref. 3, p. 1). An area of
+contaminated soil vapor was discovered during the field investigation portion of an Abbreviated Preliminary
+Assessment performed by the New Mexico Environment Department (NMED) in May 2022. Further
+investigations at the Site identified contaminated soil vapor originating at the facilities (Ref. 33, pp. 19-21; Ref.
+35, pp. 6-7, 10-11; Ref. 39, pp. 15, 20-21). The contamination extends for approximately 600 feet radially from
+the facilities (Ref. 39, p. 21; Ref. 46, pp. 3-4; Figure 2 of this HRS documentation record). The total mass of
+contaminated soil vapor is not known.
+The contaminants of concern (COCs) at the Site and found within soil vapor contamination are PCE and its
+daughter product, trichloroethene (TCE) (Ref. 35, pp. 8-9, 11). Historical dry-cleaning operations are often the
+source of environmental releases of chlorinated solvents due to the absence of pollution prevention controls on
+historical dry-cleaning machines or improper storage and waste disposal practices at historical facilities (Ref. 26,
+p. 2; Ref. 27, pp. 8, 20-21). PCE is scored for HRS purposes in this HRS documentation record; TCE is not scored
+because it is not expected to significantly contribute to the site score.
+During the November/December 2023 subsurface characterization field event (NMED), Site geology to 105 feet
+below ground surface was characterized during the drilling and installation of two soil vapor monitor wells
+(SVMW-01 and SVMW-02). Within the first 105 feet, five hydrostratigraphic units (HSUs) were identified in the
+two soil borings and categorized as HSU 1 through HSU 5 (Ref. 33, p. 17). HSU 1 begins at the surface and is
+approximately 15 feet thick (Ref. 33, p. 18). This unit is comprised primarily of silty sand with some calcium
+carbonate cement and caliche present (Ref. 33, p. 17). HSU 2 is an approximately four- to eight-foot unit
+containing clay and silt layers (Ref. 33, p. 18). HSU 3 is approximately 60 feet thick and contains layers of fine to
+coarse sand with increasing gravel presence at the bottom of the unit (Ref. 33, p. 18). HSU 4 is a 2.5- to 9-foot
+unit dominated by clay and silt that contains beds of gravel and sand (Ref. 33, p. 18). HSU 5 extends from the
+terminus of HSU 4 to the depth of investigation, and is at least 16 feet thick (Ref. 33, p. 19). HSU 5 is comprised
+of poorly graded sand (Ref. 33, p. 19). The subsurface characterization field event demonstrated that the
+inconsistent and thin clay and silt layers identified in HSU 2 and HSU 4 have not impeded the vertical migration
+of chlorinated solvent vapor contamination. Additionally, while moist conditions were noted in HSU 2 and HSU
+4, no evidence of saturation or perched groundwater was encountered during the investigation (Ref. 33, p. 25).
+The COCs, PCE and TCE, are volatile compounds which are part of a common class of chemicals with known
+vapor intrusion characteristics (Ref. 29, p. 44). The subsurface vapors in the vadose zone may travel vertically and
+eventually enter overlying structures as a component of gas by migrating through cracks, seams, interstices, utility
+conduits, or other gaps in foundations (Ref. 29, pp. 48-49).
+In September 2022, the EPA Removal Program began indoor air monitoring at the five buildings that comprise
+the strip mall: ROS 705 – Child Counseling Center, ROS 708 – Coffee Warehouse, ROS 799 – Coffee Office
+Space, ROS 707 – Realtor, and ROS 704 – Art Studio (Ref. 40, p. 3; Ref. 55, pp. 11, 12). Based on the initial
+indoor air results, the EPA Removal Program installed twelve air purifying units (APUs) across the five buildings
+in November 2022 as an interim mitigation measure to protect building occupants, and to mitigate and assess
+COC levels at the strip mall properties (Ref. 40, pp. 7-10; Ref. 55, p. 9).
+Site Investigation History
+The Carlisle Village Cleaners site was discovered by NMED in 2021 through an effort to inventory all known
+historical dry-cleaning operations in the State of New Mexico. The historical dry cleaners, identified through a
+records review of primary sources (e.g. city directories, Sanborn maps), were categorized by operational duration,
+occupation status of the former facilities, and proximity to a sensitive population (Ref. 35, p. 11; Ref. 36, pp. 2-3).
+Former operations that appeared likely to pose a threat to human health or the environment based on meeting one
+or more priority criteria were referred to the NMED Superfund Oversight Section for investigation (Ref. 35, p. 11;
+Ref. 36, p. 4).
+In January 2022, the NMED Superfund Oversight Section completed a Pre-Comprehensive Environmental
+Response, Compensation, and Liability Act (CERCLA) Screen of the Site. The Pre-CERCLA Screen
+recommended a limited investigation to determine if a release of chlorinated solvents had occurred at this location
+(Ref. 35, pp. 9, 11; Ref. 37, pp. 1, 6).
+In May 2022, the NMED Superfund Oversight Section performed the field investigation recommended in the PreCERCLA Screen as part of an Abbreviated Preliminary Assessment (Ref. 35, p. 10). Four passive soil gas
+samples (PSG-01 through PSG-04) were deployed along the north and south property boundaries of the South
+Carlisle Shopping Village strip mall (Ref. 35, pp. 10, 20). PCE was detected at a maximum concentration of
+188,000 μg/m3 (PSG-04), while TCE was detected at a maximum concentration of 992 μg/m3 (PSG-04) (Ref. 35,
+pp. 11, 17; Ref. 38, pp. 65, 118). Based on the results of this investigation, NMED recommended immediate
+response by the EPA Removal Program to mitigate vapor intrusion risk for occupants of the South Carlisle
+Shopping Village strip mall and further investigation into the extent of soil vapor contamination, the potential for
+additional vapor intrusion exposure, and potential impact of the release on nearby groundwater receptors through
+a Site Inspection (Ref. 35, p. 11).
+In September 2022, the EPA Removal Program began indoor air monitoring at the five buildings that comprise
+the strip mall: Child Counseling Center, Coffee Warehouse, Coffee Office Space, Realtor, and Art Studio (Ref.
+40, p. 3; Ref. 55, p. 11). Based on the initial indoor air results, the EPA Removal Program installed twelve
+compact, stand-alone indoor APUs across the five buildings in November 2022 (Ref. 40, pp. 7-10). Additional
+indoor air monitoring events to evaluate the effectiveness of the APUs occurred in November 2022, January 2023
+(sub-slab only), February 2023, April 2023, May 2023, and July 2023 (Ref. 40, pp. 11, 14-20; Ref. 41, pp. 5-6, 8,
+12). The maximum PCE concentration detected in indoor air at the strip mall was 3,160 μg/m3 (lab sample ID
+L1622198-03) in May 2023, while the maximum PCE concentration detected in sub-slab soil vapor at the strip
+Carlisle Village Cleaners
+673; Ref. 62, p. 10; Ref. 63, pp. 4, 10). The EPA Removal Program also collected water and sludge samples from
+a separator tank connected to two floor drains within the former L&M Laundry and Cleaners (3607 Simms
+Avenue SE) (Ref. 40, pp. 8-10). The analytical results identified 1.1 μg/L of PCE in water, and no PCE in the
+underlying sludge (Ref. 42, pp. 3, 5).
+To obtain a preliminary idea of the horizontal extent of vapor contamination, and to identify structures at risk of
+vapor intrusion based on soil vapor contaminant concentrations in public right-of-way, the EPA Removal
+Program conducted three passive soil gas sampling events in January, May, and June 2023 (Ref. 40, pp. 21-26;
+Ref. 41, pp. 7-9; Ref. 43, pp. 1,332-1,335; Ref. 44, pp. 733-734; Ref. 45, pp. 1,040-1,042). In total, 122 passive
+soil gas samplers were installed within a 1,000-foot radius of the Site (Ref. 43, pp. 1,332-1,335; Ref. 44, pp. 733-
+734; Ref. 45, pp. 1,040-1,042; Ref. 46, p. 4). The maximum detected PCE concentration was 62,800 μg/m3 (Ref.
+44, p. 21). The results indicated that the highest concentrations of PCE in soil vapor were located between the
+bounds of Carlisle Boulevard SE to the west, Thaxton Avenue SE to the south, Hermosa Dr SE to the east, and
+the alleyway just north of the strip mall to the north, correlating with a historical release or releases at the South
+Carlisle Shopping Village strip mall. The results further indicated that the soil vapor contamination has migrated
+radially in all directions, with detectable PCE concentrations found at the 1,000-foot boundary in most samples
+(Ref. 46, p. 4).
+In October 2023, the NMED Superfund Oversight Section performed a residential structures/sensitive population
+vapor intrusion sampling event as part of a Site Inspection. NMED collected indoor air and crawl space vapor
+samples at 18 single family and multi-family residential structures and at one daycare facility. Eighteen of the 19
+sampled structures had measurable levels of PCE in crawl space air, and all 19 sampled structures had measurable
+levels of PCE in indoor air (Ref. 8, pp. 8-36, 2,409-2,412; Ref. 9, pp. 8-31, 1,402-1,404). The maximum PCE
+concentration found within the living space of a residential structure (ROS-709-42) was 210 μg/m3
+, while the
+maximum PCE concentration found within a residential crawl space (ROS-709-22) was 190 μg/m3 (Ref. 8, pp. 11,
+30; Ref. 39, p. 34).
+In November and December of 2023, the EPA Removal Program performed a commercial structures vapor
+intrusion sampling event. EPA collected indoor air, crawl space, and sub-slab soil vapor samples at 13 structures
+(ROSs 203, 320A, 398, 704, 705, 707, 708, 799, 801, 803, 806, 901, 927), including the five buildings that
+comprise the South Carlisle Shopping Village strip mall and two religious institution structures (Ref. 47; Ref. 48).
+All 13 sampled structures had measurable levels of PCE in indoor air (Ref. 12, pp. 8, 12, 771, 780, 835, 844; Ref.
+13, pp. 106, 111, 571, 573, 618, 621; Ref. 14, pp. 7, 11, 422, 434, 471, 483; Ref. 15, pp. 110, 115, 513, 516, 556,
+559; Ref. 16, pp. 98, 102, 1648, 1658, 1722, 1733; Ref. 17, pp. 98, 102, 734, 737, 746, 800, 803, 811). The
+maximum indoor air PCE concentration found within a structure not associated with the strip mall was 1,760
+μg/m3 in ROS 801, while the maximum sub-slab soil gas PCE concentration measured was 593,000 μg/m3 under
+ROS 801 (Ref. 13, pp. 571, 618; Ref. 20, pp. 4, 20; Ref. 49, p. 1,073).
+In November and December of 2023, NMED, through environmental services contractor INTERA Incorporated
+(INTERA), performed subsurface characterization activities at the Site (Ref. 33, p. 13). The objectives of the
+characterization were to determine whether perched groundwater or dense non-aqueous phase liquid was present
+between ground surface and 100 feet below ground surface; to characterize lithology; to measure contaminant
+concentrations in soil, soil vapor, and groundwater; and to install nested soil vapor monitor wells (Ref. 33, p. 7).
+No perched groundwater, DNAPL, or significant fine-grained confining units were identified (Ref. 33, p. 25). Soil
+samples, which were collected during boring advancement, demonstrated a maximum PCE concentration of 1.3
+mg/kg (SVMW-02) at the 80-to-82-foot depth interval (Ref. 33, p. 39). Soil vapor samples were collected from
+multiple intervals within the two developed soil vapor monitor wells. The maximum PCE concentration detected
+in a vapor well (SVMW-01) was 7,100,000 μg/m3 at 83 feet below ground surface (Ref. 33, p. 40).
+Carlisle Village Cleaners
+
+
+
+
+
+
+
+5.0 SOIL EXPOSURE AND SUBSURFACE INTRUSION PATHWAY
+5.2 SUBSURFACE INTRUSION COMPONENT
+The origin of chlorinated solvent contamination at the Site is historical dry-cleaning operations at the South Carlisle
+Shopping Village strip mall. PCE became the most frequently used dry cleaning solvent beginning in the 1940s. Based on
+the operational history of each of the two dry cleaners and the years in operation (Carlisle Village Cleaners from 1953 to
+1975 and L&M Laundry and Cleaners from 1969 to 2017), it is likely that both operations used PCE as the primary drycleaning solvent (Ref. 26, pp. 1-2; Ref. 30). Historical dry-cleaning operations are often the source of environmental
+releases of chlorinated solvents due to the absence of pollution prevention controls on historical dry-cleaning machines or
+improper storage and waste disposal practices at historical facilities (Ref. 26, p. 2; Ref. 27, pp. 8, 20-21). A release of PCE
+at the South Carlisle Shopping Village strip mall was confirmed based on soil vapor sampling during the May 2022
+Abbreviated Preliminary Assessment field event (NMED) (Ref. 35, pp. 6, 10, 11). The identification of the South Carlisle
+Shopping Village strip mall as the source of the release of PCE was further supported by the January/May/June 2023
+passive soil gas sampling events (EPA) (Figure 3 of this HRS documentation record; Ref. 39, p. 39; Ref. 46, p. 4). TCE, a
+degradation product of PCE, was also identified in soil vapor and, along with PCE, is a Site contaminant of concern (Ref.
+32; Ref. 35, pp. 9, 10, 11, 17; Ref. 46, p. 3).
+During the NMED November/December 2023 subsurface characterization field event , Site geology to 105 feet below
+ground surface was characterized during the drilling and installation of two soil vapor monitor wells (SVMW-01 and
+SVMW-02). Within the first 105 feet, five hydrostratigraphic units (HSUs) were identified in the two soil borings and

@@ -2,6 +2,9 @@ import { supabase } from "../supabaseClient";
 import { generateText } from "ai";
 import { openai } from "@ai-sdk/openai";
 import { SupabaseSite } from "../data/site";
+import PQueue from "p-queue";
+
+const queue = new PQueue({ concurrency: 10 });
 
 async function recordIssue(id: string) {
   const filePath = Bun.file("lib/data/sites-missing.txt");
@@ -70,17 +73,18 @@ ${context}
 const { data: allSites } = await supabase
   .from("sites")
   .select("id, name")
-  // .eq("category", "che")
-  .is("summary", null);
-// .limit(5);
+  // .ilike("name", "%well%")
+  // .eq("category", "water")
+  .is("summary", null)
+  .limit(512);
 
-for (const site of allSites || []) {
+async function processSite(site: SupabaseSite) {
   const summary = await describeSite(site);
   console.log("Summarized:", site.id, site.name);
   console.log(summary);
   if (!summary) {
     console.error("No summary found for site:", site.id, site.name);
-    continue;
+    return;
   }
   const { error } = await supabase
     .from("sites")
@@ -92,4 +96,10 @@ for (const site of allSites || []) {
     console.log("Updated site:", site.id, site.name);
   }
   console.log("");
+}
+
+// await Promise.all((allSites || []).map(processSite));
+
+for (const site of allSites || []) {
+  queue.add(() => processSite(site));
 }

@@ -1,2 +1,37 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+### Background
+
+The Fibers Public Supply Wells site is located in Guayama, about two miles north of the Caribbean Sea, on the south coast of Puerto Rico. The 540-acre area includes a former synthetic fibers manufacturing plant. The site also includes five public water supply wells owned and operated by the Puerto Rico Aqueduct and Sewer Authority (PRASA), the Anaquest Caribe facility and adjacent areas. Fiber manufacturing resulted in soil contamination with asbestos-containing materials and groundwater contamination with volatile organic compounds (VOCs). Following cleanup, the site’s remedy is in place. Groundwater treatment is ongoing. Under current conditions at the site, potential or actual human exposures are under control.
+
+The Fibers Public Supply Wells site is located in an industrial and agricultural area in the Municipality of Guayama, (population: 41,000). There are approximately 50 residents living adjacent to the site. The Fibers Wells served as a stand-by water supply for Guayama. Four of the five wells were closed due to contamination by halogenated solvents. The U.S. Geological Survey detected the contamination in 1982 during a survey of public water wells. A synthetic fiber manufacturing plant operated in an area immediately upgradient of the supply wells. Wastewater from solvent cleaning of the machinery was emptied into two lagoons near the southwestern corner of the site before liners were installed in 1969, as well as later, when the liners were not intact. In 1985, the two wastewater settling ponds were converted into a stormwater retention basin. This conversion consisted of removing approximately 2,000 cubic yards of soil and liners from the lagoons. The material was then spread over the northwestern corner of the project site, known as the soil disposal area (SDA). The wastewater subsequently was piped to an off-site biological treatment system. During the excavation process, the liners in some areas of both of the lagoons were found missing. A pharmaceutical manufacturing facility currently operates on the site. Site Responsibility: This site is being addressed through Federal and potentially responsible parties' actions
+
+### What Has Been Done to Clean Up the Site?
+
+After adding this site to the NPL, the EPA performed preliminary investigations at the Fibers Public Supply Wells site and determined that no other immediate actions were required while further studies and planning for the ultimate remedy took place.
+
+Long-term Cleanup: Following a remedial investigation to determine the extent and magnitude of contamination at the site, EPA selected a site-wide remedy in 1991. It included groundwater pumping and treatment via air stripping, with discharge to the PREPA irrigation canal. It also included selected removal and off-site disposal of contaminated soils from the soil disposal area (SDA).
+
+Under a 1992 Consent Decree, the Potential Responsible Parties (PRPs) transported and disposed of a total of 7,950 tons of asbestos containing material in an authorized landfill in Puerto Rico, between November 1993 and January 1994, in accordance with the ROD signed in September 1991.
+
+Removal of contaminated soils at the SDA finished in January 1994. A total of 7,950 tons of asbestos- containing material was disposed of in an authorized landfill. The site’s groundwater treatment system started operating in June 1999. Ohmeda Caribe used bioremediation to treat the groundwater contaminated with acetone on its premises. All parts of the site remedy were in place in 1999.
+
+In September 1992, the responsible parties, Anaquest Caribe, Inc.; Phillips Petroleum Company; American Home Products Corporation and Chevron Chemical Company, entered into a Consent Decree wherein they agreed to perform the clean up selected by EPA and reimburse past and future expenses of the United States government. Pursuant to the Consent Decree, the removal of the contaminated soils at the SDA was completed in January, 1994. The Final Design Report for the groundwater was approved on September 28, 1995. The Remedial Action Work Plan was submitted to EPA an approved on September 1996. Air Stripper system installation was completed in May 1998. Installation of the remaining discharge pipe was completed on January 20, 1999 and system operation initiated in June 1999. Ohmeda Caribe implemented bioremediation to treat the groundwater contaminated with acetone within their premisses. Preliminary Close Out Report issued on September 1999 and as such construction completion was accomplished in FY 1999. Interim Remedial Action Report signed in September 2000 and as such a Remedial Action completion was accomplished in FY 2000.
+
+EPA has conducted two five-year reviews at the site. These reviews ensure that the remedies put in place protect public health and the environment, and function as intended by site decision documents. Both reviews concluded that response actions at the site are in accordance with the remedy selected by EPA and that the remedy continues to be protective of human health and the environment in the short term. For the remedy to be protective in the long term, EPA's 2009 five-year review indicated the need for a groundwater pump-and-treat optimization study. EPAs 2014 FYR indicated the remedycurrently protects human health and the environment because exposure to contaminated drinking water has been eliminated by providing residents with public water supply.
+
+Due to the shutdown of the facility that has been accepting treated water from the remediation system, EPA is coordinating with state agencies and the site’s potentially responsible parties to identify the final disposal option for the treated water. Currently the treated water has being dispose at a core ditch on a temporary basis until a final disposal alternative is identified.
+
+### What Is the Current Site Status?
+
+The site is being addressed in two stages: initial actions and long-term cleanup. The focus of long-term cleanup activities is cleanup of the entire site.
+
+Initial Actions: Water supply wells were closed after a 1982 survey detected contamination.
+
+Long term: The Groundwater Remedial Action work plan was approved in September 1996 and initiation of groundwater remedial action activities was initiated in March 1997. Construction of the air stripper and the installation of the remaining discharge pipes (approximately 10 %) to Phillips Core refinery was completed on January 20, 1999. Treated water is currently been discharge to Phillips Core as per consultation with PREQB, NOOA, DNRE, USGS and EPA.
+
+Operation of the groundwater pump-and-treat system implemented as per the ROD commenced in May 1999 and are currently ongoing. Upgrade of the system has been made as well as the replacement of portion of the existing discharge pipe. Conversation wth the Fibes group continues to addressed the final disposal alternative for the treated water.
+
+Due to the shutdown of the CORE facility that has been accepting the treated water from the remediation system, are currently been disposed in the former CORE ditch. Conversation are currently being held with the PRPs to implement the final disposal alternative.
+
+### Sampling and Monitoring
+
+Groundwater samples being collected as part of the RA activities.

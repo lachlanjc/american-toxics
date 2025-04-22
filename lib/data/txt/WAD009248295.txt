@@ -1,2 +1,237 @@
-Oops! Something went wrong!
-  Help us improve your experience by sending an error report here.
+Site Name and Location
+Site Name: Wyckoff/Eagle Harbor Superfund Site
+Location: Bainbridge Island, Kitsap County, Washington
+Latitude: 47.61535 North; Longitude: -122.49986 West
+U.S. Environmental Protection Agency Identification Number: WAD 009248295
+Statement of Basis and Purpose
+This document presents the decision by the U.S. Environmental Protection Agency (EPA)1 to implement
+additional cleanup actions at the Wyckoff/Eagle Harbor Superfund Site (the Site or site) in Bainbridge Island,
+Kitsap County, Washington. This decision amends the 1994 Record of Decision (ROD) for the East Harbor
+Operable Unit (OU) 1 (OU1) (EPA, 1994)2 and the 2000 ROD for upland OU2 and OU4 (soil and groundwater
+OUs, respectively) (EPA, 2000a). The additional cleanup actions include dredging and capping contaminated
+beach sediments, improving the access road, and replacing the aging perimeter steel sheet pile wall. These
+actions were chosen in accordance with the Comprehensive Environmental Response, Compensation, and
+Liability Act of 1980, United States Code Title 42, Section 9601 et seq., as amended by the Superfund
+Amendments and Reauthorization Act of 1986, and to the extent practicable, the National Oil and
+Hazardous Substances Pollution Contingency Plan (NCP), Code of Federal Regulations, Title 40, Part 300, as
+amended. This decision is based on the Administrative Record for the site. The State of Washington, acting
+through the Washington Department of Ecology, concurs with the Selected Remedy.
+Site Assessment
+The Selected Remedy in this Interim Record of Decision Amendment (RODA) is necessary to protect the
+public health, welfare, and/or environment from actual or threatened releases of hazardous substances into
+the environment or from actual or threatened releases of pollutants or contaminants from the site that may
+present an imminent and substantial endangerment to public health or welfare.
+Description of the Selected Remedy
+In the intertidal beaches adjacent to the former Wyckoff wood-treating facility, the current remedy is
+monitored natural recovery; this remedy in this portion of the site is not functioning as designed.
+Contaminant concentrations exceed cleanup goals in several beach areas. This Interim RODA modifies the
+1994 cleanup decision for portions of the intertidal beaches with the decision to remove contaminated
+sediments through dredging and off-site disposal and install a cap to contain any potential future
+nonaqueous phase liquid (NAPL) seepage. Dredging and capping will treat or remove source materials
+constituting principal threats in the intertidal portion of OU1 adjacent to the former Wyckoff wood-treating
+facility.
+The Selected Remedy for the intertidal beaches adjacent to the former wood-treating area includes the
+following activities:
+• Dredging approximately 6,600 cubic yards of contaminated sediment from select areas
+• Backfilling dredged areas with a multilayer cap, including placing reactive materials (such as oleophilic
+clay or other reagents) at the base of the cap to retard upward NAPL seepage, then restoring dredged
+areas to grade with clean, imported materials
+• Disposing of dredged sediments off site (landfill)
+• Monitoring to confirm dredged and backfilled areas remain clean
+• Monitoring outside active cleanup areas to confirm natural recovery effectiveness
+• Implementing institutional controls to prohibit marine construction activities that could disturb the
+capped areas of the beach.
+In the upland (OU2 and OU4) portion of the former Wyckoff wood-treating facility, the current remedy is
+containment. A steel sheet pile wall around the perimeter of the facility is a key element of the containment
+system. The above-ground portion of the wall is corroding rapidly and must be replaced to prevent
+contaminated groundwater, creosote, and contaminated soils from eroding into Puget Sound. The Selected
+Remedy involves constructing a new reinforced concrete wall, to be built adjacent to the outboard/seaward
+side of the existing wall. The Selected Remedy also includes making improvements to the existing access
+road. The improvements, which will reduce the steep grade over a portion of the road and straighten a
+sharp curve, are needed to transport large construction equipment and materials to the work area.
+Statutory Determinations
+The Selected Remedy will protect human health and the environment, comply with federal and State
+requirements that are applicable or relevant and appropriate within the scope of this interim remedial
+action, be cost effective, and use permanent solutions and alternative treatment technologies to the extent
+practicable for this site.
+The Selected Remedy will satisfy the statutory preference for treatment as a principal element of the
+remedy by treating dredged sediment contaminated with NAPL if necessary to reduce contaminant mobility
+before transport and disposal in a landfill and by using reactive materials in the base of the cap to intercept
+and adsorb upwelling NAPL.
+The Selected Remedy will address two immediate needs at the site: (1) ongoing human exposure to
+contaminants on the beaches, and (2) potential for failure of the current perimeter wall. Additional actions
+needed to address contaminated soils and groundwater in the upland portion of the former wood-treating
+facility will be presented in a future decision document. Because this remedy will result in hazardous
+substances, pollutants, or contaminants remaining on site above levels that allow for unlimited use and
+unrestricted exposure, a statutory review will be conducted within 5 years after the remedial action is
+initiated to ensure that the remedy protects, or will protect, human health and the environment.
+
+1.0 SiteName, Location, andBriefDescription
+The Wyckoff/Eagle Harbor Superfund Site (EPA Identification Number WAD009248295) is located on the
+east side of Bainbridge Island in central Puget Sound (Figure 1), at 5350 Creosote Place NE, Bainbridge
+Island, Washington. The Site includes the former Wyckoff Company wood‐treating facility on the south
+shore of Eagle Harbor, more than 70 acres of contaminated subtidal and intertidal sediments in the harbor,
+and the upland and in‐water portions of a former shipyard on the harbor’s north shore. Historically, the
+Wyckoff Site has been divided into the following four OUs:
+ OU1: East Harbor OU includes contaminated intertidal and subtidal sediments in the eastern portion of
+Eagle Harbor associated with wood‐treating operations at the former Wyckoff facility.
+ OU2: Soils OU includes contaminated surface soil and structures associated with the Former Process
+Area (FPA) of the Wyckoff facility.
+ OU3: West Harbor OU includes the upland areas and intertidal and subtidal contaminated sediments
+associated with former shipyard operations on the north shore of Eagle Harbor.
+ OU4: Groundwater OU includes contaminated subsurface soil and groundwater associated with
+operations at the FPA of the Wyckoff facility.
+OU2 and OU4 are referred to collectively as OU2/4, or the Soils and Groundwater OUs. In this document,
+this portion of the Site is also called the former process area or FPA.
+EPA is the lead agency for the Site, supported by the Washington Department of Ecology (Ecology). EPA
+added the Site to the National Priorities List (NPL) in 1987. Extensive investigation and cleanup activities
+have taken place in the intervening 30 years. This interim Record of Decision Amendment (RODA) revises
+two existing cleanup decisions: the East Harbor OU (OU1) Record of Decision (1994 ROD; EPA, 1994) and the
+Soil and Groundwater OUs (OU2 and OU4) ROD (EPA, 2000a).
+The current remedy for intertidal beaches in OU1—monitored natural recovery (MNR)—failed to meet the
+ROD’s cleanup goals in portions of the beaches adjacent to the former wood‐treating facility. In 2012,
+sampling and analysis revealed that sediments in specific areas of the beaches remained contaminated
+above risk‐based cleanup levels 10 years after implementation of source control actions (HDR Engineering,
+Inc. [HDR], et al., 2012).
+The current remedy in OU2/4—containment—has prevented large‐scale releases of contaminants to Eagle
+Harbor. The containment system includes two components: (1) a steel sheet pile wall around the perimeter
+of the FPA and (2) groundwater extraction and treatment system. The steel sheet pile wall is corroding
+rapidly and is expected to lose structural integrity within 3 to 5 years; therefore, the wall needs to be
+replaced soon. The wall must be replaced before any additional cleanup actions are implemented, because
+wall failure could cause recontamination of the beaches. Therefore, EPA is addressing both issues—ongoing
+contamination in the beaches and replacement of the perimeter wall—in this decision document.
+
+Additional cleanup actions are also being planned to address contamination remaining in upland soils and
+groundwater. The cleanup decision for the upland soils and groundwater OUs will be presented in a future
+decision document.
+2.0 Site History and Enforcement Actions
+This section of the RODA summarizes the Site history and briefly discusses of EPA and State removal,
+remedial, and enforcement activities.
+2.1 History of Site Operations
+Suquamish people camped along the Eagle Harbor shoreline for centuries. Two ethnohistoric period and
+historic period villages have been recorded in addition to several precontact clamming, fishing, hunting
+camps and short-term activity locations. At least one burial location has been documented (Brooks, pers.
+comm., 2016). Starting in 1903, a major shipyard was established on the north shore of Eagle Harbor. After
+flourishing during World War I, the yard languished during the 1930s. In the 1940s and 1950s, the emphasis
+was on constructing and repairing military ships and conducting postwar decommissioning.
+Wood-treating operations began on the harbor’s south shore in 1905. From 1905 through 1988, a
+succession of companies treated wood for use as railroad ties, utility poles, pier pilings, and wood stave
+pipes. By 1910, pressure treatment with creosote or bunker oil had begun. In later years, wood was also
+treated with pentachlorophenol (PCP). Early operations took place on docks and pile-supported buildings.
+Over time, a series of bulkheads were built, and the area behind them filled, creating the existing upland
+area. For decades, logs were treated using heat and pressure inside retorts, which are long, cylindrical tanks
+sealed at both ends. Freshly treated wood was removed from the retorts and dried in the open air. Excess
+chemical solution that dripped from the wood went directly onto the ground and seeped into the soil and
+groundwater. This practice began in the mid-1940s and continued until operations ceased in 1988. Other
+significant contaminant releases resulted from leaking storage tanks and piping, storing treated wood in the
+water, and using process wastes and sludge as fill between bulkheads in the 1950s.
+2.2 Previous Investigations and Cleanup Actions in OU2 and OU4 (Upland Soil and Groundwater)
+In 1984, EPA issued a Unilateral Administrative Order requiring the Wyckoff Company to conduct
+environmental investigation activities under the Resource Conservation and Recovery Act (RCRA). Data
+collected at the time revealed the presence of significant soil and groundwater contamination. The Site was
+added to the NPL in 1987 and a more thorough remedial investigation (RI) was completed in 1989
+(CH2M HILL Engineers, Inc. [CH2M], 1989).
+Groundwater extraction and treatment began at selected wells in 1990. In 1993, EPA assumed responsibility
+for operation and maintenance (O&M) of the groundwater extraction and treatment system because the
+company was financially unable to do so. Between 1992 and 1994, EPA conducted a time-critical removal
+action at the facility, removing creosote sludge and contaminated soils, disposing asbestos, constructing a
+new bulkhead, and removing and recycling materials left in the retorts and tanks.
+In 1994, a Focused Remedial Investigation/Feasibility Study (RI/FS) for the Groundwater OU was completed,
+and an interim ROD was issued (CH2M, 1994). The interim ROD required additional actions, including
+replacement of the existing groundwater treatment plant and sealing and abandonment of on-site water
+supply wells. In 1996 and 1997, most of the remaining above grade structures were demolished and the
+debris was removed and disposed of off site. In 1998, EPA conducted an evaluation of thermal treatment
+technologies, including the removal of contaminants from soil and groundwater using steam injection and
+groundwater extraction. Steam enhanced extraction was selected in a 2000 ROD for OU2 and OU4 (EPA,
+2000a). The 2000 ROD also included a contingency remedy—containment—to be implemented if a pilot
+scale study of steam enhanced extraction could not meet cleanup goals.
+
+In 2001, a steel sheet pile wall was constructed around the perimeter of the FPA. A smaller sheet pile wall
+was also constructed around an area of heavily contaminated soils near the center of the FPA that had been
+selected for the pilot study. The pilot study began in October 2002. Equipment problems hampered
+operations, and the pilot study was terminated in April 2003. The most serious problems encountered were
+aspiration of liquid by the vapor-vacuum pumps, overloading of the water treatment system, and clogging of
+pipes and treatment facilities by naphthalene precipitation.
+Although the pilot treatment system encountered many operating problems, it was successful in that it
+enabled EPA to evaluate the technology. Through that test, EPA determined that cleanup goals for the
+Groundwater OU could not be met using steam enhanced extraction. Therefore, EPA began to implement
+the contingency remedy—containment—in 2004. The aging groundwater treatment system was replaced in
+2010. The containment remedy is still in operation today, and consists of the following components:
+• Groundwater Extraction and Treatment System—The groundwater extraction system consists of nine
+recovery wells screened in the upper aquifer. These wells draw groundwater and nonaqueous-phase
+liquid (NAPL) away from the facility perimeter and toward the extraction wells. Ecology has been
+operating the groundwater extraction and treatment system since 2012.
+• Perimeter Wall—The interlocking steel sheet pile wall was constructed around the FPA’s west, north,
+and east sides to prevent contaminant release to Eagle Harbor. The wall is more than 1,800 feet long. It
+extends from above the ground downward into a confining layer 25 to 80 feet below ground surface.
+• Long-Term Monitoring—A monitoring program provides data on water levels in both the upper and
+lower aquifers beneath the FPA (for confirming hydraulic containment), and on contaminant distribution
+and movement in the subsurface. Monitoring is ongoing.
+• Engineering Controls—Engineering controls (for example, fencing) and access controls have been
+implemented to restrict site use, thereby preventing direct exposure to surface soils.
+2.3 Previous Investigations and Cleanup Actions in OU1 (East Harbor)
+The 1989 RI revealed extensive polycyclic aromatic hydrocarbon (PAH) contamination of surface and shallow
+subsurface sediments in Eagle Harbor (CH2M, 1989). To address this contamination, EPA implemented a
+time-critical removal action to cap more than 54 acres of contaminated sediments. Capping began in
+September 1993 and was completed in March 1994. The cap covered contaminated sediments under a thick
+(1 to 5 feet) layer of clean sand. Capping was selected as the primary remedy for sediment contamination in
+the 1994 ROD, with MNR in the intertidal beaches, which is the subject of this document. The cap was
+extended in several phases and now covers more than 70 acres, as shown in Figure 2.
+In 2001, EPA installed the perimeter pile wall (described above) around the west, north, and east sides of
+the FPA. The wall stopped the discharge of contaminated soil, groundwater, and NAPL to the beaches,
+allowing the process of natural recovery to begin.
+In 2005, EPA received reports from citizens about odors and sheen on the beach west of the FPA. EPA
+investigated, determined the extent of residual creosote contamination, and designed a three-layer cap
+called an exposure barrier system (EBS) to cover the contaminated portion of the beach. EPA documented
+this additional cleanup decision, which amended the 1994 ROD, in a 2007 Explanation of Significant
+Differences (ESD; EPA, 2007). The EBS was built in 2008.
+In 2012, EPA determined that cleanup levels had not been met in the intertidal beaches adjacent to the FPA,
+despite 10 years of MNR following source control measures. After making this determination, EPA began a
+focused feasibility study (FFS) to evaluate the extent of NAPL remaining in the beaches. EPA found NAPL
+seeps in two areas—East Beach and North Shoal. Creosote is visible when the beaches are exposed at low
+tide, and it generates sheens and odor on the beach surface. Portions of the beaches remain contaminated
+with PAHs at concentrations above ROD cleanup levels. In the Focused Feasibility Study Wyckoff/Eagle
+Harbor Superfund Site Operable Unit 1 (CH2M, 2016a), EPA evaluated a range of cleanup options to address
+the remaining contamination.
+In 2017, the EPA repaired a portion of the original cap in Eagle Harbor. State ferry operations had caused
+erosion of the cap in the vessel traffic lane near the ferry terminal, exposing contaminated sediment. The
+repair included placing new sand over 9 acres of the cap, and armoring 4 acres of the repair area with a rock
+layer to prevent future erosion. A Regulated Navigation Area (Code of Federal Regulations [CFR] Title 33,
+Part 165.1307) prohibits anchoring, dredging, or other activities that could disturb the cap.
+2.4 Previous Investigations and Cleanup Actions in OU3 (West Harbor)
+The EPA’s 1989 RI of Eagle Harbor (CH2M, 1989) included intertidal and subtidal sediment sampling and
+analysis across a large portion of the harbor. The RI revealed an area of metal-contaminated sediment
+offshore of the former shipyard on the harbor’s north side. EPA issued an initial cleanup decision for the
+shipyard (EPA, 1992), then amended the cleanup decision in December 1995 (EPA, 1995a). The remedy
+included upland source control measures, including soil stabilization and capping; a tidal barrier system to
+minimize contaminant seeps from the site to the adjacent beach; capping of contaminated sediments; and
+institutional controls (ICs). The cleanup was completed in 1997. The former shipyard is currently used by the
+Washington Department of Transportation for maintenance of state ferries. Because the remedy is
+functioning as designed and no additional actions are planned, OU3 is not discussed further in this RODA.
+2.5 History of Enforcement Actions
+EPA issued an order requiring the Wyckoff Company to conduct environmental investigations in 1984. In July
+1988, EPA ordered the company to install groundwater extraction wells and a groundwater treatment plant
+to halt continuing releases of wood-treating contaminants to Eagle Harbor. The facility ceased operations in
+1988, and the company was renamed Pacific Sound Resources (PSR).
+A settlement with PSR—covering both the Wyckoff facility and a wood-treating facility in Seattle—was
+embodied in a consent decree entered in federal district court in August 1994. The decree created the PSR
+Environmental Trust, into which the heirs of the Wyckoff Company founders, owners, and operators placed
+all ownership rights and shares in the company. This allowed the trust to maximize liquidation of all
+company assets. The beneficiaries of the trust are the United States Department of Interior, National
+Oceanic and Atmospheric Administration, and the Suquamish and Muckleshoot Tribes as Natural Resource
+Trustees, as well as EPA (the Superfund trust fund) for reimbursement of Comprehensive Environmental
+Response, Compensation, and Liability Act of 1980 (CERCLA) remedial costs.
+Proceeds from the trust funded early cleanup activities and natural resource restoration projects, both at
+the Wyckoff facility and at a sister facility in Seattle. However, collections from the trust, which totaled less
+than $20 million, were dwarfed by substantial cleanup costs at the two facilities. To date, EPA has spent
+more than $180 million on site investigations and cleanup actions at the Wyckoff Site. In 2012, EPA
+conducted a search for additional potentially responsible parties and did not discover any other viable
+parties who could be liable for EPA response costs.
+3.0 Community and Tribal Participation
+EPA and Ecology coordinated closely throughout the development of the OU1 FFS (CH2M, 2016a) and held
+regular meetings with a community stakeholder group to share investigation results and answer questions
+from community members. The draft final OU1 FFS, addressing contamination remaining in the intertidal
+beaches, was made available to the public in April 2016, along with the Proposed Plan for Amending the
+Records of Decision for the Wyckoff/Eagle Harbor Superfund Site (Operable Units 1, 2, and 4) (Proposed Plan;
+EPA, 2016a). These as well as other relevant Site documents can be found in the Administrative Record for
+the Proposed Plan.
