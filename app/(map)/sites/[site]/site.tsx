@@ -153,18 +153,19 @@ export function SiteCard({
 
   return (
     <div className="flex flex-col gap-4">
-      {/* hasPlainSiteImage(site.id) && (
+      {hasPlainSiteImage(site.id) && (
         <Portal>
-          // eslint-disable-next-line @next/next/no-img-element
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={`/plainsite/${site.id}.jpg`}
             width={1097 / 4}
             height={1080 / 4}
             className="floating-image"
             alt={`Plain Site of ${site.name}`}
+            title="Photograph by Federica Armstrong, In Plain Site"
           />
         </Portal>
-      ) */}
+      )}
       <HeaderRoot showClose>
         <HeaderTitle style={{ viewTransitionName: site.id }}>
           {site.name} Superfund Site

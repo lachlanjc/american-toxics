@@ -3,7 +3,6 @@ import { SiteCard } from "./site";
 import { allSites, findSiteById } from "@/lib/data/api";
 import { MapZoom } from "../../zoom";
 import { Nearby } from "./nearby";
-import { Suspense } from "react";
 import { supabase } from "@/lib/supabaseClient";
 import { SiteNPLStatusTimeline } from "./timeline";
 import { Contaminants } from "./contaminants";

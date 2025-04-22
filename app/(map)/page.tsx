@@ -1,4 +1,3 @@
-import { Search } from "@/app/(map)/sites/search";
 import { nplStatuses } from "@/lib/data/site";
 import { categories } from "@/lib/data/site-categories";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";

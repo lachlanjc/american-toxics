@@ -79,7 +79,7 @@ export function coordsToCardinal(
 }
 
 export function formatAcres(acres: number | null) {
-  let round = acres
+  const round = acres
     ? Number(
         acres.toLocaleString("en-US", {
           maximumFractionDigits: 0,
