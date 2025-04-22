@@ -1,4 +1,3 @@
-import { SiteList } from "@/app/(map)/sites/list";
 import STATES from "@/lib/data/states.json" assert { type: "json" };
 import { allSites } from "@/lib/data/api";
 import {
@@ -10,8 +9,8 @@ import {
 // import { MapZoom } from "../../zoom";
 import { nplStatuses } from "@/lib/data/site";
 import { notFound } from "next/navigation";
+import { SearchableSections } from "@/app/(map)/sites/search-sections";
 import { Count } from "@/lib/ui/count";
-import { Heading } from "@/lib/ui/typography";
 
 export async function generateStaticParams() {
   return Object.keys(nplStatuses).map((status) => ({ status }));
@@ -45,10 +44,16 @@ export default async function Page({
     return notFound();
   }
   const sites = allSites.filter((site) => site.npl === statusKey);
+  // Prepare sections grouped by state
+  const sections = STATES.map((state) => {
+    const sectionSites = sites
+      .filter((site) => site.stateCode === state.abbrev)
+      .sort((a, b) => a.name.localeCompare(b.name));
+    return { key: state.abbrev, label: state.name, sites: sectionSites };
+  }).filter((section) => section.sites.length > 0);
 
   return (
     <>
-      {/* <MapZoom center={[state.lat, state.lng]} zoom={state.zoom + 2} /> */}
       <HeaderRoot>
         <HeaderBreadcrumb href="/npl">
           Superfund Sites by Cleanup Phase
@@ -58,20 +63,7 @@ export default async function Page({
         </HeaderTitle>
         <HeaderSubtitle>{status.desc}</HeaderSubtitle>
       </HeaderRoot>
-      {STATES.map((state) => {
-        const sectionSites = sites
-          .filter((site) => site.stateCode === state.abbrev)
-          .sort((a, b) => {
-            return a.name.localeCompare(b.name);
-          });
-        if (!sectionSites.length) return null;
-        return (
-          <section id={state.abbrev} key={state.abbrev}>
-            <Heading>{state.name}</Heading>
-            <SiteList className="mb-4 -mt-2" sites={sectionSites} />
-          </section>
-        );
-      })}
+      <SearchableSections sections={sections} />
     </>
   );
 }

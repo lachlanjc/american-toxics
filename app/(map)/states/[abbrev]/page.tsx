@@ -1,12 +1,10 @@
-import { SiteList } from "@/app/(map)/sites/list";
 import states from "@/lib/data/states.json" assert { type: "json" };
-import { allSites } from "@/lib/data/api";
 import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
 import { MapZoom } from "../../zoom";
 import { Count } from "@/lib/ui/count";
 import { nplStatuses } from "@/lib/data/site";
-import { Heading } from "@/lib/ui/typography";
 import { supabase } from "@/lib/supabaseClient";
+import { SearchableSections } from "@/app/(map)/sites/search-sections";
 
 export async function generateStaticParams() {
   return states.map(({ abbrev }) => ({ abbrev }));
@@ -31,7 +29,6 @@ export async function generateMetadata({
   };
 }
 
-const sections = Object.keys(nplStatuses);
 export default async function Page({
   params,
 }: {
@@ -53,6 +50,19 @@ export default async function Page({
     console.error(error);
     throw new Error(`Sites not found for state: ${abbrev}`);
   }
+  // Prepare sections grouped by NPL status
+  const sections = Object.keys(nplStatuses)
+    .map((statusKey) => {
+      const sectionSites = sites
+        .filter((site) => site.npl === statusKey)
+        .sort((a, b) => a.name.localeCompare(b.name));
+      return {
+        key: statusKey,
+        label: nplStatuses[statusKey].label,
+        sites: sectionSites,
+      };
+    })
+    .filter((section) => section.sites.length > 0);
 
   return (
     <>
@@ -65,20 +75,7 @@ export default async function Page({
           {state.name} <Count value={sites.length} />
         </HeaderTitle>
       </HeaderRoot>
-      {sections.map((section) => {
-        const sectionSites = sites
-          .filter((site) => site.npl === section)
-          .sort((a, b) => {
-            return a.name.localeCompare(b.name);
-          });
-        if (!sectionSites.length) return null;
-        return (
-          <section id={section} key={section}>
-            <Heading>{nplStatuses[section].label}</Heading>
-            <SiteList className="mb-4" sites={sectionSites} />
-          </section>
-        );
-      })}
+      <SearchableSections sections={sections} />
     </>
   );
 }

@@ -4,7 +4,7 @@ import { useFocusable } from "@/lib/util/use-focusable";
 import { allSites } from "@/lib/data/api";
 import { SiteList } from "./list";
 
-const searchOptions = {
+export const searchOptions = {
   keys: ["name", "stateCode", "stateName", "city", "county"],
 };
 

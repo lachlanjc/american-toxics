@@ -1,4 +1,3 @@
-import { SiteList } from "@/app/(map)/sites/list";
 import STATES from "@/lib/data/states.json" assert { type: "json" };
 import {
   HeaderRoot,
@@ -7,9 +6,9 @@ import {
   HeaderSubtitle,
 } from "@/lib/ui/header";
 // import { MapZoom } from "../../zoom";
+import { SearchableSections } from "@/app/(map)/sites/search-sections";
 import { notFound } from "next/navigation";
 import { Count } from "@/lib/ui/count";
-import { Heading } from "@/lib/ui/typography";
 import { categories } from "@/lib/data/site-categories";
 import { supabase } from "@/lib/supabaseClient";
 import clsx from "clsx";
@@ -53,6 +52,13 @@ export default async function Page({
   if (error) {
     console.error("Error fetching sites:", error);
   }
+  // Prepare sections grouped by state
+  const sections = STATES.map((state) => {
+    const sectionSites = sites
+      .filter((site) => site.stateCode === state.abbrev)
+      .sort((a, b) => a.name.localeCompare(b.name));
+    return { key: state.abbrev, label: state.name, sites: sectionSites };
+  }).filter((section) => section.sites.length > 0);
 
   return (
     <>
@@ -69,20 +75,7 @@ export default async function Page({
         </HeaderTitle>
         {category.desc && <HeaderSubtitle>{category.desc}</HeaderSubtitle>}
       </HeaderRoot>
-      {STATES.map((state) => {
-        const sectionSites = sites
-          .filter((site) => site.stateCode === state.abbrev)
-          .sort((a, b) => {
-            return a.name.localeCompare(b.name);
-          });
-        if (!sectionSites.length) return null;
-        return (
-          <section id={state.abbrev} key={state.abbrev}>
-            <Heading>{state.name}</Heading>
-            <SiteList className="mb-4 -mt-2" sites={sectionSites} />
-          </section>
-        );
-      })}
+      <SearchableSections sections={sections} />
     </>
   );
 }

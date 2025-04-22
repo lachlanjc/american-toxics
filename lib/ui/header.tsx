@@ -82,7 +82,7 @@ export function HeaderBreadcrumb({
 export function HeaderTitle(props: ComponentProps<typeof Title>) {
   return (
     <Drawer.Title asChild>
-      <Title style={{ viewTransitionName: "header-title" }} {...props} />
+      <Title {...props} />
     </Drawer.Title>
   );
 }
