@@ -1,7 +1,7 @@
 import { SupabaseSite } from "@/lib/data/site";
 import { categories } from "@/lib/data/site-categories";
 import clsx from "clsx";
-import Link from "next/link";
+import { Link } from "next-view-transitions";
 
 export function CategoryChip({
   category: key,

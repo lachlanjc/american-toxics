@@ -3,7 +3,7 @@ import { supabase } from "@/lib/supabaseClient";
 import { MapZoom } from "../../zoom";
 import { SiteList } from "../../sites/list";
 import { HeaderRoot, HeaderTitle, HeaderSubtitle } from "@/lib/ui/header";
-import Link from "next/link";
+import { Link } from "next-view-transitions";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
 import { Database } from "@/supabase/types";
 import { WellRoot, WellTitle } from "@/lib/ui/well";

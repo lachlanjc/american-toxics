@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { MapZoom } from "../../zoom";
 import { SupabaseSite } from "@/lib/data/site";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
-import Link from "next/link";
+import { Link } from "next-view-transitions";
 import { MiniSite } from "../../sites/[site]/mini";
 import { SiteNPLStatusIcon } from "../../sites/list";
 
