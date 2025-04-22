@@ -6,6 +6,7 @@ import { MapZoom } from "../../zoom";
 import { Count } from "@/lib/ui/count";
 import { nplStatuses } from "@/lib/data/site";
 import { Heading } from "@/lib/ui/typography";
+import { supabase } from "@/lib/supabaseClient";
 
 export async function generateStaticParams() {
   return states.map(({ abbrev }) => ({ abbrev }));
@@ -43,7 +44,15 @@ export default async function Page({
   if (!state) {
     throw new Error(`State not found: ${abbrev}`);
   }
-  const sites = allSites.filter((site) => site.stateCode === state.abbrev);
+  const { data: sites, error } = await supabase
+    .from("sites")
+    .select("id, name, category, npl, city, stateCode")
+    .eq("stateCode", state.abbrev)
+    .order("name", { ascending: true });
+  if (!sites || error) {
+    console.error(error);
+    throw new Error(`Sites not found for state: ${abbrev}`);
+  }
 
   return (
     <>
