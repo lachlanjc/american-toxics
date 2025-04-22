@@ -25,13 +25,16 @@ export function HeaderRoot({
 }>) {
   // const pathname = usePathname();
   return (
-    <header className="mb-4 flex gap-2 md:gap-4 relative">
-      <div className="flex flex-col">{children}</div>
+    <header
+      className="mb-4 flex gap-2 md:gap-4 relative items-start"
+      data-appearance="dark"
+    >
+      <div className="flex flex-col mr-auto">{children}</div>
       {actions}
       {showClose && (
         <Link
           href={closeLink}
-          className="ml-auto flex h-8 w-8 shrink-0 leading-0 items-center justify-center rounded-full bg-black/10 transition-transform focus:scale-95 focus-visible:shadow-focus-ring-button active:scale-75"
+          className="flex h-8 w-8 shrink-0 leading-0 items-center justify-center rounded-full bg-black/10 transition-transform hover:scale-110 will-change-transform focus-visible:shadow-focus-ring-button active:scale-75"
           onClick={() => {
             // @ts-expect-error global
             window.mapRef?.current?.flyTo({

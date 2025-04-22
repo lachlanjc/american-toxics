@@ -25,7 +25,7 @@ export default async function ResultsPage() {
   // Fetch nearest site details
   const { data: siteRecords, error: siteError } = await supabase
     .from("sites")
-    .select("id,name,lat,lng,category,npl")
+    .select("id,name,lat,lng,category,npl,city,stateCode")
     .in("id", nearestIds);
   if (siteError || !siteRecords) {
     throw new Error("Error fetching site details");

@@ -12,6 +12,7 @@ import { StatusChip } from "../../sites/[site]/status";
 import { ShareButton } from "./share";
 import SvgTrophy from "@/lib/icons/Trophy";
 import { SupabaseSite } from "@/lib/data/site";
+import { MiniSite } from "../../sites/[site]/mini";
 
 type PartialSite = Pick<
   SupabaseSite,
@@ -95,50 +96,7 @@ export default async function ScorePage({
       {siteNearest?.lat && siteNearest?.lng && (
         <MapZoom center={[siteNearest.lat, siteNearest.lng]} />
       )}
-      {siteNearest && (
-        <WellRoot>
-          <WellTitle style={{ viewTransitionName: siteNearestId }}>
-            {siteNearest.name} Superfund Site
-          </WellTitle>
-          <div className="text-neutral-600 text-xs mt-1">
-            {siteNearest.city},{" "}
-            <Link
-              href={`/states/${siteNearest.stateCode}`}
-              className="underline underline-offset-3 hover:text-primary transition-colors"
-            >
-              {siteNearest.stateCode}
-            </Link>
-          </div>
-          <dl className="grid grid-cols-2 my-4">
-            <div>
-              <dt className="text-neutral-600 text-xs uppercase mb-1">
-                Category
-              </dt>
-              <dd>
-                {siteNearest.category ? (
-                  <CategoryChip category={siteNearest.category} />
-                ) : (
-                  "—"
-                )}
-              </dd>
-            </div>
-            <div>
-              <dt className="text-neutral-600 text-xs uppercase mb-1">
-                Cleanup status
-              </dt>
-              <dd>
-                {siteNearest.npl && <StatusChip status={siteNearest.npl} />}
-              </dd>
-            </div>
-          </dl>
-          <Link
-            href={`/sites/${siteNearest.id}`}
-            className="text-center action-button font-sans font-bold text-base py-1.5 block"
-          >
-            Learn about this site
-          </Link>
-        </WellRoot>
-      )}
+      {siteNearest && <MiniSite site={siteNearest} />}
       {buckets.map(({ title, ids }) => (
         <details key={title} className="mt-6">
           <summary className="flex gap-2 items-center cursor-pointer overflow-clip">

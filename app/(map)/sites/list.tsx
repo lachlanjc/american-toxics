@@ -1,4 +1,5 @@
 import { nplStatuses, SiteNPLStatus, SupabaseSite } from "@/lib/data/site";
+import clsx from "clsx";
 import { Link } from "next-view-transitions";
 
 export function SiteNPLStatusIcon({
@@ -12,7 +13,11 @@ export function SiteNPLStatusIcon({
     <span
       role="img"
       aria-label={status}
-      className={`inline-block w-2 h-2 rounded-full ${nplStatuses[status].color} bg-current ${className ?? ""}`}
+      className={clsx(
+        "inline-block w-2 h-2 rounded-full shrink-0 bg-current",
+        nplStatuses[status].color,
+        className,
+      )}
     />
   );
 }
