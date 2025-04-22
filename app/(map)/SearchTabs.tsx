@@ -77,16 +77,16 @@ function AddressAutocomplete() {
 export default function SearchTabs() {
   return (
     <Tabs.Root defaultValue="search" className="w-full">
-      <Tabs.List className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl mb-4">
+      <Tabs.List className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl mb-4 font-sans font-medium">
         <Tabs.Trigger
           value="search"
-          className="active-tab px-4 py-2 text-neutral-700"
+          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[state=active]:text-neutral-900"
         >
           Search sites
         </Tabs.Trigger>
         <Tabs.Trigger
           value="nearby"
-          className="active-tab px-4 py-2 text-neutral-700"
+          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[state=active]:text-neutral-900"
         >
           By address
         </Tabs.Trigger>
