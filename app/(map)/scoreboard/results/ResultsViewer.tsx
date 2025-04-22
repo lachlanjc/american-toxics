@@ -1,11 +1,15 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { MapZoom } from "../../zoom";
 import { SupabaseSite } from "@/lib/data/site";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { Link } from "next-view-transitions";
 import { MiniSite } from "../../sites/[site]/mini";
 import { SiteNPLStatusIcon } from "../../sites/list";
+import { useSearchParams } from "next/navigation";
+// @ts-expect-error js package
+import { lockScrollbars } from "lock-scrollbars";
+import clsx from "clsx";
 
 // Reuse the type for items
 export type ResultItem = {
@@ -21,13 +25,13 @@ export type ResultItem = {
 function relativeTime(dateStr: string): string {
   const diff = Date.now() - new Date(dateStr).getTime();
   const seconds = Math.floor(diff / 1000);
-  if (seconds < 60) return `${seconds} sec${seconds === 1 ? "" : "s"}`;
+  if (seconds < 60 * 3) return `just now`;
   const minutes = Math.floor(seconds / 60);
-  if (minutes < 60) return `${minutes} min${minutes === 1 ? "" : "s"}`;
+  if (minutes < 60) return `${minutes} min${minutes === 1 ? "" : "s"} ago`;
   const hours = Math.floor(minutes / 60);
-  if (hours < 24) return `${hours} hr${hours === 1 ? "" : "s"}`;
+  if (hours < 24) return `${hours} hr${hours === 1 ? "" : "s"} ago`;
   const days = Math.floor(hours / 24);
-  return `${days} day${days === 1 ? "" : "s"}`;
+  return `${days} day${days === 1 ? "" : "s"} ago`;
 }
 
 export default function ResultsViewer({
@@ -35,13 +39,28 @@ export default function ResultsViewer({
 }: {
   initialResults: ResultItem[];
 }) {
-  // Initialize center at first result's nearest site
+  const searchParams = useSearchParams();
+  const newId = searchParams.get("id");
   const [selected, setSelected] = useState<ResultItem | null>(
     initialResults[0],
   );
-  // const [center, setCenter] = useState<[number, numbe
-  //   first ? [first.nearestSite.lat ?? 0, first.nearestSite.lng ?? 0] : [0, 0],
-  // );
+  const list = useRef<HTMLOListElement>(null);
+
+  useEffect(() => {
+    const newRecord = initialResults.find((r) => r.id === newId);
+    if (newId && newRecord) {
+      setSelected(newRecord);
+      const unlockScrollbars = lockScrollbars();
+      setTimeout(() => {
+        document
+          .getElementById(newId)
+          ?.scrollIntoView({ behavior: "smooth", block: "center" });
+        setTimeout(() => {
+          unlockScrollbars();
+        }, 2000);
+      }, 2000);
+    }
+  }, [newId]);
   const furthestDistance = Math.max(
     ...initialResults.map((r) => r.nearestMiles),
   );
@@ -76,11 +95,21 @@ export default function ResultsViewer({
       <ol
         className="flex-auto overflow-y-auto snap-y snap-mandatory border-t border-neutral-300"
         role="list"
+        ref={list}
       >
         {initialResults.map((item, i) => (
           <li
             key={item.id}
-            className="flex gap-6 items-center border-b last:border-b-0 border-neutral-300 cursor-pointer hover:bg-white/30 aria-selected:bg-white transition-colors py-4 pl-4 pr-6 md:pl-6 snap-start overflow-x-hidden"
+            id={item.id}
+            className={clsx(
+              "flex gap-6 items-center",
+              "py-4 pl-4 pr-6 md:pl-6",
+              "border-b last:border-b-0 border-neutral-300",
+              "snap-start overflow-x-hidden cursor-pointer",
+              newId && item.id === newId
+                ? "bg-primary shine-effect"
+                : "hover:bg-white/30 aria-selected:bg-white transition-colors",
+            )}
             aria-selected={item.id === selected?.id}
             onClick={() => {
               setSelected(item);

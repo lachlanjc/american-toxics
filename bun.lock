@@ -11,6 +11,7 @@
         "ai": "^4.3.9",
         "clsx": "^2.1.1",
         "fuse.js": "^7.1.0",
+        "lock-scrollbars": "^0.4.1",
         "mapbox-gl": "^3.11.0",
         "next": "^15.3.1",
         "next-view-transitions": "^0.3.4",
@@ -1032,6 +1033,8 @@
     "lightningcss-win32-x64-msvc": ["lightningcss-win32-x64-msvc@1.29.2", "", { "os": "win32", "cpu": "x64" }, "sha512-EdIUW3B2vLuHmv7urfzMI/h2fmlnOQBk1xlsDxkN1tCWKjNFjfLhGxYk8C8mzpSfr+A6jFFIi8fU6LbQGsRWjA=="],
 
     "locate-path": ["locate-path@6.0.0", "", { "dependencies": { "p-locate": "^5.0.0" } }, "sha512-iPZK6eYjbxRu3uB4/WZ3EsEIMJFMqAoopl3R+zuq0UjcAm/MO6KCweDgPfP3elTztoKP3KtnVHxTn2NHBSDVUw=="],
+
+    "lock-scrollbars": ["lock-scrollbars@0.4.1", "", {}, "sha512-vvQYfXShwNEe6Mh0N0oMU3BBtIdAHD4hNoqPkUB/8dPjeDrL5Pnd6ZP/Uszc7I1z1s0Ki8w3EtCYCJmMtBLKFw=="],
 
     "lodash": ["lodash@4.17.21", "", {}, "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg=="],
 

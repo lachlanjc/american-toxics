@@ -165,6 +165,40 @@ input {
   }
 } */
 
+/* via https://ibelick.com/blog/create-shine-effect-on-card-with-tailwind-css */
+.shine-effect[aria-selected="true"] {
+  --shine-deg: -45deg;
+  background-image: linear-gradient(
+    var(--shine-deg),
+    transparent 20%,
+    transparent 40%,
+    hsl(0 0 100% / 30%) 50%,
+    hsl(0 0 100% / 30%) 55%,
+    transparent 70%,
+    transparent 100%
+  ) !important;
+  background-size:
+    250% 100%,
+    100% 100%;
+  transition: background-position 0s ease;
+  animation: shining 2.5s 5 linear;
+}
+@keyframes shining {
+  0% {
+    background-position:
+      250% 0,
+      0 0;
+  }
+  100% {
+    background-position:
+      0% 0,
+      0 0;
+  }
+}
+.bg-primary .bg-current.text-primary {
+  background-color: white;
+}
+
 @supports (interpolate-size: allow-keywords) {
   :root {
     interpolate-size: allow-keywords;
