@@ -11,6 +11,7 @@ import { UIMessage } from "@ai-sdk/ui-utils";
 import { OpenAIIcon } from "@/lib/ui/icons";
 import { CategoryChip } from "./category";
 import { formatAcres } from "@/lib/util/distance";
+import { Heading } from "@/lib/ui/typography";
 
 const questions = [
   "What types of contaminants are present?",
@@ -104,7 +105,7 @@ function SiteDescription({
     }
   }, [site.id, append]);
   return (
-    <section className="mb-6">
+    <section className="pb-1">
       {messages
         .filter((msg) => msg.role === "assistant")
         .map((message) => (
@@ -151,10 +152,10 @@ export function SiteCard({
   );
 
   return (
-    <>
-      {hasPlainSiteImage(site.id) && (
+    <div className="flex flex-col gap-4">
+      {/* hasPlainSiteImage(site.id) && (
         <Portal>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
+          // eslint-disable-next-line @next/next/no-img-element
           <img
             src={`/plainsite/${site.id}.jpg`}
             width={1097 / 4}
@@ -163,7 +164,7 @@ export function SiteCard({
             alt={`Plain Site of ${site.name}`}
           />
         </Portal>
-      )}
+      ) */}
       <HeaderRoot showClose>
         <HeaderTitle style={{ viewTransitionName: site.id }}>
           {site.name} Superfund Site
@@ -181,7 +182,8 @@ export function SiteCard({
           ({site.county} County)
         </HeaderSubtitle>
       </HeaderRoot>
-      <dl className="grid grid-cols-2 mb-4">
+
+      <dl className="grid grid-cols-2 -mt-4">
         <div>
           <dt className="text-neutral-600 text-xs uppercase mb-1">Category</dt>
           <dd>
@@ -193,6 +195,7 @@ export function SiteCard({
           <dd className="font-sans text-base">{formatAcres(site.acres)}</dd>
         </div>
       </dl>
+
       <SiteDescription
         site={site}
         onQuery={(q) => {
@@ -202,11 +205,12 @@ export function SiteCard({
         }}
       />
       {children}
+
       <section>
         {messages.map((message) => (
           <div
             key={message.id}
-            className={`whitespace-pre-wrap odd:mt-6 ${message.role === "user" ? "font-bold font-sans text-lg mb-1" : "text-neutral-600"} pr-8`}
+            className={`whitespace-pre-wrap even:mb-4 ${message.role === "user" ? "font-bold font-sans text-lg mb-1" : "text-neutral-600"} md:pr-6`}
           >
             <AIText
               message={message}
@@ -220,8 +224,8 @@ export function SiteCard({
       </section>
 
       {suggestions.length > 0 && (
-        <div className="flex flex-col w-full mt-8">
-          <strong>Suggested questions</strong>
+        <div className="flex flex-col w-full">
+          <Heading className="mb-1">Suggested questions</Heading>
           {suggestions.map((q) => (
             <button
               className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
@@ -238,7 +242,7 @@ export function SiteCard({
       )}
       <form
         onSubmit={handleSubmit}
-        className="mt-auto w-full pt-6 sticky bottom-0"
+        className="mt-auto w-full pt-2 sticky bottom-0"
       >
         <input
           className="w-full action-button p-2 !bg-white"
@@ -248,6 +252,6 @@ export function SiteCard({
           ref={ref}
         />
       </form>
-    </>
+    </div>
   );
 }

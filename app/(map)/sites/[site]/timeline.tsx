@@ -18,7 +18,7 @@ function formatDate(dateString?: string) {
 
 export function SiteNPLStatusTimeline({ site }: { site: Site }) {
   return (
-    <WellRoot className="pt-4 mb-4">
+    <WellRoot className="pt-4">
       <ul className="flex flex-col gap-1 text-sm @md:flex-row @md:justify-between @md:px-4">
         {Object.keys(nplStatuses).map((statusKey) => {
           const status = nplStatuses[statusKey as keyof typeof nplStatuses];

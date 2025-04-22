@@ -59,11 +59,11 @@ export default async function Page({
           </section>
         ) : null}
         <SiteNPLStatusTimeline site={site} />
-        {site.mapboxNearby && (
-          <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
-        )}
         {Array.isArray(site.contaminants) && site.contaminants.length > 0 && (
           <Contaminants contaminants={site.contaminants} />
+        )}
+        {site.mapboxNearby && (
+          <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
         )}
         {site.contactName && <Contact site={site} />}
       </SiteCard>

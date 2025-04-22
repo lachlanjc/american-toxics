@@ -213,7 +213,7 @@ export function Contaminants({
     // @ts-expect-error sort by contaminant count
     .sort((a, b) => b[1].length - a[1].length);
   return (
-    <WellRoot className="mt-4">
+    <WellRoot>
       <WellTitle>Contamination</WellTitle>
       {groups.map(([media, sublist]) => (
         <ContaminantGroup

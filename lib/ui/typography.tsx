@@ -1,4 +1,5 @@
 import { ComponentPropsWithoutRef } from "react";
+import clsx from "clsx";
 
 export function Title(props: ComponentPropsWithoutRef<"h1">) {
   return (
@@ -15,7 +16,10 @@ export function Heading(props: ComponentPropsWithoutRef<"h1">) {
   return (
     <h2
       {...props}
-      className="text-xl font-bold font-sans tracking-tight mb-2"
+      className={clsx(
+        "text-xl font-bold font-sans tracking-tight",
+        props.className || "mb-2",
+      )}
     />
   );
 }
