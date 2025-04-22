@@ -166,12 +166,12 @@ function ContaminantGroup({
   const Icon = grouping?.icon as React.FC<React.SVGProps<SVGSVGElement>>;
   return (
     <details className="mt-1">
-      <summary className="flex gap-2 items-center cursor-pointer overflow-clip">
+      <summary className="flex gap-2 items-center cursor-pointer leading-tight overflow-clip">
         {Icon && (
           <Icon
             width={20}
             height={20}
-            className={clsx(grouping.color, "-ml-px")}
+            className={clsx(grouping.color, "-ml-px shrink-0")}
             aria-hidden
           />
         )}

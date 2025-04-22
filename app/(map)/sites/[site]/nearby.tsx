@@ -254,11 +254,11 @@ function PlaceGroup({
   const Icon = icon;
   return (
     <details>
-      <summary className="flex gap-2 items-center cursor-pointer">
+      <summary className="flex gap-2 items-center leading-tight cursor-pointer">
         <Icon
           width={20}
           height={20}
-          className="fill-neutral-400 self-center"
+          className="fill-neutral-400 shrink-0 self-start mt-0.5"
           aria-hidden
         />
         <div>{title}</div>
