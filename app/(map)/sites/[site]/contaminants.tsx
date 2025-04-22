@@ -93,7 +93,7 @@ export const groupings: Record<string, Grouping> = {
     label: "Rainwater runoff",
     desc: "As rainwater flows through contamination, it forms toxic, odorous leachate or “garbage juice” that leaks downstream.",
   },
-  NAPL: {
+  "Free-phase NAPL": {
     category: "water",
     color: colors.water,
     icon: SvgNapl,

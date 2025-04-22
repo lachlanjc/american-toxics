@@ -1,4 +1,7 @@
 import { supabase } from "../supabaseClient";
+import PQueue from "p-queue";
+
+const queue = new PQueue({ concurrency: 10 });
 
 type Contaminants = Array<{
   name: string;
@@ -15,7 +18,8 @@ const { data: allSites } = await supabase
 
 const getUrl = (id: string) =>
   `https://data.epa.gov/dmapservice/sems.envirofacts_contaminants/fk_site_id/equals/${id}/1:1000/json`;
-for (const site of allSites || []) {
+
+async function processSite(site: { id: string; semsId: string }) {
   // Try zero-padded and not, use whichever has more results
   let contaminantsRaw = await Promise.all([
     fetch(getUrl(site.semsId)).then((res) => res.json()),
@@ -52,4 +56,8 @@ for (const site of allSites || []) {
   } else {
     console.log("Updated site:", site.id, site.semsId, contaminants.length);
   }
+}
+
+for (const site of allSites || []) {
+  queue.add(() => processSite(site));
 }

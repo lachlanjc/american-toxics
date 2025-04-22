@@ -5,6 +5,7 @@ import { SupabaseSite } from "../data/site";
 import PQueue from "p-queue";
 
 const queue = new PQueue({ concurrency: 10 });
+type PartialSite = Pick<SupabaseSite, "id" | "name">;
 
 async function recordIssue(id: string) {
   const filePath = Bun.file("lib/data/sites-missing.txt");
@@ -19,7 +20,7 @@ async function recordIssue(id: string) {
   }
 }
 
-async function describeSite(site: Pick<SupabaseSite, "id" | "name">) {
+async function describeSite(site: PartialSite) {
   const filePath = Bun.file(`lib/data/txt/${site.id}.txt`);
   let context = "";
   try {
@@ -78,7 +79,7 @@ const { data: allSites } = await supabase
   .is("summary", null)
   .limit(512);
 
-async function processSite(site: SupabaseSite) {
+async function processSite(site: PartialSite) {
   const summary = await describeSite(site);
   console.log("Summarized:", site.id, site.name);
   console.log(summary);

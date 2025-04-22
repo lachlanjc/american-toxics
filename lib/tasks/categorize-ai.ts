@@ -6,9 +6,9 @@ import PQueue from "p-queue";
 
 const queue = new PQueue({ concurrency: 10 });
 
-async function classifySite(
-  site: Pick<SupabaseSite, "id" | "name" | "summary">,
-) {
+type PartialSite = Pick<SupabaseSite, "id" | "name" | "summary">;
+
+async function classifySite(site: PartialSite) {
   const system = `<role>You are an expert toxic Superfund site classifier.</role>
     <instructions>Classify the following Superfund site into one of the provided categories. If the site does not fit any of the categories, return \`other\`.</instructions>
     <important_rule>ONLY return the category name, no Markdown, no quotes, no explanation, no category description, JUST the name.</important_rule>
@@ -62,7 +62,7 @@ const { data: allSites } = await supabase
 
 console.log(allSites?.length, "sites ready for categorization");
 
-async function processSite(site: SupabaseSite) {
+async function processSite(site: PartialSite) {
   const category = await classifySite(site);
   // console.log("Classified:", site.id, site.name, category);
   const { error } = await supabase

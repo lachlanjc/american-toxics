@@ -5,7 +5,7 @@ import { WellRoot, WellTitle } from "@/lib/ui/well";
 
 export function Contact({ site }: { site: SupabaseSite }) {
   return (
-    <WellRoot className="py-4">
+    <WellRoot className="">
       <p className="uppercase font-sans font-medium mb-1 text-xs text-neutral-600">
         EPA site administrator
       </p>

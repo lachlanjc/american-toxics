@@ -102,8 +102,8 @@ const highlightedCategories: Record<
     search: ["synagogue"],
   },
   assisted_living_facility: {
-    name: "assisted living facility",
-    namePlural: "assisted living facilities",
+    name: "senior care facility",
+    namePlural: "senior care facilities",
     icon: SvgWheelchair,
     search: [],
   },
