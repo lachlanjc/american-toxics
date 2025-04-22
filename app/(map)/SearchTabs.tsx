@@ -107,7 +107,10 @@ export default function SearchTabs() {
             sites,” and manages cleaning them up.
           </p>
           <p>
-            <Link href="/about" className="text-primary font-medium font-sans">
+            <Link
+              href="/about"
+              className="text-primary font-medium font-sans transition-opacity hover:opacity-80"
+            >
               Read more →
             </Link>
           </p>
