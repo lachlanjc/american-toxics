@@ -100,11 +100,18 @@ export default function Page() {
           <br />
           by State
         </Link>
-        {/* <Link href="/about" className="action-button flex items-end p-4">
+        <Link
+          href="/scoreboard/results"
+          className="action-button flex items-end p-4"
+        >
+          Scoreboard
+        </Link>
+        <Link href="/contaminants" className="action-button flex items-end p-4">
+          Contaminants
+        </Link>
+        <Link href="/about" className="action-button flex items-end p-4">
           About
-          <br />
-          Superfund
-        </Link> */}
+        </Link>
       </div>
       <hr className="border-black/20 -mx-6 my-6" />
       <SearchTabs />
