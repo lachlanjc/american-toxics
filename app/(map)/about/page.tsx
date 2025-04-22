@@ -1,10 +1,18 @@
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { Heading } from "@/lib/ui/typography";
+import { supabase } from "@/lib/supabaseClient";
 import { Link } from "next-view-transitions";
 import { groupings } from "../sites/[site]/contaminants";
 import clsx from "clsx";
 
-export default function About() {
+export default async function About() {
+  // Fetch total number of Superfund sites
+  const { count: siteCount, error: countError } = await supabase
+    .from("sites")
+    .select("*", { head: true, count: "exact" });
+  if (countError) {
+    throw new Error("Error fetching site count");
+  }
   return [
     <HeaderRoot showClose key="header">
       <HeaderTitle>
@@ -86,6 +94,18 @@ export default function About() {
       </p>
     </article>,
     <hr key="hr1" className="border-black/20 -mx-6 my-6" />,
+    <section key="stats" className="">
+      <Heading>Stats</Heading>
+      <dl className="mt-4">
+        <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
+          {siteCount?.toLocaleString()}
+        </dt>
+        <dd className="mt-4 text-sm uppercase block text-neutral-600">
+          Total sites
+        </dd>
+      </dl>
+    </section>,
+    <hr key="hr2" className="border-black/20 -mx-6 my-6" />,
     <section key="media">
       <Heading>Types of contamination</Heading>
       <ul className="flex flex-col gap-4" role="list">
