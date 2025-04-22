@@ -1,5 +1,5 @@
 "use client";
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 import { useChat } from "@ai-sdk/react";
 import { useFocusable } from "@/lib/util/use-focusable";
 import { hasPlainSiteImage, Site, SupabaseSite } from "@/lib/data/site";
@@ -129,6 +129,7 @@ export function SiteCard({
   children,
 }: React.PropsWithChildren<{ site: SupabaseSite }>) {
   const ref = useFocusable();
+  const scrollRef = useRef<HTMLDivElement>(null);
   const {
     messages,
     setData,
@@ -240,8 +241,13 @@ export function SiteCard({
           ))}
         </div>
       )}
+
+      <div ref={scrollRef} />
       <form
-        onSubmit={handleSubmit}
+        onSubmit={(e) => {
+          handleSubmit(e);
+          scrollRef?.current?.scrollIntoView({ behavior: "smooth" });
+        }}
         className="mt-auto w-full pt-2 sticky bottom-0"
       >
         <input
