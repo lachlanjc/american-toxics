@@ -1,5 +1,3 @@
-import { nplStatuses } from "@/lib/data/site";
-import { allSites } from "@/lib/data/api";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Link } from "next-view-transitions";
 import { Count } from "@/lib/ui/count";

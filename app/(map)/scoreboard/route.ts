@@ -1,4 +1,3 @@
-import { NextResponse } from "next/server";
 import { redirect } from "next/navigation";
 import { geocode } from "opencage-api-client";
 import sitesMini from "@/lib/data/sites-mini.json";
@@ -23,7 +22,7 @@ export async function POST(request: Request) {
   const first = geoRes.results[0];
   const { lat, lng } = first.geometry;
   const addressFormatted = first.formatted;
-  const comp: any = first.components || {};
+  const comp: Record<string, unknown> = first.components || {};
   const addressCity = comp.city || comp.town || comp.village || "";
   const addressStateCode = comp.state_code || comp.state || "";
 

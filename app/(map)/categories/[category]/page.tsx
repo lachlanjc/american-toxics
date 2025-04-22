@@ -1,6 +1,5 @@
 import { SiteList } from "@/app/(map)/sites/list";
 import STATES from "@/lib/data/states.json" assert { type: "json" };
-import { allSites } from "@/lib/data/api";
 import {
   HeaderRoot,
   HeaderBreadcrumb,

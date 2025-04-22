@@ -1,4 +1,4 @@
-import { nplStatuses, Site, SiteNPLStatus } from "@/lib/data/site";
+import { nplStatuses, SiteNPLStatus, SupabaseSite } from "@/lib/data/site";
 import { Link } from "next-view-transitions";
 
 export function SiteNPLStatusIcon({
@@ -21,7 +21,9 @@ export function SiteList({
   sites,
   ...props
 }: {
-  sites: Array<Pick<Site, "id" | "name" | "npl" | "city" | "stateCode">>;
+  sites: Array<
+    Pick<SupabaseSite, "id" | "name" | "npl" | "city" | "stateCode">
+  >;
 } & React.ComponentPropsWithoutRef<"ul">) {
   return (
     <ul {...props}>
@@ -32,7 +34,7 @@ export function SiteList({
             className="py-1 text-left transition-colors text-black hover:text-neutral-600 w-full grid grid-cols-[8px_1fr] pl-1 gap-x-2 gap-y-1 items-center"
             prefetch={false}
           >
-            <SiteNPLStatusIcon status={result.npl} />
+            {result.npl ? <SiteNPLStatusIcon status={result.npl} /> : <span />}
             <strong
               className="font-sans text-base font-normal"
               style={{ viewTransitionName: result.id }}

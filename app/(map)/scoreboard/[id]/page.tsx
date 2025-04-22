@@ -5,16 +5,18 @@ import { SiteList } from "../../sites/list";
 import { HeaderRoot, HeaderTitle, HeaderSubtitle } from "@/lib/ui/header";
 import Link from "next/link";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
-import { Heading } from "@/lib/ui/typography";
 import { Database } from "@/supabase/types";
 import { WellRoot, WellTitle } from "@/lib/ui/well";
 import { CategoryChip } from "../../sites/[site]/category";
 import { StatusChip } from "../../sites/[site]/status";
-import reactStringReplace from "react-string-replace";
 import { ShareButton } from "./share";
-import SvgRestart from "@/lib/icons/Restart";
 import SvgTrophy from "@/lib/icons/Trophy";
+import { SupabaseSite } from "@/lib/data/site";
 
+type PartialSite = Pick<
+  SupabaseSite,
+  "id" | "name" | "city" | "stateCode" | "category" | "npl" | "lat" | "lng"
+>;
 export default async function ScorePage({
   params,
 }: {
@@ -26,16 +28,14 @@ export default async function ScorePage({
     .select("*")
     .eq("id", id)
     .single();
-  if (scoreError || !score) {
+  const siteNearestId = score.siteNearest;
+  if (scoreError || !score || !siteNearestId) {
     return <p>Score not found.</p>;
   }
   let {
     lat,
     lng,
     addressFormatted,
-    addressCity,
-    addressStateCode,
-    siteNearest: siteNearestId,
     siteNearestMiles,
     sites1,
     sites5,
@@ -54,7 +54,9 @@ export default async function ScorePage({
     .from("sites")
     .select("id,name,city,stateCode,category,npl,lat,lng")
     .in("id", allIds);
-  const siteMap = new Map((siteRecords || []).map((s: any) => [s.id, s]));
+  const siteMap = new Map(
+    (siteRecords || []).map((s: PartialSite) => [s.id, s]),
+  );
   const siteNearest = siteMap.get(siteNearestId);
 
   const pluralize = (count: number) => `${count} site${count === 1 ? "" : "s"}`;
@@ -70,7 +72,7 @@ export default async function ScorePage({
       {lat && lng && <MapZoom center={[lat, lng]} />}
       <HeaderRoot showClose closeLink="/scoreboard/new">
         <HeaderTitle>
-          You grew up{" "}
+          That’s{" "}
           {siteNearestMiles?.toLocaleString("en-US", {
             maximumFractionDigits: 2,
           })}{" "}
@@ -90,19 +92,21 @@ export default async function ScorePage({
           */}
         </HeaderSubtitle>
       </HeaderRoot>
-      {siteNearest && <MapZoom center={[siteNearest.lat, siteNearest.lng]} />}
+      {siteNearest?.lat && siteNearest?.lng && (
+        <MapZoom center={[siteNearest.lat, siteNearest.lng]} />
+      )}
       {siteNearest && (
         <WellRoot>
-          <WellTitle>{siteNearest.name} Superfund Site</WellTitle>
+          <WellTitle style={{ viewTransitionName: siteNearestId }}>
+            {siteNearest.name} Superfund Site
+          </WellTitle>
           <div className="text-neutral-600 text-xs mt-1">
             {siteNearest.city},{" "}
             <Link
               href={`/states/${siteNearest.stateCode}`}
               className="underline underline-offset-3 hover:text-primary transition-colors"
             >
-              <abbr title={siteNearest.stateCode} className="no-underline">
-                {siteNearest.stateCode}
-              </abbr>
+              {siteNearest.stateCode}
             </Link>
           </div>
           <dl className="grid grid-cols-2 my-4">
@@ -123,7 +127,7 @@ export default async function ScorePage({
                 Cleanup status
               </dt>
               <dd>
-                <StatusChip status={siteNearest.npl} />
+                {siteNearest.npl && <StatusChip status={siteNearest.npl} />}
               </dd>
             </div>
           </dl>
@@ -152,7 +156,7 @@ export default async function ScorePage({
             sites={
               ids
                 .map((sid: string) => siteMap.get(sid))
-                .filter(Boolean) as Array<any>
+                .filter(Boolean) as Array<PartialSite>
             }
           />
         </details>

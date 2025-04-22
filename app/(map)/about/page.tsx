@@ -1,5 +1,5 @@
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
-import { Heading, Title } from "@/lib/ui/typography";
+import { Heading } from "@/lib/ui/typography";
 import Link from "next/link";
 import { groupings } from "../sites/[site]/contaminants";
 import clsx from "clsx";

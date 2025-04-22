@@ -56,7 +56,7 @@ export default function ResultsViewer({
         }
       >
         <HeaderTitle>
-          Scoreboard: Growing up next to American&nbsp;Toxics
+          Scoreboard: Living next to American&nbsp;Toxics
         </HeaderTitle>
       </HeaderRoot>
       <ol className="" role="list">

@@ -13,8 +13,8 @@ export default function Highlight({
   children,
   ...props
 }: HighlightProps) {
-  let [previous, setPrevious] = useState(trigger);
-  let [didHighlight, setDidHighlight] = useState(false);
+  const [previous, setPrevious] = useState(trigger);
+  const [didHighlight, setDidHighlight] = useState(false);
 
   useEffect(() => {
     const handler = setTimeout(() => {

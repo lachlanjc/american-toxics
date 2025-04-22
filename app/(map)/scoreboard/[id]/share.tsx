@@ -14,9 +14,9 @@ export function ShareButton({ url }: { url: string }) {
       className="action-button cursor-pointer font-sans font-medium text-base py-1.5 gap-2 flex items-center justify-center"
       onClick={() => {
         if (isShareAvailable) {
-          navigator.share({ url: window.location.toString() });
+          navigator.share({ url: window.location.toString() || url });
         } else {
-          clipboard.copy(window.location.toString());
+          clipboard.copy(window.location.toString() || url);
         }
       }}
     >
