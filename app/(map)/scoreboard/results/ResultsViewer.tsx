@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import { MapZoom } from "../../zoom";
 import { SupabaseSite } from "@/lib/data/site";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
@@ -10,6 +10,7 @@ import { useSearchParams } from "next/navigation";
 // @ts-expect-error js package
 import { lockScrollbars } from "lock-scrollbars";
 import clsx from "clsx";
+import { ListBox, ListBoxItem } from "react-aria-components";
 
 // Reuse the type for items
 export type ResultItem = {
@@ -44,7 +45,6 @@ export default function ResultsViewer({
   const [selected, setSelected] = useState<ResultItem | null>(
     initialResults[0],
   );
-  const list = useRef<HTMLOListElement>(null);
 
   useEffect(() => {
     const newRecord = initialResults.find((r) => r.id === newId);
@@ -92,28 +92,32 @@ export default function ResultsViewer({
           <MiniSite site={selected.nearestSite} />
         </div>
       )}
-      <ol
+      <ListBox
+        selectionMode="single"
+        disallowEmptySelection
+        selectedKeys={selected ? new Set([selected.id]) : new Set()}
+        onSelectionChange={(key) => {
+          const id = typeof key === "string" ? key : Array.from(key)[0];
+          const item = initialResults.find((r) => r.id === id);
+          if (item) setSelected(item);
+        }}
         className="flex-auto overflow-y-auto snap-y snap-mandatory border-t border-neutral-300"
-        role="list"
-        ref={list}
+        aria-label="Scoreboard results"
       >
         {initialResults.map((item, i) => (
-          <li
+          <ListBoxItem
             key={item.id}
             id={item.id}
+            textValue={`${item.addressStateCode} ${item.nearestSite?.name}`}
             className={clsx(
               "flex gap-6 items-center",
               "py-4 pl-4 pr-6 md:pl-6",
-              "border-b last:border-b-0 border-neutral-300",
+              "border-b last:border-b-0 border-neutral-300 -outline-offset-2",
               "snap-start overflow-x-hidden cursor-pointer",
-              newId && item.id === newId
+              item.id === newId
                 ? "bg-primary shine-effect"
-                : "hover:bg-white/30 aria-selected:bg-white transition-colors",
+                : "hover:bg-white/30 data-[selected]:bg-white transition-colors",
             )}
-            aria-selected={item.id === selected?.id}
-            onClick={() => {
-              setSelected(item);
-            }}
             style={{
               backgroundImage: `linear-gradient(${[
                 "to right",
@@ -156,9 +160,9 @@ export default function ResultsViewer({
                 </time>
               </div>
             </div>
-          </li>
+          </ListBoxItem>
         ))}
-      </ol>
+      </ListBox>
     </div>
   );
 }
