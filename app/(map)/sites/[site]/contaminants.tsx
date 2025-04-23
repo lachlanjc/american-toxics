@@ -1,4 +1,6 @@
 import { WellRoot, WellTitle } from "@/lib/ui/well";
+import { Link } from "next-view-transitions";
+import SvgInfo from "@/lib/icons/Info";
 import { ContaminantList, processContaminants } from "@/lib/util/contaminants";
 import clsx from "clsx";
 
@@ -214,7 +216,18 @@ export function Contaminants({
     .sort((a, b) => b[1].length - a[1].length);
   return (
     <WellRoot>
-      <WellTitle>Contamination</WellTitle>
+      <WellTitle className="flex items-center gap-2 mb-2">
+        <span>Contamination</span>
+        <Link href="/contaminants" className="-mb-1">
+          <SvgInfo
+            width={20}
+            height={20}
+            className="text-neutral-500 hover:text-neutral-700 transition-colors"
+            aria-hidden
+          />
+          <span className="sr-only">Learn about contamination types</span>
+        </Link>
+      </WellTitle>
       {groups.map(([media, sublist]) => (
         <ContaminantGroup
           key={media}
