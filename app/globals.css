@@ -67,7 +67,7 @@ input {
   position: relative;
 }
 
-.active-tab[data-state="active"]::before,
+.active-tab[data-selected]::before,
 .mapboxgl-ctrl-group::before,
 .main-card:before,
 .action-button:before {
@@ -80,7 +80,7 @@ input {
   pointer-events: none;
 }
 
-.active-tab[data-state="active"]::before,
+.active-tab[data-selected]::before,
 .mapboxgl-ctrl-group::before,
 [data-appearance="light"] .main-card:before,
 [data-appearance="light"] .action-button:before {
@@ -122,7 +122,7 @@ input {
   border-radius: 8px !important;
   position: relative;
 }
-.active-tab[data-state="active"],
+.active-tab[data-selected],
 [data-appearance="light"] .action-button {
   transition: background-color 0.2s ease;
   background-color: hsla(0, 0%, 100%, 0.5);

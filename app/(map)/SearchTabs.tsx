@@ -1,5 +1,5 @@
 "use client";
-import * as Tabs from "@radix-ui/react-tabs";
+import { Tabs, TabList, Tab, TabPanel } from "react-aria-components";
 import { Search } from "@/app/(map)/sites/search";
 import { Link } from "next-view-transitions";
 import { useState, useEffect, useRef } from "react";
@@ -78,46 +78,37 @@ function AddressAutocomplete() {
 }
 export default function SearchTabs() {
   return (
-    <Tabs.Root defaultValue="search" className="w-full">
-      <Tabs.List className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl mb-4 font-sans font-medium">
-        <Tabs.Trigger
-          value="search"
-          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[state=active]:text-neutral-900"
+    <Tabs className="w-full">
+      <TabList className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl mb-4 font-sans font-medium text-center">
+        <Tab
+          id="nearby"
+          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[selected]:text-neutral-900"
+        >
+          Near address
+        </Tab>
+        <Tab
+          id="search"
+          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[selected]:text-neutral-900"
         >
           Search sites
-        </Tabs.Trigger>
-        <Tabs.Trigger
-          value="nearby"
-          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[state=active]:text-neutral-900"
-        >
-          By address
-        </Tabs.Trigger>
-      </Tabs.List>
+        </Tab>
+      </TabList>
 
-      <Tabs.Content value="nearby" className="">
+      <TabPanel id="nearby" className="">
         <AddressAutocomplete />
-      </Tabs.Content>
+        <p className="text-neutral-700 text-balance mb-3 mt-5">
+          This is a map of places with significant amounts of dangerous
+          toxic&nbsp;waste in the U.S.
+        </p>
+        <p className="text-neutral-700 text-balance">
+          The Environment Protection Agency (EPA) designates them “Superfund
+          sites,” and manages cleaning them up.
+        </p>
+      </TabPanel>
 
-      <Tabs.Content value="search" className="">
-        <Search>
-          <p className="text-neutral-700 text-balance mb-3">
-            This is a map of places with significant amounts of dangerous
-            toxic&nbsp;waste in the U.S.
-          </p>
-          <p className="text-neutral-700 text-balance mb-3">
-            The Environment Protection Agency (EPA) designates them “Superfund
-            sites,” and manages cleaning them up.
-          </p>
-          <p>
-            <Link
-              href="/about"
-              className="text-primary font-medium font-sans transition-opacity hover:opacity-80"
-            >
-              Read more →
-            </Link>
-          </p>
-        </Search>
-      </Tabs.Content>
-    </Tabs.Root>
+      <TabPanel id="search" className="">
+        <Search />
+      </TabPanel>
+    </Tabs>
   );
 }

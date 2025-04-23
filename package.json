@@ -25,14 +25,14 @@
     "opencage-api-client": "^1.1.0",
     "p-queue": "^8.1.0",
     "react": "^19.1.0",
+    "react-aria-components": "^1.8.0",
     "react-dom": "^19.1.0",
     "react-map-gl": "^8.0.4",
     "react-markdown": "^8.0.0",
     "react-string-replace": "^1.1.1",
     "supabase": "^2.20.12",
     "use-clipboard-copy": "^0.2.0",
-    "vaul": "^1.1.2",
-    "@radix-ui/react-tabs": "^1.0.6"
+    "vaul": "^1.1.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
