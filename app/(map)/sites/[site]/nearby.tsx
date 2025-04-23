@@ -66,6 +66,7 @@ const highlightedCategories: Record<
     icon: SvgSchool,
     search: [
       "daycare",
+      "child care",
       "preschool",
       "montessori",
       "kinder:kindergarten",
@@ -209,7 +210,7 @@ export async function Nearby({
                         group.subcategories.map(([count, name]) =>
                           count === 1
                             ? name
-                            : `${count} ${name.replace("ty", "tie")}s`,
+                            : `${count} ${name.replace(/(t|r)(y|ie)/, "$1ie")}`,
                         ),
                       )}
                       )
