@@ -29,9 +29,7 @@ function AITextHighlight({
 }) {
   return (
     <u
-      className={
-        "decoration-dotted decoration-primary underline-offset-3 cursor-zoom-in"
-      }
+      className={"decoration-double underline-offset-4 cursor-zoom-in"}
       onClick={() => {
         const is =
           text.includes("and") ||

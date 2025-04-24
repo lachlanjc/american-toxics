@@ -76,19 +76,20 @@ function AddressAutocomplete() {
     </form>
   );
 }
+
 export default function SearchTabs() {
   return (
     <Tabs className="w-full">
-      <TabList className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl mb-4 font-sans font-medium text-center">
+      <TabList className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl mb-4 font-sans font-medium text-neutral-700 text-base text-center">
         <Tab
           id="nearby"
-          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[selected]:text-neutral-900"
+          className="active-tab px-4 py-3 text-trim-both data-[selected]:text-neutral-900"
         >
           Near address
         </Tab>
         <Tab
           id="search"
-          className="active-tab px-4 py-3 text-trim-both text-neutral-700 data-[selected]:text-neutral-900"
+          className="active-tab px-4 py-3 text-trim-both data-[selected]:text-neutral-900"
         >
           Search sites
         </Tab>
