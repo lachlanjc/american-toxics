@@ -25,16 +25,18 @@ export default function Page() {
           <span className="sr-only">Open Source on GitHub</span>
         </a>
       </HeaderRoot>
-      <div className="grid grid-cols-2 md:grid-cols-3 gap-4 w-full font-sans text-lg font-semibold tracking-tight text-neutral-800 leading-[1.125]">
+      <SearchTabs />
+      <hr className="border-black/20 -mx-6 my-6" />
+      <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 w-full font-sans text-lg font-semibold tracking-tight text-neutral-800 leading-[1.125]">
         <Link
           href="/npl"
           className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
         >
-          <div className="flex -gap-3">
+          <div className="flex -gap-3 overflow-hidden max-w-full">
             {Object.values(nplStatuses).map(({ color }) => (
               <div
                 key={color}
-                className={`w-4 h-4 ${color} bg-current rounded-full outline-2 outline-[#efeef0]`}
+                className={`w-4 h-4 shrink-0 ${color} bg-current rounded-full outline-2 outline-[#efeef0]`}
               />
             ))}
           </div>
@@ -46,7 +48,7 @@ export default function Page() {
           href="/categories"
           className="action-button flex flex-col items-start gap-2 p-4 py-3.5"
         >
-          <div className="flex -gap-2 -ml-1">
+          <div className="flex -gap-2 -ml-1 overflow-hidden max-w-full">
             {[
               "chemical",
               "military",
@@ -57,7 +59,7 @@ export default function Page() {
             ]
               .map((cat) => categories[cat as keyof typeof categories])
               .map(({ color, icon: Icon }) => (
-                <Icon key={color} className={`w-5 h-5 ${color}`} />
+                <Icon key={color} className={`w-5 h-5 shrink-0 ${color}`} />
               ))}
           </div>
           Explore
@@ -84,7 +86,7 @@ export default function Page() {
         </Link>
         <Link
           href="/contaminants"
-          className="action-button flex max-md:flex-col md:items-center gap-1.5 p-4"
+          className="action-button flex max-sm:flex-col sm:items-center gap-1.5 p-4"
         >
           <SvgSludge
             width={24}
@@ -117,8 +119,6 @@ export default function Page() {
           <span className="text-trim-both">About</span>
         </Link>
       </div>
-      <hr className="border-black/20 -mx-6 my-6" />
-      <SearchTabs />
     </>
   );
 }
