@@ -11,6 +11,20 @@ export default async function About() {
   if (countError) {
     throw new Error("Error fetching site count");
   }
+  // Fetch acres for all sites to compute total acreage
+  const { data: sitesWithAcres, error: acresError } = await supabase
+    .from("sites")
+    .select("acres");
+  if (acresError) {
+    console.error("Error fetching site acreage", acresError);
+  }
+  const totalAcreage = (sitesWithAcres ?? []).reduce(
+    (sum, row) => sum + (row.acres ?? 0),
+    0,
+  );
+  // Convert total acreage to square miles (1 sq mi = 640 acres) and round
+  const totalSqMiles = Math.round(totalAcreage / 640);
+
   return [
     <HeaderRoot showClose key="header">
       <HeaderTitle>
@@ -98,8 +112,14 @@ export default async function About() {
         <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
           {siteCount?.toLocaleString()}
         </dt>
-        <dd className="mt-4 text-sm uppercase block text-neutral-600">
+        <dd className="mt-4 mb-8 text-sm uppercase block text-neutral-600">
           Total sites
+        </dd>
+        <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
+          &gt;{totalSqMiles.toLocaleString()}
+        </dt>
+        <dd className="mt-4 text-sm uppercase block text-neutral-600">
+          Toxic square miles (larger than Connecticut)
         </dd>
       </dl>
     </section>,
