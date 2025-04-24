@@ -2,44 +2,50 @@ import STATES from "@/lib/data/states.json" assert { type: "json" };
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { Heading } from "@/lib/ui/typography";
 import { Link } from "next-view-transitions";
+import * as States from "@/lib/icons/states";
 
 const nonStates = ["DC", "PR", "VI", "GU", "MP", "AS", "UM"];
 
 function List({ states }: { states: typeof STATES }) {
+  const maxSites = Math.max(...states.map((state) => state.count));
   return (
-    <ol className="-mt-2 last:mt-0 -mb-1 text-neutral-500" role="list">
-      {states.map((state) => (
-        <li key={state.abbrev} role="listitem" className="">
-          <Link
-            href={`/states/${state.abbrev}`}
-            className="flex w-full gap-3 items-center py-1 transition-opacity hover:opacity-60"
-          >
-            {/* <span className="text-neutral-600 select-none">
-              {i < 9 ? 0 : null}
-              {i + 1}.
-            </span> */}
-            {!nonStates.includes(state.abbrev) && (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img
-                src={`https://raw.githubusercontent.com/coryetzkorn/state-svg-defs/refs/heads/master/SVG/${state.abbrev}.svg`}
-                width={32}
-                height={32}
-                alt={state.name}
-                className="w-7 h-7 opacity-30 -my-2 object-fit"
-              />
-            )}
-            <span
-              className="font-sans text-lg text-black"
-              style={{ viewTransitionName: state.abbrev }}
+    <ol className="-mt-2 last:mt-0 -mb-1 text-neutral-500 -mx-2" role="list">
+      {states.map((state) => {
+        const Outline = States[state.abbrev as keyof typeof States];
+        return (
+          <li key={state.abbrev} role="listitem" className="mb-1">
+            <Link
+              href={`/states/${state.abbrev}`}
+              className="flex w-full gap-3 items-center py-1 transition-opacity hover:opacity-60 rounded-md px-2"
+              style={{
+                backgroundImage: `linear-gradient(${[
+                  "to right",
+                  "hsl(0 0 0 / 5%) 0%",
+                  `hsl(0 0 0 / 5%) ${(state.count * 100) / maxSites}%`,
+                  `transparent ${(state.count * 100) / maxSites}%`,
+                  "transparent 100%",
+                ].join(", ")})`,
+              }}
             >
-              {state.name}{" "}
-            </span>
-            <small className="text-neutral-600 text-xs ml-auto">
-              {state.count} site{state.count === 1 ? "" : "s"}
-            </small>
-          </Link>
-        </li>
-      ))}
+              {Outline && (
+                <Outline
+                  aria-label={state.name}
+                  className="w-7 h-7 fill-neutral-400 -my-2"
+                />
+              )}
+              <span
+                className="font-sans text-lg text-black"
+                style={{ viewTransitionName: state.abbrev }}
+              >
+                {state.name}{" "}
+              </span>
+              <small className="text-neutral-600 text-xs ml-auto">
+                {state.count} site{state.count === 1 ? "" : "s"}
+              </small>
+            </Link>
+          </li>
+        );
+      })}
     </ol>
   );
 }
