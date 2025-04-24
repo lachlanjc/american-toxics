@@ -167,6 +167,7 @@ export type Database = {
         | "tech"
         | "water"
         | "waste"
+        | "radioactive"
         | "other"
         | "unknown"
     }
@@ -296,6 +297,7 @@ export const Constants = {
         "tech",
         "water",
         "waste",
+        "radioactive",
         "other",
         "unknown",
       ],

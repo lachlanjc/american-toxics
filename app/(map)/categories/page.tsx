@@ -65,7 +65,7 @@ export default async function CategoriesPage() {
                   <Count value={count} />
                 </div>
                 {category.desc && (
-                  <p className="col-start-2 text-balance">{category.desc}</p>
+                  <p className="col-start-2 text-pretty">{category.desc}</p>
                 )}
               </Link>
             </li>

@@ -12,6 +12,7 @@ import SvgWar from "../icons/War";
 import SvgWaste from "../icons/Waste";
 import SvgDryCleaning from "../icons/DryCleaning";
 import SvgMetal from "../icons/Metal";
+import SvgWarning from "../icons/Warning";
 import { IconComponent } from "../util/types";
 
 export const categories: Record<
@@ -27,25 +28,25 @@ export const categories: Record<
     color: "text-emerald-600",
     icon: SvgWar,
     name: "Military",
-    desc: "U.S. military bases and weapons production facilities contaminated with munitions, solvents, fuels, and other hazardous materials.",
+    desc: "U.S. military bases & weapons production facilities contaminated with munitions, solvents, fuels, & other hazardous materials.",
   },
   chemical: {
     color: "text-lime-600",
     icon: SvgChemicals,
     name: "Chemicals",
-    desc: "Plants, storage facilities, and disposal areas polluted with industrial chemicals, solvents, and manufacturing byproducts.",
+    desc: "Chemical plants, storage facilities, & disposal areas polluted with industrial chemicals, solvents, & manufacturing byproducts.",
   },
   mining: {
     color: "text-violet-600",
     icon: SvgMining,
     name: "Mining",
-    desc: "Abandoned mines, tailings piles, and processing facilities that leak heavy metals and acids.",
+    desc: "Abandoned mines, tailings piles, & processing facilities that leak heavy metals & acids.",
   },
   fuel: {
     color: "text-red-600",
     icon: SvgFuel,
     name: "Fuel",
-    desc: "Leaking refineries, storage tanks, and pipelines where petroleum products have seeped into the environment.",
+    desc: "Leaking refineries, storage tanks, & pipelines where petroleum products have seeped into the environment.",
   },
   dryclean: {
     color: "text-fuchsia-600",
@@ -57,46 +58,47 @@ export const categories: Record<
     color: "text-sky-600",
     icon: SvgFactory,
     name: "Manufacturing",
-    desc: "Factories that leaked or spread toxic solvents, metals, and industrial waste.",
+    desc: "Factories that leaked or spread toxic solvents, metals, & industrial waste.",
   },
   metal: {
     color: "text-slate-600",
     icon: SvgMetal,
     name: "Metal",
-    desc: "Smelters, foundries, and processing facilities that released heavy metals like lead and arsenic.",
+    desc: "Smelters, foundries, and processing facilities that released heavy metals like lead & arsenic.",
   },
   wood: {
     color: "text-yellow-900",
     icon: SvgWood,
     name: "Wood",
-    desc: "Lumber, paper, and wood treatment mills that improperly used toxic chemicals like creosote.",
+    desc: "Lumber, paper, & wood treatment mills that improperly used toxic chemicals like creosote.",
   },
   tech: {
     color: "text-orange-600",
     icon: SvgTech,
     name: "Tech",
-    desc: "Electronics and semiconductor plants where production solvents and metals have harmed workers and the environment.",
+    desc: "Electronics & semiconductor plants where production solvents and metals have harmed workers & the environment.",
   },
   water: {
     color: "text-blue-600",
     icon: SvgWater,
     name: "Water",
-    desc: "Sewage treatment plants and polluted rivers & water bodies that threaten drinking water supplies and ecosystems.",
+    desc: "Sewage treatment plants and polluted rivers & water bodies that threaten drinking water supplies & ecosystems.",
   },
   waste: {
     color: "text-stone-500",
     icon: SvgWaste,
     name: "Waste",
-    desc: "Landfills, illegal dump sites, junkyards, and incinerators where hazardous materials weren’t contained.",
+    desc: "Landfills, illegal dump sites, junkyards, & incinerators where hazardous materials weren’t contained.",
+  },
+  radioactive: {
+    color: "text-yellow-500",
+    icon: SvgWarning,
+    name: "Radioactive",
+    desc: "Nuclear power plants, waste storage, & uranium mines/facilities contaminated with radioactive materials.",
   },
   other: {
     color: "text-neutral-600",
     icon: SvgOther,
     name: "Other",
-  },
-  unknown: {
-    color: "text-neutral-600",
-    icon: SvgOther,
-    name: "Unknown",
   },
 };
