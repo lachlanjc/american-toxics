@@ -108,6 +108,11 @@ function SiteDescription({
     return <strong key={match}>{markText(match)}</strong>;
   });
   const marked = markText(bolded);
+  const epa = (
+    <abbr title="Environmental Protection Agency" className="no-underline">
+      EPA
+    </abbr>
+  );
   return (
     <section className="pb-1">
       <p className={`whitespace-pre-wrap text-neutral-600 text-pretty`}>
@@ -115,7 +120,19 @@ function SiteDescription({
       </p>
       <div className="flex items-center gap-2.5 mt-2 text-neutral-500 text-xs">
         <OpenAIIcon className="w-5 h-5" />
-        EPA information summarized by GPT-4.1
+        {site.epaUrl ? (
+          <a
+            href={site.epaUrl}
+            target="_blank"
+            rel="noreferrer"
+            className="underline underline-offset-3 hover:text-primary transition-colors"
+          >
+            {epa} information
+          </a>
+        ) : (
+          <>{epa} information</>
+        )}{" "}
+        summarized by GPT-4.1
       </div>
     </section>
   );
