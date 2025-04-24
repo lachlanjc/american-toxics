@@ -118,6 +118,15 @@ export default async function ContaminantsPage() {
     .sort(([, a], [, b]) => b - a)
     .slice(0, 25)
     .map(([name, count]) => ({ name, count }));
+  // Fetch IDs for top contaminants to enable detail page linking
+  const topNames = topContaminants.map((c) => c.name);
+  const { data: contRows } = await supabase
+    .from('contaminants')
+    .select('id, name')
+    .in('name', topNames);
+  const idByName = new Map((contRows || []).map((r) => [r.name, r.id]));
+  // Use highest count for gradient background scaling
+  const maxCount = topContaminants.length > 0 ? topContaminants[0].count : 0;
 
   return (
     <>
@@ -176,13 +185,29 @@ export default async function ContaminantsPage() {
           <h2 className="text-2xl font-sans font-bold mb-2">
             Top {topContaminants.length} most common contaminants
           </h2>
-          <ol className="list-decimal list-inside ml-4 space-y-1">
-            {topContaminants.map(({ name, count }) => (
-              <li key={name} className="flex items-center">
-                <span className="mr-2">{name}</span>
-                <Count value={count} word="site" />
-              </li>
-            ))}
+          <ol role="list" className="-mt-2 last:mt-0 -mb-1 text-neutral-500 -mx-2">
+            {topContaminants.map(({ name, count }) => {
+              const id = idByName.get(name);
+              const pct = maxCount > 0 ? (count * 100) / maxCount : 0;
+              return (
+                <li key={name} role="listitem" className="mb-1">
+                  <Link
+                    href={id ? `/contaminants/${id}` : "#"}
+                    className="flex w-full gap-3 items-center py-1 transition-opacity hover:opacity-60 rounded-md px-2"
+                    style={{
+                      backgroundImage: `linear-gradient(to right, hsl(0 0 0 / 5%) 0%, hsl(0 0 0 / 5%) ${pct}%, transparent ${pct}%, transparent 100%)`,
+                    }}
+                  >
+                    <span className="font-sans text-lg text-black">
+                      {name}
+                    </span>
+                    <small className="text-neutral-600 text-xs ml-auto">
+                      {count.toLocaleString("en-US")} site{count === 1 ? "" : "s"}
+                    </small>
+                  </Link>
+                </li>
+              );
+            })}
           </ol>
         </div>
         {categories.map((cat) => {
