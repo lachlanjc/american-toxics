@@ -8,6 +8,9 @@ import NJ from "@/lib/icons/states/NJ";
 import PA from "@/lib/icons/states/PA";
 import NY from "@/lib/icons/states/NY";
 import CA from "@/lib/icons/states/CA";
+import SvgSludge from "@/lib/icons/Sludge";
+import SvgInfo from "@/lib/icons/Info";
+import SvgTarget from "@/lib/icons/Target";
 
 export default function Page() {
   return (
@@ -22,7 +25,7 @@ export default function Page() {
           <span className="sr-only">Open Source on GitHub</span>
         </a>
       </HeaderRoot>
-      <div className="grid grid-cols-3 gap-4 w-full font-sans text-lg font-semibold tracking-tight text-neutral-800 leading-[1.125]">
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-4 w-full font-sans text-lg font-semibold tracking-tight text-neutral-800 leading-[1.125]">
         <Link
           href="/npl"
           className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
@@ -80,16 +83,38 @@ export default function Page() {
           by State
         </Link>
         <Link
-          href="/scoreboard/results"
-          className="action-button flex items-end p-4"
+          href="/contaminants"
+          className="action-button flex max-md:flex-col md:items-center gap-1.5 p-4"
         >
-          Scoreboard
+          <SvgSludge
+            width={24}
+            height={24}
+            aria-label="Sludge icon"
+            className="shrink-0 fill-neutral-400"
+          />
+          <span className="text-trim-both">Contaminants</span>
         </Link>
-        <Link href="/contaminants" className="action-button flex items-end p-4">
-          Contaminants
+        <Link
+          href="/scoreboard/results"
+          className="action-button flex items-center gap-1.5 p-4"
+        >
+          <SvgTarget
+            width={24}
+            height={24}
+            className="shrink-0 fill-neutral-400"
+          />
+          <span className="text-trim-both">Scoreboard</span>
         </Link>
-        <Link href="/about" className="action-button flex items-end p-4">
-          About
+        <Link
+          href="/about"
+          className="action-button flex items-center gap-1.5 p-4"
+        >
+          <SvgInfo
+            width={24}
+            height={24}
+            className="shrink-0 fill-neutral-400"
+          />
+          <span className="text-trim-both">About</span>
         </Link>
       </div>
       <hr className="border-black/20 -mx-6 my-6" />
