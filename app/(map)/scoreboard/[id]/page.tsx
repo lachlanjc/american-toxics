@@ -53,7 +53,7 @@ export default async function ScorePage({
   );
   const { data: siteRecords } = await supabase
     .from("sites")
-    .select("id,name,city,stateCode,category,npl,lat,lng")
+    .select("id,name,lat,lng,category,npl,city,stateCode")
     .in("id", allIds);
   const siteMap = new Map(
     (siteRecords || []).map((s: PartialSite) => [s.id, s]),

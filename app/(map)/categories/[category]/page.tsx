@@ -46,7 +46,7 @@ export default async function Page({
   const Icon = category.icon;
   const { data: sites = [], error } = await supabase
     .from("sites")
-    .select("id, name, category, npl, city, stateCode")
+    .select("id, name, npl, city, stateCode")
     .eq("category", categoryKey);
   if (!category || !sites) {
     return notFound();

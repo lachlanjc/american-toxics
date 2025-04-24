@@ -1,5 +1,5 @@
 import STATES from "@/lib/data/states.json" assert { type: "json" };
-import { allSites } from "@/lib/data/api";
+import { supabase } from "@/lib/supabaseClient";
 import {
   HeaderRoot,
   HeaderBreadcrumb,
@@ -28,7 +28,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${status.label} Superfund Sites`,
+    title: `${status.label} Toxic Superfund Sites`,
     description: `List of contaminated toxic waste Superfund sites in the ${status.label.toLowerCase()} phase.`,
   };
 }
@@ -43,10 +43,16 @@ export default async function Page({
   if (!status) {
     return notFound();
   }
-  const sites = allSites.filter((site) => site.npl === statusKey);
+  const { data: sites, error } = await supabase
+    .from("sites")
+    .select("id, name, category, npl, city, stateCode")
+    .eq("npl", statusKey);
+  if (error) {
+    console.error("Error fetching sites for NPL status:", error);
+  }
   // Prepare sections grouped by state
   const sections = STATES.map((state) => {
-    const sectionSites = sites
+    const sectionSites = (sites || [])
       .filter((site) => site.stateCode === state.abbrev)
       .sort((a, b) => a.name.localeCompare(b.name));
     return { key: state.abbrev, label: state.name, sites: sectionSites };
@@ -59,7 +65,7 @@ export default async function Page({
           Superfund Sites by Cleanup Phase
         </HeaderBreadcrumb>
         <HeaderTitle style={{ viewTransitionName: statusKey }}>
-          {status.label} <Count value={sites.length} />
+          {status.label} <Count value={sites!.length} />
         </HeaderTitle>
         <HeaderSubtitle>{status.desc}</HeaderSubtitle>
       </HeaderRoot>

@@ -134,7 +134,7 @@ export async function Nearby({
   );
 
   // console.log(url, mapbox.features);
-  const nearbySites = getNearbySites(site);
+  const nearbySites = await getNearbySites(site);
   if (nearbyFeatures.length === 0 && nearbySites.length === 0) {
     return null;
   }

@@ -28,7 +28,7 @@ export const categories: Record<
     color: "text-emerald-600",
     icon: SvgWar,
     name: "Military",
-    desc: "U.S. military bases & weapons production facilities contaminated with munitions, solvents, fuels, & other hazardous materials.",
+    desc: "U.S. military bases & weaponry facilities contaminated with munitions, fuels, radioactive waste, & other hazards.",
   },
   chemical: {
     color: "text-lime-600",
@@ -63,8 +63,8 @@ export const categories: Record<
   metal: {
     color: "text-slate-600",
     icon: SvgMetal,
-    name: "Metal",
-    desc: "Smelters, foundries, and processing facilities that released heavy metals like lead & arsenic.",
+    name: "Metals",
+    desc: "Smelters, foundries, & processing facilities that released heavy metals like lead & arsenic.",
   },
   wood: {
     color: "text-yellow-900",
@@ -94,7 +94,7 @@ export const categories: Record<
     color: "text-yellow-500",
     icon: SvgWarning,
     name: "Radioactive",
-    desc: "Nuclear power plants, waste storage, & uranium mines/facilities contaminated with radioactive materials.",
+    desc: "Uranium mines/facilities, nuclear power plants, & sites contaminated with radioactive materials. (Find atomic weapons in the military category.)",
   },
   other: {
     color: "text-neutral-600",

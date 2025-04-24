@@ -33,9 +33,9 @@ export default async function CategoriesPage() {
       <HeaderRoot showClose>
         <HeaderTitle>Superfund Sites by Category</HeaderTitle>
         <HeaderSubtitle>
-          Superfund sites can be caused by hazardous manufacturing, improper
-          disposal, or use of toxic chemicals. This is not an official
-          categorization.
+          These are the most common types of toxic waste sites in the U.S. This
+          is not an official categorization, & many sites span multiple
+          categories.
         </HeaderSubtitle>
       </HeaderRoot>
       <ul className="-mb-1 text-neutral-500 flex flex-col" role="list">
@@ -48,7 +48,7 @@ export default async function CategoriesPage() {
             <li
               key={key}
               role="listitem"
-              className="grid grid-cols-[auto_1fr] w-full gap-x-4 gap-y-1 group items-center md:max-w-md py-2"
+              className="grid grid-cols-[auto_1fr] w-full gap-x-3 gap-y-1 group items-center md:max-w-md py-3"
             >
               <Link href={`/categories/${key}`} className="contents">
                 <Icon
