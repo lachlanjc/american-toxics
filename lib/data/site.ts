@@ -48,13 +48,13 @@ export const nplStatuses: Record<
   cleaned: {
     label: "Cleaned",
     field: "dateNOID",
-    color: "text-violet-500",
+    color: "text-sky-500",
     desc: "Successfully cleaned up and in the final paperwork stage.",
   },
   completed: {
     label: "Completed",
     field: "dateDeleted",
-    color: "text-indigo-500",
+    color: "text-teal-500",
     desc: "Cleanup is completely finished and the site can be reused.",
   },
 };

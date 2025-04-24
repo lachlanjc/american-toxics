@@ -59,8 +59,8 @@ const statuses: Record<SiteNPLStatus, string> = {
   proposed: "fill-amber-500",
   listed: "fill-primary",
   cleaning: "fill-fuchsia-500",
-  cleaned: "fill-violet-500",
-  completed: "fill-indigo-500 opacity-70",
+  cleaned: "fill-sky-500",
+  completed: "fill-teal-500 opacity-70",
 };
 
 export default function Layout({ children }: PropsWithChildren<object>) {

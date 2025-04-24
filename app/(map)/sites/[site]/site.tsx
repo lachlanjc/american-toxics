@@ -208,7 +208,7 @@ export function SiteCard({
         </div>
         <div>
           <dt className="text-neutral-600 text-xs uppercase mb-1">Size</dt>
-          <dd className="font-sans text-base">{formatAcres(site.acres)}</dd>
+          <dd className="font-sans text-lg">{formatAcres(site.acres)}</dd>
         </div>
       </dl>
 
