@@ -1,9 +1,11 @@
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { supabase } from "@/lib/supabaseClient";
+import { Link } from "next-view-transitions";
 import { groupings } from "../sites/[site]/contaminants";
 import { processContaminants, ContaminantList } from "@/lib/util/contaminants";
 import clsx from "clsx";
 import { Count } from "@/lib/ui/count";
+import { SupabaseSite } from "@/lib/data/site";
 
 export function metadata() {
   return {
@@ -16,7 +18,7 @@ export function metadata() {
 export default async function ContaminantsPage() {
   const { data: rows, error } = await supabase
     .from("sites")
-    .select("contaminants")
+    .select("id, contaminants")
     .not("contaminants", "is", null);
 
   if (error) {
@@ -64,6 +66,46 @@ export default async function ContaminantsPage() {
     }
   });
 
+  // Stats
+  // number of unique contaminant names
+  const uniqueNamesCount = new Set(allContaminants.map((c) => c.name)).size;
+  // average contaminants per site (excluding sites with zero)
+  const sitesWithContaminants =
+    rows?.filter(
+      (row) => Array.isArray(row.contaminants) && row.contaminants.length > 0,
+    ) ?? [];
+  const totalSitesWithContaminants = sitesWithContaminants.length;
+  const totalContaminants = sitesWithContaminants.reduce(
+    (sum, row) => sum + row.contaminants.length,
+    0,
+  );
+  const averageContaminantsPerSite =
+    totalSitesWithContaminants > 0
+      ? totalContaminants / totalSitesWithContaminants
+      : 0;
+
+  // Site with the most unique contaminant names
+  interface Contam {
+    name: string;
+    media: string;
+  }
+  const siteWithMaxContaminants =
+    sitesWithContaminants.length > 0
+      ? sitesWithContaminants.reduce(
+          (max, row) => {
+            const count = new Set(row.contaminants.map((c: Contam) => c.name))
+              .size;
+            return count > max.count ? { site: row, count } : max;
+          },
+          {
+            site: sitesWithContaminants[0],
+            count: new Set(
+              sitesWithContaminants[0].contaminants.map((c: Contam) => c.name),
+            ).size,
+          },
+        )
+      : null;
+
   return (
     <>
       <HeaderRoot showClose>
@@ -75,6 +117,47 @@ export default async function ContaminantsPage() {
         </HeaderSubtitle>
       </HeaderRoot>
       <section className="flex flex-col gap-8 pt-2">
+        <dl className="grid grid-cols-2 gap-4">
+          <div>
+            <dt className="text-neutral-600 text-xs uppercase">
+              Categories of contamination
+            </dt>
+            <dd className="font-sans text-2xl">
+              {Object.keys(groupings).length.toLocaleString("en-US")}
+            </dd>
+          </div>
+          <div>
+            <dt className="text-neutral-600 text-xs uppercase">
+              Unique contaminants
+            </dt>
+            <dd className="font-sans text-2xl">
+              {uniqueNamesCount.toLocaleString("en-US")}
+            </dd>
+          </div>
+          <div>
+            <dt className="text-neutral-600 text-xs uppercase">
+              Avg contaminants per site
+            </dt>
+            <dd className="font-sans text-2xl">
+              {averageContaminantsPerSite.toLocaleString("en-US", {
+                maximumFractionDigits: 0,
+              })}
+            </dd>
+          </div>
+          <div>
+            <dt className="text-neutral-600 text-xs uppercase">
+              Site with most contaminants
+            </dt>
+            <dd className="font-sans text-2xl">
+              <Link
+                href={`/sites/${siteWithMaxContaminants!.site.id}`}
+                className="underline underline-offset-4 transition-colors hover:text-primary"
+              >
+                {siteWithMaxContaminants!.count.toLocaleString("en-US")}
+              </Link>
+            </dd>
+          </div>
+        </dl>
         {categories.map((cat) => {
           const groups = byCategory[cat];
           if (!groups.length) return null;
