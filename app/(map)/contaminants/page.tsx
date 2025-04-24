@@ -2,7 +2,11 @@ import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { supabase } from "@/lib/supabaseClient";
 import { Link } from "next-view-transitions";
 import { groupings } from "../sites/[site]/contaminants";
-import { processContaminants, ContaminantList } from "@/lib/util/contaminants";
+import {
+  processContaminants,
+  ContaminantList,
+  prettifyChemicalName,
+} from "@/lib/util/contaminants";
 import clsx from "clsx";
 import { Count } from "@/lib/ui/count";
 
@@ -104,6 +108,16 @@ export default async function ContaminantsPage() {
           },
         )
       : null;
+  // Top 5 most common contaminants across all sites
+  const nameCounts: Record<string, number> = {};
+  allContaminants.forEach((c) => {
+    const name = prettifyChemicalName(c.name);
+    nameCounts[name] = (nameCounts[name] ?? 0) + 1;
+  });
+  const topContaminants = Object.entries(nameCounts)
+    .sort(([, a], [, b]) => b - a)
+    .slice(0, 25)
+    .map(([name, count]) => ({ name, count }));
 
   return (
     <>
@@ -157,6 +171,20 @@ export default async function ContaminantsPage() {
             </dd>
           </div>
         </dl>
+        {/* Top most common contaminants */}
+        <div>
+          <h2 className="text-2xl font-sans font-bold mb-2">
+            Top {topContaminants.length} most common contaminants
+          </h2>
+          <ol className="list-decimal list-inside ml-4 space-y-1">
+            {topContaminants.map(({ name, count }) => (
+              <li key={name} className="flex items-center">
+                <span className="mr-2">{name}</span>
+                <Count value={count} word="site" />
+              </li>
+            ))}
+          </ol>
+        </div>
         {categories.map((cat) => {
           const groups = byCategory[cat];
           if (!groups.length) return null;
