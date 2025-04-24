@@ -101,4 +101,9 @@ export const categories: Record<
     icon: SvgOther,
     name: "Other",
   },
+  unknown: {
+    color: "text-neutral-600",
+    icon: SvgOther,
+    name: "Unknown",
+  },
 };

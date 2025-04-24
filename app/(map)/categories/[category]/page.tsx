@@ -14,7 +14,9 @@ import { supabase } from "@/lib/supabaseClient";
 import clsx from "clsx";
 
 export async function generateStaticParams() {
-  return Object.keys(categories).map((category) => ({ category }));
+  return Object.keys(categories)
+    .filter((key) => key !== "unknown")
+    .map((category) => ({ category }));
 }
 
 export async function generateMetadata({
