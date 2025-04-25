@@ -120,49 +120,48 @@ export default async function ContaminantsPage() {
       <HeaderRoot showClose>
         <HeaderTitle>Contaminants</HeaderTitle>
         <HeaderSubtitle>
-          These are the types of contamination found at Superfund sites, as
-          defined by the EPA. Browse the top 25 by site count, then details by
-          media category.
+          Browse the top contaminants, and a guide to the types of
+          contamination, as defined by the EPA.
         </HeaderSubtitle>
       </HeaderRoot>
       <section className="flex flex-col gap-6 pt-2">
         {/* Stats */}
         <dl className="grid grid-cols-2 gap-4">
           <div>
-            <dt className="text-neutral-600 text-xs uppercase mb-1">
+            <dt className="text-neutral-600 text-xs uppercase">
               Categories of contamination
             </dt>
-            <dd className="font-sans text-lg">
+            <dd className="font-sans text-2xl">
               {Object.keys(groupings).length}
             </dd>
           </div>
           <div>
-            <dt className="text-neutral-600 text-xs uppercase mb-1">
+            <dt className="text-neutral-600 text-xs uppercase">
               Unique contaminants
             </dt>
-            <dd className="font-sans text-lg">
+            <dd className="font-sans text-2xl">
               {uniqueNamesCount.toLocaleString("en-US")}
             </dd>
           </div>
           <div>
-            <dt className="text-neutral-600 text-xs uppercase mb-1">
+            <dt className="text-neutral-600 text-xs uppercase">
               Avg contaminants per site
             </dt>
-            <dd className="font-sans text-lg">
+            <dd className="font-sans text-2xl">
               {averageContaminantsPerSite.toLocaleString("en-US", {
                 maximumFractionDigits: 0,
               })}
             </dd>
           </div>
           <div>
-            <dt className="text-neutral-600 text-xs uppercase mb-1">
+            <dt className="text-neutral-600 text-xs uppercase">
               Max contaminants at a site
             </dt>
-            <dd className="font-sans text-lg">
+            <dd className="font-sans text-2xl">
               {siteWithMaxContaminants && (
                 <Link
                   href={`/sites/${siteWithMaxContaminants.site.id}`}
-                  className="underline underline-offset-2"
+                  className="underline underline-offset-4 transition-colors hover:text-primary"
                 >
                   {siteWithMaxContaminants.count.toLocaleString("en-US")}
                 </Link>
@@ -218,7 +217,7 @@ export default async function ContaminantsPage() {
           const title = cat.charAt(0).toUpperCase() + cat.slice(1);
           return (
             <div key={cat}>
-              <h2 className="text-3xl font-bold font-sans tracking-tight mb-4">
+              <h2 className="text-2xl font-bold font-sans tracking-tight mb-4">
                 {title}
               </h2>
               <div className="flex flex-col gap-4">

@@ -114,7 +114,7 @@ export default async function ContaminantPage({
             role="list"
             className="flex flex-wrap justify-start gap-4 mt-2 font-sans text-lg font-medium -ml-1"
           >
-            {contexts.map((ctx) => {
+            {contexts.map((ctx: keyof typeof groupings) => {
               const grouping = groupings[ctx];
               const Icon = grouping?.icon;
               return (
