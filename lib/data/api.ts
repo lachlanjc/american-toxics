@@ -25,7 +25,7 @@ export async function getNearbySites(site: Site): Promise<SupabaseSite[]> {
   }
 
   // Filter out the current site and compute distance <= 2 miles
-  const nearbySites = data.filter((other: any) => {
+  const nearbySites = data.filter((other: SupabaseSite) => {
     if (other.id === site.id) return false;
     if (other.lat == null || other.lng == null) return false;
     const distance = haversineDistance(
@@ -35,7 +35,7 @@ export async function getNearbySites(site: Site): Promise<SupabaseSite[]> {
       other.lng,
     );
     return distance <= 2;
-  }) as SupabaseSite[];
+  });
 
   return nearbySites;
 }
