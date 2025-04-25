@@ -2,14 +2,11 @@ import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { supabase } from "@/lib/supabaseClient";
 import { Link } from "next-view-transitions";
 import { groupings } from "../sites/[site]/contaminants";
-import {
-  processContaminants,
-  ContaminantList,
-  prettifyChemicalName,
-} from "@/lib/util/contaminants";
+import { processContaminants, ContaminantList } from "@/lib/util/contaminants";
 import clsx from "clsx";
 import { Count } from "@/lib/ui/count";
 import type { Database } from "@/supabase/types";
+import { Heading } from "@/lib/ui/typography";
 
 type ContaminantRow = Database["public"]["Tables"]["contaminants"]["Row"];
 
@@ -25,7 +22,7 @@ export default async function ContaminantsPage() {
   // Fetch all site contaminants
   const { data: siteRows, error: siteError } = await supabase
     .from("sites")
-    .select("id, contaminants")
+    .select("id, name, contaminants")
     .not("contaminants", "is", null);
   if (siteError) {
     console.error("Error fetching site contaminants", siteError);
@@ -88,10 +85,11 @@ export default async function ContaminantsPage() {
       ? totalContaminants / totalSitesWithContaminants
       : 0;
 
-  // Fetch top 25 precomputed contaminants
+  // Fetch top 25 contaminants
   const { data: contRows, error: contError } = await supabase
     .from("contaminants")
-    .select("id, name, contexts, siteCount, summary")
+    .select("id, name, contexts, siteCount")
+    .not("siteCount", "is", null)
     .order("siteCount", { ascending: false })
     .limit(25);
   if (contError) {
@@ -102,15 +100,20 @@ export default async function ContaminantsPage() {
     ? (topContaminants[0].siteCount ?? 0)
     : 0;
 
-  const { data: siteWithMaxContaminants, error: maxError } = await supabase
-    .from("sites")
-    .select("id,contaminants")
-    .order("jsonb_array_length(contaminants)", { ascending: false })
-    .limit(1)
-    .single();
-  if (maxError) {
-    console.error("Error fetching site with most contaminants:", maxError);
-  }
+  // Determine site with the most unique contaminants
+  type Contam = { name: string; media: string };
+  const siteWithMaxContaminants = (sitesWithContaminants || []).reduce(
+    (max, row) => {
+      const count = new Set(row.contaminants.map((c: Contam) => c.name)).size;
+      return count > max.count ? { site: row, count } : max;
+    },
+    {
+      site: sitesWithContaminants[0],
+      count: new Set(
+        sitesWithContaminants[0].contaminants.map((c: Contam) => c.name),
+      ).size,
+    },
+  );
 
   return (
     <>
@@ -122,7 +125,7 @@ export default async function ContaminantsPage() {
           media category.
         </HeaderSubtitle>
       </HeaderRoot>
-      <section className="flex flex-col gap-8 pt-2">
+      <section className="flex flex-col gap-6 pt-2">
         {/* Stats */}
         <dl className="grid grid-cols-2 gap-4">
           <div>
@@ -143,7 +146,7 @@ export default async function ContaminantsPage() {
           </div>
           <div>
             <dt className="text-neutral-600 text-xs uppercase mb-1">
-              Average contaminants per site
+              Avg contaminants per site
             </dt>
             <dd className="font-sans text-lg">
               {averageContaminantsPerSite.toLocaleString("en-US", {
@@ -153,15 +156,15 @@ export default async function ContaminantsPage() {
           </div>
           <div>
             <dt className="text-neutral-600 text-xs uppercase mb-1">
-              Site with most contaminants
+              Max contaminants at a site
             </dt>
             <dd className="font-sans text-lg">
               {siteWithMaxContaminants && (
                 <Link
-                  href={`/sites/${siteWithMaxContaminants?.id}`}
+                  href={`/sites/${siteWithMaxContaminants.site.id}`}
                   className="underline underline-offset-2"
                 >
-                  {siteWithMaxContaminants.contaminants?.length} sites
+                  {siteWithMaxContaminants.count.toLocaleString("en-US")}
                 </Link>
               )}
             </dd>
@@ -169,9 +172,9 @@ export default async function ContaminantsPage() {
         </dl>
         {/* Top 25 most common contaminants */}
         <div>
-          <h2 className="text-2xl font-bold mb-2">
+          <Heading>
             Top {topContaminants.length} most common contaminants
-          </h2>
+          </Heading>
           <ol role="list" className="space-y-1">
             {topContaminants.map((cont) => {
               const pct = maxSiteCount
@@ -196,10 +199,7 @@ export default async function ContaminantsPage() {
                         aria-hidden
                       />
                     )}
-                    <span className="font-sans text-lg">
-                      {cont.summary ? "✅" : null}
-                      {cont.name}
-                    </span>
+                    <span className="font-sans text-lg">{cont.name}</span>
                     {cont.contexts && cont.contexts.length > 0 && (
                       <span className="ml-auto text-xs text-neutral-600">
                         {cont.siteCount} site{cont.siteCount === 1 ? "" : "s"}
@@ -239,7 +239,7 @@ export default async function ContaminantsPage() {
                           aria-hidden
                         />
                         <div className="">
-                          <strong className="font-sans text-lg md:text-2xl font-medium text-black mr-2">
+                          <strong className="font-sans text-lg md:text-xl font-medium text-black mr-2">
                             {grouping.label || media}
                           </strong>
                           <Count value={processed.length} word="" />
