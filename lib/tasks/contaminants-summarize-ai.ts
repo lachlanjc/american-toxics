@@ -16,6 +16,11 @@ type ContaminantRow = {
 // Limit concurrent processing to avoid overwhelming APIs
 const queue = new PQueue({ concurrency: 2 });
 
+let usage = {
+  input: 0,
+  output: 0,
+};
+
 /**
  * Download a PDF from a URL and return its Buffer
  */
@@ -50,6 +55,8 @@ async function summarizeContaminant(text: string): Promise<string> {
     system,
     prompt,
   });
+  usage.input += response.usage.promptTokens;
+  usage.output += response.usage.completionTokens;
   return response.text.trim();
 }
 
@@ -70,10 +77,10 @@ async function fetchWikiPage(
     const pageText: string | null = json.extract ?? null;
     return { pageUrl, pageText };
   } catch (err: any) {
-    console.error(
-      `Error fetching Wikipedia page for ${title}:`,
-      err.message || err,
-    );
+    // console.error(
+    //   `Error fetching Wikipedia page for ${title}:`,
+    //   err.message || err,
+    // );
     return { pageUrl: null, pageText: null };
   }
 }
@@ -155,3 +162,14 @@ for (const row of toProcess) {
 }
 await queue.onIdle();
 console.log("All done.");
+console.log("Contaminants processed:", toProcess.length);
+/*
+Input:
+$2.00 / 1M tokens
+Cached input:
+$0.50 / 1M tokens
+Output:
+$8.00 / 1M tokens
+*/
+const priceEstimate = usage.input * 0.002 + usage.output * 0.008;
+console.log("Price estimate: $", priceEstimate.toFixed(2));
