@@ -140,8 +140,8 @@ export default async function ContaminantPage({
             <figure key={img.url} className="flex flex-col">
               <Image
                 src={img.url}
-                width={img.width}
-                height={img.height}
+                width={img.width || undefined}
+                height={img.height || undefined}
                 alt={img.alt ?? ""}
                 {...(img.blurhash
                   ? { placeholder: "blur", blurDataURL: img.blurhash }
