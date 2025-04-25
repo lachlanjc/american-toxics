@@ -5,7 +5,6 @@ import { groupings } from "../sites/[site]/contaminants";
 import { processContaminants, ContaminantList } from "@/lib/util/contaminants";
 import clsx from "clsx";
 import { Count } from "@/lib/ui/count";
-import { SupabaseSite } from "@/lib/data/site";
 
 export function metadata() {
   return {

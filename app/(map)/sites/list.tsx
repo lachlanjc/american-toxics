@@ -3,6 +3,11 @@ import { categories } from "@/lib/data/site-categories";
 import clsx from "clsx";
 import { Link } from "next-view-transitions";
 
+export type SiteListSite = Pick<
+  SupabaseSite,
+  "id" | "name" | "npl" | "city" | "stateCode"
+> & { category?: SupabaseSite["category"] };
+
 export function SiteNPLStatusIcon({
   status,
   className,
@@ -27,12 +32,7 @@ export function SiteList({
   sites,
   ...props
 }: {
-  sites: Array<
-    Pick<
-      SupabaseSite,
-      "id" | "name" | "npl" | "category" | "city" | "stateCode"
-    >
-  >;
+  sites: Array<SiteListSite>;
 } & React.ComponentPropsWithoutRef<"ul">) {
   return (
     <ul {...props}>

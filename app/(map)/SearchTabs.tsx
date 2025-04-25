@@ -1,7 +1,6 @@
 "use client";
 import { Tabs, TabList, Tab, TabPanel } from "react-aria-components";
 import { Search } from "@/app/(map)/sites/search";
-import { Link } from "next-view-transitions";
 import { useState, useEffect, useRef } from "react";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN;

@@ -6,18 +6,17 @@ import { HeaderRoot, HeaderTitle, HeaderSubtitle } from "@/lib/ui/header";
 import { Link } from "next-view-transitions";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
 import { Database } from "@/supabase/types";
-import { WellRoot, WellTitle } from "@/lib/ui/well";
-import { CategoryChip } from "../../sites/[site]/category";
-import { StatusChip } from "../../sites/[site]/status";
 import { ShareButton } from "./share";
 import SvgTrophy from "@/lib/icons/Trophy";
 import { SupabaseSite } from "@/lib/data/site";
 import { MiniSite } from "../../sites/[site]/mini";
 
+type SupabaseScore = Database["public"]["Tables"]["scores"]["Row"];
 type PartialSite = Pick<
   SupabaseSite,
   "id" | "name" | "city" | "stateCode" | "category" | "npl" | "lat" | "lng"
 >;
+
 export default async function ScorePage({
   params,
 }: {
@@ -33,16 +32,9 @@ export default async function ScorePage({
   if (scoreError || !score || !siteNearestId) {
     return <p>Score not found.</p>;
   }
-  let {
-    lat,
-    lng,
-    addressFormatted,
-    siteNearestMiles,
-    sites1,
-    sites5,
-    sites10,
-    sites20,
-  } = score as Database["public"]["Tables"]["scores"]["Row"];
+  const { lat, lng, addressFormatted, siteNearestMiles } =
+    score as SupabaseScore;
+  let { sites1, sites5, sites10, sites20 } = score as SupabaseScore;
   sites1 ??= [];
   sites5 ??= [];
   sites10 ??= [];

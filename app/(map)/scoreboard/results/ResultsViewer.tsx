@@ -60,7 +60,7 @@ export default function ResultsViewer({
         }, 2000);
       }, 2000);
     }
-  }, [newId]);
+  }, [newId, initialResults]);
   const furthestDistance = Math.max(
     ...initialResults.map((r) => r.nearestMiles),
   );

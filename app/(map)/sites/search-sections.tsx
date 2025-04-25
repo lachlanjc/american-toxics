@@ -5,15 +5,17 @@ import { useFocusable } from "@/lib/util/use-focusable";
 import { SiteList } from "@/app/(map)/sites/list";
 import { searchOptions } from "@/app/(map)/sites/search";
 import { Heading } from "@/lib/ui/typography";
+import { SupabaseSite } from "@/lib/data/site";
 
 interface Section {
   key: string;
   label: string;
   sites: Array<
     Pick<
-      import("@/lib/data/site").SupabaseSite,
-      "id" | "name" | "npl" | "city" | "stateCode"
-    >
+      SupabaseSite,
+      "id" | "name" | "npl" | "city" | "stateCode" | "category"
+    > &
+      Partial<Pick<SupabaseSite, "category">>
   >;
 }
 

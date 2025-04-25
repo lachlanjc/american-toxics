@@ -12,6 +12,7 @@ import { Count } from "@/lib/ui/count";
 import { categories } from "@/lib/data/site-categories";
 import { supabase } from "@/lib/supabaseClient";
 import clsx from "clsx";
+import { SiteListSite } from "../../sites/list";
 
 export async function generateStaticParams() {
   return Object.keys(categories)
@@ -56,9 +57,9 @@ export default async function Page({
   }
   // Prepare sections grouped by state
   const sections = STATES.map((state) => {
-    const sectionSites = sites
+    const sectionSites = (sites as Array<SiteListSite>)
       .filter((site) => site.stateCode === state.abbrev)
-      .sort((a, b) => a.name.localeCompare(b.name));
+      .sort((a, b) => a.name!.localeCompare(b.name!));
     return { key: state.abbrev, label: state.name, sites: sectionSites };
   }).filter((section) => section.sites.length > 0);
 
@@ -77,6 +78,7 @@ export default async function Page({
         </HeaderTitle>
         {category.desc && <HeaderSubtitle>{category.desc}</HeaderSubtitle>}
       </HeaderRoot>
+      {/* @ts-expect-error category is intentionally omitted */}
       <SearchableSections sections={sections} />
     </>
   );

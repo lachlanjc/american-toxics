@@ -2,7 +2,7 @@
 import { useEffect, useRef } from "react";
 import { useChat } from "@ai-sdk/react";
 import { useFocusable } from "@/lib/util/use-focusable";
-import { hasPlainSiteImage, Site, SupabaseSite } from "@/lib/data/site";
+import { hasPlainSiteImage, SupabaseSite } from "@/lib/data/site";
 import { Link } from "next-view-transitions";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Root as Portal } from "@radix-ui/react-portal";
