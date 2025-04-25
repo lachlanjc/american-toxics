@@ -5,29 +5,33 @@ import { groupings } from "../sites/[site]/contaminants";
 import { processContaminants, ContaminantList } from "@/lib/util/contaminants";
 import clsx from "clsx";
 import { Count } from "@/lib/ui/count";
+import type { Database } from "@/supabase/types";
+import { Heading } from "@/lib/ui/typography";
+
+type ContaminantRow = Database["public"]["Tables"]["contaminants"]["Row"];
 
 export function metadata() {
   return {
-    title: "Contaminants",
+    title: "Top Superfund Contaminants",
     description:
-      "All contaminants across all Superfund sites, grouped by media",
+      "Top 25 most common toxic contaminants across U.S. Superfund sites.",
   };
 }
 
 export default async function ContaminantsPage() {
-  const { data: rows, error } = await supabase
+  // Fetch all site contaminants
+  const { data: siteRows, error: siteError } = await supabase
     .from("sites")
-    .select("id, contaminants")
+    .select("id, name, contaminants")
     .not("contaminants", "is", null);
-
-  if (error) {
-    console.error("Error fetching contaminants", error);
+  if (siteError) {
+    console.error("Error fetching site contaminants", siteError);
     throw new Error("Failed to load contaminants");
   }
 
   // Flatten all contaminants arrays
   const allContaminants: ContaminantList =
-    rows?.flatMap((row) =>
+    siteRows?.flatMap((row) =>
       Array.isArray(row.contaminants) ? row.contaminants : [],
     ) ?? [];
 
@@ -42,7 +46,7 @@ export default async function ContaminantsPage() {
     .filter(({ processed }) => processed.length > 0)
     .sort((a, b) => b.processed.length - a.processed.length);
 
-  // Organize groups by category (ground, water, air)
+  // Organize groups by category (ground, water, air, other)
   const categories = ["ground", "water", "air", "other"] as const;
   type Category = (typeof categories)[number];
   const byCategory: Record<
@@ -65,12 +69,10 @@ export default async function ContaminantsPage() {
     }
   });
 
-  // Stats
-  // number of unique contaminant names
+  // Stats: unique names, average contaminants per site
   const uniqueNamesCount = new Set(allContaminants.map((c) => c.name)).size;
-  // average contaminants per site (excluding sites with zero)
   const sitesWithContaminants =
-    rows?.filter(
+    siteRows?.filter(
       (row) => Array.isArray(row.contaminants) && row.contaminants.length > 0,
     ) ?? [];
   const totalSitesWithContaminants = sitesWithContaminants.length;
@@ -83,46 +85,54 @@ export default async function ContaminantsPage() {
       ? totalContaminants / totalSitesWithContaminants
       : 0;
 
-  // Site with the most unique contaminant names
-  interface Contam {
-    name: string;
-    media: string;
+  // Fetch top 25 contaminants
+  const { data: contRows, error: contError } = await supabase
+    .from("contaminants")
+    .select("id, name, contexts, siteCount")
+    .not("siteCount", "is", null)
+    .order("siteCount", { ascending: false })
+    .limit(25);
+  if (contError) {
+    console.error("Error fetching precomputed contaminants", contError);
   }
-  const siteWithMaxContaminants =
-    sitesWithContaminants.length > 0
-      ? sitesWithContaminants.reduce(
-          (max, row) => {
-            const count = new Set(row.contaminants.map((c: Contam) => c.name))
-              .size;
-            return count > max.count ? { site: row, count } : max;
-          },
-          {
-            site: sitesWithContaminants[0],
-            count: new Set(
-              sitesWithContaminants[0].contaminants.map((c: Contam) => c.name),
-            ).size,
-          },
-        )
-      : null;
+  const topContaminants = contRows ?? [];
+  const maxSiteCount = topContaminants.length
+    ? (topContaminants[0].siteCount ?? 0)
+    : 0;
+
+  // Determine site with the most unique contaminants
+  type Contam = { name: string; media: string };
+  const siteWithMaxContaminants = (sitesWithContaminants || []).reduce(
+    (max, row) => {
+      const count = new Set(row.contaminants.map((c: Contam) => c.name)).size;
+      return count > max.count ? { site: row, count } : max;
+    },
+    {
+      site: sitesWithContaminants[0],
+      count: new Set(
+        sitesWithContaminants[0].contaminants.map((c: Contam) => c.name),
+      ).size,
+    },
+  );
 
   return (
     <>
       <HeaderRoot showClose>
         <HeaderTitle>Contaminants</HeaderTitle>
         <HeaderSubtitle>
-          These are the types of contamination found at Superfund sites, as
-          defined by the EPA. Click categories to see the full list of
-          contaminants.
+          Browse the top contaminants, and a guide to the types of
+          contamination, as defined by the EPA.
         </HeaderSubtitle>
       </HeaderRoot>
-      <section className="flex flex-col gap-8 pt-2">
+      <section className="flex flex-col gap-6 pt-2">
+        {/* Stats */}
         <dl className="grid grid-cols-2 gap-4">
           <div>
             <dt className="text-neutral-600 text-xs uppercase">
               Categories of contamination
             </dt>
             <dd className="font-sans text-2xl">
-              {Object.keys(groupings).length.toLocaleString("en-US")}
+              {Object.keys(groupings).length}
             </dd>
           </div>
           <div>
@@ -145,29 +155,73 @@ export default async function ContaminantsPage() {
           </div>
           <div>
             <dt className="text-neutral-600 text-xs uppercase">
-              Site with most contaminants
+              Max contaminants at a site
             </dt>
             <dd className="font-sans text-2xl">
-              <Link
-                href={`/sites/${siteWithMaxContaminants!.site.id}`}
-                className="underline underline-offset-4 transition-colors hover:text-primary"
-              >
-                {siteWithMaxContaminants!.count.toLocaleString("en-US")}
-              </Link>
+              {siteWithMaxContaminants && (
+                <Link
+                  href={`/sites/${siteWithMaxContaminants.site.id}`}
+                  className="underline underline-offset-4 transition-colors hover:text-primary"
+                >
+                  {siteWithMaxContaminants.count.toLocaleString("en-US")}
+                </Link>
+              )}
             </dd>
           </div>
         </dl>
+        {/* Top 25 most common contaminants */}
+        <div>
+          <Heading>
+            Top {topContaminants.length} most common contaminants
+          </Heading>
+          <ol role="list" className="space-y-1">
+            {topContaminants.map((cont) => {
+              const pct = maxSiteCount
+                ? ((cont.siteCount ?? 0) * 100) / maxSiteCount
+                : 0;
+              const grouping = groupings[cont.contexts?.[0]];
+              const Icon = grouping?.icon;
+              return (
+                <li key={cont.id}>
+                  <Link
+                    href={`/contaminants/${cont.id}`}
+                    className="flex items-center gap-2 px-2 py-1 rounded-md transition-opacity hover:opacity-80"
+                    style={{
+                      backgroundImage: `linear-gradient(to right, hsl(0 0 0 / 5%) 0%, hsl(0 0 0 / 5%) ${pct}%, transparent ${pct}%, transparent 100%)`,
+                    }}
+                  >
+                    {Icon && (
+                      <Icon
+                        width={24}
+                        height={24}
+                        className={clsx(grouping.color, "")}
+                        aria-hidden
+                      />
+                    )}
+                    <span className="font-sans text-lg">{cont.name}</span>
+                    {cont.contexts && cont.contexts.length > 0 && (
+                      <span className="ml-auto text-xs text-neutral-600">
+                        {cont.siteCount} site{cont.siteCount === 1 ? "" : "s"}
+                      </span>
+                    )}
+                  </Link>
+                </li>
+              );
+            })}
+          </ol>
+        </div>
+        {/* Group by media category */}
         {categories.map((cat) => {
-          const groups = byCategory[cat];
-          if (!groups.length) return null;
+          const groupsArr = byCategory[cat];
+          if (!groupsArr.length) return null;
           const title = cat.charAt(0).toUpperCase() + cat.slice(1);
           return (
             <div key={cat}>
-              <h2 className="text-3xl font-bold font-sans tracking-tight mb-4">
+              <h2 className="text-2xl font-bold font-sans tracking-tight mb-4">
                 {title}
               </h2>
               <div className="flex flex-col gap-4">
-                {groups.map(({ media, processed }) => {
+                {groupsArr.map(({ media, processed }) => {
                   const grouping = groupings[media];
                   if (!grouping) return null;
                   const Icon = grouping.icon;
@@ -184,7 +238,7 @@ export default async function ContaminantsPage() {
                           aria-hidden
                         />
                         <div className="">
-                          <strong className="font-sans text-lg md:text-2xl font-medium text-black mr-2">
+                          <strong className="font-sans text-lg md:text-xl font-medium text-black mr-2">
                             {grouping.label || media}
                           </strong>
                           <Count value={processed.length} word="" />

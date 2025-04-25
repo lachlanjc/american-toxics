@@ -9,6 +9,93 @@ export type Json =
 export type Database = {
   public: {
     Tables: {
+      contaminants: {
+        Row: {
+          contexts: string[] | null
+          epaPdfUrl: string | null
+          id: string
+          name: string
+          nameraw: string
+          siteCount: number | null
+          summary: string | null
+          wikipediaUrl: string | null
+        }
+        Insert: {
+          contexts?: string[] | null
+          epaPdfUrl?: string | null
+          id: string
+          name: string
+          nameraw: string
+          siteCount?: number | null
+          summary?: string | null
+          wikipediaUrl?: string | null
+        }
+        Update: {
+          contexts?: string[] | null
+          epaPdfUrl?: string | null
+          id?: string
+          name?: string
+          nameraw?: string
+          siteCount?: number | null
+          summary?: string | null
+          wikipediaUrl?: string | null
+        }
+        Relationships: []
+      }
+      images: {
+        Row: {
+          alt: string | null
+          blurhash: string | null
+          caption: string | null
+          contaminantId: string | null
+          height: number | null
+          id: string
+          siteId: string | null
+          source: string | null
+          url: string
+          width: number | null
+        }
+        Insert: {
+          alt?: string | null
+          blurhash?: string | null
+          caption?: string | null
+          contaminantId?: string | null
+          height?: number | null
+          id?: string
+          siteId?: string | null
+          source?: string | null
+          url: string
+          width?: number | null
+        }
+        Update: {
+          alt?: string | null
+          blurhash?: string | null
+          caption?: string | null
+          contaminantId?: string | null
+          height?: number | null
+          id?: string
+          siteId?: string | null
+          source?: string | null
+          url?: string
+          width?: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "images_contaminantId_fkey"
+            columns: ["contaminantId"]
+            isOneToOne: false
+            referencedRelation: "contaminants"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "images_siteId_fkey"
+            columns: ["siteId"]
+            isOneToOne: false
+            referencedRelation: "sites"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       scores: {
         Row: {
           addressCity: string | null
