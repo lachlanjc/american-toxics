@@ -86,11 +86,11 @@ async function processContaminant(row: ContaminantRow): Promise<void> {
   try {
     // Fetch Wikipedia summary
     let wiki = await fetchWikiPage(row.name);
-    if (!wiki.pageUrl) {
+    if (!wiki.pageUrl && row.name.includes("(")) {
       console.log("using before parens");
       wiki = await fetchWikiPage(row.name.split(" (")[0]);
     }
-    if (!wiki.pageUrl) {
+    if (!wiki.pageUrl && row.name.includes(")")) {
       console.log("using parens");
       // get parentheses contents only
       wiki = await fetchWikiPage(row.name.match(/\(([^)]+)\)/)?.[1] || "");
@@ -106,6 +106,7 @@ async function processContaminant(row: ContaminantRow): Promise<void> {
       console.error(`Failed to download context PDF for ${row.id}`);
     } else {
       const pdfText = await extractText(pdfBuffer);
+      console.log(`Extracted ${pdfText.length} characters from PDF`);
       context = `<source_epa>
 ${pdfText}
 </source_epa>
@@ -126,7 +127,7 @@ ${wiki.pageText}
     if (error) {
       console.error(`Error updating ${row.id}:`, error.message || error);
     } else {
-      console.log(`Updated ${row.id}`, summary);
+      console.log(`Updated ${row.id}`);
     }
     // brief pause between tasks to respect rate limits
     await new Promise((r) => setTimeout(r, 1000));
