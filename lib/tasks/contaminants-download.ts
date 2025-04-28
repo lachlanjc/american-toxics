@@ -3,11 +3,6 @@ import PQueue from "p-queue";
 
 const queue = new PQueue({ concurrency: 10 });
 
-type Contaminants = Array<{
-  name: string;
-  media: string;
-}>;
-
 const { data: allSites } = await supabase
   .from("sites")
   .select("id, semsId")

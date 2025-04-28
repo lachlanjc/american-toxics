@@ -3,10 +3,13 @@ import { supabase } from "@/lib/supabaseClient";
 import Image from "next/image";
 import { HeaderRoot, HeaderTitle, HeaderBreadcrumb } from "@/lib/ui/header";
 import clsx from "clsx";
-import { groupings } from "../../sites/[site]/contaminants";
 import { OpenAIIcon } from "@/lib/ui/icons";
 import { WellRoot, WellTitle } from "@/lib/ui/well";
 import { Database } from "@/supabase/types";
+import {
+  contaminantCategories,
+  contaminantContexts,
+} from "@/lib/data/contaminants";
 
 export async function generateMetadata({ params }: { params: { id: string } }) {
   const { id } = params;
@@ -114,20 +117,21 @@ export default async function ContaminantPage({
             role="list"
             className="flex flex-wrap justify-start gap-4 mt-2 font-sans text-lg font-medium -ml-1"
           >
-            {contexts.map((ctx: keyof typeof groupings) => {
-              const grouping = groupings[ctx];
-              const Icon = grouping?.icon;
+            {contexts.map((ctx: keyof typeof contaminantContexts) => {
+              const context = contaminantContexts[ctx];
+              const Icon = context?.icon;
+              const color = contaminantCategories[context?.category]?.color;
               return (
                 <li key={ctx} className="flex items-center gap-1">
                   {Icon && (
                     <Icon
                       width={48}
                       height={48}
-                      className={clsx(grouping.color)}
+                      className={clsx(color)}
                       aria-hidden
                     />
                   )}
-                  <span>{grouping?.label || ctx}</span>
+                  <span>{context?.name}</span>
                 </li>
               );
             })}

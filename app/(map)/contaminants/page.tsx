@@ -1,14 +1,15 @@
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { supabase } from "@/lib/supabaseClient";
 import { Link } from "next-view-transitions";
-import { groupings } from "../sites/[site]/contaminants";
 import { processContaminants, ContaminantList } from "@/lib/util/contaminants";
 import clsx from "clsx";
 import { Count } from "@/lib/ui/count";
-import type { Database } from "@/supabase/types";
-import { Heading } from "@/lib/ui/typography";
-
-type ContaminantRow = Database["public"]["Tables"]["contaminants"]["Row"];
+import { HeadingL } from "@/lib/ui/typography";
+import {
+  contaminantContexts,
+  contaminantCategories,
+} from "@/lib/data/contaminants";
+import SvgClose from "@/lib/icons/Close";
 
 export function metadata() {
   return {
@@ -19,25 +20,35 @@ export function metadata() {
 }
 
 export default async function ContaminantsPage() {
-  // Fetch all site contaminants
+  // Fetch all contaminants
+  const { data: allContaminants, error: contamError } = await supabase
+    .from("contaminants")
+    .select("id, name, contexts, siteCount, summary")
+    .not("contexts", "is", null);
+  if (contamError) {
+    console.error("Error fetching contaminants", contamError);
+    throw new Error("Failed to load contaminants");
+  }
+
+  // Fetch all sites’ contaminants
   const { data: siteRows, error: siteError } = await supabase
     .from("sites")
     .select("id, name, contaminants")
     .not("contaminants", "is", null);
   if (siteError) {
-    console.error("Error fetching site contaminants", siteError);
-    throw new Error("Failed to load contaminants");
+    console.error("Error fetching sites", siteError);
+    throw new Error("Failed to load sites");
   }
 
   // Flatten all contaminants arrays
-  const allContaminants: ContaminantList =
+  const siteContaminants: ContaminantList =
     siteRows?.flatMap((row) =>
       Array.isArray(row.contaminants) ? row.contaminants : [],
     ) ?? [];
 
   // Group by media, dedupe and sort names
-  const grouped = Object.entries(
-    Object.groupBy(allContaminants, (c) => c.media),
+  const contamsByContext = Object.entries(
+    Object.groupBy(siteContaminants, (c) => c.media),
   )
     .map(([media, list]) => ({
       media,
@@ -45,29 +56,6 @@ export default async function ContaminantsPage() {
     }))
     .filter(({ processed }) => processed.length > 0)
     .sort((a, b) => b.processed.length - a.processed.length);
-
-  // Organize groups by category (ground, water, air, other)
-  const categories = ["ground", "water", "air", "other"] as const;
-  type Category = (typeof categories)[number];
-  const byCategory: Record<
-    Category,
-    Array<{ media: string; processed: string[] }>
-  > = {
-    ground: [],
-    water: [],
-    air: [],
-    other: [],
-  };
-  grouped.forEach(({ media, processed }) => {
-    if (["Residuals", "Other"].includes(media)) {
-      byCategory.other.push({ media, processed });
-      return;
-    }
-    const cat = groupings[media]?.category as Category | undefined;
-    if (cat && categories.includes(cat)) {
-      byCategory[cat].push({ media, processed });
-    }
-  });
 
   // Stats: unique names, average contaminants per site
   const uniqueNamesCount = new Set(allContaminants.map((c) => c.name)).size;
@@ -85,16 +73,11 @@ export default async function ContaminantsPage() {
       ? totalContaminants / totalSitesWithContaminants
       : 0;
 
-  // Fetch top 25 contaminants
-  const { data: contRows, error: contError } = await supabase
-    .from("contaminants")
-    .select("id, name, contexts, siteCount")
-    .not("siteCount", "is", null)
-    .order("siteCount", { ascending: false })
-    .limit(25);
-  if (contError) {
-    console.error("Error fetching precomputed contaminants", contError);
-  }
+  // Top 25 contaminants
+  const contRows = allContaminants
+    .filter((cont) => cont.siteCount !== null)
+    .sort((a, b) => (b.siteCount ?? 0) - (a.siteCount ?? 0))
+    .slice(0, 25);
   const topContaminants = contRows ?? [];
   const maxSiteCount = topContaminants.length
     ? (topContaminants[0].siteCount ?? 0)
@@ -120,11 +103,11 @@ export default async function ContaminantsPage() {
       <HeaderRoot showClose>
         <HeaderTitle>Contaminants</HeaderTitle>
         <HeaderSubtitle>
-          Browse the top contaminants, and a guide to the types of
-          contamination, as defined by the EPA.
+          The EPA categorizes contaminants by type, Browse the top contaminants,
+          and a guide to the types of contamination, as defined by the EPA.
         </HeaderSubtitle>
       </HeaderRoot>
-      <section className="flex flex-col gap-6 pt-2">
+      <article className="flex flex-col gap-6 pt-2">
         {/* Stats */}
         <dl className="grid grid-cols-2 gap-4">
           <div>
@@ -132,7 +115,7 @@ export default async function ContaminantsPage() {
               Categories of contamination
             </dt>
             <dd className="font-sans text-2xl">
-              {Object.keys(groupings).length}
+              {Object.keys(contaminantContexts).length}
             </dd>
           </div>
           <div>
@@ -169,18 +152,101 @@ export default async function ContaminantsPage() {
             </dd>
           </div>
         </dl>
+        {/* Group by media category */}
+        {Object.entries(contaminantCategories).map(([key, cat]) => {
+          return (
+            <div key={key}>
+              <HeadingL>{cat.name}</HeadingL>
+              <div className="flex flex-col gap-4">
+                {cat.contexts.map((ctxKey) => {
+                  const context = contaminantContexts[ctxKey];
+                  const Icon = context.icon;
+                  const contaminants = allContaminants
+                    .filter((c) => c.contexts?.includes(ctxKey))
+                    .sort(
+                      (a, b) =>
+                        // sort by siteCount then alphabetically
+                        (b.siteCount ?? 0) - (a.siteCount ?? 0) ||
+                        a.name.localeCompare(b.name),
+                    );
+                  return (
+                    <details
+                      key={ctxKey}
+                      className="border border-black/10 rounded-lg bg-black/2 px-4 py-3"
+                    >
+                      <summary className="grid grid-cols-[auto_1fr] w-full gap-x-3 items-start cursor-zoom-in in-open:cursor-zoom-out focus-visible:overflow-clip outline-offset-4">
+                        <Icon
+                          width={48}
+                          height={48}
+                          className={clsx(cat.color, "-ml-2")}
+                          aria-hidden
+                        />
+                        <div className="self-center">
+                          <div className="flex items-center gap-3">
+                            <strong className="font-sans text-lg md:text-xl font-medium text-black">
+                              {context.name}
+                            </strong>
+                            <Count
+                              value={contaminants.length}
+                              word="type"
+                              className="ml-0"
+                            />
+                            <SvgClose
+                              width={20}
+                              height={20}
+                              className="-mr-1 ml-auto text-neutral-400 transition-transform rotate-45 in-open:rotate-0"
+                              aria-hidden
+                            />
+                          </div>
+                          {context.desc && (
+                            <p className="mt-1 text-pretty text-neutral-600 leading-[1.625]">
+                              {context.desc}
+                            </p>
+                          )}
+                        </div>
+                      </summary>
+                      <ul
+                        className="pl-13 pt-4 text-neutral-600 text-xs flex flex-col gap-2"
+                        role="list"
+                      >
+                        {contaminants.map((contam) => (
+                          <li key={contam.id}>
+                            {contam.summary ? (
+                              <Link
+                                href={`/contaminants/${contam.id}`}
+                                className="underline underline-offset-4 transition-colors hover:text-primary"
+                              >
+                                {contam.name}
+                              </Link>
+                            ) : (
+                              contam.name
+                            )}
+                          </li>
+                        ))}
+                      </ul>
+                    </details>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })}
+
+        <hr className="border-black/20 -mx-6" />
+
         {/* Top 25 most common contaminants */}
-        <div>
-          <Heading>
+        <section>
+          <HeadingL className="mt-0 mb-4">
             Top {topContaminants.length} most common contaminants
-          </Heading>
+          </HeadingL>
           <ol role="list" className="space-y-1">
             {topContaminants.map((cont) => {
               const pct = maxSiteCount
                 ? ((cont.siteCount ?? 0) * 100) / maxSiteCount
                 : 0;
-              const grouping = groupings[cont.contexts?.[0]];
-              const Icon = grouping?.icon;
+              const context = contaminantContexts[cont.contexts?.[0]];
+              const Icon = context?.icon;
+              const color = contaminantCategories[context?.category]?.color;
               return (
                 <li key={cont.id}>
                   <Link
@@ -194,11 +260,14 @@ export default async function ContaminantsPage() {
                       <Icon
                         width={24}
                         height={24}
-                        className={clsx(grouping.color, "")}
-                        aria-hidden
+                        className={clsx(color, "")}
+                        title={`Most frequently occurs in ${context.name}`}
                       />
                     )}
                     <span className="font-sans text-lg">{cont.name}</span>
+                    <small className="font-mono">
+                      {cont.summary ? "→" : null}
+                    </small>
                     {cont.contexts && cont.contexts.length > 0 && (
                       <span className="ml-auto text-xs text-neutral-600">
                         {cont.siteCount} site{cont.siteCount === 1 ? "" : "s"}
@@ -209,62 +278,8 @@ export default async function ContaminantsPage() {
               );
             })}
           </ol>
-        </div>
-        {/* Group by media category */}
-        {categories.map((cat) => {
-          const groupsArr = byCategory[cat];
-          if (!groupsArr.length) return null;
-          const title = cat.charAt(0).toUpperCase() + cat.slice(1);
-          return (
-            <div key={cat}>
-              <h2 className="text-2xl font-bold font-sans tracking-tight mb-4">
-                {title}
-              </h2>
-              <div className="flex flex-col gap-4">
-                {groupsArr.map(({ media, processed }) => {
-                  const grouping = groupings[media];
-                  if (!grouping) return null;
-                  const Icon = grouping.icon;
-                  return (
-                    <details
-                      key={media}
-                      className="border border-black/10 rounded-lg bg-black/2 px-4 py-3"
-                    >
-                      <summary className="grid grid-cols-[auto_1fr] w-full gap-x-3 items-start cursor-pointer">
-                        <Icon
-                          width={48}
-                          height={48}
-                          className={clsx(grouping.color, "-ml-2")}
-                          aria-hidden
-                        />
-                        <div className="">
-                          <strong className="font-sans text-lg md:text-xl font-medium text-black mr-2">
-                            {grouping.label || media}
-                          </strong>
-                          <Count value={processed.length} word="" />
-                          {grouping.desc && (
-                            <p className="mt-1 text-pretty text-neutral-600 leading-[1.625]">
-                              {grouping.desc}
-                            </p>
-                          )}
-                        </div>
-                      </summary>
-                      <ul
-                        className="pl-13 pt-4 text-neutral-600 text-xs flex flex-col gap-2"
-                        role="list"
-                      >
-                        {processed.map((name) => (
-                          <li key={name}>{name}</li>
-                        ))}
-                      </ul>
-                    </details>
-                  );
-                })}
-              </div>
-            </div>
-          );
-        })}
-      </section>
+        </section>
+      </article>
     </>
   );
 }

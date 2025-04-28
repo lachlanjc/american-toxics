@@ -12,13 +12,25 @@ export function Title(props: ComponentPropsWithoutRef<"h1">) {
   );
 }
 
-export function Heading(props: ComponentPropsWithoutRef<"h1">) {
+export function Heading(props: ComponentPropsWithoutRef<"h2">) {
   return (
     <h2
       {...props}
       className={clsx(
         "text-xl font-bold font-sans tracking-tight",
         props.className || "mb-2",
+      )}
+    />
+  );
+}
+
+export function HeadingL(props: ComponentPropsWithoutRef<"h2">) {
+  return (
+    <h2
+      {...props}
+      className={clsx(
+        "text-2xl font-bold font-sans tracking-tight",
+        props.className || "mb-3",
       )}
     />
   );

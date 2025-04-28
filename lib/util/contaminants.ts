@@ -50,6 +50,7 @@ export function prettifyChemicalName(raw: string): string {
     abbr.toUpperCase().replace(/S\)?$/, "s"),
   );
   s = s.replace("(Cis and", "(cis &");
+  s = s.replace(" And ", " & ");
 
   return s;
 }
