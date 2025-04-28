@@ -1,4 +1,5 @@
 import { SupabaseSite } from "./site";
+import { IconComponent } from "../util/types";
 
 import SvgChemicals from "../icons/Chemicals";
 import SvgWater from "../icons/Water";
@@ -12,8 +13,7 @@ import SvgWar from "../icons/War";
 import SvgWaste from "../icons/Waste";
 import SvgDryCleaning from "../icons/DryCleaning";
 import SvgMetal from "../icons/Metal";
-import SvgWarning from "../icons/Warning";
-import { IconComponent } from "../util/types";
+import SvgRadioactive from "../icons/Radioactive";
 
 export const categories: Record<
   Exclude<SupabaseSite["category"], null>,
@@ -92,7 +92,7 @@ export const categories: Record<
   },
   radioactive: {
     color: "text-yellow-500",
-    icon: SvgWarning,
+    icon: SvgRadioactive,
     name: "Radioactive",
     desc: "Uranium mines/facilities, nuclear power plants, & sites contaminated with radioactive materials. (Find atomic weapons in the military category.)",
   },
