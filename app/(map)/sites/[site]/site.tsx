@@ -30,6 +30,7 @@ function AITextHighlight({
   return (
     <u
       className={"decoration-double underline-offset-4 cursor-zoom-in"}
+      data-text={text}
       onClick={() => {
         const is =
           text.includes("and") ||
@@ -47,9 +48,12 @@ function AITextHighlight({
   );
 }
 
-const markRegex = /\*([^*]{3,})\*/g;
-const boldRegex = /\*\*(.{3,})\*\*/g;
-const deasterisk = (txt: string) => txt.replaceAll(/\*/g, "").trim();
+// 1 × * but NOT **   ───────────────────────────────────────────────┐
+export const markRegex = /(?<!\*)\*([^*]+?)\*(?!\*)/g;
+// 2 × * but NOT ***  ───────────────────────────────────────────────┘
+export const boldRegex = /(?<!\*)\*\*([\s\S]+?)\*\*(?!\*)/g;
+
+const deasterisk = (txt: string) => txt.replaceAll("*", "").trim();
 function AIText({
   message,
   onQuery,
@@ -74,7 +78,11 @@ function AIText({
         part.text,
         boldRegex,
         (match: string) => {
-          return <strong key={match}>{markText(match)}</strong>;
+          return (
+            <strong data-text={match} key={match}>
+              {markText(match)}
+            </strong>
+          );
         },
       );
       const marked = markText(bolded);
