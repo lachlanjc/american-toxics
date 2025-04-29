@@ -12,7 +12,7 @@ import {
 } from "@/lib/data/contaminants";
 
 export async function generateMetadata({ params }: { params: { id: string } }) {
-  const { id } = params;
+  const { id } = await params;
   const { data, error } = await supabase
     .from("contaminants")
     .select("name, summary")
@@ -32,7 +32,7 @@ export default async function ContaminantPage({
 }: {
   params: { id: string };
 }) {
-  const { id } = params;
+  const { id } = await params;
   const { data: contaminant, error } = await supabase
     .from("contaminants")
     .select("id, name, summary, contexts, siteCount, epaPdfUrl, wikipediaUrl")

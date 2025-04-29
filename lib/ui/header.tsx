@@ -6,6 +6,7 @@ import { Drawer } from "vaul";
 import { Title } from "./typography";
 // import { usePathname } from "next/navigation";
 import { ComponentProps, ReactNode } from "react";
+import SvgChevronRight from "../icons/ChevronRight";
 
 export const Header = {
   Root: HeaderRoot,
@@ -71,10 +72,11 @@ export function HeaderBreadcrumb({
   return (
     <Link
       href={href}
-      className="text-sm font-sans font-medium text-neutral-600 mb-1"
+      className="flex items-end text-base font-sans font-medium text-neutral-600 mb-1"
       style={{ viewTransitionName: "header-breadcrumb" }}
     >
-      &larr; {children}
+      {children}
+      <SvgChevronRight width={20} height={20} aria-hidden />
     </Link>
   );
 }
