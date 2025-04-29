@@ -8,6 +8,7 @@ import { WellRoot, WellTitle } from "@/lib/ui/well";
 import { Database } from "@/supabase/types";
 import {
   contaminantCategories,
+  ContaminantContext,
   contaminantContexts,
 } from "@/lib/data/contaminants";
 
@@ -43,14 +44,11 @@ export default async function ContaminantPage({
     return notFound();
   }
 
-  const {
-    name,
-    summary,
-    contexts = [],
-    siteCount,
-    epaPdfUrl,
-    wikipediaUrl,
-  } = contaminant;
+  const { name, summary, siteCount, epaPdfUrl, wikipediaUrl } = contaminant;
+  const contexts: Array<ContaminantContext> = (contaminant?.contexts || []).map(
+    (ctx: string) => contaminantContexts[ctx],
+  );
+  const contextCategories = Object.groupBy(contexts, (ctx) => ctx.category);
   const images: Array<Database["public"]["Tables"]["images"]["Row"]> = [];
   /*
   // fetch related images
@@ -113,29 +111,44 @@ export default async function ContaminantPage({
           <WellTitle>
             Contaminating {siteCount} site{siteCount === 1 ? "" : "s"} across:
           </WellTitle>
-          <ul
-            role="list"
-            className="flex flex-wrap justify-start gap-4 mt-2 font-sans text-lg font-medium -ml-1"
-          >
-            {contexts.map((ctx: keyof typeof contaminantContexts) => {
-              const context = contaminantContexts[ctx];
-              const Icon = context?.icon;
-              const color = contaminantCategories[context?.category]?.color;
+          <dl>
+            {Object.keys(contextCategories).map((key) => {
+              const category =
+                contaminantCategories[
+                  key as keyof typeof contaminantCategories
+                ];
               return (
-                <li key={ctx} className="flex items-center gap-1">
-                  {Icon && (
-                    <Icon
-                      width={48}
-                      height={48}
-                      className={clsx(color)}
-                      aria-hidden
-                    />
-                  )}
-                  <span>{context?.name}</span>
-                </li>
+                <div key={key} className="flex flex-col mt-4">
+                  <dt className="uppercase text-xs text-neutral-600 mb-1">
+                    {category.name}
+                  </dt>
+                  <div className="flex flex-wrap justify-start gap-x-4 font-sans text-base -ml-1">
+                    {contexts
+                      .filter((ctx) => ctx.category === key)
+                      .map((ctx) => {
+                        const Icon = ctx?.icon;
+                        return (
+                          <dd
+                            key={ctx.name}
+                            className="flex items-center gap-1"
+                          >
+                            {Icon && (
+                              <Icon
+                                width={32}
+                                height={32}
+                                className={clsx(category.color)}
+                                aria-hidden
+                              />
+                            )}
+                            <span>{ctx?.name}</span>
+                          </dd>
+                        );
+                      })}
+                  </div>
+                </div>
               );
             })}
-          </ul>
+          </dl>
         </WellRoot>
       )}
       {images && images.length > 0 && (

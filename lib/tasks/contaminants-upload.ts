@@ -5,7 +5,7 @@ import { ContaminantList, prettifyChemicalName } from "@/lib/util/contaminants";
 interface ContaminantRecord {
   id: string;
   name: string;
-  contexts: string[];
+  contexts: Record<string, number>;
   siteCount: number;
 }
 
@@ -50,20 +50,17 @@ allContaminants.forEach(({ name: rawName, media }) => {
 const slugger = new Slugger();
 const records: ContaminantRecord[] = uniqueNames
   .filter((name) => name.length > 0)
-  .filter(Boolean)
   .map((nameRaw) => {
     // Prettify chemical name and generate slug
     const name = prettifyChemicalName(nameRaw);
     const id = slugger.slug(name);
-    // Determine most common media contexts for this contaminant
+    // Build contexts map: include every media with count > 0
     const counts = mediaCounts[nameRaw] || {};
-    const entries = Object.entries(counts);
-    let contexts: string[] = [];
-    if (entries.length > 0) {
-      const maxCount = Math.max(...entries.map(([, c]) => c));
-      contexts = entries.filter(([, c]) => c === maxCount).map(([m]) => m);
+    const contexts: Record<string, number> = {};
+    for (const [m, c] of Object.entries(counts)) {
+      if (c > 0) contexts[m] = c;
     }
-    return { id, name, nameRaw, contexts, siteCount: siteCounts[nameRaw] || 0 };
+    return { id, name, contexts, siteCount: siteCounts[nameRaw] || 0 };
   });
 
 console.log(`Uploading ${records.length} contaminants...`);

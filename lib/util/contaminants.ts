@@ -10,7 +10,7 @@
 export function prettifyChemicalName(raw: string): string {
   // prettier-ignore
   const ABBREV = new Set([
-    "DDT", "DDD", "DDE", "PCBs", "PCB", "PAH", "PAHs",
+    "DDT", "DDD", "DDE", "PCBs", "PCB", "PAH", "PAHs", "PFOA", "PFOS", "PFAS",
     "VOC", "VOCs", "SVOC", "SVOCs", "TCE", "PCE", "DNAPL",
   ]);
 

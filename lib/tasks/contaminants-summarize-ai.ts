@@ -113,12 +113,17 @@ async function processContaminant(row: ContaminantRow): Promise<void> {
       console.error(`Failed to download context PDF for ${row.id}`);
     } else {
       const pdfText = await extractText(pdfBuffer);
-      console.log(`Extracted ${pdfText.length} characters from PDF`);
+      const [srcEpa, srcWiki] = [pdfText, wiki.pageText || ""].map((txt) =>
+        txt.split(" ").slice(0, 1250).join(" "),
+      );
+      console.log(
+        `Using ${srcEpa.length} of ${pdfText.length} PDF, ${srcWiki.length} of ${wiki.pageText?.length} wiki`,
+      );
       context = `<source_epa>
-${pdfText}
+${srcEpa}
 </source_epa>
 <source_wikipedia>
-${wiki.pageText}
+${srcWiki}
 </source_wikipedia>`;
     }
     const summary = await summarizeContaminant(context);
