@@ -91,8 +91,7 @@ for (const year of years) {
 }
 Bun.write("./lib/data/timeline.md", mdMain);
 
-let mdListed = `# Timeline of Site Listings
-`;
+let mdListed = "";
 for (const year of years) {
   const lines = [];
   const months = Object.keys(buckets[year]).map(Number).sort();
@@ -104,7 +103,10 @@ for (const year of years) {
       if (status === FIELD_LABEL[fields[0]]) {
         for (const site of monthSites) {
           lines.push(
-            `**${site.dateProposed?.toLocaleDateString()?.replace(`/${year}`, "")}:** ${site.name} (${site.city}, ${site.stateCode})  `,
+            `**${new Date(site.dateProposed)?.toLocaleDateString("en-US", {
+              month: "2-digit",
+              day: "2-digit",
+            })}:** ${site.name} (${site.city}, ${site.stateCode})  `,
           );
         }
       }

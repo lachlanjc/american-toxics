@@ -11,7 +11,7 @@ export default async function Page() {
   );
   const content = (await fs.readFile(filePath, "utf8")) || "";
   return (
-    <div className="prose prose-neutral font-mono container">
+    <div className="prose prose-neutral font-mono prose-sm max-w-none">
       <ReactMarkdown>{content}</ReactMarkdown>
     </div>
   );
