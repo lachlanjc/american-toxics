@@ -194,15 +194,20 @@ export function SiteCard({
           {site.name} Superfund Site
         </HeaderTitle>
         <HeaderSubtitle>
-          {site.city},{" "}
-          <Link
-            href={`/states/${site.stateCode}`}
-            className="underline underline-offset-3 hover:text-primary transition-colors"
-          >
-            <abbr title={site.stateName ?? ""} className="no-underline">
-              {site.stateCode}
-            </abbr>
-          </Link>{" "}
+          {site.city}
+          {!site.stateCode || site.stateCode === "undefined" ? null : (
+            <>
+              {", "}
+              <Link
+                href={`/states/${site.stateCode}`}
+                className="underline underline-offset-3 hover:text-primary transition-colors"
+              >
+                <abbr title={site.stateName ?? ""} className="no-underline">
+                  {site.stateCode}
+                </abbr>
+              </Link>
+            </>
+          )}{" "}
           ({site.county} County)
         </HeaderSubtitle>
       </HeaderRoot>

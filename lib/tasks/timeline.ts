@@ -102,11 +102,12 @@ for (const year of years) {
     for (const [status, monthSites] of Object.entries(buckets[year][m])) {
       if (status === FIELD_LABEL[fields[0]]) {
         for (const site of monthSites) {
+          const state = site.stateCode ? `, ${site.stateCode}` : "";
           lines.push(
             `**${new Date(site.dateProposed)?.toLocaleDateString("en-US", {
               month: "2-digit",
               day: "2-digit",
-            })}:** ${site.name} (${site.city}, ${site.stateCode})  `,
+            })}:** ${site.name} _${site.city}${state}_  `,
           );
         }
       }
