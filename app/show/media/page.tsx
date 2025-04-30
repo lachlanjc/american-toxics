@@ -4,6 +4,8 @@ import {
 } from "@/lib/data/contaminants";
 import clsx from "clsx";
 
+export const metadata = { title: "Contexts" };
+
 export default function Page() {
   return (
     <main className="w-fit px-12 pt-8 mx-auto grid grid-cols-3 grid-rows-[auto_repeat(8,auto)] gap-x-16 gap-y-8">
