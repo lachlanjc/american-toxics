@@ -17,102 +17,49 @@ const FIELD_LABEL: Partial<Record<keyof Site, string>> = {
   dateDeleted: "Completed",
 };
 
-const MONTHS = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-  "August",
-  "September",
-  "October",
-  "November",
-  "December",
-];
-
-type MiniSite = Pick<Site, "id" | "name" | "city" | "stateCode">;
-
-type Bucket = Record<
-  number, // year
-  Record<
-    string, // month (0‑11)
-    Record<
-      string, // action label
-      Array<Site>
-    >
-  >
->;
+type Bucket = Record<number, Record<string, Array<Site>>>;
 const buckets: Bucket = {};
 
 for (const site of allSites) {
-  fields.forEach((field) => {
+  for (const field of fields) {
     const raw = site[field];
-    if (!raw) return; // blank ➜ ignore
+    if (!raw) continue; // blank ➜ ignore
     const d = new Date(String(raw));
-    if (isNaN(d.getTime())) return; // bad date ➜ ignore
-    // @ts-expect-error switching types
-    site[field] = d; // update the site with the date
+    if (isNaN(d.getTime())) continue; // bad date ➜ ignore
+    // @ts-expect-error update site field to Date
+    site[field] = d;
 
     const y = d.getUTCFullYear();
-    const m = d.getUTCMonth(); // 0‑based
     const lbl = FIELD_LABEL[field];
-    if (!lbl) return; // no label ➜ ignore
+    if (!lbl) continue; // no label ➜ ignore
 
     // const { id, name, city, stateCode } = site;
 
     buckets[y] ??= {};
-    buckets[y][m] ??= {};
-    buckets[y][m][lbl] ??= [];
-    buckets[y][m][lbl].push(site);
-  });
-}
-
-let mdMain = `# Timeline
-
-`;
-const years = Object.keys(buckets).map(Number).sort();
-for (const year of years) {
-  const lines = [];
-  const months = Object.keys(buckets[year]).map(Number).sort();
-  lines.push(`## ${year}`);
-  lines.push(""); // blank line
-  for (const m of months) {
-    lines.push(`### ${MONTHS[m]}\n`);
-    for (const [status, sites] of Object.entries(buckets[year][m])) {
-      for (const site of sites) {
-        lines.push(`- ${status}: ${site.name}`);
-      }
-    }
-    lines.push(""); // blank line between months
+    buckets[y][lbl] ??= [];
+    buckets[y][lbl].push(site);
   }
-  mdMain += "\n" + lines.join("\n");
 }
-Bun.write("./lib/data/timeline.md", mdMain);
+
+const years = Object.keys(buckets).map(Number).sort();
 
 let mdListed = "";
 for (const year of years) {
   const lines = [];
-  const months = Object.keys(buckets[year]).map(Number).sort();
   lines.push(`## ${year}`);
   lines.push(""); // blank line
-  for (const m of months) {
-    // lines.push(`### ${MONTHS[m]}\n`);
-    for (const [status, monthSites] of Object.entries(buckets[year][m])) {
-      if (status === FIELD_LABEL[fields[0]]) {
-        for (const site of monthSites) {
-          const state = site.stateCode ? `, ${site.stateCode}` : "";
-          lines.push(
-            `**${new Date(site.dateProposed)?.toLocaleDateString("en-US", {
-              month: "2-digit",
-              day: "2-digit",
-            })}:** ${site.name} _${site.city}${state}_  `,
-          );
-        }
+  for (const [status, sites] of Object.entries(buckets[year])) {
+    if (status === FIELD_LABEL[fields[0]]) {
+      for (const site of sites) {
+        const state = site.stateCode ? `, ${site.stateCode}` : "";
+        lines.push(
+          `**${new Date(site.dateProposed)?.toLocaleDateString("en-US", {
+            month: "2-digit",
+            day: "2-digit",
+          })}:** ${site.name} _${site.city}${state}_  `,
+        );
       }
     }
-    // lines.push(""); // blank line between months
   }
   mdListed += "\n" + lines.join("\n") + "\n";
 }
