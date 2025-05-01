@@ -189,7 +189,7 @@ export function SiteCard({
           />
         </Portal>
       )}
-      <HeaderRoot showClose>
+      <HeaderRoot>
         <HeaderTitle style={{ viewTransitionName: site.id }}>
           {site.name} Superfund Site
         </HeaderTitle>

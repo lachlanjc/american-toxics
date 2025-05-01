@@ -61,7 +61,7 @@ export default async function ContaminantPage({
 
   return (
     <>
-      <HeaderRoot showClose>
+      <HeaderRoot>
         <HeaderBreadcrumb href="/contaminants">
           All Contaminants
         </HeaderBreadcrumb>

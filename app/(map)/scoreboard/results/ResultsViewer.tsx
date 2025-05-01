@@ -74,7 +74,6 @@ export default function ResultsViewer({
       {lat && lng && <MapZoom center={[lat, lng]} />}
       <div className="p-4 md:p-6">
         <HeaderRoot
-          showClose
           actions={
             <Link
               href="/scoreboard/new"

@@ -26,7 +26,7 @@ export default async function About() {
   const totalSqMiles = Math.round(totalAcreage / 640);
 
   return [
-    <HeaderRoot showClose key="header">
+    <HeaderRoot key="header">
       <HeaderTitle>
         What is <a href="https://www.epa.gov/superfund">Superfund</a>?
       </HeaderTitle>

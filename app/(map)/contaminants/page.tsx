@@ -100,7 +100,7 @@ export default async function ContaminantsPage() {
 
   return (
     <>
-      <HeaderRoot showClose>
+      <HeaderRoot>
         <HeaderTitle>Contaminants</HeaderTitle>
         <HeaderSubtitle>
           The EPA categorizes contaminants by type, Browse the top contaminants,

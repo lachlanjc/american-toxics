@@ -30,7 +30,7 @@ export default async function CategoriesPage() {
   }
   return (
     <>
-      <HeaderRoot showClose>
+      <HeaderRoot>
         <HeaderTitle>Superfund Sites by Category</HeaderTitle>
         <HeaderSubtitle>
           These are the most common types of toxic waste sites in the U.S. This

@@ -15,7 +15,7 @@ export function metadata() {
 export default function Page() {
   return (
     <>
-      <HeaderRoot showClose>
+      <HeaderRoot>
         <HeaderTitle>Superfund Sites by NPL Status</HeaderTitle>
         <HeaderSubtitle>
           The National Priorities List (NPL) is a list of the most hazardous

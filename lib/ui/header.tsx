@@ -15,8 +15,8 @@ export const Header = {
 };
 
 export function HeaderRoot({
-  showClose,
   closeLink = "/",
+  showClose = true,
   actions,
   children,
 }: React.PropsWithChildren<{

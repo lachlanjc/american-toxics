@@ -53,7 +53,7 @@ function List({ states }: { states: typeof STATES }) {
 export default function Page() {
   return (
     <>
-      <HeaderRoot showClose>
+      <HeaderRoot>
         <HeaderTitle>Superfund Sites by State</HeaderTitle>
       </HeaderRoot>
       <List
