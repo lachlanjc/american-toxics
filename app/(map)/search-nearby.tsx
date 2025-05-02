@@ -1,4 +1,6 @@
+"use client";
 import { useState, useRef, useEffect } from "react";
+import { handleSubmit } from "@/app/(map)/scoreboard/actions";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN;
 
@@ -42,7 +44,7 @@ export function SearchNearby() {
   };
 
   return (
-    <form action="/scoreboard" method="POST" className="w-full">
+    <form action={handleSubmit} className="w-full">
       <div className="w-full action-button relative">
         <input
           type="text"

@@ -1,3 +1,4 @@
+"use server";
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { geocode } from "opencage-api-client";
@@ -5,8 +6,7 @@ import sitesMini from "@/lib/data/sites-mini.json";
 import { haversineDistance } from "@/lib/util/distance";
 import { supabase } from "@/lib/supabaseClient";
 
-export async function POST(request: Request) {
-  const formData = await request.formData();
+export async function handleSubmit(formData: FormData) {
   const addressRaw = formData.get("address")?.toString();
   if (!addressRaw) {
     return redirect("/scoreboard/new");
