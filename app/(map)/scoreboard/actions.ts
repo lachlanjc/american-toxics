@@ -8,24 +8,14 @@ import { supabase } from "@/lib/supabaseClient";
 
 export async function handleSubmit(formData: FormData) {
   const addressRaw = formData.get("address")?.toString();
-  if (!addressRaw) {
+  const lat = formData.get("lat") ? Number(formData.get("lat")) : undefined;
+  const lng = formData.get("lng") ? Number(formData.get("lng")) : undefined;
+  const addressCity = formData.get("city")?.toString();
+  const addressStateCode = formData.get("stateCode")?.toString();
+  const addressFormatted = formData.get("formatted")?.toString();
+  if (!addressRaw || !lat || !lng) {
     return redirect("/scoreboard/new");
   }
-
-  const apiKey = process.env.OPENCAGE_API_KEY;
-  if (!apiKey) {
-    throw new Error("Missing OPENCAGE_API_KEY in environment");
-  }
-  const geoRes = await geocode({ key: apiKey, q: addressRaw });
-  if (!geoRes?.results?.length) {
-    return redirect("/scoreboard/new");
-  }
-  const first = geoRes.results[0];
-  const { lat, lng } = first.geometry;
-  const addressFormatted = first.formatted;
-  const comp: Record<string, unknown> = first.components || {};
-  const addressCity = comp.city || comp.town || comp.village || "";
-  const addressStateCode = comp.state_code || comp.state || "";
 
   const sitesWithDist: Array<{
     id: string;
