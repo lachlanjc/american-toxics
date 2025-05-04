@@ -213,21 +213,29 @@ input {
     interpolate-size: allow-keywords;
   }
 
-  details {
-    &::details-content {
-      opacity: 0;
-      block-size: 0;
-      overflow-y: clip;
-      transition:
-        content-visibility 0.125s allow-discrete,
-        opacity 0.125s,
-        block-size 0.125s;
-    }
+  .details-content {
+    opacity: 0;
+    block-size: 0;
+    overflow-y: clip;
+    transition:
+      content-visibility 0.25s allow-discrete,
+      opacity 0.25s,
+      block-size 0.25s;
+  }
+  details::details-content {
+    opacity: 0;
+    block-size: 0;
+    overflow-y: clip;
+    transition:
+      content-visibility 0.125s allow-discrete,
+      opacity 0.125s,
+      block-size 0.125s;
+  }
 
-    &[open]::details-content {
-      opacity: 1;
-      block-size: auto;
-    }
+  .details-content[aria-hidden="false"],
+  details[open]::details-content {
+    opacity: 1;
+    block-size: auto;
   }
 
   summary::-webkit-details-marker {
