@@ -157,15 +157,16 @@ input {
   }
 } */
 
-[data-appearance="dark"] .main-card {
-  background-color: #292c31df;
-  box-shadow: 0 11px 34px rgba(0, 0, 0, 0.5);
-}
-
 [data-appearance="light"] .main-card {
   background-color: #fbfbfddf;
   box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
   color: #171717;
+}
+
+[data-appearance="dark"] .main-card {
+  background-color: #292c31df;
+  box-shadow: 0 11px 34px rgba(0, 0, 0, 0.5);
+  color: #fafafa;
 }
 
 /* @media (prefers-color-scheme: dark) {
