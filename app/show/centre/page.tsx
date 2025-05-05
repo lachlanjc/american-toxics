@@ -216,7 +216,7 @@ export default function Page() {
         className="absolute w-screen h-screen object-cover z-0"
       />
       <article
-        className="main-card backdrop-blur-lg backdrop-saturate-175 rounded-xl md:rounded-2xl absolute top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 w-full overflow-y-auto"
+        className="main-card backdrop-blur-lg backdrop-saturate-175 rounded-xl md:rounded-2xl absolute top-8 left-1/2 -translate-x-1/2 w-full overflow-y-auto"
         style={{
           maxWidth: "min(100vi - 32px, 68rem)",
           maxHeight: "calc(100svb - 64px)",
