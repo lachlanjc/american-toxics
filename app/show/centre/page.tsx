@@ -16,7 +16,6 @@ import imgSheetz from "@/public/show/centre/sheetz.jpg";
 import imgKepone from "@/public/show/centre/kepone.jpg";
 
 interface ItemProps {
-  icon?: IconComponent;
   color?: string;
   id: string;
   name: string;
@@ -148,7 +147,7 @@ function Landmarks() {
         ))}
       </TabList>
       {landmarks.map((item, i) => (
-        <LandmarkTabPanel key={item.id} i={i + 1} {...item} />
+        <LandmarkTabPanel key={item.id} {...item} />
       ))}
     </Tabs>
   );
