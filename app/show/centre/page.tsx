@@ -38,7 +38,7 @@ const landmarks: Array<ItemProps> = [
     id: "sheetz",
     color: "bg-red-500",
     name: "Sheetz Gas Station",
-    desc: "In 2006, below the preschool, a popular PA chain gas station “lost an undetermined amount of gasoline,” spilling storage tanks of gas into Spring Creek. Sheetz paid just $8500 in fines, while the creek was designated as catch & release for fishing.",
+    desc: "Below the preschool sat a Sheetz, a popular PA gas station. In 2006, it “lost an undetermined amount of gasoline,” spilling storage tanks of gas into Spring Creek. Sheetz paid just $8500 in fines, while the creek was designated as catch & release for fishing. It was later demolished.",
     img: imgSheetz,
     imgCredit: "Google Maps Street View",
   },
@@ -91,7 +91,6 @@ function LandmarkTab({ i, color, id, name }: ItemProps & { i: number }) {
 }
 
 function LandmarkTabPanel({
-  i,
   color,
   id,
   name,
