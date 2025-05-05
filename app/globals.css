@@ -66,6 +66,18 @@ input {
   border-radius: 10px;
   position: relative;
 }
+.active-tab,
+a.action-button,
+button.action-button {
+  cursor: pointer;
+}
+
+[data-appearance="dark"] .active-tab {
+  color: #ededed;
+}
+[data-appearance="dark"] .active-tab[data-selected="true"] {
+  color: #171717;
+}
 
 .active-tab[data-selected]::before,
 .mapboxgl-ctrl-group::before,
@@ -103,18 +115,6 @@ input {
   -webkit-mask-composite: xor;
 }
 
-/*
-@media (prefers-color-scheme: dark) {
-  .action-button {
-    background-color: hsla(0, 0%, 100%, 0.02);
-  }
-}
-*/
-
-[data-appearance="dark"] .action-button {
-  background-color: hsla(0, 0%, 100%, 0.02);
-}
-
 .mapboxgl-ctrl-group {
   transition: background-color 0.2s ease;
   background-color: hsla(0, 0%, 100%, 0.75) !important;
@@ -131,11 +131,20 @@ input {
 .mapboxgl-ctrl-group:is(:focus-within, :active, :hover) {
   background-color: hsla(0, 0%, 100%, 0.75);
 }
-.active-tab:hover,
+
+[data-appearance="dark"] .active-tab[data-selected="true"],
+[data-appearance="dark"] .action-button {
+  background-color: hsla(0, 0%, 100%, 0.9);
+  color: #171717;
+}
+[data-appearance="light"] .active-tab:hover,
 [data-appearance="light"] .action-button:focus-within,
 [data-appearance="light"] .action-button:active,
 [data-appearance="light"] .action-button:hover {
   background-color: hsla(0, 0%, 100%, 0.75);
+}
+[data-appearance="dark"] .active-tab:not([data-selected="true"]):hover {
+  background-color: hsl(0 0% 100% / 0.125);
 }
 
 .main-card {
@@ -164,7 +173,7 @@ input {
 }
 
 [data-appearance="dark"] .main-card {
-  background-color: #292c31df;
+  background-color: #292c31dd;
   box-shadow: 0 11px 34px rgba(0, 0, 0, 0.5);
   color: #fafafa;
 }
