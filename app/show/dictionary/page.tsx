@@ -52,57 +52,86 @@ export default async function Page() {
       </main>
     );
   }
-  // Sort alphabetically by name
-  const sorted = [...contaminants].sort((a, b) => a.name.localeCompare(b.name));
+  // Sort alphabetically by name, but move any entries starting with a digit to the end
+  const sorted = [...contaminants].sort((a, b) => {
+    const aStartsNum = /^\d/.test(a.name);
+    const bStartsNum = /^\d/.test(b.name);
+    // If one starts with a digit and the other doesn't, digit-first entries go last
+    if (aStartsNum !== bStartsNum) {
+      return aStartsNum ? 1 : -1;
+    }
+    // Otherwise, sort alphabetically
+    return a.name.localeCompare(b.name);
+  });
   return (
-    <main className="font-sans" style={{ fontSize: 24 }}>
-      <div className="">
-        {sorted.map((contaminant) => {
-          // Collect contexts for this contaminant by matching slug(c.name) to contaminant.id
-          const contexts = Array.from(
-            new Set(
-              siteContaminants
-                .filter((c) => slug(c.name) === contaminant.id)
-                .map((c) => c.media),
-            ),
-          );
-          return (
-            <article
+    <main className="font-sans grid grid-cols-2" style={{ fontSize: 12 }}>
+      {/* Table of contents */}
+      <article key="toc" className="p-8 flex flex-col w-[50vi] h-[50vb]">
+        <h1 className="text-[2em] leading-none font-semibold">Contaminants</h1>
+        <nav
+          aria-label="Table of contents"
+          className="mt-4 flex flex-col gap-0"
+        >
+          {sorted.map((contaminant, i) => (
+            <a
               key={contaminant.id}
-              className="p-6 odd:pl-12 even:pr-12 flex flex-col w-screen h-screen"
-              // style={{ scale: 2 }}
+              href={`#${contaminant.id}`}
+              className="flex justify-between"
             >
-              <h2 className="text-[2em] text-balance leading-none font-semibold">
-                {contaminant.name}
-              </h2>
-              {contaminant.summary && (
-                <p className="mt-4 font-mono text-[1em] text-neutral-700 text-pretty flex-grow">
-                  {contaminant.summary.replaceAll("*", "")}
-                </p>
-              )}
-              <div className="mt-auto flex flex-col gap-1 font-medium text-[1.5em]">
-                {contexts.map((ctx) => {
-                  const context = contaminantContexts[ctx];
-                  if (!context) return null;
-                  const Icon = context.icon;
-                  const color = contaminantCategories[context.category]?.color;
-                  return (
-                    <div className="flex items-center gap-2 -ml-1" key={ctx}>
-                      <Icon
-                        width="2em"
-                        height="2em"
-                        className={clsx(color)}
-                        aria-hidden
-                      />
-                      {context.name}
-                    </div>
-                  );
-                })}
-              </div>
-            </article>
-          );
-        })}
-      </div>
+              {contaminant.name}
+              <span className="text-neutral-400 font-mono text-[0.75em] tabular-nums">
+                {i + 1}
+              </span>
+            </a>
+          ))}
+        </nav>
+      </article>
+      {sorted.map((contaminant) => {
+        // Collect contexts for this contaminant by matching slug(c.name) to contaminant.id
+        const contexts = Array.from(
+          new Set(
+            siteContaminants
+              .filter((c) => slug(c.name) === contaminant.id)
+              .map((c) => c.media),
+          ),
+        );
+        return (
+          <article
+            id={contaminant.id}
+            key={contaminant.id}
+            className="p-8 flex flex-col w-[50vi] h-[50vb]"
+            // style={{ scale: 2 }}
+          >
+            <h2 className="text-[2em] text-balance leading-none font-semibold">
+              {contaminant.name}
+            </h2>
+            {contaminant.summary && (
+              <p className="mt-4 font-mono text-[1em] text-neutral-700 text-pretty flex-grow">
+                {contaminant.summary.replaceAll("*", "")}
+              </p>
+            )}
+            <div className="mt-auto flex flex-col font-medium text-[1.5em]">
+              {contexts.map((ctx) => {
+                const context = contaminantContexts[ctx];
+                if (!context) return null;
+                const Icon = context.icon;
+                const color = contaminantCategories[context.category]?.color;
+                return (
+                  <div className="flex items-center gap-2 -ml-1" key={ctx}>
+                    <Icon
+                      width="2em"
+                      height="2em"
+                      className={clsx(color)}
+                      aria-hidden
+                    />
+                    {context.name}
+                  </div>
+                );
+              })}
+            </div>
+          </article>
+        );
+      })}
     </main>
   );
 }

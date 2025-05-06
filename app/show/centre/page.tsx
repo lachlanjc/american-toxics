@@ -30,8 +30,6 @@ const landmarks: Array<ItemProps> = [
     color: "bg-white !text-black",
     name: "Nittany Valley Montessori School",
     desc: "This was my preschool, starting in 2004, a beautiful school with a pet rabbit, tiny fish pond, gardens, and play areas. Though it recently closed, I have incredibly fond memories of running around and learning here.",
-    img: imgPreschool,
-    imgCredit: "Christopher Campbell",
   },
   {
     id: "sheetz",
@@ -54,8 +52,6 @@ const landmarks: Array<ItemProps> = [
     color: "bg-yellow-500",
     name: "Centre County Kepone",
     desc: "A former chemical plant, opened in the 1950s, produced Kepone & Mirex, insecticide & flame retardant respectively, both banned by 1976 due to being extremely carcinogenic, toxic, & bioaccumulative. The plant became a Superfund site in 1981, but manufacturing of other chemicals continued until 2004, with wastes dumped into the soil and sprayed into the air. Thousands of people live within a mile, directly bordering the site. Today, it remains fenced.",
-    img: imgKepone,
-    imgCredit: "Alexis Oltmer",
   },
   {
     id: "gardens",
