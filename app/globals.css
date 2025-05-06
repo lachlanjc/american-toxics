@@ -31,6 +31,11 @@
 }
 */
 
+html {
+  -webkit-text-size-adjust: none;
+  touch-action: none;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);

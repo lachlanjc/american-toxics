@@ -27,7 +27,7 @@ function MainCard({
           {...props}
           className={clsx(
             "main-card backdrop-blur-lg backdrop-saturate-150 rounded-t-xl md:rounded-2xl",
-            "fixed max-h-[67vh] bottom-0 max-md:left-0 max-md:right-0",
+            "fixed max-h-[50svb] bottom-0 max-md:left-0 max-md:right-0",
             "md:absolute md:max-h-[90vh] md:top-8 md:left-8 md:bottom-auto",
             "z-10 outline-none !overflow-y-auto overflow-x-clip [scrollbar-width:thin] !touch-auto",
             "flex flex-col w-full md:max-w-xl p-4 md:p-6 @container",
