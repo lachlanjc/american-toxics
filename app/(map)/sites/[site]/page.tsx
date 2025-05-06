@@ -48,8 +48,6 @@ export default async function Page({
     return notFound();
   }
   // Fetch related images for this site
-  // Fetch related images (TS: images table may not be in generated types)
-  // @ts-ignore
   const { data: images, error: imagesError } = await supabase
     .from("images")
     .select("*")
