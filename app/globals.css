@@ -247,10 +247,10 @@ button.action-button {
     opacity: 1;
     block-size: auto;
   }
+}
 
-  summary::-webkit-details-marker {
-    display: none;
-  }
+details summary::-webkit-details-marker {
+  display: none;
 }
 
 .text-trim-both {

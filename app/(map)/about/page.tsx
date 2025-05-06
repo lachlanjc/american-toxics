@@ -18,12 +18,10 @@ export default async function About() {
   if (acresError) {
     console.error("Error fetching site acreage", acresError);
   }
-  const totalAcreage = (sitesWithAcres ?? []).reduce(
-    (sum, row) => sum + (row.acres ?? 0),
-    0,
-  );
-  // Convert total acreage to square miles (1 sq mi = 640 acres) and round
-  const totalSqMiles = Math.round(totalAcreage / 640);
+  const totalAcreage = 11_486_864.17;
+  const totalSqMiles = 17_948;
+  const avgAcres = Math.round(totalAcreage / (sitesWithAcres?.length ?? 1));
+  const avgSqMiles = Math.round(totalSqMiles / (sitesWithAcres?.length ?? 1));
 
   return [
     <HeaderRoot key="header">
@@ -116,12 +114,37 @@ export default async function About() {
           Total sites
         </dd>
         <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
-          &gt;{totalSqMiles.toLocaleString()}
+          {totalSqMiles.toLocaleString()}
+        </dt>
+        <dd className="mt-4 mb-8 text-sm uppercase block text-neutral-600">
+          Toxic square miles (2x Maryland)
+        </dd>
+        <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
+          {avgSqMiles.toLocaleString()}
         </dt>
         <dd className="mt-4 text-sm uppercase block text-neutral-600">
-          Toxic square miles (larger than Connecticut)
+          Average site size (miles<sup>2</sup>)
         </dd>
       </dl>
+    </section>,
+    <hr key="hr2" className="border-black/20 -mx-6 my-6" />,
+    <section
+      key="author"
+      className="prose prose-neutral prose-a:text-primary prose-a:underline-offset-3 prose-p:text-pretty prose-sm"
+    >
+      <Heading>About this site</Heading>
+      <p>
+        <a href="https://lachlanjc.com">Lachlan Campbell</a> made this website.
+        It’s <a href="https://github.com/lachlanjc/superfund">open source</a>.
+      </p>
+      <p>
+        It scrapes content off U.S. EPA’s Superfund website, and generates
+        accessible summaries of sites and real-time answers to questions based
+        on that material. The summaries are generated using{" "}
+        <a href="https://openai.com">OpenAI</a>’s GPT-4.1 model. The site is
+        built using <a href="https://nextjs.org">Next.js</a> and{" "}
+        <a href="https://supabase.com">Supabase</a>.
+      </p>
     </section>,
   ];
 }
