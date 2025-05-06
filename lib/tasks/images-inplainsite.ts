@@ -18,7 +18,7 @@ if (!supabaseAdmin) {
 }
 
 async function main() {
-  const imagesDir = path.join(process.cwd(), "public", "plainsite");
+  const imagesDir = path.join(process.cwd(), "public", "images");
   if (!fs.existsSync(imagesDir)) {
     console.error(`Directory ${imagesDir} does not exist`);
     process.exit(1);
@@ -78,7 +78,7 @@ async function main() {
       width,
       height,
       blurhash,
-      source: "inplainsite",
+      source: "",
       siteId,
     };
     records.push(record);

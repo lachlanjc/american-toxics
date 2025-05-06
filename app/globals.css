@@ -159,10 +159,31 @@ button.action-button {
 
 .floating-image {
   position: fixed;
-  inset-block-end: 20px;
-  inset-inline-end: 20px;
   box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
   border-radius: 16px;
+
+  & img {
+    width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 48em) {
+    max-width: 180px;
+    inset-block-start: 20px;
+    inset-inline-start: 20px;
+    & figcaption {
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+    &:hover figcaption {
+      opacity: 1;
+    }
+  }
+  @media (min-width: 48em) {
+    max-width: 320px;
+    inset-block-end: 20px;
+    inset-inline-end: 20px;
+  }
 }
 
 /* @media (prefers-color-scheme: dark) {

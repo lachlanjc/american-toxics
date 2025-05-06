@@ -12,6 +12,8 @@ import { OpenAIIcon } from "@/lib/ui/icons";
 import { CategoryChip } from "./category";
 import { formatAcres } from "@/lib/util/distance";
 import { Heading } from "@/lib/ui/typography";
+import { Database } from "@/supabase/types";
+import Image from "next/image";
 
 const questions = [
   "How is cleanup progressing? Is it safe to be here?",
@@ -146,10 +148,45 @@ function SiteDescription({
   );
 }
 
+const credits: Record<string, string> = {
+  inplainsite: "Federica Armstrong, In Plain Site",
+  alexisoltmer: "Alexis Oltmer",
+};
+
+function FloatingImage({
+  id,
+  width,
+  height,
+  url,
+  blurhash,
+  alt,
+  source = "",
+}: Database["public"]["Tables"]["images"]["Row"]) {
+  return (
+    <figure key={id} className="floating-image overflow-hidden">
+      <Image
+        src={url}
+        width={width || 512}
+        height={height || 512}
+        blurDataURL={blurhash || undefined}
+        placeholder="blur"
+        alt={alt || ""}
+      />
+      <figcaption className="absolute bottom-0 left-0 right-0 p-3 bg-white/80 backdrop-blur-md backdrop-saturate-150 rounded-b-lg leading-snug font-sans text-balance text-trim-both">
+        Photo by {credits[source || ""] ?? source}
+      </figcaption>
+    </figure>
+  );
+}
+
 export function SiteCard({
   site,
+  images = [],
   children,
-}: React.PropsWithChildren<{ site: SupabaseSite }>) {
+}: React.PropsWithChildren<{
+  site: SupabaseSite;
+  images?: Array<Database["public"]["Tables"]["images"]["Row"]>;
+}>) {
   const ref = useFocusable();
   const scrollRef = useRef<HTMLDivElement>(null);
   const {
@@ -173,20 +210,13 @@ export function SiteCard({
           m.parts.some((p) => p.type === "text" && p.text === q),
       ),
   );
-
   return (
     <div className="flex flex-col gap-4">
-      {hasPlainSiteImage(site.id) && (
+      {Array.isArray(images) && images.length > 0 && (
         <Portal>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={`/plainsite/${site.id}.jpg`}
-            width={1097 / 4}
-            height={1080 / 4}
-            className="floating-image"
-            alt={`Plain Site of ${site.name}`}
-            title="Photograph by Federica Armstrong, In Plain Site"
-          />
+          {images.map((img) => (
+            <FloatingImage key={img.id} {...img} />
+          ))}
         </Portal>
       )}
       <HeaderRoot>
