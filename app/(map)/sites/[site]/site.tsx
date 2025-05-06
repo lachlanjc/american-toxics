@@ -14,8 +14,8 @@ import { formatAcres } from "@/lib/util/distance";
 import { Heading } from "@/lib/ui/typography";
 
 const questions = [
-  "What types of contaminants are present?",
   "How is cleanup progressing? Is it safe to be here?",
+  "What parties are responsible?",
   "Who is funding this cleanup?",
   "Provide a timeline of major events here",
 ];
