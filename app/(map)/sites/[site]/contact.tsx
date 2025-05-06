@@ -7,7 +7,7 @@ export function Contact({ site }: { site: SupabaseSite }) {
   return (
     <WellRoot className="">
       <p className="uppercase font-sans font-medium mb-1 text-xs text-neutral-600">
-        EPA site administrator
+        EPA site contact
       </p>
       <WellTitle>{site.contactName}</WellTitle>
       <a
