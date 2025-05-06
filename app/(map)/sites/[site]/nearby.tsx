@@ -58,6 +58,7 @@ const highlightedCategories: Record<
     namePlural?: string;
     icon: IconComponent;
     search: Array<string>;
+    exclude?: Array<string>;
   }
 > = {
   // @ts-expect-error it literally is
@@ -79,12 +80,14 @@ const highlightedCategories: Record<
       "flight:flight school",
       "music:music school",
     ],
+    exclude: ["parking", "free library"],
   },
   library: {
     name: "library",
     namePlural: "libraries",
     icon: SvgLibrary,
     search: ["public", "university"],
+    exclude: ["free library", "book exchange", "parking"],
   },
   health_services: {
     name: "doctor",
@@ -145,17 +148,19 @@ export async function Nearby({
     features: Array<MapboxFeature>;
     subcategories: Array<[number, string]>;
   }> = Object.entries(highlightedCategories)
-    .map(([category, { search }]) => {
+    .map(([category, { search, exclude }]) => {
       let categoryPOIs = nearbyFeatures.filter((feat) =>
         feat.properties.poi_category_ids.includes(category),
       );
-      if (category === "education") {
-        categoryPOIs = categoryPOIs.filter(
-          (feat) =>
-            !feat.properties.poi_category_ids.includes("library") &&
-            !feat.properties.name.toLowerCase().includes("parking"),
-        );
-      }
+      // filter out excludes
+      categoryPOIs = categoryPOIs.filter(
+        (feat) =>
+          !exclude?.some(
+            (term) =>
+              feat.properties.name.toLowerCase().includes(term) ||
+              feat.properties.poi_category.includes(term),
+          ),
+      );
       if (categoryPOIs.length === 0) return null;
       const subcategories = search
         .map((termAndLabel) => {

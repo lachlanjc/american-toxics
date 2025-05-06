@@ -50,8 +50,11 @@ function ContaminantContext({
           aria-hidden
         />
       </summary>
+      <p className="pl-7 pt-1 -ml-px text-xs mb-2 text-balance">
+        {context.desc}
+      </p>
       <ul
-        className="pl-7 -ml-px pt-1 text-neutral-600 text-xs flex flex-col gap-2"
+        className="pl-7 -ml-px text-neutral-600 text-xs flex flex-col gap-2"
         role="list"
       >
         {contaminants.map((contaminant) => {

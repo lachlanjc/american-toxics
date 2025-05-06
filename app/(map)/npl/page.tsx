@@ -16,7 +16,7 @@ export default function Page() {
   return (
     <>
       <HeaderRoot>
-        <HeaderTitle>Superfund Sites by NPL Status</HeaderTitle>
+        <HeaderTitle>Superfund Sites by Cleanup Status</HeaderTitle>
         <HeaderSubtitle>
           The National Priorities List (NPL) is a list of the most hazardous
           waste sites in the U.S. Track&nbsp;sites by their status on the NPL.
