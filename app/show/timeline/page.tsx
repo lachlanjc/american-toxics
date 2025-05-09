@@ -21,7 +21,7 @@ export default async function Page() {
   return (
     <div className="prose font-mono prose-sm max-w-none px-12">
       <h1 className="text-6xl font-sans text-balance uppercase text-center mt-16 py-16">
-        Superfund Sites as&nbsp;Listed: {Object.entries(files)[file][1]}
+        All Superfund Sites in Chronological Order
       </h1>
       <ReactMarkdown>{content}</ReactMarkdown>
       <style>{`

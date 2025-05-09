@@ -1,67 +1,60 @@
 import { Site } from "../data/site";
 import { allSites } from "../data/api";
 
-const fields: Array<keyof Site> = [
-  "dateProposed",
-  "dateListed",
-  "dateCompleted",
-  "dateNOID",
-  "dateDeleted",
-];
+/* ------------------------------------------- */
+/* 1.  Bucket sites by listing year            */
+/* ------------------------------------------- */
 
-const FIELD_LABEL: Partial<Record<keyof Site, string>> = {
-  dateProposed: "Proposed",
-  dateListed: "Listed",
-  dateCompleted: "Cleaning",
-  dateNOID: "Cleaned",
-  dateDeleted: "Completed",
-};
-
-type Bucket = Record<number, Record<string, Array<Site>>>;
+type Bucket = Record<number, Site[]>; // year → sites
 const buckets: Bucket = {};
 
 for (const site of allSites) {
-  for (const field of fields) {
-    const raw = site[field];
-    if (!raw) continue; // blank ➜ ignore
-    const d = new Date(String(raw));
-    if (isNaN(d.getTime())) continue; // bad date ➜ ignore
-    // @ts-expect-error update site field to Date
-    site[field] = d;
+  const raw = site.dateListed;
+  if (!raw) continue; // skip if blank
 
-    const y = d.getUTCFullYear();
-    const lbl = FIELD_LABEL[field];
-    if (!lbl) continue; // no label ➜ ignore
+  const d = new Date(String(raw));
+  if (isNaN(d.getTime())) continue; // skip bad date
 
-    // const { id, name, city, stateCode } = site;
+  (site as any).dateListed = d; // store parsed Date
+  const year = d.getUTCFullYear();
 
-    buckets[y] ??= {};
-    buckets[y][lbl] ??= [];
-    buckets[y][lbl].push(site);
-  }
+  buckets[year] ??= [];
+  buckets[year].push(site);
 }
 
-const years = Object.keys(buckets).map(Number).sort();
+/* ------------------------------------------- */
+/* 2.  Emit Markdown timeline                  */
+/* ------------------------------------------- */
 
+const years = Object.keys(buckets).map(Number).sort(); // 1980 → … → 2025
 let mdListed = "";
+
 for (const year of years) {
-  const lines = [];
-  lines.push(`## ${year}`);
-  lines.push(""); // blank line
-  for (const [status, sites] of Object.entries(buckets[year])) {
-    if (status === FIELD_LABEL[fields[0]]) {
-      for (const site of sites) {
-        const state = site.stateCode ? `, ${site.stateCode}` : "";
-        lines.push(
-          `**${new Date(site.dateProposed)?.toLocaleDateString("en-US", {
-            month: "2-digit",
-            day: "2-digit",
-          })}:** ${site.name} _${site.city}${state}_  `,
-        );
-      }
-    }
+  const sites = buckets[year];
+  if (!sites?.length) continue; // skip empty year
+
+  // sort: ① date ② city ③ state
+  sites.sort((a, b) => {
+    const t =
+      // @ts-expect-error we changed dateListed to a Date type
+      (a.dateListed as Date).getTime() - (b.dateListed as Date).getTime();
+    if (t !== 0) return t;
+    const stateCmp = (a.stateCode ?? "").localeCompare(b.stateCode ?? "");
+    if (stateCmp !== 0) return stateCmp;
+    const cityCmp = (a.city ?? "").localeCompare(b.city ?? "");
+    return cityCmp;
+  });
+
+  mdListed += `\n## ${year}\n\n`;
+  for (const site of sites) {
+    // @ts-expect-error we changed dateListed to a Date type
+    const dateStr = (site.dateListed as Date).toLocaleDateString("en-US", {
+      month: "2-digit",
+      day: "2-digit",
+    });
+    const state = site.stateCode ? `, ${site.stateCode}` : "";
+    mdListed += `**${dateStr}:** ${site.name} _${site.city}${state}_  \n`;
   }
-  mdListed += "\n" + lines.join("\n") + "\n";
 }
 
-Bun.write("./lib/data/timeline-listed.md", mdListed);
+Bun.write("./lib/data/timeline-listed.md", mdListed.trimStart());
