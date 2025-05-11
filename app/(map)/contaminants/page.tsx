@@ -103,8 +103,9 @@ export default async function ContaminantsPage() {
       <HeaderRoot>
         <HeaderTitle>Contaminants</HeaderTitle>
         <HeaderSubtitle>
-          The EPA categorizes contaminants by type, Browse the top contaminants,
-          and a guide to the types of contamination, as defined by the EPA.
+          Explore where you can find contamination in the environment, as
+          defined by EPA, plus themost common contaminants across Superfund
+          sites.
         </HeaderSubtitle>
       </HeaderRoot>
       <article className="flex flex-col gap-6 pt-2">

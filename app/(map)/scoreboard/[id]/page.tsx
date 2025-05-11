@@ -22,7 +22,7 @@ export default async function ScorePage({
 }: {
   params: { id: string };
 }) {
-  const { id } = params;
+  const { id } = await params;
   const { data: score, error: scoreError } = await supabase
     .from("scores")
     .select("*")
