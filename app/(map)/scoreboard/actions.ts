@@ -1,7 +1,6 @@
 "use server";
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
-import { geocode } from "opencage-api-client";
 import sitesMini from "@/lib/data/sites-mini.json";
 import { haversineDistance } from "@/lib/util/distance";
 import { supabase } from "@/lib/supabaseClient";
@@ -68,7 +67,7 @@ export async function handleSubmit(formData: FormData) {
     .single();
   if (error || !created) {
     console.error("Error saving score:", error);
-    return redirect("/scoreboard/new");
+    return redirect("/");
   }
   revalidatePath("/scoreboard/results");
   return redirect(`/scoreboard/${created.id}`);
