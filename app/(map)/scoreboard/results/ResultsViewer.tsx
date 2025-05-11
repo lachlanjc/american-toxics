@@ -76,8 +76,8 @@ export default function ResultsViewer({
         <HeaderRoot
           actions={
             <Link
-              href="/scoreboard/new"
-              className="action-button !bg-neutral-800 hover:!bg-neutral-700 text-neutral-100 cursor-pointer font-sans font-medium text-base py-1.5 px-3 shrink-0"
+              href="/"
+              className="action-button cursor-pointer font-sans font-medium text-base py-1.5 px-3 shrink-0"
             >
               Find yours
             </Link>

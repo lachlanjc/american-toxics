@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { Familjen_Grotesk, Martian_Mono } from "next/font/google";
 import "./globals.css";
 // import { ViewTransitions } from "next-view-transitions";
@@ -37,6 +38,7 @@ export default function RootLayout({
         data-appearance="light"
       >
         {children}
+        <Analytics />
       </body>
     </html>
     // </ViewTransitions>
