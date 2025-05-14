@@ -151,6 +151,7 @@ function SiteDescription({
 const credits: Record<string, string> = {
   inplainsite: "Federica Armstrong, In Plain Site",
   alexisoltmer: "Alexis Oltmer",
+  lachlanjc: "Lachlan Campbell",
 };
 
 function FloatingImage({
@@ -287,7 +288,7 @@ export function SiteCard({
           <Heading className="mb-1">Suggested questions</Heading>
           {suggestions.map((q) => (
             <button
-              className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
+              className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left text-balance hover:opacity-80 transition-opacity cursor-pointer"
               type="button"
               key={q}
               onClick={() => {
