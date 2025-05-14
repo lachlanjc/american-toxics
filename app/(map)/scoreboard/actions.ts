@@ -5,7 +5,16 @@ import sitesMini from "@/lib/data/sites-mini.json";
 import { haversineDistance } from "@/lib/util/distance";
 import { supabase } from "@/lib/supabaseClient";
 
-export async function handleSubmit(formData: FormData) {
+export interface FormPayload {
+  address: string;
+  formatted: string;
+  lat: string;
+  lng: string;
+  city: string;
+  stateCode: string;
+}
+
+export async function handleSubmit(prevState: any, formData: FormData) {
   const addressRaw = formData.get("address")?.toString();
   const lat = formData.get("lat") ? Number(formData.get("lat")) : undefined;
   const lng = formData.get("lng") ? Number(formData.get("lng")) : undefined;
