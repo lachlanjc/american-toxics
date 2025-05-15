@@ -27,6 +27,16 @@ export async function generateMetadata({ params }: { params: { id: string } }) {
     description: data.summary ?? undefined,
   };
 }
+export async function generateStaticParams() {
+  const { data, error } = await supabase
+    .from('contaminants')
+    .select('id');
+  if (error || !data) {
+    console.error('Error fetching contaminant ids for static params', error);
+    return [];
+  }
+  return data.map((contaminant) => ({ id: contaminant.id }));
+}
 
 export default async function ContaminantPage({
   params,
