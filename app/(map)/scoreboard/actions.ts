@@ -14,7 +14,7 @@ export interface FormPayload {
   stateCode: string;
 }
 
-export async function handleSubmit(prevState: any, formData: FormData) {
+export async function handleSubmit(prevState: {}, formData: FormData) {
   const addressRaw = formData.get("address")?.toString();
   const lat = formData.get("lat") ? Number(formData.get("lat")) : undefined;
   const lng = formData.get("lng") ? Number(formData.get("lng")) : undefined;
