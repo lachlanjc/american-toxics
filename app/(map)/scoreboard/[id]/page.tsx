@@ -17,6 +17,8 @@ type PartialSite = Pick<
   "id" | "name" | "city" | "stateCode" | "category" | "npl" | "lat" | "lng"
 >;
 
+export const dynamic = "auto";
+
 export default async function ScorePage({
   params,
 }: {

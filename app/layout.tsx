@@ -14,6 +14,7 @@ const martianMono = Martian_Mono({
   subsets: ["latin"],
 });
 
+export const dynamic = "force-static";
 const title = "American Toxics";
 const description = "Explore Superfund toxic waste sites across the U.S.";
 export const metadata: Metadata = {
