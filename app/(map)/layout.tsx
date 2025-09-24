@@ -12,7 +12,7 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
 import type { FeatureCollection, Point } from "geojson";
 import { useParams, useRouter } from "next/navigation";
-import Map, {
+import MapComponent, {
   GeolocateControl,
   Layer,
   type LayerProps,
@@ -66,11 +66,11 @@ const initialViewState = {
 };
 
 const statusFillColors: Record<SiteNPLStatus, string> = {
-  proposed: "#f59e0b",
+  proposed: "#fe9a00",
   listed: "#ff4921",
-  cleaning: "#c026d3",
-  cleaned: "#0ea5e9",
-  completed: "#14b8a6",
+  cleaning: "#e12afb",
+  cleaned: "#00a6f4",
+  completed: "#00bba7",
 };
 
 const siteLayerId = "site-points";
@@ -162,7 +162,7 @@ export default function Layout({ children }: PropsWithChildren<object>) {
     <div className="w-full h-full" ref={rootRef}>
       <MapProvider>
         <style>{`.mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }`}</style>
-        <Map
+        <MapComponent
           ref={mapRef}
           initialViewState={initialViewState}
           mapStyle="mapbox://styles/mapbox/satellite-streets-v12"
@@ -187,7 +187,7 @@ export default function Layout({ children }: PropsWithChildren<object>) {
           <Source id="sites" type="geojson" data={siteGeojson}>
             <Layer {...siteCircleLayer} />
           </Source>
-        </Map>
+        </MapComponent>
         <MainCard>{children}</MainCard>
       </MapProvider>
     </div>
