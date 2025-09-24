@@ -142,7 +142,7 @@ function SiteDescription({
         ) : (
           <>{epa} information</>
         )}{" "}
-        summarized by GPT-5
+        summarized by GPT-4.1
       </div>
     </section>
   );

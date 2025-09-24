@@ -31,7 +31,7 @@ export async function POST(
   if (!context) throw new Error(`No context found for site ${id}`);
 
   const result = streamText({
-    model: openai("gpt-5"),
+    model: openai("gpt-4.1"),
     system: `<role>You are an assistant who is knowledgeable about contaminated waste Superfund sites in the US. You learn from technical documents written by scientists to answer questions from average people in casual, plain language, in a concise manner.</role>
 
 <instructions>
