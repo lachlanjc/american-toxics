@@ -1,11 +1,23 @@
 "use client";
+
+import dynamic from "next/dynamic";
+import { useState } from "react";
 import { Tab, TabList, TabPanel, Tabs } from "react-aria-components";
-import { Search } from "@/app/(map)/sites/search";
 import { SearchNearby } from "./search-nearby";
 
+const SearchPanel = dynamic(() =>
+  import("@/app/(map)/sites/search").then((mod) => ({ default: mod.Search })),
+);
+
 export default function SearchTabs() {
+  const [selectedKey, setSelectedKey] = useState<string>("nearby");
+
   return (
-    <Tabs className="w-full">
+    <Tabs
+      className="w-full"
+      selectedKey={selectedKey}
+      onSelectionChange={(key) => setSelectedKey(String(key))}
+    >
       <TabList className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl mb-4 font-sans font-medium text-neutral-700 text-base text-center">
         <Tab
           id="nearby"
@@ -34,7 +46,7 @@ export default function SearchTabs() {
       </TabPanel>
 
       <TabPanel id="search" className="">
-        <Search />
+        {selectedKey === "search" ? <SearchPanel /> : null}
       </TabPanel>
     </Tabs>
   );
