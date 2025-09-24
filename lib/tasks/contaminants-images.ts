@@ -1,5 +1,5 @@
-import { supabase } from "../supabaseClient";
 import PQueue from "p-queue";
+import { supabase } from "../supabaseClient";
 
 // Limit concurrency to avoid rate limits
 const queue = new PQueue({ concurrency: 2 });
@@ -29,10 +29,10 @@ async function fetchWikiImageInfo(url: string): Promise<{
       caption: json.description ?? null,
       alt: json.description ?? null,
     };
-  } catch (err: any) {
+  } catch (err) {
     console.error(
-      `Error fetching Wikipedia image for ${title}:`,
-      err.message || err,
+      `Error fetching Wikipedia image for ${url}:`,
+      err instanceof Error ? err.message : err,
     );
     return { url: null, width: null, height: null, caption: null, alt: null };
   }
@@ -43,6 +43,7 @@ type ContaminantImageRow = {
   id: string;
   name: string;
   images: string[] | null;
+  wikipediaUrl: string | null;
 };
 
 /**
@@ -54,9 +55,12 @@ async function processContaminantImages(
 ): Promise<void> {
   console.log(`Processing images for ${row.id} (${row.name})`);
   try {
+    if (!row.wikipediaUrl) {
+      return;
+    }
     // Fetch image metadata from Wikipedia
     const info = await fetchWikiImageInfo(row.wikipediaUrl);
-    if (!info.url) {
+    if (!info?.url) {
       console.log(`No Wikipedia image found for ${row.name}`);
       return;
     }

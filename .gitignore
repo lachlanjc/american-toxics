@@ -47,3 +47,4 @@ lib/data/timeline.md
 lib/data/timeline-listed.md
 lib/data/timeline-pa.md
 lib/data/timeline2.md
+.env*.local

@@ -1,5 +1,5 @@
 {
-  "name": "superfund",
+  "name": "american-toxics",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,6 +15,7 @@
     "@ai-sdk/react": "^1.2.11",
     "@supabase/supabase-js": "^2.49.4",
     "@tailwindcss/typography": "^0.5.16",
+    "@types/bun": "^1.2.22",
     "@vercel/analytics": "^1.5.0",
     "ai": "^4.3.13",
     "clsx": "^2.1.1",
@@ -29,7 +30,7 @@
     "react-aria-components": "^1.8.0",
     "react-dom": "^19.1.0",
     "react-map-gl": "^8.0.4",
-    "react-markdown": "^8.0.7",
+    "react-markdown": "^9.0.3",
     "react-string-replace": "^1.1.1",
     "react-webcam": "^7.2.0",
     "supabase": "^2.22.6",

@@ -1,7 +1,8 @@
-import { supabase } from "../supabaseClient";
-import { generateText } from "ai";
 import { openai } from "@ai-sdk/openai";
+import { generateText } from "ai";
 import PQueue from "p-queue";
+import { supabase } from "../supabaseClient";
+
 // Getting weird issue using import: https://gitlab.com/autokent/pdf-parse/-/issues/24#note_1333963300
 const pdfParse = require("pdf-parse");
 
@@ -11,12 +12,13 @@ type ContaminantRow = {
   name: string;
   summary: string | null;
   wikipediaUrl: string | null;
+  epaPdfUrl: string | null;
 };
 
 // Limit concurrent processing to avoid overwhelming APIs
 const queue = new PQueue({ concurrency: 2 });
 
-let usage = {
+const usage = {
   input: 0,
   output: 0,
 };
@@ -105,6 +107,10 @@ async function processContaminant(row: ContaminantRow): Promise<void> {
     let context = wiki.pageText || "";
     if (!context) {
       console.error(`No Wikipedia page found for ${row.name}`);
+      return;
+    }
+    if (!row.epaPdfUrl) {
+      console.error(`No EPA PDF URL found for ${row.name}`);
       return;
     }
     // let epaPdfUrl = `https://www.epa.gov/sites/default/files/2016-09/documents/${row.id}.pdf`;
