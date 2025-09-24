@@ -35,7 +35,7 @@
     "react-webcam": "^7.2.0",
     "supabase": "^2.45.5",
     "use-clipboard-copy": "^0.2.0",
-    "vaul": "^1.1.2"
+    "vaul": "https://kv.skirsten.dev/vaul-1.1.2.tgz"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",

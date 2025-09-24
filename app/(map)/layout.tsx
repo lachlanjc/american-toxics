@@ -1,16 +1,26 @@
 "use client";
 
-import { type PropsWithChildren, useEffect, useMemo, useRef } from "react";
+import {
+  type PropsWithChildren,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
+import type { FeatureCollection, Point } from "geojson";
 import { useParams, useRouter } from "next/navigation";
 import Map, {
   GeolocateControl,
+  Layer,
+  type LayerProps,
+  type MapMouseEvent,
   MapProvider,
   type MapRef,
-  Marker,
   NavigationControl,
+  Source,
 } from "react-map-gl/mapbox";
 import type { SiteNPLStatus } from "@/lib/data/site";
 import SITES from "@/lib/data/sites-mini.json" with { type: "json" };
@@ -55,12 +65,33 @@ const initialViewState = {
   pitch: 20,
 };
 
-const statuses: Record<SiteNPLStatus, string> = {
-  proposed: "fill-amber-500",
-  listed: "fill-primary",
-  cleaning: "fill-fuchsia-500",
-  cleaned: "fill-sky-500",
-  completed: "fill-teal-500 opacity-70",
+const statusFillColors: Record<SiteNPLStatus, string> = {
+  proposed: "#f59e0b",
+  listed: "#ff4921",
+  cleaning: "#c026d3",
+  cleaned: "#0ea5e9",
+  completed: "#14b8a6",
+};
+
+const siteLayerId = "site-points";
+
+const siteCircleLayer: LayerProps = {
+  id: siteLayerId,
+  type: "circle",
+  source: "sites",
+  paint: {
+    "circle-color": ["get", "color"],
+    "circle-opacity": ["case", ["get", "dimmed"], 0.2, 0.9],
+    "circle-radius": [
+      "interpolate",
+      ["linear"],
+      ["zoom"],
+      3,
+      ["case", ["get", "selected"], 7.5, 4.5],
+      10,
+      ["case", ["get", "selected"], 18, 11],
+    ],
+  },
 };
 
 export default function Layout({ children }: PropsWithChildren<object>) {
@@ -70,43 +101,63 @@ export default function Layout({ children }: PropsWithChildren<object>) {
 
   const mapRef = useRef<MapRef | null>(null);
   const rootRef = useRef<HTMLDivElement | null>(null);
+  const [cursor, setCursor] = useState<string | undefined>(undefined);
   useEffect(() => {
     // @ts-expect-error global
     window.mapRef = mapRef;
   }, []);
 
-  const markers = useMemo(() => {
-    return SITES.map((marker) => (
-      <Marker
-        anchor="bottom"
-        longitude={marker.lng}
-        latitude={marker.lat}
-        onClick={() => {
-          router.push(`/sites/${marker.id}`);
-        }}
-        key={marker.id}
-        className={`relative ${nplStatus && nplStatus !== marker.npl ? "relative -z-1" : ""}`}
-      >
-        <svg
-          className={clsx(
-            "pin",
-            "transition-transform duration-500 origin-bottom",
-            siteId && siteId === marker.id ? "scale-200 !opacity-100" : null,
-            statuses[marker.npl as SiteNPLStatus],
-          )}
-          width={24}
-          height={24}
-          viewBox="0 0 24 24"
-        >
-          {/* <title>{marker.name}</title> */}
-          <path
-            d={`M20.2,15.7L20.2,15.7c1.1-1.6,1.8-3.6,1.8-5.7c0-5.6-4.5-10-10-10S2,4.5,2,10c0,2,0.6,3.9,1.6,5.4c0,0.1,0.1,0.2,0.2,0.3 c0,0,0.1,0.1,0.1,0.2c0.2,0.3,0.4,0.6,0.7,0.9c2.6,3.1,7.4,7.6,7.4,7.6s4.8-4.5,7.4-7.5c0.2-0.3,0.5-0.6,0.7-0.9 C20.1,15.8,20.2,15.8,20.2,15.7z`}
-          />
-        </svg>
-      </Marker>
-    ));
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [nplStatus, siteId]);
+  const activeSiteId = useMemo(() => {
+    if (Array.isArray(siteId)) {
+      return siteId[0];
+    }
+    return siteId ?? null;
+  }, [siteId]);
+
+  const activeNplStatus = useMemo(() => {
+    if (Array.isArray(nplStatus)) {
+      return nplStatus[0] as SiteNPLStatus;
+    }
+    return (nplStatus as SiteNPLStatus | undefined) ?? undefined;
+  }, [nplStatus]);
+
+  const siteGeojson = useMemo<
+    FeatureCollection<Point, Record<string, unknown>>
+  >(() => {
+    return {
+      type: "FeatureCollection",
+      features: SITES.map((marker) => ({
+        type: "Feature",
+        id: marker.id,
+        geometry: {
+          type: "Point",
+          coordinates: [marker.lng, marker.lat],
+        },
+        properties: {
+          id: marker.id,
+          // npl: marker.npl,
+          color:
+            statusFillColors[marker.npl as SiteNPLStatus] ??
+            statusFillColors.listed,
+          dimmed: Boolean(activeNplStatus && activeNplStatus !== marker.npl),
+          selected: Boolean(activeSiteId && activeSiteId === marker.id),
+        },
+      })),
+    } satisfies FeatureCollection<Point, Record<string, unknown>>;
+  }, [activeNplStatus, activeSiteId]);
+
+  const handleMapClick = (event: MapMouseEvent) => {
+    const feature = event.features?.[0];
+    const featureId = feature?.properties?.id;
+    if (featureId && typeof featureId === "string") {
+      router.push(`/sites/${featureId}`);
+    }
+  };
+
+  const handleMouseMove = (event: MapMouseEvent) => {
+    const feature = event.features?.[0];
+    setCursor(feature ? "pointer" : undefined);
+  };
 
   return (
     <div className="w-full h-full" ref={rootRef}>
@@ -123,6 +174,10 @@ export default function Layout({ children }: PropsWithChildren<object>) {
             position: "absolute",
             inset: 0,
           }}
+          interactiveLayerIds={[siteLayerId]}
+          onClick={handleMapClick}
+          onMouseMove={handleMouseMove}
+          cursor={cursor}
         >
           <GeolocateControl />
           <NavigationControl
@@ -130,7 +185,9 @@ export default function Layout({ children }: PropsWithChildren<object>) {
             showCompass={false}
             visualizePitch={false}
           />
-          {markers}
+          <Source id="sites" type="geojson" data={siteGeojson}>
+            <Layer {...siteCircleLayer} />
+          </Source>
         </Map>
         <MainCard>{children}</MainCard>
       </MapProvider>

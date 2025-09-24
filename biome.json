@@ -16,7 +16,8 @@
   "linter": {
     "rules": {
       "correctness": {
-        "useJsonImportAttributes": "error"
+        "useJsonImportAttributes": "error",
+        "useUniqueElementIds": "off"
       }
     }
   }
