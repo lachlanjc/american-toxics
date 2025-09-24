@@ -1,15 +1,15 @@
-import React from "react";
-import { supabase } from "@/lib/supabaseClient";
-import { MapZoom } from "../../zoom";
-import { SiteList } from "../../sites/list";
-import { HeaderRoot, HeaderTitle, HeaderSubtitle } from "@/lib/ui/header";
 import { Link } from "next-view-transitions";
+import React from "react";
+import type { SupabaseSite } from "@/lib/data/site";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
-import { Database } from "@/supabase/types";
-import { ShareButton } from "./share";
 import SvgTrophy from "@/lib/icons/Trophy";
-import { SupabaseSite } from "@/lib/data/site";
+import { supabase } from "@/lib/supabaseClient";
+import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
+import type { Database } from "@/supabase/types";
 import { MiniSite } from "../../sites/[site]/mini";
+import { SiteList } from "../../sites/list";
+import { MapZoom } from "../../zoom";
+import { ShareButton } from "./share";
 
 type SupabaseScore = Database["public"]["Tables"]["scores"]["Row"];
 type PartialSite = Pick<

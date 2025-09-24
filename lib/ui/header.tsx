@@ -1,12 +1,12 @@
 "use client";
 
-import { LinkProps } from "next/link";
+import type { LinkProps } from "next/link";
 import { Link } from "next-view-transitions";
-import { Drawer } from "vaul";
-import { Title } from "./typography";
 // import { usePathname } from "next/navigation";
-import { ComponentProps, ReactNode } from "react";
+import type { ComponentProps, ReactNode } from "react";
+import { Drawer } from "vaul";
 import SvgChevronRight from "../icons/ChevronRight";
+import { Title } from "./typography";
 
 export const Header = {
   Root: HeaderRoot,

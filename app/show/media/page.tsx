@@ -1,8 +1,8 @@
+import clsx from "clsx";
 import {
   contaminantCategories,
   contaminantContexts,
 } from "@/lib/data/contaminants";
-import clsx from "clsx";
 
 export const metadata = { title: "Contexts" };
 

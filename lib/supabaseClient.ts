@@ -1,6 +1,7 @@
 // lib/supabaseClient.ts
-import { createClient } from "@supabase/supabase-js";
+
 import type { SupabaseClient } from "@supabase/supabase-js";
+import { createClient } from "@supabase/supabase-js";
 
 // Ensure these env vars are set in your .env (or runtime environment)
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;

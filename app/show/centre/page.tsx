@@ -1,19 +1,17 @@
 "use client";
+import clsx from "clsx";
+import Image, { type ImageProps } from "next/image";
+import Link from "next/link";
+import { Heading, Tab, TabList, TabPanel, Tabs } from "react-aria-components";
+import Webcam from "react-webcam";
 import {
   contaminantCategories,
   contaminantContexts,
 } from "@/lib/data/contaminants";
-import { IconComponent } from "@/lib/util/types";
-import clsx from "clsx";
-import Link from "next/link";
-import { Heading, Tab, TabList, TabPanel, Tabs } from "react-aria-components";
-import Webcam from "react-webcam";
-
-import Image, { ImageProps } from "next/image";
 import imgCreek from "@/public/show/centre/creek.jpg";
-import imgPreschool from "@/public/show/centre/preschool.jpg";
+// import imgKepone from "@/public/show/centre/kepone.jpg";
+// import imgPreschool from "@/public/show/centre/preschool.jpg";
 import imgSheetz from "@/public/show/centre/sheetz.jpg";
-import imgKepone from "@/public/show/centre/kepone.jpg";
 
 interface ItemProps {
   color?: string;
@@ -86,7 +84,7 @@ function LandmarkTab({ i, color, id, name }: ItemProps & { i: number }) {
 }
 
 function LandmarkTabPanel({
-  color,
+  // color,
   id,
   name,
   desc,
@@ -142,7 +140,7 @@ function Landmarks() {
           <LandmarkTab key={item.id} i={i + 1} {...item} />
         ))}
       </TabList>
-      {landmarks.map((item, i) => (
+      {landmarks.map((item) => (
         <LandmarkTabPanel key={item.id} {...item} />
       ))}
     </Tabs>

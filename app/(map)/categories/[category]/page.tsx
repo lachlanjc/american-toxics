@@ -1,18 +1,18 @@
-import STATES from "@/lib/data/states.json" assert { type: "json" };
-import {
-  HeaderRoot,
-  HeaderBreadcrumb,
-  HeaderTitle,
-  HeaderSubtitle,
-} from "@/lib/ui/header";
+import clsx from "clsx";
+import { notFound } from "next/navigation";
 // import { MapZoom } from "../../zoom";
 import { SearchableSections } from "@/app/(map)/sites/search-sections";
-import { notFound } from "next/navigation";
-import { Count } from "@/lib/ui/count";
 import { categories } from "@/lib/data/site-categories";
+import STATES from "@/lib/data/states.json" with { type: "json" };
 import { supabase } from "@/lib/supabaseClient";
-import clsx from "clsx";
-import { SiteListSite } from "../../sites/list";
+import { Count } from "@/lib/ui/count";
+import {
+  HeaderBreadcrumb,
+  HeaderRoot,
+  HeaderSubtitle,
+  HeaderTitle,
+} from "@/lib/ui/header";
+import type { SiteListSite } from "../../sites/list";
 
 export async function generateStaticParams() {
   return Object.keys(categories)

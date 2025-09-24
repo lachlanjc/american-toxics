@@ -1,19 +1,19 @@
 "use client";
 
-import { PropsWithChildren, useEffect, useMemo, useRef } from "react";
+import { type PropsWithChildren, useEffect, useMemo, useRef } from "react";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
-import SITES from "@/lib/data/sites-mini.json" assert { type: "json" };
+import clsx from "clsx";
+import { useParams, useRouter } from "next/navigation";
 import Map, {
   GeolocateControl,
   MapProvider,
-  MapRef,
+  type MapRef,
   Marker,
   NavigationControl,
 } from "react-map-gl/mapbox";
-import { useParams, useRouter } from "next/navigation";
-import { SiteNPLStatus } from "@/lib/data/site";
-import clsx from "clsx";
+import type { SiteNPLStatus } from "@/lib/data/site";
+import SITES from "@/lib/data/sites-mini.json" with { type: "json" };
 
 function MainCard({
   title,

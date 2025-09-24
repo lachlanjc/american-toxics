@@ -1,0 +1,23 @@
+{
+	"formatter": {
+		"indentStyle": "space",
+		"lineWidth": 80
+	},
+	"javascript": {
+		"formatter": {
+			"lineWidth": 80
+		}
+	},
+	"json": {
+		"formatter": {
+			"enabled": false
+		}
+	},
+  "linter": {
+    "rules": {
+      "correctness": {
+        "useJsonImportAttributes": "error"
+      }
+    }
+  }
+}

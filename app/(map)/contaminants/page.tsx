@@ -1,15 +1,14 @@
-import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
-import { supabase } from "@/lib/supabaseClient";
-import { Link } from "next-view-transitions";
-import { processContaminants, ContaminantList } from "@/lib/util/contaminants";
 import clsx from "clsx";
-import { Count } from "@/lib/ui/count";
-import { HeadingL } from "@/lib/ui/typography";
+import { Link } from "next-view-transitions";
 import {
-  contaminantContexts,
   contaminantCategories,
+  contaminantContexts,
 } from "@/lib/data/contaminants";
 import SvgClose from "@/lib/icons/Close";
+import { supabase } from "@/lib/supabaseClient";
+import { Count } from "@/lib/ui/count";
+import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
+import { HeadingL } from "@/lib/ui/typography";
 
 export function metadata() {
   return {
@@ -39,23 +38,6 @@ export default async function ContaminantsPage() {
     console.error("Error fetching sites", siteError);
     throw new Error("Failed to load sites");
   }
-
-  // Flatten all contaminants arrays
-  const siteContaminants: ContaminantList =
-    siteRows?.flatMap((row) =>
-      Array.isArray(row.contaminants) ? row.contaminants : [],
-    ) ?? [];
-
-  // Group by media, dedupe and sort names
-  const contamsByContext = Object.entries(
-    Object.groupBy(siteContaminants, (c) => c.media),
-  )
-    .map(([media, list]) => ({
-      media,
-      processed: processContaminants(list || []),
-    }))
-    .filter(({ processed }) => processed.length > 0)
-    .sort((a, b) => b.processed.length - a.processed.length);
 
   // Stats: unique names, average contaminants per site
   const uniqueNamesCount = new Set(allContaminants.map((c) => c.name)).size;

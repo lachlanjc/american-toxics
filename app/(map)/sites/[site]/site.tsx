@@ -1,19 +1,19 @@
 "use client";
-import { useEffect, useRef } from "react";
 import { useChat } from "@ai-sdk/react";
-import { useFocusable } from "@/lib/util/use-focusable";
-import { hasPlainSiteImage, SupabaseSite } from "@/lib/data/site";
-import { Link } from "next-view-transitions";
-import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
+import type { UIMessage } from "@ai-sdk/ui-utils";
 import { Root as Portal } from "@radix-ui/react-portal";
-import reactStringReplace from "react-string-replace";
-import { UIMessage } from "@ai-sdk/ui-utils";
-import { OpenAIIcon } from "@/lib/ui/icons";
-import { CategoryChip } from "./category";
-import { formatAcres } from "@/lib/util/distance";
-import { Heading } from "@/lib/ui/typography";
-import { Database } from "@/supabase/types";
 import Image from "next/image";
+import { Link } from "next-view-transitions";
+import { useEffect, useRef } from "react";
+import reactStringReplace from "react-string-replace";
+import type { SupabaseSite } from "@/lib/data/site";
+import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
+import { OpenAIIcon } from "@/lib/ui/icons";
+import { Heading } from "@/lib/ui/typography";
+import { formatAcres } from "@/lib/util/distance";
+import { useFocusable } from "@/lib/util/use-focusable";
+import type { Database } from "@/supabase/types";
+import { CategoryChip } from "./category";
 
 const questions = [
   "How is cleanup progressing? Is it safe to be here?",

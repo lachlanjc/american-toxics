@@ -1,15 +1,18 @@
-import { WellRoot, WellTitle } from "@/lib/ui/well";
-import { Link } from "next-view-transitions";
-import SvgInfo from "@/lib/icons/Info";
-import { ContaminantList, processContaminants } from "@/lib/util/contaminants";
-import SvgChevronDown from "@/lib/icons/ChevronDown";
 import clsx from "clsx";
+import { Link } from "next-view-transitions";
 import {
-  contaminantContexts,
   type ContaminantContext,
   contaminantCategories,
+  contaminantContexts,
 } from "@/lib/data/contaminants";
+import SvgChevronDown from "@/lib/icons/ChevronDown";
+import SvgInfo from "@/lib/icons/Info";
 import { supabase } from "@/lib/supabaseClient";
+import { WellRoot, WellTitle } from "@/lib/ui/well";
+import {
+  type ContaminantList,
+  processContaminants,
+} from "@/lib/util/contaminants";
 
 function ContaminantContext({
   title,

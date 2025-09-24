@@ -1,8 +1,8 @@
-import { type Site } from "@/lib/data/site";
-import SITES from "@/lib/data/sites.json" assert { type: "json" };
+import { Glob } from "bun";
 import { Defuddle } from "defuddle/node";
 import { JSDOM } from "jsdom";
-import { Glob } from "bun";
+import type { Site } from "@/lib/data/site";
+import SITES from "@/lib/data/sites.json" with { type: "json" };
 
 async function fetchWithRetry(url: string, retries = 3): Promise<Response> {
   try {
@@ -29,7 +29,7 @@ function parseArticle(url: string): Promise<string> {
     if (content.startsWith("Oops!")) {
       return reject("URL invalid");
     }
-    const sections = content.replaceAll(/\---/g, "---").split("\n\n---");
+    const sections = content.replaceAll(/---/g, "---").split("\n\n---");
     // Remove TOC
     let body = sections.slice(1, sections.length).join("").trim();
     // Remove various lines
@@ -76,7 +76,7 @@ const scopedSites = issuesText
 // const scopedSites = SITES.filter((site) => site.id.startsWith("WA"));
 // sort((a, b) => a.id.localeCompare(b.id))
 
-let stats: {
+const stats: {
   total: number;
   empty: string[];
   success: string[];

@@ -1,4 +1,4 @@
-import { SupabaseSite } from "@/lib/data/site";
+import type { SupabaseSite } from "@/lib/data/site";
 import SvgMail from "@/lib/icons/Mail";
 import SvgPhoneCall from "@/lib/icons/PhoneCall";
 import { WellRoot, WellTitle } from "@/lib/ui/well";

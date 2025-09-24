@@ -1,11 +1,11 @@
 "use client";
 
-import { useFuse } from "@/lib/util/use-fuse";
-import { useFocusable } from "@/lib/util/use-focusable";
 import { SiteList } from "@/app/(map)/sites/list";
 import { searchOptions } from "@/app/(map)/sites/search";
+import type { SupabaseSite } from "@/lib/data/site";
 import { Heading } from "@/lib/ui/typography";
-import { SupabaseSite } from "@/lib/data/site";
+import { useFocusable } from "@/lib/util/use-focusable";
+import { useFuse } from "@/lib/util/use-fuse";
 
 interface Section {
   key: string;

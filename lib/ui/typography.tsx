@@ -1,5 +1,5 @@
-import { ComponentPropsWithoutRef } from "react";
 import clsx from "clsx";
+import type { ComponentPropsWithoutRef } from "react";
 
 export function Title(props: ComponentPropsWithoutRef<"h1">) {
   return (

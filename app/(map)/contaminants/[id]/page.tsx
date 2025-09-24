@@ -1,16 +1,16 @@
-import { notFound } from "next/navigation";
-import { supabase } from "@/lib/supabaseClient";
-import Image from "next/image";
-import { HeaderRoot, HeaderTitle, HeaderBreadcrumb } from "@/lib/ui/header";
 import clsx from "clsx";
-import { OpenAIIcon } from "@/lib/ui/icons";
-import { WellRoot, WellTitle } from "@/lib/ui/well";
-import { Database } from "@/supabase/types";
+import Image from "next/image";
+import { notFound } from "next/navigation";
 import {
+  type ContaminantContext,
   contaminantCategories,
-  ContaminantContext,
   contaminantContexts,
 } from "@/lib/data/contaminants";
+import { supabase } from "@/lib/supabaseClient";
+import { HeaderBreadcrumb, HeaderRoot, HeaderTitle } from "@/lib/ui/header";
+import { OpenAIIcon } from "@/lib/ui/icons";
+import { WellRoot, WellTitle } from "@/lib/ui/well";
+import type { Database } from "@/supabase/types";
 
 export async function generateMetadata({ params }: { params: { id: string } }) {
   const { id } = await params;

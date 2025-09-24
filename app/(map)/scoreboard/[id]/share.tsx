@@ -1,6 +1,6 @@
 "use client";
-import SvgShare from "@/lib/icons/Share";
 import { useClipboard } from "use-clipboard-copy";
+import SvgShare from "@/lib/icons/Share";
 
 export function ShareButton({ url }: { url: string }) {
   const clipboard = useClipboard();

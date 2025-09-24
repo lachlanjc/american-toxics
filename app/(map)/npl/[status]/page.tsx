@@ -1,16 +1,16 @@
-import STATES from "@/lib/data/states.json" assert { type: "json" };
-import { supabase } from "@/lib/supabaseClient";
-import {
-  HeaderRoot,
-  HeaderBreadcrumb,
-  HeaderTitle,
-  HeaderSubtitle,
-} from "@/lib/ui/header";
-// import { MapZoom } from "../../zoom";
-import { nplStatuses } from "@/lib/data/site";
 import { notFound } from "next/navigation";
 import { SearchableSections } from "@/app/(map)/sites/search-sections";
+// import { MapZoom } from "../../zoom";
+import { nplStatuses } from "@/lib/data/site";
+import STATES from "@/lib/data/states.json" with { type: "json" };
+import { supabase } from "@/lib/supabaseClient";
 import { Count } from "@/lib/ui/count";
+import {
+  HeaderBreadcrumb,
+  HeaderRoot,
+  HeaderSubtitle,
+  HeaderTitle,
+} from "@/lib/ui/header";
 
 export async function generateStaticParams() {
   return Object.keys(nplStatuses).map((status) => ({ status }));

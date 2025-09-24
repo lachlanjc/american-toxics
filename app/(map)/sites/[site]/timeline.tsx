@@ -1,4 +1,4 @@
-import { Site, nplStatuses } from "@/lib/data/site";
+import { nplStatuses, type Site } from "@/lib/data/site";
 import { WellRoot } from "@/lib/ui/well";
 
 function formatDate(dateString?: string) {

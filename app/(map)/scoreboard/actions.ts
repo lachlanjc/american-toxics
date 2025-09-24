@@ -1,9 +1,9 @@
 "use server";
-import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
+import { redirect } from "next/navigation";
 import sitesMini from "@/lib/data/sites-mini.json";
-import { haversineDistance } from "@/lib/util/distance";
 import { supabase } from "@/lib/supabaseClient";
+import { haversineDistance } from "@/lib/util/distance";
 
 export interface FormPayload {
   address: string;
@@ -14,7 +14,7 @@ export interface FormPayload {
   stateCode: string;
 }
 
-export async function handleSubmit(prevState: {}, formData: FormData) {
+export async function handleSubmit(prevState: object, formData: FormData) {
   const addressRaw = formData.get("address")?.toString();
   const lat = formData.get("lat") ? Number(formData.get("lat")) : undefined;
   const lng = formData.get("lng") ? Number(formData.get("lng")) : undefined;

@@ -8,7 +8,7 @@
  *     contaminants that appear in Superfund data, but it is *heuristic*.
  */
 export function prettifyChemicalName(raw: string): string {
-  // prettier-ignore
+  // biome-ignore format: remain
   const ABBREV = new Set([
     "DDT", "DDD", "DDE", "PCBs", "PCB", "PAH", "PAHs", "PFOA", "PFOS", "PFAS",
     "VOC", "VOCs", "SVOC", "SVOCs", "TCE", "PCE", "DNAPL",
@@ -21,7 +21,7 @@ export function prettifyChemicalName(raw: string): string {
   s = s.replace(/\b[A-Z]{2,5}s?\b/g, (m) => (ABBREV.has(m) ? `§${m}§` : m));
 
   // ⬤ 3. lower‑case spelled‑out Greek letters (ALPHA, BETA …)
-  // prettier-ignore
+  // biome-ignore format: remain
   const GREEK = [
     "ALPHA","BETA","GAMMA","DELTA","EPSILON","ZETA","ETA","THETA","IOTA",
     "KAPPA","LAMBDA","MU","NU","XI","OMICRON","PI","RHO","SIGMA","TAU",
@@ -33,7 +33,7 @@ export function prettifyChemicalName(raw: string): string {
   // ⬤ 4. lower‑case ring‑locant letters inside (), [], or {}
   //     examples: (K) → (k)   (1,2,3‑CD) → (1,2,3‑cd)
   s = s.replace(
-    /([\[(])([0-9,]*)([A-Z]{1,3})([\])])/g,
+    /([[(])([0-9,]*)([A-Z]{1,3})([\])])/g,
     (_, open, nums, letters, close) =>
       `${open}${nums}${letters.toLowerCase()}${close}`,
   );

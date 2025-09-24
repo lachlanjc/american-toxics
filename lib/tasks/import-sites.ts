@@ -2,7 +2,7 @@
 // Written by @openai/codex
 
 import { createClient } from "@supabase/supabase-js";
-import sites from "@/lib/data/sites.json" assert { type: "json" };
+import sites from "@/lib/data/sites.json" with { type: "json" };
 
 // Use server-side URL and service role key
 const supabaseUrl =

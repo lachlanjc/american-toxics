@@ -1,10 +1,10 @@
-import states from "@/lib/data/states.json" assert { type: "json" };
-import { HeaderRoot, HeaderBreadcrumb, HeaderTitle } from "@/lib/ui/header";
-import { MapZoom } from "../../zoom";
-import { Count } from "@/lib/ui/count";
-import { nplStatuses } from "@/lib/data/site";
-import { supabase } from "@/lib/supabaseClient";
 import { SearchableSections } from "@/app/(map)/sites/search-sections";
+import { nplStatuses } from "@/lib/data/site";
+import states from "@/lib/data/states.json" with { type: "json" };
+import { supabase } from "@/lib/supabaseClient";
+import { Count } from "@/lib/ui/count";
+import { HeaderBreadcrumb, HeaderRoot, HeaderTitle } from "@/lib/ui/header";
+import { MapZoom } from "../../zoom";
 
 export async function generateStaticParams() {
   return states.map(({ abbrev }) => ({ abbrev }));

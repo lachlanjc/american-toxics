@@ -1,14 +1,14 @@
+// import Image from "next/image";
 import { notFound } from "next/navigation";
-import { SiteCard } from "./site";
 import { allSites, findSiteById } from "@/lib/data/api";
-import { MapZoom } from "../../zoom";
-import { Nearby } from "./nearby";
 import { supabase } from "@/lib/supabaseClient";
-import Image from "next/image";
-import { SiteNPLStatusTimeline } from "./timeline";
-import { Contaminants } from "./contaminants";
+// import { Database } from "@/supabase/types";
+import { MapZoom } from "../../zoom";
 import { Contact } from "./contact";
-import { Database } from "@/supabase/types";
+import { Contaminants } from "./contaminants";
+import { Nearby } from "./nearby";
+import { SiteCard } from "./site";
+import { SiteNPLStatusTimeline } from "./timeline";
 
 export const generateStaticParams = async () => {
   return allSites.map(({ id }) => ({ site: id }));

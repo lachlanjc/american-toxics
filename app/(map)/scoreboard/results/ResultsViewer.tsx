@@ -1,16 +1,16 @@
 "use client";
-import { useEffect, useState } from "react";
-import { MapZoom } from "../../zoom";
-import { SupabaseSite } from "@/lib/data/site";
-import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
-import { Link } from "next-view-transitions";
-import { MiniSite } from "../../sites/[site]/mini";
-import { SiteNPLStatusIcon } from "../../sites/list";
-import { useSearchParams } from "next/navigation";
+import clsx from "clsx";
 // @ts-expect-error js package
 import { lockScrollbars } from "lock-scrollbars";
-import clsx from "clsx";
+import { useSearchParams } from "next/navigation";
+import { Link } from "next-view-transitions";
+import { useEffect, useState } from "react";
 import { ListBox, ListBoxItem } from "react-aria-components";
+import type { SupabaseSite } from "@/lib/data/site";
+import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
+import { MiniSite } from "../../sites/[site]/mini";
+import { SiteNPLStatusIcon } from "../../sites/list";
+import { MapZoom } from "../../zoom";
 
 // Reuse the type for items
 export type ResultItem = {

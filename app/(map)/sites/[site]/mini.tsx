@@ -1,6 +1,6 @@
-import { SupabaseSite } from "@/lib/data/site";
-import { WellRoot, WellTitle } from "@/lib/ui/well";
 import { Link } from "next-view-transitions";
+import type { SupabaseSite } from "@/lib/data/site";
+import { WellRoot, WellTitle } from "@/lib/ui/well";
 import { CategoryChip } from "./category";
 import { StatusChip } from "./status";
 

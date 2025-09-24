@@ -1,10 +1,10 @@
-import { supabase } from "@/lib/supabaseClient";
+import clsx from "clsx";
 import { slug } from "github-slugger";
 import {
-  contaminantContexts,
   contaminantCategories,
+  contaminantContexts,
 } from "@/lib/data/contaminants";
-import clsx from "clsx";
+import { supabase } from "@/lib/supabaseClient";
 
 export const metadata = { title: "Dictionary" };
 

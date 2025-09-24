@@ -1,7 +1,7 @@
-import { nplStatuses } from "@/lib/data/site";
-import { categories } from "@/lib/data/site-categories";
 // import clsx from "clsx";
 import { Link } from "next-view-transitions";
+import { nplStatuses } from "@/lib/data/site";
+import type { categories } from "@/lib/data/site-categories";
 import { SiteNPLStatusIcon } from "../list";
 
 export function StatusChip({

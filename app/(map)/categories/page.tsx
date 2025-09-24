@@ -1,8 +1,8 @@
-import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { Link } from "next-view-transitions";
-import { Count } from "@/lib/ui/count";
 import { categories } from "@/lib/data/site-categories";
 import { supabase } from "@/lib/supabaseClient";
+import { Count } from "@/lib/ui/count";
+import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 
 export function metadata() {
   return {

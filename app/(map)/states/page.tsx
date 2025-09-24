@@ -1,8 +1,8 @@
-import STATES from "@/lib/data/states.json" assert { type: "json" };
+import { Link } from "next-view-transitions";
+import STATES from "@/lib/data/states.json" with { type: "json" };
+import * as States from "@/lib/icons/states";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { Heading } from "@/lib/ui/typography";
-import { Link } from "next-view-transitions";
-import * as States from "@/lib/icons/states";
 
 const nonStates = ["DC", "PR", "VI", "GU", "MP", "AS", "UM"];
 

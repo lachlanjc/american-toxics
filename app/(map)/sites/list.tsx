@@ -1,7 +1,11 @@
-import { nplStatuses, SiteNPLStatus, SupabaseSite } from "@/lib/data/site";
-import { categories } from "@/lib/data/site-categories";
 import clsx from "clsx";
 import { Link } from "next-view-transitions";
+import {
+  nplStatuses,
+  type SiteNPLStatus,
+  type SupabaseSite,
+} from "@/lib/data/site";
+import { categories } from "@/lib/data/site-categories";
 
 export type SiteListSite = Pick<
   SupabaseSite,

@@ -1,6 +1,6 @@
 "use client";
 // Via https://buildui.com/recipes/highlight
-import { ComponentPropsWithoutRef, useEffect, useState } from "react";
+import { type ComponentPropsWithoutRef, useEffect, useState } from "react";
 
 type HighlightProps = ComponentPropsWithoutRef<"div"> & {
   trigger: unknown;

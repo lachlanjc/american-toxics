@@ -1,10 +1,10 @@
-import SITES from "./sites.json" assert { type: "json" };
-import { Site } from "./site";
-import { haversineDistance } from "../util/distance";
+import type { SiteListSite } from "@/app/(map)/sites/list";
 import { supabase } from "@/lib/supabaseClient";
-import { SiteListSite } from "@/app/(map)/sites/list";
-export type { Site } from "./site";
-export type { SupabaseSite } from "./site";
+import { haversineDistance } from "../util/distance";
+import type { Site } from "./site";
+import SITES from "./sites.json" with { type: "json" };
+
+export type { Site, SupabaseSite } from "./site";
 
 export const allSites = SITES as Array<Site>;
 

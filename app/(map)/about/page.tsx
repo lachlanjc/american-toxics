@@ -1,7 +1,7 @@
+import { Link } from "next-view-transitions";
+import { supabase } from "@/lib/supabaseClient";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { Heading } from "@/lib/ui/typography";
-import { supabase } from "@/lib/supabaseClient";
-import { Link } from "next-view-transitions";
 
 export default async function About() {
   // Fetch total number of Superfund sites
@@ -18,9 +18,9 @@ export default async function About() {
   if (acresError) {
     console.error("Error fetching site acreage", acresError);
   }
-  const totalAcreage = 11_486_864.17;
+  // const totalAcreage = 11_486_864.17;
   const totalSqMiles = 17_948;
-  const avgAcres = Math.round(totalAcreage / (sitesWithAcres?.length ?? 1));
+  // const avgAcres = Math.round(totalAcreage / (sitesWithAcres?.length ?? 1));
   const avgSqMiles = Math.round(totalSqMiles / (sitesWithAcres?.length ?? 1));
 
   return [

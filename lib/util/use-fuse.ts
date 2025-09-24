@@ -1,5 +1,5 @@
+import Fuse, { type IFuseOptions } from "fuse.js";
 import { useState, useTransition } from "react";
-import Fuse, { IFuseOptions } from "fuse.js";
 
 export function useFuse<T>({
   data,

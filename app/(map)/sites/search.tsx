@@ -1,7 +1,7 @@
 "use client";
-import { useFuse } from "@/lib/util/use-fuse";
-import { useFocusable } from "@/lib/util/use-focusable";
 import { allSites } from "@/lib/data/api";
+import { useFocusable } from "@/lib/util/use-focusable";
+import { useFuse } from "@/lib/util/use-fuse";
 import { SiteList } from "./list";
 
 export const searchOptions = {

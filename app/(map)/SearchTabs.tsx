@@ -1,5 +1,5 @@
 "use client";
-import { Tabs, TabList, Tab, TabPanel } from "react-aria-components";
+import { Tab, TabList, TabPanel, Tabs } from "react-aria-components";
 import { Search } from "@/app/(map)/sites/search";
 import { SearchNearby } from "./search-nearby";
 

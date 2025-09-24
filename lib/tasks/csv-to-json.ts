@@ -1,6 +1,6 @@
 import csv from "csvtojson";
-import states from "@/lib/data/states-raw.json" assert { type: "json" };
 import { nplStatuses } from "@/lib/data/site";
+import states from "@/lib/data/states-raw.json" with { type: "json" };
 
 // Convert MM/DD/YYYY string to ISO (YYYY-MM-DD)
 function toISO(dateStr: string): string {

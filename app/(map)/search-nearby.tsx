@@ -1,5 +1,5 @@
 "use client";
-import { useState, useRef, useActionState } from "react";
+import { useActionState, useRef, useState } from "react";
 import { handleSubmit } from "@/app/(map)/scoreboard/actions";
 import { MapZoom } from "./zoom";
 
@@ -39,8 +39,7 @@ export function SearchNearby() {
   const [query, setQuery] = useState("");
   const [pin, setPin] = useState<Pin>({ coords: [0, 0], place: ["", "", ""] });
   const [results, setResults] = useState<Array<MapboxFeature>>([]);
-  // @ts-ignore handleSubmit type
-  const [state, formAction, pending] = useActionState(handleSubmit, {});
+  const [, formAction, pending] = useActionState(handleSubmit, {});
   const inputRef = useRef<HTMLInputElement>(null);
 
   const handleSelect = (feature: MapboxFeature) => {

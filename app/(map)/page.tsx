@@ -1,16 +1,16 @@
+import { Link } from "next-view-transitions";
 import { nplStatuses } from "@/lib/data/site";
 import { categories } from "@/lib/data/site-categories";
+import SvgInfo from "@/lib/icons/Info";
+import SvgSludge from "@/lib/icons/Sludge";
+import CA from "@/lib/icons/states/CA";
+import NJ from "@/lib/icons/states/NJ";
+import NY from "@/lib/icons/states/NY";
+import PA from "@/lib/icons/states/PA";
+import SvgTarget from "@/lib/icons/Target";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { GitHubIcon } from "@/lib/ui/icons";
-import { Link } from "next-view-transitions";
 import SearchTabs from "./SearchTabs";
-import NJ from "@/lib/icons/states/NJ";
-import PA from "@/lib/icons/states/PA";
-import NY from "@/lib/icons/states/NY";
-import CA from "@/lib/icons/states/CA";
-import SvgSludge from "@/lib/icons/Sludge";
-import SvgInfo from "@/lib/icons/Info";
-import SvgTarget from "@/lib/icons/Target";
 
 export default function Page() {
   return (

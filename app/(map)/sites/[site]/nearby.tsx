@@ -1,17 +1,17 @@
-import { getNearbySites, Site } from "@/lib/data/api";
-import { SiteList } from "../list";
-import { WellRoot, WellTitle } from "@/lib/ui/well";
-import SvgSchool from "@/lib/icons/School";
-import SvgLibrary from "@/lib/icons/Library";
-import SvgDoctor from "@/lib/icons/Doctor";
-import SvgTree from "@/lib/icons/Tree";
-import SvgChurch from "@/lib/icons/Church";
-import SvgWheelchair from "@/lib/icons/Wheelchair";
-import SvgGym from "@/lib/icons/Gym";
-import SvgPrison from "@/lib/icons/Prison";
+import { getNearbySites, type Site } from "@/lib/data/api";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
+import SvgChurch from "@/lib/icons/Church";
+import SvgDoctor from "@/lib/icons/Doctor";
+import SvgGym from "@/lib/icons/Gym";
+import SvgLibrary from "@/lib/icons/Library";
+import SvgPrison from "@/lib/icons/Prison";
+import SvgSchool from "@/lib/icons/School";
+import SvgTree from "@/lib/icons/Tree";
 import SvgWarning from "@/lib/icons/Warning";
-import { IconComponent } from "@/lib/util/types";
+import SvgWheelchair from "@/lib/icons/Wheelchair";
+import { WellRoot, WellTitle } from "@/lib/ui/well";
+import type { IconComponent } from "@/lib/util/types";
+import { SiteList } from "../list";
 
 function metersToMiles(meters: number) {
   const miles = meters * 0.000621371;
@@ -34,6 +34,7 @@ interface MapboxFeature {
   };
 }
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const categories = [
   "education",
   "church",

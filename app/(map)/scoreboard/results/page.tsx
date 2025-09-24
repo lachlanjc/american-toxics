@@ -1,6 +1,6 @@
-import type { Database } from "@/supabase/types";
 import { supabase } from "@/lib/supabaseClient";
-import ResultsViewer, { ResultItem } from "./ResultsViewer";
+import type { Database } from "@/supabase/types";
+import ResultsViewer, { type ResultItem } from "./ResultsViewer";
 
 export default async function ResultsPage() {
   // type ScoreRaw = Database["public"]["Tables"]["scores"]["Row"];
