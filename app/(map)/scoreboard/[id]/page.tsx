@@ -1,5 +1,4 @@
 import { Link } from "next-view-transitions";
-import React from "react";
 import type { SupabaseSite } from "@/lib/data/site";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
 import SvgTrophy from "@/lib/icons/Trophy";
@@ -16,6 +15,41 @@ type PartialSite = Pick<
   SupabaseSite,
   "id" | "name" | "city" | "stateCode" | "category" | "npl" | "lat" | "lng"
 >;
+
+const pluralize = (count: number) => `${count} site${count === 1 ? "" : "s"}`;
+
+type CollapsibleSiteListProps = {
+  title: string;
+  siteIds: string[];
+  siteMap: Map<string, PartialSite>;
+};
+
+function CollapsibleSiteList({
+  title,
+  siteIds,
+  siteMap,
+}: CollapsibleSiteListProps) {
+  const sites = siteIds
+    .map((sid: string) => siteMap.get(sid))
+    .filter(Boolean) as Array<PartialSite>;
+
+  return (
+    <details className="mt-6" open={sites.length <= 2}>
+      <summary className="flex gap-2 items-center cursor-pointer overflow-clip">
+        <div className="text-lg font-sans font-semibold">
+          {pluralize(siteIds.length)} {title}
+        </div>
+        <SvgChevronDown
+          width={20}
+          height={20}
+          className="-mr-1 ml-auto text-neutral-400 transition-transform in-open:rotate-180"
+          aria-hidden
+        />
+      </summary>
+      <SiteList sites={sites} />
+    </details>
+  );
+}
 
 export default async function ScorePage({
   params,
@@ -52,7 +86,6 @@ export default async function ScorePage({
   );
   const siteNearest = siteMap.get(siteNearestId);
 
-  const pluralize = (count: number) => `${count} site${count === 1 ? "" : "s"}`;
   const buckets = [
     { title: "within 2 miles", ids: sites1 },
     { title: "within 5 miles", ids: sites5 },
@@ -90,26 +123,12 @@ export default async function ScorePage({
       )}
       {siteNearest && <MiniSite site={siteNearest} />}
       {buckets.map(({ title, ids }) => (
-        <details key={title} className="mt-6">
-          <summary className="flex gap-2 items-center cursor-pointer overflow-clip">
-            <div className="text-lg font-sans font-semibold">
-              {pluralize(ids.length)} {title}
-            </div>
-            <SvgChevronDown
-              width={20}
-              height={20}
-              className="-mr-1 ml-auto text-neutral-400 transition-transform in-open:rotate-180"
-              aria-hidden
-            />
-          </summary>
-          <SiteList
-            sites={
-              ids
-                .map((sid: string) => siteMap.get(sid))
-                .filter(Boolean) as Array<PartialSite>
-            }
-          />
-        </details>
+        <CollapsibleSiteList
+          key={title}
+          title={title}
+          siteIds={ids}
+          siteMap={siteMap}
+        />
       ))}
 
       <div className="grid grid-cols-2 gap-4 mt-6">

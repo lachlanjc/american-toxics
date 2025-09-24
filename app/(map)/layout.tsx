@@ -135,7 +135,6 @@ export default function Layout({ children }: PropsWithChildren<object>) {
         },
         properties: {
           id: marker.id,
-          // npl: marker.npl,
           color:
             statusFillColors[marker.npl as SiteNPLStatus] ??
             statusFillColors.listed,
