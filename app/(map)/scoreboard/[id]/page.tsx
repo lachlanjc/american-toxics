@@ -10,6 +10,8 @@ import { SiteList } from "../../sites/list";
 import { MapZoom } from "../../zoom";
 import { ShareButton } from "./share";
 
+export const dynamic = "auto";
+
 type SupabaseScore = Database["public"]["Tables"]["scores"]["Row"];
 type PartialSite = Pick<
   SupabaseSite,

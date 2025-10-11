@@ -12,6 +12,8 @@ import { OpenAIIcon } from "@/lib/ui/icons";
 import { WellRoot, WellTitle } from "@/lib/ui/well";
 import type { Database } from "@/supabase/types";
 
+export const dynamic = "force-static";
+
 export async function generateMetadata({ params }: { params: { id: string } }) {
   const { id } = await params;
   const { data, error } = await supabase
