@@ -1,18 +1,18 @@
 {
-	"formatter": {
-		"indentStyle": "space",
-		"lineWidth": 80
-	},
-	"javascript": {
-		"formatter": {
-			"lineWidth": 80
-		}
-	},
-	"json": {
-		"formatter": {
-			"enabled": false
-		}
-	},
+  "formatter": {
+    "indentStyle": "space",
+    "lineWidth": 80
+  },
+  "javascript": {
+    "formatter": {
+      "lineWidth": 80
+    }
+  },
+  "json": {
+    "formatter": {
+      "enabled": false
+    }
+  },
   "linter": {
     "rules": {
       "correctness": {
@@ -20,5 +20,9 @@
         "useUniqueElementIds": "off"
       }
     }
-  }
+  },
+  "extends": [
+    "ultracite"
+  ],
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json"
 }
