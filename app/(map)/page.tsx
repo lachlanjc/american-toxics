@@ -10,7 +10,7 @@ import PA from "@/lib/icons/states/PA";
 import SvgTarget from "@/lib/icons/Target";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { GitHubIcon } from "@/lib/ui/icons";
-import SearchTabs from "./SearchTabs";
+import SearchTabs from "./search-tabs";
 
 export default function Page() {
   return (
