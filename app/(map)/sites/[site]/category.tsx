@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import type { SupabaseSite } from "@/lib/data/site";
 import { categories } from "@/lib/data/site-categories";
 

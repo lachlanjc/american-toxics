@@ -1,6 +1,6 @@
 import clsx from "clsx";
 import type { Metadata } from "next";
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import {
   contaminantCategories,
   contaminantContexts,

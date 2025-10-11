@@ -1,4 +1,4 @@
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import STATES from "@/lib/data/states.json" with { type: "json" };
 import * as States from "@/lib/icons/states";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";

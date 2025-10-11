@@ -3,7 +3,7 @@ import clsx from "clsx";
 // @ts-expect-error js package
 import { lockScrollbars } from "lock-scrollbars";
 import { useSearchParams } from "next/navigation";
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import { ListBox, ListBoxItem } from "react-aria-components";
 import type { SupabaseSite } from "@/lib/data/site";

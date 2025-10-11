@@ -1,4 +1,4 @@
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import type { SupabaseSite } from "@/lib/data/site";
 import SvgChevronDown from "@/lib/icons/ChevronDown";
 import SvgTrophy from "@/lib/icons/Trophy";

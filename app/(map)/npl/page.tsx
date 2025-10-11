@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import { allSites } from "@/lib/data/api";
 import { nplStatuses } from "@/lib/data/site";
 import { Count } from "@/lib/ui/count";

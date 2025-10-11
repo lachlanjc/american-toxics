@@ -1,7 +1,6 @@
 "use client";
 
-import type { LinkProps } from "next/link";
-import { Link } from "next-view-transitions";
+import Link, { type LinkProps } from "next/link";
 // import { usePathname } from "next/navigation";
 import type { ComponentProps, ReactNode } from "react";
 import { Drawer } from "vaul";

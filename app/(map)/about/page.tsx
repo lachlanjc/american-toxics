@@ -1,4 +1,4 @@
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import { supabase } from "@/lib/supabaseClient";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { Heading } from "@/lib/ui/typography";

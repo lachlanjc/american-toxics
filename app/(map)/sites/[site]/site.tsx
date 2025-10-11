@@ -3,7 +3,7 @@ import { useChat } from "@ai-sdk/react";
 import type { UIMessage } from "@ai-sdk/ui-utils";
 import { Root as Portal } from "@radix-ui/react-portal";
 import Image from "next/image";
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import { useEffect, useRef } from "react";
 import reactStringReplace from "react-string-replace";
 import type { SupabaseSite } from "@/lib/data/site";

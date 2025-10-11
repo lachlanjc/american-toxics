@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 import { categories } from "@/lib/data/site-categories";
 import { supabase } from "@/lib/supabaseClient";
 import { Count } from "@/lib/ui/count";

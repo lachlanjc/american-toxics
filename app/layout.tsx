@@ -2,7 +2,6 @@ import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Familjen_Grotesk, Martian_Mono } from "next/font/google";
 import "./globals.css";
-// import { ViewTransitions } from "next-view-transitions";
 
 const familjenGrotesk = Familjen_Grotesk({
   variable: "--font-familjen-grotesk",
@@ -31,7 +30,6 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    // <ViewTransitions>
     <html lang="en">
       <body
         className={`${familjenGrotesk.variable} ${martianMono.variable} antialiased`}
@@ -41,6 +39,5 @@ export default function RootLayout({
         <Analytics />
       </body>
     </html>
-    // </ViewTransitions>
   );
 }
