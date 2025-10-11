@@ -130,9 +130,9 @@ export default function MapLayoutClient({
           ["linear"],
           ["zoom"],
           3,
-          ["case", ["==", ["id"], selectedId], 7.5, 4.5],
+          ["case", ["==", ["get", "id"], selectedId], 7.5, 4.5],
           10,
-          ["case", ["==", ["id"], selectedId], 18, 11],
+          ["case", ["==", ["get", "id"], selectedId], 18, 11],
         ],
       },
     } satisfies LayerProps;
@@ -140,9 +140,9 @@ export default function MapLayoutClient({
 
   const handleMapClick = (event: MapMouseEvent) => {
     const feature = event.features?.[0];
-    const featureId = feature?.id;
-    if (featureId != null) {
-      router.push(`/sites/${String(featureId)}`);
+    const featureId = feature?.id ?? feature?.properties?.id;
+    if (typeof featureId === "string") {
+      router.push(`/sites/${featureId}`);
     }
   };
 

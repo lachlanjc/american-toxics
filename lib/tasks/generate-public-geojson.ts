@@ -9,6 +9,7 @@ import type { SiteNPLStatus } from "../data/site";
 import SITES from "../data/sites-mini.json" with { type: "json" };
 
 type SiteFeatureProperties = {
+  id: string;
   npl: SiteNPLStatus;
 };
 
@@ -24,6 +25,7 @@ const geojson: FeatureCollection<Point, SiteFeatureProperties> = {
       coordinates: [marker.lng, marker.lat],
     },
     properties: {
+      id: marker.id,
       npl: marker.npl as SiteNPLStatus,
     },
   })),
