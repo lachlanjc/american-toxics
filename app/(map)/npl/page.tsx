@@ -22,7 +22,7 @@ export default function Page() {
           waste sites in the U.S. Track&nbsp;sites by their status on the NPL.
         </HeaderSubtitle>
       </HeaderRoot>
-      <ul className="-mb-1 flex flex-col gap-8 text-neutral-500" >
+      <ul className="-mb-1 flex flex-col gap-8 text-neutral-500">
         {Object.keys(nplStatuses).map((key) => {
           const status = nplStatuses[key];
           const count = allSites.filter((site) => site.npl === key).length;
@@ -30,7 +30,6 @@ export default function Page() {
             <li
               className="group flex w-full items-center gap-6 py-2 md:max-w-md"
               key={key}
-
             >
               <Link className="contents" href={`/npl/${key}`}>
                 <span

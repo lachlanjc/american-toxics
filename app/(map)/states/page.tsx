@@ -9,11 +9,11 @@ const nonStates = ["DC", "PR", "VI", "GU", "MP", "AS", "UM"];
 function List({ states }: { states: typeof STATES }) {
   const maxSites = Math.max(...states.map((state) => state.count));
   return (
-    <ol className="-mt-2 -mb-1 -mx-2 text-neutral-500 last:mt-0" >
+    <ol className="-mt-2 -mb-1 -mx-2 text-neutral-500 last:mt-0">
       {states.map((state) => {
         const Outline = States[state.abbrev as keyof typeof States];
         return (
-          <li className="mb-1" key={state.abbrev} >
+          <li className="mb-1" key={state.abbrev}>
             <Link
               className="flex w-full items-center gap-3 rounded-md px-2 py-1 transition-opacity hover:opacity-60"
               href={`/states/${state.abbrev}`}

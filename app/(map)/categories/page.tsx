@@ -48,7 +48,6 @@ export default async function CategoriesPage() {
             <li
               className="group grid w-full grid-cols-[auto_1fr] items-center gap-x-3 gap-y-1 py-3 md:max-w-md"
               key={key}
-              role="listitem"
             >
               <Link className="contents" href={`/categories/${key}`}>
                 <Icon
