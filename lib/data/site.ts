@@ -51,11 +51,11 @@ export const nplStatuses: Record<
     color: "text-sky-500",
     desc: "Successfully cleaned up and in the final paperwork stage.",
   },
-  completed: {
-    label: "Completed",
+  verified: {
+    label: "Verified",
     field: "dateDeleted",
     color: "text-teal-500",
-    desc: "Cleanup is completely finished and the site can be reused.",
+    desc: "Cleanup is verified complete and the site can be reused.",
   },
 };
 

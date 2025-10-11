@@ -56,6 +56,10 @@ const { data: sites, error } = await supabase.from("sites").select("*");
 ### Updating sites list
 
 - Download [core CSV from EPA](https://hub.arcgis.com/datasets/EPA::superfund-national-priorities-list-npl-sites-with-status-information/about) to `lib/data/sites-raw.csv`
+  ```bash
+  curl -L "https://hub.arcgis.com/api/v3/datasets/c2b7cdff579c41bbba4898400aa38815_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1" \
+    -o lib/data/sites-raw.csv
+  ```
 - Download [GeoJSON from EPA](https://hub.arcgis.com/datasets/EPA::npl-superfund-site-boundaries-epa-public-2022/explore?location=40.741488%2C-74.341546%2C10.30) to `lib/data/sites.geojson` (gitignored because huge)
 - `bun run lib/tasks/csv-to-json.ts` to convert to JSON
 - `bun x @mrodrig/json-2-csv-cli lib/data/sites.json -o lib/data/sites-processed.csv` if you want to convert back to CSV
@@ -69,7 +73,5 @@ const { data: sites, error } = await supabase.from("sites").select("*");
 | Supabase database: URL           | `NEXT_PUBLIC_SUPABASE_URL`        |
 | Supabase: server-side operations | `SUPABASE_SERVICE_ROLE_KEY`       |
 | Mapbox for maps                  | `NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN` |
-| Serper for search results        | `SERPER_API_KEY`                  |
-| OpenCage for geocoding           | `OPENCAGE_API_KEY`                |
 
 MIT License

@@ -23,7 +23,7 @@ const statusFillColors: Record<SiteNPLStatus, string> = {
   listed: "#ff4921",
   cleaning: "#e12afb",
   cleaned: "#00a6f4",
-  completed: "#00bba7",
+  verified: "#00bba7",
 };
 
 function MainCard({
@@ -118,8 +118,8 @@ export default function MapLayoutClient({
       statusFillColors.cleaning,
       "cleaned",
       statusFillColors.cleaned,
-      "completed",
-      statusFillColors.completed,
+      "verified",
+      statusFillColors.verified,
       statusFillColors.listed,
     ] as const;
 
