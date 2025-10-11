@@ -1,5 +1,5 @@
-import { Site } from "../data/site";
 import { allSites } from "../data/api";
+import type { Site } from "../data/site";
 
 /* ------------------------------------------- */
 /* 1.  Bucket sites by listing year            */

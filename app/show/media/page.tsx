@@ -8,21 +8,21 @@ export const metadata = { title: "Contexts" };
 
 export default function Page() {
   return (
-    <main className="w-fit px-12 pt-8 mx-auto grid grid-cols-3 grid-rows-[auto_repeat(8,auto)] gap-x-16 gap-y-8">
+    <main className="mx-auto grid w-fit grid-cols-3 grid-rows-[auto_repeat(8,auto)] gap-x-16 gap-y-8 px-12 pt-8">
       {Object.entries(contaminantCategories).map(([key, category], i) => (
         <section
-          key={key}
           className={clsx(
             "grid grid-rows-subgrid",
             key === "other"
-              ? `col-start-3 row-start-5 row-end-8`
-              : `col-start-${i + 1} row-start-1 row-end-8`,
+              ? "col-start-3 row-start-5 row-end-8"
+              : `col-start-${i + 1} row-start-1 row-end-8`
           )}
+          key={key}
         >
-          <h1 className="text-black font-bold font-sans text-5xl tracking-tight mb-2 self-end">
+          <h1 className="mb-2 self-end font-bold font-sans text-5xl text-black tracking-tight">
             {category.name}
           </h1>
-          <ul className={clsx("contents")} role="list">
+          <ul className={clsx("contents")}>
             {category.contexts
               // .filter((key) => key !== "other")
               .map((ctxKey) => {
@@ -30,21 +30,21 @@ export default function Page() {
                 const Icon = context.icon;
                 return (
                   <li
+                    className="grid w-full grid-cols-[auto_1fr] items-start gap-x-3 md:max-w-md"
                     key={ctxKey}
-                    className="grid grid-cols-[auto_1fr] w-full gap-x-3 items-start md:max-w-md"
                   >
                     <Icon
-                      width={48}
-                      height={48}
-                      className={clsx(category.color, "-ml-1")}
                       aria-hidden
+                      className={clsx(category.color, "-ml-1")}
+                      height={48}
+                      width={48}
                     />
                     <div>
-                      <strong className="font-sans text-lg md:text-xl font-medium text-black">
+                      <strong className="font-medium font-sans text-black text-lg md:text-xl">
                         {context.name}
                       </strong>
                       {context.desc && (
-                        <p className="mt-1 text-pretty text-neutral-600 font-mono text-xs leading-relaxed">
+                        <p className="mt-1 text-pretty font-mono text-neutral-600 text-xs leading-relaxed">
                           {context.desc}
                         </p>
                       )}

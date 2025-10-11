@@ -21,13 +21,13 @@ export function SiteNPLStatusIcon({
 }) {
   return (
     <span
-      role="img"
       aria-label={status}
       className={clsx(
-        "inline-block w-2 h-2 rounded-full shrink-0 bg-current",
+        "inline-block h-2 w-2 shrink-0 rounded-full bg-current",
         nplStatuses[status].color,
-        className,
+        className
       )}
+      role="img"
     />
   );
 }
@@ -43,18 +43,18 @@ export function SiteList({
       {sites.map((result) => (
         <li key={result.id}>
           <Link
+            className="grid w-full grid-cols-[8px_1fr] items-center gap-x-2 gap-y-1.5 py-1 pl-1 text-left text-black transition-colors hover:text-neutral-600"
             href={`/sites/${result.id}`}
-            className="py-1 text-left transition-colors text-black hover:text-neutral-600 w-full grid grid-cols-[8px_1fr] pl-1 gap-x-2 gap-y-1.5 items-center"
             prefetch={false}
           >
             {result.npl ? <SiteNPLStatusIcon status={result.npl} /> : <span />}
             <strong
-              className="font-sans text-base font-normal leading-tight"
+              className="font-normal font-sans text-base leading-tight"
               style={{ viewTransitionName: result.id }}
             >
               {result.name}
             </strong>
-            <small className="text-neutral-600 font-mono block text-xs col-start-2">
+            <small className="col-start-2 block font-mono text-neutral-600 text-xs">
               {result.category ? (
                 <>
                   {categories[result.category as keyof typeof categories].name}{" "}

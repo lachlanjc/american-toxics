@@ -11,7 +11,7 @@ export function ShareButton({ url }: { url: string }) {
 
   return (
     <button
-      className="action-button cursor-pointer font-sans font-medium text-base py-1.5 gap-2 flex items-center justify-center"
+      className="action-button flex cursor-pointer items-center justify-center gap-2 py-1.5 font-medium font-sans text-base"
       onClick={() => {
         if (isShareAvailable) {
           navigator.share({ url: window.location.toString() || url });
@@ -19,8 +19,9 @@ export function ShareButton({ url }: { url: string }) {
           clipboard.copy(window.location.toString() || url);
         }
       }}
+      type="button"
     >
-      <SvgShare width={24} height={24} className="text-neutral-600" />
+      <SvgShare className="text-neutral-600" height={24} width={24} />
       {isShareAvailable ? "Share link" : "Copy link"}
     </button>
   );

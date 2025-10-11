@@ -14,7 +14,7 @@ import type { IconComponent } from "@/lib/util/types";
 import { SiteList } from "../list";
 
 function metersToMiles(meters: number) {
-  const miles = meters * 0.000621371;
+  const miles = meters * 0.000_621_371;
   return miles;
 }
 
@@ -134,8 +134,8 @@ export async function Nearby({
     (feat, index) =>
       index ===
       nearbyFeatures.findIndex(
-        (f) => f.properties.name === feat.properties.name,
-      ),
+        (f) => f.properties.name === feat.properties.name
+      )
   );
 
   // console.log(url, mapbox.features);
@@ -151,7 +151,7 @@ export async function Nearby({
   }> = Object.entries(highlightedCategories)
     .map(([category, { search, exclude }]) => {
       let categoryPOIs = nearbyFeatures.filter((feat) =>
-        feat.properties.poi_category_ids.includes(category),
+        feat.properties.poi_category_ids.includes(category)
       );
       // filter out excludes
       categoryPOIs = categoryPOIs.filter(
@@ -159,8 +159,8 @@ export async function Nearby({
           !exclude?.some(
             (term) =>
               feat.properties.name.toLowerCase().includes(term) ||
-              feat.properties.poi_category.includes(term),
-          ),
+              feat.properties.poi_category.includes(term)
+          )
       );
       if (categoryPOIs.length === 0) return null;
       const subcategories = search
@@ -171,7 +171,7 @@ export async function Nearby({
             (poi) =>
               poi.properties.name.toLowerCase().includes(term) ||
               poi.properties.poi_category.includes(term) ||
-              poi.properties.poi_category_ids.includes(term),
+              poi.properties.poi_category_ids.includes(term)
           ).length;
           return [count, label] as [number, string];
         })
@@ -198,8 +198,8 @@ export async function Nearby({
             ];
           return (
             <PlaceGroup
-              key={group.category}
               icon={category.icon}
+              key={group.category}
               title={
                 <>
                   <span className="font-sans text-base">
@@ -211,14 +211,14 @@ export async function Nearby({
                     </strong>
                   </span>
                   {group.subcategories.length > 0 && (
-                    <small className="font-mono text-xs text-neutral-600 ml-1">
+                    <small className="ml-1 font-mono text-neutral-600 text-xs">
                       (
                       {listFormatter.format(
                         group.subcategories.map(([count, name]) =>
                           count === 1
                             ? name
-                            : `${count} ${name.replace(/(t|r)(y|ie)/, "$1ie")}s`,
-                        ),
+                            : `${count} ${name.replace(/(t|r)(y|ie)/, "$1ie")}s`
+                        )
                       )}
                       )
                     </small>
@@ -244,7 +244,7 @@ export async function Nearby({
             </span>
           }
         >
-          <SiteList sites={nearbySites} className="ml-2" />
+          <SiteList className="ml-2" sites={nearbySites} />
         </PlaceGroup>
       )}
     </WellRoot>
@@ -262,19 +262,19 @@ function PlaceGroup({
   const Icon = icon;
   return (
     <details>
-      <summary className="flex gap-2 items-center leading-tight cursor-pointer">
+      <summary className="flex cursor-pointer items-center gap-2 leading-tight">
         <Icon
-          width={20}
-          height={20}
-          className="fill-neutral-400 shrink-0 self-start mt-0.5"
           aria-hidden
+          className="mt-0.5 shrink-0 self-start fill-neutral-400"
+          height={20}
+          width={20}
         />
         <div>{title}</div>
         <SvgChevronDown
-          width={20}
-          height={20}
-          className="-mr-1 ml-auto text-neutral-400 transition-transform in-open:rotate-180"
           aria-hidden
+          className="-mr-1 ml-auto in-open:rotate-180 text-neutral-400 transition-transform"
+          height={20}
+          width={20}
         />
       </summary>
       {children}
@@ -284,23 +284,16 @@ function PlaceGroup({
 
 function MapboxFeatureList({ features }: { features: Array<MapboxFeature> }) {
   return (
-    <ol
-      className="grid grid-cols-[1fr_auto] gap-x-2 gap-y-1 pl-7 items-baseline"
-      role="list"
-    >
+    <ol className="grid grid-cols-[1fr_auto] items-baseline gap-x-2 gap-y-1 pl-7">
       {features.map((feature) => {
         const dist = metersToMiles(feature.properties.distance);
         return (
-          <li
-            className="contents"
-            role="listitem"
-            key={feature.properties.mapbox_id}
-          >
-            <span className="w-full font-sans text-base truncate text-neutral-600">
+          <li className="contents" key={feature.properties.mapbox_id}>
+            <span className="w-full truncate font-sans text-base text-neutral-600">
               {feature.properties.name}
             </span>
             <small
-              className={`text-right text-xs align-top whitespace-pre ${dist < 0.15 ? "text-primary font-semibold" : "text-neutral-600"}`}
+              className={`whitespace-pre text-right align-top text-xs ${dist < 0.15 ? "font-semibold text-primary" : "text-neutral-600"}`}
             >
               {dist.toLocaleString("en-US", { maximumFractionDigits: 2 })} mi
             </small>

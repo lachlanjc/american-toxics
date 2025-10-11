@@ -1,6 +1,9 @@
 import Slugger from "github-slugger";
 import { supabase } from "@/lib/supabaseClient";
-import { ContaminantList, prettifyChemicalName } from "@/lib/util/contaminants";
+import {
+  type ContaminantList,
+  prettifyChemicalName,
+} from "@/lib/util/contaminants";
 
 /**
  * Script to calculate and update context (media types) and site counts
@@ -15,7 +18,7 @@ const { data: rows, error: fetchErr } = await supabase
 if (fetchErr) {
   console.error(
     "Error fetching site contaminants:",
-    fetchErr.message || fetchErr,
+    fetchErr.message || fetchErr
   );
   process.exit(1);
 }
@@ -23,7 +26,7 @@ if (fetchErr) {
 // Flatten to a list of contaminant entries
 const allContaminants: ContaminantList =
   rows?.flatMap((row) =>
-    Array.isArray(row.contaminants) ? row.contaminants : [],
+    Array.isArray(row.contaminants) ? row.contaminants : []
   ) ?? [];
 
 // Gather unique media types for reporting
@@ -81,7 +84,7 @@ await Promise.all(
     if (error) {
       console.error(`Error updating ${id}:`, error.message || error);
     }
-  }),
+  })
 );
 
 console.log("Successfully updated contaminant contexts and site counts.");

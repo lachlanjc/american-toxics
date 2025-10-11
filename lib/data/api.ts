@@ -32,7 +32,7 @@ export async function getNearbySites(site: Site): Promise<Array<SiteListSite>> {
       site.lat,
       site.lng,
       other.lat,
-      other.lng,
+      other.lng
     );
     return distance <= 2;
   });

@@ -10,7 +10,7 @@ export default async function ResultsPage() {
   const { data: scores, error } = await supabase
     .from("scores")
     .select(
-      "id, createdAt, addressCity, addressStateCode, siteNearest, siteNearestMiles, sites10",
+      "id, createdAt, addressCity, addressStateCode, siteNearest, siteNearestMiles, sites10"
     )
     .order("siteNearestMiles", { ascending: true })
     .limit(50);

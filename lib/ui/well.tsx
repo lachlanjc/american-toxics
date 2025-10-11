@@ -11,11 +11,11 @@ export const WellRoot = React.forwardRef<
   return (
     <section
       {...props}
-      ref={ref}
       className={clsx(
-        "border border-black/10 rounded-lg bg-black/2 px-4 py-3",
-        className,
+        "rounded-lg border border-black/10 bg-black/2 px-4 py-3",
+        className
       )}
+      ref={ref}
     >
       {children}
     </section>
@@ -32,11 +32,11 @@ export const WellTitle = React.forwardRef<
   return (
     <h2
       {...props}
-      ref={ref}
       className={clsx(
-        "text-xl font-bold font-sans leading-none tracking-tight",
-        className,
+        "font-bold font-sans text-xl leading-none tracking-tight",
+        className
       )}
+      ref={ref}
     >
       {children}
     </h2>
@@ -53,8 +53,8 @@ export const WellDivider = React.forwardRef<
   return (
     <hr
       {...props}
-      ref={ref}
       className={clsx("-mx-4 my-4 border-black/10", props.className)}
+      ref={ref}
     />
   );
 });

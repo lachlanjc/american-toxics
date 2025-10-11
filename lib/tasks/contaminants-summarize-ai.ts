@@ -66,10 +66,10 @@ async function summarizeContaminant(text: string): Promise<string> {
  * Fetch Wikipedia page URL and page text (extract) via REST summary API
  */
 async function fetchWikiPage(
-  title: string,
+  title: string
 ): Promise<{ pageUrl: string | null; pageText: string | null }> {
   const apiUrl = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(
-    title,
+    title
   )}`;
   try {
     const res = await fetch(apiUrl);
@@ -115,15 +115,13 @@ async function processContaminant(row: ContaminantRow): Promise<void> {
     }
     // let epaPdfUrl = `https://www.epa.gov/sites/default/files/2016-09/documents/${row.id}.pdf`;
     const pdfBuffer = await downloadPdf(row.epaPdfUrl);
-    if (!pdfBuffer) {
-      console.error(`Failed to download context PDF for ${row.id}`);
-    } else {
+    if (pdfBuffer) {
       const pdfText = await extractText(pdfBuffer);
       const [srcEpa, srcWiki] = [pdfText, wiki.pageText || ""].map((txt) =>
-        txt.split(" ").slice(0, 1250).join(" "),
+        txt.split(" ").slice(0, 1250).join(" ")
       );
       console.log(
-        `Using ${srcEpa.length} of ${pdfText.length} PDF, ${srcWiki.length} of ${wiki.pageText?.length} wiki`,
+        `Using ${srcEpa.length} of ${pdfText.length} PDF, ${srcWiki.length} of ${wiki.pageText?.length} wiki`
       );
       context = `<source_epa>
 ${srcEpa}
@@ -131,6 +129,8 @@ ${srcEpa}
 <source_wikipedia>
 ${srcWiki}
 </source_wikipedia>`;
+    } else {
+      console.error(`Failed to download context PDF for ${row.id}`);
     }
     const summary = await summarizeContaminant(context);
     // Prepare update payload for contaminant
@@ -166,7 +166,7 @@ if (error) {
   process.exit(1);
 }
 const rows: ContaminantRow[] = data || [];
-const toProcess = rows.filter((r) => !r.summary || !r.wikipediaUrl);
+const toProcess = rows.filter((r) => !(r.summary && r.wikipediaUrl));
 console.log(`Found ${toProcess.length} contaminants to summarize.`);
 for (const row of toProcess) {
   queue.add(() => processContaminant(row));

@@ -15,12 +15,12 @@ export default async function Page() {
     process.cwd(),
     "lib",
     "data",
-    Object.entries(files)[file][0],
+    Object.entries(files)[file][0]
   );
   const content = (await fs.readFile(filePath, "utf8")) || "";
   return (
-    <div className="prose font-mono prose-sm max-w-none px-12">
-      <h1 className="text-6xl font-sans text-balance uppercase text-center mt-16 py-16">
+    <div className="prose prose-sm max-w-none px-12 font-mono">
+      <h1 className="mt-16 text-balance py-16 text-center font-sans text-6xl uppercase">
         All Superfund Sites in Chronological Order
       </h1>
       <ReactMarkdown>{content}</ReactMarkdown>

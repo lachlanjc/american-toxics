@@ -26,7 +26,7 @@ export type ResultItem = {
 function relativeTime(dateStr: string): string {
   const diff = Date.now() - new Date(dateStr).getTime();
   const seconds = Math.floor(diff / 1000);
-  if (seconds < 60 * 3) return `just now`;
+  if (seconds < 60 * 3) return "just now";
   const minutes = Math.floor(seconds / 60);
   if (minutes < 60) return `${minutes} min${minutes === 1 ? "" : "s"} ago`;
   const hours = Math.floor(minutes / 60);
@@ -43,7 +43,7 @@ export default function ResultsViewer({
   const searchParams = useSearchParams();
   const newId = searchParams.get("id");
   const [selected, setSelected] = useState<ResultItem | null>(
-    initialResults[0],
+    initialResults[0]
   );
 
   useEffect(() => {
@@ -62,7 +62,7 @@ export default function ResultsViewer({
     }
   }, [newId, initialResults]);
   const furthestDistance = Math.max(
-    ...initialResults.map((r) => r.nearestMiles),
+    ...initialResults.map((r) => r.nearestMiles)
   );
   const { lat, lng } = selected?.nearestSite ?? {
     lat: 39.8283,
@@ -70,14 +70,14 @@ export default function ResultsViewer({
   };
 
   return (
-    <div className="flex flex-col max-h-full overflow-y-hidden overflow-x-visible -m-4 md:-m-6">
+    <div className="-m-4 md:-m-6 flex max-h-full flex-col overflow-y-hidden overflow-x-visible">
       {lat && lng && <MapZoom center={[lat, lng]} />}
       <div className="p-4 md:p-6">
         <HeaderRoot
           actions={
             <Link
+              className="action-button shrink-0 cursor-pointer px-3 py-1.5 font-medium font-sans text-base"
               href="/"
-              className="action-button cursor-pointer font-sans font-medium text-base py-1.5 px-3 shrink-0"
             >
               Find yours
             </Link>
@@ -87,36 +87,35 @@ export default function ResultsViewer({
         </HeaderRoot>
       </div>
       {selected?.nearestSite && (
-        <div className="scroll-mt-6 p-4 md:p-6 !pt-0 -mt-4">
+        <div className="!pt-0 -mt-4 scroll-mt-6 p-4 md:p-6">
           <MiniSite site={selected.nearestSite} />
         </div>
       )}
       <ListBox
-        selectionMode="single"
+        aria-label="Scoreboard results"
+        className="flex-auto snap-y snap-mandatory overflow-y-auto border-neutral-300 border-t"
         disallowEmptySelection
-        selectedKeys={selected ? new Set([selected.id]) : new Set()}
         onSelectionChange={(key) => {
           const id = typeof key === "string" ? key : Array.from(key)[0];
           const item = initialResults.find((r) => r.id === id);
           if (item) setSelected(item);
         }}
-        className="flex-auto overflow-y-auto snap-y snap-mandatory border-t border-neutral-300"
-        aria-label="Scoreboard results"
+        selectedKeys={selected ? new Set([selected.id]) : new Set()}
+        selectionMode="single"
       >
         {initialResults.map((item, i) => (
           <ListBoxItem
-            key={item.id}
-            id={item.id}
-            textValue={`${item.addressStateCode} ${item.nearestSite?.name}`}
             className={clsx(
-              "flex gap-6 items-center",
-              "py-4 pl-4 pr-6 md:pl-6",
-              "border-b last:border-b-0 border-neutral-300 -outline-offset-2",
-              "snap-start overflow-x-hidden cursor-pointer",
+              "flex items-center gap-6",
+              "py-4 pr-6 pl-4 md:pl-6",
+              "-outline-offset-2 border-neutral-300 border-b last:border-b-0",
+              "cursor-pointer snap-start overflow-x-hidden",
               item.id === newId
-                ? "bg-primary shine-effect"
-                : "hover:bg-white/30 data-[selected]:bg-white transition-colors",
+                ? "shine-effect bg-primary"
+                : "transition-colors hover:bg-white/30 data-[selected]:bg-white"
             )}
+            id={item.id}
+            key={item.id}
             style={{
               backgroundImage: `linear-gradient(${[
                 "to right",
@@ -126,34 +125,35 @@ export default function ResultsViewer({
                 "transparent 100%",
               ].join(", ")})`,
             }}
+            textValue={`${item.addressStateCode} ${item.nearestSite?.name}`}
           >
             <span
-              className="text-7xl text-neutral-900/20 font-sans leading-none tracking-[-8px] text-trim-both md:-ml-1"
               aria-hidden
+              className="md:-ml-1 font-sans text-7xl text-neutral-900/20 text-trim-both leading-none tracking-[-8px]"
             >
               {i + 1}
             </span>
-            <div className="flex-auto max-w-full">
-              <div className="text-3xl font-sans font-bold mb-2">
+            <div className="max-w-full flex-auto">
+              <div className="mb-2 font-bold font-sans text-3xl">
                 {item.nearestMiles.toLocaleString("en-US", {
                   maximumFractionDigits: 2,
                 })}{" "}
                 mi
               </div>
-              <div className="text-xs text-neutral-600 flex items-last-baseline justify-between gap-3 max-w-full">
-                <span className="truncate flex-auto min-w-0 max-w-full">
+              <div className="items-last-baseline flex max-w-full justify-between gap-3 text-neutral-600 text-xs">
+                <span className="min-w-0 max-w-full flex-auto truncate">
                   {item.addressStateCode}
                   {item.nearestSite?.npl && (
                     <SiteNPLStatusIcon
+                      className="mr-1.5 ml-3"
                       status={item.nearestSite?.npl}
-                      className="ml-3 mr-1.5"
                     />
                   )}
                   {item.nearestSite?.name?.split(" (")[0]}
                 </span>
                 <time
+                  className="text-nowrap text-right"
                   dateTime={item.createdAt}
-                  className="text-right text-nowrap"
                 >
                   {relativeTime(item.createdAt)}
                 </time>

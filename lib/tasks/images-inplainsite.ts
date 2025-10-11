@@ -2,17 +2,18 @@
  * Task to upload images from public/plainsite to Supabase images table.
  * Measures dimensions, stubs a URL, and inserts records with source="inplainsite".
  */
-import fs from "fs";
-import path from "path";
-import { supabaseAdmin } from "@/lib/supabaseClient";
-import sizeOf from "image-size";
-import sharp from "sharp";
+
 import { encode } from "blurhash";
+import fs from "fs";
+import sizeOf from "image-size";
+import path from "path";
+import sharp from "sharp";
+import { supabaseAdmin } from "@/lib/supabaseClient";
 
 // Ensure we have an admin client
 if (!supabaseAdmin) {
   console.error(
-    "Supabase admin client is not configured. Please set SUPABASE_SERVICE_ROLE_KEY.",
+    "Supabase admin client is not configured. Please set SUPABASE_SERVICE_ROLE_KEY."
   );
   process.exit(1);
 }
@@ -51,7 +52,7 @@ async function main() {
     } catch (err: any) {
       console.warn(
         `Could not get dimensions for ${filename}:`,
-        err.message || err,
+        err.message || err
       );
     }
     // Generate blurhash using sharp
@@ -67,7 +68,7 @@ async function main() {
     } catch (err: any) {
       console.warn(
         `Could not generate blurhash for ${filename}:`,
-        err.message || err,
+        err.message || err
       );
     }
     // Stub URL for app and extract site_id (filename without extension)

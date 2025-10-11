@@ -12,8 +12,8 @@ export function Count({
   return (
     <span
       className={clsx(
-        "inline-flex items-center align-middle rounded-full border border-black/20 px-2 py-0.5 text-xs font-normal bg-black/5 tracking-normal font-mono text-neutral-800 transition-colors",
-        className || "ml-1.5",
+        "inline-flex items-center rounded-full border border-black/20 bg-black/5 px-2 py-0.5 align-middle font-mono font-normal text-neutral-800 text-xs tracking-normal transition-colors",
+        className || "ml-1.5"
       )}
     >
       {value.toLocaleString("en-US", { maximumFractionDigits: 0 })} {word}

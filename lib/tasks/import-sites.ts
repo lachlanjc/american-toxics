@@ -8,9 +8,9 @@ import sites from "@/lib/data/sites.json" with { type: "json" };
 const supabaseUrl =
   process.env.SUPABASE_URL ?? process.env.NEXT_PUBLIC_SUPABASE_URL;
 const supabaseServiceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
-if (!supabaseUrl || !supabaseServiceRoleKey) {
+if (!(supabaseUrl && supabaseServiceRoleKey)) {
   console.error(
-    "Missing SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY in environment",
+    "Missing SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY in environment"
   );
   process.exit(1);
 }
@@ -30,11 +30,11 @@ function toISO(dateStr: string): string {
     const records = sites.map((site: any) => ({
       id: site.id,
       name: site.name,
-      sems_id: site.semsId ? parseInt(site.semsId, 10) : null,
+      sems_id: site.semsId ? Number.parseInt(site.semsId, 10) : null,
       city: site.city || null,
       county: site.county || null,
-      lng: site.lng != null ? parseFloat(String(site.lng)) : null,
-      lat: site.lat != null ? parseFloat(String(site.lat)) : null,
+      lng: site.lng != null ? Number.parseFloat(String(site.lng)) : null,
+      lat: site.lat != null ? Number.parseFloat(String(site.lat)) : null,
       date_proposed: site.dateProposed ? toISO(site.dateProposed) : null,
       date_listed: site.dateListed ? toISO(site.dateListed) : null,
       date_completed: site.dateCompleted ? toISO(site.dateCompleted) : null,

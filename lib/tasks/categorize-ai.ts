@@ -1,8 +1,8 @@
-import { supabase } from "../supabaseClient";
-import { generateText } from "ai";
 import { openai } from "@ai-sdk/openai";
-import { SupabaseSite } from "../data/site";
+import { generateText } from "ai";
 import PQueue from "p-queue";
+import type { SupabaseSite } from "../data/site";
+import { supabase } from "../supabaseClient";
 
 const queue = new PQueue({ concurrency: 10 });
 
@@ -52,7 +52,7 @@ const { data: allSites } = await supabase
   .select("id, name, summary")
   .not("summary", "is", null)
   .or(
-    "id.eq.MAD2084093, id.eq.NMN000622185, id.eq.WASFN1002171, id.eq.MAD980731335, id.eq.WAD009248295, id.eq.PRD980763783, id.eq.OHD057243610",
+    "id.eq.MAD2084093, id.eq.NMN000622185, id.eq.WASFN1002171, id.eq.MAD980731335, id.eq.WAD009248295, id.eq.PRD980763783, id.eq.OHD057243610"
   );
 // .eq("category", "dryclean");
 // .limit(10);

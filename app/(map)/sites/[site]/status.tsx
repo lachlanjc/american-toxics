@@ -12,8 +12,8 @@ export function StatusChip({
   const status = nplStatuses[key as keyof typeof categories];
   return (
     <Link
+      className="flex w-fit items-center gap-2 rounded-full border border-black/10 bg-black/5 px-3 py-2 font-medium font-sans text-base text-neutral-800 text-trim-both tracking-normal transition-colors"
       href={`/npl/${key}`}
-      className="flex items-center gap-2 w-fit font-sans rounded-full border border-black/10 px-3 py-2 text-trim-both text-base font-medium bg-black/5 tracking-normal text-neutral-800 transition-colors"
       style={{ viewTransitionName: key || undefined }}
     >
       <SiteNPLStatusIcon status={key} />

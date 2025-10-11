@@ -4,17 +4,17 @@ import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 export default function NewScorePage() {
   return (
     <main className="p-2">
-      <HeaderRoot showClose closeLink="/scoreboard/results">
+      <HeaderRoot closeLink="/scoreboard/results" showClose>
         <HeaderTitle>Where did you grow up?</HeaderTitle>
       </HeaderRoot>
       <form action="/scoreboard" method="POST">
-        <search className="w-full action-button mb-4">
+        <search className="action-button mb-4 w-full">
           <input
-            type="search"
+            autoFocus
+            className="w-full p-2 outline-none"
             name="address"
             placeholder="Enter an address"
-            className="p-2 w-full outline-none"
-            autoFocus
+            type="search"
           />
         </search>
       </form>

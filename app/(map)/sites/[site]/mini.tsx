@@ -19,32 +19,32 @@ export function MiniSite({
       <WellTitle style={{ viewTransitionName: site.id }}>
         {site.name} Superfund Site
       </WellTitle>
-      <div className="text-neutral-600 text-xs mt-1">
+      <div className="mt-1 text-neutral-600 text-xs">
         {site.city},{" "}
         <Link
+          className="underline underline-offset-3 transition-colors hover:text-primary"
           href={`/states/${site.stateCode}`}
-          className="underline underline-offset-3 hover:text-primary transition-colors"
         >
           {site.stateCode}
         </Link>
       </div>
-      <dl className="grid grid-cols-2 my-4">
+      <dl className="my-4 grid grid-cols-2">
         <div>
-          <dt className="text-neutral-600 text-xs uppercase mb-1">Category</dt>
+          <dt className="mb-1 text-neutral-600 text-xs uppercase">Category</dt>
           <dd>
             {site.category ? <CategoryChip category={site.category} /> : "—"}
           </dd>
         </div>
         <div>
-          <dt className="text-neutral-600 text-xs uppercase mb-1">
+          <dt className="mb-1 text-neutral-600 text-xs uppercase">
             Cleanup status
           </dt>
           <dd>{site.npl && <StatusChip status={site.npl} />}</dd>
         </div>
       </dl>
       <Link
+        className="action-button block py-1.5 text-center font-bold font-sans text-base"
         href={`/sites/${site.id}`}
-        className="text-center action-button font-sans font-bold text-base py-1.5 block"
       >
         Learn about this site
       </Link>

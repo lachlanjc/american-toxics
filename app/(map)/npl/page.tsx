@@ -22,25 +22,25 @@ export default function Page() {
           waste sites in the U.S. Track&nbsp;sites by their status on the NPL.
         </HeaderSubtitle>
       </HeaderRoot>
-      <ul className="-mb-1 text-neutral-500 gap-8 flex flex-col" role="list">
+      <ul className="-mb-1 flex flex-col gap-8 text-neutral-500" >
         {Object.keys(nplStatuses).map((key) => {
           const status = nplStatuses[key];
           const count = allSites.filter((site) => site.npl === key).length;
           return (
             <li
+              className="group flex w-full items-center gap-6 py-2 md:max-w-md"
               key={key}
-              role="listitem"
-              className="flex w-full gap-6 group items-center md:max-w-md py-2"
+
             >
-              <Link href={`/npl/${key}`} className="contents">
+              <Link className="contents" href={`/npl/${key}`}>
                 <span
-                  className={`${status.color} aspect-square bg-current w-4 rounded-full inline-block shrink-0`}
+                  className={`${status.color} inline-block aspect-square w-4 shrink-0 rounded-full bg-current`}
                   style={{ width: Math.max(16, count / 5.5) }}
                 />
-                <div className="flex flex-col gap-1 items-start">
+                <div className="flex flex-col items-start gap-1">
                   <div className="flex items-center gap-2">
                     <span
-                      className="font-sans text-lg md:text-2xl font-medium text-black transition-colors group-hover:text-neutral-600"
+                      className="font-medium font-sans text-black text-lg transition-colors group-hover:text-neutral-600 md:text-2xl"
                       style={{ viewTransitionName: key }}
                     >
                       {status.label}

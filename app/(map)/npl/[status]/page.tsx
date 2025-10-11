@@ -12,7 +12,7 @@ import {
   HeaderTitle,
 } from "@/lib/ui/header";
 
-export async function generateStaticParams() {
+export function generateStaticParams() {
   return Object.keys(nplStatuses).map((status) => ({ status }));
 }
 
@@ -65,7 +65,7 @@ export default async function Page({
           Superfund Sites by Cleanup Phase
         </HeaderBreadcrumb>
         <HeaderTitle style={{ viewTransitionName: statusKey }}>
-          {status.label} <Count value={sites!.length} />
+          {status.label} {sites && <Count value={sites.length} />}
         </HeaderTitle>
         <HeaderSubtitle>{status.desc}</HeaderSubtitle>
       </HeaderRoot>

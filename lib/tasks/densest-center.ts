@@ -1,4 +1,4 @@
-import { allSites as sites, Site } from "../data/api";
+import { type Site, allSites as sites } from "../data/api";
 
 // ---- config ----
 const radii = [1, 5, 10, 25, 50] as const; // miles
@@ -23,7 +23,7 @@ function distanceMiles(a: Site, b: Site): number {
 /** Compare two count maps from largest radius downward */
 function isBetter(
   candidate: Record<number, number>,
-  best: Record<number, number>,
+  best: Record<number, number>
 ) {
   for (let i = radii.length - 1; i >= 0; i--) {
     const r = radii[i];
@@ -34,12 +34,12 @@ function isBetter(
 
 let bestIdx = -1;
 let bestCounts: Record<number, number> = Object.fromEntries(
-  radii.map((r) => [r, 0]),
+  radii.map((r) => [r, 0])
 );
 
 sites.forEach((site, idx) => {
   const counts: Record<number, number> = Object.fromEntries(
-    radii.map((r) => [r, 0]),
+    radii.map((r) => [r, 0])
   );
 
   for (const other of sites) {
@@ -59,5 +59,5 @@ sites.forEach((site, idx) => {
 const center = sites[bestIdx];
 console.log(`Lat/Lng of densest center: ${center.lat}, ${center.lng}`);
 radii.forEach((r) =>
-  console.log(`Sites within ${r.toString().padEnd(2)} mi: ${bestCounts[r]}`),
+  console.log(`Sites within ${r.toString().padEnd(2)} mi: ${bestCounts[r]}`)
 );

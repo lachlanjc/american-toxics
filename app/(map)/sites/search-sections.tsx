@@ -30,14 +30,14 @@ export function SearchableSections({ sections }: { sections: Section[] }) {
 
   return (
     <article className="">
-      <search className="w-full action-button mb-5">
+      <search className="action-button mb-5 w-full">
         <input
-          type="search"
-          className="p-2 w-full outline-none"
-          value={query}
-          placeholder="Search by county, city, state, or site name"
+          className="w-full p-2 outline-none"
           onChange={handleSearch}
+          placeholder="Search by county, city, state, or site name"
           ref={ref}
+          type="search"
+          value={query}
         />
       </search>
       {results.length > 0 && (
@@ -49,7 +49,7 @@ export function SearchableSections({ sections }: { sections: Section[] }) {
       {!query && (
         <>
           {sections.map((section) => (
-            <section id={section.key} key={section.key} className="mb-6">
+            <section className="mb-6" id={section.key} key={section.key}>
               <Heading>{section.label}</Heading>
               <SiteList className="mb-4" sites={section.sites} />
             </section>

@@ -52,13 +52,13 @@ export function SearchNearby() {
   return (
     <form
       action={formAction}
+      className="w-full"
       onSubmit={() => {
         if (results.length > 0) {
           setPin(getPlaceFromMapbox(results?.[0]));
         }
         setResults([]);
       }}
-      className="w-full"
     >
       {pin.coords?.[0] !== 0 && (
         <MapZoom
@@ -67,14 +67,13 @@ export function SearchNearby() {
         />
       )}
       <div className="grid grid-cols-[minmax(0,1fr)_auto] items-start gap-2">
-        <div className="flex-auto action-button relative">
+        <div className="action-button relative flex-auto">
           <input
-            type="text"
-            name="address"
-            placeholder="Enter an address"
-            className="p-2 w-full outline-none"
+            autoComplete="off"
             autoFocus
-            value={query}
+            className="w-full p-2 outline-none"
+            disabled={pending}
+            name="address"
             onChange={(e) => {
               // if (!MAPBOX_TOKEN) {
               //   console.warn("Missing NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN");
@@ -89,9 +88,9 @@ export function SearchNearby() {
               const controller = new AbortController();
               fetch(
                 `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURIComponent(
-                  query,
+                  query
                 )}.json?autocomplete=true&types=address&country=us&limit=5&access_token=${MAPBOX_TOKEN}`,
-                { signal: controller.signal },
+                { signal: controller.signal }
               )
                 .then((res) => res.json())
                 .then((data) => {
@@ -104,17 +103,18 @@ export function SearchNearby() {
                   if (err.name !== "AbortError") console.error(err);
                 });
             }}
+            placeholder="Enter an address"
             ref={inputRef}
-            disabled={pending}
-            autoComplete="off"
+            type="text"
+            value={query}
           />
           {results.length > 0 && (
             // This is an a11y nightmare, I'll fix later
-            <ul className="bg-black/10 p-1 gap-1 rounded-b-xl w-full -mt-1 pt-2 max-h-60 overflow-auto">
+            <ul className="-mt-1 max-h-60 w-full gap-1 overflow-auto rounded-b-xl bg-black/10 p-1 pt-2">
               {results.map((feature) => (
                 <li
+                  className="active-tab cursor-pointer truncate p-2"
                   key={feature.id}
-                  className="p-2 active-tab cursor-pointer truncate"
                   onClick={() => handleSelect(feature)}
                 >
                   {feature.place_name}
@@ -124,19 +124,19 @@ export function SearchNearby() {
           )}
         </div>
         <button
-          type="submit"
-          disabled={pending}
-          className="action-button p-2 shrink-0"
           aria-label="Submit"
+          className="action-button shrink-0 p-2"
+          disabled={pending}
+          type="submit"
         >
           &rarr;
         </button>
       </div>
-      <input type="hidden" name="lat" value={pin.coords[1]} />
-      <input type="hidden" name="lng" value={pin.coords[0]} />
-      <input type="hidden" name="formatted" value={pin.place[0]} />
-      <input type="hidden" name="city" value={pin.place[1]} />
-      <input type="hidden" name="stateCode" value={pin.place[2]} />
+      <input name="lat" type="hidden" value={pin.coords[1]} />
+      <input name="lng" type="hidden" value={pin.coords[0]} />
+      <input name="formatted" type="hidden" value={pin.place[0]} />
+      <input name="city" type="hidden" value={pin.place[1]} />
+      <input name="stateCode" type="hidden" value={pin.place[2]} />
     </form>
   );
 }

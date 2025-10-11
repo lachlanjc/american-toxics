@@ -1,6 +1,9 @@
 import Slugger from "github-slugger";
 import { supabase } from "@/lib/supabaseClient";
-import { ContaminantList, prettifyChemicalName } from "@/lib/util/contaminants";
+import {
+  type ContaminantList,
+  prettifyChemicalName,
+} from "@/lib/util/contaminants";
 
 interface ContaminantRecord {
   id: string;
@@ -22,7 +25,7 @@ if (error) {
 // Flatten to a list of contaminant entries
 const allContaminants: ContaminantList =
   rows?.flatMap((row) =>
-    Array.isArray(row.contaminants) ? row.contaminants : [],
+    Array.isArray(row.contaminants) ? row.contaminants : []
   ) ?? [];
 
 // Extract unique names

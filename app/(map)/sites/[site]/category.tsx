@@ -14,17 +14,17 @@ export function CategoryChip({
   const CategoryIcon = category?.icon;
   return (
     <Link
-      href={`/categories/${key}`}
       className={clsx(
-        "flex items-center gap-1.5 w-fit rounded-full pl-2 pr-2.5 py-0.75",
-        "font-sans text-base font-medium tracking-normal",
-        "text-neutral-800 border border-black/10 bg-black/5 transition-colors",
-        className,
+        "flex w-fit items-center gap-1.5 rounded-full py-0.75 pr-2.5 pl-2",
+        "font-medium font-sans text-base tracking-normal",
+        "border border-black/10 bg-black/5 text-neutral-800 transition-colors",
+        className
       )}
+      href={`/categories/${key}`}
       style={{ viewTransitionName: key || undefined }}
     >
       {CategoryIcon && (
-        <CategoryIcon className={clsx(category.color)} width={20} height={20} />
+        <CategoryIcon className={clsx(category.color)} height={20} width={20} />
       )}
       <span className="text-trim-both">{category.name}</span>
     </Link>

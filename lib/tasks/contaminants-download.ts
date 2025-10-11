@@ -1,5 +1,5 @@
-import { supabase } from "../supabaseClient";
 import PQueue from "p-queue";
+import { supabase } from "../supabaseClient";
 
 const queue = new PQueue({ concurrency: 10 });
 
@@ -16,7 +16,7 @@ const getUrl = (id: string) =>
 
 async function processSite(site: { id: string; semsId: string }) {
   // Try zero-padded and not, use whichever has more results
-  let contaminantsRaw = await Promise.all([
+  const contaminantsRaw = await Promise.all([
     fetch(getUrl(site.semsId)).then((res) => res.json()),
     fetch(getUrl(`0${site.semsId}`)).then((res) => res.json()),
   ])
@@ -29,7 +29,7 @@ async function processSite(site: { id: string; semsId: string }) {
     .catch((err) => {
       console.error(
         `Error fetching contaminants for ${site.id}: ${err}`,
-        getUrl(site.semsId),
+        getUrl(site.semsId)
       );
     });
 
@@ -39,7 +39,7 @@ async function processSite(site: { id: string; semsId: string }) {
     media: cont.media_name,
   }));
   if (contaminants.length === 0) {
-    console.log(`No contaminants found for`, site.id, getUrl(site.semsId));
+    console.log("No contaminants found for", site.id, getUrl(site.semsId));
     // continue;
   }
   const { error } = await supabase

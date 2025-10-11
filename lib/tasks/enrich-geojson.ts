@@ -1,4 +1,5 @@
 import { supabase } from "../supabaseClient";
+
 // import { Site } from "../data/site";
 
 const geojsonFile = Bun.file("./lib/data/sites.geojson");
@@ -14,7 +15,7 @@ const { data: allSites, error: sitesError } = await supabase
 
 for (const site of allSites || []) {
   const feature = geojson.features.find(
-    (feature) => feature.properties?.EPA_ID === site.id,
+    (feature) => feature.properties?.EPA_ID === site.id
   );
   if (!feature) {
     console.error("No feature found for site:", site.id);

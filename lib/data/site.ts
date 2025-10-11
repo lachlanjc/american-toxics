@@ -1,4 +1,4 @@
-import { Database } from "@/supabase/types";
+import type { Database } from "@/supabase/types";
 
 export interface Site {
   id: string;

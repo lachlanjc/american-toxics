@@ -28,48 +28,45 @@ function ContaminantContext({
   const category = contaminantCategories[context?.category];
   return (
     <details className="mt-1">
-      <summary className="flex gap-2 items-center cursor-pointer leading-tight overflow-clip">
+      <summary className="flex cursor-pointer items-center gap-2 overflow-clip leading-tight">
         {Icon && (
           <Icon
-            width={20}
-            height={20}
-            className={clsx(category.color, "-ml-px shrink-0")}
             aria-hidden
+            className={clsx(category.color, "-ml-px shrink-0")}
+            height={20}
+            width={20}
           />
         )}
         <span>
-          <strong className="font-sans text-base font-medium">
+          <strong className="font-medium font-sans text-base">
             {context?.name}
           </strong>
-          <small className="font-mono text-xs text-neutral-600 ml-1">
+          <small className="ml-1 font-mono text-neutral-600 text-xs">
             ({contaminants.length} contaminant
             {contaminants.length === 1 ? "" : "s"})
           </small>
         </span>
         <SvgChevronDown
-          width={20}
-          height={20}
-          className="-mr-1 ml-auto text-neutral-400 transition-transform in-open:rotate-180"
           aria-hidden
+          className="-mr-1 ml-auto in-open:rotate-180 text-neutral-400 transition-transform"
+          height={20}
+          width={20}
         />
       </summary>
-      <p className="pl-7 pt-1 -ml-px text-xs mb-2 text-balance">
+      <p className="-ml-px mb-2 text-balance pt-1 pl-7 text-xs">
         {context.desc}
       </p>
-      <ul
-        className="pl-7 -ml-px text-neutral-600 text-xs flex flex-col gap-2"
-        role="list"
-      >
+      <ul className="-ml-px flex flex-col gap-2 pl-7 text-neutral-600 text-xs">
         {contaminants.map((contaminant) => {
           const linked = summarizedContaminants.find(
-            (c) => c.name === contaminant,
+            (c) => c.name === contaminant
           );
           return (
             <li key={contaminant}>
               {linked ? (
                 <Link
+                  className="underline decoration-neutral-400 underline-offset-3 transition-colors hover:text-primary hover:decoration-primary"
                   href={`/contaminants/${linked.id}`}
-                  className="underline underline-offset-3 decoration-neutral-400 transition-colors hover:text-primary hover:decoration-primary"
                 >
                   {contaminant}
                 </Link>
@@ -120,24 +117,24 @@ export async function Contaminants({
     });
   return (
     <WellRoot>
-      <WellTitle className="flex items-center gap-2 mb-2">
+      <WellTitle className="mb-2 flex items-center gap-2">
         <span>Contamination</span>
-        <Link href="/contaminants" className="-mb-1">
+        <Link className="-mb-1" href="/contaminants">
           <SvgInfo
-            width={20}
-            height={20}
-            className="text-neutral-500 hover:text-neutral-700 transition-colors"
             aria-hidden
+            className="text-neutral-500 transition-colors hover:text-neutral-700"
+            height={20}
+            width={20}
           />
           <span className="sr-only">Learn about contamination types</span>
         </Link>
       </WellTitle>
       {groups.map(([contextKey, sublist]) => (
         <ContaminantContext
-          key={contextKey}
-          title={contextKey}
           contaminants={processContaminants(sublist || [])}
+          key={contextKey}
           summarizedContaminants={summarizedContaminants || []}
+          title={contextKey}
         />
       ))}
     </WellRoot>

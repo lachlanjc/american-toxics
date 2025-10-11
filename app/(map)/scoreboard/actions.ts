@@ -1,7 +1,7 @@
 "use server";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
-import sitesMini from "@/lib/data/sites-mini.json";
+import sitesMini from "@/lib/data/sites-mini.json" with { type: "json" };
 import { supabase } from "@/lib/supabaseClient";
 import { haversineDistance } from "@/lib/util/distance";
 
@@ -21,7 +21,7 @@ export async function handleSubmit(prevState: object, formData: FormData) {
   const addressCity = formData.get("city")?.toString();
   const addressStateCode = formData.get("stateCode")?.toString();
   const addressFormatted = formData.get("formatted")?.toString();
-  if (!addressRaw || !lat || !lng) {
+  if (!(addressRaw && lat && lng)) {
     return redirect("/scoreboard/new");
   }
 
@@ -48,9 +48,9 @@ export async function handleSubmit(prevState: object, formData: FormData) {
       if (20 < d && d <= 50) within50.push(site.id);
     }
   }
-  const siteNearestRecord = sitesWithDist.reduce((prev, curr) => {
-    return (prev.dist || 0) < (curr.dist || 0) ? prev : curr;
-  });
+  const siteNearestRecord = sitesWithDist.reduce((prev, curr) =>
+    (prev.dist || 0) < (curr.dist || 0) ? prev : curr
+  );
   const { id: siteNearest, dist: siteNearestMiles } = siteNearestRecord;
 
   const { data: created, error } = await supabase

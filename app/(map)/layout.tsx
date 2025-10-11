@@ -36,12 +36,12 @@ function MainCard({
         <Drawer.Content
           {...props}
           className={clsx(
-            "main-card backdrop-blur-lg backdrop-saturate-150 rounded-t-xl md:rounded-2xl",
-            "fixed max-h-[50svb] bottom-0 max-md:left-0 max-md:right-0",
-            "md:absolute md:max-h-[90vh] md:top-8 md:left-8 md:bottom-auto",
-            "z-10 outline-none !overflow-y-auto overflow-x-clip [scrollbar-width:thin] !touch-auto",
-            "flex flex-col w-full md:max-w-xl p-4 md:p-6 @container",
-            "text-sm font-mono leading-relaxed !select-auto",
+            "main-card rounded-t-xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
+            "fixed bottom-0 max-h-[50svb] max-md:right-0 max-md:left-0",
+            "md:absolute md:top-8 md:bottom-auto md:left-8 md:max-h-[90vh]",
+            "!overflow-y-auto !touch-auto z-10 overflow-x-clip outline-none [scrollbar-width:thin]",
+            "@container flex w-full flex-col p-4 md:max-w-xl md:p-6",
+            "!select-auto font-mono text-sm leading-relaxed"
           )}
           data-vaul-custom-container
         >
@@ -123,27 +123,29 @@ export default function Layout({ children }: PropsWithChildren<object>) {
 
   const siteGeojson = useMemo<
     FeatureCollection<Point, Record<string, unknown>>
-  >(() => {
-    return {
-      type: "FeatureCollection",
-      features: SITES.map((marker) => ({
-        type: "Feature",
-        id: marker.id,
-        geometry: {
-          type: "Point",
-          coordinates: [marker.lng, marker.lat],
-        },
-        properties: {
+  >(
+    () =>
+      ({
+        type: "FeatureCollection",
+        features: SITES.map((marker) => ({
+          type: "Feature",
           id: marker.id,
-          color:
-            statusFillColors[marker.npl as SiteNPLStatus] ??
-            statusFillColors.listed,
-          dimmed: Boolean(activeNplStatus && activeNplStatus !== marker.npl),
-          selected: Boolean(activeSiteId && activeSiteId === marker.id),
-        },
-      })),
-    } satisfies FeatureCollection<Point, Record<string, unknown>>;
-  }, [activeNplStatus, activeSiteId]);
+          geometry: {
+            type: "Point",
+            coordinates: [marker.lng, marker.lat],
+          },
+          properties: {
+            id: marker.id,
+            color:
+              statusFillColors[marker.npl as SiteNPLStatus] ??
+              statusFillColors.listed,
+            dimmed: Boolean(activeNplStatus && activeNplStatus !== marker.npl),
+            selected: Boolean(activeSiteId && activeSiteId === marker.id),
+          },
+        })),
+      }) satisfies FeatureCollection<Point, Record<string, unknown>>,
+    [activeNplStatus, activeSiteId]
+  );
 
   const handleMapClick = (event: MapMouseEvent) => {
     const feature = event.features?.[0];
@@ -159,24 +161,28 @@ export default function Layout({ children }: PropsWithChildren<object>) {
   };
 
   return (
-    <div className="w-full h-full" ref={rootRef}>
+    <div className="h-full w-full" ref={rootRef}>
       <MapProvider>
-        <style>{`.mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }`}</style>
+        <style>
+          {
+            ".mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }"
+          }
+        </style>
         <MapComponent
-          ref={mapRef}
+          cursor={cursor}
           initialViewState={initialViewState}
-          mapStyle="mapbox://styles/mapbox/satellite-streets-v12"
+          interactiveLayerIds={[siteLayerId]}
           mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN}
+          mapStyle="mapbox://styles/mapbox/satellite-streets-v12"
+          onClick={handleMapClick}
+          onMouseMove={handleMouseMove}
+          ref={mapRef}
           style={{
             width: "100%",
             height: "100vh",
             position: "absolute",
             inset: 0,
           }}
-          interactiveLayerIds={[siteLayerId]}
-          onClick={handleMapClick}
-          onMouseMove={handleMouseMove}
-          cursor={cursor}
         >
           <GeolocateControl />
           <NavigationControl
@@ -184,7 +190,7 @@ export default function Layout({ children }: PropsWithChildren<object>) {
             showCompass={false}
             visualizePitch={false}
           />
-          <Source id="sites" type="geojson" data={siteGeojson}>
+          <Source data={siteGeojson} id="sites" type="geojson">
             <Layer {...siteCircleLayer} />
           </Source>
         </MapComponent>

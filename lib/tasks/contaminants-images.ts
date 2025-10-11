@@ -32,7 +32,7 @@ async function fetchWikiImageInfo(url: string): Promise<{
   } catch (err) {
     console.error(
       `Error fetching Wikipedia image for ${url}:`,
-      err instanceof Error ? err.message : err,
+      err instanceof Error ? err.message : err
     );
     return { url: null, width: null, height: null, caption: null, alt: null };
   }
@@ -51,7 +51,7 @@ type ContaminantImageRow = {
  * and update the contaminant record to include the new image UUID
  */
 async function processContaminantImages(
-  row: ContaminantImageRow,
+  row: ContaminantImageRow
 ): Promise<void> {
   console.log(`Processing images for ${row.id} (${row.name})`);
   try {
@@ -80,7 +80,7 @@ async function processContaminantImages(
     if (imgErr) {
       console.error(
         `Error inserting image for ${row.id}:`,
-        imgErr.message || imgErr,
+        imgErr.message || imgErr
       );
       return;
     }
@@ -100,7 +100,7 @@ async function processContaminantImages(
     if (updErr) {
       console.error(
         `Error updating contaminant images for ${row.id}:`,
-        updErr.message || updErr,
+        updErr.message || updErr
       );
     } else {
       console.log(`Updated contaminant images for ${row.id}`);
@@ -110,7 +110,7 @@ async function processContaminantImages(
   } catch (err: any) {
     console.error(
       `Failed processing images for ${row.id}:`,
-      err.message || err,
+      err.message || err
     );
   }
 }
@@ -128,7 +128,7 @@ async function main() {
   }
   const rows: ContaminantImageRow[] = data || [];
   const toProcess = rows.filter(
-    (r) => !(Array.isArray(r.images) && r.images.length > 0),
+    (r) => !(Array.isArray(r.images) && r.images.length > 0)
   );
   console.log(`Found ${toProcess.length} contaminants needing images.`);
   for (const row of toProcess) {

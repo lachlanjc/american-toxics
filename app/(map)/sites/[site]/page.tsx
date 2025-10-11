@@ -10,9 +10,8 @@ import { Nearby } from "./nearby";
 import { SiteCard } from "./site";
 import { SiteNPLStatusTimeline } from "./timeline";
 
-export const generateStaticParams = async () => {
-  return allSites.map(({ id }) => ({ site: id }));
-};
+export const generateStaticParams = async () =>
+  allSites.map(({ id }) => ({ site: id }));
 
 export async function generateMetadata({
   params,
@@ -59,10 +58,10 @@ export default async function Page({
   return (
     <>
       <MapZoom center={[site.lat, site.lng]} />
-      <SiteCard site={site} images={images || []}>
+      <SiteCard images={images || []} site={site}>
         {site.id === "NYD000606947" ? (
-          <section className="border border-black/10 rounded-lg bg-black/2 p-4 mt-4">
-            <h2 className="text-lg text-center text-neutral-600 font-bold font-sans tracking-tight">
+          <section className="mt-4 rounded-lg border border-black/10 bg-black/2 p-4">
+            <h2 className="text-center font-bold font-sans text-lg text-neutral-600 tracking-tight">
               This was the very first Superfund site!
             </h2>
           </section>
@@ -72,7 +71,7 @@ export default async function Page({
           <Contaminants contaminants={site.contaminants} />
         )}
         {site.mapboxNearby && (
-          <Nearby site={site} nearbyFeatures={site.mapboxNearby} />
+          <Nearby nearbyFeatures={site.mapboxNearby} site={site} />
         )}
         {site.contactName && <Contact site={site} />}
       </SiteCard>

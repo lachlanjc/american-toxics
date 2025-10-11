@@ -1,7 +1,7 @@
+import { openai } from "@ai-sdk/openai";
+import { generateText } from "ai";
 import { zerox } from "zerox";
 import { ModelOptions, ModelProvider } from "zerox/node-zerox/dist/types";
-import { generateText } from "ai";
-import { openai } from "@ai-sdk/openai";
 
 const id = "NYN000203407";
 const pathname = `./lib/data/zerox/${id}`;

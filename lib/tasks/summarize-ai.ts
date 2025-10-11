@@ -1,8 +1,8 @@
-import { supabase } from "../supabaseClient";
-import { generateText } from "ai";
 import { openai } from "@ai-sdk/openai";
-import { SupabaseSite } from "../data/site";
+import { generateText } from "ai";
 import PQueue from "p-queue";
+import type { SupabaseSite } from "../data/site";
+import { supabase } from "../supabaseClient";
 
 const queue = new PQueue({ concurrency: 10 });
 type PartialSite = Pick<SupabaseSite, "id" | "name">;
@@ -13,11 +13,10 @@ async function recordIssue(id: string) {
   if (content.includes(id)) {
     console.log("Already recorded issue for site:", id);
     return;
-  } else {
-    content += `${id}\n`;
-    await Bun.write(filePath, content);
-    console.log("Recorded issue for site:", id);
   }
+  content += `${id}\n`;
+  await Bun.write(filePath, content);
+  console.log("Recorded issue for site:", id);
 }
 
 async function describeSite(site: PartialSite) {

@@ -49,7 +49,7 @@ export default async function Page({
     .from("sites")
     .select("id, name, npl, city, stateCode")
     .eq("category", categoryKey);
-  if (!category || !sites) {
+  if (!(category && sites)) {
     return notFound();
   }
   if (error) {
@@ -72,7 +72,7 @@ export default async function Page({
         </HeaderBreadcrumb>
         <HeaderTitle style={{ viewTransitionName: categoryKey }}>
           <Icon
-            className={clsx(category.color, "w-8 h-8 inline-block mr-1.5")}
+            className={clsx(category.color, "mr-1.5 inline-block h-8 w-8")}
           />
           {category.name} <Count value={sites.length} />
         </HeaderTitle>

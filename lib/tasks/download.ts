@@ -37,7 +37,7 @@ function parseArticle(url: string): Promise<string> {
       .replaceAll("[Superfund](http://www.epa.gov/superfund)", "Superfund")
       .split("\n\n")
       .filter(
-        (line) => !line.startsWith("Disclaimer") && line !== "**Background**",
+        (line) => !line.startsWith("Disclaimer") && line !== "**Background**"
       )
       .join("\n\n");
     resolve(body);
@@ -60,7 +60,7 @@ const txt = new Glob("./lib/data/txt/*.txt");
 for await (const file of txt.scan(".")) {
   const id = file.split(".").at(-2)?.split("/").pop();
   const content = await Bun.file(file).text();
-  if (!content || !content.startsWith("##")) {
+  if (!(content && content.startsWith("##"))) {
     ids.push(id);
   }
 }
@@ -88,10 +88,7 @@ const stats: {
   failure: [],
 };
 
-async function downloadSite(
-  site: Site,
-  leadingZero: boolean = true,
-): Promise<void> {
+async function downloadSite(site: Site, leadingZero = true): Promise<void> {
   const url = `https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=${leadingZero ? `0${site.semsId}` : site.semsId}`;
   stats.total++;
   console.log(`Downloading ${site.id} ${site.name}... ${url}`);

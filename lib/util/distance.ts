@@ -9,7 +9,7 @@ export function haversineDistance(
   lat1: number,
   lon1: number,
   lat2: number,
-  lon2: number,
+  lon2: number
 ): number {
   const R = 3959; // Radius of the Earth in miles
 
@@ -36,7 +36,7 @@ export function bearingDeg(
   latA: number,
   lngA: number,
   latB: number,
-  lngB: number,
+  lngB: number
 ): number {
   const φ1 = toRadians(latA);
   const φ2 = toRadians(latB);
@@ -56,7 +56,7 @@ export function bearingDeg(
  */
 export function bearingToCardinal(
   bearing: number,
-  precision: 4 | 8 = 8,
+  precision: 4 | 8 = 8
 ): string {
   const labels =
     precision === 4
@@ -72,7 +72,7 @@ export function coordsToCardinal(
   latA: number,
   lngA: number,
   latB: number,
-  lngB: number,
+  lngB: number
 ): string {
   const bearing = bearingDeg(latA, lngA, latB, lngB);
   return bearingToCardinal(bearing);
@@ -83,7 +83,7 @@ export function formatAcres(acres: number | null) {
     ? Number(
         acres.toLocaleString("en-US", {
           maximumFractionDigits: 0,
-        }),
+        })
       )
     : null;
   return round

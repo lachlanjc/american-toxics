@@ -1,4 +1,3 @@
-import { Site } from "../data/site";
 // import { allSites } from "../data/api";
 import { supabase } from "../supabaseClient";
 

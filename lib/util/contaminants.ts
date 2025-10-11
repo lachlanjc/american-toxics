@@ -35,7 +35,7 @@ export function prettifyChemicalName(raw: string): string {
   s = s.replace(
     /([[(])([0-9,]*)([A-Z]{1,3})([\])])/g,
     (_, open, nums, letters, close) =>
-      `${open}${nums}${letters.toLowerCase()}${close}`,
+      `${open}${nums}${letters.toLowerCase()}${close}`
   );
 
   // ⬤ 5. blanket lower‑case, then capitalise first real letter later
@@ -47,7 +47,7 @@ export function prettifyChemicalName(raw: string): string {
 
   // ⬤ 7. restore the true uppercase abbreviations
   s = s.replace(/§([a-z]+)§/g, (_, abbr) =>
-    abbr.toUpperCase().replace(/S\)?$/, "s"),
+    abbr.toUpperCase().replace(/S\)?$/, "s")
   );
   s = s.replace("(Cis and", "(cis &");
   s = s.replace(" And ", " & ");

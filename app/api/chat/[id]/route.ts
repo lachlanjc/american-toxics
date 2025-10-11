@@ -8,7 +8,7 @@ export const maxDuration = 30;
 
 export async function POST(
   req: Request,
-  { params }: { params: Promise<{ id: string }> },
+  { params }: { params: Promise<{ id: string }> }
 ) {
   const { id } = await params;
   const { messages = [] } = await req.json();
@@ -20,12 +20,12 @@ export async function POST(
       "lib",
       "data",
       "txt",
-      `${id}.txt`,
+      `${id}.txt`
     );
     context = fs.readFileSync(filePath, "utf8");
   } else {
     context = await fetch(
-      `https://raw.githubusercontent.com/lachlanjc/superfund/refs/heads/main/lib/data/txt/${id}.txt`,
+      `https://raw.githubusercontent.com/lachlanjc/superfund/refs/heads/main/lib/data/txt/${id}.txt`
     ).then((res) => res.text());
   }
   if (!context) throw new Error(`No context found for site ${id}`);

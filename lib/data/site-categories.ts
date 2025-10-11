@@ -1,19 +1,18 @@
-import { SupabaseSite } from "./site";
-import { IconComponent } from "../util/types";
-
 import SvgChemicals from "../icons/Chemicals";
-import SvgWater from "../icons/Water";
-import SvgTech from "../icons/Tech";
-import SvgWood from "../icons/Wood";
-import SvgOther from "../icons/Other";
+import SvgDryCleaning from "../icons/DryCleaning";
 import SvgFactory from "../icons/Factory";
 import SvgFuel from "../icons/Fuel";
+import SvgMetal from "../icons/Metal";
 import SvgMining from "../icons/Mining";
+import SvgOther from "../icons/Other";
+import SvgRadioactive from "../icons/Radioactive";
+import SvgTech from "../icons/Tech";
 import SvgWar from "../icons/War";
 import SvgWaste from "../icons/Waste";
-import SvgDryCleaning from "../icons/DryCleaning";
-import SvgMetal from "../icons/Metal";
-import SvgRadioactive from "../icons/Radioactive";
+import SvgWater from "../icons/Water";
+import SvgWood from "../icons/Wood";
+import type { IconComponent } from "../util/types";
+import type { SupabaseSite } from "./site";
 
 export const categories: Record<
   Exclude<SupabaseSite["category"], null>,

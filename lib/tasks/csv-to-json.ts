@@ -31,7 +31,7 @@ for (const site of jsonObj) {
     .replace(/[ \s]+/g, "");
   site.stateName = site.state.trim();
   site.stateCode = states.find(
-    (state) => state.name === site.stateName,
+    (state) => state.name === site.stateName
   )?.abbrev;
   delete site.state;
 
@@ -64,7 +64,7 @@ console.log("Wrote mini sites file");
 const newStates = structuredClone(states);
 for (const state of newStates) {
   const sites = jsonObj.filter(
-    (site) => site.stateCode === state.abbrev,
+    (site) => site.stateCode === state.abbrev
   ).length;
   // @ts-expect-error new prop
   state.count = sites;

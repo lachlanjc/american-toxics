@@ -43,12 +43,12 @@ export default async function ContaminantsPage() {
   const uniqueNamesCount = new Set(allContaminants.map((c) => c.name)).size;
   const sitesWithContaminants =
     siteRows?.filter(
-      (row) => Array.isArray(row.contaminants) && row.contaminants.length > 0,
+      (row) => Array.isArray(row.contaminants) && row.contaminants.length > 0
     ) ?? [];
   const totalSitesWithContaminants = sitesWithContaminants.length;
   const totalContaminants = sitesWithContaminants.reduce(
     (sum, row) => sum + row.contaminants.length,
-    0,
+    0
   );
   const averageContaminantsPerSite =
     totalSitesWithContaminants > 0
@@ -75,9 +75,9 @@ export default async function ContaminantsPage() {
     {
       site: sitesWithContaminants[0],
       count: new Set(
-        sitesWithContaminants[0].contaminants.map((c: Contam) => c.name),
+        sitesWithContaminants[0].contaminants.map((c: Contam) => c.name)
       ).size,
-    },
+    }
   );
 
   return (
@@ -126,8 +126,8 @@ export default async function ContaminantsPage() {
             <dd className="font-sans text-2xl">
               {siteWithMaxContaminants && (
                 <Link
-                  href={`/sites/${siteWithMaxContaminants.site.id}`}
                   className="underline underline-offset-4 transition-colors hover:text-primary"
+                  href={`/sites/${siteWithMaxContaminants.site.id}`}
                 >
                   {siteWithMaxContaminants.count.toLocaleString("en-US")}
                 </Link>
@@ -150,35 +150,35 @@ export default async function ContaminantsPage() {
                       (a, b) =>
                         // sort by siteCount then alphabetically
                         (b.siteCount ?? 0) - (a.siteCount ?? 0) ||
-                        a.name.localeCompare(b.name),
+                        a.name.localeCompare(b.name)
                     );
                   return (
                     <details
+                      className="rounded-lg border border-black/10 bg-black/2 px-4 py-3"
                       key={ctxKey}
-                      className="border border-black/10 rounded-lg bg-black/2 px-4 py-3"
                     >
-                      <summary className="grid grid-cols-[auto_1fr] w-full gap-x-3 items-start cursor-zoom-in in-open:cursor-zoom-out focus-visible:overflow-clip outline-offset-4">
+                      <summary className="grid w-full cursor-zoom-in in-open:cursor-zoom-out grid-cols-[auto_1fr] items-start gap-x-3 outline-offset-4 focus-visible:overflow-clip">
                         <Icon
-                          width={48}
-                          height={48}
-                          className={clsx(cat.color, "-ml-2")}
                           aria-hidden
+                          className={clsx(cat.color, "-ml-2")}
+                          height={48}
+                          width={48}
                         />
                         <div className="self-center">
                           <div className="flex items-center gap-3">
-                            <strong className="font-sans text-lg md:text-xl font-medium text-black">
+                            <strong className="font-medium font-sans text-black text-lg md:text-xl">
                               {context.name}
                             </strong>
                             <Count
+                              className="ml-0"
                               value={contaminants.length}
                               word="type"
-                              className="ml-0"
                             />
                             <SvgClose
-                              width={20}
-                              height={20}
-                              className="-mr-1 ml-auto text-neutral-400 transition-transform rotate-45 in-open:rotate-0"
                               aria-hidden
+                              className="-mr-1 ml-auto in-open:rotate-0 rotate-45 text-neutral-400 transition-transform"
+                              height={20}
+                              width={20}
                             />
                           </div>
                           {context.desc && (
@@ -188,16 +188,13 @@ export default async function ContaminantsPage() {
                           )}
                         </div>
                       </summary>
-                      <ul
-                        className="pl-13 pt-4 text-neutral-600 text-xs flex flex-col gap-2"
-                        role="list"
-                      >
+                      <ul className="flex flex-col gap-2 pt-4 pl-13 text-neutral-600 text-xs">
                         {contaminants.map((contam) => (
                           <li key={contam.id}>
                             {contam.summary ? (
                               <Link
-                                href={`/contaminants/${contam.id}`}
                                 className="underline underline-offset-4 transition-colors hover:text-primary"
+                                href={`/contaminants/${contam.id}`}
                               >
                                 {contam.name}
                               </Link>
@@ -215,14 +212,14 @@ export default async function ContaminantsPage() {
           );
         })}
 
-        <hr className="border-black/20 -mx-6" />
+        <hr className="-mx-6 border-black/20" />
 
         {/* Top 25 most common contaminants */}
         <section>
           <HeadingL className="mt-0 mb-4">
             Top {topContaminants.length} most common contaminants
           </HeadingL>
-          <ol role="list" className="space-y-1">
+          <ol className="space-y-1">
             {topContaminants.map((cont) => {
               const pct = maxSiteCount
                 ? ((cont.siteCount ?? 0) * 100) / maxSiteCount
@@ -233,18 +230,18 @@ export default async function ContaminantsPage() {
               return (
                 <li key={cont.id}>
                   <Link
+                    className="flex items-center gap-2 rounded-md px-2 py-1 transition-opacity hover:opacity-80"
                     href={`/contaminants/${cont.id}`}
-                    className="flex items-center gap-2 px-2 py-1 rounded-md transition-opacity hover:opacity-80"
                     style={{
                       backgroundImage: `linear-gradient(to right, hsl(0 0 0 / 5%) 0%, hsl(0 0 0 / 5%) ${pct}%, transparent ${pct}%, transparent 100%)`,
                     }}
                   >
                     {Icon && (
                       <Icon
-                        width={24}
-                        height={24}
                         className={clsx(color, "")}
+                        height={24}
                         title={`Most frequently occurs in ${context.name}`}
+                        width={24}
                       />
                     )}
                     <span className="font-sans text-lg">{cont.name}</span>
@@ -252,7 +249,7 @@ export default async function ContaminantsPage() {
                       {cont.summary ? "→" : null}
                     </small>
                     {cont.contexts && cont.contexts.length > 0 && (
-                      <span className="ml-auto text-xs text-neutral-600">
+                      <span className="ml-auto text-neutral-600 text-xs">
                         {cont.siteCount} site{cont.siteCount === 1 ? "" : "s"}
                       </span>
                     )}

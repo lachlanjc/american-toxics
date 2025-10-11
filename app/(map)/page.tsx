@@ -18,25 +18,25 @@ export default function Page() {
       <HeaderRoot showClose={false}>
         <HeaderTitle>American Toxics</HeaderTitle>
         <a
+          className="absolute top-0 right-0 opacity-40 transition-opacity hover:opacity-50"
           href="https://github.com/lachlanjc/superfund"
-          className="opacity-40 transition-opacity hover:opacity-50 absolute top-0 right-0"
         >
           <GitHubIcon />
           <span className="sr-only">Open Source on GitHub</span>
         </a>
       </HeaderRoot>
       <SearchTabs />
-      <hr className="border-black/20 -mx-6 my-6" />
-      <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 w-full font-sans text-lg font-medium tracking-tight text-neutral-800 leading-[1.125]">
+      <hr className="-mx-6 my-6 border-black/20" />
+      <div className="grid w-full grid-cols-2 gap-4 font-medium font-sans text-lg text-neutral-800 leading-[1.125] tracking-tight sm:grid-cols-3">
         <Link
-          href="/npl"
           className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
+          href="/npl"
         >
-          <div className="flex -gap-3 overflow-hidden max-w-full">
+          <div className="-gap-3 flex max-w-full overflow-hidden">
             {Object.values(nplStatuses).map(({ color }) => (
               <div
+                className={`h-4 w-4 shrink-0 ${color} rounded-full bg-current outline-2 outline-[#efeef0]`}
                 key={color}
-                className={`w-4 h-4 shrink-0 ${color} bg-current rounded-full outline-2 outline-[#efeef0]`}
               />
             ))}
           </div>
@@ -45,10 +45,10 @@ export default function Page() {
           Cleanup Progress
         </Link>
         <Link
-          href="/categories"
           className="action-button flex flex-col items-start gap-2 p-4 py-3.5"
+          href="/categories"
         >
-          <div className="flex -gap-2 -ml-1 overflow-hidden max-w-full">
+          <div className="-gap-2 -ml-1 flex max-w-full overflow-hidden">
             {[
               "chemical",
               "military",
@@ -59,7 +59,7 @@ export default function Page() {
             ]
               .map((cat) => categories[cat as keyof typeof categories])
               .map(({ color, icon: Icon }) => (
-                <Icon key={color} className={`w-5 h-5 shrink-0 ${color}`} />
+                <Icon className={`h-5 w-5 shrink-0 ${color}`} key={color} />
               ))}
           </div>
           Explore
@@ -67,54 +67,54 @@ export default function Page() {
           by Category
         </Link>
         <Link
-          href="/states"
           className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
+          href="/states"
         >
           <div
-            className="flex -gap-3 h-4 fill-neutral-400"
-            role="img"
             aria-label="State outlines of NJ, PA, NY, CA"
+            className="-gap-3 flex h-4 fill-neutral-400"
+            role="img"
           >
-            <NJ width="18" height="24" aria-hidden />
-            <PA width="28" height="24" aria-hidden />
-            <NY width="24" height="24" aria-hidden />
-            <CA width="24" height="24" aria-hidden />
+            <NJ aria-hidden height="24" width="18" />
+            <PA aria-hidden height="24" width="28" />
+            <NY aria-hidden height="24" width="24" />
+            <CA aria-hidden height="24" width="24" />
           </div>
           Explore
           <br />
           by State
         </Link>
         <Link
+          className="action-button flex gap-1.5 p-4 max-sm:flex-col sm:items-center"
           href="/contaminants"
-          className="action-button flex max-sm:flex-col sm:items-center gap-1.5 p-4"
         >
           <SvgSludge
-            width={24}
-            height={24}
             aria-label="Sludge icon"
             className="shrink-0 fill-neutral-400"
+            height={24}
+            width={24}
           />
           <span className="text-trim-both">Contaminants</span>
         </Link>
         <Link
-          href="/scoreboard/results"
           className="action-button flex items-center gap-1.5 p-4"
+          href="/scoreboard/results"
         >
           <SvgTarget
-            width={24}
-            height={24}
             className="shrink-0 fill-neutral-400"
+            height={24}
+            width={24}
           />
           <span className="text-trim-both">Scoreboard</span>
         </Link>
         <Link
-          href="/about"
           className="action-button flex items-center gap-1.5 p-4"
+          href="/about"
         >
           <SvgInfo
-            width={24}
-            height={24}
             className="shrink-0 fill-neutral-400"
+            height={24}
+            width={24}
           />
           <span className="text-trim-both">About</span>
         </Link>

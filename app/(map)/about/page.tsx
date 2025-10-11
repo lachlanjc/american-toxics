@@ -30,7 +30,7 @@ export default async function About() {
       </HeaderTitle>
     </HeaderRoot>,
     <article
-      className="prose prose-neutral prose-a:text-primary prose-a:underline-offset-3 prose-p:text-pretty prose-sm"
+      className="prose prose-neutral prose-sm prose-p:text-pretty prose-a:text-primary prose-a:underline-offset-3"
       key="article"
     >
       <p>
@@ -103,34 +103,34 @@ export default async function About() {
         Source: <a href="https://www.epa.gov/superfund/what-superfund">EPA</a>.
       </p>
     </article>,
-    <hr key="hr1" className="border-black/20 -mx-6 my-6" />,
-    <section key="stats" className="">
+    <hr className="-mx-6 my-6 border-black/20" key="hr1" />,
+    <section className="" key="stats">
       <Heading>Stats</Heading>
       <dl className="mt-4">
-        <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
+        <dt className="md:-ml-1 font-sans text-7xl text-trim-both leading-none tracking-tighter">
           {siteCount?.toLocaleString()}
         </dt>
-        <dd className="mt-4 mb-8 text-sm uppercase block text-neutral-600">
+        <dd className="mt-4 mb-8 block text-neutral-600 text-sm uppercase">
           Total sites
         </dd>
-        <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
+        <dt className="md:-ml-1 font-sans text-7xl text-trim-both leading-none tracking-tighter">
           {totalSqMiles.toLocaleString()}
         </dt>
-        <dd className="mt-4 mb-8 text-sm uppercase block text-neutral-600">
+        <dd className="mt-4 mb-8 block text-neutral-600 text-sm uppercase">
           Toxic square miles (2x Maryland)
         </dd>
-        <dt className="text-7xl font-sans leading-none tracking-tighter text-trim-both md:-ml-1">
+        <dt className="md:-ml-1 font-sans text-7xl text-trim-both leading-none tracking-tighter">
           {avgSqMiles.toLocaleString()}
         </dt>
-        <dd className="mt-4 text-sm uppercase block text-neutral-600">
+        <dd className="mt-4 block text-neutral-600 text-sm uppercase">
           Average site size (miles<sup>2</sup>)
         </dd>
       </dl>
     </section>,
-    <hr key="hr2" className="border-black/20 -mx-6 my-6" />,
+    <hr className="-mx-6 my-6 border-black/20" key="hr2" />,
     <section
+      className="prose prose-neutral prose-sm prose-p:text-pretty prose-a:text-primary prose-a:underline-offset-3"
       key="author"
-      className="prose prose-neutral prose-a:text-primary prose-a:underline-offset-3 prose-p:text-pretty prose-sm"
     >
       <Heading>About this site</Heading>
       <p>

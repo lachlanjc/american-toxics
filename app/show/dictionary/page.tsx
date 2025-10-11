@@ -36,7 +36,7 @@ export default async function Page() {
   }
   // Generate slugs (IDs) from raw contaminant names
   const uniqueIds = Array.from(
-    new Set(siteContaminants.map((c) => slug(c.name))),
+    new Set(siteContaminants.map((c) => slug(c.name)))
   );
   // Fetch full contaminant records
   // Fetch full contaminant records by slugged IDs
@@ -64,22 +64,22 @@ export default async function Page() {
     return a.name.localeCompare(b.name);
   });
   return (
-    <main className="font-sans grid grid-cols-2" style={{ fontSize: 12 }}>
+    <main className="grid grid-cols-2 font-sans" style={{ fontSize: 12 }}>
       {/* Table of contents */}
-      <article key="toc" className="p-8 flex flex-col w-[50vi] h-[50vb]">
-        <h1 className="text-[2em] leading-none font-semibold">Contaminants</h1>
+      <article className="flex h-[50vb] w-[50vi] flex-col p-8" key="toc">
+        <h1 className="font-semibold text-[2em] leading-none">Contaminants</h1>
         <nav
           aria-label="Table of contents"
           className="mt-4 flex flex-col gap-0"
         >
           {sorted.map((contaminant, i) => (
             <a
-              key={contaminant.id}
-              href={`#${contaminant.id}`}
               className="flex justify-between"
+              href={`#${contaminant.id}`}
+              key={contaminant.id}
             >
               {contaminant.name}
-              <span className="text-neutral-400 font-mono text-[0.75em] tabular-nums">
+              <span className="font-mono text-[0.75em] text-neutral-400 tabular-nums">
                 {i + 1}
               </span>
             </a>
@@ -92,21 +92,21 @@ export default async function Page() {
           new Set(
             siteContaminants
               .filter((c) => slug(c.name) === contaminant.id)
-              .map((c) => c.media),
-          ),
+              .map((c) => c.media)
+          )
         );
         return (
           <article
+            className="flex h-[50vb] w-[50vi] flex-col p-8"
             id={contaminant.id}
             key={contaminant.id}
-            className="p-8 flex flex-col w-[50vi] h-[50vb]"
             // style={{ scale: 2 }}
           >
-            <h2 className="text-[2em] text-balance leading-none font-semibold">
+            <h2 className="text-balance font-semibold text-[2em] leading-none">
               {contaminant.name}
             </h2>
             {contaminant.summary && (
-              <p className="mt-4 font-mono text-[1em] text-neutral-700 text-pretty flex-grow">
+              <p className="mt-4 flex-grow text-pretty font-mono text-[1em] text-neutral-700">
                 {contaminant.summary.replaceAll("*", "")}
               </p>
             )}
@@ -117,12 +117,12 @@ export default async function Page() {
                 const Icon = context.icon;
                 const color = contaminantCategories[context.category]?.color;
                 return (
-                  <div className="flex items-center gap-2 -ml-1" key={ctx}>
+                  <div className="-ml-1 flex items-center gap-2" key={ctx}>
                     <Icon
-                      width="2em"
-                      height="2em"
-                      className={clsx(color)}
                       aria-hidden
+                      className={clsx(color)}
+                      height="2em"
+                      width="2em"
                     />
                     {context.name}
                   </div>

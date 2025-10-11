@@ -17,14 +17,14 @@ export function Search({ children }: React.PropsWithChildren<object>) {
 
   return (
     <section>
-      <search className="w-full action-button mb-4">
+      <search className="action-button mb-4 w-full">
         <input
-          type="search"
-          className="p-2 w-full outline-0"
-          value={query}
-          placeholder="Search by county, city, state, or site name"
+          className="w-full p-2 outline-0"
           onChange={handleSearch}
+          placeholder="Search by county, city, state, or site name"
           ref={ref}
+          type="search"
+          value={query}
         />
       </search>
       {results.length > 0 && (
@@ -33,7 +33,7 @@ export function Search({ children }: React.PropsWithChildren<object>) {
           sites={results}
         />
       )}
-      {!query ? children : null}
+      {query ? null : children}
     </section>
   );
 }

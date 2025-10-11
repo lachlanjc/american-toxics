@@ -46,7 +46,7 @@ export default async function ContaminantPage({
 
   const { name, summary, siteCount, epaPdfUrl, wikipediaUrl } = contaminant;
   const contexts: Array<ContaminantContext> = (contaminant?.contexts || []).map(
-    (ctx: string) => contaminantContexts[ctx],
+    (ctx: string) => contaminantContexts[ctx]
   );
   const contextCategories = Object.groupBy(contexts, (ctx) => ctx.category);
   const images: Array<Database["public"]["Tables"]["images"]["Row"]> = [];
@@ -70,20 +70,20 @@ export default async function ContaminantPage({
       </HeaderRoot>
 
       {summary && (
-        <p className="whitespace-pre-wrap text-neutral-600 text-pretty">
+        <p className="whitespace-pre-wrap text-pretty text-neutral-600">
           {summary}
         </p>
       )}
-      <div className="flex items-center mt-4 text-neutral-600 text-xs">
-        <OpenAIIcon className="w-5 h-5 fill-neutral-500 mr-3" />
+      <div className="mt-4 flex items-center text-neutral-600 text-xs">
+        <OpenAIIcon className="mr-3 h-5 w-5 fill-neutral-500" />
         <span>
           {epaPdfUrl ? (
             <>
               <a
+                className="underline underline-offset-3 transition-colors hover:text-primary"
                 href={epaPdfUrl}
-                target="_blank"
                 rel="noreferrer"
-                className="underline underline-offset-3 hover:text-primary transition-colors"
+                target="_blank"
               >
                 EPA document
               </a>
@@ -92,10 +92,10 @@ export default async function ContaminantPage({
           ) : null}
           {wikipediaUrl ? (
             <a
+              className="underline underline-offset-3 transition-colors hover:text-primary"
               href={wikipediaUrl}
-              target="_blank"
               rel="noreferrer"
-              className="underline underline-offset-3 hover:text-primary transition-colors"
+              target="_blank"
             >
               Wikipedia
             </a>
@@ -118,26 +118,26 @@ export default async function ContaminantPage({
                   key as keyof typeof contaminantCategories
                 ];
               return (
-                <div key={key} className="flex flex-col mt-4">
-                  <dt className="uppercase text-xs text-neutral-600 mb-1">
+                <div className="mt-4 flex flex-col" key={key}>
+                  <dt className="mb-1 text-neutral-600 text-xs uppercase">
                     {category.name}
                   </dt>
-                  <div className="flex flex-wrap justify-start gap-x-4 font-sans text-base -ml-1">
+                  <div className="-ml-1 flex flex-wrap justify-start gap-x-4 font-sans text-base">
                     {contexts
                       .filter((ctx) => ctx.category === key)
                       .map((ctx) => {
                         const Icon = ctx?.icon;
                         return (
                           <dd
-                            key={ctx.name}
                             className="flex items-center gap-1"
+                            key={ctx.name}
                           >
                             {Icon && (
                               <Icon
-                                width={32}
-                                height={32}
-                                className={clsx(category.color)}
                                 aria-hidden
+                                className={clsx(category.color)}
+                                height={32}
+                                width={32}
                               />
                             )}
                             <span>{ctx?.name}</span>
@@ -152,32 +152,32 @@ export default async function ContaminantPage({
         </WellRoot>
       )}
       {images && images.length > 0 && (
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-6">
+        <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
           {images.map((img) => (
-            <figure key={img.url} className="flex flex-col">
+            <figure className="flex flex-col" key={img.url}>
               <Image
+                alt={img.alt ?? ""}
+                height={img.height || undefined}
                 src={img.url}
                 width={img.width || undefined}
-                height={img.height || undefined}
-                alt={img.alt ?? ""}
                 {...(img.blurhash
                   ? { placeholder: "blur", blurDataURL: img.blurhash }
                   : {})}
-                className="object-cover w-full h-auto rounded"
+                className="h-auto w-full rounded object-cover"
               />
               {img.caption && (
-                <figcaption className="mt-2 text-sm text-neutral-600">
+                <figcaption className="mt-2 text-neutral-600 text-sm">
                   {img.caption}
                 </figcaption>
               )}
               {img.source && (
-                <figcaption className="mt-1 text-xs text-neutral-500">
+                <figcaption className="mt-1 text-neutral-500 text-xs">
                   Source:{" "}
                   <a
+                    className="underline underline-offset-2 transition-colors hover:text-primary"
                     href={img.source}
-                    target="_blank"
                     rel="noreferrer"
-                    className="underline underline-offset-2 hover:text-primary transition-colors"
+                    target="_blank"
                   >
                     {img.source}
                   </a>

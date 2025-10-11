@@ -1,5 +1,6 @@
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 import { createClient } from "jsr:@supabase/supabase-js@2";
+
 const MAPBOX_TOKEN = process.env.MAPBOX_TOKEN;
 const categories = [
   "education",
@@ -31,7 +32,7 @@ Deno.serve(async (req) => {
             Authorization: req.headers.get("Authorization"),
           },
         },
-      },
+      }
     );
     const { data: sites, error: fetchError } = await supabase
       .from("sites")
@@ -63,7 +64,7 @@ Deno.serve(async (req) => {
           "Content-Type": "application/json",
         },
         status: 200,
-      },
+      }
     );
   } catch (error) {
     return new Response(
@@ -75,7 +76,7 @@ Deno.serve(async (req) => {
           "Content-Type": "application/json",
         },
         status: 400,
-      },
+      }
     );
   }
 });

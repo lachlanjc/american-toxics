@@ -31,7 +31,7 @@ function AITextHighlight({
 }) {
   return (
     <u
-      className={"decoration-double underline-offset-4 cursor-zoom-in"}
+      className={"cursor-zoom-in decoration-double underline-offset-4"}
       data-text={text}
       onClick={() => {
         const is =
@@ -67,25 +67,21 @@ function AIText({
     .filter((part) => part.type === "text")
     .map((part, i) => {
       const markText = (text: string | Array<React.ReactNode>) =>
-        reactStringReplace(text, markRegex, (match: string, i: number) => {
-          return (
-            <AITextHighlight
-              text={match}
-              onQuery={onQuery}
-              key={[match, i].join("")}
-            />
-          );
-        });
+        reactStringReplace(text, markRegex, (match: string, i: number) => (
+          <AITextHighlight
+            key={[match, i].join("")}
+            onQuery={onQuery}
+            text={match}
+          />
+        ));
       const bolded = reactStringReplace(
         part.text,
         boldRegex,
-        (match: string) => {
-          return (
-            <strong data-text={match} key={match}>
-              {markText(match)}
-            </strong>
-          );
-        },
+        (match: string) => (
+          <strong data-text={match} key={match}>
+            {markText(match)}
+          </strong>
+        )
       );
       const marked = markText(bolded);
       return (
@@ -105,37 +101,35 @@ function SiteDescription({
 }) {
   const text = site.summary ?? "";
   const markText = (text: string | Array<React.ReactNode>) =>
-    reactStringReplace(text, markRegex, (match: string, i: number) => {
-      return (
-        <AITextHighlight
-          text={match}
-          onQuery={onQuery}
-          key={[match, i].join("")}
-        />
-      );
-    });
-  const bolded = reactStringReplace(text, boldRegex, (match: string) => {
-    return <strong key={match}>{markText(match)}</strong>;
-  });
+    reactStringReplace(text, markRegex, (match: string, i: number) => (
+      <AITextHighlight
+        key={[match, i].join("")}
+        onQuery={onQuery}
+        text={match}
+      />
+    ));
+  const bolded = reactStringReplace(text, boldRegex, (match: string) => (
+    <strong key={match}>{markText(match)}</strong>
+  ));
   const marked = markText(bolded);
   const epa = (
-    <abbr title="Environmental Protection Agency" className="no-underline">
+    <abbr className="no-underline" title="Environmental Protection Agency">
       EPA
     </abbr>
   );
   return (
     <section className="pb-1">
-      <p className={`whitespace-pre-wrap text-neutral-600 text-pretty`}>
+      <p className={"whitespace-pre-wrap text-pretty text-neutral-600"}>
         {marked}
       </p>
-      <div className="flex items-center gap-2.5 mt-2 text-neutral-500 text-xs">
-        <OpenAIIcon className="w-5 h-5" />
+      <div className="mt-2 flex items-center gap-2.5 text-neutral-500 text-xs">
+        <OpenAIIcon className="h-5 w-5" />
         {site.epaUrl ? (
           <a
+            className="underline underline-offset-3 transition-colors hover:text-primary"
             href={site.epaUrl}
-            target="_blank"
             rel="noreferrer"
-            className="underline underline-offset-3 hover:text-primary transition-colors"
+            target="_blank"
           >
             {epa} information
           </a>
@@ -163,16 +157,16 @@ function FloatingImage({
   source = "",
 }: Database["public"]["Tables"]["images"]["Row"]) {
   return (
-    <figure key={id} className="floating-image overflow-hidden">
+    <figure className="floating-image overflow-hidden" key={id}>
       <Image
+        alt={alt || ""}
+        blurDataURL={blurhash || undefined}
+        height={height || 512}
+        placeholder="blur"
         src={url}
         width={width || 512}
-        height={height || 512}
-        blurDataURL={blurhash || undefined}
-        placeholder="blur"
-        alt={alt || ""}
       />
-      <figcaption className="absolute bottom-0 left-0 right-0 p-3 bg-white/80 backdrop-blur-md backdrop-saturate-150 rounded-b-lg leading-snug font-sans text-balance text-trim-both">
+      <figcaption className="absolute right-0 bottom-0 left-0 text-balance rounded-b-lg bg-white/80 p-3 font-sans text-trim-both leading-snug backdrop-blur-md backdrop-saturate-150">
         Photo by {credits[source || ""] ?? source}
       </figcaption>
     </figure>
@@ -207,8 +201,8 @@ export function SiteCard({
       !messages.some(
         (m) =>
           m.role === "user" &&
-          m.parts.some((p) => p.type === "text" && p.text === q),
-      ),
+          m.parts.some((p) => p.type === "text" && p.text === q)
+      )
   );
   return (
     <div className="flex flex-col gap-4">
@@ -229,10 +223,10 @@ export function SiteCard({
             <>
               {", "}
               <Link
+                className="underline underline-offset-3 transition-colors hover:text-primary"
                 href={`/states/${site.stateCode}`}
-                className="underline underline-offset-3 hover:text-primary transition-colors"
               >
-                <abbr title={site.stateName ?? ""} className="no-underline">
+                <abbr className="no-underline" title={site.stateName ?? ""}>
                   {site.stateCode}
                 </abbr>
               </Link>
@@ -242,34 +236,34 @@ export function SiteCard({
         </HeaderSubtitle>
       </HeaderRoot>
 
-      <dl className="grid grid-cols-2 -mt-4">
+      <dl className="-mt-4 grid grid-cols-2">
         <div>
-          <dt className="text-neutral-600 text-xs uppercase mb-1">Category</dt>
+          <dt className="mb-1 text-neutral-600 text-xs uppercase">Category</dt>
           <dd>
             {site.category ? <CategoryChip category={site.category} /> : "—"}
           </dd>
         </div>
         <div>
-          <dt className="text-neutral-600 text-xs uppercase mb-1">Size</dt>
+          <dt className="mb-1 text-neutral-600 text-xs uppercase">Size</dt>
           <dd className="font-sans text-lg">{formatAcres(site.acres)}</dd>
         </div>
       </dl>
 
       <SiteDescription
-        site={site}
         onQuery={(q) => {
           setInput(q);
           ref.current?.focus();
           ref.current?.setSelectionRange(q.length, q.length);
         }}
+        site={site}
       />
       {children}
 
       <section>
         {messages.map((message) => (
           <div
+            className={`whitespace-pre-wrap even:mb-4 ${message.role === "user" ? "mb-1 font-bold font-sans text-lg" : "text-neutral-600"} md:pr-6`}
             key={message.id}
-            className={`whitespace-pre-wrap even:mb-4 ${message.role === "user" ? "font-bold font-sans text-lg mb-1" : "text-neutral-600"} md:pr-6`}
           >
             <AIText
               message={message}
@@ -283,16 +277,16 @@ export function SiteCard({
       </section>
 
       {suggestions.length > 0 && (
-        <div className="flex flex-col w-full">
+        <div className="flex w-full flex-col">
           <Heading className="mb-1">Suggested questions</Heading>
           {suggestions.map((q) => (
             <button
-              className="border-b border-zinc-300 last:border-b-0 text-zinc-600 text-xs py-2 text-left hover:opacity-80 transition-opacity cursor-pointer"
-              type="button"
+              className="cursor-pointer border-zinc-300 border-b py-2 text-left text-xs text-zinc-600 transition-opacity last:border-b-0 hover:opacity-80"
               key={q}
               onClick={() => {
                 append({ role: "user", content: q });
               }}
+              type="button"
             >
               {q}
             </button>
@@ -302,18 +296,18 @@ export function SiteCard({
 
       <div ref={scrollRef} />
       <form
+        className="sticky bottom-0 mt-auto w-full pt-2"
         onSubmit={(e) => {
           handleSubmit(e);
           scrollRef?.current?.scrollIntoView({ behavior: "smooth" });
         }}
-        className="mt-auto w-full pt-2 sticky bottom-0"
       >
         <input
-          className="w-full action-button p-2 !bg-white"
-          value={input}
-          placeholder="Ask something..."
+          className="action-button !bg-white w-full p-2"
           onChange={handleInputChange}
+          placeholder="Ask something..."
           ref={ref}
+          value={input}
         />
       </form>
     </div>

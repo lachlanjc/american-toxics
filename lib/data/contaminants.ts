@@ -1,5 +1,6 @@
 import SvgAir from "@/lib/icons/Air";
 import SvgBuildings from "@/lib/icons/Buildings";
+import SvgDebris from "@/lib/icons/Debris";
 import SvgFish from "@/lib/icons/Fish";
 import SvgGroundwater from "@/lib/icons/Groundwater";
 import SvgLandfillGas from "@/lib/icons/LandfillGas";
@@ -14,8 +15,7 @@ import SvgSoil from "@/lib/icons/Soil";
 import SvgSoilGas from "@/lib/icons/SoilGas";
 import SvgSolidWaste from "@/lib/icons/SolidWaste";
 import SvgSurfaceWater from "@/lib/icons/SurfaceWater";
-import SvgDebris from "@/lib/icons/Debris";
-import { IconComponent } from "@/lib/util/types";
+import type { IconComponent } from "@/lib/util/types";
 
 export type ContaminantCategory = "air" | "water" | "ground" | "other";
 

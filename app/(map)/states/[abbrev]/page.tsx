@@ -17,7 +17,7 @@ export async function generateMetadata({
 }) {
   const { abbrev } = await params;
   const state = states.find(
-    (state) => state.abbrev.toLowerCase() === abbrev.toLowerCase(),
+    (state) => state.abbrev.toLowerCase() === abbrev.toLowerCase()
   );
   if (!state) {
     throw new Error(`State not found: ${abbrev}`);
@@ -36,7 +36,7 @@ export default async function Page({
 }) {
   const { abbrev } = await params;
   const state = states.find(
-    (state) => state.abbrev.toLowerCase() === abbrev.toLowerCase(),
+    (state) => state.abbrev.toLowerCase() === abbrev.toLowerCase()
   );
   if (!state) {
     throw new Error(`State not found: ${abbrev}`);

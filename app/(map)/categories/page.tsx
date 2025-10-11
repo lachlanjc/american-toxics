@@ -38,7 +38,7 @@ export default async function CategoriesPage() {
           categories.
         </HeaderSubtitle>
       </HeaderRoot>
-      <ul className="-mb-1 text-neutral-500 flex flex-col" role="list">
+      <ul className="-mb-1 flex flex-col text-neutral-500">
         {categoryKeys.map((key) => {
           const category = categories[key as keyof typeof categories];
           const count =
@@ -46,18 +46,18 @@ export default async function CategoriesPage() {
           const Icon = category.icon;
           return (
             <li
+              className="group grid w-full grid-cols-[auto_1fr] items-center gap-x-3 gap-y-1 py-3 md:max-w-md"
               key={key}
               role="listitem"
-              className="grid grid-cols-[auto_1fr] w-full gap-x-3 gap-y-1 group items-center md:max-w-md py-3"
             >
-              <Link href={`/categories/${key}`} className="contents">
+              <Link className="contents" href={`/categories/${key}`}>
                 <Icon
                   className={`${category.color} shrink-0`}
                   // style={{ width: Math.max(16, count / 5.5) }}
                 />
                 <div className="flex items-center gap-2">
                   <span
-                    className="font-sans text-lg md:text-2xl font-medium text-black transition-colors group-hover:text-neutral-600"
+                    className="font-medium font-sans text-black text-lg transition-colors group-hover:text-neutral-600 md:text-2xl"
                     style={{ viewTransitionName: key }}
                   >
                     {category.name}

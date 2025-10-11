@@ -62,18 +62,18 @@ const landmarks: Array<ItemProps> = [
 function LandmarkTab({ i, color, id, name }: ItemProps & { i: number }) {
   return (
     <Tab
-      id={id}
       className={clsx(
-        "flex gap-6 items-center text-left w-full",
-        "py-4 pl-4 pr-6 md:pl-6",
-        "border-t border-white/20",
-        "snap-start overflow-x-hidden cursor-pointer",
-        "hover:bg-white/10 data-[selected]:bg-white/20 transition-colors",
+        "flex w-full items-center gap-6 text-left",
+        "py-4 pr-6 pl-4 md:pl-6",
+        "border-white/20 border-t",
+        "cursor-pointer snap-start overflow-x-hidden",
+        "transition-colors hover:bg-white/10 data-[selected]:bg-white/20"
       )}
+      id={id}
     >
-      <Heading className="flex items-center text-2xl/6 text-balance font-sans font-bold">
+      <Heading className="flex items-center text-balance font-bold font-sans text-2xl/6">
         <span
-          className={`w-[1.375em] h-[1.375em] scale-75 origin-left inline-block text-center mr-1 rounded-full text-white shrink-0 ${color}`}
+          className={`mr-1 inline-block h-[1.375em] w-[1.375em] shrink-0 origin-left scale-75 rounded-full text-center text-white ${color}`}
         >
           {i}
         </span>
@@ -93,21 +93,21 @@ function LandmarkTabPanel({
 }: ItemProps) {
   return (
     <TabPanel
-      id={id}
       className={clsx(
         "details-content",
         "p-4 pr-6 md:pl-6",
-        "text-neutral-300 text-base",
-        "overflow-y-auto",
+        "text-base text-neutral-300",
+        "overflow-y-auto"
         // "grid grid-cols-[2fr_1fr] gap-4",
       )}
+      id={id}
     >
       <div>
-        <p className="font-mono mb-6 max-w-2xl text-pretty">{desc}</p>
+        <p className="mb-6 max-w-2xl text-pretty font-mono">{desc}</p>
         {id === "site" && (
           <Link
+            className="action-button mb-4 flex cursor-pointer items-center justify-center gap-2 py-1.5 font-medium font-sans text-base"
             href="/sites/PAD000436261"
-            className="action-button cursor-pointer font-sans font-medium text-base py-1.5 gap-2 flex items-center justify-center mb-4"
           >
             Explore the site
           </Link>
@@ -117,10 +117,10 @@ function LandmarkTabPanel({
       {img && (
         <figure className="pb-4 font-mono text-xs">
           <Image
-            src={img}
             alt={name}
-            className="rounded-xl mb-2 max-h-sm"
+            className="mb-2 max-h-sm rounded-xl"
             placeholder="blur"
+            src={img}
           />
           <figcaption>Photo via {imgCredit}</figcaption>
         </figure>
@@ -132,12 +132,12 @@ function LandmarkTabPanel({
 function Landmarks() {
   return (
     <Tabs
+      className="grid max-h-full grid-cols-[1fr_2fr] border-white/20 border-t"
       orientation="vertical"
-      className="grid grid-cols-[1fr_2fr] border-t border-white/20 max-h-full"
     >
-      <TabList aria-label="Landmarks" className="border-r border-white/20">
+      <TabList aria-label="Landmarks" className="border-white/20 border-r">
         {landmarks.map((item, i) => (
-          <LandmarkTab key={item.id} i={i + 1} {...item} />
+          <LandmarkTab i={i + 1} key={item.id} {...item} />
         ))}
       </TabList>
       {landmarks.map((item) => (
@@ -149,21 +149,21 @@ function Landmarks() {
 
 function Mobile() {
   return (
-    <article className="w-fit grid grid-cols-3 grid-rows-[auto_repeat(8,auto)] gap-x-4 gap-y-4">
+    <article className="grid w-fit grid-cols-3 grid-rows-[auto_repeat(8,auto)] gap-x-4 gap-y-4">
       {Object.entries(contaminantCategories).map(([key, category], i) => (
         <section
-          key={key}
           className={clsx(
             "grid grid-rows-subgrid",
             key === "other"
-              ? `col-start-3 row-start-5 row-end-8`
-              : `col-start-${i + 1} row-start-1 row-end-8`,
+              ? "col-start-3 row-start-5 row-end-8"
+              : `col-start-${i + 1} row-start-1 row-end-8`
           )}
+          key={key}
         >
-          <h1 className="font-bold font-sans text-3xl tracking-tight self-end">
+          <h1 className="self-end font-bold font-sans text-3xl tracking-tight">
             {category.name}
           </h1>
-          <ul className={clsx("contents")} role="list">
+          <ul className={clsx("contents")}>
             {category.contexts
               // .filter((key) => key !== "other")
               .map((ctxKey) => {
@@ -171,21 +171,21 @@ function Mobile() {
                 const Icon = context.icon;
                 return (
                   <li
+                    className="grid w-full grid-cols-[auto_1fr] items-start gap-x-2 md:max-w-md"
                     key={ctxKey}
-                    className="grid grid-cols-[auto_1fr] w-full gap-x-2 items-start md:max-w-md"
                   >
                     <Icon
-                      width={48}
-                      height={48}
-                      className={clsx(category.color, "-ml-1")}
                       aria-hidden
+                      className={clsx(category.color, "-ml-1")}
+                      height={48}
+                      width={48}
                     />
                     <div>
-                      <strong className="font-sans text-lg md:text-xl font-medium">
+                      <strong className="font-medium font-sans text-lg md:text-xl">
                         {context.name}
                       </strong>
                       {context.desc && (
-                        <p className="mt-1 text-pretty text-neutral-400 font-mono text-xs leading-relaxed">
+                        <p className="mt-1 text-pretty font-mono text-neutral-400 text-xs leading-relaxed">
                           {context.desc}
                         </p>
                       )}
@@ -204,11 +204,11 @@ export default function Page() {
   return (
     <main data-appearance="dark">
       <Webcam
+        className="absolute z-0 h-screen w-screen object-cover"
         videoConstraints={{ facingMode: "environment" }}
-        className="absolute w-screen h-screen object-cover z-0"
       />
       <article
-        className="main-card backdrop-blur-lg backdrop-saturate-175 rounded-xl md:rounded-2xl absolute top-8 left-1/2 -translate-x-1/2 w-full overflow-y-auto"
+        className="main-card -translate-x-1/2 absolute top-8 left-1/2 w-full overflow-y-auto rounded-xl backdrop-blur-lg backdrop-saturate-175 md:rounded-2xl"
         style={{
           maxWidth: "min(100vi - 32px, 68rem)",
           maxHeight: "calc(100svb - 64px)",
@@ -216,24 +216,24 @@ export default function Page() {
       >
         <Tabs className="w-full">
           <header className="p-4">
-            <TabList className="grid grid-cols-2 bg-black/10 p-1 gap-1 rounded-xl font-sans font-medium text-neutral-700 text-base text-center">
+            <TabList className="grid grid-cols-2 gap-1 rounded-xl bg-black/10 p-1 text-center font-medium font-sans text-base text-neutral-700">
               <Tab
-                id="landmarks"
                 className="active-tab px-4 py-3 text-trim-both"
+                id="landmarks"
               >
                 Map: Landmarks
               </Tab>
-              <Tab id="mobile" className="active-tab px-4 py-3 text-trim-both">
+              <Tab className="active-tab px-4 py-3 text-trim-both" id="mobile">
                 Mobile: Types of Contamination
               </Tab>
             </TabList>
           </header>
 
-          <TabPanel id="landmarks" className="">
+          <TabPanel className="" id="landmarks">
             <Landmarks />
           </TabPanel>
 
-          <TabPanel id="mobile" className="p-4 pt-0">
+          <TabPanel className="p-4 pt-0" id="mobile">
             <Mobile />
           </TabPanel>
         </Tabs>

@@ -35,15 +35,15 @@ function CollapsibleSiteList({
 
   return (
     <details className="mt-6" open={sites.length <= 2}>
-      <summary className="flex gap-2 items-center cursor-pointer overflow-clip">
-        <div className="text-lg font-sans font-semibold">
+      <summary className="flex cursor-pointer items-center gap-2 overflow-clip">
+        <div className="font-sans font-semibold text-lg">
           {pluralize(siteIds.length)} {title}
         </div>
         <SvgChevronDown
-          width={20}
-          height={20}
-          className="-mr-1 ml-auto text-neutral-400 transition-transform in-open:rotate-180"
           aria-hidden
+          className="-mr-1 ml-auto in-open:rotate-180 text-neutral-400 transition-transform"
+          height={20}
+          width={20}
         />
       </summary>
       <SiteList sites={sites} />
@@ -75,14 +75,14 @@ export default async function ScorePage({
   sites20 ??= [];
 
   const allIds = Array.from(
-    new Set([siteNearestId, ...sites1, ...sites5, ...sites10, ...sites20]),
+    new Set([siteNearestId, ...sites1, ...sites5, ...sites10, ...sites20])
   );
   const { data: siteRecords } = await supabase
     .from("sites")
     .select("id,name,lat,lng,category,npl,city,stateCode")
     .in("id", allIds);
   const siteMap = new Map(
-    (siteRecords || []).map((s: PartialSite) => [s.id, s]),
+    (siteRecords || []).map((s: PartialSite) => [s.id, s])
   );
   const siteNearest = siteMap.get(siteNearestId);
 
@@ -96,7 +96,7 @@ export default async function ScorePage({
   return (
     <>
       {lat && lng && <MapZoom center={[lat, lng]} />}
-      <HeaderRoot showClose closeLink="/scoreboard/new">
+      <HeaderRoot closeLink="/scoreboard/new" showClose>
         <HeaderTitle>
           That’s{" "}
           {siteNearestMiles?.toLocaleString("en-US", {
@@ -125,19 +125,19 @@ export default async function ScorePage({
       {buckets.map(({ title, ids }) => (
         <CollapsibleSiteList
           key={title}
-          title={title}
           siteIds={ids}
           siteMap={siteMap}
+          title={title}
         />
       ))}
 
-      <div className="grid grid-cols-2 gap-4 mt-6">
+      <div className="mt-6 grid grid-cols-2 gap-4">
         <ShareButton url={`/scoreboard/${id}`} />
         <Link
+          className="action-button !bg-neutral-800 hover:!bg-neutral-700 flex cursor-pointer items-center justify-center gap-2 py-1.5 font-medium font-sans text-base text-neutral-100"
           href={`/scoreboard/results?id=${id}`}
-          className="action-button !bg-neutral-800 hover:!bg-neutral-700 text-neutral-100 cursor-pointer font-sans font-medium text-base py-1.5 gap-2 flex items-center justify-center"
         >
-          <SvgTrophy width={24} height={24} className="text-neutral-300" />
+          <SvgTrophy className="text-neutral-300" height={24} width={24} />
           See your ranking
         </Link>
         {/*
