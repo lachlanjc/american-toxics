@@ -1,16 +1,10 @@
 "use client";
 
-import {
-  type PropsWithChildren,
-  useEffect,
-  useMemo,
-  useRef,
-  useState,
-} from "react";
+import type { PropsWithChildren } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
-import type { FeatureCollection, Point } from "geojson";
 import { useParams, useRouter } from "next/navigation";
 import MapComponent, {
   GeolocateControl,
@@ -23,7 +17,14 @@ import MapComponent, {
   Source,
 } from "react-map-gl/mapbox";
 import type { SiteNPLStatus } from "@/lib/data/site";
-import SITES from "@/lib/data/sites-mini.json" with { type: "json" };
+
+const statusFillColors: Record<SiteNPLStatus, string> = {
+  proposed: "#fe9a00",
+  listed: "#ff4921",
+  cleaning: "#e12afb",
+  cleaned: "#00a6f4",
+  completed: "#00bba7",
+};
 
 function MainCard({
   title,
@@ -65,34 +66,7 @@ const initialViewState = {
   pitch: 20,
 };
 
-const statusFillColors: Record<SiteNPLStatus, string> = {
-  proposed: "#fe9a00",
-  listed: "#ff4921",
-  cleaning: "#e12afb",
-  cleaned: "#00a6f4",
-  completed: "#00bba7",
-};
-
 const siteLayerId = "site-points";
-
-const siteCircleLayer: LayerProps = {
-  id: siteLayerId,
-  type: "circle",
-  source: "sites",
-  paint: {
-    "circle-color": ["get", "color"],
-    "circle-opacity": ["case", ["get", "dimmed"], 0.2, 0.9],
-    "circle-radius": [
-      "interpolate",
-      ["linear"],
-      ["zoom"],
-      3,
-      ["case", ["get", "selected"], 7.5, 4.5],
-      10,
-      ["case", ["get", "selected"], 18, 11],
-    ],
-  },
-};
 
 export default function MapLayoutClient({
   children,
@@ -101,8 +75,8 @@ export default function MapLayoutClient({
   const { site: siteId, status: nplStatus } = useParams();
 
   const mapRef = useRef<MapRef | null>(null);
-  const rootRef = useRef<HTMLDivElement | null>(null);
   const [cursor, setCursor] = useState<string | undefined>(undefined);
+
   useEffect(() => {
     // @ts-expect-error global
     window.mapRef = mapRef;
@@ -122,37 +96,68 @@ export default function MapLayoutClient({
     return (nplStatus as SiteNPLStatus | undefined) ?? undefined;
   }, [nplStatus]);
 
-  const siteGeojson = useMemo<
-    FeatureCollection<Point, Record<string, unknown>>
-  >(
-    () =>
-      ({
-        type: "FeatureCollection",
-        features: SITES.map((marker) => ({
-          type: "Feature",
-          id: marker.id,
-          geometry: {
-            type: "Point",
-            coordinates: [marker.lng, marker.lat],
-          },
-          properties: {
-            id: marker.id,
-            color:
-              statusFillColors[marker.npl as SiteNPLStatus] ??
-              statusFillColors.listed,
-            dimmed: Boolean(activeNplStatus && activeNplStatus !== marker.npl),
-            selected: Boolean(activeSiteId && activeSiteId === marker.id),
-          },
-        })),
-      }) satisfies FeatureCollection<Point, Record<string, unknown>>,
-    [activeNplStatus, activeSiteId]
-  );
+  const siteCircleLayer = useMemo<LayerProps>(() => {
+    const selectedId = activeSiteId ?? "";
+    const opacity = activeNplStatus
+      ? ([
+          "case",
+          ["!=", ["get", "npl"], activeNplStatus],
+          0.2,
+          0.9,
+        ] as const)
+      : 0.9;
+
+    const colorExpression = [
+      "match",
+      ["get", "npl"],
+      "proposed",
+      statusFillColors.proposed,
+      "listed",
+      statusFillColors.listed,
+      "cleaning",
+      statusFillColors.cleaning,
+      "cleaned",
+      statusFillColors.cleaned,
+      "completed",
+      statusFillColors.completed,
+      statusFillColors.listed,
+    ] as const;
+
+    return {
+      id: siteLayerId,
+      type: "circle",
+      source: "sites",
+      paint: {
+        "circle-color": colorExpression,
+        "circle-opacity": opacity,
+        "circle-radius": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          3,
+          [
+            "case",
+            ["==", ["id"], selectedId],
+            7.5,
+            4.5,
+          ],
+          10,
+          [
+            "case",
+            ["==", ["id"], selectedId],
+            18,
+            11,
+          ],
+        ],
+      },
+    } satisfies LayerProps;
+  }, [activeNplStatus, activeSiteId]);
 
   const handleMapClick = (event: MapMouseEvent) => {
     const feature = event.features?.[0];
-    const featureId = feature?.properties?.id;
-    if (featureId && typeof featureId === "string") {
-      router.push(`/sites/${featureId}`);
+    const featureId = feature?.id;
+    if (featureId != null) {
+      router.push(`/sites/${String(featureId)}`);
     }
   };
 
@@ -162,7 +167,7 @@ export default function MapLayoutClient({
   };
 
   return (
-    <div className="h-full w-full" ref={rootRef}>
+    <div className="h-full w-full">
       <MapProvider>
         <style>
           {
@@ -191,7 +196,7 @@ export default function MapLayoutClient({
             showCompass={false}
             visualizePitch={false}
           />
-          <Source data={siteGeojson} id="sites" type="geojson">
+          <Source data="/sites.geojson" id="sites" type="geojson">
             <Layer {...siteCircleLayer} />
           </Source>
         </MapComponent>
