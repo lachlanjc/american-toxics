@@ -47,10 +47,20 @@ export default async function ContaminantPage({
   }
 
   const { name, summary, siteCount, epaPdfUrl, wikipediaUrl } = contaminant;
-  const contexts: Array<ContaminantContext> = (contaminant?.contexts || []).map(
-    (ctx: string) => contaminantContexts[ctx]
-  );
-  const contextCategories = Object.groupBy(contexts, (ctx) => ctx.category);
+  const contexts: Array<ContaminantContext> = (contaminant?.contexts ?? [])
+    .map((ctx: string) => contaminantContexts[ctx])
+
+  const contextsByCategory = contexts.reduce<
+    Record<string, Array<ContaminantContext>>
+  >((acc, ctx) => {
+    const key = ctx.category ?? "";
+    (acc[key] ??= []).push(ctx);
+    return acc;
+  }, {});
+
+  const categoryEntries = Object.entries(contextsByCategory) as Array<
+    [keyof typeof contaminantCategories, Array<ContaminantContext>]
+  >;
   const images: Array<Database["public"]["Tables"]["images"]["Row"]> = [];
   /*
   // fetch related images
@@ -114,38 +124,30 @@ export default async function ContaminantPage({
             Contaminating {siteCount} site{siteCount === 1 ? "" : "s"} across:
           </WellTitle>
           <dl>
-            {Object.keys(contextCategories).map((key) => {
-              const category =
-                contaminantCategories[
-                  key as keyof typeof contaminantCategories
-                ];
+            {categoryEntries.map(([key, categoryContexts]) => {
+              const category = contaminantCategories[key];
               return (
                 <div className="mt-4 flex flex-col" key={key}>
                   <dt className="mb-1 text-neutral-600 text-xs uppercase">
                     {category.name}
                   </dt>
                   <div className="-ml-1 flex flex-wrap justify-start gap-x-4 font-sans text-base">
-                    {contexts
-                      .filter((ctx) => ctx.category === key)
-                      .map((ctx) => {
-                        const Icon = ctx?.icon;
-                        return (
-                          <dd
-                            className="flex items-center gap-1"
-                            key={ctx.name}
-                          >
-                            {Icon && (
-                              <Icon
-                                aria-hidden
-                                className={clsx(category.color)}
-                                height={32}
-                                width={32}
-                              />
-                            )}
-                            <span>{ctx?.name}</span>
-                          </dd>
-                        );
-                      })}
+                    {categoryContexts.map((ctx) => {
+                      const Icon = ctx?.icon;
+                      return (
+                        <dd className="flex items-center gap-1" key={ctx.name}>
+                          {Icon && (
+                            <Icon
+                              aria-hidden
+                              className={clsx(category.color)}
+                              height={32}
+                              width={32}
+                            />
+                          )}
+                          <span>{ctx?.name}</span>
+                        </dd>
+                      );
+                    })}
                   </div>
                 </div>
               );
