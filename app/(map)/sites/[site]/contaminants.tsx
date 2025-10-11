@@ -117,7 +117,7 @@ export async function Contaminants({
     });
   return (
     <WellRoot>
-      <WellTitle className="mb-2 flex items-center gap-2">
+      <WellTitle className="mb-3 flex items-center gap-2">
         <span>Contamination</span>
         <Link className="-mb-1" href="/contaminants">
           <SvgInfo

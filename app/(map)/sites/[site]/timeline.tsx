@@ -1,5 +1,7 @@
+import Link from "next/link";
 import { nplStatuses, type Site } from "@/lib/data/site";
-import { WellRoot } from "@/lib/ui/well";
+import SvgInfo from "@/lib/icons/Info";
+import { WellRoot, WellTitle } from "@/lib/ui/well";
 
 function formatDate(dateString?: string) {
   if (!dateString) return null;
@@ -18,7 +20,19 @@ function formatDate(dateString?: string) {
 
 export function SiteNPLStatusTimeline({ site }: { site: Site }) {
   return (
-    <WellRoot className="pt-4">
+    <WellRoot>
+      <WellTitle className="mb-4 flex items-center gap-2">
+        <span>Timeline</span>
+        <Link className="-mb-1" href="/npl">
+          <SvgInfo
+            aria-hidden
+            className="text-neutral-500 transition-colors hover:text-neutral-700"
+            height={20}
+            width={20}
+          />
+          <span className="sr-only">Learn about cleanup statuses</span>
+        </Link>
+      </WellTitle>
       <ul className="flex @md:flex-row flex-col @md:justify-between gap-1 @md:px-4 text-sm">
         {Object.keys(nplStatuses).map((statusKey) => {
           const status = nplStatuses[statusKey as keyof typeof nplStatuses];
