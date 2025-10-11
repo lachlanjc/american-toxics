@@ -1,16 +1,15 @@
+import type { Metadata } from "next";
 import { Link } from "next-view-transitions";
 import { allSites } from "@/lib/data/api";
 import { nplStatuses } from "@/lib/data/site";
 import { Count } from "@/lib/ui/count";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 
-export function metadata() {
-  return {
-    title: "Superfund Sites by NPL Status",
-    description:
-      "Explore the most hazardous waste sites in the U.S. according to the EPA’s National Priorities List (NPL) status.",
-  };
-}
+export const metadata: Metadata = {
+  title: "Superfund Sites by NPL Status",
+  description:
+    "Explore the most hazardous waste sites in the U.S. according to the EPA’s National Priorities List (NPL) status.",
+};
 
 export default function Page() {
   return (

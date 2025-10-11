@@ -1,16 +1,15 @@
+import type { Metadata } from "next";
 import { Link } from "next-view-transitions";
 import { categories } from "@/lib/data/site-categories";
 import { supabase } from "@/lib/supabaseClient";
 import { Count } from "@/lib/ui/count";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 
-export function metadata() {
-  return {
-    title: "Superfund Sites by Category",
-    description:
-      "Explore the most hazardous waste sites in the U.S. across different categories.",
-  };
-}
+export const metadata: Metadata = {
+  title: "Superfund Sites by Category",
+  description:
+    "Explore the most hazardous waste sites in the U.S. across different categories.",
+};
 
 export default async function CategoriesPage() {
   // sites with defined categories

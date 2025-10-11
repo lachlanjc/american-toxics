@@ -1,4 +1,5 @@
 import clsx from "clsx";
+import type { Metadata } from "next";
 import { Link } from "next-view-transitions";
 import {
   contaminantCategories,
@@ -10,13 +11,11 @@ import { Count } from "@/lib/ui/count";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import { HeadingL } from "@/lib/ui/typography";
 
-export function metadata() {
-  return {
-    title: "Top Superfund Contaminants",
-    description:
-      "Top 25 most common toxic contaminants across U.S. Superfund sites.",
-  };
-}
+export const metadata: Metadata = {
+  title: "Top Superfund Contaminants",
+  description:
+    "Top 25 most common toxic contaminants across U.S. Superfund sites.",
+};
 
 export default async function ContaminantsPage() {
   // Fetch all contaminants
