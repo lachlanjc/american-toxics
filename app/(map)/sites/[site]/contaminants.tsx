@@ -27,7 +27,7 @@ function ContaminantContext({
   const Icon = context?.icon as React.FC<React.SVGProps<SVGSVGElement>>;
   const category = contaminantCategories[context?.category];
   return (
-    <details className="mt-1">
+    <details className="mt-1.5">
       <summary className="flex cursor-pointer items-center gap-2 overflow-clip leading-tight">
         {Icon && (
           <Icon
@@ -53,7 +53,7 @@ function ContaminantContext({
           width={20}
         />
       </summary>
-      <p className="-ml-px mb-2 text-balance pt-1 pl-7 text-xs">
+      <p className="-ml-px mb-2 text-balance pl-7 font-sans text-base">
         {context.desc}
       </p>
       <ul className="-ml-px flex flex-col gap-2 pl-7 text-neutral-600 text-xs">

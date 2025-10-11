@@ -47,8 +47,9 @@ export default async function ContaminantPage({
   }
 
   const { name, summary, siteCount, epaPdfUrl, wikipediaUrl } = contaminant;
-  const contexts: Array<ContaminantContext> = (contaminant?.contexts ?? [])
-    .map((ctx: string) => contaminantContexts[ctx])
+  const contexts: Array<ContaminantContext> = (contaminant?.contexts ?? []).map(
+    (ctx: string) => contaminantContexts[ctx]
+  );
 
   const contextsByCategory = contexts.reduce<
     Record<string, Array<ContaminantContext>>

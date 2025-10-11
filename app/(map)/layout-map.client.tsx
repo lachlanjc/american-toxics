@@ -99,15 +99,10 @@ export default function MapLayoutClient({
   const siteCircleLayer = useMemo<LayerProps>(() => {
     const selectedId = activeSiteId ?? "";
     const opacity = activeNplStatus
-      ? ([
-          "case",
-          ["!=", ["get", "npl"], activeNplStatus],
-          0.2,
-          0.9,
-        ] as const)
+      ? (["case", ["!=", ["get", "npl"], activeNplStatus], 0.2, 0.9] as const)
       : 0.9;
 
-    const colorExpression = [
+    const colorExpression: NonNullable<LayerProps["paint"]>["circle-color"] = [
       "match",
       ["get", "npl"],
       "proposed",
@@ -121,7 +116,7 @@ export default function MapLayoutClient({
       "verified",
       statusFillColors.verified,
       statusFillColors.listed,
-    ] as const;
+    ];
 
     return {
       id: siteLayerId,
@@ -135,19 +130,9 @@ export default function MapLayoutClient({
           ["linear"],
           ["zoom"],
           3,
-          [
-            "case",
-            ["==", ["id"], selectedId],
-            7.5,
-            4.5,
-          ],
+          ["case", ["==", ["id"], selectedId], 7.5, 4.5],
           10,
-          [
-            "case",
-            ["==", ["id"], selectedId],
-            18,
-            11,
-          ],
+          ["case", ["==", ["id"], selectedId], 18, 11],
         ],
       },
     } satisfies LayerProps;

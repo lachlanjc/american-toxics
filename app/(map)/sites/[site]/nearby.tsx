@@ -284,7 +284,7 @@ function PlaceGroup({
 
 function MapboxFeatureList({ features }: { features: Array<MapboxFeature> }) {
   return (
-    <ol className="grid grid-cols-[1fr_auto] items-baseline gap-x-2 gap-y-1 pl-7">
+    <ol className="grid grid-cols-[1fr_auto] items-baseline gap-x-2 gap-y-1.5 pl-7">
       {features.map((feature) => {
         const dist = metersToMiles(feature.properties.distance);
         return (
