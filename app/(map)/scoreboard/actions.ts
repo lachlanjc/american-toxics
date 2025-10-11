@@ -5,16 +5,16 @@ import sitesMini from "@/lib/data/sites-mini.json" with { type: "json" };
 import { supabase } from "@/lib/supabaseClient";
 import { haversineDistance } from "@/lib/util/distance";
 
-export interface FormPayload {
+export type FormPayload = {
   address: string;
   formatted: string;
   lat: string;
   lng: string;
   city: string;
   stateCode: string;
-}
+};
 
-export async function handleSubmit(prevState: object, formData: FormData) {
+export async function handleSubmit(_prevState: object, formData: FormData) {
   const addressRaw = formData.get("address")?.toString();
   const lat = formData.get("lat") ? Number(formData.get("lat")) : undefined;
   const lng = formData.get("lng") ? Number(formData.get("lng")) : undefined;
@@ -25,6 +25,38 @@ export async function handleSubmit(prevState: object, formData: FormData) {
     return redirect("/scoreboard/new");
   }
 
+  const siteData = findNearbySites(lat, lng);
+
+  const { data: created, error } = await supabase
+    .from("scores")
+    .insert([
+      {
+        lat,
+        lng,
+        addressRaw,
+        addressFormatted,
+        addressCity,
+        addressStateCode,
+        siteNearest: siteData.siteNearest,
+        siteNearestMiles: siteData.siteNearestMiles,
+        sites1: siteData.within1,
+        sites5: siteData.within5,
+        sites10: siteData.within10,
+        sites20: siteData.within20,
+        sites50: siteData.within50,
+      },
+    ])
+    .select("id")
+    .single();
+  if (error || !created) {
+    console.error("Error saving score:", error);
+    return redirect("/");
+  }
+  revalidatePath("/scoreboard/results");
+  return redirect(`/scoreboard/${created.id}`);
+}
+
+function findNearbySites(lat: number, lng: number) {
   const sitesWithDist: Array<{
     id: string;
     lat: number;
@@ -53,31 +85,13 @@ export async function handleSubmit(prevState: object, formData: FormData) {
   );
   const { id: siteNearest, dist: siteNearestMiles } = siteNearestRecord;
 
-  const { data: created, error } = await supabase
-    .from("scores")
-    .insert([
-      {
-        lat,
-        lng,
-        addressRaw,
-        addressFormatted,
-        addressCity,
-        addressStateCode,
-        siteNearest,
-        siteNearestMiles,
-        sites1: within1,
-        sites5: within5,
-        sites10: within10,
-        sites20: within20,
-        sites50: within50,
-      },
-    ])
-    .select("id")
-    .single();
-  if (error || !created) {
-    console.error("Error saving score:", error);
-    return redirect("/");
-  }
-  revalidatePath("/scoreboard/results");
-  return redirect(`/scoreboard/${created.id}`);
+  return {
+    siteNearest,
+    siteNearestMiles,
+    within1,
+    within5,
+    within10,
+    within20,
+    within50,
+  };
 }
