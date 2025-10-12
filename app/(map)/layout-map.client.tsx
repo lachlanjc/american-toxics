@@ -2,6 +2,7 @@
 
 import type { PropsWithChildren } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
+import type { ExpressionSpecification } from "mapbox-gl";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
@@ -26,6 +27,27 @@ const statusFillColors: Record<SiteNPLStatus, string> = {
   verified: "#00bba7",
 };
 
+const buildColorExpression = (): ExpressionSpecification => [
+  "match",
+  ["get", "npl"],
+  "proposed",
+  statusFillColors.proposed,
+  "listed",
+  statusFillColors.listed,
+  "cleaning",
+  statusFillColors.cleaning,
+  "cleaned",
+  statusFillColors.cleaned,
+  "verified",
+  statusFillColors.verified,
+  statusFillColors.listed,
+];
+
+const buildOpacityExpression = (
+  status?: SiteNPLStatus
+): NonNullable<LayerProps["paint"]>["circle-opacity"] =>
+  status ? ["case", ["!=", ["get", "npl"], status], 0.2, 0.9] : 0.9;
+
 function MainCard({
   title,
   children,
@@ -38,10 +60,10 @@ function MainCard({
           {...props}
           className={clsx(
             "main-card rounded-t-xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
-            "fixed bottom-0 max-h-[50svb] max-md:right-0 max-md:left-0",
-            "md:absolute md:top-8 md:bottom-auto md:left-8 md:max-h-[90vh]",
+            "fixed bottom-0 max-h-[50svb] max-md:right-1 max-md:left-1",
+            "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-h-[90vh]",
             "!overflow-y-auto !touch-auto z-10 overflow-x-clip outline-none [scrollbar-width:thin]",
-            "@container flex w-full flex-col p-4 md:max-w-xl md:p-6",
+            "@container flex flex-col p-4 md:max-w-xl md:p-6",
             "!select-auto font-mono text-sm leading-relaxed"
           )}
           data-vaul-custom-container
@@ -107,45 +129,30 @@ export default function MapLayoutClient({
 
   const siteCircleLayer = useMemo<LayerProps>(() => {
     const selectedId = pendingSelectedId ?? activeSiteId ?? "";
-    const opacity = activeNplStatus
-      ? (["case", ["!=", ["get", "npl"], activeNplStatus], 0.2, 0.9] as const)
-      : 0.9;
+    const opacity = buildOpacityExpression(activeNplStatus);
+    const colorExpression = buildColorExpression();
 
-    const colorExpression: NonNullable<LayerProps["paint"]>["circle-color"] = [
-      "match",
-      ["get", "npl"],
-      "proposed",
-      statusFillColors.proposed,
-      "listed",
-      statusFillColors.listed,
-      "cleaning",
-      statusFillColors.cleaning,
-      "cleaned",
-      statusFillColors.cleaned,
-      "verified",
-      statusFillColors.verified,
-      statusFillColors.listed,
-    ];
+    const paint: LayerProps["paint"] = {
+      "circle-color": colorExpression,
+      "circle-opacity": opacity,
+      "circle-radius": [
+        "interpolate",
+        ["linear"],
+        ["zoom"],
+        3,
+        ["case", ["==", ["get", "id"], selectedId], 7.5, 4.5],
+        10,
+        ["case", ["==", ["get", "id"], selectedId], 18, 11],
+      ],
+    };
 
     return {
       id: siteLayerId,
       type: "circle",
       source: "sites",
-      paint: {
-        "circle-color": colorExpression,
-        "circle-opacity": opacity,
-        "circle-radius": [
-          "interpolate",
-          ["linear"],
-          ["zoom"],
-          3,
-          ["case", ["==", ["get", "id"], selectedId], 7.5, 4.5],
-          10,
-          ["case", ["==", ["get", "id"], selectedId], 18, 11],
-        ],
-      },
+      paint,
     } satisfies LayerProps;
-  }, [activeNplStatus, activeSiteId]);
+  }, [activeNplStatus, activeSiteId, pendingSelectedId]);
 
   const handleMapClick = (event: MapMouseEvent) => {
     const feature = event.features?.[0];

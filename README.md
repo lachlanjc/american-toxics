@@ -1,8 +1,8 @@
-# Superfund
+# American Toxics
 
 This is an interactive map of Superfund contaminated toxic waste sites across the U.S.
 
-[**superfund.lachlanjc.com**](https://superfund.lachlanjc.com)
+[**americantoxics.com**](https://americantoxics.com) or [read the background](https://edu.lachlanjc.com/2025-05-09_caps_american_toxics)
 
 ## Development
 
