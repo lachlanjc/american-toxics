@@ -2,11 +2,10 @@
 
 import type { PropsWithChildren } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { ExpressionSpecification } from "mapbox-gl";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
-import { useParams, useRouter } from "next/navigation";
+import { useParams, usePathname, useRouter } from "next/navigation";
 import MapComponent, {
   GeolocateControl,
   Layer,
@@ -27,26 +26,39 @@ const statusFillColors: Record<SiteNPLStatus, string> = {
   verified: "#00bba7",
 };
 
-const buildColorExpression = (): ExpressionSpecification => [
-  "match",
-  ["get", "npl"],
-  "proposed",
-  statusFillColors.proposed,
-  "listed",
-  statusFillColors.listed,
-  "cleaning",
-  statusFillColors.cleaning,
-  "cleaned",
-  statusFillColors.cleaned,
-  "verified",
-  statusFillColors.verified,
-  statusFillColors.listed,
-];
+function createColorExpression(): NonNullable<LayerProps["paint"]>["circle-color"] {
+  const expression: NonNullable<LayerProps["paint"]>["circle-color"] = [
+    "match",
+    ["get", "npl"],
+    "proposed",
+    statusFillColors.proposed,
+    "listed",
+    statusFillColors.listed,
+    "cleaning",
+    statusFillColors.cleaning,
+    "cleaned",
+    statusFillColors.cleaned,
+    "verified",
+    statusFillColors.verified,
+    statusFillColors.listed,
+  ];
+  return expression;
+}
 
-const buildOpacityExpression = (
+function createOpacityExpression(
   status?: SiteNPLStatus
-): NonNullable<LayerProps["paint"]>["circle-opacity"] =>
-  status ? ["case", ["!=", ["get", "npl"], status], 0.2, 0.9] : 0.9;
+): NonNullable<LayerProps["paint"]>["circle-opacity"] {
+  if (!status) {
+    return 0.9;
+  }
+  const expression: NonNullable<LayerProps["paint"]>["circle-opacity"] = [
+    "case",
+    ["!=", ["get", "npl"], status],
+    0.2,
+    0.9,
+  ];
+  return expression;
+}
 
 function MainCard({
   title,
@@ -94,6 +106,7 @@ export default function MapLayoutClient({
   children,
 }: PropsWithChildren<object>) {
   const router = useRouter();
+  const pathname = usePathname();
   const { site: siteId, status: nplStatus } = useParams();
 
   const mapRef = useRef<MapRef | null>(null);
@@ -101,6 +114,7 @@ export default function MapLayoutClient({
   const [pendingSelectedId, setPendingSelectedId] = useState<string | null>(
     null
   );
+  const lastNplStatusRef = useRef<SiteNPLStatus | undefined>(undefined);
 
   useEffect(() => {
     // @ts-expect-error global
@@ -121,16 +135,39 @@ export default function MapLayoutClient({
     return (nplStatus as SiteNPLStatus | undefined) ?? undefined;
   }, [nplStatus]);
 
+  if (activeNplStatus) {
+    lastNplStatusRef.current = activeNplStatus;
+  }
+
+  const displayedNplStatus = useMemo(() => {
+    if (activeNplStatus) {
+      return activeNplStatus;
+    }
+    if (pathname.startsWith("/npl/")) {
+      return lastNplStatusRef.current;
+    }
+    if (pathname === "/npl") {
+      return undefined;
+    }
+    return undefined;
+  }, [activeNplStatus, pathname]);
+
   useEffect(() => {
     if (pendingSelectedId && pendingSelectedId === activeSiteId) {
       setPendingSelectedId(null);
     }
   }, [pendingSelectedId, activeSiteId]);
 
+  useEffect(() => {
+    if (!activeSiteId && pendingSelectedId) {
+      setPendingSelectedId(null);
+    }
+  }, [activeSiteId, pendingSelectedId, activeNplStatus]);
+
   const siteCircleLayer = useMemo<LayerProps>(() => {
     const selectedId = pendingSelectedId ?? activeSiteId ?? "";
-    const opacity = buildOpacityExpression(activeNplStatus);
-    const colorExpression = buildColorExpression();
+    const opacity = createOpacityExpression(displayedNplStatus);
+    const colorExpression = createColorExpression();
 
     const paint: LayerProps["paint"] = {
       "circle-color": colorExpression,
@@ -152,7 +189,7 @@ export default function MapLayoutClient({
       source: "sites",
       paint,
     } satisfies LayerProps;
-  }, [activeNplStatus, activeSiteId, pendingSelectedId]);
+  }, [displayedNplStatus, activeSiteId, pendingSelectedId]);
 
   const handleMapClick = (event: MapMouseEvent) => {
     const feature = event.features?.[0];
