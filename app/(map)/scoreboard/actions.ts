@@ -22,7 +22,7 @@ export async function handleSubmit(_prevState: object, formData: FormData) {
   const addressStateCode = formData.get("stateCode")?.toString();
   const addressFormatted = formData.get("formatted")?.toString();
   if (!(addressRaw && lat && lng)) {
-    return redirect("/scoreboard/new");
+    return redirect("/");
   }
 
   const siteData = findNearbySites(lat, lng);
