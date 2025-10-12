@@ -2,6 +2,7 @@
 
 import type { PropsWithChildren } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
+import type { ExpressionSpecification } from "mapbox-gl";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
@@ -26,39 +27,49 @@ const statusFillColors: Record<SiteNPLStatus, string> = {
   verified: "#00bba7",
 };
 
-function createColorExpression(): NonNullable<LayerProps["paint"]>["circle-color"] {
-  const expression: NonNullable<LayerProps["paint"]>["circle-color"] = [
-    "match",
-    ["get", "npl"],
-    "proposed",
-    statusFillColors.proposed,
-    "listed",
-    statusFillColors.listed,
-    "cleaning",
-    statusFillColors.cleaning,
-    "cleaned",
-    statusFillColors.cleaned,
-    "verified",
-    statusFillColors.verified,
-    statusFillColors.listed,
-  ];
-  return expression;
-}
+const circleColorExpression: ExpressionSpecification = [
+  "match",
+  ["get", "npl"],
+  "proposed",
+  statusFillColors.proposed,
+  "listed",
+  statusFillColors.listed,
+  "cleaning",
+  statusFillColors.cleaning,
+  "cleaned",
+  statusFillColors.cleaned,
+  "verified",
+  statusFillColors.verified,
+  statusFillColors.listed,
+];
 
-function createOpacityExpression(
+const focusedOpacity = 0.9;
+const dimmedOpacity = 0.2;
+
+const buildOpacityExpression = (
   status?: SiteNPLStatus
-): NonNullable<LayerProps["paint"]>["circle-opacity"] {
-  if (!status) {
-    return 0.9;
-  }
-  const expression: NonNullable<LayerProps["paint"]>["circle-opacity"] = [
-    "case",
-    ["!=", ["get", "npl"], status],
-    0.2,
-    0.9,
-  ];
-  return expression;
-}
+): number | ExpressionSpecification =>
+  status
+    ? ([
+        "case",
+        ["!=", ["get", "npl"], status],
+        dimmedOpacity,
+        focusedOpacity,
+      ] satisfies ExpressionSpecification)
+    : focusedOpacity;
+
+const buildRadiusExpression = (selectedId: string): ExpressionSpecification =>
+  [
+    "interpolate",
+    ["linear"],
+    ["zoom"],
+    3,
+    ["case", ["==", ["get", "id"], selectedId], 7.5, 4.5],
+    10,
+    ["case", ["==", ["get", "id"], selectedId], 18, 11],
+  ] satisfies ExpressionSpecification;
+
+type CirclePaint = NonNullable<Extract<LayerProps, { type: "circle" }>["paint"]>;
 
 function MainCard({
   title,
@@ -135,60 +146,45 @@ export default function MapLayoutClient({
     return (nplStatus as SiteNPLStatus | undefined) ?? undefined;
   }, [nplStatus]);
 
-  if (activeNplStatus) {
-    lastNplStatusRef.current = activeNplStatus;
-  }
-
-  const displayedNplStatus = useMemo(() => {
+  useEffect(() => {
     if (activeNplStatus) {
-      return activeNplStatus;
+      lastNplStatusRef.current = activeNplStatus;
+      return;
     }
-    if (pathname.startsWith("/npl/")) {
-      return lastNplStatusRef.current;
+    if (!pathname.startsWith("/npl/")) {
+      lastNplStatusRef.current = undefined;
     }
-    if (pathname === "/npl") {
-      return undefined;
-    }
-    return undefined;
   }, [activeNplStatus, pathname]);
 
+  const displayedNplStatus = activeNplStatus ??
+    (pathname.startsWith("/npl/") ? lastNplStatusRef.current : undefined);
+
   useEffect(() => {
-    if (pendingSelectedId && pendingSelectedId === activeSiteId) {
+    if (!pendingSelectedId) {
+      return;
+    }
+    if (!activeSiteId || pendingSelectedId === activeSiteId) {
       setPendingSelectedId(null);
     }
   }, [pendingSelectedId, activeSiteId]);
 
-  useEffect(() => {
-    if (!activeSiteId && pendingSelectedId) {
-      setPendingSelectedId(null);
-    }
-  }, [activeSiteId, pendingSelectedId, activeNplStatus]);
-
   const siteCircleLayer = useMemo<LayerProps>(() => {
     const selectedId = pendingSelectedId ?? activeSiteId ?? "";
-    const opacity = createOpacityExpression(displayedNplStatus);
-    const colorExpression = createColorExpression();
 
-    const paint: LayerProps["paint"] = {
-      "circle-color": colorExpression,
-      "circle-opacity": opacity,
-      "circle-radius": [
-        "interpolate",
-        ["linear"],
-        ["zoom"],
-        3,
-        ["case", ["==", ["get", "id"], selectedId], 7.5, 4.5],
-        10,
-        ["case", ["==", ["get", "id"], selectedId], 18, 11],
-      ],
+    const paint: CirclePaint = {
+      "circle-color": circleColorExpression,
+      "circle-opacity": buildOpacityExpression(displayedNplStatus),
+      "circle-radius": buildRadiusExpression(selectedId),
     };
 
-    return {
+    const layer: LayerProps = {
       id: siteLayerId,
       type: "circle",
       source: "sites",
       paint,
     } satisfies LayerProps;
+
+    return layer;
   }, [displayedNplStatus, activeSiteId, pendingSelectedId]);
 
   const handleMapClick = (event: MapMouseEvent) => {

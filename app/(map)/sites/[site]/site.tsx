@@ -306,7 +306,7 @@ export function SiteCard({
         <input
           className="action-button !bg-white w-full p-2"
           onChange={handleInputChange}
-          placeholder="Ask something..."
+          placeholder="Ask something…"
           ref={ref}
           value={input}
         />
