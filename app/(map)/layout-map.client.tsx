@@ -76,6 +76,9 @@ export default function MapLayoutClient({
 
   const mapRef = useRef<MapRef | null>(null);
   const [cursor, setCursor] = useState<string | undefined>(undefined);
+  const [pendingSelectedId, setPendingSelectedId] = useState<string | null>(
+    null
+  );
 
   useEffect(() => {
     // @ts-expect-error global
@@ -96,8 +99,14 @@ export default function MapLayoutClient({
     return (nplStatus as SiteNPLStatus | undefined) ?? undefined;
   }, [nplStatus]);
 
+  useEffect(() => {
+    if (pendingSelectedId && pendingSelectedId === activeSiteId) {
+      setPendingSelectedId(null);
+    }
+  }, [pendingSelectedId, activeSiteId]);
+
   const siteCircleLayer = useMemo<LayerProps>(() => {
-    const selectedId = activeSiteId ?? "";
+    const selectedId = pendingSelectedId ?? activeSiteId ?? "";
     const opacity = activeNplStatus
       ? (["case", ["!=", ["get", "npl"], activeNplStatus], 0.2, 0.9] as const)
       : 0.9;
@@ -142,6 +151,7 @@ export default function MapLayoutClient({
     const feature = event.features?.[0];
     const featureId = feature?.id ?? feature?.properties?.id;
     if (typeof featureId === "string") {
+      setPendingSelectedId(featureId);
       router.push(`/sites/${featureId}`);
     }
   };
