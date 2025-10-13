@@ -46,7 +46,7 @@ export function MiniSite({
         className="action-button block py-1.5 text-center font-bold font-sans text-base"
         href={`/sites/${site.id}`}
       >
-        Learn about this site
+        Learn More
       </Link>
     </WellRoot>
   );

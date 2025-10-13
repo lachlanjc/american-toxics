@@ -132,7 +132,7 @@ export default async function About() {
       className="prose prose-neutral prose-sm prose-p:text-pretty prose-a:text-primary prose-a:underline-offset-3"
       key="author"
     >
-      <Heading>About this site</Heading>
+      <Heading>About This Site</Heading>
       <p>
         <a href="https://lachlanjc.com">Lachlan Campbell</a> made this website.
         It’s <a href="https://github.com/lachlanjc/superfund">open source</a>.

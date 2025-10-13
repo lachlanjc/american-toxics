@@ -79,7 +79,7 @@ export default function ResultsViewer({
               className="action-button shrink-0 cursor-pointer px-3 py-1.5 font-medium font-sans text-base"
               href="/"
             >
-              Find yours
+              Find Yours
             </Link>
           }
         >

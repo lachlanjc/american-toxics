@@ -23,13 +23,13 @@ export default function SearchTabs() {
           className="active-tab px-4 py-3 text-trim-both data-[selected]:text-neutral-900"
           id="nearby"
         >
-          Near address
+          Near Address
         </Tab>
         <Tab
           className="active-tab px-4 py-3 text-trim-both data-[selected]:text-neutral-900"
           id="search"
         >
-          Search sites
+          Search Sites
         </Tab>
       </TabList>
 

@@ -11,6 +11,15 @@ const nextConfig: NextConfig = {
       ),
     ],
   },
+  redirects() {
+    return [
+      {
+        source:'/npl/completed',
+        destination:'/npl/verified',
+        permanent: true,
+      }
+    ]
+  }
 };
 
 export default nextConfig;
