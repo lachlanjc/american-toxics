@@ -93,7 +93,7 @@ export default async function ContaminantsPage() {
         {/* Stats */}
         <dl className="grid grid-cols-2 gap-4">
           <div>
-            <dt className="text-neutral-600 text-xs uppercase">
+            <dt className="text-balance text-neutral-600 text-xs uppercase">
               Categories of contamination
             </dt>
             <dd className="font-sans text-2xl">
@@ -101,7 +101,7 @@ export default async function ContaminantsPage() {
             </dd>
           </div>
           <div>
-            <dt className="text-neutral-600 text-xs uppercase">
+            <dt className="text-balance text-neutral-600 text-xs uppercase">
               Unique contaminants
             </dt>
             <dd className="font-sans text-2xl">
@@ -109,7 +109,7 @@ export default async function ContaminantsPage() {
             </dd>
           </div>
           <div>
-            <dt className="text-neutral-600 text-xs uppercase">
+            <dt className="text-balance text-neutral-600 text-xs uppercase">
               Avg contaminants per site
             </dt>
             <dd className="font-sans text-2xl">

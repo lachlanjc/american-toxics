@@ -1,8 +1,8 @@
 "use client";
 
+import type { ExpressionSpecification } from "mapbox-gl";
 import type { PropsWithChildren } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { ExpressionSpecification } from "mapbox-gl";
 import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
@@ -69,7 +69,9 @@ const buildRadiusExpression = (selectedId: string): ExpressionSpecification =>
     ["case", ["==", ["get", "id"], selectedId], 18, 11],
   ] satisfies ExpressionSpecification;
 
-type CirclePaint = NonNullable<Extract<LayerProps, { type: "circle" }>["paint"]>;
+type CirclePaint = NonNullable<
+  Extract<LayerProps, { type: "circle" }>["paint"]
+>;
 
 function MainCard({
   title,
@@ -84,10 +86,10 @@ function MainCard({
           className={clsx(
             "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
             "fixed bottom-0 max-h-[50svb] max-md:right-1 max-md:left-1",
-            "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-h-[90vh]",
+            "md:absolute md:top-8 md:bottom-auto md:left-8 md:max-h-[90vh] md:w-full",
             "!overflow-y-auto !touch-auto z-10 overflow-x-clip outline-none [scrollbar-width:thin]",
-            "@container flex flex-col p-4 md:max-w-xl md:p-6 overscroll-contain",
             "!select-auto font-mono text-sm leading-relaxed"
+            "@container flex flex-col overscroll-contain p-4 md:max-w-xl md:p-6",
           )}
           data-vaul-custom-container
         >
@@ -156,7 +158,8 @@ export default function MapLayoutClient({
     }
   }, [activeNplStatus, pathname]);
 
-  const displayedNplStatus = activeNplStatus ??
+  const displayedNplStatus =
+    activeNplStatus ??
     (pathname.startsWith("/npl/") ? lastNplStatusRef.current : undefined);
 
   useEffect(() => {
