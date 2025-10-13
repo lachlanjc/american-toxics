@@ -85,7 +85,7 @@ export default async function ContaminantsPage() {
         <HeaderTitle>Contaminants</HeaderTitle>
         <HeaderSubtitle>
           Explore where you can find contamination in the environment, as
-          defined by EPA, plus themost common contaminants across Superfund
+          defined by EPA, plus the most common contaminants across Superfund
           sites.
         </HeaderSubtitle>
       </HeaderRoot>

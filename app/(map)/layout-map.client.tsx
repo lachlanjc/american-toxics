@@ -82,11 +82,11 @@ function MainCard({
         <Drawer.Content
           {...props}
           className={clsx(
-            "main-card rounded-t-xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
+            "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
             "fixed bottom-0 max-h-[50svb] max-md:right-1 max-md:left-1",
             "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-h-[90vh]",
             "!overflow-y-auto !touch-auto z-10 overflow-x-clip outline-none [scrollbar-width:thin]",
-            "@container flex flex-col p-4 md:max-w-xl md:p-6",
+            "@container flex flex-col p-4 md:max-w-xl md:p-6 overscroll-contain",
             "!select-auto font-mono text-sm leading-relaxed"
           )}
           data-vaul-custom-container
