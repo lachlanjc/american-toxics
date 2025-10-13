@@ -88,8 +88,8 @@ function MainCard({
             "fixed bottom-0 max-h-[50svb] max-md:right-1 max-md:left-1",
             "md:absolute md:top-8 md:bottom-auto md:left-8 md:max-h-[90vh] md:w-full",
             "!overflow-y-auto !touch-auto z-10 overflow-x-clip outline-none [scrollbar-width:thin]",
-            "!select-auto font-mono text-sm leading-relaxed"
             "@container flex flex-col overscroll-contain p-4 md:max-w-xl md:p-6",
+            "!select-auto font-mono text-sm leading-relaxed"
           )}
           data-vaul-custom-container
         >

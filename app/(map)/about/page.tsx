@@ -135,7 +135,7 @@ export default async function About() {
       <Heading>About This Site</Heading>
       <p>
         <a href="https://lachlanjc.com">Lachlan Campbell</a> made this website.
-        It’s <a href="https://github.com/lachlanjc/superfund">open source</a>.
+        It’s <a href="https://github.com/lachlanjc/american-toxics">open source</a>.
       </p>
       <p>
         It scrapes content off U.S. EPA’s Superfund website, and generates

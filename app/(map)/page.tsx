@@ -19,7 +19,7 @@ export default function Page() {
         <HeaderTitle>American Toxics</HeaderTitle>
         <a
           className="absolute top-0 right-0 opacity-40 transition-opacity hover:opacity-50"
-          href="https://github.com/lachlanjc/superfund"
+          href="https://github.com/lachlanjc/american-toxics"
         >
           <GitHubIcon />
           <span className="sr-only">Open Source on GitHub</span>

@@ -25,7 +25,7 @@ export async function POST(
     context = fs.readFileSync(filePath, "utf8");
   } else {
     context = await fetch(
-      `https://raw.githubusercontent.com/lachlanjc/superfund/refs/heads/main/lib/data/txt/${id}.txt`
+      `https://raw.githubusercontent.com/lachlanjc/american-toxics/refs/heads/main/lib/data/txt/${id}.txt`
     ).then((res) => res.text());
   }
   if (!context) throw new Error(`No context found for site ${id}`);
