@@ -12,7 +12,7 @@ export function StatusChip({
   const status = nplStatuses[key as keyof typeof categories];
   return (
     <Link
-      className="flex w-fit items-center gap-2 rounded-full border border-black/10 bg-black/5 px-3 py-2 font-medium font-sans text-base text-neutral-800 text-trim-both tracking-normal transition-colors"
+      className="flex w-fit items-center gap-2 rounded-full border border-black/10 bg-black/5 py-0.75 pl-3 pr-2.5 font-medium font-sans text-base text-neutral-800 text-trim-both tracking-normal transition-colors"
       href={`/npl/${key}`}
       style={{ viewTransitionName: key || undefined }}
     >
