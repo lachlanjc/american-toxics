@@ -50,7 +50,7 @@ export default async function Page({
     .select("id, name, npl, city, stateCode")
     .eq("category", categoryKey);
   if (!(category && sites)) {
-    return notFound();
+    notFound();
   }
   if (error) {
     console.error("Error fetching sites:", error);

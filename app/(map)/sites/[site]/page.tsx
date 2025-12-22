@@ -1,6 +1,4 @@
-// import Image from "next/image";
 import { notFound } from "next/navigation";
-import { allSites, findSiteById } from "@/lib/data/api";
 import { supabase } from "@/lib/supabaseClient";
 // import { Database } from "@/supabase/types";
 import { MapZoom } from "../../zoom";
@@ -10,8 +8,10 @@ import { Nearby } from "./nearby";
 import { SiteCard } from "./site";
 import { SiteNPLStatusTimeline } from "./timeline";
 
-export const generateStaticParams = async () =>
-  allSites.map(({ id }) => ({ site: id }));
+export const generateStaticParams = async () => {
+  const { data } = await supabase.from("sites").select("id");
+  return data?.map(({ id }) => ({ site: id })) ?? [];
+};
 
 export async function generateMetadata({
   params,
@@ -19,9 +19,13 @@ export async function generateMetadata({
   params: Promise<{ site: string }>;
 }) {
   const { site: siteId } = await params;
-  const site = findSiteById(siteId);
-  if (!site) {
-    return notFound();
+  const { data: site, error } = await supabase
+    .from("sites")
+    .select("name")
+    .eq("id", siteId)
+    .maybeSingle();
+  if (error || !site) {
+    notFound();
   }
   return {
     title: `${site.name} Superfund Site`,
@@ -44,7 +48,7 @@ export default async function Page({
     .maybeSingle();
   if (error || !site) {
     console.error("Error fetching Supabase site data:", error);
-    return notFound();
+    notFound();
   }
   // Fetch related images for this site
   const { data: images, error: imagesError } = await supabase

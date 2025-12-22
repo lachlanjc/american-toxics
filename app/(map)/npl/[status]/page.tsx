@@ -41,7 +41,7 @@ export default async function Page({
   const { status: statusKey } = await params;
   const status = nplStatuses[statusKey];
   if (!status) {
-    return notFound();
+    notFound();
   }
   const { data: sites, error } = await supabase
     .from("sites")
