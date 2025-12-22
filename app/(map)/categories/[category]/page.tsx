@@ -56,9 +56,7 @@ export default async function Page({
     console.error("Error fetching sites:", error);
   }
   // Prepare sections grouped by state
-  const sections = STATES.toSorted((a, b) =>
-    a.name.localeCompare(b.name, "en")
-  )
+  const sections = STATES.toSorted((a, b) => a.name.localeCompare(b.name, "en"))
     .map((state) => {
       const sectionSites = (sites as Array<SiteListSite>)
         .filter((site) => site.stateCode === state.abbrev)

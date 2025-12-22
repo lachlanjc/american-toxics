@@ -41,20 +41,28 @@ export default async function Page({
   params: Promise<{ site: string }>;
 }) {
   const { site: siteId } = await params;
-  const { data: site, error } = await supabase
-    .from("sites")
-    .select("*")
-    .eq("id", siteId)
-    .maybeSingle();
-  if (error || !site) {
-    console.error("Error fetching Supabase site data:", error);
+  const [siteResult, imagesResult] = await Promise.allSettled([
+    supabase.from("sites").select("*").eq("id", siteId).maybeSingle(),
+    supabase.from("images").select("*").eq("siteId", siteId),
+  ]);
+
+  const site =
+    siteResult.status === "fulfilled" ? siteResult.value.data : undefined;
+  const siteError =
+    siteResult.status === "fulfilled"
+      ? siteResult.value.error
+      : siteResult.reason;
+  if (siteError || !site) {
+    console.error("Error fetching Supabase site data:", siteError);
     notFound();
   }
-  // Fetch related images for this site
-  const { data: images, error: imagesError } = await supabase
-    .from("images")
-    .select("*")
-    .eq("siteId", siteId);
+
+  const images =
+    imagesResult.status === "fulfilled" ? imagesResult.value.data : [];
+  const imagesError =
+    imagesResult.status === "fulfilled"
+      ? imagesResult.value.error
+      : (imagesResult.reason as Error | undefined);
   if (imagesError) {
     console.error("Error fetching Supabase images:", imagesError);
   }

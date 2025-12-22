@@ -2,8 +2,8 @@
 import { Autocomplete } from "@base-ui/react/autocomplete";
 import { useActionState, useRef, useState } from "react";
 import { handleSubmit } from "@/app/(map)/scoreboard/actions";
-import { MapZoom } from "./zoom";
 import ArrowRight from "@/lib/icons/ArrowRight";
+import { MapZoom } from "./zoom";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN;
 
@@ -185,7 +185,7 @@ export function SearchNearby() {
         </Autocomplete.Root>
         <button
           aria-label="Submit"
-          className="action-button shrink-0 aspect-square inline-flex justify-center items-center h-[42px]"
+          className="action-button inline-flex aspect-square h-[42px] shrink-0 items-center justify-center"
           disabled={pending || !hasPin}
           type="submit"
         >
