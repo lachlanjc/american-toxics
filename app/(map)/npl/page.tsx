@@ -16,15 +16,7 @@ export default async function Page() {
   if (error || !data) {
     throw new Error("Unable to load NPL status counts");
   }
-  const counts = Object.keys(nplStatuses).reduce<Record<string, number>>(
-    (acc, key) => ({ ...acc, [key]: 0 }),
-    {}
-  );
-  for (const site of data) {
-    if (site.npl && counts[site.npl] !== undefined) {
-      counts[site.npl] += 1;
-    }
-  }
+  const grouped = Object.groupBy(data, (site) => site.npl ?? "unknown");
   return (
     <>
       <HeaderRoot>
@@ -37,7 +29,7 @@ export default async function Page() {
       <ul className="-mb-1 flex flex-col gap-8 text-neutral-500">
         {Object.keys(nplStatuses).map((key) => {
           const status = nplStatuses[key];
-          const count = counts[key] ?? 0;
+          const count = grouped[key]?.length ?? 0;
           return (
             <li
               className="group flex w-full items-center gap-6 py-2 md:max-w-md"
