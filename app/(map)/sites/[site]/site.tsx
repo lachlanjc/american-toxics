@@ -186,7 +186,7 @@ export function SiteCard({
   const scrollRef = useRef<HTMLDivElement>(null);
   const {
     messages,
-    setData,
+    setMessages,
     input,
     setInput,
     handleInputChange,
@@ -195,8 +195,9 @@ export function SiteCard({
   } = useChat({ api: `/api/chat/${site.id}` });
   // Clear AI chat on site change
   useEffect(() => {
-    setData(undefined);
-  }, [site.id, setData]);
+    setMessages([]);
+    setInput("");
+  }, [setInput, setMessages, site.id]);
   const suggestions = questions.filter(
     (q) =>
       !messages.some(
