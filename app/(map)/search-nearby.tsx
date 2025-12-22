@@ -3,6 +3,7 @@ import { Autocomplete } from "@base-ui/react/autocomplete";
 import { useActionState, useRef, useState } from "react";
 import { handleSubmit } from "@/app/(map)/scoreboard/actions";
 import { MapZoom } from "./zoom";
+import ArrowRight from "@/lib/icons/ArrowRight";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN;
 
@@ -43,6 +44,7 @@ export function SearchNearby() {
   const [, formAction, pending] = useActionState(handleSubmit, {});
   const requestRef = useRef<AbortController | null>(null);
   const skipFetchRef = useRef(false);
+  const hasPin = pin.coords[0] !== 0 || pin.coords[1] !== 0;
 
   const handleSelect = (feature: MapboxFeature) => {
     skipFetchRef.current = true;
@@ -92,8 +94,6 @@ export function SearchNearby() {
     requestRef.current = null;
   };
 
-  const hasPin = !(pin.coords[0] === 0 && pin.coords[1] === 0);
-
   return (
     <form
       action={formAction}
@@ -118,14 +118,13 @@ export function SearchNearby() {
           zoom={7}
         />
       )}
-      <div className="grid grid-cols-[minmax(0,1fr)_auto] items-start gap-2">
+      <div className="flex items-start gap-2">
         <Autocomplete.Root
-          className="w-full"
-          itemToStringValue={(feature) => feature.place_name}
-          items={results}
-          mode="none"
           autoHighlight="always"
+          items={results}
+          itemToStringValue={(feature) => feature.place_name}
           keepHighlight
+          mode="none"
           onOpenChange={(open) => {
             if (!open) {
               setResults([]);
@@ -147,7 +146,7 @@ export function SearchNearby() {
           open={results.length > 0}
           value={query}
         >
-          <div className="action-button relative flex-auto">
+          <div className="action-button relative w-full flex-auto">
             <label className="sr-only" htmlFor="nearby-address">
               Search address
             </label>
@@ -172,7 +171,7 @@ export function SearchNearby() {
                       <Autocomplete.Item
                         className="tab cursor-pointer truncate p-2 hover:bg-white/20 data-[highlighted]:bg-white/20 data-[highlighted]:text-neutral-900"
                         key={feature.id}
-                        onClick={() => handleSelect(feature)}
+                        onSelect={() => handleSelect(feature)}
                         value={feature}
                       >
                         {feature.place_name?.replace(", United States", "")}
@@ -186,11 +185,11 @@ export function SearchNearby() {
         </Autocomplete.Root>
         <button
           aria-label="Submit"
-          className="action-button shrink-0 p-2"
+          className="action-button shrink-0 aspect-square inline-flex justify-center items-center h-[42px]"
           disabled={pending || !hasPin}
           type="submit"
         >
-          &rarr;
+          <ArrowRight aria-hidden />
         </button>
       </div>
       <input name="lat" type="hidden" value={pin.coords[1]} />
