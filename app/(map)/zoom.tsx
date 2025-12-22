@@ -1,8 +1,8 @@
 "use client";
 
+import type { PaddingOptions } from "mapbox-gl";
 import { useEffect } from "react";
 import type { MapRef } from "react-map-gl/mapbox";
-import type { PaddingOptions } from "mapbox-gl";
 
 type WindowWithMapRef = Window &
   typeof globalThis & {
@@ -31,7 +31,7 @@ export function MapZoom({
       // On mobile the sheet is covering the bottom 50% of the map
       // so we want to compensate by flying to a point lower down the map
       // On desktop we have a sidebar covering the left 40% of the map
-      const isNarrowScreen = window.matchMedia('(width < 48rem)').matches;
+      const isNarrowScreen = window.matchMedia("(width < 48rem)").matches;
 
       if (isNarrowScreen) {
         const containerHeight = map.getContainer().clientHeight;

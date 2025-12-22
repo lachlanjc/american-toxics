@@ -61,8 +61,7 @@ input {
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
 }
 
-.active-tab {
-  transition: background-color 0.2s ease;
+.tab {
   border-radius: 10px;
   position: relative;
 }
@@ -71,20 +70,17 @@ input {
   border-radius: 10px;
   position: relative;
 }
-.active-tab,
+.tab,
 a.action-button,
 button.action-button {
   cursor: pointer;
 }
 
-[data-appearance="dark"] .active-tab {
+[data-appearance="dark"] .tab {
   color: #ededed;
 }
-[data-appearance="dark"] .active-tab[data-selected="true"] {
-  color: #171717;
-}
 
-.active-tab[data-selected]::before,
+.tab-indicator::before,
 .mapboxgl-ctrl-group::before,
 .main-card:before,
 .action-button:before {
@@ -97,7 +93,7 @@ button.action-button {
   pointer-events: none;
 }
 
-.active-tab[data-selected]::before,
+.tab-indicator::before,
 .mapboxgl-ctrl-group::before,
 [data-appearance="light"] .main-card:before,
 [data-appearance="light"] .action-button:before {
@@ -109,6 +105,7 @@ button.action-button {
   -webkit-mask-composite: xor;
 }
 
+[data-appearance="dark"] .tab-indicator::before,
 [data-appearance="dark"] .main-card:before,
 [data-appearance="dark"] .action-button:before {
   background: linear-gradient(0deg, transparent 10%, hsla(0, 0%, 100%, 0.07))
@@ -127,7 +124,6 @@ button.action-button {
   border-radius: 8px !important;
   position: relative;
 }
-.active-tab[data-selected],
 [data-appearance="light"] .action-button {
   transition: background-color 0.2s ease;
   background-color: hsla(0, 0%, 100%, 0.5);
@@ -137,18 +133,19 @@ button.action-button {
   background-color: hsla(0, 0%, 100%, 0.75);
 }
 
-[data-appearance="dark"] .active-tab[data-selected="true"],
 [data-appearance="dark"] .action-button {
   background-color: hsla(0, 0%, 100%, 0.9);
   color: #171717;
 }
-[data-appearance="light"] .active-tab:hover,
+[data-appearance="light"] .tab[aria-selected="false"]:hover {
+  background-color: hsla(0, 0%, 100%, 0.0625);
+}
 [data-appearance="light"] .action-button:focus-within,
 [data-appearance="light"] .action-button:active,
 [data-appearance="light"] .action-button:hover {
   background-color: hsla(0, 0%, 100%, 0.75);
 }
-[data-appearance="dark"] .active-tab:not([data-selected="true"]):hover {
+[data-appearance="dark"] .tab[aria-selected="false"]:hover {
   background-color: hsl(0 0% 100% / 0.125);
 }
 
