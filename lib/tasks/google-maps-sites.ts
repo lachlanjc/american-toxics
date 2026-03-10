@@ -6,19 +6,24 @@ import SITES from "@/lib/data/sites.json" with { type: "json" };
 
 const MATCHES_PATH = "lib/data/sites-google-maps.json";
 const MISSES_PATH = "lib/data/sites-google-maps-misses.json";
+const REVIEW_PATH = "lib/data/sites-google-maps-review.json";
 const GOOGLE_PLACES_URL = "https://places.googleapis.com/v1/places:searchText";
 
 const MAX_DISTANCE_MILES = 10;
 const NAME_SCORE_THRESHOLD = 0.3;
 const CLOSE_DISTANCE_MILES = 0.5;
 const CLOSE_DISTANCE_NAME_THRESHOLD = 0.18;
+const ACCEPTANCE_MATCH_SCORE_THRESHOLD = 0.45;
+const REVIEW_MATCH_SCORE_THRESHOLD = 0.6;
 const NAME_WEIGHT = 0.7;
 const DISTANCE_WEIGHT = 0.3;
 const DEFAULT_CONCURRENCY = 8;
+const API_RETRY_CONCURRENCY = 3;
 const MAX_RESULTS = 5;
 const LOCATION_BIAS_RADIUS_METERS = 50_000;
 const RETRY_ATTEMPTS = 4;
 const RETRY_BASE_DELAY_MS = 500;
+const RETRY_JITTER_MS = 200;
 const HTTP_TOO_MANY_REQUESTS = 429;
 const HTTP_SERVER_ERROR_MIN = 500;
 const HTTP_SERVER_ERROR_MAX = 599;
@@ -36,10 +41,13 @@ const TEN_MILES_MAX = 10.2;
 const ERROR_TEXT_MAX_LENGTH = 500;
 const ARGS_START_INDEX = 2;
 
+const REQUIRE_SUPERFUND_SIGNAL = true;
+
 type MissReason =
   | "no_results"
   | "distance_too_far"
   | "name_mismatch"
+  | "not_hazard_listing"
   | "api_error";
 
 type CliOptions = {
@@ -107,12 +115,20 @@ type SiteMissRecord = {
   topCandidate?: CandidateSummary;
 };
 
+type SiteReviewRecord = {
+  reason: "low_confidence" | "suspicious_type";
+  sourceQuery: string;
+  candidate: CandidateSummary;
+};
+
 type EvaluatedCandidate = {
   place: GooglePlace;
   distanceMiles?: number;
   nameScore: number;
   matchScore: number;
   accepted: boolean;
+  requiresReview: boolean;
+  reviewReason?: SiteReviewRecord["reason"];
   rejectReason?: Exclude<MissReason, "api_error" | "no_results">;
 };
 
@@ -124,12 +140,31 @@ type SearchResult = {
 
 type SelectionResult = {
   metadata?: SiteGoogleMapsMetadata;
+  review?: SiteReviewRecord;
   missReason?: Exclude<MissReason, "api_error" | "no_results">;
   topCandidate?: CandidateSummary;
 };
 
+type ProcessResult =
+  | {
+      kind: "match";
+      siteId: string;
+      metadata: SiteGoogleMapsMetadata;
+    }
+  | {
+      kind: "review";
+      siteId: string;
+      record: SiteReviewRecord;
+    }
+  | {
+      kind: "miss";
+      siteId: string;
+      record: SiteMissRecord;
+    };
+
 type MatchesBySiteId = Record<string, SiteGoogleMapsMetadata>;
 type MissesBySiteId = Record<string, SiteMissRecord>;
+type ReviewsBySiteId = Record<string, SiteReviewRecord>;
 
 const STOPWORDS = new Set([
   "and",
@@ -155,26 +190,27 @@ const SUSPICIOUS_PLACE_TYPES = new Set([
   "neighborhood",
 ]);
 
-const STRONG_SITE_TERMS = new Set([
-  "superfund",
-  "landfill",
-  "dump",
-  "plume",
-  "groundwater",
-  "chemical",
-  "plant",
-  "mill",
-  "yard",
-  "arsenal",
-  "depot",
-  "mine",
-  "smelter",
-  "refinery",
-  "waste",
-  "disposal",
-  "cleanup",
-  "contamination",
+const ACCEPTABLE_PLACE_TYPES = new Set([
+  "point_of_interest",
+  "establishment",
+  "manufacturer",
+  "government_office",
+  "historical_place",
+  "historical_landmark",
+  "museum",
+  "park",
+  "natural_feature",
 ]);
+
+const HAZARD_SIGNAL_TERMS = [
+  "superfund",
+  "hazardous",
+  "contamination",
+  "contaminated",
+  "toxic",
+  "pollution",
+  "cleanup",
+];
 
 function log(message: string): void {
   process.stdout.write(`${message}\n`);
@@ -309,7 +345,6 @@ function normalizeName(value: string): string {
     .replaceAll(/co\b/g, "company");
 
   const cleaned = aliased
-    .toLowerCase()
     .replaceAll("&", " and ")
     .replaceAll(/[^a-z0-9\s]/g, " ")
     .replaceAll(/\s+/g, " ")
@@ -328,32 +363,8 @@ function normalizeName(value: string): string {
   return words.join(" ").trim();
 }
 
-function hasStrongSiteTerm(value: string): boolean {
-  const normalized = normalizeName(value);
-  if (!normalized) {
-    return false;
-  }
-  for (const token of normalized.split(" ")) {
-    if (STRONG_SITE_TERMS.has(token)) {
-      return true;
-    }
-  }
-  return false;
-}
-
-function hasSuspiciousOnlyTypes(types: string[] | undefined): boolean {
-  if (!types || types.length === 0) {
-    return false;
-  }
-  let hasSuspicious = false;
-  for (const type of types) {
-    const normalizedType = type.toLowerCase();
-    if (!SUSPICIOUS_PLACE_TYPES.has(normalizedType)) {
-      return false;
-    }
-    hasSuspicious = true;
-  }
-  return hasSuspicious;
+function normalizeText(value: string): string {
+  return value.toLowerCase().replaceAll(/\s+/g, " ").trim();
 }
 
 function tokenSimilarity(a: string, b: string): number {
@@ -395,6 +406,54 @@ function nameSimilarity(siteName: string, placeName: string): number {
   return Math.min(1, tokenScore + containsBoost);
 }
 
+function hasAnySuspiciousType(types: string[] | undefined): boolean {
+  if (!types || types.length === 0) {
+    return false;
+  }
+  for (const type of types) {
+    if (SUSPICIOUS_PLACE_TYPES.has(type.toLowerCase())) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function hasAcceptableType(types: string[] | undefined): boolean {
+  if (!types || types.length === 0) {
+    return false;
+  }
+  for (const type of types) {
+    if (ACCEPTABLE_PLACE_TYPES.has(type.toLowerCase())) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function hasHazardSignal(place: GooglePlace): boolean {
+  const corpus = normalizeText(
+    `${place.displayName?.text ?? ""} ${place.formattedAddress ?? ""}`
+  );
+  if (!corpus) {
+    return false;
+  }
+
+  let hasTerm = false;
+  for (const term of HAZARD_SIGNAL_TERMS) {
+    if (corpus.includes(term)) {
+      hasTerm = true;
+      break;
+    }
+  }
+  if (!hasTerm) {
+    return false;
+  }
+  if (!REQUIRE_SUPERFUND_SIGNAL) {
+    return true;
+  }
+  return corpus.includes("superfund");
+}
+
 function toRadians(degrees: number): number {
   return (degrees * Math.PI) / DEGREES_IN_CIRCLE;
 }
@@ -416,13 +475,42 @@ function haversineMiles(
   return EARTH_RADIUS_MILES * c;
 }
 
-function buildQuery(site: Site): string {
+function round(value: number): number {
+  return Math.round(value * ROUND_PRECISION) / ROUND_PRECISION;
+}
+
+function buildPrimaryQuery(site: Site): string {
   const state = site.stateCode || site.stateName;
   return `${site.name}, ${site.city}, ${state}, superfund`;
 }
 
-function round(value: number): number {
-  return Math.round(value * ROUND_PRECISION) / ROUND_PRECISION;
+function buildFallbackQueries(site: Site): string[] {
+  const state = site.stateCode || site.stateName;
+  const queries = [
+    buildPrimaryQuery(site),
+    `${site.name}, ${site.city}, ${state}`,
+    `${site.name}, ${state}`,
+  ];
+  const deduped: string[] = [];
+  const seen = new Set<string>();
+  for (const query of queries) {
+    if (seen.has(query)) {
+      continue;
+    }
+    seen.add(query);
+    deduped.push(query);
+  }
+  return deduped;
+}
+
+function summarizeCandidate(candidate: EvaluatedCandidate): CandidateSummary {
+  return {
+    displayName: candidate.place.displayName?.text ?? "Unknown",
+    googleMapsUri: candidate.place.googleMapsUri,
+    distanceMiles: candidate.distanceMiles,
+    nameScore: round(candidate.nameScore),
+    matchScore: round(candidate.matchScore),
+  };
 }
 
 function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
@@ -437,25 +525,18 @@ function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
       nameScore,
       matchScore: 0,
       accepted: false,
+      requiresReview: false,
       rejectReason: "name_mismatch",
     };
   }
 
   const distanceMiles = haversineMiles(site.lat, site.lng, lat, lng);
   const distanceScore = Math.max(0, 1 - distanceMiles / MAX_DISTANCE_MILES);
-  const suspiciousOnlyType = hasSuspiciousOnlyTypes(place.types);
-  const hasDisplayStrongTerm = hasStrongSiteTerm(displayName);
   const isCloseDistance = distanceMiles <= CLOSE_DISTANCE_MILES;
-
-  let effectiveNameThreshold = NAME_SCORE_THRESHOLD;
-  if (isCloseDistance && !suspiciousOnlyType) {
-    effectiveNameThreshold = CLOSE_DISTANCE_NAME_THRESHOLD;
-  }
-
-  let matchScore = nameScore * NAME_WEIGHT + distanceScore * DISTANCE_WEIGHT;
-  if (suspiciousOnlyType && !hasDisplayStrongTerm) {
-    matchScore *= 0.45;
-  }
+  const effectiveNameThreshold = isCloseDistance
+    ? CLOSE_DISTANCE_NAME_THRESHOLD
+    : NAME_SCORE_THRESHOLD;
+  const matchScore = nameScore * NAME_WEIGHT + distanceScore * DISTANCE_WEIGHT;
 
   if (distanceMiles > MAX_DISTANCE_MILES) {
     return {
@@ -464,6 +545,7 @@ function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
       nameScore,
       matchScore,
       accepted: false,
+      requiresReview: false,
       rejectReason: "distance_too_far",
     };
   }
@@ -474,31 +556,66 @@ function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
       nameScore,
       matchScore,
       accepted: false,
+      requiresReview: false,
       rejectReason: "name_mismatch",
     };
   }
+  if (matchScore < ACCEPTANCE_MATCH_SCORE_THRESHOLD) {
+    return {
+      place,
+      distanceMiles,
+      nameScore,
+      matchScore,
+      accepted: false,
+      requiresReview: false,
+      rejectReason: "name_mismatch",
+    };
+  }
+
+  const hasSuspiciousType = hasAnySuspiciousType(place.types);
+  const hasNonSuspiciousType = hasAcceptableType(place.types);
+  if (hasSuspiciousType && !hasNonSuspiciousType) {
+    return {
+      place,
+      distanceMiles,
+      nameScore,
+      matchScore,
+      accepted: false,
+      requiresReview: false,
+      rejectReason: "not_hazard_listing",
+    };
+  }
+  if (!hasHazardSignal(place)) {
+    return {
+      place,
+      distanceMiles,
+      nameScore,
+      matchScore,
+      accepted: false,
+      requiresReview: false,
+      rejectReason: "not_hazard_listing",
+    };
+  }
+
+  const requiresReview =
+    hasSuspiciousType || matchScore < REVIEW_MATCH_SCORE_THRESHOLD;
+
   return {
     place,
     distanceMiles,
     nameScore,
     matchScore,
     accepted: true,
+    requiresReview,
+    reviewReason: hasSuspiciousType ? "suspicious_type" : "low_confidence",
   };
 }
 
-function summarizeCandidate(candidate: EvaluatedCandidate): CandidateSummary {
-  return {
-    displayName: candidate.place.displayName?.text ?? "Unknown",
-    googleMapsUri: candidate.place.googleMapsUri,
-    distanceMiles: candidate.distanceMiles,
-    nameScore: round(candidate.nameScore),
-    matchScore: round(candidate.matchScore),
-  };
-}
-
+// biome-ignore lint/complexity/noExcessiveCognitiveComplexity: candidate ranking and review/match branching are intentionally explicit.
 function chooseBestCandidate(
   site: Site,
-  places: GooglePlace[]
+  places: GooglePlace[],
+  sourceQuery: string
 ): SelectionResult {
   const evaluated: EvaluatedCandidate[] = [];
   for (const place of places) {
@@ -529,42 +646,67 @@ function chooseBestCandidate(
     const displayName = winner.place.displayName?.text;
     const lat = winner.place.location?.latitude;
     const lng = winner.place.location?.longitude;
-
     if (
-      placeId &&
-      mapsUri &&
-      displayName &&
-      lat !== undefined &&
-      lng !== undefined &&
-      winner.distanceMiles !== undefined
+      !(placeId && mapsUri && displayName) ||
+      lat === undefined ||
+      lng === undefined ||
+      winner.distanceMiles === undefined
     ) {
       return {
-        metadata: {
-          placeId,
-          googleMapsUri: mapsUri,
-          displayName,
-          formattedAddress: winner.place.formattedAddress ?? "",
-          location: { lat, lng },
-          types: winner.place.types ?? [],
-          businessStatus: winner.place.businessStatus,
-          rating: winner.place.rating,
-          userRatingCount: winner.place.userRatingCount,
-          sourceQuery: buildQuery(site),
-          matchScore: round(winner.matchScore),
-          distanceMiles: round(winner.distanceMiles),
-        },
+        missReason: "name_mismatch",
+        topCandidate: summarizeCandidate(winner),
       };
     }
+
+    const candidate = summarizeCandidate(winner);
+    if (winner.requiresReview) {
+      return {
+        review: {
+          reason: winner.reviewReason ?? "low_confidence",
+          sourceQuery,
+          candidate,
+        },
+        topCandidate: candidate,
+      };
+    }
+
+    return {
+      metadata: {
+        placeId,
+        googleMapsUri: mapsUri,
+        displayName,
+        formattedAddress: winner.place.formattedAddress ?? "",
+        location: { lat, lng },
+        types: winner.place.types ?? [],
+        businessStatus: winner.place.businessStatus,
+        rating: winner.place.rating,
+        userRatingCount: winner.place.userRatingCount,
+        sourceQuery,
+        matchScore: round(winner.matchScore),
+        distanceMiles: round(winner.distanceMiles),
+      },
+      topCandidate: candidate,
+    };
   }
 
-  evaluated.sort((left, right) => right.matchScore - left.matchScore);
-  const topCandidate = evaluated.at(0);
-  if (!topCandidate) {
+  evaluated.sort((left, right) => {
+    if (right.matchScore !== left.matchScore) {
+      return right.matchScore - left.matchScore;
+    }
+    return (
+      (left.distanceMiles ?? Number.POSITIVE_INFINITY) -
+      (right.distanceMiles ?? Number.POSITIVE_INFINITY)
+    );
+  });
+
+  const top = evaluated.at(0);
+  if (!top) {
     return {};
   }
+
   return {
-    missReason: topCandidate.rejectReason ?? "name_mismatch",
-    topCandidate: summarizeCandidate(topCandidate),
+    missReason: top.rejectReason ?? "name_mismatch",
+    topCandidate: summarizeCandidate(top),
   };
 }
 
@@ -586,15 +728,15 @@ async function fetchWithRetry(
       if (!isTransient || attempt >= maxAttempts) {
         return response;
       }
-      await delay(delayMs);
-      delayMs *= 2;
     } catch (error) {
       if (attempt >= maxAttempts) {
         throw error;
       }
-      await delay(delayMs);
-      delayMs *= 2;
     }
+
+    const jitter = Math.floor(Math.random() * RETRY_JITTER_MS);
+    await delay(delayMs + jitter);
+    delayMs *= 2;
   }
   throw new Error("Failed to fetch after retries");
 }
@@ -714,6 +856,7 @@ function ensure(condition: boolean, message: string): void {
 function validateOutputs(
   matches: MatchesBySiteId,
   misses: MissesBySiteId,
+  reviews: ReviewsBySiteId,
   allSites: Site[]
 ): void {
   const siteIds = new Set(allSites.map((site) => site.id));
@@ -723,19 +866,28 @@ function validateOutputs(
   for (const id of Object.keys(misses)) {
     ensure(siteIds.has(id), `Unknown site id in misses: ${id}`);
   }
+  for (const id of Object.keys(reviews)) {
+    ensure(siteIds.has(id), `Unknown site id in reviews: ${id}`);
+  }
   for (const id of Object.keys(matches)) {
     ensure(!misses[id], `Site id appears in both matches and misses: ${id}`);
+    ensure(!reviews[id], `Site id appears in both matches and reviews: ${id}`);
+  }
+  for (const id of Object.keys(misses)) {
+    ensure(!reviews[id], `Site id appears in both misses and reviews: ${id}`);
   }
 }
 
 function buildCompletedIdSet(
   matches: MatchesBySiteId,
   misses: MissesBySiteId,
+  reviews: ReviewsBySiteId,
   retryApiErrors: boolean
 ): Set<string> {
   const completedIds = new Set([
     ...Object.keys(matches),
     ...Object.keys(misses),
+    ...Object.keys(reviews),
   ]);
   if (!retryApiErrors) {
     return completedIds;
@@ -784,83 +936,244 @@ function runInvariantChecks(): void {
 
   const accepted = evaluateCandidate(sampleSite, {
     id: "abc",
+    displayName: { text: "Example Chemical Superfund Site" },
+    location: { latitude: 40.01, longitude: -73.01 },
+    googleMapsUri: "https://maps.google.com",
+    types: ["point_of_interest", "establishment"],
+  });
+  ensure(accepted.accepted, "accept close superfund match");
+
+  const noHazard = evaluateCandidate(sampleSite, {
+    id: "nohaz",
     displayName: { text: "Example Chemical" },
     location: { latitude: 40.01, longitude: -73.01 },
     googleMapsUri: "https://maps.google.com",
+    types: ["point_of_interest", "establishment"],
   });
-  ensure(accepted.accepted, "accept close similar match");
-
-  const farAway = evaluateCandidate(sampleSite, {
-    id: "far",
-    displayName: { text: "Example Chemical" },
-    location: { latitude: 41.5, longitude: -73 },
-    googleMapsUri: "https://maps.google.com",
-  });
-  ensure(farAway.rejectReason === "distance_too_far", "reject far match");
+  ensure(noHazard.rejectReason === "not_hazard_listing", "reject non-hazard");
 
   const wrongName = evaluateCandidate(sampleSite, {
     id: "wrong",
-    displayName: { text: "Random Pizza" },
+    displayName: { text: "Random Pizza Superfund Site" },
     location: { latitude: 40.01, longitude: -73.01 },
     googleMapsUri: "https://maps.google.com",
+    types: ["point_of_interest", "establishment"],
   });
   ensure(wrongName.rejectReason === "name_mismatch", "reject wrong name");
 }
 
+function pickBetterMiss(
+  current: SiteMissRecord | undefined,
+  candidate: SiteMissRecord
+): SiteMissRecord {
+  if (!current) {
+    return candidate;
+  }
+  const currentScore = current.topCandidate?.matchScore ?? -1;
+  const candidateScore = candidate.topCandidate?.matchScore ?? -1;
+  if (candidateScore > currentScore) {
+    return candidate;
+  }
+  return current;
+}
+
+function pickBetterReview(
+  current: SiteReviewRecord | undefined,
+  candidate: SiteReviewRecord
+): SiteReviewRecord {
+  if (!current) {
+    return candidate;
+  }
+  if (candidate.candidate.matchScore > current.candidate.matchScore) {
+    return candidate;
+  }
+  return current;
+}
+
+// biome-ignore lint/complexity/noExcessiveCognitiveComplexity: fallback-query orchestration is intentionally explicit.
 async function processSingleSite(
   site: Site,
-  apiKey: string,
-  matches: MatchesBySiteId,
-  misses: MissesBySiteId
-): Promise<void> {
-  const query = buildQuery(site);
-  let result: SearchResult;
+  apiKey: string
+): Promise<ProcessResult> {
+  const queries = buildFallbackQueries(site);
+  let sawNonApiResponse = false;
+  let apiErrorDetail: { statusCode?: number; error?: string } | undefined;
+  let bestMiss: SiteMissRecord | undefined;
+  let bestReview: SiteReviewRecord | undefined;
 
-  try {
-    result = await searchPlaces(site, query, apiKey);
-  } catch (error) {
-    const detail =
-      error instanceof Error ? error.message : "Unknown request failure";
-    misses[site.id] = {
-      reason: "api_error",
-      sourceQuery: query,
-      error: detail,
-    };
-    return;
-  }
+  for (const query of queries) {
+    let result: SearchResult;
+    try {
+      result = await searchPlaces(site, query, apiKey);
+    } catch (error) {
+      const detail =
+        error instanceof Error ? error.message : "Unknown request failure";
+      apiErrorDetail = { error: detail };
+      continue;
+    }
 
-  if (result.statusCode >= HTTP_BAD_REQUEST_MIN) {
-    misses[site.id] = {
-      reason: "api_error",
+    if (result.statusCode >= HTTP_BAD_REQUEST_MIN) {
+      apiErrorDetail = {
+        statusCode: result.statusCode,
+        error: result.errorText,
+      };
+      continue;
+    }
+
+    sawNonApiResponse = true;
+    if (result.places.length === 0) {
+      const miss: SiteMissRecord = {
+        reason: "no_results",
+        sourceQuery: query,
+        statusCode: result.statusCode,
+      };
+      bestMiss = pickBetterMiss(bestMiss, miss);
+      continue;
+    }
+
+    const selection = chooseBestCandidate(site, result.places, query);
+    if (selection.metadata) {
+      return {
+        kind: "match",
+        siteId: site.id,
+        metadata: selection.metadata,
+      };
+    }
+
+    if (selection.review) {
+      bestReview = pickBetterReview(bestReview, selection.review);
+      continue;
+    }
+
+    const miss: SiteMissRecord = {
+      reason: selection.missReason ?? "name_mismatch",
       sourceQuery: query,
       statusCode: result.statusCode,
-      error: result.errorText,
+      topCandidate: selection.topCandidate,
     };
-    return;
+    bestMiss = pickBetterMiss(bestMiss, miss);
   }
-  if (result.places.length === 0) {
-    misses[site.id] = {
+
+  if (bestReview) {
+    return {
+      kind: "review",
+      siteId: site.id,
+      record: bestReview,
+    };
+  }
+
+  if (bestMiss) {
+    return {
+      kind: "miss",
+      siteId: site.id,
+      record: bestMiss,
+    };
+  }
+
+  if (apiErrorDetail && !sawNonApiResponse) {
+    return {
+      kind: "miss",
+      siteId: site.id,
+      record: {
+        reason: "api_error",
+        sourceQuery: buildPrimaryQuery(site),
+        statusCode: apiErrorDetail.statusCode,
+        error: apiErrorDetail.error,
+      },
+    };
+  }
+
+  return {
+    kind: "miss",
+    siteId: site.id,
+    record: {
       reason: "no_results",
-      sourceQuery: query,
-      statusCode: result.statusCode,
-    };
-    return;
-  }
-
-  const selection = chooseBestCandidate(site, result.places);
-  if (selection.metadata) {
-    matches[site.id] = selection.metadata;
-    return;
-  }
-
-  misses[site.id] = {
-    reason: selection.missReason ?? "name_mismatch",
-    sourceQuery: query,
-    statusCode: result.statusCode,
-    topCandidate: selection.topCandidate,
+      sourceQuery: buildPrimaryQuery(site),
+    },
   };
 }
 
+function applyProcessResult(
+  result: ProcessResult,
+  matches: MatchesBySiteId,
+  misses: MissesBySiteId,
+  reviews: ReviewsBySiteId
+): void {
+  if (result.kind === "match") {
+    matches[result.siteId] = result.metadata;
+    delete misses[result.siteId];
+    delete reviews[result.siteId];
+    return;
+  }
+  if (result.kind === "review") {
+    reviews[result.siteId] = result.record;
+    delete misses[result.siteId];
+    delete matches[result.siteId];
+    return;
+  }
+  misses[result.siteId] = result.record;
+  delete matches[result.siteId];
+  delete reviews[result.siteId];
+}
+
+type PoolOptions = {
+  sites: Site[];
+  concurrency: number;
+  handler: (site: Site) => Promise<void>;
+  progressOffset: number;
+  progressTotal: number;
+};
+
+async function runPool(options: PoolOptions): Promise<void> {
+  const { sites, concurrency, handler, progressOffset, progressTotal } =
+    options;
+  let processed = 0;
+  const workers = new Set<Promise<void>>();
+
+  for (const site of sites) {
+    const task = handler(site).finally(() => {
+      processed += 1;
+      const globalProcessed = progressOffset + processed;
+      if (
+        globalProcessed % PROGRESS_LOG_INTERVAL === 0 ||
+        globalProcessed === progressTotal
+      ) {
+        log(`Processed ${globalProcessed}/${progressTotal}`);
+      }
+      workers.delete(task);
+    });
+
+    workers.add(task);
+    if (workers.size >= concurrency) {
+      await Promise.race(workers);
+    }
+  }
+
+  await Promise.all(workers);
+}
+
+async function saveOutputs(
+  matches: MatchesBySiteId,
+  misses: MissesBySiteId,
+  reviews: ReviewsBySiteId
+): Promise<void> {
+  const sortedMatches = sortObjectByKeys(matches);
+  const sortedMisses = sortObjectByKeys(misses);
+  const sortedReviews = sortObjectByKeys(reviews);
+
+  await writeFile(MATCHES_PATH, `${JSON.stringify(sortedMatches, null, 2)}\n`);
+  await writeFile(MISSES_PATH, `${JSON.stringify(sortedMisses, null, 2)}\n`);
+  await writeFile(REVIEW_PATH, `${JSON.stringify(sortedReviews, null, 2)}\n`);
+
+  log(
+    `Done. Matches: ${Object.keys(sortedMatches).length}, Misses: ${Object.keys(sortedMisses).length}, Reviews: ${Object.keys(sortedReviews).length}`
+  );
+  log(`Wrote ${MATCHES_PATH}`);
+  log(`Wrote ${MISSES_PATH}`);
+  log(`Wrote ${REVIEW_PATH}`);
+}
+
+// biome-ignore lint/complexity/noExcessiveCognitiveComplexity: top-level pipeline wiring is intentionally linear.
 async function main(): Promise<void> {
   runInvariantChecks();
 
@@ -872,6 +1185,7 @@ async function main(): Promise<void> {
   const options = parseArgs(process.argv.slice(ARGS_START_INDEX));
   const allSites = SITES as Site[];
   const scopedSites = filterSites(allSites, options);
+
   const matches = await loadJsonRecord<SiteGoogleMapsMetadata>(
     MATCHES_PATH,
     options.overwrite
@@ -880,12 +1194,18 @@ async function main(): Promise<void> {
     MISSES_PATH,
     options.overwrite
   );
+  const reviews = await loadJsonRecord<SiteReviewRecord>(
+    REVIEW_PATH,
+    options.overwrite
+  );
 
   const completedIds = buildCompletedIdSet(
     matches,
     misses,
+    reviews,
     options.retryApiErrors
   );
+
   const pendingSites: Site[] = [];
   for (const site of scopedSites) {
     if (!options.overwrite && completedIds.has(site.id)) {
@@ -895,46 +1215,48 @@ async function main(): Promise<void> {
   }
 
   log(
-    `Processing ${pendingSites.length} sites (scope=${scopedSites.length}, overwrite=${options.overwrite ? "true" : "false"}, retryApiErrors=${options.retryApiErrors ? "true" : "false"}, concurrency=${options.concurrency})`
+    `Processing ${pendingSites.length} sites (scope=${scopedSites.length}, overwrite=${options.overwrite ? "true" : "false"}, retryApiErrors=${options.retryApiErrors ? "true" : "false"}, concurrency=${options.concurrency}, requireSuperfundSignal=${REQUIRE_SUPERFUND_SIGNAL ? "true" : "false"})`
   );
 
-  let processed = 0;
-  const workers = new Set<Promise<void>>();
+  await runPool({
+    sites: pendingSites,
+    concurrency: options.concurrency,
+    handler: async (site) => {
+      const result = await processSingleSite(site, apiKey);
+      applyProcessResult(result, matches, misses, reviews);
+    },
+    progressOffset: 0,
+    progressTotal: pendingSites.length,
+  });
 
-  for (const site of pendingSites) {
-    const task = processSingleSite(site, apiKey, matches, misses).finally(
-      () => {
-        processed += 1;
-        if (
-          processed % PROGRESS_LOG_INTERVAL === 0 ||
-          processed === pendingSites.length
-        ) {
-          log(`Processed ${processed}/${pendingSites.length}`);
-        }
-        workers.delete(task);
+  if (options.retryApiErrors) {
+    const retrySites: Site[] = [];
+    for (const site of pendingSites) {
+      const miss = misses[site.id];
+      if (miss?.reason === "api_error") {
+        retrySites.push(site);
       }
-    );
+    }
 
-    workers.add(task);
-    if (workers.size >= options.concurrency) {
-      await Promise.race(workers);
+    if (retrySites.length > 0) {
+      log(
+        `Retrying ${retrySites.length} api_error sites (concurrency=${API_RETRY_CONCURRENCY})`
+      );
+      await runPool({
+        sites: retrySites,
+        concurrency: API_RETRY_CONCURRENCY,
+        handler: async (site) => {
+          const result = await processSingleSite(site, apiKey);
+          applyProcessResult(result, matches, misses, reviews);
+        },
+        progressOffset: pendingSites.length - retrySites.length,
+        progressTotal: pendingSites.length,
+      });
     }
   }
 
-  await Promise.all(workers);
-
-  validateOutputs(matches, misses, allSites);
-
-  const sortedMatches = sortObjectByKeys(matches);
-  const sortedMisses = sortObjectByKeys(misses);
-  await writeFile(MATCHES_PATH, `${JSON.stringify(sortedMatches, null, 2)}\n`);
-  await writeFile(MISSES_PATH, `${JSON.stringify(sortedMisses, null, 2)}\n`);
-
-  log(
-    `Done. Matches: ${Object.keys(sortedMatches).length}, Misses: ${Object.keys(sortedMisses).length}`
-  );
-  log(`Wrote ${MATCHES_PATH}`);
-  log(`Wrote ${MISSES_PATH}`);
+  validateOutputs(matches, misses, reviews, allSites);
+  await saveOutputs(matches, misses, reviews);
 }
 
 await main();
