@@ -10,6 +10,8 @@ const GOOGLE_PLACES_URL = "https://places.googleapis.com/v1/places:searchText";
 
 const MAX_DISTANCE_MILES = 10;
 const NAME_SCORE_THRESHOLD = 0.3;
+const CLOSE_DISTANCE_MILES = 0.5;
+const CLOSE_DISTANCE_NAME_THRESHOLD = 0.18;
 const NAME_WEIGHT = 0.7;
 const DISTANCE_WEIGHT = 0.3;
 const DEFAULT_CONCURRENCY = 8;
@@ -45,6 +47,7 @@ type CliOptions = {
   offset: number;
   onlyState?: string;
   overwrite: boolean;
+  retryApiErrors: boolean;
   concurrency: number;
 };
 
@@ -145,6 +148,34 @@ const STOPWORDS = new Set([
   "the",
 ]);
 
+const SUSPICIOUS_PLACE_TYPES = new Set([
+  "route",
+  "locality",
+  "political",
+  "neighborhood",
+]);
+
+const STRONG_SITE_TERMS = new Set([
+  "superfund",
+  "landfill",
+  "dump",
+  "plume",
+  "groundwater",
+  "chemical",
+  "plant",
+  "mill",
+  "yard",
+  "arsenal",
+  "depot",
+  "mine",
+  "smelter",
+  "refinery",
+  "waste",
+  "disposal",
+  "cleanup",
+  "contamination",
+]);
+
 function log(message: string): void {
   process.stdout.write(`${message}\n`);
 }
@@ -200,6 +231,7 @@ function parseArgs(args: string[]): CliOptions {
   const options: CliOptions = {
     offset: 0,
     overwrite: false,
+    retryApiErrors: false,
     concurrency: DEFAULT_CONCURRENCY,
   };
 
@@ -217,6 +249,10 @@ function parseArgs(args: string[]): CliOptions {
     switch (flag) {
       case "--overwrite": {
         options.overwrite = true;
+        break;
+      }
+      case "--retry-api-errors": {
+        options.retryApiErrors = true;
         break;
       }
       case "--limit": {
@@ -261,7 +297,18 @@ function parseArgs(args: string[]): CliOptions {
 }
 
 function normalizeName(value: string): string {
-  const cleaned = value
+  const aliased = value
+    .toLowerCase()
+    .replaceAll(/naval air station/g, "air base")
+    .replaceAll(/air force base/g, "air base")
+    .replaceAll(/federal airfield/g, "air base")
+    .replaceAll(/airfield/g, "air base")
+    .replaceAll(/airport/g, "air base")
+    .replaceAll(/ground water/g, "groundwater")
+    .replaceAll(/corp\b/g, "corporation")
+    .replaceAll(/co\b/g, "company");
+
+  const cleaned = aliased
     .toLowerCase()
     .replaceAll("&", " and ")
     .replaceAll(/[^a-z0-9\s]/g, " ")
@@ -279,6 +326,34 @@ function normalizeName(value: string): string {
     words.push(token);
   }
   return words.join(" ").trim();
+}
+
+function hasStrongSiteTerm(value: string): boolean {
+  const normalized = normalizeName(value);
+  if (!normalized) {
+    return false;
+  }
+  for (const token of normalized.split(" ")) {
+    if (STRONG_SITE_TERMS.has(token)) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function hasSuspiciousOnlyTypes(types: string[] | undefined): boolean {
+  if (!types || types.length === 0) {
+    return false;
+  }
+  let hasSuspicious = false;
+  for (const type of types) {
+    const normalizedType = type.toLowerCase();
+    if (!SUSPICIOUS_PLACE_TYPES.has(normalizedType)) {
+      return false;
+    }
+    hasSuspicious = true;
+  }
+  return hasSuspicious;
 }
 
 function tokenSimilarity(a: string, b: string): number {
@@ -368,7 +443,19 @@ function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
 
   const distanceMiles = haversineMiles(site.lat, site.lng, lat, lng);
   const distanceScore = Math.max(0, 1 - distanceMiles / MAX_DISTANCE_MILES);
-  const matchScore = nameScore * NAME_WEIGHT + distanceScore * DISTANCE_WEIGHT;
+  const suspiciousOnlyType = hasSuspiciousOnlyTypes(place.types);
+  const hasDisplayStrongTerm = hasStrongSiteTerm(displayName);
+  const isCloseDistance = distanceMiles <= CLOSE_DISTANCE_MILES;
+
+  let effectiveNameThreshold = NAME_SCORE_THRESHOLD;
+  if (isCloseDistance && !suspiciousOnlyType) {
+    effectiveNameThreshold = CLOSE_DISTANCE_NAME_THRESHOLD;
+  }
+
+  let matchScore = nameScore * NAME_WEIGHT + distanceScore * DISTANCE_WEIGHT;
+  if (suspiciousOnlyType && !hasDisplayStrongTerm) {
+    matchScore *= 0.45;
+  }
 
   if (distanceMiles > MAX_DISTANCE_MILES) {
     return {
@@ -380,7 +467,7 @@ function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
       rejectReason: "distance_too_far",
     };
   }
-  if (nameScore < NAME_SCORE_THRESHOLD) {
+  if (nameScore < effectiveNameThreshold) {
     return {
       place,
       distanceMiles,
@@ -641,6 +728,26 @@ function validateOutputs(
   }
 }
 
+function buildCompletedIdSet(
+  matches: MatchesBySiteId,
+  misses: MissesBySiteId,
+  retryApiErrors: boolean
+): Set<string> {
+  const completedIds = new Set([
+    ...Object.keys(matches),
+    ...Object.keys(misses),
+  ]);
+  if (!retryApiErrors) {
+    return completedIds;
+  }
+  for (const [id, miss] of Object.entries(misses)) {
+    if (miss.reason === "api_error") {
+      completedIds.delete(id);
+    }
+  }
+  return completedIds;
+}
+
 function runInvariantChecks(): void {
   ensure(
     normalizeName("ACME & Co. Superfund Site") === "acme",
@@ -774,10 +881,11 @@ async function main(): Promise<void> {
     options.overwrite
   );
 
-  const completedIds = new Set([
-    ...Object.keys(matches),
-    ...Object.keys(misses),
-  ]);
+  const completedIds = buildCompletedIdSet(
+    matches,
+    misses,
+    options.retryApiErrors
+  );
   const pendingSites: Site[] = [];
   for (const site of scopedSites) {
     if (!options.overwrite && completedIds.has(site.id)) {
@@ -787,7 +895,7 @@ async function main(): Promise<void> {
   }
 
   log(
-    `Processing ${pendingSites.length} sites (scope=${scopedSites.length}, overwrite=${options.overwrite ? "true" : "false"}, concurrency=${options.concurrency})`
+    `Processing ${pendingSites.length} sites (scope=${scopedSites.length}, overwrite=${options.overwrite ? "true" : "false"}, retryApiErrors=${options.retryApiErrors ? "true" : "false"}, concurrency=${options.concurrency})`
   );
 
   let processed = 0;
