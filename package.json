@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "bunx ultracite check",
     "lint:fix": "bunx ultracite fix",
+    "maps:enrich": "bun run lib/tasks/google-maps-sites.ts",
     "icons": "bun x @svgr/cli --no-index --typescript --replace-attr-values #000=,black= --svg-props fill=currentColor,role=img,viewBox=\"0 0 32 32\" --out-dir lib/icons/ lib/svg/",
     "supabase:types": "bun x supabase gen types typescript --project-id wvuqhyuqzznhoiznaaub > supabase/types.ts"
   },
