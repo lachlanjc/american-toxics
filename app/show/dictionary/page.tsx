@@ -67,10 +67,10 @@ export default async function Page() {
     <main className="grid grid-cols-2 font-sans" style={{ fontSize: 12 }}>
       {/* Table of contents */}
       <article className="flex h-[50vb] w-[50vi] flex-col p-8" key="toc">
-        <h1 className="font-semibold text-[2em] leading-none">Contaminants</h1>
+        {/*<h1 className="font-semibold text-[2em] leading-none mb-4">Contaminants</h1>*/}
         <nav
           aria-label="Table of contents"
-          className="mt-4 flex flex-col gap-0"
+          className="leading-4 flex flex-col gap-px"
         >
           {sorted.map((contaminant, i) => (
             <a
@@ -106,11 +106,11 @@ export default async function Page() {
               {contaminant.name}
             </h2>
             {contaminant.summary && (
-              <p className="mt-4 flex-grow text-pretty font-mono text-[1em] text-neutral-700">
+              <p className="mt-4 grow text-pretty font-mono text-[1em] text-neutral-700">
                 {contaminant.summary.replaceAll("*", "")}
               </p>
             )}
-            <div className="mt-auto flex flex-col font-medium text-[1.5em]">
+            <div className="mt-auto flex flex-wrap gap-x-6 font-medium text-[1.5em]">
               {contexts.map((ctx) => {
                 const context = contaminantContexts[ctx];
                 if (!context) return null;
