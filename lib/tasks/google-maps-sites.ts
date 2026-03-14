@@ -211,6 +211,7 @@ const HAZARD_SIGNAL_TERMS = [
   "pollution",
   "cleanup",
 ];
+const SUPERFUND_REGEX = /super\s*fund/;
 
 function log(message: string): void {
   process.stdout.write(`${message}\n`);
@@ -451,7 +452,12 @@ function hasHazardSignal(place: GooglePlace): boolean {
   if (!REQUIRE_SUPERFUND_SIGNAL) {
     return true;
   }
-  return corpus.includes("superfund");
+  return SUPERFUND_REGEX.test(corpus);
+}
+
+function hasExplicitSuperfundDisplayName(place: GooglePlace): boolean {
+  const display = normalizeText(place.displayName?.text ?? "");
+  return SUPERFUND_REGEX.test(display);
 }
 
 function toRadians(degrees: number): number {
@@ -574,6 +580,7 @@ function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
 
   const hasSuspiciousType = hasAnySuspiciousType(place.types);
   const hasNonSuspiciousType = hasAcceptableType(place.types);
+  const hasExplicitSuperfundName = hasExplicitSuperfundDisplayName(place);
   if (hasSuspiciousType && !hasNonSuspiciousType) {
     return {
       place,
@@ -598,7 +605,8 @@ function evaluateCandidate(site: Site, place: GooglePlace): EvaluatedCandidate {
   }
 
   const requiresReview =
-    hasSuspiciousType || matchScore < REVIEW_MATCH_SCORE_THRESHOLD;
+    hasSuspiciousType ||
+    (matchScore < REVIEW_MATCH_SCORE_THRESHOLD && !hasExplicitSuperfundName);
 
   return {
     place,

@@ -1,0 +1,1571 @@
+{
+  "AZ0000309013": {
+    "placeId": "ChIJXzcGSgDfLIcRG3zMo-jFV_I",
+    "googleMapsUri": "https://maps.google.com/?cid=17462643683123559451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Iron King Mine SUPERFUND site",
+    "formattedAddress": "12219 Iron King Rd, Dewey, AZ 86327, USA",
+    "location": {
+      "lat": 34.500192399999996,
+      "lng": -112.25123769999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Iron King Mine - Humboldt Smelter, Dewey-Humboldt, AZ, superfund",
+    "matchScore": 0.858,
+    "distanceMiles": 0.072
+  },
+  "CA0001576081": {
+    "placeId": "ChIJAQDANpqAj4ARw1rFvDjZy48",
+    "googleMapsUri": "https://maps.google.com/?cid=10361614205404404419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "AMCO Chemical Superfund Site",
+    "formattedAddress": "Oakland, CA 94615, USA",
+    "location": {
+      "lat": 37.8027835,
+      "lng": -122.2948945
+    },
+    "types": [
+      "manufacturer",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "rating": 2.3,
+    "userRatingCount": 11,
+    "sourceQuery": "AMCO Chemical, Oakland, CA, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.065
+  },
+  "CAD009112087": {
+    "placeId": "ChIJBYrBEXW0nIARZFAwVrVOtZU",
+    "googleMapsUri": "https://maps.google.com/?cid=10787615023177945188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Koppers Superfund Site",
+    "formattedAddress": "5666 Baggett Marysville Rd, Oroville, CA 95965, USA",
+    "location": {
+      "lat": 39.469988,
+      "lng": -121.56190799999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Koppers Co., Inc. (Oroville Plant), Oroville, CA, superfund",
+    "matchScore": 0.786,
+    "distanceMiles": 0.14
+  },
+  "CAD009159088": {
+    "placeId": "ChIJ8ee6lD-3j4ARQeouBFEMdYw",
+    "googleMapsUri": "https://maps.google.com/?cid=10121009279687125569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "TRW Microwave Superfund site",
+    "formattedAddress": "825 Stewart Dr, Sunnyvale, CA 94085, USA",
+    "location": {
+      "lat": 37.3844707,
+      "lng": -122.00930769999998
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "TRW Microwave, Inc. (Building 825), Sunnyvale, CA, superfund",
+    "matchScore": 0.789,
+    "distanceMiles": 0.045
+  },
+  "CAD009688052": {
+    "placeId": "ChIJG0mPTABP6IAR0aofTXFqebk",
+    "googleMapsUri": "https://maps.google.com/?cid=13364830404056427217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Halaco EPA SUPERFUND SITE",
+    "formattedAddress": "Halaco EPA SUPERFUND SITE, 6200 Perkins Rd, Oxnard, CA 93033, USA",
+    "location": {
+      "lat": 34.139324,
+      "lng": -119.1833444
+    },
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Halaco Engineering Company, Oxnard, CA, superfund",
+    "matchScore": 0.531,
+    "distanceMiles": 0.086
+  },
+  "CAD020748125": {
+    "placeId": "ChIJ17AaOjIV7IARcnlQRzIA4Dg",
+    "googleMapsUri": "https://maps.google.com/?cid=4098275876851972466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Casmalia Superfund Site",
+    "formattedAddress": "Ntu Rd, Casmalia, CA 93429, USA",
+    "location": {
+      "lat": 34.8528247,
+      "lng": -120.527617
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Casmalia Resources, Casmalia, CA, superfund",
+    "matchScore": 0.754,
+    "distanceMiles": 1.184
+  },
+  "CAD029544731": {
+    "placeId": "ChIJW3GsQVQ13YARIcQSfatuXpk",
+    "googleMapsUri": "https://maps.google.com/?cid=11051392218430620705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Del Amo Superfund Site",
+    "formattedAddress": "1105 W Del Amo Blvd, Torrance, CA 90502, USA",
+    "location": {
+      "lat": 33.8464202,
+      "lng": -118.29289999999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 2,
+    "sourceQuery": "Del Amo, Los Angeles, CA, superfund",
+    "matchScore": 0.994,
+    "distanceMiles": 0.197
+  },
+  "CAD041472341": {
+    "placeId": "ChIJm2QnRUu1j4ARetfcP3Joul8",
+    "googleMapsUri": "https://maps.google.com/?cid=6897940619178334074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "INTERSIL INC./SIEMENS COMPONENTS Superfund Site",
+    "formattedAddress": "19000 N Tantau Ave, Cupertino, CA 95014, USA",
+    "location": {
+      "lat": 37.3374583,
+      "lng": -122.00540279999998
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Intersil Inc./Siemens Components, Cupertino, CA, superfund",
+    "matchScore": 0.993,
+    "distanceMiles": 0.234
+  },
+  "CAD042245001": {
+    "placeId": "ChIJ9Uyei8bTwoARaRp8XfPLst0",
+    "googleMapsUri": "https://maps.google.com/?cid=15975055074342476393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Omega Superfund Site",
+    "formattedAddress": "12512 Whittier Blvd, Whittier, CA 90602, USA",
+    "location": {
+      "lat": 33.968986699999995,
+      "lng": -118.04346539999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Omega Chemical Corporation, Whittier, CA, superfund",
+    "matchScore": 0.787,
+    "distanceMiles": 0.088
+  },
+  "CAD055753370": {
+    "placeId": "ChIJp2DkDT7MwoARJONd6Pw1RG0",
+    "googleMapsUri": "https://maps.google.com/?cid=7873477408896967460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Cooper Drum Superfund",
+    "formattedAddress": "9641 Atlantic Ave, South Gate, CA 90280, USA",
+    "location": {
+      "lat": 33.944435999999996,
+      "lng": -118.18135400000001
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 1,
+    "userRatingCount": 2,
+    "sourceQuery": "Cooper Drum Company, South Gate, CA, superfund",
+    "matchScore": 0.994,
+    "distanceMiles": 0.199
+  },
+  "CAD071530380": {
+    "placeId": "ChIJK0sTTNMrhYARHtWI9bK3Ax4",
+    "googleMapsUri": "https://maps.google.com/?cid=2162774225319417118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Frontier Fert Superfund",
+    "formattedAddress": "3985 2nd St, Davis, CA 95618, USA",
+    "location": {
+      "lat": 38.5524777,
+      "lng": -121.7023725
+    },
+    "types": [
+      "association_or_organization",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3.5,
+    "userRatingCount": 2,
+    "sourceQuery": "Frontier Fertilizer, Davis, CA, superfund",
+    "matchScore": 0.626,
+    "distanceMiles": 1.57
+  },
+  "CAD990832735": {
+    "placeId": "ChIJaTfnbeDJj4ARkwS_PdVDohc",
+    "googleMapsUri": "https://maps.google.com/?cid=1702998192242492563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Synertek Superfund site",
+    "formattedAddress": "3050 Coronado Dr, Santa Clara, CA 95054, USA",
+    "location": {
+      "lat": 37.376987,
+      "lng": -121.972946
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Synertek, Inc. (Building 1), Santa Clara, CA, superfund",
+    "matchScore": 0.788,
+    "distanceMiles": 0.061
+  },
+  "COD980499248": {
+    "placeId": "ChIJ3fT3QACLbIcRN1gqkCtUSl4",
+    "googleMapsUri": "https://maps.google.com/?cid=6794335533920835639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Lowry Landfill Superfund Site",
+    "formattedAddress": "J7RQ+584, Aurora, CO 80018, USA",
+    "location": {
+      "lat": 39.6443226,
+      "lng": -104.7044449
+    },
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 1,
+    "sourceQuery": "Lowry Landfill, Arapahoe County, CO, superfund",
+    "matchScore": 0.994,
+    "distanceMiles": 0.216
+  },
+  "COD980499255": {
+    "placeId": "ChIJyZY9SUrza4cRUw4Tzecw2Ag",
+    "googleMapsUri": "https://maps.google.com/?cid=637313119409081939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Marshall Landfill Superfund site",
+    "formattedAddress": "1600 S 66th St, Louisville, CO 80027, USA",
+    "location": {
+      "lat": 39.953706,
+      "lng": -105.1982027
+    },
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Marshall Landfill, Boulder County, CO, superfund",
+    "matchScore": 0.992,
+    "distanceMiles": 0.273
+  },
+  "COD980717938": {
+    "placeId": "ChIJ1whS97SWaocROEY6K3PSoCw",
+    "googleMapsUri": "https://maps.google.com/?cid=3215801526030845496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "California Gulch Superfund site",
+    "formattedAddress": "S Toledo St, Leadville, CO 80461, USA",
+    "location": {
+      "lat": 39.236285099999996,
+      "lng": -106.27202890000001
+    },
+    "types": [
+      "university",
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "rating": 1,
+    "userRatingCount": 1,
+    "sourceQuery": "California Gulch, Leadville, CO, superfund",
+    "matchScore": 0.995,
+    "distanceMiles": 0.152
+  },
+  "COD981551427": {
+    "placeId": "ChIJ7-9aC7HFa4cR9PKRX5xw6KQ",
+    "googleMapsUri": "https://maps.google.com/?cid=11882871433737663220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Captain Jack Mill Superfund Site",
+    "formattedAddress": "Jamestown, CO 80455, USA",
+    "location": {
+      "lat": 40.063093200000004,
+      "lng": -105.51141949999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 2.3,
+    "userRatingCount": 3,
+    "sourceQuery": "Captain Jack Mill, Ward, CO, superfund",
+    "matchScore": 0.981,
+    "distanceMiles": 0.65
+  },
+  "CTD001186618": {
+    "placeId": "ChIJg65GIQAN6IkRK0ZJb2ZGGcs",
+    "googleMapsUri": "https://maps.google.com/?cid=14634805869884818987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Raymark Superfund Site",
+    "formattedAddress": "Stratford, CT 06615, USA",
+    "location": {
+      "lat": 41.1881586,
+      "lng": -73.1247053
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Raymark Industries, Inc., Stratford, CT, superfund",
+    "matchScore": 0.76,
+    "distanceMiles": 0.986
+  },
+  "FLD004064242": {
+    "placeId": "ChIJFWWy9gx654gRWRdnoyiRi2o",
+    "googleMapsUri": "https://maps.google.com/?cid=7677389593509304153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "CHEVRON CHEMICAL CO. (ORTHO DIVISION) Pesticide Superfund Site",
+    "formattedAddress": "3100 S Orange Blossom Trl, Orlando, FL 32804, USA",
+    "location": {
+      "lat": 28.579525999999998,
+      "lng": -81.40833599999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3,
+    "userRatingCount": 3,
+    "sourceQuery": "Chevron Chemical Co. (Ortho Division), Orlando, FL, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.055
+  },
+  "FLD004145140": {
+    "placeId": "ChIJ_4tSrkex2YgRjsyvQqh99MA",
+    "googleMapsUri": "https://maps.google.com/?cid=13903876111226358926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Airco Plating Superfund Site",
+    "formattedAddress": "3636 NW 46th St, Miami, FL 33142, USA",
+    "location": {
+      "lat": 25.815529299999998,
+      "lng": -80.2553942
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Airco Plating Co., Miami, FL, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.039
+  },
+  "FLD008168346": {
+    "placeId": "ChIJ02XnFJ2_kIgReacT42G2TXA",
+    "googleMapsUri": "https://maps.google.com/?cid=8092324636992448377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Escambia Treating Company Superfund Site",
+    "formattedAddress": "3910 N Palafox St, Pensacola, FL 32505, USA",
+    "location": {
+      "lat": 30.454173,
+      "lng": -87.233401
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Escambia Wood - Pensacola, Pensacola, FL, superfund",
+    "matchScore": 0.471,
+    "distanceMiles": 0.128
+  },
+  "FLD055945653": {
+    "placeId": "ChIJO9KZLiFv54gRWDiMIW_TvpY",
+    "googleMapsUri": "https://maps.google.com/?cid=10862351825521883224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "City Industries Superfund Site",
+    "formattedAddress": "3920 Forsyth Rd, Winter Park, FL 32792, USA",
+    "location": {
+      "lat": 28.601310599999998,
+      "lng": -81.2993432
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "City Industries, Inc., Orlando, FL, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.04
+  },
+  "FLD980709356": {
+    "placeId": "ChIJnVLkIxal6IgR76VgHt0TuBo",
+    "googleMapsUri": "https://maps.google.com/?cid=1925310681119237615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Cabot Koppers Superfund Site",
+    "formattedAddress": "200 NW 23rd Ave, Gainesville, FL 32609, USA",
+    "location": {
+      "lat": 29.67761,
+      "lng": -82.32650079999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Cabot/Koppers, Gainesville, FL, superfund",
+    "matchScore": 0.992,
+    "distanceMiles": 0.274
+  },
+  "FLR000091322": {
+    "placeId": "ChIJH1okMwpt54gRrYiv7C5FQAs",
+    "googleMapsUri": "https://maps.google.com/?cid=810724000768428205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "General Dynamics Longwood Superfund Site",
+    "formattedAddress": "Casselberry, FL 32708, USA",
+    "location": {
+      "lat": 28.717069499999997,
+      "lng": -81.3216175
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "rating": 1,
+    "userRatingCount": 1,
+    "sourceQuery": "General Dynamics Longwood, Longwood, FL, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.039
+  },
+  "GAD099303182": {
+    "placeId": "ChIJs0_QY_TX5IgR1XbTvgeKDfA",
+    "googleMapsUri": "https://maps.google.com/?cid=17297633509670876885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "LCP Chemicals Superfund Site",
+    "formattedAddress": "Dock Junction, GA 31520, USA",
+    "location": {
+      "lat": 31.1866484,
+      "lng": -81.5092347
+    },
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3.7,
+    "userRatingCount": 6,
+    "sourceQuery": "LCP Chemicals Georgia, Brunswick, GA, superfund",
+    "matchScore": 0.901,
+    "distanceMiles": 0.2
+  },
+  "IAD065210734": {
+    "placeId": "ChIJRz5_eABj8IcRXfjvqOIDY84",
+    "googleMapsUri": "https://maps.google.com/?cid=14871734666539300957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "White Farm Superfund Site",
+    "formattedAddress": "Charles City, IA 50616, USA",
+    "location": {
+      "lat": 43.0861856,
+      "lng": -92.6819357
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "White Farm Equipment Co. Dump, Charles City, IA, superfund",
+    "matchScore": 0.787,
+    "distanceMiles": 0.101
+  },
+  "IAD980687933": {
+    "placeId": "ChIJBxkEI4qZ7ocRcVRKUSVt8JU",
+    "googleMapsUri": "https://maps.google.com/?cid=10804255513106863217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Des Moines TCE Southern Pond Superfund Area",
+    "formattedAddress": "200 SW 16th St, Des Moines, IA 50309, USA",
+    "location": {
+      "lat": 41.5798761,
+      "lng": -93.6392078
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 3,
+    "sourceQuery": "Des Moines TCE, Des Moines, IA, superfund",
+    "matchScore": 0.784,
+    "distanceMiles": 0.206
+  },
+  "LAD980501456": {
+    "placeId": "ChIJ5ycJhkw1IYYRb1D9xweGOdc",
+    "googleMapsUri": "https://maps.google.com/?cid=15508574159805173871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Cleve Reber Superfund Site",
+    "formattedAddress": "Ascension Parish, LA 70778, USA",
+    "location": {
+      "lat": 30.1539266,
+      "lng": -90.87275249999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Cleve Reber, Sorrento, LA, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.082
+  },
+  "LAN000604293": {
+    "placeId": "ChIJnYaZNgCzO4YRIKGyH8JhzQc",
+    "googleMapsUri": "https://maps.google.com/?cid=562213014874530080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "American Creosote Superfund Site",
+    "formattedAddress": "RPJF+C4, DeRidder, LA 70634, USA",
+    "location": {
+      "lat": 30.831064299999998,
+      "lng": -93.2771317
+    },
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "American Creosote DeRidder, DeRidder, LA, superfund",
+    "matchScore": 0.905,
+    "distanceMiles": 0.046
+  },
+  "MAD1002252": {
+    "placeId": "ChIJ-2QtNf-Q44kRqOGKUp3Ykqg",
+    "googleMapsUri": "https://maps.google.com/?cid=12147009315177947560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "WR Grace Superfund Site",
+    "formattedAddress": "47 Independence Rd, Acton, MA 01720, USA",
+    "location": {
+      "lat": 42.4536152,
+      "lng": -71.42548359999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3.9,
+    "userRatingCount": 18,
+    "sourceQuery": "W.R. Grace & Co., Inc. (Acton Plant), Acton, MA, superfund",
+    "matchScore": 0.526,
+    "distanceMiles": 0.242
+  },
+  "MAD1403104": {
+    "placeId": "ChIJHwgzhKoL44kRXYACxaLBNuA",
+    "googleMapsUri": "https://maps.google.com/?cid=16156313618072371293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Olin Chemical Superfund Site",
+    "formattedAddress": "51 Eames St, Wilmington, MA 01887, USA",
+    "location": {
+      "lat": 42.528571199999995,
+      "lng": -71.1536981
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 1,
+    "sourceQuery": "Olin Chemical, Wilmington, MA, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.037
+  },
+  "MAD192393": {
+    "placeId": "ChIJl0Kqr3Ok44kRMNC3x982hPw",
+    "googleMapsUri": "https://maps.google.com/?cid=18195728729239965744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Silresim Superfund site",
+    "formattedAddress": "86 Tanner St, Lowell, MA 01852, USA",
+    "location": {
+      "lat": 42.6300775,
+      "lng": -71.31470949999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 2,
+    "sourceQuery": "Silresim Chemical Corp., Lowell, MA, superfund",
+    "matchScore": 0.787,
+    "distanceMiles": 0.092
+  },
+  "MAD980732168": {
+    "placeId": "ChIJiVqPX-h044kRxXkPRqCIRyI",
+    "googleMapsUri": "https://maps.google.com/?cid=2470093142587570629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Wells G & H Superfund Site",
+    "formattedAddress": "Aberjona River, Woburn, MA 01801, USA",
+    "location": {
+      "lat": 42.495317,
+      "lng": -71.131346
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3.3,
+    "userRatingCount": 6,
+    "sourceQuery": "Wells G&H, Woburn, MA, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.049
+  },
+  "MAN000106144": {
+    "placeId": "ChIJBSkRwaNv5IkRKCAkLX0oyRs",
+    "googleMapsUri": "https://maps.google.com/?cid=2002176027436261416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "BJAT, LLC Superfund Site",
+    "formattedAddress": "300 Fisher Street Ext, Franklin, MA 02038, USA",
+    "location": {
+      "lat": 42.0744081,
+      "lng": -71.41038759999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "BJAT LLC, Franklin, MA, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.021
+  },
+  "MDD003061447": {
+    "placeId": "ChIJ3xefNbWSyYkRzTrl3Z2aASY",
+    "googleMapsUri": "https://maps.google.com/?cid=2738640051241302733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Central Chemical Superfund Site",
+    "formattedAddress": "701 McDowell Ave, Hagerstown, MD 21742, USA",
+    "location": {
+      "lat": 39.6565231,
+      "lng": -77.72382859999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 1,
+    "userRatingCount": 5,
+    "sourceQuery": "Central Chemical (Hagerstown), Hagerstown, MD, superfund",
+    "matchScore": 0.906,
+    "distanceMiles": 0.015
+  },
+  "MED985466168": {
+    "placeId": "ChIJWadb74IvrkwRHULU-0ACdqw",
+    "googleMapsUri": "https://maps.google.com/?cid=12427122699901616669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Hows Corners Superfund Site",
+    "formattedAddress": "Plymouth, ME 04969, USA",
+    "location": {
+      "lat": 44.740521699999995,
+      "lng": -69.1823514
+    },
+    "types": [
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 2,
+    "sourceQuery": "West Site/Hows Corners, Plymouth, ME, superfund",
+    "matchScore": 0.906,
+    "distanceMiles": 0.018
+  },
+  "MID005339676": {
+    "placeId": "ChIJZZHAYQBFPYgR8aMtZawYfsU",
+    "googleMapsUri": "https://maps.google.com/?cid=14230839001248277489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "McGraw Edison Corp. Superfund Site",
+    "formattedAddress": "704 N Clark St, Albion, MI 49224, USA",
+    "location": {
+      "lat": 42.2520119,
+      "lng": -84.7330297
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "McGraw Edison Corp., Albion, MI, superfund",
+    "matchScore": 1,
+    "distanceMiles": 0.014
+  },
+  "MID980504450": {
+    "placeId": "ChIJ7942MwBFPYgRvMeXweubQ5w",
+    "googleMapsUri": "https://maps.google.com/?cid=11260014930223941564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Albion-Sheridan Township Landfill Superfund Site",
+    "formattedAddress": "29975 E Erie St, Albion, MI 49224, USA",
+    "location": {
+      "lat": 42.2485506,
+      "lng": -84.717827
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Albion-Sheridan Township Landfill, Albion, MI, superfund",
+    "matchScore": 0.997,
+    "distanceMiles": 0.11
+  },
+  "MND039045430": {
+    "placeId": "ChIJz0BTMONPrlIRqJPzgYibX6M",
+    "googleMapsUri": "https://maps.google.com/?cid=11772298961567847336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "St. Louis River/Interlake/Duluth Tar State Superfund (SLRIDT) site",
+    "formattedAddress": "S 59th Ave W, Duluth, MN 55807, USA",
+    "location": {
+      "lat": 46.7263259,
+      "lng": -92.17196009999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "St. Louis River Site, St. Louis County, MN, superfund",
+    "matchScore": 0.587,
+    "distanceMiles": 3.859
+  },
+  "MND044799856": {
+    "placeId": "ChIJse1daTgxs1IRIqXEfKZuaFA",
+    "googleMapsUri": "https://maps.google.com/?cid=5794002581949031714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Joslyn Superfund Site - West",
+    "formattedAddress": "4837 Azelia Ave N, Minneapolis, MN 55429, USA",
+    "location": {
+      "lat": 45.0456466,
+      "lng": -93.3381658
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 2.7,
+    "userRatingCount": 3,
+    "sourceQuery": "Joslyn Manufacturing & Supply Co., Brooklyn Center, MN, superfund",
+    "matchScore": 0.468,
+    "distanceMiles": 0.24
+  },
+  "MO0000958611": {
+    "placeId": "ChIJ9XPWE-fV2YcRKCFCfVLpRNk",
+    "googleMapsUri": "https://maps.google.com/?cid=15655894745144762664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "EPA Superfund Annapolis Lead Mines Clean Up Site",
+    "formattedAddress": "546 County Rd 138, Annapolis, MO 63620, USA",
+    "location": {
+      "lat": 37.363646599999996,
+      "lng": -90.67643770000001
+    },
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "rating": 5,
+    "userRatingCount": 1,
+    "sourceQuery": "Annapolis Lead Mine, Annapolis, MO, superfund",
+    "matchScore": 0.623,
+    "distanceMiles": 0.565
+  },
+  "NCD003202603": {
+    "placeId": "ChIJ1516fw7xrIkRmNKk9IuecKw",
+    "googleMapsUri": "https://maps.google.com/?cid=12425605695857283736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Ward Transformer Superfund Site",
+    "formattedAddress": "6720 Mt Herman Rd, Morrisville, NC 27560, USA",
+    "location": {
+      "lat": 35.902715,
+      "lng": -78.77281099999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 1,
+    "userRatingCount": 1,
+    "sourceQuery": "Ward Transformer, Raleigh, NC, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.07
+  },
+  "NCD024644494": {
+    "placeId": "ChIJaVjrVwAbqYkRiuOVBS72ZPg",
+    "googleMapsUri": "https://maps.google.com/?cid=17898701496599831434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "ABC Cleaners EPA Superfund site",
+    "formattedAddress": "2127 Lejeune Blvd, Jacksonville, NC 28546, USA",
+    "location": {
+      "lat": 34.741320200000004,
+      "lng": -77.3664802
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "ABC One Hour Cleaners, Jacksonville, NC, superfund",
+    "matchScore": 0.58,
+    "distanceMiles": 0.009
+  },
+  "NEN000710226": {
+    "placeId": "ChIJB1zslduHk4cR-0Kn2sb9wW8",
+    "googleMapsUri": "https://maps.google.com/?cid=8052996639228904187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "PCE Carriage Cleaners Superfund Site",
+    "formattedAddress": "2112 Franklin St, Bellevue, NE 68005, USA",
+    "location": {
+      "lat": 41.1377958,
+      "lng": -95.89405699999999
+    },
+    "types": [
+      "laundry",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "PCE - Carriage Cleaners, Bellevue, NE, superfund",
+    "matchScore": 1,
+    "distanceMiles": 0.005
+  },
+  "NHD099363541": {
+    "placeId": "ChIJDRNZnsy544kR7HyY1MOTvBM",
+    "googleMapsUri": "https://maps.google.com/?cid=1422174051636903148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Sylvester Site, National Prorities List Superfund Site",
+    "formattedAddress": "57 Gilson Rd, Nashua, NH 03062, USA",
+    "location": {
+      "lat": 42.7194299,
+      "lng": -71.5229374
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 4.5,
+    "userRatingCount": 2,
+    "sourceQuery": "Sylvester, Nashua, NH, superfund",
+    "matchScore": 0.614,
+    "distanceMiles": 0.021
+  },
+  "NJD000565531": {
+    "placeId": "ChIJX9b_P4RNwYkRotfd7F19NuY",
+    "googleMapsUri": "https://maps.google.com/?cid=16588584119825192866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Cosden Chemical Coating Corp Superfund Site",
+    "formattedAddress": "Beverly, NJ 08010, USA",
+    "location": {
+      "lat": 40.0586553,
+      "lng": -74.92566029999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Cosden Chemical Coatings Corp., Beverly, NJ, superfund",
+    "matchScore": 0.789,
+    "distanceMiles": 0.035
+  },
+  "NJD000607481": {
+    "placeId": "ChIJy4F06zNNwokRFClE9jrnl7Q",
+    "googleMapsUri": "https://maps.google.com/?cid=13013123888736119060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Chemical Control Corporation Superfund Site",
+    "formattedAddress": "22 S Front St, Elizabeth, NJ 07202, USA",
+    "location": {
+      "lat": 40.6434729,
+      "lng": -74.1925503
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Chemical Control, Elizabeth, NJ, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.053
+  },
+  "NJD001502517": {
+    "placeId": "ChIJzwcRVledwYkRQ4Ig-RVyePo",
+    "googleMapsUri": "https://maps.google.com/?cid=18048300945386799683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Ciba-Geigy Corporation Superfund Site",
+    "formattedAddress": "660 Commons Way, Toms River, NJ 08755, USA",
+    "location": {
+      "lat": 39.9822178,
+      "lng": -74.2355548
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "rating": 2.3,
+    "userRatingCount": 6,
+    "sourceQuery": "Ciba-Geigy Corp., Toms River, NJ, superfund",
+    "matchScore": 0.991,
+    "distanceMiles": 0.312
+  },
+  "NJD002141190": {
+    "placeId": "ChIJNT703kTPw4kReZ3iQGAcxa0",
+    "googleMapsUri": "https://maps.google.com/?cid=12521445538704563577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "CPS/Madison Industries Superfund Site",
+    "formattedAddress": "554 Old Water Works Rd, Old Bridge, NJ 08857, USA",
+    "location": {
+      "lat": 40.43407800000001,
+      "lng": -74.3274185
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 1,
+    "sourceQuery": "CPS/Madison Industries, Old Bridge Township, NJ, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.031
+  },
+  "NJD002173276": {
+    "placeId": "ChIJ____4GiVw4kR0gP9k-9lNUA",
+    "googleMapsUri": "https://maps.google.com/?cid=4626716271847474130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "American Cyanamid Superfund Site",
+    "formattedAddress": "1 Vogt Dr, Bridgewater, NJ 08807, USA",
+    "location": {
+      "lat": 40.554181199999995,
+      "lng": -74.55804630000002
+    },
+    "types": [
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 4.3,
+    "userRatingCount": 6,
+    "sourceQuery": "American Cyanamid Co., Bound Brook, NJ, superfund",
+    "matchScore": 0.996,
+    "distanceMiles": 0.12
+  },
+  "NJD002517472": {
+    "placeId": "ChIJAzByCQBtw4kRW6STrIl-9lo",
+    "googleMapsUri": "https://maps.google.com/?cid=6554565437455311963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Metaltec/Aerosystems Superfund Site",
+    "formattedAddress": "124 Maple Rd, Franklin, NJ 07416, USA",
+    "location": {
+      "lat": 41.1106872,
+      "lng": -74.5989982
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Metaltec/Aerosystems, Franklin Borough, NJ, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.077
+  },
+  "NJD030253355": {
+    "placeId": "ChIJbW5xGrptw4kRkjB4AbrbpHQ",
+    "googleMapsUri": "https://maps.google.com/?cid=8405084396515242130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "A.O. Polymer Corporation Superfund Site",
+    "formattedAddress": "106 Main St, Sparta, NJ 07871, USA",
+    "location": {
+      "lat": 41.0480697,
+      "lng": -74.63082399999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 4,
+    "userRatingCount": 1,
+    "sourceQuery": "A. O. Polymer, Sparta Township, NJ, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.043
+  },
+  "NJD041828906": {
+    "placeId": "ChIJq-lHrhrFw4kRg2aBGDc5JZo",
+    "googleMapsUri": "https://maps.google.com/?cid=11107346964776314499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Fried Industries Superfund site",
+    "formattedAddress": "11 Fresh Ponds Rd, East Brunswick, NJ 08816, USA",
+    "location": {
+      "lat": 40.442607699999996,
+      "lng": -74.440511
+    },
+    "types": [
+      "non_profit_organization",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Fried Industries, East Brunswick Township, NJ, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.039
+  },
+  "NJD053102232": {
+    "placeId": "ChIJY7_HK4vnw4kR-c8fLgrkRNE",
+    "googleMapsUri": "https://maps.google.com/?cid=15079428184717905913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Higgins Farm Superfund Site",
+    "formattedAddress": "Princeton, NJ 08540, USA",
+    "location": {
+      "lat": 40.406182099999995,
+      "lng": -74.599037
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Higgins Disposal, Franklin Township, NJ, superfund",
+    "matchScore": 0.487,
+    "distanceMiles": 1.548
+  },
+  "NJD053292652": {
+    "placeId": "ChIJQxn02S3dxokRoxZng5NEbQ4",
+    "googleMapsUri": "https://maps.google.com/?cid=1039562489347905187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Bridgeport Rental & Oil Services, Inc. (BROS) Superfund Site",
+    "formattedAddress": "161 Cedar Swamp Rd, Logan Township, NJ 08085, USA",
+    "location": {
+      "lat": 39.8047019,
+      "lng": -75.3225523
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Bridgeport Rental & Oil Services, Bridgeport, NJ, superfund",
+    "matchScore": 0.994,
+    "distanceMiles": 0.215
+  },
+  "NJD079303020": {
+    "placeId": "ChIJsxpYGaZNwokRjxwVgbDh1A4",
+    "googleMapsUri": "https://maps.google.com/?cid=1068727159789788303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "LCP Superfund Site",
+    "formattedAddress": "350 Linden Logistics Wy, Linden, NJ 07036, USA",
+    "location": {
+      "lat": 40.6094436,
+      "lng": -74.2125301
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "LCP Chemicals Inc., Linden, NJ, superfund",
+    "matchScore": 0.645,
+    "distanceMiles": 0.179
+  },
+  "NJD094966611": {
+    "placeId": "ChIJk68iSZKbw4kRfBOZY_398-U",
+    "googleMapsUri": "https://maps.google.com/?cid=16569866718765716348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Combe Fill South Landfill Superfund Site",
+    "formattedAddress": "98A Parker Rd, Chester Township, NJ 07930, USA",
+    "location": {
+      "lat": 40.767959999999995,
+      "lng": -74.7352968
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Combe Fill South Landfill, Chester Township, NJ, superfund",
+    "matchScore": 0.991,
+    "distanceMiles": 0.301
+  },
+  "NJD980505424": {
+    "placeId": "ChIJ88-vhvJ9wYkRIYcipGR-Lz8",
+    "googleMapsUri": "https://maps.google.com/?cid=4552996719010416417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Lone Pine Landfill Superfund Site",
+    "formattedAddress": "1091 Burke Rd, Freehold Township, NJ 07728, USA",
+    "location": {
+      "lat": 40.202652,
+      "lng": -74.3325527
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 4,
+    "sourceQuery": "Lone Pine Landfill, Freehold Township, NJ, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.042
+  },
+  "NJD981490261": {
+    "placeId": "ChIJY7_HK4vnw4kR-c8fLgrkRNE",
+    "googleMapsUri": "https://maps.google.com/?cid=15079428184717905913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Higgins Farm Superfund Site",
+    "formattedAddress": "Princeton, NJ 08540, USA",
+    "location": {
+      "lat": 40.406182099999995,
+      "lng": -74.599037
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Higgins Farm, Franklin Township, NJ, superfund",
+    "matchScore": 0.994,
+    "distanceMiles": 0.197
+  },
+  "NJD986643153": {
+    "placeId": "ChIJ_6zs4J-BwYkRMLcZBPqR7nQ",
+    "googleMapsUri": "https://maps.google.com/?cid=8425832455853422384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Zschiegner Refining Superfund Site",
+    "formattedAddress": "1442 Maxim Southard Rd, Howell Township, NJ 07731, USA",
+    "location": {
+      "lat": 40.1460019,
+      "lng": -74.1995522
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Zschiegner Refining, Howell Township, NJ, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.026
+  },
+  "NYD980507735": {
+    "placeId": "ChIJCzzK2AOf24kRNKSLGkiPVCQ",
+    "googleMapsUri": "https://maps.google.com/?cid=2617874823254877236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Richardson Hill Road Superfund site",
+    "formattedAddress": "Masonville, NY 13839, USA",
+    "location": {
+      "lat": 42.2536726,
+      "lng": -75.24857349999999
+    },
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Richardson Hill Road Landfill/Pond, Sidney Center, NY, superfund",
+    "matchScore": 0.963,
+    "distanceMiles": 0.069
+  },
+  "NYD986950251": {
+    "placeId": "ChIJ-ROYpt3j04kRk3MQ-Q8jGRk",
+    "googleMapsUri": "https://maps.google.com/?cid=1808515276876051347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Lehigh Valley Railroad EPA Superfund site",
+    "formattedAddress": "8319 Gulf Rd, Le Roy, NY 14482, USA",
+    "location": {
+      "lat": 42.9922758,
+      "lng": -77.9332702
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 5,
+    "userRatingCount": 1,
+    "sourceQuery": "Lehigh Valley Railroad, Le Roy, NY, superfund",
+    "matchScore": 0.964,
+    "distanceMiles": 0.017
+  },
+  "OHD981537582": {
+    "placeId": "ChIJX6CZaz-bQIgRZKBM196EF7g",
+    "googleMapsUri": "https://maps.google.com/?cid=13265217320072814692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Lammers Barrel Factory EPA Superfund Site",
+    "formattedAddress": "1214-1230 Grange Hall Rd, Beavercreek, OH 45430, USA",
+    "location": {
+      "lat": 39.726908699999996,
+      "lng": -84.0838603
+    },
+    "types": [
+      "non_profit_organization",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 1,
+    "userRatingCount": 1,
+    "sourceQuery": "Lammers Barrel, Beavercreek, OH, superfund",
+    "matchScore": 0.789,
+    "distanceMiles": 0.043
+  },
+  "OKD980620967": {
+    "placeId": "ChIJ5Zvcg7wXsocRUihEk3k4JjU",
+    "googleMapsUri": "https://maps.google.com/?cid=3829810627938101330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Tenth Street Superfund Site",
+    "formattedAddress": "3333 NE 10th St, Oklahoma City, OK 73117, USA",
+    "location": {
+      "lat": 35.478101699999996,
+      "lng": -97.4539252
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Tenth Street Dump/Junkyard, Oklahoma City, OK, superfund",
+    "matchScore": 0.787,
+    "distanceMiles": 0.112
+  },
+  "PAD000436436": {
+    "placeId": "ChIJk_yhzkC7xokRgGHxpYKQsoo",
+    "googleMapsUri": "https://maps.google.com/?cid=9994209413892759936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "BoRit Asbestos Superfund Site",
+    "formattedAddress": "W Butler Pike & S Chestnut St, Ambler, PA 19002, USA",
+    "location": {
+      "lat": 40.152734099999996,
+      "lng": -75.22648269999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3.5,
+    "userRatingCount": 4,
+    "sourceQuery": "Ambler Asbestos Piles, Ambler, PA, superfund",
+    "matchScore": 0.469,
+    "distanceMiles": 0.212
+  },
+  "PAD014353445": {
+    "placeId": "ChIJew2In_SNxokR0da2NjgGMCU",
+    "googleMapsUri": "https://maps.google.com/?cid=2679648616791332561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Malvern TCE Site / Chemclene Corp. Superfund Site",
+    "formattedAddress": "Malvern, PA 19355, USA",
+    "location": {
+      "lat": 40.0614296,
+      "lng": -75.56790889999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Malvern TCE, Malvern, PA, superfund",
+    "matchScore": 0.906,
+    "distanceMiles": 0.018
+  },
+  "PAD047726161": {
+    "placeId": "ChIJVwAmeQMPxIkR8ZeJbGZaGDw",
+    "googleMapsUri": "https://maps.google.com/?cid=4330310437670852593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Boarhead farms superfund site",
+    "formattedAddress": "1310 Lonely Cottage Rd, Upper Black Eddy, PA 18972, USA",
+    "location": {
+      "lat": 40.5455855,
+      "lng": -75.1266321
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Boarhead Farms, Bridgeton Township, PA, superfund",
+    "matchScore": 0.997,
+    "distanceMiles": 0.087
+  },
+  "PAD063766828": {
+    "placeId": "ChIJTQZRm5XjNIgRBQ_PPrgHMfE",
+    "googleMapsUri": "https://maps.google.com/?cid=17379680924908588805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Resin Disposal Superfund Site",
+    "formattedAddress": "Finleyville, PA 15332, USA",
+    "location": {
+      "lat": 40.271258599999996,
+      "lng": -79.91317459999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Resin Disposal, Jefferson Borough, PA, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.066
+  },
+  "PAD077087989": {
+    "placeId": "ChIJaYc3KW3zxokRaaDtx4e2YaA",
+    "googleMapsUri": "https://maps.google.com/?cid=11556718813100482665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Foote Mineral Co. Superfund Site",
+    "formattedAddress": "Malvern, PA 19355, USA",
+    "location": {
+      "lat": 40.0396815,
+      "lng": -75.5846159
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Foote Mineral Co., East Whiteland Township, PA, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.041
+  },
+  "PAD089667695": {
+    "placeId": "ChIJ4RrAj1ReNIgRTJ05wWjoIEc",
+    "googleMapsUri": "https://maps.google.com/?cid=5125351912563645772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Breslube-Penn, Inc superfund site",
+    "formattedAddress": "Montour Trail, Moon Township, PA 15108, USA",
+    "location": {
+      "lat": 40.501519099999996,
+      "lng": -80.1450359
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "rating": 5,
+    "userRatingCount": 1,
+    "sourceQuery": "Breslube-Penn, Inc, Coraopolis, PA, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.072
+  },
+  "PAD980690549": {
+    "placeId": "ChIJ6wsd3sGPyIkRUhTdSYwkiK8",
+    "googleMapsUri": "https://maps.google.com/?cid=12648399738423284818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "East Mount Zion Superfund",
+    "formattedAddress": "Deininger Rd, York, PA 17402, USA",
+    "location": {
+      "lat": 40.007535499999996,
+      "lng": -76.6646784
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "East Mount Zion, Springettsbury Township, PA, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.032
+  },
+  "PAD980829527": {
+    "placeId": "ChIJaUyHvSJpxokRLkFTQDZBB5I",
+    "googleMapsUri": "https://maps.google.com/?cid=10522450755637690670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Walsh Landfill Superfund Site",
+    "formattedAddress": "Honey Brook, PA 19344, USA",
+    "location": {
+      "lat": 40.120006499999995,
+      "lng": -75.9152692
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Walsh Landfill, Honeybrook Township, PA, superfund",
+    "matchScore": 0.999,
+    "distanceMiles": 0.02
+  },
+  "PAD981034887": {
+    "placeId": "ChIJk_yhzkC7xokRgGHxpYKQsoo",
+    "googleMapsUri": "https://maps.google.com/?cid=9994209413892759936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "BoRit Asbestos Superfund Site",
+    "formattedAddress": "W Butler Pike & S Chestnut St, Ambler, PA 19002, USA",
+    "location": {
+      "lat": 40.152734099999996,
+      "lng": -75.22648269999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3.5,
+    "userRatingCount": 4,
+    "sourceQuery": "BoRit Asbestos, Ambler, PA, superfund",
+    "matchScore": 0.996,
+    "distanceMiles": 0.124
+  },
+  "PRD987376662": {
+    "placeId": "ChIJkwaZrTJrA4wRxMUuy4phUAE",
+    "googleMapsUri": "https://maps.google.com/?cid=94682840917001668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "SCORPIO RECYCLING SUPERFUND SITE",
+    "formattedAddress": "CQ59+6F3, Candelaria, Toa Baja 00949, Puerto Rico",
+    "location": {
+      "lat": 18.408013999999998,
+      "lng": -66.2313404
+    },
+    "types": [
+      "government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Scorpio Recycling, Inc., Candeleria Ward, PR, superfund",
+    "matchScore": 0.997,
+    "distanceMiles": 0.089
+  },
+  "TNN000407378": {
+    "placeId": "ChIJQYajvRWjf4gRTC5br8xo5WI",
+    "googleMapsUri": "https://maps.google.com/?cid=7126217213708283468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Smalley Piper Superfund Site",
+    "formattedAddress": "601-799 Piper St, Collierville, TN 38017, USA",
+    "location": {
+      "lat": 35.0448419,
+      "lng": -89.6845567
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Smalley-Piper, Collierville, TN, superfund",
+    "matchScore": 0.998,
+    "distanceMiles": 0.077
+  },
+  "TXD008091951": {
+    "placeId": "ChIJ7-XMRps5R4YR_JFcO8wIwno",
+    "googleMapsUri": "https://maps.google.com/?cid=8845642291371348476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Conroe Ceosoting Co. EPA Superfund Site",
+    "formattedAddress": "1776 E Davis St, Conroe, TX 77301, USA",
+    "location": {
+      "lat": 30.320766400000004,
+      "lng": -95.4361953
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "sourceQuery": "Conroe Creosoting Company, Conroe, TX, superfund",
+    "matchScore": 0.471,
+    "distanceMiles": 0.147
+  },
+  "TXD980625453": {
+    "placeId": "ChIJyT3cRbWbQIYRXjrQrV4c-aA",
+    "googleMapsUri": "https://maps.google.com/?cid=11599333508238031454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Brio Superfund Site",
+    "formattedAddress": "2501 Dixie Farm Rd, Houston, TX 77089, USA",
+    "location": {
+      "lat": 29.572405099999997,
+      "lng": -95.20650119999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 1.9,
+    "userRatingCount": 56,
+    "sourceQuery": "Brio Refining, Inc., Friendswood, TX, superfund",
+    "matchScore": 0.642,
+    "distanceMiles": 0.253
+  },
+  "TXN000605240": {
+    "placeId": "ChIJpSibOceXToYRqoNSTRKZIWs",
+    "googleMapsUri": "https://maps.google.com/?cid=7719619540175455146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Lane Plating (Superfund Site)",
+    "formattedAddress": "5322 Bonnie View Rd, Dallas, TX 75241, USA",
+    "location": {
+      "lat": 32.6878764,
+      "lng": -96.76966519999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Lane Plating Works, Inc., Dallas, TX, superfund",
+    "matchScore": 0.906,
+    "distanceMiles": 0.01
+  },
+  "TXN000606565": {
+    "placeId": "ChIJTf-LX1ddXIYRSSt-YwLP0XA",
+    "googleMapsUri": "https://maps.google.com/?cid=8129506411546553161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Bandera Road Groundwater Plume Superfund Site",
+    "formattedAddress": "Grissom Rd &, Bandera Rd, Leon Valley, TX 78238, USA",
+    "location": {
+      "lat": 29.4951503,
+      "lng": -98.6186129
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Bandera Road Ground Water Plume, Leon Valley, TX, superfund",
+    "matchScore": 0.996,
+    "distanceMiles": 0.124
+  },
+  "VAD980705404": {
+    "placeId": "ChIJM9cTFwA9s4kReGTJjKGZsAM",
+    "googleMapsUri": "https://maps.google.com/?cid=265881297145652344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "U.S. Titanium Superfund Site",
+    "formattedAddress": "2910 Patrick Henry Hwy, Piney River, VA 22964, USA",
+    "location": {
+      "lat": 37.7053948,
+      "lng": -79.02483529999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "U.S. Titanium, Piney River, VA, superfund",
+    "matchScore": 0.985,
+    "distanceMiles": 0.49
+  },
+  "WAD980639256": {
+    "placeId": "ChIJQ34n9XFVhVQR7wyE_5t8PUA",
+    "googleMapsUri": "https://maps.google.com/?cid=4628993001455357167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Tulalip Landfill Superfund Site",
+    "formattedAddress": "2RQ5+RJ, Tulalip, WA 98271, USA",
+    "location": {
+      "lat": 48.039562499999995,
+      "lng": -122.19093749999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "rating": 4,
+    "userRatingCount": 1,
+    "sourceQuery": "Tulalip Landfill, Marysville, WA, superfund",
+    "matchScore": 0.987,
+    "distanceMiles": 0.428
+  },
+  "WAD988466355": {
+    "placeId": "ChIJIdiv2edHmVQR86yWqCVrqro",
+    "googleMapsUri": "https://maps.google.com/?cid=13450681046581816563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "Moses Lake Superfund Site",
+    "formattedAddress": "Moses Lake, WA 98837, USA",
+    "location": {
+      "lat": 47.165751400000005,
+      "lng": -119.3063439
+    },
+    "types": [
+      "corporate_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "sourceQuery": "Moses Lake Wellfield Contamination, Moses Lake, WA, superfund",
+    "matchScore": 0.708,
+    "distanceMiles": 2.727
+  },
+  "WID980901227": {
+    "placeId": "ChIJ7ZGIguATBYgRF38-OeYpgnQ",
+    "googleMapsUri": "https://maps.google.com/?cid=8395318724151639831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "displayName": "EPA Superfund Site: Fadrowski Drum Disposal",
+    "formattedAddress": "6801 S 27th St, Franklin, WI 53132, USA",
+    "location": {
+      "lat": 42.920558199999995,
+      "lng": -87.95304329999999
+    },
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "rating": 3,
+    "userRatingCount": 1,
+    "sourceQuery": "Fadrowski Drum Disposal, Franklin, WI, superfund",
+    "matchScore": 0.964,
+    "distanceMiles": 0.032
+  }
+}
