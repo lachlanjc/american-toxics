@@ -93,7 +93,7 @@ export default async function ContaminantsPage() {
         {/* Stats */}
         <dl className="grid grid-cols-2 gap-4">
           <div>
-            <dt className="text-balance text-neutral-600 text-xs uppercase">
+            <dt className="text-balance text-neutral-600 text-sm uppercase">
               Categories of contamination
             </dt>
             <dd className="font-sans text-2xl">
@@ -101,7 +101,7 @@ export default async function ContaminantsPage() {
             </dd>
           </div>
           <div>
-            <dt className="text-balance text-neutral-600 text-xs uppercase">
+            <dt className="text-balance text-neutral-600 text-sm uppercase">
               Unique contaminants
             </dt>
             <dd className="font-sans text-2xl">
@@ -109,7 +109,7 @@ export default async function ContaminantsPage() {
             </dd>
           </div>
           <div>
-            <dt className="text-balance text-neutral-600 text-xs uppercase">
+            <dt className="text-balance text-neutral-600 text-sm uppercase">
               Avg contaminants per site
             </dt>
             <dd className="font-sans text-2xl">
@@ -119,7 +119,7 @@ export default async function ContaminantsPage() {
             </dd>
           </div>
           <div>
-            <dt className="text-neutral-600 text-xs uppercase">
+            <dt className="text-neutral-600 text-sm uppercase">
               Max contaminants at a site
             </dt>
             <dd className="font-sans text-2xl">
@@ -187,7 +187,7 @@ export default async function ContaminantsPage() {
                           )}
                         </div>
                       </summary>
-                      <ul className="flex flex-col gap-2 pt-4 pl-13 text-neutral-600 text-xs">
+                      <ul className="flex flex-col gap-2 pt-4 pl-13 text-neutral-600 text-sm">
                         {contaminants.map((contam) => (
                           <li key={contam.id}>
                             {contam.summary ? (
@@ -248,7 +248,7 @@ export default async function ContaminantsPage() {
                       {cont.summary ? "→" : null}
                     </small>
                     {cont.contexts && cont.contexts.length > 0 && (
-                      <span className="ml-auto text-neutral-600 text-xs">
+                      <span className="ml-auto text-neutral-600 text-sm">
                         {cont.siteCount} site{cont.siteCount === 1 ? "" : "s"}
                       </span>
                     )}

@@ -43,7 +43,7 @@ export function SiteList({
       {sites.map((result) => (
         <li key={result.id}>
           <Link
-            className="grid w-full grid-cols-[8px_1fr] items-center gap-x-2 gap-y-1.5 py-1 pl-1 text-left text-black transition-colors hover:text-neutral-600"
+            className="grid w-full grid-cols-[8px_1fr] items-center gap-x-2.5 gap-y-1 py-1.5 pl-1 text-left text-black transition-colors hover:text-neutral-600"
             href={`/sites/${result.id}`}
             prefetch={false}
           >
@@ -54,7 +54,7 @@ export function SiteList({
             >
               {result.name}
             </strong>
-            <small className="col-start-2 block font-mono text-neutral-600 text-xs">
+            <small className="col-start-2 block font-mono text-neutral-600 text-sm">
               {result.category ? (
                 <>
                   {categories[result.category as keyof typeof categories].name}{" "}

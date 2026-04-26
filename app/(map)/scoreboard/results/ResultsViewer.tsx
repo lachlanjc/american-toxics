@@ -83,7 +83,7 @@ export default function ResultsViewer({
             </Link>
           }
         >
-          <HeaderTitle>Scoreboard: Distance to American Toxics</HeaderTitle>
+          <HeaderTitle>Proximity to American Toxics</HeaderTitle>
         </HeaderRoot>
       </div>
       {selected?.nearestSite && (
@@ -134,13 +134,13 @@ export default function ResultsViewer({
               {i + 1}
             </span>
             <div className="max-w-full flex-auto">
-              <div className="mb-2 font-bold font-sans text-3xl">
+              <div className="mb-2 font-bold font-display text-3xl">
                 {item.nearestMiles.toLocaleString("en-US", {
                   maximumFractionDigits: 2,
                 })}{" "}
                 mi
               </div>
-              <div className="items-last-baseline flex max-w-full justify-between gap-3 text-neutral-600 text-xs">
+              <div className="items-last-baseline flex max-w-full justify-between gap-3 text-neutral-600 text-sm">
                 <span className="min-w-0 max-w-full flex-auto truncate">
                   {item.addressStateCode}
                   {item.nearestSite?.npl && (

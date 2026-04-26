@@ -19,7 +19,7 @@ export default function Page() {
           )}
           key={key}
         >
-          <h1 className="mb-2 self-end font-bold font-sans text-5xl text-black tracking-tight">
+          <h1 className="mb-2 self-end font-bold font-display text-5xl text-black tracking-tight">
             {category.name}
           </h1>
           <ul className={clsx("contents")}>
@@ -44,7 +44,7 @@ export default function Page() {
                         {context.name}
                       </strong>
                       {context.desc && (
-                        <p className="mt-1 text-pretty font-mono text-neutral-600 text-xs leading-relaxed">
+                        <p className="mt-1 text-pretty font-mono text-neutral-600 text-sm leading-relaxed">
                           {context.desc}
                         </p>
                       )}

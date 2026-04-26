@@ -72,7 +72,7 @@ function LandmarkTab({ i, color, id, name }: ItemProps & { i: number }) {
       )}
       value={id}
     >
-      <h3 className="flex items-center text-balance font-bold font-sans text-2xl/6">
+      <h3 className="flex items-center text-balance font-bold font-display text-2xl/6">
         <span
           className={`mr-1 inline-block h-[1.375em] w-[1.375em] shrink-0 origin-left scale-75 rounded-full text-center text-white ${color}`}
         >
@@ -117,7 +117,7 @@ function LandmarkTabPanel({
       </div>
 
       {img && (
-        <figure className="pb-4 font-mono text-xs">
+        <figure className="pb-4 font-mono text-sm">
           <Image
             alt={name}
             className="mb-2 max-h-sm rounded-xl"
@@ -170,7 +170,7 @@ function Mobile() {
           )}
           key={key}
         >
-          <h1 className="self-end font-bold font-sans text-3xl tracking-tight">
+          <h1 className="self-end font-bold font-display text-3xl tracking-tight">
             {category.name}
           </h1>
           <ul className={clsx("contents")}>
@@ -195,7 +195,7 @@ function Mobile() {
                         {context.name}
                       </strong>
                       {context.desc && (
-                        <p className="mt-1 text-pretty font-mono text-neutral-400 text-xs leading-relaxed">
+                        <p className="mt-1 text-pretty font-mono text-neutral-400 text-sm leading-relaxed">
                           {context.desc}
                         </p>
                       )}

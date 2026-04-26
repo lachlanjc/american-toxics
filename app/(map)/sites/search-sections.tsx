@@ -49,9 +49,9 @@ export function SearchableSections({ sections }: { sections: Section[] }) {
       {!query && (
         <>
           {sections.map((section) => (
-            <section className="mb-6" id={section.key} key={section.key}>
+            <section className="mb-4" id={section.key} key={section.key}>
               <Heading>{section.label}</Heading>
-              <SiteList className="mb-4" sites={section.sites} />
+              <SiteList sites={section.sites} />
             </section>
           ))}
         </>

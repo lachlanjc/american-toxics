@@ -16,10 +16,12 @@ export function MiniSite({
 }) {
   return (
     <WellRoot className={className} id={site.id}>
+      <header className='flex gap-2 items-start'>
+      <div className='flex-auto'>
       <WellTitle style={{ viewTransitionName: site.id }}>
         {site.name} Superfund Site
       </WellTitle>
-      <div className="mt-1 text-neutral-600 text-xs">
+      <div className="mt-1 text-neutral-600 text-sm">
         {site.city},{" "}
         <Link
           className="underline underline-offset-3 transition-colors hover:text-primary"
@@ -28,26 +30,28 @@ export function MiniSite({
           {site.stateCode}
         </Link>
       </div>
-      <dl className="my-4 grid grid-cols-2">
+      </div>
+      <Link
+        className="action-button px-3 py-1.5 text-center font-medium font-display text-base shrink-0"
+        href={`/sites/${site.id}`}
+      >
+        Open
+      </Link>
+      </header>
+      <dl className="mt-4 grid grid-cols-2">
         <div>
-          <dt className="mb-1 text-neutral-600 text-xs uppercase">Category</dt>
+          <dt className="mb-1 text-neutral-600 text-sm uppercase">Category</dt>
           <dd>
             {site.category ? <CategoryChip category={site.category} /> : "—"}
           </dd>
         </div>
         <div>
-          <dt className="mb-1 text-neutral-600 text-xs uppercase">
+          <dt className="mb-1 text-neutral-600 text-sm uppercase">
             Cleanup status
           </dt>
           <dd>{site.npl && <StatusChip status={site.npl} />}</dd>
         </div>
       </dl>
-      <Link
-        className="action-button block py-1.5 text-center font-bold font-sans text-base"
-        href={`/sites/${site.id}`}
-      >
-        Learn More
-      </Link>
     </WellRoot>
   );
 }

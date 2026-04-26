@@ -2,25 +2,25 @@
 @plugin "@tailwindcss/typography";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-  --color-primary: #ff4921;
+    --background: #ffffff;
+    --foreground: #171717;
+    --color-primary: #ff4921;
 }
 
 @supports (color: color(display-p3 1 1 1)) {
-  :root {
-    --color-primary: color(display-p3 1 0.356 0.2183);
-  }
+    :root {
+        --color-primary: color(display-p3 1 0.356 0.2183);
+    }
 }
 
 @theme inline {
-  --color-primary: var(--color-primary);
-  --color-primary-light: #f56900;
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-gt-mechanik);
-  --font-mono: var(--font-gt-mechanik);
-  --font-display: var(--font-gt-mechanik);
+    --color-primary: var(--color-primary);
+    --color-primary-light: #f56900;
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --font-sans: var(--font-gt-mechanik);
+    --font-mono: var(--font-gt-mechanik);
+    --font-display: var(--font-gt-mechanik);
 }
 
 /*
@@ -33,167 +33,180 @@
 */
 
 html {
-  -webkit-text-size-adjust: none;
-  touch-action: none;
+    -webkit-text-size-adjust: none;
+    touch-action: none;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+    background: var(--background);
+    color: var(--foreground);
 }
 
 .font-mono {
-  font-variation-settings: "TONE" 0;
+    font-variation-settings: "TONE" 0;
 }
 
 .font-sans {
-  font-variation-settings: "TONE" 33;
+    font-variation-settings: "TONE" 50;
+}
+
+.tab,
+.action-button {
+    font-variation-settings: "TONE" 75;
 }
 
 .font-display {
-  font-variation-settings: "TONE" 100;
+    font-variation-settings: "TONE" 100;
 }
 
 ::selection {
-  background-color: var(--color-primary);
+    background-color: var(--color-primary);
 }
 
 input {
-  font-size: 16px;
+    font-size: 16px;
 }
 
 .pin {
-  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.375));
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.375));
 }
 
 [data-appearance="dark"] .action-button {
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
 }
 
 [data-appearance="light"] .action-button {
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
 }
 
 .tab {
-  border-radius: 10px;
-  position: relative;
+    border-radius: 10px;
+    position: relative;
 }
+
 .action-button {
-  background-color: rgba(0, 0, 0, 0.02);
-  border-radius: 10px;
-  position: relative;
+    background-color: rgba(0, 0, 0, 0.02);
+    border-radius: 10px;
+    position: relative;
 }
+
 .tab,
 a.action-button,
 button.action-button {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 [data-appearance="dark"] .tab {
-  color: #ededed;
+    color: #ededed;
 }
 
 .tab-indicator::before,
 .mapboxgl-ctrl-group::before,
 .main-card:before,
 .action-button:before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border: 1px solid transparent;
-  border-radius: inherit;
-  box-sizing: border-box;
-  pointer-events: none;
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    box-sizing: border-box;
+    pointer-events: none;
 }
 
 .tab-indicator::before,
 .mapboxgl-ctrl-group::before,
 [data-appearance="light"] .main-card:before,
 [data-appearance="light"] .action-button:before {
-  background: linear-gradient(180deg, #fff, hsla(0, 0%, 100%, 0)) border-box;
-  mask:
-    linear-gradient(#fff, #fff) padding-box,
-    linear-gradient(#fff, #fff);
-  mask-composite: exclude;
-  -webkit-mask-composite: xor;
+    background: linear-gradient(180deg, #fff, hsla(0, 0%, 100%, 0)) border-box;
+    mask:
+        linear-gradient(#fff, #fff) padding-box,
+        linear-gradient(#fff, #fff);
+    mask-composite: exclude;
+    -webkit-mask-composite: xor;
 }
 
 [data-appearance="dark"] .tab-indicator::before,
 [data-appearance="dark"] .main-card:before,
 [data-appearance="dark"] .action-button:before {
-  background: linear-gradient(0deg, transparent 10%, hsla(0, 0%, 100%, 0.07))
-    border-box;
-  mask:
-    linear-gradient(#fff, #fff) padding-box,
-    linear-gradient(#fff, #fff);
-  mask-composite: exclude;
-  -webkit-mask-composite: xor;
+    background: linear-gradient(0deg, transparent 10%, hsla(0, 0%, 100%, 0.07)) border-box;
+    mask:
+        linear-gradient(#fff, #fff) padding-box,
+        linear-gradient(#fff, #fff);
+    mask-composite: exclude;
+    -webkit-mask-composite: xor;
 }
 
 .mapboxgl-ctrl-group {
-  transition: background-color 0.2s ease;
-  background-color: hsla(0, 0%, 100%, 0.75) !important;
-  backdrop-filter: saturate(150%) blur(8px);
-  border-radius: 8px !important;
-  position: relative;
+    transition: background-color 0.2s ease;
+    background-color: hsla(0, 0%, 100%, 0.75) !important;
+    backdrop-filter: saturate(150%) blur(8px);
+    border-radius: 8px !important;
+    position: relative;
 }
+
 [data-appearance="light"] .action-button {
-  transition: background-color 0.2s ease;
-  background-color: hsla(0, 0%, 100%, 0.5);
+    transition: background-color 0.2s ease;
+    background-color: hsla(0, 0%, 100%, 0.5);
 }
 
 .mapboxgl-ctrl-group:is(:focus-within, :active, :hover) {
-  background-color: hsla(0, 0%, 100%, 0.75);
+    background-color: hsla(0, 0%, 100%, 0.75);
 }
 
 [data-appearance="dark"] .action-button {
-  background-color: hsla(0, 0%, 100%, 0.9);
-  color: #171717;
+    background-color: hsla(0, 0%, 100%, 0.9);
+    color: #171717;
 }
+
 [data-appearance="light"] .tab[aria-selected="false"]:hover {
-  background-color: hsla(0, 0%, 100%, 0.0625);
+    background-color: hsla(0, 0%, 100%, 0.0625);
 }
+
 [data-appearance="light"] .action-button:focus-within,
 [data-appearance="light"] .action-button:active,
 [data-appearance="light"] .action-button:hover {
-  background-color: hsla(0, 0%, 100%, 0.75);
+    background-color: hsla(0, 0%, 100%, 0.75);
 }
+
 [data-appearance="dark"] .tab[aria-selected="false"]:hover {
-  background-color: hsl(0 0% 100% / 0.125);
+    background-color: hsl(0 0% 100% / 0.125);
 }
 
 .main-card {
-  box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
-  background-color: #fbfbfd;
+    box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
+    background-color: #fbfbfd;
 }
 
 .floating-image {
-  position: fixed;
-  box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
-  border-radius: 16px;
+    position: fixed;
+    box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
+    border-radius: 16px;
 
-  & img {
-    width: 100%;
-    height: auto;
-  }
+    & img {
+        width: 100%;
+        height: auto;
+    }
 
-  @media (max-width: 48em) {
-    max-width: 180px;
-    inset-block-start: 20px;
-    inset-inline-start: 20px;
-    & figcaption {
-      opacity: 0;
-      transition: opacity 0.2s ease;
+    @media (max-width: 48em) {
+        max-width: 180px;
+        inset-block-start: 20px;
+        inset-inline-start: 20px;
+
+        & figcaption {
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+
+        &:hover figcaption {
+            opacity: 1;
+        }
     }
-    &:hover figcaption {
-      opacity: 1;
+
+    @media (min-width: 48em) {
+        max-width: 320px;
+        inset-block-end: 20px;
+        inset-inline-end: 20px;
     }
-  }
-  @media (min-width: 48em) {
-    max-width: 320px;
-    inset-block-end: 20px;
-    inset-inline-end: 20px;
-  }
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -203,15 +216,15 @@ button.action-button {
 } */
 
 [data-appearance="light"] .main-card {
-  background-color: #fbfbfddf;
-  box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
-  color: #171717;
+    background-color: #fbfbfddf;
+    box-shadow: 0 11px 34px rgba(0, 0, 0, 0.2);
+    color: #171717;
 }
 
 [data-appearance="dark"] .main-card {
-  background-color: #292c31dd;
-  box-shadow: 0 11px 34px rgba(0, 0, 0, 0.5);
-  color: #fafafa;
+    background-color: #292c31dd;
+    box-shadow: 0 11px 34px rgba(0, 0, 0, 0.5);
+    color: #fafafa;
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -222,73 +235,75 @@ button.action-button {
 
 /* via https://ibelick.com/blog/create-shine-effect-on-card-with-tailwind-css */
 .shine-effect[aria-selected="true"] {
-  --shine-deg: -45deg;
-  background-image: linear-gradient(
-    var(--shine-deg),
-    transparent 20%,
-    transparent 40%,
-    hsl(0 0 100% / 30%) 50%,
-    hsl(0 0 100% / 30%) 55%,
-    transparent 70%,
-    transparent 100%
-  ) !important;
-  background-size:
-    250% 100%,
-    100% 100%;
-  transition: background-position 0s ease;
-  animation: shining 2.5s 5 linear;
+    --shine-deg: -45deg;
+    background-image: linear-gradient(var(--shine-deg),
+            transparent 20%,
+            transparent 40%,
+            hsl(0 0 100% / 30%) 50%,
+            hsl(0 0 100% / 30%) 55%,
+            transparent 70%,
+            transparent 100%) !important;
+    background-size:
+        250% 100%,
+        100% 100%;
+    transition: background-position 0s ease;
+    animation: shining 2.5s 5 linear;
 }
+
 @keyframes shining {
-  0% {
-    background-position:
-      250% 0,
-      0 0;
-  }
-  100% {
-    background-position:
-      0% 0,
-      0 0;
-  }
+    0% {
+        background-position:
+            250% 0,
+            0 0;
+    }
+
+    100% {
+        background-position:
+            0% 0,
+            0 0;
+    }
 }
+
 .bg-primary .bg-current.text-primary {
-  background-color: white;
+    background-color: white;
 }
 
 @supports (interpolate-size: allow-keywords) {
-  :root {
-    interpolate-size: allow-keywords;
-  }
+    :root {
+        interpolate-size: allow-keywords;
+    }
 
-  .details-content {
-    opacity: 0;
-    block-size: 0;
-    overflow-y: clip;
-    transition:
-      content-visibility 0.25s allow-discrete,
-      opacity 0.25s,
-      block-size 0.25s;
-  }
-  details::details-content {
-    opacity: 0;
-    block-size: 0;
-    overflow-y: clip;
-    transition:
-      content-visibility 0.125s allow-discrete,
-      opacity 0.125s,
-      block-size 0.125s;
-  }
+    .details-content {
+        opacity: 0;
+        block-size: 0;
+        overflow-y: clip;
+        transition:
+            content-visibility 0.25s allow-discrete,
+            opacity 0.25s,
+            block-size 0.25s;
+    }
 
-  .details-content[aria-hidden="false"],
-  details[open]::details-content {
-    opacity: 1;
-    block-size: auto;
-  }
+    details::details-content {
+        opacity: 0;
+        block-size: 0;
+        overflow-y: clip;
+        transition:
+            content-visibility 0.125s allow-discrete,
+            opacity 0.125s,
+            block-size 0.125s;
+    }
+
+    .details-content[aria-hidden="false"],
+    details[open]::details-content {
+        opacity: 1;
+        block-size: auto;
+    }
 }
 
 details summary::-webkit-details-marker {
-  display: none;
+    display: none;
 }
 
 .text-trim-both {
-  text-box: trim-both cap alphabetic;
+    text-box: trim-both cap alphabetic;
 }

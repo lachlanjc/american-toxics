@@ -119,11 +119,12 @@ function SiteDescription({
   );
   return (
     <section className="pb-1">
-      <p className={"whitespace-pre-wrap text-pretty text-neutral-600"}>
+      <p className="whitespace-pre-wrap text-pretty font-mono text-neutral-600">
         {marked}
       </p>
-      <div className="mt-2 flex items-center gap-2.5 text-neutral-500 text-sm">
+      <div className="mt-3 flex items-center gap-2 text-neutral-500 text-sm">
         <OpenAIIcon className="h-5 w-5" />
+        <span>
         {site.epaUrl ? (
           <a
             className="underline underline-offset-3 transition-colors hover:text-primary"
@@ -136,6 +137,7 @@ function SiteDescription({
           <>{epa} information</>
         )}{" "}
         summarized by GPT-4.1
+      </span>
       </div>
     </section>
   );
@@ -242,13 +244,13 @@ export function SiteCard({
 
       <dl className="-mt-4 grid grid-cols-2">
         <div>
-          <dt className="mb-1 text-neutral-600 text-xs uppercase">Category</dt>
+          <dt className="mb-1 text-neutral-600 text-sm uppercase">Category</dt>
           <dd>
             {site.category ? <CategoryChip category={site.category} /> : "—"}
           </dd>
         </div>
         <div>
-          <dt className="mb-1 text-neutral-600 text-xs uppercase">Size</dt>
+          <dt className="mb-1 text-neutral-600 text-sm uppercase">Size</dt>
           <dd className="font-sans text-lg">{formatAcres(site.acres)}</dd>
         </div>
       </dl>
@@ -266,7 +268,7 @@ export function SiteCard({
       <section>
         {messages.map((message) => (
           <div
-            className={`whitespace-pre-wrap even:mb-4 ${message.role === "user" ? "mb-1 font-bold font-sans text-lg" : "text-neutral-600"} md:pr-6`}
+            className={`whitespace-pre-wrap even:mb-4 ${message.role === "user" ? "mb-1 font-bold font-display text-lg" : "text-neutral-600"} md:pr-6`}
             key={message.id}
           >
             <AIText
@@ -282,10 +284,10 @@ export function SiteCard({
 
       {suggestions.length > 0 && (
         <div className="flex w-full flex-col">
-          <Heading className="mb-1">Suggested questions</Heading>
+          <Heading className="mb-1">Suggested Questions</Heading>
           {suggestions.map((q) => (
             <button
-              className="cursor-pointer text-balance border-zinc-300 border-b py-2 text-left text-xs text-zinc-600 transition-opacity last:border-b-0 hover:opacity-80"
+              className="cursor-pointer text-balance border-zinc-300 border-b py-2 text-left text-zinc-600 transition-opacity last:border-b-0 hover:opacity-80"
               key={q}
               onClick={() => {
                 append({ role: "user", content: q });

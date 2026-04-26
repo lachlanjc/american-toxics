@@ -87,7 +87,7 @@ export default async function ContaminantPage({
           {summary}
         </p>
       )}
-      <div className="mt-4 flex items-center text-neutral-600 text-xs">
+      <div className="mt-4 flex items-center text-neutral-600 text-sm">
         <OpenAIIcon className="mr-3 h-5 w-5 fill-neutral-500" />
         <span>
           {epaPdfUrl ? (
@@ -129,7 +129,7 @@ export default async function ContaminantPage({
               const category = contaminantCategories[key];
               return (
                 <div className="mt-4 flex flex-col" key={key}>
-                  <dt className="mb-1 text-neutral-600 text-xs uppercase">
+                  <dt className="mb-1 text-neutral-600 text-sm uppercase">
                     {category.name}
                   </dt>
                   <div className="-ml-1 flex flex-wrap justify-start gap-x-4 font-sans text-base">
@@ -176,7 +176,7 @@ export default async function ContaminantPage({
                 </figcaption>
               )}
               {img.source && (
-                <figcaption className="mt-1 text-neutral-500 text-xs">
+                <figcaption className="mt-1 text-neutral-500 text-sm">
                   Source:{" "}
                   <a
                     className="underline underline-offset-2 transition-colors hover:text-primary"

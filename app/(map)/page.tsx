@@ -40,9 +40,7 @@ export default function Page() {
               />
             ))}
           </div>
-          Explore
-          <br />
-          Cleanup Progress
+          Explore Cleanup Progress
         </Link>
         <Link
           className="action-button flex flex-col items-start gap-2 p-4 py-3.5"
@@ -85,7 +83,7 @@ export default function Page() {
           by State
         </Link>
         <Link
-          className="action-button flex gap-1.5 p-4 max-sm:flex-col sm:items-center"
+          className="action-button flex gap-1 p-4 max-sm:flex-col sm:items-center"
           href="/contaminants"
         >
           <SvgSludge
@@ -97,7 +95,7 @@ export default function Page() {
           <span className="text-trim-both">Contaminants</span>
         </Link>
         <Link
-          className="action-button flex items-center gap-1.5 p-4"
+          className="action-button flex items-center gap-1 p-4"
           href="/scoreboard/results"
         >
           <SvgTarget
@@ -108,7 +106,7 @@ export default function Page() {
           <span className="text-trim-both">Scoreboard</span>
         </Link>
         <Link
-          className="action-button flex items-center gap-1.5 p-4"
+          className="action-button flex items-center gap-1 p-4"
           href="/about"
         >
           <SvgInfo

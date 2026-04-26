@@ -12,7 +12,7 @@ export const WellRoot = React.forwardRef<
     <section
       {...props}
       className={clsx(
-        "rounded-lg border border-black/10 bg-black/2 px-4 py-3",
+        "rounded-lg border border-black/10 bg-black/2 p-4",
         className
       )}
       ref={ref}
@@ -33,7 +33,7 @@ export const WellTitle = React.forwardRef<
     <h2
       {...props}
       className={clsx(
-        "font-bold font-sans text-xl leading-none tracking-tight",
+        "font-bold font-display text-xl leading-none tracking-tight",
         className
       )}
       ref={ref}
