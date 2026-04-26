@@ -34,7 +34,7 @@ export function SearchableSections({ sections }: { sections: Section[] }) {
         <input
           className="w-full p-2 outline-none"
           onChange={handleSearch}
-          placeholder="Search by county, city, state, or site name"
+          placeholder="Search by County, City, State, or Site Name"
           ref={ref}
           type="search"
           value={query}

@@ -157,7 +157,7 @@ export function SearchNearby() {
               disabled={pending}
               id="nearby-address"
               name="address"
-              placeholder="Enter an address"
+              placeholder="Enter an Address"
               type="text"
             />
             <Autocomplete.Portal>

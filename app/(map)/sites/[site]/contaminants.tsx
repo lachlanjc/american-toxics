@@ -126,7 +126,7 @@ export async function Contaminants({
             height={20}
             width={20}
           />
-          <span className="sr-only">Learn about contamination types</span>
+          <span className="sr-only">Learn About Contamination Types</span>
         </Link>
       </WellTitle>
       {groups.map(([contextKey, sublist]) => (

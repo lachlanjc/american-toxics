@@ -92,7 +92,7 @@ export default function ResultsViewer({
         </div>
       )}
       <ListBox
-        aria-label="Scoreboard results"
+        aria-label="Scoreboard Results"
         className="flex-auto snap-y snap-mandatory overflow-y-auto border-neutral-300 border-t"
         disallowEmptySelection
         onSelectionChange={(key) => {
