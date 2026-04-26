@@ -18,7 +18,7 @@ type PartialSite = Pick<
   "id" | "name" | "city" | "stateCode" | "category" | "npl" | "lat" | "lng"
 >;
 
-const pluralize = (count: number) => `${count} site${count === 1 ? "" : "s"}`;
+const pluralize = (count: number) => `${count} Site${count === 1 ? "" : "s"}`;
 
 type CollapsibleSiteListProps = {
   title: string;
@@ -89,10 +89,10 @@ export default async function ScorePage({
   const siteNearest = siteMap.get(siteNearestId);
 
   const buckets = [
-    { title: "within 2 miles", ids: sites1 },
-    { title: "within 5 miles", ids: sites5 },
-    { title: "within 10 miles", ids: sites10 },
-    { title: "within 20 miles", ids: sites20 },
+    { title: "Within 2 Miles", ids: sites1 },
+    { title: "Within 5 Miles", ids: sites5 },
+    { title: "Within 10 Miles", ids: sites10 },
+    { title: "Within 20 Miles", ids: sites20 },
   ];
 
   return (
@@ -140,7 +140,7 @@ export default async function ScorePage({
           href={`/scoreboard/results?id=${id}`}
         >
           <SvgTrophy className="text-neutral-300" height={24} width={24} />
-          See your ranking
+          See Your Ranking
         </Link>
         {/*
           <Link

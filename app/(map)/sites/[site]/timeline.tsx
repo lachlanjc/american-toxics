@@ -30,7 +30,7 @@ export function SiteNPLStatusTimeline({ site }: { site: Site }) {
             height={20}
             width={20}
           />
-          <span className="sr-only">Learn about cleanup statuses</span>
+          <span className="sr-only">Learn About Cleanup Statuses</span>
         </Link>
       </WellTitle>
       <ul className="flex @md:flex-row flex-col @md:justify-between gap-1 @md:px-4 text-sm">
