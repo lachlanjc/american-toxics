@@ -100,7 +100,7 @@ function MainCard({
         <Drawer.Viewport className="pointer-events-none fixed inset-0 z-10 md:absolute md:inset-0">
           <Drawer.Popup
             className={clsx(
-              "pointer-events-auto fixed bottom-0 max-h-[50svb] max-md:right-1 max-md:left-1",
+              "pointer-events-auto fixed bottom-0 max-h-[calc(50svb+env(safe-area-inset-bottom))] max-md:right-1 max-md:left-1",
               "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl"
             )}
           >
@@ -109,7 +109,7 @@ function MainCard({
               className={clsx(
                 "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
                 "overflow-y-auto! touch-auto! overflow-x-clip outline-none [scrollbar-width:thin]",
-                "@container flex max-h-[50svb] flex-col overscroll-contain p-4 md:max-h-[90vh] md:p-6",
+                "@container flex max-h-[calc(50svb+env(safe-area-inset-bottom))] flex-col overscroll-contain px-4 pt-4 pb-[calc(1rem+env(safe-area-inset-bottom))] md:max-h-[90vh] md:p-6",
                 "select-auto! font-mono text-sm leading-relaxed"
               )}
             >
