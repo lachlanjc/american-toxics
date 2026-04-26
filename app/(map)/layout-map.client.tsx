@@ -17,30 +17,22 @@ import MapComponent, {
   NavigationControl,
   Source,
 } from "react-map-gl/mapbox";
-import type { SiteNPLStatus } from "@/lib/data/site";
-
-const statusFillColors: Record<SiteNPLStatus, string> = {
-  proposed: "#fe9a00",
-  listed: "#ff4921",
-  cleaning: "#e12afb",
-  cleaned: "#00a6f4",
-  verified: "#00bba7",
-};
+import { nplStatusHexColors, type SiteNPLStatus } from "@/lib/data/site";
 
 const circleColorExpression: ExpressionSpecification = [
   "match",
   ["get", "npl"],
   "proposed",
-  statusFillColors.proposed,
+  nplStatusHexColors.proposed,
   "listed",
-  statusFillColors.listed,
+  nplStatusHexColors.listed,
   "cleaning",
-  statusFillColors.cleaning,
+  nplStatusHexColors.cleaning,
   "cleaned",
-  statusFillColors.cleaned,
+  nplStatusHexColors.cleaned,
   "verified",
-  statusFillColors.verified,
-  statusFillColors.listed,
+  nplStatusHexColors.verified,
+  nplStatusHexColors.listed,
 ];
 
 const focusedOpacity = 0.9;
@@ -237,8 +229,8 @@ export default function MapLayoutClient({
           <Source data="/sites.geojson" id="sites" type="geojson">
             <Layer {...siteCircleLayer} />
           </Source>
+          <MainCard>{children}</MainCard>
         </MapComponent>
-        <MainCard>{children}</MainCard>
       </MapProvider>
     </div>
   );
