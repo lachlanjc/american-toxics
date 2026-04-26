@@ -10,7 +10,7 @@ import type { SupabaseSite } from "@/lib/data/site";
 import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { MiniSite } from "../../sites/[site]/mini";
 import { SiteNPLStatusIcon } from "../../sites/list";
-import { MapZoom } from "../../zoom";
+import { ScoreRadiusMapOverlay } from "./ScoreRadiusMapOverlay";
 
 // Reuse the type for items
 export type ResultItem = {
@@ -71,7 +71,13 @@ export default function ResultsViewer({
 
   return (
     <div className="-m-4 md:-m-6 flex max-h-full flex-col overflow-y-hidden overflow-x-visible">
-      {lat && lng && <MapZoom center={[lat, lng]} />}
+      {lat && lng && (
+        <ScoreRadiusMapOverlay
+          center={[lat, lng]}
+          radiusMiles={selected?.nearestMiles ?? 0}
+          status={selected?.nearestSite?.npl}
+        />
+      )}
       <div className="p-4 md:p-6">
         <HeaderRoot
           actions={

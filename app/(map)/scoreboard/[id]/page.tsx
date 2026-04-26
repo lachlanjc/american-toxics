@@ -7,7 +7,7 @@ import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import type { Database } from "@/supabase/types";
 import { MiniSite } from "../../sites/[site]/mini";
 import { SiteList } from "../../sites/list";
-import { MapZoom } from "../../zoom";
+import { ScoreRadiusMapOverlay } from "../results/ScoreRadiusMapOverlay";
 import { ShareButton } from "./share";
 
 export const dynamic = "auto";
@@ -68,8 +68,7 @@ export default async function ScorePage({
   if (scoreError || !score || !siteNearestId) {
     return <p>Score not found.</p>;
   }
-  const { lat, lng, addressFormatted, siteNearestMiles } =
-    score as SupabaseScore;
+  const { addressFormatted, siteNearestMiles } = score as SupabaseScore;
   let { sites1, sites5, sites10, sites20 } = score as SupabaseScore;
   sites1 ??= [];
   sites5 ??= [];
@@ -97,7 +96,6 @@ export default async function ScorePage({
 
   return (
     <>
-      {lat && lng && <MapZoom center={[lat, lng]} />}
       <HeaderRoot closeLink="/scoreboard/new" showClose>
         <HeaderTitle>
           That’s{" "}
@@ -121,7 +119,11 @@ export default async function ScorePage({
         </HeaderSubtitle>
       </HeaderRoot>
       {siteNearest?.lat && siteNearest?.lng && (
-        <MapZoom center={[siteNearest.lat, siteNearest.lng]} />
+        <ScoreRadiusMapOverlay
+          center={[siteNearest.lat, siteNearest.lng]}
+          radiusMiles={siteNearestMiles ?? 0}
+          status={siteNearest.npl}
+        />
       )}
       {siteNearest && <MiniSite site={siteNearest} />}
       {buckets.map(({ title, ids }) => (
