@@ -18,7 +18,7 @@ type PartialSite = Pick<
   "id" | "name" | "city" | "stateCode" | "category" | "npl" | "lat" | "lng"
 >;
 
-const pluralize = (count: number) => `${count} site${count === 1 ? "" : "s"}`;
+const pluralize = (count: number) => `${count} Site${count === 1 ? "" : "s"}`;
 
 type CollapsibleSiteListProps = {
   title: string;
