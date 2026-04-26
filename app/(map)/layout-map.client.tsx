@@ -103,6 +103,7 @@ function MainCard({
               "pointer-events-auto fixed bottom-0 max-h-[calc(50svb+env(safe-area-inset-bottom))] max-md:right-1 max-md:left-1",
               "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl"
             )}
+            initialFocus={false}
           >
             <Drawer.Content
               {...props}

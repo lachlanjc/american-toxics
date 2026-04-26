@@ -1,5 +1,5 @@
 import { Analytics } from "@vercel/analytics/next";
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Familjen_Grotesk, Martian_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -22,6 +22,10 @@ export const metadata: Metadata = {
   alternates: {
     canonical: new URL("https://americantoxics.com"),
   },
+};
+
+export const viewport: Viewport = {
+  viewportFit: "cover",
 };
 
 export default function RootLayout({

@@ -301,7 +301,7 @@ export function SiteCard({
 
       <div ref={scrollRef} />
       <form
-        className="sticky bottom-0 mt-auto w-full pt-2"
+        className="sticky bottom-[env(safe-area-inset-bottom)] mt-auto w-full pt-2"
         onSubmit={(e) => {
           handleSubmit(e);
           scrollRef?.current?.scrollIntoView({ behavior: "smooth" });
