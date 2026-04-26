@@ -18,8 +18,9 @@
   --color-primary-light: #f56900;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-familjen-grotesk);
-  --font-mono: var(--font-martian-mono);
+  --font-sans: var(--font-gt-mechanik);
+  --font-mono: var(--font-gt-mechanik);
+  --font-display: var(--font-gt-mechanik);
 }
 
 /*
@@ -39,6 +40,18 @@ html {
 body {
   background: var(--background);
   color: var(--foreground);
+}
+
+.font-mono {
+  font-variation-settings: "TONE" 0;
+}
+
+.font-sans {
+  font-variation-settings: "TONE" 33;
+}
+
+.font-display {
+  font-variation-settings: "TONE" 100;
 }
 
 ::selection {

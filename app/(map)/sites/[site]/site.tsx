@@ -122,13 +122,12 @@ function SiteDescription({
       <p className={"whitespace-pre-wrap text-pretty text-neutral-600"}>
         {marked}
       </p>
-      <div className="mt-2 flex items-center gap-2.5 text-neutral-500 text-xs">
+      <div className="mt-2 flex items-center gap-2.5 text-neutral-500 text-sm">
         <OpenAIIcon className="h-5 w-5" />
         {site.epaUrl ? (
           <a
             className="underline underline-offset-3 transition-colors hover:text-primary"
             href={site.epaUrl}
-            rel="noreferrer"
             target="_blank"
           >
             {epa} information
