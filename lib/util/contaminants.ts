@@ -10,23 +10,8 @@
 export function prettifyChemicalName(raw: string): string {
   // oxfmt-ignore format: remain
   const ABBREV = new Set([
-    "DDT",
-    "DDD",
-    "DDE",
-    "PCBs",
-    "PCB",
-    "PAH",
-    "PAHs",
-    "PFOA",
-    "PFOS",
-    "PFAS",
-    "VOC",
-    "VOCs",
-    "SVOC",
-    "SVOCs",
-    "TCE",
-    "PCE",
-    "DNAPL",
+    "DDT", "DDD", "DDE", "PCBs", "PCB", "PAH", "PAHs", "PFOA", "PFOS", "PFAS",
+    "VOC", "VOCs", "SVOC", "SVOCs", "TCE", "PCE", "DNAPL",
   ]);
 
   // ⬤ 1. normalise whitespace
@@ -38,30 +23,9 @@ export function prettifyChemicalName(raw: string): string {
   // ⬤ 3. lower‑case spelled‑out Greek letters (ALPHA, BETA …)
   // oxfmt-ignore format: remain
   const GREEK = [
-    "ALPHA",
-    "BETA",
-    "GAMMA",
-    "DELTA",
-    "EPSILON",
-    "ZETA",
-    "ETA",
-    "THETA",
-    "IOTA",
-    "KAPPA",
-    "LAMBDA",
-    "MU",
-    "NU",
-    "XI",
-    "OMICRON",
-    "PI",
-    "RHO",
-    "SIGMA",
-    "TAU",
-    "UPSILON",
-    "PHI",
-    "CHI",
-    "PSI",
-    "OMEGA",
+    "ALPHA","BETA","GAMMA","DELTA","EPSILON","ZETA","ETA","THETA","IOTA",
+    "KAPPA","LAMBDA","MU","NU","XI","OMICRON","PI","RHO","SIGMA","TAU",
+    "UPSILON","PHI","CHI","PSI","OMEGA",
   ];
   const greekRE = new RegExp(`\\b(${GREEK.join("|")})(?=[-\\s])`, "g");
   s = s.replace(greekRE, (m) => m.toLowerCase());
