@@ -1,9 +1,9 @@
 "use client";
 
+import { Drawer } from "@base-ui/react/drawer";
 import type { ExpressionSpecification } from "mapbox-gl";
 import type { PropsWithChildren } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { Drawer } from "vaul";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
 import { useParams, usePathname, useRouter } from "next/navigation";
@@ -45,6 +45,12 @@ const circleColorExpression: ExpressionSpecification = [
 
 const focusedOpacity = 0.9;
 const dimmedOpacity = 0.2;
+const lowZoomLevel = 3;
+const highZoomLevel = 10;
+const selectedRadiusAtLowZoom = 7.5;
+const defaultRadiusAtLowZoom = 4.5;
+const selectedRadiusAtHighZoom = 18;
+const defaultRadiusAtHighZoom = 11;
 
 const buildOpacityExpression = (
   status?: SiteNPLStatus
@@ -63,10 +69,20 @@ const buildRadiusExpression = (selectedId: string): ExpressionSpecification =>
     "interpolate",
     ["linear"],
     ["zoom"],
-    3,
-    ["case", ["==", ["get", "id"], selectedId], 7.5, 4.5],
-    10,
-    ["case", ["==", ["get", "id"], selectedId], 18, 11],
+    lowZoomLevel,
+    [
+      "case",
+      ["==", ["get", "id"], selectedId],
+      selectedRadiusAtLowZoom,
+      defaultRadiusAtLowZoom,
+    ],
+    highZoomLevel,
+    [
+      "case",
+      ["==", ["get", "id"], selectedId],
+      selectedRadiusAtHighZoom,
+      defaultRadiusAtHighZoom,
+    ],
   ] satisfies ExpressionSpecification;
 
 type CirclePaint = NonNullable<
@@ -79,27 +95,35 @@ function MainCard({
   ...props
 }: PropsWithChildren<{ title?: string }>) {
   return (
-    <Drawer.Root dismissible={false} modal={false} open={true}>
+    <Drawer.Root disablePointerDismissal modal={false} open>
       <Drawer.Portal>
-        <Drawer.Content
-          {...props}
-          className={clsx(
-            "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
-            "fixed bottom-0 max-h-[50svb] max-md:right-1 max-md:left-1",
-            "md:absolute md:top-8 md:bottom-auto md:left-8 md:max-h-[90vh] md:w-full",
-            "!overflow-y-auto !touch-auto z-10 overflow-x-clip outline-none [scrollbar-width:thin]",
-            "@container flex flex-col overscroll-contain p-4 md:max-w-xl md:p-6",
-            "!select-auto font-mono text-sm leading-relaxed"
-          )}
-          data-vaul-custom-container
-        >
-          {title && (
-            <Drawer.Title className="text-balance font-bold font-sans text-3xl">
-              {title}
-            </Drawer.Title>
-          )}
-          {children}
-        </Drawer.Content>
+        <Drawer.Viewport className="pointer-events-none fixed inset-0 z-10 md:absolute md:inset-0">
+          <Drawer.Popup
+            className={clsx(
+              "pointer-events-auto fixed bottom-0 max-h-[50svb] max-md:right-1 max-md:left-1",
+              "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl"
+            )}
+          >
+            <Drawer.Content
+              {...props}
+              className={clsx(
+                "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
+                "overflow-y-auto! touch-auto! overflow-x-clip outline-none [scrollbar-width:thin]",
+                "@container flex max-h-[50svb] flex-col overscroll-contain p-4 md:max-h-[90vh] md:p-6",
+                "select-auto! font-mono text-sm leading-relaxed"
+              )}
+            >
+              <div data-base-ui-swipe-ignore>
+                {title && (
+                  <Drawer.Title className="text-balance font-bold font-sans text-3xl">
+                    {title}
+                  </Drawer.Title>
+                )}
+                {children}
+              </div>
+            </Drawer.Content>
+          </Drawer.Popup>
+        </Drawer.Viewport>
       </Drawer.Portal>
     </Drawer.Root>
   );

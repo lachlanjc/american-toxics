@@ -1,10 +1,10 @@
 "use client";
 import { useChat } from "@ai-sdk/react";
 import type { UIMessage } from "@ai-sdk/ui-utils";
-import { Root as Portal } from "@radix-ui/react-portal";
 import Image from "next/image";
 import Link from "next/link";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import reactStringReplace from "react-string-replace";
 import type { SupabaseSite } from "@/lib/data/site";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
@@ -184,6 +184,7 @@ export function SiteCard({
 }>) {
   const ref = useFocusable();
   const scrollRef = useRef<HTMLDivElement>(null);
+  const [portalContainer, setPortalContainer] = useState<HTMLElement | null>(null);
   const {
     messages,
     setMessages,
@@ -198,6 +199,9 @@ export function SiteCard({
     setMessages([]);
     setInput("");
   }, [setInput, setMessages, site.id]);
+  useEffect(() => {
+    setPortalContainer(document.body);
+  }, []);
   const suggestions = questions.filter(
     (q) =>
       !messages.some(
@@ -208,13 +212,12 @@ export function SiteCard({
   );
   return (
     <div className="flex flex-col gap-4">
-      {Array.isArray(images) && images.length > 0 && (
-        <Portal>
-          {images.map((img) => (
-            <FloatingImage key={img.id} {...img} />
-          ))}
-        </Portal>
-      )}
+      {Array.isArray(images) && images.length > 0 && portalContainer
+        ? createPortal(
+            images.map((img) => <FloatingImage key={img.id} {...img} />),
+            portalContainer
+          )
+        : null}
       <HeaderRoot>
         <HeaderTitle style={{ viewTransitionName: site.id }}>
           {site.name} Superfund Site
