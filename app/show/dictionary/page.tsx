@@ -110,7 +110,7 @@ export default async function Page() {
                 {contaminant.summary.replaceAll("*", "")}
               </p>
             )}
-            <div className="mt-auto flex flex-col font-medium text-[1.5em]">
+            <div className="mt-auto flex flex-col font-semibold text-[1.5em]">
               {contexts.map((ctx) => {
                 const context = contaminantContexts[ctx];
                 if (!context) return null;

@@ -45,7 +45,7 @@ export default async function CategoriesPage() {
           const Icon = category.icon;
           return (
             <li
-              className="group grid w-full grid-cols-[auto_1fr] items-center gap-x-3 gap-y-1 py-3 md:max-w-md"
+              className="group grid w-full grid-cols-[auto_1fr] items-center gap-x-3 py-3 md:max-w-md"
               key={key}
             >
               <Link className="contents" href={`/categories/${key}`}>
@@ -53,9 +53,9 @@ export default async function CategoriesPage() {
                   className={`${category.color} shrink-0`}
                   // style={{ width: Math.max(16, count / 5.5) }}
                 />
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-1">
                   <span
-                    className="font-medium font-sans text-black text-lg transition-colors group-hover:text-neutral-600 md:text-2xl"
+                    className="font-bold font-display text-black text-lg transition-colors group-hover:text-neutral-600"
                     style={{ viewTransitionName: key }}
                   >
                     {category.name}

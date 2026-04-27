@@ -166,7 +166,7 @@ export function SearchNearby() {
                   className="mt-1 w-(--anchor-width) overflow-hidden rounded-xl bg-black/90 shadow-xl"
                   data-appearance="dark"
                 >
-                  <Autocomplete.List className="max-h-60 overflow-auto p-1 font-mono text-xs">
+                  <Autocomplete.List className="max-h-60 overflow-auto p-1 font-mono text-sm">
                     {(feature: MapboxFeature) => (
                       <Autocomplete.Item
                         className="tab cursor-pointer truncate p-2 hover:bg-white/20 data-[highlighted]:bg-white/20 data-[highlighted]:text-neutral-900"

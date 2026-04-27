@@ -204,14 +204,14 @@ export async function Nearby({
                 <>
                   <span className="font-sans text-base">
                     {count === 1 ? "A" : count}{" "}
-                    <strong className="font-medium">
+                    <strong className="font-semibold">
                       {count === 1
                         ? category.name
                         : category.namePlural || `${category.name}s`}
                     </strong>
                   </span>
                   {group.subcategories.length > 0 && (
-                    <small className="ml-1 font-mono text-neutral-600 text-xs">
+                    <small className="ml-1 font-mono text-neutral-600 text-sm">
                       (
                       {listFormatter.format(
                         group.subcategories.map(([count, name]) =>
@@ -236,7 +236,7 @@ export async function Nearby({
           title={
             <span className="font-sans text-base">
               {nearbySites.length === 1 ? "Another" : nearbySites.length}{" "}
-              <strong className="font-medium">
+              <strong className="font-semibold">
                 {nearbySites.length === 1
                   ? "Superfund site"
                   : "more Superfund sites"}
@@ -293,7 +293,7 @@ function MapboxFeatureList({ features }: { features: Array<MapboxFeature> }) {
               {feature.properties.name}
             </span>
             <small
-              className={`whitespace-pre text-right align-top text-xs ${dist < 0.15 ? "font-semibold text-primary" : "text-neutral-600"}`}
+              className={`whitespace-pre text-right align-top text-sm ${dist < 0.15 ? "font-semibold text-primary" : "text-neutral-600"}`}
             >
               {dist.toLocaleString("en-US", { maximumFractionDigits: 2 })} mi
             </small>

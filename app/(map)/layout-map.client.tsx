@@ -111,12 +111,12 @@ function MainCard({
                 "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
                 "overflow-y-auto! touch-auto! overflow-x-clip outline-none [scrollbar-width:thin]",
                 "@container flex max-h-[calc(50svb+env(safe-area-inset-bottom))] flex-col overscroll-contain px-4 pt-4 pb-[calc(1rem+env(safe-area-inset-bottom))] md:max-h-[90vh] md:p-6",
-                "select-auto! font-mono text-sm leading-relaxed"
+                "select-auto! font-sans"
               )}
             >
               <div data-base-ui-swipe-ignore>
                 {title && (
-                  <Drawer.Title className="text-balance font-bold font-sans text-3xl">
+                  <Drawer.Title className="text-balance font-bold font-display text-3xl">
                     {title}
                   </Drawer.Title>
                 )}

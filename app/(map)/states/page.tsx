@@ -39,7 +39,7 @@ function List({ states }: { states: typeof STATES }) {
               >
                 {state.name}{" "}
               </span>
-              <small className="ml-auto text-neutral-600 text-xs">
+              <small className="ml-auto text-neutral-600 text-sm font-mono">
                 {state.count} site{state.count === 1 ? "" : "s"}
               </small>
             </Link>

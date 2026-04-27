@@ -38,10 +38,10 @@ function ContaminantContext({
           />
         )}
         <span>
-          <strong className="font-medium font-sans text-base">
+          <strong className="font-semibold font-sans text-base">
             {context?.name}
           </strong>
-          <small className="ml-1 font-mono text-neutral-600 text-xs">
+          <small className="ml-1 font-mono text-neutral-600 text-sm">
             ({contaminants.length} contaminant
             {contaminants.length === 1 ? "" : "s"})
           </small>
@@ -56,7 +56,7 @@ function ContaminantContext({
       <p className="-ml-px mb-2 text-balance pl-7 font-sans text-base">
         {context.desc}
       </p>
-      <ul className="-ml-px flex flex-col gap-2 pl-7 text-neutral-600 text-xs">
+      <ul className="-ml-px flex flex-col gap-2 pl-7 text-neutral-600 text-sm">
         {contaminants.map((contaminant) => {
           const linked = summarizedContaminants.find(
             (c) => c.name === contaminant

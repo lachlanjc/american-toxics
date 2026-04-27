@@ -6,7 +6,7 @@ export function Title(props: ComponentPropsWithoutRef<"h1">) {
     // <Drawer.Title asChild>
     <h1
       {...props}
-      className="md:-ml-[2px] -mt-[2px] md:-mt-1.5 text-balance font-bold font-sans text-3xl/8 tracking-tight"
+      className="md:-ml-[2px] -mt-[2px] md:-mt-1.5 text-balance font-bold font-display text-3xl/8 tracking-tight"
     />
     // </Drawer.Title>
   );
@@ -17,8 +17,8 @@ export function Heading(props: ComponentPropsWithoutRef<"h2">) {
     <h2
       {...props}
       className={clsx(
-        "font-bold font-sans text-xl tracking-tight",
-        props.className || "mb-2"
+        "font-bold font-display text-xl tracking-tight",
+        props.className || "mb-1"
       )}
     />
   );
@@ -29,7 +29,7 @@ export function HeadingL(props: ComponentPropsWithoutRef<"h2">) {
     <h2
       {...props}
       className={clsx(
-        "font-bold font-sans text-2xl tracking-tight",
+        "font-bold font-display text-2xl tracking-tight",
         props.className || "mb-3"
       )}
     />

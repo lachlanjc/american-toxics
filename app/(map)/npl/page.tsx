@@ -43,7 +43,7 @@ export default async function Page() {
                 <div className="flex flex-col items-start gap-1">
                   <div className="flex items-center gap-2">
                     <span
-                      className="font-medium font-sans text-black text-lg transition-colors group-hover:text-neutral-600 md:text-2xl"
+                      className="font-bold font-display text-black text-lg transition-colors group-hover:text-neutral-600"
                       style={{ viewTransitionName: key }}
                     >
                       {status.label}

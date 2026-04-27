@@ -136,7 +136,7 @@ export default async function ScorePage({
       <div className="mt-6 grid grid-cols-2 gap-4">
         <ShareButton url={`/scoreboard/${id}`} />
         <Link
-          className="action-button !bg-neutral-800 hover:!bg-neutral-700 flex cursor-pointer items-center justify-center gap-2 py-1.5 font-medium font-sans text-base text-neutral-100"
+          className="action-button !bg-neutral-800 hover:!bg-neutral-700 flex cursor-pointer items-center justify-center gap-2 py-1.5 font-semibold font-sans text-base text-neutral-100"
           href={`/scoreboard/results?id=${id}`}
         >
           <SvgTrophy className="text-neutral-300" height={24} width={24} />
@@ -145,7 +145,7 @@ export default async function ScorePage({
         {/*
           <Link
             href="/scoreboard/new"
-            className="action-button !bg-neutral-800 hover:!bg-neutral-700 text-neutral-100 cursor-pointer font-sans font-medium text-base py-1.5 gap-2 flex items-center justify-center"
+            className="action-button !bg-neutral-800 hover:!bg-neutral-700 text-neutral-100 cursor-pointer font-sans font-semibold text-base py-1.5 gap-2 flex items-center justify-center"
           >
             <SvgRestart width={24} height={24} className="text-neutral-300" />
             Restart

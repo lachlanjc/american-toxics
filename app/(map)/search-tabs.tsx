@@ -18,7 +18,7 @@ export default function SearchTabs() {
       onValueChange={(value) => setSelectedKey(String(value))}
       value={selectedKey}
     >
-      <Tabs.List className="relative mb-4 grid grid-cols-2 gap-1 rounded-xl bg-black/10 p-1 text-center font-medium font-sans text-base text-neutral-700">
+      <Tabs.List className="relative mb-4 grid grid-cols-2 gap-1 rounded-xl bg-black/10 p-1 text-center font-semibold font-sans text-base text-neutral-700">
         <Tabs.Indicator className="tab-indicator absolute top-0 left-0 h-(--active-tab-height) w-(--active-tab-width) translate-x-(--active-tab-left) translate-y-(--active-tab-top) rounded-lg bg-white shadow transition-transform duration-200 ease-in-out" />
         <Tabs.Tab className="tab px-4 py-2 text-trim-both" value="nearby">
           Near Address

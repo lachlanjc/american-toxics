@@ -16,7 +16,7 @@ export function CategoryChip({
     <Link
       className={clsx(
         "flex w-fit items-center gap-1.5 rounded-full py-0.75 pr-2.5 pl-2",
-        "font-medium font-sans text-base tracking-normal",
+        "font-semibold font-sans text-base tracking-normal",
         "border border-black/10 bg-black/5 text-neutral-800 transition-colors",
         className
       )}

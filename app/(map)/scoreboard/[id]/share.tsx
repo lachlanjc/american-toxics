@@ -11,7 +11,7 @@ export function ShareButton({ url }: { url: string }) {
 
   return (
     <button
-      className="action-button flex cursor-pointer items-center justify-center gap-2 py-1.5 font-medium font-sans text-base"
+      className="action-button flex cursor-pointer items-center justify-center gap-2 py-1.5 font-semibold font-sans text-base"
       onClick={() => {
         if (isShareAvailable) {
           navigator.share({ url: window.location.toString() || url });

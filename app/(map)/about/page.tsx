@@ -30,7 +30,7 @@ export default async function About() {
       </HeaderTitle>
     </HeaderRoot>,
     <article
-      className="prose prose-neutral prose-sm prose-p:text-pretty prose-a:text-primary prose-a:underline-offset-3"
+      className="prose prose-neutral prose-p:text-pretty prose-a:text-primary prose-a:underline-offset-3"
       key="article"
     >
       <p>
@@ -129,7 +129,7 @@ export default async function About() {
     </section>,
     <hr className="-mx-6 my-6 border-black/20" key="hr2" />,
     <section
-      className="prose prose-neutral prose-sm prose-p:text-pretty prose-a:text-primary prose-a:underline-offset-3"
+      className="prose prose-neutral prose-p:text-pretty prose-a:text-primary prose-a:underline-offset-3"
       key="author"
     >
       <Heading>About This Site</Heading>

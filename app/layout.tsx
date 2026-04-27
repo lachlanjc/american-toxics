@@ -1,16 +1,12 @@
 import { Analytics } from "@vercel/analytics/next";
 import type { Metadata, Viewport } from "next";
-import { Familjen_Grotesk, Martian_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 
-const familjenGrotesk = Familjen_Grotesk({
-  variable: "--font-familjen-grotesk",
-  subsets: ["latin"],
-});
-
-const martianMono = Martian_Mono({
-  variable: "--font-martian-mono",
-  subsets: ["latin"],
+const gtMechanik = localFont({
+  src: "./GT-Mechanik-VF.woff2",
+  display: "swap",
+  variable: "--font-gt-mechanik",
 });
 
 const title = "American Toxics";
@@ -36,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${familjenGrotesk.variable} ${martianMono.variable} antialiased`}
+        className={`${gtMechanik.variable} antialiased`}
         data-appearance="light"
       >
         {children}

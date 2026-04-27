@@ -73,7 +73,7 @@ export default async function Page({
       <SiteCard images={images || []} site={site}>
         {site.id === "NYD000606947" ? (
           <section className="mt-4 rounded-lg border border-black/10 bg-black/2 p-4">
-            <h2 className="text-center font-bold font-sans text-lg text-neutral-600 tracking-tight">
+            <h2 className="text-center font-bold font-display text-lg text-neutral-600 tracking-tight">
               This was the very first Superfund site!
             </h2>
           </section>

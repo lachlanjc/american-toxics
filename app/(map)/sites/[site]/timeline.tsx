@@ -69,7 +69,7 @@ export function SiteNPLStatusTimeline({ site }: { site: Site }) {
                 </svg>
               </div>
               <div
-                className={`font-sans text-base ${value ? "font-medium" : "text-neutral-500"}`}
+                className={`font-sans text-base ${value ? "font-semibold" : "text-neutral-500"}`}
               >
                 {status.label}
               </div>
