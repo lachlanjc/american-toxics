@@ -6,7 +6,7 @@ import { WellRoot, WellTitle } from "@/lib/ui/well";
 export function Contact({ site }: { site: SupabaseSite }) {
   return (
     <WellRoot className="">
-      <p className="mb-1 font-medium font-sans text-neutral-600 text-sm uppercase">
+      <p className="mb-1 font-semibold font-sans text-neutral-600 text-sm uppercase">
         EPA site contact
       </p>
       <WellTitle>{site.contactName}</WellTitle>

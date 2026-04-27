@@ -108,7 +108,7 @@ function LandmarkTabPanel({
         <p className="mb-6 max-w-2xl text-pretty font-mono">{desc}</p>
         {id === "site" && (
           <Link
-            className="action-button mb-4 flex cursor-pointer items-center justify-center gap-2 py-1.5 font-medium font-sans text-base"
+            className="action-button mb-4 flex cursor-pointer items-center justify-center gap-2 py-1.5 font-semibold font-sans text-base"
             href="/sites/PAD000436261"
           >
             Explore the site
@@ -191,7 +191,7 @@ function Mobile() {
                       width={48}
                     />
                     <div>
-                      <strong className="font-medium font-sans text-lg md:text-xl">
+                      <strong className="font-semibold font-sans text-lg md:text-xl">
                         {context.name}
                       </strong>
                       {context.desc && (
@@ -232,7 +232,7 @@ export default function Page() {
           value={activeTab}
         >
           <header className="p-4">
-            <Tabs.List className="relative grid grid-cols-2 gap-1 rounded-xl bg-black/10 p-1 text-center font-medium font-sans text-base text-neutral-700">
+            <Tabs.List className="relative grid grid-cols-2 gap-1 rounded-xl bg-black/10 p-1 text-center font-semibold font-sans text-base text-neutral-700">
               <Tabs.Indicator className="tab-indicator absolute top-0 left-0 h-(--active-tab-height) w-(--active-tab-width) translate-x-(--active-tab-left) translate-y-(--active-tab-top) rounded-lg bg-white/20 shadow transition-transform duration-200 ease-in-out" />
               <Tabs.Tab
                 className="tab px-4 py-3 text-trim-both"

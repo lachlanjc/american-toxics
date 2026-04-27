@@ -38,7 +38,7 @@ function ContaminantContext({
           />
         )}
         <span>
-          <strong className="font-medium font-sans text-base">
+          <strong className="font-semibold font-sans text-base">
             {context?.name}
           </strong>
           <small className="ml-1 font-mono text-neutral-600 text-sm">

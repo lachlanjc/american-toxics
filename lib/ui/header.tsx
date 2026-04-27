@@ -71,7 +71,7 @@ export function HeaderBreadcrumb({
 }: React.PropsWithChildren<LinkProps>) {
   return (
     <Link
-      className="mb-1 flex items-end font-medium font-sans text-base text-neutral-600"
+      className="mb-2 flex items-center font-semibold font-display text-base text-neutral-600"
       href={href}
       style={{ viewTransitionName: "header-breadcrumb" }}
     >
@@ -88,7 +88,7 @@ export function HeaderTitle(props: ComponentProps<typeof Title>) {
 export function HeaderSubtitle({ children }: React.PropsWithChildren<object>) {
   return (
     <p
-      className="mt-2 text-pretty text-neutral-600"
+      className="mt-3 text-pretty text-neutral-600"
       style={{ viewTransitionName: "header-subtitle" }}
     >
       {children}

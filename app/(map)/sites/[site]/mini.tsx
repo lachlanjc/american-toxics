@@ -32,7 +32,7 @@ export function MiniSite({
       </div>
       </div>
       <Link
-        className="action-button px-3 py-1.5 text-center font-medium font-display text-base shrink-0"
+        className="action-button px-3 py-1.5 text-center font-semibold font-display text-base shrink-0"
         href={`/sites/${site.id}`}
       >
         Open

@@ -40,7 +40,7 @@ export default function Page() {
                       width={48}
                     />
                     <div>
-                      <strong className="font-medium font-sans text-black text-lg md:text-xl">
+                      <strong className="font-semibold font-sans text-black text-lg md:text-xl">
                         {context.name}
                       </strong>
                       {context.desc && (

@@ -76,7 +76,7 @@ export default function ResultsViewer({
         <HeaderRoot
           actions={
             <Link
-              className="action-button shrink-0 cursor-pointer px-3 py-1.5 font-medium font-sans text-base"
+              className="action-button shrink-0 cursor-pointer px-3 py-1.5 font-semibold font-sans text-base"
               href="/"
             >
               Find Yours

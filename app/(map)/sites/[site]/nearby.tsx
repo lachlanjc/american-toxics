@@ -204,7 +204,7 @@ export async function Nearby({
                 <>
                   <span className="font-sans text-base">
                     {count === 1 ? "A" : count}{" "}
-                    <strong className="font-medium">
+                    <strong className="font-semibold">
                       {count === 1
                         ? category.name
                         : category.namePlural || `${category.name}s`}
@@ -236,7 +236,7 @@ export async function Nearby({
           title={
             <span className="font-sans text-base">
               {nearbySites.length === 1 ? "Another" : nearbySites.length}{" "}
-              <strong className="font-medium">
+              <strong className="font-semibold">
                 {nearbySites.length === 1
                   ? "Superfund site"
                   : "more Superfund sites"}

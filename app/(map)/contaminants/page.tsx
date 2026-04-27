@@ -165,7 +165,7 @@ export default async function ContaminantsPage() {
                         />
                         <div className="self-center">
                           <div className="flex items-center gap-3">
-                            <strong className="font-medium font-sans text-black text-lg md:text-xl">
+                            <strong className="font-semibold font-sans text-black text-lg md:text-xl">
                               {context.name}
                             </strong>
                             <Count

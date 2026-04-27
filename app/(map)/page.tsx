@@ -27,7 +27,7 @@ export default function Page() {
       </HeaderRoot>
       <SearchTabs />
       <hr className="-mx-6 my-6 border-black/20" />
-      <div className="grid w-full grid-cols-2 gap-4 font-medium font-sans text-lg text-neutral-800 leading-[1.125] tracking-tight sm:grid-cols-3">
+      <div className="grid w-full grid-cols-2 gap-4 font-semibold font-sans text-lg text-neutral-800 leading-[1.125] tracking-tight sm:grid-cols-3">
         <Link
           className="action-button flex flex-col items-start gap-3 p-4 pb-3.5"
           href="/npl"
