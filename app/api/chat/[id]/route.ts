@@ -1,5 +1,11 @@
 import { openai } from "@ai-sdk/openai";
-import { streamText } from "ai";
+import {
+  convertToModelMessages,
+  createUIMessageStreamResponse,
+  streamText,
+  toUIMessageStream,
+  type UIMessage,
+} from "ai";
 import fs from "fs";
 import path from "path";
 
@@ -11,7 +17,7 @@ export async function POST(
   { params }: { params: Promise<{ id: string }> }
 ) {
   const { id } = await params;
-  const { messages = [] } = await req.json();
+  const { messages = [] }: { messages?: UIMessage[] } = await req.json();
   // const site = SITES.find((site) => site.id === id);
   let context = "";
   if (process.env.NODE_ENV === "development") {
@@ -53,8 +59,10 @@ The most important rule is, pull information from this context:
 <context>
 ${context}
 </context>`,
-    messages,
+    messages: await convertToModelMessages(messages),
   });
 
-  return result.toDataStreamResponse();
+  return createUIMessageStreamResponse({
+    stream: toUIMessageStream({ stream: result.stream }),
+  });
 }

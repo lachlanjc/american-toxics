@@ -1,6 +1,6 @@
 "use client";
 import { useChat } from "@ai-sdk/react";
-import type { UIMessage } from "@ai-sdk/ui-utils";
+import { DefaultChatTransport, type UIMessage } from "ai";
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
@@ -188,12 +188,11 @@ export function SiteCard({
   const {
     messages,
     setMessages,
-    input,
-    setInput,
-    handleInputChange,
-    handleSubmit,
-    append,
-  } = useChat({ api: `/api/chat/${site.id}` });
+    sendMessage,
+  } = useChat({
+    transport: new DefaultChatTransport({ api: `/api/chat/${site.id}` }),
+  });
+  const [input, setInput] = useState("");
   // Clear AI chat on site change
   useEffect(() => {
     setMessages([]);
@@ -289,7 +288,7 @@ export function SiteCard({
               className="cursor-pointer text-balance border-zinc-300 border-b py-2 text-left text-xs text-zinc-600 transition-opacity last:border-b-0 hover:opacity-80"
               key={q}
               onClick={() => {
-                append({ role: "user", content: q });
+                sendMessage({ text: q });
               }}
               type="button"
             >
@@ -303,13 +302,17 @@ export function SiteCard({
       <form
         className="sticky bottom-[env(safe-area-inset-bottom)] mt-auto w-full pt-2"
         onSubmit={(e) => {
-          handleSubmit(e);
+          e.preventDefault();
+          if (!input.trim()) return;
+
+          sendMessage({ text: input });
+          setInput("");
           scrollRef?.current?.scrollIntoView({ behavior: "smooth" });
         }}
       >
         <input
           className="action-button !bg-white w-full p-2"
-          onChange={handleInputChange}
+          onChange={(event) => setInput(event.target.value)}
           placeholder="Ask Something…"
           ref={ref}
           value={input}
