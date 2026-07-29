@@ -1,9 +1,9 @@
 "use client";
 
-import Link, { type LinkProps } from "next/link";
 // import { usePathname } from "next/navigation";
+import { Drawer } from "@base-ui/react/drawer";
+import Link, { type LinkProps } from "next/link";
 import type { ComponentProps, ReactNode } from "react";
-import { Drawer } from "vaul";
 import SvgChevronRight from "../icons/ChevronRight";
 import { Title } from "./typography";
 
@@ -55,6 +55,7 @@ export function HeaderRoot({
             width="12"
             xmlns="http://www.w3.org/2000/svg"
           >
+            <title>Close</title>
             <path d="M10.4854 1.99998L2.00007 10.4853" />
             <path d="M10.4854 10.4844L2.00007 1.99908" />
           </svg>
@@ -81,11 +82,7 @@ export function HeaderBreadcrumb({
 }
 
 export function HeaderTitle(props: ComponentProps<typeof Title>) {
-  return (
-    <Drawer.Title asChild>
-      <Title {...props} />
-    </Drawer.Title>
-  );
+  return <Drawer.Title render={<Title {...props} />} />;
 }
 
 export function HeaderSubtitle({ children }: React.PropsWithChildren<object>) {
