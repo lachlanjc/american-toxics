@@ -96,36 +96,38 @@ function MainCard({
 }: PropsWithChildren<{ title?: string }>) {
   return (
     <Drawer.Root disablePointerDismissal modal={false} open>
-      <Drawer.Portal>
-        <Drawer.Viewport className="pointer-events-none fixed inset-0 z-10 md:absolute md:inset-0">
-          <Drawer.Popup
-            className={clsx(
-              "pointer-events-auto fixed bottom-0 max-h-[calc(50svb+env(safe-area-inset-bottom))] max-md:right-1 max-md:left-1",
-              "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl"
-            )}
-            initialFocus={false}
-          >
-            <Drawer.Content
-              {...props}
+      <Drawer.VirtualKeyboardProvider>
+        <Drawer.Portal>
+          <Drawer.Viewport className="pointer-events-none fixed inset-0 z-10 md:absolute md:inset-0">
+            <Drawer.Popup
               className={clsx(
-                "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
-                "overflow-y-auto! touch-auto! overflow-x-clip outline-none [scrollbar-width:thin]",
-                "@container flex max-h-[calc(50svb+env(safe-area-inset-bottom))] flex-col overscroll-contain px-4 pt-4 pb-[calc(1rem+env(safe-area-inset-bottom))] md:max-h-[90vh] md:p-6",
-                "select-auto! font-mono text-sm leading-relaxed"
+                "pointer-events-auto fixed bottom-0 max-h-[calc(50svb+env(safe-area-inset-bottom))] max-md:right-1 max-md:left-1",
+                "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl"
               )}
+              initialFocus={false}
             >
-              <div data-base-ui-swipe-ignore>
-                {title && (
-                  <Drawer.Title className="text-balance font-bold font-sans text-3xl">
-                    {title}
-                  </Drawer.Title>
+              <Drawer.Content
+                {...props}
+                className={clsx(
+                  "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
+                  "overflow-y-auto! touch-auto! overflow-x-clip outline-none [scrollbar-width:thin]",
+                  "@container flex max-h-[calc(50svb+env(safe-area-inset-bottom))] flex-col overscroll-contain px-4 pt-4 pb-[calc(1rem+env(safe-area-inset-bottom))] md:max-h-[90vh] md:p-6",
+                  "select-auto! font-mono text-sm leading-relaxed"
                 )}
-                {children}
-              </div>
-            </Drawer.Content>
-          </Drawer.Popup>
-        </Drawer.Viewport>
-      </Drawer.Portal>
+              >
+                <div data-base-ui-swipe-ignore>
+                  {title && (
+                    <Drawer.Title className="text-balance font-bold font-sans text-3xl">
+                      {title}
+                    </Drawer.Title>
+                  )}
+                  {children}
+                </div>
+              </Drawer.Content>
+            </Drawer.Popup>
+          </Drawer.Viewport>
+        </Drawer.Portal>
+      </Drawer.VirtualKeyboardProvider>
     </Drawer.Root>
   );
 }
