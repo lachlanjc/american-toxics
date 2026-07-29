@@ -7,17 +7,10 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import "mapbox-gl/dist/mapbox-gl.css";
 import clsx from "clsx";
 import { useParams, usePathname, useRouter } from "next/navigation";
-import MapComponent, {
-  GeolocateControl,
-  Layer,
-  type LayerProps,
-  type MapMouseEvent,
-  MapProvider,
-  type MapRef,
-  NavigationControl,
-  Source,
-} from "react-map-gl/mapbox";
-import { nplStatusHexColors, type SiteNPLStatus } from "@/lib/data/site";
+import MapComponent, { GeolocateControl, Layer, MapProvider, NavigationControl, Source } from 'react-map-gl/mapbox';
+import type { LayerProps, MapMouseEvent, MapRef } from 'react-map-gl/mapbox';
+import { nplStatusHexColors } from '@/lib/data/site';
+import type { SiteNPLStatus } from '@/lib/data/site';
 
 const circleColorExpression: ExpressionSpecification = [
   "match",
@@ -44,9 +37,7 @@ const defaultRadiusAtLowZoom = 4.5;
 const selectedRadiusAtHighZoom = 18;
 const defaultRadiusAtHighZoom = 11;
 
-const buildOpacityExpression = (
-  status?: SiteNPLStatus
-): number | ExpressionSpecification =>
+const buildOpacityExpression = (status?: SiteNPLStatus): number | ExpressionSpecification =>
   status
     ? ([
         "case",
@@ -62,30 +53,14 @@ const buildRadiusExpression = (selectedId: string): ExpressionSpecification =>
     ["linear"],
     ["zoom"],
     lowZoomLevel,
-    [
-      "case",
-      ["==", ["get", "id"], selectedId],
-      selectedRadiusAtLowZoom,
-      defaultRadiusAtLowZoom,
-    ],
+    ["case", ["==", ["get", "id"], selectedId], selectedRadiusAtLowZoom, defaultRadiusAtLowZoom],
     highZoomLevel,
-    [
-      "case",
-      ["==", ["get", "id"], selectedId],
-      selectedRadiusAtHighZoom,
-      defaultRadiusAtHighZoom,
-    ],
+    ["case", ["==", ["get", "id"], selectedId], selectedRadiusAtHighZoom, defaultRadiusAtHighZoom],
   ] satisfies ExpressionSpecification;
 
-type CirclePaint = NonNullable<
-  Extract<LayerProps, { type: "circle" }>["paint"]
->;
+type CirclePaint = NonNullable<Extract<LayerProps, { type: "circle" }>["paint"]>;
 
-function MainCard({
-  title,
-  children,
-  ...props
-}: PropsWithChildren<{ title?: string }>) {
+function MainCard({ title, children, ...props }: PropsWithChildren<{ title?: string }>) {
   return (
     <Drawer.Root disablePointerDismissal modal={false} open>
       <Drawer.VirtualKeyboardProvider>
@@ -94,7 +69,7 @@ function MainCard({
             <Drawer.Popup
               className={clsx(
                 "pointer-events-auto fixed bottom-[var(--drawer-keyboard-inset,0px)] max-h-[calc(50svb+env(safe-area-inset-bottom))] max-md:right-1 max-md:left-1",
-                "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl"
+                "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl",
               )}
               initialFocus={false}
             >
@@ -104,7 +79,7 @@ function MainCard({
                   "main-card rounded-t-2xl backdrop-blur-lg backdrop-saturate-150 md:rounded-2xl",
                   "overflow-y-auto! touch-auto! overflow-x-clip outline-none [scrollbar-width:thin]",
                   "@container flex max-h-[calc(50svb+env(safe-area-inset-bottom))] flex-col overscroll-contain px-4 pt-4 pb-[calc(1rem+env(safe-area-inset-bottom))] md:max-h-[90vh] md:p-6",
-                  "select-auto! font-mono text-sm leading-relaxed"
+                  "select-auto! font-mono text-sm leading-relaxed",
                 )}
               >
                 <div data-base-ui-swipe-ignore>
@@ -125,28 +100,24 @@ function MainCard({
 }
 
 const initialViewState = {
+  bearing: 0,
   latitude: 39.8283,
   longitude: -98.5795,
-  zoom: 4,
-  bearing: 0,
   pitch: 20,
+  zoom: 4,
 };
 
 const siteLayerId = "site-points";
 
-export default function MapLayoutClient({
-  children,
-}: PropsWithChildren<object>) {
+export default function MapLayoutClient({ children }: PropsWithChildren<object>) {
   const router = useRouter();
   const pathname = usePathname();
   const { site: siteId, status: nplStatus } = useParams();
 
   const mapRef = useRef<MapRef | null>(null);
-  const [cursor, setCursor] = useState<string | undefined>(undefined);
-  const [pendingSelectedId, setPendingSelectedId] = useState<string | null>(
-    null
-  );
-  const lastNplStatusRef = useRef<SiteNPLStatus | undefined>(undefined);
+  const [cursor, setCursor] = useState<string | undefined>();
+  const [pendingSelectedId, setPendingSelectedId] = useState<string | null>(null);
+  const lastNplStatusRef = useRef<SiteNPLStatus | undefined>();
 
   useEffect(() => {
     // @ts-expect-error global
@@ -178,8 +149,7 @@ export default function MapLayoutClient({
   }, [activeNplStatus, pathname]);
 
   const displayedNplStatus =
-    activeNplStatus ??
-    (pathname.startsWith("/npl/") ? lastNplStatusRef.current : undefined);
+    activeNplStatus ?? (pathname.startsWith("/npl/") ? lastNplStatusRef.current : undefined);
 
   useEffect(() => {
     if (!pendingSelectedId) {
@@ -201,9 +171,9 @@ export default function MapLayoutClient({
 
     const layer: LayerProps = {
       id: siteLayerId,
-      type: "circle",
-      source: "sites",
       paint,
+      source: "sites",
+      type: "circle",
     } satisfies LayerProps;
 
     return layer;
@@ -211,7 +181,7 @@ export default function MapLayoutClient({
 
   const handleMapClick = (event: MapMouseEvent) => {
     const feature = event.features?.[0];
-    const featureId = feature?.id ?? feature?.properties?.id;
+    const featureId = feature?.properties?.id;
     if (typeof featureId === "string") {
       setPendingSelectedId(featureId);
       router.push(`/sites/${featureId}`);
@@ -226,11 +196,7 @@ export default function MapLayoutClient({
   return (
     <div className="h-full w-full">
       <MapProvider>
-        <style>
-          {
-            ".mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }"
-          }
-        </style>
+        <style>{".mapboxgl-canvas, .mapboxgl-marker { position: absolute !important; }"}</style>
         <MapComponent
           cursor={cursor}
           initialViewState={initialViewState}
@@ -241,18 +207,14 @@ export default function MapLayoutClient({
           onMouseMove={handleMouseMove}
           ref={mapRef}
           style={{
-            width: "100%",
             height: "100vh",
-            position: "absolute",
             inset: 0,
+            position: "absolute",
+            width: "100%",
           }}
         >
           <GeolocateControl />
-          <NavigationControl
-            position="top-right"
-            showCompass={false}
-            visualizePitch={false}
-          />
+          <NavigationControl position="top-right" showCompass={false} visualizePitch={false} />
           <Source data="/sites.geojson" id="sites" type="geojson">
             <Layer {...siteCircleLayer} />
           </Source>
