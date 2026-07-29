@@ -101,7 +101,7 @@ function MainCard({
           <Drawer.Viewport className="pointer-events-none fixed inset-0 z-10 md:absolute md:inset-0">
             <Drawer.Popup
               className={clsx(
-                "pointer-events-auto fixed bottom-0 max-h-[calc(50svb+env(safe-area-inset-bottom))] max-md:right-1 max-md:left-1",
+                "pointer-events-auto fixed bottom-[var(--drawer-keyboard-inset,0px)] max-h-[calc(50svb+env(safe-area-inset-bottom))] max-md:right-1 max-md:left-1",
                 "md:absolute md:top-8 md:bottom-auto md:left-8 md:w-full md:max-w-xl"
               )}
               initialFocus={false}
