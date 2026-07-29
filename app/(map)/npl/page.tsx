@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { allSites } from "@/lib/data/api";
 import { nplStatuses } from "@/lib/data/site";
+import { supabase } from "@/lib/supabaseClient";
 import { Count } from "@/lib/ui/count";
 import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 
@@ -11,7 +11,12 @@ export const metadata: Metadata = {
     "Explore the most hazardous waste sites in the U.S. according to the EPA’s National Priorities List (NPL) status.",
 };
 
-export default function Page() {
+export default async function Page() {
+  const { data, error } = await supabase.from("sites").select("npl");
+  if (error || !data) {
+    throw new Error("Unable to load NPL status counts");
+  }
+  const grouped = Object.groupBy(data, (site) => site.npl ?? "unknown");
   return (
     <>
       <HeaderRoot>
@@ -24,7 +29,7 @@ export default function Page() {
       <ul className="-mb-1 flex flex-col gap-8 text-neutral-500">
         {Object.keys(nplStatuses).map((key) => {
           const status = nplStatuses[key];
-          const count = allSites.filter((site) => site.npl === key).length;
+          const count = grouped[key]?.length ?? 0;
           return (
             <li
               className="group flex w-full items-center gap-6 py-2 md:max-w-md"

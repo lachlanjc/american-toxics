@@ -7,7 +7,7 @@ import { HeaderRoot, HeaderSubtitle, HeaderTitle } from "@/lib/ui/header";
 import type { Database } from "@/supabase/types";
 import { MiniSite } from "../../sites/[site]/mini";
 import { SiteList } from "../../sites/list";
-import { MapZoom } from "../../zoom";
+import { ScoreRadiusMapOverlay } from "../results/ScoreRadiusMapOverlay";
 import { ShareButton } from "./share";
 
 export const dynamic = "auto";
@@ -18,7 +18,7 @@ type PartialSite = Pick<
   "id" | "name" | "city" | "stateCode" | "category" | "npl" | "lat" | "lng"
 >;
 
-const pluralize = (count: number) => `${count} site${count === 1 ? "" : "s"}`;
+const pluralize = (count: number) => `${count} Site${count === 1 ? "" : "s"}`;
 
 type CollapsibleSiteListProps = {
   title: string;
@@ -68,8 +68,7 @@ export default async function ScorePage({
   if (scoreError || !score || !siteNearestId) {
     return <p>Score not found.</p>;
   }
-  const { lat, lng, addressFormatted, siteNearestMiles } =
-    score as SupabaseScore;
+  const { addressFormatted, siteNearestMiles } = score as SupabaseScore;
   let { sites1, sites5, sites10, sites20 } = score as SupabaseScore;
   sites1 ??= [];
   sites5 ??= [];
@@ -89,15 +88,14 @@ export default async function ScorePage({
   const siteNearest = siteMap.get(siteNearestId);
 
   const buckets = [
-    { title: "within 2 miles", ids: sites1 },
-    { title: "within 5 miles", ids: sites5 },
-    { title: "within 10 miles", ids: sites10 },
-    { title: "within 20 miles", ids: sites20 },
+    { title: "Within 2 Miles", ids: sites1 },
+    { title: "Within 5 Miles", ids: sites5 },
+    { title: "Within 10 Miles", ids: sites10 },
+    { title: "Within 20 Miles", ids: sites20 },
   ];
 
   return (
     <>
-      {lat && lng && <MapZoom center={[lat, lng]} />}
       <HeaderRoot closeLink="/scoreboard/new" showClose>
         <HeaderTitle>
           That’s{" "}
@@ -121,7 +119,11 @@ export default async function ScorePage({
         </HeaderSubtitle>
       </HeaderRoot>
       {siteNearest?.lat && siteNearest?.lng && (
-        <MapZoom center={[siteNearest.lat, siteNearest.lng]} />
+        <ScoreRadiusMapOverlay
+          center={[siteNearest.lat, siteNearest.lng]}
+          radiusMiles={siteNearestMiles ?? 0}
+          status={siteNearest.npl}
+        />
       )}
       {siteNearest && <MiniSite site={siteNearest} />}
       {buckets.map(({ title, ids }) => (
@@ -140,7 +142,7 @@ export default async function ScorePage({
           href={`/scoreboard/results?id=${id}`}
         >
           <SvgTrophy className="text-neutral-300" height={24} width={24} />
-          See your ranking
+          See Your Ranking
         </Link>
         {/*
           <Link

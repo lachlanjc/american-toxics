@@ -186,7 +186,7 @@ export function SiteCard({
   const scrollRef = useRef<HTMLDivElement>(null);
   const {
     messages,
-    setData,
+    setMessages,
     input,
     setInput,
     handleInputChange,
@@ -195,8 +195,9 @@ export function SiteCard({
   } = useChat({ api: `/api/chat/${site.id}` });
   // Clear AI chat on site change
   useEffect(() => {
-    setData(undefined);
-  }, [site.id, setData]);
+    setMessages([]);
+    setInput("");
+  }, [setInput, setMessages, site.id]);
   const suggestions = questions.filter(
     (q) =>
       !messages.some(
@@ -279,7 +280,7 @@ export function SiteCard({
 
       {suggestions.length > 0 && (
         <div className="flex w-full flex-col">
-          <Heading className="mb-1">Suggested questions</Heading>
+          <Heading className="mb-1">Suggested Questions</Heading>
           {suggestions.map((q) => (
             <button
               className="cursor-pointer text-balance border-zinc-300 border-b py-2 text-left text-xs text-zinc-600 transition-opacity last:border-b-0 hover:opacity-80"
@@ -306,7 +307,7 @@ export function SiteCard({
         <input
           className="action-button !bg-white w-full p-2"
           onChange={handleInputChange}
-          placeholder="Ask something…"
+          placeholder="Ask Something…"
           ref={ref}
           value={input}
         />

@@ -19,7 +19,7 @@ export default async function CategoriesPage() {
     .not("category", "is", null);
   const categoryKeys = Object.keys(categories)
     .filter((key) => key !== "unknown")
-    .sort((a, b) => {
+    .toSorted((a, b) => {
       const aCount = data?.find((record) => record.category === a)?.total ?? 0;
       const bCount = data?.find((record) => record.category === b)?.total ?? 0;
       return bCount - aCount;

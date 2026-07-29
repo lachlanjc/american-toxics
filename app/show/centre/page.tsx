@@ -1,8 +1,9 @@
 "use client";
+import { Tabs } from "@base-ui/react/tabs";
 import clsx from "clsx";
 import Image, { type ImageProps } from "next/image";
 import Link from "next/link";
-import { Heading, Tab, TabList, TabPanel, Tabs } from "react-aria-components";
+import { useState } from "react";
 import Webcam from "react-webcam";
 import {
   contaminantCategories,
@@ -61,25 +62,25 @@ const landmarks: Array<ItemProps> = [
 
 function LandmarkTab({ i, color, id, name }: ItemProps & { i: number }) {
   return (
-    <Tab
+    <Tabs.Tab
       className={clsx(
+        "tab",
         "flex w-full items-center gap-6 text-left",
         "py-4 pr-6 pl-4 md:pl-6",
-        "border-white/20 border-t",
-        "cursor-pointer snap-start overflow-x-hidden",
-        "transition-colors hover:bg-white/10 data-[selected]:bg-white/20"
+        "rounded-0 border-white/20 border-t text-white",
+        "cursor-pointer snap-start overflow-x-hidden"
       )}
-      id={id}
+      value={id}
     >
-      <Heading className="flex items-center text-balance font-bold font-sans text-2xl/6">
+      <h3 className="flex items-center text-balance font-bold font-sans text-2xl/6">
         <span
           className={`mr-1 inline-block h-[1.375em] w-[1.375em] shrink-0 origin-left scale-75 rounded-full text-center text-white ${color}`}
         >
           {i}
         </span>
         {name}
-      </Heading>
-    </Tab>
+      </h3>
+    </Tabs.Tab>
   );
 }
 
@@ -92,7 +93,7 @@ function LandmarkTabPanel({
   imgCredit,
 }: ItemProps) {
   return (
-    <TabPanel
+    <Tabs.Panel
       className={clsx(
         "details-content",
         "p-4 pr-6 md:pl-6",
@@ -100,7 +101,8 @@ function LandmarkTabPanel({
         "overflow-y-auto"
         // "grid grid-cols-[2fr_1fr] gap-4",
       )}
-      id={id}
+      keepMounted
+      value={id}
     >
       <div>
         <p className="mb-6 max-w-2xl text-pretty font-mono">{desc}</p>
@@ -125,25 +127,33 @@ function LandmarkTabPanel({
           <figcaption>Photo via {imgCredit}</figcaption>
         </figure>
       )}
-    </TabPanel>
+    </Tabs.Panel>
   );
 }
 
 function Landmarks() {
+  const [activeLandmark, setActiveLandmark] = useState(landmarks[0]?.id ?? "");
+
   return (
-    <Tabs
+    <Tabs.Root
       className="grid max-h-full grid-cols-[1fr_2fr] border-white/20 border-t"
+      onValueChange={(value) => setActiveLandmark(String(value))}
       orientation="vertical"
+      value={activeLandmark}
     >
-      <TabList aria-label="Landmarks" className="border-white/20 border-r">
+      <Tabs.List
+        aria-label="Landmarks"
+        className="relative border-white/20 border-r"
+      >
+        <Tabs.Indicator className="tab-indicator absolute top-0 left-0 h-(--active-tab-height) w-(--active-tab-width) translate-x-(--active-tab-left) translate-y-(--active-tab-top) rounded-lg bg-white/20 shadow transition-transform duration-200 ease-in-out" />
         {landmarks.map((item, i) => (
           <LandmarkTab i={i + 1} key={item.id} {...item} />
         ))}
-      </TabList>
+      </Tabs.List>
       {landmarks.map((item) => (
         <LandmarkTabPanel key={item.id} {...item} />
       ))}
-    </Tabs>
+    </Tabs.Root>
   );
 }
 
@@ -201,6 +211,8 @@ function Mobile() {
 }
 
 export default function Page() {
+  const [activeTab, setActiveTab] = useState("landmarks");
+
   return (
     <main data-appearance="dark">
       <Webcam
@@ -214,29 +226,34 @@ export default function Page() {
           maxHeight: "calc(100svb - 64px)",
         }}
       >
-        <Tabs className="w-full">
+        <Tabs.Root
+          className="w-full"
+          onValueChange={(value) => setActiveTab(String(value))}
+          value={activeTab}
+        >
           <header className="p-4">
-            <TabList className="grid grid-cols-2 gap-1 rounded-xl bg-black/10 p-1 text-center font-medium font-sans text-base text-neutral-700">
-              <Tab
-                className="active-tab px-4 py-3 text-trim-both"
-                id="landmarks"
+            <Tabs.List className="relative grid grid-cols-2 gap-1 rounded-xl bg-black/10 p-1 text-center font-medium font-sans text-base text-neutral-700">
+              <Tabs.Indicator className="tab-indicator absolute top-0 left-0 h-(--active-tab-height) w-(--active-tab-width) translate-x-(--active-tab-left) translate-y-(--active-tab-top) rounded-lg bg-white/20 shadow transition-transform duration-200 ease-in-out" />
+              <Tabs.Tab
+                className="tab px-4 py-3 text-trim-both"
+                value="landmarks"
               >
                 Map: Landmarks
-              </Tab>
-              <Tab className="active-tab px-4 py-3 text-trim-both" id="mobile">
+              </Tabs.Tab>
+              <Tabs.Tab className="tab px-4 py-3 text-trim-both" value="mobile">
                 Mobile: Types of Contamination
-              </Tab>
-            </TabList>
+              </Tabs.Tab>
+            </Tabs.List>
           </header>
 
-          <TabPanel className="" id="landmarks">
+          <Tabs.Panel keepMounted value="landmarks">
             <Landmarks />
-          </TabPanel>
+          </Tabs.Panel>
 
-          <TabPanel className="p-4 pt-0" id="mobile">
+          <Tabs.Panel className="p-4 pt-0" keepMounted value="mobile">
             <Mobile />
-          </TabPanel>
-        </Tabs>
+          </Tabs.Panel>
+        </Tabs.Root>
       </article>
     </main>
   );

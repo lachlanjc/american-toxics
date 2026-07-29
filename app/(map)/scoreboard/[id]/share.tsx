@@ -22,7 +22,7 @@ export function ShareButton({ url }: { url: string }) {
       type="button"
     >
       <SvgShare className="text-neutral-600" height={24} width={24} />
-      {isShareAvailable ? "Share link" : "Copy link"}
+      {isShareAvailable ? "Share Link" : "Copy Link"}
     </button>
   );
 }

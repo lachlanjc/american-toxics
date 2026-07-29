@@ -59,14 +59,14 @@ export default function Page() {
       <List
         states={STATES.filter(
           (state) => !nonStates.includes(state.abbrev)
-        ).sort((a, b) => b.count - a.count)}
+        ).toSorted((a, b) => b.count - a.count)}
       />
       <hr className="-mx-6 my-6 border-black/20" />
       <Heading>Territories</Heading>
       <List
-        states={STATES.filter((state) => nonStates.includes(state.abbrev)).sort(
-          (a, b) => b.count - a.count
-        )}
+        states={STATES.filter((state) =>
+          nonStates.includes(state.abbrev)
+        ).toSorted((a, b) => b.count - a.count)}
       />
     </>
   );

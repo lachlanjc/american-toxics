@@ -52,10 +52,11 @@ export default async function Page({
   }
   // Prepare sections grouped by NPL status
   const sections = Object.keys(nplStatuses)
+    .toSorted()
     .map((statusKey) => {
       const sectionSites = sites
         .filter((site) => site.npl === statusKey)
-        .sort((a, b) => a.name.localeCompare(b.name));
+        .toSorted((a, b) => a.name.localeCompare(b.name));
       return {
         key: statusKey,
         label: nplStatuses[statusKey].label,

@@ -41,7 +41,7 @@ export default async function Page({
   const { status: statusKey } = await params;
   const status = nplStatuses[statusKey];
   if (!status) {
-    return notFound();
+    notFound();
   }
   const { data: sites, error } = await supabase
     .from("sites")
@@ -50,13 +50,17 @@ export default async function Page({
   if (error) {
     console.error("Error fetching sites for NPL status:", error);
   }
+  const groupedByState = Object.groupBy(sites ?? [], (site) => site.stateCode);
   // Prepare sections grouped by state
-  const sections = STATES.map((state) => {
-    const sectionSites = (sites || [])
-      .filter((site) => site.stateCode === state.abbrev)
-      .sort((a, b) => a.name.localeCompare(b.name));
-    return { key: state.abbrev, label: state.name, sites: sectionSites };
-  }).filter((section) => section.sites.length > 0);
+  const sections = STATES.toSorted((a, b) => a.name.localeCompare(b.name, "en"))
+    .map((state) => {
+      const sectionSites =
+        groupedByState[state.abbrev]?.toSorted((a, b) =>
+          a.name.localeCompare(b.name)
+        ) ?? [];
+      return { key: state.abbrev, label: state.name, sites: sectionSites };
+    })
+    .filter((section) => section.sites.length > 0);
 
   return (
     <>

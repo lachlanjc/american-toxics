@@ -43,7 +43,7 @@ export default async function ContaminantPage({
     .single();
   if (error || !contaminant) {
     console.error("Error fetching contaminant", error);
-    return notFound();
+    notFound();
   }
 
   const { name, summary, siteCount, epaPdfUrl, wikipediaUrl } = contaminant;

@@ -30,14 +30,14 @@ export default async function ResultsPage() {
   if (siteError || !siteRecords) {
     throw new Error("Error fetching site details");
   }
-  const siteMap = new Map(siteRecords.map((s) => [s.id, s]));
+  const siteById = Object.groupBy(siteRecords, (record) => record.id);
 
   // Construct result items
   const results: ResultItem[] = scores.map((s) => ({
     ...s,
     nearestMiles: s.siteNearestMiles ?? 0,
     sites10Count: s.sites10?.length ?? 0,
-    nearestSite: siteMap.get(s.siteNearest!) as SiteRow,
+    nearestSite: siteById[s.siteNearest!]?.[0] as SiteRow,
   }));
 
   return <ResultsViewer initialResults={results} />;
