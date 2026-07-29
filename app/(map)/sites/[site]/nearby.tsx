@@ -188,7 +188,7 @@ export async function Nearby({
 
   return (
     <WellRoot className="flex flex-col gap-y-1.5">
-      <WellTitle className="mb-1.5">Within 1 mile</WellTitle>
+      <WellTitle className="mb-1.5">Within 1 Mile</WellTitle>
       {nearbyFeatures.length > 0 &&
         nearbyFeatureGroups.map((group) => {
           const count = group.features.length;

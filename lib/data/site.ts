@@ -23,6 +23,14 @@ export type SupabaseSite = Database["public"]["Tables"]["sites"]["Row"];
 
 export type SiteNPLStatus = keyof typeof nplStatuses;
 
+export const nplStatusHexColors: Record<SiteNPLStatus, string> = {
+  proposed: "#fe9a00",
+  listed: "#ff4921",
+  cleaning: "#e12afb",
+  cleaned: "#00a6f4",
+  verified: "#00bba7",
+};
+
 export const nplStatuses: Record<
   string,
   { label: string; field: keyof Site; color: string; desc: string }

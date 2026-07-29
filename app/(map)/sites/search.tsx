@@ -48,7 +48,7 @@ export function Search({ children }: React.PropsWithChildren<object>) {
           className="w-full p-2 outline-0"
           disabled={isLoading}
           onChange={handleSearch}
-          placeholder="Search by county, city, state, or site name"
+          placeholder="Search by County, City, State, or Site Name"
           ref={ref}
           type="search"
           value={query}
