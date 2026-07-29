@@ -1,37 +1,44 @@
-import Fuse, { type IFuseOptions } from "fuse.js";
-import { useState, useTransition } from "react";
+import Fuse from 'fuse.js';
+import type { IFuseOptions } from 'fuse.js';
+import { useCallback, useMemo, useState, useTransition } from 'react';
+import type { ChangeEvent } from 'react';
 
-export function useFuse<T>({
-  data,
-  options,
-}: {
-  data: Array<T>;
-  options: IFuseOptions<T>;
-}) {
+export function useFuse<T>({ data, options }: { data: T[]; options: IFuseOptions<T> }) {
   const [isPending, startTransition] = useTransition();
   const [query, setQuery] = useState("");
-  const [results, setResults] = useState<Array<T>>([]);
+  const [results, setResults] = useState<T[]>([]);
 
-  const fuseOptions = {
-    threshold: 0.2,
-    ...options,
-  };
+  const fuseOptions = useMemo(
+    () => ({
+      threshold: 0.2,
+      ...options,
+    }),
+    [options],
+  );
 
-  const fuse = new Fuse(data, fuseOptions);
+  const fuse = useMemo(() => new Fuse(data, fuseOptions), [data, fuseOptions]);
 
-  const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const newQuery = e.target.value;
-    setQuery(newQuery);
+  const handleSearch = useCallback(
+    (event: ChangeEvent<HTMLInputElement>) => {
+      const newQuery = event.target.value;
+      setQuery(newQuery);
 
-    startTransition(() => {
-      if (newQuery.length > 1) {
-        const newResults = fuse.search(newQuery).map((result) => result.item);
-        setResults(newResults ?? []);
-      }
-    });
-  };
+      startTransition(() => {
+        if (newQuery.length <= 1) {
+          setResults([]);
+          return;
+        }
 
-  const reset = () => setQuery("");
+        setResults(fuse.search(newQuery).map((result) => result.item));
+      });
+    },
+    [fuse],
+  );
 
-  return { results, handleSearch, query, reset, isPending };
+  const reset = useCallback(() => {
+    setQuery("");
+    setResults([]);
+  }, []);
+
+  return { handleSearch, isPending, query, reset, results };
 }

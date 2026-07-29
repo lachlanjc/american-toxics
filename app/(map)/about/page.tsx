@@ -4,17 +4,17 @@ import { HeaderRoot, HeaderTitle } from "@/lib/ui/header";
 import { Heading } from "@/lib/ui/typography";
 
 export default async function About() {
-  // Fetch total number of Superfund sites
-  const { count: siteCount, error: countError } = await supabase
-    .from("sites")
-    .select("*", { head: true, count: "exact" });
+  const [siteCountResult, sitesWithAcresResult] = await Promise.all([
+    supabase.from("sites").select("*", { count: "exact", head: true }),
+    supabase.from("sites").select("acres"),
+  ]);
+
+  const { count: siteCount, error: countError } = siteCountResult;
+  const { data: sitesWithAcres, error: acresError } = sitesWithAcresResult;
+
   if (countError) {
     throw new Error("Error fetching site count");
   }
-  // Fetch acres for all sites to compute total acreage
-  const { data: sitesWithAcres, error: acresError } = await supabase
-    .from("sites")
-    .select("acres");
   if (acresError) {
     console.error("Error fetching site acreage", acresError);
   }
@@ -34,42 +34,38 @@ export default async function About() {
       key="article"
     >
       <p>
-        Thousands of contaminated sites exist nationally due to hazardous waste
-        being dumped, left out in the open, or otherwise improperly managed.
-        These sites include manufacturing facilities, processing plants,
-        landfills and mining sites.
+        Thousands of contaminated sites exist nationally due to hazardous waste being dumped, left
+        out in the open, or otherwise improperly managed. These sites include manufacturing
+        facilities, processing plants, landfills and mining sites.
       </p>
       <p>
         In the late 1970s, toxic waste dumps such as{" "}
         <Link href="/sites/NYD000606947">Love&nbsp;Canal</Link> and{" "}
-        <Link href="/sites/KYD980500961">Valley of the Drums</Link> received
-        national attention when the public learned about the risks to human
-        health and the environment posed by contaminated sites.
+        <Link href="/sites/KYD980500961">Valley of the Drums</Link> received national attention when
+        the public learned about the risks to human health and the environment posed by contaminated
+        sites.
       </p>
       <p>
         In response, Congress established the{" "}
         <a href="https://www.epa.gov/superfund/superfund-cercla-overview">
-          Comprehensive Environmental Response, Compensation and Liability Act
-          (CERCLA)
+          Comprehensive Environmental Response, Compensation and Liability Act (CERCLA)
         </a>{" "}
         in 1980.
       </p>
       <p>
-        CERCLA is informally called Superfund. It allows EPA to clean up
-        contaminated sites. It also forces the parties responsible for the
-        contamination to either perform cleanups or reimburse the government for
-        EPA-led cleanup work.
+        CERCLA is informally called Superfund. It allows EPA to clean up contaminated sites. It also
+        forces the parties responsible for the contamination to either perform cleanups or reimburse
+        the government for EPA-led cleanup work.
       </p>
       <p>
-        When there is no viable responsible party, Superfund gives EPA the funds
-        and authority to clean up contaminated sites.
+        When there is no viable responsible party, Superfund gives EPA the funds and authority to
+        clean up contaminated sites.
       </p>
       <p>Superfund’s goals are to:</p>
       <ul className="">
         <li>
           <a href="https://www.epa.gov/superfund/superfund-cleanup-process">
-            Protect human health and the environment by cleaning up contaminated
-            sites
+            Protect human health and the environment by cleaning up contaminated sites
           </a>
           ;
         </li>
@@ -110,9 +106,7 @@ export default async function About() {
         <dt className="md:-ml-1 font-sans text-7xl text-trim-both leading-none tracking-tighter">
           {siteCount?.toLocaleString()}
         </dt>
-        <dd className="mt-4 mb-8 block text-neutral-600 text-sm uppercase">
-          Total sites
-        </dd>
+        <dd className="mt-4 mb-8 block text-neutral-600 text-sm uppercase">Total sites</dd>
         <dt className="md:-ml-1 font-sans text-7xl text-trim-both leading-none tracking-tighter">
           {totalSqMiles.toLocaleString()}
         </dt>
@@ -134,17 +128,14 @@ export default async function About() {
     >
       <Heading>About This Site</Heading>
       <p>
-        <a href="https://lachlanjc.com">Lachlan Campbell</a> made this website.
-        It’s{" "}
+        <a href="https://lachlanjc.com">Lachlan Campbell</a> made this website. It’s{" "}
         <a href="https://github.com/lachlanjc/american-toxics">open source</a>.
       </p>
       <p>
-        It scrapes content off U.S. EPA’s Superfund website, and generates
-        accessible summaries of sites and real-time answers to questions based
-        on that material. The summaries are generated using{" "}
-        <a href="https://openai.com">OpenAI</a>’s GPT-4.1 model. The site is
-        built using <a href="https://nextjs.org">Next.js</a> and{" "}
-        <a href="https://supabase.com">Supabase</a>.
+        It scrapes content off U.S. EPA’s Superfund website, and generates accessible summaries of
+        sites and real-time answers to questions based on that material. The summaries are generated
+        using <a href="https://openai.com">OpenAI</a>’s GPT-4.1 model. The site is built using{" "}
+        <a href="https://nextjs.org">Next.js</a> and <a href="https://supabase.com">Supabase</a>.
       </p>
     </section>,
   ];

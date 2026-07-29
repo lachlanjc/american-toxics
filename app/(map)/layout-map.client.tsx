@@ -115,9 +115,9 @@ export default function MapLayoutClient({ children }: PropsWithChildren<object>)
   const { site: siteId, status: nplStatus } = useParams();
 
   const mapRef = useRef<MapRef | null>(null);
-  const [cursor, setCursor] = useState<string | undefined>();
+  const [cursor, setCursor] = useState<string | undefined>(undefined);
   const [pendingSelectedId, setPendingSelectedId] = useState<string | null>(null);
-  const lastNplStatusRef = useRef<SiteNPLStatus | undefined>();
+  const lastNplStatusRef = useRef<SiteNPLStatus | undefined>(undefined);
 
   useEffect(() => {
     // @ts-expect-error global

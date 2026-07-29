@@ -18,21 +18,24 @@ export const metadata: Metadata = {
 };
 
 export default async function ContaminantsPage() {
-  // Fetch all contaminants
-  const { data: allContaminants, error: contamError } = await supabase
-    .from("contaminants")
-    .select("id, name, contexts, siteCount, summary")
-    .not("contexts", "is", null);
+  const [contaminantsResult, sitesResult] = await Promise.all([
+    supabase
+      .from("contaminants")
+      .select("id, name, contexts, siteCount, summary")
+      .not("contexts", "is", null),
+    supabase
+      .from("sites")
+      .select("id, name, contaminants")
+      .not("contaminants", "is", null),
+  ]);
+
+  const { data: allContaminants, error: contamError } = contaminantsResult;
+  const { data: siteRows, error: siteError } = sitesResult;
+
   if (contamError) {
     console.error("Error fetching contaminants", contamError);
     throw new Error("Failed to load contaminants");
   }
-
-  // Fetch all sites’ contaminants
-  const { data: siteRows, error: siteError } = await supabase
-    .from("sites")
-    .select("id, name, contaminants")
-    .not("contaminants", "is", null);
   if (siteError) {
     console.error("Error fetching sites", siteError);
     throw new Error("Failed to load sites");
